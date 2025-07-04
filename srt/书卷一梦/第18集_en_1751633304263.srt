@@ -1,0 +1,2935 @@
+1
+00:00:00,000 --> 00:00:02,340
+rails
+
+2
+00:00:02,440 --> 00:00:06,140
+Friendship
+
+3
+00:00:08,820 --> 00:00:11,020
+jar
+
+4
+00:00:11,860 --> 00:00:17,980
+Tend room
+
+5
+00:00:18,120 --> 00:00:21,700
+sleep
+
+6
+00:00:21,700 --> 00:00:23,980
+Tend room
+
+7
+00:00:24,860 --> 00:00:25,860
+Tend room
+
+8
+00:00:26,480 --> 00:00:29,980
+Brothers
+
+9
+00:01:00,000 --> 00:01:01,000
+I'm sorry.
+
+10
+00:01:01,000 --> 00:01:02,000
+I'm sorry.
+
+11
+00:01:02,000 --> 00:01:03,000
+I'm sorry.
+
+12
+00:01:03,000 --> 00:01:04,000
+I'm sorry.
+
+13
+00:01:04,000 --> 00:01:05,000
+I'm sorry.
+
+14
+00:01:05,000 --> 00:01:06,000
+I'm sorry.
+
+15
+00:01:06,000 --> 00:01:07,000
+I'm sorry.
+
+16
+00:01:07,000 --> 00:01:08,000
+I'm sorry.
+
+17
+00:01:08,000 --> 00:01:09,000
+I'm sorry.
+
+18
+00:01:09,000 --> 00:01:10,000
+I'm sorry.
+
+19
+00:01:10,000 --> 00:01:11,000
+I'm sorry.
+
+20
+00:01:11,000 --> 00:01:12,000
+I'm sorry.
+
+21
+00:01:12,000 --> 00:01:13,000
+I'm sorry.
+
+22
+00:01:13,000 --> 00:01:14,000
+I'm sorry.
+
+23
+00:01:14,000 --> 00:01:15,000
+I'm sorry.
+
+24
+00:01:15,000 --> 00:01:16,000
+I'm sorry.
+
+25
+00:01:16,000 --> 00:01:17,000
+I'm sorry.
+
+26
+00:01:17,000 --> 00:01:18,000
+I'm sorry.
+
+27
+00:01:18,000 --> 00:01:19,000
+I'm sorry.
+
+28
+00:01:19,000 --> 00:01:20,000
+I'm sorry.
+
+29
+00:01:20,000 --> 00:01:21,000
+I'm sorry.
+
+30
+00:01:21,000 --> 00:01:22,000
+I'm sorry.
+
+31
+00:01:22,000 --> 00:01:23,000
+I'm sorry.
+
+32
+00:01:23,000 --> 00:01:24,000
+I'm sorry.
+
+33
+00:01:24,000 --> 00:01:25,000
+I'm sorry.
+
+34
+00:01:25,000 --> 00:01:26,000
+I'm sorry.
+
+35
+00:01:26,000 --> 00:01:27,000
+I'm sorry.
+
+36
+00:01:27,000 --> 00:01:28,000
+I'm sorry.
+
+37
+00:01:28,000 --> 00:01:29,000
+I'm sorry.
+
+38
+00:01:29,000 --> 00:01:30,000
+I'm sorry.
+
+39
+00:01:30,000 --> 00:01:31,000
+I'm sorry.
+
+40
+00:01:31,000 --> 00:01:32,000
+I'm sorry.
+
+41
+00:01:32,000 --> 00:01:33,000
+I'm sorry.
+
+42
+00:01:33,000 --> 00:01:34,000
+I'm sorry.
+
+43
+00:01:34,000 --> 00:01:35,000
+I'm sorry.
+
+44
+00:01:35,000 --> 00:01:36,000
+I'm sorry.
+
+45
+00:01:36,000 --> 00:01:37,000
+I'm sorry.
+
+46
+00:01:37,000 --> 00:01:38,000
+I'm sorry.
+
+47
+00:01:38,000 --> 00:01:39,000
+I'm sorry.
+
+48
+00:01:39,000 --> 00:01:40,000
+I'm sorry.
+
+49
+00:01:40,000 --> 00:01:41,000
+I'm sorry.
+
+50
+00:01:41,000 --> 00:01:42,000
+I'm sorry.
+
+51
+00:01:42,000 --> 00:01:43,000
+I'm sorry.
+
+52
+00:01:43,000 --> 00:01:44,000
+I'm sorry.
+
+53
+00:01:44,000 --> 00:01:45,000
+I'm sorry.
+
+54
+00:01:45,000 --> 00:01:46,000
+I'm sorry.
+
+55
+00:01:46,000 --> 00:01:47,000
+I'm sorry.
+
+56
+00:01:47,000 --> 00:01:48,000
+I'm sorry.
+
+57
+00:01:48,000 --> 00:01:49,000
+I'm sorry.
+
+58
+00:01:49,000 --> 00:01:50,000
+I'm sorry.
+
+59
+00:01:50,000 --> 00:01:51,000
+I'm sorry.
+
+60
+00:01:51,000 --> 00:01:52,000
+I'm sorry.
+
+61
+00:01:52,000 --> 00:01:53,000
+I'm sorry.
+
+62
+00:01:53,000 --> 00:01:54,000
+I'm sorry.
+
+63
+00:01:54,000 --> 00:01:55,000
+I'm sorry.
+
+64
+00:01:55,000 --> 00:01:56,000
+I'm sorry.
+
+65
+00:01:56,000 --> 00:01:57,000
+I'm sorry.
+
+66
+00:01:57,000 --> 00:01:58,000
+I'm sorry.
+
+67
+00:01:58,000 --> 00:01:59,000
+Sorry.
+
+68
+00:01:59,000 --> 00:02:00,000
+Sorry.
+
+69
+00:02:00,000 --> 00:02:01,000
+I'm sorry.
+
+70
+00:02:01,000 --> 00:02:02,000
+I'm sorry.
+
+71
+00:02:02,000 --> 00:02:03,000
+I'm sorry.
+
+72
+00:02:03,000 --> 00:02:08,000
+I won't come back to school today too.
+
+73
+00:02:08,000 --> 00:02:09,000
+bullying
+
+74
+00:02:09,000 --> 00:02:10,000
+You'd better go now.
+
+75
+00:02:10,000 --> 00:02:11,000
+You'd better not come to school tonight.
+
+76
+00:02:11,000 --> 00:02:12,000
+Why did I tell you so?
+
+77
+00:02:12,000 --> 00:02:13,000
+You're going to ask for punishment anyway.
+
+78
+00:02:13,000 --> 00:02:14,000
+This is also the final one before I send you the proceed.
+
+79
+00:02:14,000 --> 00:02:15,000
+I don't want you
+
+80
+00:02:15,000 --> 00:02:16,000
+always there
+
+81
+00:02:16,000 --> 00:02:17,000
+whenever I see the Elizabeth answer.
+
+82
+00:02:17,000 --> 00:02:18,000
+you want to see the right one
+
+83
+00:02:18,000 --> 00:02:19,000
+OK
+
+84
+00:02:19,000 --> 00:02:21,000
+All the Paste
+
+85
+00:02:21,000 --> 00:02:22,000
+The game
+
+86
+00:02:22,000 --> 00:02:23,000
+Akha
+
+87
+00:02:24,000 --> 00:02:26,000
+I have nothing else to do.
+
+88
+00:02:26,000 --> 00:02:27,000
+Draw
+
+89
+00:02:27,840 --> 00:02:30,000
+Liwu
+
+90
+00:02:30,000 --> 00:02:30,640
+weird
+
+91
+00:02:44,440 --> 00:02:45,680
+One tears
+
+92
+00:02:46,040 --> 00:02:47,240
+Stop for one
+
+93
+00:02:48,160 --> 00:02:49,160
+Look again
+
+94
+00:02:52,760 --> 00:02:54,140
+對啊
+
+95
+00:02:55,060 --> 00:02:56,640
+To stop
+
+96
+00:02:57,000 --> 00:03:00,000
+I can't take it
+
+97
+00:03:02,000 --> 00:03:06,000
+I've never been so innocent
+
+98
+00:03:06,000 --> 00:03:10,000
+I don't know who's going to be confused
+
+99
+00:03:10,000 --> 00:03:12,000
+I want to make a bet with you
+
+100
+00:03:12,000 --> 00:03:14,000
+Do you want to know
+
+101
+00:03:15,000 --> 00:03:18,000
+How much I love Song Yi Meng
+
+102
+00:03:19,000 --> 00:03:23,000
+Let the wind touch my past
+
+103
+00:03:23,000 --> 00:03:27,000
+Let the pen draw my sorrow
+
+104
+00:03:28,000 --> 00:03:35,000
+I want to see how much fate has broken
+
+105
+00:03:37,000 --> 00:03:41,000
+Let the wind touch my past
+
+106
+00:03:41,000 --> 00:03:45,000
+Let me be strong and strong
+
+107
+00:03:46,000 --> 00:03:48,000
+Even if fate is destined
+
+108
+00:03:49,000 --> 00:03:52,000
+I can't take it
+
+109
+00:04:09,000 --> 00:04:13,000
+Let the wind touch my past
+
+110
+00:04:13,000 --> 00:04:17,000
+Let the pen draw my sorrow
+
+111
+00:04:18,000 --> 00:04:20,000
+Let me be strong and strong
+
+112
+00:04:20,000 --> 00:04:21,000
+Didn't you say
+
+113
+00:04:21,000 --> 00:04:24,000
+It will be my birthday in ten days
+
+114
+00:04:24,000 --> 00:04:26,000
+Can't see blood
+
+115
+00:04:26,000 --> 00:04:31,000
+Let the rainbow block my blood
+
+116
+00:04:31,000 --> 00:04:36,000
+Let me be hurt by the next wound
+
+117
+00:04:38,000 --> 00:04:42,000
+Now I see blood
+
+118
+00:04:42,000 --> 00:04:45,000
+I can't take it
+
+119
+00:04:48,000 --> 00:04:50,000
+What should you do
+
+120
+00:04:50,000 --> 00:04:52,000
+I can't take it
+
+121
+00:05:10,000 --> 00:05:12,000
+So you mean
+
+122
+00:05:12,000 --> 00:05:15,000
+His Majesty is trying to take away your military power
+
+123
+00:05:15,000 --> 00:05:17,000
+It's just a marriage
+
+124
+00:05:17,000 --> 00:05:19,000
+He won't do that
+
+125
+00:05:19,000 --> 00:05:21,000
+He was charged with murdering the ministers
+
+126
+00:05:22,000 --> 00:05:24,000
+But how did you see it
+
+127
+00:05:25,000 --> 00:05:27,000
+If you start at nine years old
+
+128
+00:05:27,000 --> 00:05:30,000
+More than a person's nose
+
+129
+00:05:30,000 --> 00:05:32,000
+Naturally understand him
+
+130
+00:05:33,000 --> 00:05:34,000
+Your Highness
+
+131
+00:05:36,000 --> 00:05:37,000
+Be careful
+
+132
+00:05:39,000 --> 00:05:41,000
+Today, the crown prince saved the Song
+
+133
+00:05:41,000 --> 00:05:43,000
+I'm sure Mr. Song will agree to this marriage
+
+134
+00:05:43,000 --> 00:05:45,000
+If so
+
+135
+00:05:45,000 --> 00:05:46,000
+Not only do you want to save the fan
+
+136
+00:05:46,000 --> 00:05:48,000
+I have to send half the troops to the east
+
+137
+00:05:48,000 --> 00:05:50,000
+It's your loss
+
+138
+00:05:57,000 --> 00:05:59,000
+You go and get Li Shiliu's clothes
+
+139
+00:05:59,000 --> 00:06:00,000
+Your Highness
+
+140
+00:06:00,000 --> 00:06:01,000
+You have been so badly hurt
+
+141
+00:06:01,000 --> 00:06:02,000
+Where else do you want to go
+
+142
+00:06:03,000 --> 00:06:05,000
+Isn't this someone who is on a mission?
+
+143
+00:06:05,000 --> 00:06:07,000
+I have to go see
+
+144
+00:06:07,000 --> 00:06:09,000
+What medicine is sold in his throat
+
+145
+00:06:16,000 --> 00:06:17,000
+General Li
+
+146
+00:06:27,000 --> 00:06:28,000
+Scholar's life
+
+147
+00:06:31,000 --> 00:06:32,700
+click
+
+148
+00:06:35,000 --> 00:06:39,000
+General Li
+
+149
+00:06:39,000 --> 00:06:41,000
+You're my best friend, right?
+
+150
+00:06:41,000 --> 00:06:43,000
+How about you?
+
+151
+00:06:43,000 --> 00:06:45,000
+Did Nan Heng make it difficult for you?
+
+152
+00:06:49,000 --> 00:06:51,000
+I understand.
+
+153
+00:06:54,000 --> 00:06:56,000
+No.
+
+154
+00:06:56,000 --> 00:06:58,000
+Nan Heng didn't make it difficult for me.
+
+155
+00:06:58,000 --> 00:07:01,000
+He knows that we're looking for a way to cut the road.
+
+156
+00:07:01,000 --> 00:07:04,000
+So he wants to work with me.
+
+157
+00:07:04,000 --> 00:07:06,000
+That's good.
+
+158
+00:07:09,000 --> 00:07:11,000
+Let's go.
+
+159
+00:07:13,000 --> 00:07:16,000
+Don't stand there. Come and sit.
+
+160
+00:07:16,000 --> 00:07:18,000
+Let's go.
+
+161
+00:07:39,000 --> 00:07:41,000
+You look good in this dress.
+
+162
+00:07:41,000 --> 00:07:44,000
+Where did you make it? Take me to ask around next time.
+
+163
+00:07:44,000 --> 00:07:46,000
+It's all made by Shangguan He.
+
+164
+00:07:46,000 --> 00:07:48,000
+If you like it...
+
+165
+00:07:48,000 --> 00:07:50,000
+No need.
+
+166
+00:07:51,000 --> 00:07:53,000
+I don't want to.
+
+167
+00:07:53,000 --> 00:07:54,000
+Let me explain.
+
+168
+00:07:54,000 --> 00:07:58,000
+Mr. Li, you don't have to explain.
+
+169
+00:07:58,000 --> 00:08:00,000
+I told you last time.
+
+170
+00:08:00,000 --> 00:08:02,000
+I understand.
+
+171
+00:08:02,000 --> 00:08:04,000
+What do you understand?
+
+172
+00:08:04,000 --> 00:08:06,000
+Let the past be the past.
+
+173
+00:08:06,000 --> 00:08:08,000
+Okay? I won't say it anymore.
+
+174
+00:08:09,000 --> 00:08:11,000
+You have to talk.
+
+175
+00:08:11,000 --> 00:08:13,000
+You have to talk.
+
+176
+00:08:13,000 --> 00:08:15,000
+What?
+
+177
+00:08:15,000 --> 00:08:17,000
+You have to talk.
+
+178
+00:08:17,000 --> 00:08:19,000
+You have to talk.
+
+179
+00:08:19,000 --> 00:08:24,000
+I want to talk to you about something very important.
+
+180
+00:08:39,000 --> 00:08:42,240
+But Young General, you've released so many people.
+
+181
+00:08:42,240 --> 00:08:44,520
+If the Seventh Prince is willing to send troops, he should have come long ago.
+
+182
+00:08:44,520 --> 00:08:46,760
+Why is he like this now?
+
+183
+00:08:46,760 --> 00:08:50,560
+I was wrong about that year.
+
+184
+00:08:50,560 --> 00:08:52,680
+I shouldn't have doubted him.
+
+185
+00:08:52,680 --> 00:08:56,320
+I left him alone in the Cold Palace.
+
+186
+00:08:56,320 --> 00:08:58,560
+As long as he's willing to help me this time,
+
+187
+00:08:58,560 --> 00:09:01,560
+I'll be willing to atone for my previous mistakes.
+
+188
+00:09:01,560 --> 00:09:04,440
+No matter what kind of price I have to pay,
+
+189
+00:09:04,840 --> 00:09:06,640
+I'll...
+
+190
+00:09:07,960 --> 00:09:10,160
+I'll beg him.
+
+191
+00:09:13,800 --> 00:09:17,360
+If you don't help, it's Young General's fault!
+
+192
+00:09:17,360 --> 00:09:19,400
+If he hadn't killed him,
+
+193
+00:09:19,400 --> 00:09:21,240
+we could have changed our plan.
+
+194
+00:09:21,240 --> 00:09:23,920
+We wouldn't have been attacked and killed!
+
+195
+00:09:26,440 --> 00:09:29,240
+Chu Gui Hong, since the Song family is in trouble,
+
+196
+00:09:29,240 --> 00:09:32,840
+why don't we just let go of our past and solve this together?
+
+197
+00:09:32,840 --> 00:09:35,040
+How about it?
+
+198
+00:09:35,040 --> 00:09:37,240
+I've thought it through.
+
+199
+00:09:37,240 --> 00:09:41,160
+This Song Yi Meng is the Consort I've been looking for.
+
+200
+00:09:41,160 --> 00:09:44,160
+That Lord Song is my father-in-law.
+
+201
+00:09:44,160 --> 00:09:47,840
+I'll be the first to be executed for my father-in-law.
+
+202
+00:10:03,040 --> 00:10:05,240
+What?
+
+203
+00:10:05,240 --> 00:10:07,840
+Even you want to be like me?
+
+204
+00:10:16,240 --> 00:10:18,440
+What did I teach you?
+
+205
+00:10:20,040 --> 00:10:23,840
+A horse is used by the person who wants it.
+
+206
+00:10:23,840 --> 00:10:25,440
+Get up!
+
+207
+00:10:26,840 --> 00:10:28,640
+Father...
+
+208
+00:10:32,840 --> 00:10:34,440
+Father!
+
+209
+00:10:55,640 --> 00:10:58,840
+Silly boy, you still have a long life.
+
+210
+00:10:58,840 --> 00:11:02,040
+You can't be a hero if you fail in one attempt.
+
+211
+00:11:02,040 --> 00:11:04,440
+Look, these are all your soldiers.
+
+212
+00:11:04,440 --> 00:11:06,840
+They are your weapons.
+
+213
+00:11:06,840 --> 00:11:11,440
+From now on, Yu Long and the Qianyu Army will be yours sooner or later.
+
+214
+00:11:11,440 --> 00:11:14,240
+The battlefield in the capital is much harder than this.
+
+215
+00:11:14,240 --> 00:11:16,440
+In the future, you'll assist Rui Er and Nan Heng in fighting.
+
+216
+00:11:16,440 --> 00:11:20,240
+You'll help them to get rid of their past feelings.
+
+217
+00:11:25,840 --> 00:11:31,440
+You are loyal to your people, but you're burdened by your past feelings.
+
+218
+00:11:31,440 --> 00:11:33,640
+Do you still remember that book?
+
+219
+00:11:33,640 --> 00:11:37,240
+Father, Nan Heng said that he had burned the Qianyu Army.
+
+220
+00:11:37,240 --> 00:11:39,040
+Didn't you also send someone to search for it?
+
+221
+00:11:39,040 --> 00:11:41,240
+Why don't you believe it?
+
+222
+00:11:42,640 --> 00:11:44,040
+Promise me, Father.
+
+223
+00:11:44,040 --> 00:11:47,840
+If one day, you find that Nan Heng still has that thing in his hands,
+
+224
+00:11:47,840 --> 00:11:49,440
+you will destroy it completely.
+
+225
+00:11:49,440 --> 00:11:52,240
+There's a knife in it.
+
+226
+00:11:53,040 --> 00:11:55,240
+Do you hear me?
+
+227
+00:12:01,440 --> 00:12:03,840
+Rui Heng, if anyone dares to bully you,
+
+228
+00:12:03,840 --> 00:12:06,840
+just tell me. I'll clean it up for you.
+
+229
+00:12:07,840 --> 00:12:12,240
+Are you playing hard to get? I'm the one who's cleaning up for you.
+
+230
+00:12:29,040 --> 00:12:31,040
+Killing Nan Heng again?
+
+231
+00:12:31,040 --> 00:12:33,240
+Hero Li, calm down.
+
+232
+00:12:33,240 --> 00:12:35,840
+It's not killing, it's exposing.
+
+233
+00:12:36,640 --> 00:12:40,640
+Look, Nan Heng is looking for the knife and the knife together.
+
+234
+00:12:40,640 --> 00:12:43,440
+You must have evidence of him investigating the case.
+
+235
+00:12:43,440 --> 00:12:47,040
+If we hand these evidence to His Majesty,
+
+236
+00:12:47,040 --> 00:12:49,640
+his wild ambition will be completely destroyed.
+
+237
+00:12:49,640 --> 00:12:51,440
+He won't even let us do anything.
+
+238
+00:12:51,440 --> 00:12:52,640
+He'll be dead.
+
+239
+00:12:52,640 --> 00:12:55,440
+What about the engagement? We'll break it.
+
+240
+00:12:57,640 --> 00:12:59,440
+Wild ambition?
+
+241
+00:13:00,240 --> 00:13:04,240
+To this day, you haven't changed your opinion about Nan Heng?
+
+242
+00:13:15,240 --> 00:13:16,840
+I have.
+
+243
+00:13:17,640 --> 00:13:19,440
+I know.
+
+244
+00:13:20,240 --> 00:13:23,240
+He's not just a defiant villain.
+
+245
+00:13:25,240 --> 00:13:27,840
+He's a living person.
+
+246
+00:13:29,440 --> 00:13:34,240
+Whether you think he's a seductress is just a privacy bye-bye.
+
+247
+00:13:39,440 --> 00:13:42,040
+If he believes anyone would do this,
+
+248
+00:13:44,240 --> 00:13:47,240
+you just let him tell their story.
+
+249
+00:13:47,440 --> 00:13:51,060
+He already loved you,
+
+250
+00:13:51,240 --> 00:13:54,840
+but the truth isenter the interest of this Lesbians.
+
+251
+00:13:54,840 --> 00:13:58,840
+He won't become Nan Heng's biological son, right?
+
+252
+00:14:00,840 --> 00:14:05,840
+Since you understand all of this, why do you still want to harm him?
+
+253
+00:14:06,840 --> 00:14:10,840
+How can I harm him? He wants to investigate the knife-cutting method.
+
+254
+00:14:10,840 --> 00:14:12,840
+He will do the same thing in the future.
+
+255
+00:14:12,840 --> 00:14:16,840
+I reported him in advance to save my life.
+
+256
+00:14:16,840 --> 00:14:19,840
+But I also wanted to stop more people from getting hurt.
+
+257
+00:14:19,840 --> 00:14:22,840
+Why don't you understand, Hero Li?
+
+258
+00:14:24,840 --> 00:14:26,840
+I don't understand.
+
+259
+00:14:29,840 --> 00:14:32,840
+You'd rather believe in a life of nothing,
+
+260
+00:14:32,840 --> 00:14:35,840
+than a living person. How can I understand that?
+
+261
+00:14:35,840 --> 00:14:37,840
+And in my opinion,
+
+262
+00:14:37,840 --> 00:14:41,840
+Nan Heng is so loyal to you. How could he kill you?
+
+263
+00:14:42,840 --> 00:14:44,840
+Hero Li, why are you so fast today?
+
+264
+00:14:44,840 --> 00:14:47,840
+Why do you keep helping him?
+
+265
+00:14:50,840 --> 00:14:52,840
+Am I wrong?
+
+266
+00:14:54,840 --> 00:14:56,840
+He might not want to kill me,
+
+267
+00:14:56,840 --> 00:14:58,840
+but I will die because of him.
+
+268
+00:14:58,840 --> 00:15:01,840
+This is the rule. It's destined.
+
+269
+00:15:01,840 --> 00:15:03,840
+Then break the rule and destroy the destiny.
+
+270
+00:15:03,840 --> 00:15:06,840
+You don't understand. It's destined to be broken.
+
+271
+00:15:06,840 --> 00:15:08,840
+It will happen in the future.
+
+272
+00:15:08,840 --> 00:15:12,840
+At this moment, we can only use the rule to break the wall first.
+
+273
+00:15:18,840 --> 00:15:20,840
+Have you ever thought about it?
+
+274
+00:15:20,840 --> 00:15:23,840
+If the knife-cutting method is reported to the world,
+
+275
+00:15:23,840 --> 00:15:25,840
+you will be angry.
+
+276
+00:15:25,840 --> 00:15:27,840
+How can you die?
+
+277
+00:15:30,840 --> 00:15:32,840
+Or...
+
+278
+00:15:34,840 --> 00:15:36,840
+you don't care if he dies or not?
+
+279
+00:15:38,840 --> 00:15:41,840
+I... I... I don't care.
+
+280
+00:15:42,840 --> 00:15:44,840
+I just...
+
+281
+00:15:44,840 --> 00:15:46,840
+I just...
+
+282
+00:15:46,840 --> 00:15:48,840
+I just...
+
+283
+00:15:49,840 --> 00:15:51,840
+You are more cruel...
+
+284
+00:15:52,840 --> 00:15:54,840
+and cruel than him.
+
+285
+00:16:17,840 --> 00:16:19,840
+Hero Li!
+
+286
+00:16:20,840 --> 00:16:22,840
+Hero Li!
+
+287
+00:16:24,840 --> 00:16:26,840
+Hero Li!
+
+288
+00:16:29,840 --> 00:16:31,840
+Hero Li!
+
+289
+00:16:38,840 --> 00:16:40,840
+If possible,
+
+290
+00:16:40,840 --> 00:16:42,840
+I don't want him to die.
+
+291
+00:16:46,840 --> 00:16:48,840
+Hero Li!
+
+292
+00:16:48,840 --> 00:16:50,840
+Hero Li!
+
+293
+00:16:50,840 --> 00:16:52,840
+Hero Li!
+
+294
+00:16:52,840 --> 00:16:54,840
+Hero Li!
+
+295
+00:16:54,840 --> 00:16:56,840
+Hero Li!
+
+296
+00:16:56,840 --> 00:16:58,840
+Hero Li!
+
+297
+00:16:58,840 --> 00:17:00,840
+Hero Li!
+
+298
+00:17:00,840 --> 00:17:02,840
+Hero Li!
+
+299
+00:17:02,840 --> 00:17:04,840
+Hero Li!
+
+300
+00:17:04,840 --> 00:17:06,840
+Hero Li!
+
+301
+00:17:06,840 --> 00:17:08,840
+Hero Li!
+
+302
+00:17:08,840 --> 00:17:10,840
+Hero Li!
+
+303
+00:17:10,840 --> 00:17:12,840
+Hero Li!
+
+304
+00:17:12,840 --> 00:17:14,840
+Hero Li!
+
+305
+00:17:14,840 --> 00:17:16,840
+Hero Li!
+
+306
+00:17:16,840 --> 00:17:18,840
+Hero Li!
+
+307
+00:17:18,840 --> 00:17:20,840
+Hero Li!
+
+308
+00:17:21,840 --> 00:17:23,840
+Hero Li!
+
+309
+00:17:23,840 --> 00:17:25,840
+Hero Li!
+
+310
+00:17:25,840 --> 00:17:27,840
+Hero Li!
+
+311
+00:17:27,840 --> 00:17:29,840
+Hero Li!
+
+312
+00:17:29,840 --> 00:17:31,840
+Hero Li!
+
+313
+00:17:31,840 --> 00:17:33,840
+Hero Li!
+
+314
+00:17:33,840 --> 00:17:35,840
+Hero Li!
+
+315
+00:17:35,840 --> 00:17:37,840
+Hero Li!
+
+316
+00:17:37,840 --> 00:17:39,840
+Handcuff me!
+
+317
+00:17:39,840 --> 00:17:41,840
+Handcuff me!
+
+318
+00:17:41,840 --> 00:17:43,840
+What are you two doing?
+
+319
+00:17:43,840 --> 00:17:45,840
+Who?
+
+320
+00:17:47,840 --> 00:17:49,840
+Second Master, you're finally here.
+
+321
+00:17:49,840 --> 00:17:51,840
+Boss came back from the village last night
+
+322
+00:17:51,840 --> 00:17:53,840
+and locked himself in there for the whole night.
+
+323
+00:17:53,840 --> 00:17:55,840
+Did he stab him?
+
+324
+00:17:55,840 --> 00:17:57,840
+No.
+
+325
+00:17:57,840 --> 00:17:59,840
+If only he did that.
+
+326
+00:17:59,840 --> 00:18:01,840
+There's no movement inside.
+
+327
+00:18:01,840 --> 00:18:03,840
+It's so quiet.
+
+328
+00:18:03,840 --> 00:18:05,840
+We're both scared.
+
+329
+00:18:05,840 --> 00:18:07,840
+Do you think Boss will...
+
+330
+00:18:07,840 --> 00:18:09,840
+You two do something else.
+
+331
+00:18:09,840 --> 00:18:11,840
+I'll take care of it.
+
+332
+00:18:19,840 --> 00:18:21,840
+Forget it.
+
+333
+00:18:39,840 --> 00:18:41,840
+Right now,
+
+334
+00:18:41,840 --> 00:18:43,840
+we're both scared.
+
+335
+00:18:43,840 --> 00:18:45,840
+You two,
+
+336
+00:18:45,840 --> 00:18:47,840
+that's all we have to do.
+
+337
+00:18:49,840 --> 00:18:51,840
+Boss,
+
+338
+00:18:51,840 --> 00:18:53,840
+I'm not scared.
+
+339
+00:18:53,840 --> 00:18:55,840
+There's no reason to be scared.
+
+340
+00:18:55,840 --> 00:18:57,840
+I'm here to save you.
+
+341
+00:18:57,840 --> 00:18:59,840
+Boss,
+
+342
+00:18:59,840 --> 00:19:01,840
+I'm here to save you.
+
+343
+00:19:01,840 --> 00:19:03,840
+Boss,
+
+344
+00:19:03,840 --> 00:19:05,840
+I'm here to save you.
+
+345
+00:19:05,840 --> 00:19:07,840
+Boss,
+
+346
+00:19:08,400 --> 00:19:13,440
+Either you or Li has already lost proper if you stay or die.
+
+347
+00:19:16,200 --> 00:19:18,080
+He doesn't care I don't have the scheme.
+
+348
+00:19:22,600 --> 00:19:24,420
+Nothing's surprising.
+
+349
+00:19:24,420 --> 00:19:26,260
+I should have thought of it earlier.
+
+350
+00:19:27,120 --> 00:19:29,620
+Then, what are you doing so detector on me?
+
+351
+00:19:29,620 --> 00:19:31,820
+I already told you.
+
+352
+00:19:31,820 --> 00:19:31,880
+yin-yang 7-old will Maori only get
+
+353
+00:19:31,880 --> 00:19:33,920
+yin-yang 7-old will Ma you only get
+
+354
+00:19:33,920 --> 00:19:37,060
+Look, as you know
+
+355
+00:19:37,840 --> 00:19:40,200
+Don't forget to take care of it.
+
+356
+00:19:40,200 --> 00:19:41,280
+Most important thing,
+
+357
+00:19:41,280 --> 00:19:43,180
+you must consider right from wrong,
+
+358
+00:19:43,180 --> 00:19:44,860
+and keep in mind this.
+
+359
+00:19:44,880 --> 00:19:49,280
+If you send me a message that your family lost you,
+
+360
+00:19:49,280 --> 00:19:51,900
+I really won't let you down.
+
+361
+00:19:53,120 --> 00:19:54,400
+Let's go out now?
+
+362
+00:19:54,720 --> 00:19:57,240
+No, you're not coming with me.
+
+363
+00:20:03,800 --> 00:20:06,000
+Can I leave if you're still here?
+
+364
+00:20:06,160 --> 00:20:07,200
+What...?
+
+365
+00:20:07,200 --> 00:20:10,400
+If you give up, it's a miracle.
+
+366
+00:20:14,240 --> 00:20:17,640
+You're so haggard after a short time.
+
+367
+00:20:20,080 --> 00:20:21,080
+Don't mention it.
+
+368
+00:20:21,800 --> 00:20:25,000
+Master Li's speech almost broke me.
+
+369
+00:20:27,120 --> 00:20:28,440
+I should make up for it.
+
+370
+00:20:29,240 --> 00:20:30,440
+Master Li too.
+
+371
+00:20:30,440 --> 00:20:33,520
+He came back from the palace last night and he was so angry.
+
+372
+00:20:33,520 --> 00:20:35,640
+We can't even beg for mercy.
+
+373
+00:20:37,920 --> 00:20:40,160
+My father is still thinking about it.
+
+374
+00:20:40,160 --> 00:20:42,400
+He wants to help me to get married.
+
+375
+00:20:43,120 --> 00:20:45,600
+It's a pity that he can't fulfill his wish.
+
+376
+00:20:46,440 --> 00:20:47,800
+How do you know?
+
+377
+00:20:49,120 --> 00:20:50,880
+The man wants the power of Song family.
+
+378
+00:20:50,880 --> 00:20:53,280
+It's a plan that can't be changed until death.
+
+379
+00:20:53,920 --> 00:20:56,280
+I should be strong and strong.
+
+380
+00:20:56,280 --> 00:20:58,960
+I want to persuade Master Li to help me.
+
+381
+00:20:58,960 --> 00:21:00,520
+Your Highness, you're finally back.
+
+382
+00:21:00,520 --> 00:21:03,160
+Master Song is waiting for you in the mansion.
+
+383
+00:21:11,400 --> 00:21:12,400
+Your Highness.
+
+384
+00:21:13,200 --> 00:21:15,400
+Sorry for your sudden visit.
+
+385
+00:21:16,400 --> 00:21:17,400
+Sit down.
+
+386
+00:21:21,920 --> 00:21:22,920
+Your Highness.
+
+387
+00:21:22,920 --> 00:21:24,920
+I'm sorry for your sudden visit.
+
+388
+00:21:24,920 --> 00:21:25,920
+I'm sorry for your sudden visit.
+
+389
+00:21:25,920 --> 00:21:26,920
+I'm sorry for your sudden visit.
+
+390
+00:21:27,920 --> 00:21:29,920
+Your Highness, you're being serious.
+
+391
+00:21:30,920 --> 00:21:34,720
+You've prepared a punishment for me.
+
+392
+00:21:34,720 --> 00:21:37,120
+I should go to the door and thank you.
+
+393
+00:21:38,320 --> 00:21:42,120
+These are the medicines I prepared for you to cure your wound.
+
+394
+00:21:42,120 --> 00:21:44,920
+Please accept them.
+
+395
+00:21:45,920 --> 00:21:46,920
+Thank you, sir.
+
+396
+00:21:57,920 --> 00:21:59,920
+You're here today.
+
+397
+00:21:59,920 --> 00:22:01,920
+You're not here to deliver medicines, right?
+
+398
+00:22:06,120 --> 00:22:10,920
+I have something to ask you.
+
+399
+00:22:13,920 --> 00:22:14,920
+Your Highness.
+
+400
+00:22:15,520 --> 00:22:18,920
+What did you do outside the mansion yesterday?
+
+401
+00:22:18,920 --> 00:22:22,920
+How sincere and selfish were you?
+
+402
+00:22:26,920 --> 00:22:28,920
+Of course I'm a sensible person.
+
+403
+00:22:28,920 --> 00:22:30,920
+I won't hide it from you.
+
+404
+00:22:33,920 --> 00:22:36,920
+If you're not selfish, you won't ask for it.
+
+405
+00:22:37,920 --> 00:22:40,920
+If you're not sincere, you won't blame yourself.
+
+406
+00:22:40,920 --> 00:22:41,920
+Your Highness.
+
+407
+00:22:41,920 --> 00:22:43,920
+Please forgive me for my slip of the tongue.
+
+408
+00:22:44,920 --> 00:22:47,920
+Your Highness, if you don't behave yourself,
+
+409
+00:22:47,920 --> 00:22:48,920
+you'll be in trouble.
+
+410
+00:22:49,920 --> 00:22:51,920
+If one day, you lose your power,
+
+411
+00:22:52,920 --> 00:22:55,920
+and the high-ranking prince becomes the next emperor,
+
+412
+00:22:55,920 --> 00:22:56,920
+you'll be in trouble.
+
+413
+00:22:57,920 --> 00:22:58,920
+I'm sorry.
+
+414
+00:22:58,920 --> 00:22:59,920
+I'm sorry.
+
+415
+00:22:59,920 --> 00:23:00,920
+I'm sorry.
+
+416
+00:23:00,920 --> 00:23:01,920
+I'm sorry.
+
+417
+00:23:01,920 --> 00:23:02,920
+I'm sorry.
+
+418
+00:23:02,920 --> 00:23:03,920
+I'm sorry.
+
+419
+00:23:03,920 --> 00:23:04,920
+I'm sorry.
+
+420
+00:23:04,920 --> 00:23:05,920
+I'm sorry.
+
+421
+00:23:05,920 --> 00:23:06,920
+I'm sorry.
+
+422
+00:23:06,920 --> 00:23:07,920
+I'm sorry.
+
+423
+00:23:07,920 --> 00:23:08,920
+I'm sorry.
+
+424
+00:23:08,920 --> 00:23:09,920
+I'm sorry.
+
+425
+00:23:09,920 --> 00:23:12,920
+Because people in the street have to live in isolation,
+
+426
+00:23:12,920 --> 00:23:13,920
+and to be free forever.
+
+427
+00:23:14,920 --> 00:23:17,920
+Or to live in seclusion.
+
+428
+00:23:19,920 --> 00:23:22,920
+How can you protect me?
+
+429
+00:23:26,920 --> 00:23:27,920
+Your Highness.
+
+430
+00:23:29,920 --> 00:23:31,920
+I've been living a life of freedom since I was young.
+
+431
+00:23:32,920 --> 00:23:34,920
+I seem to be free-minded.
+
+432
+00:23:34,920 --> 00:23:36,920
+But I'm the one who's the most important to me.
+
+433
+00:23:36,920 --> 00:23:41,720
+If you succeed, he will be trapped in the Palace forever.
+
+434
+00:23:41,720 --> 00:23:46,720
+If he fails, he will lose his life.
+
+435
+00:23:49,320 --> 00:23:55,120
+As a father, I don't want my daughter to marry into this kind of family.
+
+436
+00:23:55,120 --> 00:24:00,320
+I don't want her to be in the Danjing Shoupa for the rest of her life.
+
+437
+00:24:01,320 --> 00:24:08,920
+Shiyi, I beg you to let Xiaomeng go.
+
+438
+00:24:08,920 --> 00:24:11,920
+If you agree to cancel the marriage,
+
+439
+00:24:11,920 --> 00:24:16,120
+I will pay you back.
+
+440
+00:24:27,520 --> 00:24:29,520
+Please rise, Your Excellency.
+
+441
+00:24:31,120 --> 00:24:36,120
+I understand what you said.
+
+442
+00:24:36,120 --> 00:24:40,120
+And I was hesitating on my way back.
+
+443
+00:24:40,120 --> 00:24:45,120
+Should I give up my obsession and let her go?
+
+444
+00:24:50,120 --> 00:24:53,120
+But I can't.
+
+445
+00:24:54,120 --> 00:24:57,120
+Everything I did before was for self-protection.
+
+446
+00:24:57,920 --> 00:25:01,520
+But in the future, I want to break off the obsession with her.
+
+447
+00:25:01,520 --> 00:25:04,520
+I want to be her best friend.
+
+448
+00:25:04,520 --> 00:25:09,920
+I promise you that I will use all my strength to protect her.
+
+449
+00:25:12,520 --> 00:25:17,120
+Your Excellency, I also want to ask for her opinion.
+
+450
+00:25:17,120 --> 00:25:20,920
+You want to give me one last chance.
+
+451
+00:25:21,920 --> 00:25:23,920
+So, Your Excellency,
+
+452
+00:25:27,720 --> 00:25:30,720
+I can't do it.
+
+453
+00:25:51,920 --> 00:25:53,920
+Protect the emperor!
+
+454
+00:25:53,920 --> 00:25:55,920
+Protect the emperor!
+
+455
+00:25:58,520 --> 00:26:01,520
+What's your name?
+
+456
+00:26:01,520 --> 00:26:04,320
+This is the seven royal houses of the noble.
+
+457
+00:26:04,320 --> 00:26:08,320
+It's the duty of the royal guards.
+
+458
+00:26:08,320 --> 00:26:09,920
+Be careful.
+
+459
+00:26:09,920 --> 00:26:11,920
+You guys go over there.
+
+460
+00:26:11,920 --> 00:26:13,920
+Yes.
+
+461
+00:26:14,920 --> 00:26:16,920
+Oh my god.
+
+462
+00:26:16,920 --> 00:26:18,920
+I'm so scared.
+
+463
+00:26:18,920 --> 00:26:20,920
+There's nothing.
+
+464
+00:26:20,920 --> 00:26:22,920
+Wait for me.
+
+465
+00:26:28,920 --> 00:26:30,920
+Rong Hua, let's go.
+
+466
+00:26:37,920 --> 00:26:40,920
+Let me see the girl.
+
+467
+00:26:41,920 --> 00:26:44,920
+I saved her yesterday, but I didn't do it on purpose.
+
+468
+00:26:44,920 --> 00:26:46,920
+Does Miss Tian Tian know it?
+
+469
+00:26:46,920 --> 00:26:47,920
+Hurry up.
+
+470
+00:26:47,920 --> 00:26:49,320
+Where should I go?
+
+471
+00:26:49,320 --> 00:26:51,320
+You should tell her first.
+
+472
+00:26:51,320 --> 00:26:53,920
+She said that she can't be with you.
+
+473
+00:26:53,920 --> 00:26:56,720
+Please don't come and get me.
+
+474
+00:26:56,720 --> 00:26:59,320
+When did I get here?
+
+475
+00:26:59,320 --> 00:27:00,920
+Open the door.
+
+476
+00:27:00,920 --> 00:27:03,920
+Tian Tian!
+
+477
+00:27:04,720 --> 00:27:06,920
+This...
+
+478
+00:27:10,920 --> 00:27:12,920
+What?
+
+479
+00:27:16,920 --> 00:27:18,920
+What?
+
+480
+00:27:18,920 --> 00:27:20,920
+Oh.
+
+481
+00:27:23,920 --> 00:27:25,920
+Why are you still standing there?
+
+482
+00:27:25,920 --> 00:27:28,920
+Hurry up and call me Mother-in-law.
+
+483
+00:27:29,920 --> 00:27:31,920
+You're Mrs. Song?
+
+484
+00:27:31,920 --> 00:27:33,920
+I've met Mrs. Song before.
+
+485
+00:27:33,920 --> 00:27:35,920
+Come on.
+
+486
+00:27:35,920 --> 00:27:36,920
+Keep this.
+
+487
+00:27:36,920 --> 00:27:40,920
+This is all the schedule of Song Yiting this month.
+
+488
+00:27:42,920 --> 00:27:45,920
+Your Highness, I'm very happy for you.
+
+489
+00:27:45,920 --> 00:27:47,920
+I can only help you here.
+
+490
+00:27:47,920 --> 00:27:50,920
+Don't let me down in the future.
+
+491
+00:27:50,920 --> 00:27:51,920
+I will definitely...
+
+492
+00:27:51,920 --> 00:27:52,920
+No.
+
+493
+00:27:52,920 --> 00:27:55,920
+Thank you, Mother-in-law.
+
+494
+00:27:55,920 --> 00:27:58,920
+Okay, I'll go in first.
+
+495
+00:27:58,920 --> 00:28:00,920
+Goodbye.
+
+496
+00:28:06,920 --> 00:28:08,920
+came.
+
+497
+00:28:09,920 --> 00:28:12,920
+Come, let's go.
+
+498
+00:28:12,920 --> 00:28:14,920
+Okay.
+
+499
+00:28:28,920 --> 00:28:30,920
+Hurry.
+
+500
+00:28:30,920 --> 00:28:33,920
+呢, базi.
+
+501
+00:28:33,920 --> 00:28:35,920
+Let's do this.
+
+502
+00:28:36,880 --> 00:28:38,880
+I'm doing it for your own good.
+
+503
+00:28:39,320 --> 00:28:41,320
+You're a rich lady.
+
+504
+00:28:41,320 --> 00:28:44,160
+You should have prepared a dress for us.
+
+505
+00:28:44,600 --> 00:28:45,680
+Next year,
+
+506
+00:28:45,840 --> 00:28:47,680
+you should choose a good husband.
+
+507
+00:28:48,160 --> 00:28:49,680
+Choose a husband?
+
+508
+00:28:50,040 --> 00:28:52,600
+Will a woman die if she doesn't choose a husband?
+
+509
+00:28:55,440 --> 00:28:56,760
+The scale is good.
+
+510
+00:28:56,760 --> 00:28:57,680
+I'll leave now.
+
+511
+00:28:58,040 --> 00:28:59,880
+Wait a minute, Miss.
+
+512
+00:29:00,800 --> 00:29:01,760
+I'll give you an umbrella.
+
+513
+00:29:06,440 --> 00:29:34,480
+Chichor
+
+514
+00:29:34,920 --> 00:29:35,840
+Tien Dung!
+
+515
+00:29:35,920 --> 00:29:37,920
+It's such a coincidence that we meet here today.
+
+516
+00:29:37,920 --> 00:29:39,280
+It must be God's arrangement.
+
+517
+00:29:39,280 --> 00:29:41,400
+I have booked a wedding banquet at the restaurant.
+
+518
+00:29:41,400 --> 00:29:43,120
+Miss TianTian, please...
+
+519
+00:29:43,120 --> 00:29:44,000
+Your Highness,
+
+520
+00:29:44,000 --> 00:29:45,400
+within three days,
+
+521
+00:29:45,400 --> 00:29:47,520
+we have met 21 times.
+
+522
+00:29:47,520 --> 00:29:49,040
+Do you think I will believe it?
+
+523
+00:29:50,000 --> 00:29:51,280
+Is it that much?
+
+524
+00:29:52,000 --> 00:29:53,400
+No matter what means you used,
+
+525
+00:29:53,400 --> 00:29:54,440
+or what method,
+
+526
+00:29:54,440 --> 00:29:56,520
+I will tell you clearly today.
+
+527
+00:29:56,520 --> 00:29:58,040
+I don't like people like you.
+
+528
+00:29:58,040 --> 00:29:59,680
+You only listen to father.
+
+529
+00:29:59,680 --> 00:30:01,680
+You are not a man of good character.
+
+530
+00:30:02,280 --> 00:30:03,720
+Don't waste your energy.
+
+531
+00:30:03,720 --> 00:30:04,840
+Tiantian.
+
+532
+00:30:04,840 --> 00:30:05,840
+Tiantian.
+
+533
+00:30:06,200 --> 00:30:07,680
+Jin Xiang, stop her.
+
+534
+00:30:10,840 --> 00:30:11,840
+Your Highness,
+
+535
+00:30:11,840 --> 00:30:12,920
+what are you doing?
+
+536
+00:30:12,920 --> 00:30:14,560
+Do you want to be rude?
+
+537
+00:30:14,560 --> 00:30:17,000
+No, I really have no intention to offend you.
+
+538
+00:30:17,000 --> 00:30:19,360
+But I have to tell you something.
+
+539
+00:30:19,360 --> 00:30:21,200
+You asked me why I want to get married.
+
+540
+00:30:21,200 --> 00:30:22,960
+I thought about it for a long time and finally figured it out.
+
+541
+00:30:22,960 --> 00:30:23,920
+It's not because of father,
+
+542
+00:30:23,920 --> 00:30:25,720
+nor because I want to compete with my wife.
+
+543
+00:30:27,280 --> 00:30:28,280
+It's because...
+
+544
+00:30:35,920 --> 00:30:37,200
+It's mother's hospital.
+
+545
+00:30:37,200 --> 00:30:38,360
+She is a big-hearted queen.
+
+546
+00:30:38,360 --> 00:30:39,560
+You should listen to her.
+
+547
+00:30:39,560 --> 00:30:40,800
+Tiantian.
+
+548
+00:30:40,800 --> 00:30:41,760
+No,
+
+549
+00:30:41,760 --> 00:30:42,880
+my mother told me that
+
+550
+00:30:42,880 --> 00:30:45,360
+she wanted me to marry a girl with knowledge.
+
+551
+00:30:45,360 --> 00:30:46,960
+If she can speak and communicate,
+
+552
+00:30:46,960 --> 00:30:48,440
+then we can have a harmonious relationship.
+
+553
+00:30:48,440 --> 00:30:49,440
+And mother said that
+
+554
+00:30:49,440 --> 00:30:50,360
+if she marries a girl,
+
+555
+00:30:50,360 --> 00:30:51,880
+she will be in full love with her forever.
+
+556
+00:30:51,880 --> 00:30:52,880
+Enough.
+
+557
+00:30:53,680 --> 00:30:55,000
+Don't follow me anymore.
+
+558
+00:30:55,960 --> 00:30:57,080
+Tiantian.
+
+559
+00:30:57,080 --> 00:30:57,920
+Tiantian.
+
+560
+00:30:57,920 --> 00:30:59,400
+You can't do this to me.
+
+561
+00:30:59,400 --> 00:31:00,920
+I'm not your daughter.
+
+562
+00:31:00,920 --> 00:31:02,040
+I'm your daughter.
+
+563
+00:31:02,040 --> 00:31:03,040
+I'm your daughter.
+
+564
+00:31:03,040 --> 00:31:04,040
+You can't do this to me.
+
+565
+00:31:04,040 --> 00:31:05,040
+I'm your daughter.
+
+566
+00:31:05,120 --> 00:31:05,760
+Tiantian.
+
+567
+00:31:05,760 --> 00:31:06,640
+Don't worry.
+
+568
+00:31:06,640 --> 00:31:08,520
+Even if you and mother can be harmonious,
+
+569
+00:31:08,520 --> 00:31:10,400
+I will save you first.
+
+570
+00:31:27,760 --> 00:31:28,800
+Eagle.
+
+571
+00:31:29,400 --> 00:31:30,360
+Eagle.
+
+572
+00:31:30,360 --> 00:31:31,640
+Fresh eagle.
+
+573
+00:31:33,560 --> 00:31:34,400
+Eagle.
+
+574
+00:31:35,200 --> 00:31:35,920
+Childe.
+
+575
+00:31:35,920 --> 00:31:37,120
+Buy some eagle soup.
+
+576
+00:31:38,600 --> 00:31:39,400
+Is it sweet?
+
+577
+00:31:39,840 --> 00:31:41,040
+Childe, try it.
+
+578
+00:31:46,760 --> 00:31:47,600
+How is it?
+
+579
+00:31:49,160 --> 00:31:49,920
+Sweet.
+
+580
+00:31:50,440 --> 00:31:51,720
+But not as sweet as you.
+
+581
+00:31:53,880 --> 00:31:54,840
+Eagle soup.
+
+582
+00:31:54,840 --> 00:31:56,040
+Sell eagle soup.
+
+583
+00:31:58,600 --> 00:31:59,440
+It's too big.
+
+584
+00:31:59,440 --> 00:32:00,120
+Run.
+
+585
+00:32:05,040 --> 00:32:06,080
+Hurry up.
+
+586
+00:32:24,440 --> 00:32:25,760
+Are you okay?
+
+587
+00:32:26,520 --> 00:32:27,640
+I'm fine.
+
+588
+00:32:28,240 --> 00:32:29,160
+Stop pouring rain.
+
+589
+00:32:29,800 --> 00:32:30,760
+Here you go.
+
+590
+00:32:31,560 --> 00:32:32,760
+Thank you, childe.
+
+591
+00:32:34,360 --> 00:32:34,880
+Be careful.
+
+592
+00:32:35,040 --> 00:32:36,280
+Song Yi was there,
+
+593
+00:32:36,280 --> 00:32:38,640
+Master Tung is here!
+
+594
+00:32:40,120 --> 00:32:41,320
+Master Tung!
+
+595
+00:32:52,560 --> 00:32:53,960
+Master Tung!
+
+596
+00:33:06,280 --> 00:33:06,960
+No one.
+
+597
+00:33:09,920 --> 00:33:11,520
+I'm such a handsome and handsome man.
+
+598
+00:33:11,520 --> 00:33:14,000
+But I'm a beggar in front of him.
+
+599
+00:33:18,840 --> 00:33:21,200
+Is there such a beggar who is so handsome and handsome?
+
+600
+00:33:21,720 --> 00:33:22,760
+So funny.
+
+601
+00:33:24,480 --> 00:33:25,880
+Isn't it just a robe?
+
+602
+00:33:26,360 --> 00:33:28,400
+I'll buy you another one.
+
+603
+00:33:28,880 --> 00:33:30,160
+Is it important?
+
+604
+00:33:30,480 --> 00:33:31,880
+It's important that I'm dressed up
+
+605
+00:33:31,880 --> 00:33:33,440
+and I'm in the mood of the rain.
+
+606
+00:33:37,280 --> 00:33:38,360
+Wait and see.
+
+607
+00:33:39,200 --> 00:33:41,800
+I have to take her down from the altar.
+
+608
+00:33:42,880 --> 00:33:43,880
+I tell you.
+
+609
+00:33:44,400 --> 00:33:46,040
+She is Song Yi Meng's sister.
+
+610
+00:33:46,560 --> 00:33:47,680
+Don't go to her.
+
+611
+00:33:48,120 --> 00:33:50,560
+You're so generous to her.
+
+612
+00:33:50,800 --> 00:33:51,880
+I've checked it.
+
+613
+00:33:51,880 --> 00:33:53,720
+This Song Yiting is the son of Zhou family.
+
+614
+00:33:53,720 --> 00:33:55,680
+She is not related to your Meng.
+
+615
+00:33:55,680 --> 00:33:57,920
+She is also the daughter of the Song family.
+
+616
+00:33:59,640 --> 00:34:00,640
+Don't forget.
+
+617
+00:34:01,280 --> 00:34:02,800
+After you saved her last time,
+
+618
+00:34:02,800 --> 00:34:04,440
+it's not over yet.
+
+619
+00:34:06,840 --> 00:34:08,240
+Don't cause me trouble.
+
+620
+00:34:10,520 --> 00:34:11,920
+If there's nothing else, go back first.
+
+621
+00:34:12,760 --> 00:34:13,680
+Go back door.
+
+622
+00:34:15,640 --> 00:34:17,960
+Which time I didn't go back door?
+
+623
+00:34:18,680 --> 00:34:19,280
+And,
+
+624
+00:34:19,640 --> 00:34:21,280
+do I have to cause her trouble?
+
+625
+00:34:21,280 --> 00:34:22,880
+That woman wants to cause me trouble.
+
+626
+00:34:22,880 --> 00:34:23,920
+What can I do?
+
+627
+00:34:23,920 --> 00:34:25,320
+Did I tell you
+
+628
+00:34:25,320 --> 00:34:27,040
+not to mess with my things in the study?
+
+629
+00:34:27,040 --> 00:34:27,600
+You...
+
+630
+00:34:28,440 --> 00:34:30,360
+You have to find a limit to her.
+
+631
+00:34:30,360 --> 00:34:31,320
+If you really don't like me,
+
+632
+00:34:31,320 --> 00:34:32,880
+I won't be the second master.
+
+633
+00:34:32,880 --> 00:34:33,800
+You send me back to the prison.
+
+634
+00:34:33,800 --> 00:34:34,800
+We'll go now.
+
+635
+00:34:37,040 --> 00:34:37,960
+I got her here.
+
+636
+00:34:39,920 --> 00:34:40,760
+What are you doing?
+
+637
+00:34:40,800 --> 00:35:05,120
+Your
+
+638
+00:35:05,120 --> 00:35:05,740
+wife killed her
+
+639
+00:35:35,740 --> 00:35:36,580
+You're here?!
+
+640
+00:35:36,660 --> 00:35:38,380
+Boss Wu, you're being��
+
+641
+00:35:38,500 --> 00:35:39,460
+You're here!
+
+642
+00:35:43,380 --> 00:35:44,580
+I've been looking for you for three days
+
+643
+00:35:44,760 --> 00:35:45,560
+and I finally found the secret room
+
+644
+00:35:45,560 --> 00:35:48,060
+General Chu, you're not loyal
+
+645
+00:35:50,920 --> 00:35:51,660
+commanders
+
+646
+00:35:52,260 --> 00:35:52,580
+What are they look for?
+
+647
+00:35:54,200 --> 00:35:54,880
+no
+
+648
+00:35:55,620 --> 00:35:56,600
+ronонь
+
+649
+00:35:57,040 --> 00:35:58,200
+If ronson causality
+
+650
+00:35:58,200 --> 00:35:59,360
+I'm investigating veterans
+
+651
+00:35:59,520 --> 00:36:00,980
+even if I just met our dealer
+
+652
+00:36:01,940 --> 00:36:02,780
+This is what I do
+
+653
+00:36:03,600 --> 00:36:05,300
+Ronson drops
+
+654
+00:36:05,300 --> 00:36:08,100
+You have made up too many excuses.
+
+655
+00:36:08,100 --> 00:36:10,100
+So what do you say?
+
+656
+00:36:10,100 --> 00:36:16,100
+If you leave, you will never get what you want.
+
+657
+00:36:18,100 --> 00:36:20,700
+You came here three days ago.
+
+658
+00:36:20,700 --> 00:36:22,700
+But your hands and feet are dirty.
+
+659
+00:36:22,700 --> 00:36:24,700
+You left a stain.
+
+660
+00:36:24,700 --> 00:36:27,700
+So I told the rich to keep an eye on you.
+
+661
+00:36:27,700 --> 00:36:30,100
+For the past three days,
+
+662
+00:36:30,100 --> 00:36:33,100
+you have searched the entire Gu mansion.
+
+663
+00:36:33,100 --> 00:36:37,100
+But the most frequent visit is still this study.
+
+664
+00:36:37,100 --> 00:36:39,500
+So I think
+
+665
+00:36:39,500 --> 00:36:45,500
+you are looking for this.
+
+666
+00:36:48,700 --> 00:36:52,500
+Nai Heng, the Qianyu weapon is my family's.
+
+667
+00:36:52,500 --> 00:36:53,500
+Give it back to me.
+
+668
+00:36:53,500 --> 00:36:55,900
+If I remember correctly,
+
+669
+00:36:55,900 --> 00:36:59,900
+this is what General Chu gave me 19 years ago.
+
+670
+00:36:59,900 --> 00:37:01,900
+Give it back to me.
+
+671
+00:37:03,100 --> 00:37:05,100
+I gave you a friend.
+
+672
+00:37:05,100 --> 00:37:07,100
+Now,
+
+673
+00:37:09,100 --> 00:37:11,100
+you are not.
+
+674
+00:37:34,100 --> 00:37:36,100
+But,
+
+675
+00:37:36,100 --> 00:37:39,100
+how can I take back what I gave you?
+
+676
+00:37:39,100 --> 00:37:41,100
+And I'm curious,
+
+677
+00:37:41,100 --> 00:37:44,100
+General Chu wants this book so much.
+
+678
+00:37:44,100 --> 00:37:47,100
+Is there any secret in it?
+
+679
+00:37:49,100 --> 00:37:51,100
+It's none of your business.
+
+680
+00:37:51,100 --> 00:37:53,100
+You have no right to know.
+
+681
+00:37:53,100 --> 00:37:55,100
+Okay.
+
+682
+00:37:55,100 --> 00:37:57,100
+If so,
+
+683
+00:37:57,100 --> 00:37:59,100
+why don't you...
+
+684
+00:38:03,100 --> 00:38:05,100
+Why don't you just give it back to me?
+
+685
+00:38:05,100 --> 00:38:07,100
+I'm not going to give it back to you.
+
+686
+00:38:07,100 --> 00:38:09,100
+I'm going to give it back to you.
+
+687
+00:38:09,100 --> 00:38:11,100
+I'm going to give it back to you.
+
+688
+00:38:11,100 --> 00:38:13,100
+I'm going to give it back to you.
+
+689
+00:38:13,100 --> 00:38:15,100
+I'm going to give it back to you.
+
+690
+00:38:15,100 --> 00:38:17,100
+I'm going to give it back to you.
+
+691
+00:38:17,100 --> 00:38:19,100
+I'm going to give it back to you.
+
+692
+00:38:19,100 --> 00:38:21,100
+I'm going to give it back to you.
+
+693
+00:38:21,100 --> 00:38:23,100
+I'm going to give it back to you.
+
+694
+00:38:23,100 --> 00:38:25,100
+I'm going to give it back to you.
+
+695
+00:38:25,100 --> 00:38:27,100
+I'm going to give it back to you.
+
+696
+00:38:27,100 --> 00:38:29,100
+I'm going to give it back to you.
+
+697
+00:38:29,100 --> 00:38:31,100
+I'm going to give it back to you.
+
+698
+00:38:31,100 --> 00:38:33,100
+I'm going to give it back to you.
+
+699
+00:38:33,100 --> 00:38:35,100
+I'm going to give it back to you.
+
+700
+00:38:53,100 --> 00:38:55,100
+Nanhang...
+
+701
+00:38:55,100 --> 00:38:57,100
+Nanhang...
+
+702
+00:38:57,100 --> 00:38:59,100
+Nanhang...
+
+703
+00:38:59,100 --> 00:39:01,100
+He died.
+
+704
+00:39:01,100 --> 00:39:03,100
+You killed him!
+
+705
+00:39:03,100 --> 00:39:05,100
+You said it was me who killed him.
+
+706
+00:39:05,100 --> 00:39:07,100
+Do you have any evidence?
+
+707
+00:39:13,100 --> 00:39:15,100
+The thing I regret the most in my life
+
+708
+00:39:15,100 --> 00:39:17,100
+is to play a trick on you.
+
+709
+00:39:17,100 --> 00:39:19,100
+I taught you a friend who is not saved by death.
+
+710
+00:39:19,100 --> 00:39:21,100
+I am not saved by death.
+
+711
+00:39:21,100 --> 00:39:23,100
+I was trapped in the Cold Palace.
+
+712
+00:39:23,100 --> 00:39:25,100
+I was trapped in the Cold Palace.
+
+713
+00:39:25,100 --> 00:39:27,100
+I was trapped in the Cold Palace.
+
+714
+00:39:27,100 --> 00:39:29,100
+I was trapped in the Cold Palace.
+
+715
+00:39:29,100 --> 00:39:31,100
+I was trapped in the Cold Palace.
+
+716
+00:39:57,100 --> 00:39:59,100
+I will find evidence
+
+717
+00:39:59,100 --> 00:40:01,100
+I will find evidence
+
+718
+00:40:01,100 --> 00:40:03,100
+I will find evidence
+
+719
+00:40:03,100 --> 00:40:05,100
+from now on
+
+720
+00:40:05,100 --> 00:40:07,100
+I will be more lovely than you
+
+721
+00:40:07,100 --> 00:40:09,100
+I will be more lovely than you
+
+722
+00:40:09,100 --> 00:40:11,100
+until you kneel in front of me and beg for mercy.
+
+723
+00:40:11,100 --> 00:40:13,100
+until you kneel in front of me and beg for mercy.
+
+724
+00:40:13,100 --> 00:40:15,100
+Okay.
+
+725
+00:40:15,100 --> 00:40:17,100
+I want to see
+
+726
+00:40:17,100 --> 00:40:19,100
+how cruel General Chu can be.
+
+727
+00:40:19,100 --> 00:40:21,100
+I will go.
+
+728
+00:40:49,100 --> 00:40:51,100
+I will go.
+
+729
+00:41:19,100 --> 00:41:21,100
+The End
+
+730
+00:41:49,100 --> 00:41:51,100
+The End
+
+731
+00:42:19,100 --> 00:42:21,100
+The End
+
+732
+00:42:49,100 --> 00:42:51,100
+The End
+
+733
+00:43:19,100 --> 00:43:21,100
+The End
+
+734
+00:43:49,100 --> 00:43:51,100
+The End
