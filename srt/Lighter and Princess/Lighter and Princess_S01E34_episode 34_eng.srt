@@ -1,0 +1,2419 @@
+1
+00:00:06,080 --> 00:00:15,980
+
+
+2
+00:00:17,820 --> 00:00:22,900
+♫  Everything is different from the sea to the sky  ♫
+
+3
+00:00:25,220 --> 00:00:30,620
+♫  The person I used to be has disappeared without a trace  ♫
+
+4
+00:00:31,820 --> 00:00:35,660
+♫  I no longer believe one person can redeem another  ♫
+
+5
+00:00:35,660 --> 00:00:39,280
+♫  Until when you broke into my world  ♫
+
+6
+00:00:39,280 --> 00:00:43,280
+♫  Even if the world exploded into darkness  ♫
+
+7
+00:00:43,280 --> 00:00:48,460
+♫  We bloom in the dark  ♫
+
+8
+00:00:49,580 --> 00:00:52,120
+♫  The knight and the king  ♫
+
+9
+00:00:52,120 --> 00:00:56,100
+♫  Sail at night with white sails to navigate 
+ and protect the vast ocean  ♫
+
+10
+00:00:56,100 --> 00:01:00,440
+♫  I can see a clear direction  ♫
+
+11
+00:01:00,440 --> 00:01:04,440
+♫  In which a touch of golden color flickers 
+ at the end of the wheat field  ♫
+
+12
+00:01:04,440 --> 00:01:07,060
+♫  Even if I am the king  ♫
+
+13
+00:01:07,060 --> 00:01:10,680
+♫  With supreme glory everything would be meaningless without you  ♫
+
+14
+00:01:10,680 --> 00:01:15,700
+♫  Going through fire and water is to make you remember  ♫
+
+15
+00:01:15,700 --> 00:01:19,620
+♫  The way everything was at the beginning  ♫
+
+16
+00:01:19,620 --> 00:01:22,140
+♫  If I am the king  ♫
+
+17
+00:01:22,140 --> 00:01:25,880
+♫  Who is as arrogant as the fierce wind and wild grass  ♫
+
+18
+00:01:25,880 --> 00:01:30,580
+♫  I only want you to be at my side, whatever it takes  ♫
+
+19
+00:01:30,580 --> 00:01:36,800
+♫  And everything is the way it used to be at the very beginning  ♫
+
+20
+00:01:42,740 --> 00:01:48,030
+   
+
+21
+00:01:48,030 --> 00:01:50,620
+   
+
+22
+00:01:51,400 --> 00:01:58,300
+In short, we want to make a better and more playable game based on the source code of "Blind Box of Love,"
+
+23
+00:01:58,350 --> 00:02:03,790
+but the premise is to avoid all possible legal risks to enable our company to go public.
+
+24
+00:02:03,790 --> 00:02:05,740
+The code of "Blind Box of Love" is very complicated.
+
+25
+00:02:05,740 --> 00:02:09,860
+If we change the most critical part, the specific function will be affected.
+
+26
+00:02:09,860 --> 00:02:13,700
+We spent a week proposing an alternative solution,
+
+27
+00:02:13,700 --> 00:02:15,460
+but we failed.
+
+28
+00:02:20,360 --> 00:02:21,760
+You can't give up.
+
+29
+00:02:21,760 --> 00:02:24,100
+Even if the game will lack some functions,
+
+30
+00:02:24,100 --> 00:02:27,800
+we can't give Flying Company any chance to sue us.
+
+31
+00:02:27,800 --> 00:02:29,960
+Do you have any other solution?
+
+32
+00:02:29,960 --> 00:02:31,860
+Don't change the code.
+
+33
+00:02:33,940 --> 00:02:36,420
+This is a trap.
+
+34
+00:02:36,420 --> 00:02:42,110
+Li Xun wrote such a complicated code because he wanted us to give up changing it.
+
+35
+00:02:42,110 --> 00:02:46,380
+Even if we change the code, the situation is still under his control.
+
+36
+00:02:54,180 --> 00:02:57,710
+Mr. Gao, then our "Perfect Girlfriend"...
+
+37
+00:02:59,590 --> 00:03:01,370
+Copy the code.
+
+38
+00:03:06,840 --> 00:03:12,540
+The only way of launching the "Perfect Girlfriend" in the shortest time
+
+39
+00:03:12,540 --> 00:03:16,510
+is to directly copy the source code of "Blind Box of Love".
+
+40
+00:03:17,180 --> 00:03:19,000
+I disagree.
+
+41
+00:03:21,360 --> 00:03:23,260
+I disagree.
+
+42
+00:03:24,140 --> 00:03:25,990
+You go out.
+
+43
+00:03:30,840 --> 00:03:32,630
+Gao Jianhong,
+
+44
+00:03:33,680 --> 00:03:35,920
+are you crazy?
+
+45
+00:03:35,920 --> 00:03:38,100
+I was tolerant of you stealing and hacking codes before.
+
+46
+00:03:38,100 --> 00:03:41,260
+I know you're angry.
+
+47
+00:03:41,960 --> 00:03:45,170
+We used to imitate the styles and core playing methods,
+
+48
+00:03:45,170 --> 00:03:47,950
+but you can't directly copy his source code.
+
+49
+00:03:47,950 --> 00:03:49,340
+Calm down.
+
+50
+00:03:49,340 --> 00:03:53,100
+There are many more open game source codes online.
+
+51
+00:03:53,100 --> 00:03:54,280
+More?
+
+52
+00:03:54,280 --> 00:03:56,270
+Tell me where the excess is.
+
+53
+00:03:56,270 --> 00:03:59,760
+Do you think it's the "Gluttonous Snake" or "Link Game"?
+
+54
+00:03:59,760 --> 00:04:04,900
+Actually, Li Xun wrote the code independently.
+
+55
+00:04:04,900 --> 00:04:07,020
+We can't find any similar one at all.
+
+56
+00:04:07,020 --> 00:04:13,140
+Gao Jianhong, after our company goes public, you can suit yourself,
+
+57
+00:04:13,140 --> 00:04:17,110
+but it's a sensitive period, we'll be imprisoned if you do so.
+
+58
+00:04:17,110 --> 00:04:21,890
+Now that I have decided to copy his source code, I've thought about how to deal with the lawsuit.
+
+59
+00:04:21,920 --> 00:04:23,590
+I'm not worried about this.
+
+60
+00:04:23,600 --> 00:04:27,900
+Infringement litigation costs are high, compensation is low and proof is difficult.
+
+61
+00:04:27,970 --> 00:04:30,050
+A small company can't beat us.
+
+62
+00:04:30,050 --> 00:04:34,400
+Believe me. Within a week, he'll drop the case.
+
+63
+00:04:38,300 --> 00:04:40,600
+Do you believe it?
+
+64
+00:04:41,610 --> 00:04:44,760
+How will you fight against them?
+
+65
+00:04:44,760 --> 00:04:51,200
+You should know that Li Xun's capital source is not just Flying Company.
+
+66
+00:04:51,200 --> 00:04:56,520
+Now many investors want to invest in his game, and he has a brother and Light Red Band.
+
+67
+00:04:56,520 --> 00:04:58,220
+They all can provide him with strong financial support.
+
+68
+00:04:58,220 --> 00:05:00,950
+They can help him at a crucial time.
+
+69
+00:05:02,170 --> 00:05:09,650
+It reminds me of Ren Di, the woman of Light Red Band.
+
+70
+00:05:09,650 --> 00:05:12,410
+Wasn't she your classmate?
+
+71
+00:05:12,410 --> 00:05:16,000
+Why does she help him but not you?
+
+72
+00:05:23,140 --> 00:05:25,000
+Gao Jianhong,
+
+73
+00:05:26,970 --> 00:05:30,480
+I've never seen Li Xun giving up anything.
+
+74
+00:05:31,070 --> 00:05:32,850
+As for you,
+
+75
+00:05:34,240 --> 00:05:38,550
+I'm looking forward to the day you can defeat him.
+
+76
+00:05:39,390 --> 00:05:42,040
+Then you have to take good care of yourself.
+
+77
+00:05:42,800 --> 00:05:48,100
+So anxious to launch the "Perfect Girlfriend,"  and rush to hell?
+
+78
+00:05:50,210 --> 00:05:52,970
+Fang Zhijing! Who do you think you are?
+
+79
+00:05:52,970 --> 00:05:55,510
+How dare you criticize me!
+
+80
+00:05:55,510 --> 00:05:58,640
+Only when I treat you as a partner can you be my partner,
+
+81
+00:05:58,640 --> 00:06:02,110
+or else you're just an employee.
+
+82
+00:06:02,800 --> 00:06:04,710
+You're nothing.
+
+83
+00:06:05,450 --> 00:06:08,040
+Okay. Okay.
+
+84
+00:06:08,040 --> 00:06:10,170
+Remember your words.
+
+85
+00:06:11,190 --> 00:06:13,080
+Okay.
+
+86
+00:06:13,080 --> 00:06:15,840
+I don't want to be imprisoned.
+
+87
+00:06:15,840 --> 00:06:18,670
+I'll redeem my shares today.
+
+88
+00:06:18,670 --> 00:06:20,560
+I won't play with you anymore.
+
+89
+00:06:20,560 --> 00:06:21,810
+Don't worry.
+
+90
+00:06:21,810 --> 00:06:26,320
+I'll help with your resignation procedures, Mr. Fang.
+
+91
+00:06:32,360 --> 00:06:34,370
+Gao Jianhong,
+
+92
+00:06:36,070 --> 00:06:40,750
+take a good look at the computer screen, you're acting like a dead man.
+
+93
+00:06:41,500 --> 00:06:45,980
+Do you know that the company would have collapsed without me?
+
+94
+00:06:45,980 --> 00:06:51,040
+These years, I solicited business, investment and resources for this company!
+
+95
+00:06:51,040 --> 00:06:54,560
+Do you really think the company's development depends on you?
+
+96
+00:06:58,380 --> 00:07:04,840
+Well, just see how many employees will stay
+
+97
+00:07:04,840 --> 00:07:08,960
+and whether the company will collapse after I quit.
+
+98
+00:07:08,960 --> 00:07:11,420
+Go public?
+
+99
+00:07:11,420 --> 00:07:13,270
+No way.
+
+100
+00:07:19,750 --> 00:07:23,950
+Fang Zhijing, listen up.
+
+101
+00:07:23,950 --> 00:07:27,830
+What I care about has never been whether the company can go public.
+
+102
+00:08:21,500 --> 00:08:23,330
+What time is it?
+
+103
+00:08:25,660 --> 00:08:27,600
+It's 4:00 a.m.
+
+104
+00:08:27,600 --> 00:08:29,610
+Let me do it. You go to get some rest.
+
+105
+00:08:29,610 --> 00:08:31,700
+No need.
+
+106
+00:08:31,700 --> 00:08:35,960
+From they getting the source code to changing the art resources and technical functions,
+
+107
+00:08:35,960 --> 00:08:38,340
+we haven't had much time for preparations.
+
+108
+00:08:38,340 --> 00:08:40,450
+Are you sure?
+
+109
+00:08:40,450 --> 00:08:43,170
+Once Gao Jianhong copies the "Blind Box of Love,"
+
+110
+00:08:43,170 --> 00:08:47,320
+given the level of L &amp; P's platform, he'll launch another similar game.
+
+111
+00:08:47,320 --> 00:08:49,950
+By then Flying will definitely not be able to fight back,
+
+112
+00:08:49,950 --> 00:08:53,270
+and we will lose our only current source of income.
+
+113
+00:08:56,440 --> 00:08:58,630
+This is betting.
+
+114
+00:09:00,360 --> 00:09:02,320
+Do you still believe me?
+
+115
+00:09:08,550 --> 00:09:12,210
+But, Li Xun, you can't do technical updates
+
+116
+00:09:12,210 --> 00:09:15,260
+and prepare such a complicated intellectual property lawsuit at the same time.
+
+117
+00:09:15,260 --> 00:09:17,550
+Fang Shumiao can help us with it.
+
+118
+00:09:17,550 --> 00:09:19,570
+You don't need to do so much work alone.
+
+119
+00:09:19,570 --> 00:09:21,900
+You've stayed up late for a week.
+
+120
+00:09:22,970 --> 00:09:27,460
+After this war comes to an end, I'll have enough time to rest.
+
+121
+00:09:42,740 --> 00:09:47,750
+   
+
+122
+00:09:54,150 --> 00:09:59,390
+   
+
+123
+00:10:00,510 --> 00:10:01,750
+ Look. It looks good. 
+
+124
+00:10:01,750 --> 00:10:02,970
+ Yeah. 
+
+125
+00:10:07,360 --> 00:10:09,920
+ She looks like the idol you're chasing. 
+
+126
+00:10:12,550 --> 00:10:15,300
+This is the hottest girls' group.
+
+127
+00:10:15,300 --> 00:10:18,850
+Gao Jianhong is really generous.
+
+128
+00:10:18,850 --> 00:10:21,890
+L &amp; P always spends a lot of money on publicity.
+
+129
+00:10:21,890 --> 00:10:24,860
+60% of their investment is spent on publicity.
+
+130
+00:10:24,860 --> 00:10:28,370
+He has vigorously advertised it at the beginning of the internal test.
+
+131
+00:10:30,500 --> 00:10:32,140
+I've finished its decomposition.
+
+132
+00:10:33,220 --> 00:10:37,720
+The left code belongs to the "Perfect Girlfriend," and the right one is the "Love Blind Box."
+
+133
+00:10:37,720 --> 00:10:39,040
+They're the same.
+
+134
+00:10:39,040 --> 00:10:40,930
+They were not changed at all.
+
+135
+00:10:42,030 --> 00:10:45,840
+Congratulations. Your Trojan Horse has successfully entered L &amp; P.
+
+136
+00:10:45,840 --> 00:10:49,490
+It's impossible. Gao Jianhong provides us with evidence on his own?
+
+137
+00:10:49,490 --> 00:10:52,590
+It's not important. As long as he copies our source code, we can sue him.
+
+138
+00:10:52,590 --> 00:10:53,920
+I agree.
+
+139
+00:10:53,920 --> 00:10:57,470
+Maybe he is eager to make an achievement to make L &amp; P go public,
+
+140
+00:10:57,470 --> 00:10:58,970
+so he copied the source code.
+
+141
+00:10:58,970 --> 00:11:03,810
+Anyway, he may think he can force you to drop the case.
+
+142
+00:11:08,060 --> 00:11:09,240
+Li Xun.
+
+143
+00:11:09,240 --> 00:11:11,020
+Get ready to sue him.
+
+144
+00:11:11,600 --> 00:11:13,570
+I've prepared all the materials.
+
+145
+00:11:13,570 --> 00:11:15,430
+Ask Hou Ning if you have any questions.
+
+146
+00:11:15,430 --> 00:11:17,900
+- When should we sue him? 
+ - It's not urgent.
+
+147
+00:11:17,900 --> 00:11:21,840
+Wait until their game goes online and makes a big profit.
+
+148
+00:11:21,840 --> 00:11:25,190
+These days, you contact other companies.
+
+149
+00:11:25,190 --> 00:11:29,420
+Contact all the companies that had trouble with L &amp; P in copyright.
+
+150
+00:11:29,420 --> 00:11:31,810
+If they want us to sue L&amp;P on their behalf, it's better.
+
+151
+00:11:31,810 --> 00:11:34,040
+We can bear all the expenses.
+
+152
+00:11:34,040 --> 00:11:37,420
+If they don't want, it doesn't matter.
+
+153
+00:11:37,420 --> 00:11:39,930
+Gather as much evidence as possible.
+
+154
+00:11:51,180 --> 00:11:53,120
+Don't think too much.
+
+155
+00:11:53,120 --> 00:11:55,360
+Counter every move.
+
+156
+00:12:00,400 --> 00:12:02,350
+The codes are indeed the same.
+
+157
+00:12:13,550 --> 00:12:15,750
+- Li Xun. 
+ - Li Xun.
+
+158
+00:12:15,770 --> 00:12:17,610
+- Li Xun. 
+ - What's wrong with Li Xun?
+
+159
+00:12:29,340 --> 00:12:30,890
+Li Xun.
+
+160
+00:12:33,250 --> 00:12:35,430
+You'll get better.
+
+161
+00:12:50,370 --> 00:12:51,450
+   
+
+162
+00:12:51,450 --> 00:12:53,130
+You can't go in.
+
+163
+00:12:56,980 --> 00:12:59,530
+Li Xun, let me go.
+
+164
+00:12:59,530 --> 00:13:01,600
+You'll be out soon.
+
+165
+00:13:04,440 --> 00:13:07,740
+It's all right. It's just a CT scan, it's not life or death.
+
+166
+00:13:07,740 --> 00:13:10,490
+Be good. Let me go.
+
+167
+00:13:37,670 --> 00:13:39,690
+What's wrong with him?
+
+168
+00:13:41,340 --> 00:13:43,160
+I'm all right.
+
+169
+00:13:53,110 --> 00:13:55,130
+   
+
+170
+00:13:55,790 --> 00:13:58,100
+He has been here before, right?
+
+171
+00:13:58,120 --> 00:14:01,590
+Yes. But he came for his lumbar vertebra a few years ago.
+
+172
+00:14:01,590 --> 00:14:03,050
+What does he do?
+
+173
+00:14:03,050 --> 00:14:05,270
+IT, the computer industry.
+
+174
+00:14:06,630 --> 00:14:08,260
+I see.
+
+175
+00:14:08,260 --> 00:14:11,150
+Don't worry. His disease is not serious.
+
+176
+00:14:12,770 --> 00:14:15,340
+But it's still a problem with the spine.
+
+177
+00:14:15,340 --> 00:14:18,090
+Osteoarthritis of the spine is caused by the lumbar vertebra.
+
+178
+00:14:18,090 --> 00:14:20,450
+The symptoms are quite obvious.
+
+179
+00:14:20,450 --> 00:14:24,190
+Well, it is really a high-risk industry
+
+180
+00:14:24,200 --> 00:14:26,710
+with several sudden deaths every year.
+
+181
+00:14:27,530 --> 00:14:29,850
+But how could you faint from a spinal problem?
+
+182
+00:14:29,860 --> 00:14:33,270
+His back was stiff. The blood could only flow to his shoulders,
+
+183
+00:14:33,280 --> 00:14:39,040
+but his brain has been working at a high intensity for a long time, requiring large amounts of oxygen and blood gas.
+
+184
+00:14:39,040 --> 00:14:41,860
+It's no wonder he doesn't get dizzy after such a conflict.
+
+185
+00:14:41,860 --> 00:14:43,150
+What should he do?
+
+186
+00:14:43,150 --> 00:14:45,200
+Rest and exercise.
+
+187
+00:14:51,080 --> 00:14:52,770
+Brother Xiuzhu.
+
+188
+00:14:54,220 --> 00:14:55,990
+Zhu Yun.
+
+189
+00:14:55,990 --> 00:14:57,610
+How is he?
+
+190
+00:14:57,610 --> 00:14:59,490
+He is all right.
+
+191
+00:14:59,490 --> 00:15:03,230
+I didn't know he was in the hospital until Guo Shijie told me.
+
+192
+00:15:03,230 --> 00:15:06,630
+You haven't contacted me these days.
+
+193
+00:15:07,750 --> 00:15:09,270
+What you said was right.
+
+194
+00:15:09,270 --> 00:15:13,450
+He is indeed in poor health, but he just endured it.
+
+195
+00:15:13,450 --> 00:15:15,670
+No one has endless energy.
+
+196
+00:15:15,670 --> 00:15:20,210
+It's lucky for a man to live a safe and healthy life.
+
+197
+00:15:21,870 --> 00:15:25,420
+This seems to be the first time you have kept my words in mind.
+
+198
+00:15:26,630 --> 00:15:28,340
+Are you sure?
+
+199
+00:15:28,340 --> 00:15:30,030
+You won't leave?
+
+200
+00:15:30,030 --> 00:15:31,740
+I won't.
+
+201
+00:15:36,740 --> 00:15:44,270
+I've never seen a girl who can drive herself into a corner and never regret it.
+
+202
+00:15:49,870 --> 00:15:51,340
+Zhu Yun,
+
+203
+00:15:52,200 --> 00:15:56,740
+I came here this time just to say goodbye to you in person.
+
+204
+00:15:57,870 --> 00:16:00,410
+I've decided to give up.
+
+205
+00:16:03,410 --> 00:16:06,990
+After hearing it, don't you feel more relaxed?
+
+206
+00:16:11,400 --> 00:16:17,200
+There are so many infatuated women in this world,
+
+207
+00:16:17,200 --> 00:16:20,900
+but they can combine fate, work and life with their ideals.
+
+208
+00:16:20,900 --> 00:16:25,600
+There are too few women who can hold them all together.
+
+209
+00:16:26,550 --> 00:16:28,920
+You can't bear it all.
+
+210
+00:16:29,570 --> 00:16:32,530
+You are merely trying to.
+
+211
+00:16:34,510 --> 00:16:38,080
+Okay, I will remind you one last thing.
+
+212
+00:16:38,080 --> 00:16:41,600
+You and Li Xun already have a lot of regrets.
+
+213
+00:16:41,630 --> 00:16:44,450
+Stop wasting your time so recklessly.
+
+214
+00:16:46,500 --> 00:16:53,050
+Ask your heart and summon your courage to face them.
+
+215
+00:17:00,620 --> 00:17:02,800
+You're thinner.
+
+216
+00:17:03,570 --> 00:17:06,010
+Fighting for love is good,
+
+217
+00:17:06,010 --> 00:17:10,670
+but it's not romantic to faint at work.
+
+218
+00:17:17,720 --> 00:17:19,310
+I know.
+
+219
+00:17:20,480 --> 00:17:22,250
+I'm leaving.
+
+220
+00:17:58,110 --> 00:18:00,090
+Who is it?
+
+221
+00:18:01,010 --> 00:18:03,190
+Morning. Where's Li Xun?
+
+222
+00:18:03,190 --> 00:18:04,760
+He is inside.
+
+223
+00:18:25,590 --> 00:18:27,340
+How do you feel today?
+
+224
+00:18:27,920 --> 00:18:29,070
+I'm better.
+
+225
+00:18:29,070 --> 00:18:32,340
+I brought you some congee. Heat and eat it later.
+
+226
+00:18:48,490 --> 00:18:50,440
+What's wrong?
+
+227
+00:18:54,500 --> 00:18:56,360
+What?
+
+228
+00:18:56,360 --> 00:18:58,060
+Give it to me.
+
+229
+00:19:10,380 --> 00:19:11,700
+What's wrong?
+
+230
+00:19:11,700 --> 00:19:15,010
+- Anything else? 
+ - Nothing more.
+
+231
+00:19:15,020 --> 00:19:16,430
+- Give it to me. 
+ - There is really nothing.
+
+232
+00:19:16,430 --> 00:19:17,940
+Give it to me.
+
+233
+00:19:19,270 --> 00:19:22,000
+- How do you know everything? 
+ - Hurry up.
+
+234
+00:19:28,030 --> 00:19:30,020
+They're confiscated.
+
+235
+00:19:32,550 --> 00:19:35,500
+Rest and recuperate. I'll keep them for you.
+
+236
+00:19:36,680 --> 00:19:38,430
+You're annoying.
+
+237
+00:19:39,270 --> 00:19:41,500
+- Who is annoying? 
+ - You.
+
+238
+00:19:51,580 --> 00:19:53,060
+What's wrong?
+
+239
+00:19:53,060 --> 00:19:56,120
+My arm aches.
+
+240
+00:19:56,120 --> 00:19:58,090
+Here?
+
+241
+00:19:58,090 --> 00:20:02,460
+♫  I forgot time unconsciously  ♫
+
+242
+00:20:04,110 --> 00:20:06,340
+- Ouch. 
+ - Ouch.
+
+243
+00:20:06,340 --> 00:20:08,870
+- It aches or itches? 
+ - Aches.
+
+244
+00:20:08,870 --> 00:20:11,490
+No wonder it aches in this posture.
+
+245
+00:20:11,490 --> 00:20:13,780
+Do you want to go back to the hospital?
+
+246
+00:20:13,780 --> 00:20:15,240
+I've asked Dong Siyang for leave.
+
+247
+00:20:15,240 --> 00:20:18,390
+You can't go to work this week but can only rest and recuperate.
+
+248
+00:20:18,400 --> 00:20:20,650
+You can really make up your own mind.
+
+249
+00:20:20,650 --> 00:20:23,040
+Princess, you are quite courageous now.
+
+250
+00:20:23,930 --> 00:20:26,100
+I can get more courageous.
+
+251
+00:20:27,640 --> 00:20:28,930
+Really?
+
+252
+00:20:28,930 --> 00:20:30,680
+Just wait and see.
+
+253
+00:20:31,440 --> 00:20:33,900
+I want to see now.
+
+254
+00:20:33,900 --> 00:20:38,510
+You can get even with me after getting better.
+
+255
+00:20:41,510 --> 00:20:42,260
+Okay.
+
+256
+00:20:42,260 --> 00:20:45,040
+♫  At a moment, in reversely flying days  ♫
+
+257
+00:20:45,040 --> 00:20:48,290
+♫  I'm no longer afraid of the big world  ♫
+
+258
+00:20:48,290 --> 00:20:53,050
+♫  By my side or on my pillow, you say every good night  ♫
+
+259
+00:20:53,050 --> 00:20:56,350
+♫  Happiness has never changed  ♫
+
+260
+00:20:56,350 --> 00:20:59,030
+Hey, guys. Let's have a meeting, have a meeting.
+
+261
+00:21:01,210 --> 00:21:02,680
+Here.
+
+262
+00:21:04,160 --> 00:21:07,820
+Our Flying is now in a special period.
+
+263
+00:21:07,820 --> 00:21:10,230
+We'll directly fight against L &amp; P soon.
+
+264
+00:21:10,230 --> 00:21:11,980
+You have to make full preparations.
+
+265
+00:21:11,980 --> 00:21:15,590
+I have only one request out of all of you.
+
+266
+00:21:15,590 --> 00:21:17,510
+Just do it.
+
+267
+00:21:17,510 --> 00:21:20,820
+Hou Ning, tell them the follow-up work about the "Blind Box of Love".
+
+268
+00:21:20,820 --> 00:21:23,070
+The next update is mainly to optimize the process.
+
+269
+00:21:23,070 --> 00:21:24,650
+I've added two-factor authentication,
+
+270
+00:21:24,650 --> 00:21:28,560
+and the function of brushing instance zones with friends, namely the multiplayer mode.
+
+271
+00:21:28,590 --> 00:21:30,930
+Players can also form teams in this game?
+
+272
+00:21:33,260 --> 00:21:38,320
+Political Commissar Zhu, aren't you not participating in all the activities of our "Blind Box of Love"?
+
+273
+00:21:38,320 --> 00:21:42,340
+Am I the one who wants to participate? With you guys having a meeting around me, how can I not hear?
+
+274
+00:21:45,920 --> 00:21:48,390
+Okay, stand up. Stand up. Move your limbs.
+
+275
+00:21:48,390 --> 00:21:51,420
+Listen to the political commissar. Come on.
+
+276
+00:21:51,420 --> 00:21:53,410
+Let's do eye exercises next time.
+
+277
+00:21:53,410 --> 00:21:55,370
+You can. Think of Li Xun.
+
+278
+00:21:55,370 --> 00:21:57,820
+- March. 
+  - 1, 2, 3, 4. 
+
+279
+00:21:57,820 --> 00:22:00,210
+ 5, 6, 7, 8. 
+
+280
+00:22:00,210 --> 00:22:02,650
+ 2, 2, 3, 4. 
+
+281
+00:22:02,650 --> 00:22:05,240
+ 5, 6, 7. Stop. 
+
+282
+00:22:05,240 --> 00:22:06,800
+ Body turning motion. 
+
+283
+00:22:06,800 --> 00:22:08,870
+ Ready, go. 
+
+284
+00:22:08,870 --> 00:22:11,210
+ 1, 2, 3, 4. 
+
+285
+00:22:11,210 --> 00:22:13,540
+What are you doing?
+
+286
+00:22:19,490 --> 00:22:21,130
+Check if it has any problems.
+
+287
+00:22:21,130 --> 00:22:23,680
+I've confirmed it with Li Xun.
+
+288
+00:22:23,680 --> 00:22:26,380
+It can be submitted to the court anytime.
+
+289
+00:22:27,070 --> 00:22:28,410
+What did he say?
+
+290
+00:22:28,410 --> 00:22:31,840
+Nothing special. He said it's the right time.
+
+291
+00:22:31,840 --> 00:22:34,340
+The turnover of Gao Jianhong's "Perfect Girlfriend" has reached a peak now,
+
+292
+00:22:34,340 --> 00:22:37,440
+just in time for the review period by the CSRC for the listing of L &amp; P.
+
+293
+00:22:37,440 --> 00:22:41,500
+If we act at this time, we will really catch the sheep when they are the fattest.
+
+294
+00:22:41,500 --> 00:22:43,700
+He's really ruthless.
+
+295
+00:22:43,700 --> 00:22:45,780
+L &amp; P should pay back what it owes.
+
+296
+00:22:45,780 --> 00:22:49,410
+There are too many companies that have copyright disputes with them.
+
+297
+00:22:49,500 --> 00:22:55,800
+Those small companies in the past either swallowed their anger or couldn't make a splash.
+
+298
+00:22:56,620 --> 00:22:59,500
+But we have concrete and enough evidence this time
+
+299
+00:22:59,500 --> 00:23:01,810
+so the top scorer Li is going to eliminate harm for the people.
+
+300
+00:23:01,810 --> 00:23:03,010
+When will it be submitted?
+
+301
+00:23:03,010 --> 00:23:05,030
+There are only 10-odd days left before the holiday,
+
+302
+00:23:05,030 --> 00:23:09,230
+and the lawyer of L &amp; P must have booked a ticket for the holiday.
+
+303
+00:23:09,230 --> 00:23:11,080
+You're really vicious.
+
+304
+00:23:11,080 --> 00:23:12,490
+Thank you.
+
+305
+00:23:16,200 --> 00:23:17,370
+I'm off duty.
+
+306
+00:23:17,370 --> 00:23:19,910
+Wait for me. I'll be back soon.
+
+307
+00:23:23,170 --> 00:23:27,250
+- Come in. 
+ - Lawyer Wang, this is a court summons.
+
+308
+00:23:27,250 --> 00:23:29,370
+- Put it here. 
+ - Won't you check it?
+
+309
+00:23:29,370 --> 00:23:31,010
+No, I won't.
+
+310
+00:23:31,010 --> 00:23:34,490
+Our company has received too many letters from lawyers.
+
+311
+00:23:34,490 --> 00:23:36,590
+I'll check it after coming back from holiday.
+
+312
+00:23:42,480 --> 00:23:46,030
+Shanshan, which company is going to sue our company this time?
+
+313
+00:23:46,030 --> 00:23:48,030
+Let me see.
+
+314
+00:23:49,300 --> 00:23:51,030
+It's a class action.
+
+315
+00:23:51,030 --> 00:23:53,450
+My Heart Flying Network is the main suitor,
+
+316
+00:23:53,450 --> 00:23:55,910
+and 10-odd companies are also involved in it.
+
+317
+00:23:55,910 --> 00:23:57,690
+Well, let me see.
+
+318
+00:23:57,690 --> 00:23:59,420
+   
+
+319
+00:23:59,420 --> 00:24:02,180
+   
+
+320
+00:24:02,960 --> 00:24:04,900
+Return my plane ticket. Call the others back.
+
+321
+00:24:04,900 --> 00:24:06,000
+Okay.
+
+322
+00:24:08,200 --> 00:24:10,400
+The lawsuit itself is not difficult to fight,
+
+323
+00:24:10,400 --> 00:24:14,000
+but our company is now at the critical moment of going public.
+
+324
+00:24:14,000 --> 00:24:16,900
+Others will be prone to make an issue of this class action,
+
+325
+00:24:16,900 --> 00:24:20,400
+and the shareholders will also distrust our company.
+
+326
+00:24:20,400 --> 00:24:21,900
+Forget it.
+
+327
+00:24:21,900 --> 00:24:25,400
+But we're in a passive position. Once it becomes serious...
+
+328
+00:24:25,400 --> 00:24:29,000
+Why does everyone want me to say it over and over?
+
+329
+00:24:29,000 --> 00:24:32,300
+Since I dared do this, I have my own way to deal with him.
+
+330
+00:24:32,300 --> 00:24:34,100
+Do you understand?
+
+331
+00:24:36,400 --> 00:24:37,600
+Okay.
+
+332
+00:25:06,200 --> 00:25:08,000
+Why are you here?
+
+333
+00:25:10,100 --> 00:25:12,700
+Gao Jianhong is not here. He doesn't live here now.
+
+334
+00:25:12,700 --> 00:25:14,800
+I'm here to see you.
+
+335
+00:25:16,000 --> 00:25:17,800
+Old Gao is ill.
+
+336
+00:25:18,800 --> 00:25:20,300
+Ill?
+
+337
+00:25:25,400 --> 00:25:27,800
+Brain glioma.
+
+338
+00:25:30,400 --> 00:25:32,100
+It's malignant.
+
+339
+00:25:34,500 --> 00:25:40,500
+The doctor said it can be cured if he undergoes surgery in time.
+
+340
+00:25:49,000 --> 00:25:51,400
+How can it be malignant?
+
+341
+00:25:53,100 --> 00:25:55,600
+He didn't even mention it to me.
+
+342
+00:25:56,400 --> 00:25:59,000
+He didn't tell anyone.
+
+343
+00:25:59,000 --> 00:26:02,100
+It was one time I went to the hospital and saw him go to neurosurgery,
+
+344
+00:26:02,100 --> 00:26:05,100
+I found out after investigating.
+
+345
+00:26:05,100 --> 00:26:07,000
+The doctor said...
+
+346
+00:26:08,300 --> 00:26:10,600
+Old Gao doesn't want to undergo surgery.
+
+347
+00:26:12,200 --> 00:26:14,300
+Why are you telling me?
+
+348
+00:26:16,400 --> 00:26:18,200
+What do you think?
+
+349
+00:26:21,000 --> 00:26:23,300
+L &amp; P is being sued.
+
+350
+00:26:24,700 --> 00:26:26,900
+Li Xun is doing it?
+
+351
+00:26:26,900 --> 00:26:28,600
+Finally.
+
+352
+00:26:31,800 --> 00:26:33,600
+It's very troublesome.
+
+353
+00:26:33,600 --> 00:26:35,500
+If he can't find a solution,
+
+354
+00:26:35,500 --> 00:26:39,200
+L &amp; P won't go public but will give compensation.
+
+355
+00:26:39,200 --> 00:26:41,500
+A lot of compensation.
+
+356
+00:26:41,500 --> 00:26:45,200
+What's worse, after Flying Network succeeds,
+
+357
+00:26:45,200 --> 00:26:49,200
+other companies will also sue L &amp; P one after another.
+
+358
+00:26:50,400 --> 00:26:56,400
+By then, L &amp; P will really collapse soon.
+
+359
+00:27:00,100 --> 00:27:02,500
+Aren't you about to resign?
+
+360
+00:27:02,500 --> 00:27:04,100
+How is it your business?
+
+361
+00:27:04,100 --> 00:27:06,900
+I don't want to interfere in it,
+
+362
+00:27:06,900 --> 00:27:09,300
+but I haven't sold my shares yet.
+
+363
+00:27:09,300 --> 00:27:13,400
+Think about it. Who would dare to take over once this has happened?
+
+364
+00:27:13,400 --> 00:27:15,600
+It's fine if I can't sell them by then,
+
+365
+00:27:15,600 --> 00:27:18,000
+I'll just lose all my money and go to jail.
+
+366
+00:27:18,000 --> 00:27:19,800
+What should I do?
+
+367
+00:27:19,800 --> 00:27:22,000
+That's what you deserve.
+
+368
+00:27:24,400 --> 00:27:25,800
+Yes,
+
+369
+00:27:26,700 --> 00:27:28,800
+I really deserve it.
+
+370
+00:27:30,000 --> 00:27:31,900
+What about Old Gao?
+
+371
+00:27:33,200 --> 00:27:35,300
+Have you ever thought about Old Gao?
+
+372
+00:27:44,000 --> 00:27:48,400
+He did this, so he should be mentally prepared for it.
+
+373
+00:27:49,000 --> 00:27:50,500
+Xu Lina,
+
+374
+00:27:51,200 --> 00:27:55,400
+ask your heart whether Gao Jianhong treats you well.
+
+375
+00:27:55,400 --> 00:27:58,800
+He helped you when your family needed help most.
+
+376
+00:27:58,800 --> 00:28:03,400
+Even if he does wrong, he has always been sincere to you.
+
+377
+00:28:05,600 --> 00:28:08,000
+You don't need to tell me these things.
+
+378
+00:28:10,500 --> 00:28:12,600
+He's in poor health,
+
+379
+00:28:12,600 --> 00:28:15,700
+but he doesn't want you to know this.
+
+380
+00:28:18,000 --> 00:28:23,900
+Only after this matter is completely settled can Old Gao undergo surgery in time.
+
+381
+00:28:27,200 --> 00:28:29,300
+You're his wife.
+
+382
+00:28:30,200 --> 00:28:32,600
+Do you want him to die?
+
+383
+00:28:37,800 --> 00:28:40,000
+What can I do?
+
+384
+00:28:42,800 --> 00:28:44,800
+Go to see Zhu Yun and Li Xun.
+
+385
+00:28:47,400 --> 00:28:49,600
+They'll listen to me?
+
+386
+00:28:49,600 --> 00:28:54,600
+Anyway, Old Gao used to be their old classmate.
+
+387
+00:28:54,600 --> 00:28:57,000
+You can go with Old Gao's medical record.
+
+388
+00:28:57,000 --> 00:29:01,200
+Tell them about Old Gao's disease and shift the blame onto Old Gao.
+
+389
+00:29:01,200 --> 00:29:03,300
+At most,
+
+390
+00:29:03,300 --> 00:29:07,000
+it would be best if we could persuade Li Xun to come and see him once.
+
+391
+00:29:07,000 --> 00:29:09,000
+That would be best.
+
+392
+00:29:09,800 --> 00:29:11,800
+You know little about Li Xun.
+
+393
+00:29:11,800 --> 00:29:14,500
+He won't listen to me.
+
+394
+00:29:14,500 --> 00:29:17,000
+I know little about Li Xun?
+
+395
+00:29:17,000 --> 00:29:19,400
+Do you think you know him well?
+
+396
+00:29:20,400 --> 00:29:22,600
+Li Xun's sister breathed her last in front of him,
+
+397
+00:29:22,600 --> 00:29:25,600
+so he must be traumatized by the death of people around him.
+
+398
+00:29:26,700 --> 00:29:29,100
+He usually looks cold
+
+399
+00:29:29,100 --> 00:29:31,100
+but is actually emotional.
+
+400
+00:29:31,800 --> 00:29:33,200
+This time,
+
+401
+00:29:34,400 --> 00:29:36,800
+I believe he'll show mercy.
+
+402
+00:30:51,200 --> 00:30:52,800
+Thank you.
+
+403
+00:30:55,600 --> 00:30:57,100
+Have a seat.
+
+404
+00:30:58,400 --> 00:31:00,400
+You don't need to avoid us.
+
+405
+00:31:09,200 --> 00:31:10,300
+Go ahead.
+
+406
+00:31:10,300 --> 00:31:14,700
+Under what conditions will you agree to withdraw the lawsuit?
+
+407
+00:31:20,400 --> 00:31:22,800
+Why should we withdraw the lawsuit?
+
+408
+00:31:29,200 --> 00:31:32,600
+Old Gao doesn't know that I'm here.
+
+409
+00:31:33,400 --> 00:31:35,600
+This is Gao's medical record.
+
+410
+00:31:36,700 --> 00:31:38,500
+This is his CT.
+
+411
+00:31:40,800 --> 00:31:43,000
+I didn't want to tell you,
+
+412
+00:31:43,000 --> 00:31:46,000
+but I couldn't think of any other way.
+
+413
+00:31:48,600 --> 00:31:50,400
+Brain glioma.
+
+414
+00:31:51,400 --> 00:31:53,100
+Malignant.
+
+415
+00:32:10,200 --> 00:32:15,300
+If you don't withdraw the lawsuit, Gao won't undergo surgery.
+
+416
+00:32:18,200 --> 00:32:20,000
+I hope...
+
+417
+00:32:22,600 --> 00:32:25,200
+you can show mercy to him.
+
+418
+00:32:25,200 --> 00:32:27,400
+He won't tell anyone.
+
+419
+00:32:27,400 --> 00:32:30,900
+If he knew I was here,
+
+420
+00:32:30,900 --> 00:32:33,900
+he probably wouldn't like it.
+
+421
+00:32:33,900 --> 00:32:36,400
+Fang Zhijing asked you to see us?
+
+422
+00:32:39,000 --> 00:32:40,300
+No.
+
+423
+00:32:40,300 --> 00:32:42,300
+He told me,
+
+424
+00:32:42,300 --> 00:32:45,000
+but it was my decision to come today.
+
+425
+00:32:45,000 --> 00:32:49,000
+He has kept a photo of all three of you together.
+
+426
+00:32:54,200 --> 00:32:56,800
+I have no choice.
+
+427
+00:32:56,800 --> 00:33:00,000
+Old Gao must undergo surgery immediately,
+
+428
+00:33:00,000 --> 00:33:05,200
+but this lawsuit won't let him go.
+
+429
+00:33:25,400 --> 00:33:27,800
+I decided to come myself.
+
+430
+00:33:27,800 --> 00:33:29,400
+Old Gao really doesn't know.
+
+431
+00:33:29,400 --> 00:33:32,000
+He has always wanted to compete with you.
+
+432
+00:33:32,000 --> 00:33:37,400
+Actually, I've never done anything for him these years.
+
+433
+00:33:38,800 --> 00:33:41,100
+He doesn't have many days left.
+
+434
+00:33:42,800 --> 00:33:45,000
+I don't want to have any regret.
+
+435
+00:33:46,200 --> 00:33:47,800
+Zhu Yun,
+
+436
+00:33:49,100 --> 00:33:51,200
+persuade Li Xun.
+
+437
+00:33:52,000 --> 00:33:55,800
+Living with hatred is very tiring.
+
+438
+00:33:56,700 --> 00:33:58,800
+He's wasted four years.
+
+439
+00:33:58,800 --> 00:34:01,400
+Don't waste time on anyone else.
+
+440
+00:34:16,900 --> 00:34:18,600
+Throw it away.
+
+441
+00:34:23,300 --> 00:34:24,800
+Li Xun.
+
+442
+00:34:24,800 --> 00:34:26,200
+Zhu Yun,
+
+443
+00:34:27,800 --> 00:34:30,000
+do you think we are easy to bully?
+
+444
+00:34:33,200 --> 00:34:36,100
+Why does Fang Zhijing think we will cooperate with him?
+
+445
+00:34:37,200 --> 00:34:40,200
+You are so sure that Fang Zhijing sent her here?
+
+446
+00:34:42,000 --> 00:34:46,400
+Gao Jianhong will never bow his head to us, nor will he die!
+
+447
+00:34:49,600 --> 00:34:51,200
+It's malignant.
+
+448
+00:34:51,200 --> 00:34:52,700
+So?
+
+449
+00:34:56,600 --> 00:34:58,300
+Fang Shumiao called me.
+
+450
+00:34:58,300 --> 00:35:01,900
+She said that the legal affairs of L &amp; P hoped that we could sit down and talk.
+
+451
+00:35:01,900 --> 00:35:05,400
+As long as we reconcile with L &amp; P, price doesn't matter.
+
+452
+00:35:06,000 --> 00:35:08,600
+It must be Fang Zhijing's doing.
+
+453
+00:35:08,600 --> 00:35:11,200
+He is working with the shareholders to put pressure on us.
+
+454
+00:35:11,200 --> 00:35:13,700
+- Is it possible... 
+ - No.
+
+455
+00:35:17,800 --> 00:35:19,000
+Okay.
+
+456
+00:35:19,000 --> 00:35:22,700
+Then I will call and tell Fang Shumiao to give them a reply.
+
+457
+00:35:22,700 --> 00:35:27,200
+Fang Shumiao also said that the CSRC has asked L &amp; Pto provide additional materials.
+
+458
+00:35:27,200 --> 00:35:33,000
+The reason is that there is sufficient uncertainty in the future operating capacity of the target company's reorganization.
+
+459
+00:35:33,000 --> 00:35:35,400
+So we can refuse to meet them.
+
+460
+00:35:38,200 --> 00:35:40,000
+Let's meet them.
+
+461
+00:35:41,400 --> 00:35:43,100
+Why can't we see them?
+
+462
+00:35:43,640 --> 00:35:46,790
+   
+
+463
+00:36:22,590 --> 00:36:24,510
+What are you doing?
+
+464
+00:36:25,280 --> 00:36:27,990
+They're waiting for you.
+
+465
+00:36:28,840 --> 00:36:30,700
+According to the 4th stratagem of the "Art of War,"
+
+466
+00:36:30,700 --> 00:36:34,180
+we should wait at ease and conserve strength
+
+467
+00:36:34,180 --> 00:36:39,860
+wear down the enemy, and wait for the enemy to be exhausted before giving a head-on blow.
+
+468
+00:36:40,410 --> 00:36:44,320
+What have you learned every day?
+
+469
+00:36:44,320 --> 00:36:46,070
+I learned it from you.
+
+470
+00:36:46,070 --> 00:36:48,820
+Why haven't you learned my strengths?
+
+471
+00:36:48,820 --> 00:36:51,340
+Hurry up. Don't occupy the reception room.
+
+472
+00:36:51,340 --> 00:36:52,570
+Settle the matter as soon as possible.
+
+473
+00:36:52,570 --> 00:36:55,130
+Lawyer He's client will come later.
+
+474
+00:36:56,760 --> 00:36:58,200
+I'll follow your orders.
+
+475
+00:37:14,010 --> 00:37:16,930
+Long time no see, Monitor Fang.
+
+476
+00:37:16,930 --> 00:37:17,970
+Long time no see.
+
+477
+00:37:17,970 --> 00:37:19,530
+Mr. Gao,
+
+478
+00:37:21,400 --> 00:37:23,850
+you are becoming less and less gentlemanly.
+
+479
+00:37:44,820 --> 00:37:48,950
+Lawyer Fang, where's your client?
+
+480
+00:37:48,950 --> 00:37:52,750
+Mr. Li has no time and entrusted me with carte blanche to talk about the lawsuit.
+
+481
+00:37:52,750 --> 00:37:55,450
+Actually, many investors want to invest in Flying these days.
+
+482
+00:37:55,450 --> 00:37:58,700
+Today some investors have gone to see Mr. Li.
+
+483
+00:37:58,700 --> 00:38:01,300
+If you want to see him, you have to take a number.
+
+484
+00:38:01,300 --> 00:38:02,620
+I see.
+
+485
+00:38:03,240 --> 00:38:05,090
+Let's get straight to the point.
+
+486
+00:38:05,090 --> 00:38:08,670
+As a leading enterprise in the game industry,
+
+487
+00:38:08,670 --> 00:38:13,420
+L &amp; P has always been devoted to supporting small game companies in the industry.
+
+488
+00:38:13,420 --> 00:38:17,030
+In order to create a good industry environment,
+
+489
+00:38:17,030 --> 00:38:23,490
+we can spend 30 million yuan in supporting the small game companies represented by you.
+
+490
+00:38:24,010 --> 00:38:25,780
+What's your requirement?
+
+491
+00:38:25,780 --> 00:38:29,210
+You withdraw the trumped-up charges against L &amp; P.
+
+492
+00:38:29,880 --> 00:38:34,010
+A trumped-up accusation against L &amp; PCompany willing to spend 30 million?
+
+493
+00:38:34,010 --> 00:38:36,720
+Aren't you worried that you'll be always blackmailed?
+
+494
+00:38:38,700 --> 00:38:44,790
+Lawyer Fang, a rumor will become a fact after it's spread many times.
+
+495
+00:38:44,790 --> 00:38:48,310
+Besides, too many companies are jealous of L &amp; P.
+
+496
+00:38:48,310 --> 00:38:52,100
+People are always interested in ridiculous stunts.
+
+497
+00:38:53,410 --> 00:38:55,870
+Ah, right.
+
+498
+00:38:55,870 --> 00:39:01,500
+Well, for your accusation, we also reserve the right to counter sue you for defamation
+
+499
+00:39:02,190 --> 00:39:04,450
+Of course, as I said,
+
+500
+00:39:04,450 --> 00:39:09,340
+as a big brother, L &amp; P always hopes to lead everyone forward together.
+
+501
+00:39:09,340 --> 00:39:11,960
+We are also more generous.
+
+502
+00:39:11,960 --> 00:39:16,180
+We can spend 30 million yuan in solving a problem,
+
+503
+00:39:16,180 --> 00:39:19,480
+but for you, it's different.
+
+504
+00:39:21,200 --> 00:39:22,720
+We...
+
+505
+00:39:23,360 --> 00:39:29,700
+As lawyers, we need to give priority to the interests of our clients.
+
+506
+00:39:30,510 --> 00:39:33,160
+You're entrusted with a class action.
+
+507
+00:39:33,160 --> 00:39:37,500
+Shouldn't you ask the other party's opinion first?
+
+508
+00:39:38,410 --> 00:39:41,720
+Is Lawyer Wang teaching me how to do things?
+
+509
+00:39:43,570 --> 00:39:47,900
+Miss Fang, to tell you the truth,
+
+510
+00:39:47,900 --> 00:39:51,020
+actually, our opening conditions are already very generous.
+
+511
+00:39:51,020 --> 00:39:53,300
+You can persuade your clients.
+
+512
+00:39:53,300 --> 00:39:56,010
+Whether it's an excellent deal isn't up to you.
+
+513
+00:39:56,010 --> 00:39:59,080
+What's more, you should have paid it in compensation long before.
+
+514
+00:40:07,130 --> 00:40:09,240
+You haven't been a lawyer for long, have you?
+
+515
+00:40:09,240 --> 00:40:10,750
+I investigated you.
+
+516
+00:40:10,750 --> 00:40:12,430
+You're not a trained lawyer.
+
+517
+00:40:12,430 --> 00:40:13,560
+You switched to the profession of a lawyer after passing
+
+518
+00:40:13,560 --> 00:40:15,560
+the National Unified Legal Professional Qualification Examination and didn't receive higher education.
+
+519
+00:40:15,560 --> 00:40:18,000
+No wonder you don't know the rules.
+
+520
+00:40:19,230 --> 00:40:23,490
+Your greediness may break down our negotiation,
+
+521
+00:40:23,490 --> 00:40:26,220
+and you'll harm your clients' interests.
+
+522
+00:40:27,000 --> 00:40:29,450
+I can't compare to you, Lawyer Wang.
+
+523
+00:40:29,450 --> 00:40:35,050
+After studying law for seven years, you're only good at doing evil for tyrants.
+
+524
+00:40:41,340 --> 00:40:45,790
+Lawyer Wang, go out.
+
+525
+00:40:45,790 --> 00:40:49,440
+I want to talk with my old classmate alone.
+
+526
+00:40:50,070 --> 00:40:51,510
+Okay.
+
+527
+00:41:08,570 --> 00:41:13,040
+Why did Li Xun suddenly ask you to see me?
+
+528
+00:41:13,930 --> 00:41:17,010
+Xu Lina went to see Li Xun and Zhu Yun.
+
+529
+00:41:17,010 --> 00:41:19,340
+They know you're ill.
+
+530
+00:41:26,900 --> 00:41:28,700
+No wonder you're here.
+
+531
+00:41:28,700 --> 00:41:32,580
+Li Xun never wastes time on something meaningless.
+
+532
+00:41:32,580 --> 00:41:35,280
+If he decides to put it off until the last minute,
+
+533
+00:41:35,280 --> 00:41:38,160
+he won't give anyone a chance to speak.
+
+534
+00:41:38,160 --> 00:41:43,180
+He asked you to come because he has been swayed.
+
+535
+00:41:46,490 --> 00:41:48,630
+But I don't need it.
+
+536
+00:41:48,630 --> 00:41:51,350
+I don't want his pity.
+
+537
+00:41:53,220 --> 00:41:57,840
+Do you know why I dared copy the "Blind Box of Love" directly?
+
+538
+00:41:58,680 --> 00:42:00,950
+Because you had no choice.
+
+539
+00:42:03,490 --> 00:42:08,070
+Have you ever wondered why I dared to copy it directly?
+
+540
+00:42:53,050 --> 00:42:54,340
+Hello, Miaomiao.
+
+541
+00:42:54,340 --> 00:42:56,660
+ Zhu Yun, Li Xun has decided to drop the lawsuit. 
+
+542
+00:42:56,660 --> 00:42:58,390
+When?
+
+543
+00:42:58,390 --> 00:43:00,600
+ Just now. 
+
+544
+00:43:00,600 --> 00:43:01,700
+So suddenly.
+
+545
+00:43:01,700 --> 00:43:03,460
+You've reached an agreement?
+
+546
+00:43:03,480 --> 00:43:05,670
+ Zhu Yun, be strong. 
+
+547
+00:43:05,670 --> 00:43:07,800
+ I sent you a video. 
+
+548
+00:43:20,000 --> 00:43:30,090
+
+
+549
+00:43:34,240 --> 00:43:36,910
+   
+
+550
+00:43:36,910 --> 00:43:39,780
+ Does he want Zhu Yun to be discredited? 
+
+551
+00:43:39,780 --> 00:43:42,230
+ Does he really care about someone? 
+
+552
+00:43:42,230 --> 00:43:45,460
+ Before I die, I must defeat him once! 
+
+553
+00:43:45,460 --> 00:43:47,130
+ Tell me whether you regret or not! 
+
+554
+00:43:47,130 --> 00:43:49,630
+ I'll go on fighting against him! 
+
+555
+00:43:49,630 --> 00:43:51,800
+ Do you also stand by him? 
+
+556
+00:43:51,800 --> 00:43:57,130
+ Zhu Yun, why did we become like this? 
+
+557
+00:43:58,760 --> 00:44:02,620
+♫  It breaks through the boundary  ♫
+
+558
+00:44:03,640 --> 00:44:06,540
+♫  The first glance during the first meeting  ♫
+
+559
+00:44:06,540 --> 00:44:14,220
+♫  Spreads and later it wins the world for me  ♫
+
+560
+00:44:14,220 --> 00:44:19,980
+♫  The clock keeps ticking without stopping for rest  ♫
+
+561
+00:44:19,980 --> 00:44:24,380
+♫  I am leaning on your shoulder  ♫
+
+562
+00:44:24,380 --> 00:44:31,420
+♫  We will not separate  ♫
+
+563
+00:44:31,420 --> 00:44:36,540
+♫  Avoid the hustle and bustle by staying with me  ♫
+
+564
+00:44:36,540 --> 00:44:40,980
+♫  It's the center crease of your palm  ♫
+
+565
+00:44:40,980 --> 00:44:44,020
+♫  That holds me up by giving me the courage to move forward  ♫
+
+566
+00:44:44,020 --> 00:44:51,380
+♫  Just like a burning flame in the night  ♫
+
+567
+00:44:54,040 --> 00:44:58,860
+♫  'Cause I believe I love you  ♫
+
+568
+00:44:58,860 --> 00:45:03,320
+♫  True love will take it's course  ♫
+
+569
+00:45:03,320 --> 00:45:07,620
+♫  The one by your side is me  ♫
+
+570
+00:45:08,580 --> 00:45:12,100
+♫  Spending such a long time with you  ♫
+
+571
+00:45:12,100 --> 00:45:16,660
+♫  Because I believe I want you  ♫
+
+572
+00:45:16,660 --> 00:45:21,120
+♫  True love will take its course  ♫
+
+573
+00:45:21,120 --> 00:45:25,580
+♫  That hot firework  ♫
+
+574
+00:45:25,580 --> 00:45:36,000
+♫  It's always you who keeps it lit up for me  ♫
+
+575
+00:45:47,460 --> 00:45:51,360
+♫  It's the intuition of the dream  ♫
+
+576
+00:45:52,220 --> 00:45:55,980
+♫  It breaks through the boundary  ♫
+
+577
+00:45:57,100 --> 00:45:59,880
+♫  The first glance during the first meeting  ♫
+
+578
+00:45:59,880 --> 00:46:05,360
+♫  Spreads and later it wins the world for me  ♫
+
+579
+00:46:05,360 --> 00:46:10,700
+♫  The clock keeps ticking without stopping for rest  ♫
+
+580
+00:46:10,700 --> 00:46:15,280
+♫  I also want to stand by your side  ♫
+
+581
+00:46:15,280 --> 00:46:17,400
+♫  As long as I am brave enough  ♫
+
+582
+00:46:17,400 --> 00:46:20,000
+♫  Every dream that I have  ♫
+
+583
+00:46:20,000 --> 00:46:27,480
+♫  Will not, will not, will not lose to time anymore  ♫
+
+584
+00:46:27,480 --> 00:46:32,260
+♫  Because I believe I love you  ♫
+
+585
+00:46:32,260 --> 00:46:36,580
+♫  True love will take its course ♫
+
+586
+00:46:36,580 --> 00:46:41,080
+♫  The one by your side is me  ♫
+
+587
+00:46:41,940 --> 00:46:45,420
+♫  Spending such a long time with you  ♫
+
+588
+00:46:45,420 --> 00:46:49,960
+♫  Because I believe I want you  ♫
+
+589
+00:46:49,960 --> 00:46:54,440
+♫  True love will take its course  ♫
+
+590
+00:46:54,440 --> 00:46:58,820
+♫  That hot firework  ♫
+
+591
+00:46:58,820 --> 00:47:09,580
+♫  It's always you who keeps it lit up for me  ♫
+
+592
+00:47:09,580 --> 00:47:14,360
+♫  'Cause I believe I love you  ♫
+
+593
+00:47:14,360 --> 00:47:18,800
+♫  True love will take its course  ♫
+
+594
+00:47:18,800 --> 00:47:23,300
+♫  The one by your side is me  ♫
+
+595
+00:47:24,060 --> 00:47:27,620
+♫  Spending such a long time with you  ♫
+
+596
+00:47:27,620 --> 00:47:32,160
+♫  Because I believe I want you  ♫
+
+597
+00:47:32,160 --> 00:47:36,600
+♫  True love will take its course  ♫
+
+598
+00:47:36,600 --> 00:47:40,980
+♫  That hot firework  ♫
+
+599
+00:47:40,980 --> 00:47:50,700
+♫  It's always you who keeps it lit up for me  ♫
+
+600
+00:47:54,460 --> 00:47:58,810
+♫  That hot firework  ♫
+
+601
+00:47:58,810 --> 00:48:09,650
+♫  It's always you who keeps it lit up for me  ♫
+
