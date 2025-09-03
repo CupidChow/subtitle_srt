@@ -1,0 +1,2792 @@
+1
+00:00:06,000 --> 00:00:16,000
+
+
+2
+00:00:17,900 --> 00:00:22,800
+♫  Everything is different from the sea to the sky  ♫
+
+3
+00:00:25,200 --> 00:00:30,600
+♫  The person I used to be has disappeared without a trace  ♫
+
+4
+00:00:32,000 --> 00:00:35,800
+♫  I no longer believe one person can redeem another  ♫
+
+5
+00:00:35,800 --> 00:00:39,400
+♫  Until when you broke into my world  ♫
+
+6
+00:00:39,400 --> 00:00:43,300
+♫  Even if the world exploded into darkness  ♫
+
+7
+00:00:43,300 --> 00:00:48,700
+♫  We bloom in the dark  ♫
+
+8
+00:00:49,580 --> 00:00:52,120
+♫  The knight and the king  ♫
+
+9
+00:00:52,120 --> 00:00:56,100
+♫  Sail at night with white sails to navigate 
+ and protect the vast ocean  ♫
+
+10
+00:00:56,100 --> 00:01:00,300
+♫  I can see a clear direction  ♫
+
+11
+00:01:00,300 --> 00:01:04,500
+♫  In which a touch of golden color flickers 
+ at the end of the wheat field  ♫
+
+12
+00:01:04,500 --> 00:01:07,100
+♫  Even if I am the king  ♫
+
+13
+00:01:07,100 --> 00:01:10,900
+♫  With supreme glory everything would be meaningless without you  ♫
+
+14
+00:01:10,900 --> 00:01:15,700
+♫  Going through fire and water is to make you remember  ♫
+
+15
+00:01:15,700 --> 00:01:19,600
+♫  The way everything was at the beginning  ♫
+
+16
+00:01:19,600 --> 00:01:22,100
+♫  If I am the king  ♫
+
+17
+00:01:22,100 --> 00:01:25,900
+♫  Who is as arrogant as the fierce wind and wild grass  ♫
+
+18
+00:01:25,900 --> 00:01:30,500
+♫  I only want you to be at my side, whatever it takes  ♫
+
+19
+00:01:30,500 --> 00:01:36,900
+♫  And everything is the way it used to be at the very beginning  ♫
+
+20
+00:01:42,800 --> 00:01:48,000
+   
+
+21
+00:01:48,000 --> 00:01:50,700
+   
+
+22
+00:02:00,100 --> 00:02:01,000
+Morning.
+
+23
+00:02:01,000 --> 00:02:02,900
+It's late, My Lady.
+
+24
+00:02:02,900 --> 00:02:04,600
+Can you have a sense of time?
+
+25
+00:02:04,600 --> 00:02:06,200
+This is your first day to work.
+
+26
+00:02:06,200 --> 00:02:10,200
+Couldn't you come earlier to get to know our company?
+
+27
+00:02:10,200 --> 00:02:14,300
+Old Zhang, stop criticizing her. It's rare for our company to recruit new employees.
+
+28
+00:02:14,300 --> 00:02:16,100
+Assign tasks now.
+
+29
+00:02:16,100 --> 00:02:17,700
+We still need to do a lot of work.
+
+30
+00:02:17,700 --> 00:02:19,400
+What if Mr. Dong asks about it?
+
+31
+00:02:19,400 --> 00:02:20,900
+I agree.
+
+32
+00:02:20,900 --> 00:02:22,700
+- You're right. 
+ - Of course.
+
+33
+00:02:22,700 --> 00:02:25,600
+Now I will introduce our work.
+
+34
+00:02:29,600 --> 00:02:33,400
+If you were not here, I'd have forgotten you were also a new employee of our company.
+
+35
+00:02:33,400 --> 00:02:35,200
+There are many available seats here.
+
+36
+00:02:35,200 --> 00:02:37,300
+Choose the one you like.
+
+37
+00:02:40,800 --> 00:02:44,500
+Let me give you a rough introduction to our company.
+
+38
+00:02:44,500 --> 00:02:46,700
+Let me first introduce the three senior employees to you.
+
+39
+00:02:46,700 --> 00:02:49,100
+I am Zhang Fang,
+
+40
+00:02:49,100 --> 00:02:50,900
+    
+ a programmer who also works as the CFO,
+
+41
+00:02:50,900 --> 00:02:55,200
+    
+ CHO and COO of our company.
+
+42
+00:02:55,800 --> 00:02:59,500
+so I'm in charge of all the company affairs.
+
+43
+00:02:59,500 --> 00:03:03,500
+This main technical backbone is Zhao Teng.
+
+44
+00:03:03,500 --> 00:03:05,600
+As the CTO,
+
+45
+00:03:05,600 --> 00:03:07,500
+   
+ he is mainly in charge of game design, 
+
+46
+00:03:07,500 --> 00:03:08,900
+    
+ test and so on.
+
+47
+00:03:08,900 --> 00:03:12,000
+That man is good at nothing.
+
+48
+00:03:12,000 --> 00:03:13,900
+    
+ I don't know what he works as, either.
+
+49
+00:03:13,900 --> 00:03:16,500
+    
+ He is Guo Shijie.
+
+50
+00:03:18,800 --> 00:03:22,700
+He said he is the art director in charge of the animation,
+
+51
+00:03:22,700 --> 00:03:25,700
+UI, 3D, floor sweeping, floor mopping, and parcel reception.
+
+52
+00:03:25,700 --> 00:03:26,900
+Anyway, he's a good-for-nothing.
+
+53
+00:03:26,900 --> 00:03:28,400
+Why didn't he become a programmer?
+
+54
+00:03:28,400 --> 00:03:30,100
+He did want to.
+
+55
+00:03:30,100 --> 00:03:32,700
+I-I can do everything except this.
+
+56
+00:03:32,700 --> 00:03:34,600
+If he could do this, he'd become a programmer.
+
+57
+00:03:34,600 --> 00:03:38,600
+The last member is Mr. Dong who usually stays in the office.
+
+58
+00:03:38,600 --> 00:03:40,400
+Mr. Dong.
+
+59
+00:03:42,700 --> 00:03:45,400
+Mr. Dong, Mr. Dong...
+
+60
+00:03:46,200 --> 00:03:50,000
+You'll know about him after he comes.
+
+61
+00:03:53,150 --> 00:03:57,700
+Well, Zhao Teng, assemble computers for them.
+
+62
+00:03:58,600 --> 00:04:01,300
+Zhao Teng, assemble computers!
+
+63
+00:04:01,300 --> 00:04:02,800
+Don't pretend to be deaf.
+
+64
+00:04:02,800 --> 00:04:04,700
+Assemble computers!
+
+65
+00:04:04,700 --> 00:04:06,400
+Where are the computers?
+
+66
+00:04:06,400 --> 00:04:08,200
+I can do it.
+
+67
+00:04:12,600 --> 00:04:15,000
+You criminal, also learned this?
+
+68
+00:04:15,800 --> 00:04:17,600
+Yes.
+
+69
+00:04:17,600 --> 00:04:19,200
+Good.
+
+70
+00:04:19,200 --> 00:04:21,100
+Follow me.
+
+71
+00:04:22,800 --> 00:04:25,000
+What happened? Did anyone call me just now?
+
+72
+00:04:25,000 --> 00:04:26,400
+You were asked to assemble computers.
+
+73
+00:04:26,400 --> 00:04:28,100
+Could you be friendly?
+
+74
+00:04:28,100 --> 00:04:30,200
+They're new colleagues.
+
+75
+00:05:01,400 --> 00:05:06,100
+Well, you've finished assembling a computer within five minutes?
+
+76
+00:05:07,600 --> 00:05:09,400
+It's unbelievable.
+
+77
+00:05:09,400 --> 00:05:12,000
+Well, what did you do in the past?
+
+78
+00:05:12,800 --> 00:05:15,600
+I assembled the computers of this model three years ago,
+
+79
+00:05:15,600 --> 00:05:18,700
+but I do the same now.
+
+80
+00:05:19,700 --> 00:05:23,600
+It's not a computer offered to you for free.
+
+81
+00:05:24,500 --> 00:05:26,200
+It's enough that this computer can work.
+
+82
+00:05:26,200 --> 00:05:28,200
+You still can work on it.
+
+83
+00:05:32,500 --> 00:05:34,000
+It really can be started.
+
+84
+00:05:34,000 --> 00:05:35,200
+Don't take off your gloves.
+
+85
+00:05:35,200 --> 00:05:37,500
+You still need to assemble the other one. Assemble one for her.
+
+86
+00:05:37,500 --> 00:05:40,300
+It's none of my business. I won't do it for her.
+
+87
+00:05:43,000 --> 00:05:44,200
+Well, what's wrong?
+
+88
+00:05:44,200 --> 00:05:48,000
+Aren't you friends coming together?
+
+89
+00:05:48,000 --> 00:05:49,600
+I can do it.
+
+90
+00:05:50,200 --> 00:05:52,500
+Watch out. You almost damaged the parcels.
+
+91
+00:05:52,500 --> 00:05:54,000
+What?
+
+92
+00:05:54,000 --> 00:05:59,000
+You should reflect on your behavior of almost occupying the entire corridor!
+
+93
+00:05:59,000 --> 00:06:01,900
+What do you mean? Can you be polite?
+
+94
+00:06:01,900 --> 00:06:04,900
+I'm just impolite to you. Rubbish!
+
+95
+00:06:04,900 --> 00:06:06,400
+Don't you think I dare beat you?
+
+96
+00:06:06,400 --> 00:06:08,500
+You-You dare beat me? Come on.
+
+97
+00:06:08,500 --> 00:06:10,000
+Beat here. Beat here.
+
+98
+00:06:10,000 --> 00:06:12,200
+If you don't do so, you're not a man!
+
+99
+00:06:12,200 --> 00:06:13,400
+Don't stop him. Let go of him.
+
+100
+00:06:13,400 --> 00:06:15,900
+Let him beat me!
+
+101
+00:06:24,500 --> 00:06:26,400
+Mr. Zhang.
+
+102
+00:06:38,400 --> 00:06:40,100
+Zhang Fang!
+
+103
+00:06:40,200 --> 00:06:44,400
+I told you not to place parcels at the gate of our company many times.
+
+104
+00:06:44,400 --> 00:06:47,500
+It'll block our road to making a fortune. Don't you know it?
+
+105
+00:06:47,500 --> 00:06:49,800
+You don't keep it in mind, right?
+
+106
+00:06:51,000 --> 00:06:52,800
+You're Mr. Dong?
+
+107
+00:06:53,800 --> 00:06:55,400
+It's you.
+
+108
+00:06:56,300 --> 00:06:58,000
+Sure enough, enemies always meet.
+
+109
+00:06:58,000 --> 00:07:01,100
+You came to work for me?
+
+110
+00:07:01,100 --> 00:07:03,000
+Yeah.
+
+111
+00:07:03,000 --> 00:07:06,800
+Let me give you an introduction. This is Zhu Yun, a new employee who studied abroad.
+
+112
+00:07:06,800 --> 00:07:09,300
+She is very capable.
+
+113
+00:07:09,300 --> 00:07:12,400
+An overseas returnee? Amazing.
+
+114
+00:07:13,300 --> 00:07:15,000
+Overseas returnee.
+
+115
+00:07:16,000 --> 00:07:18,300
+- What about him? 
+ - This is Li Xun.
+
+116
+00:07:18,300 --> 00:07:20,200
+He-He...
+
+117
+00:07:20,900 --> 00:07:24,600
+He-He... Anyway, I-I recruited them as you required.
+
+118
+00:07:24,600 --> 00:07:26,500
+All in English?
+
+119
+00:07:27,200 --> 00:07:29,000
+What are you reading?
+
+120
+00:07:31,000 --> 00:07:32,800
+Personality.
+
+121
+00:07:32,800 --> 00:07:35,800
+I'm asking you what you're reading.
+
+122
+00:07:35,800 --> 00:07:37,200
+GitHub.
+
+123
+00:07:37,200 --> 00:07:39,200
+Speak Chinese.
+
+124
+00:07:39,200 --> 00:07:42,400
+A foreign exchange website for programmers.
+
+125
+00:07:42,400 --> 00:07:44,400
+I didn't ask you.
+
+126
+00:07:47,400 --> 00:07:49,500
+You're talkative.
+
+127
+00:07:50,800 --> 00:07:52,000
+You recruited her?
+
+128
+00:07:52,000 --> 00:07:53,500
+I-I haven't-haven't...
+
+129
+00:07:53,500 --> 00:07:55,200
+Teach her to keep silent.
+
+130
+00:07:55,200 --> 00:07:57,000
+I'll train her.
+
+131
+00:07:58,800 --> 00:08:00,600
+What an awesome overseas returnee.
+
+132
+00:08:00,600 --> 00:08:02,600
+So talkative.
+
+133
+00:08:07,200 --> 00:08:08,600
+Mr. Dong.
+
+134
+00:08:09,400 --> 00:08:12,800
+I told you many times. This place is not your house.
+
+135
+00:08:12,800 --> 00:08:14,800
+How dare you wear slippers at work!
+
+136
+00:08:14,800 --> 00:08:17,100
+- Can you follow the rules? 
+ - I see.
+
+137
+00:08:17,100 --> 00:08:19,000
+Edematous. My feet are edematous.
+
+138
+00:08:19,000 --> 00:08:21,000
+Go on working!
+
+139
+00:08:26,600 --> 00:08:28,500
+Here is another bag.
+
+140
+00:08:32,400 --> 00:08:34,400
+I'm helping you lose weight.
+
+141
+00:08:34,400 --> 00:08:36,600
+You... No need.
+
+142
+00:08:39,200 --> 00:08:41,700
+Mr. Dong, you haven't come for long.
+
+143
+00:08:41,700 --> 00:08:44,600
+Let me report our work to you.
+
+144
+00:08:59,300 --> 00:09:00,200
+Look.
+
+145
+00:09:00,200 --> 00:09:03,600
+Do they look like a tyrant and a eunuch?
+
+146
+00:09:04,600 --> 00:09:06,600
+What's Mr. Dong's background?
+
+147
+00:09:09,000 --> 00:09:10,200
+Why don't you tell me?
+
+148
+00:09:10,200 --> 00:09:12,100
+He is a gang leader?
+
+149
+00:09:12,100 --> 00:09:14,700
+There are no gangs in China.
+
+150
+00:09:21,900 --> 00:09:25,500
+In other words, during my absence,
+
+151
+00:09:25,500 --> 00:09:29,200
+the only project of our company,
+
+152
+00:09:29,200 --> 00:09:30,600
+"Invincible General."
+
+153
+00:09:30,600 --> 00:09:31,800
+Yes.
+
+154
+00:09:31,800 --> 00:09:35,700
+"Invincible General" is still being designed.
+
+155
+00:09:36,900 --> 00:09:42,100
+Don't tell me that you didn't even make any progress.
+
+156
+00:09:42,800 --> 00:09:45,300
+To be specific...
+
+157
+00:09:45,300 --> 00:09:47,800
+Shut up! Meeting!
+
+158
+00:09:49,600 --> 00:09:51,400
+Meeting!
+
+159
+00:10:07,000 --> 00:10:10,000
+Well, I can't understand.
+
+160
+00:10:10,000 --> 00:10:14,300
+Why couldn't you complete such a simple game in a few months?
+
+161
+00:10:14,300 --> 00:10:16,700
+Do you know how much I invested in it?
+
+162
+00:10:16,700 --> 00:10:19,600
+But now I can't even see a demo.
+
+163
+00:10:19,600 --> 00:10:21,500
+You're incompetent,
+
+164
+00:10:22,300 --> 00:10:24,800
+aren't you?
+
+165
+00:10:24,800 --> 00:10:25,800
+Yes, I am.
+
+166
+00:10:25,800 --> 00:10:27,300
+And you.
+
+167
+00:10:28,100 --> 00:10:30,000
+Good-for-nothing.
+
+168
+00:10:32,400 --> 00:10:35,500
+I admit that I should be blamed for it.
+
+169
+00:10:36,200 --> 00:10:38,000
+I admit.
+
+170
+00:10:46,600 --> 00:10:51,600
+Well, do you think our game is fun?
+
+171
+00:10:51,600 --> 00:10:54,400
+I think it's...
+
+172
+00:10:57,400 --> 00:10:59,600
+not fun.
+
+173
+00:10:59,600 --> 00:11:01,100
+You don't even think it's fun.
+
+174
+00:11:01,100 --> 00:11:03,800
+How can it attract players?
+
+175
+00:11:03,800 --> 00:11:08,100
+When you introduced this project to me, you used a special term...
+
+176
+00:11:08,100 --> 00:11:10,700
+- Hot.  
+ - Hot!
+
+177
+00:11:10,700 --> 00:11:15,400
+Tell me why you can't go on with this hot game.
+
+178
+00:11:15,400 --> 00:11:16,800
+Why?
+
+179
+00:11:16,800 --> 00:11:18,000
+Did you make an analysis?
+
+180
+00:11:18,000 --> 00:11:20,600
+What's the game?
+
+181
+00:11:20,600 --> 00:11:22,500
+Don't break in.
+
+182
+00:11:24,600 --> 00:11:28,000
+How could you recruit such an ill-behaved employee?
+
+183
+00:11:28,000 --> 00:11:30,700
+What are we doing? We're having a strategic meeting.
+
+184
+00:11:30,700 --> 00:11:35,000
+If you're all ill-behaved, will we win?
+
+185
+00:11:42,200 --> 00:11:43,600
+Well,
+
+186
+00:11:44,800 --> 00:11:47,900
+facing you good-for-nothings, I don't want to go on scolding.
+
+187
+00:11:47,900 --> 00:11:50,300
+Now I just want one of you to stand up
+
+188
+00:11:50,300 --> 00:11:53,700
+and tell me he can complete this project alone!
+
+189
+00:11:54,600 --> 00:11:56,000
+See?
+
+190
+00:12:02,000 --> 00:12:03,700
+Stop!
+
+191
+00:12:07,800 --> 00:12:09,400
+Did I dismiss the meeting?
+
+192
+00:12:09,400 --> 00:12:11,800
+Can you get a result from this meeting?
+
+193
+00:12:13,400 --> 00:12:16,000
+If not, don't waste time.
+
+194
+00:12:19,800 --> 00:12:23,200
+Say again. Say again!
+
+195
+00:12:23,200 --> 00:12:26,000
+- Say again! 
+ - I can!
+
+196
+00:12:27,900 --> 00:12:30,700
+I can complete this project alone.
+
+197
+00:12:42,000 --> 00:12:43,600
+You...
+
+198
+00:12:45,100 --> 00:12:46,400
+can?
+
+199
+00:12:46,400 --> 00:12:47,900
+I can.
+
+200
+00:12:51,600 --> 00:12:54,000
+- Zhu Yun. 
+ - Zhu Yun.
+
+201
+00:12:54,700 --> 00:12:57,400
+The doctor returned from overseas.
+
+202
+00:12:58,300 --> 00:13:02,000
+You may know a little about our corporate culture.
+
+203
+00:13:02,000 --> 00:13:05,000
+ This company has corporate culture? 
+
+204
+00:13:05,000 --> 00:13:09,000
+When the boss speaks, don't break in.
+
+205
+00:13:09,000 --> 00:13:11,900
+If you promise the boss, it means that you ensure you'll complete it.
+
+206
+00:13:11,900 --> 00:13:16,700
+So you still can?
+
+207
+00:13:16,700 --> 00:13:18,300
+I can.
+
+208
+00:13:20,800 --> 00:13:24,400
+I like such employees as you who always rush forward.
+
+209
+00:13:25,200 --> 00:13:27,000
+Do you know why?
+
+210
+00:13:27,000 --> 00:13:32,400
+Such employees are prone to yielding to trouble.
+
+211
+00:13:32,400 --> 00:13:36,600
+Especially when such a proud and arrogant
+
+212
+00:13:36,600 --> 00:13:38,800
+doctor returned from overseas
+
+213
+00:13:38,800 --> 00:13:41,200
+and able woman apologizes to me,
+
+214
+00:13:41,200 --> 00:13:43,200
+it's more exciting.
+
+215
+00:13:45,800 --> 00:13:48,000
+Then I entrust the project...
+
+216
+00:13:48,000 --> 00:13:49,200
+"Invincible General"
+
+217
+00:13:49,200 --> 00:13:50,900
+to you.
+
+218
+00:13:52,100 --> 00:13:54,800
+You were in charge of this project before?
+
+219
+00:13:54,800 --> 00:13:57,600
+You help her with it.
+
+220
+00:13:57,600 --> 00:13:58,700
+And that thorn...
+
+221
+00:13:58,700 --> 00:14:00,200
+Li Xun!
+
+222
+00:14:00,200 --> 00:14:02,600
+You also join her group!
+
+223
+00:14:06,000 --> 00:14:08,000
+Well, Iron Lady.
+
+224
+00:14:08,000 --> 00:14:09,500
+Iron Lady!
+
+225
+00:14:10,400 --> 00:14:12,700
+Iron Lady.
+
+226
+00:14:12,700 --> 00:14:14,100
+You're the group leader.
+
+227
+00:14:14,100 --> 00:14:16,800
+You three are a project group.
+
+228
+00:14:16,800 --> 00:14:19,200
+If you complete it, you'll have a bonus and get a raise,
+
+229
+00:14:19,200 --> 00:14:21,900
+or else you'll be fired together!
+
+230
+00:14:21,900 --> 00:14:23,700
+Understand?
+
+231
+00:14:29,000 --> 00:14:33,000
+Hello, Dong's special car will serve you.
+
+232
+00:14:33,000 --> 00:14:36,000
+What's the game you just talked about?
+
+233
+00:14:38,200 --> 00:14:42,000
+Group Leader, you may be capable.
+
+234
+00:14:42,000 --> 00:14:48,600
+However, didn't you act recklessly before knowing about this game?
+
+235
+00:14:48,600 --> 00:14:51,500
+I just wanted to help you solve the problem.
+
+236
+00:14:52,500 --> 00:14:55,500
+You help us solve the problem?
+
+237
+00:14:55,500 --> 00:15:00,000
+You just worried that Mr. Dong would fight with your friend.
+
+238
+00:15:00,800 --> 00:15:02,500
+Don't forget the fan.
+
+239
+00:15:06,400 --> 00:15:09,200
+Then the group of "Invincible General" is officially established today.
+
+240
+00:15:09,200 --> 00:15:11,100
+I assign today's tasks.
+
+241
+00:15:11,100 --> 00:15:14,800
+Zhao Teng, you summarize the previous information for the following project meeting.
+
+242
+00:15:14,800 --> 00:15:16,500
+Okay.
+
+243
+00:15:16,500 --> 00:15:21,000
+You, give us technical support temporarily.
+
+244
+00:15:21,000 --> 00:15:24,600
+Specifically, assemble the computer for me first.
+
+245
+00:15:27,900 --> 00:15:29,900
+- Any problem? 
+ - No problem, Group Leader.
+
+246
+00:15:29,900 --> 00:15:32,300
+- Let's begin. 
+ - Okay.
+
+247
+00:15:32,900 --> 00:15:36,950
+Let me give you an introduction to the current project first.
+
+248
+00:16:17,800 --> 00:16:21,200
+Li Xun, every dog has its day.
+
+249
+00:16:26,700 --> 00:16:28,000
+Morning.
+
+250
+00:16:30,600 --> 00:16:32,000
+Good morning.
+
+251
+00:16:34,200 --> 00:16:35,000
+- Morning. 
+ - Morning.
+
+252
+00:16:35,000 --> 00:16:37,200
+- Morning, Group Leader. 
+ - Morning.
+
+253
+00:16:40,400 --> 00:16:44,000
+Zhao Teng. Li Xun. Go in for a meeting.
+
+254
+00:16:44,000 --> 00:16:45,500
+Okay.
+
+255
+00:16:47,600 --> 00:16:49,400
+Enjoy yourself.
+
+256
+00:16:50,400 --> 00:16:52,400
+Li Xun, meeting!
+
+257
+00:16:59,200 --> 00:17:03,400
+Group Leader, your friend won't come.
+
+258
+00:17:03,400 --> 00:17:05,700
+Don't worry. He'll come in.
+
+259
+00:17:10,600 --> 00:17:12,300
+Let's begin.
+
+260
+00:17:13,600 --> 00:17:18,600
+"Invincible General" is a war simulation game.
+
+261
+00:17:18,600 --> 00:17:23,400
+It's simple and focuses on fierceness, excitement, and righteous ardor.
+
+262
+00:17:24,400 --> 00:17:26,400
+Li Xun, have you finished watching it?
+
+263
+00:17:26,400 --> 00:17:28,300
+What do you think of it?
+
+264
+00:17:29,000 --> 00:17:31,200
+Fierceness, excitement, and righteous ardor?
+
+265
+00:17:31,200 --> 00:17:32,800
+Are you kidding?
+
+266
+00:17:33,400 --> 00:17:35,100
+What's wrong?
+
+267
+00:17:36,500 --> 00:17:38,900
+You can't even be aware of such obvious errors?
+
+268
+00:17:38,900 --> 00:17:41,400
+Have you forgotten the history you learned?
+
+269
+00:17:45,900 --> 00:17:48,500
+That is Lü Bu, isn't that?
+
+270
+00:17:49,600 --> 00:17:53,500
+The Warring States Period is the age background of this game,
+
+271
+00:17:53,500 --> 00:17:56,500
+but Lü Bu was born in the Three Kingdoms Period.
+
+272
+00:17:56,500 --> 00:17:59,100
+Really? Yeah.
+
+273
+00:18:00,000 --> 00:18:03,500
+Xiaojian should be blamed for it.
+
+274
+00:18:03,500 --> 00:18:06,100
+He must have imitated it from other games.
+
+275
+00:18:09,100 --> 00:18:10,300
+Anything else?
+
+276
+00:18:10,300 --> 00:18:12,200
+Take a closer look.
+
+277
+00:18:17,600 --> 00:18:18,800
+No problem.
+
+278
+00:18:18,800 --> 00:18:21,200
+The Three Kingdoms Period is
+
+279
+00:18:21,200 --> 00:18:23,300
+the age background of more than 90% of the war simulation games on the market,
+
+280
+00:18:23,300 --> 00:18:25,300
+but the background of this game is the Warring States Period.
+
+281
+00:18:25,300 --> 00:18:28,200
+Qin Shihuang eliminated and unified the six states.
+
+282
+00:18:28,200 --> 00:18:32,400
+If players can be attracted by this story, it'll be a major breakthrough.
+
+283
+00:18:33,800 --> 00:18:35,600
+I didn't mean this.
+
+284
+00:18:37,000 --> 00:18:40,200
+There were only saddles but no stirrups during the Warring States Period.
+
+285
+00:18:40,200 --> 00:18:42,000
+Stirrups were invented in the Han Dynasty.
+
+286
+00:18:42,000 --> 00:18:43,500
+Really?
+
+287
+00:18:46,200 --> 00:18:48,200
+Fire was the totem of the Zhou people.
+
+288
+00:18:48,200 --> 00:18:50,400
+Qin Shihuang believed in the Five-element Theory.
+
+289
+00:18:50,400 --> 00:18:53,500
+He thought the Qin Dynasty would extinguish the fire Zhou as water.
+
+290
+00:18:53,500 --> 00:18:56,900
+Black stands for water, so the Qin people liked black.
+
+291
+00:18:57,600 --> 00:19:01,500
+Qin Shihuang went on an expedition in conspicuous lemon yellow?
+
+292
+00:19:01,500 --> 00:19:03,700
+Is he SpongeBob SquarePants?
+
+293
+00:19:09,600 --> 00:19:11,700
+The current games are too low.
+
+294
+00:19:11,700 --> 00:19:14,800
+Even the street fighting isn't so low.
+
+295
+00:19:16,200 --> 00:19:17,600
+Set it aside.
+
+296
+00:19:17,600 --> 00:19:21,400
+What's more, everything in this game is related to the Three Kingdoms Period,
+
+297
+00:19:21,400 --> 00:19:23,700
+which is inconsistent with history.
+
+298
+00:19:23,700 --> 00:19:26,000
+You know much about history.
+
+299
+00:19:26,000 --> 00:19:28,300
+However, is it so important?
+
+300
+00:19:28,300 --> 00:19:31,400
+Users are always much smarter and more sensitive than who they are in your imagination.
+
+301
+00:19:31,400 --> 00:19:36,500
+Your current perfunctoriness will finally be reflected as a game achievement.
+
+302
+00:19:40,200 --> 00:19:43,700
+Your criticism makes sense.
+
+303
+00:19:43,700 --> 00:19:46,700
+Can you give some substantive suggestions for modification?
+
+304
+00:19:46,700 --> 00:19:49,000
+Design a new one.
+
+305
+00:19:49,000 --> 00:19:54,500
+Well, the players of this game are less-educated.
+
+306
+00:19:54,500 --> 00:19:57,900
+They won't care about and know these.
+
+307
+00:19:57,900 --> 00:20:00,100
+Do you agree, Group Leader?
+
+308
+00:20:01,100 --> 00:20:03,500
+- Design a new one. 
+ - What?
+
+309
+00:20:05,800 --> 00:20:08,700
+Oh, no. Oh, no. Oh, no.
+
+310
+00:20:08,700 --> 00:20:12,200
+Zhao Teng, I heard from Guo Shijie that you'd designed many games,
+
+311
+00:20:12,200 --> 00:20:14,700
+but none of them were popular.
+
+312
+00:20:14,700 --> 00:20:16,600
+You can't go on like this.
+
+313
+00:20:16,600 --> 00:20:19,300
+Don't you want to design a game that can show your strength?
+
+314
+00:20:19,300 --> 00:20:24,000
+I also wanted to design a popular one, but I couldn't.
+
+315
+00:20:24,000 --> 00:20:27,000
+No one cooperated with me, but I still...
+
+316
+00:20:27,000 --> 00:20:29,700
+- Go on. 
+ - Just do this first.
+
+317
+00:20:29,700 --> 00:20:31,300
+Well, it is too bad.
+
+318
+00:20:31,300 --> 00:20:33,900
+- It'll take much time to modify this game. 
+ - You must do so.
+
+319
+00:20:33,900 --> 00:20:37,400
+Don't be afraid of trouble and think much. Just do your best.
+
+320
+00:20:37,400 --> 00:20:38,800
+Now I'm the project leader.
+
+321
+00:20:38,800 --> 00:20:41,000
+If something really goes wrong, you won't be blamed.
+
+322
+00:20:41,000 --> 00:20:43,500
+I don't worry about this.
+
+323
+00:20:44,800 --> 00:20:49,300
+A friend told me not to always do easy things,
+
+324
+00:20:51,400 --> 00:20:54,700
+that is, we should look for trouble actively.
+
+325
+00:20:54,700 --> 00:20:57,000
+It's useless to escape.
+
+326
+00:21:03,700 --> 00:21:05,500
+Come on.
+
+327
+00:21:11,600 --> 00:21:14,900
+Do you think she is a masochist?
+
+328
+00:21:23,800 --> 00:21:26,200
+Okay. I won't escape.
+
+329
+00:21:26,200 --> 00:21:28,900
+Otherwise, I'm a coward!
+
+330
+00:21:31,400 --> 00:21:33,000
+- Hello. 
+ - Is this your take-out?
+
+331
+00:21:33,000 --> 00:21:35,000
+Yes. Thank you.
+
+332
+00:21:40,500 --> 00:21:42,400
+I'm treating you to breakfast.
+
+333
+00:21:42,400 --> 00:21:43,900
+- So good? 
+ - Thanks, Group Leader.
+
+334
+00:21:43,900 --> 00:21:46,400
+- Thanks, Group Leader. 
+ - You're welcome.
+
+335
+00:21:51,700 --> 00:21:53,600
+Well, this is for you.
+
+336
+00:21:53,600 --> 00:21:55,300
+This is for me.
+
+337
+00:21:56,200 --> 00:21:58,700
+Try your best to read this book.
+
+338
+00:22:03,700 --> 00:22:07,000
+If you have any questions, you can ask me.
+
+339
+00:22:23,000 --> 00:22:24,500
+Li Xun.
+
+340
+00:22:28,000 --> 00:22:31,000
+Li Xun, do you still like me?
+
+341
+00:22:32,000 --> 00:22:34,100
+When can you no longer be self-sentimental?
+
+342
+00:22:34,100 --> 00:22:37,300
+That's good. Then we can cooperate.
+
+343
+00:22:37,300 --> 00:22:40,800
+Group Leader Zhu, when did I promise to cooperate with you?
+
+344
+00:22:40,800 --> 00:22:43,200
+If you don't want to cooperate, you can resign.
+
+345
+00:22:45,310 --> 00:22:46,790
+Now I'm the project leader.
+
+346
+00:22:46,800 --> 00:22:50,100
+As long as you don't quit Flying, we must cooperate.
+
+347
+00:22:50,800 --> 00:22:53,100
+Don't try to drive me away by playing tricks on me.
+
+348
+00:22:53,100 --> 00:22:56,000
+Before getting L&amp;P back, I won't leave.
+
+349
+00:22:56,000 --> 00:22:57,600
+I'll treat you as my colleague.
+
+350
+00:22:57,600 --> 00:22:59,800
+I hope you can do the same.
+
+351
+00:23:10,600 --> 00:23:11,600
+Ms. Xu.
+
+352
+00:23:12,800 --> 00:23:14,400
+Ms. Xu.
+
+353
+00:23:18,000 --> 00:23:19,800
+Ms. Xu.
+
+354
+00:23:21,600 --> 00:23:23,500
+ Put these printed materials in the meeting room later. 
+
+355
+00:23:23,500 --> 00:23:25,100
+ Okay. 
+
+356
+00:23:28,300 --> 00:23:30,300
+ - Ms. Xu. 
+ - There should be no something wrong. 
+
+357
+00:23:30,300 --> 00:23:32,300
+ Send the summary sheet to me later. 
+
+358
+00:23:32,300 --> 00:23:33,700
+ Okay. 
+
+359
+00:23:33,700 --> 00:23:35,900
+Li Xun really went to that Flying Network?
+
+360
+00:23:35,900 --> 00:23:39,300
+Not only Li Xun, Zhu Yun also went there.
+
+361
+00:23:40,000 --> 00:23:43,000
+Tell me about Flying Network.
+
+362
+00:23:44,000 --> 00:23:47,300
+This company was founded less than one year ago,
+
+363
+00:23:47,300 --> 00:23:49,200
+had only four members,
+
+364
+00:23:49,200 --> 00:23:51,800
+with registered capital of only 1 million yuan.
+
+365
+00:23:51,800 --> 00:23:55,300
+The information you're browsing is about their boss, Dong Siyang.
+
+366
+00:23:55,300 --> 00:23:59,700
+He used to be a wrestler but didn't make any achievements.
+
+367
+00:23:59,700 --> 00:24:02,700
+He quit when he was ineligible for wrestling
+
+368
+00:24:02,700 --> 00:24:05,900
+and is now a taxi driver.
+
+369
+00:24:06,900 --> 00:24:12,000
+Later, I heard that he was imprisoned for hurting someone to get revenge for his friend.
+
+370
+00:24:13,600 --> 00:24:16,100
+What's their capital source?
+
+371
+00:24:16,800 --> 00:24:19,800
+It comes from Dong Siyang.
+
+372
+00:24:19,800 --> 00:24:25,400
+The start-up capital comes from the compensation for demolition of Dong Siyang's old home.
+
+373
+00:24:25,400 --> 00:24:27,400
+He is an upstart.
+
+374
+00:24:27,400 --> 00:24:31,700
+He knows little about the internet, let alone game development.
+
+375
+00:24:31,700 --> 00:24:37,500
+And his three employees are all good-for-nothings.
+
+376
+00:24:39,440 --> 00:24:41,550
+Show their games to me.
+
+377
+00:24:41,550 --> 00:24:43,160
+None.
+
+378
+00:24:45,030 --> 00:24:48,860
+Their company has only one registered game called...
+
+379
+00:24:49,820 --> 00:24:52,010
+"Invincible General".
+
+380
+00:24:53,270 --> 00:24:55,640
+It doesn't conform to the current market trend at all.
+
+381
+00:24:55,640 --> 00:24:59,440
+It's been a year since the registration, but it hasn't been put into service yet.
+
+382
+00:24:59,440 --> 00:25:01,050
+Don't worry.
+
+383
+00:25:01,050 --> 00:25:04,510
+Their company has zero performance now.
+
+384
+00:25:04,510 --> 00:25:06,420
+It won't last long.
+
+385
+00:25:07,960 --> 00:25:12,710
+Li Xun and Zhu Yun joined such a terrible company.
+
+386
+00:25:12,710 --> 00:25:14,760
+Two madmen.
+
+387
+00:25:17,480 --> 00:25:20,490
+Do you think Li Xun is a madman or a fool?
+
+388
+00:25:23,350 --> 00:25:25,160
+Keep an eye on him.
+
+389
+00:25:27,110 --> 00:25:28,920
+I see.
+
+390
+00:25:41,140 --> 00:25:42,730
+Okay.
+
+391
+00:25:43,370 --> 00:25:45,100
+I'm leaving.
+
+392
+00:25:50,400 --> 00:25:51,730
+Old Gao,
+
+393
+00:25:51,730 --> 00:25:56,210
+why won't you allow me to be the ambassador for the "Pink Memory"?
+
+394
+00:25:58,380 --> 00:26:00,020
+Your image is not suitable.
+
+395
+00:26:00,020 --> 00:26:03,370
+"Pink Memory" is an education simulation game about first love,
+
+396
+00:26:03,370 --> 00:26:07,060
+so its image ambassador should match its style.
+
+397
+00:26:10,350 --> 00:26:14,620
+It means that my temperament is bad.
+
+398
+00:26:16,210 --> 00:26:18,070
+Lina, don't be mischievous.
+
+399
+00:26:18,070 --> 00:26:19,500
+This is the company's business,
+
+400
+00:26:19,500 --> 00:26:21,550
+and many shareholders voted for this decision.
+
+401
+00:26:21,550 --> 00:26:22,940
+Don't lie to me.
+
+402
+00:26:22,940 --> 00:26:28,030
+I heard that only you voted against this decision in the meeting.
+
+403
+00:26:30,000 --> 00:26:31,400
+My company has so many games.
+
+404
+00:26:31,400 --> 00:26:33,870
+You can choose another one.
+
+405
+00:26:40,690 --> 00:26:42,430
+I just want this.
+
+406
+00:26:42,430 --> 00:26:44,500
+I like it.
+
+407
+00:26:44,500 --> 00:26:47,350
+Honey, don't be mischievous.
+
+408
+00:26:47,350 --> 00:26:48,960
+Now everyone knows you're my wife.
+
+409
+00:26:48,960 --> 00:26:52,210
+If I didn't vote against it, no one would dare do so.
+
+410
+00:26:52,210 --> 00:26:57,020
+Then others won't give opinions, and only I have the say.
+
+411
+00:27:00,590 --> 00:27:03,010
+You're indeed the only one to have the say.
+
+412
+00:27:06,490 --> 00:27:09,350
+Well, give me a reason.
+
+413
+00:27:09,350 --> 00:27:13,030
+Now that you voted against it, tell me why I'm ineligible.
+
+414
+00:27:13,030 --> 00:27:18,300
+I'm not young enough or don't look like a first love?
+
+415
+00:27:21,140 --> 00:27:23,140
+The sage even didn't avoid his relatives when recommending talents.
+
+416
+00:27:23,140 --> 00:27:27,250
+I'm your wife, so you forced me out?
+
+417
+00:27:28,960 --> 00:27:30,280
+Okay.
+
+418
+00:27:30,280 --> 00:27:31,750
+I promise.
+
+419
+00:27:31,750 --> 00:27:34,400
+I'll notify the Publicity Department of it.
+
+420
+00:27:34,400 --> 00:27:35,500
+Come on.
+
+421
+00:27:35,500 --> 00:27:39,260
+Sit down. Let me make coffee for you.
+
+422
+00:28:00,030 --> 00:28:03,360
+You know My Heart Flying?
+
+423
+00:28:06,680 --> 00:28:08,190
+No.
+
+424
+00:28:08,190 --> 00:28:09,780
+Li Xun joined it.
+
+425
+00:28:09,780 --> 00:28:12,160
+I don't know what he'll do.
+
+426
+00:28:14,170 --> 00:28:16,260
+He'd been imprisoned for three years.
+
+427
+00:28:16,260 --> 00:28:18,100
+What can he do?
+
+428
+00:28:18,100 --> 00:28:20,970
+The computer industry is always changing.
+
+429
+00:28:20,970 --> 00:28:23,070
+He can't catch up.
+
+430
+00:28:25,500 --> 00:28:27,960
+You're so unconfident of him?
+
+431
+00:28:31,270 --> 00:28:34,460
+Don't talk nonsense. I'm confident in you.
+
+432
+00:28:40,930 --> 00:28:43,560
+What's more, it's just a terrible company.
+
+433
+00:28:43,560 --> 00:28:46,880
+You don't need to keep an eye on it.
+
+434
+00:28:47,440 --> 00:28:49,720
+Who said I'll keep an eye on him?
+
+435
+00:28:59,400 --> 00:29:00,270
+Bye-bye.
+
+436
+00:29:00,270 --> 00:29:03,110
+- Bye-bye. 
+ - Bye-bye,
+
+437
+00:29:09,790 --> 00:29:10,680
+I'm leaving.
+
+438
+00:29:10,680 --> 00:29:12,370
+Bye-bye.
+
+439
+00:29:12,370 --> 00:29:14,140
+See you tomorrow.
+
+440
+00:29:22,030 --> 00:29:25,950
+There must be something wrong with the one who works overtime.
+
+441
+00:29:25,950 --> 00:29:28,380
+- Colleague. 
+ - You don't leave?
+
+442
+00:29:31,140 --> 00:29:34,300
+You had thrown it into the trash can. But now you still eat it?
+
+443
+00:29:34,300 --> 00:29:36,040
+Did I throw it away?
+
+444
+00:29:36,680 --> 00:29:37,700
+Okay.
+
+445
+00:29:37,700 --> 00:29:40,170
+There's a microwave oven. You can heat it.
+
+446
+00:29:43,250 --> 00:29:44,760
+I'm leaving.
+
+447
+00:29:51,450 --> 00:29:53,410
+It doesn't taste bad.
+
+448
+00:29:59,140 --> 00:30:02,060
+Okay, just be colleagues.
+
+449
+00:30:25,440 --> 00:30:28,080
+You're also shirking here? Are you avoiding Group Leader?
+
+450
+00:30:28,080 --> 00:30:29,830
+I happened to buy two bottles.
+
+451
+00:30:30,450 --> 00:30:32,440
+I don't avoid her.
+
+452
+00:30:34,010 --> 00:30:37,980
+- It's not easy... 
+ - Zhao Teng, did you go through the modification plan I gave you?
+
+453
+00:30:39,000 --> 00:30:42,220
+- Group Leader, I've just rested for a minute. 
+ - Really?
+
+454
+00:30:42,220 --> 00:30:45,210
+This morning, you bought cigarettes, coffee, and finally water.
+
+455
+00:30:45,210 --> 00:30:47,410
+You've come out at least five times.
+
+456
+00:30:51,110 --> 00:30:52,880
+What is this?
+
+457
+00:30:55,640 --> 00:30:57,830
+If we want to lay a solid foundation for the "Invincible General",
+
+458
+00:30:57,830 --> 00:30:58,930
+    
+ we need to do a lot of work.
+
+459
+00:30:58,930 --> 00:31:02,260
+It's intricate, so we must have a detailed work schedule.
+
+460
+00:31:02,260 --> 00:31:04,090
+This is a project schedule.
+
+461
+00:31:04,090 --> 00:31:06,590
+Work by the hour?
+
+462
+00:31:06,590 --> 00:31:08,220
+Don't be so detailed.
+
+463
+00:31:08,220 --> 00:31:12,710
+We must make a plan for every week, every day, or even every hour,
+
+464
+00:31:12,710 --> 00:31:14,680
+and spare enough flexible time.
+
+465
+00:31:14,680 --> 00:31:18,750
+Only by performing efficiently can we achieve our goals and spend less time on more work.
+
+466
+00:31:18,750 --> 00:31:21,980
+Well, another question.
+
+467
+00:31:21,980 --> 00:31:23,690
+Zhao Teng. Zhao Teng. Zhao Teng.
+
+468
+00:31:23,690 --> 00:31:25,860
+Zhu Yun. Zhu Yun. Zhu Yun.
+
+469
+00:31:25,860 --> 00:31:27,230
+Only us two have work?
+
+470
+00:31:27,230 --> 00:31:29,000
+What about him?
+
+471
+00:31:29,000 --> 00:31:30,870
+He's still studying.
+
+472
+00:31:35,350 --> 00:31:37,860
+Given my previous experience,
+
+473
+00:31:37,860 --> 00:31:41,180
+plans are always upset.
+
+474
+00:31:41,180 --> 00:31:42,800
+You can have a try.
+
+475
+00:31:42,800 --> 00:31:45,020
+I will.
+
+476
+00:31:45,790 --> 00:31:47,490
+Just be fair. Let's vote for it.
+
+477
+00:31:47,490 --> 00:31:48,790
+Okay, it's democratic.
+
+478
+00:31:48,790 --> 00:31:50,150
+- I agree. 
+ - I object.
+
+479
+00:31:50,150 --> 00:31:51,250
+I agree.
+
+480
+00:31:51,250 --> 00:31:54,240
+The schedule is passed by two votes to one. It will be implemented this afternoon.
+
+481
+00:31:56,310 --> 00:31:58,980
+It's democratic. Anyway, I don't need to work.
+
+482
+00:31:58,980 --> 00:32:02,450
+Well, you don't need to work, so you certainly voted for it.
+
+483
+00:32:28,620 --> 00:32:31,100
+Okay, you don't need to discuss it with me. Just suit yourself.
+
+484
+00:32:31,100 --> 00:32:33,130
+I can't go on.
+
+485
+00:32:42,350 --> 00:32:44,540
+Isn't this much better?
+
+486
+00:33:12,270 --> 00:33:14,100
+You haven't left?
+
+487
+00:33:15,030 --> 00:33:17,620
+You suffered because of Group Leader Zhu.
+
+488
+00:33:19,060 --> 00:33:21,210
+I'm indeed a little tired.
+
+489
+00:33:22,480 --> 00:33:25,670
+However, amazingly,
+
+490
+00:33:25,670 --> 00:33:30,830
+such a great modification is not a very tiring.
+
+491
+00:33:30,830 --> 00:33:32,680
+Why?
+
+492
+00:33:32,680 --> 00:33:35,050
+Because you didn't do more work at all.
+
+493
+00:33:35,050 --> 00:33:37,130
+I didn't do more work? It's impossible.
+
+494
+00:33:37,130 --> 00:33:40,140
+Actually, Zhu Yun didn't specially assign less work to you.
+
+495
+00:33:40,140 --> 00:33:44,990
+All your tasks had been assigned, but you still could finish them easily.
+
+496
+00:33:44,990 --> 00:33:47,200
+- Do you know why? 
+ - Why?
+
+497
+00:33:47,200 --> 00:33:51,680
+Because she knows what you need to do every week, every day, or even every hour.
+
+498
+00:33:51,690 --> 00:33:54,700
+After making a rough plan, you won't deviate from the main direction.
+
+499
+00:33:54,700 --> 00:33:57,690
+Then you just need to add details.
+
+500
+00:33:57,690 --> 00:34:00,030
+How long have you known Zhu Yun?
+
+501
+00:34:00,030 --> 00:34:02,580
+Is she always so awesome?
+
+502
+00:34:08,880 --> 00:34:10,300
+Maybe.
+
+503
+00:34:10,300 --> 00:34:13,050
+Just follow Zhu Yun.
+
+504
+00:34:15,590 --> 00:34:17,610
+She'll surprise you.
+
+505
+00:34:18,780 --> 00:34:21,300
+I'm curious about something.
+
+506
+00:34:21,300 --> 00:34:25,660
+What's your relationship with Group Leader Zhu?
+
+507
+00:34:30,150 --> 00:34:32,050
+We don't have any relationship.
+
+508
+00:34:33,070 --> 00:34:34,310
+You don't have any relationship?
+
+509
+00:34:34,310 --> 00:34:39,380
+If you don't have any relationship, she required us to recruit you before joining us?
+
+510
+00:34:39,380 --> 00:34:41,800
+If you don't have any relationship, she took this task for you?
+
+511
+00:34:41,800 --> 00:34:45,010
+If you don't have any relationship, she paid you?
+
+512
+00:34:45,010 --> 00:34:47,490
+We're not fools.
+
+513
+00:34:47,490 --> 00:34:50,460
+Tell me. I won't tell others.
+
+514
+00:34:57,970 --> 00:34:59,920
+Because I'm handsome.
+
+515
+00:34:59,920 --> 00:35:01,550
+Okay?
+
+516
+00:35:04,910 --> 00:35:06,610
+Okay.
+
+517
+00:35:12,760 --> 00:35:15,440
+Xiaoxiao, let's go.
+
+518
+00:35:15,440 --> 00:35:17,880
+Watch out. The ground is slippery.
+
+519
+00:35:26,280 --> 00:35:27,800
+Why doesn't it work? It has limited-up by a little more than 3%.
+
+520
+00:35:27,800 --> 00:35:29,230
+Let me show you.
+
+521
+00:35:29,230 --> 00:35:31,830
+Only a little more than 3%? Didn't you say it would limit-up on at least two consecutive days?
+
+522
+00:35:31,830 --> 00:35:33,450
+It's lucky enough that it still can limit-up now.
+
+523
+00:35:33,450 --> 00:35:35,630
+- See you tomorrow. 
+ - I'm leaving.
+
+524
+00:35:50,630 --> 00:35:53,610
+- This-This one will definitely limit up. 
+ - Lend it to me.
+
+525
+00:35:53,610 --> 00:35:57,040
+Well, Li-Li Xun! You have an umbrella, haven't you?
+
+526
+00:35:58,990 --> 00:36:02,460
+Li Xun, where are you going?
+
+527
+00:36:03,670 --> 00:36:05,810
+It's none of your business.
+
+528
+00:36:06,740 --> 00:36:08,230
+Lend me your umbrella.
+
+529
+00:36:08,230 --> 00:36:11,280
+I'm going to the library for the work.
+
+530
+00:36:14,740 --> 00:36:16,180
+Where are you going? I can send you there.
+
+531
+00:36:16,180 --> 00:36:17,940
+No need.
+
+532
+00:36:34,820 --> 00:36:36,630
+Anyway, I'm a girl.
+
+533
+00:36:36,630 --> 00:36:37,960
+How could you refuse me?
+
+534
+00:36:37,960 --> 00:36:40,380
+Would you feel wronged under my umbrella?
+
+535
+00:36:42,510 --> 00:36:44,180
+Anyway, I'm also the group leader.
+
+536
+00:36:44,180 --> 00:36:46,980
+You should hold up the umbrella for your leader.
+
+537
+00:37:05,110 --> 00:37:07,360
+ He has gone to bed at 11:00? 
+
+538
+00:37:07,360 --> 00:37:09,470
+ Is it very late? 
+
+539
+00:37:09,470 --> 00:37:11,000
+ No. 
+
+540
+00:37:11,000 --> 00:37:15,010
+ Actually, it's common that the group leader calls his subordinate at night. 
+
+541
+00:37:33,360 --> 00:37:37,680
+Well, you're bold. You dared reject my call.
+
+542
+00:37:47,000 --> 00:37:49,640
+- Thanks for lending me umbrella yesterday. 
+ - Place it in the company.
+
+543
+00:37:52,070 --> 00:37:54,220
+Why did you reject my call?
+
+544
+00:37:56,490 --> 00:37:58,910
+I called you at 11:00 last night but you rejected it.
+
+545
+00:37:58,910 --> 00:38:00,570
+Why did you reject my call?
+
+546
+00:38:00,570 --> 00:38:01,860
+Why did you call me?
+
+547
+00:38:01,860 --> 00:38:03,800
+For something.
+
+548
+00:38:06,070 --> 00:38:07,820
+Work!
+
+549
+00:38:10,670 --> 00:38:14,500
+Group Leader Zhu, our company has stipulated our working time. Right?
+
+550
+00:38:14,500 --> 00:38:17,810
+But you didn't have such a sense of time when you were a boss.
+
+551
+00:38:19,880 --> 00:38:21,530
+Listen up.
+
+552
+00:38:21,530 --> 00:38:23,670
+Our project is now at a critical moment,
+
+553
+00:38:23,670 --> 00:38:26,820
+so you need to be on call anytime.
+
+554
+00:38:32,050 --> 00:38:33,800
+I'm sorry.
+
+555
+00:38:33,800 --> 00:38:35,010
+I didn't know that was your call.
+
+556
+00:38:35,010 --> 00:38:37,110
+You don't have my phone number?
+
+557
+00:38:41,070 --> 00:38:42,660
+Your phone.
+
+558
+00:38:54,110 --> 00:38:56,820
+If you don't answer my call again, I will deduct your attendance.
+
+559
+00:39:03,000 --> 00:39:05,800
+   
+
+560
+00:39:05,800 --> 00:39:07,410
+Thank you.
+
+561
+00:39:13,030 --> 00:39:14,740
+You caught a cold?
+
+562
+00:39:15,610 --> 00:39:17,920
+I was caught in the rain yesterday.
+
+563
+00:39:19,610 --> 00:39:23,560
+Zhang Fang, the tissues are used up again. Can you be generous?
+
+564
+00:39:23,560 --> 00:39:25,590
+Here you are.
+
+565
+00:39:25,590 --> 00:39:27,420
+Thank you.
+
+566
+00:39:32,030 --> 00:39:33,450
+Isn't that my umbrella?
+
+567
+00:39:33,450 --> 00:39:34,930
+Why did you bring it here?
+
+568
+00:39:34,930 --> 00:39:36,880
+Isn't this Li Xun's umbrella?
+
+569
+00:39:36,880 --> 00:39:41,040
+That cub had held an umbrella after work yesterday
+
+570
+00:39:41,040 --> 00:39:43,100
+but still took mine away.
+
+571
+00:39:43,100 --> 00:39:45,020
+So I have a cold.
+
+572
+00:39:45,020 --> 00:39:48,580
+He doesn't work but still gets me in trouble.
+
+573
+00:39:54,760 --> 00:39:56,400
+Group Leader,
+
+574
+00:39:57,190 --> 00:39:58,960
+I have a cold.
+
+575
+00:39:58,960 --> 00:40:01,440
+Can I take a day off?
+
+576
+00:40:04,120 --> 00:40:08,260
+I wrote a sentence on the wall as a high school junior. Guess what I wrote.
+
+577
+00:40:08,260 --> 00:40:09,940
+What?
+
+578
+00:40:09,940 --> 00:40:12,050
+"As long as I'm still alive, I will continue to learn."
+
+579
+00:40:12,050 --> 00:40:13,960
+It's also for you.
+
+580
+00:40:15,510 --> 00:40:17,860
+Well, you're more horrible than Mr. Dong.
+
+581
+00:40:17,860 --> 00:40:19,540
+Are you Exploiter Zhu?
+
+582
+00:40:19,540 --> 00:40:23,030
+That's because you've never seen Exploiter Li.
+
+583
+00:40:30,920 --> 00:40:33,860
+I'll directly return the umbrella to Zhao Teng later.
+
+584
+00:40:39,970 --> 00:40:43,210
+Zhao Teng has finished building the framework, and I'm writing the storyline.
+
+585
+00:40:43,210 --> 00:40:46,530
+I'll send you the chronology of events of the Qin State. You add some details for me.
+
+586
+00:40:46,530 --> 00:40:48,030
+I'm busy.
+
+587
+00:40:49,410 --> 00:40:50,680
+I asked for leave this afternoon.
+
+588
+00:40:50,680 --> 00:40:52,210
+Where are you going?
+
+589
+00:40:52,210 --> 00:40:53,850
+This is my individual privacy.
+
+590
+00:40:53,850 --> 00:40:56,450
+You've left before I permit your leave.
+
+591
+00:41:09,230 --> 00:41:11,470
+Why does it crash again?
+
+592
+00:41:11,470 --> 00:41:13,670
+It's just a matter of getting used to it.
+
+593
+00:41:27,220 --> 00:41:30,140
+- Hello. 
+ - Hello.
+
+594
+00:41:30,140 --> 00:41:31,640
+This model is good.
+
+595
+00:41:31,640 --> 00:41:34,920
+Titan is absolutely the top one.
+
+596
+00:41:36,660 --> 00:41:38,420
+How much is it?
+
+597
+00:41:38,420 --> 00:41:39,970
+How many do you want?
+
+598
+00:41:40,570 --> 00:41:42,400
+Two.
+
+599
+00:41:43,660 --> 00:41:45,050
+Flying Network!
+
+600
+00:41:45,050 --> 00:41:47,020
+Excuse me. Is Miss Zhu in?
+
+601
+00:41:47,020 --> 00:41:48,660
+Yes.
+
+602
+00:41:49,280 --> 00:41:51,210
+Your parcel.
+
+603
+00:41:52,490 --> 00:41:54,090
+Okay.
+
+604
+00:41:57,640 --> 00:41:59,570
+Titan.
+
+605
+00:41:59,570 --> 00:42:01,350
+CPU.
+
+606
+00:42:01,350 --> 00:42:03,800
+Memory bank.
+
+607
+00:42:05,030 --> 00:42:07,140
+Power supply.
+
+608
+00:42:08,070 --> 00:42:10,050
+Motherboard.
+
+609
+00:42:12,910 --> 00:42:14,700
+Let's do this.
+
+610
+00:42:48,900 --> 00:42:51,080
+You're assembling the host?
+
+611
+00:43:01,710 --> 00:43:03,820
+The positive and negative electrodes are connected reversely.
+
+612
+00:43:07,880 --> 00:43:09,230
+I'll help you.
+
+613
+00:43:09,230 --> 00:43:11,210
+No need.
+
+614
+00:43:14,230 --> 00:43:15,780
+Why are you here?
+
+615
+00:43:15,780 --> 00:43:17,770
+Came to fetch some materials.
+
+616
+00:43:20,150 --> 00:43:23,440
+You disassembled all the parts? I assembled them for more than an hour.
+
+617
+00:43:23,440 --> 00:43:25,950
+Did I also assemble other parts wrong?
+
+618
+00:43:25,950 --> 00:43:28,290
+No. I'm rearranging the wires.
+
+619
+00:43:28,290 --> 00:43:30,800
+What if you don't rearrange the wires?
+
+620
+00:43:30,800 --> 00:43:32,550
+It's ugly.
+
+621
+00:43:42,110 --> 00:43:44,840
+How is it? This is your privilege.
+
+622
+00:43:44,840 --> 00:43:46,630
+Work hard.
+
+623
+00:43:52,570 --> 00:43:54,450
+I'm going to wash my hands.
+
+624
+00:44:04,440 --> 00:44:06,810
+   
+
+625
+00:44:10,230 --> 00:44:12,010
+Titan.
+
+626
+00:44:25,510 --> 00:44:27,300
+You bought this?
+
+627
+00:44:29,640 --> 00:44:31,570
+A box of instant noodles.
+
+628
+00:44:37,200 --> 00:44:39,170
+What would you like for dinner?
+
+629
+00:44:40,930 --> 00:44:43,860
+You bought me the new equipment,
+
+630
+00:44:43,860 --> 00:44:46,160
+so I can treat you to dinner in return.
+
+631
+00:44:46,160 --> 00:44:48,360
+You treat me to dinner?
+
+632
+00:44:52,930 --> 00:44:54,720
+If you're not free, forget it.
+
+633
+00:44:54,720 --> 00:44:56,710
+Where are we going?
+
+634
+00:44:57,860 --> 00:45:06,570
+
+
+635
+00:45:06,570 --> 00:45:09,660
+   
+
+636
+00:45:09,660 --> 00:45:11,470
+ Who? 
+
+637
+00:45:12,260 --> 00:45:13,360
+ Who? 
+
+638
+00:45:13,360 --> 00:45:15,220
+ Nobody. 
+
+639
+00:45:15,220 --> 00:45:16,330
+ I can move on. 
+
+640
+00:45:16,330 --> 00:45:17,730
+ Then why bother coming here? 
+
+641
+00:45:17,730 --> 00:45:20,330
+ I think you are jealous. 
+
+642
+00:45:20,330 --> 00:45:24,700
+ Have you ever thought that if we were together, 
+
+643
+00:45:24,700 --> 00:45:27,280
+ everything would be different now? 
+
+644
+00:45:27,280 --> 00:45:29,770
+ Can we make it up now? 
+
+645
+00:45:31,460 --> 00:45:35,020
+♫  It breaks through the boundary  ♫
+
+646
+00:45:36,140 --> 00:45:39,180
+♫  The first glance during the first meeting  ♫
+
+647
+00:45:39,180 --> 00:45:46,780
+♫  Spreads and later it wins the world for me  ♫
+
+648
+00:45:46,780 --> 00:45:52,600
+♫  The clock keeps ticking without stopping for rest  ♫
+
+649
+00:45:52,600 --> 00:45:56,980
+♫  I am leaning on your shoulder  ♫
+
+650
+00:45:56,980 --> 00:46:04,020
+♫  I am leaning on your shoulder  ♫
+
+651
+00:46:04,020 --> 00:46:09,040
+♫  Avoid the hustle and bustle by staying with me  ♫
+
+652
+00:46:09,040 --> 00:46:13,480
+♫  It's the center crease of your palm  ♫
+
+653
+00:46:13,480 --> 00:46:16,620
+♫  That holds me up by giving me the courage to move forward  ♫
+
+654
+00:46:16,620 --> 00:46:24,180
+♫  Just like a burning flame in the night  ♫
+
+655
+00:46:26,640 --> 00:46:31,360
+♫  'Cause I believe I love you  ♫
+
+656
+00:46:31,360 --> 00:46:35,820
+♫  True love will take its course  ♫
+
+657
+00:46:35,820 --> 00:46:40,120
+♫  The one by your side is me  ♫
+
+658
+00:46:41,080 --> 00:46:44,500
+♫  Spending such a long time with you  ♫
+
+659
+00:46:44,500 --> 00:46:49,060
+♫  Because I believe I want you  ♫
+
+660
+00:46:49,060 --> 00:46:53,520
+♫  True love will take its course  ♫
+
+661
+00:46:53,520 --> 00:46:58,000
+♫  That hot firework  ♫
+
+662
+00:46:58,000 --> 00:47:08,500
+♫  It's always you who keeps it lit up for me  ♫
+
+663
+00:47:20,160 --> 00:47:24,660
+♫  It's the intuition of the dream  ♫
+
+664
+00:47:24,660 --> 00:47:29,380
+♫  It breaks through the boundary  ♫
+
+665
+00:47:29,380 --> 00:47:32,480
+♫  The first glance during the first meeting  ♫
+
+666
+00:47:32,480 --> 00:47:37,960
+♫  Spreads and later it wins the world for me  ♫
+
+667
+00:47:37,960 --> 00:47:43,300
+♫  The clock keeps ticking without stopping for rest  ♫
+
+668
+00:47:43,300 --> 00:47:47,780
+♫  I also want to stand by your side  ♫
+
+669
+00:47:47,780 --> 00:47:50,000
+♫  As long as I am brave enough  ♫
+
+670
+00:47:50,000 --> 00:47:52,600
+♫  Every dream that I have  ♫
+
+671
+00:47:52,600 --> 00:47:59,960
+♫  Will not, will not, will not lose to time anymore  ♫
+
+672
+00:47:59,960 --> 00:48:04,660
+♫  Because I believe I love you  ♫
+
+673
+00:48:04,660 --> 00:48:09,080
+♫  True love will take its course ♫
+
+674
+00:48:09,080 --> 00:48:14,280
+♫  The one by your side is me  ♫
+
+675
+00:48:14,280 --> 00:48:17,920
+♫  Spending such a long time with you  ♫
+
+676
+00:48:17,920 --> 00:48:22,560
+♫  Because I believe I want you  ♫
+
+677
+00:48:22,560 --> 00:48:26,940
+♫  True love will take its course  ♫
+
+678
+00:48:26,940 --> 00:48:31,420
+♫  That hot firework  ♫
+
+679
+00:48:31,420 --> 00:48:42,160
+♫  It's always you who keeps it lit up for me  ♫
+
+680
+00:48:42,160 --> 00:48:46,960
+♫  Because I believe I love you  ♫
+
+681
+00:48:46,960 --> 00:48:51,400
+♫  True love will take its course  ♫
+
+682
+00:48:51,400 --> 00:48:56,500
+♫  The one by your side is me  ♫
+
+683
+00:48:56,500 --> 00:49:00,020
+♫  Spending such a long time with you  ♫
+
+684
+00:49:00,020 --> 00:49:04,560
+♫  Because I believe I want you  ♫
+
+685
+00:49:04,560 --> 00:49:09,100
+♫  True love will take its course  ♫
+
+686
+00:49:09,100 --> 00:49:13,480
+♫  That hot firework  ♫
+
+687
+00:49:13,480 --> 00:49:23,800
+♫  It's always you who keeps it lit up for me  ♫
+
+688
+00:49:26,860 --> 00:49:31,300
+♫  That hot firework  ♫
+
+689
+00:49:31,300 --> 00:49:43,100
+♫  It's always you who keeps it lit up for me  ♫
+
