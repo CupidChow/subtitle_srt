@@ -50,7 +50,7 @@
 
 13
 00:00:41,720 --> 00:00:46,990
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 14
 00:00:46,998 --> 00:00:49,408
@@ -6063,5 +6063,5 @@ and we'll say our goodbye here.
 
 1470
 01:14:09,700 --> 01:14:14,840
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
