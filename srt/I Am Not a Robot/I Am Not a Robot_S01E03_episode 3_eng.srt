@@ -679,7 +679,7 @@ What should we do?
 
 170
 00:12:13,860 --> 00:12:21,910
- Timing and Subtitles by The Robotic Team @ viki.com  
+
 
 171
 00:12:33,170 --> 00:12:34,780
@@ -1446,5 +1446,5 @@ Well... shall I train a robot?
 
 361
 00:28:24,860 --> 00:28:28,200
- Timing and Subtitles by The Robotic Team @ viki.com  
+
 
