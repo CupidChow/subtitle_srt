@@ -136,7 +136,7 @@ I'd like to check the toll pass payment history.
 
 35
 00:03:55,750 --> 00:04:07,650
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 36
 00:04:07,650 --> 00:04:11,470
@@ -2907,7 +2907,7 @@ That I found this.
 
 717
 01:04:41,190 --> 01:04:48,290
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 718
 01:04:48,290 --> 01:04:51,990
