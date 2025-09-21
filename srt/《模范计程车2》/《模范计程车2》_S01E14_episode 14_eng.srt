@@ -8,7 +8,7 @@
 
 3
 00:00:35,200 --> 00:00:40,800
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 4
 00:00:48,144 --> 00:00:50,314
@@ -2600,7 +2600,7 @@ Could you tell me what you have been through?
 
 637
 01:04:01,280 --> 01:04:07,870
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 638
 01:04:12,495 --> 01:04:16,635
