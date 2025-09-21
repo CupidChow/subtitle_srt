@@ -201,7 +201,7 @@ What are they talking about?
 
 50
 00:03:33,320 --> 00:03:40,700
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 51
 00:03:40,704 --> 00:03:42,384
@@ -3112,7 +3112,7 @@ Dispatch 5283, commencing operation.
 
 768
 01:03:05,700 --> 01:03:09,200
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 769
 01:03:27,914 --> 01:03:35,824
