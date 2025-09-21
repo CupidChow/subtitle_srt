@@ -125,7 +125,7 @@ There's no way to escape.
 
 32
 00:03:31,600 --> 00:03:36,700
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 33
 00:03:51,214 --> 00:03:52,994
@@ -2416,41 +2416,33 @@ Where are you right now?
 
 596
 01:04:32,120 --> 01:04:34,780
-A super special thanks to our voluntary language moderators:
 
 597
 01:04:34,780 --> 01:04:39,760
-miss_rochester &amp; henrri_11 (Spa), cara_liisu (Est),
 
 598
 01:04:39,760 --> 01:04:44,820
-damagaro (Fre), spikejem_68 (Ita), ezobezoo (Tur),
 
 599
 01:04:44,820 --> 01:04:49,920
-chxateau (Pol), nicoletak (Por), tamyalastablendertm (Gre),
 
 600
 01:04:49,920 --> 01:04:54,870
-tony83n_283 (Rom), somejuwels (Ger), sunshinejycc (Chi),
 
 601
 01:04:54,870 --> 01:04:59,940
-bailong (Hun) and ayalynn (Jap).
 
 602
 01:04:59,940 --> 01:05:04,800
-Thank you so much to each language editor and subtitler! ♥ 
- Thanks a lot to our page designer, anryumi! ♥
+
 
 603
 01:05:04,800 --> 01:05:09,750
-And of course, thanks to you, who have watched 
- Taxi Driver together with us and supported the show! ♥
+
 
 604
 01:05:09,750 --> 01:05:13,910
-With much love, sushi_ane (channel manager)! ♥
+
 
 605
 01:05:13,914 --> 01:05:18,834
@@ -2458,7 +2450,6 @@ With much love, sushi_ane (channel manager)! ♥
 
 606
 01:05:41,464 --> 01:05:44,664
-Dispatch 5283, commencing operation.
 
 607
 01:05:48,994 --> 01:05:50,704
