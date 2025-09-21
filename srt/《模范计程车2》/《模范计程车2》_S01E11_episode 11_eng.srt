@@ -80,7 +80,7 @@ I'll clean it up.
 
 21
 00:02:26,470 --> 00:02:37,040
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 22
 00:02:37,040 --> 00:02:41,000
@@ -2992,7 +2992,7 @@ You're totally f***ed now.
 
 740
 01:02:20,900 --> 01:02:26,400
- Thanks for watching Taxi Driver 2 on Viki! 
+ !
 
 741
 01:02:26,400 --> 01:02:29,000
