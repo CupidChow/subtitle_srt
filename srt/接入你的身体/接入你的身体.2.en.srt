@@ -1,0 +1,1300 @@
+1
+00:00:02,510 --> 00:00:05,970
+Mechanical friends, Amicus Robots.
+
+2
+00:00:06,690 --> 00:00:08,890
+A general name for androids.
+
+3
+00:00:09,650 --> 00:00:13,250
+Amicus are imprinted
+with the Laws of Respect.
+
+4
+00:00:13,780 --> 00:00:15,620
+To respect human beings.
+
+5
+00:00:15,620 --> 00:00:18,500
+To be obedient to human commands.
+
+6
+00:00:18,500 --> 00:00:21,000
+To never attack a human being.
+
+7
+00:01:57,240 --> 00:01:58,510
+It's the same coat of arms.
+
+8
+00:01:59,530 --> 00:02:03,770
+The attacker used an Elphinstone College
+graduation gift knife.
+
+9
+00:02:04,590 --> 00:02:06,730
+Is the same thing given every year?
+
+10
+00:02:07,230 --> 00:02:09,130
+{\an4}Novae Robotics HQ
+Special Development Division
+Lexie Willow Carternovae Robotics HQ
+Special Development Division
+Lexie Willow Carter
+
+11
+00:02:09,130 --> 00:02:10,480
+{\an8}Without fail.
+
+12
+00:02:10,480 --> 00:02:14,860
+Well, Elphinstone is
+a college for AI researchers.
+
+13
+00:02:14,860 --> 00:02:18,950
+So one of its alumni could have
+found Marvin, modified him,
+
+14
+00:02:18,950 --> 00:02:21,160
+and had him use their knife
+in the attacks.
+
+15
+00:02:21,840 --> 00:02:24,330
+When you think about it,
+isn't that what happened?
+
+16
+00:02:24,330 --> 00:02:27,520
+Our system code is very complicated.
+
+17
+00:02:27,520 --> 00:02:29,170
+Even if they are an alumnus,
+
+18
+00:02:29,170 --> 00:02:33,130
+I find it hard to believe there would be
+many engineers as skilled as you.
+
+19
+00:02:34,050 --> 00:02:37,890
+The criminal definitely has
+all the necessary equipment.
+
+20
+00:02:37,890 --> 00:02:41,720
+Though all they need is a tablet
+to create a small bug.
+
+21
+00:02:42,350 --> 00:02:46,240
+Oh, Rib, show Harold to the other room
+and have a cup of tea with him.
+
+22
+00:02:49,180 --> 00:02:52,590
+I see you want to exclude me.
+
+23
+00:02:52,590 --> 00:02:55,400
+What are you planning
+to tell Cyber-Inspector Hieda?
+
+24
+00:02:56,000 --> 00:02:59,240
+Naturally, something that will embarrass you.
+
+25
+00:03:23,140 --> 00:03:25,240
+I hear you hate robots.
+
+26
+00:03:25,760 --> 00:03:27,060
+Must be tough.
+
+27
+00:03:27,060 --> 00:03:28,980
+Having that Amicus as a partner.
+
+28
+00:03:28,980 --> 00:03:30,400
+I've resolved those feelings.
+
+29
+00:03:31,140 --> 00:03:33,320
+So you've come to like them.
+
+30
+00:03:33,320 --> 00:03:35,740
+No, not to that extent.
+
+31
+00:03:35,740 --> 00:03:38,320
+Then, do you like Harold?
+
+32
+00:03:40,060 --> 00:03:42,950
+You look like you want to kill me.
+Are you okay?
+
+33
+00:03:46,020 --> 00:03:49,750
+Seems like you know
+about Harold's mean streak.
+
+34
+00:03:51,600 --> 00:03:53,480
+I know about it too.
+
+35
+00:03:53,480 --> 00:03:55,970
+Why was his personality set like that?
+
+36
+00:03:55,970 --> 00:03:58,510
+You sure ask rude questions.
+
+37
+00:03:58,510 --> 00:04:02,240
+Harold was a really good kid
+when he was newly built.
+
+38
+00:04:02,240 --> 00:04:05,490
+But then he somehow became that way.
+
+39
+00:04:06,010 --> 00:04:09,370
+The person who made him
+was probably a genius.
+
+40
+00:04:10,600 --> 00:04:13,900
+How can I say it?
+Right. He's grown.
+
+41
+00:04:13,900 --> 00:04:14,840
+Grown?
+
+42
+00:04:14,840 --> 00:04:19,850
+I guess that's also a feature of
+the next-generation multipurpose AI.
+
+43
+00:04:21,250 --> 00:04:25,480
+I was told Amicus only feigns
+the act of thinking.
+
+44
+00:04:25,480 --> 00:04:27,870
+Did you hear that from Angus?
+
+45
+00:04:28,670 --> 00:04:31,880
+Normal Amicus are just
+dolls playing pretend.
+
+46
+00:04:32,460 --> 00:04:36,800
+But I wrote the RF Model
+to be smarter than that.
+
+47
+00:04:36,800 --> 00:04:39,550
+They truly think for themselves.
+
+48
+00:04:41,640 --> 00:04:44,850
+In a completely different way
+from the human thinking process.
+
+49
+00:04:45,390 --> 00:04:46,680
+In what way?
+
+50
+00:04:46,680 --> 00:04:48,750
+- I don't know.
+- What?
+
+51
+00:04:48,750 --> 00:04:51,360
+I can explain it logically.
+
+52
+00:04:51,360 --> 00:04:57,190
+But I don't know the specifics of how they
+process information and make a decision.
+
+53
+00:04:57,660 --> 00:04:58,990
+The black box problem?
+
+54
+00:04:58,990 --> 00:05:00,310
+Exactly.
+
+55
+00:05:00,310 --> 00:05:03,650
+A concept that has stumped us for years.
+
+56
+00:05:03,650 --> 00:05:09,040
+The RF Model has a black box bigger
+than the mass-produced Amicus.
+
+57
+00:05:09,040 --> 00:05:13,330
+And it holds the key
+to their personalities and growth.
+
+58
+00:05:15,550 --> 00:05:18,300
+- You're not afraid of Harold?
+- What?
+
+59
+00:05:18,680 --> 00:05:21,600
+You know his real personality, right?
+
+60
+00:05:22,510 --> 00:05:24,150
+Don't you find him creepy?
+
+61
+00:05:26,320 --> 00:05:29,470
+He was the one who gave me
+a push to move forward.
+
+62
+00:05:29,860 --> 00:05:31,170
+I see.
+
+63
+00:05:31,170 --> 00:05:35,060
+Well, I'm glad you can
+think of him like that.
+
+64
+00:05:45,240 --> 00:05:46,530
+The head?
+
+65
+00:05:46,530 --> 00:05:47,990
+We haven't found it.
+
+66
+00:05:47,990 --> 00:05:50,500
+We have divers searching the river too.
+
+67
+00:05:53,290 --> 00:05:55,830
+Cyber-inspection Assistant,
+go wait on the bridge.
+
+68
+00:05:55,830 --> 00:05:58,000
+I'm fine. This is my second time.
+
+69
+00:05:58,550 --> 00:06:01,340
+How did you know this body is Marvin's?
+
+70
+00:06:01,880 --> 00:06:04,050
+Oh, the serial number, huh?
+
+71
+00:06:04,050 --> 00:06:05,610
+It's definitely him.
+
+72
+00:06:06,110 --> 00:06:07,390
+Poor thing.
+
+73
+00:06:08,070 --> 00:06:09,970
+How long has the body been here?
+
+74
+00:06:09,970 --> 00:06:13,770
+We're still determining the exact time,
+but it should be less than a day.
+
+75
+00:06:14,300 --> 00:06:18,640
+You know, Cyber-inspection Assistant,
+you really shouldn't be here.
+
+76
+00:06:19,590 --> 00:06:22,070
+You too, Cyber-Inspector Hieda.
+
+77
+00:06:22,070 --> 00:06:24,740
+This case is under our jurisdiction.
+
+78
+00:06:25,300 --> 00:06:27,310
+Let's leave the rest to the police.
+
+79
+00:06:28,420 --> 00:06:29,700
+All right.
+
+80
+00:06:37,700 --> 00:06:39,000
+- Yes.
+- Hieda.
+
+81
+00:06:39,000 --> 00:06:40,900
+I have bad news.
+
+82
+00:06:40,900 --> 00:06:42,920
+With Marvin's body found,
+
+83
+00:06:42,920 --> 00:06:46,930
+the RF Model will be further restricted
+from all investigations.
+
+84
+00:06:46,930 --> 00:06:49,980
+It was a mandate from
+the International AI Ethics Committee.
+
+85
+00:06:52,140 --> 00:06:53,730
+This one will suit you very well.
+
+86
+00:06:53,730 --> 00:06:55,480
+He was the one who gave me a push.
+
+87
+00:06:55,480 --> 00:06:58,000
+What made me the happiest
+was that you defended me.
+
+88
+00:06:58,480 --> 00:07:00,820
+I promise I'll prove his innocence.
+
+89
+00:07:00,820 --> 00:07:02,030
+His disposal is on hold.
+
+90
+00:07:02,450 --> 00:07:04,110
+I will find the perpetrator.
+
+91
+00:07:07,210 --> 00:07:11,010
+We're asking Inspection Assistant Lucraft
+to turn himself in tomorrow morning.
+
+92
+00:07:12,370 --> 00:07:14,560
+This area is off-limits.
+
+93
+00:07:18,430 --> 00:07:20,630
+Are you really going to turn yourself in?
+
+94
+00:07:21,760 --> 00:07:24,960
+The suspicion against me
+will only grow stronger if I don't.
+
+95
+00:07:25,330 --> 00:07:27,550
+I see you are worried about me.
+
+96
+00:07:28,130 --> 00:07:31,180
+And thank you for your
+consideration earlier.
+
+97
+00:07:31,600 --> 00:07:33,200
+That's not something...
+
+98
+00:07:33,200 --> 00:07:36,930
+I like how there is a kindness
+hidden behind your cold exterior.
+
+99
+00:07:38,020 --> 00:07:41,150
+Is that supposed to be
+a compliment or an insult?
+
+100
+00:07:41,150 --> 00:07:42,400
+Cyber-Inspector...
+
+101
+00:07:44,240 --> 00:07:46,990
+Would you like to have dinner with me?
+
+102
+00:07:54,170 --> 00:07:57,080
+Is it fun to drink
+when you can't get drunk?
+
+103
+00:07:57,490 --> 00:07:58,450
+Yes.
+
+104
+00:07:58,450 --> 00:08:02,460
+I'd be even happier if I had a function
+that allowed me to get drunk.
+
+105
+00:08:02,460 --> 00:08:04,050
+Oh, please.
+
+106
+00:08:05,000 --> 00:08:10,050
+Right, did Dr. Lexie tell you
+embarrassing things about me?
+
+107
+00:08:10,050 --> 00:08:11,050
+If I said she did?
+
+108
+00:08:11,550 --> 00:08:14,640
+I know a number of embarrassing
+episodes from your past.
+
+109
+00:08:14,640 --> 00:08:16,430
+Shall I share them with you?
+
+110
+00:08:16,430 --> 00:08:18,810
+Even if it's you,
+there's no way you'd know.
+
+111
+00:08:19,440 --> 00:08:23,520
+At the prom before your graduation,
+your classmates...
+
+112
+00:08:24,900 --> 00:08:29,570
+Please don't glare at me with the eyes
+of a killer who has killed three people.
+
+113
+00:08:29,980 --> 00:08:34,730
+You'll be my fourth victim
+if you continue that story.
+
+114
+00:08:34,730 --> 00:08:36,310
+I will end the story here.
+
+115
+00:08:36,910 --> 00:08:39,000
+I'm going to crack the case
+once and for all.
+
+116
+00:08:40,000 --> 00:08:41,620
+That is very reassuring.
+
+117
+00:08:41,620 --> 00:08:43,070
+I'm not joking.
+
+118
+00:08:43,820 --> 00:08:46,460
+I'll prove your innocence
+and catch the criminal.
+
+119
+00:08:46,960 --> 00:08:48,590
+So don't worry.
+
+120
+00:08:49,390 --> 00:08:52,080
+You don't have to pretend like that
+when you're worried.
+
+121
+00:08:53,120 --> 00:08:57,260
+Marvin wasn't very human-like.
+My brother had his faults.
+
+122
+00:09:06,110 --> 00:09:08,360
+I last saw him six years ago.
+
+123
+00:09:08,360 --> 00:09:11,920
+Truthfully, I have no attachment to him.
+
+124
+00:09:11,920 --> 00:09:16,290
+Our brotherly love is different
+from that of you humans.
+
+125
+00:09:17,530 --> 00:09:18,370
+I see.
+
+126
+00:09:18,370 --> 00:09:22,080
+But he did not have to die that way.
+
+127
+00:09:23,080 --> 00:09:24,830
+I am sometimes frightened.
+
+128
+00:09:24,830 --> 00:09:29,950
+Thinking about how adept humans are
+at raising beasts within their hearts.
+
+129
+00:09:31,170 --> 00:09:34,050
+Oh, that was a figure of speech.
+
+130
+00:09:34,550 --> 00:09:37,810
+I am well aware you are a good person.
+
+131
+00:09:41,600 --> 00:09:43,230
+Cyber-Inspector...
+
+132
+00:09:43,230 --> 00:09:45,890
+I leave the rest in your hands.
+
+133
+00:09:51,900 --> 00:09:53,530
+Shall we get going?
+
+134
+00:09:55,740 --> 00:09:58,030
+Excuse me.
+I have a phone call.
+
+135
+00:09:58,030 --> 00:09:58,740
+From the chief?
+
+136
+00:10:00,270 --> 00:10:01,730
+Please wait outside for me.
+
+137
+00:10:13,710 --> 00:10:14,510
+Chief?
+
+138
+00:10:19,320 --> 00:10:20,220
+This is Hieda.
+
+139
+00:10:21,620 --> 00:10:24,850
+I was looking into the alumni
+of Elphinstone College.
+
+140
+00:10:24,850 --> 00:10:26,550
+Did you find anything?
+
+141
+00:10:42,900 --> 00:10:44,650
+Why is...
+
+142
+00:10:58,020 --> 00:10:59,310
+Cyber-Inspector Hieda!
+
+143
+00:11:03,570 --> 00:11:06,600
+Cyber-inspection Assistant Lucraft,
+Hieda might be in trouble!
+
+144
+00:11:06,600 --> 00:11:08,110
+Our call was cut off.
+
+145
+00:11:08,570 --> 00:11:11,270
+She was kidnapped by the suspect.
+
+146
+00:11:14,020 --> 00:11:16,080
+The suspect's license plate is...
+
+147
+00:11:20,240 --> 00:11:22,350
+Cyber-Inspector Echika Hieda.
+
+148
+00:11:26,850 --> 00:11:27,580
+Read this.
+
+149
+00:11:28,160 --> 00:11:29,270
+Read it.
+
+150
+00:11:31,420 --> 00:11:35,380
+"I am Echika Hieda from
+the Cybercrime Investigation Department.
+
+151
+00:11:35,880 --> 00:11:39,650
+If you want me to be released,
+analyze the system code...
+
+152
+00:11:44,450 --> 00:11:46,930
+...of Harold Lucraft.
+
+153
+00:11:47,460 --> 00:11:52,690
+Dr. Lexie Willow Carter is lying
+to the International AI Ethics Committee.
+
+154
+00:11:53,270 --> 00:11:56,610
+The RF Models are actually
+very dangerous Amicus Robots.
+
+155
+00:11:57,110 --> 00:12:01,240
+Unless the analysis of Harold
+is done by dawn,
+
+156
+00:12:01,850 --> 00:12:08,210
+I will never return to you."
+
+157
+00:12:08,210 --> 00:12:11,260
+Got it? You have until 6:00 A.M.
+
+158
+00:12:12,550 --> 00:12:14,100
+I'll take responsibility.
+
+159
+00:12:14,690 --> 00:12:17,640
+With this, you lose, Lexie.
+
+160
+00:12:26,240 --> 00:12:28,910
+Nice to meet you,
+Cyber-Inspector Hieda.
+
+161
+00:12:30,180 --> 00:12:31,600
+You killed Marvin?
+
+162
+00:12:32,300 --> 00:12:35,650
+You're an RF Model,
+but you're not Steven
+
+163
+00:12:35,650 --> 00:12:37,440
+or Harold or Marvin.
+
+164
+00:12:37,980 --> 00:12:39,220
+Who are you?
+
+165
+00:12:43,170 --> 00:12:44,470
+An isolation unit?
+
+166
+00:12:45,080 --> 00:12:46,160
+He's a human?
+
+167
+00:12:47,450 --> 00:12:50,050
+You'll probably be released by dawn.
+
+168
+00:12:54,420 --> 00:12:55,460
+You should drink some.
+
+169
+00:13:05,220 --> 00:13:08,060
+Searching for available networks.
+
+170
+00:13:08,680 --> 00:13:10,900
+You are back online.
+
+171
+00:13:11,310 --> 00:13:13,650
+Sending location information.
+
+172
+00:13:14,920 --> 00:13:16,940
+I was stupid to treat you gently.
+
+173
+00:13:25,240 --> 00:13:26,970
+Freeze, Aiden Furman!
+
+174
+00:13:39,240 --> 00:13:41,090
+I apologize for not arriving sooner.
+
+175
+00:13:41,660 --> 00:13:45,970
+The perpetrator wasn't an RF Model.
+He was a human.
+
+176
+00:13:46,430 --> 00:13:47,970
+That is not important right now.
+
+177
+00:13:47,970 --> 00:13:49,640
+We just proved your innocence.
+
+178
+00:13:50,450 --> 00:13:53,100
+That is true.
+But, Echika...
+
+179
+00:13:55,050 --> 00:13:57,470
+You are bleeding.
+You need to get treated.
+
+180
+00:13:58,110 --> 00:13:59,280
+I said I'm fine.
+
+181
+00:13:59,280 --> 00:14:03,280
+Were you already here by chance,
+even before I sent my location data?
+
+182
+00:14:03,780 --> 00:14:05,810
+We had narrowed down the area.
+
+183
+00:14:07,250 --> 00:14:08,580
+Of course you would've.
+
+184
+00:14:08,580 --> 00:14:11,620
+But you gave us the final clue.
+
+185
+00:14:11,620 --> 00:14:13,160
+Let's get your wound treated.
+
+186
+00:14:13,830 --> 00:14:16,290
+No need. It's nothing.
+
+187
+00:14:31,050 --> 00:14:31,740
+{\an5}Cybercrime Investigation Department London Branch
+
+188
+00:14:31,740 --> 00:14:34,520
+{\an8}Darya got past the worst part, right?
+
+189
+00:14:35,140 --> 00:14:36,060
+Yes.
+
+190
+00:14:36,060 --> 00:14:38,900
+And thank goodness Echika wasn't hurt.
+
+191
+00:14:39,570 --> 00:14:40,350
+Aiden Furman.
+
+192
+00:14:40,350 --> 00:14:41,310
+{\an4}Laurel Robot Cleaning Services
+Maintenance Dept
+Aiden Furman
+
+193
+00:14:41,310 --> 00:14:43,860
+{\an8}After graduating Elphinstone College...
+
+194
+00:14:44,240 --> 00:14:46,610
+...you joined Novae Robotics with her...
+
+195
+00:14:46,610 --> 00:14:49,160
+{\an8}...and became the Deputy Chief
+Cyber-Inspection Assistant
+Ross
+
+196
+00:14:49,160 --> 00:14:50,620
+{\an8}of the RF Model Development Division.
+
+197
+00:14:51,490 --> 00:14:55,580
+You didn't suspect he could have been
+the one behind the attacks?
+
+198
+00:14:56,210 --> 00:15:01,280
+You probably think it was stupid of me,
+but I didn't suspect him at all.
+
+199
+00:15:02,240 --> 00:15:05,190
+Besides, I had forgotten all about him.
+
+200
+00:15:05,190 --> 00:15:07,890
+Yeah, it's been nine years
+since I saw him.
+
+201
+00:15:08,270 --> 00:15:12,680
+An Amicus is usually made by combining
+the physical attributes of various people,
+
+202
+00:15:13,050 --> 00:15:18,020
+so why was Furman's unmodified appearance
+data used for the RF Model?
+
+203
+00:15:19,690 --> 00:15:22,280
+I heard the two of you were close friends,
+
+204
+00:15:22,750 --> 00:15:24,990
+but was there something more
+to your relationship?
+
+205
+00:15:27,310 --> 00:15:28,450
+Of course not.
+
+206
+00:15:28,870 --> 00:15:32,270
+It was out of my respect for him
+and I simply liked his looks.
+
+207
+00:15:32,270 --> 00:15:34,790
+It's a waste to keep that face
+only for humans.
+
+208
+00:15:35,150 --> 00:15:38,930
+There's a record of you accusing
+Dr. Lexie of fraud.
+
+209
+00:15:39,440 --> 00:15:41,130
+Did you have a grudge against her?
+
+210
+00:15:41,600 --> 00:15:44,550
+Before the RF Model was completed,
+
+211
+00:15:44,550 --> 00:15:49,070
+Furman left the development team
+due to a difference of opinion with you.
+
+212
+00:15:49,070 --> 00:15:50,910
+What did you disagree about?
+
+213
+00:15:50,910 --> 00:15:52,510
+It wasn't anything serious.
+
+214
+00:15:53,140 --> 00:15:56,930
+In my opinion,
+it was something common and boring.
+
+215
+00:15:58,340 --> 00:16:01,400
+We've received orders
+to Brain Dive into Aiden Furman.
+
+216
+00:16:01,870 --> 00:16:04,900
+I can ask another investigator
+to do it if you're uncomfortable.
+
+217
+00:16:05,550 --> 00:16:07,860
+I can dive.
+I don't have a problem doing it.
+
+218
+00:16:12,980 --> 00:16:14,510
+Cyber-Inspector Hieda.
+
+219
+00:16:15,040 --> 00:16:18,430
+Dive as deep as you can into my past.
+
+220
+00:16:21,210 --> 00:16:23,610
+Cyber-inspection Assistant Lucraft,
+are you ready?
+
+221
+00:16:23,610 --> 00:16:24,250
+Anytime.
+
+222
+00:16:24,800 --> 00:16:29,720
+However, I will pull you out
+as soon as you begin to look unwell.
+
+223
+00:16:29,720 --> 00:16:31,710
+You're being overprotective.
+
+224
+00:16:32,640 --> 00:16:33,910
+Nothing.
+
+225
+00:16:34,800 --> 00:16:37,180
+Commencing the Brain Dive
+into Aiden Furman.
+
+226
+00:17:02,210 --> 00:17:05,000
+I'm sorry. I didn't want to hurt you.
+
+227
+00:17:05,920 --> 00:17:07,850
+What the hell am I doing?
+
+228
+00:17:08,670 --> 00:17:10,300
+It needs to be done.
+
+229
+00:17:10,800 --> 00:17:13,800
+I have to do it!
+
+230
+00:17:18,810 --> 00:17:20,500
+Please wait outside for me.
+
+231
+00:17:21,360 --> 00:17:24,730
+If I hadn't left the restaurant alone,
+
+232
+00:17:25,330 --> 00:17:27,400
+I wouldn't have been kidnapped.
+
+233
+00:17:28,900 --> 00:17:32,820
+Who was Assistant Lucraft
+on the phone with?
+
+234
+00:17:34,990 --> 00:17:35,800
+This is Hieda.
+
+235
+00:17:36,410 --> 00:17:37,490
+Chief?
+
+236
+00:17:41,660 --> 00:17:42,790
+Echika.
+
+237
+00:17:46,000 --> 00:17:47,790
+I'll hold your hand.
+
+238
+00:18:03,810 --> 00:18:05,100
+It's not here.
+
+239
+00:18:06,560 --> 00:18:08,570
+Nothing? Still nothing?
+
+240
+00:18:09,110 --> 00:18:10,990
+Why isn't it being reported?!
+
+241
+00:18:29,130 --> 00:18:30,130
+Lexie.
+
+242
+00:18:30,880 --> 00:18:35,720
+An RF Model went against
+the Laws of Respect and shot a human?
+
+243
+00:18:36,380 --> 00:18:39,600
+What's going on? Why now?
+
+244
+00:18:40,430 --> 00:18:41,430
+Lexie.
+
+245
+00:18:48,500 --> 00:18:51,250
+That tabloid was the catalyst
+for the attacks.
+
+246
+00:18:51,790 --> 00:18:56,510
+He probably thought he could use the article
+to destroy Dr. Lexie's credibility.
+
+247
+00:18:58,210 --> 00:18:59,200
+Is something wrong?
+
+248
+00:19:00,030 --> 00:19:02,770
+He didn't have a grudge against Dr. Lexie.
+
+249
+00:19:03,350 --> 00:19:07,550
+His motive wasn't his hatred
+for the victims or to commit an assault.
+
+250
+00:19:08,280 --> 00:19:14,010
+It feels more like he did it
+out of his sense of responsibility.
+
+251
+00:19:14,360 --> 00:19:16,980
+We may need to dive even deeper.
+
+252
+00:19:17,480 --> 00:19:20,750
+Why don't we have him
+psychoanalyzed first?
+
+253
+00:19:22,490 --> 00:19:23,850
+Cyber-Inspector...
+
+254
+00:19:23,850 --> 00:19:27,810
+You haven't had a counter-current
+in a while. As expected, you're not well.
+
+255
+00:19:28,320 --> 00:19:31,550
+I'm fine. It's because
+I didn't get enough sleep.
+
+256
+00:19:32,840 --> 00:19:34,780
+So? Is he okay?
+
+257
+00:19:35,570 --> 00:19:39,780
+He's doing fine, but we requested
+a psychoanalysis just in case.
+
+258
+00:19:40,370 --> 00:19:43,230
+He'll be transferred to a medical
+center tomorrow morning.
+
+259
+00:19:44,190 --> 00:19:46,190
+Psychoanalysis?
+
+260
+00:19:46,190 --> 00:19:49,500
+He was a bit too serious and kind of odd,
+
+261
+00:19:49,500 --> 00:19:51,760
+but to think he was that unhinged...
+
+262
+00:19:51,760 --> 00:19:53,720
+Dr. Lexie, your relationship with him...
+
+263
+00:19:54,430 --> 00:19:57,430
+...was it really not more of an intimate one?
+
+264
+00:19:57,780 --> 00:20:00,130
+What? No way.
+
+265
+00:20:00,130 --> 00:20:02,690
+If I had to define it,
+I'd say we were best friends.
+
+266
+00:20:02,690 --> 00:20:06,180
+He was the only one who could
+converse with me on an equal level.
+
+267
+00:20:06,650 --> 00:20:08,960
+But we've lost touch.
+
+268
+00:20:13,360 --> 00:20:15,680
+I'm happy to hear he's doing fine.
+
+269
+00:20:16,400 --> 00:20:17,610
+I'm heading back now.
+
+270
+00:20:17,610 --> 00:20:20,820
+I need to help with
+Marvin's investigation tomorrow.
+
+271
+00:20:28,530 --> 00:20:29,870
+Cyber-Inspector.
+
+272
+00:20:29,870 --> 00:20:33,000
+What was your purpose
+in asking her that question?
+
+273
+00:20:33,000 --> 00:20:36,060
+Oh, well, it was a personal curiosity.
+
+274
+00:20:36,060 --> 00:20:36,840
+I see.
+
+275
+00:20:40,060 --> 00:20:42,300
+You knew it, didn't you?
+
+276
+00:20:43,020 --> 00:20:45,450
+That Furman was following us.
+
+277
+00:20:46,000 --> 00:20:49,280
+You used me as bait to catch him.
+
+278
+00:20:50,020 --> 00:20:52,020
+What are you saying?
+
+279
+00:20:52,020 --> 00:20:54,250
+Show me your call history.
+
+280
+00:20:54,860 --> 00:20:57,490
+Your phone didn't ring
+that night at the pub.
+
+281
+00:20:57,970 --> 00:21:00,610
+You lied to get me to act alone.
+
+282
+00:21:07,740 --> 00:21:09,750
+All right. I admit it.
+
+283
+00:21:09,750 --> 00:21:12,480
+I used you as bait.
+
+284
+00:21:13,440 --> 00:21:15,670
+Please allow me to explain.
+
+285
+00:21:16,140 --> 00:21:20,510
+My Laws of Respect would never allow me
+to put you in danger.
+
+286
+00:21:21,050 --> 00:21:25,680
+I planned to lure Furman out
+only so you could arrest him.
+
+287
+00:21:26,240 --> 00:21:29,640
+But I got distracted at that moment.
+
+288
+00:21:30,480 --> 00:21:34,150
+Even so, it doesn't change the fact
+that you used me as bait.
+
+289
+00:21:37,030 --> 00:21:38,900
+Yes, you are right.
+
+290
+00:21:38,900 --> 00:21:41,610
+I apologize. It will never happen—
+
+291
+00:21:41,610 --> 00:21:46,260
+I thought we could be equal partners.
+
+292
+00:21:46,950 --> 00:21:49,790
+But in the end, you're an Amicus.
+
+293
+00:21:50,240 --> 00:21:55,120
+You're programmed to mechanically look
+for the most efficient course of action.
+
+294
+00:21:55,580 --> 00:21:57,770
+You'll do the same thing again next time.
+
+295
+00:21:57,770 --> 00:21:59,840
+Please listen to me. I—
+
+296
+00:21:59,840 --> 00:22:02,650
+Sorry. I want to sort out my feelings.
+
+297
+00:22:03,140 --> 00:22:06,470
+I'm sorry, but go visit Darya without me.
