@@ -1,0 +1,2319 @@
+1
+00:00:24,691 --> 00:00:26,443
+No one else is gonna die.
+
+2
+00:00:26,526 --> 00:00:29,279
+We'll make it out if we work together.
+
+3
+00:00:32,532 --> 00:00:34,075
+Let's all get to the exit.
+
+4
+00:00:35,368 --> 00:00:36,494
+Obviously.
+
+5
+00:00:37,954 --> 00:00:41,291
+Nobu, you'll be heading away
+from the exit,
+
+6
+00:00:41,374 --> 00:00:45,003
+but can you return to C3
+and meet up with Rei in C4?
+
+7
+00:00:45,086 --> 00:00:48,673
+The starting room has no point deduction,
+so it's a safe bet.
+
+8
+00:00:56,389 --> 00:00:57,515
+Understood.
+
+9
+00:00:58,391 --> 00:01:00,310
+Usagi has the most points.
+
+10
+00:01:03,313 --> 00:01:05,273
+I have our baby's points as well.
+
+11
+00:01:07,484 --> 00:01:09,319
+Can you head west to A3?
+
+12
+00:01:10,278 --> 00:01:12,864
+It's a room that might have
+a large point deduction.
+
+13
+00:01:16,743 --> 00:01:17,827
+Got it.
+
+14
+00:01:20,038 --> 00:01:23,083
+One of you will be forced to stay.
+
+15
+00:01:26,044 --> 00:01:26,878
+Stop it.
+
+16
+00:01:33,927 --> 00:01:34,803
+You all right?
+
+17
+00:01:35,386 --> 00:01:36,304
+I'll take over.
+
+18
+00:01:37,639 --> 00:01:38,473
+Thank you.
+
+19
+00:01:55,198 --> 00:01:56,199
+I'll stay.
+
+20
+00:01:57,575 --> 00:01:58,493
+Why?
+
+21
+00:02:00,328 --> 00:02:02,872
+I'm the oldest, so I'll stay.
+
+22
+00:02:04,457 --> 00:02:06,709
+Leave the dangerous work to an adult.
+
+23
+00:02:07,752 --> 00:02:10,672
+The future belongs to the youth.
+
+24
+00:02:16,594 --> 00:02:22,559
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+25
+00:02:23,059 --> 00:02:24,352
+Don't worry!
+
+26
+00:04:36,901 --> 00:04:39,779
+B4 is a minus-two-point room.
+
+27
+00:04:39,862 --> 00:04:41,281
+RYUJI: 6, YUNA: 11, ARISU: 3
+
+28
+00:04:41,364 --> 00:04:44,951
+Please select whose points to use.
+
+29
+00:04:45,868 --> 00:04:47,578
+Let's use my points here.
+
+30
+00:04:50,623 --> 00:04:52,792
+Point deduction confirmed.
+
+31
+00:05:01,467 --> 00:05:04,721
+A3 is a minus-eight-point room.
+
+32
+00:05:05,221 --> 00:05:08,725
+Please select whose points to use.
+
+33
+00:05:13,062 --> 00:05:14,522
+I will protect you.
+
+34
+00:05:19,110 --> 00:05:21,195
+Point deduction confirmed.
+
+35
+00:05:23,698 --> 00:05:24,699
+What about Tetsu?
+
+36
+00:05:33,750 --> 00:05:34,751
+Got it.
+
+37
+00:05:39,881 --> 00:05:41,090
+Tetsu!
+
+38
+00:05:47,180 --> 00:05:48,139
+Tetsu.
+
+39
+00:05:57,315 --> 00:06:00,777
+This is a minus-eight-point room.
+
+40
+00:06:01,694 --> 00:06:03,571
+We would've been history.
+
+41
+00:06:04,739 --> 00:06:08,201
+We can't pass through here again.
+
+42
+00:06:10,161 --> 00:06:11,537
+Eleventh turn.
+
+43
+00:06:11,621 --> 00:06:12,622
+Begin.
+
+44
+00:06:13,539 --> 00:06:15,708
+Let's get Sachiko out of there.
+
+45
+00:06:19,545 --> 00:06:21,089
+FORCED STAY
+
+46
+00:06:21,172 --> 00:06:26,135
+Usagi and Nobu need to stay put
+to keep Sachiko's room between them.
+
+47
+00:06:26,719 --> 00:06:30,223
+But Nobu only has two points,
+which will be reduced to zero
+
+48
+00:06:30,807 --> 00:06:34,811
+if he tries to meet up with Sachiko
+after she's released.
+
+49
+00:06:36,604 --> 00:06:40,191
+Want me to meet up with Nobu in C3
+and use my points?
+
+50
+00:06:40,274 --> 00:06:41,275
+No.
+
+51
+00:06:41,359 --> 00:06:44,153
+Even if you go to C3 to meet up with Nobu,
+
+52
+00:06:44,237 --> 00:06:47,448
+you'll never reach A5
+with both of your points.
+
+53
+00:06:48,199 --> 00:06:49,492
+15TH TURN
+MOVE -1
+
+54
+00:06:49,659 --> 00:06:53,538
+Rei, I want you to stay in C4
+to save Sachiko.
+
+55
+00:06:54,163 --> 00:06:56,124
+Then meet up with Nobu there.
+
+56
+00:06:56,666 --> 00:06:57,625
+You got it.
+
+57
+00:06:58,793 --> 00:07:03,131
+If I'm in A2,
+I can form a diagonal line with Rei in C4.
+
+58
+00:07:03,756 --> 00:07:05,675
+So our baby and I will go to A2.
+
+59
+00:07:06,801 --> 00:07:09,804
+But no one has entered A2 yet.
+
+60
+00:07:09,887 --> 00:07:13,850
+Our baby and I
+still have seven points each.
+
+61
+00:07:14,350 --> 00:07:17,437
+We don't know whether A2
+has a large point deduction.
+
+62
+00:07:17,937 --> 00:07:21,107
+No one can help you
+if you're forced to stay in A2.
+
+63
+00:07:21,190 --> 00:07:24,485
+One mistake,
+and we won't reach A5 in 15 turns.
+
+64
+00:07:28,489 --> 00:07:29,449
+Time's almost up.
+
+65
+00:07:30,283 --> 00:07:31,367
+What should we do?
+
+66
+00:07:33,369 --> 00:07:35,455
+How can we all make it home alive?
+
+67
+00:07:36,956 --> 00:07:38,207
+How?
+
+68
+00:07:41,461 --> 00:07:42,962
+There has to be a way.
+
+69
+00:07:45,173 --> 00:07:49,302
+We've battled many opponents.
+
+70
+00:07:55,308 --> 00:07:57,101
+I owe my life to all of you.
+
+71
+00:08:12,950 --> 00:08:16,454
+We've always found a way to survive.
+
+72
+00:08:53,157 --> 00:08:54,158
+The wristband.
+
+73
+00:08:57,995 --> 00:08:59,080
+Use the wristband.
+
+74
+00:08:59,914 --> 00:09:00,790
+What?
+
+75
+00:09:00,873 --> 00:09:04,377
+Put our baby's wristband in room A2.
+
+76
+00:09:06,212 --> 00:09:08,673
+The baby obviously can't wear it.
+
+77
+00:09:09,173 --> 00:09:11,133
+But it has functioned so far.
+
+78
+00:09:11,884 --> 00:09:15,304
+It should function
+even without anyone accompanying it.
+
+79
+00:09:21,352 --> 00:09:22,562
+That's absurd.
+
+80
+00:09:24,272 --> 00:09:27,733
+What if the baby dies
+while you're trying to save me?!
+
+81
+00:09:29,193 --> 00:09:30,152
+I realize that.
+
+82
+00:09:30,236 --> 00:09:31,904
+Even if we win,
+
+83
+00:09:31,988 --> 00:09:36,284
+Usagi might die if the baby's wristband
+isn't retrieved and runs out of points!
+
+84
+00:09:38,369 --> 00:09:41,289
+What if there's a way to get it back?
+
+85
+00:09:41,372 --> 00:09:42,623
+How?
+
+86
+00:09:43,207 --> 00:09:46,460
+Entering the room defeats the purpose
+of using the baby's wristband.
+
+87
+00:09:55,720 --> 00:09:57,805
+You shouldn't see this! Go with Rei!
+
+88
+00:09:57,888 --> 00:09:59,473
+Yuna, come back.
+
+89
+00:09:59,557 --> 00:10:01,601
+-Hurry!
+-Yuna.
+
+90
+00:10:04,687 --> 00:10:10,067
+Rei's wristband didn't react when it was
+outside while she leaned into this room.
+
+91
+00:10:11,569 --> 00:10:15,489
+Then I should be fine
+as long as my wristband doesn't leave A3.
+
+92
+00:10:16,115 --> 00:10:19,493
+Only extend the other hand
+to grab the wristband in A2.
+
+93
+00:10:20,786 --> 00:10:22,872
+Usagi, can you do it?
+
+94
+00:10:25,416 --> 00:10:26,250
+Yes.
+
+95
+00:10:26,834 --> 00:10:30,254
+Eight points will be deducted
+when the wristband reenters A3.
+
+96
+00:10:30,755 --> 00:10:33,424
+Even if Usagi pulls it back from A2 to A3,
+
+97
+00:10:33,507 --> 00:10:36,385
+she and the baby
+won't have enough points to survive.
+
+98
+00:10:48,856 --> 00:10:50,524
+YUNA ITSUKI: 11, RYOHEI ARISU: 6
+
+99
+00:11:01,243 --> 00:11:02,161
+Yuna.
+
+100
+00:11:04,789 --> 00:11:05,998
+I have a favor to ask.
+
+101
+00:11:10,294 --> 00:11:12,546
+Some of us won't survive without you.
+
+102
+00:11:16,008 --> 00:11:17,551
+Please save us.
+
+103
+00:11:23,307 --> 00:11:24,225
+Please.
+
+104
+00:11:45,037 --> 00:11:48,207
+Nobu, meet me in C4, okay?
+
+105
+00:11:48,290 --> 00:11:49,333
+Will do.
+
+106
+00:11:50,876 --> 00:11:56,924
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+107
+00:12:11,272 --> 00:12:12,273
+Forgive me.
+
+108
+00:12:13,274 --> 00:12:15,651
+I'll come get you, I promise.
+
+109
+00:13:16,045 --> 00:13:17,713
+B3 UNLOCKED
+
+110
+00:13:20,007 --> 00:13:23,260
+Room B3 has been unlocked.
+
+111
+00:13:28,891 --> 00:13:29,892
+Good.
+
+112
+00:13:33,938 --> 00:13:37,608
+A2 is a minus-five-point room.
+
+113
+00:13:40,152 --> 00:13:42,321
+Point deduction confirmed.
+
+114
+00:13:53,999 --> 00:13:56,418
+Twelfth turn. Begin.
+
+115
+00:14:03,008 --> 00:14:05,386
+Okay, let's get the wristband back.
+
+116
+00:14:06,637 --> 00:14:07,763
+Wait for me.
+
+117
+00:14:08,264 --> 00:14:13,894
+We'll open the door from our side.
+Yuna will take the eight-point deduction.
+
+118
+00:14:16,272 --> 00:14:17,189
+She will?
+
+119
+00:14:17,273 --> 00:14:22,903
+Yes. And while I'm in there,
+please get your baby's wristband.
+
+120
+00:14:24,280 --> 00:14:25,447
+Thank you.
+
+121
+00:14:25,531 --> 00:14:27,032
+There won't be much time.
+
+122
+00:14:27,116 --> 00:14:29,827
+We have to do it
+before the doors close again.
+
+123
+00:14:30,327 --> 00:14:31,245
+How long?
+
+124
+00:14:31,996 --> 00:14:34,456
+The amount of time differs.
+
+125
+00:14:35,040 --> 00:14:38,836
+Doors stay open the longest
+when there is someone in the doorway.
+
+126
+00:14:39,712 --> 00:14:41,755
+How many seconds max?
+
+127
+00:14:42,256 --> 00:14:44,300
+About ten seconds.
+
+128
+00:14:46,260 --> 00:14:47,094
+I can do it.
+
+129
+00:14:48,220 --> 00:14:51,015
+Okay, let's go with this plan.
+
+130
+00:14:52,266 --> 00:14:53,225
+Got it.
+
+131
+00:15:12,411 --> 00:15:14,496
+MOM, THANK YOU FOR EVERYTHING
+
+132
+00:15:17,666 --> 00:15:18,751
+All right.
+
+133
+00:15:19,793 --> 00:15:22,254
+Ten seconds. I'll count.
+
+134
+00:15:29,470 --> 00:15:30,346
+I'm going in.
+
+135
+00:15:37,853 --> 00:15:38,979
+What happened?
+
+136
+00:15:40,272 --> 00:15:41,440
+Ten!
+
+137
+00:15:44,276 --> 00:15:45,319
+Nine!
+
+138
+00:15:49,698 --> 00:15:50,616
+Eight!
+
+139
+00:15:54,662 --> 00:15:55,955
+Seven!
+
+140
+00:15:58,749 --> 00:15:59,625
+Six!
+
+141
+00:16:03,712 --> 00:16:04,588
+Five!
+
+142
+00:16:06,090 --> 00:16:06,924
+Hurry!
+
+143
+00:16:09,760 --> 00:16:10,594
+Four!
+
+144
+00:16:17,685 --> 00:16:18,602
+Three!
+
+145
+00:16:25,901 --> 00:16:26,986
+Two!
+
+146
+00:16:27,861 --> 00:16:30,280
+This is a minus-eight-point room.
+
+147
+00:16:30,364 --> 00:16:31,991
+-Usagi!
+-Point deduction confirmed.
+
+148
+00:17:02,980 --> 00:17:04,314
+Don't go!
+
+149
+00:17:06,775 --> 00:17:07,609
+Usagi!
+
+150
+00:17:08,610 --> 00:17:09,820
+One!
+
+151
+00:17:15,367 --> 00:17:16,493
+Jump!
+
+152
+00:17:42,352 --> 00:17:43,353
+Thank you.
+
+153
+00:18:06,126 --> 00:18:07,336
+Arisu…
+
+154
+00:18:09,379 --> 00:18:10,881
+what future did you see?
+
+155
+00:18:32,820 --> 00:18:37,366
+The players left in this room
+will be forced to stay.
+
+156
+00:18:39,076 --> 00:18:40,202
+It's the last room.
+
+157
+00:18:54,550 --> 00:18:55,634
+Thank you.
+
+158
+00:19:03,851 --> 00:19:05,227
+STAY - RYUJI
+
+159
+00:19:05,310 --> 00:19:07,479
+Point deduction confirmed.
+
+160
+00:19:07,563 --> 00:19:08,647
+STAY - YUNA
+STAY - ARISU
+
+161
+00:19:14,194 --> 00:19:15,404
+Fourteenth turn.
+
+162
+00:19:15,487 --> 00:19:16,697
+Begin.
+
+163
+00:19:45,392 --> 00:19:46,476
+It'll be okay, Yu.
+
+164
+00:19:46,560 --> 00:19:47,895
+Please wait here.
+
+165
+00:19:48,562 --> 00:19:49,396
+Yu…
+
+166
+00:19:57,613 --> 00:19:58,614
+You idiot!
+
+167
+00:20:13,045 --> 00:20:14,922
+How do you propose to fix this?
+
+168
+00:20:15,005 --> 00:20:16,673
+Please forgive me.
+
+169
+00:20:16,757 --> 00:20:20,219
+Bowing your head solves nothing!
+
+170
+00:20:23,055 --> 00:20:23,972
+Mom…
+
+171
+00:20:44,910 --> 00:20:45,994
+EXIT
+
+172
+00:20:54,253 --> 00:20:55,087
+Arisu.
+
+173
+00:20:56,672 --> 00:20:57,965
+What does this mean?
+
+174
+00:20:58,048 --> 00:21:00,467
+It said "exit" just now.
+
+175
+00:21:01,051 --> 00:21:02,719
+That's the last room, right?
+
+176
+00:21:03,345 --> 00:21:05,055
+What happens there?
+
+177
+00:21:11,103 --> 00:21:14,398
+Hold your wristband to the chosen door
+
+178
+00:21:14,481 --> 00:21:16,942
+and proceed to the next room.
+
+179
+00:21:24,658 --> 00:21:25,492
+Let's go.
+
+180
+00:21:40,382 --> 00:21:41,341
+Arisu.
+
+181
+00:21:41,842 --> 00:21:42,676
+Nobu.
+
+182
+00:21:43,427 --> 00:21:44,428
+What a relief.
+
+183
+00:21:50,267 --> 00:21:51,184
+15TH TURN
+
+184
+00:21:52,311 --> 00:21:55,355
+The last turn. We barely made it.
+
+185
+00:21:56,815 --> 00:22:00,485
+You have reached the exit room.
+
+186
+00:22:00,861 --> 00:22:07,868
+EXIT
+
+187
+00:22:49,576 --> 00:22:54,790
+Now that you have reached the exit,
+it's time to roll one last time.
+
+188
+00:22:55,290 --> 00:22:56,833
+"Roll"?
+
+189
+00:23:07,469 --> 00:23:08,387
+Really?
+
+190
+00:23:16,061 --> 00:23:17,145
+I'll do it.
+
+191
+00:23:38,208 --> 00:23:39,459
+I take this fate
+
+192
+00:23:41,044 --> 00:23:42,212
+upon myself.
+
+193
+00:23:43,463 --> 00:23:44,297
+Arisu.
+
+194
+00:24:12,033 --> 00:24:16,580
+Seven players may now proceed to the exit.
+
+195
+00:24:28,133 --> 00:24:29,134
+"Seven."
+
+196
+00:24:29,885 --> 00:24:31,761
+One of us must stay.
+
+197
+00:24:49,863 --> 00:24:50,822
+Usagi.
+
+198
+00:24:52,657 --> 00:24:53,909
+I'll leave the rest to you.
+
+199
+00:24:54,701 --> 00:24:55,535
+Huh?
+
+200
+00:24:57,037 --> 00:24:58,121
+What do you mean?
+
+201
+00:24:58,205 --> 00:24:59,331
+You must live.
+
+202
+00:25:02,876 --> 00:25:04,419
+Along with everyone else.
+
+203
+00:25:06,922 --> 00:25:09,007
+One minute remaining.
+
+204
+00:25:09,799 --> 00:25:11,301
+-Please.
+-Arisu.
+
+205
+00:25:11,384 --> 00:25:13,929
+-This is the future I saw.
+-No.
+
+206
+00:25:14,012 --> 00:25:15,597
+-Absolutely not!
+-Usagi.
+
+207
+00:25:15,680 --> 00:25:17,849
+-No! You can't!
+-Please.
+
+208
+00:25:17,933 --> 00:25:19,351
+-No!
+-Usagi!
+
+209
+00:25:19,434 --> 00:25:20,435
+-No way!
+-Usagi!
+
+210
+00:25:21,394 --> 00:25:22,229
+No!
+
+211
+00:25:22,312 --> 00:25:25,982
+Everyone, please,
+get her out of here alive.
+
+212
+00:25:26,066 --> 00:25:27,150
+No!
+
+213
+00:25:27,234 --> 00:25:28,318
+Don't!
+
+214
+00:25:28,401 --> 00:25:29,694
+Ryuji!
+
+215
+00:25:29,778 --> 00:25:32,531
+Ryuji, make sure
+Usagi gets back to our world.
+
+216
+00:25:32,614 --> 00:25:34,241
+-No!
+-Please.
+
+217
+00:25:34,324 --> 00:25:36,993
+-No!
+-Thirty seconds remaining.
+
+218
+00:25:37,077 --> 00:25:38,370
+Everyone, hurry!
+
+219
+00:25:38,453 --> 00:25:39,287
+Arisu!
+
+220
+00:25:39,371 --> 00:25:41,915
+There's no time! Sachiko, hurry!
+
+221
+00:25:42,415 --> 00:25:43,875
+-Arisu, no!
+-Hurry!
+
+222
+00:25:44,584 --> 00:25:45,418
+Arisu!
+
+223
+00:25:45,919 --> 00:25:49,381
+Ryuji, make sure
+Usagi gets back to our world.
+
+224
+00:25:49,464 --> 00:25:50,674
+Promise me!
+
+225
+00:25:51,383 --> 00:25:52,300
+Ryuji, please.
+
+226
+00:25:53,343 --> 00:25:55,303
+Arisu!
+
+227
+00:25:57,722 --> 00:25:58,723
+No!
+
+228
+00:26:00,642 --> 00:26:01,977
+Arisu, wait!
+
+229
+00:26:03,728 --> 00:26:04,563
+Arisu!
+
+230
+00:26:07,440 --> 00:26:09,276
+No! Arisu!
+
+231
+00:27:20,639 --> 00:27:24,351
+Let's go to the world of death together.
+
+232
+00:27:31,399 --> 00:27:32,984
+Your wish will be granted
+
+233
+00:27:33,068 --> 00:27:34,986
+if you kill her.
+
+234
+00:27:36,863 --> 00:27:39,199
+You'll discover the true world of death
+
+235
+00:27:40,325 --> 00:27:42,369
+that lies beyond here.
+
+236
+00:28:04,474 --> 00:28:05,684
+What is he doing?
+
+237
+00:28:11,606 --> 00:28:12,440
+Usagi!
+
+238
+00:28:13,483 --> 00:28:14,818
+Hey! Ryuji!
+
+239
+00:28:14,901 --> 00:28:16,778
+Stop! Ryuji!
+
+240
+00:28:17,362 --> 00:28:19,614
+Hey! Don't do it, Ryuji!
+
+241
+00:28:19,698 --> 00:28:20,990
+What are you doing?
+
+242
+00:28:21,074 --> 00:28:23,034
+Usagi! Hey!
+
+243
+00:28:23,618 --> 00:28:24,536
+Ryuji!
+
+244
+00:28:24,619 --> 00:28:26,913
+Don't do it! Hey!
+
+245
+00:28:33,837 --> 00:28:36,047
+Don't! Hey!
+
+246
+00:28:36,131 --> 00:28:36,965
+No!
+
+247
+00:29:17,255 --> 00:29:18,757
+Congratulations.
+
+248
+00:29:21,301 --> 00:29:25,805
+You chose to remain in this room
+so that others may live.
+
+249
+00:29:25,889 --> 00:29:29,392
+You have proven yourself
+worthy of a future.
+
+250
+00:29:31,770 --> 00:29:35,023
+Whoever remains in this room
+wins the game.
+
+251
+00:29:38,067 --> 00:29:38,902
+What?
+
+252
+00:31:01,985 --> 00:31:02,986
+Usagi!
+
+253
+00:31:05,947 --> 00:31:06,948
+Usagi!
+
+254
+00:31:32,974 --> 00:31:34,517
+Congratulations, Arisu.
+
+255
+00:31:48,823 --> 00:31:49,908
+You…
+
+256
+00:31:52,410 --> 00:31:58,082
+Your splendid victory earns you the right
+to join our select group of citizens.
+
+257
+00:31:58,833 --> 00:31:59,834
+A citizen?
+
+258
+00:32:00,919 --> 00:32:02,629
+No way I'd join you!
+
+259
+00:32:02,712 --> 00:32:05,798
+Usagi, the rabbit you've been chasing,
+will soon die.
+
+260
+00:32:06,424 --> 00:32:11,012
+So, Arisu, let's enjoy some more games
+together in this land.
+
+261
+00:32:13,556 --> 00:32:16,684
+So I'm here to entertain you?
+
+262
+00:32:17,310 --> 00:32:18,353
+That's right.
+
+263
+00:32:19,312 --> 00:32:20,939
+You son of a bitch.
+
+264
+00:32:22,398 --> 00:32:25,526
+I knew it'd be difficult
+to persuade you to come here.
+
+265
+00:32:26,402 --> 00:32:29,113
+So I used her as bait.
+
+266
+00:32:31,115 --> 00:32:33,910
+You played right into my hands.
+
+267
+00:32:35,370 --> 00:32:37,246
+Goddamn you!
+
+268
+00:32:44,879 --> 00:32:45,922
+Damn it!
+
+269
+00:34:19,307 --> 00:34:20,975
+-Are you all right?
+-Arisu!
+
+270
+00:34:23,519 --> 00:34:24,520
+Ryuji!
+
+271
+00:34:26,105 --> 00:34:27,065
+Ryuji!
+
+272
+00:34:29,150 --> 00:34:29,984
+Grab on.
+
+273
+00:34:34,113 --> 00:34:35,156
+Sachiko!
+
+274
+00:34:36,491 --> 00:34:37,533
+Sachiko!
+
+275
+00:34:41,370 --> 00:34:42,205
+Yuna!
+
+276
+00:34:44,040 --> 00:34:45,625
+-You got this?
+-Huh?
+
+277
+00:34:49,003 --> 00:34:49,962
+Usagi!
+
+278
+00:34:56,969 --> 00:34:59,097
+-Arisu!
+-Arisu!
+
+279
+00:35:01,099 --> 00:35:02,308
+Get inside, quick!
+
+280
+00:35:05,394 --> 00:35:06,395
+Usagi!
+
+281
+00:35:10,399 --> 00:35:11,275
+Usagi!
+
+282
+00:35:14,445 --> 00:35:15,446
+Arisu!
+
+283
+00:35:19,242 --> 00:35:20,243
+Usagi!
+
+284
+00:36:35,443 --> 00:36:36,611
+Usagi!
+
+285
+00:36:52,210 --> 00:36:53,294
+It's over.
+
+286
+00:37:37,838 --> 00:37:38,756
+Wait a sec.
+
+287
+00:37:40,758 --> 00:37:41,968
+You can see me?
+
+288
+00:38:03,781 --> 00:38:05,116
+Damn you.
+
+289
+00:38:22,425 --> 00:38:23,384
+Arisu?
+
+290
+00:38:24,427 --> 00:38:25,428
+Arisu.
+
+291
+00:38:26,929 --> 00:38:29,015
+Arisu!
+
+292
+00:38:29,098 --> 00:38:31,058
+Bring Usagi back with you!
+
+293
+00:38:31,142 --> 00:38:32,810
+Arisu!
+
+294
+00:39:14,101 --> 00:39:16,270
+Very impressive, Arisu.
+
+295
+00:39:25,780 --> 00:39:27,531
+Ready to become a citizen?
+
+296
+00:39:30,242 --> 00:39:31,786
+Ask all you want,
+
+297
+00:39:33,371 --> 00:39:35,414
+but I'll never become a citizen.
+
+298
+00:39:39,543 --> 00:39:41,337
+You disappoint me.
+
+299
+00:39:45,758 --> 00:39:47,802
+Goodbye, Arisu.
+
+300
+00:40:01,816 --> 00:40:05,986
+It seems he wasn't
+quite ready for this role.
+
+301
+00:40:59,665 --> 00:41:01,584
+Are you the Joker?
+
+302
+00:41:03,627 --> 00:41:05,421
+Who is the Joker, you ask?
+
+303
+00:41:06,088 --> 00:41:07,715
+A god, perhaps?
+
+304
+00:41:07,798 --> 00:41:10,926
+Or… is it me?
+
+305
+00:41:14,555 --> 00:41:16,140
+Let's play one last game.
+
+306
+00:41:20,102 --> 00:41:21,187
+Take a seat.
+
+307
+00:41:46,170 --> 00:41:48,380
+Choose one of these cards.
+
+308
+00:41:49,590 --> 00:41:51,675
+Your choice will seal your fate.
+
+309
+00:41:55,387 --> 00:42:00,100
+I win if you draw the Joker.
+
+310
+00:42:00,726 --> 00:42:04,730
+Your fate will be in my hands.
+
+311
+00:42:55,155 --> 00:42:58,909
+Your fate now belongs to me.
+
+312
+00:43:00,703 --> 00:43:02,913
+They're both Jokers, aren't they?
+
+313
+00:43:08,919 --> 00:43:10,421
+Imagine that.
+
+314
+00:43:11,922 --> 00:43:13,382
+Cut the crap.
+
+315
+00:43:14,174 --> 00:43:15,509
+You cheated.
+
+316
+00:43:16,176 --> 00:43:17,011
+Listen.
+
+317
+00:43:18,804 --> 00:43:21,849
+A deck of cards
+consists of four suits with 13 cards each.
+
+318
+00:43:23,767 --> 00:43:26,562
+Add them up, and you get 364.
+
+319
+00:43:27,688 --> 00:43:31,400
+Add a Joker, and it's 365.
+
+320
+00:43:31,483 --> 00:43:35,863
+That's right, the same number of days
+as a year in the mortal realm.
+
+321
+00:43:38,490 --> 00:43:42,161
+Add another Joker, and it's 366.
+
+322
+00:43:42,953 --> 00:43:44,121
+A leap year.
+
+323
+00:43:46,832 --> 00:43:52,880
+They are indispensable cards tied to
+the nature of time in the mortal realm.
+
+324
+00:43:55,507 --> 00:43:58,302
+They're jesters that fill
+the gaps between cards,
+
+325
+00:43:58,802 --> 00:44:00,137
+the gaps in time,
+
+326
+00:44:01,388 --> 00:44:05,225
+and the gap between life and death.
+
+327
+00:44:08,062 --> 00:44:09,480
+Is that you?
+
+328
+00:44:10,064 --> 00:44:11,231
+The Joker
+
+329
+00:44:12,107 --> 00:44:13,525
+isn't a person.
+
+330
+00:44:14,777 --> 00:44:20,824
+It's neither the ruler of this world
+nor the master of these games.
+
+331
+00:44:21,492 --> 00:44:22,451
+It's simply
+
+332
+00:44:23,410 --> 00:44:24,536
+a card.
+
+333
+00:44:30,167 --> 00:44:32,753
+You're an intriguing character.
+
+334
+00:44:34,296 --> 00:44:36,674
+I imagine it was no coincidence
+
+335
+00:44:36,757 --> 00:44:40,094
+that the two cards
+that could seal your fate were Jokers.
+
+336
+00:44:42,429 --> 00:44:47,142
+Your fate is now mine to do as I please.
+
+337
+00:44:50,396 --> 00:44:51,230
+But…
+
+338
+00:44:52,773 --> 00:44:54,900
+I give thanks for that coincidence
+
+339
+00:44:55,734 --> 00:44:58,278
+by granting you the freedom to choose.
+
+340
+00:45:06,578 --> 00:45:07,579
+Behold.
+
+341
+00:45:09,456 --> 00:45:10,624
+That is death.
+
+342
+00:45:42,281 --> 00:45:45,826
+That vortex pulls you in, and you die.
+
+343
+00:45:55,836 --> 00:45:57,921
+In the other direction is life.
+
+344
+00:46:01,091 --> 00:46:04,553
+Life is hard, with countless ordeals.
+
+345
+00:46:05,721 --> 00:46:10,851
+But death comes easily
+if you cast yourself into the flow.
+
+346
+00:46:13,645 --> 00:46:15,147
+Which will you choose?
+
+347
+00:46:17,524 --> 00:46:19,526
+Everyone eventually comes here.
+
+348
+00:46:20,277 --> 00:46:24,531
+It's the world between life and death.
+
+349
+00:46:25,491 --> 00:46:28,160
+Even if you return
+to the world of the living,
+
+350
+00:46:28,660 --> 00:46:33,332
+you'll inevitably return here
+within a few decades.
+
+351
+00:46:34,374 --> 00:46:35,501
+Ultimately,
+
+352
+00:46:37,002 --> 00:46:39,046
+all roads lead to death.
+
+353
+00:46:40,464 --> 00:46:46,345
+Do you still wish to return to your world,
+even if it means pain and anguish?
+
+354
+00:46:50,891 --> 00:46:52,893
+Even if you return,
+
+355
+00:46:54,144 --> 00:46:58,649
+the woman and child you seek
+may no longer be there.
+
+356
+00:47:00,234 --> 00:47:02,402
+Entering the world of death is easy.
+
+357
+00:47:04,321 --> 00:47:06,907
+Simply cast yourself into that vortex.
+
+358
+00:47:07,658 --> 00:47:11,537
+It's emptier than you imagine.
+
+359
+00:47:13,413 --> 00:47:16,667
+No suffering, no sadness.
+
+360
+00:47:18,210 --> 00:47:19,419
+No joy either.
+
+361
+00:47:27,886 --> 00:47:29,721
+Why are you here?
+
+362
+00:47:32,516 --> 00:47:36,979
+I'm no more than a watchman
+
+363
+00:47:37,062 --> 00:47:40,148
+watching over the rift
+between life and death.
+
+364
+00:47:41,942 --> 00:47:43,277
+Everyone dies.
+
+365
+00:47:45,821 --> 00:47:48,365
+I merely keep watch here
+
+366
+00:47:49,825 --> 00:47:52,786
+so that I don't have to
+pass through death's door.
+
+367
+00:47:55,038 --> 00:47:57,165
+You encourage others to die,
+
+368
+00:47:58,333 --> 00:48:00,168
+yet you're afraid of death?
+
+369
+00:48:03,672 --> 00:48:04,965
+Perhaps.
+
+370
+00:48:07,676 --> 00:48:09,177
+That's why you asked me?
+
+371
+00:48:10,554 --> 00:48:15,642
+I wanted to hear from someone
+who survived many brushes with death.
+
+372
+00:48:22,107 --> 00:48:24,693
+Countless others will be arriving soon.
+
+373
+00:48:26,320 --> 00:48:27,487
+"Countless others"?
+
+374
+00:48:32,117 --> 00:48:33,160
+What's happening?
+
+375
+00:48:35,495 --> 00:48:36,580
+Who knows?
+
+376
+00:48:37,956 --> 00:48:43,003
+But it's bigger than
+what brought you all here the last time.
+
+377
+00:48:45,380 --> 00:48:47,174
+Are many people going to die?
+
+378
+00:48:49,051 --> 00:48:50,719
+That's none of my concern.
+
+379
+00:49:09,154 --> 00:49:12,032
+Now, make your choice!
+
+380
+00:49:18,121 --> 00:49:20,624
+I'll take Usagi back to our world.
+
+381
+00:49:26,505 --> 00:49:27,381
+Usagi?
+
+382
+00:49:35,889 --> 00:49:37,015
+Usagi!
+
+383
+00:49:37,766 --> 00:49:38,600
+Well?
+
+384
+00:49:40,978 --> 00:49:41,979
+Now what?
+
+385
+00:49:54,032 --> 00:49:56,868
+You really are an intriguing character.
+
+386
+00:50:19,057 --> 00:50:20,058
+Usagi!
+
+387
+00:50:33,947 --> 00:50:34,781
+Arisu!
+
+388
+00:50:35,866 --> 00:50:36,867
+Usagi!
+
+389
+00:50:43,123 --> 00:50:44,207
+Let's go together!
+
+390
+00:50:45,459 --> 00:50:46,460
+Arisu!
+
+391
+00:50:47,836 --> 00:50:49,671
+Hey, Ryuji!
+
+392
+00:51:03,977 --> 00:51:06,271
+Let's go to the world of death together.
+
+393
+00:51:06,354 --> 00:51:07,272
+What?
+
+394
+00:51:08,440 --> 00:51:09,816
+No! Ryuji!
+
+395
+00:51:12,194 --> 00:51:13,403
+Usagi!
+
+396
+00:51:14,696 --> 00:51:16,490
+Ryuji! No!
+
+397
+00:51:21,453 --> 00:51:23,413
+Hey! Ryuji!
+
+398
+00:51:50,816 --> 00:51:51,817
+Arisu!
+
+399
+00:51:53,485 --> 00:51:54,486
+Arisu!
+
+400
+00:52:00,117 --> 00:52:01,326
+Usagi!
+
+401
+00:52:04,996 --> 00:52:05,831
+Usagi!
+
+402
+00:52:08,416 --> 00:52:09,668
+Arisu!
+
+403
+00:52:10,377 --> 00:52:11,419
+Arisu!
+
+404
+00:52:12,420 --> 00:52:13,380
+Usagi!
+
+405
+00:52:35,235 --> 00:52:36,403
+Arisu!
+
+406
+00:52:37,529 --> 00:52:38,572
+Arisu!
+
+407
+00:52:39,406 --> 00:52:41,867
+Arisu!
+
+408
+00:52:43,201 --> 00:52:46,037
+Ryuji, make sure
+Usagi gets back to our world.
+
+409
+00:52:46,538 --> 00:52:47,581
+Promise me!
+
+410
+00:53:33,126 --> 00:53:34,669
+You must live, together.
+
+411
+00:53:41,218 --> 00:53:42,469
+Ryuji!
+
+412
+00:55:00,380 --> 00:55:01,381
+Yuzuha.
+
+413
+00:55:19,441 --> 00:55:20,442
+Yuzuha.
+
+414
+00:55:22,610 --> 00:55:23,611
+Dad.
+
+415
+00:55:47,761 --> 00:55:48,803
+I…
+
+416
+00:55:52,349 --> 00:55:53,516
+missed you so much.
+
+417
+00:55:59,314 --> 00:56:00,398
+I was
+
+418
+00:56:01,900 --> 00:56:03,193
+so happy.
+
+419
+00:56:07,655 --> 00:56:08,656
+Dad…
+
+420
+00:56:20,001 --> 00:56:21,503
+That's why I want
+
+421
+00:56:23,046 --> 00:56:24,672
+you to be happy too.
+
+422
+00:57:07,090 --> 00:57:08,007
+Arisu!
+
+423
+00:59:09,337 --> 00:59:10,338
+Arisu.
+
+424
+00:59:33,194 --> 00:59:36,030
+How long has it been?
+
+425
+00:59:38,575 --> 00:59:39,659
+Two minutes.
+
+426
+00:59:41,286 --> 00:59:42,579
+You barely made it.
+
+427
+00:59:45,206 --> 00:59:47,375
+You were seconds away from death.
+
+428
+00:59:49,586 --> 00:59:50,712
+What about Usagi?
+
+429
+00:59:51,212 --> 00:59:52,505
+What happened to her?
+
+430
+00:59:55,008 --> 00:59:57,302
+You should know better than anyone.
+
+431
+00:59:59,846 --> 01:00:00,680
+I gotta go.
+
+432
+01:00:02,724 --> 01:00:03,725
+I'm fine.
+
+433
+01:00:12,108 --> 01:00:14,861
+Thank you, Ann.
+
+434
+01:00:46,184 --> 01:00:47,185
+Usagi?
+
+435
+01:01:11,209 --> 01:01:12,460
+What a relief.
+
+436
+01:01:21,511 --> 01:01:23,304
+I'm hungry.
+
+437
+01:01:34,607 --> 01:01:35,775
+Arisu…
+
+438
+01:02:22,280 --> 01:02:24,365
+The baby will be born in summer, so…
+
+439
+01:02:24,449 --> 01:02:26,117
+It will be summer, so…
+
+440
+01:02:26,200 --> 01:02:27,952
+-Natsumi?
+-"Natsumi"?
+
+441
+01:02:28,911 --> 01:02:31,205
+The kanji for "summer" and "beautiful."
+
+442
+01:02:31,289 --> 01:02:32,373
+"Beautiful."
+
+443
+01:02:32,457 --> 01:02:34,167
+RINKA, NATSUKI, KANADE, KOHARU, NATSUMI
+
+444
+01:02:36,627 --> 01:02:38,212
+What else is there?
+
+445
+01:02:39,422 --> 01:02:40,923
+How about this?
+
+446
+01:02:41,007 --> 01:02:42,300
+-Hiiro?
+-Yeah.
+
+447
+01:02:43,342 --> 01:02:45,052
+That one's good too.
+
+448
+01:02:45,136 --> 01:02:50,141
+You keep saying that,
+but it's time to narrow it down.
+
+449
+01:02:50,224 --> 01:02:54,270
+We'll never decide
+if we keep writing down the ones you like.
+
+450
+01:02:55,855 --> 01:02:57,315
+What else is there?
+
+451
+01:03:00,568 --> 01:03:03,112
+Whatever you like is fine.
+
+452
+01:03:03,196 --> 01:03:04,447
+There it is.
+
+453
+01:03:04,947 --> 01:03:06,991
+So you'll be a lazy father?
+
+454
+01:03:07,074 --> 01:03:08,409
+No.
+
+455
+01:03:08,493 --> 01:03:10,369
+I am thinking about it,
+
+456
+01:03:10,870 --> 01:03:17,293
+but it feels like our names
+shape our destiny, so I just can't choose.
+
+457
+01:03:18,669 --> 01:03:20,171
+You should be the one to--
+
+458
+01:03:20,254 --> 01:03:22,423
+No way! We'll decide together.
+
+459
+01:03:25,510 --> 01:03:27,094
+-I'm gonna be late!
+-Huh?
+
+460
+01:03:27,178 --> 01:03:28,095
+I gotta go.
+
+461
+01:03:29,847 --> 01:03:31,641
+Hey, don't run away.
+
+462
+01:03:35,394 --> 01:03:38,564
+I'd never do that. I won't ever leave you.
+
+463
+01:03:41,400 --> 01:03:42,401
+I know.
+
+464
+01:03:44,487 --> 01:03:47,657
+So narrow it down to one name by tonight.
+
+465
+01:03:47,740 --> 01:03:50,076
+-What?
+-We'll do the final vote tonight.
+
+466
+01:03:50,701 --> 01:03:51,994
+Now off you go.
+
+467
+01:03:53,079 --> 01:03:54,080
+See you later.
+
+468
+01:04:12,974 --> 01:04:14,308
+Thanks for coming.
+
+469
+01:04:15,101 --> 01:04:17,395
+I graduated, thanks to you, Mom.
+
+470
+01:04:17,895 --> 01:04:19,480
+That's not true.
+
+471
+01:04:20,857 --> 01:04:22,400
+Now it's my turn.
+
+472
+01:04:22,942 --> 01:04:23,776
+What?
+
+473
+01:04:24,402 --> 01:04:27,613
+It's my turn to make you happy.
+
+474
+01:04:30,908 --> 01:04:32,451
+It's game on.
+
+475
+01:04:34,745 --> 01:04:36,122
+-I was thinking…
+-Yeah?
+
+476
+01:04:36,205 --> 01:04:38,583
+-Let's visit his grave together.
+-Really?
+
+477
+01:04:38,666 --> 01:04:42,295
+Yeah, it's about time
+I introduce you to my brother,
+
+478
+01:04:42,378 --> 01:04:44,088
+like, "This is my boyfriend."
+
+479
+01:04:44,171 --> 01:04:45,339
+-I see.
+-Yeah.
+
+480
+01:04:45,840 --> 01:04:48,551
+-Then I better start thinking.
+-About what?
+
+481
+01:04:48,634 --> 01:04:51,387
+-What to wear and say.
+-It doesn't matter.
+
+482
+01:04:51,470 --> 01:04:52,597
+Just in case.
+
+483
+01:04:52,680 --> 01:04:55,391
+-So what will you wear?
+-I don't know.
+
+484
+01:04:55,474 --> 01:04:56,642
+-A suit or…
+-A suit?
+
+485
+01:04:56,726 --> 01:05:01,689
+Don't forget your phone in the bathroom.
+You start middle school, so act like it.
+
+486
+01:05:01,772 --> 01:05:02,732
+I know.
+
+487
+01:05:03,232 --> 01:05:05,735
+Seriously, where'd you get that from?
+
+488
+01:05:05,818 --> 01:05:07,486
+It could only be you, Mom.
+
+489
+01:05:08,446 --> 01:05:09,280
+What?
+
+490
+01:05:11,532 --> 01:05:12,575
+You're right.
+
+491
+01:05:13,826 --> 01:05:15,328
+I read your letter.
+
+492
+01:05:16,370 --> 01:05:18,623
+Thanks for watching it, Mom.
+
+493
+01:05:19,498 --> 01:05:22,752
+Yeah, I'll be working
+on an anime again soon.
+
+494
+01:05:23,669 --> 01:05:27,298
+Yeah, this time it's for a movie.
+
+495
+01:05:28,132 --> 01:05:30,134
+See it with Dad when it comes out.
+
+496
+01:05:30,635 --> 01:05:31,469
+Okay.
+
+497
+01:05:33,220 --> 01:05:35,890
+ARISU
+
+498
+01:05:37,600 --> 01:05:41,896
+Thank you. Would you like to
+schedule your next appointment?
+
+499
+01:05:42,563 --> 01:05:45,608
+Do you have any openings in mid-May?
+
+500
+01:05:45,691 --> 01:05:47,234
+One moment, please.
+
+501
+01:05:48,986 --> 01:05:52,490
+What makes you feel
+like life is worth living?
+
+502
+01:05:53,199 --> 01:05:54,450
+"Worth living"?
+
+503
+01:06:00,456 --> 01:06:03,292
+I guess it's when I do karate.
+
+504
+01:06:03,793 --> 01:06:05,586
+Didn't you stop for a while?
+
+505
+01:06:06,128 --> 01:06:08,923
+I started teaching
+at my dad's karate school.
+
+506
+01:06:10,007 --> 01:06:12,510
+The kids are so eager to practice.
+
+507
+01:06:13,219 --> 01:06:16,138
+Seeing that makes me so happy.
+
+508
+01:06:22,770 --> 01:06:24,814
+Do you ever have flashbacks?
+
+509
+01:06:26,357 --> 01:06:28,693
+I'm able to sleep better now.
+
+510
+01:06:29,485 --> 01:06:30,945
+I'm used to my job too.
+
+511
+01:06:31,654 --> 01:06:32,697
+That's good.
+
+512
+01:06:33,781 --> 01:06:38,119
+You said you've been thinking a lot
+about the meaning of life.
+
+513
+01:06:40,663 --> 01:06:43,749
+I think, "Why am I alive?"
+
+514
+01:06:49,463 --> 01:06:53,467
+Maybe it's to work hard
+so the hat shop won't go under.
+
+515
+01:07:02,643 --> 01:07:06,564
+What makes you feel
+like life is worth living?
+
+516
+01:07:06,647 --> 01:07:10,484
+When everyone recognizes me
+as an influencer, of course.
+
+517
+01:07:13,529 --> 01:07:16,490
+This is how I'll spread my wings
+in this world.
+
+518
+01:07:22,872 --> 01:07:24,123
+I like your spirit.
+
+519
+01:07:28,461 --> 01:07:32,048
+What makes you feel
+like life is worth living?
+
+520
+01:07:33,632 --> 01:07:38,554
+There was a time when I felt like
+I shouldn't have gotten a second chance.
+
+521
+01:07:40,222 --> 01:07:44,894
+But maybe that's the point,
+and I have to prove I can do better.
+
+522
+01:07:47,938 --> 01:07:49,023
+Now,
+
+523
+01:07:50,483 --> 01:07:52,568
+I work hard for the sake of my rug rat.
+
+524
+01:07:57,656 --> 01:07:58,657
+"Worth living"?
+
+525
+01:08:04,663 --> 01:08:05,706
+Good question.
+
+526
+01:08:18,427 --> 01:08:20,137
+Even if you don't know the answer,
+
+527
+01:08:21,222 --> 01:08:22,556
+it's not so bad, is it?
+
+528
+01:08:23,349 --> 01:08:24,600
+Life, I mean.
+
+529
+01:08:26,560 --> 01:08:27,645
+That's true.
+
+530
+01:08:30,731 --> 01:08:31,941
+How about you?
+
+531
+01:08:33,109 --> 01:08:37,571
+What makes you feel
+like life is worth living?
+
+532
+01:08:38,572 --> 01:08:39,490
+Me?
+
+533
+01:08:41,575 --> 01:08:42,910
+Let me think.
+
+534
+01:08:44,411 --> 01:08:46,705
+Right now, it's…
+
+535
+01:08:48,749 --> 01:08:51,043
+when I'm thinking of names for my kid.
+
+536
+01:08:53,921 --> 01:08:54,839
+I see.
+
+537
+01:09:11,105 --> 01:09:12,857
+-I'll leave it here.
+-Thanks.
+
+538
+01:09:23,784 --> 01:09:24,869
+Feel that?
+
+539
+01:09:24,952 --> 01:09:26,078
+Another earthquake?
+
+540
+01:09:39,341 --> 01:09:41,594
+It stopped, right?
+
+541
+01:09:41,677 --> 01:09:42,553
+Yep.
+
+542
+01:09:43,053 --> 01:09:45,514
+-That was a big one the other day.
+-Yeah.
+
+543
+01:09:45,598 --> 01:09:47,224
+There have been a lot lately.
+
+544
+01:09:47,308 --> 01:09:48,601
+There have.
+
+545
+01:09:48,684 --> 01:09:49,935
+Let's check the news.
+
+546
+01:09:51,061 --> 01:09:54,106
+The Japan Meteorological Agency
+says the epicenter
+
+547
+01:09:54,190 --> 01:09:57,568
+was off the southeast coast of Chiba,
+at a depth of 61 km.
+
+548
+01:09:58,068 --> 01:10:00,613
+No tsunami warnings have been issued.
+
+549
+01:10:01,405 --> 01:10:06,452
+An earthquake with an intensity of 5 Lower
+was recently recorded in the Kanto region.
+
+550
+01:10:06,535 --> 01:10:12,499
+The quake was also recorded in California,
+among other locations worldwide.
+
+551
+01:10:13,000 --> 01:10:17,963
+Experts believe this could be
+a sign of global tectonic activity…
+
+552
+01:14:11,238 --> 01:14:15,784
+Subtitle translation by: Jason Franzman
+
