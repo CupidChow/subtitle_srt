@@ -1,0 +1,2901 @@
+1
+00:00:17,225 --> 00:00:18,143
+Huh?
+
+2
+00:00:46,629 --> 00:00:48,131
+It's a monitor.
+
+3
+00:02:47,375 --> 00:02:48,793
+This is CGI, right?
+
+4
+00:02:49,294 --> 00:02:50,336
+"CGI"?
+
+5
+00:02:50,962 --> 00:02:52,088
+Really?
+
+6
+00:03:42,889 --> 00:03:44,349
+-Missed you.
+-Same here.
+
+7
+00:03:44,933 --> 00:03:46,684
+-I picked this up.
+-Thanks.
+
+8
+00:03:47,560 --> 00:03:49,562
+I'm so hungry.
+
+9
+00:04:44,200 --> 00:04:45,285
+Usagi?
+
+10
+00:04:48,037 --> 00:04:49,038
+Arisu.
+
+11
+00:05:01,968 --> 00:05:03,136
+At last,
+
+12
+00:05:04,595 --> 00:05:05,763
+I found you.
+
+13
+00:05:08,474 --> 00:05:09,475
+I'm sorry.
+
+14
+00:05:18,526 --> 00:05:19,694
+Let's go home.
+
+15
+00:05:23,531 --> 00:05:24,365
+Yeah.
+
+16
+00:05:25,700 --> 00:05:26,909
+Ouch.
+
+17
+00:05:27,994 --> 00:05:28,911
+Sorry.
+
+18
+00:06:09,702 --> 00:06:10,870
+You…
+
+19
+00:06:11,662 --> 00:06:13,081
+-Hey!
+-Ryuji!
+
+20
+00:06:13,164 --> 00:06:16,501
+Why are you with Usagi?
+She's dead because of you!
+
+21
+00:06:16,584 --> 00:06:17,877
+You son of a bitch!
+
+22
+00:06:17,960 --> 00:06:19,170
+Stop, Arisu!
+
+23
+00:06:19,253 --> 00:06:20,213
+-Arisu!
+-Ryuji?
+
+24
+00:06:20,296 --> 00:06:22,215
+Ryuji, are you all right?
+
+25
+00:06:22,298 --> 00:06:24,509
+Okay, there you go.
+
+26
+00:06:27,303 --> 00:06:30,515
+-He's been fighting alongside me.
+-Usagi…
+
+27
+00:06:30,598 --> 00:06:33,810
+I made it this far, thanks to him.
+
+28
+00:06:34,811 --> 00:06:37,063
+-Still--
+-He saved my life.
+
+29
+00:06:38,356 --> 00:06:40,358
+I'm with you now, thanks to him.
+
+30
+00:06:51,119 --> 00:06:53,162
+Entry is now closed.
+
+31
+00:06:54,914 --> 00:06:57,250
+There are ten players.
+
+32
+00:06:58,334 --> 00:07:00,044
+"Ten players"?
+
+33
+00:07:01,170 --> 00:07:03,131
+There are only nine here.
+
+34
+00:07:03,881 --> 00:07:05,133
+I don't get it.
+
+35
+00:07:06,759 --> 00:07:07,760
+A child.
+
+36
+00:07:08,344 --> 00:07:09,262
+What?
+
+37
+00:07:12,181 --> 00:07:13,266
+There's a child.
+
+38
+00:07:20,148 --> 00:07:22,358
+You're pregnant, Usagi.
+
+39
+00:07:25,987 --> 00:07:28,614
+We're having a baby?
+
+40
+00:07:30,616 --> 00:07:32,034
+Yes, a baby.
+
+41
+00:07:36,539 --> 00:07:37,540
+I get it.
+
+42
+00:07:38,291 --> 00:07:40,918
+The baby in her belly makes it ten.
+
+43
+00:07:41,502 --> 00:07:43,212
+Congrats!
+
+44
+00:07:43,296 --> 00:07:47,049
+But a child in this situation is…
+
+45
+00:07:55,850 --> 00:07:57,560
+The game will now commence.
+
+46
+00:07:58,352 --> 00:07:59,604
+It's starting.
+
+47
+00:08:00,188 --> 00:08:03,149
+Please put on the wristbands and collars.
+
+48
+00:08:18,122 --> 00:08:20,708
+The game is Future Sugoroku.
+
+49
+00:09:50,006 --> 00:09:51,132
+Here are the rules.
+
+50
+00:09:53,926 --> 00:09:59,932
+There are a total of 25 rooms
+arranged in five rows and five columns.
+
+51
+00:10:01,267 --> 00:10:05,521
+Roll the dice on the platform
+in the center of each room.
+
+52
+00:10:05,605 --> 00:10:09,859
+The numbers you roll determine
+how many people can advance to each room.
+
+53
+00:10:11,027 --> 00:10:16,073
+Repeat this as you try to reach
+the exit room within 15 turns.
+
+54
+00:10:16,157 --> 00:10:18,409
+EXIT
+
+55
+00:10:20,828 --> 00:10:24,540
+However, if there are more people
+than the numbers rolled,
+
+56
+00:10:24,624 --> 00:10:27,960
+the excess individuals
+cannot leave the room.
+
+57
+00:10:28,628 --> 00:10:31,464
+The doors will be locked,
+forcing them to stay.
+
+58
+00:10:31,547 --> 00:10:33,507
+FORCED STAY
+
+59
+00:10:34,759 --> 00:10:38,137
+To unlock the room,
+use the transceiver on the wristband
+
+60
+00:10:38,220 --> 00:10:43,142
+to coordinate and position players
+on opposite sides of the locked room.
+
+61
+00:10:43,225 --> 00:10:46,520
+UNLOCKED
+
+62
+00:10:47,188 --> 00:10:50,483
+You have each been allocated 15 points.
+
+63
+00:10:53,819 --> 00:10:55,488
+To pass through a door,
+
+64
+00:10:55,571 --> 00:11:01,369
+one of you must use one point
+by holding your wristband up to it.
+
+65
+00:11:04,080 --> 00:11:08,417
+To return to the previous room,
+you must stay where you are for one turn.
+
+66
+00:11:08,501 --> 00:11:11,504
+The door will only be unlocked after that.
+
+67
+00:11:12,713 --> 00:11:16,842
+Whether you choose to
+or are forced to stay,
+
+68
+00:11:16,926 --> 00:11:20,054
+one point will be used each turn.
+
+69
+00:11:20,971 --> 00:11:23,683
+It's game over if you run out of points.
+
+70
+00:11:28,437 --> 00:11:34,944
+The walls through which you can proceed
+will display images of your future.
+
+71
+00:11:35,027 --> 00:11:37,947
+The one that you choose
+
+72
+00:11:38,030 --> 00:11:43,119
+is the future
+that will come to pass once you exit.
+
+73
+00:11:46,914 --> 00:11:49,125
+"The future that will come to pass."
+
+74
+00:11:51,544 --> 00:11:56,632
+THE FUTURE THAT WILL COME TO PASS
+
+75
+00:11:57,508 --> 00:12:00,219
+Proceed according to the dice rolls
+
+76
+00:12:00,302 --> 00:12:04,598
+and choose your future
+as you search for the exit.
+
+77
+00:12:05,766 --> 00:12:09,145
+So we need to work together
+to find the exit?
+
+78
+00:12:14,400 --> 00:12:15,985
+May I ask your names?
+
+79
+00:12:21,699 --> 00:12:23,909
+I'm Sohta, and this is my sister--
+
+80
+00:12:23,993 --> 00:12:24,994
+I'm Yuna.
+
+81
+00:12:25,828 --> 00:12:26,912
+I'm Arisu.
+
+82
+00:12:28,789 --> 00:12:34,628
+This is Sachiko, Rei, Tetsu, and Nobu.
+
+83
+00:12:36,922 --> 00:12:41,635
+Now roll the dice,
+and then choose which room to enter.
+
+84
+00:12:42,303 --> 00:12:44,138
+You have three minutes.
+
+85
+00:13:01,155 --> 00:13:04,033
+So the dice colors
+correspond to the doors.
+
+86
+00:13:05,075 --> 00:13:06,076
+Okay!
+
+87
+00:13:06,786 --> 00:13:08,662
+Dice are my specialty.
+
+88
+00:13:09,288 --> 00:13:11,248
+Because you're a gambling addict?
+
+89
+00:13:12,958 --> 00:13:15,419
+First turn. Begin.
+
+90
+00:13:21,008 --> 00:13:22,092
+Okay.
+
+91
+00:13:52,998 --> 00:13:55,084
+Is this really the future?
+
+92
+00:13:57,086 --> 00:13:59,463
+Is this for real?
+
+93
+00:14:07,805 --> 00:14:10,641
+-Here it comes!
+-You won again?
+
+94
+00:14:10,724 --> 00:14:13,644
+Bonus mode!
+
+95
+00:14:16,355 --> 00:14:18,107
+We give thanks for this meal.
+
+96
+00:14:18,190 --> 00:14:19,483
+What?
+
+97
+00:14:19,567 --> 00:14:20,860
+Really?
+
+98
+00:14:25,531 --> 00:14:29,118
+The future is different on each wall.
+
+99
+00:14:29,618 --> 00:14:31,161
+Goddamn machine!
+
+100
+00:14:35,165 --> 00:14:36,125
+Shit!
+
+101
+00:14:39,336 --> 00:14:42,673
+Your future changes depending on the door?
+
+102
+00:14:49,638 --> 00:14:50,556
+Please.
+
+103
+00:14:52,266 --> 00:14:55,644
+Matsuyama, it's time
+to study something else.
+
+104
+00:14:55,728 --> 00:14:59,064
+Please, just a glance.
+Please read it, Professor.
+
+105
+00:14:59,148 --> 00:15:01,317
+It'll all be for nothing if I quit now.
+
+106
+00:15:08,365 --> 00:15:12,328
+The Academy isn't going to
+waste their time reading this nonsense.
+
+107
+00:15:13,746 --> 00:15:15,539
+Please read it, at least.
+
+108
+00:15:16,832 --> 00:15:19,752
+You should submit that
+to occult magazines.
+
+109
+00:15:37,770 --> 00:15:39,730
+Okay, smile.
+
+110
+00:15:39,813 --> 00:15:40,814
+Smile.
+
+111
+00:15:42,858 --> 00:15:43,817
+Nice day, huh?
+
+112
+00:15:44,401 --> 00:15:46,111
+Yeah, feels great.
+
+113
+00:15:47,237 --> 00:15:49,406
+If I have my choice of futures,
+
+114
+00:15:50,074 --> 00:15:51,825
+I'll pick the blue door.
+
+115
+00:15:53,160 --> 00:15:54,328
+Me too.
+
+116
+00:15:55,287 --> 00:15:58,832
+But only seven people
+can go through the blue door.
+
+117
+00:16:00,042 --> 00:16:01,877
+One person for the yellow door?
+
+118
+00:16:04,546 --> 00:16:06,507
+-All right!
+-Nice shot, Hida!
+
+119
+00:16:06,590 --> 00:16:07,925
+Nice!
+
+120
+00:16:08,842 --> 00:16:10,719
+I prefer yellow.
+
+121
+00:16:12,179 --> 00:16:17,977
+No, the key to this game is minimizing
+point loss as we make our way through.
+
+122
+00:16:18,560 --> 00:16:21,855
+So we should move together
+whenever possible.
+
+123
+00:16:23,899 --> 00:16:29,196
+We should split into two groups
+of the largest numbers, seven and five.
+
+124
+00:16:30,447 --> 00:16:34,702
+Sohta and Yuna,
+would you go to room D3 with Rei?
+
+125
+00:16:36,870 --> 00:16:37,705
+You three…
+
+126
+00:16:40,666 --> 00:16:43,210
+will go to the room to the east, D3.
+
+127
+00:16:43,877 --> 00:16:46,296
+We'll go to the room to the north, C2.
+
+128
+00:16:46,839 --> 00:16:50,843
+Based on the diagram,
+we can quickly regroup in D2.
+
+129
+00:16:51,552 --> 00:16:52,886
+D3.
+
+130
+00:16:54,388 --> 00:16:56,682
+-Do it.
+-Yuna.
+
+131
+00:16:56,765 --> 00:16:59,852
+Ken? I didn't notice you were here!
+
+132
+00:16:59,935 --> 00:17:00,936
+This is my brother.
+
+133
+00:17:01,020 --> 00:17:02,813
+Ken is a college classmate…
+
+134
+00:17:02,896 --> 00:17:03,939
+Understood.
+
+135
+00:17:05,149 --> 00:17:07,151
+We're fine with the red door.
+
+136
+00:17:08,318 --> 00:17:10,654
+One minute remaining.
+
+137
+00:17:12,740 --> 00:17:14,950
+-Then, it's decided.
+-Let's go.
+
+138
+00:17:15,034 --> 00:17:17,369
+Why do you trust him?
+
+139
+00:17:20,205 --> 00:17:22,624
+You're free to choose another door.
+
+140
+00:17:34,803 --> 00:17:40,809
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+141
+00:17:44,563 --> 00:17:45,939
+All right, let's go.
+
+142
+00:18:00,079 --> 00:18:01,371
+We'll regroup later.
+
+143
+00:18:01,455 --> 00:18:02,664
+Okay.
+
+144
+00:18:17,262 --> 00:18:18,764
+I'm Rei Morikage.
+
+145
+00:18:18,847 --> 00:18:22,142
+I've loved anime since I was a kid.
+
+146
+00:18:22,226 --> 00:18:23,769
+I draw a lot.
+
+147
+00:18:24,394 --> 00:18:26,647
+How quickly do you draw?
+
+148
+00:18:27,147 --> 00:18:31,401
+It currently takes me three days
+to complete one drawing…
+
+149
+00:18:34,488 --> 00:18:38,408
+C2 is a minus-one-point room.
+
+150
+00:18:38,909 --> 00:18:43,330
+-Please select whose points to use.
+-Why is it deducting a point?
+
+151
+00:18:43,831 --> 00:18:47,126
+Some rooms probably have a point penalty.
+
+152
+00:18:47,751 --> 00:18:51,588
+We won't know till we enter,
+which makes it tricky.
+
+153
+00:18:53,006 --> 00:18:56,969
+We just used Arisu's points,
+so let's use mine.
+
+154
+00:19:03,183 --> 00:19:05,477
+Second turn. Begin.
+
+155
+00:19:14,153 --> 00:19:19,032
+Now roll the dice,
+and then choose which room to enter.
+
+156
+00:19:20,701 --> 00:19:23,370
+We can't return to the last room
+without waiting a turn.
+
+157
+00:19:23,453 --> 00:19:26,665
+That leaves three rooms,
+which explains the three dice.
+
+158
+00:19:27,166 --> 00:19:28,917
+All right!
+
+159
+00:19:36,008 --> 00:19:38,177
+Three, one, five?
+
+160
+00:19:51,565 --> 00:19:54,026
+If this really is the future,
+
+161
+00:19:54,610 --> 00:19:57,529
+I'd choose the blue door in this room too.
+
+162
+00:19:57,613 --> 00:19:59,281
+MOVIE TICKET
+EVERYBODY LOVES FAMILY!
+
+163
+00:19:59,781 --> 00:20:02,993
+-We should do this now and then.
+-I wanted to see this.
+
+164
+00:20:06,538 --> 00:20:08,498
+CLASS 1 ARCHITECT
+DESIGN DRAWING EXAM
+
+165
+00:20:10,584 --> 00:20:11,460
+What?
+
+166
+00:20:11,960 --> 00:20:14,755
+You're gonna try to be an architect?
+
+167
+00:20:17,633 --> 00:20:18,592
+I am?
+
+168
+00:20:21,470 --> 00:20:24,556
+What would you do
+if a student were bullied in your class?
+
+169
+00:20:24,640 --> 00:20:26,391
+Mr. Hida, what do you think?
+
+170
+00:20:26,475 --> 00:20:30,270
+-I wouldn't just stop it.
+-The future that will come to pass.
+
+171
+00:20:30,354 --> 00:20:31,939
+I'd first listen to both…
+
+172
+00:20:32,022 --> 00:20:34,191
+I don't wanna choose the red door.
+
+173
+00:20:42,115 --> 00:20:45,702
+Hida, there's an interesting seminar.
+Wanna go?
+
+174
+00:20:45,786 --> 00:20:47,246
+SKILL DEVELOPMENT SEMINAR
+
+175
+00:20:47,329 --> 00:20:48,997
+I don't have time.
+
+176
+00:20:49,081 --> 00:20:52,292
+Think of it as an investment
+in your future self.
+
+177
+00:20:52,376 --> 00:20:54,753
+At least go hear what they have to say.
+
+178
+00:20:56,672 --> 00:20:58,340
+Please sign your name here.
+
+179
+00:20:58,924 --> 00:21:00,884
+Okay, thank you.
+
+180
+00:21:00,968 --> 00:21:03,178
+-Please take a seat.
+-All right.
+
+181
+00:21:03,262 --> 00:21:07,182
+D2 is beyond the red door.
+That's where we plan to regroup.
+
+182
+00:21:07,975 --> 00:21:13,063
+I'll go through the red door to the east
+and meet up with Rei and the others.
+
+183
+00:21:13,814 --> 00:21:14,898
+I'll go too.
+
+184
+00:21:16,858 --> 00:21:21,446
+Can I ask the rest of you
+to go through the blue door to room C1?
+
+185
+00:21:21,530 --> 00:21:25,450
+You did it, Matsuyama.
+It's the research funding you wanted.
+
+186
+00:21:25,534 --> 00:21:28,245
+-Is this for real?
+-Yes, congratulations.
+
+187
+00:21:28,829 --> 00:21:30,163
+Thank you very much.
+
+188
+00:21:32,874 --> 00:21:34,084
+Let's meet up later.
+
+189
+00:21:41,174 --> 00:21:42,175
+All right.
+
+190
+00:21:43,760 --> 00:21:44,594
+Let's go.
+
+191
+00:21:52,227 --> 00:21:54,771
+TO: YUZUHA ARISU
+
+192
+00:21:54,855 --> 00:21:57,858
+THANK YOU FOR THE OTHER DAY
+CAN WE MEET?
+
+193
+00:22:02,821 --> 00:22:05,157
+This is getting weird.
+
+194
+00:22:06,742 --> 00:22:10,370
+Is this game peeking into our minds?
+
+195
+00:22:21,089 --> 00:22:21,923
+All twos.
+
+196
+00:22:35,437 --> 00:22:37,856
+I'll head north to D2.
+
+197
+00:22:38,398 --> 00:22:43,528
+I wish the three of us could go together,
+but we have to split into two groups.
+
+198
+00:22:44,946 --> 00:22:45,947
+Got it.
+
+199
+00:22:47,115 --> 00:22:50,786
+We'll go east to E3.
+
+200
+00:22:51,286 --> 00:22:52,120
+Okay.
+
+201
+00:22:52,704 --> 00:22:54,581
+JOB OFFER CONFIRMATION
+
+202
+00:22:55,791 --> 00:22:57,042
+No way!
+
+203
+00:23:01,922 --> 00:23:03,465
+This is delicious!
+
+204
+00:23:03,548 --> 00:23:05,258
+Hey, are you listening to me?
+
+205
+00:23:11,098 --> 00:23:14,684
+Rei, let's meet up in room D2 as planned.
+
+206
+00:23:15,352 --> 00:23:16,353
+Roger that.
+
+207
+00:23:27,739 --> 00:23:29,616
+-Okay.
+-Thank goodness.
+
+208
+00:23:29,699 --> 00:23:30,534
+Yeah.
+
+209
+00:23:31,034 --> 00:23:33,495
+Third turn. Begin.
+
+210
+00:23:35,789 --> 00:23:37,749
+Huh? One and two?
+
+211
+00:23:49,886 --> 00:23:54,057
+Usagi counts as two,
+so she can only go to D1.
+
+212
+00:23:54,975 --> 00:23:57,185
+Only one can go to E2.
+
+213
+00:23:57,686 --> 00:24:00,730
+So one of us will be forced to stay.
+
+214
+00:24:03,442 --> 00:24:07,154
+Everyone, this is Morikage.
+She'll be starting today.
+
+215
+00:24:07,654 --> 00:24:09,948
+I look forward to working with you.
+
+216
+00:24:10,031 --> 00:24:11,074
+I'm Rei Morikage.
+
+217
+00:24:11,158 --> 00:24:12,993
+It's nice to meet you.
+
+218
+00:24:14,995 --> 00:24:16,830
+I guess it can't be helped.
+
+219
+00:24:19,749 --> 00:24:21,543
+I'll stay this time.
+
+220
+00:24:21,626 --> 00:24:22,794
+What?
+
+221
+00:24:23,503 --> 00:24:25,088
+Keep your kid safe.
+
+222
+00:24:25,755 --> 00:24:27,507
+-But…
+-Rei.
+
+223
+00:24:28,216 --> 00:24:30,469
+I owe you one from Zombie Hunt.
+
+224
+00:24:39,895 --> 00:24:42,522
+Meet up with Sachiko and the others.
+
+225
+00:24:45,108 --> 00:24:46,568
+Sachiko, are you there?
+
+226
+00:24:52,240 --> 00:24:53,575
+Yeah, I can hear you.
+
+227
+00:24:54,701 --> 00:24:56,578
+How many can go to D1?
+
+228
+00:24:58,622 --> 00:25:00,332
+Four. We all can.
+
+229
+00:25:01,791 --> 00:25:02,834
+That's great.
+
+230
+00:25:03,335 --> 00:25:07,422
+-Then please head east to D1.
+-I'm sick of your nagging.
+
+231
+00:25:07,506 --> 00:25:09,799
+-Meet with Usagi there.
+-Let's not fight here.
+
+232
+00:25:09,883 --> 00:25:12,219
+This place isn't good enough for you?
+
+233
+00:25:12,302 --> 00:25:15,180
+-That's not what I meant.
+-Did I ask you to apologize?
+
+234
+00:25:16,348 --> 00:25:17,307
+Roger that.
+
+235
+00:25:19,351 --> 00:25:23,230
+Sohta and Yuna,
+could you please stay where you are?
+
+236
+00:25:24,356 --> 00:25:28,151
+Usagi and I will move this turn,
+and Rei will be forced to stay.
+
+237
+00:25:29,319 --> 00:25:32,155
+I want you to return to D3 after one turn.
+
+238
+00:25:32,781 --> 00:25:35,617
+That will end Rei's forced stay.
+
+239
+00:25:36,451 --> 00:25:38,703
+After that, let's meet at E3.
+
+240
+00:25:39,579 --> 00:25:41,289
+It's best to stay together.
+
+241
+00:25:41,373 --> 00:25:43,375
+So we should stay. Understood.
+
+242
+00:25:50,382 --> 00:25:52,842
+All right, let's all go to D1.
+
+243
+00:25:53,343 --> 00:25:56,471
+Because Arisu said
+to move together whenever possible?
+
+244
+00:25:57,889 --> 00:26:01,685
+-I mean--
+-Listen, we need to find the exit.
+
+245
+00:26:02,269 --> 00:26:05,021
+We might find it faster if we split up.
+
+246
+00:26:06,314 --> 00:26:07,607
+Besides,
+
+247
+00:26:09,067 --> 00:26:11,653
+shouldn't we give our futures
+a little more thought?
+
+248
+00:26:30,880 --> 00:26:31,965
+Mr. Matsuyama!
+
+249
+00:26:32,924 --> 00:26:34,384
+Look at these numbers.
+
+250
+00:26:34,467 --> 00:26:38,138
+I think these results are enough
+to prove your hypothesis.
+
+251
+00:26:38,221 --> 00:26:40,473
+You did it! This is amazing!
+
+252
+00:26:41,975 --> 00:26:46,521
+You'll go out there and sell this water
+for 3,000 yen per bottle.
+
+253
+00:26:47,188 --> 00:26:50,066
+You're free to leave now if you want out.
+
+254
+00:26:50,150 --> 00:26:53,778
+If you're serious about
+changing your life, come with me.
+
+255
+00:26:53,862 --> 00:26:56,364
+Why did you join this seminar?
+
+256
+00:26:56,448 --> 00:26:58,700
+To awaken my true potential.
+
+257
+00:26:58,783 --> 00:27:00,535
+That's right.
+
+258
+00:27:00,619 --> 00:27:04,998
+This time, you're going to sell this water
+for 30,000 yen per bottle.
+
+259
+00:27:06,458 --> 00:27:09,127
+Do you understand why you have to sell it?
+
+260
+00:27:09,210 --> 00:27:10,629
+TRUE AWAKENING
+LUCKY WATER
+
+261
+00:27:10,712 --> 00:27:13,131
+-Excuse me…
+-No thanks.
+
+262
+00:27:14,090 --> 00:27:15,967
+No, thank you.
+
+263
+00:27:16,051 --> 00:27:17,260
+This is impossible.
+
+264
+00:27:17,344 --> 00:27:19,596
+-Please let me return them.
+-Cut the crap!
+
+265
+00:27:19,679 --> 00:27:22,015
+It's in the contract you signed.
+
+266
+00:27:22,098 --> 00:27:24,309
+No returns allowed!
+
+267
+00:27:26,311 --> 00:27:27,604
+-I'm sorry.
+-Huh?!
+
+268
+00:27:27,687 --> 00:27:29,939
+He's so drunk. I'm so sorry!
+
+269
+00:27:30,023 --> 00:27:32,275
+What do you mean, you're sorry?
+
+270
+00:27:33,068 --> 00:27:35,654
+-Why are you apologizing?
+-Stop it!
+
+271
+00:27:35,737 --> 00:27:36,738
+Please, just…
+
+272
+00:27:36,821 --> 00:27:38,615
+REJECTION LETTER
+
+273
+00:27:42,994 --> 00:27:44,245
+You're hired.
+
+274
+00:27:44,329 --> 00:27:45,246
+Really?
+
+275
+00:27:45,747 --> 00:27:47,582
+We look forward to working with you.
+
+276
+00:27:48,166 --> 00:27:49,292
+Thank you very much.
+
+277
+00:27:49,376 --> 00:27:52,003
+-Thanks for coming.
+-Thank you for hiring me.
+
+278
+00:27:58,093 --> 00:28:00,845
+The exit is likely
+in one of the corner rooms,
+
+279
+00:28:00,929 --> 00:28:03,348
+as they are the furthest from the center.
+
+280
+00:28:05,517 --> 00:28:08,395
+It might be worth a shot.
+
+281
+00:28:10,105 --> 00:28:10,939
+Yeah.
+
+282
+00:28:12,565 --> 00:28:15,985
+So let's split into two groups
+and head for the corner rooms.
+
+283
+00:28:16,569 --> 00:28:19,823
+But I don't want to ignore
+what Arisu said.
+
+284
+00:28:19,906 --> 00:28:23,660
+So how about the two of us
+go this way as a compromise?
+
+285
+00:28:24,369 --> 00:28:29,165
+I'll meet up with Usagi,
+and you'll go towards the corner room.
+
+286
+00:28:30,834 --> 00:28:31,751
+Fine.
+
+287
+00:28:33,712 --> 00:28:34,921
+Okay, then.
+
+288
+00:28:36,256 --> 00:28:37,382
+We'll go to B1.
+
+289
+00:28:38,341 --> 00:28:39,300
+That okay?
+
+290
+00:28:40,677 --> 00:28:41,803
+I guess.
+
+291
+00:28:57,819 --> 00:28:58,820
+Let's break up.
+
+292
+00:29:00,238 --> 00:29:01,406
+I don't love you anymore.
+
+293
+00:29:02,157 --> 00:29:04,033
+Did I do something wrong?
+
+294
+00:29:04,117 --> 00:29:05,410
+Look, Sohta.
+
+295
+00:29:06,119 --> 00:29:06,953
+I'm sorry.
+
+296
+00:29:07,454 --> 00:29:09,622
+No, wait, Ken! Don't go!
+
+297
+00:29:11,207 --> 00:29:12,208
+Why?
+
+298
+00:29:13,251 --> 00:29:15,962
+We're going to get married.
+
+299
+00:29:17,046 --> 00:29:18,506
+Please give us your blessing.
+
+300
+00:29:20,049 --> 00:29:21,050
+Is that right?
+
+301
+00:29:21,885 --> 00:29:23,386
+-Yeah.
+-Congratulations.
+
+302
+00:29:23,470 --> 00:29:25,221
+-Thanks.
+-Thank you very much.
+
+303
+00:29:51,998 --> 00:29:54,417
+Wow! Look at that huge lake.
+
+304
+00:29:54,501 --> 00:29:56,711
+No, Yuna. It's a dam.
+
+305
+00:29:56,795 --> 00:29:57,754
+What? A dam?
+
+306
+00:29:57,837 --> 00:30:00,381
+-It's a lake formed by a dam.
+-Like a reservoir?
+
+307
+00:30:00,965 --> 00:30:02,550
+Then she's half right!
+
+308
+00:30:02,634 --> 00:30:04,844
+See? I'm half right.
+
+309
+00:30:04,928 --> 00:30:06,805
+Yuna, you're so excited today.
+
+310
+00:30:06,888 --> 00:30:10,350
+Of course! It's been so long
+since we went out as a family.
+
+311
+00:30:10,433 --> 00:30:12,268
+-It's so fun!
+-That's right.
+
+312
+00:30:29,077 --> 00:30:30,954
+We did everything we could,
+
+313
+00:30:32,747 --> 00:30:36,042
+but I'm afraid
+your parents didn't make it.
+
+314
+00:31:50,783 --> 00:31:56,581
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+315
+00:32:03,379 --> 00:32:04,380
+Sohta,
+
+316
+00:32:05,298 --> 00:32:06,132
+are you sure?
+
+317
+00:32:23,524 --> 00:32:24,984
+Forced stay.
+
+318
+00:32:27,862 --> 00:32:29,572
+You're completely useless!
+
+319
+00:32:34,994 --> 00:32:35,828
+What?
+
+320
+00:32:38,790 --> 00:32:40,583
+You're completely useless!
+
+321
+00:32:42,043 --> 00:32:43,169
+What is this?!
+
+322
+00:32:45,046 --> 00:32:46,381
+-1 ROOM
+
+323
+00:32:46,464 --> 00:32:48,508
+Point deduction confirmed.
+
+324
+00:32:49,425 --> 00:32:51,761
+Fourth turn. Begin.
+
+325
+00:32:52,887 --> 00:32:54,681
+-I'll roll the dice
+-Okay.
+
+326
+00:33:20,289 --> 00:33:22,709
+Yellow to the west is a corner room.
+
+327
+00:33:23,459 --> 00:33:24,836
+But only one of us can go.
+
+328
+00:33:26,879 --> 00:33:28,881
+It's better not to split up now.
+
+329
+00:33:30,383 --> 00:33:31,634
+Let's go south to B2.
+
+330
+00:33:32,135 --> 00:33:34,929
+You did it. You got a job offer!
+
+331
+00:33:35,013 --> 00:33:37,598
+-A job offer, Nobu? Congrats.
+-Congrats.
+
+332
+00:33:37,682 --> 00:33:38,516
+Well done!
+
+333
+00:33:38,599 --> 00:33:39,434
+Nobu!
+
+334
+00:33:41,602 --> 00:33:42,603
+You listening?
+
+335
+00:33:43,563 --> 00:33:46,315
+-Yeah.
+-You did it. You got a job offer!
+
+336
+00:33:46,399 --> 00:33:49,569
+You got a job offer, Nobu? Congrats.
+
+337
+00:33:49,652 --> 00:33:52,572
+Let's stay here so we can get Rei out.
+
+338
+00:33:54,490 --> 00:33:56,743
+I'll check the corner room next door.
+
+339
+00:33:56,826 --> 00:33:58,369
+What if it's a trap?
+
+340
+00:33:58,453 --> 00:34:00,079
+I still have 15 points.
+
+341
+00:34:00,163 --> 00:34:01,164
+I'll be fine.
+
+342
+00:34:05,251 --> 00:34:06,252
+Sohta,
+
+343
+00:34:07,086 --> 00:34:08,838
+what numbers did you roll?
+
+344
+00:34:15,845 --> 00:34:16,846
+Sohta.
+
+345
+00:34:18,306 --> 00:34:20,767
+Sohta? Yuna?
+
+346
+00:34:21,768 --> 00:34:23,770
+You're currently staying at E3, right?
+
+347
+00:34:24,520 --> 00:34:27,774
+Can you move to D3? Please unlock Rei.
+
+348
+00:34:29,108 --> 00:34:30,151
+Understood.
+
+349
+00:34:31,736 --> 00:34:32,653
+Are you sure?
+
+350
+00:34:35,656 --> 00:34:36,491
+Look.
+
+351
+00:34:42,997 --> 00:34:45,166
+A corner room is behind the green door.
+
+352
+00:34:46,250 --> 00:34:47,960
+The exit might be there.
+
+353
+00:34:48,586 --> 00:34:50,296
+Arisu wouldn't try to save us
+
+354
+00:34:50,838 --> 00:34:55,134
+if it meant losing
+Usagi and his unborn child.
+
+355
+00:34:59,138 --> 00:35:00,973
+For Mom and Dad's sake,
+
+356
+00:35:01,808 --> 00:35:04,060
+we need to head toward that future.
+
+357
+00:35:15,238 --> 00:35:16,280
+Let's go.
+
+358
+00:35:17,365 --> 00:35:18,199
+Okay.
+
+359
+00:35:22,787 --> 00:35:23,788
+I'll do it.
+
+360
+00:35:31,003 --> 00:35:33,422
+Rei, are you okay?
+
+361
+00:35:33,506 --> 00:35:36,050
+Hurry! I feel like I'm going insane!
+
+362
+00:35:36,926 --> 00:35:39,095
+Sohta and Yuna are heading to D3.
+
+363
+00:35:39,178 --> 00:35:40,888
+You should be unlocked soon.
+
+364
+00:35:43,808 --> 00:35:45,143
+Please!
+
+365
+00:36:04,370 --> 00:36:05,997
+-Congrats!
+-Congrats!
+
+366
+00:36:07,373 --> 00:36:08,207
+Hey!
+
+367
+00:36:09,625 --> 00:36:10,751
+Let's go.
+
+368
+00:36:12,920 --> 00:36:14,589
+I'll use my points.
+
+369
+00:37:03,512 --> 00:37:06,098
+He sells weird water. It's Nobu!
+
+370
+00:37:07,558 --> 00:37:10,561
+Drink up, and I'll buy a bottle. Go on!
+
+371
+00:37:10,645 --> 00:37:16,067
+-Chug it!
+-Chug it!
+
+372
+00:37:16,150 --> 00:37:17,151
+Go on, chug it!
+
+373
+00:37:19,111 --> 00:37:20,529
+Next one!
+
+374
+00:37:21,155 --> 00:37:23,574
+-Next one!
+-Chug it!
+
+375
+00:37:23,658 --> 00:37:27,078
+-Why do you have that?
+-Hey!
+
+376
+00:37:27,161 --> 00:37:29,747
+-I have it 'cause I wanna drink!
+-Hey!
+
+377
+00:37:29,830 --> 00:37:32,541
+Drink!
+
+378
+00:37:32,625 --> 00:37:34,335
+Chug!
+
+379
+00:37:34,418 --> 00:37:36,462
+I can't drink anymore. I give up.
+
+380
+00:37:36,963 --> 00:37:38,756
+Got something to say?
+
+381
+00:37:38,839 --> 00:37:43,177
+Say it after drinking!
+
+382
+00:37:43,261 --> 00:37:44,720
+-Okay!
+-Chug!
+
+383
+00:37:44,804 --> 00:37:49,600
+Say it after drinking!
+
+384
+00:37:49,684 --> 00:37:50,559
+Chug!
+
+385
+00:37:50,643 --> 00:37:51,978
+Say it after drinking!
+
+386
+00:37:53,729 --> 00:37:55,690
+-Disgusting!
+-That's so gross!
+
+387
+00:37:55,773 --> 00:37:56,774
+I'm sorry.
+
+388
+00:37:56,857 --> 00:37:58,901
+Seriously, drop dead!
+
+389
+00:38:00,945 --> 00:38:05,241
+Drop dead!
+
+390
+00:38:07,118 --> 00:38:09,620
+Tetsu, I'm sorry.
+
+391
+00:38:10,579 --> 00:38:11,414
+Hey!
+
+392
+00:38:14,000 --> 00:38:15,001
+Nobu!
+
+393
+00:38:15,918 --> 00:38:18,129
+What the hell is he doing?
+
+394
+00:38:30,808 --> 00:38:32,643
+I'm all alone now.
+
+395
+00:38:33,394 --> 00:38:34,603
+-6 ROOM
+NOBUAKI HIDA: 13
+
+396
+00:38:34,687 --> 00:38:38,649
+A1 is a minus-six-point room.
+
+397
+00:38:38,733 --> 00:38:39,775
+Seriously?
+
+398
+00:38:45,197 --> 00:38:46,782
+It wasn't the exit room.
+
+399
+00:38:47,283 --> 00:38:50,119
+And it's a corner room,
+so there's only one door.
+
+400
+00:38:51,912 --> 00:38:55,041
+E5 is a minus-four-point room.
+
+401
+00:38:55,124 --> 00:38:55,958
+What?
+
+402
+00:38:57,668 --> 00:38:59,503
+-4 ROOM
+SOHTA ITSUKI: 13, YUNA ITSUKI: 14
+
+403
+00:38:59,587 --> 00:39:00,671
+Damn it.
+
+404
+00:39:02,006 --> 00:39:03,090
+We'll use mine.
+
+405
+00:39:03,174 --> 00:39:04,133
+But…
+
+406
+00:39:05,801 --> 00:39:07,970
+Point deduction confirmed.
+
+407
+00:39:11,057 --> 00:39:11,932
+It's okay.
+
+408
+00:39:13,934 --> 00:39:16,604
+Fifth turn. Begin.
+
+409
+00:39:21,567 --> 00:39:23,736
+Rei, did you get out?
+
+410
+00:39:24,737 --> 00:39:28,949
+I'm still stuck here.
+And I lost another point!
+
+411
+00:39:29,033 --> 00:39:29,950
+What?
+
+412
+00:39:35,373 --> 00:39:37,249
+-Come on in.
+-Thank you.
+
+413
+00:39:37,875 --> 00:39:40,628
+-Here, Yuna.
+-You shouldn't have.
+
+414
+00:39:40,711 --> 00:39:43,172
+Sohta, Yuna. Where are you?
+
+415
+00:39:43,255 --> 00:39:44,590
+You have great taste.
+
+416
+00:39:46,550 --> 00:39:48,344
+This is far from finished.
+
+417
+00:39:48,427 --> 00:39:50,304
+Sohta! Yuna!
+
+418
+00:39:52,390 --> 00:39:53,557
+Sohta! Yuna!
+
+419
+00:40:01,482 --> 00:40:03,317
+This is far from finished.
+
+420
+00:40:04,360 --> 00:40:10,116
+When push comes to shove,
+people choose the future they want
+
+421
+00:40:11,617 --> 00:40:15,538
+instead of helping others.
+
+422
+00:40:21,085 --> 00:40:23,087
+FROM: MOM
+PLEASE JUST CALL ONCE
+
+423
+00:40:27,967 --> 00:40:29,718
+This is far from finished.
+
+424
+00:40:30,302 --> 00:40:32,179
+You're completely useless.
+
+425
+00:40:32,263 --> 00:40:37,268
+Come to think of it,
+I wonder how Mom is doing.
+
+426
+00:40:41,939 --> 00:40:42,982
+Shit.
+
+427
+00:40:48,487 --> 00:40:49,780
+Gimme one packet.
+
+428
+00:40:49,864 --> 00:40:52,450
+That stuff rocked, right?
+
+429
+00:41:15,181 --> 00:41:16,348
+No way in hell.
+
+430
+00:41:18,726 --> 00:41:20,978
+Didn't I just toss the drugs?
+
+431
+00:41:27,443 --> 00:41:28,360
+No!
+
+432
+00:41:29,737 --> 00:41:31,655
+Shit! No!
+
+433
+00:41:32,907 --> 00:41:33,991
+No!
+
+434
+00:41:46,462 --> 00:41:47,505
+Mom.
+
+435
+00:41:49,048 --> 00:41:51,675
+Your mother had
+a severe cerebral hemorrhage.
+
+436
+00:41:51,759 --> 00:41:52,843
+No way.
+
+437
+00:41:54,011 --> 00:41:55,012
+Nobu…
+
+438
+00:41:57,640 --> 00:42:01,352
+Even if she recovers,
+I doubt she'll return to the life she had.
+
+439
+00:42:01,435 --> 00:42:02,937
+This can't be true.
+
+440
+00:42:15,699 --> 00:42:16,534
+Usagi.
+
+441
+00:42:17,284 --> 00:42:21,705
+I'll go unlock Rei in D3,
+so stay there again the next turn.
+
+442
+00:42:22,456 --> 00:42:23,332
+Got it.
+
+443
+00:42:24,500 --> 00:42:25,501
+Ryuji.
+
+444
+00:42:26,210 --> 00:42:29,004
+Ryuji, can you hear me?
+How are things there?
+
+445
+00:42:30,256 --> 00:42:32,925
+Corner room E1 deducts one point.
+
+446
+00:42:33,676 --> 00:42:34,802
+So no exit?
+
+447
+00:42:35,386 --> 00:42:36,387
+Nope.
+
+448
+00:42:52,486 --> 00:42:53,487
+No.
+
+449
+00:42:55,114 --> 00:42:56,115
+It can't be.
+
+450
+00:43:05,583 --> 00:43:06,584
+No.
+
+451
+00:43:08,919 --> 00:43:09,920
+This can't be.
+
+452
+00:43:13,382 --> 00:43:14,383
+I'm screwed.
+
+453
+00:43:19,054 --> 00:43:20,139
+Mom.
+
+454
+00:43:22,641 --> 00:43:24,059
+It's my fault.
+
+455
+00:43:29,815 --> 00:43:30,983
+It's all my fault.
+
+456
+00:44:07,895 --> 00:44:09,897
+This is far from finished.
+
+457
+00:44:11,231 --> 00:44:12,483
+D2 UNLOCKED
+
+458
+00:44:17,071 --> 00:44:20,366
+Room D2 has been unlocked.
+
+459
+00:44:23,702 --> 00:44:25,871
+Rei, you should be able to move now.
+
+460
+00:44:27,706 --> 00:44:29,124
+See you next turn.
+
+461
+00:44:31,585 --> 00:44:32,586
+Roger that.
+
+462
+00:44:33,879 --> 00:44:34,838
+Thanks.
+
+463
+00:44:54,024 --> 00:44:55,359
+-4 ROOM
+TETSU SHIMAZAKI: 12
+
+464
+00:44:55,442 --> 00:44:58,737
+B3 is a minus-four-point room.
+
+465
+00:44:59,530 --> 00:45:01,532
+Minus four?
+
+466
+00:45:03,409 --> 00:45:05,619
+Point deduction confirmed.
+
+467
+00:45:12,084 --> 00:45:13,961
+Tetsu? Nobu?
+
+468
+00:45:15,963 --> 00:45:17,798
+Nobu! Answer me.
+
+469
+00:45:21,635 --> 00:45:25,222
+There's nothing to worry about.
+I still have points.
+
+470
+00:45:28,058 --> 00:45:30,227
+Point deduction confirmed.
+
+471
+00:45:42,698 --> 00:45:43,741
+Shit.
+
+472
+00:45:46,285 --> 00:45:47,578
+Goddammit!
+
+473
+00:45:52,082 --> 00:45:53,751
+Sorry I'm late.
+
+474
+00:45:58,172 --> 00:45:59,173
+No worries.
+
+475
+00:46:02,718 --> 00:46:03,719
+Yukiko.
+
+476
+00:46:10,434 --> 00:46:11,435
+Hey, Yukiko.
+
+477
+00:46:11,518 --> 00:46:12,519
+Yeah?
+
+478
+00:46:13,020 --> 00:46:15,272
+How about the aquarium
+for our anniversary?
+
+479
+00:46:15,939 --> 00:46:16,940
+Why?
+
+480
+00:46:19,610 --> 00:46:20,986
+I've never been.
+
+481
+00:46:21,069 --> 00:46:23,030
+Never in your entire life?
+
+482
+00:46:23,530 --> 00:46:24,448
+Yeah.
+
+483
+00:46:27,159 --> 00:46:28,076
+Sure.
+
+484
+00:46:31,955 --> 00:46:34,291
+Long time no see. You look well.
+
+485
+00:47:07,991 --> 00:47:09,660
+Wow, look at you now.
+
+486
+00:47:11,578 --> 00:47:14,373
+I'm working at an architectural firm.
+
+487
+00:47:14,915 --> 00:47:16,041
+I can change.
+
+488
+00:47:16,542 --> 00:47:18,669
+What? Really?
+
+489
+00:47:20,546 --> 00:47:22,464
+I can change, Yukiko.
+
+490
+00:47:44,069 --> 00:47:45,320
+Goddammit!
+
+491
+00:48:04,256 --> 00:48:05,799
+-Welcome.
+-Welcome.
+
+492
+00:48:06,300 --> 00:48:07,384
+Welcome.
+
+493
+00:48:14,099 --> 00:48:15,434
+I've been waiting.
+
+494
+00:48:15,517 --> 00:48:16,935
+Sorry I'm late.
+
+495
+00:48:17,019 --> 00:48:18,812
+I didn't think you'd come.
+
+496
+00:48:18,896 --> 00:48:21,356
+What? Why wouldn't I?
+
+497
+00:48:23,233 --> 00:48:24,693
+-Hey.
+-What?
+
+498
+00:48:25,694 --> 00:48:28,155
+-Want me to build you a house?
+-Really?
+
+499
+00:48:28,238 --> 00:48:30,282
+Yeah, what kind do you want?
+
+500
+00:48:31,742 --> 00:48:34,828
+Big and spacious.
+
+501
+00:50:34,489 --> 00:50:38,035
+A3 is a minus-eight-point room.
+
+502
+00:50:43,040 --> 00:50:45,584
+You now have zero points.
+
+503
+00:50:47,544 --> 00:50:48,879
+Game over.
+
+504
+00:50:54,426 --> 00:50:55,510
+And there it is.
+
+505
+00:51:01,349 --> 00:51:03,518
+Police. We have a search warrant.
+
+506
+00:51:06,813 --> 00:51:07,898
+I found it!
+
+507
+00:51:17,908 --> 00:51:19,201
+What's going on?
+
+508
+00:51:19,284 --> 00:51:21,870
+-It's nothing.
+-You haven't changed at all!
+
+509
+00:51:21,953 --> 00:51:23,455
+Shut your mouth!
+
+510
+00:51:24,039 --> 00:51:27,042
+What about you? I thought you trusted me!
+
+511
+00:51:27,125 --> 00:51:29,169
+I did trust you!
+
+512
+00:51:29,795 --> 00:51:31,171
+I trusted you.
+
+513
+00:51:31,671 --> 00:51:33,465
+That's why it hurts even more!
+
+514
+00:51:40,347 --> 00:51:42,766
+I guess this is goodbye.
+
+515
+00:52:04,371 --> 00:52:06,248
+This seems about right.
+
+516
+00:52:20,679 --> 00:52:22,305
+It's my fault.
+
+517
+00:52:42,325 --> 00:52:43,243
+Nobu.
+
+518
+00:52:50,542 --> 00:52:52,294
+Tell me what happened.
+
+519
+00:52:55,213 --> 00:52:56,631
+Talk to me.
+
+520
+00:52:58,717 --> 00:52:59,676
+Leave me alone.
+
+521
+00:53:01,595 --> 00:53:04,806
+Tell me. I'm on your side.
+
+522
+00:53:22,574 --> 00:53:25,410
+Whatever happens, I want you to live.
+
+523
+00:54:03,323 --> 00:54:04,324
+Mom.
+
+524
+00:54:06,993 --> 00:54:08,078
+I will.
+
+525
+00:54:48,451 --> 00:54:51,079
+-Would you like to address the class?
+-Of course.
+
+526
+00:54:51,162 --> 00:54:54,457
+My name is Nobuaki Hida.
+I'm a new teacher here.
+
+527
+00:54:55,041 --> 00:54:57,460
+My mom was a teacher.
+
+528
+00:54:58,253 --> 00:55:00,964
+I admired her, so I became one too.
+
+529
+00:55:02,257 --> 00:55:06,386
+I'll try my best to be helpful
+to you all as soon as possible.
+
+530
+00:55:11,516 --> 00:55:14,602
+NOBUAKI HIDA
+
+531
+00:55:14,686 --> 00:55:20,483
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+532
+00:55:22,319 --> 00:55:24,154
+I need to meet up with Tetsu.
+
+533
+00:55:46,051 --> 00:55:47,052
+Nobu?
+
+534
+00:55:48,845 --> 00:55:51,264
+Where are you? Nobu?
+
+535
+00:55:53,433 --> 00:55:57,020
+-1 ROOM
+NOBUAKI HIDA: 4
+
+536
+00:55:57,103 --> 00:55:58,104
+Nobu?
+
+537
+00:56:00,231 --> 00:56:01,941
+I'm here, Sachiko.
+
+538
+00:56:02,734 --> 00:56:04,361
+Are you all right?
+
+539
+00:56:06,029 --> 00:56:08,656
+I just went back to B1.
+
+540
+00:56:09,157 --> 00:56:11,201
+But I got separated from Tetsu.
+
+541
+00:56:11,993 --> 00:56:15,747
+Did you go to corner room A1?
+That might be the exit.
+
+542
+00:56:16,456 --> 00:56:18,917
+I did, but there wasn't an exit.
+
+543
+00:56:19,501 --> 00:56:22,337
+We're in C1, right next to you.
+
+544
+00:56:23,046 --> 00:56:25,924
+We can meet up next turn,
+so stay where you are.
+
+545
+00:56:26,007 --> 00:56:27,842
+-Got it?
+-Yeah.
+
+546
+00:56:31,096 --> 00:56:33,264
+Seventh turn. Begin.
+
+547
+00:56:46,236 --> 00:56:47,237
+No way.
+
+548
+00:56:48,738 --> 00:56:49,739
+One each.
+
+549
+00:56:51,574 --> 00:56:52,742
+We'll be split up.
+
+550
+00:57:02,085 --> 00:57:04,838
+Usagi, I'm now in D3.
+
+551
+00:57:04,921 --> 00:57:06,589
+I finally met up with Rei.
+
+552
+00:57:07,757 --> 00:57:12,971
+If there's no exit in corner room A1,
+the remaining corners are A5 and E5.
+
+553
+00:57:14,097 --> 00:57:16,057
+I bet the exit is in one of them.
+
+554
+00:57:17,016 --> 00:57:20,353
+Let's look for Sohta and Yuna.
+They may know something.
+
+555
+00:57:20,437 --> 00:57:21,354
+Understood.
+
+556
+00:57:33,741 --> 00:57:35,368
+Another interview?
+
+557
+00:57:35,952 --> 00:57:37,036
+Actually…
+
+558
+00:57:39,205 --> 00:57:40,748
+This is my research.
+
+559
+00:57:42,375 --> 00:57:43,668
+"Near-death experiences"?
+
+560
+00:57:45,336 --> 00:57:47,505
+I'm not sure my story helped you.
+
+561
+00:57:47,589 --> 00:57:48,506
+Don't be silly.
+
+562
+00:57:51,134 --> 00:57:53,928
+Let me thank you.
+Anything you want to eat?
+
+563
+00:57:55,597 --> 00:57:56,973
+Let me think…
+
+564
+00:58:12,906 --> 00:58:13,907
+Let's go…
+
+565
+00:58:16,034 --> 00:58:17,744
+to the world of death together.
+
+566
+00:58:47,065 --> 00:58:49,150
+Kill her in the next game.
+
+567
+00:58:49,734 --> 00:58:51,778
+That's your final job.
+
+568
+00:59:07,877 --> 00:59:11,381
+Your wish will be granted if you kill her.
+
+569
+00:59:13,216 --> 00:59:18,680
+You'll discover the true world of death
+that lies beyond here.
+
+570
+00:59:24,561 --> 00:59:25,728
+Ryuji, you there?
+
+571
+00:59:27,438 --> 00:59:28,356
+Ryuji?
+
+572
+00:59:29,399 --> 00:59:31,859
+-Ryuji!
+-Hold your wristband to…
+
+573
+00:59:31,943 --> 00:59:32,944
+I can hear you.
+
+574
+00:59:34,153 --> 00:59:35,363
+Let's meet up later.
+
+575
+00:59:37,031 --> 00:59:38,700
+Let's meet up in B4.
+
+576
+00:59:43,371 --> 00:59:46,624
+Okay, thank you. Thanks.
+
+577
+01:00:14,861 --> 01:00:17,071
+-Nobu!
+-I'm so glad to see you!
+
+578
+01:00:17,155 --> 01:00:18,865
+-Thank goodness!
+-I'm so glad.
+
+579
+01:00:20,241 --> 01:00:24,078
+B1 is a minus-one-point room.
+
+580
+01:00:24,162 --> 01:00:25,705
+I'll use my points.
+
+581
+01:00:29,417 --> 01:00:31,336
+We need to find Tetsu.
+
+582
+01:00:32,420 --> 01:00:34,756
+Tetsu?
+
+583
+01:00:35,632 --> 01:00:38,551
+Tetsu? Answer me!
+
+584
+01:00:38,635 --> 01:00:39,636
+Tetsu?
+
+585
+01:00:40,136 --> 01:00:42,430
+Eighth turn. Begin.
+
+586
+01:00:56,194 --> 01:00:57,278
+Sohta.
+
+587
+01:00:59,238 --> 01:01:00,948
+Wow!
+
+588
+01:01:15,213 --> 01:01:16,089
+No.
+
+589
+01:01:28,184 --> 01:01:33,815
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+590
+01:01:41,864 --> 01:01:42,740
+Yuna.
+
+591
+01:01:43,991 --> 01:01:45,118
+Sohta!
+
+592
+01:01:49,497 --> 01:01:50,331
+Yuna?
+
+593
+01:01:52,250 --> 01:01:53,126
+Yuna!
+
+594
+01:01:54,919 --> 01:01:57,672
+Sohta. I can't get through!
+
+595
+01:01:57,755 --> 01:01:59,048
+Sohta!
+
+596
+01:01:59,132 --> 01:02:00,258
+Yuna!
+
+597
+01:02:02,510 --> 01:02:05,930
+B4 is a minus-two-point room.
+
+598
+01:02:06,013 --> 01:02:06,848
+What?
+
+599
+01:02:06,931 --> 01:02:11,060
+-2 ROOM
+
+600
+01:02:11,144 --> 01:02:13,813
+You now have zero points.
+
+601
+01:02:15,857 --> 01:02:17,108
+Game over.
+
+602
+01:03:19,212 --> 01:03:23,424
+Sohta?
+
+603
+01:03:31,891 --> 01:03:32,767
+Yuna.
+
+604
+01:03:34,393 --> 01:03:36,979
+This was a minus-two room.
+
+605
+01:03:39,190 --> 01:03:41,108
+What? It can't be.
+
+606
+01:03:43,069 --> 01:03:44,362
+No.
+
+607
+01:03:45,279 --> 01:03:46,531
+I'm sorry, Yuna.
+
+608
+01:03:50,034 --> 01:03:51,828
+I couldn't keep my promise.
+
+609
+01:03:52,662 --> 01:03:55,915
+No, Sohta. Open up!
+
+610
+01:03:55,998 --> 01:03:58,084
+Someone open this! Please!
+
+611
+01:03:58,960 --> 01:03:59,877
+No!
+
+612
+01:04:00,878 --> 01:04:03,631
+No! Sohta, don't go!
+
+613
+01:04:03,714 --> 01:04:06,050
+No! Don't go!
+
+614
+01:04:06,133 --> 01:04:07,134
+No!
+
+615
+01:04:09,846 --> 01:04:10,847
+Please!
+
+616
+01:04:24,569 --> 01:04:26,654
+Promise me you'll be happy.
+
+617
+01:04:27,154 --> 01:04:29,866
+No! Don't go!
+
+618
+01:04:29,949 --> 01:04:32,076
+No! Please don't go!
+
+619
+01:04:32,159 --> 01:04:32,994
+No!
+
+620
+01:05:30,509 --> 01:05:35,014
+YUZUHA ARISU: 9, RYUJI MATSUYAMA: 7
+NOBUAKI HIDA: 3, SACHIKO MAKINO: 11
+
+621
+01:05:35,097 --> 01:05:36,223
+Sohta has…
+
+622
+01:05:38,351 --> 01:05:39,268
+Yeah.
+
+623
+01:05:40,519 --> 01:05:42,396
+Tetsu isn't here either.
+
+624
+01:05:45,107 --> 01:05:46,108
+Tetsu.
+
+625
+01:05:48,235 --> 01:05:49,528
+Where are you, Tetsu?
+
+626
+01:05:54,909 --> 01:05:57,161
+It's because I left him.
+
+627
+01:05:57,244 --> 01:05:58,329
+We don't know
+
+628
+01:05:59,580 --> 01:06:01,374
+whether he's dead yet.
+
+629
+01:06:02,291 --> 01:06:04,251
+There's just no response.
+
+630
+01:06:08,839 --> 01:06:10,716
+B4 is a minus-two room.
+
+631
+01:06:11,968 --> 01:06:12,802
+Rei.
+
+632
+01:06:19,100 --> 01:06:23,062
+I want you to go south to C5 with Yuna.
+
+633
+01:06:23,980 --> 01:06:27,525
+Based on the turn count,
+Yuna and her brother passed through E5.
+
+634
+01:06:28,609 --> 01:06:33,447
+If E5 wasn't the exit,
+then the only corner room left is A5.
+
+635
+01:06:33,948 --> 01:06:34,907
+Right.
+
+636
+01:06:35,783 --> 01:06:38,828
+I'll join the others in B4
+before heading to A5.
+
+637
+01:06:39,996 --> 01:06:43,332
+Corner room A5 has to be the exit.
+
+638
+01:06:56,804 --> 01:06:57,847
+Yuna.
+
+639
+01:06:59,306 --> 01:07:01,183
+Head to the exit with Rei.
+
+640
+01:07:03,936 --> 01:07:06,397
+Listen, Yuna.
+
+641
+01:07:07,148 --> 01:07:08,899
+Let's go, okay?
+
+642
+01:07:09,567 --> 01:07:10,401
+Yuna.
+
+643
+01:07:11,819 --> 01:07:17,742
+Hold your wristband to the chosen door
+and proceed to the next room.
+
+644
+01:07:18,534 --> 01:07:19,869
+Let's go, Yuna.
+
+645
+01:07:42,516 --> 01:07:43,517
+Sohta!
+
+646
+01:07:43,601 --> 01:07:45,061
+-Yuna!
+-Yuna!
+
+647
+01:07:45,144 --> 01:07:47,438
+You shouldn't see this! Go with Rei!
+
+648
+01:07:47,521 --> 01:07:48,689
+Yuna, come back.
+
+649
+01:07:48,773 --> 01:07:51,233
+Hurry! This door will close too!
+
+650
+01:07:51,817 --> 01:07:53,194
+Look out!
+
+651
+01:07:56,155 --> 01:08:00,451
+The player left in this room
+will be forced to stay.
+
+652
+01:08:06,874 --> 01:08:10,252
+B4 is a minus-two-point room.
+
+653
+01:08:10,836 --> 01:08:14,423
+Please select whose points to use.
+
+654
+01:08:20,679 --> 01:08:22,890
+Point deduction confirmed.
+
+655
+01:08:26,894 --> 01:08:27,895
+-4 ROOM
+
+656
+01:08:27,978 --> 01:08:31,732
+B3 is a minus-four-point room.
+
+657
+01:08:31,816 --> 01:08:33,359
+Minus four points.
+
+658
+01:08:34,443 --> 01:08:36,112
+Let's use mine.
+
+659
+01:08:39,573 --> 01:08:41,992
+Point deduction confirmed.
+
+660
+01:08:43,285 --> 01:08:45,579
+Tenth turn. Begin.
+
+661
+01:09:07,768 --> 01:09:09,103
+No…
+
+662
+01:09:16,527 --> 01:09:19,238
+Usagi, how's it going in there?
+
+663
+01:09:20,072 --> 01:09:22,449
+Everyone is in room B3 now.
+
+664
+01:09:23,450 --> 01:09:26,996
+But our dice roll is forcing us
+to split in three directions.
+
+665
+01:09:27,079 --> 01:09:30,749
+Plus, one of us will be forced to stay.
+
+666
+01:09:30,833 --> 01:09:33,294
+And we still haven't met up with Tetsu.
+
+667
+01:09:34,712 --> 01:09:38,090
+Tetsu isn't here in B4 either,
+which means…
+
+668
+01:09:41,093 --> 01:09:43,721
+Tetsu is in A3.
+
+669
+01:09:45,556 --> 01:09:46,557
+Tetsu…
+
+670
+01:09:48,809 --> 01:09:52,354
+That room might deduct a lot of points.
+
+671
+01:09:54,732 --> 01:09:56,192
+Then what should we do?
+
+672
+01:10:02,281 --> 01:10:04,366
+One of you goes
+to the high-deduction room.
+
+673
+01:10:04,950 --> 01:10:06,994
+The second goes to the minus-two room.
+
+674
+01:10:07,703 --> 01:10:09,622
+The third moves away from the exit.
+
+675
+01:10:10,623 --> 01:10:14,335
+And the fourth will be forced to stay.
+
+676
+01:10:25,095 --> 01:10:27,348
+What the hell, you bitch?!
+
+677
+01:10:27,431 --> 01:10:28,474
+Stop it!
+
+678
+01:10:28,557 --> 01:10:29,808
+Stop!
+
+679
+01:10:30,517 --> 01:10:31,894
+Enough!
+
+680
+01:10:33,062 --> 01:10:34,396
+Stop it.
+
+681
+01:10:49,328 --> 01:10:52,373
+Let's go to the world of death together.
+
+682
+01:11:26,115 --> 01:11:27,199
+Think.
+
+683
+01:11:30,661 --> 01:11:31,745
+Come on.
+
+684
+01:11:34,081 --> 01:11:35,332
+I gotta think.
+
+685
+01:11:38,794 --> 01:11:39,795
+Think.
+
+686
+01:12:15,873 --> 01:12:17,624
+EXIT
+
+687
+01:15:05,209 --> 01:15:08,003
+Subtitle translation by: Jason Franzman
+
