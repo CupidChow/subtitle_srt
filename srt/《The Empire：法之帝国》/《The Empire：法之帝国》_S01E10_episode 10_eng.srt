@@ -1,0 +1,3381 @@
+1
+00:00:01,850 --> 00:00:04,421
+- What's going on? 
+ - What is that?
+
+2
+00:00:04,421 --> 00:00:06,351
+Ten.
+
+3
+00:00:06,351 --> 00:00:08,490
+Gosh. The degrees of decomposition are all different.
+
+4
+00:00:08,490 --> 00:00:11,461
+I can see the recent ones rotting, and some of the old ones can't even be recognized.
+
+5
+00:00:11,461 --> 00:00:13,930
+It means the culprit has been consistent.
+
+6
+00:00:13,930 --> 00:00:16,231
+A habitual criminal.
+
+7
+00:00:16,231 --> 00:00:17,800
+Who did this?
+
+8
+00:00:17,800 --> 00:00:20,260
+Do you think it's relevant to our case?
+
+9
+00:00:20,260 --> 00:00:25,870
+
+
+
+10
+00:00:25,871 --> 00:00:28,110
+We got the warrant for the security cameras.
+
+11
+00:00:34,580 --> 00:00:36,721
+You don't have any security footage?
+
+12
+00:00:36,721 --> 00:00:39,291
+How is that possible?
+
+13
+00:00:39,291 --> 00:00:42,390
+We're truly sorry, but we really don't have it.
+
+14
+00:00:42,390 --> 00:00:45,291
+The storage device was broken exactly three days ago,
+
+15
+00:00:45,291 --> 00:00:47,500
+so nothing was saved.
+
+16
+00:00:47,500 --> 00:00:49,961
+The device broke down around the time of the incident?
+
+17
+00:00:49,961 --> 00:00:52,071
+Are you kidding me?
+
+18
+00:00:52,071 --> 00:00:53,870
+We're not here to fool around.
+
+19
+00:00:53,870 --> 00:00:57,171
+That's destroying evidence in a homicide case.
+
+20
+00:00:57,171 --> 00:00:59,141
+We'll see you at the station soon.
+
+21
+00:00:59,141 --> 00:01:00,980
+Gosh. I'm really sorry.
+
+22
+00:01:00,980 --> 00:01:03,180
+We were going to get that fixed, but this happened...
+
+23
+00:01:03,180 --> 00:01:05,220
+I'm sorry.
+
+24
+00:01:08,681 --> 00:01:10,480
+We're just going to leave like this? 
+    
+
+25
+00:01:10,480 --> 00:01:11,820
+They're destroying evidence!
+
+26
+00:01:11,820 --> 00:01:14,021
+I'm sure they're lying to us!
+
+27
+00:01:14,021 --> 00:01:17,001
+Right. Let's say that you're right.
+
+28
+00:01:17,001 --> 00:01:20,060
+Joong Jin, if you were the security guard,
+
+29
+00:01:20,060 --> 00:01:23,060
+would you be able to get rid of the security footage as you please?
+
+30
+00:01:23,060 --> 00:01:26,031
+Or would you be able to say no
+
+31
+00:01:26,031 --> 00:01:29,640
+when your boss told you to get rid of the security footage?
+
+32
+00:01:29,640 --> 00:01:32,071
+Someone else gave him the order!
+
+33
+00:01:32,071 --> 00:01:35,271
+If he gets arrested for this, he won't be able to work as a security guard.
+
+34
+00:01:35,271 --> 00:01:36,740
+How will he get a job?
+
+35
+00:01:36,740 --> 00:01:39,180
+That's his problem, not ours.
+
+36
+00:01:39,180 --> 00:01:41,981
+What about the victim? Don't you care about her?
+
+37
+00:01:41,981 --> 00:01:44,720
+How can we investigate without the security footage?
+
+38
+00:01:44,720 --> 00:01:47,490
+Let's proceed with the digital forensic analysis first.
+
+39
+00:01:47,490 --> 00:01:49,990
+We might be able to find some videos.
+
+40
+00:01:49,990 --> 00:01:52,160
+It's obvious that we can't restore any videos!
+
+41
+00:01:52,160 --> 00:01:56,204
+They already overwrote those files with other files!
+
+42
+00:02:21,090 --> 00:02:23,421
+I'll get going if we're not going to study today.
+
+43
+00:02:23,421 --> 00:02:26,160
+- Sit down. 
+ - It's not like we'll study today.
+
+44
+00:02:26,160 --> 00:02:28,231
+- The exam is around the corner. 
+ - Hey!
+
+45
+00:02:28,231 --> 00:02:31,751
+Kang Baek is shocked right now.
+
+46
+00:02:31,751 --> 00:02:35,340
+You know that he must be shocked the most among us.
+
+47
+00:02:35,340 --> 00:02:38,370
+Why is that? It wasn't like they were dating.
+
+48
+00:02:38,370 --> 00:02:42,240
+I'm not shocked. I'm busy because I'm behind with my studies.
+
+49
+00:02:42,240 --> 00:02:44,810
+Don't you think you're being unreasonable?
+
+50
+00:02:44,810 --> 00:02:46,951
+I didn't know you were this awful.
+
+51
+00:02:46,951 --> 00:02:49,280
+Why are you criticizing me when I haven't done a thing?
+
+52
+00:02:49,280 --> 00:02:52,220
+How is this criticizing you?
+
+53
+00:02:52,220 --> 00:02:55,120
+How could you be this heartless toward Nan Hee?
+
+54
+00:02:55,120 --> 00:02:58,691
+It isn't like we are indebted to her.
+
+55
+00:02:58,691 --> 00:03:00,331
+How are we supposed to behave then?
+
+56
+00:03:00,331 --> 00:03:03,601
+She's right. What are we supposed to do?
+
+57
+00:03:03,601 --> 00:03:06,530
+Should we go over to the morgue at the NFS and cry our eyes out?
+
+58
+00:03:06,530 --> 00:03:11,310
+Will our tears make Nan Hee come back from the dead?
+
+59
+00:03:11,310 --> 00:03:12,411
+What should we do?
+
+60
+00:03:12,411 --> 00:03:14,941
+Right. What do you expect us to do?
+
+61
+00:03:14,941 --> 00:03:16,641
+She was murdered.
+
+62
+00:03:16,641 --> 00:03:18,650
+Nan Hee was murdered!
+
+63
+00:03:18,650 --> 00:03:22,680
+So what? Are you asking us to catch the culprit?
+
+64
+00:03:22,680 --> 00:03:25,420
+This isn't the police university.
+
+65
+00:03:25,420 --> 00:03:29,360
+Kang Baek, you're acting really weird.
+
+66
+00:03:29,360 --> 00:03:32,460
+You should watch what you say. You're getting on my nerves,
+
+67
+00:03:32,460 --> 00:03:34,261
+and I can finally say this to you.
+
+68
+00:03:34,261 --> 00:03:36,960
+You were never good enough to join our study group,
+
+69
+00:03:36,960 --> 00:03:39,590
+so I would like to ask you to leave our study group.
+
+70
+00:03:40,571 --> 00:03:42,171
+You're not even on our level.
+
+71
+00:03:42,171 --> 00:03:43,900
+How dare you lecture me?
+
+72
+00:03:43,900 --> 00:03:45,570
+What did you say?
+
+73
+00:03:45,570 --> 00:03:47,441
+I said you aren't on my level.
+
+74
+00:03:47,441 --> 00:03:50,180
+- Hey, Jang Ji Yi. 
+ - You know I'm right.
+
+75
+00:03:50,180 --> 00:03:52,410
+This is why I wanted the girls to leave our study group.
+
+76
+00:03:52,410 --> 00:03:55,280
+This happened because they joined us when they weren't on our level.
+
+77
+00:03:55,280 --> 00:03:57,651
+Only people like her would face such an awful death.
+
+78
+00:03:57,651 --> 00:04:00,720
+- I'm about to be talked about too. 
+ - That's enough!
+
+79
+00:04:00,720 --> 00:04:03,020
+You crazy wench! Hey!
+
+80
+00:04:03,020 --> 00:04:04,490
+- Ji Yi! 
+ - Have you gone mad?
+
+81
+00:04:04,490 --> 00:04:06,261
+- Hey! Say that again! 
+ - Hey, get off me!
+
+82
+00:04:06,261 --> 00:04:07,491
+- What did you just say? 
+ - Get off me!
+
+83
+00:04:07,491 --> 00:04:10,561
+- You don't want to be a prosecutor? 
+ - Have you gone mad?
+
+84
+00:04:10,561 --> 00:04:14,567
+Hey! How could you say that?
+
+85
+00:04:16,941 --> 00:04:18,970
+- Let go of me! That lunatic. 
+ - Hey!
+
+86
+00:04:18,970 --> 00:04:22,270
+- What's wrong with her? 
+ - How could you say that?
+
+87
+00:04:29,521 --> 00:04:31,093
+Kang Baek!
+
+88
+00:04:32,050 --> 00:04:33,935
+Hey, Kang Baek!
+
+89
+00:04:35,691 --> 00:04:37,190
+Let's talk.
+
+90
+00:04:37,190 --> 00:04:38,661
+About what?
+
+91
+00:04:38,661 --> 00:04:40,561
+Why aren't you answering my calls?
+
+92
+00:04:40,561 --> 00:04:42,601
+Are you all right?
+
+93
+00:04:42,601 --> 00:04:44,130
+I'm fine.
+
+94
+00:04:44,130 --> 00:04:46,831
+What? I shouldn't be okay?
+
+95
+00:04:46,831 --> 00:04:48,041
+That's not what I meant.
+
+96
+00:04:48,041 --> 00:04:51,501
+- I think that's what Ah Jeong was alluding to. 
+ - Kang Baek.
+
+97
+00:04:51,501 --> 00:04:54,790
+Why did you run after me? What do you want to talk about?
+
+98
+00:04:57,241 --> 00:05:01,950
+I just wanted... to make sure that you are okay.
+
+99
+00:05:01,950 --> 00:05:05,990
+I was worried if you have been sleeping and eating well.
+
+100
+00:05:05,990 --> 00:05:07,661
+I'm fine.
+
+101
+00:05:07,661 --> 00:05:10,521
+That's why I'm coming to school and studying for my exams.
+
+102
+00:05:10,521 --> 00:05:13,430
+I have a whole group of people at home, worrying about me
+
+103
+00:05:13,430 --> 00:05:17,107
+when I skip a meal, so don't be one of them.
+
+104
+00:05:17,931 --> 00:05:19,901
+I'll get going if that's all.
+
+105
+00:05:19,901 --> 00:05:21,601
+Kang Baek.
+
+106
+00:05:27,440 --> 00:05:29,289
+The culprit...
+
+107
+00:05:30,680 --> 00:05:33,550
+Wouldn't that person be the culprit?
+
+108
+00:05:33,550 --> 00:05:34,981
+What?
+
+109
+00:05:34,981 --> 00:05:38,620
+I think you and I might be the only ones who know.
+
+110
+00:05:38,620 --> 00:05:41,821
+Should we tell the police?
+
+111
+00:05:41,821 --> 00:05:45,060
+Oh, that.
+
+112
+00:05:45,060 --> 00:05:49,760
+What do you think? No?
+
+113
+00:05:49,760 --> 00:05:51,971
+Gosh, right. We might be wrong.
+
+114
+00:05:51,971 --> 00:05:54,800
+This is driving me crazy.
+
+115
+00:05:54,800 --> 00:05:56,901
+What do we do?
+
+116
+00:05:56,901 --> 00:06:00,741
+Someone else might be the culprit, not the person we have in mind.
+
+117
+00:06:00,741 --> 00:06:03,781
+Who? Who are you talking about?
+
+118
+00:06:05,451 --> 00:06:06,885
+Me.
+
+119
+00:06:08,021 --> 00:06:09,255
+What?
+
+120
+00:06:10,050 --> 00:06:12,910
+I also wished that she was dead too.
+
+121
+00:06:46,621 --> 00:06:48,200
+   
+
+122
+00:07:02,800 --> 00:07:04,380
+   
+
+123
+00:07:22,691 --> 00:07:24,930
+ Are you happy that I'm gone? 
+
+124
+00:07:24,930 --> 00:07:28,430
+ Are you happy that I'm dead? 
+
+125
+00:07:39,111 --> 00:07:41,225
+- Hello. 
+ - Hello.
+
+126
+00:08:44,741 --> 00:08:47,321
+"The law is harsh, but it is the law."
+
+127
+00:08:51,080 --> 00:08:54,980
+Who here still thinks this was said by Socrates?
+
+128
+00:08:54,980 --> 00:08:57,240
+I hope none of you here thinks that.
+
+129
+00:09:00,590 --> 00:09:03,221
+All right. I'll cut some slack for you.
+
+130
+00:09:03,221 --> 00:09:06,861
+Only recently this was removed from our textbooks.
+
+131
+00:09:06,861 --> 00:09:09,830
+In 2004, the Constitutional Court stated
+
+132
+00:09:09,830 --> 00:09:13,800
+that abiding by the law was based on
+
+133
+00:09:13,800 --> 00:09:17,370
+the just law and proper execution of the law.
+
+134
+00:09:17,370 --> 00:09:20,710
+Afterward, this saying was removed from our textbooks.
+
+135
+00:09:20,710 --> 00:09:23,640
+Just like someone once said,
+
+136
+00:09:23,640 --> 00:09:27,511
+"Being just means knowing whom to criticize."
+
+137
+00:09:27,511 --> 00:09:31,121
+I'll quote a line from a book, "A Good Discriminator."
+
+138
+00:09:31,121 --> 00:09:33,651
+"The world is still..."
+
+139
+00:09:33,651 --> 00:09:35,597
+- No way. 
+ - What?
+
+140
+00:09:37,791 --> 00:09:39,791
+What's this about?
+
+141
+00:09:39,791 --> 00:09:41,831
+We're in the middle of class.
+
+142
+00:10:21,771 --> 00:10:27,891
+This... Which one of the two is it?
+
+143
+00:10:33,180 --> 00:10:35,700
+   
+
+144
+00:10:42,190 --> 00:10:45,754
+   
+
+145
+00:10:51,671 --> 00:10:54,631
+Won Kyung, it's me, Moo Ryul.
+
+146
+00:10:54,631 --> 00:10:59,171
+The man in Hong Nan Hee's photo on the Internet.
+
+147
+00:10:59,171 --> 00:11:01,680
+Isn't that Kang Baek?
+
+148
+00:11:01,680 --> 00:11:05,153
+What are you talking about? Kang Baek?
+
+149
+00:11:21,031 --> 00:11:23,245
+Look at this, Older Mi Ja.
+
+150
+00:11:25,771 --> 00:11:29,471
+- What do you think? 
+ - Who is that?
+
+151
+00:11:29,471 --> 00:11:31,141
+You remember her, right?
+
+152
+00:11:31,141 --> 00:11:33,740
+The girl Kang Baek brought home the other day.
+
+153
+00:11:33,740 --> 00:11:36,381
+- She's dead. 
+ - What?
+
+154
+00:11:37,281 --> 00:11:39,701
+She must have been too arrogant.
+
+155
+00:11:40,481 --> 00:11:42,843
+What do you think?
+
+156
+00:11:42,843 --> 00:11:46,043
+Will the guys be sad or scared now?
+
+157
+00:12:01,700 --> 00:12:04,040
+   
+
+158
+00:12:05,470 --> 00:12:08,814
+Goodness! Hello.
+
+159
+00:12:10,080 --> 00:12:12,181
+What do you think you're doing here?
+
+160
+00:12:12,181 --> 00:12:13,580
+Get out.
+
+161
+00:12:13,580 --> 00:12:14,980
+Ma'am.
+
+162
+00:12:14,980 --> 00:12:17,521
+I'm in charge of the recent case.
+
+163
+00:12:17,521 --> 00:12:20,251
+I'm Detective Ji Gu Won of the Regional Investigation Unit.
+
+164
+00:12:20,251 --> 00:12:21,220
+So what?
+
+165
+00:12:21,220 --> 00:12:24,391
+A detective must stay within the scene of the crime.
+
+166
+00:12:24,391 --> 00:12:27,060
+This isn't the scene of the crime. This is my office.
+
+167
+00:12:27,060 --> 00:12:29,901
+If you want to interview me, set up an appointment.
+
+168
+00:12:29,901 --> 00:12:32,730
+If I did, I wouldn't be able to see this.
+
+169
+00:12:32,730 --> 00:12:34,271
+Gosh, hold on.
+
+170
+00:12:34,271 --> 00:12:37,285
+Wait. These are completely new!
+
+171
+00:12:37,285 --> 00:12:41,475
+I'm still using my old computer that barely turns on.
+
+172
+00:12:43,810 --> 00:12:48,778
+Can I ask you why you're throwing them out?
+
+173
+00:12:48,778 --> 00:12:51,620
+Watch what you say. You're in my office.
+
+174
+00:12:51,620 --> 00:12:55,661
+Is your office considered sacred or something?
+
+175
+00:12:55,661 --> 00:13:00,490
+The storage device broke down on the day of the incident,
+
+176
+00:13:00,490 --> 00:13:02,761
+so there's no security footage.
+
+177
+00:13:02,761 --> 00:13:06,171
+I was so frustrated. That's why I came here to see you,
+
+178
+00:13:06,171 --> 00:13:10,240
+and of all times, you're throwing out your computer.
+
+179
+00:13:10,240 --> 00:13:13,370
+And the director of the university is busy trying to kick me out
+
+180
+00:13:13,370 --> 00:13:16,263
+instead of welcoming me.
+
+181
+00:13:16,263 --> 00:13:19,550
+Gosh. You're hurting my feelings.
+
+182
+00:13:19,550 --> 00:13:22,320
+I'm not in charge of the security footage.
+
+183
+00:13:22,320 --> 00:13:24,151
+If you need my help, go through the proper channels,
+
+184
+00:13:24,151 --> 00:13:27,475
+and proceed with the written request.
+
+185
+00:13:28,261 --> 00:13:30,090
+This is my place of work.
+
+186
+00:13:30,090 --> 00:13:32,960
+This isn't some reception area where I listen to your frustration.
+
+187
+00:13:32,960 --> 00:13:35,060
+I can't afford to get wrapped up in this distraction.
+
+188
+00:13:35,060 --> 00:13:37,769
+I have way too much work.
+
+189
+00:13:39,300 --> 00:13:40,700
+How odd.
+
+190
+00:13:40,700 --> 00:13:44,271
+People show a sense of desperation
+
+191
+00:13:44,271 --> 00:13:47,737
+when they lose even minor items like a bicycle,
+
+192
+00:13:47,737 --> 00:13:51,480
+but you don't seem desperate to solve this case at all.
+
+193
+00:13:51,480 --> 00:13:53,850
+You look like you don't want to catch the culprit
+
+194
+00:13:53,850 --> 00:13:57,191
+when one of your students was murdered.
+
+195
+00:14:07,330 --> 00:14:09,767
+   
+
+196
+00:14:13,670 --> 00:14:15,655
+What are you talking about?
+
+197
+00:14:15,655 --> 00:14:19,671
+The culprit must be arrested. You must catch the culprit.
+
+198
+00:14:19,671 --> 00:14:21,835
+That's your job, isn't it?
+
+199
+00:14:21,835 --> 00:14:24,080
+Of course, it is.
+
+200
+00:14:24,080 --> 00:14:28,385
+It's my duty to find out the culprit.
+
+201
+00:14:57,240 --> 00:14:59,565
+Were you busy yesterday?
+
+202
+00:14:59,565 --> 00:15:01,580
+Yes, my mother wanted to see me.
+
+203
+00:15:01,580 --> 00:15:04,750
+Didn't you say she lived in Gangwon Province?
+
+204
+00:15:04,750 --> 00:15:06,655
+In Yangyang.
+
+205
+00:15:06,655 --> 00:15:08,325
+I see.
+
+206
+00:15:08,325 --> 00:15:10,392
+You went to Yangyang?
+
+207
+00:15:12,661 --> 00:15:14,161
+I just told you.
+
+208
+00:15:14,161 --> 00:15:20,301
+My mother wanted to see me.
+
+209
+00:15:20,301 --> 00:15:23,479
+That's what I told you clearly.
+
+210
+00:15:24,071 --> 00:15:27,979
+Right. You went to Yangyang out of the blue.
+
+211
+00:15:34,980 --> 00:15:37,300
+How did the meeting with her go?
+
+212
+00:15:38,450 --> 00:15:41,179
+- Pardon? 
+ - How did it go?
+
+213
+00:15:41,179 --> 00:15:44,740
+I don't understand what you're asking me now.
+
+214
+00:15:44,740 --> 00:15:48,101
+- Are you recording this? 
+ - Maybe you're recording it.
+
+215
+00:15:48,930 --> 00:15:51,560
+I didn't know there was no trust between you and me.
+
+216
+00:15:51,560 --> 00:15:53,100
+I learned from the best.
+
+217
+00:15:53,100 --> 00:15:55,970
+So you have nothing on you?
+
+218
+00:15:55,970 --> 00:15:59,131
+Am I supposed to have something?
+
+219
+00:15:59,131 --> 00:16:02,421
+Attorney Nam, you sound like a different person.
+
+220
+00:16:07,611 --> 00:16:09,650
+Did you resolve the issue without a problem?
+
+221
+00:16:09,650 --> 00:16:11,890
+What do you mean?
+
+222
+00:16:11,890 --> 00:16:15,011
+What issue must I resolve?
+
+223
+00:16:16,491 --> 00:16:18,791
+Senior Prosecutor Han's suspension.
+
+224
+00:16:19,430 --> 00:16:21,387
+Oh, that.
+
+225
+00:16:23,430 --> 00:16:26,414
+I guess you had another problem to solve.
+
+226
+00:16:30,301 --> 00:16:35,047
+A girl is dead, and the murderer is nearby,
+
+227
+00:16:35,047 --> 00:16:38,410
+but I'm surrounded by people who will pin the murder on me if they get a chance.
+
+228
+00:16:38,410 --> 00:16:42,680
+So I'm trying to stay focused and keep myself safe.
+
+229
+00:16:42,680 --> 00:16:45,920
+Gosh, I must be careful around everyone.
+
+230
+00:16:46,720 --> 00:16:48,256
+Hey.
+
+231
+00:16:49,161 --> 00:16:53,315
+Is the present all you care about? What about your future?
+
+232
+00:16:54,690 --> 00:16:58,701
+I'll consider that once it's confirmed you're not the killer.
+
+233
+00:16:58,701 --> 00:17:00,801
+You crazy jerk!
+
+234
+00:17:24,290 --> 00:17:27,338
+- Exactly. 
+ - Right. I did this.
+
+235
+00:18:33,290 --> 00:18:36,161
+You don't have to make it look so obvious. I know.
+
+236
+00:18:36,161 --> 00:18:39,909
+I don't want to see you either, so I'll keep it short.
+
+237
+00:18:39,909 --> 00:18:42,870
+The murder case in the law school at Minguk University.
+
+238
+00:18:42,870 --> 00:18:47,270
+Is it true that she was dating Kang Baek?
+
+239
+00:18:49,381 --> 00:18:51,521
+Who said it was a murder case?
+
+240
+00:18:51,521 --> 00:18:53,380
+The autopsy report hasn't come out yet.
+
+241
+00:18:53,380 --> 00:18:56,100
+You're not denying that she was his girlfriend.
+
+242
+00:18:57,750 --> 00:19:00,190
+- That's... 
+ - I heard it from your sister.
+
+243
+00:19:00,190 --> 00:19:04,290
+It was more like blackmailing than talking. So she came over to your house.
+
+244
+00:19:04,290 --> 00:19:06,891
+We got a divorce years ago. Why do you still talk to her?
+
+245
+00:19:06,891 --> 00:19:09,901
+Besides, you still don't know the legal condition for blackmail?
+
+246
+00:19:09,901 --> 00:19:11,731
+Should I give you a law book as a present?
+
+247
+00:19:11,731 --> 00:19:14,200
+Why are you here? Did you expect me to be nice to you?
+
+248
+00:19:14,200 --> 00:19:17,508
+- If you're angry, leave. 
+ - You know what?
+
+249
+00:19:18,041 --> 00:19:19,711
+I know you.
+
+250
+00:19:19,711 --> 00:19:21,981
+You may be able to fool the others but not me.
+
+251
+00:19:21,981 --> 00:19:24,380
+There's something going on. I'm sure of it
+
+252
+00:19:24,380 --> 00:19:28,965
+but I don't care. I don't want to either.
+
+253
+00:19:28,965 --> 00:19:31,451
+I won't even be curious about what's going on with you,
+
+254
+00:19:31,451 --> 00:19:33,217
+but...
+
+255
+00:19:33,721 --> 00:19:35,541
+Kang Baek.
+
+256
+00:19:36,720 --> 00:19:38,541
+Our son.
+
+257
+00:19:39,731 --> 00:19:42,560
+If anything bad happens to Kang Baek...
+
+258
+00:19:42,560 --> 00:19:45,061
+Don't be ridiculous.
+
+259
+00:19:45,061 --> 00:19:50,370
+- What? 
+ - It's too late to act like you are something to him. It's not even funny.
+
+260
+00:19:50,370 --> 00:19:52,255
+One more thing.
+
+261
+00:19:52,255 --> 00:19:54,870
+Nothing bad's going to happen to Kang Baek,
+
+262
+00:19:54,870 --> 00:19:57,510
+and I won't let anything happen to him.
+
+263
+00:19:57,510 --> 00:20:03,081
+- He's under my protection, so... 
+ - I can't trust you.
+
+264
+00:20:03,081 --> 00:20:04,829
+Han Hye Ryul,
+
+265
+00:20:05,491 --> 00:20:07,281
+you're swayed.
+
+266
+00:20:07,281 --> 00:20:09,261
+I know you're trying to conceal the real problem
+
+267
+00:20:09,261 --> 00:20:12,761
+by getting on my nerves on purpose.
+
+268
+00:20:13,460 --> 00:20:18,724
+Although I hate to admit it, you are spiteful and gutsy.
+
+269
+00:20:18,724 --> 00:20:20,715
+But not now,
+
+270
+00:20:20,715 --> 00:20:24,608
+so I will get involved.
+
+271
+00:20:24,608 --> 00:20:27,270
+I have the right to do so when it comes to Kang Baek.
+
+272
+00:20:27,270 --> 00:20:30,950
+Submit to it this time. You must.
+
+273
+00:20:51,201 --> 00:20:53,085
+   
+
+274
+00:21:07,081 --> 00:21:10,081
+ You should've asked your driver to carry it! 
+
+275
+00:21:10,081 --> 00:21:11,521
+It was a hassle.
+
+276
+00:21:11,521 --> 00:21:13,321
+Did you have dinner?
+
+277
+00:21:13,321 --> 00:21:15,421
+It's past dinnertime, you see.
+
+278
+00:21:15,421 --> 00:21:17,391
+It feels like you didn't.
+
+279
+00:21:17,391 --> 00:21:19,561
+You look so frail,
+
+280
+00:21:19,561 --> 00:21:22,775
+like those dancing balloons.
+
+281
+00:21:22,775 --> 00:21:25,130
+I'll make myself some ramyeon later.
+
+282
+00:21:25,130 --> 00:21:28,215
+That will upset Kang Baek.
+
+283
+00:21:29,571 --> 00:21:33,033
+Did he have dinner?
+
+284
+00:21:33,770 --> 00:21:35,710
+Younger Mi Ja is making
+
+285
+00:21:35,710 --> 00:21:38,340
+his favorite mozzarella sandwiches right now.
+
+286
+00:21:38,340 --> 00:21:41,481
+I like sandwiches too.
+
+287
+00:21:41,481 --> 00:21:44,007
+Then take some from your son.
+
+288
+00:21:44,007 --> 00:21:46,011
+I'll take care of this.
+
+289
+00:21:46,011 --> 00:21:47,950
+Thank you.
+
+290
+00:21:54,160 --> 00:21:57,801
+If the sandwiches feel too heavy, just have the juice.
+
+291
+00:21:57,801 --> 00:22:00,071
+I added some aloe to help your digestion.
+
+292
+00:22:00,071 --> 00:22:01,331
+Should I bring the food for you?
+
+293
+00:22:01,331 --> 00:22:03,981
+- No, I've got this. 
+ - Okay.
+
+294
+00:22:03,981 --> 00:22:05,971
+Thank you.
+
+295
+00:22:29,901 --> 00:22:31,819
+Kang Baek.
+
+296
+00:22:40,210 --> 00:22:43,106
+Kang Baek, are you asleep?
+
+297
+00:22:51,151 --> 00:22:52,899
+Kang Baek.
+
+298
+00:22:53,521 --> 00:22:55,255
+Kang Baek!
+
+299
+00:22:56,391 --> 00:22:58,673
+Kang Baek!
+
+300
+00:22:58,673 --> 00:23:01,305
+Kang Baek, open the doors!
+
+301
+00:23:01,305 --> 00:23:03,215
+Kang Baek!
+
+302
+00:23:04,930 --> 00:23:07,151
+Kang Baek!
+
+303
+00:23:07,151 --> 00:23:09,230
+Kang Baek!
+
+304
+00:23:09,230 --> 00:23:11,987
+Kang Baek?
+
+305
+00:23:11,987 --> 00:23:13,585
+Kang Baek!
+
+306
+00:23:13,585 --> 00:23:17,050
+Kang Baek!
+
+307
+00:23:22,480 --> 00:23:24,765
+What is going on?
+
+308
+00:23:24,765 --> 00:23:27,005
+Kang Baek.
+
+309
+00:23:28,121 --> 00:23:31,221
+What's making you so scared and afraid?
+
+310
+00:23:43,301 --> 00:23:45,519
+I'm sorry, Mom.
+
+311
+00:23:46,511 --> 00:23:48,987
+What is wrong with me?
+
+312
+00:23:48,987 --> 00:23:50,640
+I understand.
+
+313
+00:23:50,640 --> 00:23:52,768
+This can happen.
+
+314
+00:23:52,768 --> 00:23:55,159
+It's okay.
+
+315
+00:23:55,781 --> 00:23:58,409
+I think I'm going crazy.
+
+316
+00:23:59,591 --> 00:24:01,291
+Let's go.
+
+317
+00:24:16,640 --> 00:24:18,960
+Are you feeling better now?
+
+318
+00:24:20,640 --> 00:24:23,180
+I'm all right now, Mom.
+
+319
+00:24:23,180 --> 00:24:25,052
+Thanks.
+
+320
+00:24:25,881 --> 00:24:27,885
+Look.
+
+321
+00:24:30,480 --> 00:24:32,601
+Kang Baek...
+
+322
+00:24:32,601 --> 00:24:36,171
+can take some time off from school, right?
+
+323
+00:24:37,021 --> 00:24:39,430
+- Take some time off from school? 
+ - Yes.
+
+324
+00:24:39,430 --> 00:24:44,571
+I'm going to let him write all he wants.
+
+325
+00:24:44,571 --> 00:24:47,484
+If he writes until he's sick of it,
+
+326
+00:24:47,484 --> 00:24:51,382
+he might be able to get back on track.
+
+327
+00:24:55,040 --> 00:24:57,089
+Your grandpa
+
+328
+00:24:57,089 --> 00:25:01,171
+never condones such weakness.
+
+329
+00:25:01,171 --> 00:25:05,151
+Still, he's struggling too much.
+
+330
+00:25:05,151 --> 00:25:07,451
+He'll get over it in time,
+
+331
+00:25:07,451 --> 00:25:12,190
+and the girl is dead. It's even more unnecessary.
+
+332
+00:25:12,190 --> 00:25:14,590
+Mom.
+
+333
+00:25:14,590 --> 00:25:18,607
+Hye Ryul, snap out of it.
+
+334
+00:25:18,607 --> 00:25:21,771
+You knew he was suffering.
+
+335
+00:25:21,771 --> 00:25:24,140
+Even I was aware of it.
+
+336
+00:25:24,140 --> 00:25:26,445
+I bet you knew.
+
+337
+00:25:26,445 --> 00:25:28,891
+You just feigned ignorance.
+
+338
+00:25:30,011 --> 00:25:32,865
+It was for his sake,
+
+339
+00:25:33,411 --> 00:25:35,357
+but...
+
+340
+00:25:35,357 --> 00:25:39,307
+- But this is... 
+ - I'm doing this for his sake too.
+
+341
+00:25:39,307 --> 00:25:41,153
+If he gives up now,
+
+342
+00:25:41,153 --> 00:25:44,180
+it will only do good for whom we already know.
+
+343
+00:25:56,270 --> 00:25:58,055
+Hye Ryul.
+
+344
+00:25:59,710 --> 00:26:01,446
+Look.
+
+345
+00:26:03,240 --> 00:26:05,860
+Unless we can leave this wealth,
+
+346
+00:26:06,911 --> 00:26:09,231
+it will all be meaningless.
+
+347
+00:26:09,750 --> 00:26:12,747
+Our dying effort to protect this
+
+348
+00:26:14,091 --> 00:26:16,609
+will all be meaningless.
+
+349
+00:26:24,331 --> 00:26:26,315
+Let's go upstairs.
+
+350
+00:26:26,315 --> 00:26:30,173
+Today, take some pills and sleep tight.
+
+351
+00:26:38,611 --> 00:26:41,171
+I'm okay now. Thank you, Mom.
+
+352
+00:26:41,171 --> 00:26:44,480
+The pills will work soon, so lie down at ease.
+
+353
+00:26:44,480 --> 00:26:47,332
+Okay, I will.
+
+354
+00:27:10,440 --> 00:27:13,812
+Are you okay?
+
+355
+00:27:13,812 --> 00:27:16,923
+Are you worried about me?
+
+356
+00:27:18,280 --> 00:27:20,653
+Filthy scum.
+
+357
+00:27:23,561 --> 00:27:25,490
+When were you going to tell me?
+
+358
+00:27:25,490 --> 00:27:28,518
+How were you going to explain?
+
+359
+00:27:29,430 --> 00:27:31,361
+Did you not even care to think?
+
+360
+00:27:31,361 --> 00:27:35,267
+Were you just busy satisfying your desire?
+
+361
+00:27:35,267 --> 00:27:37,301
+Don't look away.
+
+362
+00:27:37,301 --> 00:27:40,047
+Look straight at me.
+
+363
+00:27:42,580 --> 00:27:44,180
+It must've been fun.
+
+364
+00:27:44,180 --> 00:27:46,581
+It must've been thrilling and exciting.
+
+365
+00:27:46,581 --> 00:27:50,960
+That secret affair must've pleased you even more.
+
+366
+00:27:51,881 --> 00:27:54,169
+I bet you enjoyed it so much.
+
+367
+00:27:54,169 --> 00:27:55,720
+Honey.
+
+368
+00:27:55,720 --> 00:27:58,615
+Shut your mouth!
+
+369
+00:28:00,430 --> 00:28:03,022
+Did you think I was unaware?
+
+370
+00:28:03,022 --> 00:28:06,027
+Did you really think I wouldn't know?
+
+371
+00:28:06,027 --> 00:28:08,447
+I could smell it so easily.
+
+372
+00:28:08,447 --> 00:28:12,440
+Your lust shouting for joy!
+
+373
+00:28:12,440 --> 00:28:15,811
+That filthy smell disgusted me.
+
+374
+00:28:15,811 --> 00:28:18,881
+I felt like throwing up. How was I not supposed to know?
+
+375
+00:28:18,881 --> 00:28:21,397
+Look at me!
+
+376
+00:28:21,910 --> 00:28:25,250
+Why did you do it when you can't even look at me?
+
+377
+00:28:25,250 --> 00:28:28,091
+What were you going to say after all this?
+
+378
+00:28:28,091 --> 00:28:30,229
+That it was a mistake?
+
+379
+00:28:31,091 --> 00:28:33,260
+This is different from dropping a cup.
+
+380
+00:28:33,260 --> 00:28:36,960
+Or what? Did love run you over like a car accident?
+
+381
+00:28:36,960 --> 00:28:38,820
+Was it inevitable?
+
+382
+00:28:38,820 --> 00:28:40,631
+She was your student.
+
+383
+00:28:40,631 --> 00:28:45,097
+Professor Na, she was your student!
+
+384
+00:28:45,097 --> 00:28:47,265
+Now how dare you
+
+385
+00:28:47,265 --> 00:28:49,711
+try to run your mouth?
+
+386
+00:28:50,610 --> 00:28:52,970
+You're despicable.
+
+387
+00:28:53,751 --> 00:28:55,751
+You are a hypocrite.
+
+388
+00:28:57,021 --> 00:28:58,351
+I'm sorry.
+
+389
+00:28:58,351 --> 00:29:01,590
+You're sorry for what? Tell me!
+
+390
+00:29:01,590 --> 00:29:03,591
+Give me an excuse. Explain it!
+
+391
+00:29:03,591 --> 00:29:05,690
+Persuade me!
+
+392
+00:29:05,690 --> 00:29:10,455
+I need to understand you to soothe this anger.
+
+393
+00:29:10,455 --> 00:29:12,831
+Why? Did you struggle?
+
+394
+00:29:12,831 --> 00:29:16,319
+Because of me, my mom, or this family?
+
+395
+00:29:16,319 --> 00:29:18,700
+Did I ignore what you were going through?
+
+396
+00:29:18,700 --> 00:29:22,065
+Were you the only one suffering? No, you weren't!
+
+397
+00:29:22,065 --> 00:29:25,361
+What about me?
+
+398
+00:29:26,411 --> 00:29:28,933
+In case you'd suffer...
+
+399
+00:29:28,933 --> 00:29:32,567
+In case you'd be in too much pain,
+
+400
+00:29:32,567 --> 00:29:35,337
+I anxiously tiptoed around you.
+
+401
+00:29:35,337 --> 00:29:37,595
+I felt sorry.
+
+402
+00:29:38,090 --> 00:29:43,031
+I struggled in pain with you, you piece of trash!
+
+403
+00:29:47,271 --> 00:29:49,411
+It was hard...
+
+404
+00:29:49,411 --> 00:29:52,064
+and painful for me too.
+
+405
+00:29:53,211 --> 00:29:58,095
+I felt the happiest when you consoled me.
+
+406
+00:29:59,350 --> 00:30:04,081
+But did you need someone else to console you?
+
+407
+00:30:04,081 --> 00:30:07,271
+That was just lust! Do you hear me?
+
+408
+00:30:07,271 --> 00:30:11,461
+I like what thrills me too, you son of a gun!
+
+409
+00:30:11,461 --> 00:30:14,465
+I just hold it back!
+
+410
+00:30:14,465 --> 00:30:18,199
+I know what's exciting and fun!
+
+411
+00:30:18,860 --> 00:30:20,729
+Have you ever
+
+412
+00:30:20,729 --> 00:30:28,770
+imagined me in another man's arms, screaming for joy and satisfaction?
+
+413
+00:30:28,770 --> 00:30:30,419
+I...
+
+414
+00:30:31,341 --> 00:30:35,029
+I was always in that nightmare.
+
+415
+00:30:41,250 --> 00:30:43,543
+It wasn't a mistake.
+
+416
+00:30:44,891 --> 00:30:46,773
+It was...
+
+417
+00:30:47,860 --> 00:30:50,508
+all my fault.
+
+418
+00:30:51,100 --> 00:30:53,684
+I couldn't hold myself back.
+
+419
+00:30:54,400 --> 00:30:56,305
+I was...
+
+420
+00:30:58,201 --> 00:31:01,227
+no better than this.
+
+421
+00:31:01,227 --> 00:31:03,480
+I'm truly sorry.
+
+422
+00:31:12,081 --> 00:31:14,630
+I'm expecting to face turmoil
+
+423
+00:31:15,369 --> 00:31:17,591
+regarding the investigation against Jusung.
+
+424
+00:31:17,591 --> 00:31:19,831
+This is really important.
+
+425
+00:31:19,831 --> 00:31:21,960
+If it falls through, I will be doomed.
+
+426
+00:31:21,960 --> 00:31:23,650
+But...
+
+427
+00:31:24,529 --> 00:31:26,924
+my Kang Baek...
+
+428
+00:31:28,901 --> 00:31:32,547
+I'm so concerned about him.
+
+429
+00:31:33,240 --> 00:31:35,180
+I'm scared.
+
+430
+00:31:35,840 --> 00:31:38,528
+It's driving me crazy.
+
+431
+00:31:46,250 --> 00:31:51,438
+Don't ever let him find out about this,
+
+432
+00:31:53,260 --> 00:31:58,741
+and no matter what happens,
+
+433
+00:32:00,530 --> 00:32:03,215
+protect him.
+
+434
+00:32:05,470 --> 00:32:07,530
+Promise me.
+
+435
+00:32:08,841 --> 00:32:11,305
+Protect him no matter what.
+
+436
+00:32:13,280 --> 00:32:15,237
+I will.
+
+437
+00:32:19,280 --> 00:32:23,233
+I'm busy tomorrow. I need to sleep early.
+
+438
+00:32:23,233 --> 00:32:25,350
+From now on,
+
+439
+00:32:25,861 --> 00:32:28,141
+sleep in the reception room.
+
+440
+00:33:10,470 --> 00:33:12,327
+It's me.
+
+441
+00:33:13,770 --> 00:33:16,770
+I think the time that you mentioned has come.
+
+442
+00:33:17,881 --> 00:33:22,080
+It's time for us to take what we deserve and pay them back.
+
+443
+00:33:22,080 --> 00:33:24,640
+Just as much as they did to us.
+
+444
+00:34:11,801 --> 00:34:13,571
+I brought the newspaper.
+
+445
+00:34:13,571 --> 00:34:15,867
+Thank you.
+
+446
+00:34:26,850 --> 00:34:28,326
+   
+
+447
+00:34:31,481 --> 00:34:33,789
+ I brought the newspaper! 
+
+448
+00:34:34,690 --> 00:34:37,475
+Yes, come in.
+
+449
+00:34:42,931 --> 00:34:44,901
+Did you sleep well?
+
+450
+00:34:44,901 --> 00:34:47,301
+Yes, I took some pills last night.
+
+451
+00:34:47,301 --> 00:34:49,471
+I shouldn't make a habit of this.
+
+452
+00:34:49,471 --> 00:34:53,071
+It's okay, as long as you don't develop a tolerance.
+
+453
+00:34:53,071 --> 00:34:56,351
+This evening, I'll get you some tea that helps sleep.
+
+454
+00:34:56,351 --> 00:34:58,541
+I'd appreciate that.
+
+455
+00:34:58,541 --> 00:35:00,181
+   
+
+456
+00:35:00,181 --> 00:35:04,281
+Did Kang Baek read today's newspaper?
+
+457
+00:35:04,281 --> 00:35:09,991
+He hasn't come out of his room yet, so he didn't read the newspaper,
+
+458
+00:35:09,991 --> 00:35:13,271
+but people read articles online these days.
+
+459
+00:35:17,561 --> 00:35:20,341
+   
+
+460
+00:35:28,440 --> 00:35:30,511
+They're coming at the case like hyenas.
+
+461
+00:35:30,511 --> 00:35:32,210
+Look at these titles.
+
+462
+00:35:32,210 --> 00:35:34,250
+They're fighting to get more views.
+
+463
+00:35:34,250 --> 00:35:36,180
+They copy and paste the article with a few different words
+
+464
+00:35:36,180 --> 00:35:38,120
+without checking whether it's true or not,
+
+465
+00:35:38,120 --> 00:35:39,690
+so they lure people with provocative titles.
+
+466
+00:35:39,690 --> 00:35:42,950
+They're more like fisherpeople, not reporters.
+
+467
+00:35:47,361 --> 00:35:48,360
+Are you going somewhere?
+
+468
+00:35:48,360 --> 00:35:52,789
+I'm going to do what you said no one's interested in.
+
+469
+00:35:52,789 --> 00:35:55,940
+I'm going to bring down those morons.
+
+470
+00:35:56,546 --> 00:36:00,051
+But you'll be at the team dinner, right?
+
+471
+00:36:01,110 --> 00:36:03,281
+All right, here.
+
+472
+00:36:03,281 --> 00:36:05,015
+- Gosh. 
+ - Thanks.
+
+473
+00:36:05,015 --> 00:36:07,711
+You must be so blessed, sir.
+
+474
+00:36:07,711 --> 00:36:10,681
+It started raining right when we finished playing!
+
+475
+00:36:10,681 --> 00:36:13,181
+- Cheers. 
+ - Cheers.
+
+476
+00:36:15,591 --> 00:36:17,420
+- Nice. 
+ - Goodness.
+
+477
+00:36:17,420 --> 00:36:22,031
+I've been to a lot of renowned golf ranges,
+
+478
+00:36:22,031 --> 00:36:24,431
+but no place is as good as Jusung's.
+
+479
+00:36:24,431 --> 00:36:25,431
+Paegol Beach?
+
+480
+00:36:25,431 --> 00:36:28,670
+It's known to have a nice landscape
+
+481
+00:36:28,670 --> 00:36:32,341
+but the course itself can't be compared to Jusung's.
+
+482
+00:36:32,341 --> 00:36:36,810
+Maintenance comes first when it comes to golf clubs.
+
+483
+00:36:36,810 --> 00:36:40,551
+This is all thanks to you two.
+
+484
+00:36:43,250 --> 00:36:47,951
+Who knew there would be something stronger than Dolphin and Jusung?
+
+485
+00:36:47,951 --> 00:36:50,321
+Other issues have gone out of the window.
+
+486
+00:36:50,321 --> 00:36:55,560
+With this murder case, the whole country is busy looking for the culprit.
+
+487
+00:36:55,560 --> 00:36:57,531
+It's not just a murder case.
+
+488
+00:36:57,531 --> 00:36:59,471
+A beautiful law school student
+
+489
+00:36:59,471 --> 00:37:01,971
+who looked glamorous, unlike her poor background.
+
+490
+00:37:01,971 --> 00:37:06,770
+Regardless of how it's titled, people will find it sensational.
+
+491
+00:37:06,770 --> 00:37:09,410
+Come to think of it, she was your student.
+
+492
+00:37:09,410 --> 00:37:11,781
+Didn't she have any man problems?
+
+493
+00:37:11,781 --> 00:37:15,881
+People are talking about it everywhere, including the Internet.
+
+494
+00:37:15,881 --> 00:37:20,491
+Murder is often caused by money, grudges, or love affairs.
+
+495
+00:37:20,491 --> 00:37:24,690
+She used to be so conceited and proud.
+
+496
+00:37:24,690 --> 00:37:26,960
+Hardly anything worked on her.
+
+497
+00:37:26,960 --> 00:37:29,497
+Oh, really?
+
+498
+00:37:30,331 --> 00:37:32,831
+I guess she rejected him.
+
+499
+00:37:32,831 --> 00:37:36,201
+Oh, please. She was a student. How inappropriate of you, sir.
+
+500
+00:37:36,201 --> 00:37:38,924
+- Goodness. 
+ - Come on.
+
+501
+00:37:43,690 --> 00:37:45,210
+Oh, really.
+
+502
+00:37:45,219 --> 00:37:48,675
+Nan Hee was...
+
+503
+00:37:48,675 --> 00:37:50,188
+I mean, the dead student.
+
+504
+00:37:50,188 --> 00:37:52,389
+She was probably going out with Kang Baek,
+
+505
+00:37:52,389 --> 00:37:55,091
+Prosecutor Han Hye Ryul's son.
+
+506
+00:38:00,199 --> 00:38:02,969
+The body shows lacerations, a skull fracture,
+
+507
+00:38:02,969 --> 00:38:05,268
+hypodermic bleeding, subarachnoid hemorrhage, and others.
+
+508
+00:38:05,268 --> 00:38:07,998
+The back of her right head was stricken hard with a weapon,
+
+509
+00:38:07,998 --> 00:38:10,038
+which caused arteriorrhexis.
+
+510
+00:38:10,038 --> 00:38:11,909
+Did you find her bloodstains near the lake?
+
+511
+00:38:11,909 --> 00:38:12,580
+That must be
+
+512
+00:38:12,580 --> 00:38:14,270
+where she was attacked.
+
+513
+00:38:14,279 --> 00:38:16,348
+As for the weapon,
+
+514
+00:38:16,348 --> 00:38:19,918
+could it be the iron pipe that we sent you last time?
+
+515
+00:38:19,918 --> 00:38:21,889
+Oh, the one you found in the lake?
+
+516
+00:38:21,889 --> 00:38:25,158
+Yes, he dived in himself to find it.
+
+517
+00:38:25,158 --> 00:38:27,518
+Considering the shapes of her lacerations and fracture,
+
+518
+00:38:27,518 --> 00:38:31,929
+it's highly likely that a similar iron pipe was used.
+
+519
+00:38:31,929 --> 00:38:33,998
+Because it was submerged,
+
+520
+00:38:33,998 --> 00:38:36,868
+you wouldn't be able to find any of her bloodstains on it,
+
+521
+00:38:36,868 --> 00:38:38,538
+not to mention her fingerprints.
+
+522
+00:38:38,538 --> 00:38:43,668
+It's an ordinary iron pipe, so it may be irrelevant to the case.
+
+523
+00:38:43,668 --> 00:38:49,309
+In any case, the victim was killed with an iron pipe. Is that correct?
+
+524
+00:38:49,309 --> 00:38:52,309
+It's true she was attacked with an iron pipe,
+
+525
+00:38:52,309 --> 00:38:55,272
+but the direct cause was drowning.
+
+526
+00:38:55,272 --> 00:38:58,149
+During the autopsy, I saw her lungs swollen with water,
+
+527
+00:38:58,149 --> 00:39:00,989
+and planktons were found in the tissues of her body.
+
+528
+00:39:00,989 --> 00:39:03,589
+But because of the arteriorrhexis,
+
+529
+00:39:03,589 --> 00:39:07,209
+the victim would've died even if she had been left alone.
+
+530
+00:39:13,639 --> 00:39:16,139
+But this is such a strange case.
+
+531
+00:39:17,369 --> 00:39:19,961
+In what way?
+
+532
+00:39:19,961 --> 00:39:24,779
+Considering the bleeding amount and bloodstains, I can't be so sure,
+
+533
+00:39:24,779 --> 00:39:27,779
+but it seems like she was drowned a while after the attack.
+
+534
+00:39:27,779 --> 00:39:30,149
+Let alone that,
+
+535
+00:39:30,149 --> 00:39:32,358
+do you see this scar on her forehead?
+
+536
+00:39:32,358 --> 00:39:34,939
+A piece of wood was found in it.
+
+537
+00:39:34,939 --> 00:39:38,659
+What? A piece of wood? I don't understand.
+
+538
+00:39:38,659 --> 00:39:42,299
+If a piece of wood is found in a straight laceration like this,
+
+539
+00:39:42,299 --> 00:39:43,969
+it means bumping against furniture.
+
+540
+00:39:43,969 --> 00:39:46,069
+So I can assume she got this wound by bumping against furniture,
+
+541
+00:39:46,069 --> 00:39:49,887
+and that the piece of wood got stuck in it.
+
+542
+00:39:49,887 --> 00:39:54,691
+But there were no wooden structures near the scene, right?
+
+543
+00:39:54,691 --> 00:39:55,879
+Yes, that's correct.
+
+544
+00:39:55,879 --> 00:39:57,409
+Then I guess she got the wound
+
+545
+00:39:57,409 --> 00:40:00,748
+by something that happened indoors, where there were furniture pieces.
+
+546
+00:40:00,748 --> 00:40:04,759
+So you believe that this wound has nothing to do with the murder?
+
+547
+00:40:04,759 --> 00:40:09,259
+That's right, but it doesn't look like it was treated at all.
+
+548
+00:40:09,259 --> 00:40:11,798
+I mean, she didn't have to go into the ER to get it stitched,
+
+549
+00:40:11,798 --> 00:40:15,728
+but she should've disinfected it and put a bandage on it at least.
+
+550
+00:40:15,728 --> 00:40:18,968
+Other than that, there aren't many clues left.
+
+551
+00:40:18,968 --> 00:40:21,299
+Most evidence was damaged or washed away by the water.
+
+552
+00:40:21,299 --> 00:40:23,109
+Also,
+
+553
+00:40:23,109 --> 00:40:28,609
+no foreign DNA was found under the fingernails or inside the body.
+
+554
+00:40:28,609 --> 00:40:33,399
+Doctor, if she drowned,
+
+555
+00:40:33,399 --> 00:40:38,022
+do you think the victim suffered a lot of pain?
+
+556
+00:40:38,022 --> 00:40:40,918
+ The bereaved often ask me about that. 
+
+557
+00:40:40,918 --> 00:40:43,129
+ However, the arteriorrhexis was quite severe, 
+
+558
+00:40:43,129 --> 00:40:46,058
+ so it's highly likely that she was unconscious at the time. 
+
+559
+00:40:46,058 --> 00:40:49,998
+ If she was indeed unconscious, she probably didn't feel any pain, 
+
+560
+00:40:49,998 --> 00:40:52,820
+ but I'm not sure if it's a good thing or not. 
+
+561
+00:40:53,598 --> 00:40:55,609
+She was going to die anyway,
+
+562
+00:40:55,609 --> 00:40:59,223
+so why was she thrown into the lake?
+
+563
+00:40:59,223 --> 00:41:03,779
+And on top of that, what's with the time gap?
+
+564
+00:41:03,779 --> 00:41:06,230
+Is that what you're most curious about?
+
+565
+00:41:06,919 --> 00:41:10,478
+I want to know where she got the wound on her forehead.
+
+566
+00:41:10,478 --> 00:41:11,490
+Her forehead?
+
+567
+00:41:11,490 --> 00:41:14,489
+She was hit with a blunt weapon and was thrown into the lake,
+
+568
+00:41:14,489 --> 00:41:17,229
+but hurt her forehead somewhere indoors. Her movements don't make sense.
+
+569
+00:41:17,229 --> 00:41:18,958
+Movements?
+
+570
+00:41:18,958 --> 00:41:21,359
+She was supposed to meet with the reporter at 11p.m.,
+
+571
+00:41:21,359 --> 00:41:24,998
+but left her dorm room way before that, at 9:30 p.m.
+
+572
+00:41:24,998 --> 00:41:28,239
+They were supposed to meet on campus. It takes less than 20 minutes to get there.
+
+573
+00:41:28,239 --> 00:41:32,179
+It means she had something else to do before meeting the reporter.
+
+574
+00:41:32,179 --> 00:41:35,148
+And she hurt her forehead while taking care of that?
+
+575
+00:41:35,148 --> 00:41:37,588
+That is the only plausible explanation,
+
+576
+00:41:37,588 --> 00:41:41,489
+and the location where she was found too.
+
+577
+00:41:41,489 --> 00:41:43,907
+What about it?
+
+578
+00:41:45,818 --> 00:41:48,228
+She was supposed to meet with the reporter over there,
+
+579
+00:41:48,228 --> 00:41:51,121
+and the dormitory is over there.
+
+580
+00:41:51,121 --> 00:41:53,408
+She didn't have to pass the lake.
+
+581
+00:41:53,408 --> 00:41:55,406
+Then where did she go?
+
+582
+00:41:55,406 --> 00:41:56,969
+We combed through all the security footage,
+
+583
+00:41:56,969 --> 00:42:00,639
+and confirmed that the victim did not leave the campus that night.
+
+584
+00:42:00,639 --> 00:42:05,535
+So whatever happened must've taken place inside the campus.
+
+585
+00:42:07,009 --> 00:42:08,978
+Oh, hello. We just got here too.
+
+586
+00:42:08,978 --> 00:42:10,448
+It was her, right?
+
+587
+00:42:10,448 --> 00:42:13,772
+- What? 
+ - Hong Nan Hee was the informant.
+
+588
+00:42:13,772 --> 00:42:15,018
+Yes, that's right.
+
+589
+00:42:15,018 --> 00:42:16,688
+Why are you still here?
+
+590
+00:42:16,688 --> 00:42:18,558
+She was killed trying to tip off.
+
+591
+00:42:18,558 --> 00:42:21,688
+You must find out who wanted to silence her and why!
+
+592
+00:42:21,688 --> 00:42:23,389
+Reporter Yoon, please calm down.
+
+593
+00:42:23,389 --> 00:42:26,659
+If you have time for this, go investigate Ham &amp; Lee and Jusung.
+
+594
+00:42:26,659 --> 00:42:29,228
+You're leaking information about the investigation. What is this?
+
+595
+00:42:29,228 --> 00:42:31,569
+Hey, Yoon Eun Mi!
+
+596
+00:42:32,969 --> 00:42:36,790
+Everyone is busy running their mouth when they know nothing.
+
+597
+00:42:39,278 --> 00:42:42,208
+She was not that kind of person. I assure you!
+
+598
+00:42:42,208 --> 00:42:44,148
+You see, this could get you into trouble.
+
+599
+00:42:44,148 --> 00:42:46,018
+It is fishy. I know that too,
+
+600
+00:42:46,018 --> 00:42:49,818
+but there's nothing I can do based on my speculation alone!
+
+601
+00:42:49,818 --> 00:42:52,559
+If you keep this up, the real culprit will hide,
+
+602
+00:42:52,559 --> 00:42:55,699
+and an innocent person will fall under suspicion.
+
+603
+00:42:55,699 --> 00:42:58,498
+You know, everyone has a secret.
+
+604
+00:42:58,498 --> 00:43:02,258
+Not everyone with a hammer is looking for a nail to hit.
+
+605
+00:43:02,258 --> 00:43:06,269
+We're going to interview the victim's friends later today.
+
+606
+00:43:06,269 --> 00:43:10,798
+They're well-versed in the law and will take a strong stance against the media,
+
+607
+00:43:10,798 --> 00:43:13,149
+so don't worry too much.
+
+608
+00:43:13,149 --> 00:43:14,579
+You'll tell me whatever you find out, right?
+
+609
+00:43:14,579 --> 00:43:16,948
+Yes, as long as I don't overstep my bounds.
+
+610
+00:43:16,948 --> 00:43:19,248
+Don't worry too much.
+
+611
+00:43:23,348 --> 00:43:26,059
+My gosh. Someone killed her and dumped her body in the lake.
+
+612
+00:43:26,059 --> 00:43:27,488
+It's so scary.
+
+613
+00:43:27,488 --> 00:43:30,059
+Whoever did it must be a psychopath.
+
+614
+00:43:30,059 --> 00:43:35,198
+I mean, why else would someone want to kill a person and advertise it?
+
+615
+00:43:36,929 --> 00:43:40,598
+Guys, maybe the killer is watching us, getting a kick out of our reaction.
+
+616
+00:43:40,598 --> 00:43:43,838
+It was likely done on the spur of the moment or caused by negligence.
+
+617
+00:43:43,838 --> 00:43:46,709
+Premeditated murders aren't common.
+
+618
+00:43:46,709 --> 00:43:48,849
+Hey, no.
+
+619
+00:43:48,849 --> 00:43:52,148
+The lake is far from here, but we can see it when the sun comes up.
+
+620
+00:43:52,148 --> 00:43:54,148
+It was clearly premeditated.
+
+621
+00:43:54,148 --> 00:43:56,849
+Maybe the killer wanted to show someone... No.
+
+622
+00:43:56,849 --> 00:43:59,858
+Did the killer want to send some kind of message to the whole nation?
+
+623
+00:43:59,858 --> 00:44:02,659
+Hey, what if this is a serial murder case?
+
+624
+00:44:02,659 --> 00:44:06,029
+Hey, stop watching YouTube videos about bizarre conspiracy theories.
+
+625
+00:44:06,029 --> 00:44:09,398
+Well, psychopaths aren't the only ones that commit murders.
+
+626
+00:44:09,398 --> 00:44:11,758
+It could've been a crime of passion.
+
+627
+00:44:11,758 --> 00:44:14,199
+- You know, Nan Hee was... 
+ - What?
+
+628
+00:44:14,199 --> 00:44:15,969
+Well, wasn't it obvious to everyone?
+
+629
+00:44:15,969 --> 00:44:18,709
+What was obvious?
+
+630
+00:44:18,709 --> 00:44:21,438
+Nan Hee and Kang Baek were seeing each other.
+
+631
+00:44:21,438 --> 00:44:23,830
+Why are you bringing up Kang Baek now?
+
+632
+00:44:23,830 --> 00:44:25,809
+Watch what you say!
+
+633
+00:44:26,679 --> 00:44:29,918
+Your statement is false, so this is considered slander.
+
+634
+00:44:29,918 --> 00:44:33,118
+You all want to take the bar exam, don't you?
+
+635
+00:44:33,118 --> 00:44:35,364
+Hey, aren't you embarrassed?
+
+636
+00:44:35,364 --> 00:44:39,825
+Do you really want to speak of your dead classmate in that manner?
+
+637
+00:44:39,825 --> 00:44:44,832
+Gosh, I only stated a fact. Look at you ganging up on me.
+
+638
+00:44:44,832 --> 00:44:48,839
+Kang Baek kept visiting Nan Hee's dorm room!
+
+639
+00:44:48,839 --> 00:44:51,063
+So what?
+
+640
+00:44:51,063 --> 00:44:52,809
+What's the big deal about it?
+
+641
+00:44:52,809 --> 00:44:56,309
+Just so you know, I use that room too.
+
+642
+00:44:56,309 --> 00:45:00,219
+It's my room too. Nan Hee wasn't the only one who used that room.
+
+643
+00:45:00,219 --> 00:45:01,991
+Hold on.
+
+644
+00:45:01,991 --> 00:45:07,689
+Did anyone here not know that something was going on between Kang Baek and Nan Hee?
+
+645
+00:45:07,689 --> 00:45:10,819
+Answer my question! Did anyone here not know?
+
+646
+00:45:10,819 --> 00:45:12,371
+Hey, you.
+
+647
+00:45:12,371 --> 00:45:15,469
+You also thought something was definitely going on. Say something.
+
+648
+00:45:15,469 --> 00:45:18,979
+- Hey, stop. 
+ - What a moron.
+
+649
+00:45:20,369 --> 00:45:23,813
+- What did you say? 
+ - I said, "What a moron."
+
+650
+00:45:23,813 --> 00:45:25,409
+I know Kang Baek better than anybody else does.
+
+651
+00:45:25,409 --> 00:45:27,509
+Who are you to run your mouth like that?
+
+652
+00:45:27,509 --> 00:45:29,009
+Moron?
+
+653
+00:45:29,009 --> 00:45:32,668
+Who am I to run my mouth like this?
+
+654
+00:45:34,618 --> 00:45:36,318
+Hey, Jang Ji Yi.
+
+655
+00:45:36,318 --> 00:45:39,088
+I'm four years older than you. Have you forgotten?
+
+656
+00:45:39,088 --> 00:45:41,059
+Then act your age.
+
+657
+00:45:41,059 --> 00:45:43,459
+I got into law school as soon as I graduated,
+
+658
+00:45:43,459 --> 00:45:45,699
+yet you took four years just to get in.
+
+659
+00:45:45,699 --> 00:45:48,929
+Why talk such nonsense about Kang Baek and Nan Hee
+
+660
+00:45:48,929 --> 00:45:50,969
+and get bashed by someone who is four years younger than you?
+
+661
+00:45:50,969 --> 00:45:53,183
+You little...
+
+662
+00:45:58,368 --> 00:46:00,477
+Please!
+
+663
+00:46:09,818 --> 00:46:12,619
+Let me study.
+
+664
+00:46:12,619 --> 00:46:14,367
+Will you?
+
+665
+00:46:20,529 --> 00:46:26,283
+She is causing trouble even after she died.
+
+666
+00:46:38,549 --> 00:46:40,911
+Hello, excuse me.
+
+667
+00:46:40,911 --> 00:46:43,748
+We're here to investigate the Hong Nan Hee case.
+
+668
+00:46:43,748 --> 00:46:46,741
+You all have a moment to spare, right?
+
+669
+00:46:47,619 --> 00:46:51,889
+I'm sorry, but the exams are just around the corner and we don't really know anything.
+
+670
+00:46:51,889 --> 00:46:53,863
+But your friend died...
+
+671
+00:46:53,863 --> 00:46:57,628
+She was our classmate. It doesn't mean we were friends.
+
+672
+00:46:57,628 --> 00:47:00,338
+I'm not sure if I can be of any help but you can ask me,
+
+673
+00:47:00,338 --> 00:47:03,139
+although I already told you everything I know.
+
+674
+00:47:03,139 --> 00:47:06,700
+Yesterday, I asked you about...
+
+675
+00:47:06,700 --> 00:47:08,500
+There's...
+
+676
+00:47:17,688 --> 00:47:21,688
+There's someone I'm suspecting.
+
+677
+00:47:33,938 --> 00:47:38,243
+Well... That day, I...
+
+678
+00:47:48,219 --> 00:47:51,519
+Don't worry. He won't say anything about you.
+
+679
+00:47:52,759 --> 00:47:54,631
+Still...
+
+680
+00:47:56,359 --> 00:48:01,353
+Kyung Yoon can't really say anything about that day.
+
+681
+00:48:06,368 --> 00:48:07,924
+We were...
+
+682
+00:48:14,438 --> 00:48:17,248
+ I told you to keep a close watch on the whistleblower. 
+
+683
+00:48:17,248 --> 00:48:19,679
+What will you do if we can't get the statement?
+
+684
+00:48:19,679 --> 00:48:22,749
+They were sure about it up until last week, but they suddenly—
+
+685
+00:48:22,749 --> 00:48:24,357
+Last week?
+
+686
+00:48:24,357 --> 00:48:27,129
+Then you should've wrapped it up last week!
+
+687
+00:48:27,129 --> 00:48:31,648
+I'm sorry. It was— 
+ - Don't even try to list excuses.
+
+688
+00:48:31,648 --> 00:48:35,329
+Hey, just quit being a prosecutor if you're going to keep this up.
+
+689
+00:48:35,329 --> 00:48:37,128
+I'll try to persuade them again.
+
+690
+00:48:37,128 --> 00:48:39,039
+That's not good enough!
+
+691
+00:48:39,039 --> 00:48:42,419
+Persuade them no matter what and get their statement!
+
+692
+00:48:42,419 --> 00:48:44,175
+Yes, ma'am.
+
+693
+00:48:46,578 --> 00:48:48,838
+Get out. Why are you standing there?
+
+694
+00:48:49,478 --> 00:48:51,363
+Senior.
+
+695
+00:48:52,518 --> 00:48:56,530
+You know, you let me borrow this thing the other day.
+
+696
+00:48:56,530 --> 00:49:00,619
+ I transferred all the files to the USB flash drive, just in case, 
+
+697
+00:49:00,619 --> 00:49:03,399
+ to be prepared for anything. 
+
+698
+00:49:03,399 --> 00:49:04,359
+   
+
+699
+00:49:04,359 --> 00:49:08,163
+ Ms. Han, CEO Hong Tae Hoon of Hongyeon Engineering. 
+
+700
+00:49:08,163 --> 00:49:10,759
+ You still don't get it, do you? 
+
+701
+00:49:12,099 --> 00:49:13,199
+You can keep it.
+
+702
+00:49:13,199 --> 00:49:15,481
+No, it's not that.
+
+703
+00:49:15,481 --> 00:49:18,414
+It had less storage space than I'd thought.
+
+704
+00:49:18,414 --> 00:49:21,865
+I thought it was odd, so I looked into it.
+
+705
+00:49:21,865 --> 00:49:27,115
+Turns out, there's a hacking program installed on this thing.
+
+706
+00:49:28,748 --> 00:49:29,889
+What?
+
+707
+00:49:29,889 --> 00:49:33,805
+You said you got this from the student who interned here.
+
+708
+00:49:33,805 --> 00:49:38,920
+The one who died, Hong Nan Hee. Right?
+
+709
+00:49:51,868 --> 00:49:55,336
+   
+
+710
+00:49:58,508 --> 00:50:01,616
+   
+
+711
+00:50:15,799 --> 00:50:18,437
+- Did you have fun? 
+ - Of course.
+
+712
+00:50:33,078 --> 00:50:34,598
+Jang Il.
+
+713
+00:50:35,418 --> 00:50:37,418
+What brings you here at this hour?
+
+714
+00:50:37,418 --> 00:50:40,122
+Because I couldn't reach you.
+
+715
+00:50:42,958 --> 00:50:45,019
+Let's grab a drink.
+
+716
+00:50:48,998 --> 00:50:51,058
+How's Ji Yi?
+
+717
+00:50:51,768 --> 00:50:54,364
+She must be busy studying.
+
+718
+00:50:54,364 --> 00:50:55,809
+Don't get me started.
+
+719
+00:50:55,809 --> 00:50:58,779
+She says she's studying and comes home late every night.
+
+720
+00:50:58,779 --> 00:51:01,555
+I feel bad for her.
+
+721
+00:51:02,279 --> 00:51:07,249
+It feels like just yesterday when she called me "Unkle" because she couldn't say "Uncle" properly.
+
+722
+00:51:07,879 --> 00:51:09,787
+Time flies.
+
+723
+00:51:10,589 --> 00:51:13,788
+Are you really going to make her a prosecutor?
+
+724
+00:51:13,788 --> 00:51:15,744
+Who knows?
+
+725
+00:51:15,744 --> 00:51:20,961
+She wants to be but she's too tender-hearted,
+
+726
+00:51:20,961 --> 00:51:25,911
+but I'm sure you're not here to ask that.
+
+727
+00:51:25,911 --> 00:51:27,268
+What is it?
+
+728
+00:51:27,268 --> 00:51:32,196
+Why did you come to see me when we meet every day?
+
+729
+00:51:34,279 --> 00:51:39,297
+Can I say we share a common destiny?
+
+730
+00:51:39,297 --> 00:51:42,875
+- What? 
+ - I heard you're getting nominated.
+
+731
+00:51:42,875 --> 00:51:46,948
+Whether it's the Parliament or the Blue House, you said you'd take me with you.
+
+732
+00:51:46,948 --> 00:51:49,289
+I lost Han Hye Ryul's favor because I got involved with you.
+
+733
+00:51:49,289 --> 00:51:52,309
+I'm labeled as the government-patronized prosecutor.
+
+734
+00:51:53,329 --> 00:51:58,929
+When I look at the situation, I'll end up in prison before I get the gold badge.
+
+735
+00:51:58,929 --> 00:52:02,998
+Weren't you ready for it before you jumped into politics?
+
+736
+00:52:03,669 --> 00:52:06,779
+It's do-or-die.
+
+737
+00:52:06,779 --> 00:52:11,773
+Every moment is sink or swim.
+
+738
+00:52:14,579 --> 00:52:16,427
+Jang Il,
+
+739
+00:52:16,427 --> 00:52:18,689
+even if you go down,
+
+740
+00:52:18,689 --> 00:52:23,767
+a reliable fence will make you feel secure.
+
+741
+00:52:24,429 --> 00:52:27,011
+I think now is the time.
+
+742
+00:52:27,011 --> 00:52:28,905
+It's the right time.
+
+743
+00:52:30,929 --> 00:52:34,801
+Let's get Ji Yi married.
+
+744
+00:52:44,348 --> 00:52:47,152
+You should leave. It's late.
+
+745
+00:52:47,152 --> 00:52:51,603
+Besides Ji Yi is crazy about Kang Baek.
+
+746
+00:52:52,958 --> 00:52:55,010
+I'll talk sense into her.
+
+747
+00:52:55,010 --> 00:52:57,458
+What changed your mind all of a sudden?
+
+748
+00:52:58,089 --> 00:53:00,431
+It was what you wanted.
+
+749
+00:53:00,431 --> 00:53:02,118
+What about you?
+
+750
+00:53:02,828 --> 00:53:04,728
+Why are you pushing it?
+
+751
+00:53:04,728 --> 00:53:05,699
+What about me?
+
+752
+00:53:05,699 --> 00:53:10,409
+Kang Baek and Hong Nan Hee were in a relationship.
+
+753
+00:53:11,938 --> 00:53:15,708
+The country is investigating her murder.
+
+754
+00:53:15,708 --> 00:53:21,580
+Whose name do you think will be mentioned?
+
+755
+00:53:24,589 --> 00:53:26,489
+Jang Il.
+
+756
+00:53:26,489 --> 00:53:29,685
+How can you say that?
+
+757
+00:53:29,685 --> 00:53:33,458
+I heard that rumor too, that they dated,
+
+758
+00:53:33,458 --> 00:53:36,302
+but that's not confirmed.
+
+759
+00:53:36,302 --> 00:53:40,001
+Besides, do you really think Kang Baek did that?
+
+760
+00:53:40,001 --> 00:53:41,911
+Is that it?
+
+761
+00:53:41,911 --> 00:53:44,068
+It's Kang Baek!
+
+762
+00:53:44,068 --> 00:53:47,701
+You're a prosecutor. You know it.
+
+763
+00:53:49,179 --> 00:53:51,949
+How women normally get killed.
+
+764
+00:53:51,949 --> 00:53:53,349
+How can you say that?
+
+765
+00:53:53,349 --> 00:53:54,478
+And you?
+
+766
+00:53:54,478 --> 00:53:57,982
+How can you say that?
+
+767
+00:54:01,559 --> 00:54:04,128
+Since when did you like my Ji Yi so much?
+
+768
+00:54:04,128 --> 00:54:07,445
+The right time? Timing?
+
+769
+00:54:07,445 --> 00:54:10,582
+Do I look like a joke to you, you prick?
+
+770
+00:54:10,582 --> 00:54:12,975
+Do I?
+
+771
+00:54:12,975 --> 00:54:15,533
+What do you take my daughter for?
+
+772
+00:54:15,533 --> 00:54:19,180
+Get out. Get out of my house.
+
+773
+00:54:19,180 --> 00:54:21,631
+Never show your face to me again,
+
+774
+00:54:21,631 --> 00:54:24,053
+or I'm going to kill you.
+
+775
+00:54:27,949 --> 00:54:29,931
+Jang Il,
+
+776
+00:54:29,931 --> 00:54:33,187
+Kang Baek didn't do it,
+
+777
+00:54:34,219 --> 00:54:36,305
+but what about Ji Yi?
+
+778
+00:54:37,089 --> 00:54:39,673
+Ji Yi did it.
+
+779
+00:54:42,228 --> 00:54:45,332
+I haven't told anyone yet,
+
+780
+00:54:45,332 --> 00:54:48,744
+not even to Han Hye Ryul or Kang Baek.
+
+781
+00:54:50,369 --> 00:54:54,597
+But now you're talking like Kang Baek has a flaw.
+
+782
+00:54:55,609 --> 00:54:57,795
+That upsets me.
+
+783
+00:55:09,589 --> 00:55:12,493
+- Won Kyung. That's— 
+ - Jang Il.
+
+784
+00:55:12,493 --> 00:55:14,958
+Right now is the right time.
+
+785
+00:55:14,958 --> 00:55:17,223
+After this,
+
+786
+00:55:17,223 --> 00:55:24,338
+not only just Ham &amp; Lee, but she won't be able to marry anyone.
+
+787
+00:55:24,338 --> 00:55:29,062
+Think about what's best for Ji Yi.
+
+788
+00:55:31,679 --> 00:55:34,739
+Even if her father is a chief prosecutor,
+
+789
+00:55:34,739 --> 00:55:37,719
+who would want a drug addict as their daughter-in-law?
+
+790
+00:56:18,429 --> 00:56:20,858
+Thank you for your work. You may go home.
+
+791
+00:56:20,858 --> 00:56:23,667
+Yes. Have a good night.
+
+792
+00:56:45,248 --> 00:56:48,889
+ You know, you let me borrow this thing the other day. 
+
+793
+00:56:48,889 --> 00:56:52,375
+ I thought it was odd, so I looked into it. 
+
+794
+00:56:52,375 --> 00:56:56,943
+ Turns out, there's a hacking program installed on this thing. 
+
+795
+00:56:56,943 --> 00:57:00,781
+ You said you got this from Hong Nan Hee, didn't you? 
+
+796
+00:57:02,608 --> 00:57:04,941
+What do you know?
+
+797
+00:57:05,938 --> 00:57:08,418
+What do you have?
+
+798
+00:57:09,208 --> 00:57:12,708
+I don't know what you're saying.
+
+799
+00:57:17,018 --> 00:57:19,942
+How about this?
+
+800
+00:57:19,942 --> 00:57:22,613
+Were you on her side?
+
+801
+00:57:24,859 --> 00:57:28,159
+What were you two after?
+
+802
+00:57:28,159 --> 00:57:31,041
+You even hurt Kang Baek.
+
+803
+00:57:31,041 --> 00:57:33,359
+You jerk.
+
+804
+00:57:44,608 --> 00:57:47,060
+ This isn't what you wanted? 
+
+805
+00:57:47,060 --> 00:57:49,519
+ What's that supposed to mean? 
+
+806
+00:57:50,648 --> 00:57:54,520
+ No. Whatever. 
+
+807
+00:57:54,520 --> 00:57:56,983
+ You don't need to answer me. 
+
+808
+00:57:57,629 --> 00:58:02,063
+ Can you just stop it now? 
+
+809
+00:58:03,168 --> 00:58:04,869
+ Please. 
+
+810
+00:58:04,869 --> 00:58:07,103
+ Please! 
+
+811
+00:58:11,739 --> 00:58:17,067
+ If I stop here, I'll die. 
+
+812
+00:58:20,148 --> 00:58:22,289
+ Then die. 
+
+813
+00:58:23,348 --> 00:58:25,608
+ Die! 
+
+814
+00:58:31,440 --> 00:58:38,450
+
+
+
+815
+00:58:38,450 --> 00:58:42,490
+♫  Take off the mask  ♫
+
+816
+00:58:43,790 --> 00:58:49,310
+   
+
+817
+00:58:52,030 --> 00:58:58,600
+♫  Why are you trying to hide it?  ♫
+
+818
+00:58:58,600 --> 00:59:04,650
+♫  Sing out your voice as sharp as an awl  ♫
+
+819
+00:59:05,390 --> 00:59:09,970
+♫  Reveal yourself  ♫
+
+820
+00:59:12,290 --> 00:59:16,720
+♫  Get out into the world  ♫
+
+821
+00:59:19,390 --> 00:59:23,490
+♫  Why do you want to hide?  ♫
+
+822
+00:59:26,060 --> 00:59:29,540
+♫  Tell me why  ♫
+
+823
+00:59:29,540 --> 00:59:31,088
+ Kang Baek is a murderer? 
+
+824
+00:59:31,088 --> 00:59:33,018
+ Anyone can be a murderer. 
+
+825
+00:59:33,018 --> 00:59:35,458
+ Whose name did you give the detective as a culprit? 
+
+826
+00:59:35,458 --> 00:59:37,759
+ It's not you? Where were you that night? 
+
+827
+00:59:37,759 --> 00:59:40,159
+ After today, don't bring up Kang Baek's name. 
+
+828
+00:59:40,159 --> 00:59:41,628
+ I'm marrying him! 
+
+829
+00:59:41,628 --> 00:59:43,969
+ Protecting Kang Baek is our highest priority. 
+
+830
+00:59:43,969 --> 00:59:46,969
+ Is it you? The person who killed Hong Nan Hee? 
+
+831
+00:59:46,969 --> 00:59:48,168
+ Isn't the answer obvious? 
+
+832
+00:59:48,168 --> 00:59:53,029
+ Hire someone who can even kill people on my behalf. 
+
+833
+00:59:53,029 --> 00:59:55,710
+ Please... Don't kill me. 
+
+834
+00:59:55,710 --> 00:59:58,540
+ I killed Nan Hee! 
+
+835
+01:00:01,130 --> 01:00:05,400
+♫   Sometimes beyond my control   ♫
+
