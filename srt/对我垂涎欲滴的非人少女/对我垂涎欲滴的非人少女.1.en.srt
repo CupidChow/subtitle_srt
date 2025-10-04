@@ -1,0 +1,6714 @@
+1
+00:00:02,000 --> 00:00:07,000
+
+
+3
+00:00:17,976 --> 00:00:21,187
+Talent is the ability
+to hit a target no one else can.
+
+4
+00:00:21,187 --> 00:00:23,898
+Genius can hit a target
+no one else can see.
+
+5
+00:00:24,941 --> 00:00:29,404
+And if we say in the early 21st century,
+"What is the genius target for us,
+
+6
+00:00:29,404 --> 00:00:31,156
+for our time and place?"
+
+7
+00:00:31,906 --> 00:00:37,328
+I would put forward that it's the ability
+to stop our self-destructive behaviors
+
+8
+00:00:37,328 --> 00:00:39,664
+and neutralize aging.
+
+9
+00:00:43,793 --> 00:00:47,464
+You must have heard
+of <i>The Curious Case of Benjamin Button.</i>
+
+10
+00:00:47,464 --> 00:00:50,091
+{\an8}A story where a man ages in reverse.
+
+11
+00:00:50,091 --> 00:00:52,886
+<i>One man wants to achieve that feat.</i>
+
+12
+00:00:52,886 --> 00:00:55,305
+<i>His name is Bryan Johnson.</i>
+
+13
+00:00:55,305 --> 00:00:58,933
+<i>Bryan Johnson is determined
+to live forever or die trying,</i>
+
+14
+00:00:58,933 --> 00:01:02,103
+<i>and is putting his vast fortune,
+and own body,</i>
+
+15
+00:01:02,103 --> 00:01:03,980
+<i>on the line to achieve it.</i>
+
+16
+00:01:05,940 --> 00:01:09,986
+As a species,
+we accept our inevitable decay,
+
+17
+00:01:09,986 --> 00:01:11,863
+decline, and death.
+
+18
+00:01:12,363 --> 00:01:15,700
+I want to argue
+that the opposite should be true.
+
+19
+00:01:17,410 --> 00:01:21,372
+I walked into this because
+I was marching into an early grave.
+
+20
+00:01:22,665 --> 00:01:25,460
+And now, I've built an algorithm
+that takes better care of me
+
+21
+00:01:26,044 --> 00:01:27,295
+than I can myself.
+
+22
+00:01:28,546 --> 00:01:31,674
+I think this is the first time
+in the history of the human race
+
+23
+00:01:32,592 --> 00:01:36,805
+that it is not known
+how long and how well I can live.
+
+24
+00:01:39,891 --> 00:01:42,227
+Three, two, one, action.
+
+25
+00:01:42,227 --> 00:01:45,980
+This is the man spending millions
+to become 18 years old once again,
+
+26
+00:01:45,980 --> 00:01:47,524
+Bryan Johnson.
+
+27
+00:01:47,524 --> 00:01:48,942
+<i>My name is Bryan Johnson.</i>
+
+28
+00:01:48,942 --> 00:01:52,320
+<i>I've been spending millions of dollars
+creating an anti-aging protocol.</i>
+
+29
+00:01:52,320 --> 00:01:54,906
+{\an8}Two dozen supplements and medicines,
+exercise an hour a day,
+
+30
+00:01:54,906 --> 00:01:56,866
+plus high intensity three times a week.
+
+31
+00:01:56,866 --> 00:02:00,745
+<i>This 45-year-old millionaire
+has reversed his age by five years.</i>
+
+32
+00:02:00,745 --> 00:02:04,040
+<i>His doctors claim
+he has the heart of a 37-year-old.</i>
+
+33
+00:02:04,040 --> 00:02:09,212
+<i>Using his life as a science experiment
+to see just how long he can live.</i>
+
+34
+00:02:09,212 --> 00:02:11,798
+<i>AKA Project Blueprint.</i>
+
+35
+00:02:11,798 --> 00:02:14,717
+{\an8}Hi, everyone. For the past three years,
+we've tried to master the basics,
+
+36
+00:02:14,717 --> 00:02:15,885
+sleep, diet, exercise.
+
+37
+00:02:15,885 --> 00:02:20,056
+Today, we're doing the first
+next level therapy, gene therapy.
+
+38
+00:02:20,056 --> 00:02:23,643
+Oh, shut up, Bryan. Fucking Bryan.
+
+39
+00:02:23,643 --> 00:02:26,938
+{\an8}Anything taken to an extreme
+can potentially be harmful to the body.
+
+40
+00:02:26,938 --> 00:02:30,191
+<i>I don't think I particularly want
+33,000 images of my bowels.</i>
+
+41
+00:02:30,191 --> 00:02:33,319
+You've got to have a bit of fun.
+- When do you go raging?
+
+42
+00:02:33,319 --> 00:02:37,824
+{\an8}<i>Do we really believe that he went
+from being old to young? I don't.</i>
+
+43
+00:02:37,824 --> 00:02:41,202
+If I had 400 million dollars,
+I wouldn't be doing what you're doing.
+
+44
+00:02:41,202 --> 00:02:45,081
+{\an8}This is not an accessible method
+of reversing the effects of aging.
+
+45
+00:02:45,081 --> 00:02:48,668
+This guy's in his own fucking world.
+It's not really reality.
+
+46
+00:02:50,086 --> 00:02:53,590
+If you look at all the discussions
+about me, many times people will say,
+
+47
+00:02:53,590 --> 00:02:56,217
+"This is a rich person
+trying to live forever."
+
+48
+00:02:56,217 --> 00:02:59,053
+"It's going to be so awesome
+when they get hit by a bus. LOL."
+
+49
+00:02:59,053 --> 00:03:02,348
+Because these are really hard ideas
+to get your head around.
+
+50
+00:03:02,348 --> 00:03:06,686
+And so, to me, the only relevant
+thought experiment that each of us can do
+
+51
+00:03:06,686 --> 00:03:09,314
+is, "Do we want to live tomorrow?"
+
+52
+00:03:09,314 --> 00:03:11,482
+Most of us are going to say, "Yes."
+
+53
+00:03:12,358 --> 00:03:16,404
+If we feel healthy and well,
+there's always something to do tomorrow.
+
+54
+00:03:17,071 --> 00:03:21,492
+And so, I want people
+to embrace that day to day
+
+55
+00:03:21,492 --> 00:03:23,328
+until eventually we say,
+
+56
+00:03:23,328 --> 00:03:24,829
+"Don't die."
+
+57
+00:03:57,111 --> 00:03:59,989
+This is the gym, and it's my happy place.
+
+58
+00:04:00,573 --> 00:04:04,452
+Every morning I come in here,
+and I exercise for roughly an hour.
+
+59
+00:04:04,452 --> 00:04:08,581
+I do about a 35-exercise circuit.
+
+60
+00:04:09,874 --> 00:04:12,460
+Everything we do, we measure it.
+
+61
+00:04:12,460 --> 00:04:17,090
+So we're able to see in a closed loop way,
+is it working or is it not?
+
+62
+00:04:17,882 --> 00:04:19,133
+What are you finding?
+
+63
+00:04:19,133 --> 00:04:21,552
+So, I had
+a whole body MRI recently,
+
+64
+00:04:22,053 --> 00:04:25,014
+and I'm in the 99th percentile for optimal
+
+65
+00:04:25,014 --> 00:04:28,518
+for both muscle and fat
+across my entire body.
+
+66
+00:04:29,060 --> 00:04:31,729
+Have you ever been
+this in shape before?
+
+67
+00:04:31,729 --> 00:04:33,356
+No, never in my life.
+
+68
+00:04:35,650 --> 00:04:37,735
+It feels good.
+
+69
+00:04:40,780 --> 00:04:41,698
+Hey, Ollie.
+
+70
+00:04:42,699 --> 00:04:43,825
+<i>Hello.</i>
+
+71
+00:04:44,909 --> 00:04:47,328
+Ollie, we'll do the blood draw real quick.
+
+72
+00:04:47,328 --> 00:04:48,496
+<i>Let's do it.</i>
+
+73
+00:04:50,623 --> 00:04:54,335
+Dr. Oliver Zolman and I
+were connected by a friend.
+
+74
+00:04:54,335 --> 00:04:56,796
+{\an8}Oliver had spent his entire adult life
+
+75
+00:04:56,796 --> 00:04:59,966
+scouring the literature
+on anti-aging science.
+
+76
+00:05:00,717 --> 00:05:04,554
+When Bryan first reached out,
+he seemed a bit lost.
+
+77
+00:05:05,888 --> 00:05:11,102
+Whatever he was doing didn't really seem
+like it was working optimally for him.
+
+78
+00:05:11,102 --> 00:05:15,106
+So I showed him my longevity level one,
+two, three protocol.
+
+79
+00:05:15,857 --> 00:05:19,152
+Level one is doing
+the basic stuff, diet, exercise.
+
+80
+00:05:19,152 --> 00:05:22,697
+And then each layer you go up,
+it gets more sophisticated.
+
+81
+00:05:23,656 --> 00:05:26,784
+His approach was,
+in order to understand human aging,
+
+82
+00:05:26,784 --> 00:05:28,995
+you needed to look at the organ level,
+
+83
+00:05:28,995 --> 00:05:32,165
+because the heart is going
+to age differently than the lungs,
+
+84
+00:05:32,165 --> 00:05:34,417
+and the lungs differently than the kidney.
+
+85
+00:05:35,001 --> 00:05:38,254
+Previously, I would use my mind
+to decide what to eat.
+
+86
+00:05:38,254 --> 00:05:41,341
+So, at the grocery store, walking down
+the aisles, looking at this thing,
+
+87
+00:05:41,341 --> 00:05:43,384
+and that thing, and put it in the cart.
+
+88
+00:05:43,384 --> 00:05:45,553
+Zolman flipped that on its head and said,
+
+89
+00:05:45,553 --> 00:05:48,348
+"What if I asked my organs
+to speak for themselves?"
+
+90
+00:05:48,348 --> 00:05:49,849
+What if the heart, and the liver,
+
+91
+00:05:49,849 --> 00:05:52,685
+and the lungs
+could actually speak what they need?
+
+92
+00:05:53,561 --> 00:05:57,565
+And then my responsibility is to do
+exactly what the body tells me to do.
+
+93
+00:05:58,483 --> 00:06:01,694
+Blueprint is Bryan doing
+this level one, two, three protocol
+
+94
+00:06:01,694 --> 00:06:03,780
+to the most that it's ever been done.
+
+95
+00:06:04,280 --> 00:06:07,241
+He's been the best guinea pig
+anyone could ask for.
+
+96
+00:06:09,702 --> 00:06:12,872
+It's probably over
+a hundred different things I do
+
+97
+00:06:12,872 --> 00:06:17,377
+any given day that the body
+has asked for to be in its ideal state.
+
+98
+00:06:17,377 --> 00:06:19,629
+And that begins with
+in the morning I wake up,
+
+99
+00:06:19,629 --> 00:06:24,050
+{\an8}I turn a specific light on in my bathroom
+that gives me sun-like exposure.
+
+100
+00:06:24,050 --> 00:06:25,885
+{\an8}I take three pills.
+
+101
+00:06:25,885 --> 00:06:28,513
+{\an8}I do my body temperature
+with an inner ear measurement,
+
+102
+00:06:28,513 --> 00:06:30,932
+go downstairs, start HRV therapy.
+
+103
+00:06:30,932 --> 00:06:33,476
+So, I put a little electrode
+here in my ear.
+
+104
+00:06:33,476 --> 00:06:35,895
+It stimulates my autonomic nervous system,
+
+105
+00:06:35,895 --> 00:06:39,023
+trying to make my body
+more parasympathetic, more chill.
+
+106
+00:06:39,982 --> 00:06:42,443
+I take 54 pills
+
+107
+00:06:42,443 --> 00:06:45,154
+with a concoction
+that I call "the green giant."
+
+108
+00:06:45,738 --> 00:06:50,535
+I put a cap on my head for hair growth
+that has 312 laser diodes.
+
+109
+00:06:51,160 --> 00:06:54,580
+Then I work out for an hour,
+come in, eat a few pounds of vegetables.
+
+110
+00:06:54,580 --> 00:06:58,292
+I do some high-frequency electromagnetic
+stimulation on my abdomen.
+
+111
+00:06:58,292 --> 00:07:02,547
+I do 12 minutes of near and red-light
+therapy to accelerate healing.
+
+112
+00:07:03,047 --> 00:07:05,800
+I do audio therapy
+for my hearing regeneration.
+
+113
+00:07:06,300 --> 00:07:09,095
+I have my last meals to eat
+before 11:00 a.m.,
+
+114
+00:07:09,679 --> 00:07:11,514
+{\an8}34 more pills to take.
+
+115
+00:07:11,514 --> 00:07:14,308
+{\an8}There's protocols
+throughout the day here and there.
+
+116
+00:07:14,308 --> 00:07:16,519
+And then my nighttime routine.
+
+117
+00:07:18,146 --> 00:07:20,565
+By doing Blueprint,
+one of the key objectives
+
+118
+00:07:20,565 --> 00:07:24,527
+{\an8}is to achieve
+the lowest possible biological age.
+
+119
+00:07:25,361 --> 00:07:27,655
+So just like a tree has rings,
+
+120
+00:07:27,655 --> 00:07:30,450
+we all have a signature
+inside of our body of our age.
+
+121
+00:07:32,118 --> 00:07:34,579
+After doing Blueprint now for two years,
+
+122
+00:07:34,579 --> 00:07:37,915
+I've reversed my biological age 5.1 years.
+
+123
+00:07:38,708 --> 00:07:41,502
+I have 50 perfect biomarkers,
+
+124
+00:07:41,502 --> 00:07:44,297
+I have 100 biomarkers where I'm less
+than my chronological age.
+
+125
+00:07:45,256 --> 00:07:48,342
+And my speed of aging is 0.69,
+
+126
+00:07:48,342 --> 00:07:52,472
+which means for every 12 months,
+I age eight months.
+
+127
+00:07:53,848 --> 00:07:58,394
+In terms of how far this goes,
+it's open-ended, uh, we have no idea.
+
+128
+00:07:59,353 --> 00:08:04,275
+But I wanna take my speed of aging
+to the lowest possible number.
+
+129
+00:08:11,240 --> 00:08:12,742
+Step back a little bit.
+
+130
+00:08:13,326 --> 00:08:14,160
+Yeah.
+
+131
+00:08:14,160 --> 00:08:17,205
+And then
+a little bit closer to the bed. Mm.
+
+132
+00:08:17,205 --> 00:08:18,539
+Yeah. Great.
+
+133
+00:08:20,416 --> 00:08:22,793
+And then you can just literally
+rattle everything off.
+
+134
+00:08:22,793 --> 00:08:23,711
+Okay.
+
+135
+00:08:23,711 --> 00:08:27,715
+So, today is a very exciting day for me
+because for the very first time ever,
+
+136
+00:08:27,715 --> 00:08:30,259
+after tracking my sleep for four years,
+
+137
+00:08:30,259 --> 00:08:33,471
+I achieved my first perfect month.
+
+138
+00:08:33,471 --> 00:08:38,100
+<i>So I have an average of 100%
+sleep performance for 30 days.</i>
+
+139
+00:08:38,726 --> 00:08:40,811
+<i>I go to bed at 8:30 p.m.</i>
+
+140
+00:08:40,811 --> 00:08:44,357
+<i>I've averaged eight hours
+and 34 minutes of sleep every night.</i>
+
+141
+00:08:44,357 --> 00:08:45,942
+<i>The body loves routine.</i>
+
+142
+00:08:45,942 --> 00:08:49,278
+So, go to bed at the exact same time
+every night, no excuses.
+
+143
+00:08:49,278 --> 00:08:51,822
+Sleep is not something
+that can be dismissed.
+
+144
+00:08:51,822 --> 00:08:56,619
+So hopefully these tips help you, that you
+can start inching towards better sleep.
+
+145
+00:08:56,619 --> 00:08:58,663
+It will change everything in your life.
+
+146
+00:09:00,206 --> 00:09:02,250
+Wonderful. Okay. Good.
+
+147
+00:09:02,875 --> 00:09:04,835
+Kate, what's your role in this?
+
+148
+00:09:04,835 --> 00:09:07,004
+I don't even know how to describe it.
+
+149
+00:09:07,964 --> 00:09:09,298
+Take a stab.
+
+150
+00:09:11,050 --> 00:09:12,134
+Um...
+
+151
+00:09:12,885 --> 00:09:15,471
+I just am... I am here on the mission,
+
+152
+00:09:15,972 --> 00:09:19,225
+trying to make whatever needs to happen
+happen in order to get there.
+
+153
+00:09:19,725 --> 00:09:20,685
+That's my role.
+
+154
+00:09:21,185 --> 00:09:23,521
+Kate has been with me
+from the very beginning
+
+155
+00:09:23,521 --> 00:09:25,565
+- of Blueprint, yeah.
+Of Blueprint?
+
+156
+00:09:26,065 --> 00:09:27,775
+How do you feel? Are you converted?
+
+157
+00:09:27,775 --> 00:09:30,152
+When I first started,
+I was eating McDonald's.
+
+158
+00:09:30,152 --> 00:09:33,072
+So... philosophically converted.
+
+159
+00:09:34,782 --> 00:09:38,494
+When I first met Bryan,
+I was not healthy.
+
+160
+00:09:38,494 --> 00:09:42,206
+And we started talking
+about the philosophy of Blueprint.
+
+161
+00:09:42,206 --> 00:09:44,709
+And all of a sudden,
+I was, like, "Okay."
+
+162
+00:09:44,709 --> 00:09:47,628
+{\an8}When I laugh about not being fit
+
+163
+00:09:47,628 --> 00:09:50,214
+{\an8}and not being able to exercise,
+that kind of stuff,
+
+164
+00:09:50,214 --> 00:09:53,593
+I'm kind of laughing
+in the face of my future self.
+
+165
+00:09:53,593 --> 00:09:56,178
+Like, I don't wanna be that person,
+you know, when I'm 60
+
+166
+00:09:56,178 --> 00:09:59,932
+and I'm unable to run around or... yeah.
+
+167
+00:10:00,808 --> 00:10:03,853
+So, it was a huge wake-up call for me.
+
+168
+00:10:03,853 --> 00:10:08,524
+Now, here I am, like,
+the other person behind this mission.
+
+169
+00:10:09,025 --> 00:10:12,486
+I mean, like, you could beef it up
+by saying, like,
+
+170
+00:10:12,486 --> 00:10:14,739
+"Every morning,
+I do the same four-hour routine."
+
+171
+00:10:14,739 --> 00:10:16,574
+"And this is what starts it off."
+
+172
+00:10:16,574 --> 00:10:17,533
+That's good.
+
+173
+00:10:17,533 --> 00:10:19,452
+When we first
+started working together,
+
+174
+00:10:19,452 --> 00:10:23,581
+Bryan asked me to develop
+the communication side of things.
+
+175
+00:10:24,206 --> 00:10:28,377
+His big ambition was to get Blueprint
+out to the people
+
+176
+00:10:28,377 --> 00:10:31,922
+so that we can all learn
+from what Blueprint is up to.
+
+177
+00:10:32,673 --> 00:10:35,593
+But it was like hitting our head
+against the wall for a while
+
+178
+00:10:35,593 --> 00:10:39,055
+'cause it was just a bit
+of an empty void on the Internet.
+
+179
+00:10:39,555 --> 00:10:42,725
+And then one day, I had this idea.
+
+180
+00:10:43,684 --> 00:10:47,188
+What if we published
+all of his biometric data online
+
+181
+00:10:47,855 --> 00:10:50,608
+and made it a thing that people
+could witness and watch?
+
+182
+00:10:51,192 --> 00:10:54,195
+The protocols, the measurements,
+the recipes, the supplements,
+
+183
+00:10:54,195 --> 00:10:56,072
+we published it all on my website.
+
+184
+00:10:56,072 --> 00:10:59,950
+And this journalist I knew, Ashlee Vance,
+saw this and expressed an interest
+
+185
+00:10:59,950 --> 00:11:01,952
+in doing a profile on Blueprint.
+
+186
+00:11:02,703 --> 00:11:04,830
+Bryan put
+all of his stuff online.
+
+187
+00:11:04,830 --> 00:11:10,002
+{\an8}I was like, "This guy's somewhere
+between off and, like, very interesting."
+
+188
+00:11:10,795 --> 00:11:14,674
+I went to visit him at his house
+with his own home laboratory.
+
+189
+00:11:14,674 --> 00:11:16,217
+And we just kinda started talking.
+
+190
+00:11:16,217 --> 00:11:19,720
+When doctors
+visit our clinic here,
+
+191
+00:11:19,720 --> 00:11:22,306
+they get pretty excited
+because we have outfitted this
+
+192
+00:11:22,306 --> 00:11:27,853
+so that we can be a medical-grade,
+uh, operation at every level.
+
+193
+00:11:27,853 --> 00:11:29,939
+I started asking him questions.
+
+194
+00:11:29,939 --> 00:11:33,150
+He's, like, "Okay, I spent
+2.5 million dollars on all this stuff."
+
+195
+00:11:33,150 --> 00:11:38,114
+This was not a professional athlete who
+was spending this much money on his body.
+
+196
+00:11:38,114 --> 00:11:40,157
+It was just this random tech guy.
+
+197
+00:11:40,157 --> 00:11:44,078
+It's just, you know, absolutely going
+further than what anyone else had done.
+
+198
+00:11:44,078 --> 00:11:47,915
+And so that's when I really knew
+this actually was a story.
+
+199
+00:11:47,915 --> 00:11:50,876
+I remember the day before
+the article came out,
+
+200
+00:11:50,876 --> 00:11:53,462
+Kate and I were in my office,
+
+201
+00:11:53,462 --> 00:11:57,967
+and we both had this moment of crisis.
+
+202
+00:11:57,967 --> 00:12:01,053
+Like, "Oh no. Like, what have we done?"
+
+203
+00:12:03,347 --> 00:12:06,016
+One man,
+he spent two million dollars
+
+204
+00:12:06,016 --> 00:12:08,144
+to effectively reboot his body.
+
+205
+00:12:08,144 --> 00:12:10,855
+{\an8}- Millionaire entrepreneur Bryan Johnson.
+- Bryan Johnson.
+
+206
+00:12:10,855 --> 00:12:11,856
+Bryan Johnson.
+
+207
+00:12:11,856 --> 00:12:14,859
+{\an8}Bryan Johnson
+is on a quest to live longer.
+
+208
+00:12:14,859 --> 00:12:19,655
+All of a sudden, every spotlight
+was turned on Bryan and the project.
+
+209
+00:12:19,655 --> 00:12:23,033
+And everything we worked on
+was under intense scrutiny.
+
+210
+00:12:23,033 --> 00:12:26,454
+I think his rectum went viral,
+his rectal biological age.
+
+211
+00:12:27,413 --> 00:12:28,914
+There was so much online,
+
+212
+00:12:28,914 --> 00:12:32,877
+videos people were making,
+and it's just kind of a blur.
+
+213
+00:12:32,877 --> 00:12:34,879
+We were inundated with interest.
+
+214
+00:12:34,879 --> 00:12:39,133
+Every single product that we published
+on the Blueprint website
+
+215
+00:12:39,133 --> 00:12:40,926
+was sold out within days.
+
+216
+00:12:40,926 --> 00:12:43,512
+Nobody could get anything that we use.
+
+217
+00:12:43,512 --> 00:12:46,557
+We couldn't either. We had suppliers
+calling, saying, "What is going on?"
+
+218
+00:12:47,683 --> 00:12:51,395
+It also unlocked
+a colossal amount of hate.
+
+219
+00:12:51,395 --> 00:12:53,314
+{\an8}I would say he doesn't look that healthy.
+
+220
+00:12:53,314 --> 00:12:56,150
+{\an8}There's something super weird
+about looking young forever.
+
+221
+00:12:56,150 --> 00:13:00,404
+He takes like 40 vitamins in the morning
+and 40 more in the afternoon.
+
+222
+00:13:00,404 --> 00:13:02,656
+That seems tedious.
+
+223
+00:13:02,656 --> 00:13:04,742
+{\an8}I know.
+It's like, I'd rather just die sooner.
+
+224
+00:13:04,742 --> 00:13:07,077
+{\an8}And the irony of this specifically is,
+
+225
+00:13:07,077 --> 00:13:10,456
+{\an8}you're seeking more time
+when you're not even living the time
+
+226
+00:13:10,456 --> 00:13:12,416
+{\an8}- you've been given.
+Yes.
+
+227
+00:13:12,416 --> 00:13:15,503
+{\an8}- And I find this so vapid and stupid.
+
+228
+00:13:16,587 --> 00:13:18,422
+I think for most people,
+
+229
+00:13:18,422 --> 00:13:22,092
+the longevity field has always
+been looked at skeptically.
+
+230
+00:13:22,092 --> 00:13:26,347
+It's just these rich Silicon Valley types
+chasing the fountain of youth.
+
+231
+00:13:26,347 --> 00:13:29,809
+Jeff Bezos threw more money
+behind an obsession
+
+232
+00:13:29,809 --> 00:13:31,977
+to become among the billionaires
+
+233
+00:13:32,561 --> 00:13:35,272
+on a quest to defeat aging.
+
+234
+00:13:35,272 --> 00:13:39,693
+- Space, Internet, and now live forever.
+- Yeah, they're trying... Jeez.
+
+235
+00:13:39,693 --> 00:13:43,072
+It's, like,
+seen as strange and fringe.
+
+236
+00:13:44,240 --> 00:13:48,285
+It just so happens
+it is a real field of science.
+
+237
+00:13:48,285 --> 00:13:52,164
+There are proper doctors
+and scientists that look at this.
+
+238
+00:13:53,916 --> 00:13:56,752
+We're used to watching
+our friends, relatives, and pets
+
+239
+00:13:56,752 --> 00:13:57,753
+age and die.
+
+240
+00:13:57,753 --> 00:14:00,506
+We think it's somehow natural
+and, therefore, somehow good.
+
+241
+00:14:00,506 --> 00:14:04,093
+But I describe aging as our greatest
+humanitarian challenge.
+
+242
+00:14:04,969 --> 00:14:07,555
+{\an8}Aging causes cancer.
+Aging causes heart disease.
+
+243
+00:14:07,555 --> 00:14:10,057
+{\an8}Aging causes dementia.
+Aging causes stroke.
+
+244
+00:14:10,057 --> 00:14:12,643
+{\an8}It makes us more susceptible
+to infections, more frail.
+
+245
+00:14:12,643 --> 00:14:16,355
+And actually, if you look at causes
+of death across the world today,
+
+246
+00:14:16,355 --> 00:14:20,526
+the leading killers are these diseases
+like cancer, dementia, and heart disease.
+
+247
+00:14:20,526 --> 00:14:24,989
+{\an8}I think the real promise of this field
+is that we have the opportunity,
+
+248
+00:14:24,989 --> 00:14:29,577
+{\an8}by targeting the biology of aging,
+to delay or prevent many,
+
+249
+00:14:29,577 --> 00:14:33,539
+maybe all, of the functional declines
+and diseases that go along with old age.
+
+250
+00:14:33,539 --> 00:14:34,748
+And that's huge.
+
+251
+00:14:35,249 --> 00:14:37,626
+{\an8}We're still, I would say,
+at an early stage.
+
+252
+00:14:37,626 --> 00:14:39,420
+{\an8}But there's been breakthroughs.
+
+253
+00:14:39,420 --> 00:14:42,464
+{\an8}There's already a number of interventions,
+
+254
+00:14:42,464 --> 00:14:44,550
+including drugs, uh, and diets,
+
+255
+00:14:44,550 --> 00:14:47,928
+that in animal models
+slow down the process of aging.
+
+256
+00:14:48,470 --> 00:14:50,139
+We have robust evidence
+
+257
+00:14:50,139 --> 00:14:52,474
+that we can extend
+the lifespan of a mouse.
+
+258
+00:14:52,474 --> 00:14:55,394
+{\an8}So if you're a mouse,
+we've got you covered.
+
+259
+00:14:55,394 --> 00:15:00,774
+{\an8}But what that also means is that we have
+a lot of things to test in humans.
+
+260
+00:15:01,525 --> 00:15:02,526
+Testing Tuesday.
+
+261
+00:15:02,526 --> 00:15:04,236
+- Good morning.
+Let's get started.
+
+262
+00:15:04,236 --> 00:15:07,907
+We are experimenting,
+and we are trialing out,
+
+263
+00:15:07,907 --> 00:15:12,244
+{\an8}and I think we will have a revolution
+in the next coming ten years
+
+264
+00:15:12,244 --> 00:15:16,290
+{\an8}of very specific interventions
+we can apply to humans
+
+265
+00:15:16,290 --> 00:15:19,084
+to then lower the biological age.
+
+266
+00:15:19,084 --> 00:15:21,420
+You could get within four millimeters.
+
+267
+00:15:21,962 --> 00:15:24,548
+- That's a lot better.
+- I know, that's really great.
+
+268
+00:15:24,548 --> 00:15:27,801
+I'm benefiting from decades of progress
+
+269
+00:15:27,801 --> 00:15:30,512
+that people have made
+in the world of anti-aging science.
+
+270
+00:15:31,513 --> 00:15:34,808
+And the scientific interventions
+are moving forward very fast.
+
+271
+00:15:34,808 --> 00:15:37,478
+And so it has a tangible sense
+of "it's here."
+
+272
+00:15:38,270 --> 00:15:40,356
+And I want people to know about it.
+
+273
+00:15:43,442 --> 00:15:45,527
+I think we light him up.
+Okay.
+
+274
+00:15:45,527 --> 00:15:47,780
+I think a little more.
+
+275
+00:15:48,530 --> 00:15:51,617
+Yeah. I think I just need
+a little bit of an angle
+
+276
+00:15:51,617 --> 00:15:54,495
+with your whole legs
+and everything, if you can.
+
+277
+00:15:54,495 --> 00:15:57,164
+- Yeah. So we're gonna do another test.
+Mm-hm.
+
+278
+00:15:59,291 --> 00:16:01,293
+Wow, that's so striking.
+
+279
+00:16:01,877 --> 00:16:04,922
+Hopefully it captures
+the new zeitgeist that we're after.
+
+280
+00:16:04,922 --> 00:16:09,802
+Yeah, I think, um, everything looks good.
+I'll just go to different heights.
+
+281
+00:16:11,303 --> 00:16:14,848
+Chin up a little bit. Yeah.
+
+282
+00:16:14,848 --> 00:16:16,308
+My poor son.
+
+283
+00:16:16,308 --> 00:16:19,645
+He comes home, and he never knows
+what's gonna be happening here.
+
+284
+00:16:20,145 --> 00:16:21,146
+That's great.
+
+285
+00:16:22,898 --> 00:16:25,275
+You ready?
+Yeah, I'm ready.
+
+286
+00:16:29,989 --> 00:16:31,407
+Ahh!
+
+287
+00:16:31,407 --> 00:16:32,741
+How's Bryan as a dad?
+
+288
+00:16:32,741 --> 00:16:34,743
+- He's a pretty good dad. Yeah.
+
+289
+00:16:35,619 --> 00:16:40,332
+When his mother and I split,
+he was with her for the past couple years.
+
+290
+00:16:40,332 --> 00:16:43,002
+{\an8}Then he decided to move across the country
+
+291
+00:16:43,002 --> 00:16:45,045
+and live with me for his senior year.
+
+292
+00:16:45,629 --> 00:16:46,505
+Ah, good job.
+
+293
+00:16:47,089 --> 00:16:50,009
+Talmage found his stride.
+He's been smoking me.
+
+294
+00:16:50,009 --> 00:16:52,094
+What's your take on Blueprint?
+
+295
+00:16:52,094 --> 00:16:55,097
+When the article came out, everyone's
+like, "Oh! Isn't that your dad?"
+
+296
+00:16:55,097 --> 00:16:59,685
+So I got, like, so many texts from friends
+and people at school asking me about it.
+
+297
+00:17:00,894 --> 00:17:01,937
+Worth it.
+
+298
+00:17:01,937 --> 00:17:05,441
+Did people think it was cool,
+or did they think you guys were weirdos?
+
+299
+00:17:05,441 --> 00:17:07,067
+- Both. Yeah.
+
+300
+00:17:07,735 --> 00:17:09,945
+Even though I've been
+at my school for months,
+
+301
+00:17:09,945 --> 00:17:12,656
+people are still asking me
+questions every day about it.
+
+302
+00:17:12,656 --> 00:17:14,491
+Oh no!
+
+303
+00:17:15,242 --> 00:17:18,037
+- You played so well.
+- That was a good rally. That was good.
+
+304
+00:17:19,038 --> 00:17:22,416
+I've been around Bryan
+since before Talmage was here.
+
+305
+00:17:22,416 --> 00:17:25,669
+I remember thinking, "How is Bryan
+gonna get used to having Talmage around,
+
+306
+00:17:25,669 --> 00:17:27,963
+like, another human being
+in his space every day?"
+
+307
+00:17:27,963 --> 00:17:31,050
+'Cause he's such a private,
+introverted individual.
+
+308
+00:17:31,050 --> 00:17:32,718
+Um, but now, it's, like,
+
+309
+00:17:32,718 --> 00:17:36,263
+he's completely restructured
+his life around Talmage being here.
+
+310
+00:17:39,850 --> 00:17:41,685
+Today is an exciting day because...
+
+311
+00:17:41,685 --> 00:17:44,688
+- How many schools did you apply to?
+Fifteen.
+
+312
+00:17:45,272 --> 00:17:47,483
+How many schools
+have rendered their decisions?
+
+313
+00:17:47,983 --> 00:17:50,903
+- Twelve. Not including today.
+- Yeah.
+
+314
+00:17:50,903 --> 00:17:52,488
+- These are...
+- So this is the last.
+
+315
+00:17:52,488 --> 00:17:56,116
+Now you're gonna have all the
+information you need to make a decision
+
+316
+00:17:57,117 --> 00:17:58,869
+on what college you're gonna go to.
+
+317
+00:17:58,869 --> 00:18:00,621
+And then you're gonna leave me
+
+318
+00:18:01,830 --> 00:18:02,956
+in five months.
+
+319
+00:18:05,459 --> 00:18:06,293
+Yes.
+
+320
+00:18:07,544 --> 00:18:11,298
+I only have
+150 days left with Talmage,
+
+321
+00:18:11,298 --> 00:18:13,217
+which makes me incredibly sad.
+
+322
+00:18:16,095 --> 00:18:18,472
+We should get going.
+We're gonna be late.
+
+323
+00:18:18,972 --> 00:18:20,974
+There is just never enough time.
+
+324
+00:18:20,974 --> 00:18:23,644
+Welcome. Nice to meet you.
+
+325
+00:18:23,644 --> 00:18:26,396
+Thank you so much for opening your house
+and showing us everything.
+
+326
+00:18:26,396 --> 00:18:27,606
+- Next challenge.
+- Let's go.
+
+327
+00:18:27,606 --> 00:18:28,732
+- Whoa!
+
+328
+00:18:28,732 --> 00:18:30,692
+You're vegan.
+- I'm vegan by choice.
+
+329
+00:18:30,692 --> 00:18:33,028
+Talmage and I eat
+the exact same thing every day.
+
+330
+00:18:33,028 --> 00:18:37,074
+Every day. I've been working on splits.
+We'll go do splits as we eat breakfast.
+
+331
+00:18:37,074 --> 00:18:38,117
+Okay.
+
+332
+00:18:38,117 --> 00:18:41,995
+I think if you really wanna live
+the Bryan Johnson lifestyle,
+
+333
+00:18:41,995 --> 00:18:44,164
+the commitment to that is obscene.
+
+334
+00:18:44,748 --> 00:18:47,626
+I do 2,000 calories a day.
+- Are you ever hungry?
+
+335
+00:18:47,626 --> 00:18:49,044
+- I'm pretty hungry.
+- Okay.
+
+336
+00:18:49,044 --> 00:18:51,672
+The saddest part of my day
+is the last bite.
+
+337
+00:18:51,672 --> 00:18:56,510
+Your entire day
+revolves around this quite solitary,
+
+338
+00:18:56,510 --> 00:18:58,762
+very rigid kind of lifestyle.
+
+339
+00:18:58,762 --> 00:19:01,598
+Wait, wait, Bryan, Bryan, Bryan.
+You can't see sunlight.
+
+340
+00:19:01,598 --> 00:19:03,517
+Do you go in the sun?
+
+341
+00:19:03,517 --> 00:19:06,311
+The UV index
+is well below dangerous levels.
+
+342
+00:19:06,311 --> 00:19:07,396
+So we're good to go.
+
+343
+00:19:07,396 --> 00:19:10,983
+It seems sort of, like, depressing,
+and what kind of life are you leading
+
+344
+00:19:10,983 --> 00:19:13,569
+if you're just giving yourself up to this?
+
+345
+00:19:15,070 --> 00:19:19,783
+<i>It's interesting because
+you have this extra level of discipline.</i>
+
+346
+00:19:19,783 --> 00:19:24,621
+<i>But we know, for instance, about
+cigarettes, that people who smoke a lot,</i>
+
+347
+00:19:24,621 --> 00:19:27,583
+<i>like, if they smoke
+three packs a day, on average,</i>
+
+348
+00:19:27,583 --> 00:19:30,544
+<i>you'll live 11 years less
+than people who don't smoke.</i>
+
+349
+00:19:30,544 --> 00:19:33,463
+So what you're saying
+is almost, like, an advanced version.
+
+350
+00:19:33,463 --> 00:19:36,466
+Like, if I cut out smoking,
+I'll live 11 years more than average.
+
+351
+00:19:36,466 --> 00:19:40,762
+If I cut out drinking, I'll live five
+years more than average, and on and on.
+
+352
+00:19:40,762 --> 00:19:43,432
+Yet, people know this about smoking,
+and they still smoke.
+
+353
+00:19:43,432 --> 00:19:46,643
+Mm-hm. Yeah. You're exactly right.
+
+354
+00:19:46,643 --> 00:19:52,107
+Our minds, which we think
+are our primary tool of problem-solving,
+
+355
+00:19:52,107 --> 00:19:57,029
+is actually the source
+of our self-destructive behaviors.
+
+356
+00:19:57,696 --> 00:20:00,991
+So, I would argue the mind is dead.
+
+357
+00:20:00,991 --> 00:20:04,620
+{\an8}What the fuck? Sorry. "The mind is dead"?
+
+358
+00:20:04,620 --> 00:20:08,207
+{\an8}And the goal is to give complete control
+of your well-being over to an algorithm?
+
+359
+00:20:08,207 --> 00:20:10,292
+You know who says stuff like that?
+Algorithms.
+
+360
+00:20:10,876 --> 00:20:13,378
+The first reaction
+most people have is panic.
+
+361
+00:20:13,378 --> 00:20:16,173
+Like, "Well, my free will
+is the only reason I exist."
+
+362
+00:20:16,173 --> 00:20:19,259
+"If I can't eat what I wanna eat,
+then I have no reason to exist."
+
+363
+00:20:19,259 --> 00:20:21,386
+- It tastes like nutrition.
+Yeah.
+
+364
+00:20:21,386 --> 00:20:23,555
+That's just a knee-jerk reaction.
+
+365
+00:20:23,555 --> 00:20:27,601
+It's the mind panicking because it feels
+like its authority is in question.
+
+366
+00:20:27,601 --> 00:20:29,603
+- Ready?
+- Ready.
+
+367
+00:20:29,603 --> 00:20:33,690
+The conscious mind is desperate
+to hold on to power.
+
+368
+00:20:34,566 --> 00:20:37,653
+The catch is we can't trust our minds
+
+369
+00:20:37,653 --> 00:20:41,782
+because the way we've structured
+society right now is insane.
+
+370
+00:20:42,741 --> 00:20:46,495
+<i>Every day, we eat millions
+of burgers, pizzas, and French fries.</i>
+
+371
+00:20:46,495 --> 00:20:49,915
+<i>Now scientists say
+we may not only be feeding ourselves,</i>
+
+372
+00:20:49,915 --> 00:20:52,042
+<i>we may be feeding an addiction.</i>
+
+373
+00:20:53,001 --> 00:20:58,298
+We expect people on their way
+to work to pass 20 fast food places,
+
+374
+00:20:58,298 --> 00:21:01,176
+20 places selling sugary drinks.
+
+375
+00:21:01,176 --> 00:21:04,346
+We ask them to navigate
+the addictiveness of social media,
+
+376
+00:21:04,346 --> 00:21:06,181
+the world's most powerful algorithms,
+
+377
+00:21:06,181 --> 00:21:08,850
+trying to get them to spend
+every waking second on the algorithm...
+
+378
+00:21:08,850 --> 00:21:09,768
+<i>What?</i>
+
+379
+00:21:09,768 --> 00:21:12,771
+...navigate alcohol,
+and the smoking, and binge-watching,
+
+380
+00:21:12,771 --> 00:21:15,482
+and porn,
+and every other form of addiction.
+
+381
+00:21:15,482 --> 00:21:18,735
+And then we look at the individual,
+and say, "Why aren't we happier?"
+
+382
+00:21:20,279 --> 00:21:24,658
+We have lost touch
+with basic self-care.
+
+383
+00:21:24,658 --> 00:21:27,911
+We're inebriated. We can't see straight.
+
+384
+00:21:28,453 --> 00:21:31,957
+Even though we know
+that eating the wrong kinds of foods,
+
+385
+00:21:31,957 --> 00:21:34,543
+or drinking, or smoking,
+or not prioritizing sleep
+
+386
+00:21:34,543 --> 00:21:37,796
+accelerates aging, disability, even death,
+
+387
+00:21:37,796 --> 00:21:39,339
+we can't stop.
+
+388
+00:21:41,466 --> 00:21:44,970
+We're in a fight for our lives...
+with ourselves.
+
+389
+00:21:54,271 --> 00:21:58,900
+I have found more relief
+in demoting my mind
+
+390
+00:21:58,900 --> 00:22:01,945
+and elevating my body
+than I have in my entire life.
+
+391
+00:22:03,405 --> 00:22:05,741
+It feels so liberating to me,
+
+392
+00:22:06,742 --> 00:22:11,955
+because, my entire life,
+I was desperate to be free from myself.
+
+393
+00:22:18,879 --> 00:22:22,049
+From when he was young,
+Bryan was a problem solver.
+
+394
+00:22:25,385 --> 00:22:30,098
+{\an8}When he was in junior high, he knew
+that we didn't have very much money.
+
+395
+00:22:30,098 --> 00:22:34,019
+{\an8}And so there's times
+like when Bryan would not eat lunch
+
+396
+00:22:34,019 --> 00:22:36,396
+and contribute his lunch money.
+
+397
+00:22:36,396 --> 00:22:39,649
+He was always coming up
+with something to help the family.
+
+398
+00:22:40,650 --> 00:22:42,527
+I remember
+at some point,
+
+399
+00:22:42,527 --> 00:22:45,155
+Bryan took a job at a sandwich shop.
+
+400
+00:22:45,155 --> 00:22:46,865
+But that was short-lived.
+
+401
+00:22:46,865 --> 00:22:50,410
+{\an8}Bryan said that he would
+never work for anybody ever again.
+
+402
+00:22:50,410 --> 00:22:53,538
+{\an8}You know, that kind of,
+"I'm gonna do it by myself."
+
+403
+00:22:54,539 --> 00:22:57,209
+- Bryan, you're a lifelong entrepreneur?
+- I am.
+
+404
+00:22:57,209 --> 00:22:59,503
+What do you learn more from,
+the success or the failures?
+
+405
+00:22:59,503 --> 00:23:03,131
+I never dwelled on failure.
+It didn't discourage me...
+
+406
+00:23:03,131 --> 00:23:06,134
+In the beginning,
+my entrepreneurial adventures
+
+407
+00:23:06,134 --> 00:23:07,886
+had little to zero success.
+
+408
+00:23:08,595 --> 00:23:11,723
+I had a baby. I couldn't pay the bills.
+
+409
+00:23:11,723 --> 00:23:13,850
+So I took the only job I could find,
+
+410
+00:23:13,850 --> 00:23:16,353
+which was selling credit card processing
+door-to-door.
+
+411
+00:23:17,229 --> 00:23:20,023
+This experience got me interested
+in the world of payments.
+
+412
+00:23:20,023 --> 00:23:22,734
+So I started poking around
+and I saw that PayPal
+
+413
+00:23:22,734 --> 00:23:26,488
+was the dominant payment provider
+that had grown up during the Internet.
+
+414
+00:23:26,488 --> 00:23:30,659
+But then once eBay had acquired them,
+the development had discontinued.
+
+415
+00:23:31,243 --> 00:23:35,330
+So I started Braintree with the idea
+of building modern software.
+
+416
+00:23:35,330 --> 00:23:39,543
+He had this little, tiny office.
+He was working on a card table.
+
+417
+00:23:39,543 --> 00:23:41,461
+Please don't do that.
+No. Please don't do that.
+
+418
+00:23:41,461 --> 00:23:43,422
+I... I don't know when he got a desk.
+
+419
+00:23:43,422 --> 00:23:45,549
+I didn't take any outside capital.
+
+420
+00:23:45,549 --> 00:23:48,718
+We were one of the fastest
+growing companies in America twice.
+
+421
+00:23:48,718 --> 00:23:50,512
+We acquired Venmo in year five,
+
+422
+00:23:50,512 --> 00:23:54,391
+and we became part of
+the global payments infrastructure.
+
+423
+00:23:54,391 --> 00:23:59,563
+All right, everybody,
+let's give it up for Bryan Johnson!
+
+424
+00:24:01,690 --> 00:24:03,233
+It was so exciting.
+
+425
+00:24:03,233 --> 00:24:05,360
+So I don't think that I realized
+
+426
+00:24:05,360 --> 00:24:08,029
+that there was also that other side
+that was haunting him.
+
+427
+00:24:08,029 --> 00:24:11,992
+I couldn't believe how much effort
+people put into building the company.
+
+428
+00:24:11,992 --> 00:24:13,201
+It was amazing.
+
+429
+00:24:13,201 --> 00:24:15,954
+Um, staying there all night,
+multiple nights in a row...
+
+430
+00:24:16,455 --> 00:24:20,208
+When I was building Braintree Venmo,
+I was just grinding myself into the grave.
+
+431
+00:24:21,710 --> 00:24:25,881
+It was a social norm that an entrepreneur
+would go days without sleeping.
+
+432
+00:24:25,881 --> 00:24:28,467
+And if you told that story,
+people would be in awe.
+
+433
+00:24:28,467 --> 00:24:31,887
+There would be mythology about you,
+like, "Amazing that they did this."
+
+434
+00:24:31,887 --> 00:24:34,514
+Now, I view this as totally foolish.
+
+435
+00:24:35,015 --> 00:24:37,976
+I would wake up the next day,
+ornery and not feeling restored.
+
+436
+00:24:37,976 --> 00:24:40,312
+And then having to muster up
+the strength to walk in
+
+437
+00:24:40,312 --> 00:24:42,689
+and be, like, "All right, everybody,
+we're gonna work hard."
+
+438
+00:24:42,689 --> 00:24:46,526
+"And we're gonna solve all these burning
+problems that are going on."
+
+439
+00:24:46,526 --> 00:24:48,904
+I was stressed out of my mind.
+
+440
+00:24:51,740 --> 00:24:54,451
+<i>Careful. Careful.</i>
+<i>Careful, guys.</i>
+
+441
+00:24:54,951 --> 00:24:57,287
+<i>Careful. I'm turning this off.</i>
+<i>Stop it!</i>
+
+442
+00:24:57,287 --> 00:24:59,956
+Coming home at night
+and dealing with three kids,
+
+443
+00:24:59,956 --> 00:25:02,667
+I'd be exhausted and unpleasant.
+
+444
+00:25:02,667 --> 00:25:05,962
+After a guaranteed fight with the partner,
+
+445
+00:25:05,962 --> 00:25:10,133
+I would turn to unhealthy food
+as my soothing mechanism.
+
+446
+00:25:10,133 --> 00:25:11,176
+<i>Pure sugar.</i>
+
+447
+00:25:11,760 --> 00:25:15,472
+Of course, that made things worse,
+because my sleep would then suffer.
+
+448
+00:25:15,472 --> 00:25:17,682
+It would just compound upon itself.
+
+449
+00:25:17,682 --> 00:25:18,975
+I was miserable.
+
+450
+00:25:20,852 --> 00:25:22,979
+I remember one particular visit.
+
+451
+00:25:23,480 --> 00:25:25,357
+He didn't say too much.
+
+452
+00:25:25,357 --> 00:25:27,442
+But, at the end,
+
+453
+00:25:28,401 --> 00:25:32,239
+I could tell that he...
+it was a really difficult time for him.
+
+454
+00:25:32,989 --> 00:25:34,741
+And when he left,
+I cried.
+
+455
+00:25:36,993 --> 00:25:38,620
+Had you ever seen him that way?
+
+456
+00:25:38,620 --> 00:25:41,748
+Mm-mm. And I didn't know until then.
+
+457
+00:25:49,339 --> 00:25:53,760
+Sundays were my hardest days,
+because I would go to church.
+
+458
+00:25:53,760 --> 00:25:57,597
+And everything about being there
+made me dissolve.
+
+459
+00:25:59,933 --> 00:26:02,978
+Growing up in the Mormon church,
+my entire family was there,
+
+460
+00:26:02,978 --> 00:26:04,813
+my entire community was there,
+
+461
+00:26:04,813 --> 00:26:07,148
+and it gave me
+all the answers to existence.
+
+462
+00:26:08,191 --> 00:26:11,194
+It had stories about
+what existed before this life,
+
+463
+00:26:11,194 --> 00:26:14,739
+why we are here on this earth,
+what's after life,
+
+464
+00:26:15,407 --> 00:26:18,702
+but with the intensity
+of what life was delivering up,
+
+465
+00:26:19,286 --> 00:26:22,998
+I felt like those answers,
+the only reality I knew,
+
+466
+00:26:22,998 --> 00:26:24,708
+didn't make sense anymore.
+
+467
+00:26:25,458 --> 00:26:28,295
+I was kind of just dropped
+into this nothingness.
+
+468
+00:26:29,462 --> 00:26:33,550
+I remember discussions with him
+where he was having real problems
+
+469
+00:26:33,550 --> 00:26:35,176
+with the religion.
+
+470
+00:26:35,176 --> 00:26:40,265
+Not just like some kind
+of philosophical dispute.
+
+471
+00:26:40,265 --> 00:26:43,059
+These were things
+that were so integrated into him,
+
+472
+00:26:43,059 --> 00:26:45,103
+he was having physical symptoms.
+
+473
+00:26:46,396 --> 00:26:49,524
+I would come home from church.
+I would lay on my bed.
+
+474
+00:26:49,524 --> 00:26:51,693
+My son, at the time,
+who was seven years old,
+
+475
+00:26:51,693 --> 00:26:55,780
+he would sense something was wrong,
+and he came up, and he would rub my back.
+
+476
+00:26:55,780 --> 00:26:58,992
+And I was not able to even move.
+
+477
+00:27:00,994 --> 00:27:04,414
+And the only thought that would soothe me
+
+478
+00:27:04,414 --> 00:27:07,208
+was the idea
+of doing a deal with the devil
+
+479
+00:27:07,709 --> 00:27:09,794
+and ceasing to exist.
+
+480
+00:27:10,670 --> 00:27:14,007
+I didn't want an afterlife.
+I didn't want this life.
+
+481
+00:27:14,007 --> 00:27:17,260
+I didn't want consciousness at all.
+
+482
+00:27:29,064 --> 00:27:30,273
+What changed?
+
+483
+00:27:31,066 --> 00:27:35,945
+My mind was like a vicious storm
+telling me to literally kill myself.
+
+484
+00:27:36,780 --> 00:27:41,409
+And it became clear to me that the mind
+is not a reliable source of judgement.
+
+485
+00:27:42,410 --> 00:27:44,412
+I needed a different way of being.
+
+486
+00:27:47,749 --> 00:27:50,502
+It took me several years
+to rebuild myself.
+
+487
+00:27:51,544 --> 00:27:54,631
+In that time,
+I sold my company, Braintree Venmo,
+
+488
+00:27:54,631 --> 00:27:57,258
+I got a divorce,
+I left my born-into religion.
+
+489
+00:27:57,967 --> 00:28:03,139
+And, ultimately, I found strength
+and liberation in doing Blueprint.
+
+490
+00:28:05,475 --> 00:28:10,230
+When I give my body authority, it doesn't
+commit this self-destructive harm.
+
+491
+00:28:11,064 --> 00:28:14,484
+My heart doesn't deliver
+these stinging insults.
+
+492
+00:28:14,484 --> 00:28:17,445
+My lungs don't do it either.
+My kidney doesn't either.
+
+493
+00:28:17,946 --> 00:28:21,866
+Removing my mind has been
+the best thing I've ever done in my life.
+
+494
+00:28:23,451 --> 00:28:28,331
+But leaving the church
+fractured my life with my family.
+
+495
+00:28:30,458 --> 00:28:33,211
+When Bryan decided
+to leave the church,
+
+496
+00:28:33,211 --> 00:28:35,255
+it was very heartbreaking for me.
+
+497
+00:28:35,839 --> 00:28:37,424
+And I...
+
+498
+00:28:37,424 --> 00:28:41,261
+I had to go through a process of...
+
+499
+00:28:42,929 --> 00:28:44,723
+thinking about the person he is
+
+500
+00:28:45,223 --> 00:28:48,059
+and thinking about
+what he's doing with his life
+
+501
+00:28:48,893 --> 00:28:50,562
+to find peace.
+
+502
+00:28:51,980 --> 00:28:54,858
+Family is a fundamental teaching
+of Mormonism.
+
+503
+00:28:54,858 --> 00:28:59,779
+And when my dad left the religion, it felt
+like it was violating that teaching
+
+504
+00:28:59,779 --> 00:29:02,949
+and that we couldn't be a family anymore.
+
+505
+00:29:02,949 --> 00:29:06,327
+So I definitely, as an eight-year-old,
+
+506
+00:29:06,327 --> 00:29:09,205
+I viewed him as losing his path.
+
+507
+00:29:23,803 --> 00:29:25,263
+Yeah, this book.
+
+508
+00:29:26,681 --> 00:29:27,974
+Oh man.
+
+509
+00:29:27,974 --> 00:29:32,729
+I went to a... a church camp
+last summer before I came out here.
+
+510
+00:29:33,229 --> 00:29:36,649
+And we had these booklets
+to take notes in.
+
+511
+00:29:37,609 --> 00:29:41,529
+And while everyone else was taking notes
+about, you know, feeling the spirit,
+
+512
+00:29:41,529 --> 00:29:45,742
+like, feeling, like, feeling good,
+the community, scripture,
+
+513
+00:29:45,742 --> 00:29:47,494
+I was taking notes about...
+
+514
+00:29:48,828 --> 00:29:50,622
+trying to decipher everything.
+
+515
+00:29:51,664 --> 00:29:55,919
+I felt like I was in this system
+and I was trying to take it apart.
+
+516
+00:29:57,545 --> 00:30:01,049
+Prior to moving to California,
+I was in Mormonism.
+
+517
+00:30:01,674 --> 00:30:05,094
+But ever since I was young,
+it had never really been my thing.
+
+518
+00:30:05,094 --> 00:30:08,473
+And no one in there saw me,
+
+519
+00:30:08,473 --> 00:30:11,684
+or saw the situation I was in,
+I couldn't talk to anyone.
+
+520
+00:30:11,684 --> 00:30:16,815
+Over the years, me and my siblings
+would visit my dad periodically.
+
+521
+00:30:16,815 --> 00:30:18,942
+And I started to let my dad in a bit.
+
+522
+00:30:19,442 --> 00:30:22,862
+Talmage started inquiring me of certain
+things, "What about this? That?"
+
+523
+00:30:23,446 --> 00:30:25,865
+And we established
+this rapport with each other
+
+524
+00:30:25,865 --> 00:30:28,576
+where we were able
+to have these honest dialogues.
+
+525
+00:30:28,576 --> 00:30:32,038
+He just saw me so clearly.
+He knew the situation I was in.
+
+526
+00:30:32,747 --> 00:30:34,457
+It was wild, because when I would talk,
+
+527
+00:30:34,457 --> 00:30:36,376
+he would then
+articulate what I was thinking.
+
+528
+00:30:36,376 --> 00:30:38,461
+And I slowly came to the realization
+
+529
+00:30:38,461 --> 00:30:42,423
+that I wanted to get out of the religion
+in any way possible.
+
+530
+00:30:43,967 --> 00:30:45,635
+After multiple attempts,
+
+531
+00:30:45,635 --> 00:30:48,263
+I eventually managed to come out here
+
+532
+00:30:48,263 --> 00:30:51,182
+and spend my last year
+of high school with him.
+
+533
+00:30:51,933 --> 00:30:54,936
+I know a lot of my friends,
+or people in general,
+
+534
+00:30:55,728 --> 00:30:57,438
+feel like their parents
+misunderstand them.
+
+535
+00:30:57,438 --> 00:30:58,773
+Mmm.
+
+536
+00:30:58,773 --> 00:31:01,943
+And it takes some experience
+to unify them.
+
+537
+00:31:02,694 --> 00:31:06,656
+So it kind of makes sense with us...
+took leaving the church.
+
+538
+00:31:07,907 --> 00:31:10,368
+- And now with that shared experience...
+- Mmm.
+
+539
+00:31:11,160 --> 00:31:13,621
+- ...we can connect on so many deeper levels.
+- Mm-hm.
+
+540
+00:31:14,455 --> 00:31:16,040
+Me and my dad,
+
+541
+00:31:16,040 --> 00:31:18,418
+we have the best thing going on.
+
+542
+00:31:19,085 --> 00:31:22,839
+But no one agreed with it.
+
+543
+00:31:23,381 --> 00:31:25,174
+I can't think
+of a single person who was like,
+
+544
+00:31:25,174 --> 00:31:27,427
+"Talmage, you should do that.
+That'll be good for you."
+
+545
+00:31:28,177 --> 00:31:30,722
+It was like coming to live with Satan.
+
+546
+00:31:37,562 --> 00:31:39,522
+Should we do this?
+Let's do it.
+
+547
+00:31:39,522 --> 00:31:41,816
+I increased my weight on my curls.
+
+548
+00:31:41,816 --> 00:31:42,901
+I noticed.
+
+549
+00:31:45,862 --> 00:31:48,281
+- How's my hip on this, Dad?
+Let's see.
+
+550
+00:31:50,867 --> 00:31:53,995
+You can... I'm impressed
+you can do that after that many.
+
+551
+00:31:56,789 --> 00:31:57,874
+Wow.
+
+552
+00:31:59,500 --> 00:32:00,501
+That's art.
+
+553
+00:32:02,378 --> 00:32:04,213
+I wish I had Talmage's legs.
+
+554
+00:32:05,965 --> 00:32:07,967
+He's kind of the perfect specimen.
+
+555
+00:32:11,054 --> 00:32:13,598
+But you've heard
+that Bryan wants to become Talmage?
+
+556
+00:32:14,807 --> 00:32:19,020
+{\an8}Yeah, so... yeah, it's important
+not to over rejuvenate,
+
+557
+00:32:19,020 --> 00:32:21,731
+{\an8}because there could be side effects.
+
+558
+00:32:21,731 --> 00:32:23,316
+Have you told that to Bryan?
+
+559
+00:32:23,316 --> 00:32:25,652
+Oh yeah, we discussed this at length.
+
+560
+00:32:26,444 --> 00:32:27,737
+...in the mirror.
+
+561
+00:32:28,237 --> 00:32:31,574
+Up until this point, we've been
+doing things people are familiar with,
+
+562
+00:32:31,574 --> 00:32:33,743
+diet, and exercise, and sleep.
+
+563
+00:32:33,743 --> 00:32:37,622
+And it's almost like,
+"Okay, what's the next level?"
+
+564
+00:32:39,040 --> 00:32:43,503
+We looked at every healthspan
+and lifespan study that's ever been done,
+
+565
+00:32:43,503 --> 00:32:48,341
+whether it be on humans or mice, and then
+ranked them according to their efficacy,
+
+566
+00:32:48,341 --> 00:32:50,551
+their ability to extend life.
+
+567
+00:32:51,094 --> 00:32:53,972
+And now we're trying to figure out
+how to do them.
+
+568
+00:32:53,972 --> 00:32:57,475
+We started a human growth hormone.
+
+569
+00:32:58,184 --> 00:33:01,604
+Then so you stab this in the leg
+and then you press it.
+
+570
+00:33:02,105 --> 00:33:04,440
+Some of these therapies
+can be very dangerous.
+
+571
+00:33:04,440 --> 00:33:07,443
+And it's a little, teeny needle.
+You can see that.
+
+572
+00:33:07,443 --> 00:33:11,364
+But we err on the side of,
+you know, extreme caution.
+
+573
+00:33:12,615 --> 00:33:15,326
+We're doing high-frequency
+measurements across the whole body.
+
+574
+00:33:15,326 --> 00:33:18,496
+So if we do start seeing side effects,
+we pick them up fast
+
+575
+00:33:18,496 --> 00:33:20,415
+and try some other therapy.
+
+576
+00:33:21,582 --> 00:33:25,211
+- How many pills do you take a day?
+- Today, it'll be 130.
+
+577
+00:33:27,547 --> 00:33:29,716
+- What's yours?
+- Twenty-six.
+
+578
+00:33:30,883 --> 00:33:34,220
+We know that it's unrealistic
+for a normal person to do this
+
+579
+00:33:34,220 --> 00:33:36,514
+wildly rigorous routine.
+
+580
+00:33:36,514 --> 00:33:39,934
+But I think what Bryan is trying to do
+
+581
+00:33:39,934 --> 00:33:42,520
+as the first prototype for Blueprint
+
+582
+00:33:42,520 --> 00:33:45,857
+is do the absolute extreme thing.
+
+583
+00:33:47,358 --> 00:33:50,111
+I absolutely acknowledge
+that not everyone has the time,
+
+584
+00:33:50,111 --> 00:33:53,197
+and the resources,
+and the life circumstances that can do it.
+
+585
+00:33:53,698 --> 00:33:57,201
+I'm trying to be
+on the absolute outermost edge
+
+586
+00:33:57,201 --> 00:33:59,203
+of possibility for the science.
+
+587
+00:33:59,203 --> 00:34:01,122
+I'm trying to show what's possible.
+
+588
+00:34:02,373 --> 00:34:05,460
+It's pretty safe so far,
+and maybe it'll work,
+
+589
+00:34:05,460 --> 00:34:09,422
+and maybe we can learn something from it,
+and then take that out,
+
+590
+00:34:09,422 --> 00:34:12,633
+and everyone else can benefit
+sooner rather than later.
+
+591
+00:34:16,262 --> 00:34:18,681
+Today is rapamycin day.
+
+592
+00:34:18,681 --> 00:34:21,267
+So rapamycin is a drug that people use
+
+593
+00:34:21,267 --> 00:34:25,021
+to suppress the immune system
+when they're getting an organ transplant.
+
+594
+00:34:25,021 --> 00:34:26,439
+You get a new organ in the body,
+
+595
+00:34:26,439 --> 00:34:28,900
+you don't want
+the immune system to reject it,
+
+596
+00:34:28,900 --> 00:34:32,737
+and so you take rapamycin
+and it suppresses the immune system.
+
+597
+00:34:32,737 --> 00:34:36,491
+I take this because there's potentially
+some longevity benefits.
+
+598
+00:34:36,491 --> 00:34:40,203
+It's the kind of thing in the longevity
+community that people are excited about.
+
+599
+00:34:40,203 --> 00:34:42,830
+Outside the longevity community,
+it's still kind of crazy.
+
+600
+00:34:42,830 --> 00:34:46,542
+Like, if you're, like,
+"Yeah, I take an immune-suppressing drug,"
+
+601
+00:34:46,542 --> 00:34:49,003
+people are, "That's wacky.
+Why would you ever do that?"
+
+602
+00:34:51,297 --> 00:34:53,299
+Rapamycin was a drug
+that was first discovered
+
+603
+00:34:53,299 --> 00:34:56,135
+in soil bacteria
+that were isolated on Easter Island.
+
+604
+00:34:56,761 --> 00:34:58,304
+But what happened in 2009
+
+605
+00:34:58,304 --> 00:35:02,391
+{\an8}was that a really rigorous study in mice
+found that it can extend lifespan.
+
+606
+00:35:03,059 --> 00:35:06,854
+And it didn't just keep them alive longer,
+it kept them healthier for longer as well.
+
+607
+00:35:06,854 --> 00:35:08,898
+And this has been demonstrated
+in study after study
+
+608
+00:35:08,898 --> 00:35:11,526
+in loads of different conditions
+in loads of different labs.
+
+609
+00:35:11,526 --> 00:35:13,653
+The only thing we're lacking
+is human data.
+
+610
+00:35:15,613 --> 00:35:19,492
+{\an8}Honestly, I think rapamycin is probably
+still the most robust candidate
+
+611
+00:35:19,492 --> 00:35:21,661
+{\an8}for something
+that would affect human longevity.
+
+612
+00:35:21,661 --> 00:35:23,788
+{\an8}But they have to be used with caution
+
+613
+00:35:23,788 --> 00:35:26,499
+{\an8}because you can have bad things happen
+when you take too much.
+
+614
+00:35:26,499 --> 00:35:29,919
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
+11, 12, 13. 13.
+
+615
+00:35:29,919 --> 00:35:32,380
+Because it suppresses
+the immune system role,
+
+616
+00:35:32,380 --> 00:35:35,675
+side effects can include
+very dangerous bacterial infections.
+
+617
+00:35:35,675 --> 00:35:39,387
+Things like pneumonia,
+or cellulitis, or pharyngitis.
+
+618
+00:35:40,847 --> 00:35:43,724
+To avoid negative effects,
+we took a dosage
+
+619
+00:35:43,724 --> 00:35:45,726
+and measured the levels in my blood.
+
+620
+00:35:45,726 --> 00:35:50,189
+Two hours after taking the dose,
+24, 48, 72, 96.
+
+621
+00:35:50,189 --> 00:35:52,567
+You can see if you get too high
+or too low levels,
+
+622
+00:35:52,567 --> 00:35:54,944
+then adjust the dose based on that.
+
+623
+00:35:54,944 --> 00:35:58,573
+You know, with this precise
+formulation, as far as we know,
+
+624
+00:35:58,573 --> 00:36:03,536
+we are on the most aggressive rapamycin
+protocol of anyone in the industry.
+
+625
+00:36:06,455 --> 00:36:09,208
+Do you follow Bryan Johnson?
+- I've met him before. Mm-hm.
+
+626
+00:36:09,208 --> 00:36:11,335
+What's your take
+on what he's doing?
+
+627
+00:36:12,670 --> 00:36:13,713
+Uh...
+
+628
+00:36:18,467 --> 00:36:22,763
+Some of the interventions that he takes,
+like rapamycin, they work in mice.
+
+629
+00:36:23,264 --> 00:36:25,266
+We don't know
+if they would work in humans.
+
+630
+00:36:26,392 --> 00:36:28,769
+We need to have
+properly designed experiments,
+
+631
+00:36:28,769 --> 00:36:31,063
+then we could make scientific conclusions.
+
+632
+00:36:31,063 --> 00:36:34,442
+But what Bryan's doing,
+it's not a scientific approach.
+
+633
+00:36:34,442 --> 00:36:38,070
+This is the supplement,
+uh, warehouse.
+
+634
+00:36:38,654 --> 00:36:41,657
+He's taking hundreds
+of different interventions.
+
+635
+00:36:41,657 --> 00:36:45,661
+That means it's very hard to identify
+which, if any, of them are working.
+
+636
+00:36:45,661 --> 00:36:47,705
+What you really need to do
+is a clinical trial
+
+637
+00:36:47,705 --> 00:36:50,082
+where you get thousands of people,
+not just one,
+
+638
+00:36:50,082 --> 00:36:53,211
+and you give them all the same
+intervention at the same dose.
+
+639
+00:36:54,253 --> 00:36:58,174
+I think there's value
+in these individual N-of-1 experiments
+
+640
+00:36:58,174 --> 00:37:01,719
+where people are testing
+different things on themselves,
+
+641
+00:37:01,719 --> 00:37:06,057
+{\an8}but it's never going to be accepted
+by the broader medical community
+
+642
+00:37:06,057 --> 00:37:08,601
+{\an8}or regulatory, um, agencies.
+
+643
+00:37:09,393 --> 00:37:12,855
+We need the more rigorous clinical trials.
+
+644
+00:37:12,855 --> 00:37:15,274
+Bryan blocked me on Twitter
+because I suggested
+
+645
+00:37:15,274 --> 00:37:18,527
+that he used some of his millions
+of pounds to fund a clinical trial,
+
+646
+00:37:18,527 --> 00:37:20,571
+specifically the TAME trial,
+
+647
+00:37:20,571 --> 00:37:24,158
+which wants to find out if metformin
+is actually an anti-aging drug.
+
+648
+00:37:24,158 --> 00:37:28,079
+Bryan takes metformin, so if he wants
+to know if what he's doing is of any use,
+
+649
+00:37:28,079 --> 00:37:32,333
+it'll be of value to him and the longevity
+community to fund this trial.
+
+650
+00:37:32,333 --> 00:37:36,128
+But I'd guess he didn't like me telling
+him how to spend his money.
+
+651
+00:37:36,712 --> 00:37:38,005
+{\an8}- Whoa!
+
+652
+00:37:38,714 --> 00:37:39,924
+That's really good!
+
+653
+00:37:39,924 --> 00:37:43,010
+What Bryan does,
+I guess, brings attention to our field.
+
+654
+00:37:43,010 --> 00:37:48,140
+This would be positive, but it has
+almost no contribution to science, right?
+
+655
+00:37:48,140 --> 00:37:50,601
+It's not science, it's just attention.
+
+656
+00:37:50,601 --> 00:37:53,104
+So, yeah, we're gonna be filming
+some shorts.
+
+657
+00:37:53,104 --> 00:37:55,356
+We've been playing around with doing that.
+
+658
+00:37:55,356 --> 00:37:58,192
+So we're upping our social media game.
+
+659
+00:37:58,776 --> 00:38:01,028
+Yeah, we had our first victories.
+
+660
+00:38:01,028 --> 00:38:04,532
+The past two weeks, we had two
+of our videos get a few million views.
+
+661
+00:38:04,532 --> 00:38:06,534
+Three, just on Instagram.
+
+662
+00:38:06,534 --> 00:38:08,828
+And one on TikTok is approaching.
+
+663
+00:38:08,828 --> 00:38:12,290
+{\an8}I get messages all the time, like, "Can I
+get connected with your PR firm?"
+
+664
+00:38:12,290 --> 00:38:14,417
+-"Well, you're talking to it."
+
+665
+00:38:14,417 --> 00:38:16,544
+Like, "There's two of us."
+
+666
+00:38:16,544 --> 00:38:18,379
+- Come on, Bry guy!
+I appreciate this.
+
+667
+00:38:18,379 --> 00:38:19,714
+- Let's go.
+
+668
+00:38:19,714 --> 00:38:21,299
+Is that all you got?
+
+669
+00:38:21,299 --> 00:38:23,592
+{\an8}<i>-I think you just aged a little bit.</i>
+
+670
+00:38:23,592 --> 00:38:25,970
+YouTube sent us a box.
+
+671
+00:38:26,554 --> 00:38:30,808
+"Presented to Bryan Johnson
+for passing 100,000 subscribers."
+
+672
+00:38:32,685 --> 00:38:36,147
+A lot of people are clearly
+very interested in anti-aging.
+
+673
+00:38:36,147 --> 00:38:39,984
+We're all aging. We'd probably like to
+know how to slow it down at least a bit.
+
+674
+00:38:39,984 --> 00:38:43,154
+Bryan Johnson, if you look
+at the media that he's doing himself,
+
+675
+00:38:43,154 --> 00:38:45,781
+he's clearly intending to reach
+as many people as possible.
+
+676
+00:38:46,532 --> 00:38:49,702
+The real question is,
+what's his motivation?
+
+677
+00:38:50,494 --> 00:38:52,580
+Today I'm going to show you
+about this device I use
+
+678
+00:38:52,580 --> 00:38:56,625
+to do the equivalent
+of 20,000 sit-ups in 30 minutes.
+
+679
+00:38:57,960 --> 00:39:01,881
+You sound like an infomercial.
+- I was going to say, "Something's wrong."
+
+680
+00:39:02,840 --> 00:39:05,593
+If you buy right now,
+the button lower right, $19.99,
+
+681
+00:39:05,593 --> 00:39:08,012
+four easy installments, free shipping.
+
+682
+00:39:09,138 --> 00:39:11,390
+Bryan Johnson
+is going to die one day.
+
+683
+00:39:11,390 --> 00:39:13,976
+{\an8}Furthermore, it is my personal opinion
+
+684
+00:39:13,976 --> 00:39:18,189
+{\an8}that Bryan Johnson is a grifter who,
+regardless of whether or not
+
+685
+00:39:18,189 --> 00:39:20,691
+{\an8}he actually believes
+he's going to live forever,
+
+686
+00:39:20,691 --> 00:39:23,861
+is absolutely trying to make a quick buck
+
+687
+00:39:23,861 --> 00:39:28,324
+off of people who are terrified
+of the idea of death
+
+688
+00:39:28,324 --> 00:39:31,827
+and who have more money than common sense.
+
+689
+00:39:32,912 --> 00:39:35,289
+{\an8}Okay, I got something special today.
+
+690
+00:39:35,289 --> 00:39:36,457
+What is this?
+
+691
+00:39:36,957 --> 00:39:40,544
+This is the very first
+Blueprint product we have.
+
+692
+00:39:40,544 --> 00:39:47,301
+Bryan Johnson's Blueprint
+ultra-premium extra virgin olive oil.
+
+693
+00:39:47,301 --> 00:39:51,013
+This is the oldest trick in the book
+as far as self-help scams
+
+694
+00:39:51,013 --> 00:39:53,265
+and just plain old marketing go.
+
+695
+00:39:53,265 --> 00:39:57,686
+You convince people of the problem
+and then sell them the solution.
+
+696
+00:39:58,187 --> 00:40:00,773
+Scene 1A, take one, A roll.
+
+697
+00:40:01,273 --> 00:40:05,361
+"Get me on your anti-aging routine
+and do it fast, but make it simple."
+
+698
+00:40:05,361 --> 00:40:08,697
+That's the most common thing I hear.
+How's that?
+
+699
+00:40:09,657 --> 00:40:13,202
+I think that Blueprint
+is a commercial enterprise.
+
+700
+00:40:13,202 --> 00:40:14,120
+In his website,
+
+701
+00:40:14,120 --> 00:40:16,664
+every link on that Blueprint page
+is an Amazon affiliate link.
+
+702
+00:40:16,664 --> 00:40:20,334
+If you click on it and buy something
+on Amazon, he gets a cut of the money.
+
+703
+00:40:20,334 --> 00:40:23,712
+This whole thing I think has been
+optimized as a money-making venture.
+
+704
+00:40:23,712 --> 00:40:26,048
+He's very rich,
+a very talented businessman.
+
+705
+00:40:26,048 --> 00:40:28,008
+That's gonna be the way
+that he looks at things.
+
+706
+00:40:28,008 --> 00:40:29,510
+<i>Smells like olive oil.</i>
+
+707
+00:40:29,510 --> 00:40:31,720
+<i>I would say very similar
+to most olive oils.</i>
+
+708
+00:40:32,346 --> 00:40:34,682
+A lot of the hate
+we get at Blueprint is interesting
+
+709
+00:40:34,682 --> 00:40:38,144
+in that I make products available
+for people to also become healthy
+
+710
+00:40:38,144 --> 00:40:41,230
+and make the life changes they want to do,
+and people hate on me.
+
+711
+00:40:41,230 --> 00:40:42,606
+<i>Tastes like shit.</i>
+
+712
+00:40:43,774 --> 00:40:46,318
+I see some people on Twitter
+giving him a really hard time
+
+713
+00:40:46,318 --> 00:40:48,195
+for all the merchandise.
+
+714
+00:40:48,779 --> 00:40:50,990
+{\an8}I've followed him for years,
+
+715
+00:40:50,990 --> 00:40:56,203
+{\an8}and I'm 100% convinced
+this was not, like, the master plan.
+
+716
+00:40:57,371 --> 00:41:00,791
+{\an8}I remember he was trying
+to do Blueprint for a couple of years,
+
+717
+00:41:00,791 --> 00:41:02,960
+{\an8}and it was this very personal quest.
+
+718
+00:41:02,960 --> 00:41:05,713
+That's a lot of volume.
+Seven of these today.
+
+719
+00:41:05,713 --> 00:41:08,466
+He turned to this hardcore
+health regimen
+
+720
+00:41:08,466 --> 00:41:11,760
+as the solution
+to these mental health problems.
+
+721
+00:41:11,760 --> 00:41:14,472
+Yeah, I think he believes
+in what he's doing.
+
+722
+00:41:14,472 --> 00:41:15,681
+It's a huge difference.
+
+723
+00:41:15,681 --> 00:41:18,726
+I imagine this is, like, emotional
+for you in a sense that, like,
+
+724
+00:41:18,726 --> 00:41:21,353
+it sounds like you weren't completely
+happy with your past self.
+
+725
+00:41:21,353 --> 00:41:22,688
+No.
+
+726
+00:41:22,688 --> 00:41:23,981
+Uh...
+
+727
+00:41:24,607 --> 00:41:26,442
+I feel like that person's gone.
+
+728
+00:41:37,995 --> 00:41:39,955
+Should I do this in portrait mode or...
+
+729
+00:41:42,666 --> 00:41:45,586
+You should probably get better lighting.
+I have an idea.
+
+730
+00:41:47,213 --> 00:41:49,298
+Oh, I think that looks good.
+- Mm.
+
+731
+00:41:49,298 --> 00:41:50,299
+Cool idea.
+
+732
+00:41:51,091 --> 00:41:53,636
+The morning rituals
+that Talmage and I have together,
+
+733
+00:41:53,636 --> 00:41:55,513
+it's a big part of our lives.
+
+734
+00:41:55,513 --> 00:41:56,805
+Let's see. What do you think?
+
+735
+00:41:56,805 --> 00:42:00,351
+But soon, Talmage will be
+doing this in his dorm in Chicago,
+
+736
+00:42:00,351 --> 00:42:02,228
+and I will be here by myself.
+
+737
+00:42:02,728 --> 00:42:04,730
+How do you feel
+about that, Talmage?
+
+738
+00:42:05,439 --> 00:42:07,483
+Talmage is not looking at this
+from fear of loss.
+
+739
+00:42:07,483 --> 00:42:10,194
+Talmage is looking at this
+from an opportunity of gain,
+
+740
+00:42:10,194 --> 00:42:11,779
+and particularly a girlfriend.
+
+741
+00:42:12,780 --> 00:42:13,989
+- Potentially.
+
+742
+00:42:19,119 --> 00:42:20,329
+Can I take my pills?
+
+743
+00:42:20,329 --> 00:42:21,330
+Yes.
+
+744
+00:42:27,503 --> 00:42:30,214
+I remember
+when I was going to college as well,
+
+745
+00:42:30,214 --> 00:42:34,760
+loss of anything in my family environment
+was not even on my radar.
+
+746
+00:42:34,760 --> 00:42:38,055
+It was entirely about
+all the new life experiences.
+
+747
+00:42:38,556 --> 00:42:40,224
+Yeah, I'm excited.
+
+748
+00:42:40,224 --> 00:42:43,102
+- I do view it as an opportunity for gain.
+
+749
+00:42:44,144 --> 00:42:46,397
+But there is loss too.
+
+750
+00:42:46,897 --> 00:42:47,856
+Yeah.
+
+751
+00:42:49,817 --> 00:42:51,193
+Going through this experience,
+
+752
+00:42:51,193 --> 00:42:54,029
+I guess it invites me
+to have a lot more empathy for my parents
+
+753
+00:42:54,029 --> 00:42:56,740
+and what they may be going through,
+like my dad.
+
+754
+00:42:56,740 --> 00:42:58,701
+If you think about him and age,
+
+755
+00:42:58,701 --> 00:43:02,788
+he said the other day he googled
+what happens when you turn 70
+
+756
+00:43:02,788 --> 00:43:07,209
+or when you're over 70, and he said,
+jokingly, "Don't do it."
+
+757
+00:43:07,209 --> 00:43:11,463
+Like, every morning you wake up,
+and it's, like, "How am I doing?"
+
+758
+00:43:11,463 --> 00:43:14,925
+"Is there one more thing
+that's broken or that hurts more?"
+
+759
+00:43:14,925 --> 00:43:17,344
+Like, I wonder what that must feel like.
+
+760
+00:43:27,271 --> 00:43:30,274
+I've always been a mental guy.
+
+761
+00:43:31,025 --> 00:43:35,362
+{\an8}I've always thought that I could honestly
+think about ten things at the same time.
+
+762
+00:43:36,405 --> 00:43:40,242
+{\an8}But I got to the point
+where I would write a paragraph
+
+763
+00:43:40,242 --> 00:43:42,328
+{\an8}that didn't make sense.
+
+764
+00:43:42,328 --> 00:43:44,079
+{\an8}That scares me to death.
+
+765
+00:43:44,913 --> 00:43:47,499
+One day
+my father called panicking.
+
+766
+00:43:47,499 --> 00:43:52,588
+He said, "I would do anything
+to continue with my mental acuity."
+
+767
+00:43:54,089 --> 00:43:57,635
+And I said, "Dad, I'm doing
+this plasma therapy for myself."
+
+768
+00:43:57,635 --> 00:44:01,138
+"There are other people who are doing it
+for Alzheimer's, Parkinson's."
+
+769
+00:44:01,138 --> 00:44:04,475
+I said, "if you're interested,
+you can come to Texas with me,
+
+770
+00:44:04,475 --> 00:44:07,978
+and, like, I would love
+to give you a liter of plasma."
+
+771
+00:44:08,562 --> 00:44:10,981
+- There it is. There's the plasma.
+- All right.
+
+772
+00:44:10,981 --> 00:44:15,110
+There are certain
+interventions that truly reverse the ages.
+
+773
+00:44:15,110 --> 00:44:20,199
+{\an8}For example,
+this idea of young blood plasma.
+
+774
+00:44:21,325 --> 00:44:24,745
+The reversal effect
+can be observed in this study
+
+775
+00:44:24,745 --> 00:44:28,916
+where researchers connect
+a young mouse to an old mouse.
+
+776
+00:44:30,042 --> 00:44:34,129
+They literally connect
+their arteries and veins,
+
+777
+00:44:34,129 --> 00:44:36,006
+so there's a blood exchange.
+
+778
+00:44:36,882 --> 00:44:42,179
+And you can see that young plasma
+circulated through the old mouse
+
+779
+00:44:42,179 --> 00:44:46,558
+reverses the epigenetic ages
+of multiple organs.
+
+780
+00:44:46,558 --> 00:44:51,230
+In one study we saw a reverse
+of 50% in a rat.
+
+781
+00:44:51,230 --> 00:44:55,734
+Then in another study
+more recently in mice, 30%.
+
+782
+00:44:56,402 --> 00:44:58,612
+When we're looking at plasma,
+I guess, option one,
+
+783
+00:44:58,612 --> 00:45:02,574
+you know, sew me together with a...
+...with a young human.
+
+784
+00:45:02,574 --> 00:45:05,369
+That's not practical.
+So we said we can't do that one.
+
+785
+00:45:05,369 --> 00:45:07,621
+So next case,
+we look at these plasma exchanges.
+
+786
+00:45:08,497 --> 00:45:10,332
+I didn't see
+the vision at first,
+
+787
+00:45:10,332 --> 00:45:14,545
+but Bryan told me that this would be
+someone doing something
+
+788
+00:45:14,545 --> 00:45:16,922
+for their loved one that mattered.
+
+789
+00:45:16,922 --> 00:45:21,677
+It was an investment in their health
+by giving them some of your health.
+
+790
+00:45:22,761 --> 00:45:25,848
+So I tell Talmage, like,
+"Hey, Grandpa's pumped about this."
+
+791
+00:45:25,848 --> 00:45:30,310
+So we start talking and, like,
+we said, "What if you did it too?"
+
+792
+00:45:30,811 --> 00:45:33,647
+"You donate your plasma to me,
+I will to Dad."
+
+793
+00:45:33,647 --> 00:45:36,442
+"It'll be this multi-generational thing.
+What do you think?"
+
+794
+00:45:36,442 --> 00:45:39,653
+And he instantaneously said,
+"Yes, I'm in."
+
+795
+00:45:40,320 --> 00:45:42,614
+We're at 34,000 feet.
+We're flying to Dallas.
+
+796
+00:45:42,614 --> 00:45:43,949
+We just had some food.
+
+797
+00:45:43,949 --> 00:45:45,868
+Talmage is right behind me.
+
+798
+00:45:50,247 --> 00:45:53,500
+I need to check in to see what he's eating
+to make sure his plasma's okay.
+
+799
+00:45:54,209 --> 00:45:56,879
+The plasma stuff
+always sounds super creepy
+
+800
+00:45:56,879 --> 00:45:59,798
+to anyone who hears about it
+for the first time.
+
+801
+00:45:59,798 --> 00:46:02,843
+But Bryan was not
+the first guy to do this.
+
+802
+00:46:03,343 --> 00:46:07,347
+Years ago, there would be stories
+about Peter Thiel, the venture capitalist,
+
+803
+00:46:07,347 --> 00:46:09,391
+one of the first investors in Facebook,
+
+804
+00:46:09,391 --> 00:46:12,770
+draining the blood
+of some young healthy people.
+
+805
+00:46:12,770 --> 00:46:16,607
+I'm not sure that that's true,
+but this all got out into the wild.
+
+806
+00:46:16,607 --> 00:46:19,485
+It sort of got parodied
+in the show <i>Silicon Valley</i>.
+
+807
+00:46:19,485 --> 00:46:21,862
+- Everything okay?
+- Uh, is Bryce your assistant?
+
+808
+00:46:21,862 --> 00:46:24,615
+No, of course not.
+He's my transfusion associate.
+
+809
+00:46:24,615 --> 00:46:27,785
+Most Silicon Valley people,
+if they had a blood boy,
+
+810
+00:46:27,785 --> 00:46:29,870
+they didn't want anybody to know about it,
+
+811
+00:46:29,870 --> 00:46:32,539
+but Bryan being Bryan...
+
+812
+00:46:32,539 --> 00:46:34,416
+...kind of embraced all this
+
+813
+00:46:34,416 --> 00:46:39,171
+and was out there parading his blood boys
+around on Twitter and taking photographs.
+
+814
+00:46:39,171 --> 00:46:41,381
+You guys look awesome.
+
+815
+00:46:41,924 --> 00:46:45,844
+It did have the elements of,
+like, absurdity that I thought would come
+
+816
+00:46:45,844 --> 00:46:50,057
+with Bryan having the whole family show up
+as if you were going to a ball game,
+
+817
+00:46:50,057 --> 00:46:52,976
+except you were just
+all gonna swap plasma.
+
+818
+00:46:55,479 --> 00:46:58,732
+What?
+The plasma bus got decorated!
+
+819
+00:46:58,732 --> 00:47:00,526
+"Love flows from the heart."
+
+820
+00:47:01,902 --> 00:47:04,988
+I guess it's really the vein,
+but this is amazing.
+
+821
+00:47:06,907 --> 00:47:08,325
+Hey, look at that.
+
+822
+00:47:09,034 --> 00:47:10,911
+That's pretty plasma.
+
+823
+00:47:10,911 --> 00:47:12,496
+So what's good about this?
+
+824
+00:47:12,496 --> 00:47:14,706
+The color is really nice.
+It's pristine.
+
+825
+00:47:14,706 --> 00:47:18,418
+I'm actually honestly scared
+that it's gonna be more clear than mine.
+
+826
+00:47:18,418 --> 00:47:20,212
+It'll be embarrassing.
+
+827
+00:47:20,212 --> 00:47:24,174
+- So I'm hoping it's good but I'm also...
+
+828
+00:47:24,174 --> 00:47:25,926
+I understand.
+- It's competition.
+
+829
+00:47:25,926 --> 00:47:29,805
+I understand that. I mean this is the way
+you can tell, am I a fraud or not, right?
+
+830
+00:47:29,805 --> 00:47:31,974
+- Like, "All right, haters."
+- Absolutely.
+
+831
+00:47:31,974 --> 00:47:35,143
+- Yeah. "What'd you say about this?"
+
+832
+00:47:35,686 --> 00:47:39,106
+I have identified
+the world's first vampire.
+
+833
+00:47:39,106 --> 00:47:40,774
+Anti-aging fanatic
+
+834
+00:47:40,774 --> 00:47:44,194
+who spends more than two million dollars
+per year to retain youth
+
+835
+00:47:44,194 --> 00:47:47,406
+uses teen son as, quote, "blood boy."
+
+836
+00:47:47,406 --> 00:47:50,200
+- Bruh.
+- His son needs to watch out right now.
+
+837
+00:47:50,200 --> 00:47:52,202
+His son needs to run!
+
+838
+00:47:52,202 --> 00:47:54,121
+- Oh, the <i>Daily Mail's</i> up.
+- Yeah.
+
+839
+00:47:54,121 --> 00:47:57,040
+Okay. Some of the comments
+of the <i>Daily Mail...</i>
+
+840
+00:47:57,040 --> 00:48:00,878
+"What a weirdo. Disgusting and satanic.
+What a waste of time."
+
+841
+00:48:01,920 --> 00:48:03,714
+Oh, humanity's so great.
+
+842
+00:48:08,260 --> 00:48:11,013
+The plasma transfer blew up
+on social media.
+
+843
+00:48:11,805 --> 00:48:17,227
+And, of course, the easy place to go is...
+is vampire, blood draw, blood boy.
+
+844
+00:48:17,227 --> 00:48:21,565
+And the mean-spirited,
+uh, instead of drawing my... my ire
+
+845
+00:48:21,565 --> 00:48:24,818
+and my absolute, uh, anger,
+
+846
+00:48:24,818 --> 00:48:26,486
+uh, really made me sad.
+
+847
+00:48:28,196 --> 00:48:30,073
+All right, Dad.
+Pass the torch.
+
+848
+00:48:30,073 --> 00:48:31,825
+Let's get you a new pillow.
+
+849
+00:48:32,326 --> 00:48:34,202
+One thing people don't get,
+
+850
+00:48:34,202 --> 00:48:38,040
+this was an event
+that transcended the trial of a therapy.
+
+851
+00:48:38,749 --> 00:48:40,542
+You know how special this is.
+
+852
+00:48:40,542 --> 00:48:44,254
+You know, the connection and everything,
+this is just like a manifestation
+
+853
+00:48:44,254 --> 00:48:47,257
+of all that commitment, everything else.
+
+854
+00:48:47,841 --> 00:48:50,135
+Yeah, better than words.
+- Better than words.
+
+855
+00:48:51,011 --> 00:48:54,306
+When you become invested
+in the other person
+
+856
+00:48:54,306 --> 00:48:58,310
+to the point that you step up
+and you share biology,
+
+857
+00:48:59,102 --> 00:49:03,440
+having that kind of intimacy
+with both Bryan and with Talmage,
+
+858
+00:49:03,941 --> 00:49:07,069
+for me, it was a chance to reconcile.
+
+859
+00:49:10,238 --> 00:49:11,740
+When I was early married,
+
+860
+00:49:11,740 --> 00:49:16,495
+you would never see a more serious MFer
+in Mormonism than me.
+
+861
+00:49:17,287 --> 00:49:20,248
+But the problem was it was not my life.
+
+862
+00:49:21,083 --> 00:49:24,378
+When I was younger, my father
+went through some difficult times
+
+863
+00:49:24,378 --> 00:49:27,172
+with professional challenges and drugs.
+
+864
+00:49:27,923 --> 00:49:30,968
+His mom and I
+separated and got a divorce.
+
+865
+00:49:31,551 --> 00:49:36,431
+At that time I wasn't sure whether to find
+a girlfriend or have a line of coke,
+
+866
+00:49:36,431 --> 00:49:39,351
+to go to temple or go have a scotch.
+
+867
+00:49:39,851 --> 00:49:44,189
+When your life is so...
+screwed up to that point,
+
+868
+00:49:44,189 --> 00:49:46,942
+and you have no idea
+what your moral standards are,
+
+869
+00:49:46,942 --> 00:49:48,276
+it all falls apart.
+
+870
+00:49:49,653 --> 00:49:53,782
+It was like a 95% likelihood
+
+871
+00:49:53,782 --> 00:49:56,493
+that he would fall through on anything.
+
+872
+00:49:56,493 --> 00:50:00,747
+Like, pick me up from school...
+help me with a homework assignment,
+
+873
+00:50:00,747 --> 00:50:03,667
+like, call me when he said he would,
+it just would never happen.
+
+874
+00:50:04,251 --> 00:50:07,504
+That probably affected Bryan
+the most of any of the kids.
+
+875
+00:50:08,005 --> 00:50:11,216
+He was the one
+that wanted to go with his dad.
+
+876
+00:50:11,216 --> 00:50:13,510
+He's the one that waited for him.
+
+877
+00:50:14,094 --> 00:50:16,179
+I think it hurt him a lot.
+
+878
+00:50:18,390 --> 00:50:22,394
+He got arrested when I was 22.
+
+879
+00:50:23,145 --> 00:50:25,022
+And I went and saw him in jail,
+
+880
+00:50:25,814 --> 00:50:28,567
+and that was a moment for him.
+
+881
+00:50:29,192 --> 00:50:31,319
+Guess who came to see his dad?
+
+882
+00:50:31,987 --> 00:50:35,782
+And words of judgement like,
+"God, Dad, clean up your act."
+
+883
+00:50:35,782 --> 00:50:38,326
+No. [voice breaks] "You can do it, Dad."
+
+884
+00:50:41,955 --> 00:50:44,124
+Did anyone else come?
+- No.
+
+885
+00:50:48,628 --> 00:50:49,588
+No.
+
+886
+00:50:57,763 --> 00:50:59,222
+There we go.
+
+887
+00:50:59,222 --> 00:51:01,058
+Me being at that point,
+
+888
+00:51:01,808 --> 00:51:03,852
+and being at this point,
+
+889
+00:51:04,519 --> 00:51:08,482
+I mean, have Bryan, uh,
+holding on to me, having Talmage...
+
+890
+00:51:09,316 --> 00:51:12,986
+what could be a better statement
+of reconciliation?
+
+891
+00:51:14,696 --> 00:51:16,448
+Love you, Dad.
+I love you.
+
+892
+00:51:17,949 --> 00:51:19,743
+What a great experience.
+
+893
+00:51:20,619 --> 00:51:21,787
+You feel the love?
+
+894
+00:51:22,662 --> 00:51:26,666
+It was one of the most precious
+life experiences we've ever had.
+
+895
+00:51:28,877 --> 00:51:32,339
+It morphed into this multi-generational,
+
+896
+00:51:32,339 --> 00:51:35,217
+healing/bonding experience,
+
+897
+00:51:35,217 --> 00:51:38,470
+and was less about
+the therapeutic benefit.
+
+898
+00:51:43,141 --> 00:51:46,436
+I feel like a parent and a child
+
+899
+00:51:46,436 --> 00:51:48,730
+that maybe takes different paths
+
+900
+00:51:48,730 --> 00:51:51,733
+can find a place for a good relationship.
+
+901
+00:51:52,651 --> 00:51:56,363
+But it... it has to be
+a joint effort for both.
+
+902
+00:52:01,660 --> 00:52:03,662
+Why are you having
+that reaction?
+
+903
+00:52:04,496 --> 00:52:06,998
+It's hard work sometimes,
+
+904
+00:52:06,998 --> 00:52:09,334
+and it's not without its heartache,
+
+905
+00:52:09,876 --> 00:52:11,211
+but it can be done.
+
+906
+00:52:14,214 --> 00:52:16,508
+Having this time with my father,
+
+907
+00:52:16,508 --> 00:52:19,136
+I reflected a lot on being a dad.
+
+908
+00:52:21,555 --> 00:52:24,057
+All right, here we go. Okay, guys.
+
+909
+00:52:24,057 --> 00:52:26,768
+- Hi, mister.
+Hey, Talmage.
+
+910
+00:52:26,768 --> 00:52:29,604
+It's been one of the most painful
+experiences of my life,
+
+911
+00:52:29,604 --> 00:52:32,107
+where two of my children
+
+912
+00:52:32,107 --> 00:52:35,360
+keep me at bay because I'm not part
+of their religious organization.
+
+913
+00:52:36,194 --> 00:52:39,865
+So I feel like I missed out
+on a meaningful part of their lives.
+
+914
+00:52:40,782 --> 00:52:43,785
+And it's been the most special
+experience in my life
+
+915
+00:52:43,785 --> 00:52:46,246
+where one of my children
+has fully embraced me.
+
+916
+00:52:47,581 --> 00:52:50,041
+I wish my other children would join me.
+
+917
+00:53:03,096 --> 00:53:05,223
+All right, Talmage, all yours.
+Cool.
+
+918
+00:53:08,685 --> 00:53:10,979
+Talmage, last night
+
+919
+00:53:11,730 --> 00:53:14,274
+I did a... a phone call date
+
+920
+00:53:15,108 --> 00:53:16,401
+with somebody I met
+
+921
+00:53:16,943 --> 00:53:18,111
+on a dating app.
+
+922
+00:53:18,737 --> 00:53:20,780
+We're gonna go out on a date next week.
+
+923
+00:53:20,780 --> 00:53:22,657
+I wish her the best of luck.
+
+924
+00:53:23,491 --> 00:53:25,243
+You wish <i>her</i> the best of luck?
+- Yeah.
+
+925
+00:53:28,914 --> 00:53:30,999
+Relationships
+are really important,
+
+926
+00:53:30,999 --> 00:53:35,795
+and, you know, with Talmage leaving,
+I guess I need to rebuild my life.
+
+927
+00:53:36,296 --> 00:53:39,090
+I told her why I'd be a bad idea.
+
+928
+00:53:40,175 --> 00:53:41,551
+She seemed undeterred.
+
+929
+00:53:42,677 --> 00:53:47,349
+Normally, when I engage with somebody
+and we're contemplating being friends,
+
+930
+00:53:47,349 --> 00:53:53,146
+I make a list, and I say, "Here are
+the ten reasons why I'm a bad idea."
+
+931
+00:53:54,231 --> 00:53:58,568
+"I have this protocol that is rigorous,
+I'm impossibly hard to be with,
+
+932
+00:53:58,568 --> 00:54:01,488
+and, ultimately,
+you're just gonna hate me."
+
+933
+00:54:01,488 --> 00:54:05,283
+And so I try to get in front of it,
+and oftentimes people will laugh.
+
+934
+00:54:05,283 --> 00:54:08,745
+I'm, like, "No for real."
+"This is really what's gonna happen."
+
+935
+00:54:08,745 --> 00:54:10,789
+I don't know.
+Maybe it's a really bad strategy.
+
+936
+00:54:12,082 --> 00:54:17,295
+{\an8}Bryan deserves
+to have companionship in his life,
+
+937
+00:54:17,796 --> 00:54:21,174
+{\an8}and I think
+he's always struggled to find that.
+
+938
+00:54:22,175 --> 00:54:25,929
+I feel like there's a conflict
+within Bryan between family Bryan,
+
+939
+00:54:25,929 --> 00:54:28,390
+the one that wants a partner,
+
+940
+00:54:28,390 --> 00:54:31,935
+wants to just, like, hang out,
+you know, be around loved ones,
+
+941
+00:54:31,935 --> 00:54:36,398
+and then the ambitious Bryan,
+who says, like, "Every ounce of my energy
+
+942
+00:54:36,398 --> 00:54:39,067
+needs to be dedicated
+toward this mission."
+
+943
+00:54:48,034 --> 00:54:51,997
+I went on two dates
+with this one woman and...
+
+944
+00:54:53,999 --> 00:54:56,459
+we... we got along fairly well,
+
+945
+00:54:56,459 --> 00:55:00,547
+but I think she basically was, like,
+"You're so far outside the norms,
+
+946
+00:55:00,547 --> 00:55:04,592
+I just don't know if I... if I can
+make sense of this whole thing."
+
+947
+00:55:05,302 --> 00:55:06,845
+Are you willing to change?
+
+948
+00:55:08,888 --> 00:55:11,391
+No.
+
+949
+00:55:12,726 --> 00:55:16,479
+Let's just say relationships
+have never been my strength.
+
+950
+00:55:16,980 --> 00:55:20,775
+I was married at the age of 24.
+I didn't have any girlfriends before that.
+
+951
+00:55:20,775 --> 00:55:23,737
+So then, when I got divorced
+13 years later,
+
+952
+00:55:23,737 --> 00:55:26,906
+I had no idea
+how to deal with partnership.
+
+953
+00:55:27,699 --> 00:55:29,451
+Bryan is a complicated person,
+
+954
+00:55:29,451 --> 00:55:33,663
+and I remember we had a conversation
+with some concerns,
+
+955
+00:55:33,663 --> 00:55:35,665
+"Am I ever gonna find someone
+
+956
+00:55:35,665 --> 00:55:38,668
+that will really fit with me,"
+realizing that he was quite unique.
+
+957
+00:55:39,627 --> 00:55:43,673
+I guess I just kind of stumble
+through social interactions,
+
+958
+00:55:43,673 --> 00:55:47,802
+and my first girlfriend
+after getting the divorce
+
+959
+00:55:47,802 --> 00:55:50,722
+has ended up in a pretty ugly lawsuit.
+
+960
+00:55:51,306 --> 00:55:52,807
+Oh, that's a cool headline.
+
+961
+00:55:52,807 --> 00:55:55,643
+"Tech mogul who spends
+two million a year for 18-year-old body
+
+962
+00:55:55,643 --> 00:55:58,229
+cheated and dumped fiancée
+after she got breast cancer."
+
+963
+00:55:58,229 --> 00:55:59,773
+- Lawsuit?
+
+964
+00:55:59,773 --> 00:56:01,941
+What?
+- How is that a lawsuit though?
+
+965
+00:56:01,941 --> 00:56:05,236
+"Johnson had agreed to provide
+lifelong financial support..."
+
+966
+00:56:05,236 --> 00:56:07,697
+Oh, this is where the lawsuit comes in.
+
+967
+00:56:07,697 --> 00:56:10,617
+"Then she got, um, breast cancer."
+
+968
+00:56:11,326 --> 00:56:15,413
+-"She became... a net negative..."
+
+969
+00:56:15,413 --> 00:56:17,082
+"...and a bad deal for him."
+
+970
+00:56:17,082 --> 00:56:21,086
+- He described her as a business term.
+- Oh my God.
+
+971
+00:56:22,462 --> 00:56:24,839
+Bryan's relationship with Taryn
+
+972
+00:56:25,924 --> 00:56:28,551
+I think was a very sweet relationship
+for both of them.
+
+973
+00:56:29,302 --> 00:56:31,137
+I saw how happy it made them.
+
+974
+00:56:31,137 --> 00:56:35,934
+And so it was surprising to me
+to hear some allegations.
+
+975
+00:56:36,935 --> 00:56:38,728
+Taryn filed a lawsuit against Bryan.
+
+976
+00:56:39,479 --> 00:56:41,940
+Taryn claimed after the cancer treatment,
+
+977
+00:56:41,940 --> 00:56:44,943
+Bryan demanded that she move out
+of the residence they shared.
+
+978
+00:56:44,943 --> 00:56:48,613
+He told her that he would
+assist her with rent and expenses
+
+979
+00:56:48,613 --> 00:56:51,408
+but only if she signed
+the separation agreement.
+
+980
+00:56:51,408 --> 00:56:54,744
+Almost like, "Hey, sign this NDA,
+and I'll give you the money."
+
+981
+00:56:54,744 --> 00:56:57,414
+She had no independent
+source of steady income.
+
+982
+00:56:57,414 --> 00:57:01,000
+She tried to resist,
+but Bryan was manipulative.
+
+983
+00:57:01,000 --> 00:57:04,087
+Being labeled as this awful person
+for all these things,
+
+984
+00:57:04,087 --> 00:57:06,131
+I was rattled, deeply.
+
+985
+00:57:07,465 --> 00:57:10,760
+We dated for a couple years,
+and when we separated,
+
+986
+00:57:10,760 --> 00:57:13,430
+she hired one of the most
+powerful law firms in the world.
+
+987
+00:57:14,013 --> 00:57:17,267
+They sent me this letter
+demanding that I pay them
+
+988
+00:57:17,267 --> 00:57:20,019
+$9,000,000 that week
+
+989
+00:57:20,019 --> 00:57:24,023
+or they were going to make
+these scandalous statements about me.
+
+990
+00:57:24,023 --> 00:57:26,651
+I felt like they were
+all false allegations,
+
+991
+00:57:26,651 --> 00:57:28,611
+so I said, "I'm not doing it."
+
+992
+00:57:28,611 --> 00:57:30,655
+Okay, game face.
+
+993
+00:57:30,655 --> 00:57:34,117
+What is game face?
+If someone were to put a game face on.
+
+994
+00:57:34,617 --> 00:57:37,036
+We were in arbitration
+where everything's confidential,
+
+995
+00:57:37,036 --> 00:57:40,915
+but then the media found
+the lawsuit in the California courts,
+
+996
+00:57:40,915 --> 00:57:43,084
+and published all of her allegations.
+
+997
+00:57:46,087 --> 00:57:49,048
+Facing the destruction
+of my personal reputation
+
+998
+00:57:49,048 --> 00:57:52,510
+by my former girlfriend and fiancée,
+
+999
+00:57:52,510 --> 00:57:56,306
+it's hard for me
+to walk into a relationship
+
+1000
+00:57:56,306 --> 00:57:59,350
+and trust that there's not
+some alternative motive.
+
+1001
+00:57:59,934 --> 00:58:04,647
+A lot of people of course say, "Boo hoo,
+your rich person problems," whatever.
+
+1002
+00:58:04,647 --> 00:58:06,816
+Okay, uh, sure.
+
+1003
+00:58:06,816 --> 00:58:10,695
+Also, it stinks because
+it does create a significant barrier
+
+1004
+00:58:10,695 --> 00:58:14,616
+for, uh, meaningful relationships because
+it just... it complicates everything.
+
+1005
+00:58:17,452 --> 00:58:18,703
+But with Talmage,
+
+1006
+00:58:19,287 --> 00:58:22,874
+our relationship is rich and dynamic.
+
+1007
+00:58:22,874 --> 00:58:23,791
+Game on.
+
+1008
+00:58:25,043 --> 00:58:26,544
+Whoo!
+
+1009
+00:58:26,544 --> 00:58:28,129
+That was amazing.
+
+1010
+00:58:28,129 --> 00:58:31,466
+Where's Talmage?
+I gotta find Talmage. There he is.
+
+1011
+00:58:31,466 --> 00:58:34,010
+Yes!
+Did you see the time?
+
+1012
+00:58:34,594 --> 00:58:37,472
+What is it? I beat you.
+Oh no!
+
+1013
+00:58:37,472 --> 00:58:40,391
+We can run it back tomorrow.
+
+1014
+00:58:41,893 --> 00:58:44,437
+I've never
+had a relationship in my life
+
+1015
+00:58:44,437 --> 00:58:46,940
+that has been this consistent,
+
+1016
+00:58:46,940 --> 00:58:51,152
+and steady, and soothing, and fun.
+
+1017
+00:58:52,111 --> 00:58:55,156
+It has all the characteristics
+of everything I've always wanted
+
+1018
+00:58:55,156 --> 00:58:56,282
+in a best friend.
+
+1019
+00:58:56,282 --> 00:58:58,451
+- Yes!
+- You're killing it.
+
+1020
+00:58:58,451 --> 00:59:00,787
+And so I think,
+yeah, there's a meaningful amount
+
+1021
+00:59:00,787 --> 00:59:03,748
+of influence
+that Talmage has on this project.
+
+1022
+00:59:03,748 --> 00:59:05,583
+<i>Talmage Bryan Johnson.</i>
+
+1023
+00:59:08,962 --> 00:59:12,298
+People think
+I'm fearful of death. I'm not.
+
+1024
+00:59:13,091 --> 00:59:14,342
+I love life.
+
+1025
+00:59:15,426 --> 00:59:18,555
+And I love living life with Talmage.
+
+1026
+00:59:19,806 --> 00:59:22,809
+Do you worry about him
+or you think he'll be good on his own?
+
+1027
+00:59:22,809 --> 00:59:24,644
+I do worry about him.
+
+1028
+00:59:24,644 --> 00:59:27,313
+Like, yeah, we're gonna
+really miss each other.
+
+1029
+00:59:27,313 --> 00:59:30,149
+Happy birthday, Talmage. Yeah!
+
+1030
+00:59:30,149 --> 00:59:33,653
+Previous generations, you have kids
+so that you can pass the torch.
+
+1031
+00:59:33,653 --> 00:59:37,156
+And now you have kids
+so that you can journey with them.
+
+1032
+00:59:38,283 --> 00:59:39,367
+Don't Die is real.
+
+1033
+00:59:39,367 --> 00:59:43,705
+Like, I want to journey with Talmage
+for some indefinite period of time.
+
+1034
+00:59:45,415 --> 00:59:46,791
+I'm serious about this.
+
+1035
+00:59:46,791 --> 00:59:51,296
+I really do want to have
+multiple lifetimes
+
+1036
+00:59:52,046 --> 00:59:54,382
+with Talmage,
+and go through all the different phases.
+
+1037
+00:59:54,966 --> 00:59:57,802
+Um, a hundred years
+is not gonna be enough.
+
+1038
+01:00:04,183 --> 01:00:06,436
+- Ready? Okay.
+Yeah, whenever you're ready.
+
+1039
+01:00:07,020 --> 01:00:10,064
+Hi. Today is one
+of the most exciting days of Blueprint.
+
+1040
+01:00:10,064 --> 01:00:13,192
+We're gonna travel to an island
+just off the coast of Honduras.
+
+1041
+01:00:13,192 --> 01:00:15,862
+And I'm going to be injected
+with my first gene therapy.
+
+1042
+01:00:17,196 --> 01:00:19,532
+If you look at the age charts of humanity,
+
+1043
+01:00:19,532 --> 01:00:22,493
+humans have a 120-year ceiling.
+
+1044
+01:00:22,493 --> 01:00:26,414
+So if we wanna say we're going to punch
+through this limitation of human lifespan,
+
+1045
+01:00:26,414 --> 01:00:28,791
+it's gonna be through gene therapy.
+
+1046
+01:00:28,791 --> 01:00:31,127
+Underwear, socks, shorts, shirts.
+
+1047
+01:00:31,252 --> 01:00:36,090
+{\an8}Gene therapy is considered, you know,
+taking it as far as you can at this point.
+
+1048
+01:00:36,090 --> 01:00:40,219
+{\an8}So, it's kind of the extreme measure
+of treating biological aging.
+
+1049
+01:00:41,095 --> 01:00:43,931
+The state of gene therapy
+is that we are using it in the clinic,
+
+1050
+01:00:43,931 --> 01:00:46,351
+but we're using it for serious conditions,
+
+1051
+01:00:46,351 --> 01:00:49,979
+where we know that there is
+a single gene that's causing the problem,
+
+1052
+01:00:49,979 --> 01:00:53,483
+and we can say editing this gene
+in this way would be successful.
+
+1053
+01:00:53,483 --> 01:00:57,487
+The idea of using gene therapy
+for aging is hugely exciting,
+
+1054
+01:00:57,487 --> 01:00:59,280
+but, today, the science isn't ready.
+
+1055
+01:01:00,573 --> 01:01:04,494
+In fact, there's a big risk because there
+are things called "off-target effects."
+
+1056
+01:01:04,494 --> 01:01:07,747
+{\an8}This is where the gene therapy goes in
+and it modifies not just the DNA
+
+1057
+01:01:07,747 --> 01:01:10,708
+{\an8}that you're trying to modify, but modifies
+some other part of your genome.
+
+1058
+01:01:11,834 --> 01:01:14,629
+Many interventions
+do rejuvenate cells,
+
+1059
+01:01:14,629 --> 01:01:20,885
+{\an8}but that incurs a risk that the cells
+then turn into different cells,
+
+1060
+01:01:20,885 --> 01:01:23,137
+malignant cells, cancer cells.
+
+1061
+01:01:24,222 --> 01:01:26,599
+Gene therapy is dangerous,
+
+1062
+01:01:26,599 --> 01:01:29,352
+and we have been evaluating
+various gene therapies
+
+1063
+01:01:29,352 --> 01:01:31,646
+for the past almost two years now.
+
+1064
+01:01:32,271 --> 01:01:36,609
+This is the only one
+that had the potential lifespan extenders
+
+1065
+01:01:36,609 --> 01:01:40,238
+that we were looking for
+that also met our safety criteria.
+
+1066
+01:01:41,280 --> 01:01:43,366
+In what Bryan's trying to do
+in his journey,
+
+1067
+01:01:43,366 --> 01:01:46,828
+{\an8}is there any part of you that's nervous
+for what he's trying to achieve?
+
+1068
+01:01:47,537 --> 01:01:48,996
+{\an8}Yes, yes.
+
+1069
+01:01:48,996 --> 01:01:54,293
+I am nervous where Bryan's going,
+because me, I'm... I'm logical and smart.
+
+1070
+01:01:54,293 --> 01:01:59,173
+When I get to the end...
+edge of the... the ledge, I stop.
+
+1071
+01:01:59,173 --> 01:02:02,635
+I'm never... I'm never taking
+the next step into the abyss.
+
+1072
+01:02:07,098 --> 01:02:11,018
+Generally, a person would
+get a gene therapy in a clinical trial,
+
+1073
+01:02:11,018 --> 01:02:14,897
+and the problem with clinical trials
+is they are limited.
+
+1074
+01:02:15,940 --> 01:02:21,028
+Certainly there isn't gene therapy for
+aging in clinical trials at this moment.
+
+1075
+01:02:21,028 --> 01:02:25,158
+So other than that,
+you would travel for medical tourism.
+
+1076
+01:02:25,158 --> 01:02:28,786
+And one place that gene therapy
+is being offered
+
+1077
+01:02:28,786 --> 01:02:31,205
+is Roatán, Honduras.
+
+1078
+01:02:31,205 --> 01:02:34,041
+There is a free zone there
+called Próspera.
+
+1079
+01:02:35,585 --> 01:02:37,920
+Próspera is
+a special economic zone
+
+1080
+01:02:37,920 --> 01:02:42,008
+{\an8}that the state of Honduras
+has licensed with the ability
+
+1081
+01:02:42,008 --> 01:02:44,469
+{\an8}to create new business laws
+
+1082
+01:02:45,219 --> 01:02:47,346
+that are favorable to innovations
+
+1083
+01:02:47,346 --> 01:02:49,098
+like our gene therapy.
+
+1084
+01:02:49,891 --> 01:02:54,270
+{\an8}Here, we're able to operate
+under an ethics review board
+
+1085
+01:02:54,270 --> 01:02:58,524
+{\an8}and a committee that makes sure that
+we're doing everything up to standard.
+
+1086
+01:02:58,524 --> 01:03:03,321
+All this that you see is Próspera.
+I'm on the lookout for dinosaurs.
+
+1087
+01:03:03,321 --> 01:03:06,282
+We're working on it next.
+
+1088
+01:03:06,908 --> 01:03:10,703
+We are planning
+on doing trials in the United States.
+
+1089
+01:03:10,703 --> 01:03:12,705
+However, it's a thing, it takes some time,
+
+1090
+01:03:12,705 --> 01:03:16,083
+and it's not necessarily time
+devoted towards laboratory work.
+
+1091
+01:03:17,043 --> 01:03:20,588
+It's more of a thing of legal issues
+
+1092
+01:03:20,588 --> 01:03:22,715
+and having lawyers
+communicate on your behalf
+
+1093
+01:03:22,715 --> 01:03:27,428
+with a very large
+and very bureaucratic regulatory agency.
+
+1094
+01:03:28,805 --> 01:03:29,889
+It's go-time.
+
+1095
+01:03:29,889 --> 01:03:31,432
+All right, this way.
+
+1096
+01:03:31,432 --> 01:03:36,354
+If I'm being honest,
+Próspera is like a batshit crazy idea.
+
+1097
+01:03:36,354 --> 01:03:40,983
+It's like you just take over a little bit
+of land, set up all your own rules.
+
+1098
+01:03:41,859 --> 01:03:45,279
+I like Mac and Walter very much.
+They seem like nice guys.
+
+1099
+01:03:45,279 --> 01:03:48,324
+They didn't strike me as...
+as, you know...
+
+1100
+01:03:48,324 --> 01:03:51,786
+...[laughing] 20-year PhD-type scientists.
+
+1101
+01:03:51,786 --> 01:03:55,122
+And so it was like
+the first thing Bryan's done
+
+1102
+01:03:55,122 --> 01:03:57,959
+where I really was, like,
+"Is this a good idea?"
+
+1103
+01:03:58,668 --> 01:03:59,669
+Hey.
+
+1104
+01:04:00,378 --> 01:04:03,297
+If there's anything
+you have any questions about,
+
+1105
+01:04:03,297 --> 01:04:06,676
+whatever information you need,
+we will do our best to provide.
+
+1106
+01:04:06,676 --> 01:04:10,137
+Any kind of diagnostic, anything,
+we will do our best.
+
+1107
+01:04:11,305 --> 01:04:12,849
+I appreciate that, Walter.
+
+1108
+01:04:13,850 --> 01:04:16,853
+When me and Mac started the
+company, we wanted to make a difference
+
+1109
+01:04:16,853 --> 01:04:18,187
+in people's lives.
+
+1110
+01:04:18,187 --> 01:04:21,440
+You know, we're dealt
+a certain hand at our birth.
+
+1111
+01:04:21,440 --> 01:04:23,860
+We're dealt
+with the genes we're... we're given.
+
+1112
+01:04:24,527 --> 01:04:27,655
+And we want to give people options.
+
+1113
+01:04:29,949 --> 01:04:32,493
+This gene therapy,
+which is follistatin,
+
+1114
+01:04:32,493 --> 01:04:34,996
+has primarily been used in bodybuilding,
+
+1115
+01:04:34,996 --> 01:04:39,333
+where you're looking
+at increased muscle mass and strength.
+
+1116
+01:04:39,333 --> 01:04:43,170
+{\an8}For some people, bulking up is desirable,
+but generally with age,
+
+1117
+01:04:43,170 --> 01:04:46,966
+{\an8}sarcopenia, osteoporosis,
+and frailty are severe problems.
+
+1118
+01:04:47,550 --> 01:04:51,596
+Our gene therapy treats that
+either preventatively in young people,
+
+1119
+01:04:51,596 --> 01:04:55,641
+or in a reactive way in older people
+who are already experiencing it.
+
+1120
+01:04:55,641 --> 01:04:58,769
+If you look at the mouse
+lifespan studies where it was used,
+
+1121
+01:04:58,769 --> 01:05:02,356
+they had a 30% lifespan extension.
+
+1122
+01:05:02,356 --> 01:05:06,110
+So if I end up looking like
+a Marvel character, all the better.
+
+1123
+01:05:06,694 --> 01:05:08,404
+Can I get some help on this?
+
+1124
+01:05:08,404 --> 01:05:12,033
+After the gene therapy, I'm not gonna
+fit in this thing or maybe I'm just gonna...
+
+1125
+01:05:12,033 --> 01:05:14,285
+- Bulk up...
+- I'm going to Hulk out of it.
+
+1126
+01:05:15,578 --> 01:05:17,038
+He's so confident.
+
+1127
+01:05:17,538 --> 01:05:19,874
+But I'm a little worried for him.
+
+1128
+01:05:21,250 --> 01:05:23,794
+Like, we just don't know
+how his body's gonna react.
+
+1129
+01:05:23,794 --> 01:05:27,048
+And I would just... Yeah, I would hate
+for anything to happen to him.
+
+1130
+01:05:30,843 --> 01:05:32,345
+It's important to note,
+
+1131
+01:05:32,345 --> 01:05:35,139
+any gene therapy that integrates
+into your existing genome
+
+1132
+01:05:35,139 --> 01:05:37,266
+does "change your DNA."
+
+1133
+01:05:38,351 --> 01:05:40,311
+Our gene therapy does not integrate.
+
+1134
+01:05:40,311 --> 01:05:42,563
+Once you get injected,
+it's not editing your DNA.
+
+1135
+01:05:42,563 --> 01:05:46,317
+It's just giving you an added piece
+of DNA that's parallel
+
+1136
+01:05:46,317 --> 01:05:49,820
+and creates
+a little export factory of follistatin.
+
+1137
+01:05:50,529 --> 01:05:54,700
+Most gene therapies, because they
+integrate into your chromosomal DNA,
+
+1138
+01:05:54,700 --> 01:05:57,954
+once it's there, it's there,
+and you can't turn it off.
+
+1139
+01:05:58,454 --> 01:06:00,581
+Our gene therapy doesn't integrate,
+
+1140
+01:06:00,581 --> 01:06:03,376
+and so we've introduced
+the concept of a kill switch.
+
+1141
+01:06:04,210 --> 01:06:07,672
+It's potentially safer
+because if you want to turn it off,
+
+1142
+01:06:07,672 --> 01:06:11,384
+there's a few methods
+that we could use to make it reversible.
+
+1143
+01:06:12,718 --> 01:06:15,096
+Okay, are you ready for this?
+
+1144
+01:06:15,096 --> 01:06:16,347
+I'm ready for this.
+
+1145
+01:06:16,347 --> 01:06:18,432
+All right, let's go.
+
+1146
+01:06:22,311 --> 01:06:23,354
+Here it comes.
+
+1147
+01:06:25,606 --> 01:06:27,191
+Stings just a little bit.
+
+1148
+01:06:35,700 --> 01:06:38,202
+Jeez, I wish we could
+drag this out, but that's it.
+
+1149
+01:06:38,202 --> 01:06:42,289
+Thanks, doc.
+It was clean injections.
+
+1150
+01:06:42,289 --> 01:06:43,457
+Yeah, good.
+
+1151
+01:06:43,457 --> 01:06:48,838
+I am now officially
+a genetically-enhanced human.
+
+1152
+01:06:50,673 --> 01:06:53,884
+When people see someone like me
+doing gene therapy,
+
+1153
+01:06:53,884 --> 01:06:55,845
+many think of inequality,
+
+1154
+01:06:55,845 --> 01:06:58,431
+or they see a divide
+between rich and poor.
+
+1155
+01:06:59,056 --> 01:07:01,642
+The way I think about it is,
+if we can prove
+
+1156
+01:07:01,642 --> 01:07:05,146
+that this gene therapy
+is safe and effective,
+
+1157
+01:07:05,146 --> 01:07:09,275
+and then, you know,
+10,000 people are willing to do it,
+
+1158
+01:07:09,275 --> 01:07:11,068
+that price is going to go down.
+
+1159
+01:07:11,068 --> 01:07:13,070
+Doctor, thanks.
+You're welcome.
+
+1160
+01:07:13,070 --> 01:07:14,739
+Yeah, really appreciate you.
+
+1161
+01:07:14,739 --> 01:07:16,741
+There are expensive interventions,
+
+1162
+01:07:16,741 --> 01:07:19,910
+like gene therapy, that we need to test.
+
+1163
+01:07:19,910 --> 01:07:22,538
+For academics,
+it's prohibitively expensive
+
+1164
+01:07:22,538 --> 01:07:24,623
+to do the human clinical studies.
+
+1165
+01:07:24,623 --> 01:07:28,127
+And maybe longevity clinics
+where people pay a lot of money
+
+1166
+01:07:28,127 --> 01:07:30,296
+are places we can at least get some data.
+
+1167
+01:07:30,921 --> 01:07:34,008
+So I'm not against
+having clinics available.
+
+1168
+01:07:34,008 --> 01:07:36,427
+But once we find out how things work,
+
+1169
+01:07:36,427 --> 01:07:40,681
+we have to figure out how to scale them
+and make them broadly available.
+
+1170
+01:07:40,681 --> 01:07:42,391
+I don't know if we'll live forever,
+
+1171
+01:07:42,391 --> 01:07:46,437
+but at least we absolutely
+will buy the next guy some more time.
+
+1172
+01:07:46,437 --> 01:07:47,354
+Mm-hm.
+
+1173
+01:07:47,354 --> 01:07:51,442
+And I'd rather give my children more years
+than I, uh, had the opportunity for.
+
+1174
+01:07:51,442 --> 01:07:53,861
+Mm-hm, mm-hm.
+- So thank you for believing in us.
+
+1175
+01:07:53,861 --> 01:07:55,571
+Thank you, both of you.
+
+1176
+01:07:55,571 --> 01:07:57,156
+- Thanks, Bryan.
+- Yeah.
+
+1177
+01:07:58,699 --> 01:08:02,244
+Wow. That looks
+still enough to walk on.
+
+1178
+01:08:02,745 --> 01:08:05,790
+If we... If we put a camera on top,
+I can walk on water here.
+
+1179
+01:08:07,374 --> 01:08:09,585
+From Homo sapiens to Homo Deus.
+
+1180
+01:08:09,585 --> 01:08:13,714
+Testing out whether the gene therapy,
+if the effects have taken.
+
+1181
+01:08:15,091 --> 01:08:18,385
+Be careful, Jacob.
+Don't die. No one can die.
+
+1182
+01:08:23,974 --> 01:08:26,811
+Bryan, when he was young,
+
+1183
+01:08:26,811 --> 01:08:28,813
+really lived from religion.
+
+1184
+01:08:28,813 --> 01:08:30,439
+Yeah.
+
+1185
+01:08:30,439 --> 01:08:33,901
+You know, I can remember a stage
+that he went through,
+
+1186
+01:08:33,901 --> 01:08:37,780
+where, I mean, he literally
+wanted to be like Joseph Smith.
+
+1187
+01:08:38,405 --> 01:08:42,243
+Joseph Smith, of course,
+is the founding prophet in Mormonism.
+
+1188
+01:08:43,035 --> 01:08:47,206
+And I think the thing that you see
+as a continuing principle with Bryan,
+
+1189
+01:08:47,206 --> 01:08:53,254
+he wants his life to be such that
+he would stick out like a Joseph Smith.
+
+1190
+01:08:54,004 --> 01:08:57,424
+His reward will be when he affects change.
+
+1191
+01:08:57,424 --> 01:09:00,261
+Change to him is the aphrodisiac.
+
+1192
+01:09:00,261 --> 01:09:01,971
+It is... It is the drug.
+
+1193
+01:09:01,971 --> 01:09:04,765
+<i>Health and wellness
+is a lot like religion. With the Bible...</i>
+
+1194
+01:09:04,765 --> 01:09:08,686
+It's not hard to make the
+argument that he gave up on the church,
+
+1195
+01:09:08,686 --> 01:09:13,023
+had to find a new religion, and has turned
+health and himself into this religion.
+
+1196
+01:09:13,023 --> 01:09:16,110
+And it's this very
+narcissistic enterprise.
+
+1197
+01:09:16,652 --> 01:09:20,156
+15,000 views in three hours, 585 comments.
+
+1198
+01:09:20,781 --> 01:09:24,785
+Receiving attention and
+having people care about what he's doing,
+
+1199
+01:09:24,785 --> 01:09:27,079
+I think he does care about that.
+
+1200
+01:09:27,079 --> 01:09:29,874
+But I don't actually think
+it, like, undermines what he's doing,
+
+1201
+01:09:29,874 --> 01:09:33,043
+because it's so out there in the open.
+
+1202
+01:09:34,044 --> 01:09:38,215
+I made a statement yesterday that,
+"Jesus has had 2,000 years."
+
+1203
+01:09:38,215 --> 01:09:40,509
+"I don't see any evidence of his work."
+
+1204
+01:09:40,509 --> 01:09:43,429
+-"I've done more in two years."
+How'd that go?
+
+1205
+01:09:43,429 --> 01:09:44,930
+As you might expect.
+
+1206
+01:09:46,557 --> 01:09:51,395
+He talks about himself as being kind of
+Health Jesus with a little bit of humor...
+
+1207
+01:09:51,395 --> 01:09:54,064
+...but also, I think,
+quite a bit of pride.
+
+1208
+01:09:54,648 --> 01:09:56,317
+Hi, guys. Hey.
+
+1209
+01:09:56,317 --> 01:09:59,653
+He's embracing
+the culty aspect of this all,
+
+1210
+01:09:59,653 --> 01:10:03,073
+and it only seems to be building
+more and more momentum.
+
+1211
+01:10:03,699 --> 01:10:05,743
+How do you think
+I appear to your friends?
+
+1212
+01:10:05,743 --> 01:10:07,828
+I think the only way
+for me to understand that
+
+1213
+01:10:07,828 --> 01:10:12,333
+is if one of my friend's dads
+was starting a cult.
+
+1214
+01:10:12,333 --> 01:10:14,293
+Mm.
+- And how I'd look at that.
+
+1215
+01:10:15,961 --> 01:10:18,047
+I wouldn't think much of it
+'cause you're doing it.
+
+1216
+01:10:18,047 --> 01:10:20,925
+Am I starting a cult?
+- Yes.
+
+1217
+01:10:20,925 --> 01:10:22,176
+- Am I?
+- Yeah.
+
+1218
+01:10:22,760 --> 01:10:25,262
+It's not a bad thing. It just is.
+
+1219
+01:10:26,805 --> 01:10:30,142
+I know Bryan's tried
+to force this to be a religion.
+
+1220
+01:10:30,142 --> 01:10:35,231
+There's a part of me that thinks this is
+almost the right religion for this moment.
+
+1221
+01:10:36,315 --> 01:10:41,362
+In some ways, it is like this antidote
+to the way the world thinks about health.
+
+1222
+01:10:41,362 --> 01:10:44,823
+There are still serious concerns
+about the nation's health care system.
+
+1223
+01:10:44,823 --> 01:10:47,368
+{\an8}The National Health Service is broken.
+
+1224
+01:10:47,368 --> 01:10:50,496
+Why is the system
+letting doctors and patients down?
+
+1225
+01:10:51,288 --> 01:10:55,542
+The approach to health
+in pretty much every developed nation
+
+1226
+01:10:55,542 --> 01:10:59,797
+{\an8}has really been centered around waiting
+until people develop a disease
+
+1227
+01:10:59,797 --> 01:11:02,091
+{\an8}and then attempting to cure that disease,
+
+1228
+01:11:02,091 --> 01:11:05,135
+{\an8}but in reality,
+pretty much just treating symptoms.
+
+1229
+01:11:05,803 --> 01:11:09,390
+One of the consequences of that
+is that the prevalence of chronic disease
+
+1230
+01:11:09,390 --> 01:11:12,309
+has increased dramatically
+over the last 50 years.
+
+1231
+01:11:12,309 --> 01:11:15,896
+{\an8}We think, you know, "I'll go to bed at 90
+and I'll die in my sleep."
+
+1232
+01:11:15,896 --> 01:11:17,106
+{\an8}That almost never happens.
+
+1233
+01:11:17,815 --> 01:11:22,653
+If you go into a geriatric ward
+and you see people incontinent, immobile,
+
+1234
+01:11:22,653 --> 01:11:26,615
+if we do look at it, if we stare this
+in the face, it's particularly unpleasant.
+
+1235
+01:11:27,449 --> 01:11:30,035
+At the moment,
+we are spending so much money
+
+1236
+01:11:30,035 --> 01:11:32,329
+treating very sick individuals.
+
+1237
+01:11:32,329 --> 01:11:37,293
+{\an8}I think we have to ask,
+"Why wouldn't you invest earlier in life
+
+1238
+01:11:37,293 --> 01:11:42,339
+{\an8}to keep them healthy, to not having
+so many people with age-related diseases?"
+
+1239
+01:11:43,340 --> 01:11:47,011
+You know, in the US, doctors
+are generally paid on procedures.
+
+1240
+01:11:47,011 --> 01:11:50,597
+And I remember when I was at The Buck
+doing research on aging,
+
+1241
+01:11:50,597 --> 01:11:52,474
+there was a large hospital chain
+
+1242
+01:11:52,474 --> 01:11:55,060
+that was thinking
+about giving a donation to the research.
+
+1243
+01:11:55,060 --> 01:11:59,523
+{\an8}We talked about health span,
+and the CEO looked at me and said,
+
+1244
+01:12:00,065 --> 01:12:03,736
+{\an8}"Well, if we do this, you're going
+to cut our procedure rate by 60%."
+
+1245
+01:12:03,736 --> 01:12:05,362
+"Why would I do this?"
+
+1246
+01:12:05,362 --> 01:12:08,490
+So, we need to think about
+how we really wanna focus
+
+1247
+01:12:08,490 --> 01:12:10,200
+on the health of the population.
+
+1248
+01:12:14,413 --> 01:12:17,207
+That's the most admirable part
+about what Bryan is doing,
+
+1249
+01:12:17,207 --> 01:12:19,835
+it's the most proactive thing
+you could imagine.
+
+1250
+01:12:19,835 --> 01:12:22,129
+And if the medical system was wired
+
+1251
+01:12:22,129 --> 01:12:24,673
+even just, like,
+a little bit more this way,
+
+1252
+01:12:24,673 --> 01:12:26,884
+I think it'd probably
+be good for the rest of us.
+
+1253
+01:12:28,427 --> 01:12:31,889
+If we can solve
+this fundamental problem,
+
+1254
+01:12:31,889 --> 01:12:36,977
+we may walk into a future
+where all of us live healthier and longer
+
+1255
+01:12:36,977 --> 01:12:39,063
+with the people that we care about.
+
+1256
+01:12:47,029 --> 01:12:48,155
+Three days.
+
+1257
+01:12:48,947 --> 01:12:51,742
+- That's so wild to me.
+- I know, it's here.
+
+1258
+01:12:51,742 --> 01:12:55,537
+Think of it, I've been acting all tough
+guy, like, "I'm going off to college."
+
+1259
+01:12:56,663 --> 01:12:59,833
+- But when I start to think about it, like...
+- I'm defeated.
+
+1260
+01:13:00,459 --> 01:13:02,252
+- Aw, shit.
+
+1261
+01:13:02,252 --> 01:13:04,671
+I'll get over it. I just...
+I just feel defeated.
+
+1262
+01:13:04,671 --> 01:13:08,384
+It's like... It's like you... you got me,
+but now you're losing me again.
+
+1263
+01:13:08,384 --> 01:13:10,719
+Yeah. Yeah.
+
+1264
+01:13:14,348 --> 01:13:16,058
+Yeah.
+
+1265
+01:13:19,895 --> 01:13:21,980
+Oh, no!
+
+1266
+01:13:21,980 --> 01:13:23,941
+19-21, it's a close game, Dad.
+
+1267
+01:13:23,941 --> 01:13:26,568
+I was down, then you were down.
+
+1268
+01:13:26,568 --> 01:13:29,321
+Yeah, you came back
+from a comeback. Good job.
+
+1269
+01:13:29,321 --> 01:13:30,989
+You too.
+- Good game.
+
+1270
+01:13:30,989 --> 01:13:34,827
+I've always been
+the Talmage whisperer.
+
+1271
+01:13:34,827 --> 01:13:37,287
+From the moment he came out of the womb,
+
+1272
+01:13:37,287 --> 01:13:40,374
+I was the one who could quiet him.
+I'd settle him.
+
+1273
+01:13:40,374 --> 01:13:44,670
+And it was just my little Talmage.
+And this week, he's ready to go.
+
+1274
+01:13:44,670 --> 01:13:46,130
+Hi, mister.
+
+1275
+01:13:47,339 --> 01:13:49,550
+Do you need help with anything today?
+
+1276
+01:13:49,550 --> 01:13:50,551
+No.
+
+1277
+01:13:52,469 --> 01:13:56,098
+My priorities...
+involve stuff I do by myself.
+
+1278
+01:13:56,098 --> 01:13:57,099
+Mm-hm.
+
+1279
+01:13:59,101 --> 01:14:00,352
+With Kate's help.
+
+1280
+01:14:03,272 --> 01:14:06,316
+He's learned everything
+he needs to learn from me.
+
+1281
+01:14:06,316 --> 01:14:10,320
+And I was just going through
+the typical parental process
+
+1282
+01:14:10,320 --> 01:14:13,740
+of having, you know,
+someone leave your nest.
+
+1283
+01:14:13,740 --> 01:14:14,783
+Yeah, I like it.
+
+1284
+01:14:14,783 --> 01:14:16,076
+- Cute.
+- Yeah.
+
+1285
+01:14:26,545 --> 01:14:28,839
+Talmage Bryan Johnson,
+ready to go.
+
+1286
+01:14:28,839 --> 01:14:31,717
+As soon as I step past this, I'm out.
+
+1287
+01:14:33,093 --> 01:14:34,428
+The voyage begins.
+
+1288
+01:14:38,682 --> 01:14:40,976
+Welcome, Talmage.
+Thank you.
+
+1289
+01:14:53,655 --> 01:14:56,909
+Talmage, happy college prep day.
+
+1290
+01:14:58,243 --> 01:15:01,830
+Do we have a starting plan?
+Are we going to kitchen stuff first?
+
+1291
+01:15:01,830 --> 01:15:04,833
+Are we following you around?
+Are we engaged in the process?
+
+1292
+01:15:04,833 --> 01:15:07,044
+Do you know what you're going to do?
+
+1293
+01:15:07,794 --> 01:15:08,837
+Linens over here.
+
+1294
+01:15:09,421 --> 01:15:11,423
+Linens and a comforter.
+
+1295
+01:15:11,423 --> 01:15:12,799
+What's your bed size?
+
+1296
+01:15:12,799 --> 01:15:14,801
+Oh, so complicated.
+
+1297
+01:15:15,469 --> 01:15:16,970
+Over here, Talmage.
+
+1298
+01:15:19,348 --> 01:15:21,225
+Do you got me?
+Yeah.
+
+1299
+01:15:24,895 --> 01:15:26,146
+Oh, God.
+
+1300
+01:15:26,146 --> 01:15:30,609
+I confess, I just about started crying
+when we walked by all the little toys.
+
+1301
+01:15:30,609 --> 01:15:33,737
+I saw you...
+Yeah, I lost my breath.
+
+1302
+01:15:34,821 --> 01:15:37,115
+Kind of goes against
+your emotionless thing.
+
+1303
+01:15:37,115 --> 01:15:38,492
+Yeah. Huh.
+
+1304
+01:15:50,921 --> 01:15:52,589
+Why am I crying in Target?
+
+1305
+01:16:07,312 --> 01:16:09,690
+So much going on inside of me,
+I don't even know.
+
+1306
+01:16:09,690 --> 01:16:10,607
+Mm-hm.
+
+1307
+01:16:13,777 --> 01:16:15,195
+Okay.
+
+1308
+01:16:16,863 --> 01:16:17,864
+Like, a blue?
+
+1309
+01:16:20,117 --> 01:16:21,785
+Gray? Green?
+
+1310
+01:16:21,785 --> 01:16:23,787
+I think I'm a green kind of guy.
+
+1311
+01:16:26,373 --> 01:16:31,753
+These past 150 days,
+Talmage has been this presence in my life.
+
+1312
+01:16:31,753 --> 01:16:33,422
+I... We just love each other.
+
+1313
+01:16:33,922 --> 01:16:37,259
+And if we look at all the science
+about... humans,
+
+1314
+01:16:37,259 --> 01:16:40,220
+that humans thrive in community,
+they thrive in...
+
+1315
+01:16:42,264 --> 01:16:44,182
+in positive relationships.
+
+1316
+01:16:46,101 --> 01:16:48,478
+Yeah, it's not a good thing to be alone.
+
+1317
+01:16:49,771 --> 01:16:52,149
+So I... I.. I wouldn't be so brazen
+
+1318
+01:16:52,149 --> 01:16:55,611
+to think that I'm going to defy
+what the science shows
+
+1319
+01:16:55,611 --> 01:16:58,280
+on human connection and community.
+
+1320
+01:16:59,406 --> 01:17:01,408
+Do you have a plan?
+- No.
+
+1321
+01:17:10,000 --> 01:17:12,294
+Welcome to the University of Chicago.
+
+1322
+01:17:21,261 --> 01:17:23,597
+- Do you see it? Right there.
+
+1323
+01:17:25,974 --> 01:17:28,810
+- This is perfect.
+We have a fan. That's nice.
+
+1324
+01:17:29,311 --> 01:17:30,896
+These are nicer than I have.
+
+1325
+01:17:30,896 --> 01:17:35,317
+Do you have a preference on which side
+you want to expose to your skin?
+
+1326
+01:17:35,317 --> 01:17:38,195
+See, this is front face left.
+
+1327
+01:17:38,945 --> 01:17:40,697
+I feel like
+it's really gonna hit
+
+1328
+01:17:40,697 --> 01:17:43,992
+once you say goodbye to me
+when I'm in my dorm.
+
+1329
+01:17:44,660 --> 01:17:47,537
+Yeah, I've never felt
+more understood by anyone
+
+1330
+01:17:48,121 --> 01:17:49,081
+than with you.
+
+1331
+01:17:50,248 --> 01:17:53,168
+- So, yeah, I hope you don't die.
+
+1332
+01:17:55,587 --> 01:17:57,923
+I don't know,
+I just keep reflecting
+
+1333
+01:17:57,923 --> 01:18:00,717
+on all the... the things
+that have happened this year.
+
+1334
+01:18:00,717 --> 01:18:02,344
+All of the life lessons.
+
+1335
+01:18:03,762 --> 01:18:05,722
+Yeah, it's gonna be hard to rival this.
+
+1336
+01:18:06,973 --> 01:18:09,351
+I love you.
+- I love you too.
+
+1337
+01:18:13,814 --> 01:18:16,233
+All right, Talmage Bryan Johnson...
+
+1338
+01:18:18,860 --> 01:18:20,445
+{\an8}Second version of you.
+
+1339
+01:18:23,699 --> 01:18:24,866
+{\an8}Let's get after it.
+
+1340
+01:18:25,450 --> 01:18:26,368
+{\an8}Yep.
+
+1341
+01:19:12,914 --> 01:19:15,125
+The house is awfully quiet.
+
+1342
+01:19:20,881 --> 01:19:22,257
+I guess now it's real.
+
+1343
+01:19:24,551 --> 01:19:26,011
+It never felt real.
+
+1344
+01:19:27,220 --> 01:19:29,431
+And now it's quiet. It's just still.
+
+1345
+01:19:32,225 --> 01:19:33,769
+I wonder how he's feeling.
+
+1346
+01:19:52,913 --> 01:19:55,207
+Can I show you this solution?
+- Yes.
+
+1347
+01:19:55,207 --> 01:19:57,083
+You wanna look at my screen?
+
+1348
+01:19:57,667 --> 01:20:00,879
+So, let's say you're just,
+like, on the Blueprint website.
+
+1349
+01:20:01,546 --> 01:20:03,715
+You're just looking at food. There's this.
+
+1350
+01:20:03,715 --> 01:20:05,342
+How are you feeling today?
+
+1351
+01:20:05,342 --> 01:20:08,762
+In many ways, I don't think
+I could have gone to the next stage
+
+1352
+01:20:08,762 --> 01:20:11,515
+until I got things settled with Talmage.
+
+1353
+01:20:11,515 --> 01:20:14,684
+I really needed him
+to be in a good place at school
+
+1354
+01:20:14,684 --> 01:20:16,603
+or on his next stage of life.
+
+1355
+01:20:16,603 --> 01:20:21,191
+And I think he's there, so I feel
+emboldened to take my next step too.
+
+1356
+01:20:23,819 --> 01:20:25,237
+{\an8}Ready, let's do this.
+
+1357
+01:20:28,156 --> 01:20:31,701
+Hey, what's up, friends?
+Today is Don't Die hike number four.
+
+1358
+01:20:31,701 --> 01:20:35,664
+It was less than two months ago
+that I messaged out on social media.
+
+1359
+01:20:35,664 --> 01:20:37,541
+"Hey, I'm going on a hike. Join me."
+
+1360
+01:20:37,541 --> 01:20:39,793
+And I had 11 people.
+
+1361
+01:20:39,793 --> 01:20:43,129
+Today, there's over 400 people.
+
+1362
+01:20:43,129 --> 01:20:46,216
+Oh, my goodness,
+this is a lot of cars. Wow.
+
+1363
+01:20:46,800 --> 01:20:51,221
+Wait, there's more people.
+This is... What? This is crazy!
+
+1364
+01:20:51,221 --> 01:20:54,015
+Hi, everyone!
+- Hey, guys! Good morning!
+
+1365
+01:20:54,015 --> 01:20:55,934
+You look ten years younger
+than last time.
+
+1366
+01:20:57,185 --> 01:20:59,062
+Big group hug in the morning.
+
+1367
+01:21:02,941 --> 01:21:04,401
+Come on in, everyone!
+
+1368
+01:21:05,360 --> 01:21:08,446
+Over time, I guess
+I've gone through different stages...
+
+1369
+01:21:08,446 --> 01:21:10,782
+...of my feelings about Bryan.
+
+1370
+01:21:11,658 --> 01:21:15,912
+At the very beginning,
+his lifestyle struck me as quite solitary.
+
+1371
+01:21:16,413 --> 01:21:18,582
+But as more people have bought into this,
+
+1372
+01:21:18,582 --> 01:21:23,420
+he actually seems to be creating
+these friendships I never expected.
+
+1373
+01:21:23,420 --> 01:21:25,213
+Everyone, let's go up this way.
+
+1374
+01:21:26,923 --> 01:21:31,094
+For Bryan, I can tell
+there's a lot of enjoyment from this.
+
+1375
+01:21:31,094 --> 01:21:34,180
+And so I think
+he's kind of flipped the narrative.
+
+1376
+01:21:34,180 --> 01:21:36,725
+- You made it! Good job, everyone!
+
+1377
+01:21:36,725 --> 01:21:38,852
+I'll confess. This is a cult.
+
+1378
+01:21:40,270 --> 01:21:43,565
+- It's a sick and twisted cult...
+
+1379
+01:21:43,565 --> 01:21:46,109
+- ...to get you to go to bed on time.
+
+1380
+01:21:46,109 --> 01:21:49,321
+There's little bits and pieces
+of that that are unnerving.
+
+1381
+01:21:49,321 --> 01:21:52,198
+But I think I see him now
+almost as, like, a philosopher.
+
+1382
+01:21:52,198 --> 01:21:54,492
+I mean, he's sort of trying
+to prove a point.
+
+1383
+01:21:54,993 --> 01:21:57,495
+It's this, like, Don't Die thing,
+
+1384
+01:21:57,495 --> 01:22:01,958
+which I really thought was sort of a joke
+as I saw this evolving.
+
+1385
+01:22:01,958 --> 01:22:04,419
+But there is some merit to it, I think.
+
+1386
+01:22:04,419 --> 01:22:07,797
+Whether you believe in Bryan
+or what he's doing or not,
+
+1387
+01:22:07,797 --> 01:22:09,799
+it's an interesting question to ask
+
+1388
+01:22:09,799 --> 01:22:12,719
+if society has just taken a wrong turn.
+
+1389
+01:22:13,386 --> 01:22:16,723
+I think it drives some people crazy,
+and it inspires others.
+
+1390
+01:22:17,307 --> 01:22:18,767
+What's up, guys? I'm Talmage.
+
+1391
+01:22:18,767 --> 01:22:20,268
+- I'm Charles.
+- I'm Carly.
+
+1392
+01:22:20,268 --> 01:22:22,562
+We're hosting the Don't Die event
+in Chicago.
+
+1393
+01:22:22,562 --> 01:22:25,190
+Don't Die in Chicago!
+
+1394
+01:22:25,190 --> 01:22:27,108
+Don't Die from Cologne.
+
+1395
+01:22:27,108 --> 01:22:29,903
+Don't Die in Dublin.
+- Don't Die from Santa Fe.
+
+1396
+01:22:29,903 --> 01:22:32,030
+- In Barcelona.
+- In Hong Kong.
+
+1397
+01:22:32,030 --> 01:22:35,325
+Don't die from Dubai!
+
+1398
+01:22:35,825 --> 01:22:38,244
+What we're talking about
+is really a medical revolution.
+
+1399
+01:22:39,204 --> 01:22:41,581
+If there's an opportunity to stay healthy
+
+1400
+01:22:41,581 --> 01:22:44,125
+and stay functional
+and see your grandkids,
+
+1401
+01:22:44,125 --> 01:22:47,504
+would you rather have that
+or wait until you get Alzheimer's
+
+1402
+01:22:47,504 --> 01:22:50,632
+and take some drug
+that slows the progression down by 30%?
+
+1403
+01:22:51,925 --> 01:22:55,220
+Aging is not inevitable.
+At least it can be delayed.
+
+1404
+01:22:55,220 --> 01:22:58,932
+And you can do that right now
+probably by changing your lifestyle.
+
+1405
+01:22:59,432 --> 01:23:02,352
+Lifestyle factors are obvious,
+but it's important.
+
+1406
+01:23:03,061 --> 01:23:06,398
+From sleep quality, dietary modifications,
+
+1407
+01:23:06,398 --> 01:23:09,859
+regular exercise, and social interactions,
+
+1408
+01:23:09,859 --> 01:23:13,947
+we can get 10 years,
+15 years of extra quality life.
+
+1409
+01:23:13,947 --> 01:23:15,949
+And that number will probably get bigger,
+
+1410
+01:23:15,949 --> 01:23:18,535
+as we develop
+more effective interventions.
+
+1411
+01:23:19,035 --> 01:23:22,831
+You can see right there,
+that fluid is mesenchymal stem cells.
+
+1412
+01:23:23,331 --> 01:23:26,751
+We haven't yet got any human
+treatments that I'm happy to recommend.
+
+1413
+01:23:26,751 --> 01:23:29,754
+But because I know that
+these treatments are being developed,
+
+1414
+01:23:29,754 --> 01:23:33,258
+and I think they're potentially going
+to be available within our lifetimes,
+
+1415
+01:23:33,258 --> 01:23:35,510
+I'm much more excited
+by following basic health advice.
+
+1416
+01:23:35,510 --> 01:23:38,096
+It means I'll hopefully
+be alive and healthy long enough
+
+1417
+01:23:38,096 --> 01:23:40,098
+to benefit from these first treatments.
+
+1418
+01:23:40,098 --> 01:23:43,685
+What's even more exciting is that if
+I benefit from those first treatments,
+
+1419
+01:23:43,685 --> 01:23:45,645
+maybe I'll live another few years longer.
+
+1420
+01:23:45,645 --> 01:23:47,939
+That then means
+that gives scientists even more time
+
+1421
+01:23:47,939 --> 01:23:50,442
+to develop the second
+or the third round of treatments.
+
+1422
+01:23:50,442 --> 01:23:53,945
+Of course it's going
+to take time to develop interventions,
+
+1423
+01:23:53,945 --> 01:23:56,740
+but I'm certain that, at some point,
+
+1424
+01:23:56,740 --> 01:23:59,659
+two teenagers will have
+a conversation with each other.
+
+1425
+01:23:59,659 --> 01:24:03,580
+They'll be looking at their history
+books, and they'll be commenting,
+
+1426
+01:24:03,580 --> 01:24:07,667
+something like, "My God, people just
+withered and died. Isn't that so tragic?"
+
+1427
+01:24:07,667 --> 01:24:12,130
+The same way as we look at,
+you know, people just two lifetimes ago
+
+1428
+01:24:12,130 --> 01:24:14,841
+and not having an anesthetic
+or an antibiotic.
+
+1429
+01:24:15,341 --> 01:24:19,721
+And, you know, we look back
+and we go, "Jeez, that's horrendous." Um...
+
+1430
+01:24:19,721 --> 01:24:22,599
+When it happens, though,
+is completely a product of what we do.
+
+1431
+01:24:23,641 --> 01:24:26,352
+How much effort, and money,
+and energy we put into this,
+
+1432
+01:24:26,352 --> 01:24:30,065
+to create a movement
+of people utterly engaged
+
+1433
+01:24:30,065 --> 01:24:33,193
+in keeping people healthy
+as long as possible.
+
+1434
+01:24:33,193 --> 01:24:37,489
+Hi, everyone. I hope you guys feel
+like you're among your people.
+
+1435
+01:24:37,489 --> 01:24:40,116
+Like-minded people trying not to die.
+
+1436
+01:24:41,117 --> 01:24:43,661
+I'm happy you came.
+
+1437
+01:24:43,661 --> 01:24:44,746
+I love you.
+
+1438
+01:24:46,247 --> 01:24:47,207
+Are you happy?
+
+1439
+01:24:47,916 --> 01:24:50,001
+{\an8}Never been happier in my entire life.
+
+1440
+01:24:50,502 --> 01:24:52,170
+{\an8}I don't know if I could do it.
+
+1441
+01:24:52,170 --> 01:24:54,839
+I've never seen him happier
+than he is now.
+
+1442
+01:24:54,839 --> 01:24:58,510
+And just think about that.
+When you're content with who you are,
+
+1443
+01:24:58,510 --> 01:25:02,639
+and you're engaged in a project
+that is everything that you want to do,
+
+1444
+01:25:02,639 --> 01:25:04,933
+doesn't that set up as a happy place?
+
+1445
+01:25:08,061 --> 01:25:11,648
+To hear him say to me,
+"I've never been happier in my life,"
+
+1446
+01:25:12,148 --> 01:25:15,485
+I think releases me from worry,
+
+1447
+01:25:15,485 --> 01:25:18,613
+knowing that he can go on like this.
+
+1448
+01:25:19,364 --> 01:25:22,951
+I've experienced
+wanting to die intensely.
+
+1449
+01:25:23,618 --> 01:25:27,247
+And now I'm in a situation
+where I want to live
+
+1450
+01:25:27,247 --> 01:25:30,542
+with everything that I am.
+
+1451
+01:25:42,262 --> 01:25:46,349
+And so, yeah, I really... I...
+I want to continue to exist.
+
+1452
+01:25:47,392 --> 01:25:50,019
+And I don't feel any need
+to justify myself.
+
+1453
+01:25:51,479 --> 01:25:54,607
+I'm a disaster
+of an intelligent being, but...
+
+1454
+01:25:55,316 --> 01:25:58,528
+Hey, you know what? I'm trying my best.
+
+1455
+01:26:03,741 --> 01:26:05,910
+Okay. I'm gonna go
+try to pick up a car.
+
+1456
+01:26:05,910 --> 01:26:08,538
+I bet you can do it.
+
+1457
+01:26:14,419 --> 01:26:15,336
+Love it.
+
+1458
+01:26:15,336 --> 01:26:16,296
+Hey.
