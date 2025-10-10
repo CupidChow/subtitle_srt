@@ -1,0 +1,5103 @@
+1
+00:01:56,783 --> 00:01:57,784
+ALL ABOUT CODING
+A REINTERPRETATION OF CODING
+
+2
+00:01:57,867 --> 00:01:58,993
+COMPUTER SCIENCE BASICS
+
+3
+00:02:01,287 --> 00:02:03,164
+GRAND PRIZE
+THE 2020 CYBERSECURITY COMPETITION
+
+4
+00:02:10,213 --> 00:02:11,714
+You're up.
+
+5
+00:02:11,798 --> 00:02:14,217
+I made your favorite dish, gimbap.
+Hurry and eat.
+
+6
+00:02:32,944 --> 00:02:34,028
+And for our next story.
+
+7
+00:02:34,112 --> 00:02:37,073
+The largest class-action lawsuit
+in South Korean judicial history
+
+8
+00:02:37,157 --> 00:02:38,324
+is about to begin.
+
+9
+00:02:38,408 --> 00:02:40,410
+Users of the online shopping mall, Raon,
+
+10
+00:02:40,493 --> 00:02:43,246
+are seeking damages
+for a personal data breach.
+
+11
+00:02:43,329 --> 00:02:46,291
+The number of co-litigators alone
+is over 30 million,
+
+12
+00:02:46,374 --> 00:02:48,710
+and the amount being claimed
+is close to three trillion won.
+
+13
+00:02:49,335 --> 00:02:50,378
+Taesan Law Firm,
+
+14
+00:02:50,461 --> 00:02:52,714
+to which Minister of Justice candidate
+Tae Su-mi is affiliated,
+
+15
+00:02:52,797 --> 00:02:55,341
+filed a lawsuit with
+the Seoul Central District Court
+
+16
+00:02:55,425 --> 00:02:57,093
+on behalf of Raon users.
+
+17
+00:02:57,176 --> 00:03:00,138
+Meanwhile, Bae In-cheol,
+the founder and CEO of Raon,
+
+18
+00:03:00,221 --> 00:03:02,724
+is still unconscious
+after he ingested poison
+
+19
+00:03:02,807 --> 00:03:04,893
+during the trial with the KCC
+
+20
+00:03:04,976 --> 00:03:08,187
+over the amount of the penalty surcharge
+for the personal data breach.
+
+21
+00:03:08,271 --> 00:03:11,316
+There are growing concerns that Raon,
+
+22
+00:03:11,399 --> 00:03:15,278
+the nation's largest e-commerce company,
+will go bankrupt due to the large sum
+
+23
+00:03:15,361 --> 00:03:17,572
+of three trillion won
+that is being claimed as damages.
+
+24
+00:03:20,658 --> 00:03:23,286
+Why are all the news reports
+going in this direction?
+
+25
+00:03:23,828 --> 00:03:25,955
+Did Hanbada do something?
+
+26
+00:03:26,039 --> 00:03:27,290
+What's our PR team doing?
+
+27
+00:03:27,373 --> 00:03:30,001
+I'll pass your comments
+along to the PR team.
+
+28
+00:03:30,084 --> 00:03:34,631
+It shouldn't seem like the powerful Taesan
+is running poor Raon out of business.
+
+29
+00:03:34,714 --> 00:03:36,966
+That's what Hanbada
+is going for right now.
+
+30
+00:03:37,050 --> 00:03:40,386
+That's why they keep bringing my name up
+and stressing how Raon's CEO collapsed.
+
+31
+00:03:40,470 --> 00:03:41,846
+-Don't you agree?
+-Yes.
+
+32
+00:03:43,223 --> 00:03:45,642
+Taesan usually works with companies,
+
+33
+00:03:45,725 --> 00:03:48,561
+and standing with the consumers
+in this lawsuit
+
+34
+00:03:48,645 --> 00:03:50,104
+is actually a show of great courage.
+
+35
+00:03:50,188 --> 00:03:53,983
+We have to promote that
+we're representing 30 million citizens
+
+36
+00:03:54,067 --> 00:03:55,944
+despite the risk
+of looking like we're attacking
+
+37
+00:03:56,027 --> 00:03:57,362
+our existing clients as well.
+
+38
+00:03:58,196 --> 00:03:59,155
+Mom.
+
+39
+00:04:00,198 --> 00:04:01,574
+I have something to tell you.
+
+40
+00:04:01,658 --> 00:04:03,826
+-I'm working right now, so--
+-I did it.
+
+41
+00:04:04,869 --> 00:04:05,703
+What?
+
+42
+00:04:06,579 --> 00:04:07,622
+I did it.
+
+43
+00:04:08,539 --> 00:04:09,666
+I hacked into Raon.
+
+44
+00:04:28,935 --> 00:04:31,354
+I'm glad you told me the truth.
+
+45
+00:04:32,605 --> 00:04:35,233
+But from now on, you can't tell anyone.
+
+46
+00:04:36,276 --> 00:04:37,860
+I'll take care of everything.
+
+47
+00:04:43,783 --> 00:04:45,285
+What are you going to do?
+
+48
+00:04:47,412 --> 00:04:49,122
+Will you go to the police with me?
+
+49
+00:04:50,748 --> 00:04:53,334
+Why do you keep bringing up the police?
+
+50
+00:04:54,919 --> 00:04:56,671
+Let's say that we do go.
+
+51
+00:04:57,505 --> 00:04:59,424
+What do you think will happen after that?
+
+52
+00:04:59,507 --> 00:05:01,259
+Do you have any idea
+
+53
+00:05:01,342 --> 00:05:03,845
+how scary and agonizing it is
+to be punished by the law?
+
+54
+00:05:08,141 --> 00:05:11,394
+Mom, I'm already scared and in agony.
+
+55
+00:05:12,353 --> 00:05:14,981
+If getting punished
+will make this situation any better,
+
+56
+00:05:15,898 --> 00:05:16,941
+I'll take it.
+
+57
+00:05:17,442 --> 00:05:18,860
+I did it.
+
+58
+00:05:19,485 --> 00:05:22,697
+I'm the reason Raon is ruined
+and In-cheol is in that state.
+
+59
+00:05:22,780 --> 00:05:23,990
+Choi Sang-hyeon!
+
+60
+00:05:26,534 --> 00:05:28,036
+Do you not think about your mom?
+
+61
+00:05:28,661 --> 00:05:31,080
+Don't you know how much is
+at stake for me right now?
+
+62
+00:05:31,664 --> 00:05:33,583
+My confirmation hearing
+is right around the corner!
+
+63
+00:05:35,126 --> 00:05:36,169
+What…
+
+64
+00:05:37,128 --> 00:05:38,379
+does that have to do with this?
+
+65
+00:05:39,172 --> 00:05:42,425
+Are you afraid you might not
+become Minister because of me?
+
+66
+00:05:42,508 --> 00:05:43,468
+Yes!
+
+67
+00:05:44,927 --> 00:05:45,928
+How could you do something like this
+
+68
+00:05:46,012 --> 00:05:48,306
+when you know how much effort
+I've put into becoming Minister?
+
+69
+00:05:48,389 --> 00:05:49,974
+And now, of all times?
+
+70
+00:05:51,893 --> 00:05:53,686
+Did I ever expect a lot from you?
+
+71
+00:05:54,353 --> 00:05:56,355
+Did I ever tell you to get good grades?
+
+72
+00:05:56,439 --> 00:05:57,899
+All I ever wanted
+
+73
+00:05:58,608 --> 00:06:02,320
+was my son to grow up to be a good person!
+
+74
+00:06:02,403 --> 00:06:03,404
+What about you?
+
+75
+00:06:03,988 --> 00:06:05,740
+Have you only been good all your life?
+
+76
+00:06:06,449 --> 00:06:07,617
+You don't think I know?
+
+77
+00:06:08,201 --> 00:06:09,786
+-What?
+-Woo Young-woo!
+
+78
+00:06:13,664 --> 00:06:15,124
+You don't think I know?
+
+79
+00:06:26,928 --> 00:06:32,475
+CASE 16
+THOUGH UNUSUAL AND PECULIAR
+
+80
+00:06:52,537 --> 00:06:56,207
+Is there really no way
+for you to come in a bit faster?
+
+81
+00:06:56,290 --> 00:06:57,291
+Right.
+
+82
+00:06:57,375 --> 00:07:02,755
+Then from now on,
+I'll count "one, two, three" a bit--
+
+83
+00:07:02,839 --> 00:07:04,799
+Whatever. Did you self-reflect?
+
+84
+00:07:05,341 --> 00:07:06,175
+Sorry?
+
+85
+00:07:06,259 --> 00:07:09,428
+Did the three of you self-reflect
+on what you did?
+
+86
+00:07:10,972 --> 00:07:13,933
+Yes, I did some deep self-reflection.
+
+87
+00:07:15,893 --> 00:07:18,062
+From now on, I'll be sure
+to abide by the rules and procedures,
+
+88
+00:07:18,146 --> 00:07:19,939
+and not give my opinion as I please.
+
+89
+00:07:20,022 --> 00:07:21,566
+I knew a Hana University graduate
+would know better.
+
+90
+00:07:22,483 --> 00:07:23,693
+That's right.
+
+91
+00:07:24,193 --> 00:07:29,073
+I'm not upset about rookies
+giving their opinions, okay?
+
+92
+00:07:29,157 --> 00:07:31,951
+I'm really not that uptight.
+
+93
+00:07:32,034 --> 00:07:33,786
+But last time, you said,
+
+94
+00:07:33,870 --> 00:07:35,371
+"Don't say anything
+you haven't been asked,
+
+95
+00:07:35,455 --> 00:07:37,081
+and don't do anything you haven't…"
+
+96
+00:07:40,293 --> 00:07:42,503
+-Hello, ma'am.
+-Sit down, everyone.
+
+97
+00:07:43,004 --> 00:07:43,838
+Sit.
+
+98
+00:07:45,631 --> 00:07:47,258
+Let's not be like that, okay?
+
+99
+00:07:49,051 --> 00:07:50,303
+Sit.
+
+100
+00:07:51,554 --> 00:07:55,057
+I'll be joining the Raon lawsuit
+going forward.
+
+101
+00:07:55,141 --> 00:07:57,101
+There's not much time left
+until the first trial, right?
+
+102
+00:07:57,685 --> 00:07:58,853
+What's our strategy?
+
+103
+00:07:58,936 --> 00:08:03,191
+First, we plan to emphasize
+the results of the lawsuit against the KCC
+
+104
+00:08:03,274 --> 00:08:06,777
+since it was clearly proven that
+
+105
+00:08:06,861 --> 00:08:09,697
+Raon not having the idle timeout set up
+wasn't the direct cause
+
+106
+00:08:09,780 --> 00:08:11,324
+of the personal data breach.
+
+107
+00:08:11,407 --> 00:08:12,283
+All right.
+
+108
+00:08:12,992 --> 00:08:14,702
+Because we won the previous trial,
+
+109
+00:08:14,785 --> 00:08:17,455
+we can start this lawsuit
+in our favor too.
+
+110
+00:08:18,748 --> 00:08:22,251
+As always, I'm glad we have you,
+Attorney Jang.
+
+111
+00:08:23,085 --> 00:08:26,672
+To argue that the hack began
+before the law was revised
+
+112
+00:08:26,756 --> 00:08:28,299
+is something you can only find
+
+113
+00:08:28,382 --> 00:08:30,343
+by looking really closely
+at the details, right?
+
+114
+00:08:30,426 --> 00:08:31,260
+Nice work.
+
+115
+00:08:36,849 --> 00:08:39,810
+We always learn a lot from Attorney Jang.
+
+116
+00:08:41,354 --> 00:08:42,313
+Right.
+
+117
+00:08:42,396 --> 00:08:43,856
+How is Mr. Bae In-cheol doing?
+
+118
+00:08:43,940 --> 00:08:46,609
+He's still unconscious,
+
+119
+00:08:46,692 --> 00:08:48,444
+so it seems that
+the board of directors at Raon
+
+120
+00:08:48,528 --> 00:08:52,114
+will be appointing Kim Chan-hong
+as an independent CEO.
+
+121
+00:08:52,198 --> 00:08:54,575
+That way Mr. Kim can have the authority
+
+122
+00:08:54,659 --> 00:08:59,455
+to make decisions by himself
+even in Mr. Bae's absence.
+
+123
+00:09:00,039 --> 00:09:01,415
+CEO KIM CHAN-HONG
+
+124
+00:09:01,499 --> 00:09:03,543
+Then according to the decision
+of Raon's board of directors,
+
+125
+00:09:04,502 --> 00:09:06,546
+we will abolish the co-CEO system
+
+126
+00:09:06,629 --> 00:09:10,424
+and change it to an independent CEO system
+with both Bae In-cheol and Kim Chan-hong.
+
+127
+00:09:11,259 --> 00:09:13,344
+Mr. Kim, would you like to say something?
+
+128
+00:09:25,648 --> 00:09:27,608
+After founding Raon with In-cheol, I mean…
+
+129
+00:09:29,026 --> 00:09:32,405
+Mr. Bae In-cheol and I
+
+130
+00:09:33,489 --> 00:09:35,825
+have always decided on matters together,
+
+131
+00:09:36,617 --> 00:09:38,953
+whether they were big or small.
+
+132
+00:09:39,620 --> 00:09:43,749
+But with Raon going through a crisis,
+and with In-cheol being sick,
+
+133
+00:09:44,250 --> 00:09:46,377
+I've become an independent CEO
+
+134
+00:09:46,460 --> 00:09:48,838
+and am taking on
+a much bigger responsibility.
+
+135
+00:09:49,922 --> 00:09:53,050
+Yes, it's true this is a lot of pressure.
+
+136
+00:09:54,051 --> 00:09:56,637
+But I will do my best to fulfill not only
+my responsibilities but Mr. Bae's as well.
+
+137
+00:09:57,597 --> 00:09:59,140
+Members of the board of directors,
+
+138
+00:09:59,223 --> 00:10:03,269
+Raon will overcome this crisis
+no matter what.
+
+139
+00:10:18,284 --> 00:10:20,411
+It keeps coming off.
+
+140
+00:10:27,918 --> 00:10:30,087
+-Attorney Jung.
+-Hey.
+
+141
+00:10:30,880 --> 00:10:32,131
+You came to visit me?
+
+142
+00:10:32,214 --> 00:10:33,841
+Aren't you really busy right now?
+
+143
+00:10:33,924 --> 00:10:36,093
+We're sorry we couldn't visit sooner.
+
+144
+00:10:36,177 --> 00:10:37,762
+How are you feeling?
+
+145
+00:10:37,845 --> 00:10:39,096
+I'm fine.
+
+146
+00:10:39,180 --> 00:10:42,016
+The surgery went well,
+and I'm slowly recovering.
+
+147
+00:10:42,099 --> 00:10:46,937
+Attorney Kwon, I'm sorry,
+but could you pick up that comb for me?
+
+148
+00:10:49,398 --> 00:10:50,566
+Thanks.
+
+149
+00:10:50,650 --> 00:10:54,779
+I couldn't pick it up for hours,
+so I haven't been able to comb my hair.
+
+150
+00:10:54,862 --> 00:10:58,491
+Were you alone here this whole time?
+You don't have anyone taking care of you?
+
+151
+00:10:58,574 --> 00:11:01,535
+My mother was supposed to come
+instead of the caregiver today,
+
+152
+00:11:01,619 --> 00:11:04,205
+but I told her to stay home
+and get some rest.
+
+153
+00:11:04,288 --> 00:11:06,415
+My ex-wife is coming today.
+
+154
+00:11:06,499 --> 00:11:09,835
+Is that why you have that face mask on?
+
+155
+00:11:09,919 --> 00:11:12,254
+Yes. To look pretty.
+
+156
+00:11:17,843 --> 00:11:18,719
+You are pretty.
+
+157
+00:11:23,057 --> 00:11:24,100
+I mean…
+
+158
+00:11:24,767 --> 00:11:25,643
+You look dewy.
+
+159
+00:11:25,726 --> 00:11:26,602
+Right.
+
+160
+00:11:27,228 --> 00:11:29,105
+Really? Do I?
+
+161
+00:11:29,188 --> 00:11:30,481
+I see.
+
+162
+00:11:32,775 --> 00:11:35,945
+The two of you should also
+start taking care of your health now.
+
+163
+00:11:36,028 --> 00:11:38,030
+If you count on your youth
+and pull all-nighters
+
+164
+00:11:38,114 --> 00:11:39,657
+while skipping meals all the time,
+
+165
+00:11:40,408 --> 00:11:42,827
+you'll start getting sick
+as soon as you turn 40.
+
+166
+00:11:42,910 --> 00:11:47,832
+I'm sure there are a lot of sick attorneys
+in our firm besides me.
+
+167
+00:11:47,915 --> 00:11:49,667
+Actually, I heard Attorney Kim Ji-yong
+
+168
+00:11:49,750 --> 00:11:51,836
+has facial nerve paralysis
+from all the stress.
+
+169
+00:11:51,919 --> 00:11:53,003
+What?
+
+170
+00:11:53,087 --> 00:11:54,922
+Attorney Shin Seung-jae was also sick.
+
+171
+00:11:55,005 --> 00:11:57,591
+He kept overworking
+and came down with Meniere's disease.
+
+172
+00:11:57,675 --> 00:11:59,051
+Gosh.
+
+173
+00:12:05,391 --> 00:12:06,517
+Hello.
+
+174
+00:12:09,103 --> 00:12:10,521
+Then we will…
+
+175
+00:12:11,188 --> 00:12:12,773
+Yes, we should get going.
+
+176
+00:12:12,857 --> 00:12:13,732
+Yes, okay.
+
+177
+00:12:13,816 --> 00:12:14,775
+What?
+
+178
+00:12:14,859 --> 00:12:16,277
+Already? But you just got here.
+
+179
+00:12:16,360 --> 00:12:17,695
+We'll come back another time.
+
+180
+00:12:17,778 --> 00:12:19,530
+We'll leave you two alone.
+
+181
+00:12:40,718 --> 00:12:43,846
+You look well.
+
+182
+00:12:43,929 --> 00:12:45,473
+Really?
+
+183
+00:12:47,892 --> 00:12:49,310
+Do I look dewy?
+
+184
+00:12:59,153 --> 00:13:00,279
+Watch this.
+
+185
+00:13:01,113 --> 00:13:02,156
+What is it?
+
+186
+00:13:02,239 --> 00:13:03,741
+Soonpoong Clinic.
+
+187
+00:13:04,450 --> 00:13:05,743
+Soonpoong Clinic?
+
+188
+00:13:05,826 --> 00:13:07,203
+You used to like it.
+
+189
+00:13:07,912 --> 00:13:10,706
+I bought all of the episodes in HD.
+
+190
+00:13:10,789 --> 00:13:14,502
+Right. Thanks.
+Now I'll have a reason to laugh.
+
+191
+00:13:22,384 --> 00:13:23,219
+Ji-su.
+
+192
+00:13:25,095 --> 00:13:27,306
+When I'm discharged…
+
+193
+00:13:28,474 --> 00:13:29,975
+do you want to go to Jeju Island?
+
+194
+00:13:34,730 --> 00:13:37,608
+I mean, there's this place
+that sells great meat noodles.
+
+195
+00:13:37,691 --> 00:13:38,984
+We should go there together.
+
+196
+00:13:39,568 --> 00:13:42,112
+I'll buy you meat noodles.
+
+197
+00:13:43,572 --> 00:13:45,115
+When you were young and healthy,
+
+198
+00:13:45,199 --> 00:13:47,243
+you were crazy about work
+and I always came second.
+
+199
+00:13:47,910 --> 00:13:49,203
+What's gotten into you
+
+200
+00:13:49,870 --> 00:13:51,247
+now that you're old and sick?
+
+201
+00:13:52,039 --> 00:13:53,082
+I'm sorry.
+
+202
+00:13:55,209 --> 00:13:56,710
+But, still…
+
+203
+00:13:57,461 --> 00:13:59,505
+I made quite a lot of money.
+
+204
+00:14:00,130 --> 00:14:02,675
+Thanks to only focusing on work
+until I got old and sick.
+
+205
+00:14:07,179 --> 00:14:08,889
+Then can you quit the firm?
+
+206
+00:14:10,683 --> 00:14:11,517
+What?
+
+207
+00:14:11,600 --> 00:14:15,229
+Once you're discharged and you return
+to Hanbada, nothing will change.
+
+208
+00:14:16,522 --> 00:14:19,024
+The workload or how intense it is.
+
+209
+00:14:19,108 --> 00:14:21,151
+You can't do anything about that
+on your own.
+
+210
+00:14:22,236 --> 00:14:25,823
+You should move to a firm where
+you can have a good work-life balance.
+
+211
+00:14:26,782 --> 00:14:27,825
+Right.
+
+212
+00:14:28,868 --> 00:14:31,412
+Looks like you never once thought
+about leaving the firm
+
+213
+00:14:31,495 --> 00:14:33,747
+even when you got this sick.
+
+214
+00:14:34,957 --> 00:14:37,459
+That's so you.
+
+215
+00:14:40,546 --> 00:14:41,547
+No, well…
+
+216
+00:14:42,214 --> 00:14:43,757
+I'll think about it from now on.
+
+217
+00:14:44,341 --> 00:14:46,468
+If I really think it's necessary…
+
+218
+00:14:50,973 --> 00:14:52,641
+I'll quit my job at Hanbada.
+
+219
+00:14:56,145 --> 00:14:57,563
+I'll change.
+
+220
+00:15:00,649 --> 00:15:01,734
+So be with me.
+
+221
+00:15:09,617 --> 00:15:10,659
+Please?
+
+222
+00:15:14,455 --> 00:15:16,332
+It's been a while, Attorney Kwon.
+
+223
+00:15:16,415 --> 00:15:17,458
+Yes.
+
+224
+00:15:17,541 --> 00:15:19,668
+So what is it that you wanted to say?
+
+225
+00:15:22,504 --> 00:15:24,840
+If I were Attorney Woo,
+
+226
+00:15:24,924 --> 00:15:28,052
+I would want to quit Hanbada right now.
+
+227
+00:15:30,012 --> 00:15:31,430
+Really?
+
+228
+00:15:31,513 --> 00:15:32,348
+Why?
+
+229
+00:15:32,431 --> 00:15:34,934
+The mentor who was nice to her
+isn't at the firm because he's sick,
+
+230
+00:15:35,017 --> 00:15:37,895
+and the new senior attorney
+that she's working with hates her.
+
+231
+00:15:39,188 --> 00:15:41,607
+She also recently broke up
+with the guy she was dating at the firm.
+
+232
+00:15:42,608 --> 00:15:43,901
+"Dating at the firm"?
+
+233
+00:15:44,902 --> 00:15:47,696
+Attorney Woo was in a relationship?
+
+234
+00:15:48,364 --> 00:15:49,406
+Yes.
+
+235
+00:15:51,575 --> 00:15:52,743
+Gosh, I see.
+
+236
+00:15:53,744 --> 00:15:54,828
+Anyway…
+
+237
+00:15:55,829 --> 00:16:00,501
+Now would be the right time
+to make Attorney Woo quit Hanbada.
+
+238
+00:16:00,584 --> 00:16:03,045
+I came to tell you that.
+
+239
+00:16:04,338 --> 00:16:06,715
+So in the end,
+you couldn't accomplish this yourself.
+
+240
+00:16:07,841 --> 00:16:09,718
+-Excuse me?
+-Attorney Kwon.
+
+241
+00:16:10,636 --> 00:16:13,889
+You said you would make Attorney Woo
+quit Hanbada.
+
+242
+00:16:14,556 --> 00:16:16,642
+Whether she quits or gets fired.
+
+243
+00:16:17,142 --> 00:16:19,269
+I think that was our deal, wasn't it?
+
+244
+00:16:20,062 --> 00:16:21,063
+You're right.
+
+245
+00:16:21,146 --> 00:16:23,065
+It's also true that
+I wasn't able to accomplish it myself.
+
+246
+00:16:23,691 --> 00:16:24,692
+Are you giving up?
+
+247
+00:16:28,028 --> 00:16:29,029
+Yes.
+
+248
+00:16:29,697 --> 00:16:31,156
+I'm going to stop now.
+
+249
+00:16:32,157 --> 00:16:33,283
+Why?
+
+250
+00:16:33,367 --> 00:16:34,410
+From now on…
+
+251
+00:16:41,083 --> 00:16:42,126
+I think…
+
+252
+00:16:44,378 --> 00:16:46,588
+I'm going to try living like a fool.
+
+253
+00:17:03,939 --> 00:17:05,024
+Well…
+
+254
+00:17:05,774 --> 00:17:09,153
+I understand where you are coming from…
+
+255
+00:17:10,738 --> 00:17:13,907
+but I like you.
+
+256
+00:17:16,410 --> 00:17:18,662
+Because I like you…
+
+257
+00:17:20,664 --> 00:17:22,708
+Since I like you…
+
+258
+00:17:23,208 --> 00:17:25,085
+Since I like you…
+
+259
+00:17:38,640 --> 00:17:39,808
+Excuse me.
+
+260
+00:17:41,518 --> 00:17:42,644
+Attorney Woo.
+
+261
+00:17:45,355 --> 00:17:46,440
+Who are you?
+
+262
+00:17:46,523 --> 00:17:47,566
+And who are you?
+
+263
+00:17:47,649 --> 00:17:48,692
+I asked who you were!
+
+264
+00:17:51,570 --> 00:17:53,030
+You're Attorney Woo, right?
+
+265
+00:17:53,739 --> 00:17:55,240
+I have a message for you.
+
+266
+00:18:02,915 --> 00:18:04,333
+TAESAN LAW FIRM
+
+267
+00:18:05,626 --> 00:18:07,086
+Taesan Law Firm?
+
+268
+00:18:08,837 --> 00:18:11,423
+If you have a message for her,
+you should send it to the firm.
+
+269
+00:18:11,507 --> 00:18:13,717
+What are you doing
+coming to her house at this hour?
+
+270
+00:18:13,801 --> 00:18:17,096
+-Are you really a Taesan employee?
+-Who are you to be butting in?
+
+271
+00:18:17,179 --> 00:18:18,972
+Are you her guardian or something?
+
+272
+00:18:19,056 --> 00:18:20,057
+I'm…
+
+273
+00:18:22,893 --> 00:18:23,727
+Well…
+
+274
+00:18:24,686 --> 00:18:26,730
+Deliver the message you came to tell me.
+
+275
+00:18:26,814 --> 00:18:28,732
+I will listen to it with Jun-ho.
+
+276
+00:18:32,653 --> 00:18:35,405
+Attorney Woo, would you like to work
+
+277
+00:18:36,115 --> 00:18:38,450
+at Taesan's US office in Boston?
+
+278
+00:18:40,035 --> 00:18:42,538
+Of course, Taesan will provide housing
+for you and your father
+
+279
+00:18:42,621 --> 00:18:46,083
+as well as any necessary
+educational and living expenses.
+
+280
+00:18:47,000 --> 00:18:50,754
+And your salary will be more than double
+what you get at Hanbada right now.
+
+281
+00:18:50,838 --> 00:18:53,298
+Especially for you, Attorney Woo…
+
+282
+00:18:55,801 --> 00:18:58,053
+we will introduce you
+to a professional counselor
+
+283
+00:18:58,137 --> 00:19:00,889
+and Taesan will pay
+for the counseling fees as well.
+
+284
+00:19:02,432 --> 00:19:04,268
+A professional counselor?
+
+285
+00:19:04,935 --> 00:19:07,396
+I'm talking about a counselor
+who specializes
+
+286
+00:19:07,479 --> 00:19:08,814
+in autism spectrum disorder.
+
+287
+00:19:09,815 --> 00:19:10,649
+Right.
+
+288
+00:19:10,732 --> 00:19:12,067
+Attorney Woo.
+
+289
+00:19:13,026 --> 00:19:16,864
+Boston is a city
+with a variety of active communities
+
+290
+00:19:16,947 --> 00:19:18,240
+for those with autism.
+
+291
+00:19:18,866 --> 00:19:20,576
+You won't be lonely living there.
+
+292
+00:19:20,659 --> 00:19:22,911
+But why are you
+making a job offer like this?
+
+293
+00:19:22,995 --> 00:19:26,582
+I've never seen someone recruit a person
+by staking out in front of their house.
+
+294
+00:19:30,085 --> 00:19:32,045
+Is Attorney Tae Su-mi
+
+295
+00:19:32,880 --> 00:19:34,423
+the one who made the offer?
+
+296
+00:19:34,506 --> 00:19:36,925
+Yes, that's right.
+
+297
+00:19:37,634 --> 00:19:40,512
+Not Taesan's HR team, but Attorney Tae?
+
+298
+00:19:41,013 --> 00:19:42,890
+My business card is in the envelope.
+
+299
+00:19:42,973 --> 00:19:45,309
+Think about it and contact me anytime.
+
+300
+00:19:57,446 --> 00:19:58,488
+Jun-ho,
+
+301
+00:19:59,281 --> 00:20:01,408
+do you have something to say to me too?
+
+302
+00:20:01,992 --> 00:20:02,868
+What?
+
+303
+00:20:04,870 --> 00:20:05,871
+Right.
+
+304
+00:20:05,954 --> 00:20:07,539
+Yes, I…
+
+305
+00:20:12,586 --> 00:20:14,588
+I'll tell you some other time.
+
+306
+00:20:15,672 --> 00:20:17,466
+You must have a lot to think about.
+
+307
+00:20:18,217 --> 00:20:19,509
+You should get some rest.
+
+308
+00:20:21,720 --> 00:20:22,763
+Okay.
+
+309
+00:20:39,112 --> 00:20:40,364
+I'm home.
+
+310
+00:20:41,490 --> 00:20:42,366
+Hey, you're here.
+
+311
+00:20:42,950 --> 00:20:43,784
+Young-woo.
+
+312
+00:20:46,245 --> 00:20:47,913
+Can you come sit here for a second?
+
+313
+00:20:49,456 --> 00:20:50,832
+We need to talk.
+
+314
+00:20:59,508 --> 00:21:00,509
+So…
+
+315
+00:21:01,301 --> 00:21:02,511
+A few days ago,
+
+316
+00:21:04,721 --> 00:21:06,265
+Seon-young came by.
+
+317
+00:21:07,808 --> 00:21:08,809
+"Seon-young"?
+
+318
+00:21:08,892 --> 00:21:10,602
+Your CEO, Han Seon-young.
+
+319
+00:21:11,186 --> 00:21:12,062
+Right.
+
+320
+00:21:14,022 --> 00:21:15,065
+What?
+
+321
+00:21:15,148 --> 00:21:17,818
+Anyway, it looks like…
+
+322
+00:21:20,362 --> 00:21:24,408
+she's planning on revealing everything
+to the press
+
+323
+00:21:25,242 --> 00:21:27,035
+right before Tae Su-mi's
+confirmation hearing.
+
+324
+00:21:34,251 --> 00:21:36,086
+That you're the child…
+
+325
+00:21:38,046 --> 00:21:39,089
+Tae Su-mi had out of wedlock.
+
+326
+00:21:45,971 --> 00:21:47,097
+If that happens,
+
+327
+00:21:48,807 --> 00:21:51,393
+the world's attention
+will not only be on Tae Su-mi
+
+328
+00:21:51,476 --> 00:21:52,936
+but also on you, Young-woo.
+
+329
+00:21:53,770 --> 00:21:57,899
+Then reporters will come to you
+every day and bother you.
+
+330
+00:22:00,569 --> 00:22:02,654
+So Seon-young suggested that
+
+331
+00:22:04,323 --> 00:22:08,368
+we go to some resort in the countryside
+and stay hidden until things die down.
+
+332
+00:22:12,205 --> 00:22:14,249
+Paid leave, basically.
+
+333
+00:22:30,057 --> 00:22:31,558
+Did you get this from Tae Su-mi?
+
+334
+00:22:32,517 --> 00:22:33,727
+When?
+
+335
+00:22:34,478 --> 00:22:37,355
+I got it from a Taesan employee just now.
+
+336
+00:22:42,402 --> 00:22:45,447
+I guess Tae Su-mi's offer for us
+to go to the States is still valid.
+
+337
+00:22:48,575 --> 00:22:51,203
+You already knew about this?
+
+338
+00:22:58,126 --> 00:23:01,213
+I would hate to comply with
+Tae Su-mi's wishes.
+
+339
+00:23:03,215 --> 00:23:04,466
+But right now,
+
+340
+00:23:06,301 --> 00:23:08,553
+that seems like the better option.
+
+341
+00:23:11,348 --> 00:23:13,725
+Rather than continuing to work here
+
+342
+00:23:14,976 --> 00:23:18,396
+while being the target of gossip
+and being labeled as Tae Su-mi's daughter,
+
+343
+00:23:21,441 --> 00:23:23,193
+leaving for the States seems better.
+
+344
+00:23:30,575 --> 00:23:32,119
+What do you think, Young-woo?
+
+345
+00:23:37,541 --> 00:23:39,459
+I'm not sure.
+
+346
+00:23:42,879 --> 00:23:44,631
+So far, my life has had
+
+347
+00:23:45,382 --> 00:23:48,468
+nothing to do with Attorney Tae Su-mi.
+
+348
+00:23:49,970 --> 00:23:53,098
+I don't understand why
+
+349
+00:23:54,307 --> 00:23:56,226
+I have to hide all of a sudden
+
+350
+00:23:59,229 --> 00:24:00,897
+and go to the States.
+
+351
+00:24:01,690 --> 00:24:02,816
+You're right.
+
+352
+00:24:07,529 --> 00:24:08,947
+I'm sorry, Young-woo.
+
+353
+00:24:10,866 --> 00:24:11,950
+I'm…
+
+354
+00:24:15,954 --> 00:24:17,289
+sorry…
+
+355
+00:24:19,207 --> 00:24:20,542
+for everything.
+
+356
+00:24:30,051 --> 00:24:30,969
+Your Honor,
+
+357
+00:24:31,928 --> 00:24:36,266
+despite the defendant
+being a large e-commerce company
+
+358
+00:24:36,349 --> 00:24:38,351
+that needs to manage the personal data
+of more than 40 million users,
+
+359
+00:24:38,977 --> 00:24:41,855
+they had not established
+an appropriate security system.
+
+360
+00:24:42,439 --> 00:24:45,525
+Not only were they imposed with
+a 30 million won administrative fine
+
+361
+00:24:45,609 --> 00:24:48,737
+for not putting a limitation
+on the maximum connection time…
+
+362
+00:24:48,820 --> 00:24:49,738
+Your Honor.
+
+363
+00:24:49,821 --> 00:24:52,949
+But their response after the leak
+was also appalling.
+
+364
+00:24:53,033 --> 00:24:55,660
+According to Article 34 of the
+Personal Information Protection Act,
+
+365
+00:24:55,744 --> 00:24:56,995
+a personal information controller
+
+366
+00:24:57,078 --> 00:24:58,914
+must notify data subjects
+of the personal data breach
+
+367
+00:24:58,997 --> 00:25:01,208
+as soon as they become aware of it.
+
+368
+00:25:01,791 --> 00:25:06,671
+However, despite being aware
+of the hack on January 19, 2022,
+
+369
+00:25:06,755 --> 00:25:10,383
+the defendant reported it to the police
+a week later on January 26th.
+
+370
+00:25:11,801 --> 00:25:13,553
+And they notified users of the hack
+
+371
+00:25:13,637 --> 00:25:15,889
+through the Raon website
+
+372
+00:25:16,389 --> 00:25:18,934
+on February 20th,
+a month after the incident.
+
+373
+00:25:19,935 --> 00:25:21,728
+The defendant's complacent response
+
+374
+00:25:22,270 --> 00:25:25,315
+is what prevented a quick resolution
+and handling of the incident.
+
+375
+00:25:25,398 --> 00:25:26,441
+That's right!
+
+376
+00:25:26,524 --> 00:25:28,526
+-What's wrong with you?
+-Goodness.
+
+377
+00:25:28,610 --> 00:25:30,820
+-It should've been notified earlier!
+-How could you do that?
+
+378
+00:25:30,904 --> 00:25:32,739
+Of course, you have to compensate!
+
+379
+00:25:32,822 --> 00:25:34,282
+How are you going to compensate?
+
+380
+00:25:34,991 --> 00:25:38,620
+You may be seated in the audience seats,
+
+381
+00:25:38,703 --> 00:25:40,497
+but aren't you all co-plaintiffs?
+
+382
+00:25:40,580 --> 00:25:45,252
+As the litigants, please do not interrupt
+the proceedings of the trial.
+
+383
+00:25:56,096 --> 00:25:57,430
+Come in.
+
+384
+00:26:03,520 --> 00:26:07,399
+Someone who claims to be
+your younger brother wants to see you.
+
+385
+00:26:10,277 --> 00:26:11,569
+My younger brother?
+
+386
+00:26:11,653 --> 00:26:12,529
+Yes.
+
+387
+00:26:12,612 --> 00:26:15,031
+He said you would know
+if I said he was your younger brother.
+
+388
+00:26:15,115 --> 00:26:17,200
+And that he can't tell me his name.
+
+389
+00:26:21,621 --> 00:26:23,790
+Should I tell him you're busy?
+
+390
+00:26:27,669 --> 00:26:28,628
+No.
+
+391
+00:26:30,046 --> 00:26:31,548
+Please send him in.
+
+392
+00:26:32,173 --> 00:26:33,341
+Okay.
+
+393
+00:26:54,612 --> 00:26:55,780
+Who are you?
+
+394
+00:26:56,281 --> 00:26:57,324
+Choi Sang-hyeon.
+
+395
+00:26:57,907 --> 00:26:58,908
+Tae Su-mi's son.
+
+396
+00:27:04,914 --> 00:27:07,042
+Why did you come to see me?
+
+397
+00:27:07,125 --> 00:27:08,877
+I want to come clean about what I did,
+
+398
+00:27:10,337 --> 00:27:11,755
+but I don't know how.
+
+399
+00:27:14,674 --> 00:27:16,259
+I hacked into Raon.
+
+400
+00:27:18,678 --> 00:27:20,096
+Because Chan-hong asked me to.
+
+401
+00:27:21,514 --> 00:27:22,515
+What?
+
+402
+00:27:28,521 --> 00:27:31,816
+I met Chan-hong
+at a cybersecurity competition.
+
+403
+00:27:33,068 --> 00:27:35,653
+He was a judge
+the year I won the grand prize.
+
+404
+00:27:36,363 --> 00:27:39,115
+We became close and met up often
+even after the competition.
+
+405
+00:27:39,199 --> 00:27:41,117
+He showed me around Raon too.
+
+406
+00:27:41,785 --> 00:27:43,661
+And he introduced me to In-cheol too.
+
+407
+00:27:44,746 --> 00:27:48,083
+Then one day, Chan-hong asked me
+
+408
+00:27:48,583 --> 00:27:52,420
+if I could hack into Raon
+and steal the users' personal data.
+
+409
+00:27:54,089 --> 00:27:56,383
+Are you saying Mr. Kim Chan-hong asked you
+
+410
+00:27:56,966 --> 00:27:59,719
+to hack into Raon?
+
+411
+00:28:00,637 --> 00:28:02,263
+The company where he's the CEO?
+
+412
+00:28:02,806 --> 00:28:03,848
+Why?
+
+413
+00:28:03,932 --> 00:28:06,017
+Because I want In-cheol
+to come to his senses.
+
+414
+00:28:07,102 --> 00:28:09,187
+In-cheol? Why?
+
+415
+00:28:09,270 --> 00:28:10,688
+He's lost sight of where we started.
+
+416
+00:28:11,314 --> 00:28:13,900
+Raon is a company
+created by two developers.
+
+417
+00:28:13,983 --> 00:28:16,986
+The developer's spirit
+is the basis of this business.
+
+418
+00:28:17,570 --> 00:28:21,408
+In-cheol has forgotten about all that
+and is just a businessman now.
+
+419
+00:28:22,033 --> 00:28:24,577
+He's only interested in making money
+by selling things.
+
+420
+00:28:24,661 --> 00:28:29,165
+He has no interest at all in investing
+in software development or security.
+
+421
+00:28:29,666 --> 00:28:31,334
+We'll use this opportunity
+
+422
+00:28:31,418 --> 00:28:34,796
+to properly remind him
+of that developer's spirit.
+
+423
+00:28:35,672 --> 00:28:36,589
+How?
+
+424
+00:28:47,058 --> 00:28:52,021
+What if you hack into Raon
+and steal the personal data of the users?
+
+425
+00:28:52,897 --> 00:28:55,150
+Then I'll try convincing In-cheol.
+
+426
+00:28:55,233 --> 00:28:59,279
+"I told you. We're being attacked
+because we're not investing in security."
+
+427
+00:29:01,281 --> 00:29:02,615
+Isn't it too risky?
+
+428
+00:29:03,158 --> 00:29:05,952
+If word gets out about the hack,
+the police will investigate.
+
+429
+00:29:06,661 --> 00:29:08,079
+I looked into it a lot.
+
+430
+00:29:08,872 --> 00:29:10,874
+A personal data breach is fine.
+
+431
+00:29:10,957 --> 00:29:12,876
+All we have to do
+is pay a fine of 100 million won
+
+432
+00:29:12,959 --> 00:29:15,962
+and upload an apology statement
+on our website.
+
+433
+00:29:16,713 --> 00:29:18,465
+All the other companies did that too.
+
+434
+00:29:20,383 --> 00:29:22,677
+Jeez, it's nothing.
+
+435
+00:29:26,765 --> 00:29:27,682
+So…
+
+436
+00:29:28,558 --> 00:29:29,559
+that's why I did it.
+
+437
+00:29:30,310 --> 00:29:33,772
+I left some clues to make it look like
+it was done by North Korea,
+
+438
+00:29:35,064 --> 00:29:37,317
+and then I stole
+the personal data of Raon users.
+
+439
+00:29:38,860 --> 00:29:42,781
+What did you do with the personal data?
+
+440
+00:29:42,864 --> 00:29:44,949
+I gave it to Chan-hong
+because he asked for it.
+
+441
+00:29:45,033 --> 00:29:46,075
+All encrypted.
+
+442
+00:29:47,035 --> 00:29:50,497
+But he kept asking me to decrypt it.
+
+443
+00:29:51,664 --> 00:29:52,791
+Why?
+
+444
+00:29:52,874 --> 00:29:53,792
+I don't know.
+
+445
+00:29:54,584 --> 00:29:57,378
+He kept talking nonsense
+about how he wanted to check
+
+446
+00:29:58,046 --> 00:30:00,173
+if it was really Raon users' data,
+so I just kept it encrypted.
+
+447
+00:30:00,965 --> 00:30:02,926
+Just in case he sells it off somewhere.
+
+448
+00:30:03,009 --> 00:30:04,135
+I see.
+
+449
+00:30:07,514 --> 00:30:09,724
+You carried out the hack
+according to your plan.
+
+450
+00:30:10,683 --> 00:30:12,936
+But why do you want to confess
+all of a sudden?
+
+451
+00:30:14,854 --> 00:30:16,064
+Because In-cheol…
+
+452
+00:30:18,650 --> 00:30:20,276
+attempted suicide.
+
+453
+00:30:22,612 --> 00:30:24,572
+I didn't know he would take it that hard.
+
+454
+00:30:25,448 --> 00:30:29,160
+I only did it because Chan-hong said
+it would end with just a small fine.
+
+455
+00:30:29,244 --> 00:30:31,246
+I wasn't trying to
+make In-cheol end up like that
+
+456
+00:30:32,288 --> 00:30:34,249
+and ruin Raon.
+
+457
+00:30:36,167 --> 00:30:39,337
+Shouldn't you go to the police to confess?
+
+458
+00:30:40,213 --> 00:30:42,465
+Why did you come to me?
+
+459
+00:30:42,549 --> 00:30:44,217
+I told my mom.
+
+460
+00:30:45,385 --> 00:30:47,512
+But she got mad
+and told me not to do anything.
+
+461
+00:30:48,096 --> 00:30:50,932
+I went to the police too,
+but they got on the phone with my mom
+
+462
+00:30:51,599 --> 00:30:53,309
+and then wouldn't even listen to me.
+
+463
+00:30:53,977 --> 00:30:55,395
+My mom is powerful.
+
+464
+00:30:56,187 --> 00:30:58,398
+People do whatever she tells them to do.
+
+465
+00:31:00,275 --> 00:31:01,442
+That's why I came here.
+
+466
+00:31:01,526 --> 00:31:02,360
+Because I thought…
+
+467
+00:31:04,237 --> 00:31:06,406
+my big sister wouldn't do as Mom says.
+
+468
+00:31:10,076 --> 00:31:10,994
+"Big sister"?
+
+469
+00:31:11,661 --> 00:31:14,330
+Our dads are different
+but we have the same mom.
+
+470
+00:31:15,206 --> 00:31:16,374
+So you're my big sister.
+
+471
+00:31:20,378 --> 00:31:21,588
+How did you know
+
+472
+00:31:22,505 --> 00:31:25,049
+that I was your big sister?
+
+473
+00:31:27,886 --> 00:31:29,053
+I heard the rumor…
+
+474
+00:31:30,555 --> 00:31:34,142
+that my mom had a child
+before she married my dad.
+
+475
+00:31:35,310 --> 00:31:37,228
+I thought it was just a false rumor.
+
+476
+00:31:37,312 --> 00:31:39,105
+But for a while, she was acting weird.
+
+477
+00:31:39,772 --> 00:31:43,276
+She would watch something in her room
+and get startled when I walked in.
+
+478
+00:31:44,068 --> 00:31:46,529
+So I hacked into her phone and computer.
+
+479
+00:31:47,363 --> 00:31:51,034
+And I saw that she looked up
+a lot of stuff about you.
+
+480
+00:31:51,951 --> 00:31:54,287
+I also saw her texts with Grandma
+talking about you.
+
+481
+00:31:55,288 --> 00:31:56,372
+That's how I knew.
+
+482
+00:32:04,589 --> 00:32:08,468
+How do you want me to help you?
+
+483
+00:32:16,851 --> 00:32:18,603
+I took a video of myself
+
+484
+00:32:19,270 --> 00:32:20,647
+confessing to the hack.
+
+485
+00:32:21,773 --> 00:32:24,359
+What if you use this
+as evidence during the trial?
+
+486
+00:32:24,442 --> 00:32:26,861
+Then wouldn't the police
+start investigating?
+
+487
+00:32:26,945 --> 00:32:28,613
+My mom wouldn't be able to stop it.
+
+488
+00:32:31,074 --> 00:32:33,785
+Mr. Kim Chan-hong is my client.
+
+489
+00:32:33,868 --> 00:32:35,078
+Therefore,
+
+490
+00:32:35,620 --> 00:32:39,499
+I cannot reveal the fact
+that Mr. Kim had you hack
+
+491
+00:32:39,582 --> 00:32:41,000
+into his own company.
+
+492
+00:32:41,542 --> 00:32:45,046
+Because it's against
+my client's interests.
+
+493
+00:32:45,129 --> 00:32:46,339
+What kind of person…
+
+494
+00:32:48,633 --> 00:32:50,218
+do you think Mom is?
+
+495
+00:32:51,970 --> 00:32:54,097
+-Sorry?
+-People think…
+
+496
+00:32:55,765 --> 00:32:58,601
+that those who are born rich
+don't get punished.
+
+497
+00:33:00,353 --> 00:33:03,439
+Whether it's drugs,
+drunk driving, or assault.
+
+498
+00:33:05,441 --> 00:33:07,652
+Whatever they do, they get away with it.
+
+499
+00:33:09,445 --> 00:33:10,863
+But my mom was different.
+
+500
+00:33:12,448 --> 00:33:14,909
+If I did something wrong, she scolded me.
+
+501
+00:33:18,538 --> 00:33:20,915
+But now that something big like this
+has happened,
+
+502
+00:33:21,624 --> 00:33:22,792
+she's…
+
+503
+00:33:24,752 --> 00:33:25,586
+just the same.
+
+504
+00:33:28,089 --> 00:33:30,425
+She's acting like those foul rich people…
+
+505
+00:33:32,427 --> 00:33:33,511
+you see on the news.
+
+506
+00:33:41,144 --> 00:33:44,439
+When are you returning to Hanbada,
+Attorney Jung?
+
+507
+00:33:46,899 --> 00:33:48,651
+I'm not sure.
+
+508
+00:33:48,735 --> 00:33:50,820
+I might not return.
+
+509
+00:33:51,904 --> 00:33:52,989
+What?
+
+510
+00:33:53,072 --> 00:33:54,866
+You might not return?
+
+511
+00:33:55,742 --> 00:33:57,910
+I'm just thinking about it.
+
+512
+00:33:58,786 --> 00:34:00,204
+Why do you ask?
+
+513
+00:34:00,288 --> 00:34:01,456
+Right.
+
+514
+00:34:01,539 --> 00:34:05,418
+It's inconvenient to have to come
+to the hospital whenever I have questions.
+
+515
+00:34:06,210 --> 00:34:07,587
+You could always call.
+
+516
+00:34:09,047 --> 00:34:11,257
+-Right.
+-Seriously.
+
+517
+00:34:11,340 --> 00:34:15,178
+I can never tell if you're worried
+about me or just being selfish.
+
+518
+00:34:16,262 --> 00:34:18,473
+So what is it you want to…
+
+519
+00:34:19,098 --> 00:34:20,308
+You're going to say,
+
+520
+00:34:20,933 --> 00:34:25,271
+"I can't tell you the details
+because of attorney-client privilege."
+
+521
+00:34:25,980 --> 00:34:26,856
+Right?
+
+522
+00:34:26,939 --> 00:34:27,940
+Yes.
+
+523
+00:34:28,608 --> 00:34:29,484
+That's true.
+
+524
+00:34:29,567 --> 00:34:30,818
+Then…
+
+525
+00:34:32,111 --> 00:34:33,571
+be vague about it.
+
+526
+00:34:35,823 --> 00:34:38,659
+I found out about a criminal act
+that my client has committed.
+
+527
+00:34:38,743 --> 00:34:42,580
+The other person involved in the crime
+wants to confess,
+
+528
+00:34:42,663 --> 00:34:45,083
+but if I help him confess,
+
+529
+00:34:45,583 --> 00:34:48,044
+it's against the interests of the client.
+
+530
+00:34:48,127 --> 00:34:49,045
+I see.
+
+531
+00:34:50,630 --> 00:34:54,550
+Will you reveal the truth
+and achieve social justice
+
+532
+00:34:54,634 --> 00:34:58,054
+or stay loyal to the client's interests?
+
+533
+00:34:58,554 --> 00:34:59,889
+I understand.
+
+534
+00:35:00,515 --> 00:35:02,892
+It's a dilemma
+that an attorney cannot avoid.
+
+535
+00:35:02,975 --> 00:35:05,394
+It's also something
+you've always struggled with.
+
+536
+00:35:05,978 --> 00:35:10,650
+Remember the Ihwa ATM case
+or the Mir Life case?
+
+537
+00:35:10,733 --> 00:35:11,567
+Yes.
+
+538
+00:35:12,860 --> 00:35:16,447
+I've worked at Hanbada for over 14 years
+
+539
+00:35:18,032 --> 00:35:22,787
+and have always put the interests
+of the client ahead of social justice.
+
+540
+00:35:24,163 --> 00:35:28,793
+If someone calls me a "law technician"
+and criticizes me,
+
+541
+00:35:28,876 --> 00:35:31,129
+there's not much I can say to refute that.
+
+542
+00:35:31,212 --> 00:35:32,421
+Because it's true.
+
+543
+00:35:34,632 --> 00:35:37,468
+But Attorney Woo is not Attorney Jung.
+
+544
+00:35:38,636 --> 00:35:41,097
+Right? You're a completely
+different person from me.
+
+545
+00:35:41,180 --> 00:35:43,057
+So how could I give you advice?
+
+546
+00:35:44,392 --> 00:35:45,476
+I'm just
+
+547
+00:35:46,227 --> 00:35:48,980
+curious about what you decide to do.
+
+548
+00:35:50,064 --> 00:35:52,817
+Because you're…
+
+549
+00:35:58,364 --> 00:36:00,616
+not just any ordinary attorney.
+
+550
+00:36:10,001 --> 00:36:12,628
+My name is Choi Sang-hyeon.
+
+551
+00:36:13,963 --> 00:36:15,631
+I'm in my first year of high school.
+
+552
+00:36:17,216 --> 00:36:21,095
+I hacked into Raon starting
+on the night of January 18, 2022,
+
+553
+00:36:21,888 --> 00:36:23,472
+up until the morning of the 19th,
+
+554
+00:36:23,556 --> 00:36:27,435
+and took 40,954,173 personal data records.
+
+555
+00:36:29,478 --> 00:36:33,024
+Because Raon's CEO, Kim Chan-hong,
+asked me to do it.
+
+556
+00:36:39,363 --> 00:36:40,698
+I'd like to confess…
+
+557
+00:36:42,450 --> 00:36:43,784
+to this wrongdoing.
+
+558
+00:36:54,253 --> 00:36:56,422
+Tae Su-mi's son came to you
+
+559
+00:36:56,505 --> 00:36:59,675
+and asked you
+to use this video as evidence?
+
+560
+00:36:59,759 --> 00:37:01,385
+Why Attorney Woo of all people?
+
+561
+00:37:03,804 --> 00:37:05,264
+Do you two know each other?
+
+562
+00:37:06,891 --> 00:37:08,267
+We…
+
+563
+00:37:09,977 --> 00:37:11,062
+do not know each other.
+
+564
+00:37:13,231 --> 00:37:19,028
+Ma'am, I'm sure you see it too,
+but that video is not beneficial for us.
+
+565
+00:37:19,111 --> 00:37:23,157
+We don't even know if what he's saying
+is true or not, and if it is true,
+
+566
+00:37:23,241 --> 00:37:24,408
+we're in big trouble.
+
+567
+00:37:24,492 --> 00:37:27,745
+Because Mr. Kim Chan-hong
+will be sentenced to criminal charges.
+
+568
+00:37:27,828 --> 00:37:29,413
+A firm that sends its clients to jail?
+
+569
+00:37:30,206 --> 00:37:31,916
+We can't be that kind of firm.
+
+570
+00:37:31,999 --> 00:37:34,001
+That's right. Even now, Taesan claims
+
+571
+00:37:34,085 --> 00:37:37,338
+Raon is directly responsible
+for the personal data breach.
+
+572
+00:37:37,922 --> 00:37:41,050
+If it's revealed that the CEO of Raon
+was behind the hack all along,
+
+573
+00:37:41,133 --> 00:37:43,177
+they may claim even more damages.
+
+574
+00:37:43,261 --> 00:37:47,598
+But don't attorneys have the duty
+to not cover up the truth about a case?
+
+575
+00:37:47,682 --> 00:37:49,767
+If it is beneficial to the public,
+
+576
+00:37:49,850 --> 00:37:52,770
+attorney-client privilege
+doesn't have to be kept.
+
+577
+00:37:52,853 --> 00:37:55,106
+That's a very naive thing to say.
+
+578
+00:37:55,189 --> 00:37:56,607
+This isn't law school.
+
+579
+00:37:56,691 --> 00:37:59,318
+Law school or not,
+I feel uncomfortable too.
+
+580
+00:37:59,402 --> 00:38:01,028
+If that video is true,
+
+581
+00:38:01,112 --> 00:38:03,447
+then the person who ordered a hack
+on his own company
+
+582
+00:38:03,531 --> 00:38:06,033
+is shamelessly representing Raon.
+
+583
+00:38:06,117 --> 00:38:09,787
+Hiding the identity of the hacker
+for the sake of the client's interests
+
+584
+00:38:09,870 --> 00:38:11,330
+doesn't sit right with me.
+
+585
+00:38:13,874 --> 00:38:17,211
+Because Taesan filed
+a class-action lawsuit against Raon,
+
+586
+00:38:17,295 --> 00:38:21,674
+many companies who are disappointed
+in Taesan have come to us.
+
+587
+00:38:22,258 --> 00:38:25,803
+At times like this, we have to make
+a good impression on those companies.
+
+588
+00:38:25,886 --> 00:38:28,973
+We can't take the lead
+in getting Raon's CEO punished.
+
+589
+00:38:31,017 --> 00:38:32,476
+That would be the case.
+
+590
+00:38:34,895 --> 00:38:36,314
+But…
+
+591
+00:38:38,107 --> 00:38:39,984
+I really like this video.
+
+592
+00:38:42,653 --> 00:38:44,322
+This video has power.
+
+593
+00:38:45,823 --> 00:38:49,118
+It can stop an unsuitable person
+from becoming the Minister of Justice.
+
+594
+00:38:51,954 --> 00:38:56,584
+How can a mother of a son who stole
+40 million personal data records
+
+595
+00:38:56,667 --> 00:38:58,544
+become the Minister of Justice?
+
+596
+00:38:58,627 --> 00:38:59,920
+Don't you agree?
+
+597
+00:39:02,381 --> 00:39:04,342
+I knew we could count on you.
+
+598
+00:39:04,842 --> 00:39:06,969
+You're always a few steps ahead.
+
+599
+00:39:07,678 --> 00:39:09,847
+So if that video is revealed,
+
+600
+00:39:09,930 --> 00:39:12,933
+the fact that Taesan
+is representing Raon's customers
+
+601
+00:39:13,017 --> 00:39:16,937
+would also seem quite deceitful
+to the public.
+
+602
+00:39:17,730 --> 00:39:18,814
+The problem is
+
+603
+00:39:19,690 --> 00:39:22,943
+the order in which
+we should kill these two birds.
+
+604
+00:39:24,403 --> 00:39:29,533
+Protecting the client's interests
+while revealing the truth of the case…
+
+605
+00:39:29,617 --> 00:39:31,577
+What if it's not two birds?
+
+606
+00:39:33,245 --> 00:39:34,121
+What?
+
+607
+00:39:46,592 --> 00:39:49,637
+What if protecting the client's interests
+and revealing the truth about the case
+
+608
+00:39:49,720 --> 00:39:52,014
+aren't two birds but one?
+
+609
+00:39:52,598 --> 00:39:53,766
+What do you mean?
+
+610
+00:39:53,849 --> 00:39:56,102
+Kim Chan-hong is simply a man
+
+611
+00:39:56,185 --> 00:39:58,396
+who represents a corporation called Raon.
+
+612
+00:39:58,479 --> 00:40:00,022
+They are separate entities.
+
+613
+00:40:00,106 --> 00:40:02,775
+We're representing
+the corporation of Raon,
+
+614
+00:40:02,858 --> 00:40:05,319
+not Kim Chan-hong.
+
+615
+00:40:05,403 --> 00:40:06,445
+If you think about it,
+
+616
+00:40:06,529 --> 00:40:09,740
+Raon's interests are not in conflict
+with the truth here.
+
+617
+00:40:09,824 --> 00:40:11,826
+Really? How are the two…
+
+618
+00:40:11,909 --> 00:40:16,372
+Sang-hyeon gave the personal data he stole
+to Mr. Kim,
+
+619
+00:40:16,455 --> 00:40:18,249
+but he encrypted the whole thing
+
+620
+00:40:18,332 --> 00:40:21,043
+so nobody could access
+or use the personal data.
+
+621
+00:40:21,710 --> 00:40:24,380
+The damage due to the personal data breach
+
+622
+00:40:24,463 --> 00:40:26,048
+hasn't occurred yet!
+
+623
+00:40:32,555 --> 00:40:33,722
+Yes, Reporter Lee.
+
+624
+00:40:34,515 --> 00:40:37,101
+The article I told you about last time.
+
+625
+00:40:37,685 --> 00:40:40,146
+The one about the child
+Tae Su-mi had out of wedlock?
+
+626
+00:40:40,813 --> 00:40:42,314
+Yes, that one.
+
+627
+00:40:42,898 --> 00:40:44,733
+Could you put that on hold?
+
+628
+00:40:44,817 --> 00:40:46,318
+Why?
+
+629
+00:40:47,319 --> 00:40:50,156
+Because I think I can give you
+something much better.
+
+630
+00:40:50,239 --> 00:40:51,240
+Just a second.
+
+631
+00:40:51,323 --> 00:40:52,575
+Attorney Woo.
+
+632
+00:40:58,497 --> 00:41:00,458
+Don't go on that paid vacation.
+
+633
+00:41:01,041 --> 00:41:01,876
+What?
+
+634
+00:41:01,959 --> 00:41:03,627
+You heard from your father
+about the vacation, right?
+
+635
+00:41:03,711 --> 00:41:05,379
+I'm telling you not to go.
+
+636
+00:41:05,463 --> 00:41:07,965
+Because there's something better
+for you to do.
+
+637
+00:41:10,843 --> 00:41:12,219
+Yes, Reporter Lee.
+
+638
+00:41:16,765 --> 00:41:19,477
+Defendant's counselor,
+you submitted video evidence?
+
+639
+00:41:19,560 --> 00:41:21,604
+And you requested a closed court.
+
+640
+00:41:24,315 --> 00:41:25,566
+Yes, Your Honor.
+
+641
+00:41:26,275 --> 00:41:30,154
+The witness in the video is a minor.
+
+642
+00:41:30,237 --> 00:41:33,866
+As the witness is confessing to a crime
+related to this case,
+
+643
+00:41:33,949 --> 00:41:37,411
+we request the audience to vacate
+the courtroom when we play the video
+
+644
+00:41:37,495 --> 00:41:39,955
+to protect the identity of the witness.
+
+645
+00:41:48,172 --> 00:41:49,256
+What…
+
+646
+00:41:52,718 --> 00:41:55,638
+What is it? Who confessed to what?
+
+647
+00:41:55,721 --> 00:41:57,348
+Well…
+
+648
+00:41:57,431 --> 00:41:59,183
+You'll find out soon enough.
+
+649
+00:41:59,850 --> 00:42:01,060
+All right.
+
+650
+00:42:01,143 --> 00:42:03,437
+If you are not involved in the incident,
+
+651
+00:42:03,521 --> 00:42:04,897
+please leave the courtroom for a moment.
+
+652
+00:42:05,564 --> 00:42:06,899
+And among the co-plaintiffs,
+
+653
+00:42:06,982 --> 00:42:09,735
+only the selected parties
+may remain in the courtroom.
+
+654
+00:42:11,320 --> 00:42:12,154
+Excuse me.
+
+655
+00:42:23,999 --> 00:42:28,754
+My name is Choi Sang-hyeon.
+I'm in my first year of high school.
+
+656
+00:42:28,837 --> 00:42:32,675
+I hacked into Raon starting
+on the night of January 18, 2022,
+
+657
+00:42:33,509 --> 00:42:35,010
+up until the morning of the 19th,
+
+658
+00:42:35,094 --> 00:42:38,973
+and took 40,954,173 personal data records.
+
+659
+00:42:39,640 --> 00:42:43,018
+Because Raon's CEO, Kim Chan-hong,
+asked me to do it.
+
+660
+00:42:48,774 --> 00:42:50,067
+I'd like to confess…
+
+661
+00:42:51,068 --> 00:42:52,152
+to this wrongdoing.
+
+662
+00:42:53,862 --> 00:42:56,073
+What's going on here?
+
+663
+00:42:56,865 --> 00:43:00,744
+You submit something like this
+without a single word with me?
+
+664
+00:43:01,245 --> 00:43:04,373
+You're my attorneys!
+
+665
+00:43:04,957 --> 00:43:08,168
+We are not your attorneys.
+
+666
+00:43:09,545 --> 00:43:10,838
+We are Raon's attorneys.
+
+667
+00:43:11,630 --> 00:43:14,174
+I am Raon!
+
+668
+00:43:14,258 --> 00:43:15,759
+I am the CEO!
+
+669
+00:43:15,843 --> 00:43:17,052
+Not anymore.
+
+670
+00:43:17,636 --> 00:43:21,181
+The board of directors at Raon
+just dismissed you, Mr. Kim Chan-hong.
+
+671
+00:43:21,849 --> 00:43:23,851
+What? What did you just say?
+
+672
+00:43:24,351 --> 00:43:27,062
+-He's the co-CEO!
+-What are we supposed to do?
+
+673
+00:43:27,146 --> 00:43:28,272
+All right.
+
+674
+00:43:29,189 --> 00:43:30,899
+It might be better to cover this up.
+
+675
+00:43:31,609 --> 00:43:35,446
+If it becomes known that Mr. Kim ordered
+an underage hacker to hack into Raon,
+
+676
+00:43:36,196 --> 00:43:37,698
+what would happen to the company's image?
+
+677
+00:43:37,781 --> 00:43:40,200
+We'd be lucky if it ends
+with only our image being damaged.
+
+678
+00:43:40,284 --> 00:43:44,913
+This is a matter that shareholders
+can claim damages for if they find out.
+
+679
+00:43:44,997 --> 00:43:46,957
+So we just let him be?
+
+680
+00:43:47,458 --> 00:43:49,084
+Even in the hacking lawsuit,
+
+681
+00:43:49,168 --> 00:43:52,713
+Kim Chan-hong is sitting there
+at the trial as the CEO.
+
+682
+00:43:52,796 --> 00:43:55,633
+Does this make sense to you?
+We should dismiss him immediately.
+
+683
+00:43:55,716 --> 00:43:58,844
+-We have to dismiss him.
+-Yes, we must.
+
+684
+00:43:58,927 --> 00:43:59,762
+Wait!
+
+685
+00:44:01,096 --> 00:44:03,057
+What do you think about this, Mr. Bae?
+
+686
+00:44:04,099 --> 00:44:07,269
+-Should we cover it up or…
+-Of course we shouldn't cover it up.
+
+687
+00:44:09,063 --> 00:44:13,692
+If we want to find out
+if Chan-hong really did it,
+
+688
+00:44:16,195 --> 00:44:17,821
+we can't just cover it up.
+
+689
+00:44:19,198 --> 00:44:20,115
+If…
+
+690
+00:44:20,991 --> 00:44:22,451
+he did do it,
+
+691
+00:44:24,453 --> 00:44:26,080
+it won't end with just a dismissal.
+
+692
+00:44:26,163 --> 00:44:26,997
+I…
+
+693
+00:44:27,706 --> 00:44:28,749
+No.
+
+694
+00:44:30,000 --> 00:44:33,629
+Raon will take every legal action possible
+
+695
+00:44:34,713 --> 00:44:38,592
+and bring Kim Chan-hong
+
+696
+00:44:40,511 --> 00:44:42,096
+down.
+
+697
+00:44:44,890 --> 00:44:48,769
+EMERGENCY BOARD MEETING
+DISMISSAL OF CEO KIM CHAN-HONG
+
+698
+00:44:52,981 --> 00:44:54,775
+RESOLUTION LETTER
+
+699
+00:44:59,029 --> 00:45:03,992
+Your Honor, once Kim Chan-hong's crime
+against the defendant, Raon, was reported,
+
+700
+00:45:04,576 --> 00:45:09,289
+the defendant dismissed
+Mr. Kim from his position as CEO
+
+701
+00:45:09,373 --> 00:45:12,167
+and made Mr. Bae the sole CEO per
+the decision of its board of directors.
+
+702
+00:45:12,251 --> 00:45:13,669
+Therefore, the defendant
+
+703
+00:45:13,752 --> 00:45:16,255
+will be applying for the correction
+of the party represented.
+
+704
+00:45:16,338 --> 00:45:17,464
+Your Honor!
+
+705
+00:45:17,548 --> 00:45:18,632
+This is unfair.
+
+706
+00:45:18,715 --> 00:45:22,469
+I don't know where they got that video,
+but it's not true.
+
+707
+00:45:22,553 --> 00:45:26,640
+Where's the proof
+that I ordered that kid to do it?
+
+708
+00:45:26,723 --> 00:45:29,017
+And they said
+the board of directors dismissed me,
+
+709
+00:45:29,101 --> 00:45:31,603
+but I never received a notice
+about a board meeting.
+
+710
+00:45:31,687 --> 00:45:32,896
+If the CEO deems it urgent
+
+711
+00:45:32,980 --> 00:45:35,232
+and it is in accordance
+with the company's bylaws,
+
+712
+00:45:35,315 --> 00:45:37,484
+the defendant may notify
+the directors by email
+
+713
+00:45:37,568 --> 00:45:39,194
+thirty minutes prior to the meeting
+
+714
+00:45:39,278 --> 00:45:41,655
+and gather the board of directors
+that same day.
+
+715
+00:45:41,738 --> 00:45:43,323
+That is what happened today.
+
+716
+00:45:43,407 --> 00:45:46,201
+And they did notify Mr. Kim…
+
+717
+00:45:47,494 --> 00:45:48,620
+of the board meeting.
+
+718
+00:45:56,211 --> 00:45:57,880
+WE ARE HOLDING
+AN EMERGENCY BOARD MEETING
+
+719
+00:45:57,963 --> 00:45:59,798
+DATE: TODAY, 2 P.M.
+PLACE: RAON 21ST FLOOR, CONFERENCE ROOM
+
+720
+00:45:59,882 --> 00:46:01,425
+AGENDA: DISMISSAL OF CEO KIM CHAN-HONG
+
+721
+00:46:03,218 --> 00:46:06,763
+Your Honor, we cannot accept that video
+as evidence.
+
+722
+00:46:06,847 --> 00:46:09,892
+It is not a credible statement recorded
+through formal investigative authorities.
+
+723
+00:46:09,975 --> 00:46:13,228
+And we can't even ask
+the witness in the video any questions.
+
+724
+00:46:14,521 --> 00:46:16,356
+It is evidence that restricts
+the co-plaintiffs' right
+
+725
+00:46:16,440 --> 00:46:17,566
+to cross-examination.
+
+726
+00:46:17,649 --> 00:46:18,901
+Your Honor.
+
+727
+00:46:23,113 --> 00:46:25,032
+I'll address things one at a time.
+
+728
+00:46:25,115 --> 00:46:29,077
+First, despite the surprising spectacle
+the defendant's counselor has put on,
+
+729
+00:46:29,161 --> 00:46:33,999
+the court cannot immediately recognize
+the change of Raon's CEO.
+
+730
+00:46:35,125 --> 00:46:36,293
+However,
+
+731
+00:46:36,376 --> 00:46:39,129
+there is no reason to believe
+that the delegation agreement
+
+732
+00:46:39,213 --> 00:46:41,256
+between the defendant
+and Hanbada Law Firm is invalid,
+
+733
+00:46:41,340 --> 00:46:46,887
+so we will proceed on the premise
+that Hanbada is the defendant's counselor.
+
+734
+00:46:48,722 --> 00:46:52,392
+The defendant should apply for
+the correction of the party represented
+
+735
+00:46:52,476 --> 00:46:55,729
+with the proper paperwork,
+such as the registry of the corporation.
+
+736
+00:46:56,438 --> 00:46:57,689
+Your Honor.
+
+737
+00:46:57,773 --> 00:47:00,317
+Second, your innocence is not something
+
+738
+00:47:00,400 --> 00:47:02,569
+that will be dealt with
+in this trial, Mr. Kim.
+
+739
+00:47:02,653 --> 00:47:04,530
+That is something that should be revealed
+
+740
+00:47:04,613 --> 00:47:06,532
+through an investigation
+conducted by investigative authorities.
+
+741
+00:47:07,574 --> 00:47:11,119
+Finally, as for the admissibility
+of the video we just saw…
+
+742
+00:47:18,877 --> 00:47:20,462
+I will not accept it as evidence.
+
+743
+00:47:24,216 --> 00:47:26,426
+The plaintiff's counselor is correct.
+
+744
+00:47:26,510 --> 00:47:30,847
+It's hard to say that the testimony
+has credibility through that video alone.
+
+745
+00:47:30,931 --> 00:47:33,225
+And since the witness is not here,
+
+746
+00:47:33,308 --> 00:47:36,979
+it's also reasonable to point out
+that the plaintiffs cannot cross-examine.
+
+747
+00:47:37,062 --> 00:47:41,483
+Then please summon Mr. Choi Sang-hyeon
+to this trial as a witness.
+
+748
+00:47:41,567 --> 00:47:42,651
+Overruled.
+
+749
+00:47:43,569 --> 00:47:45,487
+-Excuse me?
+-We can't be sure from that video alone
+
+750
+00:47:45,571 --> 00:47:48,991
+if the additional examination
+of the evidence on Choi Sang-hyeon
+
+751
+00:47:49,074 --> 00:47:50,450
+is absolutely necessary.
+
+752
+00:47:50,534 --> 00:47:52,661
+For all we know,
+it could've been sent in as a joke.
+
+753
+00:47:52,744 --> 00:47:53,912
+If the defendant's counselor
+
+754
+00:47:53,996 --> 00:47:56,915
+confirms Choi Sang-hyeon's intention
+to attend trial
+
+755
+00:47:56,999 --> 00:47:59,084
+and applies for a witness summons,
+
+756
+00:47:59,167 --> 00:48:00,794
+I will accept that.
+
+757
+00:48:01,503 --> 00:48:04,715
+But this court
+will not be summoning him first.
+
+758
+00:48:26,486 --> 00:48:28,113
+Did Choi Sang-hyeon reply?
+
+759
+00:48:29,489 --> 00:48:30,699
+No.
+
+760
+00:48:30,782 --> 00:48:33,285
+It's an ad from a figurine company
+called Manjijak
+
+761
+00:48:33,368 --> 00:48:35,746
+for their newly released
+gray whale figurines.
+
+762
+00:48:35,829 --> 00:48:39,958
+Whale lice and barnacles are often found
+attached to the body of a gray whale.
+
+763
+00:48:40,042 --> 00:48:43,086
+I wonder if they captured all of that.
+I should hurry and pre-order…
+
+764
+00:48:45,547 --> 00:48:47,716
+That's Choi Sang-hyeon, right?
+What did he say?
+
+765
+00:48:50,385 --> 00:48:53,472
+"Young-woo,
+I don't think I'll be able to testify."
+
+766
+00:48:53,555 --> 00:48:55,349
+"You won't be able
+to reach me now either."
+
+767
+00:48:55,432 --> 00:48:57,559
+"I'm going to the States,
+so I'm at the airport right now."
+
+768
+00:48:57,643 --> 00:48:59,811
+He's going to the States all of a sudden?
+
+769
+00:49:00,562 --> 00:49:01,855
+It's obvious.
+
+770
+00:49:03,065 --> 00:49:04,733
+Tae Su-mi is sending him away
+
+771
+00:49:04,816 --> 00:49:06,860
+to stop him from testifying.
+
+772
+00:49:11,948 --> 00:49:13,325
+Let's go with a public opinion battle.
+
+773
+00:49:13,992 --> 00:49:15,160
+A public opinion battle?
+
+774
+00:49:15,827 --> 00:49:18,288
+Are you saying we should
+leak the video of Sang-hyeon to the press?
+
+775
+00:49:19,039 --> 00:49:20,999
+No matter how great Tae Su-mi is,
+
+776
+00:49:21,083 --> 00:49:24,753
+if public opinion calls for it,
+the police will have to investigate.
+
+777
+00:49:24,836 --> 00:49:27,631
+Then Sang-hyeon will be summoned
+back to the country.
+
+778
+00:49:29,883 --> 00:49:32,344
+Tae Su-mi's confirmation hearing
+will be starting soon.
+
+779
+00:49:32,969 --> 00:49:35,055
+If we want to leak it,
+we have to do it now.
+
+780
+00:49:35,138 --> 00:49:37,307
+Because we'll have time
+to build public opinion
+
+781
+00:49:37,391 --> 00:49:39,810
+while Tae Su-mi can't do anything
+to retaliate.
+
+782
+00:49:40,769 --> 00:49:43,230
+I'll talk to a reporter at Jeongui Ilbo.
+You all--
+
+783
+00:49:43,313 --> 00:49:44,398
+No!
+
+784
+00:49:45,857 --> 00:49:47,567
+You can't do that.
+
+785
+00:49:48,902 --> 00:49:49,945
+I can't?
+
+786
+00:49:50,028 --> 00:49:52,906
+Attorney Woo, be quiet.
+How dare you talk to the CEO like--
+
+787
+00:49:52,989 --> 00:49:55,325
+If you hand the confession video
+over to the press,
+
+788
+00:49:55,409 --> 00:49:58,245
+Sang-hyeon will forever lose
+the chance to turn himself in.
+
+789
+00:49:58,829 --> 00:50:00,539
+Sang-hyeon came to me
+
+790
+00:50:00,622 --> 00:50:03,875
+to reveal his wrongdoings on his own
+and to make things right.
+
+791
+00:50:03,959 --> 00:50:05,419
+We can't turn him into
+
+792
+00:50:05,502 --> 00:50:09,548
+some privileged kid who was caught
+by the police trying to flee the country.
+
+793
+00:50:09,631 --> 00:50:11,842
+Like the foul rich people
+you see on the news.
+
+794
+00:50:11,925 --> 00:50:13,885
+Are we Sang-hyeon's attorneys?
+
+795
+00:50:14,511 --> 00:50:16,346
+Get yourself together!
+
+796
+00:50:16,430 --> 00:50:19,725
+Do you think he's your real brother
+just because he calls you "big sister"?
+
+797
+00:50:32,571 --> 00:50:33,613
+I…
+
+798
+00:50:34,948 --> 00:50:36,658
+will try to convince them.
+
+799
+00:50:39,119 --> 00:50:40,120
+Convince who?
+
+800
+00:50:40,746 --> 00:50:41,663
+Choi Sang-hyeon?
+
+801
+00:50:41,747 --> 00:50:42,748
+No.
+
+802
+00:50:43,457 --> 00:50:44,750
+Attorney Tae Su-mi.
+
+803
+00:50:46,710 --> 00:50:50,464
+How are you going to convince Tae Su-mi?
+
+804
+00:50:50,547 --> 00:50:53,675
+Will she even meet with you
+when her confirmation hearing is so close?
+
+805
+00:50:53,759 --> 00:50:55,844
+She might not meet me,
+
+806
+00:50:57,721 --> 00:50:58,805
+but I'll try!
+
+807
+00:50:59,848 --> 00:51:04,019
+I'll meet with Attorney Tae
+and ask her to allow Sang-hyeon
+
+808
+00:51:04,603 --> 00:51:05,687
+to testify in court.
+
+809
+00:51:05,771 --> 00:51:08,523
+And I'd like to ask you to sit down.
+
+810
+00:51:08,607 --> 00:51:09,524
+All right.
+
+811
+00:51:12,319 --> 00:51:14,112
+We'll give Tae Su-mi and her son…
+
+812
+00:51:15,864 --> 00:51:17,574
+a chance.
+
+813
+00:51:18,200 --> 00:51:19,201
+Sorry?
+
+814
+00:51:24,372 --> 00:51:26,666
+I'll go with Attorney Woo
+to the National Assembly.
+
+815
+00:51:26,750 --> 00:51:28,543
+So she can meet with Attorney Tae.
+
+816
+00:51:34,925 --> 00:51:37,761
+We know she's busy
+because it's right before the hearing.
+
+817
+00:51:37,844 --> 00:51:39,387
+But it's that urgent.
+
+818
+00:51:39,471 --> 00:51:41,681
+Please just tell her
+it's Attorney Woo Young-woo.
+
+819
+00:51:41,765 --> 00:51:43,934
+Then Attorney Tae
+will want to see her too.
+
+820
+00:51:44,017 --> 00:51:46,061
+I'll see if I can find the right time
+to tell her.
+
+821
+00:51:46,144 --> 00:51:48,897
+But Candidate Tae is very busy,
+so please understand.
+
+822
+00:51:49,523 --> 00:51:51,316
+You can't wait for the right time.
+
+823
+00:51:51,942 --> 00:51:52,943
+Hello?
+
+824
+00:51:53,527 --> 00:51:55,070
+Hello? Mr. Kim?
+
+825
+00:52:12,629 --> 00:52:15,131
+The confirmation hearing starts at ten.
+
+826
+00:52:15,215 --> 00:52:17,551
+Even if Attorney Tae says she'll meet me,
+
+827
+00:52:17,634 --> 00:52:19,928
+I don't know if we'll be able
+to get there in time.
+
+828
+00:52:20,554 --> 00:52:22,806
+It'll work out. Don't worry.
+
+829
+00:52:27,644 --> 00:52:28,979
+Thank you
+
+830
+00:52:29,813 --> 00:52:31,231
+for helping.
+
+831
+00:52:41,533 --> 00:52:43,159
+Earlier, when you bravely said
+
+832
+00:52:43,994 --> 00:52:45,704
+you would convince Attorney Tae Su-mi
+
+833
+00:52:47,539 --> 00:52:51,126
+in front of Ms. Han,
+
+834
+00:52:53,503 --> 00:52:54,921
+I made up my mind
+
+835
+00:52:56,339 --> 00:52:57,757
+to be brave
+
+836
+00:52:59,342 --> 00:53:00,719
+and say this.
+
+837
+00:53:03,096 --> 00:53:06,933
+What is it you want to say?
+
+838
+00:53:08,810 --> 00:53:10,937
+My feelings toward you, Attorney Woo,
+
+839
+00:53:14,566 --> 00:53:18,403
+are like the unrequited love toward a cat.
+
+840
+00:53:20,113 --> 00:53:23,491
+"The unrequited love toward a cat"?
+
+841
+00:53:24,701 --> 00:53:26,161
+Cats sometimes
+
+842
+00:53:27,162 --> 00:53:29,122
+make their owners lonely.
+
+843
+00:53:31,333 --> 00:53:33,835
+But they make them just as happy too.
+
+844
+00:53:39,716 --> 00:53:41,927
+When I eat lunch with you
+
+845
+00:53:42,552 --> 00:53:44,554
+and listen to you talk about whales.
+
+846
+00:53:46,473 --> 00:53:49,809
+When we carry out each agenda
+
+847
+00:53:50,518 --> 00:53:52,103
+from your strange list of dates.
+
+848
+00:53:53,772 --> 00:53:54,814
+When I
+
+849
+00:53:55,815 --> 00:53:58,151
+hold hands with you
+for less than 57 seconds.
+
+850
+00:53:59,653 --> 00:54:01,738
+When our teeth knock together
+
+851
+00:54:02,656 --> 00:54:04,240
+as we kiss.
+
+852
+00:54:10,288 --> 00:54:12,290
+When I see the sparkle in your eyes
+
+853
+00:54:13,375 --> 00:54:15,502
+when you come up with a good idea.
+
+854
+00:54:17,754 --> 00:54:19,714
+When I can calm you down
+by hugging you tight
+
+855
+00:54:19,798 --> 00:54:22,592
+when you're feeling anxious.
+
+856
+00:54:25,679 --> 00:54:26,930
+Those things make me happy.
+
+857
+00:54:33,645 --> 00:54:35,230
+So let's…
+
+858
+00:54:44,781 --> 00:54:46,074
+not break up.
+
+859
+00:55:06,553 --> 00:55:07,637
+Hello?
+
+860
+00:55:08,221 --> 00:55:10,265
+Come to Gate Five. I'll see you there.
+
+861
+00:55:10,348 --> 00:55:11,349
+Okay.
+
+862
+00:55:25,905 --> 00:55:28,241
+Attorney Woo, I think you can go now.
+
+863
+00:55:28,950 --> 00:55:31,786
+Only official government vehicles
+are allowed to park in there,
+
+864
+00:55:31,870 --> 00:55:33,371
+so I'll be waiting nearby.
+
+865
+00:55:33,455 --> 00:55:34,497
+Okay.
+
+866
+00:55:37,792 --> 00:55:40,170
+The expression,
+"the unrequited love toward a cat,"
+
+867
+00:55:40,253 --> 00:55:41,379
+is inappropriate.
+
+868
+00:55:42,255 --> 00:55:45,050
+Because cats love their owners too.
+
+869
+00:55:45,717 --> 00:55:46,676
+Right.
+
+870
+00:55:47,302 --> 00:55:48,344
+Okay.
+
+871
+00:55:49,554 --> 00:55:50,930
+So let's…
+
+872
+00:55:51,765 --> 00:55:53,224
+not break up.
+
+873
+00:56:37,602 --> 00:56:39,562
+I put together new responses
+
+874
+00:56:39,646 --> 00:56:41,272
+for Assemblywoman Min Hyo-jin's
+list of questions.
+
+875
+00:56:41,356 --> 00:56:43,108
+Would you like to take a look
+at the revisions?
+
+876
+00:56:43,691 --> 00:56:45,276
+Have these been fact-checked?
+
+877
+00:56:45,360 --> 00:56:47,654
+Yes, it matches the material
+that has already been submitted.
+
+878
+00:56:52,075 --> 00:56:58,248
+CANDIDATE FOR MINISTER OF JUSTICE
+WAITING ROOM
+
+879
+00:57:01,126 --> 00:57:02,836
+May we have the room please?
+
+880
+00:57:08,174 --> 00:57:10,927
+Madam Candidate,
+the hearing is about to start.
+
+881
+00:57:11,010 --> 00:57:12,011
+You don't have much time.
+
+882
+00:57:12,095 --> 00:57:13,388
+Yes, I know.
+
+883
+00:57:24,232 --> 00:57:25,233
+What brings you here?
+
+884
+00:57:28,111 --> 00:57:29,404
+I don't think
+
+885
+00:57:29,988 --> 00:57:33,366
+you're here to tell me
+you'll go to the States.
+
+886
+00:57:34,159 --> 00:57:35,702
+No.
+
+887
+00:57:35,785 --> 00:57:37,745
+I won't be going to the States.
+
+888
+00:57:38,329 --> 00:57:39,164
+Why not?
+
+889
+00:57:41,666 --> 00:57:43,918
+Isn't it hard for you at Hanbada?
+
+890
+00:57:45,086 --> 00:57:49,215
+The mentor who was good to you is ill,
+the senior attorney bullies you,
+
+891
+00:57:50,425 --> 00:57:51,926
+and you and your co-worker broke up.
+
+892
+00:57:55,263 --> 00:57:56,431
+I'm…
+
+893
+00:57:57,724 --> 00:58:01,227
+like a narwhal in a pod of belugas.
+
+894
+00:58:02,812 --> 00:58:03,897
+A narwhal?
+
+895
+00:58:04,481 --> 00:58:08,193
+It has a helical tusk that projects
+from its upper jaw.
+
+896
+00:58:08,276 --> 00:58:09,652
+That's why its scientific name means
+"one-tooth one-horn."
+
+897
+00:58:09,736 --> 00:58:12,906
+It looks like a horn
+on a unicorn's forehead.
+
+898
+00:58:13,907 --> 00:58:15,283
+What are you talking about?
+
+899
+00:58:15,366 --> 00:58:17,410
+I've seen a lost narwhal
+
+900
+00:58:17,494 --> 00:58:21,289
+coexisting with a pod of belugas
+
+901
+00:58:21,915 --> 00:58:23,416
+in a documentary.
+
+902
+00:58:24,584 --> 00:58:25,752
+I'm…
+
+903
+00:58:26,753 --> 00:58:28,880
+like that narwhal.
+
+904
+00:58:31,299 --> 00:58:35,929
+I live in an unfamiliar ocean
+with unfamiliar belugas.
+
+905
+00:58:37,222 --> 00:58:39,182
+Because everyone's different from me,
+
+906
+00:58:39,974 --> 00:58:41,935
+it's not easy to adjust
+
+907
+00:58:43,937 --> 00:58:46,689
+and there are lots of whales
+that hate me too.
+
+908
+00:58:52,529 --> 00:58:54,072
+But it's okay.
+
+909
+00:58:54,656 --> 00:58:56,449
+Because this is my life.
+
+910
+00:58:57,200 --> 00:58:58,493
+Though my life…
+
+911
+00:58:59,577 --> 00:59:02,497
+is unusual and peculiar,
+
+912
+00:59:04,749 --> 00:59:06,125
+it's valuable
+
+913
+00:59:07,252 --> 00:59:08,753
+and beautiful.
+
+914
+00:59:17,470 --> 00:59:18,638
+I have to go.
+
+915
+00:59:19,180 --> 00:59:21,140
+We'll continue this talk next time.
+
+916
+00:59:23,393 --> 00:59:27,772
+Please help so that Sang-hyeon
+can testify in court about what he did.
+
+917
+00:59:30,650 --> 00:59:32,527
+What he did?
+
+918
+00:59:33,444 --> 00:59:38,533
+Hacking into Raon and leaking
+40,954,173 personal data records.
+
+919
+00:59:40,535 --> 00:59:41,869
+Sang-hyeon…
+
+920
+00:59:42,996 --> 00:59:47,292
+believes that you're a good mom.
+
+921
+00:59:48,585 --> 00:59:50,420
+A mom
+
+922
+00:59:50,920 --> 00:59:54,299
+who scolds her child properly
+and gives him reasonable punishment
+
+923
+00:59:54,841 --> 00:59:56,175
+when he does something wrong.
+
+924
+01:00:00,013 --> 01:00:01,931
+Don't betray…
+
+925
+01:00:03,683 --> 01:00:05,143
+your child's belief
+
+926
+01:00:06,644 --> 01:00:10,398
+that his mother is a good person
+
+927
+01:00:12,108 --> 01:00:13,735
+just for your own benefit.
+
+928
+01:00:15,570 --> 01:00:18,698
+He'll be hurt if you do that.
+
+929
+01:00:20,992 --> 01:00:22,368
+That wound…
+
+930
+01:00:24,329 --> 01:00:25,997
+will be very painful
+
+931
+01:00:27,248 --> 01:00:29,167
+and won't heal for a long time.
+
+932
+01:00:34,797 --> 01:00:37,675
+You weren't a good mother to me,
+
+933
+01:00:39,093 --> 01:00:40,845
+but at the very least,
+
+934
+01:00:43,806 --> 01:00:46,768
+please be a good mother to Sang-hyeon.
+
+935
+01:00:57,654 --> 01:00:59,364
+It's time to get going, ma'am.
+
+936
+01:01:46,202 --> 01:01:49,747
+We will now begin
+the confirmation hearing for Tae Su-mi,
+
+937
+01:01:49,831 --> 01:01:51,874
+the Candidate Member of the State Council
+for the Minister of Justice.
+
+938
+01:01:55,753 --> 01:01:58,214
+Candidate, please step up to the podium,
+
+939
+01:01:58,297 --> 01:02:02,051
+raise your right hand,
+and recite the oath.
+
+940
+01:02:17,066 --> 01:02:18,443
+I pledge this.
+
+941
+01:02:19,485 --> 01:02:21,279
+"I, the Public Official Candidate,
+
+942
+01:02:21,863 --> 01:02:24,073
+swear to tell the truth
+
+943
+01:02:25,199 --> 01:02:28,077
+in the confirmation hearing
+conducted by the National Assembly
+
+944
+01:02:28,870 --> 01:02:32,206
+according to my conscience,
+without withholding or adding anything."
+
+945
+01:02:33,207 --> 01:02:36,043
+Public Official Candidate, Tae Su-mi.
+
+946
+01:02:50,600 --> 01:02:51,768
+Welcome.
+
+947
+01:02:58,816 --> 01:03:01,027
+Would you like something to drink?
+
+948
+01:03:01,110 --> 01:03:02,153
+No, thank you.
+
+949
+01:03:03,154 --> 01:03:05,782
+We'll just inform you of the conditions
+for the witness questioning
+
+950
+01:03:05,865 --> 01:03:06,991
+and be on our way.
+
+951
+01:03:07,784 --> 01:03:09,160
+Then please go ahead.
+
+952
+01:03:09,869 --> 01:03:11,704
+CONDITIONS FOR WITNESS QUESTIONING
+
+953
+01:03:13,289 --> 01:03:16,250
+First, Choi Sang-hyeon is a young student.
+
+954
+01:03:17,168 --> 01:03:19,504
+Testifying in court
+could be uncomfortable for him,
+
+955
+01:03:19,587 --> 01:03:21,214
+so refrain from creating
+a hostile environment
+
+956
+01:03:21,297 --> 01:03:23,591
+or asking questions
+that play on his emotions.
+
+957
+01:03:23,674 --> 01:03:24,717
+And most importantly,
+
+958
+01:03:25,426 --> 01:03:27,720
+you cannot question him
+like you're interrogating a criminal.
+
+959
+01:03:28,304 --> 01:03:29,222
+Of course.
+
+960
+01:03:29,931 --> 01:03:32,266
+We have at least that much decorum.
+
+961
+01:03:32,850 --> 01:03:33,768
+Second.
+
+962
+01:03:34,560 --> 01:03:38,272
+Any questions related to
+Attorney Tae Su-mi are not allowed.
+
+963
+01:03:38,856 --> 01:03:41,234
+Even if Sang-hyeon brings it up first,
+
+964
+01:03:41,859 --> 01:03:46,531
+Hanbada attorneys cannot ask
+follow-up questions about Attorney Tae.
+
+965
+01:03:47,114 --> 01:03:49,951
+Third, Sang-hyeon will be questioned
+
+966
+01:03:50,910 --> 01:03:52,537
+by Attorney Woo Young-woo.
+
+967
+01:03:59,377 --> 01:04:01,963
+-What?
+-If you do not follow
+
+968
+01:04:02,630 --> 01:04:04,340
+any one of these three conditions,
+
+969
+01:04:05,132 --> 01:04:06,968
+Choi Sang-hyeon will not testify.
+
+970
+01:04:09,720 --> 01:04:12,515
+Are you Choi Sang-hyeon's attorneys?
+
+971
+01:04:13,140 --> 01:04:14,141
+Are you?
+
+972
+01:04:14,225 --> 01:04:15,643
+What gives you the right
+
+973
+01:04:15,726 --> 01:04:18,354
+to appoint the attorney
+that will question the witness?
+
+974
+01:04:18,437 --> 01:04:19,605
+All right then.
+
+975
+01:04:20,231 --> 01:04:21,524
+What? Ma'am.
+
+976
+01:04:21,607 --> 01:04:23,776
+Choi Sang-hyeon's questioning
+
+977
+01:04:24,610 --> 01:04:25,945
+will be handled…
+
+978
+01:04:29,031 --> 01:04:30,241
+by Attorney Woo.
+
+979
+01:04:31,492 --> 01:04:35,496
+We'll keep to all three conditions,
+so don't worry.
+
+980
+01:04:46,924 --> 01:04:49,051
+Witness, step forward.
+
+981
+01:05:11,574 --> 01:05:14,994
+"I solemnly swear
+that I will tell the truth,
+
+982
+01:05:15,578 --> 01:05:17,371
+the whole truth,
+and nothing but the truth,
+
+983
+01:05:17,455 --> 01:05:19,206
+and agree to receive punishment
+in accordance with perjury
+
+984
+01:05:20,082 --> 01:05:22,585
+should there be any falsehood."
+
+985
+01:05:23,461 --> 01:05:25,838
+Defendant's counselor,
+begin questioning the witness.
+
+986
+01:05:26,672 --> 01:05:28,215
+Woo Young-woo, you got this.
+
+987
+01:05:29,258 --> 01:05:31,177
+"Woo Young-woo, you got this."
+
+988
+01:05:32,219 --> 01:05:33,429
+You got…
+
+989
+01:05:38,309 --> 01:05:39,310
+What are you doing?
+
+990
+01:06:01,749 --> 01:06:04,543
+Witness, please introduce yourself.
+
+991
+01:06:07,797 --> 01:06:08,923
+Choi Sang-hyeon.
+
+992
+01:06:10,383 --> 01:06:11,676
+I'm 17 years old.
+
+993
+01:06:16,222 --> 01:06:17,682
+I'm in my first year of high school.
+
+994
+01:06:18,599 --> 01:06:21,185
+Starting the night of January 18, 2022,
+
+995
+01:06:21,268 --> 01:06:22,645
+into the morning of the 19th,
+
+996
+01:06:23,145 --> 01:06:28,901
+did you hack into Raon and take
+40,954,173 personal data records?
+
+997
+01:06:29,527 --> 01:06:30,444
+Yes.
+
+998
+01:06:36,242 --> 01:06:37,702
+Why did you do it?
+
+999
+01:06:38,285 --> 01:06:39,412
+Because Chan-hong
+
+1000
+01:06:40,204 --> 01:06:42,331
+asked me to do it.
+
+1001
+01:06:42,915 --> 01:06:44,583
+By "Chan-hong,"
+
+1002
+01:06:45,167 --> 01:06:48,295
+do you mean the co-founder
+and former co-CEO of Raon,
+
+1003
+01:06:48,379 --> 01:06:50,172
+Mr. Kim Chan-hong?
+
+1004
+01:06:50,256 --> 01:06:51,340
+Yes.
+
+1005
+01:06:52,299 --> 01:06:53,551
+I met Chan-hong
+
+1006
+01:06:54,635 --> 01:06:56,554
+at a cybersecurity competition.
+
+1007
+01:06:57,805 --> 01:06:59,849
+He was someone who always treated me well.
+
+1008
+01:07:00,891 --> 01:07:02,852
+But one day, he asked me for a favor.
+
+1009
+01:07:02,935 --> 01:07:05,563
+He said that if I hack into Raon
+and startle In-cheol,
+
+1010
+01:07:06,188 --> 01:07:07,314
+then In-cheol would
+
+1011
+01:07:08,024 --> 01:07:09,775
+spend a lot more money
+
+1012
+01:07:09,859 --> 01:07:12,570
+on software development
+and building a security system.
+
+1013
+01:07:15,489 --> 01:07:19,160
+What did you do with
+the 40,954,173 personal data records
+
+1014
+01:07:19,243 --> 01:07:20,661
+obtained through the hack?
+
+1015
+01:07:21,245 --> 01:07:23,539
+I encrypted everything
+and gave it to Chan-hong.
+
+1016
+01:07:24,123 --> 01:07:27,585
+He asked me to decrypt it, but I didn't.
+
+1017
+01:07:28,586 --> 01:07:30,379
+So that he wouldn't be able to sell it.
+
+1018
+01:07:30,463 --> 01:07:34,091
+Is there any possibility
+that he could have decrypted it himself?
+
+1019
+01:07:34,175 --> 01:07:35,301
+No.
+
+1020
+01:07:36,427 --> 01:07:38,471
+As far as I know,
+he doesn't have the skills
+
+1021
+01:07:39,513 --> 01:07:40,556
+to do that.
+
+1022
+01:07:42,558 --> 01:07:45,061
+You will be subject to legal punishment
+
+1023
+01:07:45,770 --> 01:07:49,315
+because you hacked and stole
+the personal data of Raon users.
+
+1024
+01:07:49,815 --> 01:07:51,859
+Are you aware of this?
+
+1025
+01:08:03,120 --> 01:08:04,121
+Yes.
+
+1026
+01:08:04,955 --> 01:08:06,082
+I am aware.
+
+1027
+01:08:08,250 --> 01:08:11,045
+Then why are you
+
+1028
+01:08:11,754 --> 01:08:13,464
+willingly testifying to your crimes?
+
+1029
+01:08:16,509 --> 01:08:18,094
+Because I did a bad thing.
+
+1030
+01:08:20,471 --> 01:08:22,139
+I'm sorry to In-cheol…
+
+1031
+01:08:23,432 --> 01:08:25,101
+and to Raon users.
+
+1032
+01:08:29,647 --> 01:08:30,731
+I apologize.
+
+1033
+01:08:42,284 --> 01:08:43,369
+That is all.
+
+1034
+01:09:17,403 --> 01:09:18,904
+COURT
+
+1035
+01:09:18,988 --> 01:09:21,282
+Shortly after the confirmation hearing,
+
+1036
+01:09:22,116 --> 01:09:24,368
+I realized that my son
+had hacked into Raon
+
+1037
+01:09:24,451 --> 01:09:28,497
+and leaked the personal data
+of Raon's customers.
+
+1038
+01:09:30,457 --> 01:09:31,709
+I was ashamed.
+
+1039
+01:09:32,209 --> 01:09:34,420
+I didn't even know I raised my child wrong
+
+1040
+01:09:35,045 --> 01:09:38,716
+and wanted to be the Minister of Justice,
+working for the country and the people.
+
+1041
+01:09:40,968 --> 01:09:43,554
+And without knowing
+that it was my son's doing,
+
+1042
+01:09:44,138 --> 01:09:46,557
+I watched Taesan,
+the law firm I am affiliated with,
+
+1043
+01:09:46,640 --> 01:09:51,103
+file a lawsuit
+on behalf of the users of Raon.
+
+1044
+01:09:52,021 --> 01:09:55,733
+My son is deeply remorseful of his crimes.
+
+1045
+01:09:55,816 --> 01:09:58,986
+He will also sincerely oblige
+to all investigations by the police
+
+1046
+01:10:00,154 --> 01:10:02,114
+and receive proper punishment.
+
+1047
+01:10:05,242 --> 01:10:06,368
+Today…
+
+1048
+01:10:08,787 --> 01:10:12,333
+I am stepping down from my candidacy
+for the Minister of Justice.
+
+1049
+01:10:13,876 --> 01:10:16,670
+I will deeply reflect on myself.
+
+1050
+01:10:18,130 --> 01:10:19,965
+And although my son is not perfect,
+
+1051
+01:10:20,716 --> 01:10:23,928
+I will faithfully
+carry out my role as a mother,
+
+1052
+01:10:24,011 --> 01:10:25,888
+which I haven't been able to do properly.
+
+1053
+01:10:27,848 --> 01:10:31,560
+I sincerely apologize
+
+1054
+01:10:32,937 --> 01:10:34,396
+to everyone.
+
+1055
+01:10:57,544 --> 01:10:59,421
+I let you off easy this time.
+
+1056
+01:11:09,139 --> 01:11:12,268
+Mr. Kim Chan-hong, the former CEO of Raon,
+admitted during a police investigation
+
+1057
+01:11:12,351 --> 01:11:15,271
+to ordering the son of former
+Minister of Justice candidate, Tae Su-mi,
+
+1058
+01:11:15,354 --> 01:11:17,690
+to hack into Raon.
+
+1059
+01:11:17,773 --> 01:11:21,318
+The police found and confiscated
+40,954,173 records
+
+1060
+01:11:21,402 --> 01:11:25,239
+of encrypted personal data
+at Mr. Kim Chan-hong's residence
+
+1061
+01:11:25,322 --> 01:11:27,741
+and revealed that there is
+no circumstantial evidence
+
+1062
+01:11:27,825 --> 01:11:29,660
+that suggests that he leaked them
+to a third party.
+
+1063
+01:11:29,743 --> 01:11:33,914
+Meanwhile, the lawsuit for damages
+filed by Raon users against Raon
+
+1064
+01:11:33,998 --> 01:11:35,749
+was dismissed by the Civil Court
+
+1065
+01:11:35,833 --> 01:11:39,420
+of the Seoul Central District Court
+upon the decision
+
+1066
+01:11:39,503 --> 01:11:43,674
+that there was no emotional distress
+caused by the personal data breach
+
+1067
+01:11:43,757 --> 01:11:45,926
+since the data was confiscated
+by investigative authorities.
+
+1068
+01:11:46,010 --> 01:11:49,263
+The lawsuit was dismissed?
+
+1069
+01:11:49,346 --> 01:11:50,431
+That means you won, right?
+
+1070
+01:11:50,514 --> 01:11:51,390
+Yes.
+
+1071
+01:11:51,473 --> 01:11:54,184
+If we had lost, we would have had to pay
+three trillion won in compensation,
+
+1072
+01:11:54,268 --> 01:11:56,395
+but we won, thanks to our attorneys.
+
+1073
+01:11:58,397 --> 01:11:59,690
+Cheers!
+
+1074
+01:11:59,773 --> 01:12:01,942
+Cheers to saving three trillion won!
+
+1075
+01:12:02,026 --> 01:12:03,652
+-Cheers!
+-Cheers!
+
+1076
+01:12:06,822 --> 01:12:08,115
+Gosh, welcome!
+
+1077
+01:12:08,198 --> 01:12:10,284
+Attorney Jung!
+
+1078
+01:12:10,367 --> 01:12:13,746
+I made a lot of abalone porridge
+because I heard you were coming.
+
+1079
+01:12:13,829 --> 01:12:15,539
+Goodness, thank you.
+
+1080
+01:12:15,622 --> 01:12:16,623
+You're welcome.
+
+1081
+01:12:18,542 --> 01:12:20,419
+Ms. Dong Geu-ran.
+
+1082
+01:12:20,502 --> 01:12:21,670
+Yes.
+
+1083
+01:12:23,297 --> 01:12:24,590
+Sit over here.
+
+1084
+01:12:24,673 --> 01:12:25,674
+Okay.
+
+1085
+01:12:28,177 --> 01:12:29,219
+Eat up.
+
+1086
+01:12:29,803 --> 01:12:30,929
+Thank you.
+
+1087
+01:12:31,513 --> 01:12:32,556
+Thank you for the food.
+
+1088
+01:12:32,639 --> 01:12:33,515
+Enjoy.
+
+1089
+01:12:34,183 --> 01:12:36,477
+I heard about the Raon trial.
+
+1090
+01:12:36,560 --> 01:12:38,395
+It was a big win.
+
+1091
+01:12:38,979 --> 01:12:42,858
+It feels like only yesterday
+that these three were clumsy rookies.
+
+1092
+01:12:43,525 --> 01:12:44,943
+My heart is so…
+
+1093
+01:12:46,487 --> 01:12:48,655
+You've all grown a lot.
+
+1094
+01:12:48,739 --> 01:12:49,907
+Thank you.
+
+1095
+01:12:49,990 --> 01:12:51,325
+It's all thanks to you.
+
+1096
+01:12:51,408 --> 01:12:54,870
+Are you returning to Hanbada,
+Attorney Jung?
+
+1097
+01:12:54,953 --> 01:12:56,497
+Yes. Yes?
+
+1098
+01:12:57,706 --> 01:12:59,249
+Yes? No.
+
+1099
+01:12:59,958 --> 01:13:01,168
+I don't know.
+
+1100
+01:13:05,923 --> 01:13:06,924
+What?
+
+1101
+01:13:11,011 --> 01:13:12,137
+What?
+
+1102
+01:13:13,597 --> 01:13:16,558
+Never mind. I'm still thinking about it.
+
+1103
+01:13:18,352 --> 01:13:20,479
+Do the three of you
+
+1104
+01:13:21,605 --> 01:13:23,690
+-like working at Hanbada?
+-Sorry?
+
+1105
+01:13:24,316 --> 01:13:25,317
+Well…
+
+1106
+01:13:27,152 --> 01:13:29,154
+Why would you ask them that?
+
+1107
+01:13:29,238 --> 01:13:30,823
+Of course, they'll say they like it
+since I'm here.
+
+1108
+01:13:30,906 --> 01:13:32,116
+Would they say no to my face?
+
+1109
+01:13:32,199 --> 01:13:33,283
+Well…
+
+1110
+01:13:33,951 --> 01:13:34,910
+I like it.
+
+1111
+01:13:37,496 --> 01:13:39,790
+Even if I weren't
+in front of Attorney Jung,
+
+1112
+01:13:40,582 --> 01:13:41,625
+I would say I like it.
+
+1113
+01:13:44,753 --> 01:13:45,796
+Right.
+
+1114
+01:13:54,721 --> 01:13:55,973
+Okay.
+
+1115
+01:13:56,056 --> 01:13:57,599
+That's a relief.
+
+1116
+01:13:58,267 --> 01:14:00,602
+Cheers because that's a relief!
+
+1117
+01:14:00,686 --> 01:14:01,687
+-That's a relief!
+-Cheers!
+
+1118
+01:14:01,770 --> 01:14:02,938
+Gosh, that's such a relief.
+
+1119
+01:14:03,021 --> 01:14:03,897
+-Cheers!
+-Cheers!
+
+1120
+01:14:03,981 --> 01:14:05,023
+-Cheers!
+-Cheers!
+
+1121
+01:14:08,068 --> 01:14:09,862
+-It's good, right?
+-Yes, it's so good.
+
+1122
+01:14:09,945 --> 01:14:10,904
+-It's really good, right?
+-The best.
+
+1123
+01:14:10,988 --> 01:14:12,448
+So who's paying
+for all this good food today?
+
+1124
+01:14:12,531 --> 01:14:13,365
+Well…
+
+1125
+01:14:14,283 --> 01:14:17,369
+-Jung Myeong-seok!
+-Jung Myeong-seok!
+
+1126
+01:14:17,453 --> 01:14:20,622
+-Jung Myeong-seok!
+-Jung Myeong-seok!
+
+1127
+01:14:20,706 --> 01:14:21,999
+Thank you!
+
+1128
+01:14:22,082 --> 01:14:23,208
+Thank you!
+
+1129
+01:14:27,671 --> 01:14:32,926
+WOO YOUNG-WOO GIMBAP
+
+1130
+01:14:33,802 --> 01:14:35,679
+One Woo Young-woo gimbap, please.
+
+1131
+01:14:35,762 --> 01:14:37,347
+Okay.
+
+1132
+01:14:37,431 --> 01:14:39,224
+I have it ready.
+
+1133
+01:14:49,776 --> 01:14:54,156
+I think a new emotion needs to be added
+to the human emotions poster.
+
+1134
+01:14:55,949 --> 01:14:57,034
+A new emotion?
+
+1135
+01:14:57,951 --> 01:14:59,161
+Which one?
+
+1136
+01:14:59,244 --> 01:15:03,999
+I'm not exactly sure what
+the emotion I'm feeling this morning is.
+
+1137
+01:15:04,625 --> 01:15:07,085
+It's not satisfaction
+
+1138
+01:15:07,669 --> 01:15:09,796
+or enjoyment.
+
+1139
+01:15:10,422 --> 01:15:13,175
+Or joy either.
+
+1140
+01:15:13,258 --> 01:15:14,843
+Then what is it?
+
+1141
+01:15:15,636 --> 01:15:16,678
+Starting today,
+
+1142
+01:15:17,221 --> 01:15:20,891
+I'm Hanbada Law Firm's full-time attorney,
+Woo Young-woo.
+
+1143
+01:15:20,974 --> 01:15:22,809
+Whether it's read straight or flipped,
+it's still Woo Young-woo.
+
+1144
+01:15:22,893 --> 01:15:25,729
+Kayak, deed, rotator,
+noon, racecar, Woo Young-woo.
+
+1145
+01:15:27,773 --> 01:15:28,774
+Full-time?
+
+1146
+01:15:34,446 --> 01:15:36,198
+You got your contract renewed?
+
+1147
+01:15:36,281 --> 01:15:37,324
+Yes.
+
+1148
+01:15:38,116 --> 01:15:40,035
+Gosh, that's great.
+
+1149
+01:15:41,286 --> 01:15:43,705
+But why didn't you tell me sooner?
+
+1150
+01:15:44,414 --> 01:15:46,208
+I'm telling you right now.
+
+1151
+01:15:46,291 --> 01:15:47,501
+Right, okay.
+
+1152
+01:15:48,585 --> 01:15:49,670
+My Young-woo.
+
+1153
+01:15:51,088 --> 01:15:52,422
+I'm so proud of you.
+
+1154
+01:15:53,882 --> 01:15:57,636
+But what you're feeling right now
+isn't joy?
+
+1155
+01:15:57,719 --> 01:15:59,221
+I'm so overjoyed right now.
+
+1156
+01:15:59,805 --> 01:16:01,682
+Well, I am happy.
+
+1157
+01:16:02,391 --> 01:16:04,309
+But I don't think that's all of it.
+
+1158
+01:16:04,393 --> 01:16:05,602
+Then are you proud?
+
+1159
+01:16:10,274 --> 01:16:11,525
+I don't think that's it.
+
+1160
+01:16:11,608 --> 01:16:13,277
+-Do you feel praiseworthy?
+-No.
+
+1161
+01:16:13,360 --> 01:16:14,820
+-Commendable?
+-No.
+
+1162
+01:16:14,903 --> 01:16:17,197
+Should I feel that I could die right now
+with no regrets
+
+1163
+01:16:17,281 --> 01:16:19,116
+because my daughter is
+a respectable, full-time attorney?
+
+1164
+01:16:19,700 --> 01:16:22,536
+We're getting further away
+from the answer I'm looking for.
+
+1165
+01:16:27,249 --> 01:16:28,375
+This is great.
+
+1166
+01:16:38,218 --> 01:16:39,595
+See you later.
+
+1167
+01:16:39,678 --> 01:16:40,971
+All right.
+
+1168
+01:16:55,485 --> 01:16:56,987
+My daughter's all grown up.
+
+1169
+01:18:34,418 --> 01:18:37,462
+One, two, three.
+
+1170
+01:18:38,046 --> 01:18:41,174
+One, two, three. One, two…
+
+1171
+01:18:55,313 --> 01:18:58,275
+One, two, three.
+
+1172
+01:18:58,358 --> 01:19:01,611
+One, two, three.
+
+1173
+01:19:03,238 --> 01:19:05,198
+One, two…
+
+1174
+01:19:31,933 --> 01:19:33,351
+Attorney Woo!
+
+1175
+01:19:40,192 --> 01:19:41,359
+A sense of fulfillment!
+
+1176
+01:19:41,985 --> 01:19:42,903
+What?
+
+1177
+01:19:44,070 --> 01:19:46,823
+The emotion I'm feeling this morning is
+
+1178
+01:19:47,574 --> 01:19:49,367
+a sense of fulfillment!
+
+1179
+01:22:37,327 --> 01:22:42,332
