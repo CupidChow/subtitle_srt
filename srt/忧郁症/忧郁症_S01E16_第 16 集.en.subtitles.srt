@@ -1,0 +1,3916 @@
+1
+00:00:18,476 --> 00:00:21,354
+ALL CHARACTERS, ORGANIZATIONS
+AND EVENTS IN THIS DRAMA ARE FICTITIOUS
+
+2
+00:00:31,406 --> 00:00:33,491
+For any integer n is three or more,
+
+3
+00:00:33,575 --> 00:00:37,537
+the equation xn plus yn equals to zn
+
+4
+00:00:37,620 --> 00:00:41,082
+has no positive integer solutions.
+
+5
+00:00:42,584 --> 00:00:44,377
+It's a simple theorem, isn't it?
+
+6
+00:00:44,461 --> 00:00:46,921
+You probably think
+you can prove it easily.
+
+7
+00:00:47,005 --> 00:00:51,843
+But no one could solve it
+for over 350 years.
+
+8
+00:00:52,427 --> 00:00:55,847
+Finally, a British mathematician
+solved it after seven years.
+
+9
+00:00:55,930 --> 00:00:57,098
+For seven years?
+
+10
+00:00:57,766 --> 00:01:00,101
+He spent seven years trying
+to solve one problem?
+
+11
+00:01:00,185 --> 00:01:01,978
+That's correct. To prove this theorem…
+
+12
+00:01:03,188 --> 00:01:08,193
+After he provided proof for the theorem
+after seven long years,
+
+13
+00:01:08,276 --> 00:01:09,778
+he said,
+
+14
+00:01:10,361 --> 00:01:12,697
+"The first seven years
+I worked on this problem,
+
+15
+00:01:13,406 --> 00:01:15,992
+I loved every minute of it."
+
+16
+00:01:21,831 --> 00:01:23,541
+-Ms. Ji.
+-Yes?
+
+17
+00:01:23,625 --> 00:01:25,084
+I finished reading this book.
+
+18
+00:01:25,168 --> 00:01:26,044
+A MATHEMATICIAN'S APOLOGY
+BY G.H.HARDY
+
+19
+00:01:26,127 --> 00:01:28,338
+You did? How did you like it?
+
+20
+00:01:28,421 --> 00:01:32,217
+I found out there was
+beauty and ugly in mathematics.
+
+21
+00:01:32,300 --> 00:01:35,595
+What do you think
+is beautiful mathematics?
+
+22
+00:01:35,678 --> 00:01:37,263
+Math that is like a constellation.
+
+23
+00:01:38,223 --> 00:01:39,224
+A constellation?
+
+24
+00:01:39,307 --> 00:01:41,017
+He says so in the book.
+
+25
+00:01:41,100 --> 00:01:45,271
+"A mathematical proof should resemble
+a simple and clear-cut constellation."
+
+26
+00:01:45,355 --> 00:01:46,439
+That's right.
+
+27
+00:01:47,190 --> 00:01:48,983
+You read the book thoroughly.
+
+28
+00:01:49,692 --> 00:01:51,111
+Would you like me to
+recommend another book?
+
+29
+00:01:51,194 --> 00:01:52,028
+Sure.
+
+30
+00:01:56,950 --> 00:01:57,867
+Here.
+
+31
+00:01:59,536 --> 00:02:01,371
+What is this book about?
+
+32
+00:02:01,955 --> 00:02:03,665
+It's a story about a mathematician.
+
+33
+00:02:03,748 --> 00:02:06,584
+Despite facing errors and unfairness,
+
+34
+00:02:07,377 --> 00:02:10,380
+he forged on resolutely.
+
+35
+00:02:11,631 --> 00:02:13,675
+It's a story about his proof.
+
+36
+00:02:15,426 --> 00:02:20,598
+TIME TO PROVE
+
+37
+00:02:20,682 --> 00:02:22,225
+AUTHOR: PAIK SEUNG-YOO
+
+38
+00:02:27,647 --> 00:02:29,315
+NATIONAL MATH MUSEUM AND
+ASUNG ACADEMY OF MATHEMATICS AND ARTS MOU
+
+39
+00:02:29,399 --> 00:02:32,735
+After we look through the evidence
+obtained from the seizure of documents,
+
+40
+00:02:32,819 --> 00:02:36,156
+we may press more charges
+on top of your illegal conduct
+
+41
+00:02:36,239 --> 00:02:39,325
+which includes lobbying
+for the math museum project,
+
+42
+00:02:39,409 --> 00:02:42,036
+influencing hiring of personnel,
+and misappropriation of a state grant.
+
+43
+00:02:47,625 --> 00:02:48,793
+Who could have done this?
+
+44
+00:02:48,877 --> 00:02:51,588
+Let's begin with the allegations
+surrounding the grant.
+
+45
+00:02:51,671 --> 00:02:53,590
+Do you admit to embezzling committee funds
+
+46
+00:02:53,673 --> 00:02:56,175
+by leveraging the MOU that was signed
+with the launch committee?
+
+47
+00:02:56,259 --> 00:02:59,596
+How can you accuse me of embezzlement
+for some pocket change?
+
+48
+00:03:00,305 --> 00:03:01,598
+You find it unfair?
+
+49
+00:03:04,309 --> 00:03:06,019
+It was all because of money?
+
+50
+00:03:07,145 --> 00:03:09,731
+Is there any other reason then?
+
+51
+00:03:09,814 --> 00:03:12,066
+You appointed Professor Cha
+as the committee head
+
+52
+00:03:12,150 --> 00:03:14,819
+so that you could embezzle
+the committee funds, didn't you?
+
+53
+00:03:14,903 --> 00:03:17,697
+I'm warning you.
+Don't even think about hurting Yoo-chan.
+
+54
+00:03:19,282 --> 00:03:20,867
+So insolent.
+
+55
+00:03:20,950 --> 00:03:22,327
+What did you say?
+
+56
+00:03:23,828 --> 00:03:27,290
+Mr. Yoo, if you look
+at the allocation of the fund…
+
+57
+00:03:36,925 --> 00:03:39,928
+Look here, Ms. Noh!
+Are you even listening to me?
+
+58
+00:03:45,808 --> 00:03:49,354
+Since a portion of the launch
+committee funds were allocated
+
+59
+00:03:49,437 --> 00:03:53,775
+to promoting the math museum,
+it wasn't improper
+
+60
+00:03:53,858 --> 00:03:55,777
+to spend it on Asung academy students.
+
+61
+00:03:55,860 --> 00:03:58,279
+It is true that
+I recommended Professor Cha,
+
+62
+00:03:58,363 --> 00:04:00,698
+but I didn't exert influence
+to have him hired.
+
+63
+00:04:00,782 --> 00:04:02,575
+As an educator, I was trying to build
+
+64
+00:04:02,659 --> 00:04:05,161
+a national museum
+to raise interest in math education
+
+65
+00:04:05,245 --> 00:04:08,414
+to foster bright and talented people.
+
+66
+00:04:08,498 --> 00:04:10,792
+I'm very dismayed that you are accusing me
+
+67
+00:04:10,875 --> 00:04:13,836
+of giving bribes and lobbying
+
+68
+00:04:14,587 --> 00:04:16,464
+for my own personal gain.
+
+69
+00:04:17,548 --> 00:04:20,551
+Mr. Shin Seung-jae,
+do you admit to the charges?
+
+70
+00:04:21,135 --> 00:04:25,139
+I was never interested
+in the Math Museum in the first place.
+
+71
+00:04:25,223 --> 00:04:27,934
+It's Principal Noh's idea
+and she planned to build it.
+
+72
+00:04:28,017 --> 00:04:30,270
+You're saying
+that a private school principal
+
+73
+00:04:31,104 --> 00:04:34,107
+was able to secure state funds
+for a museum project all by herself?
+
+74
+00:04:34,190 --> 00:04:38,945
+She deceived me by portraying the project
+as being beneficial to math and academia.
+
+75
+00:04:39,028 --> 00:04:41,739
+Senator Sung Min-joon vouched for her,
+
+76
+00:04:41,823 --> 00:04:45,576
+but it turned out they were doing it
+for their own personal benefit.
+
+77
+00:04:45,660 --> 00:04:48,746
+If there was any illegal conduct
+in the launch of the museum project,
+
+78
+00:04:48,830 --> 00:04:52,292
+wouldn't Education Minister Shin
+who oversaw the task force team,
+
+79
+00:04:52,375 --> 00:04:55,920
+and Professor Cha,
+who chaired the committee
+
+80
+00:04:56,004 --> 00:04:58,506
+be the ones behind it?
+
+81
+00:04:58,589 --> 00:05:00,842
+Didn't Minister Shin
+and Principal Noh lobby you
+
+82
+00:05:00,925 --> 00:05:03,720
+to pass the budget for the museum project?
+
+83
+00:05:03,803 --> 00:05:04,762
+Now look here.
+
+84
+00:05:04,846 --> 00:05:06,097
+I merely set up a meeting
+
+85
+00:05:06,180 --> 00:05:10,310
+between the minister and principal
+to help my district.
+
+86
+00:05:10,393 --> 00:05:12,270
+Why do you think I am cooperating despite
+
+87
+00:05:12,353 --> 00:05:15,064
+having legislative immunity
+as a sitting senator?
+
+88
+00:05:15,648 --> 00:05:17,900
+I'm here because I've got nothing to hide.
+
+89
+00:05:18,568 --> 00:05:20,236
+I am completely innocent.
+
+90
+00:05:20,320 --> 00:05:24,032
+Didn't you gain from inside information
+you had as the committee chair?
+
+91
+00:05:24,907 --> 00:05:26,200
+I'm a professor.
+
+92
+00:05:27,410 --> 00:05:29,954
+I only focus on research and nothing else.
+
+93
+00:05:30,913 --> 00:05:33,166
+Your wife, Kim Young-sun,
+recently purchased a plot of land
+
+94
+00:05:33,249 --> 00:05:37,211
+that had been chosen
+to be the site of the museum.
+
+95
+00:05:37,295 --> 00:05:38,171
+Well…
+
+96
+00:05:39,505 --> 00:05:42,091
+Unlike me,
+my wife is very financially savvy.
+
+97
+00:05:42,175 --> 00:05:44,761
+However, I didn't provide her
+with any inside information.
+
+98
+00:05:44,844 --> 00:05:46,429
+And I don't have the money
+to buy such land.
+
+99
+00:05:46,512 --> 00:05:47,513
+INSPECTING ROOM
+
+100
+00:05:50,016 --> 00:05:52,477
+Why you, Senator Sung!
+I've been waiting for this day!
+
+101
+00:05:52,560 --> 00:05:54,479
+-Look here! You bastard!
+-Minister…
+
+102
+00:05:54,562 --> 00:05:56,939
+Don't be a disgrace!
+What do you think you're doing?
+
+103
+00:05:57,023 --> 00:05:59,776
+A disgrace? You're the one
+pretending to be innocent!
+
+104
+00:05:59,859 --> 00:06:02,153
+How dare you try to slip
+out of this like a weasel?
+
+105
+00:06:02,236 --> 00:06:04,906
+Why didn't you stop
+your aide from talking?
+
+106
+00:06:04,989 --> 00:06:08,076
+I found out the whistleblower
+is your aide, Ryu Sung-jae.
+
+107
+00:06:09,452 --> 00:06:11,245
+How could he betray you like that?
+
+108
+00:06:11,329 --> 00:06:14,290
+Are you saying this is my fault?
+You bastard!
+
+109
+00:06:14,373 --> 00:06:16,709
+-Let go of me.
+-Please.
+
+110
+00:06:16,793 --> 00:06:19,170
+Get out of my way!
+I'll give you a piece of my mind!
+
+111
+00:06:19,253 --> 00:06:21,547
+-Let go!
+-Senator! Restrain yourself!
+
+112
+00:06:41,984 --> 00:06:43,694
+-What is this?
+-What?
+
+113
+00:06:45,738 --> 00:06:47,156
+You need to see this.
+
+114
+00:06:54,330 --> 00:06:55,623
+Je-ni, did you see this?
+
+115
+00:06:55,706 --> 00:06:57,542
+-Hey, what is this?
+-They're the same test questions.
+
+116
+00:06:57,625 --> 00:06:59,794
+-What is it?
+-How could the questions be the same?
+
+117
+00:06:59,877 --> 00:07:01,379
+-This is so wrong.
+-Did someone leak the test?
+
+118
+00:07:01,462 --> 00:07:04,132
+-Hey, did you see this?
+-What is this? This textbook?
+
+119
+00:07:04,215 --> 00:07:07,802
+-Somebody in our school had this textbook.
+-I can't believe it.
+
+120
+00:07:07,885 --> 00:07:10,221
+-This is so dirty.
+-They're identical.
+
+121
+00:07:11,389 --> 00:07:12,682
+PRIVATE HIGH SCHOOL MIDTERM MATH TEST
+
+122
+00:07:12,765 --> 00:07:14,475
+TEST QUESTIONS LEAKED?
+100% LEAKED
+
+123
+00:07:15,601 --> 00:07:18,354
+-They're exactly the same.
+-What the hell?
+
+124
+00:07:18,980 --> 00:07:19,814
+What the!
+
+125
+00:07:19,897 --> 00:07:23,443
+How can the test questions be the same
+as the ones in this textbook?
+
+126
+00:07:23,526 --> 00:07:25,820
+You didn't know about this
+when we made the test?
+
+127
+00:07:26,654 --> 00:07:29,657
+Actually, Mr. Ahn prepared
+the math questions.
+
+128
+00:07:38,458 --> 00:07:39,750
+This is serious.
+
+129
+00:07:39,834 --> 00:07:43,629
+Online photos of a cram school textbook
+created a big scandal,
+
+130
+00:07:43,713 --> 00:07:46,716
+as the questions are identical
+to Asung Academy's exam questions.
+
+131
+00:07:46,799 --> 00:07:48,718
+Photos of the textbook are everywhere.
+
+132
+00:07:48,801 --> 00:07:50,011
+How did it get leaked?
+
+133
+00:07:50,094 --> 00:07:51,637
+But we returned all the textbooks
+to Principal Noh.
+
+134
+00:07:51,721 --> 00:07:54,265
+What will happen if we're exposed?
+
+135
+00:07:58,644 --> 00:08:01,522
+My goodness. Yoo-chan used this textbook.
+
+136
+00:08:02,231 --> 00:08:03,608
+How did this get leaked?
+
+137
+00:08:04,358 --> 00:08:05,276
+Oh, my…
+
+138
+00:08:08,488 --> 00:08:12,241
+Meanwhile, reporters are camped
+outside the Office of Education
+
+139
+00:08:12,325 --> 00:08:15,912
+as the whistleblower
+is planning to show up.
+
+140
+00:08:35,389 --> 00:08:37,600
+-What? Is that him?
+-It's the whistleblower!
+
+141
+00:08:37,683 --> 00:08:40,603
+Are you Mr. Paik Seung-yoo?
+Are you the whistleblower?
+
+142
+00:08:40,686 --> 00:08:42,063
+What evidence have you brought with you?
+
+143
+00:08:42,146 --> 00:08:45,858
+Did you post pictures of the textbook
+and test online, Mr. Paik?
+
+144
+00:08:45,942 --> 00:08:47,568
+Let's not submit it
+to the Office of Education right away.
+
+145
+00:08:47,652 --> 00:08:48,778
+Then when?
+
+146
+00:08:48,861 --> 00:08:53,032
+I used that approach four years ago.
+And you know what the result was, right?
+
+147
+00:08:53,115 --> 00:08:55,034
+I want to do it differently this time.
+
+148
+00:08:59,372 --> 00:09:02,625
+I'm Paik Seung-yoo,
+a teacher at Asung Academy.
+
+149
+00:09:03,292 --> 00:09:04,835
+I've been relieved of my duties.
+
+150
+00:09:04,919 --> 00:09:08,631
+I would like to make a statement
+before I submit the evidence
+
+151
+00:09:08,714 --> 00:09:10,883
+I've collected to the Office of Education.
+
+152
+00:09:11,968 --> 00:09:14,929
+Asung Academy has
+a foreign admissions prep class
+
+153
+00:09:15,012 --> 00:09:16,472
+called the global gifted class.
+
+154
+00:09:16,556 --> 00:09:18,599
+Children of high-ranking people
+in society,
+
+155
+00:09:18,683 --> 00:09:22,103
+such as senators, ministers,
+corporate CEOs, professors, and such,
+
+156
+00:09:22,687 --> 00:09:25,481
+are in this class.
+
+157
+00:09:29,485 --> 00:09:32,697
+I'm holding a textbook that was only given
+
+158
+00:09:33,364 --> 00:09:36,158
+to students in the global gifted class.
+
+159
+00:09:40,830 --> 00:09:42,206
+How did he get it?
+
+160
+00:09:42,290 --> 00:09:44,125
+MATHEMATICIAN PAIK SEUNG-YOO
+EXPOSES ASUNG ACADEMY SCANDAL
+
+161
+00:09:47,628 --> 00:09:50,673
+-How will we do it differently?
+-We'll go public with the evidence
+
+162
+00:09:50,756 --> 00:09:52,717
+before we submit it to the authorities.
+
+163
+00:09:52,800 --> 00:09:57,096
+The math questions in this textbook
+are identical to the questions
+
+164
+00:09:57,179 --> 00:09:59,849
+on the midterm math exam administered
+by Asung Academy.
+
+165
+00:10:02,101 --> 00:10:05,396
+Are you claiming that only the children of
+high-ranking officials had that textbook
+
+166
+00:10:05,479 --> 00:10:07,565
+which contained
+the same questions as the test?
+
+167
+00:10:07,648 --> 00:10:08,774
+That's correct.
+
+168
+00:10:08,858 --> 00:10:11,861
+In addition, Asung Academy's Principal Noh
+
+169
+00:10:11,944 --> 00:10:16,073
+took large bribes from the parents
+of the global gifted class students
+
+170
+00:10:16,157 --> 00:10:18,618
+under the guise
+of donations to the school.
+
+171
+00:10:22,455 --> 00:10:25,458
+In this USB drive,
+you'll find records showing that
+
+172
+00:10:25,541 --> 00:10:28,336
+Principal Noh knowingly took bribes
+and lobbied the ministry.
+
+173
+00:10:28,419 --> 00:10:30,463
+I plan to also submit this
+to the authorities.
+
+174
+00:10:36,385 --> 00:10:37,845
+REPORTER JUNG
+
+175
+00:10:39,055 --> 00:10:39,972
+REPORTER CHOI
+
+176
+00:10:40,056 --> 00:10:43,768
+MR. PAIK, SUBMITTING THE EVIDENCE
+OF CORRUPTION TO THE AUTHORITIES
+
+177
+00:10:46,354 --> 00:10:49,106
+DAD
+
+178
+00:11:15,674 --> 00:11:17,676
+The Education Ministry
+will hold a hearing?
+
+179
+00:11:19,762 --> 00:11:20,930
+And then what?
+
+180
+00:11:21,013 --> 00:11:22,765
+The entire board could be dismantled
+
+181
+00:11:22,848 --> 00:11:25,393
+if they find irregularities
+in the foundation's finances?
+
+182
+00:11:26,602 --> 00:11:29,271
+You emptied out my safe, didn't you?
+
+183
+00:11:30,606 --> 00:11:32,608
+I warned you not to get greedy, didn’t I?
+
+184
+00:11:32,691 --> 00:11:34,527
+You've ruined the reputation
+of Asung, dad, and me!
+
+185
+00:11:34,610 --> 00:11:38,280
+How could you be so dirty?
+How dare you dishonor my grandfather?
+
+186
+00:11:38,364 --> 00:11:40,741
+Get out! You're going down!
+
+187
+00:11:41,450 --> 00:11:44,161
+You have no place in this family
+or in the foundation!
+
+188
+00:11:45,079 --> 00:11:46,997
+Dad should have kicked you out sooner.
+
+189
+00:11:52,753 --> 00:11:54,130
+I made allegations that
+
+190
+00:11:54,713 --> 00:11:58,634
+there was a previous cheating scandal
+at Asung High School in 2017.
+
+191
+00:11:58,717 --> 00:12:01,637
+The court will soon
+announce their judgment
+
+192
+00:12:01,720 --> 00:12:03,806
+after the parent pleaded guilty
+to bribing a teacher.
+
+193
+00:12:03,889 --> 00:12:05,558
+With us today is the person
+
+194
+00:12:06,058 --> 00:12:08,602
+who has agreed to testify
+that the allegations
+
+195
+00:12:08,686 --> 00:12:11,397
+against Principal Noh
+and Senator Sung are true.
+
+196
+00:12:15,192 --> 00:12:16,735
+Testify? Who's the witness?
+
+197
+00:12:16,819 --> 00:12:18,362
+It has to be Ji Yoon-su.
+
+198
+00:12:18,446 --> 00:12:20,197
+This is terrible news.
+
+199
+00:12:27,288 --> 00:12:28,164
+Oh, my.
+
+200
+00:12:29,665 --> 00:12:30,708
+VICE-PRINCIPAL CHOI SUNG-HAN
+
+201
+00:12:30,791 --> 00:12:32,293
+Where is Vice-principal Choi?
+
+202
+00:12:33,502 --> 00:12:34,795
+Well…
+
+203
+00:12:39,383 --> 00:12:41,010
+What's going on?
+
+204
+00:12:41,093 --> 00:12:42,470
+Gosh.
+
+205
+00:13:02,406 --> 00:13:04,158
+Dear Principal,
+
+206
+00:13:04,241 --> 00:13:06,577
+I've watered all the plants
+in your office.
+
+207
+00:13:06,660 --> 00:13:09,955
+I will probably receive
+a sentence for the crimes I committed
+
+208
+00:13:10,039 --> 00:13:14,710
+since Asung Academy's scandal
+has now been exposed.
+
+209
+00:13:16,212 --> 00:13:20,007
+If I plead guilty and cooperate,
+the judge might show leniency.
+
+210
+00:13:20,799 --> 00:13:24,178
+So I have decided to admit my guilt
+
+211
+00:13:24,261 --> 00:13:28,349
+and reveal the whole truth,
+and nothing but the truth.
+
+212
+00:13:28,432 --> 00:13:29,975
+From Choi Sung-han.
+
+213
+00:13:31,143 --> 00:13:33,938
+Reveal what? Why reveal it?
+
+214
+00:13:34,021 --> 00:13:37,149
+I didn't do anything wrong!
+
+215
+00:13:39,944 --> 00:13:43,656
+This place has
+
+216
+00:13:44,698 --> 00:13:47,034
+become palatial and very grand.
+
+217
+00:13:47,701 --> 00:13:49,995
+I'm more curious
+about how this will end for you.
+
+218
+00:13:50,079 --> 00:13:52,248
+Will you be able to protect
+what matters to you?
+
+219
+00:13:52,331 --> 00:13:54,250
+Enough! No more!
+
+220
+00:13:54,333 --> 00:13:55,960
+Enough!
+
+221
+00:13:56,043 --> 00:13:58,254
+I'm being framed! Stop the lies!
+
+222
+00:13:58,337 --> 00:14:00,381
+Stop! They're all lies!
+
+223
+00:14:00,464 --> 00:14:03,509
+Enough! No more!
+
+224
+00:14:10,307 --> 00:14:11,642
+Ji-na.
+
+225
+00:14:11,725 --> 00:14:13,435
+Right on time. Let's go.
+
+226
+00:14:15,145 --> 00:14:16,939
+We can't let them run all over us.
+
+227
+00:14:17,523 --> 00:14:20,442
+Don't worry. I can resolve this.
+
+228
+00:14:29,451 --> 00:14:30,911
+Remember? I told you to uphold
+
+229
+00:14:32,246 --> 00:14:34,415
+the school's reputation and dignity.
+
+230
+00:14:35,791 --> 00:14:38,085
+But you always tried to hide it
+and tried not to get caught.
+
+231
+00:14:38,168 --> 00:14:40,212
+Why didn't you protect the school instead?
+
+232
+00:14:41,630 --> 00:14:43,591
+You thought nobody would find out?
+
+233
+00:14:47,136 --> 00:14:48,137
+You…
+
+234
+00:14:48,888 --> 00:14:50,389
+But alas…
+
+235
+00:14:51,599 --> 00:14:54,560
+I found out about your dirty secrets
+
+236
+00:14:56,520 --> 00:14:58,480
+that you kept locked in your safe.
+
+237
+00:15:01,191 --> 00:15:02,318
+You…
+
+238
+00:15:04,528 --> 00:15:05,529
+No, you didn't…
+
+239
+00:15:05,613 --> 00:15:08,657
+But it's a relief that
+I discovered it first.
+
+240
+00:15:10,367 --> 00:15:11,869
+You no longer have to hide it.
+
+241
+00:15:38,562 --> 00:15:40,773
+Don't be so upset, Mom.
+
+242
+00:15:42,191 --> 00:15:44,318
+I'm not trying to trap you.
+
+243
+00:15:47,488 --> 00:15:50,783
+I'm helping you escape
+from your bad habits.
+
+244
+00:15:52,493 --> 00:15:54,203
+No!
+
+245
+00:15:54,286 --> 00:15:56,121
+This can't be true!
+
+246
+00:16:00,376 --> 00:16:01,543
+No!
+
+247
+00:16:13,389 --> 00:16:17,184
+Is your witness the teacher who was
+involved in the scandal issue with you?
+
+248
+00:16:17,267 --> 00:16:19,853
+Where is she? Is she the math teacher?
+
+249
+00:16:23,148 --> 00:16:24,525
+Are you ready?
+
+250
+00:16:35,536 --> 00:16:37,162
+The witness
+
+251
+00:16:37,246 --> 00:16:41,000
+is the person who was
+at the center of the cheating scandal.
+
+252
+00:16:41,083 --> 00:16:42,960
+This is a scoop, I think.
+
+253
+00:16:43,711 --> 00:16:46,422
+-It's Sung Ye-lin!
+-What? That's Sung Ye-lin!
+
+254
+00:16:49,341 --> 00:16:52,386
+Oh, my! Ye-lin.
+
+255
+00:16:52,469 --> 00:16:55,514
+Wait. What is Ye-lin doing there?
+
+256
+00:16:55,597 --> 00:16:57,391
+What the hell is she doing there?
+
+257
+00:17:00,352 --> 00:17:02,271
+SENATOR SUNG'S DAUGHTER TESTIFIES
+IN ASUNG HIGH'S CHEATING SCANDAL
+
+258
+00:17:15,242 --> 00:17:16,493
+You were right.
+
+259
+00:17:17,494 --> 00:17:19,038
+Unlike me,
+
+260
+00:17:20,122 --> 00:17:22,750
+Yoo-chan regretted
+what he did and was scared.
+
+261
+00:17:24,084 --> 00:17:26,378
+When I was his age, I didn't care.
+
+262
+00:17:26,462 --> 00:17:29,131
+So what would you like to do?
+
+263
+00:17:29,965 --> 00:17:31,508
+I want to put an end to this.
+
+264
+00:17:32,342 --> 00:17:35,554
+Before it gets to the point of no return.
+
+265
+00:17:37,306 --> 00:17:39,975
+You said you could
+fix things in small steps, right?
+
+266
+00:17:41,060 --> 00:17:43,228
+And you promised to help me, didn't you?
+
+267
+00:17:43,854 --> 00:17:45,397
+Tell me what I need to do.
+
+268
+00:17:46,440 --> 00:17:47,649
+Please.
+
+269
+00:17:49,860 --> 00:17:51,695
+You only have to do one thing.
+
+270
+00:17:53,363 --> 00:17:54,948
+Just be brave.
+
+271
+00:17:59,787 --> 00:18:01,080
+In 2017,
+
+272
+00:18:01,997 --> 00:18:05,584
+I had three high school teachers.
+
+273
+00:18:06,752 --> 00:18:08,712
+One teacher leaked the answer sheet to me.
+
+274
+00:18:09,505 --> 00:18:11,381
+Another teacher covered up the cheating.
+
+275
+00:18:11,465 --> 00:18:12,549
+But the third teacher
+
+276
+00:18:13,425 --> 00:18:16,345
+caught me cheating.
+
+277
+00:18:18,055 --> 00:18:20,516
+So I treated her like an enemy.
+
+278
+00:18:21,600 --> 00:18:26,063
+Yet, whenever I faced obstacles in life,
+
+279
+00:18:26,939 --> 00:18:29,358
+her words kept ringing in my ears.
+
+280
+00:18:29,983 --> 00:18:33,654
+She said I had to realize
+what I did was wrong.
+
+281
+00:18:35,697 --> 00:18:38,200
+And that I should confess to what I did.
+
+282
+00:18:38,283 --> 00:18:39,827
+Those words stayed with me.
+
+283
+00:18:40,494 --> 00:18:43,539
+What made you decide
+to confess to everything?
+
+284
+00:18:44,373 --> 00:18:47,126
+I told a terrible lie.
+
+285
+00:18:48,961 --> 00:18:50,462
+And I benefited from it.
+
+286
+00:18:51,255 --> 00:18:52,965
+I also framed my teacher.
+
+287
+00:18:54,967 --> 00:18:55,884
+But…
+
+288
+00:18:56,677 --> 00:19:01,473
+I never admitted to any wrongdoing
+or apologized to the people I hurt.
+
+289
+00:19:08,605 --> 00:19:10,566
+I apologize for what I did.
+
+290
+00:19:11,733 --> 00:19:14,027
+I'm very sorry, Ms. Ji Yoon-su.
+
+291
+00:19:28,041 --> 00:19:29,543
+-What's going on?
+-What?
+
+292
+00:19:29,626 --> 00:19:33,172
+-It's Ji Yoon-su.
+-She's here.
+
+293
+00:19:35,424 --> 00:19:36,925
+Let's go now.
+
+294
+00:19:38,010 --> 00:19:39,469
+All right. Let's go.
+
+295
+00:19:40,345 --> 00:19:42,181
+You were a math teacher
+at Asung High, weren't you?
+
+296
+00:19:42,264 --> 00:19:43,599
+Please comment about this development.
+
+297
+00:19:43,682 --> 00:19:46,685
+Ye-lin just confessed to framing you.
+Could you comment about that?
+
+298
+00:19:46,768 --> 00:19:48,020
+Please say a word.
+
+299
+00:19:54,318 --> 00:19:55,569
+The student
+
+300
+00:19:56,695 --> 00:19:59,573
+who was framed along
+with me four years ago…
+
+301
+00:20:01,450 --> 00:20:02,826
+I'll prove it.
+
+302
+00:20:04,745 --> 00:20:06,163
+I'll prove it myself.
+
+303
+00:20:07,623 --> 00:20:09,833
+…promised to expose the truth.
+
+304
+00:20:11,335 --> 00:20:14,421
+I'm very happy he succeeded
+in what he set out
+
+305
+00:20:15,380 --> 00:20:16,423
+to prove.
+
+306
+00:20:23,722 --> 00:20:26,600
+-Just a minute.
+-Any further comments?
+
+307
+00:20:31,730 --> 00:20:33,273
+What do you mean by "succeeded"?
+
+308
+00:20:34,608 --> 00:20:36,360
+We'll play the audio recording.
+
+309
+00:20:39,071 --> 00:20:40,656
+It'll have to be done secretly.
+
+310
+00:20:40,739 --> 00:20:44,284
+I'll explain to you how we can move
+the money. Just follow this method.
+
+311
+00:20:44,368 --> 00:20:46,828
+First, set up a foundation.
+
+312
+00:20:46,912 --> 00:20:51,333
+A non-profit organization
+that helps needy students.
+
+313
+00:20:51,416 --> 00:20:53,961
+The school parents will make donations
+
+314
+00:20:54,044 --> 00:20:56,588
+and that'll be used to bribe
+admissions officers
+
+315
+00:20:56,672 --> 00:20:58,507
+and we'll claim it as a tax write-off.
+
+316
+00:20:58,590 --> 00:21:00,676
+It'll sort of be like money laundering.
+
+317
+00:21:01,260 --> 00:21:02,886
+And one more thing.
+
+318
+00:21:04,346 --> 00:21:06,974
+Why are you showing this to me?
+
+319
+00:21:07,057 --> 00:21:09,476
+Because a third party
+secretly recorded it,
+
+320
+00:21:09,559 --> 00:21:11,520
+the court won't permit it as evidence.
+
+321
+00:21:11,603 --> 00:21:13,647
+If you submit it and claim
+you recorded it,
+
+322
+00:21:13,730 --> 00:21:16,400
+then Principal Noh will be found guilty
+of the charges.
+
+323
+00:21:16,483 --> 00:21:19,361
+I'd like the foundation
+to purchase stocks.
+
+324
+00:21:20,112 --> 00:21:22,364
+Do you admit to everything
+said in the audio recording?
+
+325
+00:21:23,365 --> 00:21:26,827
+Principal Noh gave all the orders
+and I merely followed them.
+
+326
+00:21:27,786 --> 00:21:29,329
+She also said this.
+
+327
+00:21:30,289 --> 00:21:34,293
+Since the parents of the global gifted
+class are high-ranking people,
+
+328
+00:21:34,376 --> 00:21:36,169
+they can protect me from any scandal.
+
+329
+00:21:36,795 --> 00:21:40,132
+Since they guaranteed to protect us,
+there was no need to worry.
+
+330
+00:21:40,799 --> 00:21:43,844
+Violation of the Improper Solicitation
+and Graft Act,
+
+331
+00:21:44,553 --> 00:21:49,683
+breach of trust, forgery of documents,
+and embezzlement…
+
+332
+00:21:50,642 --> 00:21:51,810
+Gosh.
+
+333
+00:21:52,728 --> 00:21:55,230
+Do you admit your guilt to the charges?
+
+334
+00:21:57,649 --> 00:21:59,401
+This is unfair.
+
+335
+00:21:59,484 --> 00:22:00,444
+How is it unfair?
+
+336
+00:22:03,488 --> 00:22:05,157
+Sir, do you have any children?
+
+337
+00:22:05,240 --> 00:22:07,159
+-Yes, I do.
+-Which school do they go to?
+
+338
+00:22:07,242 --> 00:22:09,161
+They go to public schools.
+
+339
+00:22:09,244 --> 00:22:12,581
+A prosecutor like you with honor
+and high status
+
+340
+00:22:12,664 --> 00:22:15,000
+would do anything for your children,
+wouldn't you?
+
+341
+00:22:15,083 --> 00:22:17,294
+Don't all parents want
+
+342
+00:22:17,961 --> 00:22:20,339
+their kids to get ahead
+
+343
+00:22:20,422 --> 00:22:22,591
+and make things easier for them?
+
+344
+00:22:23,508 --> 00:22:24,676
+I guess so.
+
+345
+00:22:25,844 --> 00:22:29,598
+All the school parents I've met so far
+wanted their children
+
+346
+00:22:30,348 --> 00:22:34,811
+to be put ahead of other students.
+
+347
+00:22:35,979 --> 00:22:37,522
+When I showed them how they could do that…
+
+348
+00:22:37,606 --> 00:22:39,024
+Please let her off.
+
+349
+00:22:39,775 --> 00:22:42,527
+Please cover up this matter
+for Ye-lin's sake.
+
+350
+00:22:42,611 --> 00:22:45,113
+…they would kneel before me or bow deeply.
+
+351
+00:22:45,197 --> 00:22:47,908
+-Director, Happy Birthday to you.
+-Happy Birthday to you.
+
+352
+00:22:47,991 --> 00:22:50,827
+They treated me like a queen.
+
+353
+00:22:52,788 --> 00:22:54,706
+They promised they would do anything
+
+354
+00:22:54,790 --> 00:22:57,250
+if showed them how their kids
+could take the easy path.
+
+355
+00:22:58,210 --> 00:23:01,880
+How dare they treat me like a criminal
+who ruined their kids' lives?
+
+356
+00:23:01,963 --> 00:23:03,757
+What did I do wrong?
+
+357
+00:23:03,840 --> 00:23:06,635
+Ye-lin said she doesn't know
+what she did wrong.
+
+358
+00:23:06,718 --> 00:23:08,845
+I think that's a serious problem.
+
+359
+00:23:08,929 --> 00:23:11,515
+I want to make things right.
+
+360
+00:23:12,307 --> 00:23:14,643
+Before this gets out of hand.
+
+361
+00:23:14,726 --> 00:23:16,269
+She didn't make things right.
+
+362
+00:23:16,353 --> 00:23:18,772
+She shook up the system. She shattered it!
+
+363
+00:23:18,855 --> 00:23:22,150
+A beautiful system that I carefully built.
+
+364
+00:23:24,486 --> 00:23:26,238
+A mere teacher at that!
+
+365
+00:23:31,743 --> 00:23:33,745
+Look here, Ms. Noh.
+
+366
+00:23:44,297 --> 00:23:47,050
+ASUNG ACADEMY PRINCIPAL, FOUND GUILTY
+FOR HELPING HIGH-RANKING OFFICIALS…
+
+367
+00:23:49,344 --> 00:23:52,806
+What do you think
+it'll be like when we have kids?
+
+368
+00:23:52,889 --> 00:23:57,185
+Wouldn't you want to do everything
+you can for them?
+
+369
+00:23:57,269 --> 00:24:00,647
+Loving your child and providing them
+with whatever they need is different
+
+370
+00:24:00,730 --> 00:24:04,401
+from cheating to get your child
+ahead of other kids who worked hard.
+
+371
+00:24:08,613 --> 00:24:10,031
+Hi.
+
+372
+00:24:10,615 --> 00:24:12,909
+-It's been a long time.
+-Yes. How have you been?
+
+373
+00:24:12,993 --> 00:24:15,328
+Good. Let's sit.
+
+374
+00:24:18,999 --> 00:24:20,542
+Did you see the news?
+
+375
+00:24:21,251 --> 00:24:24,129
+I heard you were
+the whistleblower. Thanks.
+
+376
+00:24:24,212 --> 00:24:27,465
+I was thinking about
+a conversation we once had.
+
+377
+00:24:28,091 --> 00:24:29,342
+What conversation?
+
+378
+00:24:29,426 --> 00:24:31,720
+About what it would be like
+if we had kids.
+
+379
+00:24:32,637 --> 00:24:35,056
+And we disagreed with each other.
+
+380
+00:24:36,433 --> 00:24:37,642
+I remember that.
+
+381
+00:24:38,810 --> 00:24:40,520
+I disregarded what you said.
+
+382
+00:24:41,730 --> 00:24:46,193
+I thought everything would be fine
+if I turned a blind eye.
+
+383
+00:24:47,861 --> 00:24:49,446
+You've changed your mind now?
+
+384
+00:24:50,197 --> 00:24:51,323
+Yes.
+
+385
+00:24:52,574 --> 00:24:55,368
+After going through that experience,
+
+386
+00:24:55,452 --> 00:24:58,622
+I've changed and found courage.
+
+387
+00:24:59,539 --> 00:25:01,791
+That's how I feel now.
+
+388
+00:25:02,542 --> 00:25:03,960
+I'm glad to hear that.
+
+389
+00:25:05,629 --> 00:25:08,798
+But there's something different
+about you now.
+
+390
+00:25:09,633 --> 00:25:11,927
+-Really?
+-Yes. In a positive way.
+
+391
+00:25:12,010 --> 00:25:13,553
+A positive way?
+
+392
+00:25:16,848 --> 00:25:18,558
+How is Seung-yoo doing?
+
+393
+00:25:22,979 --> 00:25:25,941
+He somehow got them to apologize.
+
+394
+00:25:27,317 --> 00:25:30,862
+I didn't think it would be possible
+to make them say sorry.
+
+395
+00:25:33,657 --> 00:25:35,033
+You pulled it off.
+
+396
+00:25:36,159 --> 00:25:38,078
+You and Seung-yoo.
+
+397
+00:25:46,461 --> 00:25:51,132
+Seung-yoo told me he wanted
+to make them apologize to you.
+
+398
+00:25:53,093 --> 00:25:55,262
+I felt he meant it when he said that
+
+399
+00:25:56,930 --> 00:25:59,182
+more so than when he promised
+he'd make you happy.
+
+400
+00:26:07,107 --> 00:26:09,109
+Mr. Han, how is teaching at a cram school?
+
+401
+00:26:09,192 --> 00:26:12,195
+It's different from teaching
+at a school, of course.
+
+402
+00:26:12,279 --> 00:26:16,324
+But thanks to your recommendation,
+I'm doing fine there.
+
+403
+00:26:17,242 --> 00:26:20,328
+My class has grown
+after I got positive reviews.
+
+404
+00:26:20,412 --> 00:26:23,581
+That's great. You have to work hard.
+I'm going to be watching you.
+
+405
+00:26:23,665 --> 00:26:25,667
+Of course, I'll try my best.
+
+406
+00:26:26,876 --> 00:26:30,046
+But nobody believes it
+when I tell them that
+
+407
+00:26:30,130 --> 00:26:31,423
+I was your math teacher.
+
+408
+00:26:32,590 --> 00:26:35,343
+-If you could do me a favor…
+-I'll take a selfie with you.
+
+409
+00:26:35,427 --> 00:26:36,803
+That's what I need.
+
+410
+00:26:37,887 --> 00:26:42,517
+I'm taking a selfie with Mr. Paik.
+
+411
+00:26:42,600 --> 00:26:44,519
+All right. Look at the camera.
+
+412
+00:26:44,602 --> 00:26:47,439
+One, two, three!
+
+413
+00:26:47,522 --> 00:26:49,482
+Nice.
+
+414
+00:26:51,818 --> 00:26:53,361
+Thanks.
+
+415
+00:26:53,445 --> 00:26:55,947
+For not forgetting about me.
+
+416
+00:26:56,031 --> 00:26:57,574
+I'm indebted to you.
+
+417
+00:26:57,657 --> 00:27:00,160
+You helped me a lot in this case
+and were a key witness.
+
+418
+00:27:00,243 --> 00:27:01,494
+That's how we made it here.
+
+419
+00:27:02,829 --> 00:27:04,664
+-Let's drink.
+-Sure.
+
+420
+00:27:05,498 --> 00:27:09,461
+Let's drink all night long.
+
+421
+00:27:12,672 --> 00:27:13,965
+Excuse me.
+
+422
+00:27:14,049 --> 00:27:17,218
+-What? How can I help you?
+-I'm a friend of Ji Yoon-su.
+
+423
+00:27:17,302 --> 00:27:19,095
+She's in the dressing room.
+
+424
+00:27:19,179 --> 00:27:22,015
+I'm ready, so you can join
+her when she comes out.
+
+425
+00:27:22,098 --> 00:27:23,308
+Okay.
+
+426
+00:27:24,768 --> 00:27:27,187
+You're done. Take a look at yourself.
+
+427
+00:27:29,397 --> 00:27:32,192
+Professor, you look so handsome.
+
+428
+00:27:33,526 --> 00:27:34,694
+Tada.
+
+429
+00:27:34,778 --> 00:27:36,112
+How do I look?
+
+430
+00:27:37,155 --> 00:27:39,032
+-Hi Mr. Paik, you came.
+-Hi.
+
+431
+00:27:39,115 --> 00:27:41,034
+The photographer says he's ready.
+
+432
+00:27:41,701 --> 00:27:44,829
+Who do we have here?
+
+433
+00:27:44,913 --> 00:27:48,208
+I didn't realize it was you at first.
+You're so good-looking.
+
+434
+00:27:48,291 --> 00:27:50,919
+-Mr. Paik, how do I look?
+-Take the wig off.
+
+435
+00:27:51,836 --> 00:27:54,672
+-I'm the star today.
+-What? You're the star?
+
+436
+00:27:54,756 --> 00:27:57,467
+We all came here
+to celebrate your recovery.
+
+437
+00:27:57,550 --> 00:27:59,260
+And the professor took a long drive here.
+
+438
+00:27:59,344 --> 00:28:01,513
+-We're very busy people you know.
+-Sure, Mr. Paik.
+
+439
+00:28:01,596 --> 00:28:02,972
+Let's go out now.
+
+440
+00:28:03,681 --> 00:28:04,974
+Dad, let's go.
+
+441
+00:28:05,058 --> 00:28:06,476
+Let's go, Professor.
+
+442
+00:28:09,938 --> 00:28:12,982
+All right. Could you hold
+your grandfather's hand?
+
+443
+00:28:14,401 --> 00:28:16,778
+-Like this?
+-Yes, perfect.
+
+444
+00:28:16,861 --> 00:28:19,614
+Could you tilt your head
+slightly towards your granddaughter?
+
+445
+00:28:20,448 --> 00:28:22,700
+Just a little. Great.
+
+446
+00:28:22,784 --> 00:28:26,788
+Now could you two in the back
+stand closer to each other?
+
+447
+00:28:29,749 --> 00:28:33,294
+Please lean in more so that
+your faces are closer.
+
+448
+00:28:34,170 --> 00:28:35,964
+Just a little more. Lean in more.
+
+449
+00:28:36,047 --> 00:28:37,549
+Very good.
+
+450
+00:28:37,632 --> 00:28:41,177
+Now everyone, smile. One, two, three.
+
+451
+00:28:42,721 --> 00:28:45,807
+I'll take another shot. Now smile broadly.
+
+452
+00:28:47,100 --> 00:28:48,727
+Grandpa, smile.
+
+453
+00:28:49,561 --> 00:28:52,355
+All right. One, two, three.
+
+454
+00:28:56,484 --> 00:28:57,986
+The university expelled Ye-lin?
+
+455
+00:28:58,069 --> 00:28:59,988
+Yes. Her dad also resigned.
+
+456
+00:29:01,322 --> 00:29:03,366
+Her dad is no longer a senator.
+
+457
+00:29:03,450 --> 00:29:04,743
+Her life is over.
+
+458
+00:29:04,826 --> 00:29:06,411
+Justice prevails, after all.
+
+459
+00:29:09,831 --> 00:29:12,125
+-Ye-lin.
+-When did you come?
+
+460
+00:29:12,208 --> 00:29:13,251
+Just now.
+
+461
+00:29:25,388 --> 00:29:26,639
+Let's go.
+
+462
+00:29:29,976 --> 00:29:32,812
+Hey, don't be self-conscious.
+You can start over again.
+
+463
+00:29:32,896 --> 00:29:35,356
+Who said I was self-conscious?
+I'm going to study hard.
+
+464
+00:29:35,440 --> 00:29:37,150
+That's the spirit, Ye-lin.
+
+465
+00:29:37,233 --> 00:29:39,402
+-I'll tutor you in math.
+-You will?
+
+466
+00:29:39,486 --> 00:29:42,113
+I was better in math than you
+in high school, remember?
+
+467
+00:29:42,197 --> 00:29:43,656
+You're so conceited.
+
+468
+00:29:43,740 --> 00:29:46,618
+How much do you charge?
+I have to find a part-time job.
+
+469
+00:29:46,701 --> 00:29:48,036
+A part-time job? Don't do it.
+
+470
+00:29:48,119 --> 00:29:50,246
+-Why do you care?
+-Of course, I care.
+
+471
+00:29:50,330 --> 00:29:52,123
+I don't want you to do hard labor.
+
+472
+00:29:52,207 --> 00:29:53,875
+You're getting too personal.
+
+473
+00:29:53,958 --> 00:29:57,128
+-What kind of job? I'll do it too.
+-You will?
+
+474
+00:29:57,754 --> 00:30:00,298
+But I don't know if you could handle it.
+You've never had any hardships.
+
+475
+00:30:00,381 --> 00:30:02,592
+Look who's talking. That's totally you.
+
+476
+00:30:02,675 --> 00:30:03,968
+Jeez.
+
+477
+00:30:10,433 --> 00:30:11,976
+Will it be a bed for her?
+
+478
+00:30:12,060 --> 00:30:15,021
+Then I recommend this one.
+
+479
+00:30:15,980 --> 00:30:17,774
+Shi-an, see how comfy it is.
+
+480
+00:30:21,402 --> 00:30:24,239
+-You think you'll get good sleep?
+-Yes, it's terrific.
+
+481
+00:30:24,322 --> 00:30:27,450
+I'm sure she'll like it.
+It's made from a memory foam material.
+
+482
+00:30:27,534 --> 00:30:31,704
+-So you'll be able to sleep comfortably.
+-Really? Then let's buy this one.
+
+483
+00:30:31,788 --> 00:30:34,916
+Is it okay though?
+It looks expensive to me.
+
+484
+00:30:34,999 --> 00:30:37,544
+We're buying it for you
+to celebrate your recovery.
+
+485
+00:30:37,627 --> 00:30:38,920
+Don't worry about the price.
+
+486
+00:30:39,003 --> 00:30:41,422
+Thank you. I love it.
+
+487
+00:30:42,090 --> 00:30:44,509
+-I'll go pay for it.
+-I'll go with you.
+
+488
+00:31:24,716 --> 00:31:26,509
+What's on your mind?
+
+489
+00:31:27,552 --> 00:31:28,887
+Cassiopeia.
+
+490
+00:31:37,270 --> 00:31:40,440
+Even insignificant stars
+
+491
+00:31:41,107 --> 00:31:45,737
+occupy their own world amidst
+these celestial bodies.
+
+492
+00:31:46,487 --> 00:31:51,159
+If you follow the connected stars,
+
+493
+00:31:51,242 --> 00:31:53,953
+you can arrive at a beautiful conclusion
+
+494
+00:31:54,621 --> 00:31:58,458
+while you journey through them.
+
+495
+00:32:32,158 --> 00:32:34,452
+Professor, I'll come to play chess
+on the weekend.
+
+496
+00:32:34,535 --> 00:32:35,870
+Okay.
+
+497
+00:32:36,371 --> 00:32:38,665
+Get some rest. We'll be going now.
+
+498
+00:32:40,333 --> 00:32:41,334
+Yoon-su.
+
+499
+00:32:45,838 --> 00:32:47,215
+Thanks.
+
+500
+00:32:52,929 --> 00:32:55,431
+You never held a grudge against me.
+
+501
+00:32:56,891 --> 00:32:58,643
+You understood me.
+
+502
+00:33:01,938 --> 00:33:05,066
+All my life, I loved numbers.
+
+503
+00:33:07,652 --> 00:33:09,028
+But you showed me…
+
+504
+00:33:12,365 --> 00:33:14,701
+there were more things to love.
+
+505
+00:33:23,584 --> 00:33:27,046
+Professor, I love you too.
+You do know that?
+
+506
+00:33:28,297 --> 00:33:31,592
+Of course, he knows.
+The professor knows everything.
+
+507
+00:33:32,301 --> 00:33:34,762
+He knows about the hardships you faced.
+
+508
+00:33:37,640 --> 00:33:40,268
+-Sleep tight, Professor.
+-Sure.
+
+509
+00:33:40,351 --> 00:33:41,728
+I'll come again, Dad.
+
+510
+00:33:43,021 --> 00:33:44,063
+Okay.
+
+511
+00:33:45,273 --> 00:33:46,566
+Let's go.
+
+512
+00:34:20,183 --> 00:34:22,769
+I want to become a mathematician
+as soon as I can.
+
+513
+00:34:22,852 --> 00:34:26,314
+-To be like the professor, and like you.
+-You dream big, don't you?
+
+514
+00:34:27,690 --> 00:34:29,609
+So which proof will you work on?
+
+515
+00:34:29,692 --> 00:34:32,612
+I've been seriously thinking
+about a particular field.
+
+516
+00:34:32,695 --> 00:34:33,780
+Thinking about what?
+
+517
+00:34:33,863 --> 00:34:36,407
+-Quantum cryptography.
+-Quantum cryptography?
+
+518
+00:34:37,116 --> 00:34:39,911
+-That's a tough field.
+-Why would you choose that?
+
+519
+00:34:39,994 --> 00:34:41,287
+Because it's cool.
+
+520
+00:34:42,330 --> 00:34:45,124
+Princeton is offering math scholarships.
+I think I'll apply.
+
+521
+00:34:45,208 --> 00:34:47,418
+You've really been thinking
+about it, I see.
+
+522
+00:34:47,502 --> 00:34:48,711
+I know.
+
+523
+00:34:48,795 --> 00:34:51,297
+Let me know if you need any help.
+Recommendation letter, anything.
+
+524
+00:34:51,380 --> 00:34:52,715
+Sure, Mr. Paik.
+
+525
+00:34:58,304 --> 00:34:59,514
+Hello?
+
+526
+00:35:17,949 --> 00:35:18,825
+Dad.
+
+527
+00:35:18,908 --> 00:35:19,992
+Professor.
+
+528
+00:35:22,703 --> 00:35:26,791
+Professor. Wake up.
+
+529
+00:35:27,875 --> 00:35:30,086
+Professor. Please, professor…
+
+530
+00:35:50,773 --> 00:35:51,983
+Dad.
+
+531
+00:35:56,154 --> 00:35:57,321
+Professor…
+
+532
+00:35:59,157 --> 00:36:00,491
+Dad…
+
+533
+00:36:05,246 --> 00:36:06,372
+How many?
+
+534
+00:36:35,193 --> 00:36:36,402
+Seung-yoo.
+
+535
+00:36:37,862 --> 00:36:40,239
+Come and say goodbye to the professor.
+
+536
+00:36:50,917 --> 00:36:52,126
+Professor.
+
+537
+00:36:55,254 --> 00:36:56,422
+Thank you…
+
+538
+00:36:58,382 --> 00:37:01,010
+for being my teacher for all those years.
+
+539
+00:37:03,137 --> 00:37:05,139
+Thank you so much.
+
+540
+00:37:24,951 --> 00:37:28,412
+JI HYEON-WOOK
+MARCH 16, 1954 - JANUARY 17, 2022
+
+541
+00:37:28,496 --> 00:37:31,958
+MATHEMATICIAN JI HYEON-WOOK WHO SEARCHED
+FOR "INFINITY WITHIN THE FINITE"
+
+542
+00:37:40,383 --> 00:37:41,550
+Thanks.
+
+543
+00:37:42,301 --> 00:37:46,764
+I never expected that my dad
+would have two students like you.
+
+544
+00:37:47,848 --> 00:37:49,850
+The professor was a teacher, friend,
+
+545
+00:37:50,726 --> 00:37:52,103
+and family to me.
+
+546
+00:37:55,273 --> 00:37:58,818
+For me, too.
+I really felt like I had a grandfather.
+
+547
+00:37:59,986 --> 00:38:03,864
+My dad was also happy
+to have met you, Shi-an.
+
+548
+00:38:04,615 --> 00:38:06,701
+Let's keep his memory alive.
+
+549
+00:38:06,784 --> 00:38:09,036
+Yes, I will.
+
+550
+00:38:34,979 --> 00:38:37,732
+Yoo-chan, let's hurry up.
+
+551
+00:38:37,815 --> 00:38:39,358
+Nobody awarded you
+sole custody of Yoo-chan.
+
+552
+00:38:39,442 --> 00:38:40,901
+We haven't settled that yet
+in divorce court.
+
+553
+00:38:40,985 --> 00:38:42,903
+-That's expensive. Be careful.
+-Okay, sir.
+
+554
+00:38:42,987 --> 00:38:46,615
+After you stepped down, you're jobless
+and nobody takes your calls.
+
+555
+00:38:46,699 --> 00:38:48,326
+You have money to support the kids?
+
+556
+00:38:48,409 --> 00:38:51,620
+You're on probation
+and lost all your TV roles.
+
+557
+00:38:51,704 --> 00:38:53,205
+We're in the same boat, you know.
+
+558
+00:38:54,790 --> 00:38:56,542
+You're worried about my career?
+
+559
+00:38:56,625 --> 00:39:00,296
+I can revive my career after staying out
+of the spotlight for a while.
+
+560
+00:39:00,379 --> 00:39:03,883
+Worry about yourself.
+You don't have any friends anymore.
+
+561
+00:39:03,966 --> 00:39:05,760
+-What?
+-Yoo-chan.
+
+562
+00:39:05,843 --> 00:39:07,970
+-You don't get to say that.
+-Stop following me.
+
+563
+00:39:08,054 --> 00:39:10,097
+You made the wrong decisions.
+Don't blame me!
+
+564
+00:39:10,181 --> 00:39:11,682
+-I'm not done talking!
+-Yoo-chan.
+
+565
+00:39:11,766 --> 00:39:14,060
+I don't care. Yoo-chan…
+
+566
+00:39:14,894 --> 00:39:17,688
+Where did he go? What?
+
+567
+00:39:22,443 --> 00:39:24,236
+I'm not going to live with you or dad.
+
+568
+00:39:24,320 --> 00:39:26,364
+You're the reason
+I got suspended from the school.
+
+569
+00:39:26,447 --> 00:39:30,242
+Why do you guys never stop fighting?
+I'm so ashamed to live together.
+
+570
+00:39:31,619 --> 00:39:33,245
+He won't live with you or me?
+
+571
+00:39:33,329 --> 00:39:36,415
+He's blaming me for getting suspended.
+
+572
+00:39:36,499 --> 00:39:39,418
+He's too ashamed to live with us.
+See what he said?
+
+573
+00:39:39,502 --> 00:39:42,713
+You mean he ran away?
+
+574
+00:39:44,673 --> 00:39:46,092
+SON
+
+575
+00:39:47,510 --> 00:39:49,470
+The number you have dialed
+cannot be reached…
+
+576
+00:39:49,553 --> 00:39:50,388
+Gosh.
+
+577
+00:39:51,305 --> 00:39:54,809
+-Hurry up and look for him!
+-Give me my phone!
+
+578
+00:39:56,394 --> 00:39:59,688
+-Hey, Yoo-chan!
+-Yoo-chan!
+
+579
+00:40:00,189 --> 00:40:02,441
+BELONGING TO THE DECEASED
+
+580
+00:40:08,197 --> 00:40:10,032
+Can you organize everything yourself?
+
+581
+00:40:10,533 --> 00:40:11,909
+I'll take my time.
+
+582
+00:40:12,993 --> 00:40:14,245
+By the way, Seung-yoo.
+
+583
+00:40:17,206 --> 00:40:19,959
+If you want any of my dad's books,
+go ahead.
+
+584
+00:40:42,273 --> 00:40:43,858
+I think I'll give this to Shi-an.
+
+585
+00:40:49,113 --> 00:40:51,532
+-What is it?
+-Are there more notes in the box?
+
+586
+00:40:52,283 --> 00:40:53,284
+Yes.
+
+587
+00:41:02,209 --> 00:41:03,461
+This is…
+
+588
+00:41:05,296 --> 00:41:06,338
+I'm checking it.
+
+589
+00:41:08,757 --> 00:41:11,302
+-This is it, right?
+-I think so.
+
+590
+00:41:13,804 --> 00:41:16,140
+I thought they were
+just meaningless notes.
+
+591
+00:41:16,849 --> 00:41:19,685
+-It turns out they weren't.
+-Let's keep searching.
+
+592
+00:41:20,311 --> 00:41:23,481
+Let's find out which proof
+my dad was working on.
+
+593
+00:41:23,564 --> 00:41:24,648
+Okay.
+
+594
+00:41:43,751 --> 00:41:44,960
+Here.
+
+595
+00:41:54,637 --> 00:41:57,389
+So this is what it means to no longer be
+an accredited specialized school.
+
+596
+00:41:57,473 --> 00:42:01,227
+Asung's reputation is
+swept away in a blink of an eye.
+
+597
+00:42:01,310 --> 00:42:02,228
+I know.
+
+598
+00:42:02,311 --> 00:42:04,522
+All the board members
+have been replaced, right?
+
+599
+00:42:04,605 --> 00:42:07,566
+-Please move.
+-Careful.
+
+600
+00:42:17,326 --> 00:42:18,452
+Cantor set.
+
+601
+00:42:19,036 --> 00:42:20,246
+Continuum hypothesis.
+
+602
+00:42:20,329 --> 00:42:22,414
+GEORG CANTOR: FIRST MATHEMATICIAN TO
+FORMULATE THE CONTINUUM HYPOTHESIS
+
+603
+00:42:22,498 --> 00:42:25,292
+Due to Kurt Godel's work,
+the continuum hypothesis
+
+604
+00:42:25,376 --> 00:42:28,379
+didn't need to be proven
+whether its proposition held up or not.
+
+605
+00:42:29,505 --> 00:42:32,049
+But the professor discovered a new branch
+
+606
+00:42:32,132 --> 00:42:34,218
+by proving that continuum hypothesis
+is false.
+
+607
+00:42:37,972 --> 00:42:40,224
+You still work on problems every day.
+
+608
+00:42:41,267 --> 00:42:42,768
+Dad.
+
+609
+00:42:42,851 --> 00:42:44,019
+Dad!
+
+610
+00:42:46,105 --> 00:42:48,816
+I asked him why he was working
+on meaningless stuff.
+
+611
+00:42:50,192 --> 00:42:53,070
+I told him to stop.
+
+612
+00:42:53,153 --> 00:42:54,572
+I didn't know either.
+
+613
+00:42:55,447 --> 00:42:58,409
+I had no idea he was working
+on this proof.
+
+614
+00:42:59,410 --> 00:43:01,787
+While nobody noticed what he was doing,
+
+615
+00:43:02,580 --> 00:43:05,374
+he was struggling
+with an enormous challenge.
+
+616
+00:43:06,834 --> 00:43:09,878
+Even insignificant stars
+
+617
+00:43:11,088 --> 00:43:15,634
+occupy their own world amidst
+these celestial bodies.
+
+618
+00:43:16,427 --> 00:43:20,848
+If you follow the connected stars,
+
+619
+00:43:20,931 --> 00:43:23,142
+you can arrive at a beautiful conclusion
+
+620
+00:43:23,892 --> 00:43:27,730
+while you journey through them.
+
+621
+00:43:31,358 --> 00:43:34,236
+I think I can come up with something
+by using his notes.
+
+622
+00:43:34,320 --> 00:43:37,114
+With the ideas he planted in the notes,
+
+623
+00:43:37,197 --> 00:43:41,160
+I'd like to complete his proof
+whatever it may turn out to be.
+
+624
+00:43:42,244 --> 00:43:44,121
+I don't care how long it takes
+or whether I fail.
+
+625
+00:43:45,331 --> 00:43:46,707
+Can you handle it?
+
+626
+00:43:47,666 --> 00:43:51,545
+It could take more time
+and hard work to complete
+
+627
+00:43:51,629 --> 00:43:54,381
+than the paper you won
+a Lucifer Prize for.
+
+628
+00:43:55,924 --> 00:43:58,636
+It'll be a lonely struggle.
+
+629
+00:43:58,719 --> 00:44:01,138
+Nobody can help you or deter you.
+
+630
+00:44:02,139 --> 00:44:03,557
+I'm thrilled.
+
+631
+00:44:05,392 --> 00:44:06,560
+And a bit afraid.
+
+632
+00:44:07,978 --> 00:44:09,355
+Wait a minute.
+
+633
+00:44:24,912 --> 00:44:27,373
+Calculus, the foundation of numbers.
+
+634
+00:44:28,248 --> 00:44:29,541
+Seung-yoo.
+
+635
+00:44:30,959 --> 00:44:33,379
+Could you make another promise?
+
+636
+00:44:35,255 --> 00:44:37,341
+Be focused, but don't get carried away.
+
+637
+00:44:37,424 --> 00:44:40,260
+Enjoy it, but don't obsess over it.
+
+638
+00:44:43,097 --> 00:44:44,306
+I'll try.
+
+639
+00:44:45,099 --> 00:44:47,101
+Don't worry about me.
+I'd appreciate your support.
+
+640
+00:44:47,935 --> 00:44:50,145
+I'll always support what you do.
+
+641
+00:44:51,647 --> 00:44:52,898
+You can do it.
+
+642
+00:45:07,454 --> 00:45:10,582
+3 YEARS LATER
+
+643
+00:45:11,208 --> 00:45:13,710
+So what happened to the mathematician?
+
+644
+00:45:13,794 --> 00:45:16,422
+I don't know. I wonder about him too.
+
+645
+00:45:17,589 --> 00:45:19,800
+Hope you enjoy reading the book.
+
+646
+00:45:19,883 --> 00:45:21,385
+Thank you.
+
+647
+00:45:35,190 --> 00:45:36,483
+Hello?
+
+648
+00:45:38,694 --> 00:45:41,405
+Hi, Ms. Ji.
+
+649
+00:45:44,324 --> 00:45:45,993
+How's school?
+
+650
+00:45:46,076 --> 00:45:48,162
+You have a heavy workload, don't you?
+
+651
+00:45:48,871 --> 00:45:50,289
+I'm keeping up.
+
+652
+00:45:50,372 --> 00:45:53,792
+I have to do my best since you wrote me
+a recommendation letter.
+
+653
+00:45:54,710 --> 00:45:58,338
+By the way, Shi-an contacted me.
+She came back, didn't she?
+
+654
+00:45:59,089 --> 00:46:01,175
+She was here for a brief visit.
+
+655
+00:46:01,258 --> 00:46:04,428
+She already wrote a paper
+and her career is taking off.
+
+656
+00:46:04,511 --> 00:46:06,096
+She brags about it a lot.
+
+657
+00:46:08,557 --> 00:46:10,809
+Thank you for coming to see my mom.
+
+658
+00:46:14,354 --> 00:46:17,816
+She suddenly started mentioning you.
+
+659
+00:46:20,110 --> 00:46:21,487
+She's been asking
+
+660
+00:46:22,654 --> 00:46:23,906
+to see you.
+
+661
+00:46:28,243 --> 00:46:31,330
+I'll stay behind. You can talk to her.
+
+662
+00:46:46,303 --> 00:46:47,554
+I heard
+
+663
+00:46:48,680 --> 00:46:50,891
+you wished to see me.
+
+664
+00:46:55,229 --> 00:46:56,396
+Nobody comes here.
+
+665
+00:46:58,815 --> 00:47:01,276
+Nobody comes to visit me.
+
+666
+00:47:05,405 --> 00:47:07,824
+I'd think they'd come to see
+how I've fallen.
+
+667
+00:47:14,164 --> 00:47:15,582
+My dad
+
+668
+00:47:16,875 --> 00:47:18,335
+passed away.
+
+669
+00:47:19,545 --> 00:47:21,046
+So did mine.
+
+670
+00:47:25,008 --> 00:47:26,385
+Were you at his deathbed?
+
+671
+00:47:27,803 --> 00:47:30,681
+I was a little late, but I was there.
+
+672
+00:47:37,563 --> 00:47:38,689
+Well…
+
+673
+00:47:39,773 --> 00:47:41,733
+I didn't go.
+
+674
+00:47:42,359 --> 00:47:44,069
+Yeon-woo probably stayed at his side.
+
+675
+00:47:45,654 --> 00:47:48,115
+I'm sure it was a big funeral.
+
+676
+00:47:48,782 --> 00:47:50,576
+It would have made him proud.
+
+677
+00:47:54,037 --> 00:47:55,622
+At one time,
+
+678
+00:47:58,000 --> 00:48:00,711
+my dad was proud of me.
+
+679
+00:48:02,921 --> 00:48:04,131
+He trusted me.
+
+680
+00:48:05,716 --> 00:48:08,302
+He even entrusted Asung to me.
+
+681
+00:48:20,063 --> 00:48:22,149
+I had to live up to his expectations.
+
+682
+00:48:23,609 --> 00:48:25,319
+It's the only way my dad…
+
+683
+00:48:27,195 --> 00:48:29,156
+would call me and support me.
+
+684
+00:48:32,242 --> 00:48:33,827
+I wanted to do my best.
+
+685
+00:48:36,121 --> 00:48:37,956
+That's all I wanted.
+
+686
+00:48:52,846 --> 00:48:54,723
+You don't have to do your best.
+
+687
+00:48:55,474 --> 00:48:59,936
+You no longer need to gain approval
+from someone else.
+
+688
+00:49:00,604 --> 00:49:03,774
+You're a mother and Ji-na needs you.
+
+689
+00:49:14,368 --> 00:49:15,327
+Mom.
+
+690
+00:49:16,078 --> 00:49:17,329
+Let's go inside, Mom.
+
+691
+00:49:17,871 --> 00:49:20,999
+For dinner, they're serving
+abalone porridge, your favorite dish.
+
+692
+00:49:21,583 --> 00:49:23,043
+So have that for dinner.
+
+693
+00:49:25,212 --> 00:49:27,798
+Thank you, Ms. Ji.
+
+694
+00:49:27,881 --> 00:49:29,383
+I'll keep in touch.
+
+695
+00:49:33,804 --> 00:49:35,305
+Take care.
+
+696
+00:49:36,932 --> 00:49:38,725
+Sure, Ji-na. See you.
+
+697
+00:50:10,382 --> 00:50:12,509
+-Shi-an!
+-Ms. JI.
+
+698
+00:50:16,596 --> 00:50:19,891
+-It's been so long. I've missed you.
+-I've missed you too. Come inside.
+
+699
+00:50:19,975 --> 00:50:22,310
+-How have you been?
+-Fine, of course. Come in.
+
+700
+00:50:23,812 --> 00:50:26,189
+-Isn't my bag heavy?
+-It's okay. You must be hungry.
+
+701
+00:50:26,273 --> 00:50:28,191
+-Yes, very.
+-Let's eat first.
+
+702
+00:50:30,318 --> 00:50:32,154
+That was a delicious meal.
+
+703
+00:50:32,821 --> 00:50:34,614
+Did you cook all of this yourself?
+
+704
+00:50:35,323 --> 00:50:37,409
+I'm a terrible cook, but I tried my best.
+
+705
+00:50:37,492 --> 00:50:39,327
+No, you're not.
+
+706
+00:50:39,411 --> 00:50:42,372
+You made so many delicious meals
+for me whenever I came to visit.
+
+707
+00:50:42,956 --> 00:50:45,292
+And to show my gratitude…
+
+708
+00:50:47,377 --> 00:50:48,545
+Here, Ms. Ji.
+
+709
+00:50:49,838 --> 00:50:52,007
+-It's your paper?
+-Yes.
+
+710
+00:50:52,090 --> 00:50:54,634
+I've been waiting for this moment.
+
+711
+00:50:54,718 --> 00:50:56,094
+To show you my paper.
+
+712
+00:51:03,018 --> 00:51:04,478
+Congratulations. Good work.
+
+713
+00:51:06,313 --> 00:51:09,733
+But do you know what Mr. Paik is doing?
+
+714
+00:51:10,776 --> 00:51:13,695
+I can't reach him on his phone.
+I think he changed his number.
+
+715
+00:51:14,279 --> 00:51:16,156
+He doesn't even check his emails anymore.
+
+716
+00:51:16,740 --> 00:51:18,950
+Seems like he's working
+on something intensely.
+
+717
+00:51:19,534 --> 00:51:21,036
+He even took a leave of absence
+from his teaching job.
+
+718
+00:51:21,119 --> 00:51:23,580
+When he worked on his paper
+that won the Lucifer Prize,
+
+719
+00:51:23,663 --> 00:51:27,125
+he lived like a hermit.
+Perhaps, he's working on a proof.
+
+720
+00:51:27,209 --> 00:51:30,629
+Do you think he'll come
+to see me receive the prize?
+
+721
+00:51:31,171 --> 00:51:32,839
+He promised to attend the ceremony.
+
+722
+00:51:33,632 --> 00:51:35,759
+If he doesn't come, I'll be upset.
+
+723
+00:51:35,842 --> 00:51:37,844
+When Shi-an
+becomes a famous mathematician,
+
+724
+00:51:37,928 --> 00:51:41,014
+let's congratulate her together.
+We should congratulate her.
+
+725
+00:51:49,731 --> 00:51:52,067
+-Are they the Calculus club members?
+-Yes.
+
+726
+00:51:58,907 --> 00:51:59,991
+Hi there.
+
+727
+00:52:00,075 --> 00:52:02,327
+-Hi, Hardy.
+-Welcome, Hardy.
+
+728
+00:52:02,410 --> 00:52:05,247
+-Who is texting you?
+-The Pleasant X.
+
+729
+00:52:05,330 --> 00:52:08,667
+Pleasant X? You still do math puzzles?
+
+730
+00:52:09,626 --> 00:52:12,212
+I could give them
+a really hard math problem.
+
+731
+00:52:12,295 --> 00:52:15,006
+They'll be surprised
+if I give them a super hard one.
+
+732
+00:52:15,090 --> 00:52:17,133
+-It's your turn to give a problem?
+-Yes.
+
+733
+00:52:17,217 --> 00:52:19,135
+Hardy, what's today's math problem?
+
+734
+00:52:20,136 --> 00:52:22,639
+I came up with an interesting problem.
+
+735
+00:52:22,722 --> 00:52:27,060
+On a square chessboard of eight rows,
+remove two corner pieces.
+
+736
+00:52:27,143 --> 00:52:31,356
+Then imagine you have
+a sufficient bar on the right.
+
+737
+00:52:31,439 --> 00:52:34,317
+Try to cover the entire chessboard
+with just these pieces.
+
+738
+00:52:34,401 --> 00:52:37,070
+-This is fun.
+-It's interesting but really hard.
+
+739
+00:52:37,153 --> 00:52:39,239
+You never disappoint us, Hardy.
+
+740
+00:52:39,322 --> 00:52:41,408
+Answer. Impossible.
+
+741
+00:52:42,117 --> 00:52:45,120
+-What?
+-Someone already gave an answer?
+
+742
+00:52:45,203 --> 00:52:47,998
+-I knew it. 3cut did it again.
+-Who's 3cut?
+
+743
+00:52:48,665 --> 00:52:49,833
+Is that a nickname?
+
+744
+00:52:49,916 --> 00:52:52,502
+He's working on proving
+the Riemann hypothesis.
+
+745
+00:52:52,586 --> 00:52:53,962
+RIEMANN HYPOTHESIS: UNSOLVED PROBLEM
+IN PURE MATHEMATICS BY BERNHARD RIEMANN
+
+746
+00:52:54,045 --> 00:52:55,171
+The Riemann hypothesis?
+
+747
+00:52:56,047 --> 00:52:57,132
+Sure.
+
+748
+00:52:57,215 --> 00:53:00,176
+He's making quite a big claim
+since his identity is hidden.
+
+749
+00:53:00,969 --> 00:53:03,847
+Tell 3cut that if he can prove
+the Riemann hypothesis,
+
+750
+00:53:03,930 --> 00:53:06,766
+then I can solve Goldbach's conjecture.
+
+751
+00:53:06,850 --> 00:53:08,560
+GOLDBACH'S CONJECTURE: THE BEST-KNOWN
+UNSOLVED PROBLEMS IN NUMBER THEORY
+
+752
+00:53:08,643 --> 00:53:11,855
+3cut, you got the correct answer again.
+
+753
+00:53:11,938 --> 00:53:13,857
+-I knew 3cut could answer it.
+-That was quick.
+
+754
+00:53:13,940 --> 00:53:15,400
+Why is the answer "impossible"?
+
+755
+00:53:15,483 --> 00:53:19,237
+Since 3cut isn't replying,
+I'll explain the solution.
+
+756
+00:53:47,766 --> 00:53:50,268
+Hello, 3cut. This is Hardy.
+
+757
+00:53:50,977 --> 00:53:53,563
+Have you read this paper, by any chance?
+
+758
+00:54:08,370 --> 00:54:11,539
+I read the paper you sent me
+a few days ago.
+
+759
+00:54:11,623 --> 00:54:13,291
+It was very helpful.
+
+760
+00:54:14,209 --> 00:54:15,794
+Thank you.
+
+761
+00:54:17,963 --> 00:54:19,172
+Really?
+
+762
+00:54:19,255 --> 00:54:22,634
+I found some more material
+related to the paper.
+
+763
+00:54:23,259 --> 00:54:24,970
+Would you like me to send those too?
+
+764
+00:54:44,406 --> 00:54:48,660
+The Korean Math Council
+is presenting you with this award
+
+765
+00:54:48,743 --> 00:54:52,122
+to honor your academic achievements,
+as you have been selected
+
+766
+00:54:52,205 --> 00:54:56,418
+as the Youth Mathematician of the Year.
+Given by Council Chair, Kim Young-eun.
+
+767
+00:55:05,510 --> 00:55:08,555
+A lot of things happened in my life
+for me to get to this point.
+
+768
+00:55:08,638 --> 00:55:11,683
+And there are people
+I would like to thank for supporting me.
+
+769
+00:55:22,277 --> 00:55:23,737
+MATH COUNCIL PROFESSOR KIM JUNG-IK
+
+770
+00:55:23,820 --> 00:55:25,155
+I'll take your picture.
+
+771
+00:55:26,614 --> 00:55:28,116
+You came out nicely.
+
+772
+00:55:28,783 --> 00:55:30,243
+I promised to give you a medal.
+
+773
+00:55:30,326 --> 00:55:31,494
+I kept my promise.
+
+774
+00:55:31,578 --> 00:55:34,914
+I'm so proud of you, Shi-an. Great work.
+
+775
+00:55:34,998 --> 00:55:36,666
+It's all thanks to you, Ms. Ji.
+
+776
+00:55:37,333 --> 00:55:40,462
+But Mr. Paik really didn't show up?
+
+777
+00:55:40,545 --> 00:55:43,339
+The ceremony was in the council journal,
+so he probably knows.
+
+778
+00:55:44,340 --> 00:55:46,301
+You're Choi Shi-an,
+the medal winner, right?
+
+779
+00:55:46,384 --> 00:55:49,054
+-Yes, that's me.
+-A man asked me to give this to you.
+
+780
+00:55:49,137 --> 00:55:51,306
+He said he had to go
+due to something urgent.
+
+781
+00:55:52,557 --> 00:55:55,393
+What? Mr. Paik sent these flowers.
+
+782
+00:55:55,477 --> 00:55:57,771
+"Choi Shi-an, congratulations
+on your award."
+
+783
+00:55:58,313 --> 00:56:01,983
+So he did come.
+I wish I could've seen him.
+
+784
+00:56:04,861 --> 00:56:09,574
+Congratulations, Professor Paik.
+
+785
+00:56:10,408 --> 00:56:13,995
+The Mathematics just called and said
+your proof held up to scrutiny.
+
+786
+00:56:14,079 --> 00:56:16,206
+He has completed your proof.
+
+787
+00:56:16,289 --> 00:56:20,960
+Now we just have to publish it
+in a paper to make it official.
+
+788
+00:56:21,044 --> 00:56:23,254
+-You're brilliant.
+-Thank you.
+
+789
+00:56:23,338 --> 00:56:24,172
+By the way,
+
+790
+00:56:24,714 --> 00:56:29,552
+for many years,
+a lot of mathematicians failed
+
+791
+00:56:29,636 --> 00:56:32,514
+in proving the hypothesis.
+
+792
+00:56:32,597 --> 00:56:36,017
+I'm sure you faced obstacles
+while working on your proof.
+
+793
+00:56:36,643 --> 00:56:38,478
+How did you get a breakthrough?
+
+794
+00:56:38,561 --> 00:56:40,480
+I received some help.
+
+795
+00:57:02,252 --> 00:57:04,129
+Hello, 3cut.
+
+796
+00:57:04,212 --> 00:57:06,714
+This is the paper I mentioned before.
+
+797
+00:57:06,798 --> 00:57:08,466
+I hope it'll be helpful.
+
+798
+00:57:11,302 --> 00:57:15,348
+At first, I didn't think
+the paper was related to my proof.
+
+799
+00:57:16,766 --> 00:57:18,852
+In fact, it didn't have any connection.
+
+800
+00:57:38,621 --> 00:57:42,083
+When Andrew Wiles was working
+on proving Fermat's Last Theorem,
+
+801
+00:57:42,167 --> 00:57:45,962
+he got a hint from elliptic curves,
+which is a different branch.
+
+802
+00:57:46,838 --> 00:57:49,841
+I also had insight like that.
+
+803
+00:57:50,758 --> 00:57:53,595
+So you got help
+from a different branch of math.
+
+804
+00:57:53,678 --> 00:57:56,389
+And it allowed you to overcome
+the last obstacle?
+
+805
+00:57:56,473 --> 00:57:57,974
+Who helped you?
+
+806
+00:57:58,057 --> 00:57:59,684
+Godfrey Harold Hardy.
+
+807
+00:57:59,767 --> 00:58:01,060
+G. H. Hardy?
+
+808
+00:58:02,020 --> 00:58:03,521
+The late British mathematician?
+
+809
+00:58:14,908 --> 00:58:18,036
+Hello, Hardy.
+I'm publishing my paper soon.
+
+810
+00:58:18,620 --> 00:58:21,414
+You gave me a key insight
+that helped me complete my proof.
+
+811
+00:58:22,373 --> 00:58:25,043
+I'd like to present my paper
+to you to show my gratitude.
+
+812
+00:58:25,126 --> 00:58:26,336
+Please reply.
+
+813
+00:58:47,357 --> 00:58:48,650
+I miss her.
+
+814
+00:58:54,906 --> 00:58:58,409
+Director. I'm perfect for that role.
+
+815
+00:58:59,202 --> 00:59:02,497
+Just give me an opportunity.
+I'd be glad to audition for it too.
+
+816
+00:59:03,915 --> 00:59:06,251
+I'll see you on the 25th, then. Bye.
+
+817
+00:59:06,334 --> 00:59:07,335
+Yes!
+
+818
+00:59:07,418 --> 00:59:09,587
+You're working so hard.
+
+819
+00:59:12,173 --> 00:59:14,092
+I have to make a living somehow.
+
+820
+00:59:14,175 --> 00:59:18,638
+Hee-sung, could I have
+a double shot espresso instead?
+
+821
+00:59:18,721 --> 00:59:21,432
+-I knew you'd ask for it. Here you go.
+-There you go.
+
+822
+00:59:22,141 --> 00:59:23,393
+That's free.
+
+823
+00:59:24,227 --> 00:59:27,855
+I need a jolt of caffeine
+to get an energy boost.
+
+824
+00:59:27,939 --> 00:59:30,024
+I have an important audition
+to go to later.
+
+825
+00:59:30,817 --> 00:59:33,444
+You were a celebrity. You'll get the part.
+
+826
+00:59:34,279 --> 00:59:36,072
+That felt good.
+
+827
+00:59:38,157 --> 00:59:39,409
+Okay.
+
+828
+00:59:39,492 --> 00:59:40,827
+I'll see you. Bye.
+
+829
+00:59:41,411 --> 00:59:43,913
+-Good luck.
+-Sure. Thanks.
+
+830
+00:59:46,207 --> 00:59:49,335
+I wonder if Seung-yoo
+is having three square meals a day.
+
+831
+00:59:49,419 --> 00:59:51,004
+He hardly calls us.
+
+832
+00:59:51,087 --> 00:59:52,547
+He's not a kid anymore.
+He's probably doing fine.
+
+833
+00:59:52,630 --> 00:59:55,049
+Gosh, he's still a kid.
+
+834
+00:59:55,133 --> 00:59:57,135
+You don't even worry about him?
+
+835
+00:59:57,760 --> 01:00:00,972
+Welcome… Oh, my goodness. Son!
+
+836
+01:00:01,055 --> 01:00:02,307
+Oh, my, Seung-yoo.
+
+837
+01:00:02,390 --> 01:00:03,891
+Oh my gosh.
+
+838
+01:00:04,434 --> 01:00:07,020
+Sit down. My goodness.
+
+839
+01:00:09,480 --> 01:00:11,983
+-Are you finished?
+-Yes.
+
+840
+01:00:12,066 --> 01:00:13,192
+Good job.
+
+841
+01:00:13,276 --> 01:00:15,361
+I'm so proud of you, son.
+
+842
+01:00:15,445 --> 01:00:19,073
+You've lost weight. Look at you.
+
+843
+01:00:19,157 --> 01:00:21,701
+You didn't even have
+a bowl of millet gruel?
+
+844
+01:00:21,784 --> 01:00:23,369
+Did you bring your paper like last time?
+
+845
+01:00:24,370 --> 01:00:25,538
+No.
+
+846
+01:00:25,622 --> 01:00:29,208
+Good. I got a headache trying to read it.
+
+847
+01:00:29,292 --> 01:00:31,085
+You're finally being honest.
+
+848
+01:00:31,169 --> 01:00:33,755
+You couldn't understand a thing
+even after spending days reading it.
+
+849
+01:00:33,838 --> 01:00:34,964
+Gosh…
+
+850
+01:00:39,135 --> 01:00:40,178
+Well…
+
+851
+01:00:41,387 --> 01:00:44,057
+I saw Ms. Ji Yoon-su a few days ago.
+
+852
+01:00:48,478 --> 01:00:50,438
+She was walking in the neighborhood.
+
+853
+01:00:50,521 --> 01:00:52,315
+Does she still live in Hangok-dong?
+
+854
+01:00:52,398 --> 01:00:54,609
+Or did she move back here?
+
+855
+01:00:56,736 --> 01:00:59,280
+You didn't have lunch, right?
+I'll fix you a sandwich.
+
+856
+01:00:59,364 --> 01:01:02,158
+Now, wait here. I'll make it real quick.
+
+857
+01:01:02,241 --> 01:01:04,327
+Honey, make him a big sandwich.
+
+858
+01:01:07,455 --> 01:01:11,042
+Why don't you come over tomorrow?
+Have some homemade cooking.
+
+859
+01:01:11,125 --> 01:01:13,920
+-Tell me what dish you want.
+-I'll come over this weekend.
+
+860
+01:01:14,003 --> 01:01:15,713
+I have an important appointment tomorrow.
+
+861
+01:01:15,797 --> 01:01:18,132
+Snow is in the forecast
+for today across the nation.
+
+862
+01:01:18,216 --> 01:01:21,260
+There's no worry for icy roads,
+as temperatures will be above zero.
+
+863
+01:01:21,344 --> 01:01:23,304
+But remember to take an umbrella with you.
+
+864
+01:01:39,654 --> 01:01:41,614
+HANGOK ART HALL
+
+865
+01:02:10,101 --> 01:02:11,561
+I've arrived.
+
+866
+01:02:41,924 --> 01:02:44,594
+I'VE ARRIVED
+
+867
+01:03:27,094 --> 01:03:29,013
+Are you Hardy, by any chance?
+
+868
+01:03:44,987 --> 01:03:46,489
+Were you 3cut?
+
+869
+01:04:15,184 --> 01:04:18,479
+You said you completed your proof.
+
+870
+01:04:19,355 --> 01:04:20,398
+Congratulations.
+
+871
+01:04:21,649 --> 01:04:23,067
+It's thanks to you.
+
+872
+01:04:26,779 --> 01:04:28,865
+Did you bring your paper?
+
+873
+01:04:29,574 --> 01:04:30,867
+Yes.
+
+874
+01:04:56,767 --> 01:04:58,978
+Do you like math?
+
+875
+01:05:01,522 --> 01:05:03,608
+Do you like math?
+
+876
+01:05:08,446 --> 01:05:09,530
+Yes.
+
+877
+01:05:10,698 --> 01:05:12,533
+I like math.
+
+878
+01:05:37,808 --> 01:05:40,353
+PAIK SEUNG-YOO PROVES RIEMANN HYPOTHESIS
+WITH INSIGHTS FROM CONTINUUM HYPOTHESIS
+
+879
+01:05:40,436 --> 01:05:41,604
+DECLINES PRIZE MONEY, AWARDS, INTERVIEWS
+
+880
+01:05:41,687 --> 01:05:42,855
+APPRECIATES THE SUPPORT
+
+881
+01:05:42,939 --> 01:05:43,898
+MATH JHW
+
+882
+01:06:08,798 --> 01:06:09,966
+-Today…
+-Yes.
+
+883
+01:06:10,049 --> 01:06:11,801
+You'll be giving a math puzzle, right?
+
+884
+01:06:11,884 --> 01:06:15,763
+Right. I think I'll give you
+a really tough problem.
+
+885
+01:06:16,681 --> 01:06:18,349
+Sure. I accept the challenge.
+
+886
+01:06:19,558 --> 01:06:23,646
+If you cover the top half
+of 128 square root of e980,
+
+887
+01:06:23,729 --> 01:06:25,147
+what do you get?
+
+888
+01:06:25,898 --> 01:06:27,358
+Cover the top half?
+
+889
+01:06:29,360 --> 01:06:30,486
+What?
+
+890
+01:06:48,295 --> 01:06:52,258
+THANK YOU FOR WATCHING MELANCHOLIA
+
+891
+01:07:45,811 --> 01:07:50,608
