@@ -1,14 +1,1228 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>503 Backend fetch failed</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend fetch failed</h1>
-    <p>Backend fetch failed</p>
-    <h3>Guru Meditation:</h3>
-    <p>XID: 4900759486</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+1
+00:00:00,104 --> 00:00:05,072
+TWELVE
+
+2
+00:00:05,544 --> 00:00:08,731
+PRODUCTION SPONSORS
+MINISTRY OF CULTURE, SPORTS AND TOURISM AND KOCCA
+
+3
+00:00:18,175 --> 00:00:21,044
+[panting]
+
+4
+00:00:31,480 --> 00:00:32,890
+[sighs]
+
+5
+00:00:34,858 --> 00:00:36,419
+I lost track of it again.
+
+6
+00:00:36,443 --> 00:00:38,004
+[breathes deeply]
+
+7
+00:00:38,028 --> 00:00:39,422
+[sniffing]
+
+8
+00:00:39,446 --> 00:00:41,648
+[gasps] It's definitely nearby.
+
+9
+00:00:42,074 --> 00:00:43,901
+It couldn't have gotten far.
+
+10
+00:00:45,494 --> 00:00:47,555
+Let's split up and search.
+
+11
+00:00:47,579 --> 00:00:49,615
+- I'll go this way.
+- Sure.
+
+12
+00:02:04,073 --> 00:02:06,426
+Mirr, it's me.
+
+13
+00:02:06,450 --> 00:02:08,261
+[laughing]
+
+14
+00:02:08,285 --> 00:02:10,028
+- You startled me.
+- Geez, Kangji.
+
+15
+00:02:11,455 --> 00:02:12,865
+[groans]
+
+16
+00:02:14,416 --> 00:02:16,618
+- Are you okay?
+- I'm good.
+
+17
+00:02:17,961 --> 00:02:21,081
+- It escaped us, didn't it?
+- I wouldn't be here if it didn't.
+
+18
+00:02:21,548 --> 00:02:23,584
+I bet we scared it off.
+
+19
+00:02:27,554 --> 00:02:28,964
+What is it?
+
+20
+00:02:29,848 --> 00:02:31,133
+Isn't it weird?
+
+21
+00:02:31,517 --> 00:02:33,594
+- What do you mean?
+- The evil spirits.
+
+22
+00:02:34,395 --> 00:02:36,331
+They used to come out only at night,
+
+23
+00:02:36,355 --> 00:02:38,890
+but now they show up at any hour.
+
+24
+00:02:39,191 --> 00:02:41,086
+There's more of them too.
+
+25
+00:02:41,110 --> 00:02:42,962
+Don't worry too much.
+
+26
+00:02:42,986 --> 00:02:44,938
+Let's come back with the others tomorrow.
+
+27
+00:02:46,156 --> 00:02:47,566
+Sure.
+
+28
+00:02:48,867 --> 00:02:50,178
+Will you stay seated there?
+
+29
+00:02:50,202 --> 00:02:52,806
+Let's go. We should go back
+and join the others.
+
+30
+00:02:52,830 --> 00:02:55,407
+Sure. Go ahead without me.
+
+31
+00:02:56,542 --> 00:02:57,868
+On my own?
+
+32
+00:02:58,335 --> 00:02:59,536
+Why? What about you?
+
+33
+00:03:06,510 --> 00:03:07,878
+Mirr, don't tell me…
+
+34
+00:03:08,846 --> 00:03:10,464
+Are you still seeing him?
+
+35
+00:03:12,307 --> 00:03:14,494
+[sighs] We told you to end it.
+Until when--
+
+36
+00:03:14,518 --> 00:03:16,996
+This is my business. I'll handle it.
+
+37
+00:03:17,020 --> 00:03:19,306
+This isn't something you can handle alone.
+
+38
+00:03:19,898 --> 00:03:23,226
+What will you tell the others
+and what if Taesan and Marok find out?
+
+39
+00:03:26,196 --> 00:03:27,606
+Mirr.
+
+40
+00:03:28,657 --> 00:03:29,858
+Be wise about this.
+
+41
+00:03:30,451 --> 00:03:32,804
+If you violate the rules
+and keep seeing him,
+
+42
+00:03:32,828 --> 00:03:36,198
+Ogwi might have to pay a big price.
+
+43
+00:03:37,416 --> 00:03:38,617
+You and Ogwi.
+
+44
+00:03:39,668 --> 00:03:42,287
+I wish you'd choose
+what's best for each other.
+
+45
+00:03:44,965 --> 00:03:48,335
+This will be the last time
+I turn a blind eye.
+
+46
+00:03:54,892 --> 00:03:56,510
+[sighs]
+
+47
+00:04:01,273 --> 00:04:02,917
+Mirr.
+
+48
+00:04:02,941 --> 00:04:05,978
+Don't forget this. Ogwi isn't like us.
+
+49
+00:04:06,278 --> 00:04:07,896
+He's human,
+
+50
+00:04:08,530 --> 00:04:11,858
+and we were created to protect humans.
+
+51
+00:04:30,093 --> 00:04:35,009
+TWELVE
+
+52
+00:04:47,569 --> 00:04:48,713
+[Taesan] <i>If it gets dangerous,</i>
+
+53
+00:04:48,737 --> 00:04:51,216
+just run. I'll handle them.
+
+54
+00:04:51,240 --> 00:04:53,525
+[chuckles] Hey,
+
+55
+00:04:53,992 --> 00:04:56,695
+are you belittling me
+or looking out for me?
+
+56
+00:04:57,621 --> 00:05:00,741
+You know full well I'm the only one
+whose powers aren't sealed.
+
+57
+00:05:01,124 --> 00:05:02,534
+[chuckles]
+
+58
+00:05:05,170 --> 00:05:06,788
+I've got this.
+
+59
+00:05:17,683 --> 00:05:18,743
+[grunts]
+
+60
+00:05:18,767 --> 00:05:20,385
+You puny brat.
+
+61
+00:05:23,230 --> 00:05:24,598
+Way to go.
+
+62
+00:05:27,442 --> 00:05:29,936
+[grunting]
+
+63
+00:05:37,619 --> 00:05:38,820
+[chuckles]
+
+64
+00:05:55,095 --> 00:05:57,005
+- [groans]
+- Goodness.
+
+65
+00:06:00,350 --> 00:06:01,593
+Uh-huh.
+
+66
+00:06:25,167 --> 00:06:26,535
+[groans]
+
+67
+00:06:42,893 --> 00:06:44,386
+[sighs]
+
+68
+00:06:55,822 --> 00:06:57,440
+[breathes shakily]
+
+69
+00:07:20,055 --> 00:07:21,506
+[grunts]
+
+70
+00:07:23,600 --> 00:07:26,261
+[breathes heavily]
+
+71
+00:07:27,312 --> 00:07:30,932
+Samin, did you take my soul stone?
+
+72
+00:07:37,864 --> 00:07:39,774
+Aren't you a sight for sore eyes?
+
+73
+00:07:40,325 --> 00:07:42,345
+[chuckles]
+
+74
+00:07:42,369 --> 00:07:44,362
+I have a choice to make.
+
+75
+00:07:45,580 --> 00:07:47,324
+One that brings me pleasure.
+
+76
+00:07:49,167 --> 00:07:51,953
+Who should I kill first?
+
+77
+00:07:54,965 --> 00:07:56,374
+[groans]
+
+78
+00:08:03,306 --> 00:08:06,218
+[groaning]
+
+79
+00:08:07,602 --> 00:08:09,804
+[breathing heavily]
+
+80
+00:08:21,158 --> 00:08:22,901
+[exclaims]
+
+81
+00:09:42,239 --> 00:09:44,524
+[breathing heavily]
+
+82
+00:09:46,076 --> 00:09:47,277
+Mirr.
+
+83
+00:09:47,786 --> 00:09:49,029
+Mirr, wake up.
+
+84
+00:09:49,704 --> 00:09:50,905
+Mirr?
+
+85
+00:09:51,373 --> 00:09:52,615
+Mirr!
+
+86
+00:09:55,085 --> 00:09:56,786
+[chuckles]
+
+87
+00:09:58,213 --> 00:09:59,273
+Ogwi, you.
+
+88
+00:09:59,297 --> 00:10:01,400
+[breathing heavily]
+
+89
+00:10:01,424 --> 00:10:03,293
+Your memories are back. [chuckles]
+
+90
+00:10:05,095 --> 00:10:06,546
+[groans]
+
+91
+00:10:07,848 --> 00:10:09,049
+How does it feel
+
+92
+00:10:09,766 --> 00:10:12,703
+to be fully conscious yet unable to move?
+
+93
+00:10:12,727 --> 00:10:14,220
+[chuckling]
+
+94
+00:10:15,522 --> 00:10:17,974
+Though I was trapped
+for thousands of years,
+
+95
+00:10:18,692 --> 00:10:20,977
+I could never get used to it.
+
+96
+00:10:24,990 --> 00:10:27,067
+[grunting]
+
+97
+00:11:14,331 --> 00:11:17,143
+[groaning, wheezing]
+
+98
+00:11:17,167 --> 00:11:19,369
+Why did you have me sealed back then?
+
+99
+00:11:19,836 --> 00:11:21,579
+[wheezing, chuckling]
+
+100
+00:11:22,172 --> 00:11:24,040
+That wasn't what I planned.
+
+101
+00:11:25,217 --> 00:11:26,527
+It was God's will.
+
+102
+00:11:26,551 --> 00:11:27,794
+I see.
+
+103
+00:11:29,596 --> 00:11:32,575
+The same God
+who has ignored me my whole life?
+
+104
+00:11:32,599 --> 00:11:33,910
+[chuckles]
+
+105
+00:11:33,934 --> 00:11:35,969
+How about I forsake you the same way?
+
+106
+00:11:37,646 --> 00:11:40,974
+Like the time I lost
+in thousands of years of captivity
+
+107
+00:11:41,650 --> 00:11:43,601
+and the memories that were erased,
+
+108
+00:11:45,153 --> 00:11:46,214
+you will face death.
+
+109
+00:11:46,238 --> 00:11:47,814
+[chuckles]
+
+110
+00:11:48,240 --> 00:11:49,441
+[footstep approaches]
+
+111
+00:11:58,375 --> 00:12:00,285
+[exclaims]
+
+112
+00:12:05,715 --> 00:12:09,752
+[breathing heavily]
+
+113
+00:13:36,556 --> 00:13:38,132
+[sighs]
+
+114
+00:13:46,024 --> 00:13:47,934
+[coughing]
+
+115
+00:13:52,280 --> 00:13:53,898
+[wheezes]
+
+116
+00:14:07,337 --> 00:14:08,955
+[groans]
+
+117
+00:14:24,521 --> 00:14:25,605
+MAROK
+INCOMING CALL
+
+118
+00:14:26,314 --> 00:14:27,598
+Chief, Marok's calling.
+
+119
+00:14:31,653 --> 00:14:33,313
+Hello? Old man!
+
+120
+00:14:33,655 --> 00:14:34,856
+Marok!
+
+121
+00:14:35,156 --> 00:14:36,399
+[Marok groans]
+
+122
+00:14:38,118 --> 00:14:40,695
+[groans, coughs]
+
+123
+00:14:42,330 --> 00:14:43,531
+Taesan.
+
+124
+00:14:44,290 --> 00:14:48,202
+[laughs] Well, I…
+
+125
+00:14:49,045 --> 00:14:50,106
+It hurts a lot.
+
+126
+00:14:50,130 --> 00:14:52,733
+[stammers] Old man, what happened?
+
+127
+00:14:52,757 --> 00:14:54,083
+[Marok] <i>You…</i>
+
+128
+00:14:55,093 --> 00:14:56,919
+are going to listen to me.
+
+129
+00:14:59,097 --> 00:15:00,381
+Samin…
+
+130
+00:15:01,891 --> 00:15:04,218
+seems to have acquired Haetae's powers.
+
+131
+00:15:05,145 --> 00:15:06,346
+<i>Now,</i>
+
+132
+00:15:07,522 --> 00:15:10,933
+he will control humans as he pleases.
+
+133
+00:15:12,026 --> 00:15:13,227
+<i>That's why</i>
+
+134
+00:15:14,112 --> 00:15:15,355
+<i>you must</i>
+
+135
+00:15:16,239 --> 00:15:18,274
+open the Hellmouth, Taesan.
+
+136
+00:15:19,325 --> 00:15:20,526
+<i>Do you hear me?</i>
+
+137
+00:15:21,286 --> 00:15:23,488
+<i>A world without humans</i>
+
+138
+00:15:24,372 --> 00:15:25,782
+will be Hell…
+
+139
+00:15:27,625 --> 00:15:28,993
+stripped of any future.
+
+140
+00:15:29,460 --> 00:15:30,521
+Hold on.
+
+141
+00:15:30,545 --> 00:15:31,788
+<i>Also,</i>
+
+142
+00:15:32,088 --> 00:15:33,232
+[groans]
+
+143
+00:15:33,256 --> 00:15:37,043
+Ogwi took Mirr away.
+
+144
+00:15:38,052 --> 00:15:39,253
+<i>You must</i>
+
+145
+00:15:39,971 --> 00:15:41,506
+<i>find her.</i>
+
+146
+00:15:42,348 --> 00:15:44,133
+If Samin gets his hands
+
+147
+00:15:44,851 --> 00:15:46,511
+on the Dragon Soul
+
+148
+00:15:48,271 --> 00:15:50,098
+within Mirr too,
+
+149
+00:15:51,065 --> 00:15:52,934
+you won't be able to handle him
+
+150
+00:15:54,652 --> 00:15:56,672
+even if you guys get your powers back.
+
+151
+00:15:56,696 --> 00:15:57,756
+Do you hear me?
+
+152
+00:15:57,780 --> 00:15:59,425
+I got it, old man.
+
+153
+00:15:59,449 --> 00:16:01,510
+I'll get Mirr back, whatever it takes.
+
+154
+00:16:01,534 --> 00:16:04,388
+I'm on my way, so hang in there.
+
+155
+00:16:04,412 --> 00:16:05,973
+Got it, old man?
+
+156
+00:16:05,997 --> 00:16:07,240
+[Marok] <i>I…</i>
+
+157
+00:16:08,166 --> 00:16:10,159
+wanted to fulfill my duties
+
+158
+00:16:11,794 --> 00:16:13,704
+as your guardian until the very end.
+
+159
+00:16:14,464 --> 00:16:18,167
+<i>I'm sorry to leave you</i>
+<i>with this burden, Taesan.</i>
+
+160
+00:16:20,303 --> 00:16:21,504
+<i>Taesan,</i>
+
+161
+00:16:22,096 --> 00:16:23,297
+I…
+
+162
+00:16:25,475 --> 00:16:27,468
+The money…
+
+163
+00:16:28,770 --> 00:16:30,304
+The money I borrowed from you.
+
+164
+00:16:32,899 --> 00:16:35,101
+<i>I'm afraid I can't pay you back.</i>
+
+165
+00:16:37,445 --> 00:16:39,715
+Old man, you will pay me back!
+
+166
+00:16:39,739 --> 00:16:41,300
+Survive and pay me back.
+
+167
+00:16:41,324 --> 00:16:42,885
+<i>Pull yourself together!</i>
+
+168
+00:16:42,909 --> 00:16:44,094
+Forgive me…
+
+169
+00:16:44,118 --> 00:16:45,528
+[grunts]
+
+170
+00:16:46,079 --> 00:16:47,280
+for always…
+
+171
+00:16:48,957 --> 00:16:50,950
+leaning and depending on you.
+
+172
+00:16:54,379 --> 00:16:55,747
+I'm sorry.
+
+173
+00:16:58,341 --> 00:16:59,625
+<i>Taesan…</i>
+
+174
+00:17:01,094 --> 00:17:02,336
+I'm sorry.
+
+175
+00:17:05,181 --> 00:17:06,382
+I'm sorry.
+
+176
+00:17:09,435 --> 00:17:10,636
+<i>Old man?</i>
+
+177
+00:17:11,729 --> 00:17:12,930
+<i>Old man!</i>
+
+178
+00:17:15,358 --> 00:17:16,601
+<i>Old man!</i>
+
+179
+00:17:20,738 --> 00:17:21,981
+Old man!
+
+180
+00:17:23,283 --> 00:17:24,484
+Old man…
+
+181
+00:17:26,995 --> 00:17:28,237
+Wonseung.
+
+182
+00:17:29,956 --> 00:17:32,560
+We must hurry. Step on it.
+
+183
+00:17:32,584 --> 00:17:33,785
+Got it.
+
+184
+00:18:01,738 --> 00:18:02,939
+Over there.
+
+185
+00:18:31,726 --> 00:18:32,927
+Marok!
+
+186
+00:18:35,938 --> 00:18:38,099
+[stammers]
+
+187
+00:18:43,863 --> 00:18:48,150
+Taesan, Marok is… [breathes shakily]
+
+188
+00:18:53,539 --> 00:18:55,908
+- [Taesan] Marok…
+- [sobs]
+
+189
+00:19:03,800 --> 00:19:04,860
+[Taesan] Old man.
+
+190
+00:19:04,884 --> 00:19:06,919
+[sobbing]
+
+191
+00:19:14,435 --> 00:19:17,388
+Chief, Marok's gone…
+
+192
+00:19:22,068 --> 00:19:23,269
+[Taesan] Old man.
+
+193
+00:19:23,903 --> 00:19:26,314
+[Wonseung sobbing]
+
+194
+00:19:30,076 --> 00:19:31,277
+[Taesan] Marok.
+
+195
+00:19:32,036 --> 00:19:34,113
+[Wonseung] Marok!
+
+196
+00:19:49,721 --> 00:19:51,422
+[crying]
+
+197
+00:19:57,061 --> 00:19:58,554
+[Kangji] Marok…
+
+198
+00:20:30,261 --> 00:20:31,754
+[Kangji] Marok…
+
+199
+00:20:40,229 --> 00:20:42,056
+[crying]
+
+200
+00:20:50,990 --> 00:20:55,236
+[crying] Marok…
+
+201
+00:21:09,550 --> 00:21:11,961
+- [sighs]
+- [sobs]
+
+202
+00:21:23,898 --> 00:21:26,225
+[Kangji] Marok!
+
+203
+00:21:26,859 --> 00:21:29,270
+[sobbing]
+
+204
+00:21:37,286 --> 00:21:38,821
+[Malsook sobbing]
+
+205
+00:21:41,082 --> 00:21:42,742
+[Malsook] Marok.
+
+206
+00:22:00,226 --> 00:22:02,621
+TAESAN ORIENTAL MEDICINE CLINIC
+
+207
+00:22:14,031 --> 00:22:15,566
+[sighs]
+
+208
+00:22:43,936 --> 00:22:46,555
+At last, the world has returned
+to how it used to be.
+
+209
+00:22:48,190 --> 00:22:49,725
+Humans are
+
+210
+00:22:50,651 --> 00:22:52,812
+without a doubt special beings.
+
+211
+00:22:55,448 --> 00:22:58,192
+To honor and cherish their time together,
+
+212
+00:22:59,201 --> 00:23:02,655
+they unite in thought and strength
+
+213
+00:23:03,497 --> 00:23:05,199
+to build stone graves like this
+
+214
+00:23:06,834 --> 00:23:08,828
+for the deceased.
+
+215
+00:23:10,171 --> 00:23:11,664
+[chuckles]
+
+216
+00:23:12,298 --> 00:23:14,166
+To protect these humans…
+
+217
+00:23:16,135 --> 00:23:18,322
+God sent you and the other angels
+
+218
+00:23:18,346 --> 00:23:20,422
+in human form.
+
+219
+00:23:21,098 --> 00:23:22,299
+Eventually,
+
+220
+00:23:22,767 --> 00:23:24,844
+as God intended, you and the angels
+
+221
+00:23:26,020 --> 00:23:28,222
+saved the human world.
+
+222
+00:23:30,858 --> 00:23:32,977
+My siblings are dead.
+
+223
+00:23:34,153 --> 00:23:36,897
+Sacrificing our lives to protect humans…
+
+224
+00:23:39,283 --> 00:23:41,402
+Is that what God really intended?
+
+225
+00:23:45,206 --> 00:23:48,701
+Protecting humans comes with sacrifices.
+
+226
+00:23:50,670 --> 00:23:53,289
+It is our destiny to accept such a life.
+
+227
+00:23:56,550 --> 00:23:58,043
+Taesan.
+
+228
+00:24:01,639 --> 00:24:03,424
+Do not let your siblings' deaths
+
+229
+00:24:04,392 --> 00:24:06,343
+cause you to waver. Okay?
+
+230
+00:24:09,563 --> 00:24:11,056
+[sighs]
+
+231
+00:24:13,943 --> 00:24:16,187
+That is one miserable destiny.
+
+232
+00:25:15,337 --> 00:25:17,831
+[footsteps approaching]
+
+233
+00:25:24,805 --> 00:25:27,049
+[Taesan sighs]
+
+234
+00:25:38,069 --> 00:25:40,938
+[thunder rumbling]
+
+235
+00:25:49,622 --> 00:25:52,533
+[thunder rumbling]
+
+236
+00:26:48,264 --> 00:26:50,966
+[thunder rumbling]
+
+237
+00:26:58,941 --> 00:27:00,476
+[grunts]
+
+238
+00:27:02,236 --> 00:27:03,812
+[grunts]
+
+239
+00:27:04,697 --> 00:27:07,557
+{\an8}ANGEL
+
+240
+00:27:11,161 --> 00:27:13,280
+- [Taesan grunts]
+- [hammer thuds]
+
+241
+00:27:22,673 --> 00:27:25,292
+[groaning]
+
+242
+00:27:43,569 --> 00:27:44,770
+Chief!
+
+243
+00:27:51,869 --> 00:27:54,488
+[sighs] What's he thinking,
+opening the Hellmouth?
+
+244
+00:27:55,873 --> 00:27:57,767
+It was bound to be shattered
+at some point.
+
+245
+00:27:57,791 --> 00:27:59,853
+[Taesan grunting]
+
+246
+00:27:59,877 --> 00:28:01,078
+Chief…
+
+247
+00:30:22,019 --> 00:30:23,220
+Now,
+
+248
+00:30:23,645 --> 00:30:25,555
+with the Hellmouth shattered,
+
+249
+00:30:26,774 --> 00:30:29,685
+evil will engulf the world.
+
+250
+00:30:30,694 --> 00:30:31,895
+We have one day
+
+251
+00:30:32,946 --> 00:30:34,773
+to find Mirr
+
+252
+00:30:35,991 --> 00:30:38,151
+and kill Samin and Ogwi.
+
+253
+00:30:39,244 --> 00:30:40,445
+After that,
+
+254
+00:30:41,955 --> 00:30:44,199
+we'll reseal the Hellmouth.
+
+255
+00:31:39,034 --> 00:31:40,970
+For reasons still unknown,
+
+256
+00:31:40,994 --> 00:31:43,264
+the sky has started to turn black,
+
+257
+00:31:43,288 --> 00:31:45,933
+darkening the day as though it were night.
+
+258
+00:31:45,957 --> 00:31:49,687
+<i>Strange fine dust continues to fall</i>
+<i>from the sky,</i>
+
+259
+00:31:49,711 --> 00:31:51,913
+<i>causing damage in surrounding areas.</i>
+
+260
+00:31:52,214 --> 00:31:55,777
+<i>If you are watching this,</i>
+<i>please take shelter indoors…</i>
+
+261
+00:31:55,801 --> 00:31:58,070
+- [horns honking]
+- [person 1] Are you kidding me?
+
+262
+00:31:58,094 --> 00:32:00,573
+- [person 2] Move, will you?
+- [person 3] Come on!
+
+263
+00:32:00,597 --> 00:32:03,591
+- [person 4] Who's blocking the street?
+- [person 5] Are you serious?
+
+264
+00:32:05,018 --> 00:32:07,997
+Who are those nutjobs?
+
+265
+00:32:08,021 --> 00:32:09,681
+[person 6] Get out of the way.
+
+266
+00:32:12,984 --> 00:32:15,020
+- [person 7] Move.
+- [person 8] Move!
+
+267
+00:32:17,864 --> 00:32:19,467
+[person 9] Get out of the way.
+
+268
+00:32:19,491 --> 00:32:21,636
+- [person 10] Move out of the street.
+- [person 11] Move!
+
+269
+00:32:21,660 --> 00:32:24,070
+- I have no idea what's going on.
+- [person 12] Move?
+
+270
+00:32:24,454 --> 00:32:28,059
+[horns honking]
+
+271
+00:32:28,083 --> 00:32:30,452
+[person 13] Get out of the way.
+What are you doing?
+
+272
+00:32:36,883 --> 00:32:38,877
+[person 13] Move, will you?
+
+273
+00:33:34,524 --> 00:33:35,725
+So, for dinner…
+
+274
+00:33:36,610 --> 00:33:39,229
+Hey, your eyes!
+
+275
+00:34:28,161 --> 00:34:30,196
+[pedestrian] What's going on? Run!
+
+276
+00:34:31,122 --> 00:34:33,283
+[people screaming]
+
+277
+00:34:59,276 --> 00:35:01,519
+[grunts]
+
+278
+00:35:07,158 --> 00:35:08,693
+[groans]
+
+279
+00:35:16,209 --> 00:35:20,038
+[inhales deeply, exhales heavily]
+
+280
+00:36:26,821 --> 00:36:28,022
+Let's go.
+
+281
+00:38:47,462 --> 00:38:49,288
+Chief.
+
+282
+00:38:57,555 --> 00:39:00,883
+[coughs, gasps]
+
+283
+00:39:23,331 --> 00:39:24,782
+I've hurt him enough.
+
+284
+00:39:25,291 --> 00:39:27,160
+Haetae has turned into an evil spirit.
+
+285
+00:39:27,877 --> 00:39:29,078
+He must be eliminated.
+
+286
+00:39:29,546 --> 00:39:30,747
+That is God's will.
+
+287
+00:40:07,875 --> 00:40:10,953
+[choking, groaning]
+
+288
+00:40:39,616 --> 00:40:41,526
+[groaning]
+
+289
+00:40:43,703 --> 00:40:45,738
+[groaning]
+
+290
+00:40:49,042 --> 00:40:50,535
+[exclaims]
+
+291
+00:40:52,503 --> 00:40:54,080
+- [groans]
+- Marok!
+
+292
+00:41:00,094 --> 00:41:02,296
+Marok, are you all right?
+
+293
+00:41:07,602 --> 00:41:09,595
+[footsteps approaching]
+
+294
+00:41:13,191 --> 00:41:15,044
+[exclaims]
+
+295
+00:41:15,068 --> 00:41:16,477
+No!
+
+296
+00:41:56,150 --> 00:41:57,685
+[grunts]
+
+297
+00:45:04,067 --> 00:45:05,738
+THANK YOU TO NA IN-WOO AND BAE
+YU-RAM FOR THEIR SPECIAL APPEARANCES
+
+298
+00:45:32,965 --> 00:45:34,288
+Translated by Hyelim Park
