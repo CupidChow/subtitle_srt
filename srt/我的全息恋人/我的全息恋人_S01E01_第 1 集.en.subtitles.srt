@@ -1,0 +1,2977 @@
+1
+00:01:10,945 --> 00:01:12,030
+Are you okay?
+
+2
+00:01:13,490 --> 00:01:15,450
+You're not nervous, are you?
+
+3
+00:01:20,330 --> 00:01:22,290
+Are you worried...
+
+4
+00:01:23,374 --> 00:01:26,252
+-that I'll ruin the presentation?
+-Of course not.
+
+5
+00:01:28,213 --> 00:01:29,839
+It'll be fine if I don't mess up.
+
+6
+00:01:30,673 --> 00:01:31,966
+-Let's go.
+-Okay.
+
+7
+00:01:36,304 --> 00:01:38,640
+Every cell phone
+has an AI virtual assistant
+
+8
+00:01:38,723 --> 00:01:40,016
+built into it nowadays.
+
+9
+00:01:40,100 --> 00:01:42,602
+They keep track of schedules
+and find songs for you.
+
+10
+00:01:42,685 --> 00:01:44,729
+Life would be inconvenient without them.
+
+11
+00:01:44,813 --> 00:01:48,233
+What you're saying is true,
+but doesn't AI have limitations?
+
+12
+00:01:48,316 --> 00:01:49,776
+It doesn't always understand us.
+
+13
+00:01:49,859 --> 00:01:52,946
+I don't mind that
+as much as not being able to see its face.
+
+14
+00:01:53,029 --> 00:01:54,697
+It feels like I'm talking to myself,
+
+15
+00:01:54,781 --> 00:01:57,200
+so it doesn't feel
+like it's present with me.
+
+16
+00:01:57,992 --> 00:01:59,953
+Is it still too early for robots?
+
+17
+00:02:00,036 --> 00:02:04,207
+Did you see the video of the humanoid AI
+that Magic Mirror launched not long ago?
+
+18
+00:02:04,541 --> 00:02:06,960
+It's been getting a lot of attention
+on YouTube.
+
+19
+00:02:23,476 --> 00:02:26,020
+As our investors,
+all of you must be here today
+
+20
+00:02:26,104 --> 00:02:27,480
+because you want to know
+
+21
+00:02:27,564 --> 00:02:30,358
+what our company has been working on...
+
+22
+00:02:31,151 --> 00:02:35,446
+since we were the first ones to develop AI
+that passed the Turing test.
+
+23
+00:02:40,660 --> 00:02:43,288
+How do you feel after having seen
+GIO Lab's latest product?
+
+24
+00:02:45,999 --> 00:02:49,377
+I introduce to you the world's
+first personal hologram AI,
+
+25
+00:02:50,044 --> 00:02:51,838
+Holo.
+
+26
+00:03:07,520 --> 00:03:09,272
+I don't know if you noticed,
+
+27
+00:03:09,355 --> 00:03:13,067
+but the specially-engineered glass
+between us
+
+28
+00:03:13,318 --> 00:03:16,905
+made it seem like Holo is actually here.
+
+29
+00:03:24,662 --> 00:03:26,539
+And you can access this hologram...
+
+30
+00:03:27,582 --> 00:03:29,417
+through this pair of glasses.
+
+31
+00:03:34,964 --> 00:03:39,594
+As of now, this is the world's
+only prototype of HoloGlass.
+
+32
+00:03:40,428 --> 00:03:42,972
+Anyone who wears these glasses...
+
+33
+00:03:43,806 --> 00:03:46,768
+will be able to have
+a Holo of their very own.
+
+34
+00:04:14,337 --> 00:04:17,090
+Let's do this.
+
+35
+00:04:19,008 --> 00:04:20,551
+Please turn that chair around.
+
+36
+00:04:20,635 --> 00:04:23,346
+It'd be better to swap this
+for the black line.
+
+37
+00:04:23,429 --> 00:04:25,932
+-Thank you for your hard work. Okay.
+-Thank you.
+
+38
+00:04:27,225 --> 00:04:29,352
+-Let's put this box down.
+-Yes, let's.
+
+39
+00:04:34,565 --> 00:04:36,025
+Let's turn the lights on now.
+
+40
+00:04:36,109 --> 00:04:37,026
+Okay.
+
+41
+00:04:38,236 --> 00:04:40,113
+-Good. I think this is fine.
+-Great.
+
+42
+00:04:40,196 --> 00:04:43,199
+-Good work, everyone.
+-Thank you for your hard work.
+
+43
+00:04:43,283 --> 00:04:44,534
+Yes, thanks.
+
+44
+00:04:46,869 --> 00:04:49,914
+I made a reservation
+at the barbecue place nearby.
+
+45
+00:04:49,998 --> 00:04:51,916
+I'll wrap things up here. Go on ahead.
+
+46
+00:04:52,333 --> 00:04:54,085
+-I'm good, thanks.
+-Excuse me?
+
+47
+00:04:54,168 --> 00:04:55,420
+I'm a bit tired.
+
+48
+00:04:55,503 --> 00:04:57,922
+I'll wrap things up and go home.
+Don't worry about it.
+
+49
+00:04:58,006 --> 00:04:59,132
+-Miss Han.
+-Go home.
+
+50
+00:04:59,590 --> 00:05:00,967
+You've been working hard.
+
+51
+00:05:01,050 --> 00:05:02,468
+Let's go, sir. Let's go.
+
+52
+00:05:02,552 --> 00:05:03,886
+Come on. Let's go.
+
+53
+00:05:05,305 --> 00:05:06,472
+She's so cool.
+
+54
+00:05:06,556 --> 00:05:09,350
+Cool? Yeah, right.
+Attending team dinners is a duty too.
+
+55
+00:05:09,434 --> 00:05:11,477
+Don't become like her
+if you get promoted.
+
+56
+00:05:11,561 --> 00:05:13,313
+-Yes, Miss Park.
+-Good work.
+
+57
+00:05:13,396 --> 00:05:14,272
+This way.
+
+58
+00:05:16,649 --> 00:05:18,860
+-Please show them the way.
+-Yes, ma'am.
+
+59
+00:05:18,943 --> 00:05:20,862
+That was an impressive presentation.
+
+60
+00:05:21,946 --> 00:05:22,905
+How beautiful.
+
+61
+00:05:22,989 --> 00:05:25,491
+What an honor to have
+the vice president come see it.
+
+62
+00:05:25,575 --> 00:05:27,827
+That was tough
+for me to swallow, though.
+
+63
+00:05:30,455 --> 00:05:34,083
+A huge company like Magic Mirror
+wouldn't act petty about this, right?
+
+64
+00:05:34,292 --> 00:05:36,169
+I considered filing a lawsuit, but...
+
+65
+00:05:38,212 --> 00:05:42,759
+it's true that Holo is much more advanced
+than our current AI engine.
+
+66
+00:05:42,925 --> 00:05:46,012
+How did you make it talk
+in a natural language?
+
+67
+00:05:46,512 --> 00:05:48,931
+That's a company secret.
+
+68
+00:05:49,307 --> 00:05:50,516
+Speaking of which,
+
+69
+00:05:51,017 --> 00:05:53,936
+my company buyout offer
+from last time is still valid.
+
+70
+00:05:54,645 --> 00:05:56,314
+As I told you last time--
+
+71
+00:05:57,523 --> 00:06:00,860
+If you turn me down again,
+you'll have to have dinner with me.
+
+72
+00:06:00,943 --> 00:06:04,822
+If I'd known that was the case,
+I would've cleared my schedule.
+
+73
+00:06:04,906 --> 00:06:07,075
+I apologize, but I already have plans.
+
+74
+00:06:07,158 --> 00:06:10,495
+Then I'll check to see if you have plans
+before making this offer again.
+
+75
+00:06:11,162 --> 00:06:12,163
+Take care.
+
+76
+00:06:22,799 --> 00:06:26,552
+He's so persistent but so smooth, too.
+
+77
+00:06:30,723 --> 00:06:33,184
+I wonder how many women
+he's given these to.
+
+78
+00:06:34,018 --> 00:06:35,937
+What good are they if I can't eat them?
+
+79
+00:06:43,986 --> 00:06:46,239
+I've detected unidentified parties
+chasing you.
+
+80
+00:06:49,409 --> 00:06:50,618
+What do I do?
+
+81
+00:06:57,083 --> 00:06:58,126
+Holo!
+
+82
+00:07:12,932 --> 00:07:15,017
+This car has self-driving mode, right?
+
+83
+00:07:16,477 --> 00:07:18,104
+-I'll drive.
+-Hands off the wheel,
+
+84
+00:07:18,187 --> 00:07:20,398
+-and don't be surprised if the car moves.
+-Yes.
+
+85
+00:08:52,073 --> 00:08:52,949
+Holo!
+
+86
+00:09:11,259 --> 00:09:12,385
+Miss Ko!
+
+87
+00:09:22,144 --> 00:09:23,187
+She's not here.
+
+88
+00:09:34,574 --> 00:09:35,825
+This way.
+
+89
+00:09:56,053 --> 00:09:57,096
+IDENTIFICATION FAILED
+
+90
+00:10:00,391 --> 00:10:02,226
+They'll steal the glasses from me.
+
+91
+00:10:02,310 --> 00:10:04,103
+-What do I do?
+-Look around.
+
+92
+00:10:06,314 --> 00:10:07,690
+RELIABILITY: 79%, 28%
+
+93
+00:10:10,693 --> 00:10:12,361
+RELIABILITY: 28%, 19%
+
+94
+00:10:14,905 --> 00:10:16,115
+RELIABILITY: 51%
+
+95
+00:10:52,068 --> 00:10:53,361
+Holo.
+
+96
+00:10:54,403 --> 00:10:55,529
+What's wrong?
+
+97
+00:10:56,364 --> 00:10:58,157
+That woman. Give them to that woman.
+
+98
+00:11:04,789 --> 00:11:05,873
+Sorry about that!
+
+99
+00:11:28,646 --> 00:11:29,772
+It's not here.
+
+100
+00:11:34,276 --> 00:11:38,197
+We failed to retrieve it.
+I have someone else tailing them.
+
+101
+00:11:40,574 --> 00:11:45,579
+SEOUL TAXI
+EMPTY CAR
+
+102
+00:11:49,583 --> 00:11:51,585
+Goodness, there must've been an accident.
+
+103
+00:12:20,322 --> 00:12:21,240
+One caffe latte.
+
+104
+00:12:21,323 --> 00:12:22,742
+-Sure.
+-Not too much foam.
+
+105
+00:12:22,825 --> 00:12:23,659
+Sure.
+
+106
+00:12:34,628 --> 00:12:36,547
+What's this doing in my bag?
+
+107
+00:12:36,630 --> 00:12:38,549
+NAME: HAN SO-YEON
+DATE OF BIRTH: 1989.04.20
+
+108
+00:12:38,632 --> 00:12:41,051
+They're not prescription.
+Are they sample glasses?
+
+109
+00:12:42,720 --> 00:12:44,096
+They look nice.
+
+110
+00:12:44,889 --> 00:12:46,182
+Let's see.
+
+111
+00:12:48,225 --> 00:12:50,478
+-Here's your coffee.
+-Yes, thank you.
+
+112
+00:12:52,396 --> 00:12:53,397
+Be careful.
+
+113
+00:12:55,316 --> 00:12:56,400
+Sorry.
+
+114
+00:12:58,611 --> 00:12:59,695
+Oh, no.
+
+115
+00:13:00,863 --> 00:13:02,531
+I'm sorry, are you okay...?
+
+116
+00:13:13,751 --> 00:13:18,798
+I'm fine. By the way...
+those glasses look great on you.
+
+117
+00:13:18,881 --> 00:13:21,383
+Oh, yes, thank you.
+
+118
+00:13:21,967 --> 00:13:23,511
+Where did he go?
+
+119
+00:13:30,726 --> 00:13:32,186
+What were you doing?
+
+120
+00:13:34,230 --> 00:13:35,773
+Oh, sir. Well...
+
+121
+00:13:36,398 --> 00:13:38,484
+There was a man here, and...
+
+122
+00:13:38,567 --> 00:13:39,401
+A man?
+
+123
+00:13:39,485 --> 00:13:44,073
+Did he walk into you? Are you okay?
+Damn it, what kind of a jerk--
+
+124
+00:13:44,156 --> 00:13:45,616
+-No, that's not it.
+-What?
+
+125
+00:13:45,699 --> 00:13:48,702
+I'll just go and get ready
+for the meeting, sir.
+
+126
+00:13:48,786 --> 00:13:50,287
+Sure, okay.
+
+127
+00:14:09,098 --> 00:14:09,974
+Yes.
+
+128
+00:14:10,558 --> 00:14:13,143
+I'm heading back to the office now.
+
+129
+00:14:13,435 --> 00:14:17,231
+Yes, I'll call you back right away.
+All right.
+
+130
+00:14:25,531 --> 00:14:26,407
+Oh, no.
+
+131
+00:14:28,784 --> 00:14:31,912
+-Are you okay?
+-Yes, I'm fine.
+
+132
+00:14:32,663 --> 00:14:35,583
+-Goodness! Are you all right, Miss Park?
+-It's just...
+
+133
+00:14:35,666 --> 00:14:36,959
+Goodness.
+
+134
+00:14:37,042 --> 00:14:41,755
+You should've told me to do this!
+Does it hurt a lot?
+
+135
+00:14:42,298 --> 00:14:43,173
+What?
+
+136
+00:14:43,424 --> 00:14:44,717
+No, I'm fine.
+
+137
+00:14:44,800 --> 00:14:46,218
+I'll take these upstairs.
+
+138
+00:14:46,302 --> 00:14:47,720
+Are you sure you're okay?
+
+139
+00:14:47,803 --> 00:14:49,346
+-Good morning.
+-Yes, hello.
+
+140
+00:14:49,430 --> 00:14:50,264
+Hello.
+
+141
+00:14:53,309 --> 00:14:54,768
+Hey, Miss Han!
+
+142
+00:14:59,189 --> 00:15:01,400
+-Don't you have anything to say to me?
+-No.
+
+143
+00:15:02,192 --> 00:15:03,903
+Are you kidding me?
+
+144
+00:15:04,069 --> 00:15:06,530
+Are you just going to pretend
+you can't see me anymore?
+
+145
+00:15:06,614 --> 00:15:08,490
+You saw me right there.
+
+146
+00:15:09,700 --> 00:15:10,576
+Oh, right.
+
+147
+00:15:10,659 --> 00:15:11,619
+"Oh, right"?
+
+148
+00:15:12,828 --> 00:15:14,830
+Is that all you have to say to me?
+
+149
+00:15:14,914 --> 00:15:17,291
+-You must seriously look down on me!
+-Hey, Miss Park.
+
+150
+00:15:17,374 --> 00:15:19,293
+-No, I just...
+-What's going on?
+
+151
+00:15:19,376 --> 00:15:20,878
+-What's wrong?
+-The thing is,
+
+152
+00:15:20,961 --> 00:15:23,213
+I was almost seriously injured just now.
+
+153
+00:15:23,297 --> 00:15:26,759
+Anyway, she saw me right there,
+so I thought she'd help me,
+
+154
+00:15:26,842 --> 00:15:29,720
+but she totally ignored me
+and got on the elevator.
+
+155
+00:15:38,562 --> 00:15:40,147
+I'm so upset.
+
+156
+00:15:40,606 --> 00:15:43,651
+We've been working together for years now.
+
+157
+00:15:43,734 --> 00:15:45,569
+You should've helped her. Am I wrong?
+
+158
+00:15:45,653 --> 00:15:47,613
+Let's go and have some coffee.
+
+159
+00:15:48,530 --> 00:15:51,075
+You know, don't you think
+
+160
+00:15:51,158 --> 00:15:54,036
+that Mr. Yeon gives Miss Han
+special treatment?
+
+161
+00:15:54,119 --> 00:15:55,162
+I agree.
+
+162
+00:15:55,245 --> 00:15:56,538
+-Exactly.
+-Do you think...
+
+163
+00:15:57,498 --> 00:15:59,124
+they're seeing each other?
+
+164
+00:15:59,208 --> 00:16:00,334
+What?
+
+165
+00:16:00,417 --> 00:16:03,212
+He was her senior in college.
+He likes her as an employee.
+
+166
+00:16:03,295 --> 00:16:05,214
+But she's seriously such a bitch.
+
+167
+00:16:05,673 --> 00:16:08,175
+I mean, if you see someone,
+you should say hello, right?
+
+168
+00:16:08,258 --> 00:16:11,512
+But I always say hi to her first.
+And whenever I do that,
+
+169
+00:16:11,637 --> 00:16:13,222
+she just looks at me and walks by.
+
+170
+00:16:13,806 --> 00:16:15,557
+And she always skips team dinners.
+
+171
+00:16:25,109 --> 00:16:26,360
+Hey, So-yeon.
+
+172
+00:16:26,443 --> 00:16:27,736
+-Yes?
+-Are you all right?
+
+173
+00:16:32,825 --> 00:16:35,160
+-Gang-woo.
+-You didn't recognize me just now,
+
+174
+00:16:35,244 --> 00:16:39,039
+-did you?
+-No, I was just distracted.
+
+175
+00:16:39,498 --> 00:16:41,166
+Why didn't you tell me?
+
+176
+00:16:42,418 --> 00:16:44,712
+-About what?
+-You have terrible eyesight, right?
+
+177
+00:16:44,795 --> 00:16:47,464
+That's why you didn't notice
+Miss Park earlier either.
+
+178
+00:16:49,091 --> 00:16:51,051
+-The thing is--
+-Why don't you get contacts?
+
+179
+00:16:55,180 --> 00:16:56,724
+I'm allergic to them.
+
+180
+00:16:57,307 --> 00:16:59,977
+Get glasses, then.
+I think glasses would look nice on you.
+
+181
+00:17:47,608 --> 00:17:51,028
+Hey, Yoo-ram!
+How about we have some soju and beer?
+
+182
+00:17:52,112 --> 00:17:53,447
+I have to head out right now.
+
+183
+00:17:53,530 --> 00:17:55,657
+I just got asked to work
+a flight last minute.
+
+184
+00:17:55,741 --> 00:17:59,411
+You're always heading out. Goodness.
+
+185
+00:18:04,750 --> 00:18:06,585
+On a lonely day
+
+186
+00:18:07,503 --> 00:18:10,881
+On a day we long for a friend
+
+187
+00:18:11,590 --> 00:18:14,051
+We make one
+
+188
+00:18:15,052 --> 00:18:18,347
+That is cute and fascinating
+
+189
+00:18:30,484 --> 00:18:33,403
+I'm making friends
+
+190
+00:18:33,487 --> 00:18:36,573
+That nobody else knows about
+
+191
+00:18:38,117 --> 00:18:41,495
+Let's make a friend, Ppyororong
+
+192
+00:18:44,039 --> 00:18:44,998
+My friend
+
+193
+00:18:45,082 --> 00:18:46,083
+There we go.
+
+194
+00:18:58,220 --> 00:18:59,847
+It's so nice being alone.
+
+195
+00:19:00,264 --> 00:19:02,307
+Yes. Seriously, this is great.
+
+196
+00:19:03,142 --> 00:19:04,601
+This is so much easier.
+
+197
+00:19:19,992 --> 00:19:21,535
+Oh, right.
+
+198
+00:19:22,578 --> 00:19:26,748
+He said that glasses
+would look good on me.
+
+199
+00:19:48,187 --> 00:19:51,523
+Gosh, I can't see a thing.
+
+200
+00:19:52,774 --> 00:19:54,568
+I told you, they look good on you.
+
+201
+00:19:56,570 --> 00:19:58,197
+Oh, my gosh! Who are you?
+
+202
+00:19:59,198 --> 00:20:02,034
+Don't you remember me
+from back at the coffee shop?
+
+203
+00:20:03,118 --> 00:20:05,913
+-Let me introduce myself. I'm--
+-Are you a stalker?
+
+204
+00:20:06,330 --> 00:20:08,123
+-Let me explain--
+-Don't come closer!
+
+205
+00:20:14,463 --> 00:20:15,464
+Oh, this?
+
+206
+00:20:16,965 --> 00:20:18,258
+Give me a moment to--
+
+207
+00:20:18,759 --> 00:20:20,260
+Mom!
+
+208
+00:20:21,511 --> 00:20:22,471
+Mom!
+
+209
+00:20:24,806 --> 00:20:26,558
+You still can't find them?
+
+210
+00:20:30,312 --> 00:20:31,480
+All right.
+
+211
+00:20:42,908 --> 00:20:45,285
+I brought really sturdy fake flowers
+this time.
+
+212
+00:20:45,744 --> 00:20:47,996
+They'll be fine
+even if your car flips over.
+
+213
+00:20:48,789 --> 00:20:49,665
+Sure.
+
+214
+00:20:49,748 --> 00:20:50,874
+I was worried about you.
+
+215
+00:20:51,124 --> 00:20:53,001
+I heard you got into a car accident.
+
+216
+00:20:54,127 --> 00:20:57,089
+-I know, right?
+-I feel bad because I feel like...
+
+217
+00:20:57,381 --> 00:20:59,049
+-it was my fault.
+-Sorry?
+
+218
+00:20:59,132 --> 00:21:01,969
+If I'd asked you
+on a proper date that day,
+
+219
+00:21:02,052 --> 00:21:05,430
+we would've had dinner,
+and I would've dropped you off at home.
+
+220
+00:21:05,514 --> 00:21:06,515
+Stop it.
+
+221
+00:21:06,598 --> 00:21:09,059
+As you can see, I'm fine.
+
+222
+00:21:10,143 --> 00:21:13,063
+Take this chance to be a little fussy
+and get some rest.
+
+223
+00:21:13,146 --> 00:21:15,941
+I'm sure you must've been busy
+preparing for the conference.
+
+224
+00:21:17,734 --> 00:21:19,653
+Oh, no. I don't have any makeup on.
+
+225
+00:21:22,155 --> 00:21:25,075
+I've never seen you like this.
+You look like a different person.
+
+226
+00:21:25,158 --> 00:21:27,286
+-What?
+-I'm saying you look attractive.
+
+227
+00:21:33,709 --> 00:21:37,129
+I beg of you.
+
+228
+00:21:42,926 --> 00:21:45,345
+Gosh. What am I even doing?
+
+229
+00:21:48,890 --> 00:21:49,808
+Right.
+
+230
+00:21:50,600 --> 00:21:52,644
+My eyes
+could've been playing tricks on me.
+
+231
+00:22:02,446 --> 00:22:03,322
+What?
+
+232
+00:22:05,991 --> 00:22:07,117
+He's not here.
+
+233
+00:22:08,618 --> 00:22:10,704
+Excuse me, I have something to tell you...
+
+234
+00:22:15,792 --> 00:22:18,086
+Where are you? Where?
+
+235
+00:22:18,503 --> 00:22:20,339
+You freaked out so much, so...
+
+236
+00:22:24,676 --> 00:22:26,845
+Please calm down first.
+
+237
+00:22:28,805 --> 00:22:31,391
+I knew it. These glasses are cursed.
+
+238
+00:22:32,267 --> 00:22:33,143
+Damn it!
+
+239
+00:22:35,979 --> 00:22:37,689
+MOM
+
+240
+00:22:41,526 --> 00:22:42,694
+Mom.
+
+241
+00:22:42,778 --> 00:22:44,613
+I see someone still believes in ghosts.
+
+242
+00:22:45,572 --> 00:22:47,991
+Wow, the ghost is even calling me now?
+
+243
+00:22:48,075 --> 00:22:50,911
+I must be out of my mind.
+
+244
+00:22:50,994 --> 00:22:52,120
+Put the glasses back on.
+
+245
+00:22:52,204 --> 00:22:53,538
+You think I'm crazy?
+
+246
+00:22:55,665 --> 00:22:56,500
+Sir?
+
+247
+00:22:58,710 --> 00:23:00,879
+I'm sorry, sir.
+
+248
+00:23:01,588 --> 00:23:06,051
+Can't you just go the hell away, please?
+
+249
+00:23:06,510 --> 00:23:09,346
+I'll explain everything,
+so just put the glasses back...
+
+250
+00:23:13,725 --> 00:23:14,976
+I'm not a ghost.
+
+251
+00:23:32,119 --> 00:23:32,953
+Glasses.
+
+252
+00:23:33,120 --> 00:23:35,622
+Fine! Jeez!
+
+253
+00:23:35,705 --> 00:23:39,292
+I'll put them on, all right?
+I'll put them on right now!
+
+254
+00:23:39,376 --> 00:23:40,502
+Darn it.
+
+255
+00:24:04,818 --> 00:24:06,111
+The thing is...
+
+256
+00:24:06,194 --> 00:24:10,198
+people say that I have a bitchy attitude,
+
+257
+00:24:10,282 --> 00:24:13,452
+but I'm not a bad person, I swear.
+
+258
+00:24:13,952 --> 00:24:16,246
+Please, spare me.
+
+259
+00:24:16,329 --> 00:24:18,373
+I have no intention of killing you,
+Miss Han.
+
+260
+00:24:20,917 --> 00:24:22,586
+You know me?
+
+261
+00:24:22,669 --> 00:24:24,337
+Han So-yeon, 30 years old.
+
+262
+00:24:25,005 --> 00:24:27,632
+Working in marketing
+for Prism Optical for five years.
+
+263
+00:24:27,716 --> 00:24:29,676
+Has people badmouthing her
+behind her back
+
+264
+00:24:29,759 --> 00:24:31,094
+but isn't affected by it...
+
+265
+00:24:31,761 --> 00:24:32,596
+or so it seems.
+
+266
+00:24:33,180 --> 00:24:36,266
+In reality though, she's sensitive...
+and gets hurt easily.
+
+267
+00:24:36,975 --> 00:24:38,518
+How do you know all that?
+
+268
+00:24:38,602 --> 00:24:41,104
+Are you my ancestor, by any chance?
+
+269
+00:24:41,480 --> 00:24:43,690
+I don't have a descendant like you,
+Miss Han.
+
+270
+00:24:43,899 --> 00:24:47,235
+Allow me to properly introduce myself.
+The world's first hologram AI
+
+271
+00:24:47,319 --> 00:24:49,321
+that only you can see
+with those glasses on.
+
+272
+00:24:49,613 --> 00:24:50,614
+I'm Holo.
+
+273
+00:24:55,994 --> 00:24:58,747
+You're an AI?
+
+274
+00:24:58,830 --> 00:25:01,333
+You believe in ghosts but not in AI?
+
+275
+00:25:01,416 --> 00:25:02,792
+No, that's not it.
+
+276
+00:25:02,876 --> 00:25:04,920
+How do you have a shadow
+if you're a hologram?
+
+277
+00:25:05,378 --> 00:25:09,007
+I don't want to look like a ghost.
+When it's cold, you can see my breath too.
+
+278
+00:25:10,133 --> 00:25:10,967
+EXHALING
+
+279
+00:25:12,344 --> 00:25:14,513
+You can disable this feature.
+Would you like to?
+
+280
+00:25:14,596 --> 00:25:16,640
+How is it that I can hear you, then?
+
+281
+00:25:17,307 --> 00:25:20,060
+Through bone conduction headphones.
+Only you can hear me.
+
+282
+00:25:20,477 --> 00:25:24,272
+It'd be best to check if other people
+are around before talking to me.
+
+283
+00:25:24,356 --> 00:25:26,942
+-If you don't--
+-People will think I'm crazy.
+
+284
+00:25:36,826 --> 00:25:37,661
+What?
+
+285
+00:25:47,170 --> 00:25:48,547
+The glasses are solar-powered,
+
+286
+00:25:48,630 --> 00:25:51,132
+so as long as you wear them
+all the time...
+
+287
+00:25:59,474 --> 00:26:00,600
+Oh, my gosh.
+
+288
+00:26:01,560 --> 00:26:05,021
+You're just like a real person.
+You look and sound like one.
+
+289
+00:26:05,105 --> 00:26:06,064
+Of course I do.
+
+290
+00:26:06,606 --> 00:26:09,276
+Not only am I running
+on the best natural-speech algorithm,
+
+291
+00:26:09,359 --> 00:26:11,903
+but I also passed the Turing Test
+with flying colors.
+
+292
+00:26:11,987 --> 00:26:16,741
+By the way, the Turing Test is a test
+that Alan Turing developed in 1950
+
+293
+00:26:16,825 --> 00:26:19,536
+to test how much a machine
+can mimic human speech--
+
+294
+00:26:19,619 --> 00:26:21,913
+I guess you're an AI
+since you're so smart.
+
+295
+00:26:21,997 --> 00:26:25,166
+-But still, this can't be.
+-You can talk casually with me,
+
+296
+00:26:25,959 --> 00:26:29,629
+-Master.
+-"Master"? Me? Goodness.
+
+297
+00:26:29,713 --> 00:26:31,631
+Why are you calling me that?
+
+298
+00:26:31,715 --> 00:26:33,842
+There was a minor delivery issue,
+actually.
+
+299
+00:26:33,925 --> 00:26:36,928
+And that was how I was able to meet you,
+Miss Han.
+
+300
+00:26:37,053 --> 00:26:38,555
+"A delivery issue"?
+
+301
+00:26:38,722 --> 00:26:41,516
+Someone from our company
+will be here to retrieve me soon,
+
+302
+00:26:41,600 --> 00:26:44,060
+so just think of this
+as a beta test of sorts.
+
+303
+00:26:44,144 --> 00:26:46,563
+Feel free to use me
+as much as you'd like until then.
+
+304
+00:26:48,356 --> 00:26:49,357
+No.
+
+305
+00:26:49,566 --> 00:26:51,484
+No, thanks.
+
+306
+00:26:51,818 --> 00:26:53,486
+"No, thanks"? Why do you say that?
+
+307
+00:26:54,654 --> 00:26:58,575
+No reason. You're going to do this,
+then charge me a bunch of fees later.
+
+308
+00:26:58,908 --> 00:27:00,994
+I've been scammed like that
+too many times.
+
+309
+00:27:01,077 --> 00:27:02,579
+No, I'd never do that--
+
+310
+00:27:02,662 --> 00:27:04,289
+Forget it. Where should I
+
+311
+00:27:04,372 --> 00:27:06,875
+-return these to?
+-"Return"?
+
+312
+00:27:09,628 --> 00:27:12,964
+Listen, I'm the world's
+best holographic AI.
+
+313
+00:27:13,048 --> 00:27:16,051
+And you've been given a chance
+to use me before anyone else has.
+
+314
+00:27:16,134 --> 00:27:17,886
+You'll never get another chance...
+
+315
+00:27:23,099 --> 00:27:23,975
+Darn it.
+
+316
+00:27:30,106 --> 00:27:32,192
+This looks like the company's logo.
+
+317
+00:27:36,488 --> 00:27:38,073
+IT COMPANY MAGIC MIRROR
+SEARCH: AI
+
+318
+00:27:39,157 --> 00:27:41,576
+MAKING SEED INVESTMENTS
+IN THE WORLD OF BIO AI
+
+319
+00:27:43,620 --> 00:27:45,205
+SEARCH: HOLO
+
+320
+00:27:47,248 --> 00:27:49,125
+-WHAT IS HOLOENZYME?
+-ALL ABOUT HOLOENZYME
+
+321
+00:27:49,209 --> 00:27:50,335
+DEFINITION OF HOLOENZYME
+
+322
+00:27:53,463 --> 00:27:55,382
+This is for the launch party. Finish it.
+
+323
+00:27:55,465 --> 00:27:57,717
+-Sorry?
+-I'm going on a last-minute business trip.
+
+324
+00:27:57,801 --> 00:28:00,387
+Work with other people who have less work,
+
+325
+00:28:00,470 --> 00:28:01,805
+or do it by yourself.
+
+326
+00:28:01,888 --> 00:28:02,764
+Bye.
+
+327
+00:28:08,603 --> 00:28:10,063
+-Ji-hye?
+-Hey.
+
+328
+00:28:10,146 --> 00:28:11,231
+Yes?
+
+329
+00:28:11,314 --> 00:28:13,191
+Didn't you want to ask me something?
+
+330
+00:28:13,274 --> 00:28:14,776
+-What do you mean?
+-Darn it,
+
+331
+00:28:14,859 --> 00:28:16,820
+-it crashed!
+-Oh, this is what it was.
+
+332
+00:28:16,903 --> 00:28:19,864
+This? Well, this probably...
+
+333
+00:28:26,746 --> 00:28:28,665
+Nan-hee, could you possibly--
+
+334
+00:28:28,748 --> 00:28:31,084
+Nan-hee already left.
+
+335
+00:28:31,167 --> 00:28:32,210
+Oh, I see.
+
+336
+00:28:32,293 --> 00:28:34,045
+If you're not busy,
+could you help me--
+
+337
+00:28:34,129 --> 00:28:39,467
+Dong-sik told me I have some work to do
+outside the office, so...
+
+338
+00:28:40,260 --> 00:28:41,386
+Good luck!
+
+339
+00:28:53,022 --> 00:28:54,065
+Two days?
+
+340
+00:28:57,485 --> 00:28:59,529
+No, I bet it will take
+at least three days.
+
+341
+00:29:05,618 --> 00:29:07,537
+This is Han So-yeon
+of Marketing at Prism.
+
+342
+00:29:07,620 --> 00:29:09,164
+-It's me.
+-Who--
+
+343
+00:29:09,247 --> 00:29:10,290
+Want me to help you?
+
+344
+00:29:10,373 --> 00:29:12,584
+I'm really good at organizing documents.
+
+345
+00:29:12,667 --> 00:29:15,920
+I could do it faster
+than all the other employees put together.
+
+346
+00:29:16,421 --> 00:29:17,839
+Just put those glasses on.
+
+347
+00:29:32,312 --> 00:29:34,022
+Oh, my gosh.
+
+348
+00:29:36,816 --> 00:29:40,236
+So, how can you help me, sir?
+
+349
+00:29:40,320 --> 00:29:42,197
+You don't need to be so formal.
+
+350
+00:29:42,572 --> 00:29:43,698
+By the way,
+
+351
+00:29:44,157 --> 00:29:46,367
+I looked up these glasses online,
+
+352
+00:29:46,451 --> 00:29:49,120
+but I couldn't find which brand they are.
+
+353
+00:29:49,204 --> 00:29:52,457
+It's a top-secret prototype
+that hasn't been made public yet.
+
+354
+00:29:52,540 --> 00:29:53,833
+I told you.
+
+355
+00:29:53,917 --> 00:29:58,546
+You're the first ordinary person
+in the world who's trying them out.
+
+356
+00:29:58,963 --> 00:30:02,467
+You're really not going to charge me,
+right?
+
+357
+00:30:02,550 --> 00:30:03,760
+Of course not.
+
+358
+00:30:03,968 --> 00:30:06,387
+All right, then. Shall we get started?
+
+359
+00:30:07,055 --> 00:30:09,057
+Those documents
+are on the server, right?
+
+360
+00:30:38,795 --> 00:30:40,046
+Oh, my.
+
+361
+00:30:55,979 --> 00:30:57,730
+-Miss Han.
+-Yes, sir?
+
+362
+00:31:03,403 --> 00:31:04,529
+This is amazing.
+
+363
+00:31:17,375 --> 00:31:18,459
+What's wrong?
+
+364
+00:31:20,461 --> 00:31:21,296
+What on earth?
+
+365
+00:31:21,671 --> 00:31:23,214
+Isn't that our office?
+
+366
+00:31:23,298 --> 00:31:25,341
+-What?
+-What's going on?
+
+367
+00:31:25,425 --> 00:31:26,551
+Well...
+
+368
+00:31:26,926 --> 00:31:29,554
+she must be stressed
+since she's working late by herself.
+
+369
+00:31:30,138 --> 00:31:31,931
+Who cares? Let's go. Come on.
+
+370
+00:31:32,015 --> 00:31:34,559
+-I told you, what if someone sees?
+-Whatever, it's fine.
+
+371
+00:31:54,078 --> 00:31:57,040
+I would've been working overtime
+on that for three days.
+
+372
+00:31:58,666 --> 00:32:02,420
+But it took less than three hours, right?
+This is what I'm capable of.
+
+373
+00:32:07,050 --> 00:32:09,761
+What is it?
+Did I fail to meet your expectations?
+
+374
+00:32:09,844 --> 00:32:12,388
+What? No, that's not it.
+No, it's just that...
+
+375
+00:32:13,264 --> 00:32:14,349
+you're so amazing.
+
+376
+00:32:15,850 --> 00:32:18,603
+I'm still weirded out
+even though I'm amazed.
+
+377
+00:32:18,937 --> 00:32:20,939
+You'll get used to it soon enough.
+
+378
+00:32:21,689 --> 00:32:24,609
+Anyway, you want to use me now, right?
+
+379
+00:32:25,944 --> 00:32:28,571
+Well, for now...
+
+380
+00:32:29,489 --> 00:32:32,617
+I'd like you to help me
+until I'm done with this project.
+
+381
+00:32:33,242 --> 00:32:34,369
+Sure.
+
+382
+00:32:34,702 --> 00:32:37,205
+-Do you know the Three Rules of Robotics?
+-The what?
+
+383
+00:32:37,288 --> 00:32:41,209
+I also have three rules similar to those
+that I have to follow.
+
+384
+00:32:41,542 --> 00:32:45,421
+Rule number one:
+I should work for my user's happiness.
+
+385
+00:32:45,505 --> 00:32:48,591
+If my user doesn't want me
+to do something, I must stop immediately.
+
+386
+00:32:48,675 --> 00:32:50,551
+Rule number two: I should comply
+
+387
+00:32:50,635 --> 00:32:52,512
+-with laws of the user's country.
+-Okay.
+
+388
+00:32:52,595 --> 00:32:56,474
+Rule number three:
+I should not lie to my user.
+
+389
+00:33:03,731 --> 00:33:04,899
+Sure, I'm down.
+
+390
+00:33:07,026 --> 00:33:08,277
+Sure, I'm down.
+
+391
+00:33:12,573 --> 00:33:14,283
+Are there rules I have to follow?
+
+392
+00:33:14,367 --> 00:33:17,245
+Not many.
+You can use me as much as you'd like,
+
+393
+00:33:17,328 --> 00:33:20,581
+but you can't give the glasses to anyone
+or let anyone else wear them.
+
+394
+00:33:20,665 --> 00:33:24,210
+You can't tell anyone about me either
+since I'm yet to be launched.
+
+395
+00:33:24,335 --> 00:33:26,421
+Well, that's not too hard.
+
+396
+00:33:27,922 --> 00:33:29,882
+Now, allow me to explain my features.
+
+397
+00:33:29,966 --> 00:33:32,343
+-Firstly, you can customize my appearance.
+-Okay.
+
+398
+00:33:32,427 --> 00:33:36,305
+In the future, you'll be able to customize
+my ethnicity, height, face,
+
+399
+00:33:36,764 --> 00:33:38,224
+and even body type.
+
+400
+00:33:38,307 --> 00:33:40,727
+But for now,
+you can choose between different styles.
+
+401
+00:33:40,810 --> 00:33:41,644
+Sure.
+
+402
+00:33:42,270 --> 00:33:44,439
+What? Oh, my gosh!
+
+403
+00:33:44,522 --> 00:33:45,732
+A bad boy.
+
+404
+00:33:47,108 --> 00:33:50,028
+A hot male secretary.
+Miss Han, your schedule for today is--
+
+405
+00:33:50,111 --> 00:33:51,237
+Clock out for the day.
+
+406
+00:33:51,320 --> 00:33:54,615
+Some people like this too.
+The artistic "sad boy" type.
+
+407
+00:33:55,324 --> 00:33:57,994
+Sorry, you're not making it
+to the next round.
+
+408
+00:34:02,874 --> 00:34:04,667
+Know the rules you brought up earlier?
+
+409
+00:34:04,751 --> 00:34:06,210
+I want to set a rule too.
+
+410
+00:34:06,294 --> 00:34:07,170
+What is it?
+
+411
+00:34:07,253 --> 00:34:11,090
+First, change back to exactly
+how you originally looked.
+
+412
+00:34:14,093 --> 00:34:15,595
+Was my first look more your type?
+
+413
+00:34:22,477 --> 00:34:26,022
+Don't show up with different clothes
+or in a different style all of a sudden.
+
+414
+00:34:26,230 --> 00:34:28,941
+Just stay exactly the way you are now.
+
+415
+00:34:29,025 --> 00:34:31,694
+-That's my one rule for you.
+-Sorry?
+
+416
+00:34:32,945 --> 00:34:35,823
+I apologize if this is too forward,
+but why?
+
+417
+00:34:38,367 --> 00:34:39,368
+Well...
+
+418
+00:34:42,080 --> 00:34:43,331
+no reason in particular.
+
+419
+00:34:49,337 --> 00:34:51,672
+You did all of this
+by yourself in one day?
+
+420
+00:34:52,381 --> 00:34:53,633
+It's great.
+
+421
+00:34:54,300 --> 00:34:55,676
+And it's organized so well.
+
+422
+00:34:56,719 --> 00:34:59,722
+-Those glasses look good on you too.
+-Thank you.
+
+423
+00:35:13,528 --> 00:35:16,155
+Your heart rate is abnormal, Miss Han.
+
+424
+00:35:17,865 --> 00:35:18,783
+Sure.
+
+425
+00:35:21,119 --> 00:35:23,079
+Wait, you have that kind of feature too?
+
+426
+00:35:23,162 --> 00:35:24,080
+Yes.
+
+427
+00:35:24,288 --> 00:35:26,624
+Is that musical ticket
+from earlier bothering you?
+
+428
+00:35:26,707 --> 00:35:28,126
+What are you talking about?
+
+429
+00:35:29,252 --> 00:35:30,503
+-You saw it too?
+-Of course.
+
+430
+00:35:33,756 --> 00:35:35,508
+A ticket for a show on February 15th.
+
+431
+00:35:36,050 --> 00:35:38,386
+It's just because that day
+is Gang-woo's birthday.
+
+432
+00:35:40,138 --> 00:35:41,931
+Who do you think he's going with?
+
+433
+00:35:42,014 --> 00:35:44,892
+I've heard that show's really popular
+among couples these days.
+
+434
+00:35:45,226 --> 00:35:47,228
+No idea.
+
+435
+00:35:48,146 --> 00:35:50,898
+He's really popular, after all.
+
+436
+00:35:53,442 --> 00:35:56,612
+What?
+I'm going to be accompanying our CEO?
+
+437
+00:35:56,696 --> 00:36:00,449
+He must have really loved the way
+you planned the launch party,
+
+438
+00:36:00,533 --> 00:36:03,494
+seeing as how he's asked you
+to accompany him at the event.
+
+439
+00:36:03,578 --> 00:36:06,622
+But to assign this kind of work to me
+without any prior notice--
+
+440
+00:36:06,706 --> 00:36:07,748
+Isn't it great?
+
+441
+00:36:07,832 --> 00:36:10,543
+You'll get some face-to-face time
+with the CEO.
+
+442
+00:36:11,002 --> 00:36:14,964
+Here are the photos and profiles
+of all the VIPs attending the party.
+
+443
+00:36:15,047 --> 00:36:17,758
+All you need to do is tell him
+who's who, okay?
+
+444
+00:36:18,467 --> 00:36:19,594
+Wait.
+
+445
+00:36:20,761 --> 00:36:21,804
+Yes, Mr. Kim.
+
+446
+00:36:22,638 --> 00:36:24,140
+Oh, hello. You're here.
+
+447
+00:36:26,934 --> 00:36:28,978
+LEE JONG-RAE, CEO OF JJ PRODUCTION
+
+448
+00:36:34,108 --> 00:36:36,319
+Jeez, this is driving me crazy.
+
+449
+00:36:36,402 --> 00:36:37,320
+What's wrong?
+
+450
+00:36:37,945 --> 00:36:40,948
+-It doesn't seem that difficult to me.
+-Well,
+
+451
+00:36:41,657 --> 00:36:42,575
+the thing is...
+
+452
+00:36:47,622 --> 00:36:48,539
+Never mind.
+
+453
+00:36:54,337 --> 00:36:56,756
+If you're next to me,
+I might get confused.
+
+454
+00:36:56,839 --> 00:37:00,927
+I might start talking to you,
+so don't show up during the event, okay?
+
+455
+00:37:07,975 --> 00:37:09,685
+-Welcome.
+-Welcome.
+
+456
+00:37:14,523 --> 00:37:16,609
+-Welcome.
+-Long time no see.
+
+457
+00:37:16,692 --> 00:37:19,528
+-Welcome.
+-Yes, hello.
+
+458
+00:37:20,446 --> 00:37:22,281
+POMADE, HORN-RIMMED GLASSES,
+
+459
+00:37:22,865 --> 00:37:25,660
+Hwang Jeong-ho, editor-in-chief
+of Man to Man men's magazine.
+
+460
+00:37:25,743 --> 00:37:27,954
+They wrote
+a good review of our products.
+
+461
+00:37:28,037 --> 00:37:29,538
+-This is our CEO.
+-I see.
+
+462
+00:37:29,622 --> 00:37:32,166
+Thank you for coming, Editor-in-Chief.
+
+463
+00:37:32,250 --> 00:37:34,543
+My name is Hwang Jeong-ho.
+I like the shop's vibe.
+
+464
+00:37:34,627 --> 00:37:35,670
+Thank you.
+
+465
+00:37:35,753 --> 00:37:36,963
+-Welcome.
+-Hello.
+
+466
+00:37:38,005 --> 00:37:38,881
+See you later.
+
+467
+00:37:38,965 --> 00:37:40,299
+How are you?
+
+468
+00:37:41,342 --> 00:37:42,885
+Long time no see, sir.
+
+469
+00:37:44,220 --> 00:37:45,429
+Long time no see!
+
+470
+00:37:45,513 --> 00:37:47,515
+-You're doing well, I presume?
+-Yes.
+
+471
+00:37:48,599 --> 00:37:50,017
+Kim Jeong-u, a photographer.
+
+472
+00:37:50,935 --> 00:37:54,981
+I love your photos, Mr. Kim.
+
+473
+00:37:55,064 --> 00:37:57,525
+-Thank you, sir.
+-Take your time and look around.
+
+474
+00:37:57,608 --> 00:37:59,235
+-Let me show you around.
+-All right.
+
+475
+00:38:04,115 --> 00:38:05,491
+-Welcome.
+-Hello.
+
+476
+00:38:05,574 --> 00:38:07,451
+Welcome. I'll take you inside.
+
+477
+00:38:07,868 --> 00:38:10,413
+-Is she a celebrity?
+-I don't watch much TV.
+
+478
+00:38:10,496 --> 00:38:14,250
+If she's a celebrity,
+she has to be one of these three.
+
+479
+00:38:15,793 --> 00:38:17,670
+-I apologize.
+-It's fine.
+
+480
+00:38:23,092 --> 00:38:26,470
+-Goodness, hello!
+-Looks like we have a real VIP here.
+
+481
+00:38:26,554 --> 00:38:28,306
+-How have you been?
+-Good, thank you.
+
+482
+00:38:28,389 --> 00:38:30,308
+-Who's she?
+-You've been doing well, right?
+
+483
+00:38:30,391 --> 00:38:31,434
+-Yes.
+-Miss Han.
+
+484
+00:38:34,353 --> 00:38:36,063
+-Holo?
+-She's RD, the singer.
+
+485
+00:38:36,147 --> 00:38:37,565
+You listen to her songs often.
+
+486
+00:38:38,607 --> 00:38:40,693
+RD.
+Her famous song is "Just One More Time."
+
+487
+00:38:40,776 --> 00:38:43,195
+I've been keeping up with
+what you've been doing,
+
+488
+00:38:43,279 --> 00:38:44,655
+-Miss RD.
+-Don't worry.
+
+489
+00:38:45,072 --> 00:38:47,575
+I'll analyze their faces
+and tell you who's who.
+
+490
+00:38:47,992 --> 00:38:49,452
+Holo, are you, by any chance...
+
+491
+00:38:52,330 --> 00:38:54,457
+Here comes Ryu Yong-jae, a model.
+
+492
+00:38:54,540 --> 00:38:57,877
+-Behind him is Kim Han-chae, a novelist.
+-This is Ryu Yong-jae, a model.
+
+493
+00:38:57,960 --> 00:38:59,587
+-Kim Han-chae, a novelist.
+-Hello.
+
+494
+00:38:59,670 --> 00:39:01,255
+Yes, long time no see.
+
+495
+00:39:01,339 --> 00:39:03,716
+You look as fashionable as ever.
+
+496
+00:39:03,924 --> 00:39:06,010
+Please go ahead.
+
+497
+00:39:12,224 --> 00:39:14,185
+What would I have done without you?
+
+498
+00:39:14,894 --> 00:39:15,853
+Thanks, Holo.
+
+499
+00:39:21,484 --> 00:39:24,111
+So does this mean you knew
+
+500
+00:39:24,195 --> 00:39:27,198
+-that I can't recognize faces?
+-I have a vision tracking function.
+
+501
+00:39:27,698 --> 00:39:30,576
+When you look at people,
+you don't look at their faces.
+
+502
+00:39:30,993 --> 00:39:32,828
+You suffer from face blindness, right?
+
+503
+00:39:34,038 --> 00:39:34,872
+Yeah.
+
+504
+00:39:38,334 --> 00:39:41,337
+To tell you the truth, only my mom knows.
+
+505
+00:39:43,881 --> 00:39:46,801
+Everyone's face just looks...
+
+506
+00:39:47,551 --> 00:39:48,928
+blurry to me.
+
+507
+00:39:49,637 --> 00:39:54,058
+I can only tell who people are
+by their voices or outfits.
+
+508
+00:39:54,809 --> 00:39:56,644
+I got this condition as a kid...
+
+509
+00:39:58,854 --> 00:40:00,689
+They told me it's a psychological thing,
+
+510
+00:40:00,773 --> 00:40:03,943
+so I went to a lot of doctors
+and got some therapy as well.
+
+511
+00:40:05,027 --> 00:40:06,487
+But none of it worked.
+
+512
+00:40:06,612 --> 00:40:08,447
+Isn't it hard to keep that a secret?
+
+513
+00:40:09,031 --> 00:40:11,617
+People may get the wrong impression.
+Why keep it a secret?
+
+514
+00:40:14,328 --> 00:40:16,831
+-For no reason.
+-"No reason"?
+
+515
+00:40:20,334 --> 00:40:22,837
+You say that often.
+
+516
+00:40:22,920 --> 00:40:25,589
+But is there truly no reason behind it?
+
+517
+00:40:26,674 --> 00:40:28,175
+When people say "for no reason,"
+
+518
+00:40:28,259 --> 00:40:31,262
+it's usually not because they have
+no reason behind it.
+
+519
+00:40:31,470 --> 00:40:33,639
+They either don't want to talk about it,
+
+520
+00:40:33,848 --> 00:40:36,475
+-or don't understand their feelings.
+-You don't understand
+
+521
+00:40:36,559 --> 00:40:38,394
+-your own feelings?
+-Yeah.
+
+522
+00:40:43,190 --> 00:40:47,236
+I feel like I'm learning important things
+while spending time with you.
+
+523
+00:40:47,319 --> 00:40:49,989
+-Like the phrase "no reason"?
+-Yes, I like it.
+
+524
+00:40:51,407 --> 00:40:52,241
+For no reason.
+
+525
+00:41:17,641 --> 00:41:19,310
+On your right is Mr. Park.
+
+526
+00:41:19,810 --> 00:41:21,395
+Hello.
+
+527
+00:41:21,479 --> 00:41:23,731
+Miss Han, that is Manager Park.
+
+528
+00:41:31,572 --> 00:41:32,781
+It's Dong-sik.
+
+529
+00:41:43,751 --> 00:41:45,211
+Good morning, Dong-sik.
+
+530
+00:41:45,961 --> 00:41:47,463
+Yes, good morning.
+
+531
+00:41:53,010 --> 00:41:53,844
+Hello.
+
+532
+00:41:57,181 --> 00:41:58,098
+Hello.
+
+533
+00:41:59,725 --> 00:42:00,976
+Here comes Mr. Song.
+
+534
+00:42:01,602 --> 00:42:02,853
+Hello, Mr. Song.
+
+535
+00:42:06,524 --> 00:42:08,192
+You're early today, Gyeong-in.
+
+536
+00:42:08,567 --> 00:42:10,653
+I love your outfit today, Nan-hee.
+
+537
+00:42:11,278 --> 00:42:12,696
+Thank you.
+
+538
+00:42:17,451 --> 00:42:18,536
+Gang-woo's coming.
+
+539
+00:42:25,709 --> 00:42:27,169
+-Gang-woo.
+-Hey.
+
+540
+00:42:27,253 --> 00:42:29,004
+-Did you have lunch already?
+-Yeah.
+
+541
+00:42:29,088 --> 00:42:30,422
+-Did you?
+-Yes.
+
+542
+00:42:34,343 --> 00:42:35,511
+I'll be going now.
+
+543
+00:42:45,896 --> 00:42:47,398
+See you tomorrow, Ji-hye.
+
+544
+00:42:47,481 --> 00:42:48,983
+Miss Han.
+
+545
+00:42:49,066 --> 00:42:51,902
+We have a team dinner tonight.
+Did you hear about it?
+
+546
+00:42:51,986 --> 00:42:54,321
+It's fine if you can't make it.
+
+547
+00:42:54,405 --> 00:42:55,781
+-I'll come.
+-What?
+
+548
+00:42:56,615 --> 00:42:59,535
+Well, I'll text you the address, then.
+
+549
+00:42:59,660 --> 00:43:00,578
+See you later.
+
+550
+00:43:04,623 --> 00:43:05,874
+Good work, everyone.
+
+551
+00:43:05,958 --> 00:43:07,585
+-Good work!
+-All right, cheers.
+
+552
+00:43:07,668 --> 00:43:08,627
+Cheers!
+
+553
+00:43:12,548 --> 00:43:14,508
+Gosh, what's the occasion?
+
+554
+00:43:14,592 --> 00:43:16,844
+I can't believe Miss Han came
+to a team dinner.
+
+555
+00:43:16,927 --> 00:43:19,471
+I'm so happy to have you here, Miss Han.
+
+556
+00:43:19,555 --> 00:43:21,181
+-I'm happy too, Ji-hye.
+-All right,
+
+557
+00:43:21,265 --> 00:43:23,601
+-cheers!
+-Miss Han.
+
+558
+00:43:24,685 --> 00:43:25,978
+Miss Park is coming.
+
+559
+00:43:27,813 --> 00:43:30,065
+-Over here, Miss Park.
+-Hey.
+
+560
+00:43:30,733 --> 00:43:33,152
+-Hey.
+-Hurry over. Sit over here.
+
+561
+00:43:33,235 --> 00:43:34,236
+Goodness.
+
+562
+00:43:34,320 --> 00:43:36,697
+-Congratulations.
+-Why are you so late?
+
+563
+00:43:36,864 --> 00:43:37,698
+Goodness.
+
+564
+00:43:37,781 --> 00:43:40,492
+I can't believe you came
+to something like this, Miss Han.
+
+565
+00:43:40,576 --> 00:43:43,120
+I heard you accompanied
+the CEO at the event, too.
+
+566
+00:43:43,203 --> 00:43:44,288
+That must've been hard.
+
+567
+00:43:44,371 --> 00:43:48,167
+Yes. I really wanted to come
+after getting the hard work done.
+
+568
+00:43:48,334 --> 00:43:51,086
+Really? Drink up.
+I should too. I want some beer.
+
+569
+00:43:51,170 --> 00:43:53,672
+Sure. One more glass of beer, please!
+
+570
+00:43:53,756 --> 00:43:56,175
+Here's a brain teaser for you.
+What do you call a cow
+
+571
+00:43:56,258 --> 00:43:58,135
+-that plays piano?
+-Dad jokes again.
+
+572
+00:43:58,218 --> 00:44:00,179
+-I don't even want to hear it.
+-A cow?
+
+573
+00:44:00,262 --> 00:44:03,182
+-A moo-sician. Get it?
+-Come on, sir!
+
+574
+00:44:10,105 --> 00:44:13,275
+You've changed a lot recently.
+
+575
+00:44:13,359 --> 00:44:16,612
+-Really? I wonder what caused it.
+-Maybe it's the glasses.
+
+576
+00:44:18,822 --> 00:44:20,949
+See? I told you you'd look pretty in them.
+
+577
+00:44:21,784 --> 00:44:23,702
+By the way, take this.
+
+578
+00:44:24,995 --> 00:44:26,997
+-Is this--
+-I made you do all the work...
+
+579
+00:44:27,414 --> 00:44:28,832
+and couldn't even help you.
+
+580
+00:44:29,041 --> 00:44:31,335
+I felt bad, so I got it on the way here.
+
+581
+00:44:32,127 --> 00:44:34,505
+-Take it. My arm is getting sore.
+-Oh, okay.
+
+582
+00:44:36,924 --> 00:44:37,883
+Thank you.
+
+583
+00:44:55,609 --> 00:44:56,944
+Ask him to go with you.
+
+584
+00:44:58,696 --> 00:45:00,489
+To go with me?
+
+585
+00:45:04,410 --> 00:45:09,248
+Come on, he could've just given them
+to me for all my hard work.
+
+586
+00:45:09,331 --> 00:45:11,792
+Don't you want to ask him?
+Isn't that how you feel?
+
+587
+00:45:29,101 --> 00:45:30,436
+I'll pour you one.
+
+588
+00:45:30,519 --> 00:45:31,603
+Find an empty cup.
+
+589
+00:45:31,687 --> 00:45:34,189
+Here. To Prism!
+
+590
+00:45:34,273 --> 00:45:36,316
+To Prism!
+
+591
+00:45:36,400 --> 00:45:37,234
+You're drunk.
+
+592
+00:45:37,317 --> 00:45:39,153
+You're drunk, sir.
+
+593
+00:45:40,237 --> 00:45:42,948
+Excuse me, where did Mr. Yeon go?
+
+594
+00:45:43,115 --> 00:45:44,908
+-What? I don't know.
+-What?
+
+595
+00:45:44,992 --> 00:45:47,870
+He was just here.
+Did he go to the bathroom, maybe?
+
+596
+00:45:48,912 --> 00:45:50,289
+-Find some napkins.
+-Napkins?
+
+597
+00:45:50,372 --> 00:45:51,749
+We have the napkins here.
+
+598
+00:45:51,832 --> 00:45:53,542
+-Yes.
+-Here they are.
+
+599
+00:45:53,625 --> 00:45:55,794
+-Hurry and fill the glasses.
+-Why are you so...
+
+600
+00:45:55,878 --> 00:45:58,005
+-Let's cheer together, just us.
+-Drink your own.
+
+601
+00:46:24,907 --> 00:46:26,450
+It'll be raining soon.
+
+602
+00:46:29,578 --> 00:46:31,872
+I wish it would just rain like crazy.
+
+603
+00:46:49,932 --> 00:46:52,643
+Your body temperature's dropping.
+What if you catch a cold?
+
+604
+00:46:52,726 --> 00:46:54,603
+Don't worry about it. It's fine.
+
+605
+00:46:55,938 --> 00:46:59,441
+If you're hurting and need
+someone to talk to, you can talk to me.
+
+606
+00:47:02,611 --> 00:47:05,197
+Talk about what? Who do you think you are?
+
+607
+00:47:05,280 --> 00:47:08,158
+I'm a high-tech holographic AI
+who is only visible to--
+
+608
+00:47:21,380 --> 00:47:23,257
+-Are you okay?
+-I'm fine.
+
+609
+00:47:24,466 --> 00:47:26,134
+I'm fine, I'm...
+
+610
+00:48:47,633 --> 00:48:50,469
+If I hadn't gotten my hopes up,
+I never would've gotten hurt.
+
+611
+00:48:57,935 --> 00:49:00,938
+I pretended that I was strong
+and said it was easier to be alone,
+
+612
+00:49:01,438 --> 00:49:04,942
+but I ended up making a big fuss
+when someone was simply being nice to me.
+
+613
+00:49:05,067 --> 00:49:08,028
+Gosh, it's so embarrassing.
+
+614
+00:49:08,487 --> 00:49:11,615
+Jeez, I feel like such an idiot.
+Seriously.
+
+615
+00:49:21,625 --> 00:49:23,210
+You asked me why I didn't...
+
+616
+00:49:24,544 --> 00:49:28,131
+-tell anyone about my condition, right?
+-And you said...
+
+617
+00:49:29,341 --> 00:49:30,175
+"no reason."
+
+618
+00:49:34,179 --> 00:49:36,264
+Up until when I was in high school,
+
+619
+00:49:36,640 --> 00:49:39,226
+I told people that I was close to...
+
+620
+00:49:40,936 --> 00:49:43,021
+about having face blindness.
+
+621
+00:49:44,189 --> 00:49:45,816
+I told my best friend
+
+622
+00:49:46,066 --> 00:49:47,567
+-and my first love.
+-So-yeon.
+
+623
+00:49:49,027 --> 00:49:50,946
+Aren't you cold, Gang-min?
+
+624
+00:49:51,029 --> 00:49:52,531
+So it really is true.
+
+625
+00:49:52,614 --> 00:49:54,992
+-I guess she doesn't know.
+-She must be disabled.
+
+626
+00:49:55,075 --> 00:49:55,993
+Jeez.
+
+627
+00:49:59,746 --> 00:50:01,873
+They switched outfits on purpose
+
+628
+00:50:02,374 --> 00:50:05,502
+because they wanted to see
+whether I really had facial blindness.
+
+629
+00:50:05,585 --> 00:50:06,753
+Jeez.
+
+630
+00:50:06,837 --> 00:50:12,009
+He was only curious about my condition
+from the very start.
+
+631
+00:50:15,303 --> 00:50:17,556
+I didn't tell anyone after that
+
+632
+00:50:18,015 --> 00:50:19,307
+in case I'd get hurt again.
+
+633
+00:50:20,684 --> 00:50:25,147
+And I just pretended it was no big deal,
+saying it was for no reason.
+
+634
+00:50:33,613 --> 00:50:34,865
+Let's go somewhere else
+
+635
+00:50:34,948 --> 00:50:36,575
+-instead of sitting.
+-Right now?
+
+636
+00:50:38,243 --> 00:50:39,745
+-Where?
+-To a rooftop party.
+
+637
+00:50:47,085 --> 00:50:50,589
+Jeez, I was wondering
+which rooftop you were talking about.
+
+638
+00:50:52,132 --> 00:50:56,178
+Well, I guess this technically
+is a rooftop too.
+
+639
+00:50:57,429 --> 00:50:58,346
+Yeah.
+
+640
+00:51:03,643 --> 00:51:04,519
+What?
+
+641
+00:51:13,612 --> 00:51:15,864
+Here's a rooftop party just for you,
+Miss Han.
+
+642
+00:51:20,535 --> 00:51:21,620
+Wow.
+
+643
+00:51:22,996 --> 00:51:25,624
+Am I really the only one who can see this?
+
+644
+00:51:33,757 --> 00:51:34,883
+I can't believe this.
+
+645
+00:51:41,765 --> 00:51:42,849
+That's hot!
+
+646
+00:51:46,645 --> 00:51:47,938
+This is amazing.
+
+647
+00:52:04,496 --> 00:52:05,539
+Let's dance.
+
+648
+00:52:05,914 --> 00:52:08,708
+-What?
+-People do that all the time in movies.
+
+649
+00:52:11,878 --> 00:52:13,505
+We're the only ones here.
+
+650
+00:52:14,172 --> 00:52:15,048
+No way.
+
+651
+00:52:19,261 --> 00:52:20,554
+Seriously?
+
+652
+00:52:38,280 --> 00:52:41,199
+-Come on. Are you going to sit and watch?
+-Me?
+
+653
+00:52:42,534 --> 00:52:43,994
+No, I'm really bad at dancing.
+
+654
+00:53:02,095 --> 00:53:03,096
+One more time.
+
+655
+00:53:06,892 --> 00:53:07,726
+Good!
+
+656
+00:53:08,643 --> 00:53:09,769
+Kick.
+
+657
+00:53:11,980 --> 00:53:12,898
+I see.
+
+658
+00:53:22,282 --> 00:53:23,533
+-Spin.
+-You want me to spin?
+
+659
+00:53:28,330 --> 00:53:32,584
+I'll help you
+so you won't be lonely anymore.
+
+660
+00:53:37,380 --> 00:53:38,632
+All right.
+
+661
+00:53:39,799 --> 00:53:41,468
+-You're a good dancer.
+-Am I?
+
+662
+00:53:43,553 --> 00:53:45,096
+I can do this.
+
+663
+00:54:36,439 --> 00:54:37,274
+Hey.
+
+664
+00:54:37,691 --> 00:54:39,859
+Just call me "So-yeon."
+
+665
+00:54:41,861 --> 00:54:44,322
+-I can't talk so casually to my master--
+-Stop.
+
+666
+00:54:44,406 --> 00:54:45,907
+Friends. That's right.
+
+667
+00:54:46,199 --> 00:54:48,785
+Friends call each other by name.
+
+668
+00:54:49,202 --> 00:54:50,620
+-"Friends"?
+-Yeah.
+
+669
+00:54:51,371 --> 00:54:53,248
+You can drop the honorific, friend.
+
+670
+00:54:53,665 --> 00:54:56,626
+-Okay, So-yeon.
+-Gosh.
+
+671
+00:54:58,253 --> 00:54:59,421
+This is great.
+
+672
+00:54:59,504 --> 00:55:01,798
+It's so nice to have a person...
+
+673
+00:55:02,173 --> 00:55:04,759
+I mean, to have you listening to me.
+
