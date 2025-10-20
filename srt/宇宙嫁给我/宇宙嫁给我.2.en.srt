@@ -1,14 +1,4881 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>503 Backend fetch failed</title>
-  </head>
-  <body>
-    <h1>Error 503 Backend fetch failed</h1>
-    <p>Backend fetch failed</p>
-    <h3>Guru Meditation:</h3>
-    <p>XID: 4996450730</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+1
+00:00:00,104 --> 00:00:04,791
+WOULD YOU MARRY ME?
+
+2
+00:00:04,815 --> 00:00:06,786
+PRODUCTION SPONSORS
+MINISTRY OF CULTURE, SPORTS AND TOURISM AND KOCCA
+
+3
+00:00:06,810 --> 00:00:08,454
+ALL CHARACTERS, PLACES,
+ORGANIZATIONS, ETC. ARE FICTIONAL
+
+4
+00:00:08,478 --> 00:00:10,080
+CHILD ACTORS WERE FILMED
+WITH GUARDIANS PRESENT
+
+5
+00:00:10,104 --> 00:00:11,791
+ANIMALS WERE FILMED
+UNDER EXPERT SUPERVISION AND WELFARE RULES
+
+6
+00:00:26,678 --> 00:00:29,013
+- <i>No.</i>
+- <i>Are you trying to make me mad, son?</i>
+
+7
+00:00:29,097 --> 00:00:30,098
+<i>- Honey!</i>
+- <i>Will you stop?</i>
+
+8
+00:00:30,181 --> 00:00:31,599
+<i>I told you it's my teacher's.</i>
+
+9
+00:01:34,579 --> 00:01:35,705
+Please help me.
+
+10
+00:01:51,679 --> 00:01:53,181
+<i>This is Kim Wooju.</i>
+
+11
+00:01:53,264 --> 00:01:54,974
+<i>I was wondering if you went to the doctor.</i>
+
+12
+00:01:56,601 --> 00:01:59,312
+Maybe I should ask him.
+
+13
+00:01:59,896 --> 00:02:01,731
+He has the same name.
+
+14
+00:02:05,443 --> 00:02:08,071
+Jingyeong, can you help me?
+
+15
+00:02:08,696 --> 00:02:10,698
+Someone needs medical attention.
+
+16
+00:02:16,079 --> 00:02:17,747
+BUS STOP
+
+17
+00:02:21,334 --> 00:02:22,961
+Which way are you headed?
+
+18
+00:02:23,670 --> 00:02:24,921
+Right.
+
+19
+00:02:25,630 --> 00:02:27,799
+He didn't seem like a weirdo.
+
+20
+00:02:31,594 --> 00:02:34,973
+I only need him briefly
+at the ceremony.
+
+21
+00:02:35,061 --> 00:02:36,229
+KIM WOOJU
+
+22
+00:02:39,899 --> 00:02:40,900
+CALLING
+
+23
+00:02:54,122 --> 00:02:55,707
+CACTUS
+
+24
+00:03:01,546 --> 00:03:04,465
+WOULD YOU MARRY ME?
+
+25
+00:03:04,549 --> 00:03:06,134
+EPISODE 2
+
+26
+00:03:06,217 --> 00:03:08,803
+What did the doctor say?
+Did you get a doctor's note?
+
+27
+00:03:09,637 --> 00:03:10,763
+Oh, the doctor.
+
+28
+00:03:12,974 --> 00:03:14,892
+I was too busy to see one.
+
+29
+00:03:23,109 --> 00:03:24,485
+Are you perhaps married?
+
+30
+00:03:26,070 --> 00:03:27,071
+I'm sorry?
+
+31
+00:03:28,031 --> 00:03:30,992
+Are you a married man?
+
+32
+00:03:31,951 --> 00:03:32,952
+No, why?
+
+33
+00:03:33,453 --> 00:03:35,580
+That's a relief.
+
+34
+00:03:35,663 --> 00:03:36,664
+What is?
+
+35
+00:03:37,540 --> 00:03:40,043
+I gave it a lot of thought.
+
+36
+00:03:40,668 --> 00:03:45,298
+I know it's rash to say this
+when we've only met once,
+
+37
+00:03:45,965 --> 00:03:47,759
+but you're the only one I can turn to.
+
+38
+00:03:51,554 --> 00:03:53,222
+Could you...
+
+39
+00:03:55,224 --> 00:03:56,893
+be my husband?
+
+40
+00:04:06,903 --> 00:04:08,154
+Your... your husband?
+
+41
+00:04:08,237 --> 00:04:11,449
+Of course, I don't mean it for real.
+
+42
+00:04:12,867 --> 00:04:14,827
+You'd be my husband for one day.
+
+43
+00:04:14,911 --> 00:04:19,207
+I was wondering
+if you could play my husband.
+
+44
+00:04:19,499 --> 00:04:21,542
+Is this a joke?
+
+45
+00:04:22,043 --> 00:04:24,253
+I thought this was
+about your medical bills.
+
+46
+00:04:24,754 --> 00:04:25,963
+No, wait!
+
+47
+00:04:27,882 --> 00:04:28,925
+Sorry about that.
+
+48
+00:04:29,634 --> 00:04:32,386
+This isn't a joke,
+and I haven't lost my mind.
+
+49
+00:04:33,638 --> 00:04:35,765
+It's really urgent, that's all.
+
+50
+00:04:36,307 --> 00:04:40,019
+It'd take at least four days
+to tell you my whole story.
+
+51
+00:04:40,520 --> 00:04:43,397
+But my life literally depends on this.
+
+52
+00:04:47,276 --> 00:04:49,278
+I'll hear you out, then.
+
+53
+00:04:49,987 --> 00:04:51,364
+Oh, thanks.
+
+54
+00:04:52,532 --> 00:04:56,202
+I need a husband for a particular reason.
+
+55
+00:04:56,285 --> 00:04:58,121
+He has to come with me somewhere.
+
+56
+00:04:58,204 --> 00:04:59,831
+- Where?
+- The department store.
+
+57
+00:04:59,914 --> 00:05:02,625
+- To shop?
+- It's not that.
+
+58
+00:05:03,668 --> 00:05:04,710
+Uh...
+
+59
+00:05:06,546 --> 00:05:08,172
+<i>Should I tell him about the prize?</i>
+
+60
+00:05:09,340 --> 00:05:11,342
+<i>I don't want word to get out.</i>
+
+61
+00:05:14,804 --> 00:05:16,139
+I'll tell you the details
+
+62
+00:05:17,473 --> 00:05:19,517
+once you agree to help me.
+
+63
+00:05:19,976 --> 00:05:22,103
+Shouldn't it be the other way around?
+
+64
+00:05:22,186 --> 00:05:26,274
+How can I help you
+without knowing when, why, and how?
+
+65
+00:05:26,357 --> 00:05:27,859
+I have my own life, too.
+
+66
+00:05:27,942 --> 00:05:29,777
+Oh, of course.
+
+67
+00:05:30,945 --> 00:05:32,530
+It'll be this Saturday at 3:00 p.m.
+
+68
+00:05:32,613 --> 00:05:34,866
+You can meet me
+at Beauté Department Store.
+
+69
+00:05:34,949 --> 00:05:36,075
+Hmm...
+
+70
+00:05:37,743 --> 00:05:40,121
+All I have to do is
+pretend to be your husband?
+
+71
+00:05:40,204 --> 00:05:41,330
+That's right.
+
+72
+00:05:42,373 --> 00:05:44,041
+It won't even take that long.
+
+73
+00:05:44,500 --> 00:05:48,546
+I'll offer compensation
+that'll make your time worthwhile.
+
+74
+00:05:49,046 --> 00:05:50,131
+How much?
+
+75
+00:05:55,261 --> 00:05:57,346
+A hundred million won?
+
+76
+00:05:57,430 --> 00:05:58,514
+A hundred million won?
+
+77
+00:05:59,724 --> 00:06:00,892
+That's a bit too much.
+
+78
+00:06:00,975 --> 00:06:03,686
+How come?
+I thought that was your base rate.
+
+79
+00:06:04,187 --> 00:06:06,063
+How much do you want?
+
+80
+00:06:07,231 --> 00:06:08,399
+A hundred million won.
+
+81
+00:06:10,234 --> 00:06:11,652
+Oh, that night?
+
+82
+00:06:11,736 --> 00:06:13,237
+Sorry about that.
+
+83
+00:06:13,321 --> 00:06:16,199
+I was so drunk
+that I mistook you for someone else.
+
+84
+00:06:16,282 --> 00:06:20,036
+You still seem drunk,
+judging by how you're taking me for.
+
+85
+00:06:20,995 --> 00:06:25,416
+You'll pay me
+to play your fake husband for a day?
+
+86
+00:06:26,167 --> 00:06:28,878
+It's easy to picture
+how this will play out.
+
+87
+00:06:34,508 --> 00:06:35,509
+Hubby!
+
+88
+00:06:35,593 --> 00:06:37,511
+How dare you lock lips with my wife?
+
+89
+00:06:37,595 --> 00:06:40,932
+<i>You want me to catch you in the act
+and collect a settlement from a guy.</i>
+
+90
+00:06:41,015 --> 00:06:42,183
+Is that it?
+
+91
+00:06:42,266 --> 00:06:43,351
+A settlement?
+
+92
+00:06:43,434 --> 00:06:44,894
+Aren't you doing this for money?
+
+93
+00:06:45,478 --> 00:06:48,439
+I guess you could say money is involved.
+
+94
+00:06:48,522 --> 00:06:49,649
+See? I knew it.
+
+95
+00:06:49,732 --> 00:06:52,735
+- You want to shake down some poor guy.
+- What?
+
+96
+00:06:52,818 --> 00:06:54,028
+But look here,
+
+97
+00:06:54,111 --> 00:06:56,572
+aren't you too young
+to be doing things like this?
+
+98
+00:06:56,656 --> 00:06:59,492
+Think about finding work
+and earning decent money,
+
+99
+00:06:59,575 --> 00:07:00,826
+rather than planning a shakedown.
+
+100
+00:07:00,910 --> 00:07:02,995
+You have it all wrong. I--
+
+101
+00:07:03,079 --> 00:07:06,707
+That dirty scam of yours will never work.
+
+102
+00:07:07,500 --> 00:07:09,585
+I usually don't bother
+with others' business,
+
+103
+00:07:09,669 --> 00:07:12,004
+but I can't let con artists
+have their way.
+
+104
+00:07:12,088 --> 00:07:14,507
+Saturday, 3:00 p.m.,
+at Beauté Department Store?
+
+105
+00:07:14,966 --> 00:07:16,050
+I'll remember that.
+
+106
+00:07:16,676 --> 00:07:19,845
+You'll pay for it
+if you try anything funny.
+
+107
+00:07:21,055 --> 00:07:23,391
+You were never going to say yes, were you?
+
+108
+00:07:23,474 --> 00:07:25,851
+- No.
+- Then why did you play along?
+
+109
+00:07:25,935 --> 00:07:28,896
+I figured it would hurt more
+to have hope and then lose it.
+
+110
+00:07:30,773 --> 00:07:32,024
+That's mean.
+
+111
+00:07:32,566 --> 00:07:35,319
+- You don't even know my story.
+- As if I need to know that.
+
+112
+00:07:35,820 --> 00:07:39,740
+I'm not kind enough
+to be generous to a scammer.
+
+113
+00:07:40,449 --> 00:07:42,034
+Wait, hold on!
+
+114
+00:08:01,345 --> 00:08:03,723
+<i>Wooju as head</i>
+<i>of the Marketing Team?</i>
+
+115
+00:08:04,307 --> 00:08:06,100
+What about my Eungsoo, then?
+
+116
+00:08:06,559 --> 00:08:08,144
+You'll kick out someone doing good work
+
+117
+00:08:08,227 --> 00:08:10,438
+just to make room for Wooju
+at the company?
+
+118
+00:08:10,521 --> 00:08:13,316
+"Kick out?" The correct term
+would be a demotion.
+
+119
+00:08:13,399 --> 00:08:15,443
+A demotion?
+That's even more annoying to hear.
+
+120
+00:08:15,526 --> 00:08:18,571
+So, what if you're annoyed?
+He should've done better.
+
+121
+00:08:19,030 --> 00:08:21,490
+Sales have plummeted
+since Eungsoo took over marketing.
+
+122
+00:08:21,574 --> 00:08:22,908
+Didn't your husband tell you?
+
+123
+00:08:23,868 --> 00:08:26,787
+That's because
+he's only been there for a year.
+
+124
+00:08:26,871 --> 00:08:28,080
+Once he adjusts--
+
+125
+00:08:28,164 --> 00:08:29,957
+Where was he before the transfer?
+
+126
+00:08:30,041 --> 00:08:31,709
+He worked in planning for two years.
+
+127
+00:08:31,792 --> 00:08:34,045
+Two years is plenty of time to settle in.
+
+128
+00:08:34,128 --> 00:08:36,422
+How many projects did he ruin
+during that time?
+
+129
+00:08:36,505 --> 00:08:39,216
+- Mom, why dredge up the past--
+- Three.
+
+130
+00:08:39,300 --> 00:08:42,595
+That shows he's incompetent, not unlucky.
+
+131
+00:08:42,678 --> 00:08:44,305
+But you can't replace him with Wooju.
+
+132
+00:08:44,388 --> 00:08:46,140
+What would people think?
+
+133
+00:08:46,223 --> 00:08:49,101
+They'll claim you favor your son's child
+over your daughter's.
+
+134
+00:08:49,185 --> 00:08:51,395
+I'm not favoring Wooju at all.
+
+135
+00:08:51,479 --> 00:08:52,813
+Eungsoo had the opportunity first.
+
+136
+00:08:53,356 --> 00:08:54,940
+I'm taking it away since he did poorly.
+
+137
+00:08:55,024 --> 00:08:57,026
+Mom, is this how it's going to be?
+
+138
+00:08:57,109 --> 00:08:58,819
+Your son and his wife are long gone,
+
+139
+00:08:58,903 --> 00:09:01,072
+and I'll be the one to care for you
+in your old age.
+
+140
+00:09:01,155 --> 00:09:02,615
+You can't do this to me.
+
+141
+00:09:02,698 --> 00:09:04,742
+Confirm if our <i>hangwa</i> will be served
+at the Blue House banquet
+
+142
+00:09:04,825 --> 00:09:06,535
+- for global business moguls.
+- Yes, ma'am.
+
+143
+00:09:06,994 --> 00:09:09,455
+Also, get her out of my face!
+
+144
+00:09:09,538 --> 00:09:11,832
+- She's making me dizzy.
+- Mom!
+
+145
+00:09:11,916 --> 00:09:13,459
+CFO
+JANG HANGU
+
+146
+00:09:13,542 --> 00:09:14,835
+What the...
+
+147
+00:09:14,919 --> 00:09:16,879
+Seriously?
+
+148
+00:09:17,671 --> 00:09:18,756
+No way.
+
+149
+00:09:27,556 --> 00:09:29,308
+Mom, want a bite?
+
+150
+00:09:29,392 --> 00:09:32,853
+It's one of our newest products,
+and it's good. It'll be a huge hit.
+
+151
+00:09:34,021 --> 00:09:35,439
+You damn brat.
+
+152
+00:09:35,898 --> 00:09:37,608
+How can you be enjoying that right now?
+
+153
+00:09:38,442 --> 00:09:40,569
+What now? Why are you all prickly?
+
+154
+00:09:42,780 --> 00:09:45,241
+Grandma got under your skin again,
+didn't she?
+
+155
+00:09:45,324 --> 00:09:47,451
+I have you to blame for that!
+
+156
+00:09:47,535 --> 00:09:51,122
+How aren't you annoyed
+when Wooju is about to replace you?
+
+157
+00:09:52,164 --> 00:09:54,291
+Mom, here's the thing.
+
+158
+00:09:54,375 --> 00:09:58,003
+If the mountain can't be conquered,
+you should try to go around it.
+
+159
+00:09:58,087 --> 00:10:03,134
+To me, hanging on like a damp leaf
+feels like pure wisdom.
+
+160
+00:10:03,217 --> 00:10:05,094
+Gosh, I've got a knot in my back.
+
+161
+00:10:06,137 --> 00:10:08,514
+You're no damp leaf,
+
+162
+00:10:08,597 --> 00:10:10,933
+but more like a dog kicked to the curb.
+Wake up, you brat!
+
+163
+00:10:11,016 --> 00:10:14,854
+If you don't have your grandma's approval,
+Wooju will take everything from you.
+
+164
+00:10:14,937 --> 00:10:16,647
+Don't worry, Mom.
+
+165
+00:10:16,730 --> 00:10:20,067
+I'm not that clueless,
+and I have my own plans.
+
+166
+00:10:25,406 --> 00:10:27,408
+I have it all figured out.
+
+167
+00:10:29,243 --> 00:10:31,537
+It's from that movie we enjoyed.
+
+168
+00:10:31,620 --> 00:10:33,456
+Remember?
+
+169
+00:10:33,539 --> 00:10:34,582
+- As if!
+
+170
+00:10:34,665 --> 00:10:35,749
+What's your problem, Mom?
+
+171
+00:10:35,833 --> 00:10:37,710
+You said you wouldn't do that
+at the office.
+
+172
+00:10:37,793 --> 00:10:40,421
+- As if!
+- Mom, come on!
+
+173
+00:10:41,005 --> 00:10:43,382
+Dad, can you please stop Mom?
+
+174
+00:10:43,466 --> 00:10:45,217
+- Don't be like this in the office.
+- Get back here.
+
+175
+00:10:45,301 --> 00:10:48,137
+She's in a foul mood,
+so try to cheer her up.
+
+176
+00:10:50,473 --> 00:10:53,017
+Why didn't you say anything earlier?
+
+177
+00:10:53,100 --> 00:10:57,313
+She only looks down on Eungsoo more
+since you don't stand up for him.
+
+178
+00:10:57,855 --> 00:10:59,648
+What could I have said?
+
+179
+00:10:59,732 --> 00:11:01,567
+This is a business we're trying to run.
+
+180
+00:11:01,650 --> 00:11:04,236
+You still should've butted heads with her.
+
+181
+00:11:04,320 --> 00:11:07,364
+"How could you be so heartless
+when I've worked here for 30 years?
+
+182
+00:11:07,448 --> 00:11:10,534
+If you keep treating my son that way,
+I'll have to put my foot down."
+
+183
+00:11:10,618 --> 00:11:12,495
+The situation called for it!
+
+184
+00:11:13,037 --> 00:11:16,040
+Nothing good comes from raising voices
+among family members.
+
+185
+00:11:16,123 --> 00:11:18,125
+Besides, having Wooju here
+will be good for Eungsoo.
+
+186
+00:11:18,542 --> 00:11:20,878
+Having competition helps you grow.
+
+187
+00:11:20,961 --> 00:11:23,923
+My goodness, you're killing me.
+
+188
+00:11:24,006 --> 00:11:26,258
+Can't you see how serious this is?
+
+189
+00:11:26,342 --> 00:11:28,886
+Quit fuming about this
+and head to the sauna.
+
+190
+00:11:28,969 --> 00:11:31,555
+I'll book us a table for dinner
+at your favorite sushi place.
+
+191
+00:11:32,097 --> 00:11:33,599
+- That place?
+- Yes.
+
+192
+00:11:37,561 --> 00:11:38,854
+DAEJU GENERAL HOSPITAL
+YOON JINGYEONG
+
+193
+00:12:01,126 --> 00:12:02,336
+WOOJU
+
+194
+00:12:14,098 --> 00:12:15,641
+Hey, Wooju.
+
+195
+00:12:17,476 --> 00:12:19,144
+When do you start work?
+
+196
+00:12:19,895 --> 00:12:20,896
+Tomorrow.
+
+197
+00:12:21,730 --> 00:12:23,232
+You'll be busier now.
+
+198
+00:12:23,816 --> 00:12:26,527
+Still, your grandma will be happy
+to see you every day.
+
+199
+00:12:27,194 --> 00:12:30,322
+She couldn't visit you in the US
+because she couldn't get on planes.
+
+200
+00:12:30,406 --> 00:12:32,241
+And you rarely flew in to see her.
+
+201
+00:12:32,741 --> 00:12:35,077
+I knew I could count on you
+to look after her.
+
+202
+00:12:36,495 --> 00:12:38,956
+I can't look after her forever, though.
+
+203
+00:12:39,039 --> 00:12:41,375
+It's not like
+I'm her granddaughter-in-law.
+
+204
+00:12:44,878 --> 00:12:45,879
+Are you really
+
+205
+00:12:46,297 --> 00:12:47,840
+interested in Eungsoo?
+
+206
+00:12:47,923 --> 00:12:49,174
+Of course not!
+
+207
+00:12:52,595 --> 00:12:53,679
+That reminds me.
+
+208
+00:12:53,762 --> 00:12:56,473
+What happened with that woman?
+
+209
+00:12:56,557 --> 00:12:58,100
+The cactus lady.
+
+210
+00:12:58,642 --> 00:12:59,643
+She never came back.
+
+211
+00:12:59,727 --> 00:13:03,731
+Oh, don't worry about her.
+She's perfectly fine.
+
+212
+00:13:04,189 --> 00:13:06,275
+Actually, no. I wouldn't say she's fine.
+
+213
+00:13:06,358 --> 00:13:09,361
+She must've injured her head,
+not her butt.
+
+214
+00:13:09,445 --> 00:13:11,363
+- She's not right in the head.
+- What?
+
+215
+00:13:11,447 --> 00:13:14,199
+Out of nowhere,
+she asked me to be her husband.
+
+216
+00:13:14,700 --> 00:13:15,701
+What?
+
+217
+00:13:16,619 --> 00:13:17,786
+Does she like you?
+
+218
+00:13:17,870 --> 00:13:22,583
+No, she said it was for something else,
+but I couldn't care less.
+
+219
+00:13:22,666 --> 00:13:24,168
+Ayeong!
+
+220
+00:13:24,877 --> 00:13:26,086
+Seriously.
+
+221
+00:13:26,837 --> 00:13:28,714
+- Ayeong!
+- Goodness.
+
+222
+00:13:28,797 --> 00:13:31,425
+- My goodness, come on.
+
+223
+00:13:31,508 --> 00:13:34,094
+I told you not to run.
+
+224
+00:13:34,178 --> 00:13:35,429
+Are you okay?
+
+225
+00:13:36,096 --> 00:13:37,306
+Let me see.
+
+226
+00:13:52,738 --> 00:13:56,533
+<i>Enough with the tears,</i>
+<i>or the tiger will come and get you.</i>
+
+227
+00:13:56,950 --> 00:13:57,993
+Take it.
+
+228
+00:14:02,122 --> 00:14:03,499
+Goodness.
+
+229
+00:14:03,582 --> 00:14:04,958
+Does anything hurt?
+
+230
+00:14:06,460 --> 00:14:07,461
+Enough.
+
+231
+00:14:07,544 --> 00:14:10,255
+Enough with the tears,
+or the tiger will come and get you.
+
+232
+00:14:15,678 --> 00:14:16,929
+Thank you.
+
+233
+00:14:17,638 --> 00:14:19,056
+Here.
+
+234
+00:14:20,099 --> 00:14:21,558
+Can you wear it yourself?
+
+235
+00:14:21,642 --> 00:14:23,352
+There you go. Good girl.
+
+236
+00:14:23,435 --> 00:14:24,770
+Let's get you on your feet.
+
+237
+00:14:24,853 --> 00:14:26,522
+- Thank you.
+- No problem.
+
+238
+00:14:29,149 --> 00:14:30,526
+Are you okay to walk?
+
+239
+00:14:31,860 --> 00:14:33,320
+No running, okay?
+
+240
+00:14:33,862 --> 00:14:35,072
+What was that?
+
+241
+00:14:35,155 --> 00:14:36,240
+A tiger?
+
+242
+00:14:36,699 --> 00:14:38,409
+Where did you pick that up?
+
+243
+00:14:39,243 --> 00:14:41,120
+Beats me.
+
+244
+00:14:41,203 --> 00:14:43,664
+Maybe it was my grandma.
+
+245
+00:14:44,206 --> 00:14:45,457
+By the way,
+
+246
+00:14:45,541 --> 00:14:48,210
+are key rings on backpacks
+a thing these days?
+
+247
+00:14:48,293 --> 00:14:49,920
+Oh, stuffed toys on key rings like that?
+
+248
+00:14:51,380 --> 00:14:52,715
+Why? Do you want one?
+
+249
+00:14:53,173 --> 00:14:54,174
+Of course not.
+
+250
+00:14:55,467 --> 00:14:59,680
+Wait, didn't you find a toy like that
+when you were little?
+
+251
+00:14:59,763 --> 00:15:02,641
+- I think you said someone gave it to you.
+- What?
+
+252
+00:15:02,725 --> 00:15:05,894
+That toy you took with you
+when you went to the US.
+
+253
+00:15:06,353 --> 00:15:08,605
+I teased you
+if it was from your first crush.
+
+254
+00:15:08,689 --> 00:15:09,815
+Don't you remember?
+
+255
+00:15:11,150 --> 00:15:12,609
+What do you mean, first crush?
+
+256
+00:15:12,693 --> 00:15:14,528
+- Who was it from?
+- I don't know.
+
+257
+00:15:17,239 --> 00:15:20,159
+I mean it. I don't even remember her name.
+
+258
+00:15:20,242 --> 00:15:23,370
+I suppose she's living
+a good life somewhere.
+
+259
+00:15:24,997 --> 00:15:26,248
+Hold on.
+
+260
+00:15:27,708 --> 00:15:32,379
+Still, you can't barge in here like this
+in the middle of the night.
+
+261
+00:15:32,463 --> 00:15:35,257
+I texted you
+that the renovation begins next week.
+
+262
+00:15:36,175 --> 00:15:38,510
+Sir, hurry in there
+
+263
+00:15:38,594 --> 00:15:41,221
+and measure the sink and windows.
+
+264
+00:15:41,305 --> 00:15:43,724
+Sure. Sorry about this. We're coming in!
+
+265
+00:15:43,807 --> 00:15:44,975
+- Sorry.
+- Excuse us.
+
+266
+00:15:45,058 --> 00:15:46,685
+Just a second.
+
+267
+00:15:46,769 --> 00:15:47,936
+Ma'am, please.
+
+268
+00:15:49,646 --> 00:15:50,773
+But...
+
+269
+00:16:13,504 --> 00:16:15,506
+MOM
+
+270
+00:16:27,184 --> 00:16:28,936
+Hey, Mom. What's up?
+
+271
+00:16:29,394 --> 00:16:31,313
+It's just that
+
+272
+00:16:31,396 --> 00:16:35,067
+since your wedding got postponed,
+Sori has to book a new flight
+
+273
+00:16:35,150 --> 00:16:36,819
+and wanted to know the date.
+
+274
+00:16:36,902 --> 00:16:40,155
+Apparently, the earlier you book flights,
+the cheaper they are.
+
+275
+00:16:40,823 --> 00:16:43,283
+Wooju's extremely busy, you see.
+
+276
+00:16:43,367 --> 00:16:45,327
+I'll call after discussing it with him.
+
+277
+00:16:46,537 --> 00:16:48,163
+By the way, how's Sori doing?
+
+278
+00:16:49,164 --> 00:16:53,585
+She must be doing well
+at her restaurant job in the US.
+
+279
+00:16:53,669 --> 00:16:55,546
+You won't believe
+how good her English is now.
+
+280
+00:16:55,629 --> 00:16:59,842
+She has no problem
+talking to Americans on her own.
+
+281
+00:16:59,925 --> 00:17:01,051
+- Really?
+- Yes.
+
+282
+00:17:02,261 --> 00:17:04,388
+Good for her.
+
+283
+00:17:05,013 --> 00:17:07,850
+It sounds like she's tied up with her job,
+
+284
+00:17:07,933 --> 00:17:10,686
+so tell her not to stress
+about attending the wedding.
+
+285
+00:17:10,769 --> 00:17:12,688
+Hey, that's nonsense.
+
+286
+00:17:12,771 --> 00:17:16,024
+Of course, she should attend
+her big sister's wedding.
+
+287
+00:17:17,192 --> 00:17:22,447
+Just give us a date, or at least tell us
+whether it'll happen within the year.
+
+288
+00:17:22,531 --> 00:17:24,533
+I have a lot to prepare on my end, too.
+
+289
+00:17:24,992 --> 00:17:28,745
+I'll visit you soon, Mom,
+so let's talk then.
+
+290
+00:17:29,496 --> 00:17:30,956
+I have something to tell you.
+
+291
+00:17:32,583 --> 00:17:34,001
+As in what?
+
+292
+00:17:34,084 --> 00:17:37,045
+It's not something we should talk about
+over the phone.
+
+293
+00:17:38,338 --> 00:17:41,884
+Don't tell me
+you and Wooju got into a fight.
+
+294
+00:17:41,967 --> 00:17:43,093
+Huh?
+
+295
+00:17:43,176 --> 00:17:47,097
+Well, you've already registered
+your marriage,
+
+296
+00:17:47,180 --> 00:17:49,308
+- so what's the point of fighting?
+- Right.
+
+297
+00:17:49,391 --> 00:17:51,435
+Instead of arguing with him
+about everything,
+
+298
+00:17:51,518 --> 00:17:53,270
+just give him what he wants.
+
+299
+00:17:53,353 --> 00:17:55,022
+Sometimes, losing is winning.
+
+300
+00:17:55,105 --> 00:17:56,106
+<i>Got it?</i>
+
+301
+00:17:56,857 --> 00:17:57,858
+Mom...
+
+302
+00:17:58,775 --> 00:18:00,903
+- You see--
+- <i>Excuse me.</i>
+
+303
+00:18:00,986 --> 00:18:03,447
+<i>Come on in.</i>
+<i>Meri, I have a customer.</i>
+
+304
+00:18:03,530 --> 00:18:04,990
+We'll talk again some other time.
+
+305
+00:18:06,033 --> 00:18:07,534
+- Mom...
+
+306
+00:18:14,499 --> 00:18:16,335
+I need to tell her the truth.
+
+307
+00:18:18,128 --> 00:18:20,047
+But when?
+
+308
+00:18:27,179 --> 00:18:29,139
+MYUNGSOONDANG
+
+309
+00:18:31,350 --> 00:18:33,769
+- Uncle.
+- Hey.
+
+310
+00:18:33,852 --> 00:18:35,854
+Come on in.
+
+311
+00:18:36,605 --> 00:18:37,940
+Have you been well?
+
+312
+00:18:39,232 --> 00:18:42,319
+It's really reassuring
+to have you at the office.
+
+313
+00:18:42,402 --> 00:18:43,403
+Is it your first time here?
+
+314
+00:18:43,487 --> 00:18:47,240
+I came by a few times as a kid,
+but not since the offices were renovated.
+
+315
+00:18:47,324 --> 00:18:48,367
+A lot has changed.
+
+316
+00:18:48,825 --> 00:18:52,412
+You'll need to adjust quickly, Wooju,
+since there's a lot for you to do.
+
+317
+00:18:52,496 --> 00:18:53,872
+I'll learn the ropes fast.
+
+318
+00:18:54,498 --> 00:18:57,376
+Think of me as your father,
+and come to me with any problems.
+
+319
+00:18:57,459 --> 00:18:58,794
+Thanks, Uncle.
+
+320
+00:18:59,294 --> 00:19:01,672
+I've always been grateful
+for how you've looked after me
+
+321
+00:19:01,755 --> 00:19:03,507
+since I was a kid.
+
+322
+00:19:04,716 --> 00:19:06,259
+I'm happy you think that way.
+
+323
+00:19:07,636 --> 00:19:09,680
+- Why don't you say hi to everyone?
+- Sure.
+
+324
+00:19:11,556 --> 00:19:13,934
+It's a pleasure to meet you.
+I'm Kim Wooju.
+
+325
+00:19:16,979 --> 00:19:19,231
+After completing
+his MBA in the US,
+
+326
+00:19:19,314 --> 00:19:22,401
+Team Leader Kim Wooju spent four years
+at a consulting firm.
+
+327
+00:19:22,484 --> 00:19:24,486
+It's his first time at a Korean company,
+
+328
+00:19:24,569 --> 00:19:26,530
+- so help him adjust smoothly.
+- Yes, sir.
+
+329
+00:19:26,613 --> 00:19:27,614
+- Of course.
+- Sure.
+
+330
+00:19:28,365 --> 00:19:30,784
+You'll properly greet them later
+at the team dinner.
+
+331
+00:19:30,867 --> 00:19:34,371
+Ms. Oh, can you give him
+a full briefing on the current projects?
+
+332
+00:19:34,454 --> 00:19:36,289
+Bring him up to speed before the meeting.
+
+333
+00:19:36,373 --> 00:19:37,582
+Yes, sir.
+
+334
+00:19:47,759 --> 00:19:49,011
+- Hello, sir.
+- Hi.
+
+335
+00:19:49,094 --> 00:19:50,429
+- Morning, sir.
+- Morning.
+
+336
+00:19:50,929 --> 00:19:52,472
+- Hey, Dad.
+- Hey.
+
+337
+00:20:04,151 --> 00:20:06,611
+I'm sure you remember
+the afternoon meeting with the chairwoman.
+
+338
+00:20:07,821 --> 00:20:08,822
+Of course.
+
+339
+00:20:09,197 --> 00:20:10,198
+Are you prepared?
+
+340
+00:20:11,658 --> 00:20:12,659
+Sure.
+
+341
+00:20:14,494 --> 00:20:15,829
+PREMIUM <i>HANGWA</i> COLLECTION
+
+342
+00:20:15,912 --> 00:20:18,832
+This is the seven-piece <i>hangwa</i>
+assortment that was introduced
+
+343
+00:20:18,915 --> 00:20:21,668
+at the Paris International
+Dessert Fair last year.
+
+344
+00:20:21,752 --> 00:20:23,670
+When a K-pop artist
+with 90 million followers
+
+345
+00:20:23,754 --> 00:20:25,714
+posted our product on social media,
+
+346
+00:20:25,797 --> 00:20:28,592
+the dessert went viral among zillennials.
+
+347
+00:20:29,259 --> 00:20:32,721
+To meet demand, we will
+officially release this assortment.
+
+348
+00:20:33,263 --> 00:20:34,681
+Are we launching in duty-free shops first?
+
+349
+00:20:34,765 --> 00:20:35,974
+That's right.
+
+350
+00:20:37,476 --> 00:20:39,936
+With holidays approaching
+in China and Japan,
+
+351
+00:20:40,020 --> 00:20:42,606
+the product will hit the shelves
+this week.
+
+352
+00:20:42,689 --> 00:20:46,193
+Beginning next week, it will be available
+in department stores across the country.
+
+353
+00:20:46,276 --> 00:20:48,195
+I like the idea behind the packaging.
+
+354
+00:20:48,278 --> 00:20:49,571
+It's like an advent calendar.
+
+355
+00:20:51,740 --> 00:20:54,910
+Yes, there's joy in opening a door
+to reveal the dessert inside.
+
+356
+00:20:55,577 --> 00:20:59,331
+The packaging received a design award
+at the dessert fair.
+
+357
+00:21:02,125 --> 00:21:04,377
+Hold on, Ms. Oh.
+
+358
+00:21:07,547 --> 00:21:10,300
+Won't we face any copyright issues
+with the packaging?
+
+359
+00:21:11,468 --> 00:21:12,886
+- Sorry?
+- I'm just saying
+
+360
+00:21:13,470 --> 00:21:16,723
+because I remember a time limit
+on the packaging design copyright
+
+361
+00:21:16,807 --> 00:21:18,517
+when we signed the contract last year.
+
+362
+00:21:19,643 --> 00:21:20,936
+Oh, that?
+
+363
+00:21:21,520 --> 00:21:22,562
+- Sir?
+
+364
+00:21:22,646 --> 00:21:25,565
+6 MONTHS AGO
+
+365
+00:21:26,233 --> 00:21:28,527
+Let me see.
+
+366
+00:21:29,277 --> 00:21:32,697
+"Permanent rights to the design
+versus single-use rights."
+
+367
+00:21:32,781 --> 00:21:34,116
+Single-use rights.
+
+368
+00:21:34,199 --> 00:21:36,076
+So, we will only hold the rights to it
+for a month.
+
+369
+00:21:36,159 --> 00:21:38,829
+Yes, but the cost will be much lower.
+
+370
+00:21:38,912 --> 00:21:39,913
+Exactly.
+
+371
+00:21:40,330 --> 00:21:44,709
+Since it's only for the dessert fair,
+let's keep the numbers low.
+
+372
+00:21:44,793 --> 00:21:46,128
+It's a one-time event anyway.
+
+373
+00:21:46,211 --> 00:21:50,257
+At the time, we had no plans
+to release this as an official product.
+
+374
+00:21:50,340 --> 00:21:52,551
+- So, you didn't renew the contract?
+
+375
+00:21:53,051 --> 00:21:57,305
+Oh dear, what if the design company
+sues us for copyright infringement?
+
+376
+00:21:57,389 --> 00:21:59,391
+This is a delicate matter nowadays.
+
+377
+00:21:59,474 --> 00:22:00,684
+Isn't it the team leader's job?
+
+378
+00:22:07,357 --> 00:22:08,358
+I apologize.
+
+379
+00:22:09,109 --> 00:22:11,153
+I failed to recognize the issue.
+
+380
+00:22:12,237 --> 00:22:16,241
+I'll reach out to the design company
+right away, extend our contract,
+
+381
+00:22:16,324 --> 00:22:17,576
+and handle the matter.
+
+382
+00:22:17,659 --> 00:22:19,202
+What a bunch of amateurs.
+
+383
+00:22:19,286 --> 00:22:22,247
+Wasn't this supposed to be handled
+before the meeting?
+
+384
+00:22:22,706 --> 00:22:23,707
+Wasn't it?
+
+385
+00:22:24,291 --> 00:22:26,459
+I suppose only I thought that.
+
+386
+00:22:26,543 --> 00:22:27,586
+I apologize.
+
+387
+00:22:27,669 --> 00:22:29,379
+Team Leader Kim Wooju
+
+388
+00:22:30,088 --> 00:22:32,007
+will ensure the contract is extended.
+
+389
+00:22:32,424 --> 00:22:34,384
+This is a crucial matter,
+so be sure nothing goes wrong.
+
+390
+00:22:35,677 --> 00:22:37,429
+Yes, ma'am.
+
+391
+00:22:45,187 --> 00:22:47,856
+Did you say 50 million won?
+
+392
+00:22:48,857 --> 00:22:49,858
+Fifty?
+
+393
+00:22:52,110 --> 00:22:54,696
+That's 10 times the original price.
+
+394
+00:22:54,779 --> 00:22:57,449
+Since we'll be giving up our copyright,
+
+395
+00:22:57,532 --> 00:23:00,952
+we'll need to account
+for the opportunity cost.
+
+396
+00:23:03,288 --> 00:23:05,165
+Right, please give us a call.
+
+397
+00:23:05,248 --> 00:23:06,499
+Sure thing.
+
+398
+00:23:08,668 --> 00:23:11,213
+- What did they say? Are they in?
+- They'll call after discussing it.
+
+399
+00:23:13,298 --> 00:23:15,050
+Are you really asking for 50 million won?
+
+400
+00:23:15,133 --> 00:23:16,801
+Of course not.
+
+401
+00:23:17,385 --> 00:23:21,389
+Still, I need to find out what the call
+I got this morning was about.
+
+402
+00:23:22,807 --> 00:23:25,644
+2 HOURS AGO
+
+403
+00:23:25,727 --> 00:23:27,771
+Hello, this is Merry Design Studio.
+
+404
+00:23:31,066 --> 00:23:32,234
+Myungsoondang?
+
+405
+00:23:33,026 --> 00:23:34,569
+The <i>hangwa</i> packaging design?
+
+406
+00:23:35,320 --> 00:23:37,197
+Yes, that's one of our designs.
+
+407
+00:23:37,280 --> 00:23:38,406
+What is this about?
+
+408
+00:23:38,490 --> 00:23:41,493
+Myungsoondang will contact you soon.
+
+409
+00:23:41,576 --> 00:23:43,995
+When they do,
+ask for a high price on the design.
+
+410
+00:23:44,079 --> 00:23:46,665
+It can even be 10 times
+the original price.
+
+411
+00:23:47,207 --> 00:23:48,208
+What?
+
+412
+00:23:49,584 --> 00:23:51,544
+I'm sorry, but who's this...
+
+413
+00:23:53,713 --> 00:23:54,965
+Hello?
+
+414
+00:23:55,048 --> 00:23:57,300
+I initially thought it was a prank,
+
+415
+00:23:57,384 --> 00:23:59,803
+but Myungsoondang called soon after.
+
+416
+00:23:59,886 --> 00:24:01,137
+This project was from a year ago.
+
+417
+00:24:01,221 --> 00:24:03,640
+I still feel we asked
+for too high a price,
+
+418
+00:24:03,723 --> 00:24:05,767
+just based on a stranger's words.
+
+419
+00:24:06,643 --> 00:24:08,186
+What if they call off the deal?
+
+420
+00:24:14,776 --> 00:24:15,777
+Change the design.
+
+421
+00:24:16,528 --> 00:24:18,446
+There are other design companies,
+
+422
+00:24:19,030 --> 00:24:20,782
+and we can redesign the packaging.
+
+423
+00:24:20,865 --> 00:24:22,659
+I'm afraid...
+
+424
+00:24:23,535 --> 00:24:24,619
+it won't be that easy.
+
+425
+00:24:28,415 --> 00:24:29,791
+7-PIECE <i>HANGWA</i> ASSORTMENT
+PROJECT PROGRESS REPORT
+
+426
+00:24:29,874 --> 00:24:31,710
+Over 150 million won
+
+427
+00:24:31,793 --> 00:24:35,005
+went into the pre-production
+of the packaging.
+
+428
+00:24:44,097 --> 00:24:46,224
+Contact the CEO of the design company.
+
+429
+00:24:46,808 --> 00:24:48,393
+- I'll negotiate.
+- Yes, sir.
+
+430
+00:24:49,185 --> 00:24:51,980
+<i>The grand prize winner is...</i>
+
+431
+00:24:52,063 --> 00:24:55,191
+<i>Ms. Yoo Meri,
+holder of ticket number 29710,</i>
+
+432
+00:24:55,275 --> 00:24:56,609
+<i>congratulations.</i>
+
+433
+00:24:56,693 --> 00:24:58,695
+<i>Ms. Yoo, congratulations.</i>
+
+434
+00:24:58,778 --> 00:25:01,823
+BEAUTÉ CEO LEE SUNGWOO
+
+435
+00:25:02,574 --> 00:25:03,908
+Damn it!
+
+436
+00:25:07,037 --> 00:25:08,955
+What are you going to do about this?
+
+437
+00:25:09,039 --> 00:25:10,999
+We can't redraw the names
+now that this is on NeoTube.
+
+438
+00:25:12,208 --> 00:25:14,252
+I'll look for a way to withdraw the prize.
+
+439
+00:25:15,837 --> 00:25:16,838
+Can you actually do that?
+
+440
+00:25:16,921 --> 00:25:17,922
+Come here a second.
+
+441
+00:25:20,592 --> 00:25:22,135
+How? Just how?
+
+442
+00:25:24,012 --> 00:25:25,513
+Don't be a crybaby.
+
+443
+00:25:29,017 --> 00:25:30,018
+You.
+
+444
+00:25:32,228 --> 00:25:33,229
+Get my shoes cleaned.
+
+445
+00:25:39,361 --> 00:25:40,653
+Get lost!
+
+446
+00:25:52,290 --> 00:25:54,292
+BEAUTÉ MANAGING DIRECTOR BAEK SANGHYEON
+
+447
+00:26:07,138 --> 00:26:08,139
+The mayor's extorting me.
+
+448
+00:26:08,223 --> 00:26:09,432
+3 MONTHS AGO
+
+449
+00:26:09,516 --> 00:26:11,017
+He wants one of the town houses
+
+450
+00:26:11,101 --> 00:26:13,353
+in exchange for approving
+the department store development.
+
+451
+00:26:13,436 --> 00:26:14,896
+- A town house?
+
+452
+00:26:14,979 --> 00:26:17,107
+As in a unit at Beauté Palace?
+
+453
+00:26:17,190 --> 00:26:19,692
+That scumbag requested
+a five-million-dollar unit.
+
+454
+00:26:19,776 --> 00:26:20,777
+You should give in.
+
+455
+00:26:21,861 --> 00:26:25,990
+If construction doesn't begin this year,
+delays and loan interest will cost more.
+
+456
+00:26:26,449 --> 00:26:28,284
+Besides, anything can happen
+under a new regime.
+
+457
+00:26:28,952 --> 00:26:31,329
+Hey, as if I don't know that.
+
+458
+00:26:31,788 --> 00:26:34,958
+I can always offer him one of the units
+owned by the group.
+
+459
+00:26:35,417 --> 00:26:37,794
+But what if my father finds out
+about the laundering?
+
+460
+00:26:39,003 --> 00:26:41,339
+Shit, I can't handle that old man.
+
+461
+00:26:41,840 --> 00:26:43,800
+We'll give it away through a raffle.
+
+462
+00:26:44,426 --> 00:26:46,970
+Last month,
+the mayor's wife's nephew got married.
+
+463
+00:26:47,053 --> 00:26:49,472
+The unit will be disguised
+as a raffle prize
+
+464
+00:26:49,556 --> 00:26:50,974
+during the department sale.
+
+465
+00:27:07,282 --> 00:27:09,701
+It's me, Mr. Kwon.
+Were you able to contact Yoo Meri?
+
+466
+00:27:12,662 --> 00:27:15,790
+Of course, the husband must be present.
+Otherwise, we'll redraw.
+
+467
+00:27:35,894 --> 00:27:37,979
+- Should I call them?
+- And say what?
+
+468
+00:27:38,062 --> 00:27:39,439
+That...
+
+469
+00:27:40,273 --> 00:27:42,692
+I was a bit tipsy
+from day drinking earlier
+
+470
+00:27:42,775 --> 00:27:44,611
+and added a zero by mistake.
+
+471
+00:27:45,737 --> 00:27:47,780
+Don't. We'll wait a little longer.
+
+472
+00:27:48,281 --> 00:27:49,407
+I'm sure they'll call.
+
+473
+00:27:54,162 --> 00:27:56,581
+<i>Will your husband</i>
+<i>be attending the ceremony?</i>
+
+474
+00:27:56,664 --> 00:27:59,542
+<i>If he can't,
+the prize will no longer be valid.</i>
+
+475
+00:28:01,711 --> 00:28:02,712
+What did they say?
+
+476
+00:28:02,795 --> 00:28:04,255
+That was for something else.
+
+477
+00:28:13,306 --> 00:28:14,849
+- Songhee.
+- Yes?
+
+478
+00:28:14,933 --> 00:28:17,519
+Don't you have an older brother
+studying for the civil service exam?
+
+479
+00:28:17,602 --> 00:28:18,895
+I do.
+
+480
+00:28:18,978 --> 00:28:20,563
+- How's he doing?
+- Beats me.
+
+481
+00:28:20,647 --> 00:28:23,566
+I haven't seen that jerk
+for about two months.
+
+482
+00:28:24,776 --> 00:28:25,777
+Why do you ask?
+
+483
+00:28:28,488 --> 00:28:31,449
+Could I maybe ask him for a favor?
+
+484
+00:28:33,701 --> 00:28:36,955
+If he's free this weekend...
+
+485
+00:28:39,791 --> 00:28:43,378
+You'll pay for it
+if you try anything funny.
+
+486
+00:28:44,128 --> 00:28:46,381
+<i>What if he comes to the ceremony?</i>
+
+487
+00:28:46,965 --> 00:28:48,716
+<i>I'll be done for if he rats me out.</i>
+
+488
+00:28:49,133 --> 00:28:51,094
+- Ms. Yoo.
+- Yes?
+
+489
+00:28:51,803 --> 00:28:52,971
+What kind of favor?
+
+490
+00:28:53,888 --> 00:28:55,306
+It's nothing.
+
+491
+00:28:55,390 --> 00:28:57,767
+I shouldn't. It's too risky.
+
+492
+00:29:04,357 --> 00:29:05,358
+Are you going somewhere?
+
+493
+00:29:05,441 --> 00:29:08,861
+There's someone I have to see.
+
+494
+00:29:09,320 --> 00:29:11,990
+Call me the moment
+you hear from Myungsoondang.
+
+495
+00:29:16,411 --> 00:29:18,246
+Why hasn't Wooju been in touch?
+
+496
+00:29:18,329 --> 00:29:20,873
+The jerk went to Hong Kong
+and turned off his phone.
+
+497
+00:29:21,374 --> 00:29:22,500
+Give him time.
+
+498
+00:29:23,418 --> 00:29:25,128
+Besides, no news is good news.
+
+499
+00:29:25,628 --> 00:29:26,629
+- Mom.
+- Yes?
+
+500
+00:29:28,464 --> 00:29:29,966
+To be honest,
+
+501
+00:29:30,758 --> 00:29:32,885
+there's something painful
+about Wooju and Meri breaking up.
+
+502
+00:29:33,428 --> 00:29:34,596
+What do you mean?
+
+503
+00:29:34,679 --> 00:29:37,473
+I can't have Meri's
+green onion kimchi anymore.
+
+504
+00:29:37,557 --> 00:29:38,683
+The sweet stir-fried eggplant was good,
+
+505
+00:29:39,142 --> 00:29:41,144
+and her mom's <i>geotjeori</i>
+was just the way I like it.
+
+506
+00:29:41,728 --> 00:29:43,646
+Gosh, I get cravings sometimes.
+
+507
+00:29:44,105 --> 00:29:45,189
+Same here.
+
+508
+00:29:45,690 --> 00:29:48,192
+As if her side dishes matter,
+
+509
+00:29:48,276 --> 00:29:50,903
+when Wooju's new girlfriend
+is filthy rich.
+
+510
+00:29:50,987 --> 00:29:54,449
+Her family owns
+a few buildings in Hong Kong.
+
+511
+00:29:54,532 --> 00:29:56,451
+She's rich and then some.
+
+512
+00:29:58,494 --> 00:30:00,121
+Lucky you, Mom.
+
+513
+00:30:00,204 --> 00:30:02,165
+Your son will finally give you
+a life of luxury.
+
+514
+00:30:02,248 --> 00:30:03,708
+You hated that Meri wasn't enough.
+
+515
+00:30:04,208 --> 00:30:06,002
+Don't even bring up that name.
+
+516
+00:30:06,085 --> 00:30:07,420
+SON
+
+517
+00:30:09,088 --> 00:30:10,381
+- It's Wooju.
+- Is it Wooju?
+
+518
+00:30:10,840 --> 00:30:14,385
+Why is she looking for you
+when she's the one who got scammed?
+
+519
+00:30:14,469 --> 00:30:15,637
+Of course not.
+
+520
+00:30:15,720 --> 00:30:17,847
+Who cares if you insisted
+on getting that unit?
+
+521
+00:30:17,930 --> 00:30:20,683
+She always had the option to refuse.
+
+522
+00:30:21,559 --> 00:30:23,311
+Did she ask you for money?
+
+523
+00:30:23,394 --> 00:30:24,437
+Of course not.
+
+524
+00:30:24,520 --> 00:30:26,606
+<i>You're not to blame,
+so don't let it bother you.</i>
+
+525
+00:30:26,689 --> 00:30:28,149
+And don't take Meri's calls.
+
+526
+00:30:28,733 --> 00:30:30,360
+I've already blocked her number.
+
+527
+00:30:35,698 --> 00:30:37,033
+Is Elizabeth well?
+
+528
+00:30:38,868 --> 00:30:40,328
+Of course.
+
+529
+00:30:40,411 --> 00:30:43,581
+Since she's Jenny's little sister,
+we've been taking extra good care of her.
+
+530
+00:30:43,665 --> 00:30:47,543
+We've been feeding her
+only top organic French kibble.
+
+531
+00:30:48,044 --> 00:30:51,089
+<i>Let Jenny know
+we're taking good care of her.</i>
+
+532
+00:30:52,215 --> 00:30:53,966
+By the way, when will you be back?
+
+533
+00:30:55,343 --> 00:30:57,345
+- Next month.
+<i>- Next month?</i>
+
+534
+00:30:57,428 --> 00:30:58,763
+<i>What about work?</i>
+
+535
+00:30:58,846 --> 00:30:59,931
+Your son...
+
+536
+00:31:00,765 --> 00:31:01,974
+tossed in his resignation letter.
+
+537
+00:31:02,058 --> 00:31:04,227
+You quit your job? Why?
+
+538
+00:31:04,310 --> 00:31:05,895
+- Why?
+<i>- Don't worry.</i>
+
+539
+00:31:05,978 --> 00:31:07,730
+Jenny's got me covered.
+
+540
+00:31:12,568 --> 00:31:14,237
+What now?
+
+541
+00:31:14,320 --> 00:31:15,697
+Oh, the bowls.
+
+542
+00:31:17,490 --> 00:31:19,617
+Coming!
+
+543
+00:31:21,744 --> 00:31:24,455
+Oh, well. That was sooner...
+
+544
+00:31:26,833 --> 00:31:28,000
+than usual.
+
+545
+00:31:37,677 --> 00:31:40,304
+I haven't been able to reach Wooju.
+
+546
+00:31:40,972 --> 00:31:43,099
+Why do you need to contact him
+when you broke up?
+
+547
+00:31:43,599 --> 00:31:45,268
+There's an urgent matter.
+
+548
+00:31:45,768 --> 00:31:47,311
+Is this about the rental scam?
+
+549
+00:31:47,395 --> 00:31:49,230
+Did you get in touch with him?
+
+550
+00:31:49,313 --> 00:31:51,190
+Yes, and he told us all about it.
+
+551
+00:31:51,274 --> 00:31:52,442
+But what about it?
+
+552
+00:31:53,359 --> 00:31:56,487
+Did your mom tell you to cling to Wooju
+by any means necessary?
+
+553
+00:31:57,238 --> 00:32:00,658
+- What?
+- I wasn't going to go this far,
+
+554
+00:32:00,742 --> 00:32:02,994
+but you have absolutely no shame.
+
+555
+00:32:03,077 --> 00:32:05,204
+You have only one parent, you're old,
+
+556
+00:32:05,288 --> 00:32:07,874
+and you went to a third-rate university--
+
+557
+00:32:07,957 --> 00:32:09,500
+She dropped out, remember?
+
+558
+00:32:10,209 --> 00:32:11,919
+That I didn't know.
+
+559
+00:32:12,503 --> 00:32:14,714
+Let me get this straight.
+
+560
+00:32:14,797 --> 00:32:16,799
+A college dropout dared to marry my Wooju,
+
+561
+00:32:16,883 --> 00:32:19,969
+who graduated from both
+a prestigious high school and university?
+
+562
+00:32:20,052 --> 00:32:24,098
+I invested so much in him,
+driving him around to his extra classes.
+
+563
+00:32:24,182 --> 00:32:25,475
+Meanwhile, you did nothing.
+
+564
+00:32:25,558 --> 00:32:27,894
+The best you could do
+was rent a place to live,
+
+565
+00:32:27,977 --> 00:32:30,271
+but even that was only in your own name.
+
+566
+00:32:30,354 --> 00:32:32,064
+I didn't know about that, either.
+
+567
+00:32:32,148 --> 00:32:34,358
+Exactly, and I call that a scam.
+
+568
+00:32:34,442 --> 00:32:37,028
+The place should've been
+in both your names.
+
+569
+00:32:37,528 --> 00:32:40,865
+The loan for the deposit
+was taken out in my name, so--
+
+570
+00:32:40,948 --> 00:32:43,201
+I'm glad you brought that up.
+
+571
+00:32:43,284 --> 00:32:46,662
+Since the unit is in your name,
+handle the rental scam yourself
+
+572
+00:32:46,746 --> 00:32:48,456
+instead of troubling my Wooju.
+
+573
+00:32:48,539 --> 00:32:50,291
+I'm not trying to give him a hard time.
+
+574
+00:32:51,501 --> 00:32:54,212
+Mother, I came here today
+
+575
+00:32:54,295 --> 00:32:55,922
+- because I won--
+- Mom.
+
+576
+00:32:56,005 --> 00:32:57,173
+This isn't worth our time.
+
+577
+00:32:57,632 --> 00:32:58,800
+Just stop, okay?
+
+578
+00:32:58,883 --> 00:33:03,012
+If you have a shred of conscience,
+you won't bring Wooju down with you.
+
+579
+00:33:03,095 --> 00:33:05,056
+You registered the marriage in advance
+
+580
+00:33:05,139 --> 00:33:07,809
+just to trap him, you gold digger.
+
+581
+00:33:07,892 --> 00:33:09,769
+What did you just call me?
+
+582
+00:33:09,852 --> 00:33:11,854
+Talk about a bad match.
+
+583
+00:33:11,938 --> 00:33:12,939
+Get lost already.
+
+584
+00:33:13,397 --> 00:33:16,234
+If we ever meet again,
+let's act like strangers.
+
+585
+00:33:18,903 --> 00:33:20,905
+Are you striking first?
+
+586
+00:33:20,988 --> 00:33:22,698
+- What?
+
+587
+00:33:23,241 --> 00:33:25,743
+Are you worried I'll ask Wooju for money?
+
+588
+00:33:26,786 --> 00:33:30,122
+Don't worry. I'll deal with the debt
+that's in my name.
+
+589
+00:33:30,206 --> 00:33:33,042
+But that's not what I
+came here to talk about.
+
+590
+00:33:33,125 --> 00:33:34,460
+Either way,
+
+591
+00:33:35,253 --> 00:33:37,255
+I suppose there's no point
+in telling you anymore.
+
+592
+00:33:38,798 --> 00:33:42,927
+Please tell Wooju
+that I won't be contacting him again.
+
+593
+00:33:43,386 --> 00:33:46,430
+If you two happen to hear
+about me, just ignore it.
+
+594
+00:33:48,850 --> 00:33:50,184
+I'll get going then.
+
+595
+00:33:50,810 --> 00:33:53,437
+I can see Wooju takes
+so much after you, Mother.
+
+596
+00:33:54,730 --> 00:33:57,567
+Now I know where he got his audacity.
+
+597
+00:33:58,317 --> 00:33:59,694
+Why you...
+
+598
+00:34:00,528 --> 00:34:03,281
+That's hardly appropriate for a woman
+from a family of educators.
+
+599
+00:34:04,448 --> 00:34:07,159
+If you hit me,
+I'll put up posters in the neighborhood
+
+600
+00:34:07,243 --> 00:34:10,371
+exposing that your husband was fired
+for sexually harassing his TA.
+
+601
+00:34:12,164 --> 00:34:13,416
+My gosh!
+
+602
+00:34:15,376 --> 00:34:17,545
+That bitch!
+
+603
+00:34:28,431 --> 00:34:29,891
+It's over now.
+
+604
+00:34:31,767 --> 00:34:33,185
+I tried my best.
+
+605
+00:34:41,444 --> 00:34:42,987
+SONGHEE
+
+606
+00:34:44,780 --> 00:34:45,781
+What's up?
+
+607
+00:34:47,033 --> 00:34:48,034
+Right now?
+
+608
+00:34:49,285 --> 00:34:51,537
+No, I can make it, so say so.
+
+609
+00:34:53,205 --> 00:34:54,206
+Sure.
+
+610
+00:35:01,047 --> 00:35:02,673
+Yes, Ms. Yoo. Head straight up.
+
+611
+00:35:03,424 --> 00:35:04,425
+Sure.
+
+612
+00:35:05,593 --> 00:35:08,012
+Mr. Kim, the CEO
+of the design company is here.
+
+613
+00:35:08,596 --> 00:35:10,389
+- Conference Room Two, is it?
+- Yes.
+
+614
+00:35:21,651 --> 00:35:22,735
+Where are you headed?
+
+615
+00:35:22,818 --> 00:35:23,903
+To sign the contract.
+
+616
+00:35:24,153 --> 00:35:25,988
+With the designer?
+
+617
+00:35:26,948 --> 00:35:28,950
+You're hard at work even on day one.
+
+618
+00:35:30,618 --> 00:35:32,495
+I'm paid from the first day, aren't I?
+
+619
+00:35:32,578 --> 00:35:34,288
+Oh, good one.
+
+620
+00:35:34,372 --> 00:35:35,873
+That's a healthy approach.
+
+621
+00:35:36,332 --> 00:35:39,168
+You must be carrying quite a burden
+on your shoulders.
+
+622
+00:35:39,251 --> 00:35:40,795
+Grandma's expecting results.
+
+623
+00:35:40,878 --> 00:35:43,214
+Meanwhile, your load is light
+because you have no work.
+
+624
+00:35:43,297 --> 00:35:46,092
+Come on, man.
+I was the team leader up until yesterday.
+
+625
+00:35:46,175 --> 00:35:49,303
+So, the work you're handling now
+used to be what I did.
+
+626
+00:35:49,387 --> 00:35:52,640
+You should've taken care of this
+instead of dumping it on the next person.
+
+627
+00:35:52,723 --> 00:35:54,600
+I dumped what on you?
+
+628
+00:35:54,684 --> 00:35:55,726
+The personnel shift...
+
+629
+00:35:57,478 --> 00:35:58,562
+That wasn't me.
+
+630
+00:35:58,646 --> 00:36:01,232
+I would've handled it
+if I were the team leader.
+
+631
+00:36:01,315 --> 00:36:03,192
+It seems like I was brought in
+because you couldn't.
+
+632
+00:36:03,275 --> 00:36:05,653
+What? What are you going on about?
+
+633
+00:36:06,237 --> 00:36:07,321
+Okay, fine.
+
+634
+00:36:07,405 --> 00:36:10,658
+If you think you can do it better,
+extend the deal at the same price.
+
+635
+00:36:10,741 --> 00:36:13,911
+Then I'll fully recognize
+your talent and competence.
+
+636
+00:36:15,871 --> 00:36:18,457
+- Really?
+- But if you don't get the deal,
+
+637
+00:36:18,541 --> 00:36:21,085
+you'll leave your position.
+
+638
+00:36:24,547 --> 00:36:28,342
+What do you say?
+We'll settle this man-to-man.
+
+639
+00:36:30,094 --> 00:36:31,387
+I'm in.
+
+640
+00:36:31,470 --> 00:36:32,763
+If you're done, can you move?
+
+641
+00:36:32,847 --> 00:36:34,432
+I have to go and clean up your mess.
+
+642
+00:36:34,515 --> 00:36:36,475
+Is that the best you can put it?
+
+643
+00:36:46,569 --> 00:36:49,155
+It won't be as easy as you think.
+
+644
+00:36:49,238 --> 00:36:51,115
+I'm a man with a plan, you see.
+
+645
+00:37:14,346 --> 00:37:15,973
+What's he doing here?
+
+646
+00:37:16,057 --> 00:37:17,683
+I must've seen wrong.
+
+647
+00:37:22,605 --> 00:37:24,732
+I guess I'm so stressed.
+
+648
+00:37:26,317 --> 00:37:28,360
+I'm starting to see things.
+
+649
+00:37:39,667 --> 00:37:41,544
+He's our new team leader,
+
+650
+00:37:41,628 --> 00:37:44,589
+and he wanted to talk to you in person.
+
+651
+00:37:47,717 --> 00:37:49,052
+I'm Kim Wooju.
+
+652
+00:37:49,135 --> 00:37:51,387
+- <i>This is my one last chance.</i>
+
+653
+00:37:52,138 --> 00:37:54,724
+I'm Yoo Meri from Merry Design Studio.
+
+654
+00:37:57,977 --> 00:38:00,146
+I'll get straight to the point.
+
+655
+00:38:01,105 --> 00:38:03,483
+The price you asked for is too high.
+
+656
+00:38:03,566 --> 00:38:05,610
+It's well over the market average,
+
+657
+00:38:05,693 --> 00:38:08,780
+and most design companies could create
+a design of similar level and quality.
+
+658
+00:38:09,322 --> 00:38:12,116
+However, if you agree to renew
+the contract at the same price,
+
+659
+00:38:12,200 --> 00:38:14,744
+the company will offer an extra benefit.
+
+660
+00:38:15,578 --> 00:38:17,830
+We'll ask you to handle
+the packaging design
+
+661
+00:38:17,914 --> 00:38:20,083
+for our latest product.
+
+662
+00:38:20,166 --> 00:38:22,835
+A partnership with our company
+
+663
+00:38:23,336 --> 00:38:26,130
+will help you build your portfolio.
+
+664
+00:38:27,507 --> 00:38:28,549
+Sure.
+
+665
+00:38:32,887 --> 00:38:34,055
+Thank you.
+
+666
+00:38:34,138 --> 00:38:36,516
+I'm glad we're on the same page.
+
+667
+00:38:39,018 --> 00:38:41,020
+On one condition, though.
+
+668
+00:38:42,188 --> 00:38:45,858
+Would it be all right
+if Mr. Kim and I talked alone?
+
+669
+00:38:48,194 --> 00:38:49,404
+It's fine.
+
+670
+00:38:52,115 --> 00:38:53,199
+STANDARD CONTRACT FOR DESIGN SERVICES
+
+671
+00:38:53,282 --> 00:38:54,534
+I'll get back to work.
+
+672
+00:39:05,044 --> 00:39:06,504
+What's your term?
+
+673
+00:39:06,587 --> 00:39:08,006
+Be my husband.
+
+674
+00:39:08,881 --> 00:39:10,216
+Are you still set on that?
+
+675
+00:39:10,299 --> 00:39:13,428
+I'm making a new request,
+given how our dynamic has changed.
+
+676
+00:39:13,511 --> 00:39:14,554
+How has it changed?
+
+677
+00:39:14,637 --> 00:39:18,891
+Well, before, I was the only one
+who needed help,
+
+678
+00:39:19,559 --> 00:39:23,187
+but now you do, too, right?
+
+679
+00:39:25,523 --> 00:39:29,193
+If I turn down this deal,
+it could cost you billions.
+
+680
+00:39:29,277 --> 00:39:31,404
+<i>How can we look</i>
+<i>for another design company</i>
+
+681
+00:39:31,487 --> 00:39:35,033
+now that the packaging is done
+and the promotional posters are made?
+
+682
+00:39:35,658 --> 00:39:36,659
+Right.
+
+683
+00:39:37,994 --> 00:39:40,288
+Merry Design Studio is a small business,
+
+684
+00:39:40,371 --> 00:39:42,123
+so we'll have to push hard
+in negotiations.
+
+685
+00:39:43,041 --> 00:39:44,625
+That would be on our team leader.
+
+686
+00:39:52,550 --> 00:39:55,261
+You've already mass-produced
+the packaging?
+
+687
+00:40:02,185 --> 00:40:03,686
+You have leverage, is that it?
+
+688
+00:40:06,147 --> 00:40:10,276
+It's more like I have a reason
+to keep you at the table.
+
+689
+00:40:11,110 --> 00:40:13,154
+Consider this negotiation over.
+
+690
+00:40:13,237 --> 00:40:18,076
+We may lose money over this,
+but it beats being implicated in fraud.
+
+691
+00:40:18,701 --> 00:40:22,288
+Ms. Yoo, you realize
+you'll be arrested for attempted fraud
+
+692
+00:40:22,371 --> 00:40:25,208
+if I report you to the authorities.
+
+693
+00:40:25,833 --> 00:40:27,710
+I'll make that call, then.
+
+694
+00:40:28,252 --> 00:40:29,420
+Not so fast!
+
+695
+00:40:29,504 --> 00:40:31,464
+What do you mean you'll report me?
+
+696
+00:40:31,547 --> 00:40:33,299
+There's no reason to be mean.
+
+697
+00:40:33,841 --> 00:40:36,886
+Don't we all deserve
+to dream and fantasize?
+
+698
+00:40:36,969 --> 00:40:39,889
+You openly suggested
+that I commit a crime with you.
+
+699
+00:40:39,972 --> 00:40:41,599
+How is that just fantasizing?
+
+700
+00:40:42,225 --> 00:40:43,226
+But...
+
+701
+00:40:44,769 --> 00:40:47,230
+But... Okay, hear me out.
+
+702
+00:40:48,022 --> 00:40:51,609
+I lost everything in a rental scam,
+but I won a five-million-dollar house.
+
+703
+00:40:51,692 --> 00:40:53,778
+If it were you,
+would you let this chance slip away?
+
+704
+00:40:53,861 --> 00:40:58,783
+I just need a husband to tag along,
+so wouldn't you do whatever it takes?
+
+705
+00:40:59,283 --> 00:41:00,284
+You won a prize?
+
+706
+00:41:04,372 --> 00:41:06,207
+So, that's what this is all about.
+
+707
+00:41:07,375 --> 00:41:08,376
+Sure.
+
+708
+00:41:09,669 --> 00:41:12,046
+Exactly. I won a prize, okay?
+
+709
+00:41:12,839 --> 00:41:13,965
+So, please...
+
+710
+00:41:14,382 --> 00:41:17,218
+Can you please just help me this once?
+
+711
+00:41:17,301 --> 00:41:20,888
+They suddenly said I have to bring
+my husband to the ceremony,
+
+712
+00:41:20,972 --> 00:41:23,724
+but I don't have time
+to find someone else.
+
+713
+00:41:24,308 --> 00:41:25,434
+That's too bad.
+
+714
+00:41:25,518 --> 00:41:27,061
+I feel for your situation,
+
+715
+00:41:28,020 --> 00:41:31,440
+but my conscience won't allow it.
+
+716
+00:41:33,901 --> 00:41:35,111
+<i>How's it going?</i>
+
+717
+00:41:35,194 --> 00:41:37,363
+You'll step down as team leader
+if this deal falls through.
+
+718
+00:41:38,823 --> 00:41:40,533
+I'm texting to confirm our deal.
+
+719
+00:41:45,204 --> 00:41:48,708
+<i>Team Leader Kim Wooju</i>
+<i>will ensure the contract is extended.</i>
+
+720
+00:41:49,292 --> 00:41:51,627
+This is a crucial matter,
+so be sure nothing goes wrong.
+
+721
+00:41:55,047 --> 00:41:56,257
+Mr. Kim!
+
+722
+00:41:58,176 --> 00:41:59,260
+Look at this.
+
+723
+00:41:59,760 --> 00:42:02,763
+What if my elbow keeps hurting
+whenever it rains?
+
+724
+00:42:04,140 --> 00:42:07,393
+The aftereffects of a car accident
+are usually scarier.
+
+725
+00:42:07,476 --> 00:42:09,979
+Come on. That only happened because you--
+
+726
+00:42:10,062 --> 00:42:12,565
+Here. Where do I sign?
+
+727
+00:42:13,065 --> 00:42:14,442
+Isn't this a win-win situation?
+
+728
+00:42:14,525 --> 00:42:16,736
+I'm a pro at signing contracts.
+
+729
+00:42:16,819 --> 00:42:18,905
+MYUNGSOONDANG
+YOO MERI
+
+730
+00:42:31,542 --> 00:42:34,337
+It won't take long, so please relax.
+
+731
+00:42:34,837 --> 00:42:37,465
+Did you perhaps read the text I sent?
+
+732
+00:42:37,548 --> 00:42:39,425
+Our wedding date, address,
+and the registration number.
+
+733
+00:42:39,508 --> 00:42:41,844
+You said all I had to do
+was stand next to you.
+
+734
+00:42:41,928 --> 00:42:43,095
+Oh, of course.
+
+735
+00:42:44,972 --> 00:42:47,058
+But you never know, so...
+
+736
+00:42:48,434 --> 00:42:50,811
+Forget I said anything.
+I'll handle all the questions.
+
+737
+00:42:50,895 --> 00:42:52,104
+You just stand there...
+
+738
+00:42:56,108 --> 00:42:57,360
+Wait for me.
+
+739
+00:43:02,281 --> 00:43:03,324
+<i>Going up.</i>
+
+740
+00:43:12,833 --> 00:43:13,834
+Take this.
+
+741
+00:43:15,628 --> 00:43:16,754
+It's a wedding band.
+
+742
+00:43:18,839 --> 00:43:19,840
+Sure.
+
+743
+00:43:23,594 --> 00:43:24,595
+These too.
+
+744
+00:43:26,514 --> 00:43:30,142
+In the photo I sent of Kim Wooju
+to the department store,
+
+745
+00:43:30,226 --> 00:43:32,144
+he was wearing glasses.
+
+746
+00:43:34,105 --> 00:43:35,106
+Right.
+
+747
+00:43:39,110 --> 00:43:40,236
+You look like him.
+
+748
+00:43:44,156 --> 00:43:45,157
+Hold on.
+
+749
+00:43:45,741 --> 00:43:47,910
+How did you send a copy of an ID?
+Did you fake it?
+
+750
+00:43:47,994 --> 00:43:49,620
+Of course not.
+
+751
+00:43:49,704 --> 00:43:51,247
+I had a copy of his passport,
+
+752
+00:43:51,330 --> 00:43:53,916
+which I sent to the travel agency
+when I was booking our honeymoon.
+
+753
+00:43:54,000 --> 00:43:55,876
+- That's what I sent.
+- I see.
+
+754
+00:43:58,921 --> 00:44:02,717
+Do you have any idea
+how risky this scam is?
+
+755
+00:44:03,676 --> 00:44:06,304
+The other Kim Wooju wouldn't let this fly.
+
+756
+00:44:07,013 --> 00:44:09,015
+You don't have to worry about that.
+
+757
+00:44:09,098 --> 00:44:11,100
+Kim Wooju's the one
+who's been dodging my calls,
+
+758
+00:44:11,183 --> 00:44:13,811
+and I won't tell anyone else about this.
+
+759
+00:44:13,894 --> 00:44:16,522
+I'll sell the house as soon as I get it.
+
+760
+00:44:16,939 --> 00:44:17,940
+I won't get caught.
+
+761
+00:44:18,649 --> 00:44:22,945
+Oh, just know I'll make it worth your time
+once I sell the house.
+
+762
+00:44:23,404 --> 00:44:25,281
+I seriously promise you that.
+
+763
+00:44:25,364 --> 00:44:26,365
+Forget it.
+
+764
+00:44:26,449 --> 00:44:29,243
+I don't want black money
+or anything that feels wrong.
+
+765
+00:44:29,327 --> 00:44:32,955
+I told you all about the situation I'm in.
+
+766
+00:44:33,039 --> 00:44:35,833
+I'm a victim of fraud,
+and I have my mom's debt to pay.
+
+767
+00:44:35,916 --> 00:44:38,294
+Who in this world
+doesn't have a sob story?
+
+768
+00:44:38,377 --> 00:44:40,379
+But not everyone scams others like you.
+
+769
+00:44:41,547 --> 00:44:44,633
+Of course, I want to live
+by my conscience,
+
+770
+00:44:45,176 --> 00:44:48,220
+but the situation I'm in
+is just too damn hard!
+
+771
+00:44:48,929 --> 00:44:50,931
+Did you just raise your voice at me?
+
+772
+00:44:52,475 --> 00:44:53,559
+Sorry.
+
+773
+00:44:57,730 --> 00:44:59,065
+A ceremony?
+
+774
+00:44:59,148 --> 00:45:00,524
+Wasn't the prize called off?
+
+775
+00:45:00,608 --> 00:45:01,609
+I'm sorry, sir.
+
+776
+00:45:04,278 --> 00:45:05,279
+You.
+
+777
+00:45:06,697 --> 00:45:11,243
+Is this what you call
+handling the situation?
+
+778
+00:45:14,038 --> 00:45:15,247
+What now?
+
+779
+00:45:15,331 --> 00:45:17,291
+What will I tell my father
+when he gets back?
+
+780
+00:45:17,375 --> 00:45:19,960
+I already informed him
+that this is a social contribution event.
+
+781
+00:45:20,044 --> 00:45:23,672
+- A social contribution?
+- You've become active on social media
+
+782
+00:45:23,756 --> 00:45:25,466
+to engage with zillennials.
+
+783
+00:45:25,549 --> 00:45:28,219
+By presenting this as an event
+to support young people without homes,
+
+784
+00:45:28,302 --> 00:45:29,762
+the press will take an interest.
+
+785
+00:45:29,845 --> 00:45:32,681
+On top of that,
+a positive public image could help
+
+786
+00:45:33,140 --> 00:45:34,934
+get the new department store approved.
+
+787
+00:45:43,776 --> 00:45:45,694
+Sounds good. Go with that.
+
+788
+00:45:55,329 --> 00:45:56,664
+Congratulations.
+
+789
+00:45:57,206 --> 00:45:59,750
+You're lucky to have a wife like her, sir.
+
+790
+00:46:05,005 --> 00:46:06,090
+Yes, sure.
+
+791
+00:46:06,674 --> 00:46:09,969
+It seems as though
+reality hasn't sunk in yet for him.
+
+792
+00:46:10,052 --> 00:46:11,262
+Of course.
+
+793
+00:46:11,345 --> 00:46:14,348
+When we didn't hear back
+from you yesterday,
+
+794
+00:46:14,432 --> 00:46:16,976
+we thought we had to withdraw the prize.
+
+795
+00:46:18,018 --> 00:46:21,897
+He just arrived in Korea this morning.
+
+796
+00:46:22,606 --> 00:46:24,316
+You must be tired, honey.
+
+797
+00:46:24,400 --> 00:46:26,569
+Right, I kind of am.
+
+798
+00:46:28,154 --> 00:46:30,114
+That must be why
+you don't look like your photo.
+
+799
+00:46:32,950 --> 00:46:36,579
+You look somewhat different
+from your ID photo.
+
+800
+00:46:38,038 --> 00:46:41,750
+He took that photo a while back,
+so that must be why.
+
+801
+00:46:43,919 --> 00:46:44,920
+Of course.
+
+802
+00:46:45,379 --> 00:46:47,298
+A lot of people
+don't look like their photos.
+
+803
+00:46:47,381 --> 00:46:48,382
+Exactly.
+
+804
+00:46:49,842 --> 00:46:52,595
+May I see your IDs?
+
+805
+00:46:53,220 --> 00:46:54,221
+You already did.
+
+806
+00:46:54,305 --> 00:46:57,183
+These are only copies,
+and I need to check them in person.
+
+807
+00:46:59,059 --> 00:47:02,188
+I'm not sure if we brought them with us.
+
+808
+00:47:06,859 --> 00:47:07,860
+Did we?
+
+809
+00:47:10,154 --> 00:47:11,989
+Mine's here, but...
+
+810
+00:47:12,072 --> 00:47:13,240
+I can see that.
+
+811
+00:47:18,162 --> 00:47:19,163
+That's you.
+
+812
+00:47:19,872 --> 00:47:21,081
+And the husband?
+
+813
+00:47:23,626 --> 00:47:24,919
+It's in the car.
+
+814
+00:47:25,002 --> 00:47:27,129
+I forgot to tell him to bring it.
+
+815
+00:47:27,796 --> 00:47:29,131
+I see.
+
+816
+00:47:30,007 --> 00:47:31,217
+Then how should we proceed?
+
+817
+00:47:34,595 --> 00:47:36,305
+What's your resident registration number?
+
+818
+00:47:36,388 --> 00:47:40,226
+- It's 960902--
+- It's 960902-102463.
+
+819
+00:47:40,309 --> 00:47:42,353
+Our address is
+Unit 101, Green Villa, 118 Hanseo-dong,
+
+820
+00:47:42,436 --> 00:47:43,812
+Jungmun-go, Seoul.
+
+821
+00:47:43,896 --> 00:47:46,357
+We registered our marriage
+on Monday, January 6 of this year.
+
+822
+00:47:50,152 --> 00:47:51,487
+Confirmed.
+
+823
+00:47:52,738 --> 00:47:54,865
+<i>When did he memorize all that?</i>
+
+824
+00:47:55,449 --> 00:47:56,700
+<i>Is he a genius?</i>
+
+825
+00:48:00,287 --> 00:48:02,414
+Sir, can you confirm the press release?
+
+826
+00:48:02,498 --> 00:48:03,624
+Sure.
+
+827
+00:48:06,210 --> 00:48:07,545
+Please relax and enjoy your tea.
+
+828
+00:48:07,628 --> 00:48:09,505
+The CEO isn't ready quite yet.
+
+829
+00:48:09,588 --> 00:48:10,756
+Sure.
+
+830
+00:48:13,509 --> 00:48:14,843
+IN AN INTERVIEW, THE LUCKY COUPLE...
+
+831
+00:48:16,971 --> 00:48:18,180
+PRESS RELEASE, BEAUTÉ
+
+832
+00:48:18,264 --> 00:48:19,640
+BEAUTÉ DEPARTMENT STORE 30TH ANNIVERSARY
+
+833
+00:48:19,723 --> 00:48:21,559
+COUPLE WINS FIVE-MILLION-DOLLAR UNIT
+AT BEAUTÉ PALACE
+
+834
+00:48:21,642 --> 00:48:22,643
+Hold on.
+
+835
+00:48:23,894 --> 00:48:25,396
+- Sir.
+- Yes?
+
+836
+00:48:25,479 --> 00:48:27,356
+Will this be in the press?
+
+837
+00:48:27,439 --> 00:48:28,941
+Of course.
+
+838
+00:48:29,024 --> 00:48:31,527
+An article will be released
+right after the ceremony.
+
+839
+00:48:33,821 --> 00:48:36,073
+- I had no idea.
+- An article?
+
+840
+00:48:38,075 --> 00:48:39,410
+- Sir.
+- Yes?
+
+841
+00:48:40,828 --> 00:48:42,788
+Sorry, we can't have this in the news.
+
+842
+00:48:43,998 --> 00:48:45,332
+We don't want word to get out.
+
+843
+00:48:45,874 --> 00:48:46,875
+Is it because...
+
+844
+00:48:49,253 --> 00:48:50,254
+of creditors?
+
+845
+00:48:51,338 --> 00:48:53,007
+- Because they could come after you?
+- Right.
+
+846
+00:48:53,424 --> 00:48:55,301
+- How did you know that?
+
+847
+00:48:55,384 --> 00:48:58,095
+That's why I haven't been able
+to share this with others.
+
+848
+00:48:58,178 --> 00:48:59,847
+It's as I thought.
+
+849
+00:49:00,431 --> 00:49:01,724
+It's not just creditors.
+
+850
+00:49:01,807 --> 00:49:04,727
+You'll probably even get calls
+from distant family members.
+
+851
+00:49:05,436 --> 00:49:06,645
+Two years ago, was it?
+
+852
+00:49:06,729 --> 00:49:08,439
+After winning fourth place in the lottery,
+
+853
+00:49:08,522 --> 00:49:11,275
+I had to buy so many people meals
+just for sharing it on social media.
+
+854
+00:49:12,151 --> 00:49:13,986
+- You were one of them.
+- That's right.
+
+855
+00:49:15,195 --> 00:49:17,489
+I even had to pay
+for my wife's nephew's college tuition.
+
+856
+00:49:18,657 --> 00:49:20,951
+We appreciate your understanding.
+
+857
+00:49:21,035 --> 00:49:23,370
+Please don't thank me
+when I have to apologize.
+
+858
+00:49:24,079 --> 00:49:25,372
+The article has to be released.
+
+859
+00:49:25,456 --> 00:49:26,790
+What? That can't happen.
+
+860
+00:49:26,874 --> 00:49:30,628
+But, sir, this was never the agreement.
+
+861
+00:49:30,711 --> 00:49:32,588
+You can't release an article
+without our consent.
+
+862
+00:49:32,671 --> 00:49:33,797
+Here.
+
+863
+00:49:37,635 --> 00:49:41,180
+"The prize winner is required
+to cooperate with any event publicity."
+
+864
+00:49:41,263 --> 00:49:42,681
+It says so right here.
+
+865
+00:49:47,561 --> 00:49:49,021
+Then, could you at least
+
+866
+00:49:49,855 --> 00:49:51,023
+let us use false names?
+
+867
+00:49:55,110 --> 00:49:56,695
+Sure, I'll consider that.
+
+868
+00:49:58,489 --> 00:50:01,116
+YOO MERI 32, KIM WOOJU 29
+
+869
+00:50:02,034 --> 00:50:03,118
+Put them under false names.
+
+870
+00:50:14,171 --> 00:50:16,173
+Can I please take this call?
+
+871
+00:50:16,256 --> 00:50:19,051
+The ceremony is about to begin,
+so don't wander off.
+
+872
+00:50:19,134 --> 00:50:20,135
+Sure.
+
+873
+00:50:21,095 --> 00:50:22,137
+Hello?
+
+874
+00:50:25,974 --> 00:50:27,518
+A case of African encephalitis?
+
+875
+00:50:29,395 --> 00:50:30,396
+Sure.
+
+876
+00:50:30,813 --> 00:50:33,482
+I have a fever, and my throat hurts.
+
+877
+00:50:35,567 --> 00:50:37,820
+Could this be contagious?
+
+878
+00:50:41,699 --> 00:50:44,368
+That means other people
+could get it from me.
+
+879
+00:50:44,451 --> 00:50:46,161
+I'm in a public space right now.
+
+880
+00:50:47,246 --> 00:50:48,622
+Yes, of course.
+
+881
+00:50:48,706 --> 00:50:51,250
+Please let me know
+as soon as you have the test results.
+
+882
+00:50:52,418 --> 00:50:53,419
+Got it.
+
+883
+00:50:59,842 --> 00:51:02,010
+Honey, do you have a face mask?
+
+884
+00:51:02,094 --> 00:51:03,470
+I don't. Why?
+
+885
+00:51:03,554 --> 00:51:07,141
+One of the people I flew in with yesterday
+
+886
+00:51:07,641 --> 00:51:09,643
+has a case of African encephalitis.
+
+887
+00:51:09,727 --> 00:51:11,103
+- Goodness me.
+- You've heard about it.
+
+888
+00:51:11,186 --> 00:51:14,898
+It's an infectious disease
+that's been taking lives around the world.
+
+889
+00:51:14,982 --> 00:51:17,693
+- The one with the highest mortality rate.
+- Right.
+
+890
+00:51:17,776 --> 00:51:19,445
+Jeez, this is bad.
+
+891
+00:51:19,528 --> 00:51:21,697
+My test results aren't back yet,
+
+892
+00:51:21,780 --> 00:51:23,449
+but since my coworker got it,
+
+893
+00:51:23,532 --> 00:51:24,908
+they want me retested--
+
+894
+00:51:24,992 --> 00:51:26,326
+Are you all right?
+
+895
+00:51:28,162 --> 00:51:29,538
+I think I'm showing symptoms.
+
+896
+00:51:29,621 --> 00:51:31,039
+This is terrible.
+
+897
+00:51:39,423 --> 00:51:40,424
+MR. KWON
+
+898
+00:51:41,383 --> 00:51:42,384
+Yes, Mr. Kwon.
+
+899
+00:51:42,760 --> 00:51:43,761
+<i>Mr. Baek,</i>
+
+900
+00:51:44,303 --> 00:51:45,512
+I have urgent news.
+
+901
+00:51:47,139 --> 00:51:48,348
+A case of African encephalitis?
+
+902
+00:51:49,433 --> 00:51:52,186
+He's not sick yet,
+so make him wear a mask.
+
+903
+00:51:52,978 --> 00:51:55,355
+That alone isn't enough
+to call off the ceremony.
+
+904
+00:51:55,439 --> 00:51:57,858
+Anyway, the article
+about Mr. Lee matters most.
+
+905
+00:51:57,941 --> 00:52:00,110
+Of course, sir. I understand.
+
+906
+00:52:04,031 --> 00:52:06,700
+- I'm sorry.
+- Don't be. Shall we?
+
+907
+00:52:22,257 --> 00:52:23,509
+- Ma'am.
+- Yes?
+
+908
+00:52:23,592 --> 00:52:25,511
+May I borrow this cap?
+
+909
+00:52:25,594 --> 00:52:26,595
+Sure.
+
+910
+00:52:26,678 --> 00:52:27,805
+I'll return it to you soon.
+
+911
+00:52:29,223 --> 00:52:33,185
+I'll take the photo
+in one, two, three.
+
+912
+00:52:33,852 --> 00:52:35,979
+One, two...
+
+913
+00:52:36,063 --> 00:52:38,690
+Ma'am, could you lower the flowers?
+We can't see your face.
+
+914
+00:52:38,774 --> 00:52:41,735
+Okay, that's better.
+Sir, can you lift your cap a bit?
+
+915
+00:52:41,819 --> 00:52:44,613
+Lower the flowers, too. Much better.
+
+916
+00:52:47,157 --> 00:52:48,784
+Focus the camera on Mr. Lee.
+
+917
+00:52:48,867 --> 00:52:50,160
+Right. Of course.
+
+918
+00:52:50,869 --> 00:52:53,622
+Mr. Lee, can you flash a generous smile?
+
+919
+00:52:53,705 --> 00:52:55,541
+Give a killer smile.
+
+920
+00:52:55,624 --> 00:52:57,459
+One, two, three.
+
+921
+00:52:58,252 --> 00:53:00,379
+One, two, three!
+
+922
+00:53:06,718 --> 00:53:07,803
+<i>I'll head out first.</i>
+
+923
+00:53:08,971 --> 00:53:10,180
+<i>Thanks for today.</i>
+
+924
+00:53:10,889 --> 00:53:13,433
+<i>I was actually going to take you out
+for a meal afterward...</i>
+
+925
+00:53:17,437 --> 00:53:18,480
+All right.
+
+926
+00:53:19,022 --> 00:53:21,525
+Now that the ceremony is over,
+you can collect your prize.
+
+927
+00:53:21,608 --> 00:53:22,609
+Right.
+
+928
+00:53:24,570 --> 00:53:25,904
+Here you go.
+
+929
+00:53:36,206 --> 00:53:37,291
+Thank you.
+
+930
+00:53:38,250 --> 00:53:40,669
+We want nothing but happiness
+for you both.
+
+931
+00:53:40,752 --> 00:53:42,254
+- Right.
+- Just a second.
+
+932
+00:53:47,968 --> 00:53:51,013
+Could you sign this form
+saying you received the prize?
+
+933
+00:53:51,096 --> 00:53:53,599
+- Sure.
+- And read the instructions on the back.
+
+934
+00:53:53,682 --> 00:53:54,683
+Right.
+
+935
+00:53:56,143 --> 00:53:57,811
+THINGS TO KNOW BEFORE SIGNING THE FORM
+
+936
+00:53:59,688 --> 00:54:01,607
+RECIPIENT: YOO MERI
+
+937
+00:54:03,483 --> 00:54:06,445
+- I'll now escort you to the town house.
+- Okay.
+
+938
+00:54:06,528 --> 00:54:07,863
+Good.
+
+939
+00:54:08,780 --> 00:54:09,781
+Hold on.
+
+940
+00:54:10,324 --> 00:54:11,450
+Where's your husband?
+
+941
+00:54:13,160 --> 00:54:15,829
+Oh, he went to the hospital
+to get retested.
+
+942
+00:54:16,580 --> 00:54:19,082
+It looks like
+I'll be the only one to come with you.
+
+943
+00:54:19,541 --> 00:54:21,043
+Oh, I see.
+
+944
+00:54:22,044 --> 00:54:23,503
+Shall we get going, then?
+
+945
+00:54:40,604 --> 00:54:42,689
+- I see you're still here.
+- Oh, right.
+
+946
+00:54:43,982 --> 00:54:45,317
+I was just about to leave.
+
+947
+00:54:45,400 --> 00:54:46,860
+Which way is the hospital?
+
+948
+00:54:49,112 --> 00:54:50,989
+Well...
+
+949
+00:54:52,032 --> 00:54:54,576
+It's in Gangnam.
+
+950
+00:54:57,204 --> 00:54:59,331
+That's good to hear. I'll drive you there.
+
+951
+00:54:59,414 --> 00:55:02,334
+No, it's fine. I can just take a cab.
+
+952
+00:55:02,417 --> 00:55:04,378
+We're headed in that direction anyway.
+
+953
+00:55:04,461 --> 00:55:05,921
+Which hospital is it?
+
+954
+00:55:11,718 --> 00:55:14,971
+Actually, I just got off a call
+with the hospital.
+
+955
+00:55:15,055 --> 00:55:16,306
+My test came back negative.
+
+956
+00:55:17,766 --> 00:55:19,643
+I don't have to get retested.
+
+957
+00:55:29,778 --> 00:55:31,113
+You should come with us, then.
+
+958
+00:55:31,697 --> 00:55:34,157
+You'll need a tour of the town house, too.
+
+959
+00:55:34,991 --> 00:55:36,159
+Sure. What?
+
+960
+00:55:36,243 --> 00:55:37,244
+Go where?
+
+961
+00:55:38,036 --> 00:55:39,037
+I'm sorry.
+
+962
+00:56:21,913 --> 00:56:25,041
+Beauté Palace
+is a luxury town house compound
+
+963
+00:56:25,125 --> 00:56:28,420
+created, marketed, and sold
+by our own Beauté Construction.
+
+964
+00:56:29,588 --> 00:56:33,175
+The whole compound was designed
+following feng shui principles,
+
+965
+00:56:33,258 --> 00:56:34,634
+said to provide good energy.
+
+966
+00:56:34,718 --> 00:56:37,304
+Because of that, it's now home
+to political and business leaders
+
+967
+00:56:37,387 --> 00:56:40,098
+as well as
+world-famous Korean celebrities.
+
+968
+00:56:40,515 --> 00:56:43,226
+You might bump into them
+at the gym or cafe inside the compound.
+
+969
+00:56:45,020 --> 00:56:48,690
+Each unit sells for millions,
+but none are on the market.
+
+970
+00:56:49,274 --> 00:56:53,445
+There are three complexes,
+and the house you won is in Complex Two.
+
+971
+00:56:54,321 --> 00:56:55,322
+I see.
+
+972
+00:57:18,178 --> 00:57:21,306
+You said the chairman
+loves kimchi from Punggukdang.
+
+973
+00:57:21,890 --> 00:57:27,354
+Gosh, orders were already full,
+but I paid extra to skip ahead in line.
+
+974
+00:57:27,437 --> 00:57:29,022
+That's right.
+
+975
+00:57:29,105 --> 00:57:30,398
+Our <i>hangwa?</i>
+
+976
+00:57:30,816 --> 00:57:33,902
+Of course, we brought some.
+That's our main goal today.
+
+977
+00:57:34,653 --> 00:57:36,988
+I asked them to box only the pretty ones.
+
+978
+00:57:38,240 --> 00:57:39,699
+Sure. Got it.
+
+979
+00:57:39,783 --> 00:57:41,868
+I'll call after I'm done.
+
+980
+00:57:44,079 --> 00:57:45,205
+But, Mom,
+
+981
+00:57:45,288 --> 00:57:48,667
+shouldn't Dad go, since it's the chairman
+of the Association of Business Executives?
+
+982
+00:57:48,750 --> 00:57:50,377
+He and Dad went to the same college.
+
+983
+00:57:50,460 --> 00:57:52,712
+Your dad's giving you an opportunity.
+
+984
+00:57:52,796 --> 00:57:55,465
+He wants you to accomplish
+something in your name.
+
+985
+00:57:57,759 --> 00:57:59,845
+Can I say I did this myself?
+
+986
+00:57:59,928 --> 00:58:00,929
+That's right.
+
+987
+00:58:01,721 --> 00:58:05,684
+I heard Wooju handled the design contract
+on his first day at the office.
+
+988
+00:58:06,101 --> 00:58:08,937
+So, you need to do a good job, too.
+
+989
+00:58:09,855 --> 00:58:12,816
+Also, always keep an eye on him
+to see if he's up to anything suspicious.
+
+990
+00:58:12,899 --> 00:58:15,360
+Sure, I'm to keep an eye on him.
+
+991
+00:58:16,945 --> 00:58:20,115
+Just wait until I catch him doing
+something questionable.
+
+992
+00:58:21,241 --> 00:58:23,243
+By the way, it's really nice here.
+
+993
+00:58:23,326 --> 00:58:25,036
+Where am I supposed to go?
+
+994
+00:58:44,014 --> 00:58:45,223
+The appliances are built in,
+
+995
+00:58:45,307 --> 00:58:48,393
+and the place comes furnished
+since it was used as a show house.
+
+996
+00:58:48,476 --> 00:58:50,979
+If you'd like,
+we could remove them for you.
+
+997
+00:58:52,022 --> 00:58:55,066
+Not at all. We're grateful to have it all.
+
+998
+00:59:01,197 --> 00:59:03,074
+There's even a yard.
+
+999
+00:59:04,367 --> 00:59:06,703
+This looks like a fancy resort.
+
+1000
+00:59:10,123 --> 00:59:11,458
+I'm glad you like it.
+
+1001
+00:59:11,917 --> 00:59:14,336
+When are you planning to move in?
+
+1002
+00:59:16,421 --> 00:59:17,964
+Move in?
+
+1003
+00:59:20,050 --> 00:59:24,638
+You see, there's a chance
+we might sell it right away.
+
+1004
+00:59:24,721 --> 00:59:28,642
+It's quite far
+from both of our workplaces.
+
+1005
+00:59:29,434 --> 00:59:31,728
+It's better to live closer to work.
+
+1006
+00:59:36,483 --> 00:59:38,944
+Of course, you can sell the house.
+
+1007
+00:59:39,402 --> 00:59:41,488
+But not right away.
+
+1008
+00:59:46,451 --> 00:59:48,203
+THINGS TO KNOW BEFORE RECEIVING THE PRIZE
+
+1009
+00:59:51,081 --> 00:59:52,624
+As previously informed,
+
+1010
+00:59:52,707 --> 00:59:55,251
+the house can be transferred to
+a different owner only after three months.
+
+1011
+00:59:55,335 --> 00:59:59,172
+Until then, you can't sell it because
+it technically belongs to our company.
+
+1012
+00:59:59,255 --> 01:00:02,467
+Then, why did you give me a key earlier?
+
+1013
+01:00:02,550 --> 01:00:04,928
+It symbolizes your right
+to stay in this house.
+
+1014
+01:00:07,514 --> 01:00:08,932
+Five years ago in England,
+
+1015
+01:00:09,015 --> 01:00:11,977
+a similar prize event was held
+for a million-pound house.
+
+1016
+01:00:12,060 --> 01:00:15,021
+Right after receiving the prize,
+the couple got divorced,
+
+1017
+01:00:15,105 --> 01:00:16,773
+making a mockery of the event.
+
+1018
+01:00:17,482 --> 01:00:20,443
+That's why we introduced
+a three-month grace period
+
+1019
+01:00:20,527 --> 01:00:23,029
+to demonstrate the event's sincerity.
+
+1020
+01:00:23,113 --> 01:00:25,657
+If you get divorced during that period,
+
+1021
+01:00:25,740 --> 01:00:28,827
+the prize will become invalid
+and be withdrawn.
+
+1022
+01:00:29,911 --> 01:00:32,956
+Three  months?
+
+1023
+01:00:33,540 --> 01:00:34,541
+Is there a problem?
+
+1024
+01:00:34,958 --> 01:00:38,253
+No, of course not.
+
+1025
+01:00:38,837 --> 01:00:41,381
+We have to move out
+of where we're staying now
+
+1026
+01:00:41,464 --> 01:00:43,758
+and find another place to live.
+
+1027
+01:00:44,342 --> 01:00:47,012
+We can live here for three months
+before selling it.
+
+1028
+01:00:48,555 --> 01:00:51,891
+Also, there may be a few inspections.
+
+1029
+01:00:51,975 --> 01:00:53,059
+Inspections?
+
+1030
+01:00:53,601 --> 01:00:55,437
+It's only a formality,
+
+1031
+01:00:55,520 --> 01:00:58,106
+but our inspector will call you
+before visiting.
+
+1032
+01:00:58,690 --> 01:01:00,942
+But in your case, that won't be necessary
+
+1033
+01:01:01,860 --> 01:01:03,445
+since I'll see you every day.
+
+1034
+01:01:04,029 --> 01:01:05,280
+- Sorry?
+- What?
+
+1035
+01:01:05,363 --> 01:01:07,365
+I'm one of the residents here.
+
+1036
+01:01:07,824 --> 01:01:09,451
+What? You live here, too?
+
+1037
+01:01:09,534 --> 01:01:10,785
+Which house is yours?
+
+1038
+01:01:10,869 --> 01:01:11,995
+The one across the street.
+
+1039
+01:01:15,874 --> 01:01:17,417
+That...
+
+1040
+01:01:17,500 --> 01:01:19,252
+- Over there?
+- That one?
+
+1041
+01:01:20,128 --> 01:01:24,424
+It's been lonely with the house empty,
+and I'm thrilled to have new neighbors.
+
+1042
+01:01:27,594 --> 01:01:29,596
+That's great.
+
+1043
+01:01:30,388 --> 01:01:32,599
+You can
+take a look around later on.
+
+1044
+01:01:32,682 --> 01:01:36,561
+For now, I'll show you
+the community center and walking trail.
+
+1045
+01:01:36,644 --> 01:01:38,980
+We'll meet out front in 20 minutes.
+
+1046
+01:01:39,064 --> 01:01:40,815
+I'll go and get changed.
+
+1047
+01:01:40,899 --> 01:01:42,275
+- Sure.
+- Right.
+
+1048
+01:01:42,358 --> 01:01:43,359
+Then...
+
+1049
+01:02:01,086 --> 01:02:03,254
+THINGS TO KNOW BEFORE RECEIVING THE PRIZE
+
+1050
+01:02:14,099 --> 01:02:15,350
+Seriously.
+
+1051
+01:02:15,433 --> 01:02:17,769
+What do you mean you'll move in here?
+
+1052
+01:02:18,394 --> 01:02:19,771
+Do you want to get caught?
+
+1053
+01:02:20,688 --> 01:02:22,524
+You see,
+
+1054
+01:02:22,607 --> 01:02:25,527
+I need to move out by the end of this week
+
+1055
+01:02:25,610 --> 01:02:26,903
+and have nowhere to go.
+
+1056
+01:02:28,738 --> 01:02:29,989
+But don't worry too much.
+
+1057
+01:02:30,073 --> 01:02:33,827
+He may live across the street,
+but I doubt I'll see him often.
+
+1058
+01:02:33,910 --> 01:02:37,288
+He just said he was thrilled
+to have new neighbors.
+
+1059
+01:02:37,372 --> 01:02:39,582
+He could come by every morning
+and suggest we work out together.
+
+1060
+01:02:42,418 --> 01:02:43,461
+Then,
+
+1061
+01:02:44,629 --> 01:02:46,881
+I'll say you're on a business trip.
+
+1062
+01:02:46,965 --> 01:02:48,508
+Will you say that every time?
+
+1063
+01:02:49,134 --> 01:02:50,552
+That's even more suspicious.
+
+1064
+01:02:50,635 --> 01:02:52,053
+Why not just say
+
+1065
+01:02:52,137 --> 01:02:55,140
+I spend months at sea fishing
+or that I'm a pilot?
+
+1066
+01:02:55,223 --> 01:02:56,975
+That's a great idea.
+
+1067
+01:02:57,058 --> 01:02:58,184
+What?
+
+1068
+01:02:58,268 --> 01:03:00,103
+How is that a good idea?
+
+1069
+01:03:00,645 --> 01:03:02,647
+What can we do, then?
+
+1070
+01:03:03,982 --> 01:03:06,359
+If you have any good suggestions,
+I'm all ears.
+
+1071
+01:03:06,442 --> 01:03:08,278
+Why are you turning to me for ideas?
+
+1072
+01:03:08,361 --> 01:03:11,030
+This is your mess to clean up.
+
+1073
+01:03:13,992 --> 01:03:17,370
+So much for this being a one-time thing.
+
+1074
+01:03:17,996 --> 01:03:20,039
+I shouldn't have believed you.
+
+1075
+01:03:22,041 --> 01:03:23,293
+What now?
+
+1076
+01:03:23,376 --> 01:03:25,420
+The guy across the street
+will be watching us.
+
+1077
+01:03:26,004 --> 01:03:27,255
+I'm sorry.
+
+1078
+01:03:28,256 --> 01:03:30,133
+I'll make sure
+you're not bothered by this.
+
+1079
+01:03:30,216 --> 01:03:32,343
+How can I not be worried?
+
+1080
+01:03:32,427 --> 01:03:35,013
+An article with our photo was published.
+
+1081
+01:03:35,555 --> 01:03:40,018
+Now that I'm involved,
+I'll also get in trouble if we get caught.
+
+1082
+01:03:41,060 --> 01:03:42,478
+Don't think about living here.
+
+1083
+01:03:42,562 --> 01:03:44,022
+Things will get worse if we're caught.
+
+1084
+01:03:44,647 --> 01:03:47,400
+Then, where am I supposed to live?
+
+1085
+01:03:47,483 --> 01:03:49,110
+Stay at a dry sauna for all I care.
+
+1086
+01:04:22,644 --> 01:04:24,812
+CACTUS
+
+1087
+01:04:33,112 --> 01:04:34,530
+TEAM LEADER KIM WOOJU
+
+1088
+01:04:37,450 --> 01:04:38,493
+Hello?
+
+1089
+01:04:38,576 --> 01:04:40,745
+I'm sorry I yelled at you earlier,
+
+1090
+01:04:40,828 --> 01:04:42,789
+but if you were in my shoes--
+
+1091
+01:04:44,457 --> 01:04:46,960
+Excuse me, can you help us?
+
+1092
+01:04:47,043 --> 01:04:48,544
+Where's Complex Three...
+
+1093
+01:04:49,504 --> 01:04:50,505
+Wooju, is that you?
+
+1094
+01:04:51,798 --> 01:04:52,840
+Wooju?
+
+1095
+01:04:54,509 --> 01:04:55,593
+Hello?
+
+1096
+01:05:00,473 --> 01:05:01,474
+Mr. Kim?
+
+1097
+01:05:05,895 --> 01:05:07,313
+Where are you right now?
+
+1098
+01:05:09,190 --> 01:05:10,191
+Auntie.
+
+1099
+01:05:10,275 --> 01:05:11,526
+What are you doing here?
+
+1100
+01:05:12,610 --> 01:05:15,363
+Oh, I'm here to see a friend.
+
+1101
+01:05:15,446 --> 01:05:18,199
+What? A friend? What friend?
+
+1102
+01:05:18,908 --> 01:05:19,909
+Just a friend.
+
+1103
+01:05:19,993 --> 01:05:21,577
+Anyway, what brings you two here?
+
+1104
+01:05:21,661 --> 01:05:23,621
+We're here to see the chairman of--
+
+1105
+01:05:23,705 --> 01:05:25,790
+We're here to see someone we know.
+
+1106
+01:05:25,873 --> 01:05:27,583
+It's nothing important.
+
+1107
+01:05:30,128 --> 01:05:31,587
+You're already out.
+
+1108
+01:05:35,216 --> 01:05:36,801
+- I'll see you around.
+- Sure.
+
+1109
+01:05:40,054 --> 01:05:42,724
+Hey, did you say
+the walking trail was that way?
+
+1110
+01:05:42,807 --> 01:05:43,850
+- It is.
+- Right.
+
+1111
+01:05:48,813 --> 01:05:50,064
+What about your wife?
+
+1112
+01:05:50,648 --> 01:05:51,649
+Sorry?
+
+1113
+01:05:53,860 --> 01:05:54,986
+His wife?
+
+1114
+01:06:04,912 --> 01:06:06,664
+CACTUS
+
+1115
+01:07:14,388 --> 01:07:17,114
+WOULD YOU MARRY ME?
+
+1116
+01:07:17,193 --> 01:07:20,363
+- Who were those people?
+- <i>My relatives.</i>
+
+1117
+01:07:20,446 --> 01:07:22,031
+<i>The winner was announced.</i>
+
+1118
+01:07:22,115 --> 01:07:23,241
+<i>The winner is...</i>
+
+1119
+01:07:23,324 --> 01:07:25,785
+I'd love for you
+to be my granddaughter-in-law.
+
+1120
+01:07:25,868 --> 01:07:28,621
+<i>I'll trust you've got my back</i>
+<i>and make my move on him.</i>
+
+1121
+01:07:28,704 --> 01:07:31,207
+<i>Looks like you could be</i>
+<i>getting what you want</i>
+
+1122
+01:07:31,666 --> 01:07:33,292
+<i>by pretending it's for wedding photos.</i>
+
+1123
+01:07:33,376 --> 01:07:34,669
+What was that look just now?
+
+1124
+01:07:36,963 --> 01:07:41,217
+<i>Does your husband</i>
+<i>actually live here?</i>
+
+1125
+01:07:50,351 --> 01:07:52,353
+Translated by Hyelim Park
