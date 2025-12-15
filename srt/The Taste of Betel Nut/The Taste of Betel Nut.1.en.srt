@@ -1,0 +1,1070 @@
+1
+00:06:53,958 --> 00:06:55,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Is there anyone left?</font></font></font>
+
+2
+00:06:55,333 --> 00:06:56,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">It is the last boat now!</font></font></font>
+
+3
+00:06:56,708 --> 00:06:58,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">There's someone, wait a moment!</font></font></font>
+
+4
+00:06:58,667 --> 00:06:59,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hurry up, hurry up!</font></font></font>
+
+5
+00:07:47,333 --> 00:07:48,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">$5 Yuan.</font></font></font>
+
+6
+00:10:43,875 --> 00:10:44,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Can't you catch a chicken?</font></font></font>
+
+7
+00:10:45,250 --> 00:10:48,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">No food for you,
+if you don't get it!</font></font></font>
+
+8
+00:10:49,417 --> 00:10:52,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Wait! Wait! Wait!</font></font></font>
+
+9
+00:10:53,625 --> 00:10:55,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Stop! There is no escape for you.</font></font></font>
+
+10
+00:10:55,875 --> 00:10:57,458
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Stay where you are!</font></font></font>
+
+11
+00:10:57,542 --> 00:10:59,959
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Stop running! Stop! Go no further!</font></font></font>
+
+12
+00:11:00,583 --> 00:11:01,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Where else you could go!</font></font></font>
+
+13
+00:11:01,500 --> 00:11:03,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Can you do it or not, fat boy.</font></font></font>
+
+14
+00:12:41,625 --> 00:12:43,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Silly boy.</font></font></font>
+
+15
+00:15:53,958 --> 00:15:55,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You can take a photo
+with me for $5 yuan.</font></font></font>
+
+16
+00:15:55,625 --> 00:15:57,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">If you want to sing</font></font></font>
+
+17
+00:15:57,667 --> 00:15:58,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">It's $10 Yuan per song.</font></font></font>
+
+18
+00:15:59,000 --> 00:16:00,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Alright. Thanks.</font></font></font>
+
+19
+00:16:37,625 --> 00:16:38,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">How's it going today?</font></font></font>
+
+20
+00:16:38,875 --> 00:16:40,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Very well!</font></font></font>
+
+21
+00:16:59,417 --> 00:17:00,334
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Are you messing with me?</font></font></font>
+
+22
+00:17:01,708 --> 00:17:05,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ah, my white pants, white pants.</font></font></font>
+
+23
+00:17:11,875 --> 00:17:13,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Always bully Xiaoqi!</font></font></font>
+
+24
+00:17:13,250 --> 00:17:14,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">He's bullying me!</font></font></font>
+
+25
+00:17:18,250 --> 00:17:19,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Aunt Huang!</font></font></font>
+
+26
+00:17:23,708 --> 00:17:26,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hey, don't move. Look at your face.</font></font></font>
+
+27
+00:17:28,167 --> 00:17:30,459
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Aunt Huang,
+why don't I get this treatment?</font></font></font>
+
+28
+00:17:30,542 --> 00:17:32,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You have a smooth and lovely face.</font></font></font>
+
+29
+00:17:48,792 --> 00:17:50,084
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">City police.</font></font></font>
+
+30
+00:17:55,875 --> 00:17:58,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You guys go ahead.</font></font></font>
+
+31
+00:18:09,542 --> 00:18:10,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hey! Stop!</font></font></font>
+
+32
+00:18:15,500 --> 00:18:17,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Illegal vending and
+acting so righteously.</font></font></font>
+
+33
+00:18:18,417 --> 00:18:20,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">If we allow you to vendor everywhere</font></font></font>
+
+34
+00:18:20,958 --> 00:18:25,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">aren't the city's order and
+environment all messed up?</font></font></font>
+
+35
+00:18:27,167 --> 00:18:29,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Smoking is not allowed here!</font></font></font>
+
+36
+00:18:30,708 --> 00:18:32,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What about them?</font></font></font>
+
+37
+00:18:38,167 --> 00:18:41,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Illegal vending costs
+$1000 Yuan as fine.</font></font></font>
+
+38
+00:18:41,083 --> 00:18:42,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Confiscating illegal work tools!</font></font></font>
+
+39
+00:23:02,167 --> 00:23:04,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hey. Come here.</font></font></font>
+
+40
+00:23:21,875 --> 00:23:24,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">We can't just take
+our own belongings.</font></font></font>
+
+41
+00:27:00,875 --> 00:27:02,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hi.</font></font></font>
+
+42
+00:27:02,500 --> 00:27:03,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hello.</font></font></font>
+
+43
+00:27:05,958 --> 00:27:07,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Aren't you going into the sea?</font></font></font>
+
+44
+00:27:07,417 --> 00:27:08,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">How's the wave?</font></font></font>
+
+45
+00:27:08,792 --> 00:27:10,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Not bad. It's a little weak.</font></font></font>
+
+46
+00:27:14,250 --> 00:27:18,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit!</font></font></font>
+
+47
+00:27:19,958 --> 00:27:21,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Let's go now. I've run out of energy.</font></font></font>
+
+48
+00:27:22,250 --> 00:27:23,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Let's go.</font></font></font>
+
+49
+00:27:23,625 --> 00:27:25,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Bye bye, we're off.</font></font></font>
+
+50
+00:27:59,417 --> 00:28:00,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh¡­Oh¡­!</font></font></font>
+
+51
+00:28:01,333 --> 00:28:06,375
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Wasted efforts for
+every wave to explode.</font></font></font>
+
+52
+00:28:06,458 --> 00:28:14,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Now, or unforeseeable future.</font></font></font>
+
+53
+00:28:14,625 --> 00:28:17,917
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The endless sky
+above me like my love</font></font></font>
+
+54
+00:28:18,000 --> 00:28:21,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">blossoming under the blue mountain.</font></font></font>
+
+55
+00:28:21,417 --> 00:28:24,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What kind of rhythm
+is the most swinging?</font></font></font>
+
+56
+00:28:24,958 --> 00:28:28,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What kind of singing
+is the most cheerful?</font></font></font>
+
+57
+00:33:28,708 --> 00:33:30,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+58
+00:33:30,958 --> 00:33:32,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+59
+00:33:33,500 --> 00:33:35,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+60
+00:33:36,333 --> 00:33:38,166
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+61
+00:33:39,167 --> 00:33:40,709
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+62
+00:33:43,500 --> 00:33:45,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+63
+00:33:46,625 --> 00:33:48,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The new boat is coming!</font></font></font>
+
+64
+00:33:51,792 --> 00:33:53,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hi Aunt Huang.</font></font></font>
+
+65
+00:33:54,333 --> 00:33:55,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Auntie, how's your foot?</font></font></font>
+
+66
+00:33:55,875 --> 00:33:56,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh, it's much better.</font></font></font>
+
+67
+00:33:57,875 --> 00:33:59,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hey, this is my daughter, Bai Ling.</font></font></font>
+
+68
+00:34:02,167 --> 00:34:03,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Let me do it.</font></font></font>
+
+69
+00:34:19,167 --> 00:34:20,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You really look
+like Leslie Chang.</font></font></font>
+
+70
+00:34:21,875 --> 00:34:22,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Aren't you in school?</font></font></font>
+
+71
+00:34:24,417 --> 00:34:25,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">It's summer holiday</font></font></font>
+
+72
+00:34:26,708 --> 00:34:28,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">so I came to help my mother</font></font></font>
+
+73
+00:34:38,250 --> 00:34:44,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">...the ending is vague</font></font></font>
+
+74
+00:34:44,958 --> 00:34:46,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Handsome.</font></font></font>
+
+75
+00:34:54,958 --> 00:34:56,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">He looks like Leslie Cheung.</font></font></font>
+
+76
+00:34:56,542 --> 00:34:57,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">He looks so much like Leslie.</font></font></font>
+
+77
+00:35:08,625 --> 00:35:09,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Let's take a photo.</font></font></font>
+
+78
+00:35:09,625 --> 00:35:11,458
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Okay. Come one by one, one by one!</font></font></font>
+
+79
+00:35:11,542 --> 00:35:13,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come on. Queue up.</font></font></font>
+
+80
+00:35:13,792 --> 00:35:16,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come. Right. Okay</font></font></font>
+
+81
+00:35:16,875 --> 00:35:18,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Go over there to pay after!</font></font></font>
+
+82
+00:35:18,167 --> 00:35:19,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Go over there to pay after!</font></font></font>
+
+83
+00:35:19,417 --> 00:35:20,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I want one too. I want one too.</font></font></font>
+
+84
+00:35:20,875 --> 00:35:21,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come... come.</font></font></font>
+
+85
+00:35:22,333 --> 00:35:23,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come... come.</font></font></font>
+
+86
+00:35:23,875 --> 00:35:25,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come. Oh. Wait.</font></font></font>
+
+87
+00:35:25,417 --> 00:35:26,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">All right. Pay over there.
+Pay over there!</font></font></font>
+
+88
+00:35:27,167 --> 00:35:28,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come... come.</font></font></font>
+
+89
+00:35:40,708 --> 00:35:42,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come. Drink. Drink a little.</font></font></font>
+
+90
+00:35:46,625 --> 00:35:49,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Fill the glass. Yep!</font></font></font>
+
+91
+00:35:53,083 --> 00:35:54,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Let's eat and drink.</font></font></font>
+
+92
+00:35:55,792 --> 00:35:56,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Okay.</font></font></font>
+
+93
+00:35:57,250 --> 00:35:58,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Drink, drink.</font></font></font>
+
+94
+00:35:58,333 --> 00:36:00,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Chic, come over and
+drink with the handsome.</font></font></font>
+
+95
+00:36:00,333 --> 00:36:01,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come handsome, it's a happy day.</font></font></font>
+
+96
+00:36:02,083 --> 00:36:04,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Happy, joyful, destiny.
+Beautiful singing.</font></font></font>
+
+97
+00:36:06,417 --> 00:36:09,709
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ah, great, let's have another glass.</font></font></font>
+
+98
+00:36:15,167 --> 00:36:16,084
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Wipe your mouth.</font></font></font>
+
+99
+00:36:20,083 --> 00:36:21,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Go. Stand up. Go.</font></font></font>
+
+100
+00:37:59,417 --> 00:38:00,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">How come you are here?</font></font></font>
+
+101
+00:38:00,708 --> 00:38:01,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Am I not welcome?</font></font></font>
+
+102
+00:38:04,417 --> 00:38:07,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Brother Xiaoyu brought me here.
+He went to buy some food.</font></font></font>
+
+103
+00:38:11,083 --> 00:38:12,166
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What happened to it?</font></font></font>
+
+104
+00:38:12,542 --> 00:38:14,084
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">His eyes have a bit infection.</font></font></font>
+
+105
+00:38:14,500 --> 00:38:16,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Also his sight is getting worse.</font></font></font>
+
+106
+00:38:17,250 --> 00:38:18,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Short sighted</font></font></font>
+
+107
+00:38:19,167 --> 00:38:22,084
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Yes, it is slow,
+and can't see my action clearly.</font></font></font>
+
+108
+00:38:22,542 --> 00:38:24,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Because he is short sighted</font></font></font>
+
+109
+00:38:24,708 --> 00:38:26,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I'm thinking to find
+him a pair of glasses.</font></font></font>
+
+110
+00:38:28,708 --> 00:38:30,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Sea lion also wears glasses.</font></font></font>
+
+111
+00:38:34,333 --> 00:38:35,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">We will go training now.</font></font></font>
+
+112
+00:38:36,417 --> 00:38:37,709
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Okay, go ahead.</font></font></font>
+
+113
+00:38:40,958 --> 00:38:41,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Bye!</font></font></font>
+
+114
+00:38:42,708 --> 00:38:43,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Bye!</font></font></font>
+
+115
+00:38:45,167 --> 00:38:46,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come...</font></font></font>
+
+116
+00:41:08,000 --> 00:41:08,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come...</font></font></font>
+
+117
+00:41:09,167 --> 00:41:10,334
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Congratulations!</font></font></font>
+
+118
+00:41:12,167 --> 00:41:13,334
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">This is Ren Yu.</font></font></font>
+
+119
+00:41:13,417 --> 00:41:14,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">They are my friends.</font></font></font>
+
+120
+00:41:15,167 --> 00:41:16,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">This is Bai Ling.</font></font></font>
+
+121
+00:42:18,875 --> 00:42:21,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Xiaoyu, you carry me across the river.</font></font></font>
+
+122
+00:42:21,875 --> 00:42:22,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Go and find him.</font></font></font>
+
+123
+00:42:24,042 --> 00:42:24,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come here.</font></font></font>
+
+124
+00:42:52,250 --> 00:42:54,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Here is the betel nut.
+Please have a taste.</font></font></font>
+
+125
+00:42:54,167 --> 00:42:55,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Congratulations!</font></font></font>
+
+126
+00:42:55,083 --> 00:42:56,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You're welcome.</font></font></font>
+
+127
+00:42:56,167 --> 00:42:57,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Want more?
+There is plenty of it here.</font></font></font>
+
+128
+00:43:13,500 --> 00:43:15,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">It is the betel nut here.
+Please try some.</font></font></font>
+
+129
+00:43:16,250 --> 00:43:17,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Thank you.</font></font></font>
+
+130
+00:43:17,875 --> 00:43:18,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Congratulations.</font></font></font>
+
+131
+00:43:18,792 --> 00:43:19,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Thank you.</font></font></font>
+
+132
+00:43:30,875 --> 00:43:32,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The first time having betel nuts.</font></font></font>
+
+133
+00:43:34,167 --> 00:43:39,084
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You blush, get dizzy
+and your heart beats faster.</font></font></font>
+
+134
+00:43:41,250 --> 00:43:42,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Isn't that love?</font></font></font>
+
+135
+00:43:43,708 --> 00:43:44,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Yes.</font></font></font>
+
+136
+00:43:47,333 --> 00:43:48,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I want to eat it all.</font></font></font>
+
+137
+00:44:14,542 --> 00:44:16,084
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What's wrong with you?</font></font></font>
+
+138
+00:44:23,958 --> 00:44:26,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Silly boy.</font></font></font>
+
+139
+00:44:26,958 --> 00:44:30,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Listen! I will get you out if
+you keep messing with me.</font></font></font>
+
+140
+00:44:33,167 --> 00:44:35,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Do you know the hut?</font></font></font>
+
+141
+00:44:39,083 --> 00:44:41,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">A house like this.</font></font></font>
+
+142
+00:44:43,000 --> 00:44:44,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Just called Liao Fang (the Hut).</font></font></font>
+
+143
+00:44:46,708 --> 00:44:50,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Girls from Hlai have
+to live in a Liao Fang</font></font></font>
+
+144
+00:44:51,792 --> 00:44:53,709
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">after they turn to 16</font></font></font>
+
+145
+00:44:54,167 --> 00:44:59,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">And dating with
+the boys they like</font></font></font>
+
+146
+00:45:00,875 --> 00:45:01,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">sing love songs</font></font></font>
+
+147
+00:45:02,625 --> 00:45:03,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">and make love.</font></font></font>
+
+148
+00:45:12,625 --> 00:45:14,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I am about to
+spit the blood of betel nut.</font></font></font>
+
+149
+00:53:44,333 --> 00:53:45,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hey.</font></font></font>
+
+150
+00:53:47,792 --> 00:53:49,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You promised to
+invite me for seafood.</font></font></font>
+
+151
+00:53:49,875 --> 00:53:51,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Are you keeping the promise?</font></font></font>
+
+152
+00:54:38,083 --> 00:54:38,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Let's go.</font></font></font>
+
+153
+00:54:39,792 --> 00:54:41,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Go.</font></font></font>
+
+154
+00:55:02,792 --> 00:55:04,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Not bad.</font></font></font>
+
+155
+00:55:04,875 --> 00:55:05,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">How much is this per kilo?</font></font></font>
+
+156
+00:55:06,708 --> 00:55:07,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Of course.</font></font></font>
+
+157
+00:55:09,500 --> 00:55:10,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ok. I will have this one.</font></font></font>
+
+158
+00:55:16,958 --> 00:55:18,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">If you go and talk,
+this meal is on me.</font></font></font>
+
+159
+00:55:19,792 --> 00:55:21,334
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">No problem, I will go.</font></font></font>
+
+160
+00:55:24,250 --> 00:55:25,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Get a big one.</font></font></font>
+
+161
+00:55:27,500 --> 00:55:29,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come, come, have a drink.</font></font></font>
+
+162
+00:55:36,250 --> 00:55:37,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Fattie.</font></font></font>
+
+163
+00:55:38,958 --> 00:55:41,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Chics, we got some chicken.</font></font></font>
+
+164
+00:55:42,000 --> 00:55:43,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come here and have some.</font></font></font>
+
+165
+00:55:49,167 --> 00:55:50,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come on drink up.</font></font></font>
+
+166
+00:56:02,500 --> 00:56:03,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh here you are.</font></font></font>
+
+167
+00:56:06,542 --> 00:56:07,792
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Eat mine. Eat mine.</font></font></font>
+
+168
+00:56:11,083 --> 00:56:12,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh here you are.</font></font></font>
+
+169
+00:56:16,042 --> 00:56:16,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I...</font></font></font>
+
+170
+00:56:18,792 --> 00:56:19,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Don't move!</font></font></font>
+
+171
+00:56:22,625 --> 00:56:23,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Don't run away!</font></font></font>
+
+172
+00:56:24,333 --> 00:56:25,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh shit!</font></font></font>
+
+173
+00:56:26,625 --> 00:56:27,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You shit!</font></font></font>
+
+174
+00:56:30,250 --> 00:56:32,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Stand there.
+Don't run away. Shit you!</font></font></font>
+
+175
+00:56:32,458 --> 00:56:33,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Stay there!</font></font></font>
+
+176
+00:56:33,417 --> 00:56:34,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh shit!</font></font></font>
+
+177
+00:56:36,417 --> 00:56:37,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Don't run, don't run!</font></font></font>
+
+178
+00:56:38,875 --> 00:56:39,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh shit!</font></font></font>
+
+179
+00:56:39,792 --> 00:56:41,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Put it down!</font></font></font>
+
+180
+00:56:41,708 --> 00:56:43,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Put the stick down. Put it down!</font></font></font>
+
+181
+00:56:43,333 --> 00:56:46,166
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Put it down. Put the stick down. Shit!</font></font></font>
+
+182
+00:56:46,417 --> 00:56:48,334
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hey you! I will catch you.</font></font></font>
+
+183
+00:56:50,500 --> 00:56:51,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Put the stick down!</font></font></font>
+
+184
+00:56:51,583 --> 00:56:52,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Here, here!</font></font></font>
+
+185
+00:56:52,708 --> 00:56:53,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Oh shit!</font></font></font>
+
+186
+00:56:54,083 --> 00:56:55,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Put the stick down. Put it down!</font></font></font>
+
+187
+00:56:55,167 --> 00:56:56,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">The two guys ran away.</font></font></font>
+
+188
+00:56:56,625 --> 00:56:57,958
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit! Put the stick down.</font></font></font>
+
+189
+00:56:58,708 --> 00:56:59,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ren Yu!</font></font></font>
+
+190
+00:56:59,875 --> 00:57:00,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Put the stick down.</font></font></font>
+
+191
+00:57:01,000 --> 00:57:02,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What a shit!</font></font></font>
+
+192
+00:57:02,542 --> 00:57:04,417
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Holly shit. Chase them!</font></font></font>
+
+193
+00:57:04,958 --> 00:57:06,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Hurry up, Ren Yu!</font></font></font>
+
+194
+00:57:08,500 --> 00:57:09,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Be quick!</font></font></font>
+
+195
+00:57:09,708 --> 00:57:11,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ren Yu. Hurry up!</font></font></font>
+
+196
+00:57:22,625 --> 00:57:23,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Come and catch me!</font></font></font>
+
+197
+00:58:41,875 --> 00:58:44,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Holly shit. Ah!</font></font></font>
+
+198
+00:58:45,792 --> 00:58:49,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit on your whole family.</font></font></font>
+
+199
+00:58:50,000 --> 00:58:51,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Holy shit!</font></font></font>
+
+200
+00:58:52,958 --> 00:58:54,166
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit!</font></font></font>
+
+201
+00:58:54,500 --> 00:58:55,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit on you.</font></font></font>
+
+202
+00:58:55,958 --> 00:58:59,416
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit on your whole family.</font></font></font>
+
+203
+00:59:00,333 --> 00:59:03,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Holly shit. Crazy</font></font></font>
+
+204
+00:59:03,792 --> 00:59:06,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shit on your whole family.</font></font></font>
+
+205
+00:59:06,875 --> 00:59:09,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Your uncle. You mom. All your uncle</font></font></font>
+
+206
+00:59:09,792 --> 00:59:11,334
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Your uncle. You mom. All your uncle.</font></font></font>
+
+207
+00:59:12,958 --> 00:59:14,083
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ahhhh. Woooo.</font></font></font>
+
+208
+01:03:46,542 --> 01:03:48,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Can we be together?</font></font></font>
+
+209
+01:03:51,417 --> 01:03:52,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Aren't we together?</font></font></font>
+
+210
+01:03:55,708 --> 01:03:57,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I mean, just the two of us.</font></font></font>
+
+211
+01:04:15,875 --> 01:04:17,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I like you.</font></font></font>
+
+212
+01:04:19,875 --> 01:04:22,458
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I liked you at first sight.</font></font></font>
+
+213
+01:04:33,792 --> 01:04:35,709
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I'm going to school in Guangzhou.</font></font></font>
+
+214
+01:04:38,500 --> 01:04:40,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">We can live together.</font></font></font>
+
+215
+01:04:44,417 --> 01:04:48,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I don't need your support.
+I have a job.</font></font></font>
+
+216
+01:04:52,958 --> 01:04:54,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Wait for me to graduate.</font></font></font>
+
+217
+01:04:56,250 --> 01:04:57,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Where you want to go?</font></font></font>
+
+218
+01:04:59,792 --> 01:05:01,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I will keep you accompany.</font></font></font>
+
+219
+01:05:05,000 --> 01:05:06,250
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Sounds good?</font></font></font>
+
+220
+01:05:20,792 --> 01:05:22,000
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What do you think?</font></font></font>
+
+221
+01:05:43,083 --> 01:05:44,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What are you really thinking of?</font></font></font>
+
+222
+01:05:46,500 --> 01:05:47,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">What do you mean?</font></font></font>
+
+223
+01:05:47,958 --> 01:05:49,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Be my boyfriend?</font></font></font>
+
+224
+01:05:51,417 --> 01:05:52,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">No.</font></font></font>
+
+225
+01:06:27,167 --> 01:06:28,709
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I'm off.</font></font></font>
+
+226
+01:08:21,958 --> 01:08:23,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ah, look how cute Bai Ling is.</font></font></font>
+
+227
+01:08:26,500 --> 01:08:28,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Look, it's really funny.</font></font></font>
+
+228
+01:08:28,875 --> 01:08:29,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">No.</font></font></font>
+
+229
+01:08:29,958 --> 01:08:30,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Go to sleep.</font></font></font>
+
+230
+01:08:39,875 --> 01:08:41,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">You really like Bai Ling?</font></font></font>
+
+231
+01:08:41,958 --> 01:08:44,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Yes. I wish she
+doesn't have to leave.</font></font></font>
+
+232
+01:08:51,792 --> 01:08:56,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">No need to be sad.</font></font></font>
+
+233
+01:08:57,333 --> 01:09:03,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">At such a young age, only sixteen</font></font></font>
+
+234
+01:09:04,708 --> 01:09:09,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">true love will come
+when the old one is gone.</font></font></font>
+
+235
+01:10:30,708 --> 01:10:33,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I want one too. Haha. Score two.</font></font></font>
+
+236
+01:10:34,167 --> 01:10:35,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Two. One more than mine. Not bad.</font></font></font>
+
+237
+01:10:36,708 --> 01:10:38,166
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">I saw lights on that boat at night.</font></font></font>
+
+238
+01:10:40,708 --> 01:10:42,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Shall we have a drink?</font></font></font>
+
+239
+01:10:55,708 --> 01:10:56,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Who is it?</font></font></font>
+
+240
+01:14:39,000 --> 01:14:40,333
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Ren Yu is living with you guys.</font></font></font>
+
+241
+01:14:40,625 --> 01:14:41,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">He lives here.</font></font></font>
+
+242
+01:14:41,958 --> 01:14:42,916
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Something happened to him.</font></font></font>
+
+243
+01:14:43,000 --> 01:14:44,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">We're here to investigate.</font></font></font>
+
+244
+01:14:49,083 --> 01:14:50,541
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Something happened to Xiaoyu.</font></font></font>
+
+245
+01:15:47,542 --> 01:15:50,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Here, is there anyone you know?</font></font></font>
+
+246
+01:15:56,083 --> 01:16:00,708
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Can you rewind it for me?</font></font></font>
+
+247
+01:16:05,792 --> 01:16:07,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Stop!</font></font></font>
+
+248
+01:16:10,333 --> 01:16:17,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Maybe I've seen
+him at the seafood place.</font></font></font>
+
+249
+01:16:20,625 --> 01:16:22,167
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Don't know him.</font></font></font>
+
+250
+01:16:26,333 --> 01:16:28,500
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Wait for us to take some notes.</font></font></font>
+
+251
+01:16:29,000 --> 01:16:30,917
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">This person is in coma.</font></font></font>
+
+252
+01:16:31,000 --> 01:16:32,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">That girl is lost.</font></font></font>
+
+253
+01:16:33,167 --> 01:16:34,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">We are trying our
+best with the search.</font></font></font>
+
+254
+01:16:47,333 --> 01:16:54,166
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Buddha, blesses us all. Please!</font></font></font>
+
+255
+01:17:00,542 --> 01:17:01,625
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Buddha!</font></font></font>
+
+256
+01:17:04,708 --> 01:17:05,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Buddha!</font></font></font>
+
+257
+01:17:08,333 --> 01:17:09,875
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Buddha!</font></font></font>
+
+258
+01:17:11,083 --> 01:17:16,791
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Buddha, blesses us. Please!</font></font></font>
+
+259
+01:17:16,875 --> 01:17:19,542
+<font face="Sans-Serif" size="10" color="#000000"><font size="104"><font color="#ffffff">Bless Bai Ling.
+Buddha blesses Bai Ling</font></font></font>
