@@ -1,0 +1,1292 @@
+1
+00:00:42,390 --> 00:00:43,260
+Hello.
+
+2
+00:00:43,261 --> 00:00:45,450
+SEAS SYSTEM, Sales
+Department. Kano speaking.
+
+3
+00:00:47,020 --> 00:00:48,020
+Yes.
+
+4
+00:00:49,360 --> 00:00:50,360
+Okay.
+
+5
+00:00:54,130 --> 00:00:55,430
+Please hold on.
+
+6
+00:00:58,410 --> 00:00:59,410
+Ah, Iwase.
+
+7
+00:00:59,460 --> 00:01:02,040
+- Sawada Denko is on the line...
+- Put him through.
+
+8
+00:01:20,100 --> 00:01:21,510
+This project is...
+
+9
+00:01:23,590 --> 00:01:26,040
+Kano-san, could you
+please check this document?
+
+10
+00:01:26,190 --> 00:01:27,190
+Got it.
+
+11
+00:01:34,720 --> 00:01:35,720
+Um...
+
+12
+00:01:36,180 --> 00:01:37,180
+What do you think?
+
+13
+00:01:38,750 --> 00:01:40,579
+For this system implementation case,
+
+14
+00:01:40,580 --> 00:01:43,010
+it would be better to add some
+more specific explanations.
+
+15
+00:01:45,010 --> 00:01:46,010
+Oh...
+
+16
+00:01:46,040 --> 00:01:47,040
+For example?
+
+17
+00:01:47,810 --> 00:01:51,520
+You could add how the system
+customizes production management.
+
+18
+00:01:52,090 --> 00:01:54,560
+And also mention the additional
+module for data conversion.
+
+19
+00:01:55,440 --> 00:01:57,990
+Isn't that something from
+the development department?
+
+20
+00:01:58,830 --> 00:02:00,920
+I don't think the clients
+will understand that...
+
+21
+00:02:00,940 --> 00:02:03,380
+Even so, they should know
+that these functions are available.
+
+22
+00:02:07,610 --> 00:02:10,960
+Kano-san, you used to be in the technical
+department, so you understand this stuff.
+
+23
+00:02:11,340 --> 00:02:13,390
+But regular clients really won't get it.
+
+24
+00:02:15,530 --> 00:02:16,730
+The director said so too.
+
+25
+00:02:16,990 --> 00:02:20,340
+He said your documents
+are too technical, Kano-san.
+
+26
+00:02:24,800 --> 00:02:25,800
+Okay.
+
+27
+00:02:29,550 --> 00:02:31,690
+This is fine.
+I'll handle the rest.
+
+28
+00:02:32,790 --> 00:02:33,790
+Thanks.
+
+29
+00:03:10,419 --> 00:03:11,915
+[Technical jargon]
+
+30
+00:03:11,940 --> 00:03:12,500
+What was that about?
+
+31
+00:03:12,500 --> 00:03:13,500
+This.
+
+32
+00:03:17,770 --> 00:03:18,770
+Oh, Kano.
+
+33
+00:03:19,280 --> 00:03:21,650
+Ah, Morioka-san. It's been a while.
+
+34
+00:03:21,860 --> 00:03:24,580
+We haven't had much chance to
+see each other since you moved floors.
+
+35
+00:03:24,820 --> 00:03:26,020
+Eating alone?
+
+36
+00:03:26,140 --> 00:03:27,420
+Not eating with your colleagues?
+
+37
+00:03:27,700 --> 00:03:30,000
+- Ah... yeah.
+- I see.
+
+38
+00:03:33,370 --> 00:03:34,370
+So, how are things?
+
+39
+00:03:34,660 --> 00:03:36,460
+Are you getting used
+to the sales department?
+
+40
+00:03:36,780 --> 00:03:40,120
+Not really. It's too different from
+the work in the technical department.
+
+41
+00:03:41,130 --> 00:03:42,640
+To be honest, I want to go back.
+
+42
+00:03:42,820 --> 00:03:43,820
+I hear that.
+
+43
+00:03:44,170 --> 00:03:45,909
+You were just on leave
+because you had the flu.
+
+44
+00:03:45,910 --> 00:03:47,039
+And when you came
+back, you were transferred.
+
+45
+00:03:47,040 --> 00:03:48,930
+That's just too much.
+
+46
+00:03:49,060 --> 00:03:50,380
+I'm still pissed about it.
+
+47
+00:03:50,650 --> 00:03:51,650
+Don't say that.
+
+48
+00:03:51,850 --> 00:03:53,089
+It's because you're so capable
+
+49
+00:03:53,090 --> 00:03:55,100
+that you can handle the job of sales tech.
+
+50
+00:03:56,170 --> 00:03:58,090
+Hmm... You think so?
+
+51
+00:03:59,460 --> 00:04:02,200
+Even if I have the knowledge,
+I'm not good at talking.
+
+52
+00:04:02,890 --> 00:04:04,386
+And the atmosphere in
+the sales department...
+
+53
+00:04:04,410 --> 00:04:05,690
+I just feel like I don't fit in.
+
+54
+00:04:06,510 --> 00:04:08,790
+Ah! But don't you have a
+colleague from your batch there?
+
+55
+00:04:08,910 --> 00:04:10,320
+I do, but...
+
+56
+00:04:10,490 --> 00:04:11,490
+Kano.
+
+57
+00:04:15,270 --> 00:04:16,820
+Come see me after lunch.
+
+58
+00:04:18,890 --> 00:04:19,890
+Got it.
+
+59
+00:04:26,470 --> 00:04:28,310
+To be honest, we don't get along at all.
+
+60
+00:04:29,540 --> 00:04:32,600
+Me and that guy, Ogami Seiji.
+
+61
+00:05:13,400 --> 00:05:20,400
+"Love Begins in the World of If"
+(Episode 1)
+
+62
+00:05:21,730 --> 00:05:23,190
+About this price quote...
+
+63
+00:05:25,170 --> 00:05:26,430
+Is there a problem with it?
+
+64
+00:05:26,500 --> 00:05:27,770
+This quote is too cheap.
+
+65
+00:05:29,280 --> 00:05:30,280
+Huh?
+
+66
+00:05:30,330 --> 00:05:32,330
+This price is within a
+reasonable range, isn't it?
+
+67
+00:05:33,220 --> 00:05:35,019
+Whether a price is high
+or low isn't for you to judge.
+
+68
+00:05:35,020 --> 00:05:36,750
+It's up to the client.
+
+69
+00:05:37,260 --> 00:05:38,859
+We wait until they ask
+for a price reduction,
+
+70
+00:05:38,860 --> 00:05:40,550
+and then we negotiate.
+
+71
+00:05:40,780 --> 00:05:42,740
+But that wouldn't be a
+fair price then, would it?
+
+72
+00:05:43,220 --> 00:05:45,260
+- Based on the man-hours, this quote is...
+- Listen.
+
+73
+00:05:45,860 --> 00:05:46,940
+Kano.
+
+74
+00:05:47,650 --> 00:05:49,670
+This is what business
+negotiation is all about.
+
+75
+00:05:50,310 --> 00:05:52,089
+It's about skillfully guiding
+the other party with your words.
+
+76
+00:05:52,090 --> 00:05:53,620
+That's the job of a salesperson.
+
+77
+00:05:55,470 --> 00:05:58,550
+Are you telling me to give a quote
+assuming that they will try to bargain?
+
+78
+00:05:59,050 --> 00:06:01,009
+What if they tell us not to
+come back because of it?
+
+79
+00:06:01,010 --> 00:06:02,050
+What will you do then?
+
+80
+00:06:03,060 --> 00:06:05,140
+What should you do if they
+tell you not to come back?
+
+81
+00:06:08,030 --> 00:06:09,400
+What should I do...?
+
+82
+00:06:10,280 --> 00:06:11,880
+Are you just going to give up like that?
+
+83
+00:06:15,410 --> 00:06:16,720
+That's not it...
+
+84
+00:06:18,370 --> 00:06:20,090
+You're in sales now.
+
+85
+00:06:20,520 --> 00:06:22,520
+You're not an technician.
+
+86
+00:06:24,730 --> 00:06:25,730
+Revise the quote.
+
+87
+00:06:25,770 --> 00:06:26,770
+I'm leaving it to you.
+
+88
+00:06:38,550 --> 00:06:40,040
+Sales Tech.
+
+89
+00:06:41,200 --> 00:06:43,210
+Neither sales nor tech.
+
+90
+00:06:44,540 --> 00:06:47,210
+It perfectly describes a
+half-baked existence like mine.
+
+91
+00:06:47,390 --> 00:06:49,396
+He got into a bad mood later, which
+made it hard for me to wrap things up.
+
+92
+00:06:49,420 --> 00:06:51,510
+He's always in a good
+mood when he's with me.
+
+93
+00:06:52,140 --> 00:06:54,009
+- Don't compare yourself to him.
+- Yeah.
+
+94
+00:06:54,010 --> 00:06:57,560
+- Ogami has the best reputation among all the clients, right?
+- Exactly.
+
+95
+00:06:57,780 --> 00:06:59,500
+Well, I guess so.
+
+96
+00:07:00,410 --> 00:07:02,010
+Oh, you're being pretty honest for once.
+
+97
+00:07:03,950 --> 00:07:04,950
+Kano.
+
+98
+00:07:05,270 --> 00:07:06,790
+Oh, Director. Good work today.
+
+99
+00:07:07,270 --> 00:07:09,770
+How's the Route Printing
+project with Ibushi-san going?
+
+100
+00:07:10,990 --> 00:07:12,860
+Yes, I went to talk
+with them the other day.
+
+101
+00:07:13,550 --> 00:07:16,419
+I've already explained to them
+that with the current deadline,
+
+102
+00:07:16,420 --> 00:07:18,286
+it would be difficult to
+implement the new specifications.
+
+103
+00:07:18,310 --> 00:07:19,310
+I see.
+
+104
+00:07:19,311 --> 00:07:20,690
+Did Ogami go with you?
+
+105
+00:07:22,190 --> 00:07:22,800
+No.
+
+106
+00:07:22,801 --> 00:07:24,699
+The two of us went together
+for the initial greeting,
+
+107
+00:07:24,700 --> 00:07:26,520
+but now I'm in charge of it alone.
+
+108
+00:07:27,070 --> 00:07:28,070
+Is that okay?
+
+109
+00:07:28,740 --> 00:07:29,710
+What do you mean?
+
+110
+00:07:29,710 --> 00:07:30,530
+Well...
+
+111
+00:07:30,570 --> 00:07:33,120
+It's just that you tend to
+use too much jargon, Kano.
+
+112
+00:07:35,700 --> 00:07:37,309
+Ibushi-san is the director
+of the materials department.
+
+113
+00:07:37,310 --> 00:07:39,510
+I think he should be able to understand.
+
+114
+00:07:40,060 --> 00:07:41,490
+The project is going smoothly.
+
+115
+00:07:42,340 --> 00:07:43,340
+That's good, then.
+
+116
+00:07:44,030 --> 00:07:46,080
+If anything comes up,
+be sure to let Ogami know.
+
+117
+00:07:47,720 --> 00:07:48,990
+- Understood.
+- Okay.
+
+118
+00:08:13,172 --> 00:08:15,880
+I really can't understand
+a word Kano-san says.
+
+119
+00:08:16,490 --> 00:08:18,119
+He's always talking in jargon.
+
+120
+00:08:18,120 --> 00:08:19,400
+I can't keep up at all.
+
+121
+00:08:19,520 --> 00:08:21,360
+I feel like people from
+technical backgrounds
+
+122
+00:08:21,720 --> 00:08:23,140
+are all so cold.
+
+123
+00:08:24,160 --> 00:08:25,760
+I guess you could say he's all theory...
+
+124
+00:08:26,090 --> 00:08:27,810
+He has no sense of humor when he talks.
+
+125
+00:08:29,940 --> 00:08:32,360
+And it seems like Kano-san
+doesn't have a sales quota.
+
+126
+00:08:33,630 --> 00:08:35,150
+The position of sales tech
+
+127
+00:08:35,600 --> 00:08:36,990
+seems pretty cushy.
+
+128
+00:08:47,090 --> 00:08:48,090
+Oh no...
+
+129
+00:09:24,430 --> 00:09:25,889
+Ah...
+
+130
+00:09:25,890 --> 00:09:26,890
+Ahh..
+
+131
+00:09:37,300 --> 00:09:39,320
+Ah... Finally made it back...
+
+132
+00:09:48,129 --> 00:09:50,422
+(How to be an Outstanding Salesperson)
+
+133
+00:09:52,590 --> 00:09:55,540
+A sales tech's job is cushy, huh...?
+
+134
+00:10:17,660 --> 00:10:19,519
+My compensation is
+completely different from yours.
+
+135
+00:10:19,520 --> 00:10:22,860
+Of course I don't have a sales quota!
+
+136
+00:10:23,690 --> 00:10:25,050
+What I really want to tell them...
+
+137
+00:10:25,650 --> 00:10:28,079
+is that it's because you guys
+ignore technical limitations
+
+138
+00:10:28,080 --> 00:10:29,990
+and always take on unreasonable projects
+
+139
+00:10:30,060 --> 00:10:32,620
+that I was transferred
+here in the first place!
+
+140
+00:10:33,800 --> 00:10:35,500
+Say whatever you want!
+
+141
+00:10:35,840 --> 00:10:37,720
+Ah! Ah!
+
+142
+00:10:38,520 --> 00:10:39,520
+Ah...
+
+143
+00:10:39,840 --> 00:10:41,760
+And that director, too...
+
+144
+00:10:42,470 --> 00:10:44,360
+Even without Ogami, I...
+
+145
+00:10:45,170 --> 00:10:47,380
+You're in sales now.
+
+146
+00:10:47,890 --> 00:10:49,370
+Not an technician.
+
+147
+00:10:52,530 --> 00:10:57,550
+Ogami must think I'm unreliable, too...
+
+148
+00:11:05,950 --> 00:11:07,210
+Back then...
+
+149
+00:11:08,960 --> 00:11:11,550
+I thought I could do better.
+
+150
+00:11:15,900 --> 00:11:18,300
+(One year ago)
+
+151
+00:11:18,340 --> 00:11:19,980
+My desk...
+
+152
+00:11:22,300 --> 00:11:23,500
+Kano.
+
+153
+00:11:26,530 --> 00:11:28,060
+This guy is from my batch...
+
+154
+00:11:28,720 --> 00:11:29,820
+I remember...
+
+155
+00:11:32,160 --> 00:11:33,260
+Huh?
+
+156
+00:11:36,910 --> 00:11:37,910
+Ah... thanks.
+
+157
+00:11:38,610 --> 00:11:39,610
+Mm...
+
+158
+00:11:41,940 --> 00:11:42,940
+Okami?
+
+159
+00:11:43,020 --> 00:11:44,020
+Wrong.
+
+160
+00:11:44,500 --> 00:11:45,500
+It's pronounced Ogami.
+
+161
+00:11:51,410 --> 00:11:52,690
+It's a rare last name, isn't it?
+
+162
+00:11:56,460 --> 00:11:58,660
+I heard you were excellent
+in the technical department.
+
+163
+00:11:59,490 --> 00:12:00,490
+Yeah...
+
+164
+00:12:00,960 --> 00:12:03,270
+That's why I wanted to stay there.
+
+165
+00:12:04,480 --> 00:12:06,890
+I know this is sudden and
+you might be pissed off,
+
+166
+00:12:07,400 --> 00:12:08,840
+but from today on, you're in sales.
+
+167
+00:12:09,120 --> 00:12:10,240
+Nice to be working with you.
+
+168
+00:12:26,830 --> 00:12:28,320
+That guy's smile.
+
+169
+00:12:30,460 --> 00:12:32,030
+I haven't seen it since.
+
+170
+00:12:45,590 --> 00:12:46,590
+Hello.
+
+171
+00:12:46,730 --> 00:12:50,260
+SEAS SYSTEM, Sales
+Department. Kano speaking.
+
+172
+00:12:51,420 --> 00:12:53,540
+Ah, Ibushi-san. Thank you
+for your continued support.
+
+173
+00:12:55,110 --> 00:12:56,110
+Huh...?
+
+174
+00:12:58,830 --> 00:13:00,870
+(Ogami: Business trip to Osaka)
+
+175
+00:13:04,690 --> 00:13:05,690
+Ibushi-san!
+
+176
+00:13:05,770 --> 00:13:06,350
+What is it?
+
+177
+00:13:06,351 --> 00:13:08,336
+Didn't we already make
+everything clear on the phone?
+
+178
+00:13:08,360 --> 00:13:09,180
+No...
+
+179
+00:13:09,181 --> 00:13:11,680
+- I wanted to explain it to you again in person.
+- There's no need.
+
+180
+00:13:11,690 --> 00:13:13,866
+The fact is that the function
+wasn't implemented, right?
+
+181
+00:13:13,890 --> 00:13:16,109
+I believe I said it it would be difficult to
+implement new standard with the current deadline.
+
+182
+00:13:16,110 --> 00:13:17,720
+I never heard anything like that!
+
+183
+00:13:18,090 --> 00:13:20,930
+It was also clearly stated in the
+documents I gave you the other day...
+
+184
+00:13:21,170 --> 00:13:22,820
+I didn't expect it to turn out like this.
+
+185
+00:13:23,220 --> 00:13:25,176
+This is clearly your fault
+for not explaining it properly.
+
+186
+00:13:25,200 --> 00:13:26,200
+No.
+
+187
+00:13:26,250 --> 00:13:28,070
+I'm sure I explained it clearly.
+
+188
+00:13:31,110 --> 00:13:33,560
+So, are you saying it's
+our fault for not listening?
+
+189
+00:13:33,760 --> 00:13:34,390
+No...
+
+190
+00:13:34,391 --> 00:13:36,160
+- That's not what I meant...
+- That's enough.
+
+191
+00:13:36,590 --> 00:13:37,980
+I have nothing more to say to you.
+
+192
+00:13:49,050 --> 00:13:50,050
+Calm down.
+
+193
+00:13:50,610 --> 00:13:53,170
+Calm down... Phew...
+
+194
+00:14:20,210 --> 00:14:21,520
+What should I do...?
+
+195
+00:14:31,450 --> 00:14:32,650
+This is not good...
+
+196
+00:14:38,936 --> 00:14:41,582
+(Ogami Seiji)
+
+197
+00:14:47,340 --> 00:14:48,540
+Hello...?
+
+198
+00:14:48,900 --> 00:14:50,750
+The director just contacted me.
+
+199
+00:14:51,020 --> 00:14:53,020
+He said there's a problem
+with you and Ibushi-san.
+
+200
+00:14:56,630 --> 00:14:58,680
+The contract might be canceled.
+
+201
+00:14:59,610 --> 00:15:00,880
+Tell me the details.
+
+202
+00:15:04,580 --> 00:15:06,170
+During the meeting the other day,
+
+203
+00:15:07,310 --> 00:15:09,169
+I told them that with the current deadline,
+
+204
+00:15:09,170 --> 00:15:11,490
+it would be difficult to
+implement the new specifications.
+
+205
+00:15:14,270 --> 00:15:16,460
+But it seems I didn't
+get my point across...
+
+206
+00:15:17,550 --> 00:15:18,650
+I see.
+
+207
+00:15:20,190 --> 00:15:22,640
+I'll contact them again
+and apologize in person.
+
+208
+00:15:22,690 --> 00:15:23,690
+I'll go too.
+
+209
+00:15:24,180 --> 00:15:25,590
+No, this time, let me...
+
+210
+00:15:27,210 --> 00:15:29,370
+What if they're not willing
+to listen to you, Kano?
+
+211
+00:15:29,690 --> 00:15:31,730
+It'd be better for me to
+go with you and apologize.
+
+212
+00:15:36,750 --> 00:15:38,380
+This is my responsibility.
+
+213
+00:15:38,570 --> 00:15:40,130
+It has nothing to do with you, Ogami.
+
+214
+00:15:54,912 --> 00:15:57,125
+(Apologize to Ibushi-san)
+
+215
+00:15:59,405 --> 00:16:01,139
+[More technical jargon most likely related
+to the Ibushi-san case]
+
+216
+00:16:03,990 --> 00:16:04,990
+Hey!
+
+217
+00:16:06,930 --> 00:16:08,630
+You scared me.
+
+218
+00:16:10,640 --> 00:16:12,210
+Didn't you go straight home?
+
+219
+00:16:13,250 --> 00:16:14,350
+You're one to talk.
+
+220
+00:16:14,850 --> 00:16:16,340
+Why are you still here at this hour?
+
+221
+00:16:18,460 --> 00:16:22,200
+I managed to get a chance to apologize
+to Ibushi-san again this weekend.
+
+222
+00:16:25,790 --> 00:16:28,530
+So you managed to set up a meeting.
+
+223
+00:16:36,950 --> 00:16:40,240
+Did you change Tomioka's
+data again without telling him?
+
+224
+00:16:43,120 --> 00:16:46,050
+It's faster if I just fix it since it
+needs to be changed anyway.
+
+225
+00:16:49,680 --> 00:16:51,370
+Don't try to shoulder everything yourself.
+
+226
+00:16:57,700 --> 00:16:59,940
+You'll run yourself into the
+ground if you keep this up.
+
+227
+00:17:03,070 --> 00:17:05,570
+I'll be careful not to cause
+any trouble for anyone.
+
+228
+00:17:16,530 --> 00:17:17,530
+Here.
+
+229
+00:17:18,540 --> 00:17:19,540
+It's chocolate.
+
+230
+00:17:21,250 --> 00:17:22,890
+Chocolate...
+
+231
+00:17:23,250 --> 00:17:24,250
+You like it, right?
+
+232
+00:17:24,570 --> 00:17:26,370
+You have a bunch of
+it over there, don't you?
+
+233
+00:17:33,600 --> 00:17:34,700
+Well, I'm heading out.
+
+234
+00:17:35,520 --> 00:17:36,720
+You should head home soon too.
+
+235
+00:17:40,380 --> 00:17:42,080
+What did he come here for?
+
+236
+00:17:46,220 --> 00:17:48,050
+He saw me when I was a mess.
+
+237
+00:17:49,000 --> 00:17:51,250
+I must've looked pathetic in his eyes.
+
+238
+00:17:54,880 --> 00:17:56,080
+But...
+
+239
+00:17:57,470 --> 00:17:59,860
+I don't want to make
+the same mistake again.
+
+240
+00:18:05,970 --> 00:18:10,430
+We also have to coordinate the schedules
+of all related parties on our end.
+
+241
+00:18:11,270 --> 00:18:14,640
+It's very inconvenient for us when
+you postpone the delivery date like this.
+
+242
+00:18:16,150 --> 00:18:17,250
+We're very sorry.
+
+243
+00:18:18,280 --> 00:18:19,280
+Forget it.
+
+244
+00:18:19,780 --> 00:18:22,380
+In any case, we can't work
+with your company anymore.
+
+245
+00:18:23,230 --> 00:18:25,000
+Why is Ogami apologizing?
+
+246
+00:18:26,330 --> 00:18:28,260
+It's my fault...
+
+247
+00:18:28,870 --> 00:18:29,870
+No.
+
+248
+00:18:30,560 --> 00:18:32,640
+It's my fault. I'm the one
+who gave you the work.
+
+249
+00:18:36,580 --> 00:18:38,050
+I'm used to apologizing.
+
+250
+00:18:39,130 --> 00:18:40,880
+If you make another mistake in the future,
+
+251
+00:18:41,210 --> 00:18:43,030
+I'll go and apologize with you.
+
+252
+00:18:49,650 --> 00:18:51,860
+I didn't ask you to do that.
+
+253
+00:18:53,760 --> 00:18:55,520
+How could I let you do that?
+
+254
+00:18:59,710 --> 00:19:02,230
+I need to sit down somewhere...
+
+255
+00:19:13,280 --> 00:19:14,280
+Ah...
+
+256
+00:19:35,700 --> 00:19:37,430
+Ah... It's so sweet.
+
+257
+00:19:39,800 --> 00:19:41,890
+I'm just going in circles...
+
+258
+00:19:46,430 --> 00:19:47,600
+What should I do...
+
+259
+00:19:48,950 --> 00:19:51,240
+to be on equal footing with Ogami?
+
+260
+00:19:53,710 --> 00:19:54,840
+Just kidding.
+
+261
+00:19:55,710 --> 00:19:58,300
+It must be disgusting to be
+admired by someone like me, right?
+
+262
+00:20:09,030 --> 00:20:10,850
+The mirror before you
+
+263
+00:20:11,560 --> 00:20:14,130
+will reflect the person you wish to become.
+
+264
+00:20:14,840 --> 00:20:17,810
+If you picture your ideal self in
+your mind and gaze into the mirror,
+
+265
+00:20:18,690 --> 00:20:21,930
+you may truly become that person.
+
+266
+00:20:39,800 --> 00:20:41,330
+The person I wish to become...
+
+267
+00:21:01,150 --> 00:21:02,540
+If I could,
+
+268
+00:21:05,390 --> 00:21:08,390
+I'd like to fit in with the sales
+department and get along with everyone...
+
+269
+00:21:08,990 --> 00:21:10,540
+to be acknowledged by Ogami.
+
+270
+00:21:14,150 --> 00:21:16,080
+And to be able to smile back at him
+naturally...
+
+271
+00:21:17,840 --> 00:21:19,950
+that's the kind of person I want to be.
+
+272
+00:21:37,950 --> 00:21:39,100
+How foolish.
+
+273
+00:21:42,140 --> 00:21:43,140
+Huh?
+
+274
+00:22:26,310 --> 00:22:27,310
+Who's there?
+
+275
+00:22:31,010 --> 00:22:32,010
+Kano.
+
+276
+00:22:32,110 --> 00:22:33,110
+Kano.
+
+277
+00:22:33,560 --> 00:22:34,560
+Kano.
+
+278
+00:22:38,450 --> 00:22:40,020
+- Ogami...? - Are you okay?!
+
+279
+00:22:43,460 --> 00:22:44,460
+What happened...?
+
+280
+00:22:47,990 --> 00:22:49,939
+I saw you walking into a shrine this late.
+
+281
+00:22:49,940 --> 00:22:51,976
+I was worried something might've
+happened, so I followed you.
+
+282
+00:22:52,000 --> 00:22:53,170
+What happened...?
+
+283
+00:23:00,670 --> 00:23:01,670
+Nothing.
+
+284
+00:23:02,040 --> 00:23:03,040
+Sorry.
+
+285
+00:23:04,500 --> 00:23:05,660
+I made you worry for nothing.
+
+286
+00:23:06,460 --> 00:23:07,460
+Ah...
+
+287
+00:23:12,440 --> 00:23:13,460
+Kano.
+
+288
+00:23:22,090 --> 00:23:24,010
+Don't make me worry so much.
+
+289
+00:23:26,420 --> 00:23:27,420
+Huh?!
+
+290
+00:23:31,240 --> 00:23:32,340
+What are you doing?!
+
+291
+00:23:33,340 --> 00:23:34,600
+I'll take you home.
+
+292
+00:23:35,860 --> 00:23:38,000
+It'd be bad if something happened to you.
+
+293
+00:23:41,280 --> 00:23:42,730
+Who is this guy...?
+
+294
+00:23:45,060 --> 00:23:46,600
+(Next Episode Preview) What is going on?
+
+295
+00:23:46,610 --> 00:23:48,250
+Why is everyone acting so differently...?
+
+296
+00:23:48,560 --> 00:23:51,400
+(Akihito's world suddenly changes.)
+Please teach me like you always do.
+
+297
+00:23:52,010 --> 00:23:53,500
+Tell me, what happened?
+
+298
+00:23:53,580 --> 00:23:55,106
+(If he's Ogami from a parallel world...)
+I've always been grateful for your help.
+
+299
+00:23:55,130 --> 00:23:56,599
+Thank you, Kano.
+
+300
+00:23:56,600 --> 00:23:58,050
+I need you.
+
+301
+00:23:58,210 --> 00:23:59,760
+I'm counting on you, partner.
