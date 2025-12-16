@@ -1,0 +1,2871 @@
+1
+00:00:05,180 --> 00:00:06,239
+(This is a work of fiction. All names, characters, )
+
+2
+00:00:06,240 --> 00:00:07,279
+(and incidents are products of the author's imagination.)
+
+3
+00:00:07,280 --> 00:00:08,280
+(All child actors were accompanied by a guardian, )
+
+4
+00:00:08,350 --> 00:00:09,380
+(and filmed in accordance with labor laws.)
+
+5
+00:00:10,850 --> 00:00:12,180
+- Heinrich's Law. - Heinrich's Law.
+
+6
+00:00:16,020 --> 00:00:19,860
+For every major disaster, there are 29 minor incidents on average...
+
+7
+00:00:19,960 --> 00:00:21,330
+and 300 warning signs.
+
+8
+00:00:25,460 --> 00:00:27,700
+So, what does that make this situation?
+
+9
+00:00:28,570 --> 00:00:30,400
+(Revoke the Hangang University Merger)
+
+10
+00:00:31,600 --> 00:00:33,670
+How did we end up in this mess?
+
+11
+00:00:39,910 --> 00:00:44,350
+I thought it was just a GitHub push, like a single commit message.
+
+12
+00:00:46,750 --> 00:00:48,920
+(Dept. of Converged Physical Tech and Global Content Development)
+
+13
+00:00:49,250 --> 00:00:52,020
+But the errors piled up without any alerts,
+
+14
+00:00:52,520 --> 00:00:54,430
+and between the conflicts I just glossed over,
+
+15
+00:00:54,930 --> 00:00:57,030
+what were you and I missing?
+
+16
+00:01:01,300 --> 00:01:03,600
+What if we were already infected?
+
+17
+00:01:04,100 --> 00:01:07,840
+- This is a sophisticated virus. - Hey, emergency!
+
+18
+00:01:08,140 --> 00:01:09,140
+Emergency!
+
+19
+00:01:11,640 --> 00:01:13,479
+It puts us both at risk,
+
+20
+00:01:13,480 --> 00:01:15,850
+but strangely, it keeps the system on.
+
+21
+00:01:17,180 --> 00:01:20,190
+Anyway, what we need to do now is debug.
+
+22
+00:01:21,320 --> 00:01:23,790
+All the way back to that moment we thought was our safe zone,
+
+23
+00:01:24,360 --> 00:01:26,290
+let's rewind the timeline.
+
+24
+00:01:26,890 --> 00:01:29,390
+Find the first log entry of this disaster.
+
+25
+00:01:30,630 --> 00:01:33,900
+Let's start with your stereotypical image of an engineering student.
+
+26
+00:01:34,570 --> 00:01:38,700
+Black backpack with a water bottle, a three-fold umbrella on the left,
+
+27
+00:01:38,900 --> 00:01:39,970
+unstyled hair,
+
+28
+00:01:40,610 --> 00:01:42,040
+and cheap horn-rimmed glasses.
+
+29
+00:01:42,770 --> 00:01:45,680
+And on top of that, pants with a questionable fit.
+
+30
+00:01:46,310 --> 00:01:48,950
+And a plaid shirt you can draw graphs on in a pinch.
+
+31
+00:01:51,350 --> 00:01:54,190
+But what's missing is a subtitle for the year.
+
+32
+00:01:54,590 --> 00:01:56,519
+Visit a Korean engineering school now,
+
+33
+00:01:56,520 --> 00:01:58,890
+and you'll quickly realize...
+
+34
+00:01:59,090 --> 00:02:03,390
+how distorted your information and narrow-minded your views are.
+
+35
+00:02:04,400 --> 00:02:06,129
+Ten-dollar horn-rimmed glasses?
+
+36
+00:02:06,130 --> 00:02:08,130
+These are Gentle Monster, those are Moscot,
+
+37
+00:02:08,200 --> 00:02:11,200
+and these are Projekt Produkt. Unstyled hair? Give me a break!
+
+38
+00:02:11,400 --> 00:02:15,940
+They use conditioner, treatments, and even get Brazilian waxes.
+
+39
+00:02:19,540 --> 00:02:21,810
+Don't get me started on the fantasy of the "Belle of Engineering."
+
+40
+00:02:22,850 --> 00:02:24,219
+She's pretty, has a great body,
+
+41
+00:02:24,220 --> 00:02:25,780
+and is a pro at soldering and gaming.
+
+42
+00:02:25,850 --> 00:02:28,790
+She helps price parts at Yongsan. She's cool with the returnees.
+
+43
+00:02:29,290 --> 00:02:32,760
+Who is it? Who makes up these stereotypes?
+
+44
+00:02:32,820 --> 00:02:35,030
+Who is it?
+
+45
+00:02:35,760 --> 00:02:39,360
+Who the heck is spreading this crap about us?
+
+46
+00:02:39,730 --> 00:02:40,730
+And another thing.
+
+47
+00:02:41,000 --> 00:02:42,029
+Since we're not a Seoul university,
+
+48
+00:02:42,030 --> 00:02:44,270
+campus dramas don't film at our school.
+
+49
+00:02:44,400 --> 00:02:47,270
+Stuck on the outskirts of the city, where it blizzards on the first day.
+
+50
+00:02:47,610 --> 00:02:48,770
+It is a little embarrassing.
+
+51
+00:02:48,840 --> 00:02:50,540
+(Hangang University)
+
+52
+00:02:51,010 --> 00:02:53,380
+And in the middle of this bizarre weather,
+
+53
+00:02:53,440 --> 00:02:56,250
+that Tinder Guy asked you to come all the way out to Seoul, right?
+
+54
+00:02:56,550 --> 00:02:57,550
+Yes.
+
+55
+00:02:57,880 --> 00:03:00,350
+He asked me to come to his place and fix his desktop?
+
+56
+00:03:00,420 --> 00:03:02,920
+Said no one was going to be home for a few days.
+
+57
+00:03:03,250 --> 00:03:05,020
+It's obvious what he was trying to pull.
+
+58
+00:03:05,120 --> 00:03:06,660
+(First Day of the Semester)
+
+59
+00:03:06,960 --> 00:03:09,630
+What do you expect from a guy who posts shirtless profile pics?
+
+60
+00:03:09,690 --> 00:03:12,500
+Says the guy who met his girlfriend on an app?
+
+61
+00:03:13,460 --> 00:03:15,170
+It's different for guys and girls, okay?
+
+62
+00:03:15,270 --> 00:03:16,830
+(Kang Dong Won, Junior, Hangang Univ. Fmr. Comp. Eng.)
+
+63
+00:03:16,900 --> 00:03:18,270
+(Notes: Dept. Rep, aka Kang Dong Won, is taken)
+
+64
+00:03:18,440 --> 00:03:22,640
+I was explaining a system restore, and then he said he already knew.
+
+65
+00:03:22,940 --> 00:03:25,610
+Because I'm an engineering student, he wanted to see if I was for real.
+
+66
+00:03:25,680 --> 00:03:27,180
+(Yang Na Rae, Junior, Hangang Univ. Fmr. Comp. Eng.)
+
+67
+00:03:27,250 --> 00:03:28,810
+(Notes: BL fangirl, pastor's daughter)
+
+68
+00:03:29,050 --> 00:03:31,879
+He got defensive and put down my school.
+
+69
+00:03:31,880 --> 00:03:33,990
+He bragged about his school in Seoul.
+
+70
+00:03:34,250 --> 00:03:35,820
+How tiresome. So?
+
+71
+00:03:36,350 --> 00:03:39,960
+I couldn't let it slide, so I dissed my own school right back at him,
+
+72
+00:03:40,120 --> 00:03:42,330
+and told him the new name of our department.
+
+73
+00:03:43,290 --> 00:03:45,860
+He told me to stop making it up. He asked, "What department is that?"
+
+74
+00:03:47,670 --> 00:03:52,470
+- Oppose the Engineering merger! - Oppose!
+
+75
+00:03:52,540 --> 00:03:54,310
+Save the Department of Computer Engineering!
+
+76
+00:03:54,540 --> 00:03:58,410
+This is the first build-up to the impending catastrophe.
+
+77
+00:03:58,880 --> 00:04:03,750
+The merger of Computer Engineering and Modeling, effective this spring.
+
+78
+00:04:04,620 --> 00:04:06,120
+A combination of buzzwords.
+
+79
+00:04:06,380 --> 00:04:08,020
+I guess you could call this a bug too.
+
+80
+00:04:09,090 --> 00:04:13,690
+No less than Dept. Converged Tech and Content Dev.
+
+81
+00:04:15,390 --> 00:04:16,730
+But really, why should I care?
+
+82
+00:04:17,030 --> 00:04:19,499
+As long as my sanctuary is intact...
+
+83
+00:04:19,500 --> 00:04:21,530
+and my world of 1s and 0s is untouchable.
+
+84
+00:04:23,270 --> 00:04:24,400
+(Joo Yeon San, Junior, Fmr. Comp. Eng.)
+
+85
+00:04:24,470 --> 00:04:25,470
+(Admitted with top scores)
+
+86
+00:04:25,540 --> 00:04:26,540
+(Trait: Looks out for number one)
+
+87
+00:04:27,470 --> 00:04:28,539
+(LOVE.exe)
+
+88
+00:04:28,540 --> 00:04:29,570
+(Episode 1: What's Your Name?)
+
+89
+00:04:29,610 --> 00:04:31,710
+If we don't foster interdisciplinary convergence,
+
+90
+00:04:31,880 --> 00:04:35,080
+we can't navigate the rough seas of the Fourth Industrial Revolution.
+
+91
+00:04:35,850 --> 00:04:40,180
+A skilled model is not unlike a perfectly coded program.
+
+92
+00:04:40,790 --> 00:04:41,790
+Don't you think?
+
+93
+00:04:42,750 --> 00:04:44,260
+Right. They're just broke.
+
+94
+00:04:45,020 --> 00:04:46,660
+So what are we supposed to call it for short?
+
+95
+00:04:47,090 --> 00:04:49,360
+Con-Phys? Con-Tech-Glo?
+
+96
+00:04:49,560 --> 00:04:51,660
+Or wait, Con-Tech-Con?
+
+97
+00:04:52,430 --> 00:04:55,630
+Guys, let's stop trying to adapt and start fighting back.
+
+98
+00:04:56,570 --> 00:04:59,800
+A surprise merger during the break? This is basically a scam. Right?
+
+99
+00:05:00,100 --> 00:05:03,070
+When we enrolled, they kept talking about becoming the "next KAIST."
+
+100
+00:05:03,170 --> 00:05:07,350
+They promised full scholarships. But look at us and KAIST now.
+
+101
+00:05:07,410 --> 00:05:09,480
+The only thing we have in common is the Jang Yeong Sil statue.
+
+102
+00:05:11,550 --> 00:05:12,550
+Even that's different.
+
+103
+00:05:12,980 --> 00:05:16,420
+KAIST has a full-body statue of him. Ours is, well, as you can see.
+
+104
+00:05:23,260 --> 00:05:27,770
+So that's what it is. They were prepping this for the merger.
+
+105
+00:05:27,930 --> 00:05:31,000
+It looks so sloppy and rushed. The art styles are so different.
+
+106
+00:05:33,710 --> 00:05:35,140
+You're right, Dong Won.
+
+107
+00:05:35,540 --> 00:05:37,680
+The art styles really are completely different.
+
+108
+00:05:49,520 --> 00:05:53,360
+Which one is the CompSci major and which one is the Modeling major?
+
+109
+00:05:53,760 --> 00:05:56,890
+It's so obvious which is which...
+
+110
+00:05:56,960 --> 00:05:59,130
+that "convergence" hardly seems like the right word.
+
+111
+00:05:59,260 --> 00:06:01,800
+But having these prickly pretty boys around,
+
+112
+00:06:01,900 --> 00:06:04,540
+I guess that kind of diversity isn't so bad after all.
+
+113
+00:06:04,740 --> 00:06:09,040
+What do you mean, "not so bad?" They got a grant for "innovation."
+
+114
+00:06:09,170 --> 00:06:11,380
+Our scholarships were cut in half, our budget was cut in half,
+
+115
+00:06:11,480 --> 00:06:14,710
+Our classrooms, labs, and the lounge, all cut in half!
+
+116
+00:06:14,980 --> 00:06:17,650
+Fellow students, please sign our petition!
+
+117
+00:06:17,950 --> 00:06:18,950
+Selling our dept. without our say!
+
+118
+00:06:19,020 --> 00:06:21,320
+To be that young and passionate again.
+
+119
+00:06:21,850 --> 00:06:23,890
+The blissful ignorance of youth.
+
+120
+00:06:24,990 --> 00:06:28,160
+- Excuse me, sir. Your name and... - You know, back in my day...
+
+121
+00:06:29,790 --> 00:06:34,600
+Yet, the school's main contributors haven't uttered a single complaint.
+
+122
+00:06:35,000 --> 00:06:38,100
+Like your star client and her brother.
+
+123
+00:06:38,240 --> 00:06:40,340
+It's a win-win situation for everyone.
+
+124
+00:06:40,610 --> 00:06:41,610
+Right?
+
+125
+00:06:42,870 --> 00:06:43,910
+Hold on.
+
+126
+00:06:44,540 --> 00:06:49,350
+That's right. And she's shooting a commercial at Jang Yeong Sil Hall?
+
+127
+00:06:49,450 --> 00:06:50,450
+Yes.
+
+128
+00:06:51,420 --> 00:06:55,750
+Always boosting campus revenue, I see.
+
+129
+00:06:56,320 --> 00:06:58,820
+The director insisted on this place. This lounge really is gorgeous.
+
+130
+00:06:59,190 --> 00:07:01,830
+So she's shooting that ad with Jennie from Blackpink here?
+
+131
+00:07:02,590 --> 00:07:07,500
+Not quite. It's Jinny, an older idol but just as famous and popular.
+
+132
+00:07:07,600 --> 00:07:09,570
+- Jinny? - You know her, right?
+
+133
+00:07:10,370 --> 00:07:11,570
+Of course, of course.
+
+134
+00:07:11,640 --> 00:07:15,670
+I'm all about relating to Gen MZ, you know?
+
+135
+00:07:15,940 --> 00:07:20,650
+In fact, that new department name? That was my idea.
+
+136
+00:07:20,750 --> 00:07:22,310
+(Dept. of Converged Physical Tech and Global Content Development)
+
+137
+00:07:22,750 --> 00:07:23,750
+That explains it.
+
+138
+00:07:25,420 --> 00:07:26,420
+It sounded so trendy.
+
+139
+00:07:28,420 --> 00:07:29,420
+Now, let's see.
+
+140
+00:07:29,790 --> 00:07:31,990
+So, about what time will her brother be here?
+
+141
+00:07:32,220 --> 00:07:35,760
+Well... He wanted to see the new campus.
+
+142
+00:07:35,830 --> 00:07:37,030
+He should be here any minute now.
+
+143
+00:07:37,430 --> 00:07:41,330
+The Department of Converged Physical Technology and Global Content Dev...
+
+144
+00:07:41,400 --> 00:07:45,170
+- What a joke! What a joke! - What a joke! What a joke!
+
+145
+00:07:45,300 --> 00:07:49,340
+Engineering degree for being tall? Makes no sense! Makes no sense!
+
+146
+00:07:49,440 --> 00:07:51,440
+Makes no sense! Makes no sense!
+
+147
+00:07:51,610 --> 00:07:53,709
+Don't just watch, everyone!
+
+148
+00:07:53,710 --> 00:07:55,950
+Sign the petition to stop the merger!
+
+149
+00:07:56,010 --> 00:07:57,320
+Please sign the petition. We need your help!
+
+150
+00:07:57,380 --> 00:07:58,380
+Excuse me...
+
+151
+00:07:59,080 --> 00:08:00,650
+Could I take a look at that?
+
+152
+00:08:00,790 --> 00:08:03,090
+(Guarantee Student Rights)
+
+153
+00:08:13,330 --> 00:08:17,130
+By the way, could you tell me why you're against the merger?
+
+154
+00:08:17,240 --> 00:08:18,770
+Are you seriously asking because you don't...
+
+155
+00:08:21,470 --> 00:08:23,470
+You have every right to ask.
+
+156
+00:08:24,310 --> 00:08:26,810
+You absolutely should ask. This has nothing to do with you...
+
+157
+00:08:27,350 --> 00:08:29,850
+It's not about you guys personally. Not at all.
+
+158
+00:08:29,910 --> 00:08:34,050
+Exactly. It's not about individuals. Everyone's special in their own way.
+
+159
+00:08:35,050 --> 00:08:36,050
+That's a relief.
+
+160
+00:08:36,390 --> 00:08:39,160
+I'll read this over and come find you again, okay?
+
+161
+00:08:39,720 --> 00:08:40,760
+Yes, of course.
+
+162
+00:08:41,360 --> 00:08:42,360
+Got it.
+
+163
+00:08:49,130 --> 00:08:50,230
+See you around.
+
+164
+00:08:50,970 --> 00:08:52,300
+Yeah, definitely come back!
+
+165
+00:08:52,800 --> 00:08:55,110
+Dude, he's gotta be a celebrity. He's way too good-looking.
+
+166
+00:08:55,470 --> 00:08:58,410
+- We should've gotten his autograph. - He totally is, right?
+
+167
+00:08:58,480 --> 00:08:59,580
+Darn, he's so tall.
+
+168
+00:09:00,480 --> 00:09:01,710
+You're a model too, right?
+
+169
+00:09:02,010 --> 00:09:03,980
+No. I'm a CompSci major.
+
+170
+00:09:04,520 --> 00:09:07,390
+Why are high school students here? Is there a college info event today?
+
+171
+00:09:07,450 --> 00:09:08,820
+We heard a celebrity was coming today.
+
+172
+00:09:09,420 --> 00:09:10,420
+A celebrity?
+
+173
+00:09:10,490 --> 00:09:13,690
+The model from Match on Wheels! Kang Min Hak!
+
+174
+00:09:13,760 --> 00:09:15,490
+Will you please keep it down?
+
+175
+00:09:15,590 --> 00:09:17,660
+She's a huge fan of his, so we all tagged along.
+
+176
+00:09:17,760 --> 00:09:21,200
+- Pipe down! We'll get kicked out. - Ahem.
+
+177
+00:09:21,270 --> 00:09:24,300
+Hey, the security guard's here. We'll sign this.
+
+178
+00:09:24,370 --> 00:09:25,370
+It's okay if we sign this, right?
+
+179
+00:09:25,440 --> 00:09:28,040
+This is actually just for university members.
+
+180
+00:09:28,110 --> 00:09:31,040
+Come on. We're part of the local community.
+
+181
+00:09:31,740 --> 00:09:33,840
+Hey, why are you using my name?
+
+182
+00:09:33,910 --> 00:09:36,380
+Her name's hilarious, isn't it? Ahn In Dae.
+
+183
+00:09:36,650 --> 00:09:39,180
+- Gosh, TMI. - That's not TMI.
+
+184
+00:09:39,980 --> 00:09:43,720
+But you guys really aren't supposed to be signing this.
+
+185
+00:09:43,990 --> 00:09:47,360
+- Please, not you too. - She's actually kind of funny.
+
+186
+00:09:47,730 --> 00:09:48,730
+Hilarious.
+
+187
+00:09:49,560 --> 00:09:52,200
+That's Kang Dong Won for you. Living up to his handsome namesake.
+
+188
+00:09:52,560 --> 00:09:54,700
+Yeah. "Converged Physical" definitely suits you.
+
+189
+00:09:55,970 --> 00:09:58,000
+Hey, you two should be the ones joining in.
+
+190
+00:10:00,810 --> 00:10:02,210
+I don't know if this will help, but...
+
+191
+00:10:03,040 --> 00:10:04,280
+Converged Technology, or whatever.
+
+192
+00:10:04,610 --> 00:10:06,580
+If you don't sign, that's what will be printed on your diploma.
+
+193
+00:10:07,040 --> 00:10:11,220
+But does our department name matter? For developers, experience is key.
+
+194
+00:10:11,480 --> 00:10:13,420
+You sound like you're in favor of the merger.
+
+195
+00:10:13,480 --> 00:10:15,520
+Why do you have to put it like that?
+
+196
+00:10:21,690 --> 00:10:23,660
+- Hey, write neatly in the box. - Okay, okay.
+
+197
+00:10:41,550 --> 00:10:43,980
+Excuse me, do you know which building C103 is in?
+
+198
+00:10:44,620 --> 00:10:47,390
+My map app says it's this way, but...
+
+199
+00:10:47,590 --> 00:10:50,150
+I can show you the way. I happen to be heading there myself.
+
+200
+00:10:52,290 --> 00:10:53,760
+Really? Thank you.
+
+201
+00:10:54,690 --> 00:10:56,160
+No, thank you.
+
+202
+00:10:56,890 --> 00:10:57,900
+Shall we?
+
+203
+00:10:58,260 --> 00:10:59,960
+See you again!
+
+204
+00:11:00,600 --> 00:11:01,600
+Take care.
+
+205
+00:11:02,800 --> 00:11:05,940
+So much for solidarity in our major.
+
+206
+00:11:07,000 --> 00:11:10,880
+They chose us over the other majors. They knew we were pushovers.
+
+207
+00:11:13,180 --> 00:11:14,950
+Wow, this lounge is huge.
+
+208
+00:11:15,350 --> 00:11:16,980
+Sa Ni, you seem kinda excited about this yourself.
+
+209
+00:11:19,750 --> 00:11:22,320
+Don't tell me you're for the merger, too.
+
+210
+00:11:22,750 --> 00:11:25,960
+Does the department name matter? Not for a developer.
+
+211
+00:11:26,020 --> 00:11:27,760
+Not you too!
+
+212
+00:11:28,160 --> 00:11:30,360
+For a developer, it's all about the gear.
+
+213
+00:11:32,530 --> 00:11:33,560
+And I just got a new setup.
+
+214
+00:11:38,940 --> 00:11:42,410
+Intel Core Ultra 200HX and a GeForce RTX 5070.
+
+215
+00:11:42,540 --> 00:11:44,410
+Data storage is a Super RAID 5.
+
+216
+00:11:44,680 --> 00:11:46,040
+Okay. Congratulations, I guess.
+
+217
+00:11:47,140 --> 00:11:48,380
+Excuse me, could you sign this?
+
+218
+00:11:48,980 --> 00:11:51,950
+Bet you're wondering where I suddenly got all this cash.
+
+219
+00:11:52,080 --> 00:11:53,320
+Not really.
+
+220
+00:11:53,580 --> 00:11:54,590
+Here.
+
+221
+00:11:54,650 --> 00:11:57,050
+I consulted on a TV script for some clueless liberal arts majors.
+
+222
+00:11:58,260 --> 00:11:59,260
+A TV show?
+
+223
+00:11:59,860 --> 00:12:02,190
+It was a freelance gig. A client set me up over winter break,
+
+224
+00:12:02,260 --> 00:12:06,100
+and I met a writer, director, and producer who are big shots.
+
+225
+00:12:06,800 --> 00:12:09,830
+"We're making a campus drama set in the Computer Engineering Dept."
+
+226
+00:12:09,900 --> 00:12:13,800
+"A genius coder uninterested in love falls for a cold startup guy."
+
+227
+00:12:14,040 --> 00:12:16,040
+Sounds boring already, but... what can you do? It's work.
+
+228
+00:12:16,270 --> 00:12:19,579
+The problem is, the writers are all liberal arts majors...
+
+229
+00:12:19,580 --> 00:12:20,640
+who know nothing.
+
+230
+00:12:20,710 --> 00:12:22,850
+Like what the professors are saying in the background...
+
+231
+00:12:22,980 --> 00:12:26,050
+or what today's engineers or IT professionals in 2025...
+
+232
+00:12:26,120 --> 00:12:29,990
+how they talk, what they care about. They were completely clueless.
+
+233
+00:12:30,990 --> 00:12:34,560
+So, with a script full of hundreds, even thousands, of errors,
+
+234
+00:12:34,830 --> 00:12:37,529
+I started my nitpicky edits,
+
+235
+00:12:37,530 --> 00:12:39,500
+and they suddenly started complaining.
+
+236
+00:12:48,110 --> 00:12:50,839
+"We want to focus on the love story..."
+
+237
+00:12:50,840 --> 00:12:52,879
+"And, you know, a real love story..."
+
+238
+00:12:52,880 --> 00:12:55,810
+"doesn't unfold before a laptop or behind a lectern."
+
+239
+00:12:56,080 --> 00:12:59,220
+"Are you an extreme 'T' on the MBTI or something?"
+
+240
+00:12:59,650 --> 00:13:03,650
+"No. I don't like being defined by MBTI."
+
+241
+00:13:05,020 --> 00:13:06,960
+So I just took my advance and we terminated the contract.
+
+242
+00:13:07,830 --> 00:13:08,830
+Which was a total win for me, anyway.
+
+243
+00:13:11,000 --> 00:13:12,700
+Congratulations again.
+
+244
+00:13:13,500 --> 00:13:14,999
+Thanks to that, I upgraded to a laptop...
+
+245
+00:13:15,000 --> 00:13:16,200
+that's about 3.7 times more powerful,
+
+246
+00:13:16,300 --> 00:13:18,800
+so my compile time will be 2.5 times faster,
+
+247
+00:13:18,870 --> 00:13:21,740
+and if I use that time to take on 0.8 more freelance gigs a month,
+
+248
+00:13:21,810 --> 00:13:24,980
+I can get out of this place at least six months sooner.
+
+249
+00:13:25,610 --> 00:13:27,810
+The reason I'm sharing my stats with you in such detail is...
+
+250
+00:13:28,050 --> 00:13:30,710
+I know. You're trying to rope me into your project.
+
+251
+00:13:31,250 --> 00:13:32,380
+I'm being serious.
+
+252
+00:13:33,080 --> 00:13:34,620
+We're running out of time.
+
+253
+00:13:35,190 --> 00:13:36,190
+Time?
+
+254
+00:13:36,250 --> 00:13:41,030
+Seoul's average temp rose last year. Just look outside.
+
+255
+00:13:41,130 --> 00:13:43,160
+It's March, and we got hit with a sudden cold snap.
+
+256
+00:13:43,990 --> 00:13:46,330
+I know, right? It even snowed on the first day of the semester.
+
+257
+00:13:46,800 --> 00:13:49,600
+The college merger is the least of our problems right now.
+
+258
+00:13:50,200 --> 00:13:52,399
+You know me. If the world were ending,
+
+259
+00:13:52,400 --> 00:13:54,470
+I'm the type to plant an apple tree.
+
+260
+00:13:54,810 --> 00:13:57,239
+But we must control what's immediate.
+
+261
+00:13:57,240 --> 00:13:58,240
+For you, that's the Student Council,
+
+262
+00:13:58,310 --> 00:13:59,310
+and for me...
+
+263
+00:13:59,640 --> 00:14:00,879
+Hey, the scholarship results are up!
+
+264
+00:14:00,880 --> 00:14:01,950
+Hey, they're posted, they're posted!
+
+265
+00:14:02,010 --> 00:14:03,079
+Sweet!
+
+266
+00:14:03,080 --> 00:14:04,150
+Are you checking it? Is it posted?
+
+267
+00:14:06,320 --> 00:14:07,719
+A full ride!
+
+268
+00:14:07,720 --> 00:14:09,320
+Guys, I got it! Oh my gosh!
+
+269
+00:14:10,960 --> 00:14:12,360
+Wait, what is this?
+
+270
+00:14:13,490 --> 00:14:15,830
+Where the heck is this place supposed to be?
+
+271
+00:14:18,960 --> 00:14:19,960
+What?
+
+272
+00:14:20,300 --> 00:14:21,300
+What?
+
+273
+00:14:21,770 --> 00:14:23,770
+This way? Gosh, darn it.
+
+274
+00:14:25,600 --> 00:14:26,600
+Not interested.
+
+275
+00:14:27,970 --> 00:14:30,510
+- It's freezing, freezing, freezing. - Excuse me.
+
+276
+00:14:31,280 --> 00:14:34,710
+Excuse me. Ex-excuse me. Hey, excuse me.
+
+277
+00:14:35,150 --> 00:14:36,150
+Hey!
+
+278
+00:14:37,780 --> 00:14:38,780
+What's with this guy?
+
+279
+00:14:38,980 --> 00:14:41,990
+Sorry, would you happen to know where the Dean's Office is?
+
+280
+00:14:42,290 --> 00:14:44,560
+Which college's dean? And from what department?
+
+281
+00:14:44,920 --> 00:14:46,920
+One sec.
+
+282
+00:14:48,760 --> 00:14:51,200
+Converged Physical Technology...
+
+283
+00:14:51,630 --> 00:14:55,130
+- Glo... - Dept. of Global Content Dev?
+
+284
+00:14:55,200 --> 00:14:56,230
+Yes, that's the one.
+
+285
+00:14:56,430 --> 00:14:58,340
+For the former Comp. Eng. Dean's Office,
+
+286
+00:14:58,800 --> 00:14:59,800
+head to Jang Yeong Sil Hall.
+
+287
+00:15:00,340 --> 00:15:03,440
+Jang Yeong Sil... Isn't Jang Yeong Sil Hall this way?
+
+288
+00:15:03,510 --> 00:15:08,050
+Nope! Most go through the main gate and the College of Human Ecology,
+
+289
+00:15:08,110 --> 00:15:10,810
+and cross the Cloud Bridge. But if you need the Dean's Office,
+
+290
+00:15:10,910 --> 00:15:14,080
+it's faster via the Central Library. Got it?
+
+291
+00:15:14,850 --> 00:15:18,960
+- Right. So I should... - So he didn't get any of that.
+
+292
+00:15:19,260 --> 00:15:23,430
+In terms of sheer distance, the Human Ecology route is faster,
+
+293
+00:15:23,760 --> 00:15:25,930
+but that calculation doesn't account for the elevator algorithm.
+
+294
+00:15:26,000 --> 00:15:28,129
+Elevators were replaced last year,
+
+295
+00:15:28,130 --> 00:15:30,500
+and now the two are dumb and in sync.
+
+296
+00:15:30,570 --> 00:15:33,270
+And why do you suppose that is?
+
+297
+00:15:34,910 --> 00:15:35,910
+Beats me.
+
+298
+00:15:35,970 --> 00:15:38,210
+Like I said, they must've changed the algorithm.
+
+299
+00:15:38,540 --> 00:15:41,850
+It used to check each car's distance to the user's selected floor...
+
+300
+00:15:41,910 --> 00:15:43,750
+and send whichever one was closer.
+
+301
+00:15:44,780 --> 00:15:47,990
+- So that way... - I'll assume you've got it, then.
+
+302
+00:15:54,890 --> 00:15:56,960
+So cool. That's the engineering student vibe.
+
+303
+00:15:57,230 --> 00:15:59,030
+Can I get your Instagram handle?
+
+304
+00:15:59,800 --> 00:16:02,400
+No, it's just, you look so familiar.
+
+305
+00:16:02,570 --> 00:16:05,400
+If you're not comfortable, you really don't have to. It's fine.
+
+306
+00:16:05,770 --> 00:16:06,770
+Give it here.
+
+307
+00:16:10,110 --> 00:16:11,310
+You have a cute name.
+
+308
+00:16:11,940 --> 00:16:12,940
+Yang Na Rae.
+
+309
+00:16:14,110 --> 00:16:15,679
+Na Rae, Na Rae, Yang Na Rae
+
+310
+00:16:15,680 --> 00:16:16,780
+That's how I'll remember it.
+
+311
+00:16:16,850 --> 00:16:18,280
+Stop.
+
+312
+00:16:19,620 --> 00:16:22,290
+No way. 20,000 followers?
+
+313
+00:16:22,920 --> 00:16:25,260
+So you must be the top dog in the Modeling Major, then.
+
+314
+00:16:25,690 --> 00:16:27,090
+20,000 followers is nothing.
+
+315
+00:16:27,390 --> 00:16:29,930
+A classmate has a million followers. See?
+
+316
+00:16:29,990 --> 00:16:30,990
+A million followers?
+
+317
+00:16:31,600 --> 00:16:33,860
+For just one of his Reels,
+
+318
+00:16:34,370 --> 00:16:35,370
+he makes, what, like five grand?
+
+319
+00:16:35,730 --> 00:16:37,870
+You don't know him? Kang Min Hak.
+
+320
+00:16:52,820 --> 00:16:55,820
+- For me, that's a lot of money. - It is for everyone.
+
+321
+00:16:56,050 --> 00:16:59,260
+I understand the scholarship review can be subjective,
+
+322
+00:16:59,460 --> 00:17:02,960
+and there was some negative wording in my letter of recommendation,
+
+323
+00:17:03,060 --> 00:17:06,360
+"While not lacking the talent required for academic success..."
+
+324
+00:17:06,460 --> 00:17:10,500
+"she only seeks her own glory." Is that the part you mean?
+
+325
+00:17:10,800 --> 00:17:12,440
+This is from Dean Gi Myo Han, I see.
+
+326
+00:17:13,170 --> 00:17:17,880
+I didn't realize our evaluations would have our names attached,
+
+327
+00:17:18,210 --> 00:17:22,580
+I may have slipped up last semester, but did you see my GPA is a 4.28?
+
+328
+00:17:23,050 --> 00:17:25,350
+- Computer Science and Engineering? - Yes.
+
+329
+00:17:25,420 --> 00:17:26,779
+Major in CompSci and Engineering,
+
+330
+00:17:26,780 --> 00:17:29,150
+School of Converged Tech and Content.
+
+331
+00:17:29,650 --> 00:17:34,090
+But you applied as a CompSci Major. That's your old department name.
+
+332
+00:17:36,960 --> 00:17:41,100
+It's from a duplicate registration, and we can't resubmit it for you,
+
+333
+00:17:41,170 --> 00:17:44,030
+we've been trying to contact you to correct and resubmit it.
+
+334
+00:17:44,130 --> 00:17:45,640
+But I never received anything.
+
+335
+00:17:45,770 --> 00:17:48,670
+Yes, you never picked up. Not our calls or our texts.
+
+336
+00:17:49,040 --> 00:17:50,140
+We even contacted you yesterday.
+
+337
+00:17:50,240 --> 00:17:52,280
+That's impossible. If I check my call log...
+
+338
+00:17:52,740 --> 00:17:54,810
+It is in my call log.
+
+339
+00:17:55,550 --> 00:17:58,850
+I implemented an SVM model and ran a simple test on my phone,
+
+340
+00:17:58,950 --> 00:18:02,990
+It's projected to stop 81% of spam. With more data from Jan and Feb...
+
+341
+00:18:03,150 --> 00:18:05,060
+Okay, okay, guys. Sorry to interrupt your game.
+
+342
+00:18:06,520 --> 00:18:08,930
+I can't believe my spam beta app made this mistake.
+
+343
+00:18:10,590 --> 00:18:12,599
+So if I change the name...
+
+344
+00:18:12,600 --> 00:18:14,600
+to Converged Physical and Global Content...
+
+345
+00:18:14,700 --> 00:18:17,430
+and apply again, that should fix it right? It's a simple fix?
+
+346
+00:18:17,500 --> 00:18:18,840
+It was, until yesterday.
+
+347
+00:18:19,440 --> 00:18:23,510
+It's now a special exception, so you have to start over.
+
+348
+00:18:23,570 --> 00:18:25,440
+And get the dean's signature.
+
+349
+00:18:26,510 --> 00:18:27,510
+The dean?
+
+350
+00:18:27,850 --> 00:18:29,050
+The Peculiar Dean.
+
+351
+00:18:29,680 --> 00:18:33,550
+We have distinguished guests today, but this spring weather is amazing.
+
+352
+00:18:33,620 --> 00:18:35,620
+Anyway, this climate crisis these days...
+
+353
+00:18:35,690 --> 00:18:38,460
+We'd appreciate it if you could be flexible with his classes.
+
+354
+00:18:38,620 --> 00:18:41,190
+Besides, it's all practical training for his major.
+
+355
+00:18:41,260 --> 00:18:43,160
+Attendance? That's not a problem.
+
+356
+00:18:43,560 --> 00:18:45,000
+Just be discreet about it.
+
+357
+00:18:45,560 --> 00:18:48,000
+- Excuse me. - Yes? Was there something?
+
+358
+00:18:48,230 --> 00:18:49,400
+I was looking into it,
+
+359
+00:18:49,500 --> 00:18:53,240
+and CompSci has many classes that could be useful for models.
+
+360
+00:18:53,570 --> 00:18:55,770
+- Is that so? - Yes, look here.
+
+361
+00:18:56,840 --> 00:18:58,940
+There's something called Cap Design?
+
+362
+00:18:59,680 --> 00:19:03,380
+- For making hats or something? - Hats?
+
+363
+00:19:04,110 --> 00:19:06,020
+- Caps? - Cap...
+
+364
+00:19:06,450 --> 00:19:07,450
+Oh!
+
+365
+00:19:08,750 --> 00:19:11,320
+Oh, that. That's, that's called "Capstone Design."
+
+366
+00:19:11,660 --> 00:19:15,790
+It's a senior class for solving engineering problems, basically.
+
+367
+00:19:16,730 --> 00:19:20,230
+- Right. I saw one for "running." - Running?
+
+368
+00:19:20,300 --> 00:19:23,730
+Oh, we models only learn how to walk.
+
+369
+00:19:23,970 --> 00:19:26,340
+Hey, they teach running in the College of Engineering.
+
+370
+00:19:26,570 --> 00:19:29,870
+That's probably "Machine Learning." But anyway.
+
+371
+00:19:31,580 --> 00:19:32,580
+Machine?
+
+372
+00:19:33,740 --> 00:19:36,250
+Anyway, I'd like to try taking classes like that.
+
+373
+00:19:37,250 --> 00:19:38,250
+Machine Learning.
+
+374
+00:19:40,020 --> 00:19:41,150
+Cool Running.
+
+375
+00:19:42,550 --> 00:19:44,090
+That would be a perfect name for a running crew.
+
+376
+00:19:47,360 --> 00:19:48,360
+Wow.
+
+377
+00:19:50,230 --> 00:19:51,230
+Capstone...
+
+378
+00:19:52,760 --> 00:19:53,760
+Stone?
+
+379
+00:19:57,130 --> 00:19:58,170
+Thank you again for your time.
+
+380
+00:19:58,240 --> 00:20:00,800
+Then it's settled. You'll observe my class that day.
+
+381
+00:20:00,900 --> 00:20:04,710
+- It's great for the school's promo. - Yes, that would be...
+
+382
+00:20:04,780 --> 00:20:07,280
+- Right. Goodness, thank you. - Yes, of course.
+
+383
+00:20:07,340 --> 00:20:08,350
+Take care.
+
+384
+00:20:08,680 --> 00:20:12,480
+- I'm all about that recycling life. - Min Hak! Awesome morning!
+
+385
+00:20:12,550 --> 00:20:13,550
+Hey.
+
+386
+00:20:14,280 --> 00:20:15,290
+Right.
+
+387
+00:20:18,060 --> 00:20:19,060
+Hey!
+
+388
+00:20:20,320 --> 00:20:22,330
+My follower count suddenly shot up.
+
+389
+00:20:22,990 --> 00:20:24,360
+I'm at, like, 998,000 now.
+
+390
+00:20:25,130 --> 00:20:26,130
+Really?
+
+391
+00:20:26,460 --> 00:20:28,330
+That's great. You were stuck there for a while.
+
+392
+00:20:28,700 --> 00:20:32,840
+Yeah, and some of my new fans have really funny usernames.
+
+393
+00:20:33,140 --> 00:20:34,140
+Check this out.
+
+394
+00:20:35,010 --> 00:20:37,570
+Chun Nyeon Hak, Jong Yi Hak. And get this, Ahn In Dae.
+
+395
+00:20:40,480 --> 00:20:41,480
+What?
+
+396
+00:20:42,050 --> 00:20:43,250
+No, if someone's name is Ahn In Dae...
+
+397
+00:20:43,610 --> 00:20:47,450
+say they come to a fan signing. And I ask, "What's your name?"
+
+398
+00:20:47,620 --> 00:20:49,749
+and they say, "I'm Ahn In Dae."
+
+399
+00:20:49,750 --> 00:20:51,420
+I couldn't tell if they aren't a fan,
+
+400
+00:20:51,490 --> 00:20:53,319
+or if their name is really Ahn In Dae.
+
+401
+00:20:53,320 --> 00:20:55,160
+It'd be so confusing, right?
+
+402
+00:20:55,790 --> 00:20:57,060
+This is no time for jokes.
+
+403
+00:20:57,190 --> 00:21:00,000
+Yeah, like that. I'm pretty good at riffing on stuff.
+
+404
+00:21:04,640 --> 00:21:08,040
+- Hey, I was wondering... - The lounge is nice. Want to go?
+
+405
+00:21:08,670 --> 00:21:09,670
+What?
+
+406
+00:21:10,040 --> 00:21:13,340
+What? I thought you were into that whole engineering student vibe.
+
+407
+00:21:13,680 --> 00:21:15,250
+We should scout out the engineering building beforehand.
+
+408
+00:21:16,550 --> 00:21:17,550
+But just a minute ago...
+
+409
+00:21:18,150 --> 00:21:20,720
+you gave me a look for even bringing up the class.
+
+410
+00:21:20,780 --> 00:21:23,220
+My bad. I wasn't thinking.
+
+411
+00:21:23,750 --> 00:21:27,520
+With the merger, that engineering student look could help your career.
+
+412
+00:21:27,720 --> 00:21:29,530
+That's how we landed that laptop commercial.
+
+413
+00:21:29,790 --> 00:21:30,790
+That I landed for you.
+
+414
+00:21:30,860 --> 00:21:34,430
+I know. That's why I suggested wearing my bangs down.
+
+415
+00:21:34,730 --> 00:21:36,330
+Good call. Forewarned is forearmed.
+
+416
+00:21:36,630 --> 00:21:37,630
+What does that mean?
+
+417
+00:21:38,940 --> 00:21:41,640
+(Study Plan)
+
+418
+00:21:41,840 --> 00:21:45,840
+"By leveraging the IT and tech from the Yeong Sil Scholarship,"
+
+419
+00:21:45,940 --> 00:21:47,710
+"not for my own personal success,"
+
+420
+00:21:47,780 --> 00:21:52,350
+"but to help advance humanity?" You? Seriously?
+
+421
+00:21:52,420 --> 00:21:53,880
+Don't talk to me. The deadline's in ten minutes.
+
+422
+00:21:54,790 --> 00:21:56,349
+How did you miss that?
+
+423
+00:21:56,350 --> 00:21:58,520
+They sent so many notices to reapply.
+
+424
+00:21:58,620 --> 00:22:01,830
+Stop nagging and contribute a line. I'm all out of fancy words.
+
+425
+00:22:01,930 --> 00:22:03,160
+Guys! You're not going to believe this!
+
+426
+00:22:03,690 --> 00:22:05,529
+This is huge. Huge!
+
+427
+00:22:05,530 --> 00:22:07,200
+A student here has one million followers.
+
+428
+00:22:07,630 --> 00:22:09,330
+- One million followers? - Yep.
+
+429
+00:22:09,400 --> 00:22:12,200
+That can't be a million students at Hangang University.
+
+430
+00:22:12,300 --> 00:22:16,240
+So, one of a million followers just happens to be a student here?
+
+431
+00:22:16,670 --> 00:22:18,140
+Those aren't very surprising odds.
+
+432
+00:22:18,210 --> 00:22:22,810
+No! Someone with a million followers is in our Modeling Major!
+
+433
+00:22:23,050 --> 00:22:26,750
+A person with one million followers. Here, on this remote campus.
+
+434
+00:22:26,820 --> 00:22:28,620
+A celebrity like that has graced us with their presence.
+
+435
+00:22:29,920 --> 00:22:33,220
+I doubt that empty online popularity matters at Hangang University.
+
+436
+00:22:33,320 --> 00:22:34,690
+It's not entirely meaningless.
+
+437
+00:22:34,960 --> 00:22:37,560
+With that kind of following, for every post they upload...
+
+438
+00:22:37,630 --> 00:22:39,160
+They supposedly get around 5,000.
+
+439
+00:22:39,560 --> 00:22:40,960
+Wow.
+
+440
+00:22:43,570 --> 00:22:46,270
+- To even make minimum wage... - What?
+
+441
+00:22:46,340 --> 00:22:48,640
+They'd have to upload almost 20 posts an hour.
+
+442
+00:22:49,240 --> 00:22:50,770
+Guess being famous isn't so easy.
+
+443
+00:22:51,110 --> 00:22:54,580
+What are you talking about? Not 50 cents, 5 thousand dollars.
+
+444
+00:22:56,110 --> 00:22:58,650
+- What? - That's a whole semester's tuition.
+
+445
+00:22:58,750 --> 00:22:59,750
+Exactly.
+
+446
+00:23:01,150 --> 00:23:02,790
+They get to live life that easily?
+
+447
+00:23:03,820 --> 00:23:04,820
+Who?
+
+448
+00:23:04,890 --> 00:23:07,090
+- It's Kang Min Hak! - Where?
+
+449
+00:23:07,190 --> 00:23:09,760
+There he is! Kang Min Hak! Wow, he's so handsome!
+
+450
+00:23:15,730 --> 00:23:18,030
+He's so freaking hot. So handsome.
+
+451
+00:23:18,400 --> 00:23:20,600
+Wow, he's seriously good-looking.
+
+452
+00:23:21,000 --> 00:23:22,740
+Wow, he's unreal!
+
+453
+00:23:34,520 --> 00:23:36,790
+I have a feeling he's the one. The one with a million followers.
+
+454
+00:23:37,320 --> 00:23:39,660
+The Modeling Major we were just talking about.
+
+455
+00:23:43,330 --> 00:23:45,599
+You're handsome, even to other guys.
+
+456
+00:23:45,600 --> 00:23:46,730
+Loved you on "Match on Wheels!"
+
+457
+00:23:47,160 --> 00:23:49,570
+- Can I get your autograph? - You're so handsome!
+
+458
+00:23:49,630 --> 00:23:50,630
+Please sign this for me!
+
+459
+00:23:54,970 --> 00:23:58,510
+Why does it feel like time is moving in slow motion over there?
+
+460
+00:23:59,210 --> 00:24:01,880
+That's theoretically possible if the gravity is strong enough.
+
+461
+00:24:02,580 --> 00:24:07,250
+You can't experience that on Earth. So Na Rae, it's an optical illusion.
+
+462
+00:24:07,750 --> 00:24:11,890
+Exactly. I mean, time isn't a proven concept.
+
+463
+00:24:12,290 --> 00:24:13,660
+Oh, come on!
+
+464
+00:24:14,190 --> 00:24:15,390
+Just look, will you?
+
+465
+00:24:16,030 --> 00:24:20,030
+When you see beauty, enjoy it. So just enjoy the view!
+
+466
+00:24:22,300 --> 00:24:24,430
+- But I was here first. - I'm sorry.
+
+467
+00:24:25,440 --> 00:24:28,139
+I knew it. They're all taking photos.
+
+468
+00:24:28,140 --> 00:24:30,210
+These nobodies with nothing to share...
+
+469
+00:24:30,270 --> 00:24:32,210
+are happily doing our marketing for us.
+
+470
+00:24:34,180 --> 00:24:36,180
+- Min Hak! - Whoa, hey!
+
+471
+00:24:36,250 --> 00:24:37,550
+We're here to see you!
+
+472
+00:24:37,650 --> 00:24:40,380
+- Hey, you can't rush him like that! - Hey, you!
+
+473
+00:24:40,450 --> 00:24:43,320
+- Let go of me! Don't touch me! - What's with all these fangirls?
+
+474
+00:24:43,390 --> 00:24:44,420
+We're just here to see him!
+
+475
+00:24:44,520 --> 00:24:47,360
+Teenagers from the suburbs who rarely get to see a celebrity?
+
+476
+00:24:48,230 --> 00:24:51,760
+An influencer on his level is as popular as a pop idol.
+
+477
+00:24:52,160 --> 00:24:53,160
+Tell me about it.
+
+478
+00:24:53,430 --> 00:24:54,530
+What's his deal, anyway?
+
+479
+00:24:55,270 --> 00:24:57,299
+He gets five grand for a single post.
+
+480
+00:24:57,300 --> 00:24:58,770
+Why are people so crazy about him?
+
+481
+00:25:02,210 --> 00:25:04,270
+So cute. Way too cute.
+
+482
+00:25:04,510 --> 00:25:07,080
+Zoom out, cute. Zoom in, cute.
+
+483
+00:25:07,810 --> 00:25:11,510
+From this angle or that one? Pure cuteness overload.
+
+484
+00:25:12,380 --> 00:25:14,420
+Why am I here and not there with them?
+
+485
+00:25:14,680 --> 00:25:17,520
+I don't think there's anyone as perfect as he is.
+
+486
+00:25:17,720 --> 00:25:20,620
+He is so handsome, and he is so talented.
+
+487
+00:25:20,890 --> 00:25:23,290
+I think he's literally the most perfect boy...
+
+488
+00:25:23,360 --> 00:25:24,360
+I've ever seen.
+
+489
+00:25:25,030 --> 00:25:26,030
+Professor Eum,
+
+490
+00:25:26,100 --> 00:25:27,900
+when did you get here?
+
+491
+00:25:29,800 --> 00:25:31,470
+So you're a K-pop fan too?
+
+492
+00:25:32,470 --> 00:25:34,700
+Is that guy from BTS?
+
+493
+00:25:38,910 --> 00:25:41,650
+- Sorry. - No, he is not a K-pop idol.
+
+494
+00:25:42,510 --> 00:25:44,210
+He is actually from this dating show...
+
+495
+00:25:44,280 --> 00:25:45,380
+called "Match on Wheels."
+
+496
+00:25:46,220 --> 00:25:47,220
+On this show,
+
+497
+00:25:47,280 --> 00:25:50,090
+he won people over with his own special kind of charm.
+
+498
+00:25:50,390 --> 00:25:51,390
+At first,
+
+499
+00:25:51,450 --> 00:25:53,820
+no one noticed him among flashier contestants.
+
+500
+00:25:54,160 --> 00:25:56,360
+Doesn't he look really young?
+
+501
+00:25:56,430 --> 00:25:58,460
+- He looks like a kid. - I think he's a college student.
+
+502
+00:25:58,530 --> 00:26:00,460
+- He looks like a college student. - He seems down-to-earth.
+
+503
+00:26:00,600 --> 00:26:02,270
+He didn't try to stand out,
+
+504
+00:26:02,330 --> 00:26:03,500
+just quietly cared.
+
+505
+00:26:03,630 --> 00:26:07,069
+Also fans noticed one of his sexiest traits.
+
+506
+00:26:07,070 --> 00:26:08,370
+His serious recycling habits.
+
+507
+00:26:08,440 --> 00:26:09,470
+Cleaning up after everyone isn't easy.
+
+508
+00:26:09,570 --> 00:26:11,410
+He's just like me, isn't he?
+
+509
+00:26:11,910 --> 00:26:13,580
+While the other male cast members...
+
+510
+00:26:13,640 --> 00:26:14,980
+were gossiping behind backs...
+
+511
+00:26:15,050 --> 00:26:17,909
+and showing their unfiltered macho sides,
+
+512
+00:26:17,910 --> 00:26:18,980
+he didn't get caught up in it.
+
+513
+00:26:19,920 --> 00:26:21,720
+No wonder the female cast members...
+
+514
+00:26:21,790 --> 00:26:23,650
+couldn't help but be drawn to him.
+
+515
+00:26:24,520 --> 00:26:27,920
+- Back in high school... - Jinny, is Min Hak your type?
+
+516
+00:26:28,220 --> 00:26:29,230
+I think he's pretty cute.
+
+517
+00:26:30,160 --> 00:26:31,329
+Midway through the show,
+
+518
+00:26:31,330 --> 00:26:33,430
+when the girls were all fighting for his attention,
+
+519
+00:26:33,900 --> 00:26:35,030
+I honestly felt the same.
+
+520
+00:26:35,300 --> 00:26:36,630
+Maybe it's because the show...
+
+521
+00:26:36,700 --> 00:26:38,030
+has no script or direction,
+
+522
+00:26:38,100 --> 00:26:39,200
+just real emotions...
+
+523
+00:26:39,270 --> 00:26:41,270
+that Min Hak stood out even more.
+
+524
+00:26:41,640 --> 00:26:43,109
+It's interesting.
+
+525
+00:26:43,110 --> 00:26:45,610
+That someone like you, an elite, with advanced intellect,
+
+526
+00:26:45,680 --> 00:26:48,450
+would display such an inexplicable emotional response.
+
+527
+00:26:49,010 --> 00:26:50,010
+I'm sorry, professor.
+
+528
+00:26:50,480 --> 00:26:51,510
+What do you mean by that?
+
+529
+00:26:51,880 --> 00:26:53,480
+Okay, look at this, Nisha.
+
+530
+00:26:53,880 --> 00:26:55,450
+If there were no crews around,
+
+531
+00:26:55,720 --> 00:26:57,020
+it'd be kind of hard...
+
+532
+00:26:57,120 --> 00:26:59,160
+to get a close-up shot like this...
+
+533
+00:26:59,220 --> 00:27:01,590
+from this angle in this frame.
+
+534
+00:27:02,130 --> 00:27:03,230
+I'm sorry, what?
+
+535
+00:27:04,390 --> 00:27:06,500
+Well, unless there was a drone...
+
+536
+00:27:06,560 --> 00:27:08,400
+the size of a fruit fly...
+
+537
+00:27:08,500 --> 00:27:13,170
+with a wide lens bigger than itself flying around the cast.
+
+538
+00:27:14,270 --> 00:27:16,310
+It would make sense. However,
+
+539
+00:27:16,810 --> 00:27:21,710
+given the physical and mechanical limits of current lens technology,
+
+540
+00:27:22,550 --> 00:27:23,910
+that's impossible.
+
+541
+00:27:24,450 --> 00:27:25,550
+And one more thing.
+
+542
+00:27:25,850 --> 00:27:26,850
+Please forgive me...
+
+543
+00:27:26,920 --> 00:27:28,950
+for pointing out such an obvious error.
+
+544
+00:27:29,350 --> 00:27:31,020
+For a rational engineer,
+
+545
+00:27:31,090 --> 00:27:33,060
+this setup just doesn't fly.
+
+546
+00:27:33,490 --> 00:27:37,830
+No, this is truly a bare match. No room for tricks or interference.
+
+547
+00:27:37,890 --> 00:27:40,500
+Right. It's not like the director or writers set this up, right?
+
+548
+00:27:40,560 --> 00:27:44,200
+He seemed sweet, but he's a beast. He's full of surprises.
+
+549
+00:27:45,100 --> 00:27:46,800
+- Wait a minute. - What?
+
+550
+00:27:47,700 --> 00:27:51,010
+- Isn't this game a bit one-sided? - How so?
+
+551
+00:27:51,070 --> 00:27:55,450
+One look, it's obviously set up for your boy.
+
+552
+00:27:56,050 --> 00:27:58,650
+The angle opposite that kid is 160 degrees,
+
+553
+00:27:58,750 --> 00:28:01,150
+and his opponent's angle is, what, about 100 degrees?
+
+554
+00:28:01,250 --> 00:28:03,620
+Then, according to the law of sines,
+
+555
+00:28:03,890 --> 00:28:06,120
+for that string to be in equilibrium...
+
+556
+00:28:06,260 --> 00:28:10,730
+The opponent's force is the kid's times the ratio of sines.
+
+557
+00:28:10,790 --> 00:28:13,399
+That's 0.9848 over 0.3420, which equals...
+
+558
+00:28:13,400 --> 00:28:14,760
+- 2.878. - 2.878.
+
+559
+00:28:14,860 --> 00:28:16,669
+So the other guy has to exert...
+
+560
+00:28:16,670 --> 00:28:18,470
+2.878 times more force than the boy...
+
+561
+00:28:18,540 --> 00:28:20,970
+just to maintain equilibrium and not get pulled back.
+
+562
+00:28:21,940 --> 00:28:23,240
+(Seconds until the game ends)
+
+563
+00:28:23,370 --> 00:28:26,110
+The "unexpected charm" you mentioned was meticulously engineered.
+
+564
+00:28:26,780 --> 00:28:28,410
+Gosh, I get it, Joo Yeon San.
+
+565
+00:28:28,680 --> 00:28:30,410
+I know what you're trying to say,
+
+566
+00:28:31,010 --> 00:28:35,490
+but actually, I have no clue. How do you calculate all this stuff?
+
+567
+00:28:35,820 --> 00:28:36,920
+What? It's obvious just by looking at it.
+
+568
+00:28:37,050 --> 00:28:38,720
+Hey, didn't you say you only had ten minutes left?
+
+569
+00:28:39,760 --> 00:28:42,960
+Darn it! I need The Peculiar Dean's signature.
+
+570
+00:28:43,590 --> 00:28:44,590
+Oh, my!
+
+571
+00:28:45,730 --> 00:28:49,830
+Hey, make sure you have everything. Shouldn't you look more presentable?
+
+572
+00:28:51,270 --> 00:28:54,100
+Considering The Peculiar Dean's crankiness,
+
+573
+00:28:54,440 --> 00:28:55,440
+you have a point.
+
+574
+00:28:56,110 --> 00:28:57,110
+Here, give me your jacket.
+
+575
+00:28:58,640 --> 00:29:00,640
+You're very high-maintenance, Joo Yeon San.
+
+576
+00:29:00,880 --> 00:29:01,880
+Go on.
+
+577
+00:29:03,550 --> 00:29:05,149
+Come on, my friend's a huge fan.
+
+578
+00:29:05,150 --> 00:29:06,780
+What? Yeah, I'm a fan too.
+
+579
+00:29:06,880 --> 00:29:08,120
+Not happening. Move along.
+
+580
+00:29:20,860 --> 00:29:21,870
+Hey...
+
+581
+00:29:22,670 --> 00:29:24,800
+Hey...
+
+582
+00:29:27,340 --> 00:29:28,340
+Hey!
+
+583
+00:29:28,610 --> 00:29:29,610
+Hey!
+
+584
+00:29:30,010 --> 00:29:31,510
+Wait! Hold on!
+
+585
+00:29:33,580 --> 00:29:34,580
+Hey!
+
+586
+00:29:35,710 --> 00:29:37,680
+- Gosh! - What?
+
+587
+00:29:37,750 --> 00:29:38,880
+What?
+
+588
+00:29:55,170 --> 00:29:56,770
+- Hey. - What?
+
+589
+00:29:58,070 --> 00:29:59,070
+Are you okay?
+
+590
+00:30:01,970 --> 00:30:02,970
+I guess.
+
+591
+00:30:14,950 --> 00:30:16,520
+Haven't we met somewhere before?
+
+592
+00:30:17,620 --> 00:30:19,390
+I don't think so.
+
+593
+00:30:22,690 --> 00:30:26,860
+By conventional standards, I suppose he's handsome.
+
+594
+00:30:30,200 --> 00:30:34,200
+But what I'm experiencing now is just a personal optical illusion.
+
+595
+00:30:34,270 --> 00:30:36,340
+The visible light that the human eye can perceive...
+
+596
+00:30:36,440 --> 00:30:41,240
+is a tiny part of the EM spectrum. Because of this limited range,
+
+597
+00:30:41,310 --> 00:30:44,310
+we are incapable of fully perceiving the external reality of our subject.
+
+598
+00:30:44,450 --> 00:30:49,190
+To a more advanced life-form, their appearance might be hideous.
+
+599
+00:30:49,420 --> 00:30:50,520
+No, it must be hideous.
+
+600
+00:30:57,990 --> 00:30:59,000
+And your name is?
+
+601
+00:30:59,060 --> 00:31:02,600
+What? He must think I'm a fan.
+
+602
+00:31:03,530 --> 00:31:04,530
+No.
+
+603
+00:31:04,970 --> 00:31:06,570
+I'm Ahn In Dae.
+
+604
+00:31:08,140 --> 00:31:09,140
+Ahn In Dae?
+
+605
+00:31:09,710 --> 00:31:10,710
+Ahn In Dae?
+
+606
+00:31:12,410 --> 00:31:14,980
+So you're her!
+
+607
+00:31:15,580 --> 00:31:18,620
+I can't believe I'm actually meeting you here today.
+
+608
+00:31:20,120 --> 00:31:21,120
+Ahn In Dae.
+
+609
+00:31:28,220 --> 00:31:30,130
+- Do they know each other? - No idea.
+
+610
+00:31:30,730 --> 00:31:31,760
+What the heck is with this guy?
+
+611
+00:31:33,000 --> 00:31:34,000
+Ahn In Dae...
+
+612
+00:31:35,470 --> 00:31:37,400
+(Three minutes later)
+
+613
+00:31:37,500 --> 00:31:39,270
+Someone's in high spirits all of a sudden.
+
+614
+00:31:39,700 --> 00:31:43,140
+To be honest, I was a little suspicious of you.
+
+615
+00:31:44,170 --> 00:31:45,170
+What?
+
+616
+00:31:45,840 --> 00:31:48,910
+I thought maybe you'd bought all those new followers again.
+
+617
+00:31:49,950 --> 00:31:53,220
+What? You said it felt like a scam. I wouldn't do that again.
+
+618
+00:31:53,680 --> 00:31:55,950
+Right? You're not the type to do that twice.
+
+619
+00:31:56,590 --> 00:31:59,520
+But Ahn In Dae, Chun Nyeon Hak...
+
+620
+00:31:59,790 --> 00:32:02,560
+I figured fans with weird names like that were fake.
+
+621
+00:32:03,860 --> 00:32:06,230
+But I just met one of them in person.
+
+622
+00:32:06,530 --> 00:32:09,330
+Man. My bad. I'm sorry.
+
+623
+00:32:09,600 --> 00:32:10,769
+- Gosh. - Seriously.
+
+624
+00:32:10,770 --> 00:32:14,600
+Don't worry about it. You're getting surprisingly sharp.
+
+625
+00:32:14,700 --> 00:32:18,440
+But, kid, once we get a million, ad rates go into a new bracket.
+
+626
+00:32:18,510 --> 00:32:19,980
+How could I not buy accounts?
+
+627
+00:32:20,340 --> 00:32:23,250
+We don't need pricey Korean accounts when there are foreign ones.
+
+628
+00:32:24,780 --> 00:32:28,990
+Anyway, forget about it. Just know I always have your back.
+
+629
+00:32:29,490 --> 00:32:30,490
+I know.
+
+630
+00:32:31,620 --> 00:32:36,260
+If you have any issues with me, just let it all out.
+
+631
+00:32:36,890 --> 00:32:38,560
+Dude, I've got nothing like that.
+
+632
+00:32:39,360 --> 00:32:43,500
+It's just... I was bothered you went to the dean without me.
+
+633
+00:32:43,830 --> 00:32:48,540
+I was helping you get your diploma without having to commute out here.
+
+634
+00:32:48,940 --> 00:32:52,480
+Then you suddenly say you'll take engineering, putting me in a bind.
+
+635
+00:32:54,640 --> 00:32:55,650
+I can see that.
+
+636
+00:32:56,480 --> 00:32:57,580
+Sorry. I'll do better.
+
+637
+00:32:58,180 --> 00:32:59,180
+All right.
+
+638
+00:33:00,220 --> 00:33:03,150
+I get it. It's about your first love at KAIST.
+
+639
+00:33:03,650 --> 00:33:06,290
+That's why you have this thing for the "engineering student vibe."
+
+640
+00:33:06,720 --> 00:33:08,890
+What are you talking about? She wasn't my first love.
+
+641
+00:33:08,960 --> 00:33:12,330
+We just crossed paths that one time. For 5, maybe 10 minutes?
+
+642
+00:33:12,400 --> 00:33:16,230
+Was your first love someone else? That quiz kid from grade school?
+
+643
+00:33:16,300 --> 00:33:20,540
+What are you talking about? Come on! What first love?
+
+644
+00:33:27,640 --> 00:33:29,810
+Excuse me, is the dean in? I have a scheduled meeting.
+
+645
+00:33:29,880 --> 00:33:33,280
+You're three minutes late. He waited and then left.
+
+646
+00:33:33,350 --> 00:33:35,520
+- But I'm only three minutes late. - That's right.
+
+647
+00:33:35,690 --> 00:33:38,090
+My scholarship is on the line. Could you please just call him?
+
+648
+00:33:38,150 --> 00:33:41,690
+The dean really hates getting work calls.
+
+649
+00:33:41,960 --> 00:33:43,090
+You should have come earlier.
+
+650
+00:33:43,360 --> 00:33:45,860
+- Come back tomorrow. - Today's the application deadline.
+
+651
+00:33:45,960 --> 00:33:47,060
+That's too bad.
+
+652
+00:33:49,170 --> 00:33:51,230
+These celebrity autographs...
+
+653
+00:33:51,470 --> 00:33:53,470
+If you hadn't stopped to get this, you might have been on time.
+
+654
+00:33:57,410 --> 00:33:58,980
+So I guess he actually came to school.
+
+655
+00:33:59,510 --> 00:34:00,510
+What a pain.
+
+656
+00:34:03,250 --> 00:34:04,680
+(To: Ahn In Dae Thanks for everything. Kang Min Hak)
+
+657
+00:34:04,810 --> 00:34:05,820
+Don't tell me...
+
+658
+00:34:08,120 --> 00:34:09,490
+this is actually happening!
+
+659
+00:34:12,020 --> 00:34:14,520
+Back to Heinrich's Law.
+
+660
+00:34:15,290 --> 00:34:16,889
+For every major disaster,
+
+661
+00:34:16,890 --> 00:34:20,030
+there are always small warning signs.
+
+662
+00:34:20,400 --> 00:34:22,700
+How a series of small, absurd moments...
+
+663
+00:34:22,930 --> 00:34:25,870
+can lead to one monumentally absurd one.
+
+664
+00:34:26,640 --> 00:34:28,100
+The start of that error code...
+
+665
+00:34:28,470 --> 00:34:31,240
+Was it the moment our campus became an unwilling runway?
+
+666
+00:34:33,110 --> 00:34:35,550
+Wow, he's so handsome. Is he a new actor?
+
+667
+00:34:35,610 --> 00:34:36,610
+No, a part-timer.
+
+668
+00:34:37,150 --> 00:34:39,880
+I just asked him to be a stand-in. We're good. Thanks!
+
+669
+00:34:40,520 --> 00:34:42,290
+Okay. Thank you.
+
+670
+00:34:42,350 --> 00:34:46,090
+Or maybe, at some point in the past that seemed safe,
+
+671
+00:34:46,190 --> 00:34:48,119
+the disaster had already begun.
+
+672
+00:34:48,120 --> 00:34:50,930
+New vehicle entered. Redirecting.
+
+673
+00:34:51,830 --> 00:34:54,900
+Excuse me. Hold on. Sir, you can't park here.
+
+674
+00:34:55,000 --> 00:34:58,670
+What? There's a spot right here. Why are you telling me I can't park?
+
+675
+00:34:59,940 --> 00:35:01,000
+As you can see,
+
+676
+00:35:01,600 --> 00:35:03,210
+it's a handicapped spot. I'm sorry.
+
+677
+00:35:03,540 --> 00:35:06,710
+- Come on, on a day like today... - I've got to record this jerk.
+
+678
+00:35:06,780 --> 00:35:08,540
+- You need to be a little flexible. - Gosh, it died.
+
+679
+00:35:08,610 --> 00:35:11,510
+- It's a handicapped parking spot... - So... Half air, half sound.
+
+680
+00:35:12,250 --> 00:35:13,520
+What the? What was that noise?
+
+681
+00:35:14,320 --> 00:35:15,520
+Hey! Were you filming me?
+
+682
+00:35:16,450 --> 00:35:18,390
+What if I'm still filming? Whose manager are you, anyway?
+
+683
+00:35:20,760 --> 00:35:22,490
+Hey, Seung Gon, what's going on?
+
+684
+00:35:23,390 --> 00:35:25,460
+Hey. It's nothing. We're all good.
+
+685
+00:35:25,700 --> 00:35:27,860
+Look, don't cause a scene. Just move the car, all right?
+
+686
+00:35:35,640 --> 00:35:36,640
+Excuse me.
+
+687
+00:35:36,940 --> 00:35:39,240
+- Thanks for your help. - You don't work here, do you?
+
+688
+00:35:39,580 --> 00:35:42,680
+- Why are you even here? - I work the outdoor section,
+
+689
+00:35:42,980 --> 00:35:45,480
+but I was coming back from the restroom. So, yes, my bad.
+
+690
+00:35:45,550 --> 00:35:48,850
+Don't apologize. The real problem is rude people thinking it's a one-off.
+
+691
+00:35:48,950 --> 00:35:50,790
+Next time, just give them the same attitude.
+
+692
+00:35:53,620 --> 00:35:54,720
+A battery error.
+
+693
+00:35:55,530 --> 00:35:57,460
+Wait, so earlier...
+
+694
+00:35:58,960 --> 00:36:01,500
+- Are you in college? - I'm starting this year. Still 19.
+
+695
+00:36:01,560 --> 00:36:02,830
+Oh? Me too.
+
+696
+00:36:03,870 --> 00:36:05,640
+I mean, me too.
+
+697
+00:36:06,440 --> 00:36:07,600
+Eager to be friends, are you?
+
+698
+00:36:08,570 --> 00:36:10,110
+No, it's not like that.
+
+699
+00:36:10,540 --> 00:36:12,010
+All right, then. What's your major?
+
+700
+00:36:12,440 --> 00:36:15,310
+I'm a modeling major.
+
+701
+00:36:16,810 --> 00:36:18,150
+Cool. I'm in CompSci.
+
+702
+00:36:18,950 --> 00:36:21,150
+- I'm off. - Okay.
+
+703
+00:36:22,650 --> 00:36:23,650
+What?
+
+704
+00:36:24,750 --> 00:36:27,020
+KAIST? Wow, that's a top-tier school.
+
+705
+00:36:27,460 --> 00:36:28,790
+Wow, you must be a genius.
+
+706
+00:36:30,360 --> 00:36:33,860
+This? It was a gift from a senior in high school.
+
+707
+00:36:33,930 --> 00:36:35,400
+Hold on. Just one second.
+
+708
+00:36:35,800 --> 00:36:36,800
+What?
+
+709
+00:36:37,200 --> 00:36:39,200
+Yes, I'm coming. I'm on my way now. Okay.
+
+710
+00:36:40,100 --> 00:36:41,500
+I don't go to KAIST, though.
+
+711
+00:36:44,140 --> 00:36:45,710
+I'm starting at Hangang University.
+
+712
+00:36:46,640 --> 00:36:47,740
+Not that you needed to know that.
+
+713
+00:36:57,950 --> 00:37:00,560
+Come on, Joo Yeon San. For now, just focus on moving ahead.
+
+714
+00:37:00,960 --> 00:37:02,629
+Then again, should I look back?
+
+715
+00:37:02,630 --> 00:37:04,590
+No, "moving forward" is the right idea.
+
+716
+00:37:04,690 --> 00:37:09,030
+Not the cliche "look forward" way just because he's in front of me.
+
+717
+00:37:09,400 --> 00:37:13,940
+Back when I didn't know who he was and his smile gave me butterflies,
+
+718
+00:37:14,400 --> 00:37:16,410
+that might've been the moment the real trouble started.
