@@ -1,0 +1,2019 @@
+1
+00:00:00,140 --> 00:00:01,340
+(Production Sponsors)
+
+2
+00:00:01,410 --> 00:00:04,140
+(Ministry of Culture, Sports and Tourism and KOCCA)
+
+3
+00:00:05,040 --> 00:00:06,240
+(This is a work of fiction. All names, characters, )
+
+4
+00:00:06,310 --> 00:00:07,480
+(and incidents are products of the author's imagination.)
+
+5
+00:00:07,550 --> 00:00:08,780
+(All child actors were accompanied by a guardian, )
+
+6
+00:00:08,850 --> 00:00:09,850
+(and filmed in accordance with labor laws.)
+
+7
+00:00:12,750 --> 00:00:15,020
+Alright, which department is next for the merger?
+
+8
+00:00:20,430 --> 00:00:21,790
+President, here it is.
+
+9
+00:00:24,060 --> 00:00:26,130
+Which department will be merged with the Department of Modeling?
+
+10
+00:00:28,200 --> 00:00:29,570
+The Department of Computer Science and Engineering.
+
+11
+00:00:30,030 --> 00:00:31,570
+Gi Myo Han, from CompSci.
+
+12
+00:00:33,610 --> 00:00:35,110
+Alright, now,
+
+13
+00:00:35,670 --> 00:00:39,510
+shall we name the new school that will share this lounge?
+
+14
+00:00:39,640 --> 00:00:41,650
+"Global" has to be in there. Content is king...
+
+15
+00:00:41,710 --> 00:00:44,150
+Integration, convergence... Maybe "Physical"...
+
+16
+00:00:44,220 --> 00:00:47,090
+- "Converged" covers everything. - Converged, Physical,
+
+17
+00:00:47,250 --> 00:00:50,390
+Technology, Global Content.
+
+18
+00:00:51,360 --> 00:00:53,089
+Department of Converged Physical Tech...
+
+19
+00:00:53,090 --> 00:00:55,190
+and Global Content Development.
+
+20
+00:01:03,740 --> 00:01:04,870
+That's it.
+
+21
+00:01:06,840 --> 00:01:07,940
+Bravo.
+
+22
+00:01:11,440 --> 00:01:12,440
+(LOVE.exe)
+
+23
+00:01:12,441 --> 00:01:15,110
+(Episode 11: The All-Nighter Assignment)
+
+24
+00:01:15,380 --> 00:01:16,550
+(Your PC has a problem and needs to restart.)
+
+25
+00:01:16,610 --> 00:01:17,880
+(We're collecting error info and will restart.)
+
+26
+00:01:17,950 --> 00:01:19,920
+(Dept. of Converged Physical Tech and Global Content Development)
+
+27
+00:01:26,090 --> 00:01:27,090
+What?
+
+28
+00:01:28,390 --> 00:01:29,890
+- Hey. - What's that noise?
+
+29
+00:01:30,130 --> 00:01:31,200
+Grab your stuff.
+
+30
+00:01:32,100 --> 00:01:33,900
+- Is anyone there? - You scared me!
+
+31
+00:01:34,330 --> 00:01:36,900
+What are you two doing here?
+
+32
+00:01:37,240 --> 00:01:38,840
+- We're working on a group project. - We're working on a group...
+
+33
+00:01:39,740 --> 00:01:43,170
+A male student snuck in here recently to see a female student.
+
+34
+00:01:43,240 --> 00:01:45,210
+I caught him doing some weird stuff.
+
+35
+00:01:45,480 --> 00:01:46,980
+It's a good thing I found them when I did.
+
+36
+00:01:47,810 --> 00:01:49,910
+We really are, but... No, it's not like that.
+
+37
+00:01:49,980 --> 00:01:52,220
+You see, we're taking conversational data...
+
+38
+00:01:52,280 --> 00:01:55,590
+and labeling it based on emotion. It's all done manually, so...
+
+39
+00:01:55,650 --> 00:01:58,620
+it takes a really long time. That's why we're still here so late.
+
+40
+00:01:58,690 --> 00:01:59,690
+- We're sorry, - We're doing this labeling...
+
+41
+00:01:59,760 --> 00:02:01,660
+- because... - We'll leave right away. Sorry.
+
+42
+00:02:02,960 --> 00:02:03,960
+- Thank you. - We're sorry.
+
+43
+00:02:04,060 --> 00:02:05,630
+- Goodbye. - Yes, off you go.
+
+44
+00:02:05,700 --> 00:02:06,830
+Yes. Hurry up and get out.
+
+45
+00:02:13,370 --> 00:02:16,170
+Everything was fine between us until then.
+
+46
+00:02:22,950 --> 00:02:24,980
+(Hangang University)
+
+47
+00:02:26,890 --> 00:02:28,889
+What does it mean if you kiss someone...
+
+48
+00:02:28,890 --> 00:02:30,860
+and they don't call you tomorrow?
+
+49
+00:02:36,630 --> 00:02:38,700
+What's up? What's wrong with you?
+
+50
+00:02:41,030 --> 00:02:45,669
+On the last exam, two students gave very interesting answers.
+
+51
+00:02:45,670 --> 00:02:47,170
+Completely different,
+
+52
+00:02:47,370 --> 00:02:49,039
+yet they gave the exact same answer.
+
+53
+00:02:49,040 --> 00:02:50,709
+It's like two different algorithms...
+
+54
+00:02:50,710 --> 00:02:52,680
+produced the same result.
+
+55
+00:02:54,580 --> 00:02:55,749
+Joo Yeon San.
+
+56
+00:02:55,750 --> 00:02:58,350
+And Kang Min Hak.
+
+57
+00:03:01,820 --> 00:03:03,990
+What's the relationship between you two?
+
+58
+00:03:04,720 --> 00:03:06,190
+We didn't do anything.
+
+59
+00:03:06,820 --> 00:03:09,290
+Yes, we didn't do anything. We're each other's nothing.
+
+60
+00:03:09,690 --> 00:03:10,700
+What?
+
+61
+00:03:11,030 --> 00:03:14,230
+- No, there's nothing between us. - There's nothing between us.
+
+62
+00:03:14,730 --> 00:03:16,400
+What does he mean, "nothing between us?"
+
+63
+00:03:17,140 --> 00:03:19,800
+Was it a simple random seed collision,
+
+64
+00:03:20,100 --> 00:03:21,770
+or a coincidental convergence?
+
+65
+00:03:22,770 --> 00:03:24,380
+Ban Ji No, Yang Na Rae.
+
+66
+00:03:24,880 --> 00:03:27,010
+- You two were similar as well. - What?
+
+67
+00:03:27,610 --> 00:03:31,680
+Besides them, there are other groups of two, three, or even seven.
+
+68
+00:03:31,880 --> 00:03:34,620
+Regarding a task that ChatGPT cannot remodel,
+
+69
+00:03:34,690 --> 00:03:37,990
+you all wrote answers that were surprisingly similar in meaning.
+
+70
+00:03:38,920 --> 00:03:40,120
+For next class,
+
+71
+00:03:40,860 --> 00:03:44,460
+instead of a quiz, you'll be giving presentations for your assignment.
+
+72
+00:03:44,660 --> 00:03:46,860
+TA Ryang will announce the rest of the details.
+
+73
+00:03:47,570 --> 00:03:48,570
+In other words,
+
+74
+00:03:48,900 --> 00:03:53,200
+Your task is to build a program that makes your answers possible.
+
+75
+00:03:53,300 --> 00:03:55,110
+You can check your group assignments on E-Class.
+
+76
+00:03:58,240 --> 00:04:01,210
+An assignment with Ban Ji No? Just the two of us?
+
+77
+00:04:04,420 --> 00:04:06,480
+I got stuck with a broken-up couple.
+
+78
+00:04:06,780 --> 00:04:11,220
+Why is it always group projects and presentations in CompSci?
+
+79
+00:04:11,590 --> 00:04:14,830
+- Why don't we get a proper lecture? - This whole situation...
+
+80
+00:04:15,390 --> 00:04:18,930
+This feels like that campus drama you were a script consultant for?
+
+81
+00:04:19,530 --> 00:04:22,370
+- What? - The one on liberal arts writers.
+
+82
+00:04:22,430 --> 00:04:25,940
+You said when they wrote a show set in our department, it felt clunky?
+
+83
+00:04:26,140 --> 00:04:28,040
+You're right. That's so true.
+
+84
+00:04:28,540 --> 00:04:30,440
+That's when they should've called on a genius like me.
+
+85
+00:04:30,510 --> 00:04:32,740
+I could have made that script flow so much better.
+
+86
+00:04:32,980 --> 00:04:36,980
+First thing I'd do is make them kiss in Jang Yeong Sil Hall.
+
+87
+00:04:37,120 --> 00:04:39,020
+The two leads who are supposed to hate each other.
+
+88
+00:04:42,420 --> 00:04:43,420
+Let's go.
+
+89
+00:04:48,930 --> 00:04:52,030
+Tell them Mon and Fri nights I'm busy with my work.
+
+90
+00:04:52,400 --> 00:04:55,330
+Tell them I have tutoring Tues and Thurs and PT on Wednesday.
+
+91
+00:04:56,070 --> 00:04:59,200
+You all heard that, right? Why don't we just do this online?
+
+92
+00:05:00,240 --> 00:05:01,510
+Online for us, too?
+
+93
+00:05:01,610 --> 00:05:05,410
+Forget it. I'll do the project. Na Rae, just put your name on it.
+
+94
+00:05:05,610 --> 00:05:08,550
+Normally, I'd jump at that offer, but coming from you, it's sketchy.
+
+95
+00:05:08,780 --> 00:05:12,450
+I'll have better quality control and get a higher grade on my own.
+
+96
+00:05:12,520 --> 00:05:14,290
+It's a purely rational suggestion.
+
+97
+00:05:14,890 --> 00:05:17,160
+This project isn't about feasibility.
+
+98
+00:05:17,220 --> 00:05:19,460
+It's about how bold and imaginative you can be.
+
+99
+00:05:19,520 --> 00:05:20,960
+And that, as a matter of fact, is my specialty.
+
+100
+00:05:21,430 --> 00:05:22,430
+Fine.
+
+101
+00:05:26,930 --> 00:05:29,430
+So, when should we work on our project?
+
+102
+00:05:31,500 --> 00:05:34,110
+Sorry, but would it be too late to do it next week?
+
+103
+00:05:35,040 --> 00:05:36,340
+But the presentation is next week.
+
+104
+00:05:37,010 --> 00:05:38,140
+The thing is...
+
+105
+00:05:44,150 --> 00:05:46,450
+I have things scheduled all afternoon,
+
+106
+00:05:47,050 --> 00:05:48,650
+and tomorrow I fly abroad for a shoot.
+
+107
+00:05:49,420 --> 00:05:50,790
+But if we don't have to meet,
+
+108
+00:05:50,860 --> 00:05:51,860
+- I can do it this week. - He's flying out tomorrow?
+
+109
+00:05:52,390 --> 00:05:53,830
+There's not much time difference.
+
+110
+00:05:55,190 --> 00:05:57,500
+I guess we don't necessarily have to meet in person.
+
+111
+00:05:57,560 --> 00:06:00,570
+Or how about Monday? We have to meet for the Competition.
+
+112
+00:06:01,070 --> 00:06:02,070
+Right.
+
+113
+00:06:02,300 --> 00:06:05,170
+Since we'll all be together, let's work on this project then.
+
+114
+00:06:06,670 --> 00:06:07,670
+All of us together?
+
+115
+00:06:08,270 --> 00:06:10,210
+Yes, that could work.
+
+116
+00:06:11,410 --> 00:06:12,410
+Min Hak.
+
+117
+00:06:12,840 --> 00:06:16,610
+- Let me know your thoughts on that. - Got it.
+
+118
+00:06:18,680 --> 00:06:20,590
+For someone so busy, you're here a lot.
+
+119
+00:06:20,850 --> 00:06:22,890
+- Not really. - Hey, Na Rae.
+
+120
+00:06:23,960 --> 00:06:25,220
+Hey, what are you up to?
+
+121
+00:06:25,720 --> 00:06:27,390
+What the heck? That's it? Just a "hey?"
+
+122
+00:06:40,200 --> 00:06:41,210
+Dong Won.
+
+123
+00:06:42,210 --> 00:06:44,010
+You're into girls, right?
+
+124
+00:06:44,740 --> 00:06:49,380
+- But what if you kissed a guy? - What?
+
+125
+00:06:49,450 --> 00:06:52,920
+You're the kind of person who would never, ever kiss a guy,
+
+126
+00:06:52,980 --> 00:06:56,250
+but you ended up kissing him. Why would that happen?
+
+127
+00:06:58,120 --> 00:06:59,120
+A bet?
+
+128
+00:06:59,890 --> 00:07:03,190
+- A bet? - Yes, like for a drinking game.
+
+129
+00:07:04,500 --> 00:07:06,300
+I'm not saying I would do it.
+
+130
+00:07:07,600 --> 00:07:08,670
+Or maybe...
+
+131
+00:07:09,330 --> 00:07:12,400
+To get an inheritance? They have to act straight for money?
+
+132
+00:07:13,640 --> 00:07:16,770
+I can't relate to that, since I have no inheritance.
+
+133
+00:07:16,970 --> 00:07:18,140
+Keep going.
+
+134
+00:07:19,310 --> 00:07:21,310
+To make someone jealous. As in, "I'm desirable to guys, too."
+
+135
+00:07:21,380 --> 00:07:24,320
+"So you better get it together." No, wait. It's more of a threat.
+
+136
+00:07:24,620 --> 00:07:28,790
+"I'm just gonna go with a guy, and I don't care if you're jealous."
+
+137
+00:07:29,150 --> 00:07:30,320
+Wow, you've got a lot of these.
+
+138
+00:07:30,790 --> 00:07:33,060
+- You really know your stuff. - It's what Lee Soo Min did to me.
+
+139
+00:07:33,930 --> 00:07:35,460
+Anyway, what's this really about?
+
+140
+00:07:36,290 --> 00:07:37,660
+Don't beat around the bush. Just tell me.
+
+141
+00:07:39,460 --> 00:07:40,500
+Tell you what?
+
+142
+00:07:41,300 --> 00:07:43,030
+It's the plot of a BL I'm watching.
+
+143
+00:07:43,130 --> 00:07:46,570
+Liar. The guy who kissed then ghosted you.
+
+144
+00:07:46,640 --> 00:07:47,910
+Who is he? Who the heck is he?
+
+145
+00:07:48,470 --> 00:07:51,140
+So, why kiss someone and then just say nothing?
+
+146
+00:07:51,210 --> 00:07:52,440
+What's he thinking?
+
+147
+00:07:52,580 --> 00:07:53,910
+No way. The guy across your house? Is it?
+
+148
+00:07:54,410 --> 00:07:55,480
+That guy from earlier?
+
+149
+00:08:02,050 --> 00:08:03,220
+Cheers!
+
+150
+00:08:06,360 --> 00:08:08,160
+You want me to teach you how to pick up guys?
+
+151
+00:08:08,690 --> 00:08:12,100
+Turns out, there's no one in my life who can teach me that.
+
+152
+00:08:12,960 --> 00:08:16,470
+For starters, most guys like being complimented.
+
+153
+00:08:17,100 --> 00:08:21,740
+Give them a little attention and they'll think you're into them.
+
+154
+00:08:21,810 --> 00:08:24,080
+That's seriously unhelpful advice.
+
+155
+00:08:24,740 --> 00:08:27,610
+Because I've always been the one...
+
+156
+00:08:27,680 --> 00:08:30,210
+to give guys attention and compliments.
+
+157
+00:08:30,680 --> 00:08:35,350
+I've thrown myself at even the slightest possibility.
+
+158
+00:08:35,450 --> 00:08:37,290
+But it never works!
+
+159
+00:08:37,590 --> 00:08:41,790
+And I can't just suddenly get super slim and pretty.
+
+160
+00:08:42,390 --> 00:08:46,530
+That's why I need a tip that goes beyond the physical.
+
+161
+00:08:46,700 --> 00:08:49,470
+The ultimate secret.
+
+162
+00:08:49,700 --> 00:08:51,570
+What? Why would you want to go beyond that?
+
+163
+00:08:51,870 --> 00:08:55,440
+- You're cute. - What? Are you blind?
+
+164
+00:08:57,540 --> 00:09:01,110
+- Who are you trying to win over? - What?
+
+165
+00:09:01,180 --> 00:09:02,280
+Who's the person you like?
+
+166
+00:09:02,780 --> 00:09:05,350
+Then I can come up with a strategy tailored to them.
+
+167
+00:09:07,750 --> 00:09:10,220
+He's someone who can never like me back.
+
+168
+00:09:10,960 --> 00:09:11,960
+What?
+
+169
+00:09:12,760 --> 00:09:13,760
+Why not?
+
+170
+00:09:14,860 --> 00:09:17,230
+Don't tell me it's a character from a book.
+
+171
+00:09:17,830 --> 00:09:20,870
+- A 2D character? - You're not wrong, but...
+
+172
+00:09:22,030 --> 00:09:25,170
+A married man is off-limits, Na Rae. I'm surprisingly old-fashioned.
+
+173
+00:09:25,340 --> 00:09:27,910
+- I can't help you with that. - What are you talking about?
+
+174
+00:09:27,970 --> 00:09:29,340
+- What? - What?
+
+175
+00:09:29,410 --> 00:09:30,410
+Is he really married?
+
+176
+00:09:31,840 --> 00:09:33,280
+He's gay. Gay.
+
+177
+00:09:33,540 --> 00:09:34,550
+Gay...
+
+178
+00:09:34,650 --> 00:09:38,050
+Since it won't work out anyway, I figured I'd ask him for advice.
+
+179
+00:09:38,120 --> 00:09:40,520
+He seems good at charming both men and women.
+
+180
+00:09:42,550 --> 00:09:46,090
+Wait a minute. Are you talking about me?
+
+181
+00:09:47,860 --> 00:09:48,860
+For real?
+
+182
+00:09:50,160 --> 00:09:51,460
+You like me?
+
+183
+00:09:54,430 --> 00:09:55,430
+Yes.
+
+184
+00:09:55,900 --> 00:09:59,040
+At least you're not running away now that I've confessed.
+
+185
+00:10:01,170 --> 00:10:04,780
+You've never had a boyfriend?
+
+186
+00:10:07,450 --> 00:10:08,450
+Not even a fling?
+
+187
+00:10:09,450 --> 00:10:12,120
+There was this one guy I talked to for about a month,
+
+188
+00:10:12,720 --> 00:10:14,250
+but it turned out to be an AI account.
+
+189
+00:10:15,590 --> 00:10:16,590
+What about a kiss?
+
+190
+00:10:18,920 --> 00:10:21,130
+- That's a relief. - What?
+
+191
+00:10:21,260 --> 00:10:22,330
+A first kiss is best...
+
+192
+00:10:23,590 --> 00:10:25,060
+when it's with someone you actually like.
+
+193
+00:10:25,400 --> 00:10:26,400
+What?
+
+194
+00:10:47,250 --> 00:10:48,250
+And then?
+
+195
+00:10:48,520 --> 00:10:49,520
+What?
+
+196
+00:10:50,250 --> 00:10:51,520
+What happened next?
+
+197
+00:10:53,390 --> 00:10:56,630
+Gosh, this is way too personal.
+
+198
+00:10:56,690 --> 00:10:59,060
+I can't believe "privacy" was even a thing between us.
+
+199
+00:10:59,360 --> 00:11:00,500
+I'm shocked.
+
+200
+00:11:02,030 --> 00:11:05,440
+- We made out for three hours. - What?
+
+201
+00:11:05,500 --> 00:11:08,870
+But I drank so much beer...
+
+202
+00:11:09,070 --> 00:11:13,380
+and I had to pee, so we stopped. And then it just ended awkwardly.
+
+203
+00:11:13,440 --> 00:11:16,380
+- He went home, - And he hasn't mentioned it since?
+
+204
+00:11:16,750 --> 00:11:17,750
+No.
+
+205
+00:11:18,320 --> 00:11:20,820
+Wait, are you really listening to me for once?
+
+206
+00:11:21,120 --> 00:11:22,420
+Hanging on our every word.
+
+207
+00:11:24,860 --> 00:11:27,630
+I always thought I was just an NPC in your world.
+
+208
+00:11:28,890 --> 00:11:29,930
+No way. You've got it all wrong.
+
+209
+00:11:31,130 --> 00:11:32,930
+I don't know what to make of the situation.
+
+210
+00:11:33,300 --> 00:11:34,930
+Why did he even kiss me?
+
+211
+00:11:35,200 --> 00:11:37,900
+Was it out of pity? Or did I look so desperate...
+
+212
+00:11:37,970 --> 00:11:40,100
+that he just tossed me a kiss, "Here you go?"
+
+213
+00:11:40,240 --> 00:11:41,610
+Friends can kiss.
+
+214
+00:11:41,970 --> 00:11:44,940
+I've done it plenty of times. And sometimes, we stayed friends.
+
+215
+00:11:45,310 --> 00:11:47,210
+What? How does that even work?
+
+216
+00:11:47,380 --> 00:11:49,810
+If you dated everyone you kissed, it would be a disaster.
+
+217
+00:11:50,650 --> 00:11:52,950
+He's across your house, right? Go knock on his door and ask him.
+
+218
+00:11:53,150 --> 00:11:55,290
+It'll be a pain if it's awkward when you keep running into him.
+
+219
+00:11:55,490 --> 00:11:58,820
+Plus, he might be bi, not gay. So he might actually like you.
+
+220
+00:11:58,920 --> 00:12:00,690
+- What should I do? - What do you mean, "what?"
+
+221
+00:12:01,090 --> 00:12:02,130
+You kiss him again, of course.
+
+222
+00:12:02,730 --> 00:12:05,360
+What if he says it was a mistake and just wants to be friends?
+
+223
+00:12:06,230 --> 00:12:07,230
+And then?
+
+224
+00:12:09,230 --> 00:12:10,230
+Well, there's your answer.
+
+225
+00:12:10,670 --> 00:12:11,900
+Friends forever.
+
+226
+00:12:12,240 --> 00:12:13,870
+Or back to being strangers who don't even say hi?
+
+227
+00:12:15,710 --> 00:12:19,040
+That's how I got with Lee Soo Min, after all.
+
+228
+00:12:23,750 --> 00:12:26,680
+San, any chance you're coming to Seoul?
+
+229
+00:12:27,990 --> 00:12:29,020
+It's about our assignment.
+
+230
+00:12:30,420 --> 00:12:32,760
+My shoot I mentioned earlier is going to end early.
+
+231
+00:12:33,460 --> 00:12:35,060
+So I'll be on my own for the rest of today.
+
+232
+00:12:35,160 --> 00:12:37,360
+- Hey, don't you have class? - So...
+
+233
+00:12:38,600 --> 00:12:40,760
+- Is she not paying attention? - I don't know.
+
+234
+00:12:41,600 --> 00:12:44,240
+- Here, eat. - Sorry for making you travel alone.
+
+235
+00:12:45,740 --> 00:12:49,070
+Yes, the car's in for maintenance, but will you be okay on the subway?
+
+236
+00:12:50,910 --> 00:12:53,710
+You could just take a cab, or I could come and get you.
+
+237
+00:12:54,650 --> 00:12:56,310
+What? Me?
+
+238
+00:12:56,610 --> 00:13:01,020
+Me? I'm taking public transit today. The subway's pretty empty now.
+
+239
+00:13:02,120 --> 00:13:05,590
+People may spot you and take a photo while you're getting around,
+
+240
+00:13:05,660 --> 00:13:06,660
+so just be mindful.
+
+241
+00:13:07,260 --> 00:13:09,060
+Are you sure you'll be okay without me?
+
+242
+00:13:10,760 --> 00:13:13,660
+All right. Okay.
+
+243
+00:13:18,100 --> 00:13:19,700
+Yes.
+
+244
+00:13:22,210 --> 00:13:24,980
+(Hello)
+
+245
+00:13:25,040 --> 00:13:27,750
+(I'm writing because...)
+
+246
+00:13:27,810 --> 00:13:31,280
+(we'd like to set up a meeting with Kang Min Hak)
+
+247
+00:13:31,350 --> 00:13:34,220
+Jeez. These people always use DMs...
+
+248
+00:13:42,830 --> 00:13:44,929
+Seriously, Director Bong
+
+249
+00:13:44,930 --> 00:13:46,330
+Give me a call
+
+250
+00:13:46,500 --> 00:13:50,070
+I told you it couldn't be recovered. But you insisted on coming to pay.
+
+251
+00:13:50,130 --> 00:13:52,970
+- Why would you do that? - I had an errand nearby anyway.
+
+252
+00:13:53,170 --> 00:13:57,980
+Joo Yeon San.
+
+253
+00:13:58,080 --> 00:14:02,580
+- Kim Min Ji. - I'm sorry you had to come so far.
+
+254
+00:14:03,310 --> 00:14:06,320
+No, it's fine. I had an errand in Yongsan anyway.
+
+255
+00:14:06,620 --> 00:14:10,490
+- The group project is the priority. - This one's done.
+
+256
+00:14:11,190 --> 00:14:13,190
+- Joo Yeon San. - Ma'am, are you throwing this away?
+
+257
+00:14:13,460 --> 00:14:15,560
+Yes. Found it!
+
+258
+00:14:16,590 --> 00:14:17,830
+Hangang University?
+
+259
+00:14:18,300 --> 00:14:20,930
+This is our school's property. And it's in perfect condition.
+
+260
+00:14:21,100 --> 00:14:22,570
+What a waste of the budget.
+
+261
+00:14:23,670 --> 00:14:27,940
+Is it greedy to ask you to pay even if I don't recover anything?
+
+262
+00:14:28,770 --> 00:14:29,870
+It's because I take pride in my work.
+
+263
+00:14:29,940 --> 00:14:32,710
+I'll be shooting until 9pm Is that okay?
+
+264
+00:14:33,010 --> 00:14:35,250
+Yes, I can work on my assignment while I wait.
+
+265
+00:14:35,780 --> 00:14:37,550
+I've worked as a female repair technician.
+
+266
+00:14:38,250 --> 00:14:39,650
+A service fee is a service fee.
+
+267
+00:14:40,050 --> 00:14:43,120
+- To the computer eng. kids... - So this is who I am.
+
+268
+00:14:44,760 --> 00:14:47,160
+Yes, I'm home. What's up?
+
+269
+00:14:47,260 --> 00:14:50,030
+"The Guy Next Door Keeps Sleeping in My Bed."
+
+270
+00:14:50,330 --> 00:14:51,330
+What?
+
+271
+00:14:51,700 --> 00:14:55,030
+Is this Challenge League story yours? The username's the same.
+
+272
+00:14:55,970 --> 00:14:57,770
+What are you talking about? No, it's not.
+
+273
+00:14:58,070 --> 00:14:59,740
+Your view count is really low.
+
+274
+00:15:00,000 --> 00:15:03,170
+- What are we going to do? - What do you mean, "what do we do?"
+
+275
+00:15:03,470 --> 00:15:05,180
+Mom, why would you even read that?
+
+276
+00:15:05,340 --> 00:15:08,250
+Because your writing hasn't improved at all since high school.
+
+277
+00:15:08,380 --> 00:15:11,820
+I'm worried too. When it comes to "A Passionate Romance Between Men,"
+
+278
+00:15:11,880 --> 00:15:15,320
+you don't know anything about it. Your descriptions aren't improving.
+
+279
+00:15:15,550 --> 00:15:19,020
+That's why the comments say you should focus on their romance,
+
+280
+00:15:19,090 --> 00:15:21,260
+and they're asking why the female friend keeps interfering.
+
+281
+00:15:21,330 --> 00:15:25,800
+What's wrong with the friend's role? It's his fault for leading her on.
+
+282
+00:15:26,560 --> 00:15:28,670
+Whatever. Just don't read it! I'm deleting the whole thing.
+
+283
+00:15:28,730 --> 00:15:29,870
+I'm quitting completely!
+
+284
+00:15:38,880 --> 00:15:40,410
+This jerk isn't even coming home.
+
+285
+00:15:47,520 --> 00:15:48,520
+(Seongsu)
+
+286
+00:15:48,650 --> 00:15:50,490
+Me, all the way out here this late.
+
+287
+00:15:59,230 --> 00:16:01,430
+Might as well catch up on my coding.
+
+288
+00:16:10,670 --> 00:16:11,780
+But...
+
+289
+00:16:12,780 --> 00:16:14,750
+Why did Kang Min Hak kiss me?
+
+290
+00:16:15,610 --> 00:16:18,520
+Could he be interested in me, too? Forget it.
+
+291
+00:16:19,450 --> 00:16:21,050
+Instead of wasting time wondering...
+
+292
+00:16:21,690 --> 00:16:22,690
+Def...
+
+293
+00:16:23,090 --> 00:16:26,990
+Why did you kiss me?
+
+294
+00:16:28,660 --> 00:16:30,990
+Sorry. It was a mistake. Let's just forget it happened.
+
+295
+00:16:31,760 --> 00:16:33,330
+If he says that, I'll kick his ass!
+
+296
+00:16:34,160 --> 00:16:37,070
+Then again, Kang Min Hak's memory isn't great.
+
+297
+00:16:37,170 --> 00:16:40,570
+We did? I was so tired that night, I don't remember a thing.
+
+298
+00:16:41,170 --> 00:16:44,070
+May 1st, 11:05pm, at YTC Lounge in Hangang Uni's Jang Yeong Sil Hall,
+
+299
+00:16:44,140 --> 00:16:45,480
+it went on for about 37 seconds.
+
+300
+00:16:45,540 --> 00:16:47,080
+So, starting to ring a bell, you fool?
+
+301
+00:16:48,150 --> 00:16:51,380
+I kiss my friends all the time.
+
+302
+00:16:51,850 --> 00:16:54,490
+I see. I'm so happy we're friends.
+
+303
+00:16:54,790 --> 00:16:59,620
+- So, tongue instead of a high-five? - You're the one who wanted to.
+
+304
+00:17:00,020 --> 00:17:01,090
+Right, I know, but!
+
+305
+00:17:01,490 --> 00:17:05,630
+You're an adult! You should think for yourself!
+
+306
+00:17:08,130 --> 00:17:10,030
+So? You didn't like it?
+
+307
+00:17:15,570 --> 00:17:17,940
+No, I liked it.
+
+308
+00:17:19,540 --> 00:17:23,150
+So I'm stuck typing this nonsense instead of actual code.
+
+309
+00:17:32,520 --> 00:17:35,360
+Sorry, the shoot's delayed. Some of the equipment broke.
+
+310
+00:17:35,890 --> 00:17:36,960
+What the...
+
+311
+00:17:37,590 --> 00:17:40,430
+Excuse me, Miss. We're closing now.
+
+312
+00:17:43,730 --> 00:17:45,240
+Okay.
+
+313
+00:17:48,210 --> 00:17:51,480
+What am I even doing? At least Python gives you an error.
+
+314
+00:17:51,680 --> 00:17:53,840
+I hate trying to figure out people's feelings.
+
+315
+00:17:54,650 --> 00:17:57,510
+If today's not good, I'll just go. We can do it another time.
+
+316
+00:17:57,980 --> 00:18:01,020
+Yeon San, don't go... Can you come over here?
+
+317
+00:18:02,450 --> 00:18:03,450
+What?
+
+318
+00:18:17,940 --> 00:18:22,070
+Wow, the owner is so lazy. It's May but the background is snow?
+
+319
+00:18:23,740 --> 00:18:24,740
+Tell me about it.
+
+320
+00:18:25,480 --> 00:18:28,080
+Season Three of The Shadow Chef is out. Want to watch it later?
+
+321
+00:18:28,450 --> 00:18:29,550
+My place again?
+
+322
+00:18:29,810 --> 00:18:30,810
+What? You don't want to?
+
+323
+00:18:32,680 --> 00:18:33,750
+It's not that.
+
+324
+00:18:34,320 --> 00:18:36,390
+I have a big interview tomorrow and I have to prep all night.
+
+325
+00:18:36,450 --> 00:18:38,990
+I won't be a bother. For real.
+
+326
+00:18:39,260 --> 00:18:43,190
+You say that, but when I use my PC, you'll threaten to microwave it.
+
+327
+00:18:43,260 --> 00:18:46,460
+Hey, hearing just that makes me sound like a psycho.
+
+328
+00:18:46,560 --> 00:18:48,430
+But you actually did.
+
+329
+00:18:49,230 --> 00:18:51,000
+That was when we were kids. Ages ago.
+
+330
+00:18:51,200 --> 00:18:53,040
+Also, my place is a complete mess right now.
+
+331
+00:18:53,100 --> 00:18:55,140
+I'll clean up for you. Laundry and all.
+
+332
+00:18:55,670 --> 00:18:56,810
+I'm the one who messed it up anyway.
+
+333
+00:18:56,970 --> 00:18:58,880
+And then you'll forget to check the pockets...
+
+334
+00:18:59,140 --> 00:19:00,640
+and end up washing a lighter again.
+
+335
+00:19:05,380 --> 00:19:06,650
+You still love me, though, right?
+
+336
+00:19:07,720 --> 00:19:08,720
+You're unbelievable.
+
+337
+00:19:09,920 --> 00:19:13,320
+Stop complaining about the rent and go sleep in your own bed.
+
+338
+00:19:14,120 --> 00:19:15,160
+What, am I not comfortable to be around?
+
+339
+00:19:18,900 --> 00:19:19,960
+That's not what I meant.
+
+340
+00:19:29,270 --> 00:19:30,810
+Is your interview tomorrow for the Student Council too?
+
+341
+00:19:32,540 --> 00:19:34,710
+- Yes. - You should just quit the council.
+
+342
+00:19:35,510 --> 00:19:37,310
+It's not like you doing all this changes anything,
+
+343
+00:19:37,810 --> 00:19:39,980
+and who even appreciates all the hard work you do?
+
+344
+00:19:40,820 --> 00:19:43,850
+While you're busy with that, others are figuring out their own careers.
+
+345
+00:19:45,820 --> 00:19:48,530
+- Okay, I get it. - If you get it, get off your phone.
+
+346
+00:19:50,430 --> 00:19:52,430
+What the? You changed your passcode.
+
+347
+00:19:52,760 --> 00:19:54,360
+I thought I told you to tell me when you change it.
+
+348
+00:19:55,600 --> 00:19:56,600
+Give it to me.
+
+349
+00:19:57,800 --> 00:19:59,400
+(Commercial Shoot in Progress, Dolmiyeok Yugidan, right here)
+
+350
+00:20:05,240 --> 00:20:07,340
+- Is the gear coming? - Yes, on my way.
+
+351
+00:20:09,680 --> 00:20:11,480
+Excuse me, you dropped this.
+
+352
+00:20:12,650 --> 00:20:14,350
+- Can you give me a hand with this? - What?
+
+353
+00:20:14,420 --> 00:20:15,420
+Here, take this too.
+
+354
+00:20:17,290 --> 00:20:18,490
+Hey, grab this too!
+
+355
+00:20:19,390 --> 00:20:20,390
+Come on, this way.
+
+356
+00:20:21,220 --> 00:20:22,230
+What?
+
+357
+00:21:08,340 --> 00:21:09,340
+Quiz King?
+
+358
+00:21:10,070 --> 00:21:13,910
+- Oh, hello. - What are you doing here? Working?
+
+359
+00:21:14,710 --> 00:21:16,550
+Kang Min Hak told me to meet him here.
+
+360
+00:21:16,780 --> 00:21:17,780
+Min Hak? Why?
+
+361
+00:21:18,380 --> 00:21:19,380
+For a project.
+
+362
+00:21:20,150 --> 00:21:23,520
+He said he's late with camera gear and told me to wait here.
+
+363
+00:21:24,420 --> 00:21:26,020
+Just put that down for now and follow me.
+
+364
+00:21:34,000 --> 00:21:35,700
+Actor coming through.
+
+365
+00:21:50,780 --> 00:21:52,120
+- How have you been? - I've been well.
+
+366
+00:21:52,180 --> 00:21:55,190
+Don't worry about the laptop. Okay? Let's take it easier this time.
+
+367
+00:21:59,460 --> 00:22:02,530
+- Wow, you two look great together. - Okay, let's start the rehearsal.
+
+368
+00:22:03,230 --> 00:22:04,589
+This summer, right here,
+
+369
+00:22:04,590 --> 00:22:05,930
+- how about a staycation? - How about a staycation?
+
+370
+00:22:06,000 --> 00:22:08,600
+Okay, Min Hak, that's good. Hae Na, get a little closer.
+
+371
+00:22:08,670 --> 00:22:10,330
+- Okay. - Min Hak, try putting your arm up?
+
+372
+00:22:10,400 --> 00:22:12,270
+- My arm? - Yes.
+
+373
+00:22:15,470 --> 00:22:17,840
+You two look great. Okay, now look at each other.
+
+374
+00:22:19,510 --> 00:22:20,980
+You two are so into it.
+
+375
+00:22:24,850 --> 00:22:26,950
+- All right, focus. Focus. - Focus.
+
+376
+00:22:28,020 --> 00:22:30,450
+Okay, I love this shot. All right, let's roll with this.
+
+377
+00:22:33,590 --> 00:22:36,230
+Here, take this. You're still here.
+
+378
+00:22:37,730 --> 00:22:39,230
+What kind of project is this...
+
+379
+00:22:39,960 --> 00:22:41,530
+Must we meet in person so late? Is it that urgent?
+
+380
+00:22:41,870 --> 00:22:43,800
+It's not exactly urgent, but...
+
+381
+00:22:43,870 --> 00:22:46,640
+It'd help if you could be flexible and just handle things on your end.
+
+382
+00:22:47,440 --> 00:22:49,910
+You know Min Hak has an early flight to Bangkok tomorrow for work, right?
+
+383
+00:22:52,640 --> 00:22:55,350
+I doubt he'll even have time for some shut-eye when this is over.
+
+384
+00:22:57,110 --> 00:23:01,150
+And about that competition... It's going to be tough for Min Hak.
+
+385
+00:23:01,220 --> 00:23:02,850
+I was hoping he'd drop out around now.
+
+386
+00:23:03,390 --> 00:23:04,390
+Is that what Kang Min Hak wants?
+
+387
+00:23:04,720 --> 00:23:09,190
+No. He's determined to finish it even if he skips meals or sleep,
+
+388
+00:23:09,260 --> 00:23:12,660
+or even if he collapses. He'll keep his promise at all costs.
+
+389
+00:23:12,760 --> 00:23:15,230
+As you can see, Min Hak isn't just some regular person.
+
+390
+00:23:15,330 --> 00:23:18,240
+He's already squeezing his schedule just to attend school.
+
+391
+00:23:18,700 --> 00:23:20,340
+And it's the same with the competition.
+
+392
+00:23:20,400 --> 00:23:23,810
+I know assignments like this are important to you,
+
+393
+00:23:23,870 --> 00:23:25,410
+but you're both on different paths anyway, right?
+
+394
+00:23:26,640 --> 00:23:28,480
+- Min Hak is... - This summer, right here...
+
+395
+00:23:28,550 --> 00:23:31,350
+He's at a very critical point in his career right now.
+
+396
+00:23:31,450 --> 00:23:36,190
+He needs to prioritize and focus. Min Hak and I feel the same, but...
+
+397
+00:23:36,620 --> 00:23:39,020
+But the kid's too nice to say anything harsh,
+
+398
+00:23:39,560 --> 00:23:40,860
+I'm telling you for him.
+
+399
+00:23:41,260 --> 00:23:42,290
+Right. Okay.
+
+400
+00:23:42,730 --> 00:23:44,060
+If you could just... amicably...
+
+401
+00:23:44,590 --> 00:23:46,030
+just wrap up with your team.
+
+402
+00:23:46,400 --> 00:23:48,230
+I'll ask Min Hak about it myself.
+
+403
+00:23:48,370 --> 00:23:49,830
+But if you do that, Min Hak will just...
+
+404
+00:23:49,900 --> 00:23:53,040
+"Don't worry. I'm fine. I'll keep doing it."
+
+405
+00:23:53,100 --> 00:23:54,200
+That's what he'll say.
+
+406
+00:23:54,700 --> 00:23:57,640
+He's like a brother, and too nice for his own good.
+
+407
+00:23:57,710 --> 00:23:58,710
+Look at last time with you...
+
+408
+00:23:58,780 --> 00:24:01,440
+and the Joker Dildo Incident, he offered to take the fall.
+
+409
+00:24:04,080 --> 00:24:06,950
+You're asking me to tell him to quit the Competition for you?
+
+410
+00:24:07,020 --> 00:24:11,790
+Wouldn't it be less awkward for us? Let's just call it being tactful.
+
+411
+00:24:16,190 --> 00:24:19,630
+Hello? Yes, no. It's fine.
+
+412
+00:24:21,530 --> 00:24:22,569
+Gosh, I told you to just wait a minute.
+
+413
+00:24:22,570 --> 00:24:23,699
+This summer, right here,
+
+414
+00:24:23,700 --> 00:24:25,100
+- how about a staycation? - How about a staycation?
+
+415
+00:24:25,240 --> 00:24:28,940
+- Hae Na, hand on Min Hak's waist. - Oh, my!
+
+416
+00:24:30,810 --> 00:24:31,810
+Goodness.
+
+417
+00:24:32,580 --> 00:24:34,780
+Seeing you two like this, you really look like you're in love.
+
+418
+00:24:35,050 --> 00:24:36,210
+Why is it so hot in here?
+
+419
+00:24:40,750 --> 00:24:44,150
+Cut! Who turned on that fan? Are you kidding? A fan during this?
+
+420
+00:24:44,220 --> 00:24:46,290
+- Yes, sir. - Isn't this how that laptop broke?
+
+421
+00:24:46,360 --> 00:24:47,360
+Yes, I'll handle it.
+
+422
+00:24:47,420 --> 00:24:49,660
+- I said we were recording sound! - I'm sorry.
+
+423
+00:24:49,730 --> 00:24:52,260
+- Do you know how behind we are? - Sorry sir!
+
+424
+00:24:52,330 --> 00:24:54,400
+- Why do we keep making errors? - Let's be more careful, please.
+
+425
+00:24:54,660 --> 00:24:55,670
+- Let's focus... - Director.
+
+426
+00:24:55,730 --> 00:24:58,370
+I could put my arm on her shoulder. Or wrap my arm around like this?
+
+427
+00:24:58,700 --> 00:25:01,400
+Min Hak, you're so focused today. All right, go on, give it a try.
+
+428
+00:25:01,940 --> 00:25:03,210
+That's perfect.
+
+429
+00:25:06,980 --> 00:25:10,950
+Wow, you two look so good together. It's like you're a real couple.
+
+430
+00:25:11,010 --> 00:25:14,120
+- Director, come on. - What's the big deal?
+
+431
+00:25:14,420 --> 00:25:16,120
+All right, ready, and action!
+
+432
+00:25:18,150 --> 00:25:19,820
+Ten o'clock already.
+
+433
+00:25:21,190 --> 00:25:24,460
+This strand of hair on her cheek. Should I just move it back?
+
+434
+00:25:24,530 --> 00:25:25,930
+- Yes. - Okay.
+
+435
+00:25:27,760 --> 00:25:29,330
+That shot of Min Hak touching her looks good too.
+
+436
+00:25:30,300 --> 00:25:32,140
+Okay, let's get a take of this too.
+
+437
+00:25:33,470 --> 00:25:35,170
+Wow, Min Hak is so sweet.
+
+438
+00:25:35,770 --> 00:25:37,840
+Is something going on with you two? Why is this so natural?
+
+439
+00:25:37,910 --> 00:25:38,910
+There.
+
+440
+00:25:43,850 --> 00:25:44,950
+Should I go home?
+
+441
+00:25:52,560 --> 00:25:55,560
+Manseon by the back gate is open. Free beer for its 10th anniversary.
+
+442
+00:25:55,630 --> 00:25:56,959
+Is this spam or what?
+
+443
+00:25:56,960 --> 00:25:58,930
+It's an emergency committee meeting.
+
+444
+00:25:59,730 --> 00:26:01,700
+Vice-Chair, you can't make it?
+
+445
+00:26:01,770 --> 00:26:03,630
+(Emergency Committee Chairman, Yoo Ri)
+
+446
+00:26:07,740 --> 00:26:10,210
+Hey, you'll never guess who I just ran into.
+
+447
+00:26:10,570 --> 00:26:14,510
+- Who'd you run into? - My ex from freshman year.
+
+448
+00:26:15,980 --> 00:26:20,120
+He was holding a girl's bag, waiting for her by the restroom.
+
+449
+00:26:20,520 --> 00:26:23,690
+He's probably preying on some clueless freshman again.
+
+450
+00:26:25,860 --> 00:26:27,990
+That used to be me.
+
+451
+00:26:28,760 --> 00:26:30,530
+Meeting you is what turned me into a lesbian.
+
+452
+00:26:32,100 --> 00:26:33,800
+So, did you say hi?
+
+453
+00:26:34,100 --> 00:26:36,430
+Say hi? Are you kidding? How could I?
+
+454
+00:26:37,230 --> 00:26:40,870
+But seriously, that guy's a total pervert.
+
+455
+00:26:43,310 --> 00:26:46,610
+That girl has no idea, does she? What?
+
+456
+00:26:46,740 --> 00:26:49,980
+- Great work, everyone. - Great work, everyone.
+
+457
+00:26:50,080 --> 00:26:54,080
+Don't you think we're less awkward than on "Rideshare Romance?"
+
+458
+00:26:54,380 --> 00:26:56,950
+What? I was comfortable last time too.
+
+459
+00:26:58,220 --> 00:27:01,290
+Whatever. You were totally shy back then.
+
+460
+00:27:01,560 --> 00:27:03,160
+He's ridiculous, right?
+
+461
+00:27:03,790 --> 00:27:05,560
+Hae Na, change into this for the interview.
+
+462
+00:27:05,830 --> 00:27:07,030
+- Okay. - Just a second.
+
+463
+00:27:09,900 --> 00:27:10,970
+San.
+
+464
+00:27:11,800 --> 00:27:13,070
+Have you been here this whole time?
+
+465
+00:27:13,570 --> 00:27:15,070
+You should've waited in the car.
+
+466
+00:27:15,640 --> 00:27:17,240
+I was...
+
+467
+00:27:17,540 --> 00:27:18,580
+Hey, Min Hak!
+
+468
+00:27:18,640 --> 00:27:21,040
+We need to film some separate Reels. Come this way.
+
+469
+00:27:21,110 --> 00:27:22,380
+- Right now? - Yes!
+
+470
+00:27:22,450 --> 00:27:23,450
+Okay.
+
+471
+00:27:24,210 --> 00:27:25,220
+Just a second.
+
+472
+00:27:32,190 --> 00:27:34,720
+There's nothing between us. We're just friends. Friends.
+
+473
+00:27:34,890 --> 00:27:37,290
+- Friends? But she came this far? - She's just here for a project.
+
+474
+00:27:37,360 --> 00:27:41,500
+Don't give me that. It's an excuse. It's obvious she's here to see you.
+
+475
+00:27:42,530 --> 00:27:47,240
+Be careful. If she were a celebrity, at least she would be discreet.
+
+476
+00:27:47,300 --> 00:27:49,539
+If a normal girl gets the wrong idea,
+
+477
+00:27:49,540 --> 00:27:51,570
+things get messy, fast.
+
+478
+00:27:52,440 --> 00:27:54,240
+I thought we agreed to be careful starting today.
+
+479
+00:27:54,310 --> 00:27:55,910
+Gosh, enough.
+
+480
+00:27:56,310 --> 00:27:58,720
+- You can't be here, ma'am. - Okay.
+
+481
+00:27:58,780 --> 00:28:01,720
+- I'll have to ask you to leave. - Nice guys aren't charming,
+
+482
+00:28:02,050 --> 00:28:03,650
+but don't you think Min Hak is so cute?
+
+483
+00:28:04,050 --> 00:28:06,790
+Hae Na, you jumped the gun on "Rideshare Romance" too,
+
+484
+00:28:07,160 --> 00:28:09,360
+and you ended up not getting picked.
+
+485
+00:28:10,630 --> 00:28:13,400
+But earlier, I kind of held his hand. And he didn't let go.
+
+486
+00:28:14,560 --> 00:28:16,370
+Judging by the way he kept fixing your hair,
+
+487
+00:28:16,800 --> 00:28:20,840
+- he's definitely interested. - Right? Should I DM him first?
+
+488
+00:28:22,240 --> 00:28:25,310
+- Or should I wait? - Tag him in a Story first.
+
+489
+00:28:26,140 --> 00:28:28,980
+What is this? Next thing you know, you'll be a real couple in a year.
+
+490
+00:28:29,350 --> 00:28:30,610
+Then what would they call us?
+
+491
+00:28:30,880 --> 00:28:32,680
+The Min Na Couple? The Hae Hak Couple?
+
+492
+00:28:32,750 --> 00:28:35,350
+- "Min Na" works. They shine. - Min Na?
+
+493
+00:28:35,420 --> 00:28:36,420
+Okay, okay.
+
+494
+00:28:47,130 --> 00:28:48,900
+Director, thanks for all your hard work.
+
+495
+00:28:48,970 --> 00:28:50,730
+Min Hak, great work today.
+
+496
+00:28:52,940 --> 00:28:54,040
+Was there something you wanted to say?
+
+497
+00:28:54,100 --> 00:28:56,470
+No. I just came to say great work. Thank you for everything today.
+
+498
+00:28:56,540 --> 00:28:57,940
+Great work.
+
+499
+00:29:04,880 --> 00:29:08,850
+The last bus is already gone. What did I get so wrong this time?
+
+500
+00:29:11,390 --> 00:29:12,390
+Joo Yeon San!
+
+501
+00:29:14,320 --> 00:29:15,330
+Joo Yeon San.
+
+502
+00:29:18,600 --> 00:29:19,600
+San.
+
+503
+00:29:21,530 --> 00:29:24,800
+Hey... You can't just leave without a word.
+
+504
+00:29:25,170 --> 00:29:27,469
+I feel like I shouldn't have come in the first place.
+
+505
+00:29:27,470 --> 00:29:28,540
+What?
