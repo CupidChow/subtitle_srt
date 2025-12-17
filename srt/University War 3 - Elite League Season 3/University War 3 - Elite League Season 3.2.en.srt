@@ -1,0 +1,8041 @@
+1
+00:00:28,529 --> 00:00:30,781
+Please check the stock of black coins.
+
+2
+00:00:32,491 --> 00:00:34,117
+None remains.
+
+3
+00:00:42,125 --> 00:00:43,460
+I'll see you later, then.
+
+4
+00:00:46,964 --> 00:00:49,800
+Black coins are all out.
+
+5
+00:00:49,883 --> 00:00:51,552
+Black coins are out?
+
+6
+00:00:51,635 --> 00:00:55,389
+So he had none left? That's a huge blow.
+
+7
+00:00:55,472 --> 00:00:58,559
+Until then, we were certain
+we were ahead of STEM Division.
+
+8
+00:00:58,642 --> 00:01:01,853
+It was an unexpected turn of events.
+
+9
+00:01:01,937 --> 00:01:04,565
+Our division used multiple coins
+to make the queries
+
+10
+00:01:04,648 --> 00:01:06,984
+but failed to bring in any profits.
+
+11
+00:01:07,901 --> 00:01:11,280
+DESPITE USING 5 GOLD COINS
+
+12
+00:01:11,822 --> 00:01:13,198
+None remains.
+
+13
+00:01:13,282 --> 00:01:15,534
+MEDICAL DIVISION FAILED TO BUY BLACK COINS
+
+14
+00:01:16,660 --> 00:01:18,453
+I was really flustered.
+
+15
+00:01:18,954 --> 00:01:21,582
+- We have one visit left to the Exchange.
+- Should we get anything?
+
+16
+00:01:21,665 --> 00:01:23,792
+- What should we get?
+- Something cheap?
+
+17
+00:01:23,875 --> 00:01:27,754
+We could also buy the coins
+that will do well in Round 4 or 5.
+
+18
+00:01:27,838 --> 00:01:30,757
+Did STEM Division buy anything in Round 2?
+
+19
+00:01:31,758 --> 00:01:34,803
+- They did get something.
+- Did they go to the Exchange?
+
+20
+00:01:34,886 --> 00:01:35,887
+Maybe I'm wrong.
+
+21
+00:01:36,888 --> 00:01:40,017
+30 MINUTES AGO
+
+22
+00:01:40,100 --> 00:01:41,435
+That's our plan for Round 1.
+
+23
+00:01:41,518 --> 00:01:43,186
+- We can fine-tune it later.
+- Let's get in line.
+
+24
+00:01:43,270 --> 00:01:44,396
+I'll go first.
+
+25
+00:01:44,479 --> 00:01:46,607
+AS SOON AS ROUND 1 BEGAN,
+MEDICAL DIVISION ASKED QUESTIONS
+
+26
+00:01:46,690 --> 00:01:49,735
+Medical Division just sent people
+into the Inquiry Booth.
+
+27
+00:01:49,818 --> 00:01:51,778
+They probably have a similar plan.
+
+28
+00:01:51,862 --> 00:01:55,365
+- They're ahead of us.
+- They'd be asking about Round 2.
+
+29
+00:01:55,449 --> 00:01:56,283
+Why don't we ask
+
+30
+00:01:57,034 --> 00:01:59,703
+about the coin with the biggest price gain
+from Round 1 to 3?
+
+31
+00:01:59,786 --> 00:02:00,996
+TARGETS ROUND 3'S HIGHEST EARNING COIN
+
+32
+00:02:01,246 --> 00:02:04,207
+We knew Medical Division
+would've thought of binary search.
+
+33
+00:02:04,291 --> 00:02:06,335
+Since they were using the same approach,
+
+34
+00:02:06,418 --> 00:02:08,754
+they could get ahead of us
+and buy the coin we wanted.
+
+35
+00:02:08,837 --> 00:02:10,922
+Then, we would've wasted our queries.
+
+36
+00:02:11,006 --> 00:02:12,341
+From Round 1 to 3?
+
+37
+00:02:12,424 --> 00:02:14,009
+JUMPS AHEAD TO FIND
+ROUND 3'S BEST PERFORMER
+
+38
+00:02:22,225 --> 00:02:24,269
+It's the black coin.
+
+39
+00:02:24,353 --> 00:02:27,564
+BLACK COIN HAS THE BIGGEST PRICE GAIN
+FROM ROUND 1 TO 3
+
+40
+00:02:27,648 --> 00:02:30,275
+Black coins. Two teams get 8,
+and the other gets 9.
+
+41
+00:02:30,776 --> 00:02:33,487
+I'd like to buy eight black coins.
+
+42
+00:02:33,570 --> 00:02:35,280
+Eight black coins, please.
+
+43
+00:02:35,364 --> 00:02:36,865
+Nine black coins, please.
+
+44
+00:02:37,324 --> 00:02:39,951
+8 COINS, 8 COINS, 9 COINS
+
+45
+00:02:40,035 --> 00:02:42,663
+Once they learn black coin
+gains the most in Round 3,
+
+46
+00:02:42,746 --> 00:02:43,872
+they'll be so shaken.
+
+47
+00:02:43,955 --> 00:02:45,290
+Totally.
+
+48
+00:02:45,749 --> 00:02:48,210
+Losing all of black coins to them
+is a huge blow.
+
+49
+00:02:48,293 --> 00:02:49,336
+For now...
+
+50
+00:02:49,419 --> 00:02:53,131
+I mean, Round 3 is important
+because of the asset reveal.
+
+51
+00:02:53,507 --> 00:02:55,342
+It won't hurt to change our strategy.
+
+52
+00:02:55,425 --> 00:02:56,802
+STRATEGY REVISION REQUIRED
+
+53
+00:02:57,094 --> 00:03:01,306
+We could check our coin's price
+and sell them if it drops.
+
+54
+00:03:01,390 --> 00:03:03,183
+- The pink coins?
+- The price may go up again.
+
+55
+00:03:08,063 --> 00:03:10,148
+I think he's eavesdropping over there.
+
+56
+00:03:10,232 --> 00:03:11,817
+Let's lower our voices.
+
+57
+00:03:11,900 --> 00:03:14,569
+He's going in
+after listening in on our conversation.
+
+58
+00:03:14,653 --> 00:03:16,530
+We'll have to submit the query soon.
+
+59
+00:03:16,613 --> 00:03:17,948
+He heard everything.
+
+60
+00:03:18,031 --> 00:03:19,408
+KANG JI-HOO LIT A FIRE
+UNDER MEDICAL DIVISION
+
+61
+00:03:20,325 --> 00:03:23,036
+EVER SINCE CHOI A-IN WALKED
+OUT OF THE EXCHANGE
+
+62
+00:03:23,120 --> 00:03:24,746
+KANG JI-HOO HAS BEEN OBSERVING
+
+63
+00:03:24,830 --> 00:03:26,957
+As they say,
+too many cooks spoil the broth.
+
+64
+00:03:27,290 --> 00:03:31,169
+Frankly, our strategy wouldn't change much
+with or without me.
+
+65
+00:03:31,253 --> 00:03:32,713
+We already had our plan.
+
+66
+00:03:34,047 --> 00:03:37,509
+So I thought about what more I could do
+to contribute to my division.
+
+67
+00:03:38,051 --> 00:03:40,303
+Are we sure
+they bought anything in Round 1?
+
+68
+00:03:40,387 --> 00:03:41,972
+We don't know that.
+
+69
+00:03:42,055 --> 00:03:43,932
+We missed that completely.
+
+70
+00:03:44,015 --> 00:03:47,602
+We hadn't been keeping an eye
+on what our opponents were doing.
+
+71
+00:03:48,019 --> 00:03:50,147
+We needed to know what they were doing
+
+72
+00:03:50,230 --> 00:03:53,692
+to hatch a plan to turn the tables on them
+and secure a victory.
+
+73
+00:03:54,568 --> 00:03:57,112
+I think we need a scout to monitor them.
+
+74
+00:03:57,195 --> 00:04:00,407
+That's a good idea.
+That way, we can see their general plan.
+
+75
+00:04:01,032 --> 00:04:04,286
+KANG JI-HOO COUNTED
+MEDICAL DIVISION'S VISITS TO THE EXCHANGE
+
+76
+00:04:05,996 --> 00:04:08,415
+I don't think
+they're buying anything this round.
+
+77
+00:04:08,498 --> 00:04:09,332
+What?
+
+78
+00:04:09,416 --> 00:04:10,959
+Why aren't they buying, though?
+
+79
+00:04:11,042 --> 00:04:13,044
+Maybe I'm getting my hopes up too much,
+
+80
+00:04:13,128 --> 00:04:16,381
+but they might have failed to buy
+the black coins.
+
+81
+00:04:17,132 --> 00:04:19,384
+They must've learned
+all black coins were out.
+
+82
+00:04:19,468 --> 00:04:22,387
+I think that kind of messed up their game.
+
+83
+00:04:25,182 --> 00:04:26,892
+...close in one minute.
+
+84
+00:04:31,480 --> 00:04:32,314
+It's going up.
+
+85
+00:04:32,397 --> 00:04:33,982
+Up? The price is going up.
+
+86
+00:04:34,065 --> 00:04:35,567
+- Up?
+- Let's hold on to them.
+
+87
+00:04:35,650 --> 00:04:38,195
+- The price will go up.
+- Then, we should keep them.
+
+88
+00:04:38,278 --> 00:04:39,780
+DECIDED TO KEEP THE PINK COINS
+
+89
+00:04:39,863 --> 00:04:43,241
+I think we should redefine our goals
+at this stage.
+
+90
+00:04:43,325 --> 00:04:45,619
+Why don't we talk it over
+in the Division Room?
+
+91
+00:04:48,747 --> 00:04:51,082
+Our strategy so far has been figuring out
+
+92
+00:04:51,166 --> 00:04:55,003
+the coin with the biggest price gain
+from this round to the next one
+
+93
+00:04:55,086 --> 00:04:57,339
+and purchase all of them.
+
+94
+00:04:57,422 --> 00:05:00,258
+But since our opponents
+cleaned out the coin
+
+95
+00:05:00,342 --> 00:05:02,719
+that will do well in the next round...
+
+96
+00:05:03,053 --> 00:05:05,472
+Are we not using binary search anymore
+to find the best performer?
+
+97
+00:05:05,972 --> 00:05:09,893
+We still need to find the best performer,
+but we must consider Ji-hoo's motive.
+
+98
+00:05:09,976 --> 00:05:12,813
+We need to assume he was out there
+because his division figured out
+
+99
+00:05:12,896 --> 00:05:14,773
+- the best performer in Round 4.
+- Right.
+
+100
+00:05:14,856 --> 00:05:17,734
+I suggest we buy the coin
+that will do well in Round 5.
+
+101
+00:05:17,818 --> 00:05:20,904
+Should we ask about the price gain
+from Round 3 to 5
+
+102
+00:05:20,987 --> 00:05:22,739
+- considering our goal?
+- Of course.
+
+103
+00:05:22,823 --> 00:05:25,617
+That's right.
+Let's increase our assets in Round 5.
+
+104
+00:05:25,700 --> 00:05:28,870
+The problem is, we're not sure
+how much STEM Division knows.
+
+105
+00:05:29,287 --> 00:05:31,915
+I bet Medical Division is floundering.
+
+106
+00:05:31,998 --> 00:05:36,086
+I mean, we're out here
+already in position for the next round.
+
+107
+00:05:36,670 --> 00:05:38,463
+20 MINUTES AGO
+Should we check the price gain...
+
+108
+00:05:38,797 --> 00:05:40,924
+- From Round 3 to 4?
+- Yes, we should.
+
+109
+00:05:41,007 --> 00:05:43,134
+DECIDED TO BUY THE COIN
+WITH THE BIGGEST PRICE GAIN IN ROUND 4
+
+110
+00:05:47,931 --> 00:05:49,391
+It's either silver or black.
+
+111
+00:05:49,474 --> 00:05:50,892
+- It's silver, then.
+- Yes.
+
+112
+00:05:50,976 --> 00:05:53,728
+The moment Round 3 begins,
+we'll sell our black coins...
+
+113
+00:05:53,812 --> 00:05:56,273
+- Right, then we'll buy silver coins.
+- Oh, okay.
+
+114
+00:05:56,356 --> 00:05:58,859
+Round 2 ends in 5 minutes.
+
+115
+00:05:58,942 --> 00:06:00,277
+I'll go reserve our place.
+
+116
+00:06:00,360 --> 00:06:03,154
+STEM DIVISION PLANS TO BUY
+ROUND 4'S BEST PERFORMING COIN
+
+117
+00:06:03,864 --> 00:06:06,283
+I think we're going to win
+if our miners do well.
+
+118
+00:06:07,742 --> 00:06:10,912
+Our strategy
+for the earlier rounds worked.
+
+119
+00:06:10,996 --> 00:06:12,873
+It's time to plan for the middle rounds.
+
+120
+00:06:12,956 --> 00:06:15,041
+We need to nail the final rounds to win.
+
+121
+00:06:15,292 --> 00:06:19,462
+A miner in Team SNU in STEM
+requested a change of position.
+
+122
+00:06:20,881 --> 00:06:22,132
+- Want to try?
+- Sure.
+
+123
+00:06:22,215 --> 00:06:23,174
+See you later.
+
+124
+00:06:23,258 --> 00:06:25,677
+We're selling black coins
+and buying silver coins, okay?
+
+125
+00:06:25,760 --> 00:06:27,429
+- Get eight silver coins.
+- Okay.
+
+126
+00:06:29,723 --> 00:06:31,224
+Did you handle multiplication?
+
+127
+00:06:31,308 --> 00:06:33,518
+We switched
+because I kept making mistakes.
+
+128
+00:06:35,979 --> 00:06:37,981
+That concludes Round 2.
+
+129
+00:06:38,064 --> 00:06:41,318
+Coin prices in Round 3
+will now be revealed.
+
+130
+00:06:41,401 --> 00:06:43,987
+STEM DIVISION OWNS 25 BLACK COINS
+
+131
+00:06:45,030 --> 00:06:46,656
+Black coin, 16,000 won.
+
+132
+00:06:49,659 --> 00:06:51,912
+- It increased so much.
+- Wait, the black coins...
+
+133
+00:06:52,287 --> 00:06:54,247
+Pink coin, 14,000 won.
+
+134
+00:06:58,168 --> 00:06:59,461
+I'd say it's legendary.
+
+135
+00:07:00,253 --> 00:07:04,049
+Fortunately, it looks like we did better.
+Black coin had the highest spike.
+
+136
+00:07:04,132 --> 00:07:07,218
+- Pink coin had a 1,000-won gain.
+- Black coin's price shot up.
+
+137
+00:07:07,302 --> 00:07:09,346
+Are we falling behind by 50,000 won?
+
+138
+00:07:09,429 --> 00:07:10,263
+ACCUMULATED RETURNS
+
+139
+00:07:10,347 --> 00:07:12,724
+MEDICAL DIVISION: 100,000 WON
+STEM DIVISION: 150,000 WON
+
+140
+00:07:12,807 --> 00:07:15,226
+We should find out
+which coin will rise in Round 5.
+
+141
+00:07:15,310 --> 00:07:17,103
+Should we do the binary search
+for Round 5?
+
+142
+00:07:17,187 --> 00:07:18,271
+All right.
+
+143
+00:07:19,606 --> 00:07:23,902
+MEDICAL DIVISION WANTS TO SECURE
+THE BEST PERFORMING COIN OF ROUND 5 FIRST
+
+144
+00:07:23,985 --> 00:07:26,696
+AS PLANNED, STEM DIVISION BUYS
+THE BEST PERFORMING COIN OF ROUND 4
+
+145
+00:07:26,780 --> 00:07:29,115
+YOU CAN CHECK THE STOCK OF ONE COIN
+BEFORE MAKING A PURCHASE
+
+146
+00:07:29,199 --> 00:07:30,617
+Do you have any pink coins left?
+
+147
+00:07:30,700 --> 00:07:32,786
+No, none remains.
+
+148
+00:07:32,869 --> 00:07:35,830
+I'll sell my coins first.
+Here are eight black coins.
+
+149
+00:07:35,914 --> 00:07:38,750
+Here's 128,000 won.
+
+150
+00:07:38,833 --> 00:07:41,586
+And I'd like to buy nine silver coins.
+
+151
+00:07:41,878 --> 00:07:45,256
+Team KAIST's Jeon Ji-min,
+here are nine silver coins.
+
+152
+00:07:45,340 --> 00:07:46,508
+Thank you.
+
+153
+00:07:48,176 --> 00:07:50,095
+- They're still holding onto pink.
+- Really?
+
+154
+00:07:50,178 --> 00:07:51,846
+- They are all out.
+- They are?
+
+155
+00:07:53,515 --> 00:07:57,352
+STEM DIVISION OBTAINS PROFIT
+FROM SELLING THEIR BLACK COINS
+
+156
+00:07:57,435 --> 00:07:59,646
+THEY THEN PURCHASED 8 SILVER COINS EACH
+
+157
+00:07:59,729 --> 00:08:00,689
+Thank you.
+
+158
+00:08:02,774 --> 00:08:05,944
+It bugs me that STEM Division
+earned a lot with the black coin.
+
+159
+00:08:06,903 --> 00:08:08,029
+- How many did we get?
+- Three.
+
+160
+00:08:08,113 --> 00:08:10,991
+That's not bad.
+Maybe the miners will determine the game.
+
+161
+00:08:11,074 --> 00:08:15,537
+The amount
+we're falling behind in investment
+
+162
+00:08:15,620 --> 00:08:16,871
+- is 50,000 won.
+- Right.
+
+163
+00:08:16,955 --> 00:08:18,873
+We had 20,000 won at the outset,
+
+164
+00:08:18,957 --> 00:08:22,460
+so if our division can mine
+one more gold coin than our opponents,
+
+165
+00:08:22,544 --> 00:08:23,420
+we're even.
+
+166
+00:08:23,503 --> 00:08:25,130
+Aren't our guys better at calculation?
+
+167
+00:08:25,588 --> 00:08:29,092
+Team Yonsei succeeded
+in mining one gold coin.
+
+168
+00:08:30,051 --> 00:08:31,344
+You're so thorough.
+
+169
+00:08:32,053 --> 00:08:33,388
+How much have they earned so far?
+
+170
+00:08:34,264 --> 00:08:36,558
+Team POSTECH succeeded...
+
+171
+00:08:36,808 --> 00:08:39,227
+Team SKKU succeeded...
+
+172
+00:08:39,477 --> 00:08:43,023
+Team KAIST succeeded
+in mining one gold coin.
+
+173
+00:08:45,233 --> 00:08:46,651
+- TEAM KAIST is on fire.
+- Totally.
+
+174
+00:08:46,735 --> 00:08:48,862
+Our miners are catching up.
+
+175
+00:08:48,945 --> 00:08:51,990
+- They're checking the price gain, right?
+- That's right.
+
+176
+00:08:52,073 --> 00:08:54,075
+- From Round 3 to 5, right?
+- Yes.
+
+177
+00:08:54,451 --> 00:08:57,787
+MEDICAL DIVISION WANTS TO SECURE
+ROUND 5'S BEST PERFORMING COIN
+
+178
+00:08:57,871 --> 00:09:02,208
+We shouldn't overlook the fact
+
+179
+00:09:02,292 --> 00:09:04,794
+that they made more profit
+than we did in Round 4.
+
+180
+00:09:06,087 --> 00:09:08,631
+I asked, "Is the coin
+with the biggest positive price gain
+
+181
+00:09:08,715 --> 00:09:10,675
+from Round 3 to 5
+between black, pink, silver, and red?"
+
+182
+00:09:10,759 --> 00:09:11,760
+The answer was no.
+
+183
+00:09:11,843 --> 00:09:13,470
+THE BEST PERFORMER
+ISN'T BLACK, PINK, SILVER, OR RED
+
+184
+00:09:13,553 --> 00:09:16,765
+We can cross them out.
+We should ask about the remaining ones.
+
+185
+00:09:16,848 --> 00:09:19,267
+- About the three remaining ones?
+- Yes.
+
+186
+00:09:19,350 --> 00:09:21,728
+IS THE COIN
+WITH THE BIGGEST POSITIVE PRICE GAIN
+
+187
+00:09:21,811 --> 00:09:23,980
+FROM ROUND 3 TO 5 BETWEEN GREEN AND BLUE?
+
+188
+00:09:25,148 --> 00:09:26,900
+The answer's no.
+
+189
+00:09:26,983 --> 00:09:28,234
+You got no?
+
+190
+00:09:28,318 --> 00:09:31,362
+- If the answer is no...
+- I got a no.
+
+191
+00:09:31,863 --> 00:09:33,615
+Only the purple coin remains.
+
+192
+00:09:34,491 --> 00:09:37,202
+But there's a chance
+the gain is a negative number.
+
+193
+00:09:37,285 --> 00:09:38,369
+EVEN PURPLE COIN'S PRICE MAY GO DOWN
+
+194
+00:09:38,453 --> 00:09:40,080
+Are we getting a bear market?
+
+195
+00:09:40,163 --> 00:09:42,999
+Maybe the market's going to crash.
+
+196
+00:09:43,083 --> 00:09:46,711
+Let's include another coin in the query
+and ask if the gain exceeds zero.
+
+197
+00:09:46,795 --> 00:09:48,004
+Let's ask right away.
+
+198
+00:09:48,088 --> 00:09:51,716
+IF IT EXCEEDS 0, THE PRICE GOES UP
+IF IT DOESN'T, THE PRICE GOES DOWN
+
+199
+00:09:51,800 --> 00:09:54,886
+If it exceeds zero, let's buy them all
+and sell our pink coins.
+
+200
+00:10:01,518 --> 00:10:02,685
+Can you wait by the Exchange?
+
+201
+00:10:02,769 --> 00:10:05,230
+- I'm feeling anxious.
+- Okay.
+
+202
+00:10:05,313 --> 00:10:07,315
+Let's go line up by the Exchange.
+
+203
+00:10:12,779 --> 00:10:15,949
+Team SNU in STEM succeeded
+in mining one gold coin.
+
+204
+00:10:16,032 --> 00:10:18,284
+I think purple gets negative growth.
+
+205
+00:10:18,368 --> 00:10:21,037
+I asked if purple or green has
+a positive price gain from Round 3 to 5,
+
+206
+00:10:21,121 --> 00:10:24,833
+- and the answer was no.
+- Round 5 is a bear market.
+
+207
+00:10:28,211 --> 00:10:30,338
+- Are they buying now?
+- They're not doing anything.
+
+208
+00:10:30,672 --> 00:10:34,384
+It looks like they believe
+pink coin's price will go up, doesn't it?
+
+209
+00:10:34,467 --> 00:10:36,886
+We'll sell pink coins in Round 4.
+
+210
+00:10:36,970 --> 00:10:39,681
+- We must.
+- In Round 4, we shouldn't have anything.
+
+211
+00:10:39,764 --> 00:10:42,851
+- In Round 4, everything should be...
+- We should cash in.
+
+212
+00:10:42,934 --> 00:10:44,310
+Because it's a bear market.
+
+213
+00:10:44,394 --> 00:10:45,353
+LIQUIDATION PLANNED
+
+214
+00:10:45,436 --> 00:10:48,314
+That concludes Round 3 of Mine and Trade.
+
+215
+00:10:48,648 --> 00:10:52,443
+Bear in mind that they may have a lead
+from acquiring all black coins.
+
+216
+00:10:52,527 --> 00:10:55,989
+Each division's total assets
+will now be revealed.
+
+217
+00:10:56,072 --> 00:10:57,907
+- I'm getting nervous.
+- Shall we use the big screen?
+
+218
+00:10:58,449 --> 00:11:00,702
+The big screen sounds nice.
+
+219
+00:11:01,452 --> 00:11:03,204
+Please...
+
+220
+00:11:06,958 --> 00:11:10,086
+Medical Division has 790,000 won.
+
+221
+00:11:10,170 --> 00:11:11,379
+STEM Division
+
+222
+00:11:12,714 --> 00:11:16,217
+has 740,000 won.
+
+223
+00:11:16,301 --> 00:11:18,303
+- ...has 740,000 won.
+- What?
+
+224
+00:11:18,803 --> 00:11:21,764
+MEDICAL DIVISION: 790,000 WON
+STEM DIVISION: 740,000 WON
+
+225
+00:11:23,892 --> 00:11:25,351
+Did they sell the black coins
+
+226
+00:11:25,435 --> 00:11:28,271
+- and make a bad investment?
+- Maybe they lost some money that way.
+
+227
+00:11:28,354 --> 00:11:29,898
+Maybe our miners did better.
+
+228
+00:11:29,981 --> 00:11:32,859
+I don't get why we're falling behind.
+
+229
+00:11:32,942 --> 00:11:35,778
+STEM Division has 740,000 won.
+
+230
+00:11:35,862 --> 00:11:36,863
+MINING ROOM
+
+231
+00:11:37,322 --> 00:11:38,156
+Did you hear that?
+
+232
+00:11:38,239 --> 00:11:41,117
+- How big is the difference?
+- It's 50,000 won.
+
+233
+00:11:41,201 --> 00:11:43,161
+- We're behind by 50,000 won?
+- Yeah.
+
+234
+00:11:43,244 --> 00:11:45,663
+Let's crank up the mining efforts.
+
+235
+00:11:46,039 --> 00:11:47,832
+The difference is 50,000 won.
+
+236
+00:11:52,587 --> 00:11:53,963
+Good job, guys.
+
+237
+00:11:54,047 --> 00:11:56,049
+TEAM SNU IN STEM: 14
+TEAM KAIST: 11, TEAM POSTECH: 15
+
+238
+00:11:56,132 --> 00:11:57,342
+STEM DIVISION'S TOTAL: 40 COINS
+
+239
+00:12:00,637 --> 00:12:02,764
+Why is the difference so small?
+
+240
+00:12:03,890 --> 00:12:06,017
+- How are you holding up?
+- I'm doing fine.
+
+241
+00:12:06,100 --> 00:12:07,769
+I misread the number. That's all.
+
+242
+00:12:10,855 --> 00:12:12,815
+Do you want to switch? Are you okay?
+
+243
+00:12:12,899 --> 00:12:14,567
+- I'm good.
+- Okay.
+
+244
+00:12:14,651 --> 00:12:16,611
+TEAM SNU IN MEDICINE: 20
+TEAM YONSEI: 20, TEAM SKKU: 16
+
+245
+00:12:16,694 --> 00:12:17,946
+MEDICAL DIVISION'S TOTAL: 53 COINS
+
+246
+00:12:18,863 --> 00:12:21,783
+MEDICAL DIVISION MINED 13 MORE COINS
+
+247
+00:12:21,866 --> 00:12:23,451
+CURRENT 1ST PLACE IN MINING
+
+248
+00:12:23,534 --> 00:12:26,537
+FRONT-RUNNERS: TEAM SKKU, KANG JI-HU
+AND TEAM SNU IN MEDICINE, JOO MIN-SEO
+
+249
+00:12:26,871 --> 00:12:30,208
+OVERALL 1ST PLACE: JOO MIN-SEO, 13 COINS
+
+250
+00:12:31,501 --> 00:12:33,253
+10-DIGIT-BY-10-DIGIT MULTIPLICATION
+
+251
+00:12:33,336 --> 00:12:36,047
+A TOTAL OF 13 QUESTIONS SOLVED,
+EACH TAKING 5.7 MINUTES
+
+252
+00:12:36,130 --> 00:12:38,800
+Working with the 10-digit numbers
+was a complex process,
+
+253
+00:12:38,883 --> 00:12:41,678
+so I tried my best
+not to make a mistake along the way.
+
+254
+00:12:41,761 --> 00:12:44,222
+I was also surprised
+that I made no mistakes.
+
+255
+00:12:44,555 --> 00:12:47,642
+I couldn't be sure if I was slow
+or Min-seo was insanely quick.
+
+256
+00:12:47,725 --> 00:12:50,478
+Turns out she was that quick.
+
+257
+00:12:50,561 --> 00:12:53,231
+OVERALL 2ND PLACE: KANG JI-HU, 12 COINS
+
+258
+00:12:53,314 --> 00:12:56,442
+Coin prices in Round 4
+will now be revealed.
+
+259
+00:12:56,526 --> 00:12:59,779
+STEM DIVISION HOLDS SILVER COINS
+MEDICAL DIVISION HOLDS PINK COINS
+
+260
+00:12:59,862 --> 00:13:01,030
+We gained 1,000 won.
+
+261
+00:13:02,490 --> 00:13:04,701
+- It's still a gain.
+- Baby steps, right?
+
+262
+00:13:05,994 --> 00:13:09,914
+Let's keep the door open
+to monitor the trading activities.
+
+263
+00:13:11,499 --> 00:13:12,667
+I'll go make our trade.
+
+264
+00:13:12,917 --> 00:13:14,669
+Let's go sell the silver coins.
+
+265
+00:13:15,378 --> 00:13:17,463
+I'll ask about the pink coin's stock.
+
+266
+00:13:21,384 --> 00:13:24,178
+KIM GANG-HYEON AND JAE SEUNG-GYU
+LINE UP BY THE EXCHANGE
+
+267
+00:13:27,640 --> 00:13:30,727
+Two STEM teams lined up to make a trade.
+
+268
+00:13:30,810 --> 00:13:33,396
+They must know
+all the prices are going to drop.
+
+269
+00:13:33,479 --> 00:13:34,772
+I doubt they'll buy anything.
+
+270
+00:13:35,356 --> 00:13:36,649
+- The answer was no.
+- What?
+
+271
+00:13:36,733 --> 00:13:38,776
+We're getting a bear market.
+
+272
+00:13:38,860 --> 00:13:41,279
+- A bear market?
+- Neither red nor silver will see profit.
+
+273
+00:13:41,362 --> 00:13:42,780
+Shall we cash in and wait?
+
+274
+00:13:42,864 --> 00:13:44,532
+- Let's sell everything.
+- Okay.
+
+275
+00:13:44,615 --> 00:13:45,616
+LIQUIDATION DECIDED
+
+276
+00:13:45,950 --> 00:13:48,077
+I'd like to check the pink coin's stock.
+
+277
+00:13:48,161 --> 00:13:49,412
+None remains.
+
+278
+00:13:50,121 --> 00:13:51,956
+I'd like to sell nine silver coins.
+
+279
+00:13:52,749 --> 00:13:54,917
+- He has no pink coins.
+- That means
+
+280
+00:13:55,001 --> 00:13:56,919
+it's safe to say we're in the lead, right?
+
+281
+00:13:57,003 --> 00:13:58,671
+We had a 3,000-won price gain.
+
+282
+00:13:58,755 --> 00:14:02,091
+When we cash in all 25 silver coins,
+our profit totals 75,000 won.
+
+283
+00:14:02,175 --> 00:14:03,801
+MEDICAL DIVISION: 790,000 WON
+PINK COIN'S PROFIT: 25,000 WON
+
+284
+00:14:03,885 --> 00:14:05,470
+STEM DIVISION: 740,000 WON
+SILVER COIN'S PROFIT: 75,000 WON
+
+285
+00:14:05,553 --> 00:14:08,973
+STEM DIVISION CAUGHT UP
+ON MEDICAL DIVISION WITH EARNINGS
+
+286
+00:14:09,057 --> 00:14:12,769
+STEM DIVISION LIQUIDATED ALL THEIR ASSETS
+I'd like to sell eight silver coins.
+
+287
+00:14:12,852 --> 00:14:14,979
+Team SNU in Medicine succeeded in mining.
+
+288
+00:14:15,063 --> 00:14:17,315
+Team Yonsei succeeded in mining.
+
+289
+00:14:17,398 --> 00:14:20,193
+It looks like
+we're falling behind in mining.
+
+290
+00:14:26,199 --> 00:14:28,493
+Team SNU in Medicine succeeded in mining.
+
+291
+00:14:28,576 --> 00:14:30,453
+COIN MINING SUCCEEDED
+
+292
+00:14:30,703 --> 00:14:34,665
+Team SNU in Medicine's miner
+requested a change of position.
+
+293
+00:14:35,416 --> 00:14:38,503
+I'll get going. I think I'm done.
+
+294
+00:14:38,586 --> 00:14:41,839
+Team POSTECH's miner
+requested a change of position.
+
+295
+00:14:41,923 --> 00:14:44,425
+TEAM SNU IN MEDICINE'S HAN SEO-YEON
+AND TEAM POSTECH'S PARK SEO-YEON GO IN
+
+296
+00:14:45,593 --> 00:14:47,637
+- How's it going?
+- What?
+
+297
+00:14:48,012 --> 00:14:50,848
+- Our returns are higher.
+- Really?
+
+298
+00:14:51,557 --> 00:14:53,309
+So the mining is the issue.
+
+299
+00:14:53,393 --> 00:14:55,103
+I'll try to speed it up.
+
+300
+00:14:55,395 --> 00:14:57,438
+MEDICAL DIVISION ALSO PREPARES
+FOR THE BEAR MARKET
+
+301
+00:14:57,522 --> 00:14:59,273
+I'd like to sell eight pink coins.
+
+302
+00:15:00,066 --> 00:15:02,235
+I'd like to check
+the stock of silver coins.
+
+303
+00:15:02,318 --> 00:15:04,362
+- Silver, please.
+- I'll check them.
+
+304
+00:15:04,445 --> 00:15:06,697
+I have 25 coins in stock.
+
+305
+00:15:06,781 --> 00:15:09,200
+I'd like to sell all my pink coins.
+
+306
+00:15:09,867 --> 00:15:13,079
+The Exchange and Inquiry Booth
+close in five minutes.
+
+307
+00:15:15,289 --> 00:15:17,917
+We're asking about the price gain
+from Round 5 to 6.
+
+308
+00:15:18,000 --> 00:15:19,669
+- All 25 silver coins are in stock.
+- I see.
+
+309
+00:15:19,752 --> 00:15:21,546
+But Ji-min just entered the Exchange.
+
+310
+00:15:21,629 --> 00:15:23,172
+- He did?
+- Yes, just now.
+
+311
+00:15:23,256 --> 00:15:24,424
+Team KAIST's buying.
+
+312
+00:15:25,007 --> 00:15:26,759
+1 MINUTE AGO
+
+313
+00:15:26,843 --> 00:15:28,719
+RAN INTO TEAM KAIST'S JEON JI-MIN
+ON HIS WAY OUT
+
+314
+00:15:29,137 --> 00:15:32,932
+Maybe he's checking the stock.
+Both sides cashed in on all their assets.
+
+315
+00:15:33,015 --> 00:15:36,060
+That means they knew
+about the bear market too.
+
+316
+00:15:36,561 --> 00:15:38,062
+Please check the pink coin's stock.
+
+317
+00:15:38,146 --> 00:15:39,313
+- The pink coins?
+- Yes.
+
+318
+00:15:40,314 --> 00:15:41,691
+- I have 18 coins.
+- Eighteen?
+
+319
+00:15:41,774 --> 00:15:43,776
+18 PINK COINS IN STOCK
+Thank you.
+
+320
+00:15:45,445 --> 00:15:47,155
+- He has 18 coins.
+- The pink ones?
+
+321
+00:15:47,238 --> 00:15:48,656
+- What an awkward number.
+- It is.
+
+322
+00:15:48,739 --> 00:15:51,409
+- Maybe one team didn't sell theirs?
+- There are 18 pink coins.
+
+323
+00:15:52,577 --> 00:15:54,996
+- All this is just...
+- Do we have any pink coins?
+
+324
+00:15:55,079 --> 00:15:57,707
+- No, we've got nothing.
+- They kept seven coins?
+
+325
+00:15:58,166 --> 00:16:00,251
+I'd like to sell all my pink coins.
+
+326
+00:16:00,334 --> 00:16:03,171
+I want to sell these eight pink coins.
+
+327
+00:16:03,421 --> 00:16:06,007
+I have these pink coins...
+
+328
+00:16:06,090 --> 00:16:11,596
+I'd like to sell just one coin for now.
+
+329
+00:16:14,182 --> 00:16:15,516
+- Hey, Min-seo.
+- My mind is whirling.
+
+330
+00:16:15,600 --> 00:16:19,103
+Go to the Exchange
+and sell all pink coins we've got.
+
+331
+00:16:19,187 --> 00:16:21,606
+- All our pink coins?
+- Yes, all of them.
+
+332
+00:16:22,106 --> 00:16:24,400
+I thought STEM Division
+would also check the stock.
+
+333
+00:16:24,484 --> 00:16:28,404
+So I only sold one pink coin initially
+to confuse them.
+
+334
+00:16:32,700 --> 00:16:35,703
+- I don't get their plan.
+- Their strategy must be different.
+
+335
+00:16:36,037 --> 00:16:39,499
+MEDICAL DIVISION IS ON THE HUNT
+FOR ROUND 6'S BEST PERFORMER
+
+336
+00:16:39,582 --> 00:16:40,750
+From Round 5 to 6.
+
+337
+00:16:41,876 --> 00:16:45,588
+MEDICAL DIVISION FOUND OUT
+ROUND 6'S HIGHEST-EARNING COIN
+
+338
+00:16:46,172 --> 00:16:48,966
+The Exchange and Inquiry Booth
+close in one minute.
+
+339
+00:16:49,050 --> 00:16:52,470
+We've got to hit the Exchange
+the moment Round 5 begins.
+
+340
+00:16:52,553 --> 00:16:54,222
+STEM guys are probably going to--
+
+341
+00:16:54,305 --> 00:16:56,015
+- Ask the same questions we did?
+- Yeah.
+
+342
+00:16:56,098 --> 00:16:57,683
+So we should be ready
+the moment Round 4 ends.
+
+343
+00:16:57,767 --> 00:16:59,560
+Should I stay in line?
+
+344
+00:17:00,019 --> 00:17:02,063
+- We should wait in line here.
+- Yes, it's necessary.
+
+345
+00:17:02,146 --> 00:17:05,191
+I'm sure they're going to ask
+about the price gain from Round 5 to 6.
+
+346
+00:17:05,274 --> 00:17:06,901
+So let's wait in line
+
+347
+00:17:06,984 --> 00:17:09,612
+and enter the Exchange
+the moment they say Round 5 is live.
+
+348
+00:17:11,364 --> 00:17:14,116
+TEAM POSTECH'S JAE SEUNG-GYU
+GOES INTO THE INQUIRY BOOTH
+
+349
+00:17:14,617 --> 00:17:19,080
+STEM DIVISION IS INDEED LOOKING
+FOR ROUND 6'S BEST PERFORMING COIN
+
+350
+00:17:20,706 --> 00:17:21,874
+It's the pink coin.
+
+351
+00:17:21,958 --> 00:17:23,751
+What a relief.
+
+352
+00:17:25,086 --> 00:17:29,340
+That concludes Round 4 of Mine and Trade.
+
+353
+00:17:29,882 --> 00:17:32,969
+Coin prices in Round 5
+will now be revealed.
+
+354
+00:17:36,472 --> 00:17:37,974
+LEE SEUNG-HYEON SIGNALS HIS ALLIES
+
+355
+00:17:38,057 --> 00:17:39,600
+Can we get in line already?
+
+356
+00:17:39,684 --> 00:17:41,227
+MEDICAL DIVISION LINES UP
+THE MOMENT ROUND 5 BEGINS
+
+357
+00:17:41,310 --> 00:17:42,270
+Can we get in line?
+
+358
+00:17:42,353 --> 00:17:43,604
+...8,000 won.
+
+359
+00:17:43,688 --> 00:17:46,148
+- Shouldn't we get in line as well?
+- I know. They beat us to it.
+
+360
+00:17:46,232 --> 00:17:47,441
+STEM DIVISION MISSED THEIR CHANCE
+
+361
+00:17:48,693 --> 00:17:51,862
+Coin prices in Round 5
+will now be revealed.
+
+362
+00:17:51,946 --> 00:17:57,159
+COIN PRICES IN ROUND 5
+
+363
+00:17:58,619 --> 00:18:00,997
+It's the Great Depression, man.
+
+364
+00:18:01,497 --> 00:18:03,457
+- Dang.
+- Pink coin, 9,000 won.
+
+365
+00:18:03,541 --> 00:18:05,918
+Purple coin, 10,000 won.
+
+366
+00:18:07,420 --> 00:18:08,588
+Guys.
+
+367
+00:18:09,380 --> 00:18:12,592
+Suppose we can't buy pink coins.
+What's our plan?
+
+368
+00:18:12,675 --> 00:18:14,218
+Then, we're in trouble.
+
+369
+00:18:14,468 --> 00:18:16,470
+It looks like
+Medical guys are trying to buy it.
+
+370
+00:18:17,471 --> 00:18:20,266
+- Do I just leave if pink coins are out?
+- Yes, do that.
+
+371
+00:18:20,891 --> 00:18:24,186
+Shouldn't we prepare for Round 10
+and start building our portfolio?
+
+372
+00:18:24,270 --> 00:18:27,857
+Considering Round 10, we should buy coins
+when the prices are ultra-low.
+
+373
+00:18:27,940 --> 00:18:30,735
+Don't you think it's about time
+we purchased blue coins?
+
+374
+00:18:31,027 --> 00:18:34,864
+- It wouldn't hurt even if we went all-in.
+- "All-in?"
+
+375
+00:18:34,947 --> 00:18:36,949
+Has any other coin
+dropped below 6,000 won?
+
+376
+00:18:37,033 --> 00:18:38,951
+- I don't think so.
+- It's the lowest.
+
+377
+00:18:39,035 --> 00:18:41,287
+Should we just empty our pockets?
+
+378
+00:18:41,370 --> 00:18:43,873
+- Let's buy the cheap ones.
+- We'll still have some funds left.
+
+379
+00:18:43,956 --> 00:18:46,709
+We'll be in trouble
+if Medical Division buys everything.
+
+380
+00:18:46,792 --> 00:18:48,002
+Shall we wait in line?
+
+381
+00:18:48,085 --> 00:18:49,962
+- Yes, let's wait in line.
+- Okay.
+
+382
+00:18:54,383 --> 00:18:55,843
+Why don't we find out
+
+383
+00:18:55,926 --> 00:19:00,890
+which coin will see profit
+between this round and Round 9?
+
+384
+00:19:00,973 --> 00:19:02,475
+Good idea. We can hold on to it.
+
+385
+00:19:02,558 --> 00:19:05,394
+We might not be able to buy it
+if we're too late.
+
+386
+00:19:05,478 --> 00:19:07,396
+We have enough funds anyway.
+
+387
+00:19:07,480 --> 00:19:09,273
+Blue or red coins are pretty cheap.
+
+388
+00:19:09,357 --> 00:19:12,943
+Let's ask if the sum of their prices
+goes up in Round 9.
+
+389
+00:19:13,027 --> 00:19:15,404
+STEM DIVISION WANTS TO BUY
+BLUE AND RED COINS WHEN THEY'RE CHEAP
+
+390
+00:19:15,905 --> 00:19:18,115
+DOES THE SUM OF THE PRICE GAIN
+OF BLUE AND RED COINS
+
+391
+00:19:18,199 --> 00:19:19,700
+FROM ROUND 5 TO ROUND 9 EXCEED ZERO?
+
+392
+00:19:21,535 --> 00:19:23,245
+Hey, he's back. What did you get?
+
+393
+00:19:23,329 --> 00:19:24,538
+The sum exceeds zero.
+
+394
+00:19:24,622 --> 00:19:26,332
+- Shall we buy them?
+- Let's do it.
+
+395
+00:19:26,415 --> 00:19:28,668
+We can buy both blue and red coins...
+
+396
+00:19:28,751 --> 00:19:30,878
+Let's buy them now.
+
+397
+00:19:39,095 --> 00:19:41,681
+KIM DONG-GEON LOOKS TIRED
+
+398
+00:19:42,515 --> 00:19:44,350
+Go take some rest.
+
+399
+00:19:45,976 --> 00:19:50,439
+Team SNU in STEM's miner
+requested a change of position.
+
+400
+00:19:53,109 --> 00:19:54,527
+I'll handle it.
+
+401
+00:20:01,158 --> 00:20:02,618
+I'd like to check the pink coin's stock.
+
+402
+00:20:02,702 --> 00:20:04,245
+CHECKING THE STOCK
+OF ROUND 6'S BEST PERFORMING COIN
+
+403
+00:20:10,084 --> 00:20:13,003
+I have 25 pink coins.
+
+404
+00:20:13,087 --> 00:20:15,715
+MEDICAL DIVISION DIDN'T BUY PINK COINS
+
+405
+00:20:15,798 --> 00:20:17,717
+I'd like eight pink coins.
+
+406
+00:20:20,845 --> 00:20:23,222
+He had all 25 pink coins,
+so I bought 8 pieces.
+
+407
+00:20:23,305 --> 00:20:26,142
+You can buy nine pieces.
+The others can get a mix of blue and red.
+
+408
+00:20:26,225 --> 00:20:27,435
+Great.
+
+409
+00:20:27,768 --> 00:20:30,479
+I'd like to buy eight pink coins.
+
+410
+00:20:30,730 --> 00:20:32,356
+Nine pink coins, please.
+
+411
+00:20:33,482 --> 00:20:37,194
+- Thank goodness pink coins were in stock.
+- Are we also buying the blue and the red?
+
+412
+00:20:37,445 --> 00:20:39,697
+Yes, I told them to buy
+five of each color.
+
+413
+00:20:40,364 --> 00:20:42,700
+I still can't believe
+pink coins were in stock.
+
+414
+00:20:42,783 --> 00:20:46,537
+It's satisfying and confusing
+at the same time, isn't it?
+
+415
+00:20:46,620 --> 00:20:48,956
+- What did they buy, then?
+- I wonder that too.
+
+416
+00:20:50,166 --> 00:20:52,877
+I'd like to buy 5 blue coins
+and 5 red coins.
+
+417
+00:20:52,960 --> 00:20:56,839
+I have five blue coins,
+but red coins are not in stock.
+
+418
+00:20:56,922 --> 00:20:59,258
+NO RED COIN REMAINS
+
+419
+00:21:00,885 --> 00:21:03,179
+I'd like to buy eight red coins.
+
+420
+00:21:03,262 --> 00:21:04,638
+Eight red coins, please.
+
+421
+00:21:05,222 --> 00:21:07,141
+I'll take all the remaining red coins.
+
+422
+00:21:07,725 --> 00:21:08,893
+MEDICAL DIVISION: RED
+STEM DIVISION: PINK
+
+423
+00:21:08,976 --> 00:21:13,898
+FROM ROUND 5 TO 6,
+BOTH COINS GET A 3,000-WON INCREASE
+
+424
+00:21:13,981 --> 00:21:17,318
+- Red is out, but blue is in full stock.
+- Really?
+
+425
+00:21:17,401 --> 00:21:20,613
+All we have is how the sum will change,
+so it's hard to decide.
+
+426
+00:21:20,696 --> 00:21:21,864
+- Red coins are out.
+- Really?
+
+427
+00:21:21,947 --> 00:21:22,948
+I couldn't get any.
+
+428
+00:21:23,032 --> 00:21:25,618
+- What were you told to buy?
+- Red and blue, five each.
+
+429
+00:21:25,701 --> 00:21:28,078
+- Should I get blue only?
+- Yes, get ten.
+
+430
+00:21:31,749 --> 00:21:35,795
+I think the STEM guys got in line
+to buy the cheaper coins.
+
+431
+00:21:35,878 --> 00:21:37,922
+The bear market slashed the prices.
+
+432
+00:21:38,172 --> 00:21:41,258
+So I suggest we buy silver coins.
+
+433
+00:21:41,342 --> 00:21:43,719
+Let's split it three ways.
+We'll claim it first.
+
+434
+00:21:43,803 --> 00:21:46,514
+- I wonder what they're after.
+- Let's analyze them--
+
+435
+00:21:46,597 --> 00:21:48,557
+- We can ask them directly.
+- We can.
+
+436
+00:21:48,641 --> 00:21:49,934
+They can just refuse to tell us.
+
+437
+00:21:51,727 --> 00:21:52,561
+Excuse me.
+
+438
+00:21:52,645 --> 00:21:55,064
+Can you tell us what you're buying?
+
+439
+00:21:55,147 --> 00:21:58,567
+- A coin in one of the ROYGBIV.
+- One of the ROYGBIV?
+
+440
+00:21:58,651 --> 00:22:00,194
+- That was clever.
+- Just kidding.
+
+441
+00:22:01,111 --> 00:22:02,613
+- So?
+- He wants one of the rainbow colors.
+
+442
+00:22:02,696 --> 00:22:04,114
+He said ROYGBIV.
+
+443
+00:22:04,198 --> 00:22:05,950
+And he's going for one of them?
+
+444
+00:22:06,033 --> 00:22:08,661
+- It's a technically true statement.
+- Diversification is wise.
+
+445
+00:22:08,744 --> 00:22:10,788
+Scale trading, right?
+
+446
+00:22:11,914 --> 00:22:13,666
+MEDICAL DIVISION TRIES TO BUY CHEAP COINS
+
+447
+00:22:13,749 --> 00:22:15,584
+Can I check the blue coin's stock?
+
+448
+00:22:15,668 --> 00:22:17,920
+I have two blue coins in stock.
+
+449
+00:22:18,003 --> 00:22:18,963
+Two?
+
+450
+00:22:19,380 --> 00:22:24,134
+I'd like to buy 2 blue coins
+and 8 silver coins.
+
+451
+00:22:25,302 --> 00:22:26,846
+How many silver coins remain?
+
+452
+00:22:26,929 --> 00:22:28,472
+I have 17 in stock.
+
+453
+00:22:29,014 --> 00:22:30,766
+I'll take eight pieces.
+
+454
+00:22:31,600 --> 00:22:34,186
+HE SEEMS TO BE SHORT ON FUNDS
+
+455
+00:22:36,105 --> 00:22:39,650
+Can I take that back?
+I don't think I have enough cash.
+
+456
+00:22:40,442 --> 00:22:42,486
+I'll take five instead.
+
+457
+00:22:43,529 --> 00:22:46,073
+Why don't we check the blue coin's price?
+
+458
+00:22:46,156 --> 00:22:47,825
+We can ask if it will drop again.
+
+459
+00:22:48,200 --> 00:22:50,661
+But the queries cost too much.
+
+460
+00:22:50,744 --> 00:22:51,579
+That's true.
+
+461
+00:22:52,246 --> 00:22:54,415
+But it can't drop further
+in the next round.
+
+462
+00:22:54,498 --> 00:22:56,208
+I won't say I'm not anxious,
+
+463
+00:22:56,292 --> 00:22:59,003
+but we got the blue coin
+at an incredibly low price.
+
+464
+00:22:59,086 --> 00:23:01,630
+I think we should hold on to it
+no matter what.
+
+465
+00:23:01,714 --> 00:23:03,841
+Even if the price drops,
+we still bought it at 6,000 won.
+
+466
+00:23:03,924 --> 00:23:06,510
+We used the surplus funds
+for that investment.
+
+467
+00:23:06,594 --> 00:23:09,221
+That concludes Round 5.
+
+468
+00:23:09,638 --> 00:23:12,808
+Coin prices in Round 6
+will now be revealed.
+
+469
+00:23:13,350 --> 00:23:19,356
+COIN PRICES IN ROUND 6
+
+470
+00:23:20,274 --> 00:23:21,525
+That shot up.
+
+471
+00:23:22,234 --> 00:23:23,360
+Blue went up too.
+
+472
+00:23:23,986 --> 00:23:25,654
+Let's ask about Rounds 6 and 7.
+
+473
+00:23:26,155 --> 00:23:29,783
+- Let's form a single file.
+- Let's wait in the order of arrival.
+
+474
+00:23:30,868 --> 00:23:32,411
+Quick, join the line.
+
+475
+00:23:32,494 --> 00:23:34,663
+Where's this inquisitiveness coming from?
+
+476
+00:23:34,747 --> 00:23:35,581
+What happened?
+
+477
+00:23:35,664 --> 00:23:37,708
+They must be bubbling with questions.
+
+478
+00:23:38,083 --> 00:23:41,128
+RIGHT AFTER ROUND 6 BEGAN
+
+479
+00:23:41,211 --> 00:23:43,589
+Guys, we have to get moving.
+
+480
+00:23:44,381 --> 00:23:45,883
+MEDICAL DIVISION HEADED
+TO THE INQUIRY BOOTH
+
+481
+00:23:46,342 --> 00:23:49,428
+Guys, let's bag everything
+for Rounds 6 to 8.
+
+482
+00:23:49,511 --> 00:23:52,264
+Let's ask about the trends
+of Round 6 to 7 and Round 7 to 8.
+
+483
+00:23:52,348 --> 00:23:54,642
+The six of us can finish things right now.
+
+484
+00:23:54,725 --> 00:23:57,895
+To stay ahead of STEM Division,
+our goal shouldn't be winning one round
+
+485
+00:23:57,978 --> 00:24:00,940
+but sweeping the highest earners
+in the next two rounds.
+
+486
+00:24:01,315 --> 00:24:04,026
+THEIR STRATEGY IS TO FIND OUT
+THE TOP EARNERS OF ROUNDS 7 AND 8
+
+487
+00:24:04,610 --> 00:24:07,029
+FIRST, THEY FOUND OUT THE COIN
+WITH THE HIGHEST PRICE GAIN IN ROUND 7
+
+488
+00:24:07,321 --> 00:24:08,697
+It's pink, all right.
+
+489
+00:24:09,198 --> 00:24:11,158
+Pink? You want us to buy pink coins?
+
+490
+00:24:11,533 --> 00:24:13,702
+Please check the pink coin's stock.
+
+491
+00:24:15,329 --> 00:24:17,873
+I have six pink coins in stock.
+
+492
+00:24:17,957 --> 00:24:19,708
+6 PINK COINS REMAIN
+
+493
+00:24:22,503 --> 00:24:25,506
+I'd like to sell
+silver coins and red coins.
+
+494
+00:24:25,839 --> 00:24:29,718
+I'd like to buy 2 pink coins
+and 8 blue coins.
+
+495
+00:24:30,344 --> 00:24:32,179
+- I don't have any blue coins in stock.
+- Okay.
+
+496
+00:24:32,262 --> 00:24:34,431
+0 BLUE COIN REMAINS
+
+497
+00:24:35,224 --> 00:24:36,433
+How many does he have?
+
+498
+00:24:36,517 --> 00:24:38,185
+- He had only six pink coins.
+- What?
+
+499
+00:24:38,268 --> 00:24:39,603
+So I bought two.
+
+500
+00:24:39,687 --> 00:24:43,190
+I ordered eight blue coins as well,
+just to check on the stock,
+
+501
+00:24:43,273 --> 00:24:44,817
+but he didn't have them either.
+
+502
+00:24:44,900 --> 00:24:46,318
+Go ahead and get pink coins.
+
+503
+00:24:46,402 --> 00:24:48,153
+- And--
+- What should I sell?
+
+504
+00:24:48,237 --> 00:24:50,864
+Everything you've got
+except the blue coins.
+
+505
+00:24:50,948 --> 00:24:54,326
+I'd like to sell 5 silver coins
+and 8 red coins.
+
+506
+00:24:54,410 --> 00:24:58,205
+I'd like three pink coins.
+
+507
+00:24:58,706 --> 00:25:01,458
+I'd like to buy three pink coins.
+
+508
+00:25:02,459 --> 00:25:04,044
+I gave it some thought,
+
+509
+00:25:04,128 --> 00:25:06,839
+and there's something
+we can't lose sight of.
+
+510
+00:25:06,922 --> 00:25:09,425
+We couldn't buy the pink coins
+because most of the stock was gone.
+
+511
+00:25:09,508 --> 00:25:11,468
+That means our opponents have the rest.
+
+512
+00:25:11,552 --> 00:25:15,848
+They will benefit from holding on to them,
+depriving us of our profit for one round.
+
+513
+00:25:16,390 --> 00:25:19,476
+MEDICAL DIVISION OWNS 8 PINK COINS
+WHERE ARE THE REMAINING 17?
+
+514
+00:25:20,185 --> 00:25:21,895
+Can we go to the Exchange
+at the last minute
+
+515
+00:25:21,979 --> 00:25:24,148
+to prevent them
+from buying the pink coins?
+
+516
+00:25:24,231 --> 00:25:25,399
+5 MINUTES AGO
+
+517
+00:25:25,482 --> 00:25:26,483
+I like the idea.
+
+518
+00:25:26,567 --> 00:25:28,444
+THEIR STRATEGY IS TO SELL
+AT THE LAST MINUTE
+
+519
+00:25:28,527 --> 00:25:30,529
+TO PREVENT MEDICAL DIVISION
+FROM BUYING THE PINK COIN
+
+520
+00:25:31,155 --> 00:25:33,699
+The Exchange and Inquiry Booth
+close in two minutes.
+
+521
+00:25:33,782 --> 00:25:35,701
+STEM DIVISION GOES TO THE EXCHANGE
+LATER THAN MEDICAL DIVISION
+
+522
+00:25:36,076 --> 00:25:38,245
+Please check the pink coin's stock.
+
+523
+00:25:38,328 --> 00:25:39,955
+I have six pink coins in stock.
+
+524
+00:25:40,664 --> 00:25:43,959
+I'd like to buy 2 pink coins
+and 8 blue coins.
+
+525
+00:25:44,043 --> 00:25:46,962
+I'd like three pink coins.
+
+526
+00:25:47,046 --> 00:25:49,590
+I'd like to sell
+all the pink coins I have.
+
+527
+00:25:49,673 --> 00:25:51,633
+I'm selling all my pink coins.
+
+528
+00:25:51,717 --> 00:25:53,469
+I'd like to sell all my pink coins.
+
+529
+00:25:53,552 --> 00:25:56,305
+AT THE MOMENT,
+20 PINK COINS REMAIN IN STOCK
+
+530
+00:25:56,597 --> 00:25:58,515
+SKIPS STOCK CHECK
+I'd like to sell
+
+531
+00:25:58,599 --> 00:26:01,226
+eight red coins.
+
+532
+00:26:01,727 --> 00:26:04,313
+I'd like to buy three pink coins.
+
+533
+00:26:05,522 --> 00:26:07,900
+How much will we lose, then?
+
+534
+00:26:07,983 --> 00:26:08,817
+I think...
+
+535
+00:26:08,901 --> 00:26:11,779
+It feels like an inflection point for us.
+
+536
+00:26:12,446 --> 00:26:15,824
+That concludes Round 6 of Mine and Trade.
+
+537
+00:26:15,908 --> 00:26:18,786
+Coin prices in Round 7
+will now be revealed.
+
+538
+00:26:18,869 --> 00:26:22,331
+COIN PRICES IN ROUND 7
+
+539
+00:26:22,414 --> 00:26:25,250
+- Which coins do we own now?
+- Blue coins.
+
+540
+00:26:25,334 --> 00:26:28,212
+- How many have we got?
+- Twenty in total.
+
+541
+00:26:28,295 --> 00:26:30,672
+- Its price went down.
+- That's right.
+
+542
+00:26:30,756 --> 00:26:33,342
+Maybe our idea to hold on to it is doomed.
+
+543
+00:26:34,968 --> 00:26:37,179
+We have to go.
+We can talk it out over there.
+
+544
+00:26:37,262 --> 00:26:39,098
+MEDICAL DIVISION ON THE MOVE
+AS THE NEW ROUND BEGINS
+
+545
+00:26:39,932 --> 00:26:42,893
+I'll take nine purple coins, please.
+
+546
+00:26:43,894 --> 00:26:46,188
+STEM Division is staying holed up there.
+
+547
+00:26:46,271 --> 00:26:48,690
+Maybe they already bought purple coins.
+
+548
+00:26:48,774 --> 00:26:50,109
+Guys.
+
+549
+00:26:50,192 --> 00:26:52,444
+He had 25 coins, so I bought 9.
+Go buy 8 coins each.
+
+550
+00:26:52,653 --> 00:26:54,279
+Why aren't they buying anything?
+
+551
+00:26:54,363 --> 00:26:56,615
+First things first. Go get our coins.
+
+552
+00:26:58,075 --> 00:26:59,535
+I can't guess what they're thinking.
+
+553
+00:26:59,618 --> 00:27:02,329
+I know. It's impossible to tell
+what they have.
+
+554
+00:27:02,412 --> 00:27:07,167
+I think Medical Division
+is way ahead of us.
+
+555
+00:27:07,251 --> 00:27:10,212
+Why don't we find out
+the best coin in Round 9?
+
+556
+00:27:10,295 --> 00:27:12,464
+It looks like
+they had all their queries answered.
+
+557
+00:27:12,548 --> 00:27:14,341
+Why don't we check the price gain
+from Round 8 to 9?
+
+558
+00:27:14,424 --> 00:27:15,467
+I agree.
+
+559
+00:27:16,635 --> 00:27:19,930
+SKIPS ROUND 8'S BEST PERFORMER
+TO FIND OUT ROUND 9'S HIGHEST EARNER
+
+560
+00:27:20,973 --> 00:27:23,517
+MEDICAL DIVISION USES
+THE INQUIRY BOOTH NEXT
+
+561
+00:27:25,561 --> 00:27:27,938
+MEDICAL DIVISION IS ALSO LOOKING
+FOR ROUND 9'S BEST PERFORMER
+
+562
+00:27:33,902 --> 00:27:34,903
+Is it silver or black?
+
+563
+00:27:36,321 --> 00:27:38,115
+Pink, then? It's got to be pink.
+
+564
+00:27:38,198 --> 00:27:41,076
+Okay, let's go all-in on pink coins.
+
+565
+00:27:42,494 --> 00:27:44,705
+Pink has a higher gain.
+
+566
+00:27:44,788 --> 00:27:47,207
+- That's the best performer of Round 9?
+- I'll go check its price.
+
+567
+00:27:47,499 --> 00:27:50,752
+That concludes Round 7 of Mine and Trade.
+
+568
+00:27:51,211 --> 00:27:54,798
+Each division's total assets
+will now be revealed.
+
+569
+00:27:56,592 --> 00:27:58,427
+Let's all pray.
+
+570
+00:27:59,469 --> 00:28:00,637
+Come on now.
+
+571
+00:28:04,641 --> 00:28:05,809
+Medical Division
+
+572
+00:28:06,393 --> 00:28:08,437
+has 1,542,000 won.
+
+573
+00:28:08,854 --> 00:28:10,189
+STEM Division
+
+574
+00:28:10,272 --> 00:28:12,941
+has 1,436,000 won.
+
+575
+00:28:13,025 --> 00:28:15,819
+MEDICAL DIVISION HAS A LEAD
+OF APPROXIMATELY 100,000 WON
+
+576
+00:28:15,903 --> 00:28:16,737
+Thank goodness.
+
+577
+00:28:16,820 --> 00:28:18,405
+We have a 100,000-won lead!
+
+578
+00:28:18,488 --> 00:28:20,741
+- At this point,
+- A whopping 100,000-won gap!
+
+579
+00:28:20,824 --> 00:28:22,868
+there's no way they can make a comeback.
+
+580
+00:28:22,951 --> 00:28:25,954
+...has 1,436,000 won.
+
+581
+00:28:26,038 --> 00:28:26,914
+We're winning.
+
+582
+00:28:30,375 --> 00:28:31,210
+What a relief.
+
+583
+00:28:31,919 --> 00:28:34,171
+Take it in.
+
+584
+00:28:42,721 --> 00:28:44,264
+The margin isn't so small.
+
+585
+00:28:45,140 --> 00:28:46,975
+Ten mining can cover that.
+
+586
+00:28:47,059 --> 00:28:48,268
+That's a piece of cake.
+
+587
+00:28:48,685 --> 00:28:51,313
+Coin prices in Round 8
+will now be revealed.
+
+588
+00:28:52,231 --> 00:28:55,400
+Come on.
+Let's see if their alliance crumbles.
+
+589
+00:28:55,484 --> 00:28:57,152
+- Open slightly.
+- Check the vibe.
+
+590
+00:28:58,195 --> 00:28:59,696
+Blue coin, 6,000 won.
+
+591
+00:28:59,780 --> 00:29:01,657
+BLUE COIN'S PRICE IS IMMOVABLE
+Silver coin, 12,000 won.
+
+592
+00:29:01,740 --> 00:29:04,451
+Purple coin, 18,000 won.
+
+593
+00:29:04,534 --> 00:29:06,787
+Purple's price skyrocketed.
+
+594
+00:29:06,870 --> 00:29:08,830
+- Wow, purple is crazy.
+- It shot up.
+
+595
+00:29:08,914 --> 00:29:10,040
+That's a 4,000-won increase.
+
+596
+00:29:10,123 --> 00:29:12,584
+Blue still remains at 6,000 won?
+
+597
+00:29:12,668 --> 00:29:15,212
+It's such a shame
+we couldn't buy red coins.
+
+598
+00:29:15,295 --> 00:29:16,922
+- Did red go up a lot?
+- Yes.
+
+599
+00:29:17,130 --> 00:29:19,633
+I regret that we didn't pay
+attention to purple.
+
+600
+00:29:21,301 --> 00:29:25,389
+Team SNU in STEM's miner
+requested a change of position.
+
+601
+00:29:26,014 --> 00:29:27,933
+- I'll go.
+- No, it's better if I go.
+
+602
+00:29:28,016 --> 00:29:30,269
+I tried mining, so I know some tricks.
+
+603
+00:29:30,352 --> 00:29:31,353
+Oh, yeah?
+
+604
+00:29:31,937 --> 00:29:33,188
+Good luck.
+
+605
+00:29:33,272 --> 00:29:36,858
+Round 8 of Mine and Trade begins now.
+
+606
+00:29:37,359 --> 00:29:38,277
+Shall we get the coins?
+
+607
+00:29:38,360 --> 00:29:39,444
+STEM DIVISION ON THE MOVE
+TO BUY PINK COINS
+
+608
+00:29:39,528 --> 00:29:40,696
+Are you going to...
+
+609
+00:29:42,197 --> 00:29:43,991
+Are we going to make a purchase?
+
+610
+00:29:44,074 --> 00:29:45,117
+Sure, we need pink coins.
+
+611
+00:29:45,200 --> 00:29:47,202
+MEDICAL DIVISION ALSO MOVES OUT
+TO BUY PINK COINS
+
+612
+00:29:47,536 --> 00:29:48,996
+Let's hurry and get in line.
+
+613
+00:29:49,079 --> 00:29:51,498
+- Are you going to the Exchange?
+- Yes.
+
+614
+00:29:51,832 --> 00:29:53,250
+Hey, they beat us to it.
+
+615
+00:29:53,333 --> 00:29:54,668
+TEAM KAIST'S JEON JI-MIN
+ENTERS THE EXCHANGE FIRST
+
+616
+00:29:55,585 --> 00:29:58,463
+TEAM SNU IN STEM GOT DELAYED
+FROM THE MINER EXCHANGE
+
+617
+00:29:59,381 --> 00:30:02,467
+We should've gotten here earlier.
+This doesn't look good.
+
+618
+00:30:02,843 --> 00:30:04,594
+20 PINK COINS REMAIN
+I'd like 7 pink coins.
+
+619
+00:30:04,678 --> 00:30:06,346
+13 PINK COINS REMAIN
+I'd like 4 pink coins.
+
+620
+00:30:06,430 --> 00:30:07,639
+9 PINK COINS REMAIN
+I'd like 7 pink coins.
+
+621
+00:30:07,723 --> 00:30:09,766
+2 PINK COINS REMAIN
+I'd like 2 pink coins.
+
+622
+00:30:10,434 --> 00:30:11,393
+ALL PINK COINS ARE OUT
+
+623
+00:30:11,476 --> 00:30:13,061
+That's 24,000 won.
+
+624
+00:30:13,145 --> 00:30:16,189
+I'd like to buy 4 black coins
+and 6 pink coins.
+
+625
+00:30:16,273 --> 00:30:18,233
+I don't have pink coins in stock.
+
+626
+00:30:18,317 --> 00:30:20,610
+Here are your four black coins.
+
+627
+00:30:20,694 --> 00:30:21,903
+FAILED TO GET PINK COINS
+
+628
+00:30:22,696 --> 00:30:24,906
+- Pink coins are all out.
+- They're out?
+
+629
+00:30:24,990 --> 00:30:27,034
+Can we buy green and silver?
+
+630
+00:30:27,117 --> 00:30:29,286
+We need to close the gap,
+so let's buy them.
+
+631
+00:30:29,369 --> 00:30:31,246
+I'll go get 3 green and 3 silver.
+
+632
+00:30:31,330 --> 00:30:34,541
+- More investment is our only lifeline.
+- We're out of options.
+
+633
+00:30:34,958 --> 00:30:37,711
+I'd like to buy 3 green coins
+and 3 silver coins.
+
+634
+00:30:37,794 --> 00:30:38,920
+PURCHASING REMAINING COINS
+
+635
+00:30:39,254 --> 00:30:43,175
+No matter what happens,
+their only hope is the blue coin.
+
+636
+00:30:43,258 --> 00:30:45,969
+They can only hope
+for blue's price to spike.
+
+637
+00:30:49,723 --> 00:30:52,184
+How much cash do you guys have?
+
+638
+00:30:54,603 --> 00:30:56,271
+We have 14,000 won.
+
+639
+00:30:56,355 --> 00:30:58,357
+No, we've got 19,000 won.
+
+640
+00:30:58,440 --> 00:30:59,816
+Right, we have 19,000 won.
+
+641
+00:31:00,317 --> 00:31:02,444
+We have 21,000 won.
+
+642
+00:31:03,653 --> 00:31:04,946
+That's 30,000 won...
+
+643
+00:31:05,030 --> 00:31:07,282
+In total, we have 46,000 won.
+
+644
+00:31:07,366 --> 00:31:08,950
+- You've got 46,000 won?
+- Yes.
+
+645
+00:31:14,331 --> 00:31:18,085
+That concludes Round 8 of Mine and Trade.
+
+646
+00:31:18,168 --> 00:31:20,754
+Coin prices in Round 9
+will now be revealed.
+
+647
+00:31:20,837 --> 00:31:22,214
+COIN PRICES IN ROUND 9
+
+648
+00:31:22,297 --> 00:31:24,132
+Blue coin, 5,000 won.
+
+649
+00:31:24,216 --> 00:31:25,509
+Blue's price dropped.
+
+650
+00:31:25,592 --> 00:31:27,219
+Dang, blue went down further!
+
+651
+00:31:28,595 --> 00:31:29,888
+We're so screwed.
+
+652
+00:31:29,971 --> 00:31:32,432
+- How come?
+- We have heaps of blue coins.
+
+653
+00:31:32,516 --> 00:31:33,892
+How much is it?
+
+654
+00:31:33,975 --> 00:31:36,061
+It just dropped to 5,000 won.
+
+655
+00:31:37,562 --> 00:31:41,316
+Round 9 of Mine and Trade begins now.
+
+656
+00:31:43,276 --> 00:31:47,114
+Since our miners have secured
+twice as many gold coins as theirs,
+
+657
+00:31:47,197 --> 00:31:50,450
+- I know.
+- we don't need to take risks.
+
+658
+00:31:50,534 --> 00:31:51,660
+STEM DIVISION'S MINING RECORD OF ROUND 8
+
+659
+00:31:51,743 --> 00:31:54,246
+TEAM KAIST: 3, TEAM POSTECH: 4,
+TEAM SNU IN STEM: 5
+
+660
+00:31:54,329 --> 00:31:56,415
+COINS MINED IN ROUND 8
+MEDICAL DIVISION: 25, STEM DIVISION: 12
+
+661
+00:31:56,498 --> 00:31:57,791
+TEAM YONSEI: 9
+
+662
+00:31:57,874 --> 00:32:00,919
+TEAM YONSEI MINED 9 COINS,
+THE MOST AMONG ALL TEAMS
+
+663
+00:32:01,503 --> 00:32:06,383
+Team Yonsei succeeded in mining.
+
+664
+00:32:07,884 --> 00:32:10,011
+It's electrifying, isn't it?
+
+665
+00:32:11,096 --> 00:32:14,683
+IN 25 MINUTES, PARK SANG-YEON SOLVED
+5 10-DIGIT MULTIPLICATION QUESTIONS
+
+666
+00:32:15,100 --> 00:32:18,019
+Our miners secured
+twice as many gold coins as theirs.
+
+667
+00:32:18,103 --> 00:32:20,522
+We need to stop them
+from earning a whole lot.
+
+668
+00:32:20,605 --> 00:32:22,858
+We can lump either blue or pink
+
+669
+00:32:22,941 --> 00:32:25,652
+with green, silver, and black,
+and check if their sum increases.
+
+670
+00:32:25,735 --> 00:32:28,780
+If the answer is yes, we hold on to them.
+If not, we cash in.
+
+671
+00:32:29,948 --> 00:32:32,200
+In that case, let's go with pink.
+
+672
+00:32:32,284 --> 00:32:35,078
+- I'll use pink instead of blue.
+- Okay.
+
+673
+00:32:35,871 --> 00:32:37,831
+- Just a minute.
+- Should we even ask?
+
+674
+00:32:37,914 --> 00:32:39,875
+- It's the last round.
+- It's a waste of money.
+
+675
+00:32:40,208 --> 00:32:43,336
+We now have to accept
+that our division is going to lose.
+
+676
+00:32:44,463 --> 00:32:46,298
+Our miners are falling behind too.
+
+677
+00:32:46,381 --> 00:32:47,674
+Right? What should we do?
+
+678
+00:32:48,091 --> 00:32:51,303
+I may have counted wrong,
+but I'm sure we beat Team KAIST.
+
+679
+00:32:51,386 --> 00:32:53,597
+- We mined at least ten more coins,
+- Really?
+
+680
+00:32:53,680 --> 00:32:56,016
+- so we definitely beat them.
+- That's the gap?
+
+681
+00:32:56,099 --> 00:32:59,769
+But I'm not sure about Team POSTECH.
+The difference may be 4 or 5.
+
+682
+00:33:00,103 --> 00:33:02,063
+Things weren't looking so good.
+
+683
+00:33:02,147 --> 00:33:07,235
+Our division purchased blue coin,
+but its price continued to drop.
+
+684
+00:33:07,319 --> 00:33:08,945
+It was no longer
+about beating Medical Division
+
+685
+00:33:09,029 --> 00:33:13,867
+but narrowing down the gap
+between the other two STEM teams and us.
+
+686
+00:33:13,950 --> 00:33:16,703
+Our next goal is
+to eliminate any possible variables.
+
+687
+00:33:16,786 --> 00:33:19,706
+We should match whatever asset we have
+with Team POSTECH's.
+
+688
+00:33:19,789 --> 00:33:20,790
+- That's the best.
+- Right.
+
+689
+00:33:20,874 --> 00:33:22,083
+Team KAIST's already in the ditch.
+
+690
+00:33:22,542 --> 00:33:27,047
+If the three STEM teams had
+an almost identical portfolio,
+
+691
+00:33:27,130 --> 00:33:29,341
+that would remove
+any surprise factor from investments,
+
+692
+00:33:29,424 --> 00:33:32,552
+allowing us to reframe the game
+into a mining match.
+
+693
+00:33:34,721 --> 00:33:36,223
+We need you to stay focused.
+
+694
+00:33:36,306 --> 00:33:39,768
+Prioritizing our survival
+would be for the best, right?
+
+695
+00:33:40,727 --> 00:33:43,480
+Look, they're acting separately too.
+
+696
+00:33:43,563 --> 00:33:46,441
+- I have a question.
+- Okay.
+
+697
+00:33:46,525 --> 00:33:49,778
+Suppose we lost to the Medical Division.
+
+698
+00:33:49,861 --> 00:33:52,239
+- Among the three STEM teams...
+- Our rank?
+
+699
+00:33:52,322 --> 00:33:54,157
+I can't be sure.
+
+700
+00:33:54,241 --> 00:33:55,784
+Is the difference small?
+
+701
+00:33:55,867 --> 00:33:59,120
+Yes, because all three teams invested
+under the same strategy.
+
+702
+00:34:00,497 --> 00:34:04,000
+I think we should start considering
+
+703
+00:34:04,918 --> 00:34:07,212
+whether we can outperform
+the other STEM teams.
+
+704
+00:34:07,295 --> 00:34:10,632
+When I checked the assets,
+we had slightly more than the others.
+
+705
+00:34:10,715 --> 00:34:13,927
+- We have 480,000 won.
+- How much did our division have in total?
+
+706
+00:34:14,010 --> 00:34:14,886
+About 1,430,000 won.
+
+707
+00:34:14,970 --> 00:34:17,264
+Multiply what we have by 3,
+and you get 144.
+
+708
+00:34:17,347 --> 00:34:19,391
+- So at least one team has fewer than us.
+- You're right.
+
+709
+00:34:19,474 --> 00:34:22,519
+The winner will be
+the team with the best miners.
+
+710
+00:34:22,602 --> 00:34:24,437
+The STEM team that survives
+
+711
+00:34:24,521 --> 00:34:27,440
+will be the one with miners
+that secure the most coins.
+
+712
+00:34:27,524 --> 00:34:29,818
+Another possible scenario
+is blue skyrocketing.
+
+713
+00:34:29,901 --> 00:34:31,653
+- Blue may skyrocket.
+- We have ten blue coins.
+
+714
+00:34:32,195 --> 00:34:35,448
+With a 5,000-won spike,
+we'll get 25,000 won more than the others.
+
+715
+00:34:35,532 --> 00:34:37,117
+That's a huge margin.
+
+716
+00:34:37,867 --> 00:34:41,037
+Is the main difference
+between us and Team POSTECH
+
+717
+00:34:41,121 --> 00:34:43,290
+- the five blue coins?
+- Pink as well.
+
+718
+00:34:43,373 --> 00:34:44,457
+- Pink?
+- They have five more.
+
+719
+00:34:44,541 --> 00:34:46,418
+But we have more cash.
+
+720
+00:34:46,501 --> 00:34:48,336
+- We do?
+- Yes.
+
+721
+00:34:48,962 --> 00:34:51,881
+MINERS' PERFORMANCE WILL DECIDE
+THE TWO TEAMS IN THE DEATHMATCH
+
+722
+00:34:58,179 --> 00:35:00,432
+This is killing me. I'm tired.
+
+723
+00:35:00,515 --> 00:35:02,392
+I'm starting to feel drained too.
+
+724
+00:35:02,475 --> 00:35:04,185
+No, I can still do this.
+
+725
+00:35:04,269 --> 00:35:05,812
+Let's focus on our tasks.
+
+726
+00:35:06,980 --> 00:35:10,191
+I think we'll get a good final score
+thanks to you.
+
+727
+00:35:10,275 --> 00:35:12,277
+You'll probably get us a big win.
+
+728
+00:35:13,737 --> 00:35:15,363
+- What's the verdict?
+- Negative.
+
+729
+00:35:15,447 --> 00:35:16,615
+These three don't exceed zero.
+
+730
+00:35:16,823 --> 00:35:18,700
+- Do we sell everything?
+- We have to.
+
+731
+00:35:18,783 --> 00:35:21,745
+Let's cash in pink,
+black, silver, and green coins.
+
+732
+00:35:21,828 --> 00:35:23,663
+Leave only the blue coins.
+
+733
+00:35:24,164 --> 00:35:26,124
+We're staking our lives on blue, right?
+
+734
+00:35:26,207 --> 00:35:27,834
+- Please.
+- Please!
+
+735
+00:35:28,418 --> 00:35:29,669
+May it skyrocket.
+
+736
+00:35:30,503 --> 00:35:31,880
+Come here, Jong-yun.
+
+737
+00:35:34,507 --> 00:35:36,134
+Should we buy blue coins
+if any are in stock?
+
+738
+00:35:36,217 --> 00:35:38,720
+- It's better to match with Team POSTECH.
+- Agreed.
+
+739
+00:35:38,803 --> 00:35:40,263
+- Do I buy it if there is any?
+- Yes.
+
+740
+00:35:40,347 --> 00:35:41,806
+- We must close in on them.
+- Right.
+
+741
+00:35:43,099 --> 00:35:45,018
+Could you check the blue coin's stock?
+
+742
+00:35:45,644 --> 00:35:47,604
+I don't have any blue coins in stock.
+
+743
+00:35:48,772 --> 00:35:50,899
+I'd like to sell
+4 black, 2 pink, 3 silver,
+
+744
+00:35:50,982 --> 00:35:53,026
+and 3 green coins.
+
+745
+00:35:56,071 --> 00:35:58,990
+Team SKKU succeeded in mining.
+
+746
+00:35:59,074 --> 00:36:00,450
+Another gold coin?
+
+747
+00:36:00,533 --> 00:36:02,786
+Has any of your teammates stayed
+in the Mining Room all this time?
+
+748
+00:36:02,869 --> 00:36:04,621
+- Yes.
+- Anyone mining five hours straight?
+
+749
+00:36:04,704 --> 00:36:07,040
+I'm so grateful to him.
+
+750
+00:36:07,123 --> 00:36:08,667
+He moves me to tears.
+
+751
+00:36:08,750 --> 00:36:11,544
+TEAM SNU IN MEDICINE'S KIM MIN-SEOK
+HASN'T ASKED FOR A POSITION CHANGE
+
+752
+00:36:12,921 --> 00:36:18,927
+DURING THE 4-HOUR GAME TIME,
+HE SINGLE-HANDEDLY MINED 29 GOLD COINS
+
+753
+00:36:20,428 --> 00:36:23,306
+- I think we should stay on until the end.
+- Okay.
+
+754
+00:36:23,598 --> 00:36:27,018
+NEITHER MINERS OF TEAM SKKU
+
+755
+00:36:27,102 --> 00:36:29,896
+ASKED TO BE RELIEVED OF THEIR DUTIES
+
+756
+00:36:31,022 --> 00:36:34,025
+TEAM SKKU'S KIM DONG-YEON
+MINED 21 COINS DURING 4 HOURS
+
+757
+00:36:34,484 --> 00:36:37,070
+TEAM SKKU'S KANG JI-HU
+MINED 36 COINS DURING 4 HOURS
+
+758
+00:36:37,153 --> 00:36:38,154
+OVERALL 1ST PLACE
+
+759
+00:36:40,365 --> 00:36:41,324
+A position swap
+
+760
+00:36:41,408 --> 00:36:43,660
+would've required information exchange,
+possibly wasting our time
+
+761
+00:36:43,743 --> 00:36:45,370
+and messing up our tempo.
+
+762
+00:36:45,453 --> 00:36:47,372
+I had a small pain in my back,
+
+763
+00:36:47,455 --> 00:36:49,791
+but that eased up
+when I shifted my position.
+
+764
+00:36:49,874 --> 00:36:52,127
+So I decided to stay on until the end.
+
+765
+00:36:52,711 --> 00:36:56,423
+SELLING EVERYTHING EXCEPT BLUE
+Here are 3 silver coins and 7 pink coins.
+
+766
+00:36:56,506 --> 00:37:00,135
+I'd like to sell 7 pink coins
+and 3 green coins.
+
+767
+00:37:01,136 --> 00:37:03,722
+- How's it going for us?
+- What?
+
+768
+00:37:03,805 --> 00:37:06,516
+First off, we sold everything
+that generated any value.
+
+769
+00:37:06,599 --> 00:37:10,019
+Realistically speaking,
+I don't think STEM Division can win.
+
+770
+00:37:10,103 --> 00:37:12,021
+- What?
+- We won't be able to win.
+
+771
+00:37:12,105 --> 00:37:13,231
+- It's unlikely?
+- Yes.
+
+772
+00:37:13,982 --> 00:37:19,070
+The only difference between the teams is
+that we have ten blue coins.
+
+773
+00:37:19,154 --> 00:37:20,488
+The others have five each.
+
+774
+00:37:20,572 --> 00:37:22,407
+- That's a gamble.
+- That's right.
+
+775
+00:37:22,490 --> 00:37:24,284
+If blue rises by 5,000 won, we win.
+
+776
+00:37:24,534 --> 00:37:28,663
+If blue gets a 10,000-won spike,
+then our whole division can win.
+
+777
+00:37:28,747 --> 00:37:30,749
+Because we hold a lot of them?
+
+778
+00:37:31,207 --> 00:37:33,126
+It could be a mistake.
+
+779
+00:37:33,209 --> 00:37:35,503
+The others became our rivals
+in an instant.
+
+780
+00:37:36,254 --> 00:37:38,757
+Let's say there's a margin
+of four gold coins.
+
+781
+00:37:38,840 --> 00:37:41,259
+The differences may be tiny.
+
+782
+00:37:41,634 --> 00:37:42,886
+This is frustrating.
+
+783
+00:37:43,178 --> 00:37:46,306
+Team SNU in STEM succeeded in mining.
+
+784
+00:37:46,848 --> 00:37:48,016
+Thank you.
+
+785
+00:37:48,975 --> 00:37:51,186
+I don't know if it's Dong-geon
+or Myeong-su, but I'm grateful.
+
+786
+00:37:51,269 --> 00:37:52,687
+That was a clutch move.
+
+787
+00:37:54,647 --> 00:37:56,983
+Our freshmen duo is doing a fine job.
+
+788
+00:37:57,066 --> 00:37:58,401
+Tell me about it. I'm so grateful.
+
+789
+00:37:58,485 --> 00:38:00,779
+TEAM SNU IN STEM'S FRESHMEN DUO
+DOING THEIR BEST UNTIL THE END
+
+790
+00:38:01,112 --> 00:38:03,948
+It helped that we didn't switch
+our miners and traders as much.
+
+791
+00:38:04,032 --> 00:38:05,492
+It was for the better.
+
+792
+00:38:05,575 --> 00:38:06,743
+4 TRADERS STAYED ON THROUGHOUT THE GAME
+
+793
+00:38:06,826 --> 00:38:08,536
+How big is our lead in mining
+from Round 7?
+
+794
+00:38:08,620 --> 00:38:11,414
+- It's huge.
+- It's really huge.
+
+795
+00:38:11,498 --> 00:38:13,708
+- It's way too big.
+- Absurdly so.
+
+796
+00:38:13,792 --> 00:38:14,793
+They can't overcome this.
+
+797
+00:38:14,876 --> 00:38:17,128
+- Turns out we didn't contribute much.
+- Definitely.
+
+798
+00:38:17,212 --> 00:38:19,130
+We might have burned away 100,000 won.
+
+799
+00:38:19,214 --> 00:38:20,924
+Honestly? I think that's a possibility.
+
+800
+00:38:21,007 --> 00:38:23,968
+The whole game taught us
+the true worth of honest work.
+
+801
+00:38:24,052 --> 00:38:25,929
+Never dream of hitting the jackpot.
+
+802
+00:38:26,012 --> 00:38:27,847
+- "Don't invest in crypto."
+- "Get help for addiction."
+
+803
+00:38:29,307 --> 00:38:33,144
+That concludes Round 9 of Mine and Trade.
+
+804
+00:38:33,228 --> 00:38:35,063
+- Great work today.
+- Thanks.
+
+805
+00:38:35,146 --> 00:38:38,358
+Really though, my number crunching
+won't have been for nothing.
+
+806
+00:38:39,150 --> 00:38:40,235
+The game ended, no?
+
+807
+00:38:40,318 --> 00:38:43,696
+Oh, what a bummer.
+All that remained was the addition.
+
+808
+00:38:43,988 --> 00:38:44,864
+You were amazing.
+
+809
+00:38:44,948 --> 00:38:47,242
+KIM JAE-HAN WAS THE ONLY STEM CONTESTANT
+WHO DIDN'T ASK FOR A POSITION SWAP
+
+810
+00:38:47,325 --> 00:38:48,785
+- I'm sorry.
+- What for?
+
+811
+00:38:49,285 --> 00:38:51,204
+I think it's over now.
+
+812
+00:38:51,996 --> 00:38:53,957
+- Let's still finish it.
+- Okay.
+
+813
+00:38:55,542 --> 00:38:58,711
+We pulled our weight big time.
+We mined 57 coins.
+
+814
+00:38:59,838 --> 00:39:02,090
+We're going to win. That's for sure.
+
+815
+00:39:02,173 --> 00:39:03,508
+There's no way we'll lose.
+
+816
+00:39:03,591 --> 00:39:06,344
+All contestants,
+please come to the Main Hall
+
+817
+00:39:06,427 --> 00:39:09,764
+and stand before your base camps.
+
+818
+00:39:14,394 --> 00:39:18,356
+Now that we're lined up like this,
+it hits me that we're on different teams.
+
+819
+00:39:18,439 --> 00:39:20,066
+But we were besties earlier.
+
+820
+00:39:20,859 --> 00:39:21,901
+I'm sure we're going to win.
+
+821
+00:39:21,985 --> 00:39:24,195
+HIS PERSONAL HOPES
+The blue will cost 20,000 won.
+
+822
+00:39:24,571 --> 00:39:27,782
+Coin prices in Round 10
+will now be revealed.
+
+823
+00:39:32,161 --> 00:39:34,831
+Black coin, 13,000 won.
+
+824
+00:39:34,914 --> 00:39:37,375
+Red coin, 18,000 won.
+
+825
+00:39:37,458 --> 00:39:38,543
+MEDICAL DIVISION'S INVESTMENTS
+ALL PAID OFF
+
+826
+00:39:38,626 --> 00:39:40,044
+Blue coin...
+
+827
+00:39:40,128 --> 00:39:41,963
+Oh, come on.
+
+828
+00:39:45,925 --> 00:39:48,595
+Blue coin, 7,000 won.
+
+829
+00:39:49,095 --> 00:39:51,472
+BLUE COIN ONLY HAD A 2,000-WON INCREASE
+
+830
+00:39:52,640 --> 00:39:54,017
+That's good for us.
+
+831
+00:39:54,726 --> 00:39:56,144
+We won 10,000 won more than the others.
+
+832
+00:39:57,520 --> 00:39:59,105
+Nice, I'm so relieved.
+
+833
+00:39:59,188 --> 00:40:00,273
+- Is that a good thing?
+- Yeah.
+
+834
+00:40:00,356 --> 00:40:02,567
+STEM Division took a gamble
+on the blue coin.
+
+835
+00:40:02,650 --> 00:40:04,027
+- It didn't go up that much.
+- No.
+
+836
+00:40:04,110 --> 00:40:05,612
+Pink coin, 14,000 won.
+
+837
+00:40:06,321 --> 00:40:09,616
+Purple coin, 17,000 won.
+
+838
+00:40:10,408 --> 00:40:16,039
+That concludes the main match,
+Mine and Trade.
+
+839
+00:40:16,748 --> 00:40:19,542
+The total assets for each division
+will now be announced.
+
+840
+00:40:19,792 --> 00:40:21,044
+Medical Division
+
+841
+00:40:21,836 --> 00:40:24,589
+has 2,205,000 won in total.
+
+842
+00:40:24,672 --> 00:40:25,798
+STEM Division
+
+843
+00:40:25,882 --> 00:40:28,676
+has 1,764,000 won in total.
+
+844
+00:40:28,760 --> 00:40:31,429
+Medical Division wins the game.
+
+845
+00:40:36,476 --> 00:40:39,187
+Our division had better talents.
+It wasn't surprising.
+
+846
+00:40:40,146 --> 00:40:42,815
+My teammate's mining
+drove the division's victory,
+
+847
+00:40:42,899 --> 00:40:45,652
+so I'm grateful to them.
+
+848
+00:40:47,278 --> 00:40:50,740
+Each team's total assets
+will now be revealed.
+
+849
+00:40:51,616 --> 00:40:52,575
+Gosh, I'm shaking.
+
+850
+00:40:52,659 --> 00:40:53,910
+Team SNU in Medicine
+
+851
+00:40:53,993 --> 00:40:55,745
+has 709,000 won.
+
+852
+00:40:56,245 --> 00:40:57,497
+Team Yonsei
+
+853
+00:40:57,580 --> 00:40:59,248
+has 731,000 won.
+
+854
+00:40:59,666 --> 00:41:01,042
+Team SKKU
+
+855
+00:41:01,125 --> 00:41:03,211
+has 765,000 won.
+
+856
+00:41:04,087 --> 00:41:06,673
+You mined that much?
+Oh, the benefit of 20,000 won.
+
+857
+00:41:07,298 --> 00:41:10,343
+- We did better even without the benefit.
+- Good job, team.
+
+858
+00:41:11,344 --> 00:41:13,012
+Team SNU in STEM
+
+859
+00:41:14,222 --> 00:41:16,265
+has 629,000 won.
+
+860
+00:41:17,850 --> 00:41:19,060
+Team KAIST...
+
+861
+00:41:21,771 --> 00:41:23,815
+has 539,000 won.
+
+862
+00:41:23,898 --> 00:41:25,692
+TEAM KAIST WILL COMPETE IN THE DEATHMATCH
+
+863
+00:41:25,775 --> 00:41:27,819
+I thought, "Shoot, we're in trouble."
+
+864
+00:41:28,903 --> 00:41:30,113
+Team POSTECH...
+
+865
+00:41:30,196 --> 00:41:32,198
+TO SURVIVE, TEAM POSTECH'S ASSET
+MUST EXCEED 630,000 WON
+
+866
+00:41:32,824 --> 00:41:35,535
+...has 596,000 won.
+
+867
+00:41:35,618 --> 00:41:36,911
+We're 30,000 won short.
+
+868
+00:41:36,995 --> 00:41:38,871
+If only we had 30,000 won more.
+
+869
+00:41:39,580 --> 00:41:42,041
+TEAM SNU IN STEM SURVIVES
+BY 30,000-WON DIFFERENCE
+
+870
+00:41:42,125 --> 00:41:44,252
+I was relieved that we survived.
+
+871
+00:41:47,964 --> 00:41:49,173
+Team SNU in STEM is advancing.
+
+872
+00:41:49,257 --> 00:41:50,842
+- It's a rival match.
+- KAIST versus POSTECH.
+
+873
+00:41:50,925 --> 00:41:52,051
+Is it POSTECH versus KAIST?
+
+874
+00:41:52,260 --> 00:41:53,761
+The lowest-ranking two teams,
+
+875
+00:41:53,845 --> 00:41:57,015
+Team KAIST and Team POSTECH,
+
+876
+00:41:57,515 --> 00:41:59,934
+please prepare for the Deathmatch.
+
+877
+00:42:01,019 --> 00:42:02,353
+We can beat them.
+
+878
+00:42:02,437 --> 00:42:04,522
+Don't get nervous. We can beat them.
+
+879
+00:42:07,066 --> 00:42:09,819
+We go against Team POSTECH
+this season, too?
+
+880
+00:42:14,824 --> 00:42:16,534
+Good luck.
+
+881
+00:42:19,412 --> 00:42:20,663
+I wonder when we first messed up.
+
+882
+00:42:20,747 --> 00:42:23,249
+Still, I'm so relieved we mined
+the most coins in our division.
+
+883
+00:42:24,208 --> 00:42:25,126
+TOTAL MINED COINS
+
+884
+00:42:25,209 --> 00:42:27,754
+BEST IN MEDICAL DIVISION
+TEAM YONSEI AND TEAM SKKU, 57 COINS
+
+885
+00:42:27,837 --> 00:42:29,839
+BEST IN STEM DIVISION
+TEAM SNU IN STEM, 48 COINS
+
+886
+00:42:31,966 --> 00:42:33,843
+We're home.
+
+887
+00:42:35,553 --> 00:42:37,764
+We are victorious.
+
+888
+00:42:37,847 --> 00:42:38,765
+Good work.
+
+889
+00:42:38,848 --> 00:42:40,683
+- Well done.
+- Great work, everyone.
+
+890
+00:42:41,267 --> 00:42:42,560
+Great work, everyone.
+
+891
+00:42:42,643 --> 00:42:44,896
+- Thank you.
+- Thanks for everything.
+
+892
+00:42:45,188 --> 00:42:46,189
+That was fun.
+
+893
+00:42:46,272 --> 00:42:47,940
+- Because we won.
+- Of course.
+
+894
+00:42:48,024 --> 00:42:50,068
+Guys, we took them down a peg.
+
+895
+00:42:50,151 --> 00:42:53,279
+- Without the benefit, we're the best.
+- That's true.
+
+896
+00:42:54,697 --> 00:42:59,118
+The Deathmatch will now begin.
+
+897
+00:42:59,702 --> 00:43:02,205
+TEAM KAIST VS TEAM POSTECH
+
+898
+00:43:02,288 --> 00:43:04,707
+I never thought we'd end up
+in the Deathmatch on our first day.
+
+899
+00:43:04,791 --> 00:43:07,251
+Still, we were against Team POSTECH,
+the weakest team.
+
+900
+00:43:07,335 --> 00:43:08,336
+That eased my mind.
+
+901
+00:43:08,419 --> 00:43:12,006
+I said to myself,
+"We're going to win this no matter what."
+
+902
+00:43:12,256 --> 00:43:15,134
+In this show,
+Team POSTECH always lost to Team KAIST.
+
+903
+00:43:15,218 --> 00:43:16,886
+We deserved to win at least once.
+
+904
+00:43:17,261 --> 00:43:19,514
+I thought, "This is our shot."
+
+905
+00:43:20,056 --> 00:43:24,268
+It weighs on me to see them
+have a face-off at the Deathmatch.
+
+906
+00:43:24,811 --> 00:43:26,229
+It's a bleak situation.
+
+907
+00:43:26,312 --> 00:43:30,066
+- We're losing a dependable ally.
+- Right.
+
+908
+00:43:30,149 --> 00:43:31,734
+Tell me about it.
+
+909
+00:43:32,485 --> 00:43:35,947
+Today's Deathmatch is
+
+910
+00:43:36,197 --> 00:43:38,116
+Double-sided Bingo.
+
+911
+00:43:38,950 --> 00:43:39,784
+Bingo?
+
+912
+00:43:39,867 --> 00:43:41,619
+Double-sided Bingo?
+
+913
+00:43:42,036 --> 00:43:43,496
+In Double-sided Bingo,
+
+914
+00:43:43,579 --> 00:43:46,541
+you will be given tiles
+with different colors on each side
+
+915
+00:43:46,624 --> 00:43:49,460
+to place on a 4-by-4 bingo board.
+
+916
+00:43:49,544 --> 00:43:51,879
+The first to get a bingo
+by filling a line with the same color
+
+917
+00:43:51,963 --> 00:43:53,673
+wins the game.
+
+918
+00:43:54,340 --> 00:43:55,675
+That sounds interesting.
+
+919
+00:43:55,758 --> 00:43:57,260
+This should be fun.
+
+920
+00:43:57,635 --> 00:43:58,886
+The contestants will receive
+
+921
+00:43:58,970 --> 00:44:02,431
+a set of tiles
+painted in red, yellow, or blue.
+
+922
+00:44:02,515 --> 00:44:05,143
+Each piece has a different color
+on each side,
+
+923
+00:44:05,226 --> 00:44:08,354
+and each set includes nine tiles.
+
+924
+00:44:08,437 --> 00:44:10,565
+The color covering the majority
+of the front side
+
+925
+00:44:10,648 --> 00:44:13,234
+should be the same
+on four neighboring squares
+
+926
+00:44:13,317 --> 00:44:15,695
+for you to get a bingo.
+
+927
+00:44:15,778 --> 00:44:17,446
+Consider the board on screen.
+
+928
+00:44:17,530 --> 00:44:20,366
+We have a bingo from the red column.
+
+929
+00:44:20,700 --> 00:44:21,701
+With a red-yellow tile...
+
+930
+00:44:21,784 --> 00:44:23,744
+You'd have red on the front
+and yellow on the back.
+
+931
+00:44:23,828 --> 00:44:24,704
+I get it now.
+
+932
+00:44:24,787 --> 00:44:27,456
+- They put a frame for us to understand.
+- Right.
+
+933
+00:44:27,540 --> 00:44:30,418
+It's the color in the center that counts.
+
+934
+00:44:30,501 --> 00:44:34,755
+Out of a horizontal,
+vertical, or diagonal line,
+
+935
+00:44:34,839 --> 00:44:38,009
+all four tiles must be of the same color
+for you to get a bingo.
+
+936
+00:44:38,676 --> 00:44:39,635
+Before we begin,
+
+937
+00:44:39,719 --> 00:44:44,515
+each player will be assigned a color
+for them to get a bingo.
+
+938
+00:44:44,599 --> 00:44:47,310
+The designated colors will not match,
+
+939
+00:44:47,393 --> 00:44:49,520
+and they will remain undisclosed.
+
+940
+00:44:49,604 --> 00:44:51,230
+There's room for mind tricks.
+
+941
+00:44:51,522 --> 00:44:53,316
+Since they won't know
+each other's assigned color,
+
+942
+00:44:53,399 --> 00:44:55,067
+they can fool their opponent.
+
+943
+00:44:55,151 --> 00:44:57,486
+- Bluffing may help in some cases.
+- Exactly.
+
+944
+00:44:57,570 --> 00:45:00,907
+But you may end up
+helping your opponent while bluffing.
+
+945
+00:45:01,324 --> 00:45:03,826
+Two players will take turns
+to place their tiles.
+
+946
+00:45:04,577 --> 00:45:07,622
+Once both players
+have placed seven tiles each,
+
+947
+00:45:07,705 --> 00:45:10,291
+they will be allowed
+to either place a new tile
+
+948
+00:45:10,374 --> 00:45:15,004
+or maneuver one of the placed ones
+starting from their eighth turn.
+
+949
+00:45:15,087 --> 00:45:18,382
+First, they can move one of the tiles
+to a neighboring empty square
+
+950
+00:45:18,466 --> 00:45:22,178
+regardless of the color it is showing.
+
+951
+00:45:22,261 --> 00:45:26,098
+But you can't move the tile diagonally.
+
+952
+00:45:26,182 --> 00:45:27,683
+But with 14 tiles placed,
+
+953
+00:45:27,767 --> 00:45:29,769
+- there's not much room to move.
+- Right.
+
+954
+00:45:29,852 --> 00:45:32,230
+Still, moving the tiles around
+can be the only option
+
+955
+00:45:32,313 --> 00:45:34,440
+- when playing defensively.
+- Exactly.
+
+956
+00:45:34,982 --> 00:45:38,110
+Second, they can flip one of the tiles
+placed on the board
+
+957
+00:45:38,194 --> 00:45:42,573
+regardless of the color it is showing.
+
+958
+00:45:43,991 --> 00:45:46,786
+You'll have to keep flipping
+to show your assigned color.
+
+959
+00:45:47,662 --> 00:45:52,333
+You must remember
+that you can't move or flip the tile
+
+960
+00:45:53,376 --> 00:45:55,711
+that your opponent placed, moved,
+or flipped in their latest turn.
+
+961
+00:45:55,795 --> 00:45:57,380
+OPPONENT'S TILE IS OFF-LIMITS FOR 1 TURN
+
+962
+00:45:57,463 --> 00:45:59,257
+You can't touch the tile
+the other just touched.
+
+963
+00:45:59,340 --> 00:46:00,633
+That's intense.
+
+964
+00:46:00,716 --> 00:46:03,469
+The latest tile being off-limits
+makes it really hard.
+
+965
+00:46:03,886 --> 00:46:08,516
+The first to get a bingo
+of their designated color wins.
+
+966
+00:46:08,599 --> 00:46:12,019
+There will be three rounds in total.
+
+967
+00:46:12,103 --> 00:46:14,855
+Each round will be played
+on a one-on-one basis.
+
+968
+00:46:14,939 --> 00:46:18,985
+Rounds 1 and 2 require different players,
+but anyone can participate in Round 3.
+
+969
+00:46:19,068 --> 00:46:20,611
+Out of a total of three rounds,
+
+970
+00:46:20,695 --> 00:46:24,907
+the team that secures two wins first
+will be declared the winner.
+
+971
+00:46:27,994 --> 00:46:29,495
+I started playing chess at a young age,
+
+972
+00:46:29,578 --> 00:46:31,914
+so I knew I could handle
+a turn-based game.
+
+973
+00:46:31,998 --> 00:46:34,166
+I thought, "I'm sure to win."
+
+974
+00:46:34,500 --> 00:46:38,879
+Usually, I can see 13 to 20 moves ahead
+in a game of Connect Five.
+
+975
+00:46:38,963 --> 00:46:41,132
+So I felt confident about my chances.
+
+976
+00:46:41,465 --> 00:46:45,970
+The team to go first in Round 1
+will be decided by Team POSTECH
+
+977
+00:46:46,053 --> 00:46:48,180
+as they held more assets
+in the main match.
+
+978
+00:46:49,015 --> 00:46:51,225
+They get to decide
+since they had more money.
+
+979
+00:46:51,517 --> 00:46:52,685
+Won't they go first?
+
+980
+00:46:52,768 --> 00:46:56,188
+Since they can move or flip
+a tile starting from the eighth turn...
+
+981
+00:46:56,480 --> 00:46:58,524
+- First player gets the advantage.
+- Sure.
+
+982
+00:46:58,858 --> 00:47:01,444
+Both teams,
+please start discussing your strategies.
+
+983
+00:47:02,403 --> 00:47:05,031
+I have to try it to get the hang of it.
+
+984
+00:47:05,114 --> 00:47:07,950
+Do you think there's a strategy
+that will guarantee a win?
+
+985
+00:47:08,367 --> 00:47:10,661
+All right. Hit me with your ideas.
+
+986
+00:47:10,745 --> 00:47:13,581
+I think we should claim the four corners
+
+987
+00:47:13,664 --> 00:47:16,167
+since they're necessary
+in the intersecting lines.
+
+988
+00:47:16,250 --> 00:47:17,376
+- Do you follow?
+- Yes.
+
+989
+00:47:17,752 --> 00:47:18,711
+Let's say my color is red.
+
+990
+00:47:18,794 --> 00:47:20,755
+With a yellow-red tile
+and a blue-red tile in each row,
+
+991
+00:47:21,672 --> 00:47:24,967
+covering all four corners
+to stop the opponent...
+
+992
+00:47:25,051 --> 00:47:28,137
+- From using their assigned color?
+- Yes, exactly.
+
+993
+00:47:28,804 --> 00:47:30,389
+If you secure all four corners
+
+994
+00:47:30,473 --> 00:47:33,267
+using tiles with your color
+with a different-colored rim,
+
+995
+00:47:33,351 --> 00:47:37,897
+you hold two squares of horizontal,
+vertical, and diagonal lines.
+
+996
+00:47:37,980 --> 00:47:41,692
+Then, you can force your opponent
+to play on the defensive from all angles.
+
+997
+00:47:42,401 --> 00:47:45,237
+Even if your opponent
+flips the tile in the top row
+
+998
+00:47:45,321 --> 00:47:47,573
+to show their assigned color, yellow,
+
+999
+00:47:47,656 --> 00:47:49,992
+they won't be able to get a bingo.
+
+1000
+00:47:50,076 --> 00:47:53,079
+Even if your opponent has blue
+as their designated color,
+
+1001
+00:47:53,162 --> 00:47:55,790
+flipping the tile in the bottom row
+
+1002
+00:47:55,873 --> 00:47:58,584
+won't get them a bingo.
+
+1003
+00:47:58,918 --> 00:48:01,462
+At the start,
+prioritize securing the four corners
+
+1004
+00:48:01,545 --> 00:48:03,839
+and eliminating any threats.
+
+1005
+00:48:05,925 --> 00:48:06,926
+Wait, but...
+
+1006
+00:48:07,009 --> 00:48:10,388
+The more I study the board,
+the more important the center seems.
+
+1007
+00:48:10,471 --> 00:48:14,141
+All possible lines
+intersect in this region,
+
+1008
+00:48:14,225 --> 00:48:16,143
+so our focus should be here.
+
+1009
+00:48:16,394 --> 00:48:19,480
+I suggest claiming two squares
+in the center region.
+
+1010
+00:48:19,814 --> 00:48:23,317
+When your tile is in the center,
+you have four options to spread out.
+
+1011
+00:48:24,193 --> 00:48:26,487
+Dominating the center region
+was the priority.
+
+1012
+00:48:26,821 --> 00:48:29,365
+Won't the tiles in the outer region
+have more value?
+
+1013
+00:48:29,448 --> 00:48:30,408
+In terms of value?
+
+1014
+00:48:31,409 --> 00:48:34,120
+But center spots give you
+more options to spread out.
+
+1015
+00:48:34,203 --> 00:48:37,832
+In bingo, the four center squares
+are the most important.
+
+1016
+00:48:37,915 --> 00:48:40,709
+- Yes, they are.
+- The center is the main battlefield.
+
+1017
+00:48:40,793 --> 00:48:43,212
+But the players can move the tiles.
+
+1018
+00:48:43,295 --> 00:48:45,798
+The tiles in the center
+can be moved elsewhere.
+
+1019
+00:48:45,881 --> 00:48:47,258
+- Yes, that's true.
+- Right.
+
+1020
+00:48:47,675 --> 00:48:49,385
+TEAM POSTECH: CORNER-ORIENTED APPROACH
+
+1021
+00:48:49,468 --> 00:48:51,053
+TEAM KAIST: CENTER-ORIENTED APPROACH
+
+1022
+00:48:51,595 --> 00:48:52,930
+Let's say I'm the first player.
+
+1023
+00:48:53,013 --> 00:48:54,056
+TEAM KAIST'S PRACTICE GAME
+
+1024
+00:48:55,975 --> 00:48:58,561
+I can win this way, right?
+
+1025
+00:48:58,644 --> 00:49:01,147
+When I flip this later, it's game over.
+
+1026
+00:49:01,397 --> 00:49:02,565
+The first player
+
+1027
+00:49:02,648 --> 00:49:04,775
+- can flip a tile first, right?
+- Yes.
+
+1028
+00:49:04,859 --> 00:49:06,986
+- I see.
+- The first player gets that advantage.
+
+1029
+00:49:07,069 --> 00:49:09,155
+We'll have to figure out
+the opponent's color quickly,
+
+1030
+00:49:09,238 --> 00:49:10,531
+especially if we're going second.
+
+1031
+00:49:10,614 --> 00:49:12,950
+If we're going second,
+we'll have to play defensively
+
+1032
+00:49:13,033 --> 00:49:14,034
+in most cases.
+
+1033
+00:49:14,118 --> 00:49:15,077
+In most cases, yes.
+
+1034
+00:49:15,161 --> 00:49:18,372
+What do you think
+Team POSTECH will choose?
+
+1035
+00:49:18,456 --> 00:49:20,499
+They'll probably go first in Round 1.
+
+1036
+00:49:20,583 --> 00:49:24,253
+Now, we should decide
+on our player roster.
+
+1037
+00:49:24,587 --> 00:49:26,839
+Want to give it a go, Ji-hoo?
+You've had a drill.
+
+1038
+00:49:26,922 --> 00:49:28,716
+- Get us an upset win.
+- Win for us.
+
+1039
+00:49:28,799 --> 00:49:32,845
+Going second is a huge disadvantage,
+but I'll do my best to win.
+
+1040
+00:49:32,928 --> 00:49:35,055
+Okay, then. Ji-hoo will play in Round 1.
+
+1041
+00:49:35,431 --> 00:49:37,433
+Do we have any volunteers first?
+
+1042
+00:49:37,766 --> 00:49:38,684
+I'd like to play.
+
+1043
+00:49:38,767 --> 00:49:40,352
+- I want you to play, too.
+- All right.
+
+1044
+00:49:40,436 --> 00:49:42,605
+I'm good with games
+that involve mind games,
+
+1045
+00:49:42,688 --> 00:49:44,523
+and I have a lot of experience.
+
+1046
+00:49:44,607 --> 00:49:47,193
+I felt certain I could defeat anyone.
+
+1047
+00:49:48,527 --> 00:49:51,697
+The time for strategy meeting is up.
+
+1048
+00:49:52,740 --> 00:49:55,034
+- I've got to have faith in myself.
+- Have faith.
+
+1049
+00:49:55,451 --> 00:49:57,328
+Great. I feel like we won already.
+
+1050
+00:49:57,411 --> 00:49:59,288
+- Why don't we do our chant?
+- Guys!
+
+1051
+00:50:00,122 --> 00:50:01,081
+One, two, three.
+
+1052
+00:50:01,165 --> 00:50:03,501
+- KAIST!
+- Let's go!
+
+1053
+00:50:03,876 --> 00:50:05,711
+- KAIST!
+- Let's go!
+
+1054
+00:50:05,794 --> 00:50:07,880
+- Want to do ours here?
+- Let's do it.
+
+1055
+00:50:07,963 --> 00:50:09,590
+- POSTECH!
+- Let's go!
+
+1056
+00:50:11,008 --> 00:50:12,176
+It's all about the attitude.
+
+1057
+00:50:12,635 --> 00:50:14,011
+We practically won already.
+
+1058
+00:50:14,094 --> 00:50:14,929
+We won.
+
+1059
+00:50:17,932 --> 00:50:20,309
+DEATHMATCH
+DOUBLE-SIDED BINGO
+
+1060
+00:50:25,272 --> 00:50:27,983
+Which team should I root for?
+This is driving me nuts.
+
+1061
+00:50:28,067 --> 00:50:29,235
+The winner is our ally.
+
+1062
+00:50:29,318 --> 00:50:31,654
+Should I hope for one team
+to dominate the match?
+
+1063
+00:50:31,737 --> 00:50:35,533
+Then, we'll have that competent team
+as our ally tomorrow.
+
+1064
+00:50:35,991 --> 00:50:38,160
+- Why do we always end up here?
+- Tell me about it.
+
+1065
+00:50:39,245 --> 00:50:42,039
+One of my goals was
+to contribute to Team KAIST's elimination.
+
+1066
+00:50:42,122 --> 00:50:44,917
+I was happy
+to be given the chance to do so.
+
+1067
+00:50:45,251 --> 00:50:48,170
+I've got a good feeling about this.
+
+1068
+00:50:48,754 --> 00:50:52,341
+We will now begin the Deathmatch,
+Double-sided Bingo.
+
+1069
+00:50:53,425 --> 00:50:57,763
+Both teams, please announce
+which contestant will play in Round 1.
+
+1070
+00:50:58,264 --> 00:50:59,348
+Team KAIST.
+
+1071
+00:50:59,848 --> 00:51:02,851
+Kang Ji-hoo will play
+for Team KAIST in Round 1.
+
+1072
+00:51:04,520 --> 00:51:06,772
+I, Lee Jun-u, will play for Team POSTECH.
+
+1073
+00:51:08,107 --> 00:51:09,108
+So it's you.
+
+1074
+00:51:09,191 --> 00:51:13,153
+A FACE-OFF BETWEEN ALUMNI
+OF GYEONGGIBUK SCIENCE HIGH
+
+1075
+00:51:13,487 --> 00:51:14,989
+He was one year ahead of you, right?
+
+1076
+00:51:15,781 --> 00:51:18,742
+What's with the look he's giving you?
+
+1077
+00:51:18,826 --> 00:51:21,537
+That means all he can do
+is try to get under my skin.
+
+1078
+00:51:21,620 --> 00:51:25,833
+He's always been like that.
+I'm not even bothered.
+
+1079
+00:51:25,916 --> 00:51:27,960
+I know him well enough.
+
+1080
+00:51:28,586 --> 00:51:32,131
+He's always been very playful
+when we were in high school together.
+
+1081
+00:51:32,214 --> 00:51:36,635
+So I expected him to try
+to shake me that way.
+
+1082
+00:51:36,927 --> 00:51:41,932
+Both teams, please take an envelope
+and check your designated color.
+
+1083
+00:52:09,918 --> 00:52:12,880
+The players for Round 1,
+Team POSTECH's Lee Jun-u
+
+1084
+00:52:12,963 --> 00:52:15,841
+and Team KAIST's Kang Ji-hoo,
+please come up to the stage.
+
+1085
+00:52:23,557 --> 00:52:26,810
+- It's been a while.
+- It's nice to see you here.
+
+1086
+00:52:27,728 --> 00:52:29,438
+What's your assigned color?
+
+1087
+00:52:29,521 --> 00:52:31,982
+Don't pry on me just yet.
+
+1088
+00:52:32,066 --> 00:52:34,109
+- You'll use your color right away, no?
+- You will, won't you?
+
+1089
+00:52:34,193 --> 00:52:35,110
+You bet I will.
+
+1090
+00:52:35,194 --> 00:52:38,197
+- Both of them seem so at ease.
+- So relaxed.
+
+1091
+00:52:38,280 --> 00:52:39,990
+As expected from someone
+who shares my name.
+
+1092
+00:52:40,074 --> 00:52:42,159
+Ji-hoo's yapping
+to make Jun-u lose his cool.
+
+1093
+00:52:44,662 --> 00:52:47,081
+That's so him.
+
+1094
+00:52:47,414 --> 00:52:50,167
+When it comes to games,
+I can be a nightmarish opponent.
+
+1095
+00:52:50,250 --> 00:52:54,630
+I kept talking to Jun-u to irritate him
+and shake him off mentally.
+
+1096
+00:52:55,381 --> 00:52:58,467
+I tried maintaining my composure
+to play the game at my pace.
+
+1097
+00:53:00,803 --> 00:53:03,972
+As Team POSTECH had
+bigger total assets in the main match,
+
+1098
+00:53:04,056 --> 00:53:06,392
+they will decide which team goes first.
+
+1099
+00:53:06,475 --> 00:53:07,393
+Please make your choice.
+
+1100
+00:53:09,520 --> 00:53:10,813
+I'll go first.
+
+1101
+00:53:11,605 --> 00:53:14,149
+That's actually better.
+He can play as he practiced.
+
+1102
+00:53:14,817 --> 00:53:16,944
+Did you have to be selfish and go first?
+
+1103
+00:53:18,404 --> 00:53:20,489
+Your jokes are helping me relax.
+
+1104
+00:53:22,825 --> 00:53:25,494
+Team POSTECH's Lee Jun-u.
+Please place your tile.
+
+1105
+00:53:26,537 --> 00:53:28,539
+You have one minute.
+
+1106
+00:53:39,550 --> 00:53:41,719
+That would mean
+his color is yellow or red.
+
+1107
+00:53:41,802 --> 00:53:44,388
+Could he have chosen that tile
+to dupe Ji-hoo?
+
+1108
+00:53:44,471 --> 00:53:47,850
+You can't tell at first.
+
+1109
+00:53:48,183 --> 00:53:49,977
+So your color is yellow, right?
+
+1110
+00:53:51,729 --> 00:53:52,980
+Team KAIST's Kang Ji-hoo.
+
+1111
+00:53:53,063 --> 00:53:54,231
+Please place your tile.
+
+1112
+00:54:02,239 --> 00:54:03,282
+What was that about?
+
+1113
+00:54:03,365 --> 00:54:04,450
+It's a tactical move.
+
+1114
+00:54:04,533 --> 00:54:06,535
+He showed so much spirit there.
+
+1115
+00:54:06,618 --> 00:54:08,704
+Deathmatches are all about attitude.
+
+1116
+00:54:08,787 --> 00:54:10,456
+That's true.
+
+1117
+00:54:19,465 --> 00:54:20,966
+He's not hiding that it's yellow.
+
+1118
+00:54:21,049 --> 00:54:22,426
+He's not hiding it at all.
+
+1119
+00:54:28,557 --> 00:54:29,933
+Two red tiles in a row.
+
+1120
+00:54:30,017 --> 00:54:33,187
+He's as good as admitted
+that his color is red, hasn't he?
+
+1121
+00:54:33,270 --> 00:54:35,230
+"Hey, my assigned color is red."
+
+1122
+00:54:35,481 --> 00:54:37,775
+His color is red.
+That's almost a declaration.
+
+1123
+00:54:37,858 --> 00:54:40,527
+Jun-u's color is yellow,
+and Ji-hoo's color is red?
+
+1124
+00:54:40,611 --> 00:54:42,154
+- It looks that way.
+- Right.
+
+1125
+00:54:42,237 --> 00:54:44,156
+It looks like they're going head-to-head.
+
+1126
+00:54:44,239 --> 00:54:49,369
+TEAM KAIST: RED, TEAM POSTECH: YELLOW
+
+1127
+00:54:49,620 --> 00:54:52,247
+Team POSTECH's Lee Jun-u.
+Please place your tile.
+
+1128
+00:55:00,005 --> 00:55:02,299
+He's decided that the four corners
+would give him an edge.
+
+1129
+00:55:03,342 --> 00:55:08,055
+I think his plan is
+to claim all four corners.
+
+1130
+00:55:08,972 --> 00:55:11,642
+I thought the center section
+had more strategic value,
+
+1131
+00:55:11,725 --> 00:55:14,102
+but Jun-u kept placing his tiles
+on the corners.
+
+1132
+00:55:14,353 --> 00:55:15,604
+So you like the corners?
+
+1133
+00:55:18,023 --> 00:55:21,360
+- Looks like I'll beat my disadvantage.
+- You have ten seconds left.
+
+1134
+00:55:24,446 --> 00:55:27,533
+Ji-hoo seems to be set on gaining
+full control in the center.
+
+1135
+00:55:27,616 --> 00:55:29,576
+He's going to take
+the four squares in the center.
+
+1136
+00:55:29,660 --> 00:55:30,911
+I think so too.
+
+1137
+00:55:31,328 --> 00:55:33,205
+Their strategies
+are drastically different.
+
+1138
+00:55:33,288 --> 00:55:36,083
+One goes for the center,
+the other goes for the corners.
+
+1139
+00:55:37,835 --> 00:55:39,503
+Will he take all the corners?
+
+1140
+00:55:39,753 --> 00:55:41,672
+I think that's likely
+
+1141
+00:55:41,755 --> 00:55:45,217
+because the diagonal line
+has three red tiles on it.
+
+1142
+00:55:45,300 --> 00:55:48,887
+Jun-u will need that corner
+for a defensive move.
+
+1143
+00:55:54,560 --> 00:55:58,146
+A DEFENSIVE MOVE USING
+A TILE WITHOUT TEAM KAIST'S COLOR
+
+1144
+00:55:58,564 --> 00:56:00,941
+There we go. That was good.
+
+1145
+00:56:01,358 --> 00:56:05,779
+I think he saw Ji-hoo's color as red
+and made the best defensive move he could.
+
+1146
+00:56:06,154 --> 00:56:08,323
+You're smart. I'll give you that.
+
+1147
+00:56:08,407 --> 00:56:09,449
+What do I do next?
+
+1148
+00:56:11,368 --> 00:56:15,205
+I know your color is yellow.
+
+1149
+00:56:20,168 --> 00:56:22,880
+TEAM KAIST CAN GET A BINGO
+IF LEFT UNCHECKED
+
+1150
+00:56:23,797 --> 00:56:25,799
+LEE JUN-U'S DEFENSIVE MOVE
+
+1151
+00:56:25,883 --> 00:56:27,384
+He just won, didn't he?
+
+1152
+00:56:27,467 --> 00:56:28,427
+Jun-u did, yes.
+
+1153
+00:56:29,553 --> 00:56:30,762
+Did we just lose?
+
+1154
+00:56:30,846 --> 00:56:34,266
+It's a double-three situation.
+He has another opportunity over there.
+
+1155
+00:56:34,349 --> 00:56:36,268
+If Team POSTECH's player
+places a yellow tile
+
+1156
+00:56:36,351 --> 00:56:39,062
+in either of the highlighted squares,
+
+1157
+00:56:39,855 --> 00:56:41,231
+as the first player,
+
+1158
+00:56:41,315 --> 00:56:45,569
+he gets his chance to flip or move a tile
+on his eighth turn ahead of his opponent.
+
+1159
+00:56:45,652 --> 00:56:48,947
+Then, he can get a bingo.
+
+1160
+00:56:50,032 --> 00:56:51,867
+I thought, "I'm in big trouble."
+
+1161
+00:56:56,163 --> 00:56:59,833
+TEAM POSTECH STILL HAS
+ONE VIABLE ROUTE OF ATTACK
+
+1162
+00:56:59,917 --> 00:57:01,877
+Since Jun-u went first,
+he can finish the game
+
+1163
+00:57:01,960 --> 00:57:03,587
+- by flipping on his next turn.
+- Right.
+
+1164
+00:57:12,137 --> 00:57:14,932
+You have ten seconds left.
+
+1165
+00:57:31,740 --> 00:57:34,201
+He could've won if he had chosen
+that empty square. What a bummer.
+
+1166
+00:57:34,284 --> 00:57:35,702
+Why didn't he do that?
+
+1167
+00:57:36,244 --> 00:57:37,955
+It can be hard to see it
+when you're under pressure.
+
+1168
+00:57:38,038 --> 00:57:40,415
+I agree. That's possible.
+
+1169
+00:57:44,002 --> 00:57:47,506
+When Jun-u couldn't find the winning move,
+I realized I could beat him.
+
+1170
+00:57:50,258 --> 00:57:51,885
+Team POSTECH's Lee Jun-u
+will now take his turn.
+
+1171
+00:57:51,969 --> 00:57:53,637
+Damn, I've been eyeing that spot.
+
+1172
+00:57:58,433 --> 00:58:01,019
+TEAM POSTECH CREATED ANOTHER OPPORTUNITY
+
+1173
+00:58:01,395 --> 00:58:04,856
+We need to counter that,
+but we're out of blue-red tiles.
+
+1174
+00:58:04,940 --> 00:58:07,484
+- Ji-hoo only has blue-yellow tiles.
+- Right.
+
+1175
+00:58:12,155 --> 00:58:13,490
+You have ten seconds left.
+
+1176
+00:58:18,870 --> 00:58:21,707
+- That finishes the game, no?
+- No, Jun-u can't flip it.
+
+1177
+00:58:21,790 --> 00:58:24,626
+That one's off-limits.
+So they both need to be on defense.
+
+1178
+00:58:24,960 --> 00:58:27,921
+From this point on,
+you can place a new tile
+
+1179
+00:58:28,005 --> 00:58:31,591
+or select one of the tiles on the board
+to move or flip it.
+
+1180
+00:58:32,467 --> 00:58:34,845
+Team POSTECH's Lee Jun-u
+will now take his turn.
+
+1181
+00:58:34,928 --> 00:58:37,305
+- He needs to flip that red tile.
+- Exactly.
+
+1182
+00:58:40,475 --> 00:58:42,644
+TEAM POSTECH ON DEFENSE
+
+1183
+00:58:42,728 --> 00:58:45,230
+Well done. He's doing great.
+
+1184
+00:58:45,313 --> 00:58:47,691
+Team KAIST's Kang Ji-hoo
+will now take his turn.
+
+1185
+00:58:49,443 --> 00:58:50,610
+He needs to fix
+
+1186
+00:58:50,694 --> 00:58:53,363
+- the bottom row with yellow tiles.
+- He has to.
+
+1187
+00:58:53,989 --> 00:58:55,323
+You have ten seconds left.
+
+1188
+00:59:00,746 --> 00:59:01,997
+Yes, he needed that.
+
+1189
+00:59:02,080 --> 00:59:03,957
+Good job.
+
+1190
+00:59:10,005 --> 00:59:12,007
+- Why did he do that?
+- It was necessary.
+
+1191
+00:59:12,090 --> 00:59:13,008
+If he hadn't,
+
+1192
+00:59:13,091 --> 00:59:16,178
+Ji-hoo could flip the tile
+next to the one Jun-u just flipped
+
+1193
+00:59:16,261 --> 00:59:18,472
+- and get the double-three.
+- Oh, I see.
+
+1194
+00:59:20,307 --> 00:59:21,641
+You have ten seconds left.
+
+1195
+00:59:25,937 --> 00:59:27,773
+He launched an attack.
+
+1196
+00:59:27,856 --> 00:59:30,192
+Jun-u will have to choose one of those
+
+1197
+00:59:30,275 --> 00:59:31,610
+- to go on defense.
+- Won't he pick one
+
+1198
+00:59:31,693 --> 00:59:33,070
+to defend and attack at the same time?
+
+1199
+00:59:36,698 --> 00:59:38,825
+This won't end until someone moves a tile.
+
+1200
+00:59:38,909 --> 00:59:40,619
+Both of them only have tiles
+
+1201
+00:59:40,702 --> 00:59:43,288
+that have the opponent's color.
+They can't place any new tiles.
+
+1202
+00:59:43,371 --> 00:59:45,624
+Placing new tiles is
+the last thing on their minds.
+
+1203
+00:59:45,957 --> 00:59:48,919
+I think the game will continue
+until one of them messes up.
+
+1204
+00:59:52,881 --> 00:59:54,132
+- I'll flip this.
+- Okay.
+
+1205
+00:59:56,802 --> 00:59:58,136
+You have ten seconds left.
+
+1206
+01:00:01,306 --> 01:00:05,310
+The game won't end at this rate.
+How do I finish this?
+
+1207
+01:00:05,644 --> 01:00:07,354
+He could try moving a tile.
+
+1208
+01:00:07,437 --> 01:00:10,148
+- But can he gain anything from that?
+- Not really.
+
+1209
+01:00:10,398 --> 01:00:13,193
+But to break this cycle...
+
+1210
+01:00:18,532 --> 01:00:20,408
+- Oh, he moved a tile.
+- So it begins.
+
+1211
+01:00:20,492 --> 01:00:22,619
+- That was smart, right?
+- Yes, agreed.
+
+1212
+01:00:22,702 --> 01:00:24,579
+That eliminated the possibility
+of the red column.
+
+1213
+01:00:24,663 --> 01:00:25,497
+Right.
+
+1214
+01:00:25,997 --> 01:00:27,332
+I moved the tile
+
+1215
+01:00:27,415 --> 01:00:29,668
+to remove the chance
+of Ji-hoo getting a bingo
+
+1216
+01:00:29,751 --> 01:00:31,211
+and to seize control of the game.
+
+1217
+01:00:31,753 --> 01:00:33,171
+Jun-u made the smart choice.
+
+1218
+01:00:33,255 --> 01:00:34,089
+He's brilliant.
+
+1219
+01:00:34,172 --> 01:00:36,299
+He came up with a solid strategy.
+
+1220
+01:00:36,383 --> 01:00:37,843
+You have 30 seconds left.
+
+1221
+01:00:40,595 --> 01:00:43,890
+Out of the 6 red-yellow tiles,
+5 tiles show red.
+
+1222
+01:00:44,182 --> 01:00:46,226
+Hey, that's impressive.
+
+1223
+01:00:46,309 --> 01:00:48,270
+When did Ji-hoo flip them all?
+
+1224
+01:00:48,520 --> 01:00:51,231
+The game's running smoothly
+because both sides have planned ahead.
+
+1225
+01:00:51,314 --> 01:00:53,692
+Team POSTECH's Lee Jun-u
+will now take his turn.
+
+1226
+01:00:57,195 --> 01:01:00,031
+TEAM POSTECH'S LEE JUN-U
+FOUND A NEW AVENUE OF ATTACK
+
+1227
+01:01:00,115 --> 01:01:01,741
+- There we go.
+- Yes.
+
+1228
+01:01:01,825 --> 01:01:03,160
+That's the right call.
+
+1229
+01:01:03,493 --> 01:01:05,871
+Team KAIST's Kang Ji-hoo
+will now take his turn.
+
+1230
+01:01:11,209 --> 01:01:14,921
+TEAM KAIST'S KANG JI-HOO FLIPPED
+ALL THE RED-YELLOW TILES TO SHOW RED
+
+1231
+01:01:15,172 --> 01:01:17,757
+Only a few tiles on the board show yellow.
+
+1232
+01:01:17,841 --> 01:01:19,718
+- That's true.
+- Jun-u needs to flip them.
+
+1233
+01:01:19,801 --> 01:01:20,802
+That's for sure.
+
+1234
+01:01:20,886 --> 01:01:24,347
+But Jun-u had to take that risk
+to move the initial tile.
+
+1235
+01:01:29,644 --> 01:01:31,813
+Team KAIST's Kang Ji-hoo
+will now take his turn.
+
+1236
+01:01:40,739 --> 01:01:43,116
+- It's over.
+- It's over?
+
+1237
+01:01:43,200 --> 01:01:44,826
+He's got a double-three.
+
+1238
+01:01:45,118 --> 01:01:47,037
+Ji-hoo can move this tile...
+
+1239
+01:01:47,120 --> 01:01:50,790
+I mean, he can slide it to the right
+or flip that one to get a bingo.
+
+1240
+01:01:51,166 --> 01:01:52,209
+Hey, you're right.
+
+1241
+01:01:54,961 --> 01:01:57,380
+30 MINUTES AGO
+If I build enough two-tile blocks
+
+1242
+01:01:57,464 --> 01:01:59,174
+and claim the center section,
+
+1243
+01:01:59,257 --> 01:02:02,093
+I'll be able to find an angle
+to get a double-three.
+
+1244
+01:02:03,970 --> 01:02:06,848
+The moment I got my double-three,
+I thought I did it.
+
+1245
+01:02:06,932 --> 01:02:08,850
+That took a weight off my chest.
+
+1246
+01:02:09,267 --> 01:02:12,729
+Shoot, he lost.
+
+1247
+01:02:12,812 --> 01:02:14,189
+You can't defend that.
+
+1248
+01:02:14,272 --> 01:02:16,816
+At any rate,
+you need a double-three to win.
+
+1249
+01:02:16,900 --> 01:02:18,235
+Looks that way.
+
+1250
+01:02:21,821 --> 01:02:24,199
+Team KAIST's Kang Ji-hoo
+will now take his turn.
+
+1251
+01:02:28,954 --> 01:02:32,874
+Team KAIST's Kang Ji-hoo
+got a bingo first.
+
+1252
+01:02:36,336 --> 01:02:38,046
+All right. There we go.
+
+1253
+01:02:39,047 --> 01:02:41,633
+Team POSTECH went first,
+but Team KAIST won.
+
+1254
+01:02:41,925 --> 01:02:44,344
+It was fun to watch a game
+between skilled players.
+
+1255
+01:02:44,427 --> 01:02:46,596
+Both had a knack
+for finding the best moves.
+
+1256
+01:02:46,680 --> 01:02:47,555
+Yes, they did.
+
+1257
+01:02:47,931 --> 01:02:50,308
+Team POSTECH will have to win
+two rounds back-to-back to survive.
+
+1258
+01:02:50,392 --> 01:02:51,559
+It's pretty difficult.
+
+1259
+01:02:51,643 --> 01:02:52,978
+We didn't see that coming.
+
+1260
+01:02:56,231 --> 01:02:58,525
+One of my game plans was to provoke Jun-u.
+
+1261
+01:02:58,608 --> 01:03:00,694
+I later regretted it,
+thinking maybe I went too far.
+
+1262
+01:03:00,777 --> 01:03:01,945
+I felt so bad for him.
+
+1263
+01:03:04,030 --> 01:03:07,575
+Ji-hoo's attempts at shaking me
+didn't affect me all that much.
+
+1264
+01:03:07,659 --> 01:03:10,662
+Rather, I think I lost
+because I got impatient midway.
+
+1265
+01:03:10,745 --> 01:03:12,414
+That leaves me with regrets.
+
+1266
+01:03:17,544 --> 01:03:18,503
+I'm sorry.
+
+1267
+01:03:18,586 --> 01:03:20,005
+Dude, don't apologize.
+
+1268
+01:03:24,968 --> 01:03:26,803
+Ji-hoo the Great.
+
+1269
+01:03:28,179 --> 01:03:30,098
+Well done.
+
+1270
+01:03:30,473 --> 01:03:33,184
+I shouldn't have moved the tile.
+That puts you at a disadvantage.
+
+1271
+01:03:33,268 --> 01:03:35,979
+If your opponent keeps
+on flipping the tiles, you're helpless.
+
+1272
+01:03:36,271 --> 01:03:38,940
+Your game taught us so much.
+
+1273
+01:03:39,024 --> 01:03:40,775
+- It was an epic match.
+- For sure.
+
+1274
+01:03:40,859 --> 01:03:42,193
+Thanks for the great game.
+
+1275
+01:03:43,320 --> 01:03:48,074
+Both teams, please announce
+which contestant will play in Round 2.
+
+1276
+01:03:48,158 --> 01:03:51,036
+DOUBLE-SIDED BINGO
+ROUND 2
+
+1277
+01:03:51,119 --> 01:03:53,413
+I bet Team KAIST will send in Jeon Ji-min.
+
+1278
+01:03:53,496 --> 01:03:55,081
+- Ji-min...
+- He's good.
+
+1279
+01:03:55,165 --> 01:03:57,792
+He seems like the obvious choice.
+He's good.
+
+1280
+01:03:57,876 --> 01:03:59,002
+It will be Ji-min.
+
+1281
+01:03:59,085 --> 01:04:02,505
+I think the guy who participated
+in Primality Test will compete here.
+
+1282
+01:04:04,007 --> 01:04:07,052
+Kim Jae-han will play
+for Team KAIST in Round 2.
+
+1283
+01:04:08,053 --> 01:04:10,764
+- Team KAIST's Kim Jae-han is competing.
+- Not Ji-min?
+
+1284
+01:04:10,847 --> 01:04:14,142
+UNEXPECTEDLY, TEAM KAIST'S KIM JAE-HAN
+IS PLAYING IN ROUND 2
+
+1285
+01:04:14,225 --> 01:04:15,060
+Good luck.
+
+1286
+01:04:15,143 --> 01:04:16,269
+He doesn't need luck.
+
+1287
+01:04:16,353 --> 01:04:17,812
+Go get them.
+
+1288
+01:04:18,063 --> 01:04:20,315
+We tried a few practice games
+by ourselves.
+
+1289
+01:04:20,398 --> 01:04:24,027
+We then learned
+that Jae-han had an eye for finding angles
+
+1290
+01:04:24,110 --> 01:04:25,195
+that we couldn't see.
+
+1291
+01:04:25,779 --> 01:04:27,947
+DURING STRATEGY MEETING
+KIM JI-U AND JEON JI-MIN'S PRACTICE GAME
+
+1292
+01:04:29,199 --> 01:04:31,618
+You know, you already lost
+
+1293
+01:04:31,701 --> 01:04:33,995
+when you placed the red-blue card,
+completing the red column.
+
+1294
+01:04:34,079 --> 01:04:35,747
+THE FIRST PLAYER CAN FLIP THE CARD
+AND GET A BINGO
+
+1295
+01:04:35,955 --> 01:04:38,083
+Put it here,
+and what with the blue tile...
+
+1296
+01:04:38,166 --> 01:04:39,250
+JAE-HAN'S QUICK ANALYSIS
+
+1297
+01:04:39,334 --> 01:04:42,003
+You can flip this,
+but once you do, the game is over.
+
+1298
+01:04:42,087 --> 01:04:43,296
+Block some other line, and you lose.
+
+1299
+01:04:43,380 --> 01:04:45,632
+- You're our man, Jae-han.
+- You've got this.
+
+1300
+01:04:45,715 --> 01:04:47,425
+You want me to compete?
+
+1301
+01:04:47,509 --> 01:04:51,012
+The game itself
+was of the type I enjoy a lot.
+
+1302
+01:04:52,263 --> 01:04:55,141
+The problem was that
+my nerves often got the better of me.
+
+1303
+01:04:55,934 --> 01:04:56,768
+So...
+
+1304
+01:04:56,851 --> 01:04:59,896
+PRE-PRODUCTION INTERVIEW
+KIM JAE-HAN WAS VISIBLY NERVOUS
+
+1305
+01:04:59,979 --> 01:05:02,023
+What with mathematics... I mean...
+
+1306
+01:05:02,607 --> 01:05:03,441
+I'm sorry.
+
+1307
+01:05:04,234 --> 01:05:07,278
+- It's my kryptonite. I'm just...
+- But you did fine just now.
+
+1308
+01:05:09,614 --> 01:05:12,659
+Jae-han was hesitant to compete
+because of his nerves,
+
+1309
+01:05:12,742 --> 01:05:14,953
+so I helped him loosen up
+as best as I could.
+
+1310
+01:05:15,662 --> 01:05:16,663
+You're doing great.
+
+1311
+01:05:16,746 --> 01:05:18,748
+- But...
+- He's looking many moves ahead.
+
+1312
+01:05:18,832 --> 01:05:19,707
+He's seeing far and wide.
+
+1313
+01:05:19,791 --> 01:05:21,376
+- Good luck.
+- You've got this.
+
+1314
+01:05:21,459 --> 01:05:24,379
+I think you're great.
+You're seeing so many moves ahead.
+
+1315
+01:05:24,462 --> 01:05:26,089
+It feels like we won already.
+
+1316
+01:05:27,132 --> 01:05:30,385
+I felt grateful to my teammates,
+and I was set on doing my best.
+
+1317
+01:05:30,718 --> 01:05:32,345
+No pressure, though.
+
+1318
+01:05:32,429 --> 01:05:34,139
+You were amazing during practice.
+
+1319
+01:05:34,222 --> 01:05:38,226
+No offense to Ji-hoo when he just won,
+but I think you're the best, Jae-han.
+
+1320
+01:05:38,518 --> 01:05:39,644
+Just do what you did.
+
+1321
+01:05:39,727 --> 01:05:40,979
+TEAMMATES SHOWER HIM WITH COMPLIMENTS
+
+1322
+01:05:41,062 --> 01:05:42,355
+Team POSTECH.
+
+1323
+01:05:42,439 --> 01:05:45,275
+I, Hwang Seok-hun, will play
+for Team POSTECH in Round 2.
+
+1324
+01:05:46,192 --> 01:05:49,237
+I knew that my defeat would mean
+the end of my team's journey.
+
+1325
+01:05:49,320 --> 01:05:50,864
+So I had to win at all costs.
+
+1326
+01:05:51,448 --> 01:05:55,952
+Both teams, please take an envelope
+and check your designated color.
+
+1327
+01:05:56,035 --> 01:05:58,371
+I wonder what our color is
+
+1328
+01:05:58,455 --> 01:06:00,457
+I wonder what it can be
+
+1329
+01:06:04,961 --> 01:06:06,337
+Let's see it together.
+
+1330
+01:06:11,301 --> 01:06:12,886
+Someone's got to bluff.
+
+1331
+01:06:12,969 --> 01:06:14,596
+It will be so cool if anyone tries it.
+
+1332
+01:06:15,346 --> 01:06:21,102
+The players for Round 2,
+please come up to the stage.
+
+1333
+01:06:21,352 --> 01:06:23,188
+- Best of luck.
+- You've got this.
+
+1334
+01:06:23,897 --> 01:06:25,398
+Shoot, this is nerve-wracking.
+
+1335
+01:06:28,943 --> 01:06:31,696
+I don't want us to leave without a bang.
+
+1336
+01:06:32,197 --> 01:06:35,658
+Team KAIST will go first
+as their player went second in Round 1.
+
+1337
+01:06:36,159 --> 01:06:38,828
+Team KAIST's Kim Jae-han.
+Please place your tile.
+
+1338
+01:06:44,501 --> 01:06:47,003
+KIM JAE-HAN PLACED
+A YELLOW TILE IN THE CENTER
+
+1339
+01:06:47,086 --> 01:06:50,131
+That confirms it.
+Their strategy is to claim the center.
+
+1340
+01:06:50,548 --> 01:06:53,718
+Team POSTECH's Hwang Seok-hun.
+Please place your tile.
+
+1341
+01:06:57,722 --> 01:06:59,390
+BOTH PLACED A YELLOW TILE EACH
+
+1342
+01:06:59,682 --> 01:07:00,683
+What?
+
+1343
+01:07:00,767 --> 01:07:02,769
+What the heck? Just a second.
+
+1344
+01:07:02,852 --> 01:07:03,895
+What's going on?
+
+1345
+01:07:04,521 --> 01:07:05,855
+One of them is bluffing.
+
+1346
+01:07:06,105 --> 01:07:07,524
+Both placed yellow tiles.
+
+1347
+01:07:08,525 --> 01:07:11,069
+Team KAIST's Kim Jae-han.
+Please place your tile.
+
+1348
+01:07:11,152 --> 01:07:12,779
+PLACED ANOTHER YELLOW TILE
+
+1349
+01:07:12,862 --> 01:07:14,822
+He's using yellow tiles back-to-back?
+
+1350
+01:07:14,906 --> 01:07:17,450
+Team KAIST's designated color
+must be yellow.
+
+1351
+01:07:17,992 --> 01:07:20,620
+Team POSTECH's Hwang Seok-hun
+will now take his turn.
+
+1352
+01:07:21,287 --> 01:07:22,872
+I think Team POSTECH's color is red.
+
+1353
+01:07:22,956 --> 01:07:24,666
+I can't be sure
+if their color is blue or red.
+
+1354
+01:07:24,749 --> 01:07:25,750
+I think it's blue.
+
+1355
+01:07:25,833 --> 01:07:29,003
+But if so, why put the red side up
+instead of the blue side?
+
+1356
+01:07:29,420 --> 01:07:31,589
+To fool Jae-han completely?
+
+1357
+01:07:32,131 --> 01:07:34,592
+I thought that it'd give
+the second player an edge
+
+1358
+01:07:34,676 --> 01:07:36,928
+to hide the assigned color.
+
+1359
+01:07:37,554 --> 01:07:39,264
+IMMEDIATELY AFTER ROUND 1
+The way I see it,
+
+1360
+01:07:39,347 --> 01:07:43,142
+it's best to place a tile with your color
+upside down and flip it later.
+
+1361
+01:07:43,226 --> 01:07:46,062
+When your opponent knows your color,
+they'll counter your move at every turn.
+
+1362
+01:07:46,145 --> 01:07:48,314
+You then end up
+with endless tile flipping.
+
+1363
+01:07:48,773 --> 01:07:49,941
+You're going second,
+
+1364
+01:07:50,024 --> 01:07:52,860
+so you need to find a way
+to take your opponent by surprise.
+
+1365
+01:07:53,194 --> 01:07:55,613
+Team KAIST's Kim Jae-han
+will now take his turn.
+
+1366
+01:07:59,951 --> 01:08:02,579
+- He got the reverse L shape.
+- So he did.
+
+1367
+01:08:02,662 --> 01:08:04,581
+The first player has to try their best
+
+1368
+01:08:04,664 --> 01:08:06,916
+to get the tiles
+placed in a reverse L shape.
+
+1369
+01:08:07,000 --> 01:08:08,126
+Once you have that,
+
+1370
+01:08:08,376 --> 01:08:12,046
+you get a two-tile cluster in vertical,
+horizontal, and diagonal lines.
+
+1371
+01:08:12,130 --> 01:08:14,424
+If the second player makes
+a single mistake,
+
+1372
+01:08:14,507 --> 01:08:18,595
+the first player can strike,
+ending the game right then and there.
+
+1373
+01:08:18,845 --> 01:08:21,472
+Team POSTECH's Hwang Seok-hun
+will now take his turn.
+
+1374
+01:08:26,477 --> 01:08:27,854
+I thought, "There we go."
+
+1375
+01:08:28,271 --> 01:08:29,355
+He won.
+
+1376
+01:08:29,439 --> 01:08:31,816
+- All he has to do is hang in there.
+- Right.
+
+1377
+01:08:32,108 --> 01:08:33,651
+If the first player
+makes a two-tile cluster,
+
+1378
+01:08:33,735 --> 01:08:35,445
+the second player can only use a tile
+
+1379
+01:08:35,528 --> 01:08:37,488
+without the first player's color
+for defense.
+
+1380
+01:08:37,572 --> 01:08:40,658
+If they use one
+with the first player's color,
+
+1381
+01:08:40,742 --> 01:08:44,495
+the first player can add one more tile
+and flip the second player's addition
+
+1382
+01:08:44,579 --> 01:08:46,205
+to get a bingo first.
+
+1383
+01:08:46,581 --> 01:08:52,295
+KIM JAE-HAN USED THE YELLOW TILES
+TO QUICKLY MAKE A REVERSE L
+
+1384
+01:08:52,378 --> 01:08:55,840
+The thing was,
+Seok-hun used a tile that included yellow.
+
+1385
+01:08:55,923 --> 01:08:58,384
+HWANG SEOK-HUN USED A TILE
+WITH YELLOW ON ONE SIDE
+
+1386
+01:08:58,468 --> 01:09:00,219
+That convinced me
+that I had it in the bag.
+
+1387
+01:09:00,762 --> 01:09:03,056
+Our strategy
+was claiming the corners first,
+
+1388
+01:09:03,556 --> 01:09:04,891
+and I followed through.
+
+1389
+01:09:06,059 --> 01:09:07,143
+Wait.
+
+1390
+01:09:07,602 --> 01:09:09,646
+Team KAIST's Kim Jae-han
+will now take his turn.
+
+1391
+01:09:10,396 --> 01:09:13,358
+KIM JAE-HAN BUILT A 3-TILE CLUSTER
+IN HIS ASSIGNED COLOR
+
+1392
+01:09:13,441 --> 01:09:16,736
+ALL HE HAS TO DO TO GET A BINGO
+IS FLIP THE TILE
+
+1393
+01:09:16,819 --> 01:09:19,447
+Team KAIST went first.
+The game is as good as won.
+
+1394
+01:09:20,114 --> 01:09:22,200
+Jae-han gets to start flipping tiles.
+
+1395
+01:09:24,661 --> 01:09:25,703
+I lost.
+
+1396
+01:09:32,168 --> 01:09:35,129
+Whatever Seok-hun tries next,
+he can't win if Jae-han plays on defense.
+
+1397
+01:09:35,213 --> 01:09:37,757
+All Jae-han has to do is defend.
+
+1398
+01:09:39,217 --> 01:09:40,343
+I felt so terrible,
+
+1399
+01:09:41,302 --> 01:09:43,304
+so I turned around
+to look at my teammates.
+
+1400
+01:09:44,597 --> 01:09:46,432
+- Seriously...
+- I feel you.
+
+1401
+01:09:48,059 --> 01:09:50,019
+What a shame.
+
+1402
+01:09:57,735 --> 01:09:59,570
+- Jae-han looks relaxed.
+- I see it.
+
+1403
+01:09:59,862 --> 01:10:00,905
+He found his composure.
+
+1404
+01:10:01,531 --> 01:10:03,074
+He's smiling, even.
+
+1405
+01:10:09,372 --> 01:10:12,375
+If only I hadn't insisted
+on hiding my color,
+
+1406
+01:10:12,458 --> 01:10:13,710
+I could've found a better move
+
+1407
+01:10:13,793 --> 01:10:16,629
+and kept the game going
+until we were flipping tiles for a while.
+
+1408
+01:10:16,713 --> 01:10:17,922
+That filled me with regret.
+
+1409
+01:10:19,340 --> 01:10:22,009
+HWANG SEOK-HUN PLACES HIS 7TH TILE
+
+1410
+01:10:22,093 --> 01:10:24,470
+Team KAIST's Kim Jae-han
+will now take his turn.
+
+1411
+01:10:29,016 --> 01:10:32,562
+Team KAIST's Kim Jae-han
+got a bingo first.
+
+1412
+01:10:33,604 --> 01:10:37,734
+I mostly felt terrible for my teammates.
+
+1413
+01:10:39,736 --> 01:10:41,154
+- Oh, dear.
+- Poor guy.
+
+1414
+01:10:41,404 --> 01:10:44,866
+If only he hadn't gotten
+so into the bluffing strategy.
+
+1415
+01:10:45,116 --> 01:10:47,201
+Oh, man...
+
+1416
+01:10:51,706 --> 01:10:55,501
+I knew he'd pull it off.
+I had a good feeling about this.
+
+1417
+01:10:55,752 --> 01:10:58,004
+- This is devastating.
+- It's a bummer.
+
+1418
+01:10:58,337 --> 01:11:02,884
+Round 2 of Double-sided Bingo
+ends in Team KAIST's victory.
+
+1419
+01:11:07,597 --> 01:11:10,516
+Both contestants,
+please return to your places.
+
+1420
+01:11:10,600 --> 01:11:12,393
+- I'm sorry, guys.
+- Don't be. You did great.
+
+1421
+01:11:12,477 --> 01:11:13,311
+Don't worry about it.
+
+1422
+01:11:13,394 --> 01:11:15,688
+I lost in the first place.
+I'd never blame you.
+
+1423
+01:11:15,772 --> 01:11:17,440
+- It's all on me.
+- Not at all.
+
+1424
+01:11:19,317 --> 01:11:21,861
+My man, Jae-han!
+
+1425
+01:11:22,278 --> 01:11:23,404
+Good job, both of you.
+
+1426
+01:11:23,488 --> 01:11:25,281
+That was beautiful. Let me give you a hug.
+
+1427
+01:11:25,364 --> 01:11:27,033
+Come here.
+
+1428
+01:11:28,201 --> 01:11:29,202
+That was so cool.
+
+1429
+01:11:29,952 --> 01:11:33,039
+Now that I have tried it,
+it had me thinking,
+
+1430
+01:11:33,122 --> 01:11:36,834
+"I'm pretty good.
+I can actually hold my ground."
+
+1431
+01:11:36,918 --> 01:11:38,336
+The experience gave me confidence.
+
+1432
+01:11:38,419 --> 01:11:41,380
+I'll do my best moving forward.
+
+1433
+01:11:41,589 --> 01:11:43,800
+If only the bluffing had worked.
+
+1434
+01:11:43,883 --> 01:11:47,178
+He should've at least avoided
+using a tile with a yellow side.
+
+1435
+01:11:47,261 --> 01:11:50,264
+He was probably confident
+about using yellow tiles
+
+1436
+01:11:50,348 --> 01:11:52,350
+because he thought
+he'd be flipping them first.
+
+1437
+01:11:52,683 --> 01:11:54,894
+The loss wasn't on Seok-hun.
+Jae-han just had a better plan.
+
+1438
+01:11:54,977 --> 01:11:56,604
+Team KAIST identified the road to victory.
+
+1439
+01:11:56,687 --> 01:11:59,023
+It's a strategy-based victory.
+
+1440
+01:11:59,649 --> 01:12:03,361
+That concludes the Deathmatch,
+Double-sided Bingo.
+
+1441
+01:12:04,070 --> 01:12:05,196
+The result will now be announced.
+
+1442
+01:12:05,655 --> 01:12:08,199
+The winning team is Team KAIST.
+
+1443
+01:12:15,581 --> 01:12:20,253
+The first team to be eliminated
+from Elite League Season 3 is
+
+1444
+01:12:20,461 --> 01:12:22,338
+Team POSTECH.
+
+1445
+01:12:25,341 --> 01:12:27,635
+It's nobody's fault but mine.
+
+1446
+01:12:28,803 --> 01:12:30,805
+I almost had it, but I botched it.
+
+1447
+01:12:31,222 --> 01:12:33,057
+Don't beat yourself over it.
+
+1448
+01:12:37,854 --> 01:12:41,065
+Team POSTECH, please exit the grounds.
+
+1449
+01:12:41,816 --> 01:12:42,900
+Oh, man...
+
+1450
+01:12:45,361 --> 01:12:46,904
+They're really leaving.
+
+1451
+01:12:46,988 --> 01:12:48,948
+This isn't a survival show for nothing.
+
+1452
+01:12:54,036 --> 01:12:55,538
+I didn't get to say goodbye.
+
+1453
+01:12:57,707 --> 01:13:00,418
+I wanted to invite Jun-u for a meal.
+
+1454
+01:13:09,343 --> 01:13:10,761
+I can't believe I made it here.
+
+1455
+01:13:11,721 --> 01:13:16,976
+Initially, I had the daring dream
+of outperforming the show's front-runners
+
+1456
+01:13:17,059 --> 01:13:20,229
+and overthrowing
+the established university ranks.
+
+1457
+01:13:20,313 --> 01:13:22,064
+Everyone will see us as underdogs.
+
+1458
+01:13:22,148 --> 01:13:23,316
+We have to prove them wrong.
+
+1459
+01:13:24,191 --> 01:13:26,611
+We didn't perform well enough
+to accomplish that.
+
+1460
+01:13:28,321 --> 01:13:29,572
+That fills me with regret.
+
+1461
+01:13:30,781 --> 01:13:31,991
+I'll give you my energy.
+
+1462
+01:13:32,491 --> 01:13:34,410
+I'm grateful to my team
+for accompanying me
+
+1463
+01:13:34,493 --> 01:13:35,912
+on this short but meaningful journey.
+
+1464
+01:13:36,370 --> 01:13:38,164
+As a die-hard fan of Elite League...
+
+1465
+01:13:38,247 --> 01:13:40,416
+He couldn't have rewatched it
+more than I did.
+
+1466
+01:13:41,250 --> 01:13:43,210
+Tell them you have the lines memorized.
+
+1467
+01:13:43,461 --> 01:13:44,962
+I watched it like eight times.
+
+1468
+01:13:46,839 --> 01:13:50,593
+It was an honor to be
+a part of the show, if only briefly.
+
+1469
+01:13:50,968 --> 01:13:52,136
+Thank you.
+
+1470
+01:13:53,304 --> 01:13:54,305
+There we go.
+
+1471
+01:13:54,388 --> 01:13:59,602
+Though it was for a brief period,
+I'll cherish our time together
+
+1472
+01:13:59,894 --> 01:14:02,104
+as a precious memory.
+
+1473
+01:14:02,480 --> 01:14:04,815
+The season's division setting
+was a great opportunity
+
+1474
+01:14:04,899 --> 01:14:09,362
+for me to demonstrate
+that I chose not to go to medical school.
+
+1475
+01:14:09,445 --> 01:14:10,696
+It's a shame I couldn't.
+
+1476
+01:14:11,030 --> 01:14:14,116
+I hope our rivals in the division,
+Team KAIST and Team SNU in STEM,
+
+1477
+01:14:14,200 --> 01:14:16,994
+will beat all the med school teams
+and become champions.
+
+1478
+01:14:34,845 --> 01:14:36,013
+The logo lamp went out.
+
+1479
+01:14:36,681 --> 01:14:37,556
+They turned white.
+
+1480
+01:14:38,432 --> 01:14:40,393
+The strip lights now have a white glow.
+
+1481
+01:14:40,476 --> 01:14:41,644
+Hey, you're right.
+
+1482
+01:14:41,727 --> 01:14:43,854
+The colors look more harmonious this way.
+
+1483
+01:14:43,938 --> 01:14:46,232
+- All in a blueish shade, right?
+- Exactly.
+
+1484
+01:14:46,315 --> 01:14:47,316
+All right.
+
+1485
+01:14:47,942 --> 01:14:50,611
+TEAM YONSEI'S BASE CAMP
+What's our motto for the day?
+
+1486
+01:14:51,570 --> 01:14:53,823
+We'll take first place today.
+
+1487
+01:14:54,240 --> 01:14:55,074
+TEAM SNU'S BASE CAMP
+Shall we?
+
+1488
+01:14:55,700 --> 01:14:57,326
+CHECKING THEIR REFLECTIONS
+
+1489
+01:14:57,410 --> 01:14:59,036
+Looks like you have firm standards.
+
+1490
+01:14:59,578 --> 01:15:00,621
+Fit check!
+
+1491
+01:15:00,705 --> 01:15:02,206
+Fit check!
+
+1492
+01:15:02,289 --> 01:15:03,124
+TEAM KAIST'S BASE CAMP
+
+1493
+01:15:03,207 --> 01:15:05,543
+Ji-u, you remind me of CHUU today.
+
+1494
+01:15:07,211 --> 01:15:10,089
+Not with that look, though.
+When you smile.
+
+1495
+01:15:10,172 --> 01:15:12,091
+- I get it.
+- You do, right?
+
+1496
+01:15:12,174 --> 01:15:14,635
+Don't agree to him, Jae-han.
+
+1497
+01:15:15,136 --> 01:15:16,595
+It's just that I get why he said that.
+
+1498
+01:15:16,846 --> 01:15:19,306
+Come to think of it,
+isn't CHUU's real name Ji-u?
+
+1499
+01:15:19,390 --> 01:15:21,767
+CHUU'S REAL NAME IS ALSO KIM JI-U
+
+1500
+01:15:21,851 --> 01:15:24,020
+I'm going to call you KAIST's TARZZAN.
+
+1501
+01:15:24,103 --> 01:15:25,813
+TARZZAN, A MEMBER OF ALLDAY PROJECT
+
+1502
+01:15:27,481 --> 01:15:29,525
+I think you'll become famous
+as KAIST's CHUU.
+
+1503
+01:15:29,984 --> 01:15:31,277
+KAIST's CHUU. KA-CHUU.
+
+1504
+01:15:31,360 --> 01:15:32,945
+- KA-CHUU.
+- Just like Pikachu.
+
+1505
+01:15:33,029 --> 01:15:34,196
+"Pikachu."
+
+1506
+01:15:36,157 --> 01:15:37,491
+"Pika-pika."
+
+1507
+01:15:37,575 --> 01:15:39,618
+You're so annoying.
+
+1508
+01:15:40,202 --> 01:15:42,288
+TEAM SNU'S BASE CAMP
+
+1509
+01:15:42,371 --> 01:15:44,248
+Hey, something's inside.
+
+1510
+01:15:45,041 --> 01:15:47,084
+"Elite League Board Game."
+
+1511
+01:15:47,710 --> 01:15:49,086
+We can play board games?
+
+1512
+01:15:49,170 --> 01:15:50,337
+ELITE LEAGUE BOARD GAME
+
+1513
+01:15:50,629 --> 01:15:54,633
+Can we play a variety of games
+with that single set?
+
+1514
+01:15:54,967 --> 01:15:56,844
+"Match and Mix,
+Rotate! Rock, Paper, Scissors."
+
+1515
+01:15:56,927 --> 01:16:00,473
+- Guys, there's "Signal Investigation"!
+- Oh, that was my favorite.
+
+1516
+01:16:00,556 --> 01:16:01,849
+What's all this?
+
+1517
+01:16:03,976 --> 01:16:05,478
+I wanted to try the old games.
+
+1518
+01:16:06,103 --> 01:16:07,855
+It's a worthy investment.
+
+1519
+01:16:07,938 --> 01:16:09,940
+You can get four games out of it.
+
+1520
+01:16:10,524 --> 01:16:11,859
+This looks like fun.
+
+1521
+01:16:11,942 --> 01:16:13,694
+The dice
+for Rotate! Rock, Paper, Scissors.
+
+1522
+01:16:13,986 --> 01:16:15,488
+These cards are for Signal Investigation.
+
+1523
+01:16:17,073 --> 01:16:18,866
+- I wanted to play this.
+- Me too.
+
+1524
+01:16:18,949 --> 01:16:20,785
+These cards are for Pixel Number.
+
+1525
+01:16:20,868 --> 01:16:22,244
+I like that game.
+
+1526
+01:16:22,453 --> 01:16:26,165
+My favorite is Signal Investigation.
+It makes you feel like a detective.
+
+1527
+01:16:26,248 --> 01:16:29,752
+I want to keep one in my student club room
+and play with the members.
+
+1528
+01:16:29,835 --> 01:16:31,796
+"This is the perk
+of having a cast member as your friend."
+
+1529
+01:16:32,088 --> 01:16:33,547
+- I want to get one.
+- What happened?
+
+1530
+01:16:33,631 --> 01:16:34,632
+Did you spill your coffee?
+
+1531
+01:16:34,715 --> 01:16:37,468
+- I said I wanted to buy one.
+- Sorry, I misheard that.
+
+1532
+01:16:40,054 --> 01:16:41,764
+I didn't mess up, okay?
+
+1533
+01:16:41,847 --> 01:16:44,141
+I thought you followed
+in Dong-jae's footsteps.
+
+1534
+01:16:45,935 --> 01:16:48,312
+WHILE WATCHING THE ACE MATCH,
+PRIMALITY TEST
+
+1535
+01:16:50,648 --> 01:16:51,482
+Are you okay?
+
+1536
+01:16:51,565 --> 01:16:53,692
+THIS IS WHAT DONG-YEON MEANT
+BY FOLLOWING IN DONG-JAE'S FOOTSTEPS
+
+1537
+01:16:53,776 --> 01:16:55,069
+You must've been pretty nervous.
+
+1538
+01:16:55,152 --> 01:16:58,614
+Wait. No, I should be okay.
+I doubt that will make the final cut.
+
+1539
+01:17:00,658 --> 01:17:02,910
+I thought someone spilled drinks again.
+
+1540
+01:17:02,993 --> 01:17:04,912
+I'd like to try the games
+when this hits the market.
+
+1541
+01:17:04,995 --> 01:17:07,164
+- I'm going to buy it for real.
+- Same here.
+
+1542
+01:17:07,998 --> 01:17:10,084
+I wonder what kind of game
+they prepared today.
+
+1543
+01:17:12,253 --> 01:17:15,673
+I wonder how the games will be affected
+now that STEM Division is...
+
+1544
+01:17:15,756 --> 01:17:18,092
+- Yes, it's 3 teams against 2 teams.
+- ...missing a team.
+
+1545
+01:17:18,592 --> 01:17:20,177
+To avoid today's Deathmatch,
+
+1546
+01:17:20,261 --> 01:17:21,929
+- our division has to...
+- We must win.
+
+1547
+01:17:22,012 --> 01:17:23,264
+That's for sure.
+
+1548
+01:17:23,347 --> 01:17:25,391
+I really hope
+we beat Medical Division today.
+
+1549
+01:17:25,641 --> 01:17:27,393
+I want that so badly.
+
+1550
+01:17:27,726 --> 01:17:29,436
+Can you handle spatial awareness games?
+
+1551
+01:17:29,520 --> 01:17:30,813
+How about games like Pixel Number?
+
+1552
+01:17:30,896 --> 01:17:33,274
+I can handle any question
+in under 30 seconds.
+
+1553
+01:17:34,900 --> 01:17:36,193
+I love it.
+
+1554
+01:17:36,277 --> 01:17:37,403
+We did calculations yesterday,
+
+1555
+01:17:37,486 --> 01:17:40,322
+so our reasoning or memorization skills
+will be tested today.
+
+1556
+01:17:40,406 --> 01:17:41,615
+Are you good with sequences?
+
+1557
+01:17:41,699 --> 01:17:43,576
+- Of course, I am.
+- What about you?
+
+1558
+01:17:43,659 --> 01:17:45,161
+Why don't I quiz you on sequences?
+
+1559
+01:17:45,244 --> 01:17:49,039
+TEAM YONSEI'S SEQUENCE EXERCISE
+
+1560
+01:17:53,752 --> 01:17:55,171
+I see 9 times 9
+
+1561
+01:17:55,254 --> 01:17:56,463
+and 9 times 7.
+
+1562
+01:17:57,047 --> 01:17:58,883
+That approach will take you a full day.
+
+1563
+01:18:01,635 --> 01:18:02,553
+I'll tell you the answer.
+
+1564
+01:18:02,636 --> 01:18:05,472
+- No, stop!
+- Don't tell us just yet!
+
+1565
+01:18:05,556 --> 01:18:07,349
+How dare you try to feed us answers?
+
+1566
+01:18:08,976 --> 01:18:12,104
+Wait, I see 2, 4, 8, 16, and 32.
+
+1567
+01:18:12,188 --> 01:18:14,106
+- The next should be 64.
+- So the answer is 4.
+
+1568
+01:18:14,607 --> 01:18:18,402
+A SEQUENCE LISTING POWERS OF 2
+IN DOUBLE-DIGIT NUMBERS
+
+1569
+01:18:18,485 --> 01:18:19,653
+It's actually 41.
+
+1570
+01:18:20,946 --> 01:18:22,656
+You're embarrassing us.
+
+1571
+01:18:25,951 --> 01:18:29,663
+Brainpower survival challenge,
+Elite League Season 3.
+
+1572
+01:18:31,248 --> 01:18:33,083
+- Here we go.
+- The surviving teams are as follows.
+
+1573
+01:18:33,292 --> 01:18:38,380
+In Medical Division, Team SNU in Medicine,
+Team Yonsei, and Team SKKU.
+
+1574
+01:18:43,636 --> 01:18:45,888
+In STEM Division, Team SNU in STEM...
+
+1575
+01:18:46,555 --> 01:18:48,307
+- Our survival is a given.
+- Sure.
+
+1576
+01:18:49,767 --> 01:18:51,227
+...and Team KAIST.
+
+1577
+01:18:56,857 --> 01:18:58,734
+They're our polar opposite.
+
+1578
+01:18:59,026 --> 01:18:59,985
+I love Team KAIST's energy.
+
+1579
+01:19:00,277 --> 01:19:01,946
+They're hyped up
+after surviving the Deathmatch.
+
+1580
+01:19:02,238 --> 01:19:03,197
+They'd be super pumped.
+
+1581
+01:19:03,280 --> 01:19:05,032
+Team KAIST returns from hell.
+
+1582
+01:19:05,866 --> 01:19:07,409
+Shoot, my throat hurts.
+
+1583
+01:19:09,370 --> 01:19:13,249
+We intimidated the others,
+but I took some damage in the process.
+
+1584
+01:19:14,166 --> 01:19:17,294
+Today's Ace Selection will test
+
+1585
+01:19:18,128 --> 01:19:20,047
+your reasoning skills.
+
+1586
+01:19:20,130 --> 01:19:21,423
+Reasoning!
+
+1587
+01:19:22,716 --> 01:19:23,842
+Just as you suggested.
+
+1588
+01:19:23,926 --> 01:19:26,512
+The keyword alone doesn't give us
+any hints on the game.
+
+1589
+01:19:26,595 --> 01:19:28,806
+It's easy to guess the calculation games.
+
+1590
+01:19:28,889 --> 01:19:30,683
+But this keyword itself
+requires reasoning skills.
+
+1591
+01:19:30,766 --> 01:19:33,519
+Reasoning games
+may involve numbers like...
+
+1592
+01:19:33,602 --> 01:19:34,979
+Sequence-based questions?
+
+1593
+01:19:35,062 --> 01:19:37,481
+It could be something basic
+like identifying a sequence rule.
+
+1594
+01:19:37,564 --> 01:19:39,275
+Remember that game from Season 1
+
+1595
+01:19:39,358 --> 01:19:41,944
+where a set of sentences stated
+how many numbers were in it?
+
+1596
+01:19:42,319 --> 01:19:43,529
+IN THIS SENTENCE,
+THE NUMBER OF OCCURRENCES
+
+1597
+01:19:43,612 --> 01:19:44,863
+OF THE DIGIT 1 IS X
+OF THE DIGIT 2 IS X...
+
+1598
+01:19:45,239 --> 01:19:47,074
+We may get a similar game today.
+
+1599
+01:19:47,157 --> 01:19:49,952
+We may get a game using logical reasoning
+like back in Season 1.
+
+1600
+01:19:50,035 --> 01:19:52,955
+TEAM SKKU IS MAKING THE SAME GUESS
+AS TEAM SNU IN MEDICINE
+
+1601
+01:19:53,038 --> 01:19:56,208
+I think we'll get something
+similar to that game.
+
+1602
+01:19:56,292 --> 01:19:57,793
+It's that or sequences.
+
+1603
+01:19:57,876 --> 01:19:58,752
+Are you good with that?
+
+1604
+01:19:58,836 --> 01:19:59,878
+- Sequences?
+- Yes.
+
+1605
+01:19:59,962 --> 01:20:02,381
+When it comes to finding rules
+like in past Elite League games,
+
+1606
+01:20:02,464 --> 01:20:04,633
+I'm about as good as anyone.
+
+1607
+01:20:04,717 --> 01:20:06,176
+You're competing today, then.
+
+1608
+01:20:06,468 --> 01:20:08,721
+After all that grumbling,
+he crushed yesterday's game.
+
+1609
+01:20:08,804 --> 01:20:12,808
+If he feels he's as good as anyone,
+that means he has to compete today.
+
+1610
+01:20:12,891 --> 01:20:14,643
+And you, Pikachu.
+
+1611
+01:20:15,060 --> 01:20:16,103
+Go, Pikachu!
+
+1612
+01:20:18,314 --> 01:20:20,316
+I get the feeling
+you're good at reasoning.
+
+1613
+01:20:20,399 --> 01:20:21,525
+Logical reasoning?
+
+1614
+01:20:21,608 --> 01:20:23,193
+It's about time you stepped up, Ji-u.
+
+1615
+01:20:25,446 --> 01:20:27,781
+I think reasoning can be defined
+
+1616
+01:20:27,865 --> 01:20:32,661
+as investigating various possible cases
+to find one fitting answer.
+
+1617
+01:20:32,953 --> 01:20:34,621
+You look especially smart today.
+
+1618
+01:20:34,705 --> 01:20:36,915
+That's the vibe I'm going for.
+
+1619
+01:20:36,999 --> 01:20:38,292
+It's my concept for the day.
+
+1620
+01:20:38,375 --> 01:20:40,377
+I'm saving STEM Division from danger.
+
+1621
+01:20:40,461 --> 01:20:42,796
+We're not in danger yet.
+Why do you keep saying that?
+
+1622
+01:20:42,880 --> 01:20:44,840
+Because my plan today
+is to win the main match.
+
+1623
+01:20:45,341 --> 01:20:46,925
+When we win,
+we'll be free from the dangers.
+
+1624
+01:20:47,009 --> 01:20:49,053
+My plan includes
+Team Yonsei getting eliminated
+
+1625
+01:20:49,136 --> 01:20:51,055
+after a Deathmatch with Team SKKU.
+
+1626
+01:20:51,138 --> 01:20:54,099
+Team Yonsei may get eliminated
+after a face-off with the other Team SNU.
+
+1627
+01:20:54,183 --> 01:20:56,518
+Why do you both say
+Team Yonsei will be gone?
+
+1628
+01:20:57,728 --> 01:20:59,104
+Why regard Team Yonsei as an underdog?
+
+1629
+01:20:59,188 --> 01:21:01,273
+Team SKKU was so impressive yesterday.
+
+1630
+01:21:01,732 --> 01:21:03,942
+By the end of the season,
+
+1631
+01:21:04,026 --> 01:21:06,195
+we'll have to compete
+in games with 3 1-on-1 rounds.
+
+1632
+01:21:06,278 --> 01:21:09,573
+Since our strengths differ,
+I want us to take turns to participate.
+
+1633
+01:21:09,656 --> 01:21:12,034
+Why don't you compete today?
+You said your strength was reasoning.
+
+1634
+01:21:12,117 --> 01:21:13,577
+All right.
+
+1635
+01:21:14,036 --> 01:21:19,249
+Reasoning and spatial awareness
+are the areas I feel most confident in.
+
+1636
+01:21:19,333 --> 01:21:22,753
+Today's Ace Match was reasoning,
+so I thought I had a good shot at it.
+
+1637
+01:21:22,836 --> 01:21:24,296
+That's why I decided to compete.
+
+1638
+01:21:24,380 --> 01:21:26,090
+- Good luck.
+- We'll do our best.
+
+1639
+01:21:26,173 --> 01:21:27,841
+You've got this.
+
+1640
+01:21:28,092 --> 01:21:30,260
+The time for strategy meeting is up.
+
+1641
+01:21:30,344 --> 01:21:33,972
+The contestants
+competing in the Ace Selection,
+
+1642
+01:21:34,056 --> 01:21:35,974
+please gather in the Main Hall.
+
+1643
+01:21:37,059 --> 01:21:40,687
+TEAM SNU IN STEM
+HAN JONG-YUN, SONG MYEONG-SU
+
+1644
+01:21:41,230 --> 01:21:42,064
+Let's go.
+
+1645
+01:21:42,147 --> 01:21:44,400
+TEAM YONSEI
+LEE YUN-BEOM, CHOI A-IN
+
+1646
+01:21:44,483 --> 01:21:47,069
+TEAM SKKU
+KIM DONG-YEON, LEE DONG-JAE
+
+1647
+01:21:47,403 --> 01:21:49,738
+The rosters have changed
+a lot from yesterday.
+
+1648
+01:21:49,822 --> 01:21:52,116
+One thing's for certain.
+They're all yesterday's miners.
+
+1649
+01:21:52,199 --> 01:21:54,451
+TEAM SNU IN MEDICINE
+KIM MIN-SEOK, JOO MIN-SEO
+
+1650
+01:21:54,785 --> 01:21:56,120
+Every team sent their best miners.
+
+1651
+01:21:56,203 --> 01:21:57,746
+TEAM KAIST
+KIM JAE-HAN, KIM JI-U
+
+1652
+01:21:58,163 --> 01:22:00,290
+The second Ace Selection is...
+
+1653
+01:22:03,836 --> 01:22:05,629
+Between the Numbers.
+
+1654
+01:22:07,214 --> 01:22:08,424
+"Between"?
+
+1655
+01:22:08,799 --> 01:22:10,300
+Sequence, right?
+
+1656
+01:22:10,592 --> 01:22:11,844
+In Between the Numbers,
+
+1657
+01:22:11,927 --> 01:22:14,012
+your task is to place the numbers
+in the empty slots
+
+1658
+01:22:14,096 --> 01:22:16,932
+while satisfying all of the conditions.
+
+1659
+01:22:17,015 --> 01:22:19,435
+When you place numbers
+in the example below,
+
+1660
+01:22:19,518 --> 01:22:23,522
+there should be only 1 number
+between the 2 instances of number 1.
+
+1661
+01:22:23,605 --> 01:22:27,443
+There should be 2 numbers
+between the 2 instances of number 2.
+
+1662
+01:22:27,526 --> 01:22:31,405
+Lastly, there should be 3 numbers
+between the 2 instances of number 3.
+
+1663
+01:22:32,656 --> 01:22:35,117
+SAMPLE QUESTION: 2, 3, 1, 2, 1, 3
+ANSWER: 3113
+
+1664
+01:22:37,327 --> 01:22:39,121
+Hey, there was a similar game.
+
+1665
+01:22:39,204 --> 01:22:41,331
+Yes, it's just like Perfect Number.
+
+1666
+01:22:42,082 --> 01:22:45,669
+Season 1 had a similar game
+called Perfect Number.
+
+1667
+01:22:45,752 --> 01:22:50,132
+I remembered solving it very quickly,
+so that boosted my confidence.
+
+1668
+01:22:50,215 --> 01:22:53,802
+This was the type of game I excel at.
+
+1669
+01:22:53,886 --> 01:22:57,973
+I wanted to be my division's Ace player
+and leave a strong impression.
+
+1670
+01:22:58,807 --> 01:23:00,851
+Jae-han's gotten more confident.
+
+1671
+01:23:00,934 --> 01:23:01,894
+I love seeing it.
+
+1672
+01:23:02,352 --> 01:23:03,187
+I trust you, Jae-han.
+
+1673
+01:23:03,270 --> 01:23:05,397
+He's got a great sense of numbers.
+
+1674
+01:23:05,481 --> 01:23:09,109
+We will now begin the Ace Selection,
+Between the Numbers.
+
+1675
+01:23:09,193 --> 01:23:11,236
+Here is your question.
+
+1676
+01:23:14,531 --> 01:23:15,991
+Just a second.
+
+1677
+01:23:16,074 --> 01:23:17,659
+BETWEEN 1 AND 1, THERE IS 1 NUMBER
+
+1678
+01:23:17,743 --> 01:23:19,161
+BETWEEN 2 AND 2, THERE ARE 2 NUMBERS
+
+1679
+01:23:19,244 --> 01:23:20,829
+BETWEEN 3 AND 3, THERE ARE 3 NUMBERS
+
+1680
+01:23:20,913 --> 01:23:22,122
+BETWEEN 4 AND 4, THERE ARE 4 NUMBERS
+
+1681
+01:23:22,206 --> 01:23:23,415
+BETWEEN 5 AND 5, THERE ARE 5 NUMBERS
+
+1682
+01:23:23,499 --> 01:23:24,666
+BETWEEN 6 AND 6, THERE ARE 6 NUMBERS
+
+1683
+01:23:24,750 --> 01:23:25,876
+BETWEEN 7 AND 7, THERE ARE 7 NUMBERS
+
+1684
+01:23:26,668 --> 01:23:29,463
+That's tricky.
+
+1685
+01:23:36,512 --> 01:23:38,347
+It's difficult.
+
+1686
+01:23:44,811 --> 01:23:47,773
+We have to start from the condition
+with the least possible cases.
+
+1687
+01:23:48,232 --> 01:23:52,361
+There were only a few spots
+where we could use 7 or 5.
+
+1688
+01:23:52,903 --> 01:23:55,531
+I started shifting the sevens
+to look for my answer.
+
+1689
+01:23:55,614 --> 01:24:00,327
+Now that I know where the 7s go,
+I need to place the 5s.
+
+1690
+01:24:00,786 --> 01:24:02,496
+You should start with the sevens.
+
+1691
+01:24:02,579 --> 01:24:04,581
+Frankly, there aren't so many options.
+
+1692
+01:24:04,957 --> 01:24:07,918
+The first 7 can only go
+in the first 3 slots...
+
+1693
+01:24:08,001 --> 01:24:11,088
+If the first number seven is placed
+in the highlighted slot,
+
+1694
+01:24:11,171 --> 01:24:13,840
+the next number seven has to go
+in the next highlighted slot.
+
+1695
+01:24:13,924 --> 01:24:16,510
+But since six already occupies it,
+
+1696
+01:24:16,593 --> 01:24:20,556
+the first number seven
+can't be placed in this slot.
+
+1697
+01:24:20,639 --> 01:24:23,517
+As such, the first number seven
+can only be placed
+
+1698
+01:24:23,600 --> 01:24:25,727
+in one of the three colored slots.
+
+1699
+01:24:25,811 --> 01:24:27,187
+Using this method,
+
+1700
+01:24:27,271 --> 01:24:30,857
+examine the possible cases
+starting from the bigger numbers
+
+1701
+01:24:30,941 --> 01:24:34,152
+to narrow down the options
+and find the answer.
+
+1702
+01:24:34,653 --> 01:24:37,364
+I think you've got to place
+the bigger numbers first.
+
+1703
+01:24:37,447 --> 01:24:40,075
+It's best to keep
+the smaller numbers until the end.
+
+1704
+01:24:40,158 --> 01:24:42,661
+There's no room for guesswork.
+You must use logic all the way
+
+1705
+01:24:42,744 --> 01:24:45,205
+to determine the slots
+for numbers 7 and 5.
+
+1706
+01:24:45,289 --> 01:24:48,125
+Once you finish examining
+all the possible cases,
+
+1707
+01:24:48,208 --> 01:24:50,544
+you will see that those are the only slots
+for numbers 5 and 7.
+
+1708
+01:24:59,678 --> 01:25:01,638
+But they can only use mental math.
+
+1709
+01:25:01,722 --> 01:25:03,682
+Right, they can't make notes.
+
+1710
+01:25:03,765 --> 01:25:06,059
+They can only type in the answer.
+
+1711
+01:25:06,143 --> 01:25:08,186
+Cracking all that in your mind
+won't be so easy.
+
+1712
+01:25:09,521 --> 01:25:11,398
+It was very challenging
+
+1713
+01:25:11,481 --> 01:25:14,693
+to count the squares by sight
+without being able to take notes.
+
+1714
+01:25:16,486 --> 01:25:18,780
+Initially, I thought
+this was a piece of cake.
+
+1715
+01:25:20,073 --> 01:25:21,950
+I realized it was more difficult
+than I had thought.
+
+1716
+01:25:24,786 --> 01:25:27,247
+It's confusing to solve this
+relying on your memory.
+
+1717
+01:25:27,331 --> 01:25:30,125
+Please get it, guys.
+Let's go, Team Yonsei.
+
+1718
+01:25:30,208 --> 01:25:32,878
+We'll secure the benefit,
+win the main match,
+
+1719
+01:25:33,837 --> 01:25:36,131
+and avoid the Deathmatch.
+
+1720
+01:25:45,390 --> 01:25:46,391
+Three...
+
+1721
+01:25:51,021 --> 01:25:52,022
+One contestant submitted
+
+1722
+01:25:52,105 --> 01:25:54,650
+the correct answer
+for Between the Numbers.
+
+1723
+01:25:54,733 --> 01:25:55,859
+Did someone solve it?
+
+1724
+01:25:57,861 --> 01:25:59,863
+You've got this, Jae-han and Ji-u.
+
+1725
+01:26:00,238 --> 01:26:01,823
+Medical Division's Ace player is...
+
+1726
+01:26:06,411 --> 01:26:08,080
+Team Yonsei's Choi A-in.
+
+1727
+01:26:10,374 --> 01:26:13,168
+- Yes, that's what I'm talking about!
+- What's with A-in?
+
+1728
+01:26:13,502 --> 01:26:15,212
+That's exactly what I wanted!
+
+1729
+01:26:15,295 --> 01:26:18,507
+MEDICAL DIVISION'S ACE PLAYER:
+TEAM YONSEI, CHOI A-IN
+
+1730
+01:26:21,551 --> 01:26:24,179
+I placed second in the pre-test.
+
+1731
+01:26:24,262 --> 01:26:26,973
+I felt great
+when I heard that I got it right.
+
+1732
+01:26:27,057 --> 01:26:30,352
+I concluded that reasoning
+was my strength, just as I thought.
+
+1733
+01:26:31,061 --> 01:26:34,064
+I think I'll remember the answer
+until my dying day.
+
+1734
+01:26:35,107 --> 01:26:37,275
+- She's good.
+- I see that.
+
+1735
+01:26:37,693 --> 01:26:39,486
+As expected
+of a Sejong Science High valedictorian.
+
+1736
+01:26:39,569 --> 01:26:40,737
+- Exactly.
+- Yeah.
+
+1737
+01:26:40,821 --> 01:26:43,323
+Dong-jae believes Sang-yeon
+is Team Yonsei's central figure.
+
+1738
+01:26:43,532 --> 01:26:45,450
+He does lead the group, actually.
+
+1739
+01:26:45,701 --> 01:26:47,244
+- He has the experience.
+- Yes.
+
+1740
+01:26:47,327 --> 01:26:50,622
+I think Sang-yeon lacks flexibility.
+But A-in is flexible.
+
+1741
+01:26:50,706 --> 01:26:54,960
+- Really?
+- I actually see her as more of a threat.
+
+1742
+01:26:55,043 --> 01:26:57,421
+- We'll have to defeat her in the end.
+- That's right.
+
+1743
+01:26:57,921 --> 01:27:01,883
+STEM DIVISION DOESN'T HAVE
+AN ACE PLAYER YET
+
+1744
+01:27:04,386 --> 01:27:05,762
+STEM people haven't solved it yet.
+
+1745
+01:27:05,846 --> 01:27:07,055
+Yes, they're still working on it.
+
+1746
+01:27:07,139 --> 01:27:07,973
+We crushed them.
+
+1747
+01:27:08,056 --> 01:27:09,558
+- It's a landslide.
+- For sure.
+
+1748
+01:27:09,641 --> 01:27:12,394
+- I'm sending a mental message.
+- They wouldn't remember it, though.
+
+1749
+01:27:12,477 --> 01:27:14,938
+- Three, seven...
+- They'd go, "Come again"?
+
+1750
+01:27:15,021 --> 01:27:16,523
+I wonder who'll get it first.
+
+1751
+01:27:16,606 --> 01:27:18,024
+I want our guys to show our strength.
+
+1752
+01:27:18,608 --> 01:27:21,486
+My gut says Jong-yun will do that.
+
+1753
+01:27:28,368 --> 01:27:30,287
+STEM Division's Ace player is...
+
+1754
+01:27:30,370 --> 01:27:32,748
+STEM DIVISION'S ACE PLAYER
+
+1755
+01:27:32,831 --> 01:27:33,915
+...Team SNU's...
+
+1756
+01:27:34,708 --> 01:27:36,168
+Oh, shoot.
+
+1757
+01:27:40,088 --> 01:27:41,631
+...Song Myeong-su.
+
+1758
+01:27:43,341 --> 01:27:44,593
+- All right.
+- Great.
+
+1759
+01:27:44,676 --> 01:27:46,219
+STEM DIVISION'S ACE PLAYER:
+TEAM SNU IN STEM, SONG MYEONG-SU
+
+1760
+01:27:47,512 --> 01:27:49,598
+Logical reasoning
+has always been one of my strengths.
+
+1761
+01:27:49,681 --> 01:27:53,810
+I thought that if I could keep it up,
+I could secure the benefit as well.
+
+1762
+01:27:54,186 --> 01:27:55,854
+Here's your answer.
+
+1763
+01:27:58,607 --> 01:28:00,859
+That concludes the Ace Selection.
+
+1764
+01:28:01,485 --> 01:28:03,487
+Good luck on the Ace Match.
+
+1765
+01:28:03,779 --> 01:28:06,198
+I'll get us the benefit.
+
+1766
+01:28:06,907 --> 01:28:08,742
+I ranked higher than Myeong-su
+in the pre-test,
+
+1767
+01:28:08,825 --> 01:28:10,285
+and I noticed how long it took him.
+
+1768
+01:28:10,368 --> 01:28:14,664
+I felt good about my chances
+of defeating him in the Ace Match.
+
+1769
+01:28:14,748 --> 01:28:18,126
+The pre-test and the games
+were entirely different matters.
+
+1770
+01:28:18,210 --> 01:28:20,420
+I wasn't worried. I felt pretty confident.
+
+1771
+01:28:21,880 --> 01:28:24,800
+We will now begin the Ace Match,
+Three-way Divide.
+
+1772
+01:28:25,258 --> 01:28:26,760
+The game involves the Korean alphabet.
+
+1773
+01:28:26,843 --> 01:28:28,386
+Man, that looks like a blast!
+
+1774
+01:28:28,720 --> 01:28:30,764
+That's an inhuman speed. It's outrageous.
+
+1775
+01:28:32,307 --> 01:28:33,308
+Team SNU's Song Myeong-su.
+
+1776
+01:28:33,725 --> 01:28:36,019
+I'm getting a dopamine rush.
+
+1777
+01:28:36,102 --> 01:28:37,729
+I never fall apart.
+
+1778
+01:28:38,647 --> 01:28:40,148
+Team Yonsei's Choi A-in.
+
+1779
+01:28:40,232 --> 01:28:41,274
+That is correct.
+
+1780
+01:28:41,358 --> 01:28:42,776
+Way to go, A-in!
+
+1781
+01:28:42,859 --> 01:28:44,277
+Today's main match is...
+
+1782
+01:28:45,195 --> 01:28:47,239
+Exit Strategy 3.
+
+1783
+01:28:47,322 --> 01:28:48,406
+What does the hunter do?
+
+1784
+01:28:48,490 --> 01:28:49,491
+Can they remove a piece?
+
+1785
+01:28:49,574 --> 01:28:50,826
+Let's take this.
+
+1786
+01:28:50,909 --> 01:28:52,118
+This is a sure way to win.
+
+1787
+01:28:52,202 --> 01:28:53,370
+We don't need to get intimidated.
+
+1788
+01:28:53,453 --> 01:28:55,372
+This will be our main battleground.
+
+1789
+01:28:55,455 --> 01:28:57,707
+We achieved our goal,
+and they took the bait.
+
+1790
+01:29:40,417 --> 01:29:42,419
+Subtitle translation by Jeongwoo Kim
