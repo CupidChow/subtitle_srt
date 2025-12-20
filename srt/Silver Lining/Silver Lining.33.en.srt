@@ -1,0 +1,1443 @@
+1
+00:00:32,640 --> 00:00:34,880
+Wang Yuya
+
+2
+00:00:53,880 --> 00:00:54,280
+POLICE
+
+3
+00:01:02,640 --> 00:01:03,500
+Just go inside.
+
+4
+00:01:06,200 --> 00:01:07,160
+What's wrong, sir?
+
+5
+00:01:07,160 --> 00:01:08,420
+Did something happen?
+
+6
+00:01:09,400 --> 00:01:10,730
+Let me help you up first.
+
+7
+00:01:12,000 --> 00:01:12,680
+It's okay.
+
+8
+00:01:12,680 --> 00:01:14,210
+We can talk about it inside.
+
+9
+00:01:16,720 --> 00:01:18,050
+Let me take you in first.
+
+10
+00:01:21,120 --> 00:01:22,120
+Take it slow, sir.
+
+11
+00:01:22,720 --> 00:01:23,980
+Let's get you up first.
+
+12
+00:01:25,520 --> 00:01:26,580
+We can talk inside.
+
+13
+00:01:28,440 --> 00:01:29,440
+Let me help you up.
+
+14
+00:01:31,680 --> 00:01:32,360
+Come on.
+
+15
+00:01:56,240 --> 00:01:57,360
+Sir, let's go.
+
+16
+00:01:57,560 --> 00:01:58,620
+We can talk inside.
+
+17
+00:02:02,960 --> 00:02:03,600
+Sir.
+
+18
+00:02:04,960 --> 00:02:05,720
+Take it slow.
+
+19
+00:02:21,680 --> 00:02:22,800
+I've fulfilled
+
+20
+00:02:23,040 --> 00:02:24,570
+everything I promised you.
+
+21
+00:02:25,880 --> 00:02:27,120
+So where's my array?
+
+22
+00:02:29,400 --> 00:02:30,460
+Listen carefully.
+
+23
+00:02:31,240 --> 00:02:32,170
+The sequence is:
+
+24
+00:02:35,000 --> 00:02:35,840
+25,
+
+25
+00:02:36,680 --> 00:02:37,480
+14,
+
+26
+00:02:38,200 --> 00:02:39,000
+12,
+
+27
+00:02:39,680 --> 00:02:40,480
+14,
+
+28
+00:02:41,240 --> 00:02:42,120
+25,
+
+29
+00:02:44,840 --> 00:02:45,640
+12.
+
+30
+00:03:01,080 --> 00:03:01,680
+We consulted with several
+
+31
+00:03:01,680 --> 00:03:03,880
+international cryptography experts to decode it.
+
+32
+00:03:03,880 --> 00:03:06,010
+We calculated over a dozen solutions.
+
+33
+00:03:06,320 --> 00:03:08,560
+At first we thought Chi Xia had deceived us.
+
+34
+00:03:08,560 --> 00:03:09,640
+We almost gave up.
+
+35
+00:03:09,880 --> 00:03:10,810
+But eventually,
+
+36
+00:03:11,040 --> 00:03:12,520
+we were able to derive
+
+37
+00:03:12,960 --> 00:03:15,220
+these English letters from the numbers.
+
+38
+00:03:15,680 --> 00:03:17,280
+We originally had three numbers
+
+39
+00:03:17,280 --> 00:03:20,079
+corresponding to three letters in the master key.
+
+40
+00:03:22,040 --> 00:03:23,720
+Now we have the complete sequence.
+
+41
+00:03:23,720 --> 00:03:25,120
+And the order is correct.
+
+42
+00:03:25,440 --> 00:03:26,600
+We've finally obtained
+
+43
+00:03:26,600 --> 00:03:29,360
+the corresponding eight-letter combination.
+
+44
+00:03:29,920 --> 00:03:32,579
+These combinations took considerable effort.
+
+45
+00:03:32,720 --> 00:03:34,440
+But hard work pays off.
+
+46
+00:03:34,680 --> 00:03:36,280
+Some parts do match up.
+
+47
+00:03:36,480 --> 00:03:37,640
+It seems that Chi Xia
+
+48
+00:03:38,280 --> 00:03:39,200
+wasn't lying.
+
+49
+00:03:41,600 --> 00:03:42,530
+This address...
+
+50
+00:03:43,160 --> 00:03:44,420
+Should we tell Chi Xia?
+
+51
+00:03:45,640 --> 00:03:46,770
+Of course we should.
+
+52
+00:03:47,440 --> 00:03:49,120
+The key is how we tell her.
+
+53
+00:03:51,360 --> 00:03:53,800
+You mean give her a fake address
+
+54
+00:03:53,800 --> 00:03:56,600
+to see if she passes the information to the police?
+
+55
+00:03:57,200 --> 00:04:01,000
+You suspect there's something fishy about her being wanted by police?
+
+56
+00:04:01,000 --> 00:04:02,530
+We can't let our guard down.
+
+57
+00:04:05,320 --> 00:04:05,880
+Tomorrow,
+
+58
+00:04:05,880 --> 00:04:06,760
+6 PM,
+
+59
+00:04:06,760 --> 00:04:07,680
+Lizang Museum.
+
+60
+00:04:12,000 --> 00:04:12,920
+Your phone.
+
+61
+00:04:13,960 --> 00:04:15,160
+You're not going there.
+
+62
+00:04:15,160 --> 00:04:16,360
+Old K has a job for you.
+
+63
+00:04:17,839 --> 00:04:18,519
+What job?
+
+64
+00:04:18,640 --> 00:04:20,100
+It's also tomorrow at 6 PM.
+
+65
+00:04:20,160 --> 00:04:21,440
+You'll represent Lawa Village
+
+66
+00:04:21,440 --> 00:04:23,960
+and go with the Kote Group to Lilong Hotel at the border.
+
+67
+00:04:23,960 --> 00:04:24,880
+Negotiate with the pharmacist
+
+68
+00:04:24,880 --> 00:04:26,010
+and bring them back.
+
+69
+00:04:26,280 --> 00:04:27,610
+Who is this pharmacist?
+
+70
+00:04:27,960 --> 00:04:29,840
+Don't ask questions you shouldn't.
+
+71
+00:04:29,840 --> 00:04:30,720
+If I were you,
+
+72
+00:04:31,400 --> 00:04:33,640
+I'd make sure tomorrow's mission goes smoothly.
+
+73
+00:04:33,640 --> 00:04:35,970
+This is the last chance Old K is giving you.
+
+74
+00:04:36,120 --> 00:04:37,380
+Don't disappoint him.
+
+75
+00:04:37,760 --> 00:04:38,760
+If anything goes wrong,
+
+76
+00:04:38,760 --> 00:04:40,220
+you'll be the first to die.
+
+77
+00:04:46,280 --> 00:04:48,680
+Old K can't afford to offend the Kert Group.
+
+78
+00:04:48,800 --> 00:04:49,960
+Whatever demands they make,
+
+79
+00:04:49,960 --> 00:04:50,920
+he can't refuse.
+
+80
+00:04:51,920 --> 00:04:53,920
+So this is his test for me, right?
+
+81
+00:04:55,920 --> 00:04:57,120
+He's really got guts.
+
+82
+00:04:57,400 --> 00:04:58,730
+He signed the contract.
+
+83
+00:04:59,000 --> 00:05:01,400
+If we can't deliver by the 8th of next month,
+
+84
+00:05:01,680 --> 00:05:03,140
+none of us will have peace.
+
+85
+00:05:04,280 --> 00:05:05,080
+Maybe
+
+86
+00:05:05,840 --> 00:05:08,370
+he thinks we're already at the end of our rope.
+
+87
+00:05:12,560 --> 00:05:14,360
+Take care of yourself tomorrow.
+
+88
+00:05:30,680 --> 00:05:31,210
+Let's go.
+
+89
+00:05:31,600 --> 00:05:32,600
+Everything is ready.
+
+90
+00:05:32,600 --> 00:05:33,330
+Don't worry.
+
+91
+00:05:33,600 --> 00:05:34,120
+We've arranged everything.
+
+92
+00:05:34,120 --> 00:05:34,580
+Come on.
+
+93
+00:05:39,120 --> 00:05:41,240
+The vehicles and personnel back home are all arranged.
+
+94
+00:05:41,240 --> 00:05:42,440
+All reliable guys.
+
+95
+00:05:44,640 --> 00:05:45,440
+Let's go.
+
+96
+00:05:52,520 --> 00:05:53,760
+We should get going too.
+
+97
+00:05:53,760 --> 00:05:54,760
+Follow that car.
+
+98
+00:05:56,480 --> 00:05:57,880
+Aren't we going to the Lizang Museum?
+
+99
+00:05:57,880 --> 00:06:00,140
+Why are we also going to the Lilong Hotel?
+
+100
+00:06:00,680 --> 00:06:02,810
+Who said Chi Xia was going to the hotel?
+
+101
+00:06:08,960 --> 00:06:09,760
+Chief Chang,
+
+102
+00:06:09,760 --> 00:06:12,490
+Old K's gang has officially entered the country.
+
+103
+00:06:13,520 --> 00:06:14,320
+Good.
+
+104
+00:06:15,600 --> 00:06:16,530
+Notify all teams
+
+105
+00:06:16,640 --> 00:06:17,900
+to proceed as planned.
+
+106
+00:06:18,440 --> 00:06:19,100
+Roger that.
+
+107
+00:06:24,560 --> 00:06:25,360
+I see.
+
+108
+00:06:29,800 --> 00:06:30,640
+These cops
+
+109
+00:06:30,640 --> 00:06:32,000
+are so naive.
+
+110
+00:06:33,640 --> 00:06:35,640
+They've surrounded the museum as expected.
+
+111
+00:06:35,640 --> 00:06:36,560
+Without fail,
+
+112
+00:06:37,720 --> 00:06:40,320
+we'll be getting a call from Lilong Hotel soon.
+
+113
+00:06:40,720 --> 00:06:41,720
+That little fox
+
+114
+00:06:42,520 --> 00:06:43,850
+still can't be trusted.
+
+115
+00:06:49,720 --> 00:06:50,520
+Don't worry.
+
+116
+00:06:51,600 --> 00:06:53,330
+I'm in no hurry to deal with her.
+
+117
+00:06:53,640 --> 00:06:54,920
+She still has her uses.
+
+118
+00:07:34,040 --> 00:07:35,440
+Unbelievable, isn't it?
+
+119
+00:07:36,360 --> 00:07:37,200
+Little fox.
+
+120
+00:07:38,000 --> 00:07:39,330
+You're still too green.
+
+121
+00:07:40,000 --> 00:07:42,080
+Think about your police partners
+
+122
+00:07:42,440 --> 00:07:44,320
+finding nothing at the Lizang Museum
+
+123
+00:07:44,320 --> 00:07:46,159
+and the Lilong Hotel.
+
+124
+00:07:46,159 --> 00:07:47,890
+Their frustrated expressions
+
+125
+00:07:49,280 --> 00:07:50,320
+make me laugh.
+
+126
+00:07:53,320 --> 00:07:54,760
+Have someone secure the perimeter.
+
+127
+00:07:54,760 --> 00:07:55,840
+Don't be too obvious.
+
+128
+00:07:55,840 --> 00:07:56,560
+Yes.
+
+129
+00:07:56,800 --> 00:07:57,520
+You three,
+
+130
+00:07:59,400 --> 00:08:00,640
+go get the coded box.
+
+131
+00:08:01,360 --> 00:08:02,160
+Okay.
+
+132
+00:08:12,520 --> 00:08:13,320
+This one
+
+133
+00:08:41,520 --> 00:08:42,159
+is found.
+
+134
+00:08:49,200 --> 00:08:50,000
+Tell me.
+
+135
+00:08:51,840 --> 00:08:53,960
+Even if this thing falls into the police's hands,
+
+136
+00:08:53,960 --> 00:08:55,160
+what good would it do?
+
+137
+00:08:56,080 --> 00:08:56,880
+The password
+
+138
+00:08:57,080 --> 00:08:58,140
+is only known to me.
+
+139
+00:08:58,360 --> 00:08:59,760
+What do you want me to say?
+
+140
+00:09:00,560 --> 00:09:02,620
+Praise you for being so calculating?
+
+141
+00:09:04,240 --> 00:09:05,160
+It's a game.
+
+142
+00:09:06,400 --> 00:09:08,280
+There are naturally wins and losses.
+
+143
+00:09:08,280 --> 00:09:09,480
+Don't be a sore loser.
+
+144
+00:09:10,280 --> 00:09:11,960
+You've spent so much time
+
+145
+00:09:12,480 --> 00:09:14,210
+looking for this password box.
+
+146
+00:09:15,040 --> 00:09:15,840
+Why not
+
+147
+00:09:17,120 --> 00:09:18,360
+verify it with me?
+
+148
+00:09:42,120 --> 00:09:43,200
+What a pity.
+
+149
+00:09:44,160 --> 00:09:45,400
+Just one move away.
+
+150
+00:10:03,720 --> 00:10:04,520
+Officer Chi.
+
+151
+00:10:06,560 --> 00:10:07,960
+Are you here to see Mr. Qu?
+
+152
+00:10:08,280 --> 00:10:08,920
+Yes.
+
+153
+00:10:09,200 --> 00:10:10,120
+He's not here.
+
+154
+00:10:10,720 --> 00:10:11,520
+Also,
+
+155
+00:10:11,520 --> 00:10:13,840
+we're selling this place to someone else.
+
+156
+00:10:13,840 --> 00:10:14,680
+Why?
+
+157
+00:10:14,880 --> 00:10:16,520
+We're developing some new business
+
+158
+00:10:16,520 --> 00:10:19,580
+and don't want to spend time on this boxing gym anymore.
+
+159
+00:10:21,360 --> 00:10:22,040
+By the way,
+
+160
+00:10:22,040 --> 00:10:23,440
+you came at the right time.
+
+161
+00:10:23,440 --> 00:10:25,320
+He said you left some things here
+
+162
+00:10:25,480 --> 00:10:27,480
+and he put them in the locker for you.
+
+163
+00:10:27,480 --> 00:10:28,600
+The password is
+
+164
+00:11:09,960 --> 00:11:10,760
+Yesterday
+
+165
+00:11:11,080 --> 00:11:12,610
+someone broke into my home.
+
+166
+00:11:13,440 --> 00:11:15,880
+The photo on my desk was moved.
+
+167
+00:11:16,200 --> 00:11:18,720
+Someone went through my diary on the bookshelf.
+
+168
+00:11:18,720 --> 00:11:20,560
+The bookmark was in a different place.
+
+169
+00:11:20,560 --> 00:11:21,240
+Yesterday?
+
+170
+00:11:21,960 --> 00:11:22,360
+Yes.
+
+171
+00:11:23,080 --> 00:11:25,600
+I think it happened when we went to see Tu Guo'an.
+
+172
+00:11:25,600 --> 00:11:27,800
+I suspect they were after the data array.
+
+173
+00:11:27,800 --> 00:11:28,520
+Also,
+
+174
+00:11:28,800 --> 00:11:31,160
+Qu Bai is selling his boxing gym.
+
+175
+00:11:31,400 --> 00:11:33,360
+They say there's new business coming.
+
+176
+00:11:33,360 --> 00:11:34,560
+This new business,
+
+177
+00:11:34,840 --> 00:11:37,120
+could it be methcathinone?
+
+178
+00:11:39,000 --> 00:11:39,960
+I think so.
+
+179
+00:11:41,720 --> 00:11:43,240
+They don't even have the formula yet.
+
+180
+00:11:43,240 --> 00:11:45,280
+They're in such a hurry to start this new business.
+
+181
+00:11:45,280 --> 00:11:47,800
+Seems like this Old K is pretty confident.
+
+182
+00:11:54,960 --> 00:11:55,840
+He believes
+
+183
+00:11:56,480 --> 00:11:57,920
+once he gets the data array,
+
+184
+00:11:57,920 --> 00:11:59,120
+he can locate the place.
+
+185
+00:11:59,120 --> 00:12:00,440
+Does that mean
+
+186
+00:12:00,640 --> 00:12:02,840
+he already has
+
+187
+00:12:02,880 --> 00:12:05,010
+the cipher key to decode the location?
+
+188
+00:12:09,280 --> 00:12:10,080
+Chief Chang.
+
+189
+00:12:12,960 --> 00:12:13,920
+My parents' case
+
+190
+00:12:14,200 --> 00:12:15,560
+and this criminal organization's case
+
+191
+00:12:15,560 --> 00:12:16,600
+are both closely connected to me.
+
+192
+00:12:16,600 --> 00:12:17,320
+So
+
+193
+00:12:17,600 --> 00:12:19,000
+I should recuse myself.
+
+194
+00:12:22,160 --> 00:12:22,960
+Wait.
+
+195
+00:12:22,960 --> 00:12:23,760
+Listen to me.
+
+196
+00:12:24,440 --> 00:12:26,040
+Following Tu Guo'an's lead,
+
+197
+00:12:26,320 --> 00:12:28,520
+we've confirmed that Chi Xiao is indeed guilty.
+
+198
+00:12:28,520 --> 00:12:30,120
+She's the mastermind behind six murder cases,
+
+199
+00:12:30,120 --> 00:12:32,400
+including Chi Xia's parents' case,
+
+200
+00:12:32,440 --> 00:12:34,800
+and she was also involved in their execution.
+
+201
+00:12:34,800 --> 00:12:35,640
+This Old K
+
+202
+00:12:35,800 --> 00:12:37,240
+went to extreme lengths
+
+203
+00:12:37,240 --> 00:12:38,560
+to trigger Chi Xia's memory
+
+204
+00:12:38,560 --> 00:12:40,280
+and obtain the formula.
+
+205
+00:12:40,280 --> 00:12:41,160
+He repeatedly manipulated
+
+206
+00:12:41,160 --> 00:12:42,960
+and created the vigilante case.
+
+207
+00:12:45,200 --> 00:12:46,000
+Chief Chang.
+
+208
+00:12:46,720 --> 00:12:47,280
+If...
+
+209
+00:12:47,920 --> 00:12:48,920
+I mean, what if
+
+210
+00:12:50,040 --> 00:12:51,920
+Chi Xia had also chosen violence
+
+211
+00:12:52,800 --> 00:12:53,930
+and killed Chi Xiao?
+
+212
+00:13:01,760 --> 00:13:02,560
+Go on.
+
+213
+00:13:04,160 --> 00:13:04,840
+Of course.
+
+214
+00:13:05,280 --> 00:13:06,960
+We're not actually having Chi Xia kill anyone.
+
+215
+00:13:06,960 --> 00:13:08,000
+Instead, we're going to stage
+
+216
+00:13:08,000 --> 00:13:10,040
+a scenario where Chi Xia kills Chi Xiao.
+
+217
+00:13:10,040 --> 00:13:11,080
+This way,
+
+218
+00:13:11,080 --> 00:13:14,280
+Chi Xia will be placed in a completely isolated position.
+
+219
+00:13:14,320 --> 00:13:15,640
+Under these circumstances,
+
+220
+00:13:15,640 --> 00:13:17,440
+Old K will definitely reach out to Chi Xia,
+
+221
+00:13:17,440 --> 00:13:19,280
+who has both the array data
+
+222
+00:13:19,280 --> 00:13:21,210
+and has turned against the police.
+
+223
+00:13:21,640 --> 00:13:24,100
+Chi Xia can then extract the master password
+
+224
+00:13:24,240 --> 00:13:25,840
+and figure out the location.
+
+225
+00:13:26,080 --> 00:13:26,720
+This way,
+
+226
+00:13:26,960 --> 00:13:27,720
+our people
+
+227
+00:13:27,720 --> 00:13:30,380
+can set up surveillance at the scene in advance.
+
+228
+00:13:30,480 --> 00:13:31,160
+Finally,
+
+229
+00:13:31,520 --> 00:13:33,380
+we've got them like rats in a trap.
+
+230
+00:13:37,520 --> 00:13:38,200
+All contacts are in place.
+
+231
+00:13:38,200 --> 00:13:39,400
+Are all teams ready?
+
+232
+00:13:39,400 --> 00:13:40,200
+Ready.
+
+233
+00:13:45,160 --> 00:13:45,890
+Captain Luo,
+
+234
+00:13:46,200 --> 00:13:47,000
+our man is back.
+
+235
+00:13:47,000 --> 00:13:47,560
+Good.
+
+236
+00:13:48,040 --> 00:13:49,840
+Find an opportunity to expose yourself.
+
+237
+00:13:49,840 --> 00:13:50,360
+Okay,
+
+238
+00:13:50,360 --> 00:13:51,080
+no problem.
+
+239
+00:13:52,720 --> 00:13:53,200
+Brother,
+
+240
+00:13:53,200 --> 00:13:54,120
+put Curly
+
+241
+00:13:54,120 --> 00:13:55,360
+at the truck parking spot later.
+
+242
+00:13:55,360 --> 00:13:57,200
+Chi Xia will coordinate with us from the office.
+
+243
+00:13:57,200 --> 00:13:58,080
+Cao Bin has confirmed
+
+244
+00:13:58,080 --> 00:13:59,360
+that Chi Xiao is at his hideout.
+
+245
+00:13:59,360 --> 00:14:00,560
+We can proceed with the arrest.
+
+246
+00:14:00,560 --> 00:14:01,440
+Notify all teams
+
+247
+00:14:01,440 --> 00:14:02,040
+to move in.
+
+248
+00:14:02,120 --> 00:14:02,560
+Got it.
+
+249
+00:14:04,880 --> 00:14:05,610
+Captain Luo.
+
+250
+00:14:06,520 --> 00:14:08,760
+Chi Xiao must have noticed she's being followed.
+
+251
+00:14:08,760 --> 00:14:10,090
+She's driving away now.
+
+252
+00:14:10,320 --> 00:14:11,120
+I'm tailing her.
+
+253
+00:14:11,120 --> 00:14:11,600
+Cao Bin.
+
+254
+00:14:12,080 --> 00:14:13,680
+Keep your car closer to hers.
+
+255
+00:14:13,920 --> 00:14:15,600
+Let Chi Xiao clearly notice it.
+
+256
+00:14:15,600 --> 00:14:16,200
+Copy that.
+
+257
+00:14:22,960 --> 00:14:23,440
+Curly.
+
+258
+00:14:23,760 --> 00:14:25,320
+Have you reached the designated position?
+
+259
+00:14:25,320 --> 00:14:26,000
+Almost there.
+
+260
+00:14:26,000 --> 00:14:27,080
+Almost there, Captain Luo.
+
+261
+00:14:27,080 --> 00:14:27,800
+Chi Xia.
+
+262
+00:14:28,640 --> 00:14:30,600
+You can go to the abandoned building now.
+
+263
+00:14:30,600 --> 00:14:32,520
+I've already set up the surveillance there.
+
+264
+00:14:32,520 --> 00:14:33,320
+They're all disguised
+
+265
+00:14:33,320 --> 00:14:35,240
+as civilian cameras for monitoring forest fires.
+
+266
+00:14:35,240 --> 00:14:36,520
+They'll definitely capture everything.
+
+267
+00:14:36,520 --> 00:14:37,320
+No problem.
+
+268
+00:14:39,080 --> 00:14:39,760
+I'll go ahead then.
+
+269
+00:14:39,760 --> 00:14:40,520
+Be careful.
+
+270
+00:14:41,960 --> 00:14:42,560
+Let's go.
+
+271
+00:14:53,360 --> 00:14:54,000
+Curly.
+
+272
+00:14:54,000 --> 00:14:55,040
+Are you ready on your end?
+
+273
+00:14:55,040 --> 00:14:55,840
+All set.
+
+274
+00:14:56,440 --> 00:14:57,840
+Remove the police light.
+
+275
+00:14:59,080 --> 00:14:59,480
+Curly.
+
+276
+00:14:59,600 --> 00:15:00,200
+Get ready.
+
+277
+00:15:01,920 --> 00:15:02,920
+Let's go, driver.
+
+278
+00:15:09,680 --> 00:15:10,480
+Dong E·C4757.
+
+279
+00:15:12,320 --> 00:15:13,040
+Captain Luo.
+
+280
+00:15:13,040 --> 00:15:14,700
+The target has taken the bait.
+
+281
+00:15:14,800 --> 00:15:15,360
+Chi Xia.
+
+282
+00:15:15,960 --> 00:15:17,020
+It's your turn now.
+
+283
+00:15:44,240 --> 00:15:44,760
+Captain Luo.
+
+284
+00:15:44,760 --> 00:15:46,220
+The target has moved past.
+
+285
+00:15:54,040 --> 00:15:54,880
+Captain Luo.
+
+286
+00:15:54,880 --> 00:15:55,960
+I'm following Chi Xiao now.
+
+287
+00:15:55,960 --> 00:15:57,690
+It's exactly where we planned.
+
+288
+00:15:58,000 --> 00:15:59,000
+She took the bait.
+
+289
+00:16:17,000 --> 00:16:17,800
+Chi Xia,
+
+290
+00:16:18,200 --> 00:16:19,640
+you coward!
+
+291
+00:16:48,320 --> 00:16:49,520
+I know about Chi Xiao.
+
+292
+00:16:49,920 --> 00:16:50,720
+Where are you?
+
+293
+00:16:51,400 --> 00:16:52,400
+Can we meet?
+
+294
+00:17:05,400 --> 00:17:05,859
+Chi Xia.
+
+295
+00:17:06,599 --> 00:17:07,329
+Captain Luo,
+
+296
+00:17:07,520 --> 00:17:08,579
+they took the bait.
+
+297
+00:17:09,520 --> 00:17:10,319
+Great!
+
+298
+00:17:10,920 --> 00:17:12,720
+First, ensure your own safety.
+
+299
+00:17:13,640 --> 00:17:15,569
+Let me know if there's any problem.
+
+300
+00:17:16,000 --> 00:17:16,800
+Um...
+
+301
+00:17:21,520 --> 00:17:22,319
+What?
+
+302
+00:17:23,359 --> 00:17:24,680
+Worried that I'm using Qu Bai
+
+303
+00:17:24,680 --> 00:17:26,079
+and feeling bad about it?
+
+304
+00:17:26,640 --> 00:17:28,240
+Everything is to catch Old K.
+
+305
+00:17:29,000 --> 00:17:30,680
+I know exactly what I'm doing.
+
+306
+00:17:33,240 --> 00:17:34,520
+We focus on action.
+
+307
+00:17:35,520 --> 00:17:36,720
+Don't worry about me.
+
+308
+00:17:39,480 --> 00:17:41,000
+I'm relieved you think that way.
+
+309
+00:17:41,000 --> 00:17:41,840
+I trust you.
+
+310
+00:17:51,320 --> 00:17:51,980
+Yuan Weimin
+
+311
+00:17:57,760 --> 00:17:59,720
+According to the news from Chi Xia.
+
+312
+00:18:00,920 --> 00:18:02,520
+Comrade Fu Gang's current
+
+313
+00:18:02,520 --> 00:18:05,600
+physical and mental condition is very concerning.
+
+314
+00:18:05,600 --> 00:18:06,880
+We must act quickly
+
+315
+00:18:06,880 --> 00:18:07,920
+at all costs
+
+316
+00:18:07,920 --> 00:18:09,720
+to rescue Comrade Fu Gang.
+
+317
+00:18:10,160 --> 00:18:10,960
+Luo Xun.
+
+318
+00:18:11,200 --> 00:18:12,000
+After you go back,
+
+319
+00:18:12,000 --> 00:18:14,120
+come up with an action plan immediately.
+
+320
+00:18:14,120 --> 00:18:14,840
+Understood,
+
+321
+00:18:14,840 --> 00:18:15,570
+Chief Chang.
+
+322
+00:18:16,360 --> 00:18:17,360
+I have good news.
+
+323
+00:18:18,280 --> 00:18:20,410
+The cipher master copy has been found.
+
+324
+00:18:20,880 --> 00:18:21,640
+You found it?
+
+325
+00:18:22,000 --> 00:18:23,060
+How did you find it?
+
+326
+00:18:26,760 --> 00:18:28,680
+Old Zhang loved Chinese opera when he was alive.
+
+327
+00:18:28,680 --> 00:18:30,480
+He particularly enjoyed 'Sanchaku'.
+
+328
+00:18:30,480 --> 00:18:31,280
+He said
+
+329
+00:18:31,280 --> 00:18:32,600
+the characters in opera
+
+330
+00:18:32,600 --> 00:18:34,240
+all work together as a team
+
+331
+00:18:34,560 --> 00:18:36,280
+to fight against evil forces.
+
+332
+00:18:36,840 --> 00:18:39,520
+The core spirit of justice triumphing over evil
+
+333
+00:18:40,320 --> 00:18:44,180
+aligns perfectly with the police's mission to eliminate criminals.
+
+334
+00:18:45,400 --> 00:18:46,800
+Old Zhang and his partner
+
+335
+00:18:47,160 --> 00:18:48,560
+spent their entire lives
+
+336
+00:18:48,760 --> 00:18:50,080
+upholding
+
+337
+00:18:54,000 --> 00:18:54,920
+this script.
+
+338
+00:18:55,080 --> 00:18:56,940
+It was given to him by his partner.
+
+339
+00:18:57,280 --> 00:18:58,280
+I heard him say
+
+340
+00:18:58,360 --> 00:18:59,920
+that each of them had a copy.
+
+341
+00:19:01,320 --> 00:19:02,360
+When they left,
+
+342
+00:19:02,480 --> 00:19:03,640
+they kept reminding me
+
+343
+00:19:03,640 --> 00:19:04,680
+to keep it safe.
+
+344
+00:19:08,200 --> 00:19:10,120
+This is the master copy of the code.
+
+345
+00:19:10,120 --> 00:19:10,880
+Yes,
+
+346
+00:19:11,200 --> 00:19:13,920
+and we've already deciphered
+
+347
+00:19:14,040 --> 00:19:16,970
+the location information represented by the array.
+
+348
+00:19:19,000 --> 00:19:20,840
+There aren't many pages here.
+
+349
+00:19:23,000 --> 00:19:24,240
+We still don't know
+
+350
+00:19:24,560 --> 00:19:25,760
+the decryption rules.
+
+351
+00:19:25,760 --> 00:19:27,890
+Can we trust the decoded information?
+
+352
+00:19:29,040 --> 00:19:29,970
+Director Chang,
+
+353
+00:19:30,120 --> 00:19:30,920
+actually,
+
+354
+00:19:31,480 --> 00:19:32,680
+we do have some clues.
+
+355
+00:19:34,000 --> 00:19:35,160
+Look at these three.
+
+356
+00:19:36,040 --> 00:19:36,840
+Curly hair.
+
+357
+00:19:43,960 --> 00:19:46,620
+The item might be hidden in this person's grave,
+
+358
+00:19:46,720 --> 00:19:48,560
+or even in his urn.
+
+359
+00:19:49,720 --> 00:19:50,600
+Without the password,
+
+360
+00:19:50,600 --> 00:19:51,600
+forcing it open
+
+361
+00:19:52,000 --> 00:19:54,080
+would destroy all the formulas inside.
