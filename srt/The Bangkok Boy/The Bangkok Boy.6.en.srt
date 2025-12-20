@@ -1,0 +1,2334 @@
+1
+00:00:05,220 --> 00:00:10,460
+(Sponsored by)
+
+2
+00:00:10,600 --> 00:00:12,060
+(Previously)
+If you mess them up this time,
+
+3
+00:00:12,060 --> 00:00:14,280
+they'll be hurting so bad
+and Madam Yao will deal with it herself.
+
+4
+00:00:17,280 --> 00:00:18,880
+All done, sir.
+
+5
+00:00:26,050 --> 00:00:28,640
+- Let's go. Nah, I got it.
+- Want me to clean this up for you?
+
+6
+00:00:36,120 --> 00:00:38,520
+Sun! Sun! Hello, sir!
+
+7
+00:00:41,330 --> 00:00:42,920
+I'm one of your guys, Sun!
+
+8
+00:00:43,340 --> 00:00:44,330
+You know this kid?
+
+9
+00:00:46,340 --> 00:00:49,850
+Hey, cut that attitude, man.
+One day it's gonna get you hurt.
+
+10
+00:01:08,050 --> 00:01:10,530
+- You can let him go now.
+- Got it.
+
+11
+00:01:14,360 --> 00:01:16,480
+Sun, don't you remember me?
+
+12
+00:01:19,090 --> 00:01:22,220
+- Who the heck are you?
+- We went to the same school!
+
+13
+00:01:22,800 --> 00:01:25,930
+I was probably in... Grade 11 back then.
+
+14
+00:01:26,970 --> 00:01:29,640
+Then how did you end up here?
+This ain't no summer camp, kid.
+
+15
+00:01:30,350 --> 00:01:34,120
+I got arrested
+for hacking into some data system.
+
+16
+00:01:34,430 --> 00:01:38,330
+Darn it. So turns out you weren't
+as smart as everyone thought.
+
+17
+00:01:39,340 --> 00:01:40,260
+Huh?
+
+18
+00:01:40,410 --> 00:01:42,920
+- How long are you in for?
+- Six months.
+
+19
+00:01:44,300 --> 00:01:45,140
+And
+
+20
+00:01:46,900 --> 00:01:49,720
+I got banned. Can't work in IT for ten years.
+
+21
+00:01:50,410 --> 00:01:53,890
+Honestly, I'm not scared of stuff like that.
+It's just small fries.
+
+22
+00:01:54,600 --> 00:01:55,440
+But...
+
+23
+00:01:57,580 --> 00:01:59,220
+But I'm scared that
+I won't make it out of here alive.
+
+24
+00:02:00,420 --> 00:02:01,690
+Well, good for you, I guess.
+
+25
+00:02:02,400 --> 00:02:04,450
+To be real, I think
+
+26
+00:02:05,290 --> 00:02:08,000
+no matter where you are,
+life's tough all the same.
+
+27
+00:02:09,710 --> 00:02:13,440
+I know you've been here a while,
+and you're about to be released soon.
+
+28
+00:02:15,210 --> 00:02:17,460
+Probably a month or two before me?
+
+29
+00:02:18,690 --> 00:02:20,780
+How the heck do you know that?
+You were stalking me?
+
+30
+00:02:21,590 --> 00:02:24,350
+Sure, it's tough for me in here.
+
+31
+00:02:25,200 --> 00:02:28,270
+But once you're out there,
+things won't be easy for you either.
+
+32
+00:02:29,960 --> 00:02:30,880
+What's your name?
+
+33
+00:02:31,720 --> 00:02:32,650
+I'm Tian.
+
+34
+00:02:33,410 --> 00:02:34,400
+Tian, huh?
+
+35
+00:02:36,120 --> 00:02:37,150
+You got something to tell me?
+
+36
+00:02:39,300 --> 00:02:40,260
+I'm gonna tell you that
+
+37
+00:02:41,380 --> 00:02:43,610
+if you can help me
+survive these prison thugs,
+
+38
+00:02:44,290 --> 00:02:47,010
+your bank account's gonna be stacked
+when you walk out of here.
+
+39
+00:02:50,870 --> 00:02:53,980
+I got caught hacking into a bank.
+
+40
+00:02:55,410 --> 00:02:58,160
+Man, I swear,
+I wanted to smack my own head.
+
+41
+00:02:58,520 --> 00:03:02,460
+I left my IP exposed.
+That's how they tracked me.
+
+42
+00:03:02,700 --> 00:03:04,720
+But before they caught me,
+
+43
+00:03:05,150 --> 00:03:07,670
+I set everything up on the Cayman Islands.
+
+44
+00:03:09,230 --> 00:03:11,010
+So what exactly are you trying to tell me?
+
+45
+00:03:12,140 --> 00:03:14,540
+Before I got arrested, no bail, by the way,
+
+46
+00:03:14,780 --> 00:03:19,460
+I spent two years collecting
+mule accounts from illegal gambling sites.
+
+47
+00:03:19,900 --> 00:03:21,300
+Wrote a randomizing script,
+
+48
+00:03:21,900 --> 00:03:24,170
+had it siphon cash from those mules,
+bit by bit.
+
+49
+00:03:24,770 --> 00:03:27,780
+Kept cycling the money around
+so no one would notice.
+
+50
+00:03:28,250 --> 00:03:31,820
+And even if they did notice, so what?
+Who's gonna care?
+
+51
+00:03:32,140 --> 00:03:34,520
+Only a few baht disappeared every day.
+
+52
+00:03:35,160 --> 00:03:36,900
+What're they gonna do?
+Go cry to their mama?
+
+53
+00:03:37,410 --> 00:03:40,140
+Mom, someone stole 3 baht from me.
+
+54
+00:03:40,980 --> 00:03:42,270
+Anyway,
+
+55
+00:03:42,890 --> 00:03:45,710
+right now, we just need one
+last piece-launch code button
+
+56
+00:03:47,780 --> 00:03:49,240
+and maybe a bar of chocolate.
+
+57
+00:03:50,460 --> 00:03:51,300
+So...
+
+58
+00:03:52,580 --> 00:03:56,600
+you're sure no one's gonna
+get hurt from this?
+
+59
+00:03:57,860 --> 00:03:58,990
+Absolutely, bro.
+
+60
+00:04:01,830 --> 00:04:06,270
+We'll be making at least 200K baht
+a month. Let's split it fifty-fifty.
+
+61
+00:04:07,060 --> 00:04:10,420
+Just your cut. By the time you're out,
+
+62
+00:04:10,680 --> 00:04:14,780
+you'll have about 500K or 600K easily.
+
+63
+00:04:16,570 --> 00:04:17,920
+So? You're in?
+
+64
+00:04:20,520 --> 00:04:23,200
+Man, you're in a hurry.
+Old folks really are impatient.
+
+65
+00:04:24,560 --> 00:04:25,400
+Hey.
+
+66
+00:04:26,740 --> 00:04:30,380
+Nice, nice.
+Told you Chairman Kim can do anything.
+
+67
+00:04:31,180 --> 00:04:32,380
+Now come on already,
+
+68
+00:04:34,000 --> 00:04:35,460
+before someone sees us.
+
+69
+00:04:36,860 --> 00:04:37,700
+Alright.
+
+70
+00:04:42,680 --> 00:04:46,100
+Chairman Kim, launch sequence initiated.
+
+71
+00:04:54,100 --> 00:04:56,100
+(How was your day today?
+Sending you a heart)
+
+72
+00:04:58,700 --> 00:05:01,860
+Wait, Chairman Kim
+is chatting with girls in prison?
+
+73
+00:05:04,280 --> 00:05:08,260
+Even he needs a little affection
+to get through the day.
+
+74
+00:05:09,380 --> 00:05:11,980
+A little affection, huh?
+
+75
+00:05:12,120 --> 00:05:14,280
+Thanks for the love.
+
+76
+00:05:14,790 --> 00:05:19,710
+Once I'm out,
+I'll return the favor in person.
+
+77
+00:05:22,280 --> 00:05:23,200
+Hurry.
+
+78
+00:05:24,880 --> 00:05:28,250
+Alright, Chairman Kim is about
+to launch the rocket for real this time.
+
+79
+00:05:33,180 --> 00:05:35,500
+(You promised, remember?)
+
+80
+00:05:36,900 --> 00:05:38,740
+I did promise.
+
+81
+00:05:39,040 --> 00:05:43,100
+Chairman Kim, maybe finish
+chatting with your girlfriend first.
+
+82
+00:05:44,980 --> 00:05:48,280
+Move, I'll do it.
+Wasted so much time. This one, right?
+
+83
+00:06:26,340 --> 00:06:28,500
+"The Bangkok Boy"
+(Episode 6)
+
+84
+00:06:30,440 --> 00:06:32,420
+Ever since they started
+pulling people into the city,
+
+85
+00:06:33,260 --> 00:06:34,460
+the money drop-off points
+have been almost deserted.
+
+86
+00:06:37,170 --> 00:06:38,580
+Barely five guards left at each one.
+
+87
+00:06:41,170 --> 00:06:42,660
+Darn, you're aiming big now, huh?
+
+88
+00:06:43,870 --> 00:06:45,380
+Well, you wanna crush the drug cartel
+
+89
+00:06:46,420 --> 00:06:49,020
+and also the cash.
+It's a win-win, right?
+
+90
+00:06:51,210 --> 00:06:52,050
+Fair point.
+
+91
+00:06:53,130 --> 00:06:54,100
+Besides,
+
+92
+00:06:54,800 --> 00:06:58,640
+if we hit them hard this time,
+Madam Yao will step in personally.
+
+93
+00:07:00,340 --> 00:07:04,580
+At first, I honestly thought
+you guys were working with her.
+
+94
+00:07:06,350 --> 00:07:10,100
+Come on, man.
+I was just trying to survive.
+
+95
+00:07:11,060 --> 00:07:12,880
+Truth is, I hate those jerks
+just as much as you do.
+
+96
+00:07:14,580 --> 00:07:16,380
+And what about Snap?
+
+97
+00:07:17,200 --> 00:07:20,060
+Snap? He's the one
+who told me about all this.
+
+98
+00:07:21,090 --> 00:07:22,740
+Said he's got inside connections.
+
+99
+00:07:25,860 --> 00:07:27,140
+Perfect.
+
+100
+00:07:30,110 --> 00:07:31,140
+Alright, boys.
+
+101
+00:07:31,580 --> 00:07:33,380
+Let's go.
+We've still got a ton of work.
+
+102
+00:07:34,910 --> 00:07:37,360
+Uncle, I'll pay later, okay?
+
+103
+00:07:37,360 --> 00:07:38,210
+Sure.
+
+104
+00:07:38,210 --> 00:07:39,060
+See you later, Uncle.
+
+105
+00:07:39,070 --> 00:07:39,930
+Yeah.
+
+106
+00:07:41,440 --> 00:07:42,310
+See you.
+
+107
+00:07:42,990 --> 00:07:44,900
+- Sun.
+- What?
+
+108
+00:07:45,210 --> 00:07:46,350
+Do you even realize
+what you're getting yourself into?
+
+109
+00:07:47,360 --> 00:07:50,530
+You're Mr. Songphoom's son.
+That makes you like family to me.
+
+110
+00:07:51,550 --> 00:07:54,060
+Are you sure this path you're choosing
+is really good for your life?
+
+111
+00:07:54,740 --> 00:07:56,020
+But I'm not doing anything wrong.
+
+112
+00:07:57,390 --> 00:08:00,100
+Don't you ever want a simple,
+peaceful life like everyone else?
+
+113
+00:08:03,700 --> 00:08:04,700
+Maybe it's just
+
+114
+00:08:05,380 --> 00:08:07,050
+how my life's meant to be, Uncle.
+
+115
+00:08:09,930 --> 00:08:11,350
+You're just like your dad.
+
+116
+00:08:18,210 --> 00:08:19,330
+I'll get going now, Uncle.
+
+117
+00:09:07,300 --> 00:09:08,140
+Whoa.
+
+118
+00:09:08,380 --> 00:09:09,220
+Check it out.
+
+119
+00:09:10,180 --> 00:09:11,020
+Crap.
+
+120
+00:09:12,140 --> 00:09:13,420
+Darn, he's dead!
+
+121
+00:09:20,680 --> 00:09:21,750
+What the heck happened here?
+
+122
+00:09:24,220 --> 00:09:25,200
+Tim.
+
+123
+00:09:26,300 --> 00:09:27,480
+Go check inside.
+
+124
+00:09:27,860 --> 00:09:28,740
+Me?
+
+125
+00:09:28,760 --> 00:09:29,760
+Yeah, you. Who else?
+
+126
+00:09:30,050 --> 00:09:30,890
+Why is it always me?
+
+127
+00:09:31,820 --> 00:09:34,270
+Just go. I don't think
+there's anyone left in there.
+
+128
+00:09:35,040 --> 00:09:37,220
+What, you scared?
+Fine, I'll do it myself.
+
+129
+00:09:37,220 --> 00:09:38,060
+No need.
+
+130
+00:09:38,890 --> 00:09:39,730
+I got it.
+
+131
+00:09:48,240 --> 00:09:50,420
+Kawin! What the heck, man?
+
+132
+00:09:51,670 --> 00:09:52,860
+How would I know?
+
+133
+00:09:53,820 --> 00:09:55,190
+Did you drug us or something?
+
+134
+00:09:55,870 --> 00:09:59,430
+Bro, why would I be here too if I did?
+
+135
+00:09:59,790 --> 00:10:01,220
+Cause you're shady as hell, that's why!
+
+136
+00:10:01,380 --> 00:10:02,660
+Yo, what's that supposed to mean?
+
+137
+00:10:02,960 --> 00:10:04,670
+What? You got a problem?
+
+138
+00:10:04,670 --> 00:10:05,510
+Hey!
+
+139
+00:10:08,330 --> 00:10:10,280
+Dude! Help me out here!
+
+140
+00:10:11,150 --> 00:10:13,690
+They're all dead in there,
+except this one guy!
+
+141
+00:10:14,030 --> 00:10:15,400
+Then just leave him.
+
+142
+00:10:15,780 --> 00:10:17,840
+Are you nuts? He's still breathing!
+
+143
+00:10:18,410 --> 00:10:19,250
+Come on.
+
+144
+00:10:23,140 --> 00:10:24,060
+Then what?
+
+145
+00:10:25,200 --> 00:10:29,500
+You gonna take him home, give him a bath,
+tuck him in and kiss him goodnight?
+
+146
+00:10:30,260 --> 00:10:32,930
+Darn, man, why you gotta be such a jerk?
+
+147
+00:10:34,380 --> 00:10:35,220
+So what now, huh?
+
+148
+00:10:37,060 --> 00:10:37,980
+Wanna go? I'm ready.
+
+149
+00:10:38,070 --> 00:10:38,910
+Let's do it then!
+
+150
+00:10:39,680 --> 00:10:41,820
+Seriously? You guys gonna fight all day?
+
+151
+00:10:42,720 --> 00:10:44,000
+He started it!
+
+152
+00:10:45,340 --> 00:10:48,660
+Tim, just help him out.
+Put the poor guy out of his misery.
+
+153
+00:10:56,100 --> 00:10:58,380
+(Hospital)
+
+154
+00:10:58,400 --> 00:10:59,580
+Hurry up!
+
+155
+00:10:59,860 --> 00:11:01,700
+You grab the front,
+and I'll get the back!
+
+156
+00:11:02,040 --> 00:11:03,540
+He's heavy as hell!
+
+157
+00:11:05,740 --> 00:11:07,780
+Handle it from here, bro. I'm out.
+
+158
+00:11:09,500 --> 00:11:17,020
+(Hospital)
+
+159
+00:11:20,680 --> 00:11:22,230
+Even the safe on this side's been emptied.
+
+160
+00:11:27,830 --> 00:11:29,170
+Do we know who did it?
+
+161
+00:11:36,220 --> 00:11:37,310
+Yeah, Madam. We do.
+
+162
+00:11:37,540 --> 00:11:38,380
+Who?
+
+163
+00:11:40,370 --> 00:11:43,260
+That punk Sun and his crew.
+The son of that jerk Songphoom.
+
+164
+00:11:54,580 --> 00:11:56,810
+Oh, so you did show up.
+
+165
+00:11:58,410 --> 00:11:59,860
+If you thought I wasn't coming,
+
+166
+00:12:00,680 --> 00:12:02,050
+why'd you text me then?
+
+167
+00:12:03,210 --> 00:12:04,060
+Can we...
+
+168
+00:12:05,030 --> 00:12:06,690
+Can we separate our problems
+from your family's?
+
+169
+00:12:11,000 --> 00:12:12,980
+For what we had, it's not gonna work.
+
+170
+00:12:14,410 --> 00:12:16,780
+I came today just to see
+how the guy I saved that night is doing.
+
+171
+00:12:17,850 --> 00:12:20,240
+How's that guy?
+
+172
+00:12:24,950 --> 00:12:26,230
+There are four of us siblings.
+
+173
+00:12:28,730 --> 00:12:30,810
+Mei's my only real sister.
+
+174
+00:12:34,860 --> 00:12:36,040
+That day Kong died,
+
+175
+00:12:38,690 --> 00:12:40,060
+a lot of things happened.
+
+176
+00:12:41,650 --> 00:12:42,650
+Jun-ho, right?
+
+177
+00:12:44,590 --> 00:12:46,750
+Yeah.
+
+178
+00:12:48,850 --> 00:12:49,900
+We all got into a fight.
+
+179
+00:12:51,720 --> 00:12:53,610
+Then it ended up just me
+and Jun-ho one on one.
+
+180
+00:12:57,050 --> 00:12:58,060
+I was weak.
+
+181
+00:13:00,840 --> 00:13:02,920
+I knew I couldn't take him.
+
+182
+00:13:06,130 --> 00:13:07,570
+So I pulled out a knife.
+
+183
+00:13:08,690 --> 00:13:09,930
+But Kong stepped in the way.
+
+184
+00:13:11,760 --> 00:13:13,150
+Good thing I held back in time.
+
+185
+00:13:15,850 --> 00:13:17,770
+But Jun-ho pulled his knife too
+
+186
+00:13:18,990 --> 00:13:20,970
+and stabbed Kong right in front of me.
+
+187
+00:13:22,690 --> 00:13:23,670
+At that same day,
+
+188
+00:13:24,960 --> 00:13:30,000
+around the same time, actually,
+our dad got shot.
+
+189
+00:13:38,990 --> 00:13:42,140
+Mei's never stopped blaming me
+for leaving her behind.
+
+190
+00:13:43,050 --> 00:13:44,210
+She's got nothing left.
+
+191
+00:13:46,340 --> 00:13:47,380
+Dad's dead.
+
+192
+00:13:49,300 --> 00:13:50,480
+Her brother's in prison.
+
+193
+00:13:51,840 --> 00:13:53,580
+All because of my dumb temper.
+
+194
+00:13:54,490 --> 00:13:55,330
+I was...
+
+195
+00:13:55,340 --> 00:13:57,540
+I don't care about the details.
+
+196
+00:13:58,910 --> 00:14:02,160
+I think I've finally
+understood everything.
+
+197
+00:14:10,330 --> 00:14:11,300
+Wait, Peace.
+
+198
+00:14:11,650 --> 00:14:12,540
+Peace.
+
+199
+00:15:11,170 --> 00:15:14,380
+I'm a Korean artist.
+
+200
+00:15:14,910 --> 00:15:18,500
+You caught my eye, so I sketched you.
+
+201
+00:15:19,220 --> 00:15:22,560
+Your eyes look sad,
+
+202
+00:15:23,090 --> 00:15:27,320
+but they're still really beautiful.
+
+203
+00:15:32,340 --> 00:15:39,180
+(Your eyes look sad,
+but they're still really beautiful.)
+
+204
+00:15:43,210 --> 00:15:46,640
+Would you mind if we talk for a bit?
+
+205
+00:15:48,180 --> 00:15:49,460
+I'm Peace.
+
+206
+00:15:50,950 --> 00:15:52,550
+Now I'm still learning Thai.
+
+207
+00:15:53,520 --> 00:15:54,380
+You're hitting on me?
+
+208
+00:15:57,050 --> 00:15:57,890
+No.
+
+209
+00:16:00,110 --> 00:16:01,210
+You're not my type.
+
+210
+00:16:03,480 --> 00:16:05,090
+You're just interesting.
+
+211
+00:16:13,160 --> 00:16:16,170
+You're Korean, right?
+Then why's your name is Peace?
+
+212
+00:16:16,910 --> 00:16:18,860
+My Korean name's Songmin.
+
+213
+00:16:21,500 --> 00:16:22,340
+Songmin.
+
+214
+00:16:22,770 --> 00:16:27,540
+Dad said Mom gave me the name Peace.
+
+215
+00:16:27,770 --> 00:16:29,740
+I've never met her, though.
+
+216
+00:16:30,150 --> 00:16:33,040
+I heard you like reading.
+
+217
+00:16:34,280 --> 00:16:38,420
+Not really. When I was a kid,
+my dad used to force me to read.
+
+218
+00:16:39,410 --> 00:16:40,650
+And over time,
+
+219
+00:16:41,610 --> 00:16:45,920
+I got hooked.
+But I haven't read in a long time.
+
+220
+00:16:56,940 --> 00:16:59,020
+(Lonely, Sad and Depraved)
+
+221
+00:17:03,290 --> 00:17:04,700
+Tell the wolves
+
+222
+00:17:05,300 --> 00:17:06,140
+I'm home.
+
+223
+00:17:09,220 --> 00:17:12,660
+That one's my absolute favorite.
+
+224
+00:17:43,220 --> 00:17:44,140
+What are you doing?
+
+225
+00:17:45,780 --> 00:17:50,370
+You look brighter now,
+so I tweaked the drawing.
+
+226
+00:18:00,740 --> 00:18:02,330
+You sure you're not hitting on me?
+
+227
+00:18:10,810 --> 00:18:13,940
+We're both kind of lost right now.
+
+228
+00:18:15,700 --> 00:18:18,690
+I'm a mess too, maybe not as bad as you.
+
+229
+00:18:19,380 --> 00:18:23,070
+But hey, maybe two lost people
+
+230
+00:18:24,760 --> 00:18:26,240
+can help each other find the way.
+
+231
+00:18:45,470 --> 00:18:47,010
+You're one of Sun's friends, aren't you?
+
+232
+00:18:52,830 --> 00:18:53,670
+Not really.
+
+233
+00:18:55,160 --> 00:18:56,770
+To Koreans,
+
+234
+00:18:58,460 --> 00:18:59,420
+Sun's basically the enemy.
+
+235
+00:19:03,470 --> 00:19:06,240
+So do you see me as an enemy too?
+
+236
+00:19:18,090 --> 00:19:20,740
+When can I come visit you?
+
+237
+00:19:21,380 --> 00:19:23,300
+Morning and evening rounds are fine.
+
+238
+00:19:23,300 --> 00:19:25,520
+We have nurses available at all times.
+
+239
+00:19:25,660 --> 00:19:27,140
+Okay, thank you very much.
+
+240
+00:19:35,230 --> 00:19:39,420
+Next time, I'll bring you tons of books.
+
+241
+00:20:14,010 --> 00:20:15,530
+We honestly had no idea
+
+242
+00:20:16,660 --> 00:20:19,480
+that Mei had gotten tricked into
+something awful by a drug gang.
+
+243
+00:20:24,530 --> 00:20:26,580
+We just thought she left home
+
+244
+00:20:27,760 --> 00:20:28,910
+because she wanted some freedom.
+
+245
+00:20:32,100 --> 00:20:33,150
+And you?
+
+246
+00:20:33,700 --> 00:20:35,850
+Don't you want to live a free life?
+
+247
+00:20:39,590 --> 00:20:44,360
+Once this is all over,
+I'll get back to training for real.
+
+248
+00:20:45,340 --> 00:20:47,220
+My dream's to be an MMA fighter.
+
+249
+00:20:49,640 --> 00:20:52,990
+So why not start now?
+What are you waiting for?
+
+250
+00:20:57,830 --> 00:21:00,680
+Are you even sure
+that what you're doing is right?
+
+251
+00:21:12,250 --> 00:21:14,810
+I gotta go. My brother said
+
+252
+00:21:15,760 --> 00:21:16,860
+your dad's given us a job already.
+
+253
+00:21:20,450 --> 00:21:21,370
+Sun.
+
+254
+00:21:28,030 --> 00:21:31,580
+You don't have to do
+what my dad tells you.
+
+255
+00:21:32,750 --> 00:21:34,160
+I'll talk to him for you.
+
+256
+00:21:35,230 --> 00:21:36,100
+Okay?
+
+257
+00:21:37,780 --> 00:21:41,370
+Why? You like me or something?
+
+258
+00:21:45,340 --> 00:21:46,180
+Sun.
+
+259
+00:21:47,490 --> 00:21:48,840
+Please, just trust me.
+
+260
+00:21:51,470 --> 00:21:52,660
+You know why
+
+261
+00:21:53,960 --> 00:21:56,030
+I've been doing all of this.
+
+262
+00:21:57,250 --> 00:21:58,270
+To get revenge?
+
+263
+00:21:59,880 --> 00:22:02,180
+What are you gonna gain from that?
+
+264
+00:22:05,560 --> 00:22:06,400
+Freedom.
+
+265
+00:22:08,160 --> 00:22:11,860
+You think that's really what
+your dad or Mei would've wanted?
+
+266
+00:22:37,550 --> 00:22:39,540
+Our insider said
+
+267
+00:22:40,030 --> 00:22:41,760
+Songphoom's son Sun and his gang
+
+268
+00:22:42,110 --> 00:22:44,790
+all left the warehouse
+an hour before the robbery.
+
+269
+00:22:45,640 --> 00:22:47,840
+- Songphoom's son's crew?
+- Yes.
+
+270
+00:22:48,770 --> 00:22:50,860
+At first, I thought they'd
+just mess around in the city.
+
+271
+00:22:51,310 --> 00:22:53,990
+Didn't think they had the balls
+to hit our warehouse.
+
+272
+00:22:54,970 --> 00:22:58,350
+No way those punks knew
+where our place even was.
+
+273
+00:22:58,960 --> 00:23:02,430
+And they knew we had
+barely any men there.
+
+274
+00:23:02,940 --> 00:23:04,580
+What do you mean by that, Madam?
+
+275
+00:23:05,060 --> 00:23:07,120
+We've been stabbed
+in the back, you idiot!
+
+276
+00:23:20,090 --> 00:23:23,760
+Our target is the shipment
+in Mr. Joe's container.
+
+277
+00:23:24,120 --> 00:23:27,470
+The one seized three years ago
+at the port warehouse.
+
+278
+00:23:28,230 --> 00:23:29,850
+Mr. Joe wants it back.
+
+279
+00:23:49,140 --> 00:23:52,660
+There's probably tons of guards.
+It won't be easy getting in.
+
+280
+00:23:53,850 --> 00:23:55,160
+Then we better work hard for it.
+
+281
+00:23:55,870 --> 00:23:57,150
+That's kinda your specialty, isn't it?
+
+282
+00:23:57,880 --> 00:23:58,720
+Only this?
+
+283
+00:23:59,310 --> 00:24:03,210
+We'll need two vans.
+One to move Mr. Joe's goods.
+
+284
+00:24:05,060 --> 00:24:05,970
+Make sure they've got plates.
+
+285
+00:24:06,890 --> 00:24:08,480
+What about the other one?
+
+286
+00:24:09,420 --> 00:24:10,870
+The Korean will send another van.
+
+287
+00:24:11,300 --> 00:24:12,140
+The Korean...
+
+288
+00:24:12,670 --> 00:24:13,510
+Who?
+
+289
+00:24:14,210 --> 00:24:15,670
+Mr. Joe's adopted kid.
+
+290
+00:24:16,800 --> 00:24:18,490
+He's probably coming to keep tabs on us.
+
+291
+00:24:21,480 --> 00:24:24,220
+Are we gonna need guns?
+
+292
+00:24:25,080 --> 00:24:26,220
+Can you get them?
+
+293
+00:24:29,020 --> 00:24:30,000
+I can manage.
+
+294
+00:24:30,780 --> 00:24:32,090
+Then do it.
+
+295
+00:24:33,400 --> 00:24:36,870
+This job has to be clean, super clean.
+
+296
+00:24:37,950 --> 00:24:38,940
+No loose ends, no chaos.
+
+297
+00:24:39,460 --> 00:24:42,100
+Wrap everything up by this weekend.
+Got it?
+
+298
+00:24:44,310 --> 00:24:45,360
+Alright then.
+
+299
+00:24:46,480 --> 00:24:47,370
+Where's the deposit?
+
+300
+00:24:59,840 --> 00:25:00,680
+Hey.
+
+301
+00:25:02,690 --> 00:25:04,080
+Since when did you start
+chasing money like that?
+
+302
+00:25:06,090 --> 00:25:08,230
+We work, we get paid. Right?
+
+303
+00:25:10,360 --> 00:25:13,380
+Sun, I'm counting on you.
+You're the smartest one in this house.
+
+304
+00:25:14,060 --> 00:25:17,070
+Tim, I need you to check
+out the location tonight.
+
+305
+00:25:17,700 --> 00:25:19,060
+Kawin, you handle the guns.
+
+306
+00:25:19,450 --> 00:25:21,630
+As for you, Hia. Come with me.
+
+307
+00:25:26,740 --> 00:25:27,580
+Hey, Uncle.
+
+308
+00:25:27,580 --> 00:25:28,700
+How've you been?
+
+309
+00:25:30,780 --> 00:25:31,680
+What's up, Sun?
+
+310
+00:25:32,550 --> 00:25:34,360
+I need some help, Uncle.
+
+311
+00:25:36,250 --> 00:25:37,600
+I'm looking for two high-powered vans.
+
+312
+00:25:38,640 --> 00:25:40,080
+The ones that no one can catch up with.
+
+313
+00:25:40,880 --> 00:25:46,060
+I can get them. But what
+do you need them for, Sun?
+
+314
+00:25:49,740 --> 00:25:52,570
+- Just family business.
+- I'll keep an eye out for it.
+
+315
+00:25:58,830 --> 00:26:00,520
+Here, take this. We'll be in touch.
+
+316
+00:26:11,130 --> 00:26:12,090
+Darn it, Nap!
+
+317
+00:26:14,690 --> 00:26:16,340
+You didn't set us up, did you?
+
+318
+00:26:16,760 --> 00:26:19,760
+Why would I sell you guys out?
+
+319
+00:26:20,410 --> 00:26:24,580
+The spot I gave you was solid. You just had
+bad timing. Ran into those lobbyist jerks.
+
+320
+00:26:29,080 --> 00:26:30,610
+And why are you so sure it was them?
+
+321
+00:26:32,630 --> 00:26:37,360
+Come on, who else has the balls
+to pull something that extreme?
+
+322
+00:26:44,590 --> 00:26:46,030
+What were you just talking about?
+
+323
+00:26:46,520 --> 00:26:47,630
+Business.
+
+324
+00:27:20,780 --> 00:27:21,660
+How is this?
+
+325
+00:27:22,030 --> 00:27:22,870
+Glock.
+
+326
+00:27:23,200 --> 00:27:25,320
+Glock 43X.
+
+327
+00:27:25,730 --> 00:27:28,340
+Small, easy to carry, trigger's smooth.
+
+328
+00:27:28,520 --> 00:27:30,700
+Big seller in the States.
+I'm telling you, people love this one.
+
+329
+00:27:31,370 --> 00:27:32,330
+What about the other one?
+
+330
+00:27:33,100 --> 00:27:39,410
+Taurus G3C, 9 mil.
+Super accurate, dead-on.
+
+331
+00:27:40,660 --> 00:27:41,500
+And this one?
+
+332
+00:27:42,460 --> 00:27:49,100
+Smith & Wesson M&P. Feels solid
+in your hand, sleek look. Good price too.
+
+333
+00:27:50,380 --> 00:27:51,760
+You're on a budget? I'd go with this one.
+
+334
+00:27:53,400 --> 00:27:55,730
+Nah, feels a little light.
+Got anything heavier?
+
+335
+00:27:55,970 --> 00:27:59,260
+You want something heavy?
+It's definitely the large-frame .44 Magnum.
+
+336
+00:27:59,550 --> 00:28:04,140
+If anyone gets in your face,
+just one shot and they're done.
+
+337
+00:28:04,220 --> 00:28:05,770
+Daaarn.
+
+338
+00:28:06,320 --> 00:28:07,830
+Alright, I'll take them all.
+
+339
+00:28:08,250 --> 00:28:10,910
+Hold up. I don't have them right now.
+
+340
+00:28:12,710 --> 00:28:18,410
+Lobbyists've been cracking down lately.
+Some psycho's been waving an Uzi around town.
+
+341
+00:28:19,460 --> 00:28:20,300
+Jesus.
+
+342
+00:28:21,380 --> 00:28:22,590
+I bet it's those M-gang guys.
+
+343
+00:28:23,690 --> 00:28:27,300
+In two months, maybe.
+
+344
+00:28:28,820 --> 00:28:29,690
+We're hitting tomorrow.
+
+345
+00:28:31,410 --> 00:28:34,110
+- Alright, at least I have these handguns.
+- Fine, I'll take them.
+
+346
+00:28:34,540 --> 00:28:40,780
+I'm giving you a good deal, throwing in
+ammo too. Try ‘em out, check the quality.
+
+347
+00:28:41,490 --> 00:28:44,050
+Acting like he's got a whole arsenal.
+
+348
+00:28:45,250 --> 00:28:46,090
+Right.
+
+349
+00:28:46,810 --> 00:28:48,080
+All have the same usage.
+
+350
+00:28:48,080 --> 00:28:48,920
+Handguns.
+
+351
+00:28:50,040 --> 00:28:52,430
+Could've just picked these up anywhere.
+Why'd I even come all the way here?
+
+352
+00:28:53,680 --> 00:28:54,610
+Dissing me now?
+
+353
+00:28:54,610 --> 00:28:56,140
+Alright, alright,
+I'll throw in two boxes of bullets.
+
+354
+00:28:58,360 --> 00:29:02,140
+Security's way lighter than they told us.
+
+355
+00:29:02,590 --> 00:29:07,470
+Dude, we planned like we're hitting a
+national bank. Bit much, don't you think?
+
+356
+00:29:08,300 --> 00:29:09,480
+So, where's the darn container?
+
+357
+00:29:11,810 --> 00:29:14,090
+Hold on, it's over here.
+
+358
+00:29:15,250 --> 00:29:18,850
+You can drive in through here,
+but gotta use the east gate.
+
+359
+00:29:19,690 --> 00:29:25,110
+There're two security posts, rotating shifts.
+
+360
+00:29:25,710 --> 00:29:28,270
+They walk the route clockwise,
+every two hours.
+
+361
+00:29:29,100 --> 00:29:31,060
+So what, I'm going in alone now?
+
+362
+00:29:31,740 --> 00:29:36,110
+Feels weird, man.
+Like they want us to go in.
+
+363
+00:29:36,740 --> 00:29:38,170
+Think the Koreans are baiting us?
+
+364
+00:29:40,940 --> 00:29:42,250
+Could be a setup, man.
+
+365
+00:29:43,260 --> 00:29:46,020
+But screw it, let's just get it done.
+
+366
+00:29:47,160 --> 00:29:49,320
+If we can avoid a fight, it's even better.
+
+367
+00:29:50,400 --> 00:29:51,320
+The question is how.
+
+368
+00:29:53,280 --> 00:29:54,120
+Boss!
+
+369
+00:29:56,450 --> 00:29:58,620
+Tian? What are you doing here?
+
+370
+00:29:58,780 --> 00:30:00,340
+I came to see you, boss!
+
+371
+00:30:02,260 --> 00:30:03,100
+Wait.
+
+372
+00:30:04,890 --> 00:30:05,790
+Who's this little punk?
+
+373
+00:30:08,610 --> 00:30:10,010
+Just a junior of mine. You've met before.
+
+374
+00:30:12,340 --> 00:30:14,900
+Yeah, looks familiar.
+
+375
+00:30:16,410 --> 00:30:20,860
+You're the one who got busted
+for hacking a bank last year, right?
+
+376
+00:30:22,400 --> 00:30:25,990
+Darn. I thought you were smart.
+Turns out you're just dumb too.
+
+377
+00:30:26,000 --> 00:30:27,140
+Bet you can't do what I did, though.
+
+378
+00:30:27,140 --> 00:30:28,770
+What did you say, jerk?
+
+379
+00:30:30,700 --> 00:30:33,670
+Why are you even here? Go back
+to your parents, back to school.
+
+380
+00:30:34,670 --> 00:30:36,570
+Already did. I got kicked out.
+
+381
+00:30:42,610 --> 00:30:47,080
+So you wanna stay with us now?
+What, you think this gym's a charity?
+
+382
+00:30:48,330 --> 00:30:49,960
+Go home.
+
+383
+00:30:53,200 --> 00:30:54,040
+Don't give me that sad face.
+
+384
+00:30:56,190 --> 00:30:57,170
+This drama boy.
+
+385
+00:31:01,120 --> 00:31:04,140
+Tian, you seriously got nowhere else to go?
+
+386
+00:31:04,890 --> 00:31:07,500
+I do, but I wanna stay with you, boss.
+
+387
+00:31:09,710 --> 00:31:10,550
+Your kid?
+
+388
+00:31:12,980 --> 00:31:13,860
+Must be!
+
+389
+00:31:14,860 --> 00:31:15,790
+But you gotta finish school, alright?
+
+390
+00:31:17,060 --> 00:31:19,660
+You do know how smart I am, right?
+
+391
+00:31:20,460 --> 00:31:22,180
+I'd better teach at school.
+
+392
+00:31:25,650 --> 00:31:29,180
+I'll go back. After this term's over.
+
+393
+00:31:29,850 --> 00:31:31,980
+For now, let me stick around with you.
+
+394
+00:31:33,320 --> 00:31:34,160
+With me?
+
+395
+00:31:41,600 --> 00:31:42,440
+Hey.
+
+396
+00:31:45,790 --> 00:31:49,520
+You think you can cut the power at the port?
+
+397
+00:31:49,860 --> 00:31:51,700
+Just the port? Or the whole city?
+
+398
+00:31:54,170 --> 00:31:55,860
+Cocky little kid.
+
+399
+00:31:55,870 --> 00:31:56,960
+So can you do it or not?
+
+400
+00:31:57,380 --> 00:31:58,220
+No problem.
+
+401
+00:32:03,900 --> 00:32:06,810
+You know exactly what we want, right?
+
+402
+00:32:07,800 --> 00:32:08,770
+Yes, Godfather.
+
+403
+00:32:10,650 --> 00:32:13,370
+Jun-ho, don't let your temper
+get the best of you.
+
+404
+00:32:14,810 --> 00:32:18,410
+The mission matters more
+than your ego. Got it?
+
+405
+00:32:19,240 --> 00:32:20,080
+Understood.
+
+406
+00:32:21,820 --> 00:32:24,540
+Songmin, you're going with them.
+
+407
+00:32:26,140 --> 00:32:29,130
+Keep an eye on that Thai guy.
+Don't let him steal from me again.
+
+408
+00:32:30,090 --> 00:32:30,930
+Okay.
+
+409
+00:32:33,580 --> 00:32:34,420
+Now go.
+
+410
+00:32:44,160 --> 00:32:45,310
+You remember what I told you?
+
+411
+00:32:46,920 --> 00:32:48,740
+About Songmin and that kid, Sun.
+
+412
+00:32:49,540 --> 00:32:52,450
+Already taken care of.
+I gave my men strict orders.
+
+413
+00:32:53,410 --> 00:32:56,290
+Good. Go.
+
+414
+00:33:04,460 --> 00:33:08,800
+Boss, that port runs on
+a fully automated computer system.
+
+415
+00:33:10,020 --> 00:33:12,570
+All we need is someone inside
+who manages the network.
+
+416
+00:33:12,840 --> 00:33:15,270
+We'll bait them with a phishing email,
+get inside their system.
+
+417
+00:33:15,660 --> 00:33:17,800
+Drop in some malware
+like a sandworm virus.
+
+418
+00:33:18,680 --> 00:33:20,280
+And boom, system's ours.
+
+419
+00:33:20,870 --> 00:33:21,750
+We're blowing stuff up?
+
+420
+00:33:23,410 --> 00:33:24,630
+Wait, did anyone even get what I just said?
+
+421
+00:33:26,230 --> 00:33:27,070
+What the heck was that?
+
+422
+00:33:28,040 --> 00:33:31,140
+Can you speak like a normal human?
+You sound like an darn alien.
+
+423
+00:33:31,140 --> 00:33:34,660
+That was human language.
+It's called IT. Ever heard of it?
+
+424
+00:33:35,080 --> 00:33:37,890
+You troublemaker! How did someone as irritating
+as you even get released from prison?
+
+425
+00:33:38,330 --> 00:33:39,670
+So, is it done or what? We're all waiting here.
+
+426
+00:33:40,160 --> 00:33:42,660
+It's a complex system.
+You think it just hacks itself?
+
+427
+00:33:43,020 --> 00:33:47,420
+It takes time. Go do what you
+usually do, boxing, drinking, whatever.
+
+428
+00:33:47,780 --> 00:33:49,080
+You ever heard of Marvel?
+
+429
+00:33:49,080 --> 00:33:52,690
+Mavel? Mangwae? Man-whatever?
+What the heck are you talking about?
+
+430
+00:33:53,100 --> 00:33:55,410
+You watch way too many
+cartoons, man. You okay?
+
+431
+00:33:58,730 --> 00:33:59,570
+Eh,
+
+432
+00:34:00,030 --> 00:34:01,450
+let me do a formal intro.
+
+433
+00:34:02,380 --> 00:34:03,220
+This is Peace.
+
+434
+00:34:03,680 --> 00:34:04,760
+Mr. Joe's son.
+
+435
+00:34:07,260 --> 00:34:08,890
+Dude, no need to make it that dramatic.
+
+436
+00:34:10,380 --> 00:34:12,120
+I'm not interested
+in knowing those guys anyway.
+
+437
+00:34:12,700 --> 00:34:13,540
+Whatever.
+
+438
+00:34:14,140 --> 00:34:15,400
+They're the reason Kong died.
+
+439
+00:34:16,280 --> 00:34:21,070
+Sun ended up in jail
+and all our lives went to hell.
+
+440
+00:34:22,340 --> 00:34:23,250
+Hey, chill out.
+
+441
+00:34:24,120 --> 00:34:25,980
+We just gotta finish the job
+and part ways. That's it.
+
+442
+00:34:29,280 --> 00:34:31,530
+Boss, once the power goes out
+at the port and backup doesn't kick in,
+
+443
+00:34:31,870 --> 00:34:34,190
+we've got ten minutes max.
+
+444
+00:34:34,440 --> 00:34:36,990
+Maintenance crews will show up after
+about 12 minutes, according to the map.
+
+445
+00:34:38,300 --> 00:34:39,540
+We're cutting it close.
+
+446
+00:34:41,330 --> 00:34:43,680
+Can't we get more time? Just in case?
+
+447
+00:34:44,340 --> 00:34:46,220
+We already built in
+two extra minutes, remember?
+
+448
+00:34:46,700 --> 00:34:48,160
+Two minutes ain't enough, man.
+
+449
+00:34:48,720 --> 00:34:51,420
+I can hack machines, not people!
+
+450
+00:34:55,160 --> 00:34:56,180
+What do you wanna do, Sun?
+
+451
+00:34:58,010 --> 00:34:59,180
+Let's just wait and see.
+
+452
+00:35:00,140 --> 00:35:01,080
+Drive, now!
+
+453
+00:35:07,460 --> 00:35:08,300
+Move!
+
+454
+00:35:15,550 --> 00:35:16,390
+Got it.
+
+455
+00:35:23,960 --> 00:35:24,820
+Careful.
+
+456
+00:35:25,500 --> 00:35:26,500
+What kinda hack job was that?
+
+457
+00:35:27,740 --> 00:35:29,020
+You think you're on a fashion runway?
+
+458
+00:35:41,640 --> 00:35:44,270
+See that area? The red containers?
+
+459
+00:35:45,260 --> 00:35:49,380
+That zone's for seized cargo
+waiting for inspection.
+
+460
+00:35:51,730 --> 00:35:54,740
+It's like 50 meters to haul stuff from there.
+
+461
+00:35:56,500 --> 00:35:58,540
+Ready, bro.
+
+462
+00:35:59,200 --> 00:36:00,570
+Okay, let's do it.
+
+463
+00:36:02,740 --> 00:36:06,350
+- Three, two.
+- One.
+
+464
+00:36:09,500 --> 00:36:10,380
+What the...
+
+465
+00:36:12,940 --> 00:36:14,980
+Tian, why is the power still on?
+
+466
+00:36:21,520 --> 00:36:24,370
+Wait, now! Move!
+
+467
+00:36:29,030 --> 00:36:31,190
+Let's go! Quick!
+
+468
+00:36:32,250 --> 00:36:34,980
+Sun, I'll wait outside
+in case they try anything.
+
+469
+00:36:35,580 --> 00:36:36,900
+Okay, bro. Watch our backs.
+
+470
+00:36:36,910 --> 00:36:37,750
+Got it.
+
+471
+00:36:38,730 --> 00:36:39,750
+Stay safe, all of you.
+
+472
+00:36:41,930 --> 00:36:42,840
+Be careful, okay?
+
+473
+00:36:59,770 --> 00:37:01,460
+Let's find something fun to watch.
+
+474
+00:37:07,180 --> 00:37:09,380
+That little guy's got an attitude.
+
+475
+00:37:17,500 --> 00:37:18,500
+Hurry up!
+
+476
+00:37:53,820 --> 00:37:54,910
+Faster, boss!
+
+477
+00:37:55,500 --> 00:37:57,540
+I'm hurrying! Chill!
+
+478
+00:37:59,160 --> 00:38:00,100
+Keep searching!
+
+479
+00:38:04,750 --> 00:38:06,040
+Try knocking or something, dumbhead.
+
+480
+00:38:07,330 --> 00:38:08,700
+Knocking for what, man?
+
+481
+00:38:08,700 --> 00:38:09,930
+You never know, man!
+
+482
+00:38:09,930 --> 00:38:10,920
+You're trying to invite trouble?
+
+483
+00:38:10,940 --> 00:38:14,880
+Quiet down, will you?
+You're gonna get us caught!
+
+484
+00:38:15,220 --> 00:38:16,490
+Didn't you say it was here?
+
+485
+00:38:16,490 --> 00:38:17,610
+Relax, we're close!
+
+486
+00:38:17,610 --> 00:38:18,470
+Then where the heck is it?
+
+487
+00:38:18,480 --> 00:38:19,320
+Calm down, dude!
+
+488
+00:38:19,320 --> 00:38:20,190
+Why are you arguing?
+
+489
+00:38:20,190 --> 00:38:21,160
+We're looking, aren't we?
+
+490
+00:38:21,990 --> 00:38:26,380
+You two check the other side.
+I'll handle this one.
+
+491
+00:38:27,940 --> 00:38:28,810
+Keep your eyes open.
+
+492
+00:38:36,890 --> 00:38:40,200
+Still nothing. It's been three minutes.
+
+493
+00:38:45,580 --> 00:38:47,060
+Where's your friend?
+
+494
+00:39:08,110 --> 00:39:11,070
+Almost got it. I think we're close.
+
+495
+00:39:14,280 --> 00:39:15,120
+Faster!
+
+496
+00:39:33,250 --> 00:39:36,960
+Got it! The third red container
+in the last row!
+
+497
+00:39:38,130 --> 00:39:39,330
+Alright, I'm heading over!
+
+498
+00:40:15,400 --> 00:40:17,240
+Sorry for the wait. My bad.
+
+499
+00:40:17,640 --> 00:40:20,340
+I came a little later than expected.
+
+500
+00:40:31,980 --> 00:40:32,860
+Sun!
+
+501
+00:40:35,410 --> 00:40:36,250
+Is this the one?
+
+502
+00:40:37,260 --> 00:40:38,100
+Open it.
+
+503
+00:40:45,240 --> 00:40:46,310
+Darn, it's heavy.
+
+504
+00:40:48,020 --> 00:40:48,860
+Search it.
+
+505
+00:40:50,010 --> 00:40:50,860
+Be quick!
+
+506
+00:40:50,860 --> 00:40:51,700
+You stay and keep watch.
+
+507
+00:40:59,860 --> 00:41:01,920
+- Find anything?
+- There's nothing here.
+
+508
+00:41:13,100 --> 00:41:14,020
+Found it!
+
+509
+00:41:14,480 --> 00:41:15,730
+Jackpot, baby!
+
+510
+00:41:16,520 --> 00:41:19,723
+Told ya! Found the right
+container and the right stuff.
+
+511
+00:41:19,748 --> 00:41:21,700
+Where would y'all be without me?
+
+512
+00:41:22,330 --> 00:41:24,650
+Oh, look at you. Carry it yourself then!
+
+513
+00:41:24,650 --> 00:41:26,040
+Yeah, carry it, hotshot.
+
+514
+00:41:26,040 --> 00:41:28,380
+Now that we found it, move fast.
+Time's running out.
+
+515
+00:41:32,470 --> 00:41:33,310
+Peace!
+
+516
+00:41:42,720 --> 00:41:43,940
+What the heck?
+
+517
+00:41:45,690 --> 00:41:48,490
+You two, keep searching. I'll catch up.
+
+518
+00:41:48,800 --> 00:41:51,260
+Boss, don't go off-scrip!
+
+519
+00:41:52,580 --> 00:41:53,970
+What's wrong?
+
+520
+00:41:53,970 --> 00:41:55,340
+Just go, Tim.
+
+521
+00:41:55,340 --> 00:41:56,180
+Hurry!
+
+522
+00:41:59,080 --> 00:41:59,920
+Come on, Peace!
+
+523
+00:42:21,730 --> 00:42:23,820
+Tim! Move!
+
+524
+00:42:24,720 --> 00:42:29,640
+Give me a hand! Bring it here, quick!
+
+525
+00:42:33,900 --> 00:42:36,990
+- Where's Sun?
+- He told me to go ahead.
+
+526
+00:42:38,720 --> 00:42:41,800
+Sun, where the heck are you?
+We've got the stuff, come out!
+
+527
+00:42:42,230 --> 00:42:45,820
+You guys go ahead.
+Don't worry about me. Just don't get caught.
+
+528
+00:42:46,170 --> 00:42:47,960
+Sun! Darn it!
+
+529
+00:42:48,450 --> 00:42:51,950
+He'll be fine. Let's go!
+
+530
+00:42:52,680 --> 00:42:55,370
+Go, now!
+
+531
+00:43:11,150 --> 00:43:12,780
+Move!
+
+532
+00:43:18,960 --> 00:43:19,860
+We should be in the clear.
+
+533
+00:43:32,360 --> 00:43:33,200
+You're hurt?
+
+534
+00:44:13,720 --> 00:44:15,100
+Let's go back.
+
+535
+00:44:33,150 --> 00:44:34,840
+Missed the best part.
+
+536
+00:44:37,150 --> 00:44:39,570
+They got away.
+Should we report to Mr. Joe?
+
+537
+00:44:44,700 --> 00:44:47,380
+No. Circle back and pick up
+Jun-ho and the others.
+
+538
+00:44:47,780 --> 00:44:48,640
+Okay.
+
+539
+00:44:58,510 --> 00:45:00,950
+(Next Episode)
+I'm gonna wipe out the Bangkok Boy.
+
+540
+00:45:01,210 --> 00:45:03,060
+You all know what to do, right?
+
+541
+00:45:04,000 --> 00:45:05,250
+Don't let Madam run off
+on her own this time.
+
+542
+00:45:10,610 --> 00:45:16,530
+♪ Please hold me ♪
+
+543
+00:45:17,120 --> 00:45:22,870
+♪ Please, don't leave me ♪
+
+544
+00:45:23,290 --> 00:45:28,870
+♪ No matter how you are ♪
+
+545
+00:45:29,030 --> 00:45:32,490
+♪ For me, you are ♪
+
+546
+00:45:32,610 --> 00:45:38,200
+♪ My last breath ♪
