@@ -1,0 +1,2640 @@
+1
+00:00:11,483 --> 00:00:13,619
+<font face="sans-serif" size="71">Shall we go somewhere today?</font>
+
+2
+00:00:16,622 --> 00:00:17,456
+<font face="sans-serif" size="71">Yes.</font>
+
+3
+00:00:24,329 --> 00:00:25,597
+<font face="sans-serif" size="71">Saeko?</font>
+
+4
+00:00:26,865 --> 00:00:29,067
+<font face="sans-serif" size="71">"Saeko"?</font>
+
+5
+00:00:30,235 --> 00:00:31,136
+<font face="sans-serif" size="71">He used her first name?</font>
+
+6
+00:00:37,776 --> 00:00:39,711
+<font face="sans-serif" size="71">What? Is something the matter?</font>
+
+7
+00:00:40,379 --> 00:00:41,413
+<font face="sans-serif" size="71">I'm sorry to bother you.</font>
+
+8
+00:00:42,080 --> 00:00:44,650
+<font face="sans-serif" size="71">I broke my PC and lost all the data
+for the conference tomorrow.</font>
+
+9
+00:00:45,117 --> 00:00:47,185
+<font face="sans-serif" size="71">-What?
+-So you see, I'll pay you extra! Come on!</font>
+
+10
+00:00:47,252 --> 00:00:49,354
+<font face="sans-serif" size="71">But, Saeko, wait.</font>
+
+11
+00:00:58,864 --> 00:01:00,699
+<font face="sans-serif" size="71">Today, I'm...</font>
+
+12
+00:01:00,766 --> 00:01:04,803
+<font face="sans-serif" size="71">No, it's okay, Uehara. Go to work.</font>
+
+13
+00:01:05,637 --> 00:01:06,571
+<font face="sans-serif" size="71">What?</font>
+
+14
+00:01:06,905 --> 00:01:08,206
+<font face="sans-serif" size="71">See you later.</font>
+
+15
+00:01:10,442 --> 00:01:12,377
+<font face="sans-serif" size="71">Do you have a fever or something?</font>
+
+16
+00:01:14,379 --> 00:01:15,647
+<font face="sans-serif" size="71">That's rude!</font>
+
+17
+00:01:16,615 --> 00:01:19,317
+<font face="sans-serif" size="71">You have work. I know it's important.</font>
+
+18
+00:01:20,118 --> 00:01:21,486
+<font face="sans-serif" size="71">Do your best.</font>
+
+19
+00:01:24,723 --> 00:01:25,757
+<font face="sans-serif" size="71">Okay.</font>
+
+20
+00:01:26,158 --> 00:01:27,392
+<font face="sans-serif" size="71">Okay.</font>
+
+21
+00:01:27,559 --> 00:01:28,427
+<font face="sans-serif" size="71">You.</font>
+
+22
+00:01:31,096 --> 00:01:33,665
+<font face="sans-serif" size="71">You're a fine woman!
+An excellent girlfriend!</font>
+
+23
+00:01:37,569 --> 00:01:38,537
+<font face="sans-serif" size="71">Well,</font>
+
+24
+00:01:39,638 --> 00:01:41,039
+<font face="sans-serif" size="71">it comes naturally to me.</font>
+
+25
+00:01:43,875 --> 00:01:47,412
+<font face="sans-serif" size="71">Why did he go? Uehara, that idiot!</font>
+
+26
+00:01:49,247 --> 00:01:51,750
+<font face="sans-serif" size="71">Aren't you the one that told him to go?</font>
+
+27
+00:01:51,850 --> 00:01:52,784
+<font face="sans-serif" size="71">Yes.</font>
+
+28
+00:01:52,851 --> 00:01:54,953
+<font face="sans-serif" size="71">I admit that is true.</font>
+
+29
+00:01:55,954 --> 00:02:02,360
+<font face="sans-serif" size="71">Nao, the thing that's bugging you most
+is that Uehara called her "Saeko," right?</font>
+
+30
+00:02:05,097 --> 00:02:08,700
+<font face="sans-serif" size="71">The only other woman Uehara calls
+by her first name is Yuri, right?</font>
+
+31
+00:02:10,702 --> 00:02:12,104
+<font face="sans-serif" size="71">Oh, I'm sorry.</font>
+
+32
+00:02:13,138 --> 00:02:15,907
+<font face="sans-serif" size="71">I guess I shouldn't have said that.</font>
+
+33
+00:02:19,311 --> 00:02:21,213
+<font face="sans-serif" size="71">Saeko.</font>
+
+34
+00:02:22,180 --> 00:02:23,915
+<font face="sans-serif" size="71">Hisashi.</font>
+
+35
+00:02:37,095 --> 00:02:39,664
+<font face="sans-serif" size="71">No, no!</font>
+
+36
+00:02:39,731 --> 00:02:42,501
+<font face="sans-serif" size="71">No, no!</font>
+
+37
+00:02:42,601 --> 00:02:44,336
+<font face="sans-serif" size="71">Don't do it, Uehara!</font>
+
+38
+00:02:45,370 --> 00:02:49,040
+<font face="sans-serif" size="71">Nao, please come back to reality.</font>
+
+39
+00:02:49,474 --> 00:02:50,876
+<font face="sans-serif" size="71">Who is Yuri?</font>
+
+40
+00:02:51,443 --> 00:02:55,714
+<font face="sans-serif" size="71">An older woman
+that Uehara was in love with</font>
+
+41
+00:02:56,515 --> 00:02:59,951
+<font face="sans-serif" size="71">for eight years
+before he and Nao got together.</font>
+
+42
+00:03:00,585 --> 00:03:03,622
+<font face="sans-serif" size="71">So, Uehara likes older women.</font>
+
+43
+00:03:04,456 --> 00:03:06,691
+<font face="sans-serif" size="71">So that means Nao</font>
+
+44
+00:03:07,025 --> 00:03:10,262
+<font face="sans-serif" size="71">is exactly the opposite
+of Uehara's ideal type.</font>
+
+45
+00:03:12,964 --> 00:03:14,800
+<font face="sans-serif" size="71">Well, it's just that</font>
+
+46
+00:03:14,900 --> 00:03:17,903
+<font face="sans-serif" size="71">when he's with Nao,
+Uehara seems much older.</font>
+
+47
+00:03:18,103 --> 00:03:20,071
+<font face="sans-serif" size="71">But he does look old for his age.</font>
+
+48
+00:03:21,206 --> 00:03:23,175
+<font face="sans-serif" size="71">Am I such a little kid?</font>
+
+49
+00:03:23,275 --> 00:03:25,677
+<font face="sans-serif" size="71">Well, I guess you could say
+it's a good thing about you.</font>
+
+50
+00:03:26,745 --> 00:03:28,113
+<font face="sans-serif" size="71">Look at it this way.</font>
+
+51
+00:03:28,747 --> 00:03:31,783
+<font face="sans-serif" size="71">You've been together a year and a half.
+You should grow up a bit.</font>
+
+52
+00:03:33,251 --> 00:03:35,353
+<font face="sans-serif" size="71">Be more confident. Okay?</font>
+
+53
+00:03:40,225 --> 00:03:41,393
+<font face="sans-serif" size="71">MITSUISHI</font>
+
+54
+00:03:41,459 --> 00:03:42,761
+<font face="sans-serif" size="71">It's Mitsuishi.</font>
+
+55
+00:03:44,529 --> 00:03:46,565
+<font face="sans-serif" size="71">When did you start
+taking pictures like that?</font>
+
+56
+00:03:47,132 --> 00:03:48,567
+<font face="sans-serif" size="71">It's just normal.</font>
+
+57
+00:03:50,202 --> 00:03:51,403
+<font face="sans-serif" size="71">-Hello?
+-Normal?</font>
+
+58
+00:03:51,503 --> 00:03:52,971
+<font face="sans-serif" size="71">Mitsuishi?</font>
+
+59
+00:03:54,005 --> 00:03:55,307
+<font face="sans-serif" size="71">Sure. What's up?</font>
+
+60
+00:04:06,151 --> 00:04:09,354
+<font face="sans-serif" size="71">These are all shots of Uehara alone.</font>
+
+61
+00:04:09,421 --> 00:04:11,456
+<font face="sans-serif" size="71">And it looks like you took them in secret.</font>
+
+62
+00:04:17,829 --> 00:04:20,799
+<font face="sans-serif" size="71">And these are all group shots.</font>
+
+63
+00:04:29,841 --> 00:04:30,876
+<font face="sans-serif" size="71">BASED ON THE COMIC SERIES</font>
+
+64
+00:04:30,942 --> 00:04:32,744
+<font face="sans-serif" size="71"><i>GOOD MORNING CALL
+AND <i>GOOD MORNING KISS BY YUE TAKASUKA</i></i></font>
+
+65
+00:05:35,607 --> 00:05:37,509
+<font face="sans-serif" size="71">Those two went home so quickly.</font>
+
+66
+00:05:37,909 --> 00:05:39,811
+<font face="sans-serif" size="71">They could have hung out with me.</font>
+
+67
+00:05:46,651 --> 00:05:48,920
+<font face="sans-serif" size="71">Hanging out in town alone...</font>
+
+68
+00:05:53,558 --> 00:05:55,060
+<font face="sans-serif" size="71">A grown-up woman!</font>
+
+69
+00:05:57,929 --> 00:05:59,998
+<font face="sans-serif" size="71">I'm being confident.</font>
+
+70
+00:06:08,373 --> 00:06:09,207
+<font face="sans-serif" size="71">Uehara!</font>
+
+71
+00:06:10,141 --> 00:06:11,509
+<font face="sans-serif" size="71">Uehara.</font>
+
+72
+00:06:11,676 --> 00:06:17,549
+<font face="sans-serif" size="71">FROM OTA</font>
+
+73
+00:06:17,615 --> 00:06:22,287
+<font face="sans-serif" size="71">Don't forget the materials
+for the club tomorrow.</font>
+
+74
+00:06:40,505 --> 00:06:42,640
+<font face="sans-serif" size="71">-That hurt!
+-Airi!</font>
+
+75
+00:06:43,108 --> 00:06:45,143
+<font face="sans-serif" size="71">Are you okay? Are you hurt?</font>
+
+76
+00:06:49,414 --> 00:06:50,281
+<font face="sans-serif" size="71">Natsume.</font>
+
+77
+00:06:51,750 --> 00:06:52,917
+<font face="sans-serif" size="71">Nao.</font>
+
+78
+00:06:55,987 --> 00:06:57,255
+<font face="sans-serif" size="71">Natsume,</font>
+
+79
+00:06:58,256 --> 00:07:01,459
+<font face="sans-serif" size="71">she is way too young for you,
+don't you think?</font>
+
+80
+00:07:03,762 --> 00:07:04,829
+<font face="sans-serif" size="71">Come on.</font>
+
+81
+00:07:06,064 --> 00:07:08,533
+<font face="sans-serif" size="71">Nao, you've got it wrong.
+This is my sister.</font>
+
+82
+00:07:09,667 --> 00:07:10,835
+<font face="sans-serif" size="71">Sister?</font>
+
+83
+00:07:10,969 --> 00:07:12,670
+<font face="sans-serif" size="71">Airi. Say hi.</font>
+
+84
+00:07:21,646 --> 00:07:22,914
+<font face="sans-serif" size="71">Hello.</font>
+
+85
+00:07:27,986 --> 00:07:30,221
+<font face="sans-serif" size="71">Hey. That squirrel is so cute.</font>
+
+86
+00:07:35,093 --> 00:07:36,094
+<font face="sans-serif" size="71">Is it handmade?</font>
+
+87
+00:07:36,594 --> 00:07:38,329
+<font face="sans-serif" size="71">Did your mom make it for you?</font>
+
+88
+00:07:39,230 --> 00:07:40,698
+<font face="sans-serif" size="71">-My brother...
+-Airi!</font>
+
+89
+00:07:40,799 --> 00:07:42,267
+<font face="sans-serif" size="71">Why don't you look around the shop?</font>
+
+90
+00:07:42,367 --> 00:07:43,368
+<font face="sans-serif" size="71">-Okay!
+-Okay.</font>
+
+91
+00:07:44,602 --> 00:07:46,905
+<font face="sans-serif" size="71">Don't run! You'll have another accident.</font>
+
+92
+00:07:49,307 --> 00:07:50,208
+<font face="sans-serif" size="71">See you.</font>
+
+93
+00:07:52,477 --> 00:07:53,812
+<font face="sans-serif" size="71">"Brother."</font>
+
+94
+00:08:03,521 --> 00:08:06,324
+<font face="sans-serif" size="71">I want another squirrel like this one.</font>
+
+95
+00:08:06,624 --> 00:08:08,493
+<font face="sans-serif" size="71">This is a squirrel too. It's the same.</font>
+
+96
+00:08:10,528 --> 00:08:11,930
+<font face="sans-serif" size="71">It's different somehow.</font>
+
+97
+00:08:12,030 --> 00:08:13,565
+<font face="sans-serif" size="71">No, it's the same. Look.</font>
+
+98
+00:08:13,631 --> 00:08:14,866
+<font face="sans-serif" size="71">Right?</font>
+
+99
+00:08:15,767 --> 00:08:16,935
+<font face="sans-serif" size="71">Okay.</font>
+
+100
+00:08:18,903 --> 00:08:20,171
+<font face="sans-serif" size="71">Good.</font>
+
+101
+00:08:31,082 --> 00:08:32,617
+<font face="sans-serif" size="71">It's not right.</font>
+
+102
+00:08:33,751 --> 00:08:35,019
+<font face="sans-serif" size="71">Shall we look around a bit more?</font>
+
+103
+00:08:37,222 --> 00:08:38,356
+<font face="sans-serif" size="71">Can we?</font>
+
+104
+00:08:45,130 --> 00:08:47,198
+<font face="sans-serif" size="71">So who are we going
+to give this present to?</font>
+
+105
+00:08:48,500 --> 00:08:49,834
+<font face="sans-serif" size="71">Someone I like.</font>
+
+106
+00:08:52,270 --> 00:08:54,305
+<font face="sans-serif" size="71">-It's not a boy, is it?
+-It is a boy.</font>
+
+107
+00:08:57,275 --> 00:08:59,711
+<font face="sans-serif" size="71">Airi, don't you think you should
+think this over more carefully?</font>
+
+108
+00:09:00,178 --> 00:09:01,212
+<font face="sans-serif" size="71">Come on, let's go.</font>
+
+109
+00:09:01,312 --> 00:09:02,580
+<font face="sans-serif" size="71">Listen to your big brother.</font>
+
+110
+00:09:02,680 --> 00:09:04,315
+<font face="sans-serif" size="71">There are three types of men in the world.</font>
+
+111
+00:09:04,382 --> 00:09:05,817
+<font face="sans-serif" size="71">Good men, bad men, and frivolous men.</font>
+
+112
+00:09:05,917 --> 00:09:07,352
+<font face="sans-serif" size="71">Yes.</font>
+
+113
+00:09:07,452 --> 00:09:08,620
+<font face="sans-serif" size="71">Don't just brush it off.</font>
+
+114
+00:09:08,686 --> 00:09:10,889
+<font face="sans-serif" size="71">You need to learn how to judge men now.</font>
+
+115
+00:09:10,989 --> 00:09:13,491
+<font face="sans-serif" size="71">You know, "What is learned in the cradle
+is carried to the grave."</font>
+
+116
+00:09:18,696 --> 00:09:19,797
+<font face="sans-serif" size="71">Natsume.</font>
+
+117
+00:09:24,335 --> 00:09:27,505
+<font face="sans-serif" size="71">Natsume, you're not frivolous at all
+in front of your sister.</font>
+
+118
+00:09:27,572 --> 00:09:30,275
+<font face="sans-serif" size="71">Wait! Don't call me frivolous.</font>
+
+119
+00:09:30,341 --> 00:09:31,643
+<font face="sans-serif" size="71">What?</font>
+
+120
+00:09:31,709 --> 00:09:32,911
+<font face="sans-serif" size="71">Airi. Let's go.</font>
+
+121
+00:09:34,612 --> 00:09:36,548
+<font face="sans-serif" size="71">Hey! Wait a minute.</font>
+
+122
+00:09:37,782 --> 00:09:41,119
+<font face="sans-serif" size="71">Hey. Can I help you look
+for your gift too?</font>
+
+123
+00:09:41,219 --> 00:09:42,987
+<font face="sans-serif" size="71">-Really?
+-Yes.</font>
+
+124
+00:09:43,054 --> 00:09:45,423
+<font face="sans-serif" size="71">No, Airi. Nao is busy.
+You shouldn't bother her.</font>
+
+125
+00:09:45,890 --> 00:09:46,991
+<font face="sans-serif" size="71">Are you busy?</font>
+
+126
+00:09:47,559 --> 00:09:48,626
+<font face="sans-serif" size="71">No.</font>
+
+127
+00:09:49,561 --> 00:09:52,163
+<font face="sans-serif" size="71">My plans got cancelled at the last minute.
+I'm free.</font>
+
+128
+00:09:54,766 --> 00:09:55,700
+<font face="sans-serif" size="71">So, can I?</font>
+
+129
+00:09:55,767 --> 00:09:57,902
+<font face="sans-serif" size="71">Yes! Right, Shu?</font>
+
+130
+00:09:59,771 --> 00:10:00,638
+<font face="sans-serif" size="71">Sure.</font>
+
+131
+00:10:09,948 --> 00:10:11,616
+<font face="sans-serif" size="71">Well? Do you think you can fix it?</font>
+
+132
+00:10:14,419 --> 00:10:15,453
+<font face="sans-serif" size="71">Well?</font>
+
+133
+00:10:15,553 --> 00:10:18,489
+<font face="sans-serif" size="71">If it can't be fixed, I'll have to
+start over from scratch! Answer me!</font>
+
+134
+00:10:19,090 --> 00:10:20,491
+<font face="sans-serif" size="71">-Wait!
+-What?</font>
+
+135
+00:10:20,592 --> 00:10:22,927
+<font face="sans-serif" size="71">There's still a backup
+of the work I did yesterday.</font>
+
+136
+00:10:23,027 --> 00:10:26,097
+<font face="sans-serif" size="71">You did it!
+What about the work I did after that?</font>
+
+137
+00:10:27,999 --> 00:10:29,534
+<font face="sans-serif" size="71">Did you back it up?</font>
+
+138
+00:10:33,805 --> 00:10:35,173
+<font face="sans-serif" size="71">Do you have some kind of a problem?</font>
+
+139
+00:10:35,240 --> 00:10:37,375
+<font face="sans-serif" size="71">-No.
+-Hurry up and get to work.</font>
+
+140
+00:10:37,475 --> 00:10:38,509
+<font face="sans-serif" size="71">All right.</font>
+
+141
+00:10:46,584 --> 00:10:48,586
+<font face="sans-serif" size="71">I wonder if they have it.</font>
+
+142
+00:10:50,221 --> 00:10:51,289
+<font face="sans-serif" size="71">Airi, look.</font>
+
+143
+00:10:51,389 --> 00:10:53,424
+<font face="sans-serif" size="71">-How cute!
+-How cute!</font>
+
+144
+00:10:53,491 --> 00:10:56,194
+<font face="sans-serif" size="71">-Squirrels.
+-It's true. They're so cute.</font>
+
+145
+00:10:57,428 --> 00:10:59,364
+<font face="sans-serif" size="71">Look! A sheep!</font>
+
+146
+00:10:59,430 --> 00:11:01,332
+<font face="sans-serif" size="71">-Fluffy.
+-It really is.</font>
+
+147
+00:11:01,432 --> 00:11:02,734
+<font face="sans-serif" size="71">It's so soft.</font>
+
+148
+00:11:02,800 --> 00:11:05,136
+<font face="sans-serif" size="71">-How cute!
+-How cute!</font>
+
+149
+00:11:05,236 --> 00:11:06,304
+<font face="sans-serif" size="71">This is all so cute.</font>
+
+150
+00:11:06,838 --> 00:11:08,673
+<font face="sans-serif" size="71">-This is so cute.
+-It's sparkly.</font>
+
+151
+00:11:08,773 --> 00:11:10,308
+<font face="sans-serif" size="71">It's a deer.</font>
+
+152
+00:11:23,087 --> 00:11:25,390
+<font face="sans-serif" size="71">One that's the same as this.</font>
+
+153
+00:11:25,490 --> 00:11:28,760
+<font face="sans-serif" size="71">Oh, those are sold out at the moment.</font>
+
+154
+00:11:34,899 --> 00:11:36,100
+<font face="sans-serif" size="71">Let's try another store.</font>
+
+155
+00:11:37,035 --> 00:11:38,102
+<font face="sans-serif" size="71">Forget about it.</font>
+
+156
+00:11:39,671 --> 00:11:44,475
+<font face="sans-serif" size="71">But the person in the shop said
+they stopped making them.</font>
+
+157
+00:11:44,976 --> 00:11:47,912
+<font face="sans-serif" size="71">That means they don't sell them
+anymore, right?</font>
+
+158
+00:11:49,447 --> 00:11:51,949
+<font face="sans-serif" size="71">There must be some left
+on the shelves somewhere.</font>
+
+159
+00:11:54,552 --> 00:11:55,787
+<font face="sans-serif" size="71">Hey!</font>
+
+160
+00:11:56,721 --> 00:11:58,856
+<font face="sans-serif" size="71">If you tell her that
+and can't find one in the end,</font>
+
+161
+00:11:58,956 --> 00:12:00,992
+<font face="sans-serif" size="71">Airi will be even more depressed.</font>
+
+162
+00:12:02,193 --> 00:12:03,561
+<font face="sans-serif" size="71">I'll find one. You'll see.</font>
+
+163
+00:12:05,330 --> 00:12:07,965
+<font face="sans-serif" size="71">Where's this confidence coming from?</font>
+
+164
+00:12:09,500 --> 00:12:11,936
+<font face="sans-serif" size="71">Hey. Leave this to me.</font>
+
+165
+00:12:15,807 --> 00:12:16,874
+<font face="sans-serif" size="71">Airi.</font>
+
+166
+00:12:17,542 --> 00:12:21,212
+<font face="sans-serif" size="71">A stuffed toy is one thing,
+but would you like to see real squirrels?</font>
+
+167
+00:12:23,915 --> 00:12:26,617
+<font face="sans-serif" size="71">There's a park nearby that has squirrels.</font>
+
+168
+00:12:28,186 --> 00:12:29,554
+<font face="sans-serif" size="71">Can I touch them?</font>
+
+169
+00:12:29,654 --> 00:12:30,488
+<font face="sans-serif" size="71">Of course.</font>
+
+170
+00:12:30,922 --> 00:12:33,091
+<font face="sans-serif" size="71">They sell toy squirrel souvenirs too.</font>
+
+171
+00:12:33,758 --> 00:12:34,892
+<font face="sans-serif" size="71">I want to go!</font>
+
+172
+00:12:36,461 --> 00:12:37,528
+<font face="sans-serif" size="71">But...</font>
+
+173
+00:12:46,504 --> 00:12:48,506
+<font face="sans-serif" size="71">-Shall we go then?
+-Cool!</font>
+
+174
+00:12:49,340 --> 00:12:50,375
+<font face="sans-serif" size="71">Let's go!</font>
+
+175
+00:13:09,627 --> 00:13:11,696
+<font face="sans-serif" size="71">-Look, look!
+-Wow!</font>
+
+176
+00:13:13,664 --> 00:13:15,266
+<font face="sans-serif" size="71">They're amazing.</font>
+
+177
+00:13:20,271 --> 00:13:21,439
+<font face="sans-serif" size="71">It's so big.</font>
+
+178
+00:13:22,740 --> 00:13:24,342
+<font face="sans-serif" size="71">He's eating so much.</font>
+
+179
+00:13:24,409 --> 00:13:26,444
+<font face="sans-serif" size="71">-Nibble nibble.
+-Nibble nibble.</font>
+
+180
+00:13:29,247 --> 00:13:31,349
+<font face="sans-serif" size="71">You can take my picture if you want, Shu.</font>
+
+181
+00:13:32,450 --> 00:13:34,085
+<font face="sans-serif" size="71">No, I don't really need to.</font>
+
+182
+00:13:34,185 --> 00:13:37,088
+<font face="sans-serif" size="71">But you're always taking
+tons of photos of me.</font>
+
+183
+00:13:37,522 --> 00:13:38,723
+<font face="sans-serif" size="71">Really?</font>
+
+184
+00:13:38,990 --> 00:13:41,292
+<font face="sans-serif" size="71">-Sometimes.
+-Every day.</font>
+
+185
+00:13:41,359 --> 00:13:42,693
+<font face="sans-serif" size="71">-Every day?
+-Yes.</font>
+
+186
+00:13:42,794 --> 00:13:45,463
+<font face="sans-serif" size="71">Airi, you don't need
+to tell everybody stuff like that.</font>
+
+187
+00:13:45,563 --> 00:13:46,464
+<font face="sans-serif" size="71">Why not?</font>
+
+188
+00:13:47,298 --> 00:13:48,766
+<font face="sans-serif" size="71">Why not? Well...</font>
+
+189
+00:14:09,854 --> 00:14:10,955
+<font face="sans-serif" size="71">Your girlfriend?</font>
+
+190
+00:14:16,027 --> 00:14:16,961
+<font face="sans-serif" size="71">Worried?</font>
+
+191
+00:14:17,829 --> 00:14:19,730
+<font face="sans-serif" size="71">Not really.</font>
+
+192
+00:14:21,766 --> 00:14:25,069
+<font face="sans-serif" size="71">She let you go.
+She's an understanding adult, isn't she?</font>
+
+193
+00:14:28,639 --> 00:14:31,843
+<font face="sans-serif" size="71">Well, you called her an adult.</font>
+
+194
+00:14:32,310 --> 00:14:33,244
+<font face="sans-serif" size="71">Isn't she?</font>
+
+195
+00:14:33,778 --> 00:14:35,980
+<font face="sans-serif" size="71">I think she is trying hard to be one.</font>
+
+196
+00:14:37,682 --> 00:14:41,652
+<font face="sans-serif" size="71">She once saw a cockroach in her place,</font>
+
+197
+00:14:41,986 --> 00:14:44,422
+<font face="sans-serif" size="71">so she started spraying her room
+with bug spray,</font>
+
+198
+00:14:44,522 --> 00:14:46,290
+<font face="sans-serif" size="71">and then she couldn't sleep there.</font>
+
+199
+00:14:46,390 --> 00:14:47,525
+<font face="sans-serif" size="71">Right.</font>
+
+200
+00:14:47,592 --> 00:14:48,993
+<font face="sans-serif" size="71">Stupid, right?</font>
+
+201
+00:14:53,431 --> 00:14:55,633
+<font face="sans-serif" size="71">-That hurt!
+-You're head over heels for her.</font>
+
+202
+00:14:55,733 --> 00:14:57,835
+<font face="sans-serif" size="71">It makes me sick listening to you.</font>
+
+203
+00:15:00,571 --> 00:15:02,640
+<font face="sans-serif" size="71">I'll go buy something to drink.</font>
+
+204
+00:15:03,875 --> 00:15:05,009
+<font face="sans-serif" size="71">What would you like?</font>
+
+205
+00:15:05,243 --> 00:15:06,143
+<font face="sans-serif" size="71">You decide.</font>
+
+206
+00:15:06,577 --> 00:15:07,478
+<font face="sans-serif" size="71">Okay.</font>
+
+207
+00:15:19,390 --> 00:15:21,759
+<font face="sans-serif" size="71">-I'm going to go play.
+-Okay.</font>
+
+208
+00:15:22,927 --> 00:15:24,562
+<font face="sans-serif" size="71">-Don't go too far.
+-Okay.</font>
+
+209
+00:15:25,763 --> 00:15:27,999
+<font face="sans-serif" size="71">I'm glad Airi seems to be having fun.</font>
+
+210
+00:15:29,500 --> 00:15:31,102
+<font face="sans-serif" size="71">I'll go buy us something to drink.</font>
+
+211
+00:15:32,003 --> 00:15:32,904
+<font face="sans-serif" size="71">Okay.</font>
+
+212
+00:15:50,154 --> 00:15:51,389
+<font face="sans-serif" size="71">CHECKING FOR NEW MESSAGES</font>
+
+213
+00:15:51,455 --> 00:15:52,623
+<font face="sans-serif" size="71">NO NEW MESSAGES</font>
+
+214
+00:16:05,603 --> 00:16:08,406
+<font face="sans-serif" size="71">What time will you be home?</font>
+
+215
+00:16:14,211 --> 00:16:16,314
+<font face="sans-serif" size="71">Be more confident.</font>
+
+216
+00:16:21,319 --> 00:16:25,489
+<font face="sans-serif" size="71">I'm enjoying my day,
+so don't worry about me. Hang in there!</font>
+
+217
+00:16:25,556 --> 00:16:29,126
+<font face="sans-serif" size="71">This is just like a grown-up.</font>
+
+218
+00:16:31,996 --> 00:16:33,230
+<font face="sans-serif" size="71">Here you go.</font>
+
+219
+00:16:34,599 --> 00:16:35,833
+<font face="sans-serif" size="71">Thank you.</font>
+
+220
+00:16:36,734 --> 00:16:38,202
+<font face="sans-serif" size="71">Just what I wanted.</font>
+
+221
+00:16:38,269 --> 00:16:39,804
+<font face="sans-serif" size="71">You drank them in the handicrafts club.</font>
+
+222
+00:16:41,238 --> 00:16:42,907
+<font face="sans-serif" size="71">Wow. You noticed that?</font>
+
+223
+00:16:47,378 --> 00:16:49,547
+<font face="sans-serif" size="71">Natsume, could it be you...</font>
+
+224
+00:16:50,247 --> 00:16:52,750
+<font face="sans-serif" size="71">No.</font>
+
+225
+00:16:53,784 --> 00:16:57,855
+<font face="sans-serif" size="71">I'm with Uehara. And you two are friends.</font>
+
+226
+00:16:58,689 --> 00:17:00,825
+<font face="sans-serif" size="71">No, you can't.</font>
+
+227
+00:17:00,891 --> 00:17:03,928
+<font face="sans-serif" size="71">If you like me, it'll mean trouble.
+I don't want trouble!</font>
+
+228
+00:17:04,795 --> 00:17:05,963
+<font face="sans-serif" size="71">No.</font>
+
+229
+00:17:06,864 --> 00:17:10,401
+<font face="sans-serif" size="71">I'm kind to every girl
+in the world equally.</font>
+
+230
+00:17:13,571 --> 00:17:15,740
+<font face="sans-serif" size="71">You're as frivolous as usual today.</font>
+
+231
+00:17:30,187 --> 00:17:31,689
+<font face="sans-serif" size="71">When do you find the right moment</font>
+
+232
+00:17:32,990 --> 00:17:35,059
+<font face="sans-serif" size="71">to take pictures like that?</font>
+
+233
+00:17:35,393 --> 00:17:39,196
+<font face="sans-serif" size="71">Well, I just say, "Let's take a picture,"
+like normal.</font>
+
+234
+00:17:41,298 --> 00:17:42,299
+<font face="sans-serif" size="71">Normal?</font>
+
+235
+00:17:42,366 --> 00:17:43,801
+<font face="sans-serif" size="71">You take photos with Uehara, right?</font>
+
+236
+00:17:44,969 --> 00:17:46,771
+<font face="sans-serif" size="71">-Not a chance.
+-Seriously?</font>
+
+237
+00:17:47,238 --> 00:17:49,073
+<font face="sans-serif" size="71">We've never taken a single photo together.</font>
+
+238
+00:17:50,675 --> 00:17:52,476
+<font face="sans-serif" size="71">Even kids in junior high
+take photos like this.</font>
+
+239
+00:17:58,082 --> 00:17:59,917
+<font face="sans-serif" size="71">Something happened
+between you two today, right?</font>
+
+240
+00:18:01,886 --> 00:18:05,322
+<font face="sans-serif" size="71">No. Nothing in particular.</font>
+
+241
+00:18:05,923 --> 00:18:06,791
+<font face="sans-serif" size="71">Liar.</font>
+
+242
+00:18:07,858 --> 00:18:10,928
+<font face="sans-serif" size="71">Your plans that got cancelled,
+they were plans with Uehara, right?</font>
+
+243
+00:18:14,699 --> 00:18:16,233
+<font face="sans-serif" size="71">How did you know that?</font>
+
+244
+00:18:16,333 --> 00:18:18,235
+<font face="sans-serif" size="71">There's no woman I can't read.</font>
+
+245
+00:18:23,974 --> 00:18:24,842
+<font face="sans-serif" size="71">Well...</font>
+
+246
+00:18:31,849 --> 00:18:33,250
+<font face="sans-serif" size="71">Natsume,</font>
+
+247
+00:18:35,152 --> 00:18:39,490
+<font face="sans-serif" size="71">would you call a woman
+you don't even like by her first name?</font>
+
+248
+00:18:42,259 --> 00:18:45,529
+<font face="sans-serif" size="71">If I don't use her name,
+how would I call her? Whistle?</font>
+
+249
+00:18:48,165 --> 00:18:50,935
+<font face="sans-serif" size="71">No, her surname.</font>
+
+250
+00:18:55,606 --> 00:18:58,542
+<font face="sans-serif" size="71">I've never called a girl by her surname.</font>
+
+251
+00:19:05,783 --> 00:19:08,052
+<font face="sans-serif" size="71">That may be true for you, Natsume,</font>
+
+252
+00:19:08,986 --> 00:19:10,354
+<font face="sans-serif" size="71">but Uehara is different.</font>
+
+253
+00:19:11,255 --> 00:19:14,458
+<font face="sans-serif" size="71">Uehara doesn't call women
+by their first names.</font>
+
+254
+00:19:16,994 --> 00:19:17,895
+<font face="sans-serif" size="71">But...</font>
+
+255
+00:19:20,131 --> 00:19:22,166
+<font face="sans-serif" size="71">he addressed that lab worker</font>
+
+256
+00:19:23,534 --> 00:19:26,937
+<font face="sans-serif" size="71">as "Saeko."</font>
+
+257
+00:19:36,280 --> 00:19:38,215
+<font face="sans-serif" size="71">I knew I shouldn't have told you.</font>
+
+258
+00:19:38,315 --> 00:19:39,483
+<font face="sans-serif" size="71">No. I'm sorry.</font>
+
+259
+00:19:40,484 --> 00:19:42,419
+<font face="sans-serif" size="71">So that's what you're worried about.</font>
+
+260
+00:19:45,890 --> 00:19:46,924
+<font face="sans-serif" size="71">Kumanomido.</font>
+
+261
+00:19:48,559 --> 00:19:49,460
+<font face="sans-serif" size="71">What?</font>
+
+262
+00:19:50,461 --> 00:19:52,096
+<font face="sans-serif" size="71">Kumanomido?</font>
+
+263
+00:19:52,663 --> 00:19:54,365
+<font face="sans-serif" size="71">Saeko Kumanomido.</font>
+
+264
+00:19:54,465 --> 00:19:55,699
+<font face="sans-serif" size="71">That's her name.</font>
+
+265
+00:19:56,300 --> 00:20:00,004
+<font face="sans-serif" size="71">She hates her surname,
+so she only answers to her first name.</font>
+
+266
+00:20:03,340 --> 00:20:05,609
+<font face="sans-serif" size="71">Saeko Kumanomido.</font>
+
+267
+00:20:07,711 --> 00:20:08,679
+<font face="sans-serif" size="71">What's more,</font>
+
+268
+00:20:08,746 --> 00:20:12,016
+<font face="sans-serif" size="71">Saeko is a science nerd
+who's only interested in her research,</font>
+
+269
+00:20:12,082 --> 00:20:12,917
+<font face="sans-serif" size="71">so don't worry.</font>
+
+270
+00:20:17,288 --> 00:20:18,155
+<font face="sans-serif" size="71">I see.</font>
+
+271
+00:20:19,290 --> 00:20:20,491
+<font face="sans-serif" size="71">Feel better?</font>
+
+272
+00:20:22,726 --> 00:20:23,727
+<font face="sans-serif" size="71">Yes.</font>
+
+273
+00:20:24,895 --> 00:20:27,965
+<font face="sans-serif" size="71">Actually, Uehara
+calls you Yoshikawa, right?</font>
+
+274
+00:20:28,499 --> 00:20:29,400
+<font face="sans-serif" size="71">Why is that?</font>
+
+275
+00:20:31,235 --> 00:20:33,037
+<font face="sans-serif" size="71">That's how it's been since the beginning.</font>
+
+276
+00:20:33,771 --> 00:20:36,373
+<font face="sans-serif" size="71">You really haven't made
+any progress at all as a couple.</font>
+
+277
+00:20:40,311 --> 00:20:41,345
+<font face="sans-serif" size="71">Here.</font>
+
+278
+00:20:43,581 --> 00:20:44,648
+<font face="sans-serif" size="71">Okay, smile.</font>
+
+279
+00:20:48,352 --> 00:20:49,887
+<font face="sans-serif" size="71">What are you doing?</font>
+
+280
+00:20:52,056 --> 00:20:53,757
+<font face="sans-serif" size="71">I'll send one to Uehara.</font>
+
+281
+00:20:54,525 --> 00:20:55,726
+<font face="sans-serif" size="71">What?</font>
+
+282
+00:20:55,793 --> 00:20:57,461
+<font face="sans-serif" size="71">You two need an incentive.</font>
+
+283
+00:20:59,096 --> 00:21:00,598
+<font face="sans-serif" size="71">Incentive?</font>
+
+284
+00:21:01,665 --> 00:21:05,202
+<font face="sans-serif" size="71">If you just send that to Uehara,
+he'll get worried...</font>
+
+285
+00:21:06,170 --> 00:21:09,240
+<font face="sans-serif" size="71">Okay, maybe he won't get worried.</font>
+
+286
+00:21:09,340 --> 00:21:10,541
+<font face="sans-serif" size="71">But he might...</font>
+
+287
+00:21:10,608 --> 00:21:13,444
+<font face="sans-serif" size="71">But Uehara has had you worried
+the whole day.</font>
+
+288
+00:21:15,679 --> 00:21:17,348
+<font face="sans-serif" size="71">Okay. Sent.</font>
+
+289
+00:21:18,115 --> 00:21:18,949
+<font face="sans-serif" size="71">What?</font>
+
+290
+00:21:19,583 --> 00:21:21,252
+<font face="sans-serif" size="71">Really?</font>
+
+291
+00:21:21,652 --> 00:21:24,255
+<font face="sans-serif" size="71">I need to tell Uehara
+not to misunderstand.</font>
+
+292
+00:21:34,098 --> 00:21:35,032
+<font face="sans-serif" size="71">Airi?</font>
+
+293
+00:21:38,168 --> 00:21:39,069
+<font face="sans-serif" size="71">Airi?</font>
+
+294
+00:21:46,677 --> 00:21:47,745
+<font face="sans-serif" size="71">Airi!</font>
+
+295
+00:21:51,782 --> 00:21:54,385
+<font face="sans-serif" size="71">TAMACHI SQUIRREL PARK</font>
+
+296
+00:21:54,451 --> 00:21:55,786
+<font face="sans-serif" size="71">Airi!</font>
+
+297
+00:21:57,922 --> 00:21:59,023
+<font face="sans-serif" size="71">Airi!</font>
+
+298
+00:21:59,490 --> 00:22:01,592
+<font face="sans-serif" size="71"><i>I'm looking for a ten-year-old girl.</i></font>
+
+299
+00:22:02,059 --> 00:22:05,195
+<font face="sans-serif" size="71">She has a squirrel strap on her pouch.</font>
+
+300
+00:22:07,831 --> 00:22:09,033
+<font face="sans-serif" size="71">Well?</font>
+
+301
+00:22:09,867 --> 00:22:12,269
+<font face="sans-serif" size="71">Don't worry. We'll find her.</font>
+
+302
+00:22:13,170 --> 00:22:16,941
+<font face="sans-serif" size="71"><i>We have some information
+on a lost child for our visitors.</i></font>
+
+303
+00:22:17,007 --> 00:22:19,977
+<font face="sans-serif" size="71"><i>Mr. Natsume from Tokyo.</i></font>
+
+304
+00:22:20,044 --> 00:22:21,412
+<font face="sans-serif" size="71"><i>Your companion...</i></font>
+
+305
+00:22:28,986 --> 00:22:30,087
+<font face="sans-serif" size="71">Shu!</font>
+
+306
+00:22:30,521 --> 00:22:31,622
+<font face="sans-serif" size="71">What were you doing?</font>
+
+307
+00:22:43,767 --> 00:22:45,602
+<font face="sans-serif" size="71">Do you have any idea how much I worried?</font>
+
+308
+00:22:52,810 --> 00:22:54,712
+<font face="sans-serif" size="71">Don't go wandering off on your own again.</font>
+
+309
+00:22:56,947 --> 00:22:57,781
+<font face="sans-serif" size="71">Okay.</font>
+
+310
+00:23:02,519 --> 00:23:04,021
+<font face="sans-serif" size="71">Thank you very much.</font>
+
+311
+00:23:05,155 --> 00:23:07,324
+<font face="sans-serif" size="71">I apologize for the trouble we caused you.</font>
+
+312
+00:23:07,424 --> 00:23:08,292
+<font face="sans-serif" size="71">No.</font>
+
+313
+00:23:09,059 --> 00:23:11,362
+<font face="sans-serif" size="71">She stayed calm and told me
+her name and address.</font>
+
+314
+00:23:11,462 --> 00:23:12,629
+<font face="sans-serif" size="71">It was impressive!</font>
+
+315
+00:23:15,032 --> 00:23:17,534
+<font face="sans-serif" size="71">It's good you found him. Take care.</font>
+
+316
+00:23:20,671 --> 00:23:21,905
+<font face="sans-serif" size="71">I'm sorry.</font>
+
+317
+00:23:42,192 --> 00:23:43,394
+<font face="sans-serif" size="71">I think it's better to...</font>
+
+318
+00:23:45,129 --> 00:23:46,030
+<font face="sans-serif" size="71">Hey, Uehara.</font>
+
+319
+00:23:46,096 --> 00:23:48,532
+<font face="sans-serif" size="71">-You're here for extracurriculars?
+-Yes, I just finished.</font>
+
+320
+00:23:49,433 --> 00:23:51,502
+<font face="sans-serif" size="71">This is Uehara. He was a year
+below me in high school.</font>
+
+321
+00:23:51,602 --> 00:23:52,703
+<font face="sans-serif" size="71">A year below...</font>
+
+322
+00:23:53,704 --> 00:23:55,172
+<font face="sans-serif" size="71">This is our team manager, Nanase.</font>
+
+323
+00:23:59,910 --> 00:24:00,978
+<font face="sans-serif" size="71">What is it?</font>
+
+324
+00:24:01,278 --> 00:24:04,014
+<font face="sans-serif" size="71">I thought I had seen you somewhere before!</font>
+
+325
+00:24:04,114 --> 00:24:06,617
+<font face="sans-serif" size="71">You're that miraculous freshman
+who was voted Mister Campus!</font>
+
+326
+00:24:06,683 --> 00:24:08,519
+<font face="sans-serif" size="71">-No...
+-Miraculous?</font>
+
+327
+00:24:09,620 --> 00:24:11,789
+<font face="sans-serif" size="71">I can tell you're laughing, you know.</font>
+
+328
+00:24:13,057 --> 00:24:14,958
+<font face="sans-serif" size="71">Where's Nao? Isn't she with you?</font>
+
+329
+00:24:15,059 --> 00:24:17,561
+<font face="sans-serif" size="71">I started working part-time in a lab.</font>
+
+330
+00:24:17,628 --> 00:24:19,763
+<font face="sans-serif" size="71">So you're busy as always.</font>
+
+331
+00:24:20,431 --> 00:24:22,566
+<font face="sans-serif" size="71">You should pay more attention to her.</font>
+
+332
+00:24:22,666 --> 00:24:26,270
+<font face="sans-serif" size="71">She usually goes to Marina or someone
+at this hour to complain about it.</font>
+
+333
+00:24:26,537 --> 00:24:28,605
+<font face="sans-serif" size="71">-Of course.
+-And, joking aside,</font>
+
+334
+00:24:28,705 --> 00:24:31,442
+<font face="sans-serif" size="71">she has opportunities to meet people
+left and right in university.</font>
+
+335
+00:24:31,542 --> 00:24:33,544
+<font face="sans-serif" size="71">Ignore her enough
+and she'll find someone else.</font>
+
+336
+00:24:33,811 --> 00:24:35,479
+<font face="sans-serif" size="71">Thanks for the advice.</font>
+
+337
+00:24:35,546 --> 00:24:38,182
+<font face="sans-serif" size="71">You're always so complacent.</font>
+
+338
+00:24:38,849 --> 00:24:41,051
+<font face="sans-serif" size="71">Daichi, let's go. Everyone's waiting.</font>
+
+339
+00:24:41,518 --> 00:24:42,419
+<font face="sans-serif" size="71">Okay. See you.</font>
+
+340
+00:24:55,999 --> 00:24:57,201
+<font face="sans-serif" size="71">I bought the drinks.</font>
+
+341
+00:24:57,701 --> 00:24:59,570
+<font face="sans-serif" size="71">Thank you.</font>
+
+342
+00:24:59,970 --> 00:25:01,405
+<font face="sans-serif" size="71">Five-minute break.</font>
+
+343
+00:25:01,505 --> 00:25:02,506
+<font face="sans-serif" size="71">Okay.</font>
+
+344
+00:25:09,546 --> 00:25:13,317
+<font face="sans-serif" size="71">From Nao: I'm enjoying my day,
+so don't worry about me. Hang in there!</font>
+
+345
+00:25:13,383 --> 00:25:15,752
+<font face="sans-serif" size="71">SHU NATSUME</font>
+
+346
+00:25:22,759 --> 00:25:23,894
+<font face="sans-serif" size="71">Your girlfriend?</font>
+
+347
+00:25:24,495 --> 00:25:26,730
+<font face="sans-serif" size="71">No. Let's hurry.</font>
+
+348
+00:25:27,498 --> 00:25:29,166
+<font face="sans-serif" size="71">You want to see her, right?</font>
+
+349
+00:25:31,335 --> 00:25:34,204
+<font face="sans-serif" size="71">If you do,
+you'll have to finish up quickly.</font>
+
+350
+00:25:38,775 --> 00:25:40,010
+<font face="sans-serif" size="71">Okay.</font>
+
+351
+00:25:47,551 --> 00:25:48,785
+<font face="sans-serif" size="71">Are you tired, Airi?</font>
+
+352
+00:25:48,886 --> 00:25:50,287
+<font face="sans-serif" size="71">No. I'm fine.</font>
+
+353
+00:25:51,288 --> 00:25:52,523
+<font face="sans-serif" size="71">Are you hungry?</font>
+
+354
+00:26:01,331 --> 00:26:02,966
+<font face="sans-serif" size="71">-You have a fever.
+-What?</font>
+
+355
+00:26:08,472 --> 00:26:10,307
+<font face="sans-serif" size="71">Have you been feeling unwell
+this whole time?</font>
+
+356
+00:26:13,143 --> 00:26:14,678
+<font face="sans-serif" size="71">Why didn't you tell me sooner?</font>
+
+357
+00:26:16,413 --> 00:26:17,681
+<font face="sans-serif" size="71">I'm sorry.</font>
+
+358
+00:26:30,194 --> 00:26:31,762
+<font face="sans-serif" size="71">Here. Piggyback ride.</font>
+
+359
+00:26:34,898 --> 00:26:37,935
+<font face="sans-serif" size="71">Natsume. I live nearby.
+Why not rest there?</font>
+
+360
+00:26:38,035 --> 00:26:39,069
+<font face="sans-serif" size="71">But...</font>
+
+361
+00:26:39,169 --> 00:26:42,306
+<font face="sans-serif" size="71">I'm hesitant to visit
+while Uehara's not there.</font>
+
+362
+00:26:43,440 --> 00:26:45,142
+<font face="sans-serif" size="71">This isn't the time
+to be worried about that.</font>
+
+363
+00:26:46,877 --> 00:26:49,246
+<font face="sans-serif" size="71">Uehara would tell you
+to come and get some rest too.</font>
+
+364
+00:27:08,365 --> 00:27:09,700
+<font face="sans-serif" size="71">Good.</font>
+
+365
+00:27:10,100 --> 00:27:11,868
+<font face="sans-serif" size="71">I wonder if Airi can eat.</font>
+
+366
+00:27:13,437 --> 00:27:16,006
+<font face="sans-serif" size="71">Natsume, can you try tasting this?</font>
+
+367
+00:27:17,674 --> 00:27:18,642
+<font face="sans-serif" size="71">Yes, sure.</font>
+
+368
+00:27:22,312 --> 00:27:23,146
+<font face="sans-serif" size="71">Here.</font>
+
+369
+00:27:32,222 --> 00:27:33,056
+<font face="sans-serif" size="71">Not good?</font>
+
+370
+00:27:33,824 --> 00:27:34,992
+<font face="sans-serif" size="71">It's good!</font>
+
+371
+00:27:36,927 --> 00:27:38,262
+<font face="sans-serif" size="71">Thank goodness.</font>
+
+372
+00:27:40,430 --> 00:27:43,967
+<font face="sans-serif" size="71">Cooking is the one thing
+I have a bit of confidence in.</font>
+
+373
+00:27:44,067 --> 00:27:45,569
+<font face="sans-serif" size="71">Uehara is a big eater.</font>
+
+374
+00:27:46,069 --> 00:27:47,604
+<font face="sans-serif" size="71">You cook for him every day?</font>
+
+375
+00:27:48,338 --> 00:27:49,239
+<font face="sans-serif" size="71">Yes.</font>
+
+376
+00:27:50,207 --> 00:27:52,976
+<font face="sans-serif" size="71">I packed lunch for him in high school too.</font>
+
+377
+00:27:53,510 --> 00:27:54,911
+<font face="sans-serif" size="71">I got kind of good at it.</font>
+
+378
+00:27:55,946 --> 00:27:57,914
+<font face="sans-serif" size="71">That sounds like so much work.
+I'm impressed.</font>
+
+379
+00:27:59,249 --> 00:28:02,719
+<font face="sans-serif" size="71">And Uehara acts like
+it's so delicious when he eats it,</font>
+
+380
+00:28:03,754 --> 00:28:05,322
+<font face="sans-serif" size="71">so I always try to do my best.</font>
+
+381
+00:28:09,226 --> 00:28:11,662
+<font face="sans-serif" size="71">Sorry, but I can't understand it at all.</font>
+
+382
+00:28:12,929 --> 00:28:14,431
+<font face="sans-serif" size="71">I just get others to do things for me.</font>
+
+383
+00:28:18,702 --> 00:28:21,004
+<font face="sans-serif" size="71">-Liar.
+-What?</font>
+
+384
+00:28:21,738 --> 00:28:22,906
+<font face="sans-serif" size="71">That pouch.</font>
+
+385
+00:28:24,007 --> 00:28:25,409
+<font face="sans-serif" size="71">You made it, didn't you, Natsume?</font>
+
+386
+00:28:25,876 --> 00:28:27,811
+<font face="sans-serif" size="71">She kept bugging me. I had to.</font>
+
+387
+00:28:27,944 --> 00:28:31,415
+<font face="sans-serif" size="71">You actually joined the handicrafts club
+for Airi's sake too, didn't you?</font>
+
+388
+00:28:31,648 --> 00:28:34,685
+<font face="sans-serif" size="71">Well, a handsome guy doing handicrafts
+is something that girls just don't...</font>
+
+389
+00:28:34,751 --> 00:28:36,887
+<font face="sans-serif" size="71">You're a good big brother.</font>
+
+390
+00:28:39,056 --> 00:28:41,058
+<font face="sans-serif" size="71">Well, we don't have a mom so I have to be.</font>
+
+391
+00:28:43,694 --> 00:28:44,795
+<font face="sans-serif" size="71">I see.</font>
+
+392
+00:28:45,562 --> 00:28:47,097
+<font face="sans-serif" size="71">You're a good mom then.</font>
+
+393
+00:28:50,667 --> 00:28:51,902
+<font face="sans-serif" size="71">You're not apologizing.</font>
+
+394
+00:28:53,570 --> 00:28:54,404
+<font face="sans-serif" size="71">What?</font>
+
+395
+00:28:59,843 --> 00:29:01,678
+<font face="sans-serif" size="71">Well, it's just that usually</font>
+
+396
+00:29:01,778 --> 00:29:05,182
+<font face="sans-serif" size="71">when we hit on a delicate topic
+like this, the girls apologize right away.</font>
+
+397
+00:29:05,282 --> 00:29:06,917
+<font face="sans-serif" size="71">They'll say,
+"I shouldn't have asked that."</font>
+
+398
+00:29:07,984 --> 00:29:08,985
+<font face="sans-serif" size="71">What?</font>
+
+399
+00:29:09,586 --> 00:29:12,055
+<font face="sans-serif" size="71">Oh, I'm sorry.
+Should I not have asked that?</font>
+
+400
+00:29:12,155 --> 00:29:13,724
+<font face="sans-serif" size="71">-No, it's not that.
+-Oh, I see.</font>
+
+401
+00:29:13,824 --> 00:29:15,926
+<font face="sans-serif" size="71">I was praising you
+when I said you were a good mom.</font>
+
+402
+00:29:16,860 --> 00:29:19,496
+<font face="sans-serif" size="71">I wasn't trying to imply
+that you were feminine or anything.</font>
+
+403
+00:29:19,596 --> 00:29:20,964
+<font face="sans-serif" size="71">Yes. I know that.</font>
+
+404
+00:29:23,633 --> 00:29:26,370
+<font face="sans-serif" size="71">But maybe I'm not such a good mom.</font>
+
+405
+00:29:28,238 --> 00:29:30,140
+<font face="sans-serif" size="71">If you hadn't told me
+that she had a fever today,</font>
+
+406
+00:29:30,207 --> 00:29:31,375
+<font face="sans-serif" size="71">I wouldn't have noticed.</font>
+
+407
+00:29:31,842 --> 00:29:34,277
+<font face="sans-serif" size="71">She doesn't whine like a child.
+She just perseveres.</font>
+
+408
+00:29:38,448 --> 00:29:40,250
+<font face="sans-serif" size="71">She wants to persevere.</font>
+
+409
+00:29:42,185 --> 00:29:43,286
+<font face="sans-serif" size="71">-Why?
+-Well,</font>
+
+410
+00:29:43,387 --> 00:29:45,555
+<font face="sans-serif" size="71">she was meeting someone she likes.</font>
+
+411
+00:29:45,655 --> 00:29:47,324
+<font face="sans-serif" size="71">Of course she would persevere.</font>
+
+412
+00:29:47,424 --> 00:29:48,458
+<font face="sans-serif" size="71">Someone she likes?</font>
+
+413
+00:29:48,525 --> 00:29:51,828
+<font face="sans-serif" size="71">Remember she wanted to give
+that squirrel to someone?</font>
+
+414
+00:29:52,662 --> 00:29:53,830
+<font face="sans-serif" size="71">Yes.</font>
+
+415
+00:29:54,865 --> 00:29:56,767
+<font face="sans-serif" size="71">She was going to give it to you.</font>
+
+416
+00:29:59,102 --> 00:30:00,637
+<font face="sans-serif" size="71">That's what she told me.</font>
+
+417
+00:30:03,840 --> 00:30:05,041
+<font face="sans-serif" size="71">So there is one.</font>
+
+418
+00:30:07,711 --> 00:30:10,614
+<font face="sans-serif" size="71">A girl's heart that even you
+couldn't understand, Natsume.</font>
+
+419
+00:30:13,683 --> 00:30:14,518
+<font face="sans-serif" size="71">Right?</font>
+
+420
+00:30:31,701 --> 00:30:32,836
+<font face="sans-serif" size="71">The door's unlocked!</font>
+
+421
+00:30:33,737 --> 00:30:34,838
+<font face="sans-serif" size="71">Uehara.</font>
+
+422
+00:30:36,907 --> 00:30:37,974
+<font face="sans-serif" size="71">Welcome home.</font>
+
+423
+00:30:41,311 --> 00:30:43,814
+<font face="sans-serif" size="71"><i>She has opportunities to meet people
+left and right in university.</i></font>
+
+424
+00:30:43,880 --> 00:30:45,749
+<font face="sans-serif" size="71">Ignore her enough
+and she'll find someone else.</font>
+
+425
+00:30:49,319 --> 00:30:51,054
+<font face="sans-serif" size="71">Uehara, wait!</font>
+
+426
+00:30:54,858 --> 00:30:57,360
+<font face="sans-serif" size="71">Wait. Uehara, what's wrong?</font>
+
+427
+00:30:58,628 --> 00:30:59,963
+<font face="sans-serif" size="71">Well...</font>
+
+428
+00:31:01,298 --> 00:31:02,165
+<font face="sans-serif" size="71">I'm sorry.</font>
+
+429
+00:31:02,933 --> 00:31:04,034
+<font face="sans-serif" size="71">What?</font>
+
+430
+00:31:06,269 --> 00:31:07,904
+<font face="sans-serif" size="71">Stay here for a minute.</font>
+
+431
+00:31:30,627 --> 00:31:31,528
+<font face="sans-serif" size="71">I'm sorry.</font>
+
+432
+00:31:33,597 --> 00:31:34,931
+<font face="sans-serif" size="71">For being here while you were out.</font>
+
+433
+00:31:38,435 --> 00:31:39,903
+<font face="sans-serif" size="71">My sister was a little sick,</font>
+
+434
+00:31:41,872 --> 00:31:43,840
+<font face="sans-serif" size="71">so Nao let her rest here.</font>
+
+435
+00:31:55,886 --> 00:31:56,887
+<font face="sans-serif" size="71">I see.</font>
+
+436
+00:31:58,421 --> 00:32:00,457
+<font face="sans-serif" size="71">Is she okay now?</font>
+
+437
+00:32:01,124 --> 00:32:02,359
+<font face="sans-serif" size="71">Her fever has gone down.</font>
+
+438
+00:32:02,993 --> 00:32:04,628
+<font face="sans-serif" size="71">I think she ran around too much.</font>
+
+439
+00:32:17,607 --> 00:32:19,342
+<font face="sans-serif" size="71">Every big brother in the world</font>
+
+440
+00:32:19,442 --> 00:32:21,978
+<font face="sans-serif" size="71">should love
+their younger brother or sister.</font>
+
+441
+00:32:23,179 --> 00:32:25,782
+<font face="sans-serif" size="71">-What?
+-It's the same with mine.</font>
+
+442
+00:32:26,583 --> 00:32:28,351
+<font face="sans-serif" size="71">My big brother is always fussing over me.</font>
+
+443
+00:32:29,185 --> 00:32:30,287
+<font face="sans-serif" size="71">You have a big brother?</font>
+
+444
+00:32:31,821 --> 00:32:35,559
+<font face="sans-serif" size="71">He's working overseas now, but he sends me
+a bunch of emails every day.</font>
+
+445
+00:32:37,594 --> 00:32:41,364
+<font face="sans-serif" size="71">We don't have any parents,
+so it's just the two of us.</font>
+
+446
+00:32:42,332 --> 00:32:44,034
+<font face="sans-serif" size="71">He can't help being overprotective.</font>
+
+447
+00:32:47,837 --> 00:32:49,773
+<font face="sans-serif" size="71">And I appreciate a lot of
+what he does for me.</font>
+
+448
+00:32:56,813 --> 00:32:58,682
+<font face="sans-serif" size="71">-What?
+-Oh, nothing.</font>
+
+449
+00:33:00,150 --> 00:33:01,918
+<font face="sans-serif" size="71">You're surprised I can
+appreciate something?</font>
+
+450
+00:33:01,985 --> 00:33:03,253
+<font face="sans-serif" size="71">I'm not.</font>
+
+451
+00:33:03,353 --> 00:33:06,523
+<font face="sans-serif" size="71">I was just wondering if Airi would say
+she appreciates me some day.</font>
+
+452
+00:33:07,090 --> 00:33:08,158
+<font face="sans-serif" size="71">What?</font>
+
+453
+00:33:09,392 --> 00:33:10,527
+<font face="sans-serif" size="71">We don't have a mom either.</font>
+
+454
+00:33:12,862 --> 00:33:14,831
+<font face="sans-serif" size="71">We never heard from her after she left.</font>
+
+455
+00:33:15,966 --> 00:33:18,268
+<font face="sans-serif" size="71">According to Nao, I'm a good mom.</font>
+
+456
+00:33:24,441 --> 00:33:25,575
+<font face="sans-serif" size="71">Does that make you laugh?</font>
+
+457
+00:33:25,675 --> 00:33:29,179
+<font face="sans-serif" size="71">Well, I was imagining you in an apron.</font>
+
+458
+00:33:30,513 --> 00:33:31,481
+<font face="sans-serif" size="71">What the hell!</font>
+
+459
+00:33:31,548 --> 00:33:33,116
+<font face="sans-serif" size="71">It suited you so well, it made me laugh.</font>
+
+460
+00:33:36,286 --> 00:33:38,788
+<font face="sans-serif" size="71">You and Nao are unusual characters.</font>
+
+461
+00:33:39,422 --> 00:33:41,358
+<font face="sans-serif" size="71">Hey. You cancelled on her
+at the last minute today.</font>
+
+462
+00:33:43,793 --> 00:33:45,996
+<font face="sans-serif" size="71">I had to go to work all of a sudden.</font>
+
+463
+00:33:46,930 --> 00:33:48,131
+<font face="sans-serif" size="71">Jeez.</font>
+
+464
+00:33:49,366 --> 00:33:51,568
+<font face="sans-serif" size="71">She was obviously forcing herself
+to say it was okay.</font>
+
+465
+00:33:51,668 --> 00:33:53,637
+<font face="sans-serif" size="71">I figured she was probably upset.</font>
+
+466
+00:33:55,438 --> 00:33:58,475
+<font face="sans-serif" size="71">Nao wouldn't be upset
+because you cancelled on her.</font>
+
+467
+00:34:00,710 --> 00:34:02,045
+<font face="sans-serif" size="71">You are clueless about women.</font>
+
+468
+00:34:05,181 --> 00:34:07,684
+<font face="sans-serif" size="71">I sent that photo of us together
+to try to get you all worked up.</font>
+
+469
+00:34:07,784 --> 00:34:09,185
+<font face="sans-serif" size="71">But I got no reaction at all.</font>
+
+470
+00:34:19,696 --> 00:34:21,698
+<font face="sans-serif" size="71">But I couldn't tell by this photo.</font>
+
+471
+00:34:24,734 --> 00:34:25,568
+<font face="sans-serif" size="71">Huh?</font>
+
+472
+00:34:25,669 --> 00:34:26,903
+<font face="sans-serif" size="71">Where were you, anyway?</font>
+
+473
+00:34:35,979 --> 00:34:36,980
+<font face="sans-serif" size="71">But you know,</font>
+
+474
+00:34:37,047 --> 00:34:39,549
+<font face="sans-serif" size="71">joking aside, you two should take
+some pictures together.</font>
+
+475
+00:34:42,352 --> 00:34:43,553
+<font face="sans-serif" size="71">It bothers her.</font>
+
+476
+00:34:44,654 --> 00:34:46,589
+<font face="sans-serif" size="71">That was the reason she was upset today.</font>
+
+477
+00:34:49,626 --> 00:34:52,095
+<font face="sans-serif" size="71">Sorry for coming over
+when you weren't here.</font>
+
+478
+00:34:53,129 --> 00:34:55,598
+<font face="sans-serif" size="71">But you have absolutely nothing
+to worry about, Uehara.</font>
+
+479
+00:34:56,032 --> 00:34:58,268
+<font face="sans-serif" size="71">My preference is older women.</font>
+
+480
+00:34:58,334 --> 00:35:00,236
+<font face="sans-serif" size="71">Exactly the opposite of Nao.</font>
+
+481
+00:35:01,571 --> 00:35:04,007
+<font face="sans-serif" size="71">But, depending on who is looking at her,</font>
+
+482
+00:35:04,841 --> 00:35:07,177
+<font face="sans-serif" size="71">apparently she looks like a grown-up.</font>
+
+483
+00:35:08,878 --> 00:35:10,814
+<font face="sans-serif" size="71">Nao? No way.</font>
+
+484
+00:35:13,416 --> 00:35:14,284
+<font face="sans-serif" size="71">Sorry.</font>
+
+485
+00:35:15,418 --> 00:35:17,053
+<font face="sans-serif" size="71">So where did you go?</font>
+
+486
+00:35:17,320 --> 00:35:19,522
+<font face="sans-serif" size="71">Today? That's a secret.</font>
+
+487
+00:35:19,622 --> 00:35:21,558
+<font face="sans-serif" size="71">What? Come on.</font>
+
+488
+00:35:24,994 --> 00:35:26,930
+<font face="sans-serif" size="71">Bye, Nao.</font>
+
+489
+00:35:27,731 --> 00:35:30,800
+<font face="sans-serif" size="71">See you, Airi. Let's play again, okay?</font>
+
+490
+00:35:32,569 --> 00:35:33,670
+<font face="sans-serif" size="71">Thank you for everything.</font>
+
+491
+00:35:35,271 --> 00:35:36,473
+<font face="sans-serif" size="71">Bye.</font>
+
+492
+00:35:49,352 --> 00:35:50,787
+<font face="sans-serif" size="71">Shall we go eat somewhere?</font>
+
+493
+00:35:55,658 --> 00:35:57,293
+<font face="sans-serif" size="71">To make up for cancelling on you.</font>
+
+494
+00:36:01,231 --> 00:36:04,567
+<font face="sans-serif" size="71">I really wasn't bothered about that.</font>
+
+495
+00:36:05,668 --> 00:36:06,736
+<font face="sans-serif" size="71">Liar.</font>
+
+496
+00:36:06,836 --> 00:36:10,774
+<font face="sans-serif" size="71">I decided to be a grown-up and not let
+something like that bother me.</font>
+
+497
+00:36:15,612 --> 00:36:18,948
+<font face="sans-serif" size="71">But I got paid extra for working today.</font>
+
+498
+00:36:21,251 --> 00:36:23,586
+<font face="sans-serif" size="71">-Really?
+-That's too bad.</font>
+
+499
+00:36:30,093 --> 00:36:32,862
+<font face="sans-serif" size="71">No. Let's go after all.</font>
+
+500
+00:36:37,400 --> 00:36:39,135
+<font face="sans-serif" size="71">That's more like it.</font>
+
+501
+00:36:50,446 --> 00:36:51,748
+<font face="sans-serif" size="71">Where should we go?</font>
+
+502
+00:36:54,284 --> 00:36:55,652
+<font face="sans-serif" size="71">What about you, Uehara?</font>
+
+503
+00:36:57,020 --> 00:36:58,154
+<font face="sans-serif" size="71">What do you want to eat?</font>
+
+504
+00:37:03,226 --> 00:37:04,327
+<font face="sans-serif" size="71">Home cooking.</font>
+
+505
+00:37:06,229 --> 00:37:07,497
+<font face="sans-serif" size="71">Home?</font>
+
+506
+00:37:26,783 --> 00:37:28,251
+<font face="sans-serif" size="71">It's so lovely!</font>
+
+507
+00:37:30,253 --> 00:37:31,254
+<font face="sans-serif" size="71">This is amazing.</font>
+
+508
+00:37:47,971 --> 00:37:48,872
+<font face="sans-serif" size="71">Did you take a picture?</font>
+
+509
+00:37:55,311 --> 00:37:56,512
+<font face="sans-serif" size="71">It's that photo.</font>
+
+510
+00:37:57,046 --> 00:37:59,082
+<font face="sans-serif" size="71">You can't even tell it's me in that photo.</font>
+
+511
+00:38:01,417 --> 00:38:02,819
+<font face="sans-serif" size="71">What's with this picture?</font>
+
+512
+00:38:03,586 --> 00:38:06,489
+<font face="sans-serif" size="71">No. I knew immediately.</font>
+
+513
+00:38:22,305 --> 00:38:23,139
+<font face="sans-serif" size="71">Uehara.</font>
+
+514
+00:38:25,541 --> 00:38:26,876
+<font face="sans-serif" size="71">Stand right there.</font>
+
+515
+00:38:28,945 --> 00:38:31,080
+<font face="sans-serif" size="71">Say cheese.</font>
+
+516
+00:38:47,530 --> 00:38:48,765
+<font face="sans-serif" size="71">Hello?</font>
+
+517
+00:38:49,465 --> 00:38:52,335
+<font face="sans-serif" size="71"><i>Nao. I had a message from Mitsuishi.</i></font>
+
+518
+00:38:53,069 --> 00:38:54,304
+<font face="sans-serif" size="71">From Mitsuishi?</font>
+
+519
+00:38:55,471 --> 00:38:56,306
+<font face="sans-serif" size="71"><i>Yes.</i></font>
+
+520
+00:38:56,639 --> 00:38:59,742
+<font face="sans-serif" size="71"><i>He says the reason Uehara
+doesn't call you by your first name</i></font>
+
+521
+00:38:59,842 --> 00:39:02,979
+<font face="sans-serif" size="71"><i>is because he's saving it until the day
+he can't call you by your surname anymore.</i></font>
+
+522
+00:39:05,348 --> 00:39:07,483
+<font face="sans-serif" size="71"><i>Sounds nice, right?</i></font>
+
+523
+00:39:10,820 --> 00:39:12,922
+<font face="sans-serif" size="71">What does that mean?</font>
+
+524
+00:39:14,324 --> 00:39:17,360
+<font face="sans-serif" size="71"><i>He won't be able to call you
+Yoshikawa anymore</i></font>
+
+525
+00:39:17,860 --> 00:39:20,463
+<font face="sans-serif" size="71"><i>when you change your surname, Nao.</i></font>
+
+526
+00:39:23,599 --> 00:39:26,336
+<font face="sans-serif" size="71"><i>Don't overdo things, and just go
+at a pace that's right for both of you.</i></font>
+
+527
+00:39:26,736 --> 00:39:27,804
+<font face="sans-serif" size="71"><i>See you.</i></font>
+
+528
+00:39:29,739 --> 00:39:30,573
+<font face="sans-serif" size="71">Okay.</font>
+
+529
+00:39:41,117 --> 00:39:42,185
+<font face="sans-serif" size="71">I see.</font>
+
+530
+00:39:46,889 --> 00:39:50,193
+<font face="sans-serif" size="71">If that's true, it doesn't matter
+what he calls me now.</font>
+
+531
+00:39:56,099 --> 00:39:56,933
+<font face="sans-serif" size="71">Yoshikawa.</font>
+
+532
+00:39:58,701 --> 00:40:00,336
+<font face="sans-serif" size="71">-Yes?
+-Come here a second.</font>
+
+533
+00:40:01,704 --> 00:40:02,572
+<font face="sans-serif" size="71">Okay.</font>
+
+534
+00:40:03,639 --> 00:40:04,774
+<font face="sans-serif" size="71">Here.</font>
+
+535
+00:40:07,110 --> 00:40:08,344
+<font face="sans-serif" size="71">Look that way.</font>
+
+536
+00:40:16,953 --> 00:40:18,321
+<font face="sans-serif" size="71">I guess you don't want to.</font>
+
+537
+00:40:22,458 --> 00:40:23,960
+<font face="sans-serif" size="71">No.</font>
+
+538
+00:40:24,594 --> 00:40:25,895
+<font face="sans-serif" size="71">I do want to.</font>
+
+539
+00:40:27,397 --> 00:40:28,231
+<font face="sans-serif" size="71">I do want to.</font>
+
+540
+00:40:29,265 --> 00:40:31,367
+<font face="sans-serif" size="71">Okay. Here we go.</font>
+
+541
+00:40:35,705 --> 00:40:38,241
+<font face="sans-serif" size="71">Say cheese.</font>
+
+542
+00:40:43,246 --> 00:40:44,247
+<font face="sans-serif" size="71">Hey!</font>
+
+543
+00:40:46,315 --> 00:40:47,316
+<font face="sans-serif" size="71">Show me.</font>
+
+544
+00:41:15,511 --> 00:41:17,080
+<font face="sans-serif" size="71">Don't let any men other than me</font>
+
+545
+00:41:18,614 --> 00:41:19,715
+<font face="sans-serif" size="71">into your place.</font>
+
+546
+00:41:26,122 --> 00:41:27,156
+<font face="sans-serif" size="71">Answer.</font>
+
+547
+00:41:30,726 --> 00:41:31,694
+<font face="sans-serif" size="71">Okay.</font>
+
+548
+00:41:47,176 --> 00:41:48,277
+<font face="sans-serif" size="71">That is all.</font>
+
+549
+00:42:01,023 --> 00:42:04,727
+<font face="sans-serif" size="71">Uehara. Send me that photo we just took.</font>
+
+550
+00:42:05,661 --> 00:42:06,762
+<font face="sans-serif" size="71">No.</font>
+
+551
+00:42:07,163 --> 00:42:09,031
+<font face="sans-serif" size="71">What? Why not?</font>
+
+552
+00:42:09,332 --> 00:42:11,601
+<font face="sans-serif" size="71">Let's take another one with my phone then.</font>
+
+553
+00:42:11,701 --> 00:42:13,870
+<font face="sans-serif" size="71">-Enough already!
+-Stand here and I'll take it.</font>
+
+554
+00:42:13,970 --> 00:42:16,005
+<font face="sans-serif" size="71">I'm hungry. Let's get home quickly.</font>
+
+555
+00:42:16,439 --> 00:42:17,974
+<font face="sans-serif" size="71">Okay, I'll take one and send it to you.</font>
+
+556
+00:42:18,074 --> 00:42:20,443
+<font face="sans-serif" size="71">Stop already.</font>
+
+557
+00:42:20,543 --> 00:42:23,679
+<font face="sans-serif" size="71">I'll send it to you.
+Let's take one together.</font>
+
+558
+00:42:25,414 --> 00:42:26,749
+<font face="sans-serif" size="71">Shu?</font>
+
+559
+00:42:31,053 --> 00:42:32,321
+<font face="sans-serif" size="71">You're awake.</font>
+
+560
+00:42:32,722 --> 00:42:33,789
+<font face="sans-serif" size="71">Yes.</font>
+
+561
+00:42:34,590 --> 00:42:36,626
+<font face="sans-serif" size="71">Today was fun.</font>
+
+562
+00:42:38,127 --> 00:42:40,730
+<font face="sans-serif" size="71">Yes. It was fun.</font>
+
+563
+00:42:41,964 --> 00:42:44,033
+<font face="sans-serif" size="71">Can we play with Nao again?</font>
+
+564
+00:42:51,007 --> 00:42:52,141
+<font face="sans-serif" size="71">Yes.</font>
+
+565
+00:42:53,509 --> 00:42:55,678
+<font face="sans-serif" size="71">I want to play with her again.</font>
+
+566
+00:43:16,165 --> 00:43:17,166
+<font face="sans-serif" size="71">Hey!</font>
+
+567
+00:43:17,533 --> 00:43:20,403
+<font face="sans-serif" size="71">I was saving that for last!</font>
+
+568
+00:43:20,736 --> 00:43:22,705
+<font face="sans-serif" size="71">You weren't eating it.
+I figured you didn't want it.</font>
+
+569
+00:43:22,772 --> 00:43:23,873
+<font face="sans-serif" size="71">Then I'll take the deep-fry.</font>
+
+570
+00:43:23,940 --> 00:43:26,275
+<font face="sans-serif" size="71">-The deep-fry... Hey!
+-You two haven't changed a bit.</font>
+
+571
+00:43:26,375 --> 00:43:27,777
+<font face="sans-serif" size="71">Daichi.</font>
+
+572
+00:43:27,843 --> 00:43:28,911
+<font face="sans-serif" size="71">Hey.</font>
+
+573
+00:43:29,345 --> 00:43:30,713
+<font face="sans-serif" size="71">Why don't you eat with us?</font>
+
+574
+00:43:31,180 --> 00:43:32,682
+<font face="sans-serif" size="71">-Have a seat.
+-Sure.</font>
+
+575
+00:43:35,818 --> 00:43:38,321
+<font face="sans-serif" size="71">Nao, you can have this.
+You like them, don't you?</font>
+
+576
+00:43:39,155 --> 00:43:41,123
+<font face="sans-serif" size="71">That's okay. It's yours. You eat it.</font>
+
+577
+00:43:41,224 --> 00:43:43,125
+<font face="sans-serif" size="71">Okay. I'll have it.</font>
+
+578
+00:43:43,226 --> 00:43:45,461
+<font face="sans-serif" size="71">Wait! You can't do that, Uehara!</font>
+
+579
+00:43:45,861 --> 00:43:46,862
+<font face="sans-serif" size="71">It belongs to Daichi.</font>
+
+580
+00:43:46,963 --> 00:43:48,564
+<font face="sans-serif" size="71">-It's okay.
+-They have sesame dumplings?</font>
+
+581
+00:43:48,631 --> 00:43:50,066
+<font face="sans-serif" size="71">Yes. The staff recommended them.</font>
+
+582
+00:43:50,166 --> 00:43:51,267
+<font face="sans-serif" size="71">Oh.</font>
+
+583
+00:43:51,367 --> 00:43:52,768
+<font face="sans-serif" size="71">-Daichi.
+-Yes.</font>
+
+584
+00:43:52,868 --> 00:43:53,869
+<font face="sans-serif" size="71">Nanase.</font>
+
+585
+00:43:54,470 --> 00:43:55,638
+<font face="sans-serif" size="71">Can I join you?</font>
+
+586
+00:43:56,172 --> 00:43:57,873
+<font face="sans-serif" size="71">-Sure.
+-Please.</font>
+
+587
+00:43:58,608 --> 00:44:00,243
+<font face="sans-serif" size="71">Please sit here.</font>
+
+588
+00:44:00,810 --> 00:44:01,877
+<font face="sans-serif" size="71">Thanks.</font>
+
+589
+00:44:04,714 --> 00:44:07,650
+<font face="sans-serif" size="71">It's Yoshikawa, right?</font>
+
+590
+00:44:08,951 --> 00:44:10,486
+<font face="sans-serif" size="71">Yes.</font>
+
+591
+00:44:10,553 --> 00:44:13,389
+<font face="sans-serif" size="71">I'm Rin Nanase, manager
+of the handball club.</font>
+
+592
+00:44:13,489 --> 00:44:14,690
+<font face="sans-serif" size="71">We're in the same department.</font>
+
+593
+00:44:16,359 --> 00:44:17,260
+<font face="sans-serif" size="71">I see.</font>
+
+594
+00:44:17,360 --> 00:44:19,729
+<font face="sans-serif" size="71">My name is Nao Yoshikawa.
+Pleased to meet you.</font>
+
+595
+00:44:19,795 --> 00:44:21,597
+<font face="sans-serif" size="71">It must be nice.</font>
+
+596
+00:44:21,998 --> 00:44:23,032
+<font face="sans-serif" size="71">What?</font>
+
+597
+00:44:23,232 --> 00:44:25,201
+<font face="sans-serif" size="71">Having such a handsome boyfriend.</font>
+
+598
+00:44:27,136 --> 00:44:28,404
+<font face="sans-serif" size="71">Uehara.</font>
+
+599
+00:44:31,374 --> 00:44:32,208
+<font face="sans-serif" size="71">Hey.</font>
+
+600
+00:44:32,975 --> 00:44:33,843
+<font face="sans-serif" size="71">Who's that?</font>
+
+601
+00:44:34,910 --> 00:44:36,812
+<font face="sans-serif" size="71">A friend of Uehara's.</font>
+
+602
+00:44:39,115 --> 00:44:42,652
+<font face="sans-serif" size="71">Natsume, this is my childhood friend,
+Daichi Shinozaki.</font>
+
+603
+00:44:42,885 --> 00:44:44,453
+<font face="sans-serif" size="71">-Pleased to meet you.
+-I'm Natsume.</font>
+
+604
+00:44:44,553 --> 00:44:46,656
+<font face="sans-serif" size="71">Would you be the Shinozaki
+from the handball team?</font>
+
+605
+00:44:47,023 --> 00:44:48,691
+<font face="sans-serif" size="71">-Yes.
+-Yes.</font>
+
+606
+00:44:49,792 --> 00:44:51,794
+<font face="sans-serif" size="71">You're famous, Daichi.</font>
+
+607
+00:44:51,894 --> 00:44:52,728
+<font face="sans-serif" size="71">Really?</font>
+
+608
+00:44:52,795 --> 00:44:54,096
+<font face="sans-serif" size="71">You went to the same high school?</font>
+
+609
+00:44:54,163 --> 00:44:54,997
+<font face="sans-serif" size="71">-Yes.
+-Yes.</font>
+
+610
+00:44:55,064 --> 00:44:57,600
+<font face="sans-serif" size="71">What was Daichi like in high school?</font>
+
+611
+00:44:57,933 --> 00:44:59,468
+<font face="sans-serif" size="71">He was popular.</font>
+
+612
+00:44:59,568 --> 00:45:02,104
+<font face="sans-serif" size="71">I would imagine.
+Although I was popular too.</font>
+
+613
+00:45:02,705 --> 00:45:03,706
+<font face="sans-serif" size="71">Did he have a girlfriend?</font>
+
+614
+00:45:08,878 --> 00:45:12,615
+<font face="sans-serif" size="71">No. All I did
+was extracurricular activities.</font>
+
+615
+00:45:15,217 --> 00:45:17,953
+<font face="sans-serif" size="71">So did the three of you hang out together?</font>
+
+616
+00:45:19,689 --> 00:45:22,258
+<font face="sans-serif" size="71">There wasn't really much of that.</font>
+
+617
+00:45:23,526 --> 00:45:25,027
+<font face="sans-serif" size="71">Even though you were close?</font>
+
+618
+00:45:25,761 --> 00:45:27,063
+<font face="sans-serif" size="71">Well, there were lots of reasons.</font>
+
+619
+00:45:28,497 --> 00:45:30,132
+<font face="sans-serif" size="71">Lots of reasons?</font>
+
+620
+00:45:31,267 --> 00:45:33,502
+<font face="sans-serif" size="71">Like Daichi having a crush on Nao?</font>
+
+621
+00:47:22,111 --> 00:47:25,714
+<font face="sans-serif" size="71">THIS DRAMA IS FICTIONAL.</font>
+
+622
+00:47:25,781 --> 00:47:27,550
+<font face="sans-serif" size="71">Subtitle translation by
+Kumar Sivasubramanian</font>
