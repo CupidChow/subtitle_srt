@@ -1,0 +1,2301 @@
+1
+00:00:03,847 --> 00:00:04,848
+Hello.
+
+2
+00:00:05,448 --> 00:00:08,818
+I'm Yoo Byungjae, a quiet man
+hosting The Quiet Interview.
+
+3
+00:00:08,885 --> 00:00:12,422
+People who laugh a lot
+can light up any room.
+
+4
+00:00:12,489 --> 00:00:15,759
+But laughter is forbidden here,
+
+5
+00:00:15,825 --> 00:00:20,630
+so even one laugh can chill the air.
+
+6
+00:00:20,697 --> 00:00:25,936
+This is a place where laughter
+can make you or break you.
+
+7
+00:00:26,002 --> 00:00:29,539
+Please join me
+as we quietly welcome today's guest.
+
+8
+00:01:26,930 --> 00:01:29,633
+-Hello, it's good to see you.
+-It's good to see you.
+
+9
+00:01:29,699 --> 00:01:33,670
+Our special guest today is DAESUNG.
+
+10
+00:01:33,737 --> 00:01:35,906
+Let me go over the rules with you.
+
+11
+00:01:35,972 --> 00:01:40,210
+If you burst out laughing
+during this interview,
+
+12
+00:01:40,277 --> 00:01:47,017
+you will be sent to the Quiet Room
+you see behind me for five minutes.
+
+13
+00:01:47,083 --> 00:01:50,720
+Our laughter detection
+is powered by a deep-learning AI system.
+
+14
+00:01:50,787 --> 00:01:56,493
+It's designed to read human emotion
+by tracking facial expressions.
+
+15
+00:01:56,560 --> 00:02:02,332
+If you so much as crack a tiny smile
+or your nose flares even a little…
+
+16
+00:02:04,401 --> 00:02:06,303
+you will hear that warning sound.
+
+17
+00:02:06,369 --> 00:02:08,605
+When there's no doubt you've laughed…
+
+18
+00:02:16,646 --> 00:02:19,549
+our state-of-the-art system
+will sound the alarm.
+
+19
+00:02:19,616 --> 00:02:22,485
+I'm curious, can you make that sound?
+
+20
+00:02:23,053 --> 00:02:26,423
+My vocal register doesn't reach that high.
+
+21
+00:02:29,259 --> 00:02:30,827
+That's the best I can do.
+
+22
+00:02:31,895 --> 00:02:33,029
+I see.
+
+23
+00:02:33,096 --> 00:02:37,434
+Please keep in mind what I've told you
+for the rest of the interview.
+
+24
+00:02:37,500 --> 00:02:41,504
+Could you look into that camera
+and greet our viewers?
+
+25
+00:02:41,571 --> 00:02:43,940
+Hello, everyone. I'm DAESUNG.
+
+26
+00:02:44,007 --> 00:02:47,644
+Thank you so much
+for inviting me here today.
+
+27
+00:02:47,711 --> 00:02:52,415
+I hope to have a great time today.
+Thank you.
+
+28
+00:02:52,482 --> 00:02:55,785
+Since this will be streaming
+on a global OTT platform,
+
+29
+00:02:55,852 --> 00:02:58,521
+could you say hello
+to our English-speaking viewers?
+
+30
+00:02:58,588 --> 00:02:59,589
+Right.
+
+31
+00:03:17,774 --> 00:03:22,078
+Excellent. Could you also say hello
+to our Japanese viewers?
+
+32
+00:03:22,145 --> 00:03:25,215
+Hello, I'm DAESUNG.
+
+33
+00:03:25,282 --> 00:03:30,720
+It's a pleasure to be here with you
+on The Quiet Interview.
+
+34
+00:03:30,787 --> 00:03:34,758
+I'm looking forward
+to having a great time today.
+
+35
+00:03:34,824 --> 00:03:36,159
+Thank you for having me.
+
+36
+00:03:36,226 --> 00:03:40,096
+That's impressive. Your Japanese is great.
+
+37
+00:03:40,163 --> 00:03:41,731
+Your Japanese is bad!
+
+38
+00:03:44,334 --> 00:03:45,569
+It's bad?
+
+39
+00:03:45,635 --> 00:03:47,671
+My Japanese? Of course it's bad.
+
+40
+00:03:47,737 --> 00:03:51,107
+I'm not Japanese. I'm Korean.
+
+41
+00:03:51,174 --> 00:03:52,909
+So, of course my Japanese sucks.
+
+42
+00:03:52,976 --> 00:03:54,844
+I'll just use Korean then.
+
+43
+00:03:54,911 --> 00:03:57,147
+What's wrong with him? Gosh.
+
+44
+00:03:59,683 --> 00:04:03,820
+You know, I couldn't help but notice
+how handsome you've become.
+
+45
+00:04:03,887 --> 00:04:05,455
+You look a lot better these days.
+
+46
+00:04:05,522 --> 00:04:07,824
+Did I look bad before?
+
+47
+00:04:09,960 --> 00:04:11,361
+What are you implying?
+
+48
+00:04:11,428 --> 00:04:15,498
+You've always looked good,
+but as the years go by,
+
+49
+00:04:15,565 --> 00:04:17,968
+there's an even brighter energy about you.
+
+50
+00:04:18,034 --> 00:04:21,304
+It feels like I'm discovering
+a new side of you.
+
+51
+00:04:21,371 --> 00:04:24,874
+Isn't one of your nicknames
+Timothée of Heukseok-dong?
+
+52
+00:04:24,941 --> 00:04:27,210
+-Well…
+-You've…
+
+53
+00:04:38,555 --> 00:04:41,958
+You've heard that nickname before, right?
+
+54
+00:04:42,025 --> 00:04:45,428
+Yes, I have.
+
+55
+00:04:45,495 --> 00:04:47,330
+Your fans call you that.
+
+56
+00:04:47,397 --> 00:04:50,700
+I actually gave myself that nickname.
+
+57
+00:04:50,767 --> 00:04:53,136
+When I was on <i>GYM JONG KOOK,</i>
+
+58
+00:04:53,203 --> 00:04:55,138
+I mentioned I got a perm
+
+59
+00:04:55,205 --> 00:04:58,608
+because I wanted to look like
+Timothée Chalamet.
+
+60
+00:04:58,675 --> 00:05:01,745
+The only other person I know
+
+61
+00:05:01,811 --> 00:05:05,282
+who claims to look like
+Timothée Chalamet is O3ohn.
+
+62
+00:05:05,348 --> 00:05:08,785
+I'm sure many of you have seen DAESUNG
+over the years.
+
+63
+00:05:08,852 --> 00:05:10,654
+Doesn't he look more handsome now?
+
+64
+00:05:16,326 --> 00:05:20,430
+Make some noise if you agree!
+
+65
+00:05:22,532 --> 00:05:23,867
+Yeah.
+
+66
+00:05:30,140 --> 00:05:33,677
+I've been watching <i>ZIP DAESUNG.</i>
+How long have you been doing it?
+
+67
+00:05:33,743 --> 00:05:37,314
+I started that channel around April 2024,
+so it's been over a year.
+
+68
+00:05:37,380 --> 00:05:38,381
+I see.
+
+69
+00:05:38,448 --> 00:05:40,483
+I also have a channel, so I'm curious.
+
+70
+00:05:40,550 --> 00:05:43,286
+How long does it take
+to film, edit, and upload a video?
+
+71
+00:05:43,353 --> 00:05:45,622
+-It takes about two weeks.
+-Two weeks.
+
+72
+00:05:45,689 --> 00:05:49,292
+Since The Quiet Interview
+is uploaded on an OTT platform,
+
+73
+00:05:49,359 --> 00:05:51,461
+there's usually a gap of a few months
+
+74
+00:05:51,528 --> 00:05:55,031
+between the filming date
+and the release date.
+
+75
+00:05:55,098 --> 00:05:56,700
+So please keep that in mind
+
+76
+00:05:56,766 --> 00:05:59,369
+-as we talk about your recent updates.
+-Okay.
+
+77
+00:05:59,436 --> 00:06:04,641
+Our viewers may think it's old news,
+but we ask them to factor in the delay.
+
+78
+00:06:04,708 --> 00:06:06,509
+Let's mention what you've been up to.
+
+79
+00:06:06,576 --> 00:06:09,980
+You debuted on the survival show
+<i>BIGBANG: The Beginning.</i>
+
+80
+00:06:10,046 --> 00:06:11,648
+Please tell us how you feel.
+
+81
+00:06:13,216 --> 00:06:14,651
+The survival show?
+
+82
+00:06:14,718 --> 00:06:16,920
+You debuted through
+<i>BIGBANG: The Beginning--</i>
+
+83
+00:06:16,987 --> 00:06:18,622
+That was in 2006.
+
+84
+00:06:19,222 --> 00:06:22,392
+There's a bit of a gap
+between filming and uploading.
+
+85
+00:06:22,459 --> 00:06:25,061
+Okay, so the gap is 20 years.
+
+86
+00:06:25,128 --> 00:06:28,298
+Just thinking about it
+makes my heart race.
+
+87
+00:06:28,365 --> 00:06:30,300
+I worked really hard.
+
+88
+00:06:30,367 --> 00:06:33,570
+I poured everything I had
+
+89
+00:06:34,137 --> 00:06:38,241
+into making my dream come true.
+
+90
+00:06:41,144 --> 00:06:44,548
+-He's a master of the Finger Pistol.
+-Finger Pistol.
+
+91
+00:06:44,614 --> 00:06:48,618
+After all that hard work,
+you finally made an incredible debut.
+
+92
+00:06:48,685 --> 00:06:52,222
+You were never really at risk
+of getting eliminated, were you?
+
+93
+00:06:52,289 --> 00:06:55,992
+My skills were still lacking,
+
+94
+00:06:56,059 --> 00:06:59,496
+but thankfully,
+people saw me in a positive light.
+
+95
+00:06:59,563 --> 00:07:03,533
+Because of that, a lot of people
+wanted to move forward with me.
+
+96
+00:07:03,600 --> 00:07:05,402
+Say a few words to the G*MTV viewers
+
+97
+00:07:05,468 --> 00:07:07,003
+who have supported you.
+
+98
+00:07:07,070 --> 00:07:08,838
+Is this going on G*MTV?
+
+99
+00:07:10,640 --> 00:07:14,978
+This is going on Disney+,
+but <i>BIGBANG: The Beginning </i>aired on G*MTV.
+
+100
+00:07:15,045 --> 00:07:19,482
+It's been a while since I last greeted
+the G*MTV viewers…
+
+101
+00:07:31,127 --> 00:07:36,833
+You've got such a great personality,
+so I doubt this bothers you,
+
+102
+00:07:36,900 --> 00:07:39,703
+but it does seem like
+you got the short end of the stick.
+
+103
+00:07:39,769 --> 00:07:43,873
+The other members in your group
+are only a year older than you,
+
+104
+00:07:43,940 --> 00:07:47,711
+but even as you get older,
+that one-year age gap never goes away.
+
+105
+00:07:47,777 --> 00:07:50,347
+So we wanted to do
+something special today.
+
+106
+00:07:50,413 --> 00:07:52,682
+We're giving 36-year-old DAESUNG
+
+107
+00:07:52,749 --> 00:07:58,421
+a moment to talk to G-Dragon and Taeyang
+from when they were 20.
+
+108
+00:08:00,357 --> 00:08:02,158
+Guess what, Jiyong and Youngbae?
+
+109
+00:08:02,225 --> 00:08:06,997
+A lot of people say
+you guys are only a year older than me,
+
+110
+00:08:07,063 --> 00:08:11,801
+but you treat me
+like I'm ten years younger.
+
+111
+00:08:11,868 --> 00:08:15,438
+Seeing how talented you both are,
+I get why you treat me like that.
+
+112
+00:08:15,505 --> 00:08:19,009
+But no matter how old we get
+or what the age gap is,
+
+113
+00:08:19,075 --> 00:08:21,845
+I know we'll respect
+and care for each other
+
+114
+00:08:21,912 --> 00:08:24,347
+as we keep working together.
+
+115
+00:08:24,414 --> 00:08:29,553
+To 20-year-old Jiyong and Youngbae,
+please look after 19-year-old DAESUNG.
+
+116
+00:08:29,619 --> 00:08:30,620
+Okay.
+
+117
+00:08:30,687 --> 00:08:34,024
+I'm actually the same age
+as Jiyong and Youngbae.
+
+118
+00:08:34,090 --> 00:08:37,928
+Do you remember eating together
+when we were at the same agency?
+
+119
+00:08:40,230 --> 00:08:43,233
+You don't remember. You forgot.
+
+120
+00:08:43,300 --> 00:08:46,102
+No, I remember there was a waterfall.
+
+121
+00:08:46,169 --> 00:08:49,239
+And we sat at those wooden tables.
+
+122
+00:08:49,306 --> 00:08:51,708
+-How could you forget?
+-I didn't.
+
+123
+00:08:51,775 --> 00:08:55,979
+We greeted each other
+and said we should be friends.
+
+124
+00:08:56,046 --> 00:08:57,581
+If you had any respect for me,
+
+125
+00:08:57,647 --> 00:09:01,618
+you would've thought about this
+before you met me today.
+
+126
+00:09:01,685 --> 00:09:04,821
+Do you have any idea
+how embarrassing this is for me right now?
+
+127
+00:09:06,523 --> 00:09:10,193
+Try to remember me. Ready, set, go.
+
+128
+00:09:10,260 --> 00:09:13,330
+-It was back--
+-Try harder.
+
+129
+00:09:13,396 --> 00:09:18,001
+It was back in 2000,
+when the old YG building had just opened.
+
+130
+00:09:18,068 --> 00:09:22,439
+The cafeteria was always packed,
+and the food was--
+
+131
+00:09:22,505 --> 00:09:28,345
+I don't get why this is so hard for you.
+Keep thinking till your brain hurts.
+
+132
+00:09:31,715 --> 00:09:35,185
+The truth is,
+this is my first time meeting you.
+
+133
+00:09:36,887 --> 00:09:40,390
+We were at the same agency
+for quite a long time,
+
+134
+00:09:40,457 --> 00:09:43,760
+but we've only ever seen each other
+through the media.
+
+135
+00:09:43,827 --> 00:09:45,762
+It's our first time meeting in person.
+
+136
+00:09:51,034 --> 00:09:54,304
+Let's jump straight into the interview.
+
+137
+00:09:54,371 --> 00:09:55,839
+Earlier this year,
+
+138
+00:09:55,906 --> 00:09:59,075
+-you released your solo album, <i>D's WAVE.</i>
+-That's right.
+
+139
+00:09:59,142 --> 00:10:01,778
+How was it working solo
+instead of in a group?
+
+140
+00:10:01,845 --> 00:10:03,847
+What did you want to convey in your music?
+
+141
+00:10:03,914 --> 00:10:07,817
+I've been performing in Japan
+for about 11 years.
+
+142
+00:10:07,884 --> 00:10:08,885
+That's a long time.
+
+143
+00:10:08,952 --> 00:10:12,956
+I used to have a strong fear
+of performing on stage.
+
+144
+00:10:13,023 --> 00:10:14,791
+The Korean market felt intimidating.
+
+145
+00:10:14,858 --> 00:10:16,693
+-Really?
+-Yes.
+
+146
+00:10:16,760 --> 00:10:20,664
+So I was a bit pessimistic
+about this album.
+
+147
+00:10:20,730 --> 00:10:24,634
+But after seeing my Japan tour,
+the CEO of my agency said
+
+148
+00:10:24,701 --> 00:10:27,871
+he wanted to make it happen
+and would take full responsibility for it.
+
+149
+00:10:27,938 --> 00:10:31,841
+And that's what gave me the courage
+to release this album in Korea.
+
+150
+00:10:31,908 --> 00:10:36,913
+I tried to fill this album with upbeat,
+refreshing music that lifts your mood.
+
+151
+00:10:36,980 --> 00:10:38,048
+-In <i>D's WAVE.</i>
+-Yes.
+
+152
+00:10:38,114 --> 00:10:40,283
+When you first started playing the drums,
+
+153
+00:10:40,350 --> 00:10:44,688
+I figured it was just for the fans,
+but you've kept it up for a long time.
+
+154
+00:10:44,754 --> 00:10:48,158
+I haven't been consistent with it,
+but it's been about 8 to 10 years.
+
+155
+00:10:48,225 --> 00:10:51,995
+Some songs, especially heavy metal ones,
+are tough to play on the drums.
+
+156
+00:10:52,062 --> 00:10:55,265
+How advanced would you say
+your drumming level is?
+
+157
+00:10:55,332 --> 00:10:58,268
+The reason I record myself
+playing the drums is that
+
+158
+00:10:58,335 --> 00:11:01,037
+once I learn a song
+and move on to the next one,
+
+159
+00:11:01,104 --> 00:11:04,741
+-I completely forget the previous one.
+-I can see how that'd happen.
+
+160
+00:11:04,808 --> 00:11:06,576
+That's why I record myself.
+
+161
+00:11:06,643 --> 00:11:08,378
+Can you play Davichi's <i>8282?</i>
+
+162
+00:11:09,846 --> 00:11:10,914
+Yes, I can.
+
+163
+00:11:10,981 --> 00:11:12,482
+-You can keep up?
+-Yes.
+
+164
+00:11:12,549 --> 00:11:13,550
+-Really?
+-Yes.
+
+165
+00:11:13,617 --> 00:11:14,918
+That's impressive.
+
+166
+00:11:17,420 --> 00:11:18,688
+Most people…
+
+167
+00:11:21,892 --> 00:11:26,062
+tend to pick up the guitar or piano.
+What made you choose the drums?
+
+168
+00:11:26,129 --> 00:11:28,198
+Well…
+
+169
+00:11:28,265 --> 00:11:32,035
+I'm sorry, but I can't get the song <i>8282</i>
+out of my head.
+
+170
+00:11:32,102 --> 00:11:35,972
+Even though it starts off slow,
+the beat really picks up later.
+
+171
+00:11:36,039 --> 00:11:41,311
+I used to go to many different churches,
+
+172
+00:11:41,378 --> 00:11:44,381
+and there was a drummer
+in one of the youth groups
+
+173
+00:11:44,447 --> 00:11:45,882
+who looked really cool.
+
+174
+00:11:45,949 --> 00:11:48,184
+But I couldn't learn the drums right away.
+
+175
+00:11:48,251 --> 00:11:49,920
+It was only after my debut,
+
+176
+00:11:49,986 --> 00:11:53,557
+when things were more stable,
+that I finally started.
+
+177
+00:11:53,623 --> 00:11:56,092
+I see. People who play the drums
+look really cool.
+
+178
+00:11:56,159 --> 00:12:00,463
+When they're up on stage, all sweaty,
+they just look so sexy.
+
+179
+00:12:00,530 --> 00:12:03,366
+Excuse me. We need to do a quick touch-up.
+
+180
+00:12:03,433 --> 00:12:04,434
+Okay.
+
+181
+00:12:28,291 --> 00:12:30,827
+-Unfortunately, you…
+-Is it over?
+
+182
+00:12:30,894 --> 00:12:33,063
+Please go to the Quiet Room
+for five minutes.
+
+183
+00:12:33,129 --> 00:12:35,131
+-Hold on.
+-You need to leave.
+
+184
+00:12:35,198 --> 00:12:37,300
+He's obviously not the makeup artist.
+
+185
+00:12:39,970 --> 00:12:42,772
+I knew this was coming,
+but it still made me laugh.
+
+186
+00:12:42,839 --> 00:12:44,274
+This is crazy.
+
+187
+00:12:44,941 --> 00:12:47,611
+-Is there something hiding in here?
+-No, just take a seat.
+
+188
+00:12:48,178 --> 00:12:50,213
+We'll let you out after five minutes.
+
+189
+00:12:50,280 --> 00:12:52,916
+He's the only guest we have today,
+
+190
+00:12:52,983 --> 00:12:57,854
+but since he's stuck in the Quiet Room
+and the interview has to go on,
+
+191
+00:12:57,921 --> 00:13:00,023
+we brought someone to fill in for him.
+
+192
+00:13:00,090 --> 00:13:04,661
+-Fill in for me?
+-We couldn't just invite anyone,
+
+193
+00:13:04,728 --> 00:13:08,298
+so we brought in two A-listers
+who have a very close relationship
+
+194
+00:13:08,365 --> 00:13:11,401
+-with DAESUNG.
+-Who else is here?
+
+195
+00:13:11,468 --> 00:13:14,371
+These are the guys
+who served in the military with DAESUNG.
+
+196
+00:13:14,437 --> 00:13:16,306
+People call them the "Military Bang."
+
+197
+00:13:16,373 --> 00:13:18,208
+-Joowon, Beenzino.
+-Joowon?
+
+198
+00:13:18,275 --> 00:13:20,277
+Ko Kyoungpyo and Dong Youngbae.
+
+199
+00:13:20,343 --> 00:13:22,112
+The lineup is incredible.
+
+200
+00:13:22,178 --> 00:13:24,581
+-Who among them will be joining us?
+-Seriously?
+
+201
+00:13:24,648 --> 00:13:26,650
+Let's give them a big round of applause.
+
+202
+00:13:30,921 --> 00:13:32,022
+For real?
+
+203
+00:13:32,956 --> 00:13:34,090
+Who is that?
+
+204
+00:13:34,691 --> 00:13:36,192
+Is that Ko Youngbae?
+
+205
+00:13:38,194 --> 00:13:39,663
+That's a different Youngbae.
+
+206
+00:13:39,729 --> 00:13:41,865
+One moment, please. Donghyeok!
+
+207
+00:13:46,336 --> 00:13:47,904
+He's the wrong Youngbae.
+
+208
+00:13:47,971 --> 00:13:49,039
+What happened?
+
+209
+00:13:50,674 --> 00:13:51,675
+What's going on?
+
+210
+00:13:52,275 --> 00:13:55,478
+I asked you to book
+Ko Kyoungpyo and Dong Youngbae.
+
+211
+00:13:57,747 --> 00:13:59,115
+So why is Ko Youngbae here?
+
+212
+00:13:59,182 --> 00:14:01,685
+He must've mixed the two names together.
+
+213
+00:14:01,751 --> 00:14:05,155
+We didn't have the budget
+to invite both of them,
+
+214
+00:14:05,222 --> 00:14:07,357
+so we just booked Ko Youngbae.
+
+215
+00:14:07,424 --> 00:14:08,725
+You call that an excuse?
+
+216
+00:14:09,793 --> 00:14:10,927
+I'm sorry.
+
+217
+00:14:11,761 --> 00:14:12,963
+What do we do?
+
+218
+00:14:13,029 --> 00:14:15,098
+Why would you book Ko Youngbae?
+
+219
+00:14:15,165 --> 00:14:16,633
+Isn't it close enough?
+
+220
+00:14:18,602 --> 00:14:19,736
+This is ridiculous.
+
+221
+00:14:19,803 --> 00:14:22,138
+Okay, I'll keep going.
+
+222
+00:14:24,774 --> 00:14:26,009
+Please have a seat.
+
+223
+00:14:26,576 --> 00:14:30,247
+Thank you for coming.
+You can take a seat on the couch.
+
+224
+00:14:30,313 --> 00:14:35,118
+Welcome. Thank you so much
+for taking the time to join us.
+
+225
+00:14:40,457 --> 00:14:44,160
+I've always wanted to ask you this.
+With BIGBANG'S 20th anniversary coming up,
+
+226
+00:14:44,227 --> 00:14:47,831
+can you give us a hint
+about what you're planning for next year?
+
+227
+00:14:49,866 --> 00:14:52,736
+As many fans already know,
+
+228
+00:14:52,802 --> 00:14:56,640
+it's been 20 years since Jiyong, DAESUNG,
+and I started out together.
+
+229
+00:14:56,706 --> 00:14:58,742
+We've been getting a lot of attention.
+
+230
+00:14:58,808 --> 00:15:02,212
+Next year, since our fans
+have been waiting for so long…
+
+231
+00:15:02,279 --> 00:15:04,114
+The audacity. I've never even met him.
+
+232
+00:15:04,180 --> 00:15:07,350
+…we're planning street performances
+and meet-and-greets…
+
+233
+00:15:07,417 --> 00:15:09,953
+-I see.
+-…so we can be closer to them.
+
+234
+00:15:10,020 --> 00:15:12,155
+Hold on. Am I allowed to talk?
+
+235
+00:15:12,822 --> 00:15:15,225
+-So you plan to hold meet-and-greets.
+-Yes.
+
+236
+00:15:15,292 --> 00:15:18,995
+DAESUNG said
+he wanted to wear a face chain.
+
+237
+00:15:19,062 --> 00:15:20,330
+-At the fan event?
+-Yes.
+
+238
+00:15:20,397 --> 00:15:23,099
+It seemed like a good idea,
+so we're talking it over.
+
+239
+00:15:23,166 --> 00:15:24,734
+That's great.
+
+240
+00:15:25,402 --> 00:15:28,805
+I heard DAESUNG is planning
+a concert next year.
+
+241
+00:15:29,372 --> 00:15:30,373
+Well…
+
+242
+00:15:33,310 --> 00:15:34,311
+January 3rd and 4th.
+
+243
+00:15:34,377 --> 00:15:37,113
+-Yes, in January.
+-The 3rd and the 4th.
+
+244
+00:15:37,180 --> 00:15:39,316
+-It'll be on January 3 and 4.
+-January 3 and 4.
+
+245
+00:15:39,382 --> 00:15:43,520
+He asked me and Jiyong
+to come and support him.
+
+246
+00:15:43,587 --> 00:15:47,090
+Excellent. Ko Kyoung… I mean, Ko Youngbae,
+
+247
+00:15:47,157 --> 00:15:50,193
+I heard you have an anecdote
+from when you served with DAESUNG.
+
+248
+00:15:51,461 --> 00:15:52,729
+My brother DAESUNG…
+
+249
+00:15:52,796 --> 00:15:55,332
+I'm his brother now? What's with that guy?
+
+250
+00:15:55,398 --> 00:16:00,170
+My brother DAESUNG and I
+lived in the same dorm when we served.
+
+251
+00:16:00,237 --> 00:16:02,205
+-Dorm?
+-That doesn't sound right.
+
+252
+00:16:02,272 --> 00:16:05,342
+-Dorm?
+-Sorry, I meant living quarters.
+
+253
+00:16:06,343 --> 00:16:10,580
+It's actually called the barracks.
+
+254
+00:16:10,647 --> 00:16:12,716
+All right, the five minutes are up.
+
+255
+00:16:12,782 --> 00:16:16,486
+Thank you so much for your time today.
+Please go back to your seat.
+
+256
+00:16:16,553 --> 00:16:18,488
+-But--
+-Thank you.
+
+257
+00:16:18,555 --> 00:16:21,358
+-But I--
+-Thank you so much.
+
+258
+00:16:21,925 --> 00:16:25,962
+-See you next time. Thank you.
+-But I didn't even shake his hand.
+
+259
+00:16:26,029 --> 00:16:27,631
+-Sorry about that.
+-He left?
+
+260
+00:16:27,697 --> 00:16:28,698
+Yes.
+
+261
+00:16:28,765 --> 00:16:31,201
+How did you end up
+with a different Youngbae?
+
+262
+00:16:31,268 --> 00:16:33,303
+SORAN has a new album coming out soon,
+
+263
+00:16:33,370 --> 00:16:36,673
+-so we can look forward to that.
+-That's right.
+
+264
+00:16:36,740 --> 00:16:38,441
+-I'm rooting for you guys.
+-Okay.
+
+265
+00:16:38,508 --> 00:16:41,011
+I remember watching
+a very interesting interview.
+
+266
+00:16:41,077 --> 00:16:44,014
+You described singing
+as a form of excretion.
+
+267
+00:16:45,148 --> 00:16:48,652
+-Yes, I think it was on <i>LeeMujin Service.</i>
+-That's right.
+
+268
+00:16:48,718 --> 00:16:50,654
+That's where I said that.
+
+269
+00:16:50,720 --> 00:16:54,424
+That rush you get after singing…
+It's like letting one out.
+
+270
+00:16:57,961 --> 00:17:01,998
+-So it's like dumping out the harmonies.
+-That's right.
+
+271
+00:17:02,799 --> 00:17:04,534
+He just squirted.
+
+272
+00:17:04,601 --> 00:17:06,536
+-What did you say?
+-I mean the seeds.
+
+273
+00:17:11,541 --> 00:17:12,976
+-Look at those seeds.
+-I see.
+
+274
+00:17:13,043 --> 00:17:15,612
+-The seeds are everywhere.
+-He squirted them.
+
+275
+00:17:19,649 --> 00:17:21,551
+Excretions come in all sorts of forms,
+
+276
+00:17:21,618 --> 00:17:24,654
+depending on their consistency
+and texture.
+
+277
+00:17:24,721 --> 00:17:28,425
+Could you use that metaphor to describe
+some of the songs you've released,
+
+278
+00:17:28,491 --> 00:17:30,694
+either by yourself or with BIGBANG?
+
+279
+00:17:30,760 --> 00:17:34,497
+For instance, some songs
+bind BIGBANG together so firmly,
+
+280
+00:17:34,564 --> 00:17:36,666
+they're like a solid piece of poop.
+
+281
+00:17:36,733 --> 00:17:40,837
+And then there are songs
+that just explode, kind of like diarrhea.
+
+282
+00:17:40,904 --> 00:17:42,138
+<i>BANG BANG…</i>
+
+283
+00:17:44,174 --> 00:17:45,575
+<i>-BANG.</i>
+-Yes.
+
+284
+00:17:45,642 --> 00:17:46,910
+-It's <i>BANG BANG BANG.</i>
+-Yes.
+
+285
+00:17:46,977 --> 00:17:48,778
+What's that song like?
+
+286
+00:17:48,845 --> 00:17:52,082
+It's like you feel gassy inside,
+
+287
+00:17:52,148 --> 00:17:55,352
+and as soon as you sit on the toilet,
+a whole symphony comes out.
+
+288
+00:17:55,418 --> 00:17:56,820
+Like fireworks exploding.
+
+289
+00:17:56,887 --> 00:17:59,089
+-It's like--
+-It's like instant relief.
+
+290
+00:17:59,155 --> 00:18:01,625
+<i>BANG BANG BANG.</i>
+
+291
+00:18:02,425 --> 00:18:04,527
+-Bang, bang, bang.
+-Yes, like that.
+
+292
+00:18:05,829 --> 00:18:11,902
+I heard you're quite a homebody
+and watch a lot of anime like <i>One Piece.</i>
+
+293
+00:18:11,968 --> 00:18:13,503
+I used to…
+
+294
+00:18:14,271 --> 00:18:16,106
+One, two, Finger Pistol!
+
+295
+00:18:22,479 --> 00:18:24,347
+So…
+
+296
+00:18:24,414 --> 00:18:28,952
+This is a big topic of discussion
+among <i>One Piece </i>fans.
+
+297
+00:18:29,019 --> 00:18:32,255
+If the Four Emperors fought the Admirals,
+who would win?
+
+298
+00:18:34,925 --> 00:18:36,526
+The Emperor…
+
+299
+00:18:36,593 --> 00:18:40,964
+The Four Emperors wouldn't stand a chance.
+Fujitora could take them down by himself.
+
+300
+00:18:41,031 --> 00:18:42,666
+Shanks could wipe him out.
+
+301
+00:18:42,732 --> 00:18:45,335
+No, he couldn't. He just looks cool.
+
+302
+00:18:45,402 --> 00:18:47,304
+-No way.
+-He just has a lot of fans.
+
+303
+00:18:47,370 --> 00:18:50,173
+An Admiral is basically like
+a US Navy Admiral.
+
+304
+00:18:50,240 --> 00:18:53,109
+If they had to fight pirates
+in small fishing boats--
+
+305
+00:18:53,176 --> 00:18:54,644
+They're not small fishing boats.
+
+306
+00:18:54,711 --> 00:18:59,382
+It's about whether
+they're official government forces or not.
+
+307
+00:18:59,449 --> 00:19:02,819
+It's not about who's official.
+It's about who's stronger.
+
+308
+00:19:02,886 --> 00:19:03,954
+Admirals are stronger.
+
+309
+00:19:04,020 --> 00:19:06,957
+You can't say they're stronger.
+They're officially recognized.
+
+310
+00:19:07,023 --> 00:19:11,761
+The Navy Admirals are basically like
+the Secretary of Defense.
+
+311
+00:19:11,828 --> 00:19:15,198
+No, I get it. It doesn't matter
+if they're the Secretary of Defense.
+
+312
+00:19:15,765 --> 00:19:18,235
+We're talking about <i>One Piece </i>right now.
+
+313
+00:19:18,301 --> 00:19:22,372
+Think about why Eiichiro Oda
+took Shanks's arm early on.
+
+314
+00:19:22,439 --> 00:19:23,807
+He didn't know he'd be famous.
+
+315
+00:19:23,873 --> 00:19:26,409
+No, it would've been too easy
+if he had two arms.
+
+316
+00:19:26,476 --> 00:19:27,878
+He would've killed everyone.
+
+317
+00:19:27,944 --> 00:19:30,380
+-Navy Admirals get full benefits.
+-Who cares?
+
+318
+00:19:30,447 --> 00:19:33,583
+Shanks lost an arm,
+but it wasn't covered by insurance.
+
+319
+00:19:33,650 --> 00:19:35,318
+Admirals have a more stable job.
+
+320
+00:19:35,385 --> 00:19:37,687
+That's true.
+They get a paycheck every month.
+
+321
+00:19:37,754 --> 00:19:40,056
+You learn with age
+that money gives you power.
+
+322
+00:19:40,123 --> 00:19:43,426
+But think about it.
+Shanks could steal the money.
+
+323
+00:19:45,695 --> 00:19:47,464
+Let's say Shanks is in a bad mood.
+
+324
+00:19:47,530 --> 00:19:52,135
+He could walk up to an Admiral and say,
+"Give me all your money,"
+
+325
+00:19:52,202 --> 00:19:54,971
+and they'd have no choice
+but to hand it over.
+
+326
+00:19:55,038 --> 00:19:56,306
+Wait.
+
+327
+00:19:56,373 --> 00:19:59,542
+-Don't do that with a pineapple!
+-One, two, Finger Pistol!
+
+328
+00:20:07,651 --> 00:20:10,020
+-It's a face.
+-He made eyes.
+
+329
+00:20:11,421 --> 00:20:14,891
+We'll conclude the <i>One Piece </i>debate here.
+
+330
+00:20:14,958 --> 00:20:18,228
+You're watching The Quiet Interview,
+the classiest talk show around.
+
+331
+00:20:18,295 --> 00:20:20,664
+Some people
+have come a long way to be here.
+
+332
+00:20:20,730 --> 00:20:24,668
+If you have anything to say to DAESUNG,
+here's your chance.
+
+333
+00:20:24,734 --> 00:20:26,069
+Please raise your hand.
+
+334
+00:20:26,136 --> 00:20:27,971
+Go ahead, Master of Finger Pistol.
+
+335
+00:20:28,038 --> 00:20:32,075
+Hello, I'm Kim Jangjin,
+the master of Finger Pistol.
+
+336
+00:20:32,142 --> 00:20:35,478
+There's a man who made it into
+the Guinness Book of Records
+
+337
+00:20:35,545 --> 00:20:39,149
+by piercing a coconut with his finger.
+
+338
+00:20:39,216 --> 00:20:41,851
+As a disciple of the Finger Pistol,
+
+339
+00:20:41,918 --> 00:20:45,021
+I will continue to train
+until I can pierce a coconut.
+
+340
+00:20:45,088 --> 00:20:46,089
+Finger Pistol!
+
+341
+00:20:46,823 --> 00:20:49,226
+-But…
+-That has nothing to do with DAESUNG.
+
+342
+00:20:51,361 --> 00:20:54,631
+You should try the Finger Pistol sometime.
+
+343
+00:20:54,698 --> 00:20:55,699
+-What?
+-What?
+
+344
+00:20:56,499 --> 00:20:58,668
+-You should try it.
+-The Finger Pistol?
+
+345
+00:21:04,641 --> 00:21:08,945
+If anyone else has something to say,
+please go ahead.
+
+346
+00:21:09,012 --> 00:21:13,450
+<i>I can't, baby, don't stop this</i>
+<i>Just go wild today</i>
+
+347
+00:21:13,516 --> 00:21:17,287
+<i>Go crazy and rave</i>
+
+348
+00:21:20,657 --> 00:21:22,726
+<i>Wow, fantastic, DAESUNG</i>
+
+349
+00:21:24,794 --> 00:21:26,062
+Hello.
+
+350
+00:21:26,129 --> 00:21:29,232
+I'm such a big fan of yours
+that I dress like this all the time
+
+351
+00:21:29,299 --> 00:21:30,600
+People call me your twin.
+
+352
+00:21:30,667 --> 00:21:34,170
+I feel a real connection with you
+because we were both born in 1989.
+
+353
+00:21:34,237 --> 00:21:36,306
+And I have a friend called "Latino."
+
+354
+00:21:36,373 --> 00:21:38,675
+-What?
+-His real name is Choi Hyeongryeol.
+
+355
+00:21:38,742 --> 00:21:40,510
+We go to the same church.
+
+356
+00:21:40,577 --> 00:21:43,513
+I've heard so much about you.
+I feel like we're already friends.
+
+357
+00:21:43,580 --> 00:21:46,116
+I'm sorry. Excuse me.
+
+358
+00:21:47,517 --> 00:21:48,919
+Hello?
+
+359
+00:21:48,985 --> 00:21:52,422
+My car? Okay, I'll move it right away.
+
+360
+00:21:52,489 --> 00:21:54,024
+Sorry, I need to move my car.
+
+361
+00:21:54,090 --> 00:21:55,959
+-Where did you park it?
+-In the basement.
+
+362
+00:21:56,026 --> 00:21:57,394
+Please come back soon.
+
+363
+00:22:16,346 --> 00:22:18,548
+-I moved it.
+-Thank goodness.
+
+364
+00:22:18,615 --> 00:22:20,250
+I'm glad that's settled.
+
+365
+00:22:20,317 --> 00:22:22,485
+Do you have anything you want to show us?
+
+366
+00:22:22,552 --> 00:22:25,822
+-My dream was also to become a singer.
+-I see.
+
+367
+00:22:25,889 --> 00:22:29,793
+So I'd like to get DAESUNG's opinion
+to see if I have any potential.
+
+368
+00:22:29,859 --> 00:22:32,229
+I want to put my skills to the test.
+
+369
+00:22:32,295 --> 00:22:35,632
+I'll show you Greg from <i>Superstar K</i>
+
+370
+00:22:35,699 --> 00:22:39,469
+singing <i>I Miss You</i>
+while swimming with DAESUNG.
+
+371
+00:22:42,572 --> 00:22:46,776
+<i>The memories of loving you like crazy</i>
+
+372
+00:22:46,843 --> 00:22:48,645
+<i>Those memories</i>
+
+373
+00:22:48,712 --> 00:22:53,717
+<i>Are searching for you</i>
+
+374
+00:22:53,783 --> 00:22:57,420
+<i>But I can no longer keep you captive</i>
+
+375
+00:22:57,487 --> 00:23:00,957
+<i>In the name of love anymore</i>
+
+376
+00:23:03,426 --> 00:23:04,594
+Okay.
+
+377
+00:23:05,962 --> 00:23:08,965
+DAESUNG and I got hungry after our swim,
+
+378
+00:23:09,032 --> 00:23:12,302
+so we went to L*tteria
+and sang <i>I Miss You </i>there.
+
+379
+00:23:12,369 --> 00:23:15,038
+<i>The memories of loving you like crazy</i>
+
+380
+00:23:15,105 --> 00:23:18,508
+<i>Those memories are searching for you</i>
+
+381
+00:23:18,575 --> 00:23:20,510
+Great, the fries are ready.
+
+382
+00:23:29,185 --> 00:23:33,089
+You have to go back to the Quiet Room
+because you laughed a bit too hard.
+
+383
+00:23:33,156 --> 00:23:35,992
+Hold on. I thought we were done.
+
+384
+00:23:36,059 --> 00:23:39,029
+Whatever the case,
+you still have to go to the Quiet Room.
+
+385
+00:23:39,095 --> 00:23:40,297
+Again?
+
+386
+00:23:40,363 --> 00:23:42,933
+Do I really have to do this again?
+
+387
+00:23:45,068 --> 00:23:46,069
+Youngbae!
+
+388
+00:23:46,136 --> 00:23:48,705
+Ko Youngbae?
+
+389
+00:23:48,772 --> 00:23:49,906
+Youngbae!
+
+390
+00:23:50,473 --> 00:23:53,043
+He's still here? I'm sure he left.
+
+391
+00:23:53,109 --> 00:23:54,978
+-He's still here?
+-Thank you.
+
+392
+00:23:55,045 --> 00:23:56,446
+Why is he still here?
+
+393
+00:23:56,513 --> 00:23:57,781
+Please have a seat.
+
+394
+00:23:58,348 --> 00:23:59,482
+He's still here.
+
+395
+00:23:59,983 --> 00:24:04,354
+You'll have to fill in for DAESUNG
+while he is in the Quiet Room.
+
+396
+00:24:04,421 --> 00:24:06,790
+Did you want to say something to DAESUNG?
+
+397
+00:24:06,856 --> 00:24:11,127
+I showed him everything I prepared,
+but he didn't give me any feedback.
+
+398
+00:24:11,194 --> 00:24:12,329
+-I see.
+-Yes.
+
+399
+00:24:12,395 --> 00:24:15,532
+Tell us what you think.
+Does he have potential?
+
+400
+00:24:15,599 --> 00:24:18,168
+How would he know? He didn't see anything.
+
+401
+00:24:18,235 --> 00:24:19,236
+Well…
+
+402
+00:24:20,136 --> 00:24:22,405
+He has beautiful eyes.
+
+403
+00:24:22,472 --> 00:24:24,241
+-Right.
+-They're beautiful.
+
+404
+00:24:24,808 --> 00:24:27,644
+But I think he should've left out
+the bit about the fries.
+
+405
+00:24:27,711 --> 00:24:31,014
+You think he should've stopped
+at the swimming part.
+
+406
+00:24:31,081 --> 00:24:33,850
+That's right.
+I'm really sorry, but could you tell me
+
+407
+00:24:33,917 --> 00:24:36,319
+if I'm Ko Kyoungpyo
+or Dong Youngbae right now?
+
+408
+00:24:36,386 --> 00:24:39,322
+You need to tell me so I know how to talk.
+
+409
+00:24:39,389 --> 00:24:40,457
+Aren't you Ko Youngbae?
+
+410
+00:24:40,523 --> 00:24:42,893
+-Let's pretend you're DAESUNG.
+-DAESUNG?
+
+411
+00:24:44,561 --> 00:24:46,963
+-It's too much.
+-What's happening?
+
+412
+00:24:47,464 --> 00:24:48,932
+This is too much.
+
+413
+00:24:49,733 --> 00:24:53,069
+-Please come with me.
+-I was just about to go home.
+
+414
+00:24:53,136 --> 00:24:54,804
+-Are we switching?
+-No.
+
+415
+00:24:54,871 --> 00:24:57,574
+-We'll both be stuck in here?
+-Please come this way.
+
+416
+00:24:57,641 --> 00:24:59,309
+I just met him today.
+
+417
+00:24:59,376 --> 00:25:01,545
+-This is…
+-Hello.
+
+418
+00:25:01,611 --> 00:25:04,281
+Let's continue.
+Master of Finger Pistol, please come up.
+
+419
+00:25:06,116 --> 00:25:07,317
+I'm a huge fan.
+
+420
+00:25:09,019 --> 00:25:10,854
+-Didn't think we'd meet in here.
+-I know.
+
+421
+00:25:10,921 --> 00:25:13,790
+-I've heard you on the radio a lot.
+-Really?
+
+422
+00:25:13,857 --> 00:25:16,826
+Please give us a brief introduction.
+
+423
+00:25:16,893 --> 00:25:21,565
+I'm Kim Jangjin
+from Yangju, Gyeonggi Province.
+
+424
+00:25:21,631 --> 00:25:22,966
+Hello, Jangjin.
+
+425
+00:25:23,033 --> 00:25:26,236
+Could you tell us
+what makes Finger Pistol so special?
+
+426
+00:25:26,303 --> 00:25:30,040
+When life gets stressful,
+
+427
+00:25:30,106 --> 00:25:33,877
+Finger Pistol helps blow off some steam.
+
+428
+00:25:34,511 --> 00:25:37,881
+But the downside is
+you might hurt your finger.
+
+429
+00:25:38,815 --> 00:25:40,317
+Isn't that obvious?
+
+430
+00:25:40,383 --> 00:25:43,954
+I didn't know that.
+Have you ever injured yourself?
+
+431
+00:25:44,654 --> 00:25:47,824
+I once tried the Finger Pistol
+on a watermelon and got hurt.
+
+432
+00:25:47,891 --> 00:25:50,427
+-That injury lasted a while.
+-Oh, dear.
+
+433
+00:25:50,493 --> 00:25:52,062
+And it cost me some money too.
+
+434
+00:25:52,128 --> 00:25:53,863
+I'm sure it wasn't cheap.
+
+435
+00:25:53,930 --> 00:25:56,032
+Do you have a Disney+ account?
+
+436
+00:25:56,866 --> 00:25:58,235
+I have to make one.
+
+437
+00:26:04,040 --> 00:26:08,245
+That's all the time we have for today.
+Thank you. You can go back now.
+
+438
+00:26:08,912 --> 00:26:10,480
+The five minutes are up.
+
+439
+00:26:11,314 --> 00:26:13,950
+-Can I leave, too?
+-Yes, you can both come out.
+
+440
+00:26:14,517 --> 00:26:18,722
+I'm sorry for taking up
+so much of your time.
+
+441
+00:26:18,788 --> 00:26:20,156
+It's time for you to leave.
+
+442
+00:26:20,223 --> 00:26:22,492
+-Is he going home now?
+-Yes, he is.
+
+443
+00:26:22,559 --> 00:26:24,427
+-Good luck, SORAN.
+-Good luck.
+
+444
+00:26:24,494 --> 00:26:25,495
+All right.
+
+445
+00:26:25,562 --> 00:26:28,298
+We've now wrapped up
+the audience interviews,
+
+446
+00:26:28,365 --> 00:26:31,668
+but if anyone else has something to say,
+please go ahead.
+
+447
+00:26:31,735 --> 00:26:33,303
+You're handsome!
+
+448
+00:26:35,071 --> 00:26:37,007
+Who are you talking about?
+
+449
+00:26:38,074 --> 00:26:39,910
+I'm pretty sure it's not DAESUNG.
+
+450
+00:26:39,976 --> 00:26:43,213
+But Byungjae isn't handsome either.
+
+451
+00:26:43,847 --> 00:26:45,549
+No, Byungjae is better.
+
+452
+00:26:45,615 --> 00:26:48,318
+He's short,
+so he can sit in economy comfortably.
+
+453
+00:26:48,385 --> 00:26:49,619
+Super practical.
+
+454
+00:26:49,686 --> 00:26:52,155
+If we're talking practicality,
+it's DAESUNG.
+
+455
+00:26:52,222 --> 00:26:54,791
+His eyes are small,
+so it's hard for dust to get in.
+
+456
+00:26:54,858 --> 00:26:56,560
+That's a survival advantage.
+
+457
+00:26:56,626 --> 00:26:59,429
+It all goes in
+through that big nose anyway.
+
+458
+00:26:59,496 --> 00:27:03,300
+A big nose means better lung capacity.
+That's why he sings so well.
+
+459
+00:27:03,366 --> 00:27:07,337
+If that logic holds, Shin Hyunjoon
+would be the best vocalist in Korea.
+
+460
+00:27:07,404 --> 00:27:11,207
+Why did Goguryeo, Baekje, and Silla go
+to war? They wanted to claim the center.
+
+461
+00:27:11,274 --> 00:27:15,345
+Since the nose is the center of the face,
+having a big one is a blessing.
+
+462
+00:27:15,412 --> 00:27:17,814
+What good is a small country
+with a huge capital?
+
+463
+00:27:17,881 --> 00:27:21,985
+Look at Byungjae.
+You need plenty of real estate to prosper.
+
+464
+00:27:22,052 --> 00:27:25,722
+Byungjae's got plenty of land,
+but it's all wasteland.
+
+465
+00:27:25,789 --> 00:27:29,526
+You could fit Cha Eunwoo and Byeon Wooseok
+on each cheek and still have room left.
+
+466
+00:27:29,593 --> 00:27:31,962
+That's enough.
+
+467
+00:27:32,028 --> 00:27:36,032
+It feels like this turned into
+a bit of a heated debate,
+
+468
+00:27:36,099 --> 00:27:38,702
+-but we each have our own charm.
+-Of course.
+
+469
+00:27:38,768 --> 00:27:41,605
+I've never been insecure about my looks.
+
+470
+00:27:43,707 --> 00:27:46,109
+-Have you?
+-No, I haven't.
+
+471
+00:27:46,810 --> 00:27:51,248
+This episode will go up around the time
+the college entrance exam ends.
+
+472
+00:27:51,314 --> 00:27:55,352
+Could you give a congratulatory message
+to those who did well on the exams?
+
+473
+00:27:55,418 --> 00:27:57,988
+You've all worked so hard.
+
+474
+00:27:58,054 --> 00:28:03,093
+So take some time to relax,
+let go of the stress, and recharge.
+
+475
+00:28:03,159 --> 00:28:08,298
+Then keep moving forward
+toward the future that's waiting for you.
+
+476
+00:28:08,365 --> 00:28:10,600
+Could you do another
+for those who didn't do well?
+
+477
+00:28:10,667 --> 00:28:12,102
+-A congratulatory message?
+-Yes.
+
+478
+00:28:12,168 --> 00:28:14,104
+-To comfort them?
+-Yes.
+
+479
+00:28:14,170 --> 00:28:15,906
+Let's see.
+
+480
+00:28:15,972 --> 00:28:20,944
+I don't see this as a failure at all.
+
+481
+00:28:21,011 --> 00:28:25,649
+It's all about how you take it.
+You can use this as fuel to grow.
+
+482
+00:28:25,715 --> 00:28:28,151
+So don't beat yourself up or lose hope.
+
+483
+00:28:28,218 --> 00:28:32,255
+I hope you all achieve the results
+you're aiming for. Good luck.
+
+484
+00:28:32,322 --> 00:28:34,457
+Could you say something
+to Japanese students?
+
+485
+00:28:34,524 --> 00:28:39,996
+There may be many challenges,
+but this isn't the end.
+
+486
+00:28:40,063 --> 00:28:43,934
+So don't give up. Keep moving forward.
+
+487
+00:28:44,000 --> 00:28:46,703
+If you stay persistent
+and work toward your dreams,
+
+488
+00:28:46,770 --> 00:28:51,408
+I believe you'll reach them
+and achieve great things.
+
+489
+00:28:51,474 --> 00:28:52,609
+Good luck.
+
+490
+00:28:53,176 --> 00:28:54,611
+Your Japanese is good.
+
+491
+00:29:00,050 --> 00:29:06,089
+All right, that wraps up today's show
+with our very special guest, DAESUNG.
+
+492
+00:29:06,156 --> 00:29:08,658
+I'd like to ask you
+for your final thoughts.
+
+493
+00:29:08,725 --> 00:29:11,061
+I had so much fun today.
+
+494
+00:29:11,127 --> 00:29:13,630
+Since there's a bit of a delay
+before this goes up,
+
+495
+00:29:13,697 --> 00:29:17,000
+I had the chance to greet the viewers
+who watched our show on G*MTV.
+
+496
+00:29:19,736 --> 00:29:21,671
+-You got to greet them.
+-It's been a while.
+
+497
+00:29:23,807 --> 00:29:27,944
+It was such an honor to greet them again.
+
+498
+00:29:28,011 --> 00:29:32,082
+And thank you for all the questions
+that made me reflect on my life.
+
+499
+00:29:32,148 --> 00:29:38,054
+My encore tour is set for January 3 and 4,
+so I'll be getting ready for that.
+
+500
+00:29:38,121 --> 00:29:41,625
+I'm sure our viewers will be very happy
+to hear about your tour.
+
+501
+00:29:41,691 --> 00:29:43,360
+Thank you for joining us today.
+
+502
+00:29:43,426 --> 00:29:46,897
+This has been The Quiet Interview
+with DAESUNG.
+
+503
+00:29:46,963 --> 00:29:48,465
+-Thank you.
+-Thank you.
+
+504
+00:30:05,248 --> 00:30:08,285
+THE QUIET INTERVIEW
+
+505
+00:30:09,286 --> 00:30:13,089
+HOST: YOO BYUNGJAE
+
+506
+00:30:13,156 --> 00:30:20,130
+GUEST: DAESUNG
+
+507
+00:30:31,341 --> 00:30:33,343
+Translated by Jane Oh
