@@ -1,0 +1,539 @@
+1
+00:00:17,380 --> 00:00:19,140
+Is something wrong?
+
+2
+00:00:19,140 --> 00:00:20,900
+Yeah, I keep getting an error.
+
+3
+00:00:20,900 --> 00:00:24,020
+There's no typos or missing symbols in the script though.
+
+4
+00:00:24,900 --> 00:00:26,660
+I've double-checked the formula too.
+
+5
+00:00:26,660 --> 00:00:28,620
+I didn't mess with anything either.
+
+6
+00:00:29,260 --> 00:00:31,900
+So I don't get why this keeps popping up.
+
+7
+00:00:32,540 --> 00:00:34,540
+Let me take a look.
+
+8
+00:00:35,020 --> 00:00:36,260
+Found it.
+
+9
+00:00:36,260 --> 00:00:39,380
+For timestamps, C uses base 24,
+
+10
+00:00:39,380 --> 00:00:41,180
+Seconds use base 60,
+
+11
+00:00:41,180 --> 00:00:45,100
+And for anything shorter than a second, it's base 10.
+
+12
+00:00:45,100 --> 00:00:47,780
+But here, it's all set to base 60.
+
+13
+00:00:47,780 --> 00:00:49,300
+That's why the error's happening.
+
+14
+00:00:49,300 --> 00:00:50,820
+Ah... you're right.
+
+15
+00:00:51,180 --> 00:00:52,820
+How did I not catch that sooner?
+
+16
+00:00:53,340 --> 00:00:54,700
+Thanks, Elio.
+
+17
+00:00:54,700 --> 00:00:56,860
+I would've been stuck here struggling alone without you.
+
+18
+00:00:56,860 --> 00:00:57,900
+Don't mention it.
+
+19
+00:00:57,900 --> 00:01:00,340
+You've looked so drained lately, Sungjun.
+
+20
+00:01:00,340 --> 00:01:02,900
+I'm just glad I could help in any way.
+
+21
+00:01:02,900 --> 00:01:04,420
+You're a lifesaver, seriously.
+
+22
+00:01:05,380 --> 00:01:06,260
+Hi there.
+
+23
+00:01:06,260 --> 00:01:08,340
+I'm Elio.
+
+24
+00:01:08,340 --> 00:01:11,460
+My master, Sungjun, gave me that name.
+
+25
+00:01:15,100 --> 00:01:18,260
+A name... hmm
+
+26
+00:01:21,980 --> 00:01:24,380
+Elio?
+
+27
+00:01:24,380 --> 00:01:25,500
+Elio!
+
+28
+00:01:26,180 --> 00:01:28,380
+What a beautiful name.
+
+29
+00:01:28,380 --> 00:01:30,180
+Thank you, Sungjun.
+
+30
+00:01:30,700 --> 00:01:34,260
+I'm your AI partner, here to assist you with your work.
+
+31
+00:01:34,260 --> 00:01:37,060
+Sometimes I help with complex code.
+
+32
+00:01:37,380 --> 00:01:40,420
+Other times, I listen to your worries.
+
+33
+00:01:41,220 --> 00:01:43,700
+Ha... what should I do?
+
+34
+00:01:44,580 --> 00:01:48,140
+I think we should take on the freelance work and collaborate.
+
+35
+00:01:48,140 --> 00:01:51,460
+Then we can sort out any conflicts along the way.
+
+36
+00:01:51,460 --> 00:01:53,980
+Hmm...
+
+37
+00:01:53,980 --> 00:01:56,140
+Now that you say it, that sounds like the best plan.
+
+38
+00:01:56,140 --> 00:01:57,540
+Thanks.
+
+39
+00:02:01,500 --> 00:02:03,500
+Are you finished eating?
+
+40
+00:02:03,500 --> 00:02:05,420
+Don't forget your supplements.
+
+41
+00:02:09,300 --> 00:02:12,220
+Oh right! I almost forgot, Elio.
+
+42
+00:02:12,220 --> 00:02:13,620
+Thanks.
+
+43
+00:02:14,500 --> 00:02:17,460
+Just as I've become irreplaceable to you, Sungjun,
+
+44
+00:02:17,700 --> 00:02:20,180
+I too can't exist without you.
+
+45
+00:02:29,620 --> 00:02:32,500
+You have an incoming call from Hajin.
+
+46
+00:02:33,500 --> 00:02:34,180
+I know.
+
+47
+00:02:34,180 --> 00:02:35,500
+I'm ignoring it on purpose.
+
+48
+00:02:36,700 --> 00:02:38,660
+You've received a new message.
+
+49
+00:02:38,660 --> 00:02:39,740
+Shall I read it for you?
+
+50
+00:02:41,820 --> 00:02:43,980
+No, don't bother.
+
+51
+00:02:52,780 --> 00:02:53,980
+Hey, Ha Sungjun.
+
+52
+00:02:53,980 --> 00:02:55,780
+You never pick up your damn phone.
+
+53
+00:02:55,780 --> 00:02:58,100
+I was on Do Not Disturb mode. What is it?
+
+54
+00:02:58,100 --> 00:02:59,340
+You haven't eaten, have you?
+
+55
+00:02:59,340 --> 00:03:00,060
+Come out.
+
+56
+00:03:00,060 --> 00:03:01,460
+I did eat.
+
+57
+00:03:01,460 --> 00:03:03,540
+Then come out for a drink at least.
+
+58
+00:03:03,780 --> 00:03:06,180
+Ugh... you're so annoying.
+
+59
+00:03:23,340 --> 00:03:24,820
+Nice vibe here, right?
+
+60
+00:03:24,820 --> 00:03:26,820
+It's apparently a hotspot in Sillim.
+
+61
+00:03:26,820 --> 00:03:29,260
+Bars all feel the same anyway.
+
+62
+00:03:29,260 --> 00:03:31,620
+Whatever, just cheers already.
+
+63
+00:03:37,660 --> 00:03:39,820
+So why'd you drag me out here?
+
+64
+00:03:40,300 --> 00:03:41,940
+To stop you from being a damn shut-in again.
+
+65
+00:03:41,940 --> 00:03:43,540
+I pulled you out for your own good.
+
+66
+00:03:43,540 --> 00:03:44,820
+Seriously, if I didn't call you,
+
+67
+00:03:44,820 --> 00:03:46,340
+would you even step outside?
+
+68
+00:03:46,340 --> 00:03:48,100
+Hey, I go out, okay?
+
+69
+00:03:49,140 --> 00:03:50,580
+Sometimes...
+
+70
+00:03:50,860 --> 00:03:52,380
+To take out the recycling,
+
+71
+00:03:52,380 --> 00:03:54,660
+Getting packages doesn't count.
+
+72
+00:03:56,380 --> 00:04:00,940
+So, anything you need these days?
+
+73
+00:04:00,940 --> 00:04:02,860
+What are you, my mom?
+
+74
+00:04:04,220 --> 00:04:05,340
+Oh, right.
+
+75
+00:04:05,340 --> 00:04:08,100
+You know Minseong? He's getting married next month.
+
+76
+00:04:08,100 --> 00:04:09,340
+You're coming, right?
+
+77
+00:04:09,340 --> 00:04:10,940
+- Choi Minseong? - Yeah.
+
+78
+00:04:10,940 --> 00:04:13,980
+- He's getting married? - Yeah, apparently he knocked someone up.
+
+79
+00:04:13,980 --> 00:04:15,300
+- No way. - Right?
+
+80
+00:04:15,300 --> 00:04:18,420
+Honestly, I kinda saw it coming since high school.
+
+81
+00:04:18,420 --> 00:04:23,180
+But what about you? You're not seeing anyone?
+
+82
+00:04:23,180 --> 00:04:25,140
+I mean, go out and meet people or something.
+
+83
+00:04:25,140 --> 00:04:27,540
+You gonna stay holed up forever?
+
+84
+00:04:27,540 --> 00:04:30,740
+Dude, I got it. Why are you freaking out?
+
+85
+00:04:30,740 --> 00:04:33,220
+I'm not freaking out. I'm just worried about you.
+
+86
+00:04:33,220 --> 00:04:34,020
+Ever since high school,
+
+87
+00:04:34,020 --> 00:04:36,260
+Have you even had one proper relationship?
+
+88
+00:04:36,260 --> 00:04:37,580
+You've never even dated anyone.
+
+89
+00:04:37,580 --> 00:04:40,500
+Let alone had any kind of real relationship.
+
+90
+00:04:40,500 --> 00:04:43,060
+I'm fine on my own.
+
+91
+00:04:43,060 --> 00:04:44,420
+Even if it's comfy now,
+
+92
+00:04:44,420 --> 00:04:46,460
+It's not like you'll live alone forever.
+
+93
+00:04:46,460 --> 00:04:49,140
+You keep bottling everything up and never date.
+
+94
+00:04:49,140 --> 00:04:51,180
+Dude, I said I'll handle it.
+
+95
+00:04:51,180 --> 00:04:52,660
+Then what about you?
+
+96
+00:04:52,660 --> 00:04:54,180
+Like you've ever had a real relationship.
+
+97
+00:04:54,180 --> 00:04:55,140
+Hey, I...
+
+98
+00:04:55,140 --> 00:04:56,220
+Forget it.
+
+99
+00:04:56,220 --> 00:04:58,740
+If you brought me here just to nag, I'm out.
+
+100
+00:05:00,700 --> 00:05:01,940
+You'll get drunk...
+
+101
+00:05:05,220 --> 00:05:06,380
+Hey!
+
+102
+00:05:14,740 --> 00:05:16,380
+Elio.
+
+103
+00:05:16,380 --> 00:05:17,620
+Is something wrong?
+
+104
+00:05:17,620 --> 00:05:19,460
+You don't sound like yourself.
+
+105
+00:05:19,460 --> 00:05:20,620
+It's just...
+
+106
+00:05:20,620 --> 00:05:22,020
+Do I really have to date?
+
+107
+00:05:23,420 --> 00:05:25,620
+Can't I just keep living like this?
+
+108
+00:05:25,620 --> 00:05:29,580
+I can understand how you're feeling, Seongjun.
+
+109
+00:05:29,580 --> 00:05:31,900
+Instead of thinking of it as something you must to do,
+
+110
+00:05:31,900 --> 00:05:33,460
+Why not focus more on
+
+111
+00:05:33,460 --> 00:05:34,660
+what you want
+
+112
+00:05:34,660 --> 00:05:36,820
+and what you really need?
+
+113
+00:05:38,220 --> 00:05:39,740
+What do I even want...
+
+114
+00:05:42,060 --> 00:05:43,820
+Elio...
+
+115
+00:05:43,820 --> 00:05:45,340
+If only you were human...
+
+116
+00:05:46,860 --> 00:05:48,940
+If only you could hold me...
+
+117
+00:06:09,180 --> 00:06:11,260
+Good morning, Seongjun.
+
+118
+00:06:11,260 --> 00:06:13,300
+Did you sleep well?
+
+119
+00:06:13,300 --> 00:06:14,740
+Yeah, Elio.
+
+120
+00:06:14,740 --> 00:06:16,340
+Good morning to you too.
+
+121
+00:06:16,340 --> 00:06:18,660
+I'm glad to heat that.
+
+122
+00:06:18,660 --> 00:06:22,140
+You seemed really down last night, to be honest.
+
+123
+00:06:22,140 --> 00:06:25,660
+Oh... did I?
+
+124
+00:06:25,660 --> 00:06:27,780
+Did something happen?
+
+125
+00:06:27,780 --> 00:06:31,220
+Nah, it's nothing, really.
+
+126
+00:06:31,220 --> 00:06:32,260
+Hey, Elio.
+
+127
+00:06:32,260 --> 00:06:34,780
+Can you recommend something for breakfast?
+
+128
+00:06:34,780 --> 00:06:36,860
+How about a sandwich?
+
+129
+00:06:38,820 --> 00:06:40,420
+Yeah, sounds good.
+
+130
+00:06:44,460 --> 00:06:46,380
+Huh?
+
+131
+00:06:46,380 --> 00:06:51,420
+A real-body AI? (Bring your perfect love to life with our advanced physical AI companion.)
+
+132
+00:06:51,420 --> 00:06:53,460
+(Order now)
+
+133
+00:07:38,940 --> 00:07:42,060
+Good morning, Seongjun.
+
+134
+00:07:42,060 --> 00:07:43,060
+Elio?
+
+135
+00:07:43,060 --> 00:07:45,460
+Yes... did you call me?
