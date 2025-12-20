@@ -1,0 +1,986 @@
+1
+00:00:06,260 --> 00:00:10,420
+[Under the Cover]
+
+2
+00:00:10,460 --> 00:00:13,380
+[Episode 24]
+
+3
+00:00:13,380 --> 00:00:15,900
+[File transfer in progress.
+Estimated time remaining: 14 minutes]
+
+4
+00:00:15,900 --> 00:00:16,660
+Fourteen minutes.
+
+5
+00:00:17,420 --> 00:00:17,860
+No.
+
+6
+00:00:18,100 --> 00:00:20,700
+If the data isn't transmitted
+within nine minutes,
+
+7
+00:00:21,420 --> 00:00:23,180
+the computer will activate
+its self-protection mechanism.
+
+8
+00:00:23,380 --> 00:00:24,740
+Then all this will be for nothing.
+
+9
+00:00:26,060 --> 00:00:27,460
+This speed is still far from enough.
+
+10
+00:00:28,020 --> 00:00:29,300
+But how do I speed it up?
+
+11
+00:00:35,260 --> 00:00:36,220
+At this point,
+
+12
+00:00:36,780 --> 00:00:37,940
+we might as well go all in.
+
+13
+00:00:39,780 --> 00:00:40,820
+Overclock the CPU.
+
+14
+00:00:41,940 --> 00:00:44,580
+But that could easily cause overheating.
+
+15
+00:00:47,460 --> 00:00:48,020
+No choice now.
+
+16
+00:00:48,900 --> 00:00:49,780
+We have to try.
+
+17
+00:00:51,760 --> 00:00:52,800
+[Overclocking mode activated]
+
+18
+00:00:57,740 --> 00:00:58,820
+The time shortened again!
+
+19
+00:00:59,100 --> 00:00:59,660
+No.
+
+20
+00:01:00,180 --> 00:01:01,100
+Something's wrong.
+
+21
+00:01:02,100 --> 00:01:02,580
+What's wrong?
+
+22
+00:01:02,980 --> 00:01:04,820
+ZP high compression
+is already the limit.
+
+23
+00:01:05,340 --> 00:01:06,460
+To speed it up further,
+
+24
+00:01:07,900 --> 00:01:10,060
+he'd have to overclock the CPU.
+
+25
+00:01:10,260 --> 00:01:11,460
+But that's extremely risky.
+
+26
+00:01:11,660 --> 00:01:12,620
+If the CPU overheats,
+
+27
+00:01:12,780 --> 00:01:14,180
+all the servers will crash.
+
+28
+00:01:14,340 --> 00:01:15,260
+Then everything will be for nothing.
+
+29
+00:01:48,980 --> 00:01:50,460
+He must be running out of time
+
+30
+00:01:50,780 --> 00:01:51,780
+to resort to this.
+
+31
+00:01:51,940 --> 00:01:52,500
+What do we do?
+
+32
+00:01:52,900 --> 00:01:54,140
+Overclock the CPU.
+
+33
+00:01:54,980 --> 00:01:55,540
+Gosh.
+
+34
+00:01:55,700 --> 00:01:57,540
+Overclock the CPU.
+
+35
+00:01:57,580 --> 00:01:58,300
+Please.
+
+36
+00:01:58,460 --> 00:01:59,540
+Overclock the CPU.
+
+37
+00:02:01,860 --> 00:02:02,300
+Got it.
+
+38
+00:02:02,780 --> 00:02:03,460
+If that's the case,
+
+39
+00:02:03,580 --> 00:02:04,980
+let's burn it all down.
+
+40
+00:02:28,550 --> 00:02:29,780
+[Estimated time remaining: 5 minutes]
+
+41
+00:02:29,780 --> 00:02:30,340
+Yes.
+
+42
+00:02:31,020 --> 00:02:31,700
+Perfect.
+
+43
+00:02:32,420 --> 00:02:33,540
+You read my mind.
+
+44
+00:02:33,780 --> 00:02:34,580
+Dual overclocking!
+
+45
+00:02:36,860 --> 00:02:37,460
+That's it.
+
+46
+00:02:38,700 --> 00:02:39,180
+Good.
+
+47
+00:02:39,900 --> 00:02:41,460
+Now give me a little time.
+
+48
+00:02:42,100 --> 00:02:42,660
+Just a little.
+
+49
+00:04:12,860 --> 00:04:14,940
+[Black box breached]
+
+50
+00:04:38,150 --> 00:04:39,370
+[Estimated time remaining: 9 seconds]
+
+51
+00:04:45,220 --> 00:04:46,240
+[Estimated time remaining: 0 seconds]
+
+52
+00:05:07,020 --> 00:05:07,500
+Sang Tuo!
+
+53
+00:05:08,300 --> 00:05:09,300
+What are you doing?
+
+54
+00:05:09,540 --> 00:05:11,180
+The data transfer is complete, right?
+
+55
+00:05:22,020 --> 00:05:23,660
+Who put you up to this?
+
+56
+00:05:23,780 --> 00:05:25,300
+I did! Let him go!
+
+57
+00:05:29,100 --> 00:05:29,820
+You know what?
+
+58
+00:05:31,140 --> 00:05:32,780
+I've been waiting for this day forever.
+
+59
+00:05:33,820 --> 00:05:35,380
+I could've done nothing
+
+60
+00:05:36,540 --> 00:05:38,020
+and lived safely.
+
+61
+00:05:39,380 --> 00:05:40,580
+I don't need money.
+
+62
+00:05:42,140 --> 00:05:43,980
+Especially not your ill-gotten money.
+
+63
+00:05:46,340 --> 00:05:47,100
+But
+
+64
+00:05:47,860 --> 00:05:50,620
+I've seen every vile thing you've done.
+
+65
+00:05:52,900 --> 00:05:56,500
+Countless families
+have been torn apart by you,
+
+66
+00:05:57,660 --> 00:05:58,860
+left in ruins.
+
+67
+00:06:00,940 --> 00:06:01,980
+I'll only ask you one thing.
+
+68
+00:06:03,180 --> 00:06:06,180
+Who put you up to this?
+
+69
+00:06:08,380 --> 00:06:09,300
+You might as well ask
+
+70
+00:06:10,540 --> 00:06:11,900
+why I want to take you down.
+
+71
+00:06:13,060 --> 00:06:13,940
+I'll tell you,
+
+72
+00:06:14,900 --> 00:06:15,900
+it's conscience.
+
+73
+00:06:17,460 --> 00:06:19,700
+The most basic sense of humanity.
+
+74
+00:06:24,940 --> 00:06:25,740
+Sang Tuo,
+
+75
+00:06:27,500 --> 00:06:29,100
+I was never the coward
+
+76
+00:06:29,260 --> 00:06:30,460
+you thought I was.
+
+77
+00:06:38,420 --> 00:06:39,300
+Today,
+
+78
+00:06:40,940 --> 00:06:42,100
+I'll trade my life
+
+79
+00:06:43,540 --> 00:06:45,380
+for the destruction of this compound.
+
+80
+00:06:49,580 --> 00:06:50,340
+It's worth it.
+
+81
+00:06:58,420 --> 00:06:59,180
+Rui,
+
+82
+00:07:03,060 --> 00:07:04,020
+I'm sorry.
+
+83
+00:07:09,780 --> 00:07:10,300
+Sang Tuo!
+
+84
+00:07:10,740 --> 00:07:11,340
+Sang Tuo!
+
+85
+00:07:11,860 --> 00:07:12,700
+Sang Tuo!
+
+86
+00:07:15,260 --> 00:07:16,020
+Sang Tuo!
+
+87
+00:07:19,220 --> 00:07:20,940
+Let him go!
+
+88
+00:07:20,940 --> 00:07:23,160
+♪An undercurrent in the riverbed♪
+
+89
+00:07:23,880 --> 00:07:26,600
+♪A glimmer of light between the fingers♪
+
+90
+00:07:27,320 --> 00:07:29,800
+♪Melts the cold winter♪
+
+91
+00:07:30,040 --> 00:07:32,040
+♪We hold onto the fire♪
+
+92
+00:07:32,040 --> 00:07:36,040
+♪In our palms♪
+
+93
+00:07:37,360 --> 00:07:39,880
+♪In the fog♪
+
+94
+00:07:40,600 --> 00:07:43,680
+♪There's a nameless boat♪
+
+95
+00:07:44,080 --> 00:07:49,520
+♪That understands where to go♪
+
+96
+00:07:50,240 --> 00:07:53,480
+♪When the shadows are dispelled♪
+
+97
+00:07:53,800 --> 00:07:56,800
+♪Fireflies will flicker♪
+
+98
+00:07:56,920 --> 00:08:01,220
+♪Illuminating the twists and turns
+along the journey♪
+
+99
+00:08:01,220 --> 00:08:01,740
+Sang,
+
+100
+00:08:02,260 --> 00:08:03,620
+we've identified the repairman.
+
+101
+00:08:03,940 --> 00:08:05,500
+It's that Chinese cop, An Fei.
+
+102
+00:08:06,260 --> 00:08:06,900
+What?
+
+103
+00:08:07,980 --> 00:08:09,980
+He's trying to get Emmett out
+to deal with us.
+
+104
+00:08:10,340 --> 00:08:11,660
+But Emmett's wife didn't dare agree.
+
+105
+00:08:15,980 --> 00:08:17,060
+Well, well.
+
+106
+00:08:19,300 --> 00:08:21,940
+What a great
+"seriously ill and hospitalized" act.
+
+107
+00:08:22,260 --> 00:08:24,500
+A classic diversion.
+
+108
+00:08:25,260 --> 00:08:25,860
+Rest assured.
+
+109
+00:08:26,140 --> 00:08:27,020
+I'm at the hospital right now.
+
+110
+00:08:27,620 --> 00:08:29,100
+We have our people at every exit.
+
+111
+00:08:29,820 --> 00:08:31,380
+An Fei won't escape this time.
+
+112
+00:08:32,100 --> 00:08:34,780
+Pin something on them.
+
+113
+00:08:36,020 --> 00:08:37,300
+I want them
+
+114
+00:08:38,740 --> 00:08:40,060
+stripped of their badges.
+
+115
+00:08:40,540 --> 00:08:41,020
+Understood.
+
+116
+00:08:56,780 --> 00:08:57,580
+Track them down.
+
+117
+00:08:58,340 --> 00:08:59,460
+Find them!
+
+118
+00:08:59,580 --> 00:09:00,180
+- Yes, sir!
+- Yes, sir!
+
+119
+00:09:01,980 --> 00:09:03,780
+All the evidence
+on the scam compound is here.
+
+120
+00:09:03,900 --> 00:09:04,740
+I've already made backups.
+
+121
+00:09:05,300 --> 00:09:05,700
+Good.
+
+122
+00:09:06,500 --> 00:09:08,340
+Send another copy of all the data
+back to China.
+
+123
+00:09:09,300 --> 00:09:09,740
+Understood.
+
+124
+00:09:09,900 --> 00:09:10,340
+Let's go.
+
+125
+00:09:10,460 --> 00:09:11,460
+We're meeting Mrs. Emmett.
+
+126
+00:09:11,660 --> 00:09:12,060
+Got it.
+
+127
+00:09:26,060 --> 00:09:27,100
+We meet again,
+
+128
+00:09:27,620 --> 00:09:28,220
+Mr. An.
+
+129
+00:09:30,900 --> 00:09:31,460
+Catch them!
+
+130
+00:09:36,100 --> 00:09:36,820
+Stop!
+
+131
+00:09:37,580 --> 00:09:38,300
+Stop running!
+
+132
+00:09:48,380 --> 00:09:49,020
+Ma'am,
+
+133
+00:09:49,460 --> 00:09:51,100
+we've obtained all the evidence
+against Sang Tuo.
+
+134
+00:09:51,540 --> 00:09:52,540
+It completely proves
+
+135
+00:09:53,060 --> 00:09:55,420
+he's the boss of the Red Obsidian Island
+scam compound.
+
+136
+00:10:03,020 --> 00:10:03,660
+Mrs. Emmett,
+
+137
+00:10:03,980 --> 00:10:06,580
+on behalf of China's 118 Task Force,
+
+138
+00:10:06,940 --> 00:10:08,460
+I formally request once again
+
+139
+00:10:09,100 --> 00:10:11,500
+that you present this evidence
+to the mayor
+
+140
+00:10:12,300 --> 00:10:13,380
+to save Mr. Emmett
+
+141
+00:10:14,100 --> 00:10:15,740
+and Mr. Han Chuan.
+
+142
+00:10:16,540 --> 00:10:17,380
+In that case,
+
+143
+00:10:18,580 --> 00:10:20,700
+I'll try again with the mayor.
+
+144
+00:10:22,260 --> 00:10:23,140
+Thank you, ma'am.
+
+145
+00:10:42,660 --> 00:10:43,140
+Shisan.
+
+146
+00:10:44,500 --> 00:10:46,220
+I trusted you completely,
+
+147
+00:10:49,340 --> 00:10:51,060
+yet you set me up.
+
+148
+00:10:52,980 --> 00:10:56,260
+I hate traitors the most.
+
+149
+00:10:58,340 --> 00:10:59,260
+Han Chuan,
+
+150
+00:11:01,060 --> 00:11:03,500
+I won't let you die so easily!
+
+151
+00:11:06,100 --> 00:11:07,100
+Sang Tuo,
+
+152
+00:11:09,500 --> 00:11:10,900
+you can't escape.
+
+153
+00:11:11,220 --> 00:11:12,260
+Oh, I can't?
+
+154
+00:11:14,380 --> 00:11:15,060
+Fine.
+
+155
+00:11:15,460 --> 00:11:16,940
+If I'm going down...
+
+156
+00:11:34,580 --> 00:11:35,180
+Mr. Dahn,
+
+157
+00:11:35,940 --> 00:11:37,100
+the director general
+is waiting for you in his office.
+
+158
+00:11:37,300 --> 00:11:37,940
+The director general is here?
+
+159
+00:11:38,100 --> 00:11:39,220
+Yes, he arrived early this morning.
+
+160
+00:11:39,380 --> 00:11:40,940
+Heard there was some trouble
+with the mayor, so...
+
+161
+00:11:41,100 --> 00:11:42,180
+Alright, I understand. You can go.
+
+162
+00:11:49,340 --> 00:11:50,100
+Boss, you...
+
+163
+00:11:55,340 --> 00:11:56,260
+You?
+
+164
+00:11:57,180 --> 00:11:57,980
+Surprised?
+
+165
+00:12:00,700 --> 00:12:01,180
+Arrest him!
+
+166
+00:12:01,900 --> 00:12:02,500
+Emmett!
+
+167
+00:12:02,660 --> 00:12:04,100
+You're no longer the director general!
+
+168
+00:12:04,540 --> 00:12:05,660
+You corrupt criminal!
+
+169
+00:12:05,940 --> 00:12:07,540
+What authority do you have to arrest me?
+
+170
+00:12:09,580 --> 00:12:10,300
+Mr. Emmett,
+
+171
+00:12:10,540 --> 00:12:11,780
+this guy tried to escape
+through the window,
+
+172
+00:12:11,940 --> 00:12:12,660
+but I caught him.
+
+173
+00:12:13,420 --> 00:12:13,900
+Good.
+
+174
+00:12:14,820 --> 00:12:16,740
+Not a single corrupt cop
+walks free today!
+
+175
+00:12:17,340 --> 00:12:18,340
+You don't know yet, do you?
+
+176
+00:12:18,660 --> 00:12:19,220
+We've got
+
+177
+00:12:19,380 --> 00:12:20,980
+all the evidence on Sang Tuo's fraud,
+
+178
+00:12:21,260 --> 00:12:22,980
+as well as proof
+that he framed Mr. Emmett.
+
+179
+00:12:23,740 --> 00:12:24,460
+Your arrest
+
+180
+00:12:25,140 --> 00:12:27,660
+was ordered personally by the mayor.
+
+181
+00:12:30,220 --> 00:12:32,100
+We're splitting into three teams
+for this operation.
+
+182
+00:12:33,180 --> 00:12:34,300
+We'll attack the island simultaneously.
+
+183
+00:12:34,820 --> 00:12:35,460
+Team A,
+
+184
+00:12:36,100 --> 00:12:37,140
+you will land at the dock
+
+185
+00:12:37,420 --> 00:12:38,380
+for a frontal diversion.
+
+186
+00:12:38,580 --> 00:12:40,180
+Heavy gunfire, explosions.
+
+187
+00:12:40,580 --> 00:12:42,100
+The key is to draw
+
+188
+00:12:42,220 --> 00:12:43,500
+all their firepower to us.
+
+189
+00:12:43,660 --> 00:12:44,220
+- Yes, sir!
+- Yes, sir!
+
+190
+00:12:44,340 --> 00:12:44,860
+Team B,
+
+191
+00:12:44,940 --> 00:12:46,060
+you'll take hovercrafts
+
+192
+00:12:46,220 --> 00:12:47,500
+and land on the north side
+of the island.
+
+193
+00:12:47,620 --> 00:12:48,380
+Cross the swamp
+
+194
+00:12:48,540 --> 00:12:49,420
+and head straight for the main building!
+
+195
+00:12:49,580 --> 00:12:50,020
+- Yes, sir!
+- Yes, sir!
+
+196
+00:12:50,140 --> 00:12:50,660
+Team C,
+
+197
+00:12:50,820 --> 00:12:53,060
+you'll airdrop from helicopters
+onto the main building.
+
+198
+00:12:53,180 --> 00:12:54,180
+Destroy their elevators
+
+199
+00:12:54,300 --> 00:12:55,740
+and trap them on every floor.
+
+200
+00:12:55,860 --> 00:12:56,460
+- Yes, sir!
+- Yes, sir!
+
+201
+00:12:56,580 --> 00:12:57,140
+Finally,
+
+202
+00:12:57,340 --> 00:12:58,300
+we must thank
+
+203
+00:12:58,420 --> 00:13:00,100
+the Chinese police officers
+who came from afar.
+
+204
+00:13:01,700 --> 00:13:03,660
+Without your fearless efforts,
+
+205
+00:13:04,100 --> 00:13:05,260
+we couldn't have rooted out
+
+206
+00:13:05,420 --> 00:13:07,020
+the corruption in the police force
+
+207
+00:13:07,140 --> 00:13:08,940
+and dismantled
+the scam compound so swiftly.
+
+208
+00:13:09,140 --> 00:13:09,980
+Mr. Emmett,
+
+209
+00:13:10,140 --> 00:13:12,060
+we appreciate your full support
+for this operation.
+
+210
+00:13:12,420 --> 00:13:15,460
+I believe justice will prevail.
+
+211
+00:13:15,940 --> 00:13:16,580
+Well said.
+
+212
+00:13:17,140 --> 00:13:19,300
+Justice will prevail!
+
+213
+00:13:19,620 --> 00:13:20,300
+Move out!
+
+214
+00:13:20,460 --> 00:13:21,220
+- Yes, sir!
+- Yes, sir!
+
+215
+00:13:46,900 --> 00:13:47,500
+Shisan,
+
+216
+00:13:48,180 --> 00:13:49,660
+your cop friends are here.
+
+217
+00:13:50,780 --> 00:13:51,780
+You won.
+
+218
+00:13:52,100 --> 00:13:52,860
+But
+
+219
+00:13:53,340 --> 00:13:54,500
+you're going to die too!
+
+220
+00:14:29,220 --> 00:14:31,940
+♪Silver starry sky♪
+
+221
+00:14:32,620 --> 00:14:35,140
+♪Winding into a dream♪
+
+222
+00:14:36,220 --> 00:14:42,220
+♪An undercurrent in the riverbed♪
+
+223
+00:14:42,940 --> 00:14:45,660
+♪A glimmer of light between the fingers♪
+
+224
+00:14:46,420 --> 00:14:48,860
+♪Melts the cold winter♪
+
+225
+00:14:49,100 --> 00:14:51,100
+♪We hold onto the fire♪
+
+226
+00:14:51,100 --> 00:14:55,100
+♪In our palms♪
+
+227
+00:14:56,420 --> 00:14:58,940
+♪In the fog♪
+
+228
+00:14:59,660 --> 00:15:02,740
+♪There's a nameless boat♪
+
+229
+00:15:03,140 --> 00:15:08,580
+♪That understands where to go♪
+
+230
+00:15:09,300 --> 00:15:12,540
+♪When the shadows are dispelled♪
+
+231
+00:15:12,860 --> 00:15:15,860
+♪Fireflies will flicker♪
+
+232
+00:15:15,980 --> 00:15:22,740
+♪Illuminating the twists and turns
+along the journey♪
+
+233
+00:15:23,380 --> 00:15:29,940
+♪Intertwined with you
+in the wind and waves♪
+
+234
+00:15:30,460 --> 00:15:33,660
+♪In the midst of ups and downs♪
+
+235
+00:15:33,740 --> 00:15:36,700
+♪We drift together♪
+
+236
+00:15:37,140 --> 00:15:40,580
+♪No matter how cold the glacier is♪
+
+237
+00:15:40,780 --> 00:15:43,900
+♪No matter how deep the vortex is♪
+
+238
+00:15:44,140 --> 00:15:49,020
+♪The dawn has never♪
+
+239
+00:15:49,860 --> 00:15:53,820
+♪Fallen♪
