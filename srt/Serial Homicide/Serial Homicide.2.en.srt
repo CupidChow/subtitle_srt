@@ -1,0 +1,2203 @@
+1
+00:02:47,680 --> 00:02:48,480
+Brother
+
+2
+00:02:49,720 --> 00:02:50,880
+Brother, brother, brother
+
+3
+00:02:51,280 --> 00:02:52,240
+Brother, wake up, wake up
+
+4
+00:02:53,440 --> 00:02:54,160
+Found it
+
+5
+00:02:57,480 --> 00:02:59,000
+You two, rare guests
+
+6
+00:03:02,120 --> 00:03:02,640
+No
+
+7
+00:03:02,800 --> 00:03:04,600
+Isn't your head like a file cabinet?
+
+8
+00:03:04,800 --> 00:03:06,280
+You still need to come to me?
+
+9
+00:03:06,440 --> 00:03:08,520
+A good memory is not as reliable as a bad pen
+
+10
+00:03:08,720 --> 00:03:10,640
+In that regard, you're just like Old Ran
+
+11
+00:03:26,320 --> 00:03:27,640
+The soy milk's gone cold
+
+12
+00:03:28,520 --> 00:03:29,680
+You rascal
+
+13
+00:03:29,720 --> 00:03:31,480
+You snatched that steamed bun and still complain it's burnt
+
+14
+00:03:32,080 --> 00:03:33,640
+I'm not complaining
+
+15
+00:03:33,880 --> 00:03:35,800
+I like it cold, it's good for cooling down
+
+16
+00:03:36,720 --> 00:03:37,120
+Brother
+
+17
+00:03:38,800 --> 00:03:40,480
+Sun Bin was suspected of rape three months ago
+
+18
+00:03:40,480 --> 00:03:41,920
+He was released later due to insufficient evidence
+
+19
+00:03:47,480 --> 00:03:48,280
+It's him.
+
+20
+00:03:50,920 --> 00:03:51,880
+Are you okay, bro?
+
+21
+00:03:54,240 --> 00:03:55,440
+What could possibly happen?
+
+22
+00:03:55,880 --> 00:03:57,680
+I'm not dying. Take it.
+
+23
+00:03:57,800 --> 00:03:58,120
+Let's go.
+
+24
+00:03:58,120 --> 00:03:58,560
+My fried dough stick.
+
+25
+00:03:58,960 --> 00:03:59,880
+My guess was right.
+
+26
+00:04:01,000 --> 00:04:02,600
+The passwords for these two emails
+
+27
+00:04:02,720 --> 00:04:04,000
+are arranged symmetrically.
+
+28
+00:04:04,520 --> 00:04:07,040
+It's an improved encryption of the Polybius cipher.
+
+29
+00:04:07,720 --> 00:04:09,440
+They changed the four 5x5 matrices
+
+30
+00:04:09,440 --> 00:04:10,440
+into 6x6 matrices.
+
+31
+00:04:11,800 --> 00:04:13,000
+Then they added numbers.
+
+32
+00:04:13,680 --> 00:04:15,440
+As long as we find the pattern in the numbers,
+
+33
+00:04:15,560 --> 00:04:16,960
+we can decode the garbled text.
+
+34
+00:04:17,600 --> 00:04:20,080
+Right, we'll design the corresponding code
+
+35
+00:04:20,080 --> 00:04:21,080
+and algorithm
+
+36
+00:04:21,600 --> 00:04:24,080
+to find the pattern in these numbers.
+
+37
+00:04:24,160 --> 00:04:25,560
+Then, based on these patterns,
+
+38
+00:04:25,560 --> 00:04:26,760
+we can form a string
+
+39
+00:04:26,760 --> 00:04:27,640
+or several strings of letters.
+
+40
+00:04:29,000 --> 00:04:30,480
+First, determine the language family of these passwords.
+
+41
+00:04:30,680 --> 00:04:33,120
+Then use the language family to crack the passwords.
+
+42
+00:04:34,920 --> 00:04:35,720
+Network admin.
+
+43
+00:04:37,080 --> 00:04:39,200
+Have you cracked that code yet?
+
+44
+00:04:40,640 --> 00:04:42,080
+Cheng has made a major breakthrough.
+
+45
+00:04:42,080 --> 00:04:42,960
+We'll crack it soon.
+
+46
+00:04:43,240 --> 00:04:44,920
+We'll crack it soon.
+
+47
+00:04:45,920 --> 00:04:47,240
+So, you haven't cracked it yet.
+
+48
+00:04:56,400 --> 00:04:57,200
+Ranyue.
+
+49
+00:04:57,560 --> 00:04:58,560
+Get me a girl.
+
+50
+00:04:59,640 --> 00:05:00,760
+What did you say?
+
+51
+00:05:04,120 --> 00:05:05,640
+I need to go to a woman's house.
+
+52
+00:05:06,320 --> 00:05:07,760
+There's a girl I need to question.
+
+53
+00:05:12,160 --> 00:05:14,040
+Perfect, Sanyuan, you go.
+
+54
+00:05:14,600 --> 00:05:14,960
+What?
+
+55
+00:05:15,200 --> 00:05:16,520
+What are we doing, Captain?
+
+56
+00:05:16,800 --> 00:05:18,760
+Taking you to do something useful.
+
+57
+00:05:29,000 --> 00:05:30,960
+Sanyuan, go with Jun to investigate someone.
+
+58
+00:05:31,320 --> 00:05:33,320
+Heading out for fieldwork? Got it.
+
+59
+00:05:33,680 --> 00:05:36,480
+Grab a youtiao later.
+
+60
+00:05:36,480 --> 00:05:37,960
+Take it to Old Zhang in the archives room.
+
+61
+00:05:40,360 --> 00:05:41,920
+You two should bring one as well.
+
+62
+00:05:41,920 --> 00:05:42,760
+We're eating.
+
+63
+00:05:47,560 --> 00:05:50,000
+Xiao Wang, take it to Old Zhang in the archives room.
+
+64
+00:06:03,720 --> 00:06:06,760
+Cheng Feng, Tang Jun speaks without thinking.
+
+65
+00:06:06,760 --> 00:06:07,720
+Don't mind him.
+
+66
+00:06:15,640 --> 00:06:16,440
+Xiao Pang.
+
+67
+00:06:16,960 --> 00:06:18,800
+Run the 07A code.
+
+68
+00:06:18,800 --> 00:06:20,120
+Try to find a pattern.
+
+69
+00:06:20,120 --> 00:06:20,840
+Yes.
+
+70
+00:06:20,840 --> 00:06:23,560
+The Yan Zi 101 algorithm is yours to handle.
+
+71
+00:07:15,240 --> 00:07:16,040
+At home.
+
+72
+00:07:16,680 --> 00:07:18,840
+May I ask who you're looking for?
+
+73
+00:07:19,640 --> 00:07:21,160
+We're from the Nanyang Branch Criminal Investigation Team.
+
+74
+00:07:21,680 --> 00:07:22,840
+Are you Hu Yi?
+
+75
+00:07:24,520 --> 00:07:25,320
+Yes, I am.
+
+76
+00:07:26,080 --> 00:07:27,120
+Is there something you need?
+
+77
+00:07:28,680 --> 00:07:30,440
+We're here to ask you a few questions.
+
+78
+00:07:54,640 --> 00:07:56,480
+Would you like some fruit?
+
+79
+00:07:57,040 --> 00:07:57,920
+No, thank you.
+
+80
+00:07:58,040 --> 00:07:58,920
+Have some.
+
+81
+00:07:59,040 --> 00:08:00,080
+It's really good.
+
+82
+00:08:00,720 --> 00:08:01,760
+Well, thank you.
+
+83
+00:08:06,040 --> 00:08:08,320
+Miss Hu, this might be a bit abrupt.
+
+84
+00:08:08,360 --> 00:08:10,320
+But the reason we're here today
+
+85
+00:08:10,320 --> 00:08:12,400
+is mainly to ask you about
+
+86
+00:08:12,400 --> 00:08:13,400
+your relationship with
+
+87
+00:08:13,600 --> 00:08:14,600
+Sun Bin.
+
+88
+00:08:14,760 --> 00:08:15,640
+your relationship with Sun Bin.
+
+89
+00:08:17,760 --> 00:08:19,080
+Is Sun Bin dead?
+
+90
+00:08:19,360 --> 00:08:20,680
+This morning's news—
+
+91
+00:08:21,440 --> 00:08:22,280
+Didn't you see it?
+
+92
+00:08:26,120 --> 00:08:27,480
+I never watch the news.
+
+93
+00:08:29,680 --> 00:08:30,960
+I know he's dead.
+
+94
+00:08:32,280 --> 00:08:33,480
+I killed him.
+
+95
+00:08:34,280 --> 00:08:35,080
+But
+
+96
+00:08:39,840 --> 00:08:41,240
+I didn't use this knife.
+
+97
+00:08:43,880 --> 00:08:45,880
+This knife is fine for cutting fruit.
+
+98
+00:08:46,880 --> 00:08:47,960
+But for cutting flesh,
+
+99
+00:08:48,680 --> 00:08:49,680
+it's not fast enough.
+
+100
+00:08:55,760 --> 00:08:57,360
+I cut Sun Bin open.
+
+101
+00:08:57,880 --> 00:08:59,520
+I cut him into several pieces.
+
+102
+00:09:01,160 --> 00:09:02,880
+Put them in the meat grinder.
+
+103
+00:09:06,080 --> 00:09:07,080
+All cut up.
+
+104
+00:09:07,720 --> 00:09:08,760
+Have some fruit.
+
+105
+00:09:22,280 --> 00:09:23,280
+Thank you.
+
+106
+00:09:26,680 --> 00:09:28,280
+I killed him.
+
+107
+00:09:31,880 --> 00:09:33,760
+I strangled him with a rope.
+
+108
+00:09:35,320 --> 00:09:36,880
+He became weak.
+
+109
+00:09:41,680 --> 00:09:42,480
+I pushed him
+
+110
+00:09:43,480 --> 00:09:44,880
+into the water.
+
+111
+00:09:45,680 --> 00:09:46,680
+Pushed into the water.
+
+112
+00:09:47,280 --> 00:09:48,480
+The water is so cold.
+
+113
+00:09:49,120 --> 00:09:50,440
+The water is so cold.
+
+114
+00:09:53,480 --> 00:09:54,440
+It's raining.
+
+115
+00:09:56,280 --> 00:09:57,520
+It's raining.
+
+116
+00:09:58,240 --> 00:09:59,560
+Let me help you cut the fruit.
+
+117
+00:09:59,920 --> 00:10:00,400
+Come.
+
+118
+00:10:00,400 --> 00:10:01,280
+It's raining.
+
+119
+00:10:01,440 --> 00:10:02,360
+Give me the knife.
+
+120
+00:10:04,680 --> 00:10:05,520
+He wants to kill me.
+
+121
+00:10:05,680 --> 00:10:07,520
+He wants to kill me, he wants to kill me.
+
+122
+00:10:07,760 --> 00:10:08,680
+Don't be afraid.
+
+123
+00:10:09,320 --> 00:10:10,560
+No one will kill you.
+
+124
+00:10:11,440 --> 00:10:12,320
+Don't come over.
+
+125
+00:10:12,440 --> 00:10:13,240
+Don't come over.
+
+126
+00:10:16,080 --> 00:10:16,760
+Don't be afraid.
+
+127
+00:10:16,760 --> 00:10:17,640
+I killed him.
+
+128
+00:10:17,640 --> 00:10:18,240
+No one is going to kill you.
+
+129
+00:10:18,240 --> 00:10:20,040
+I killed him, I killed him.
+
+130
+00:10:22,960 --> 00:10:24,440
+Xiaoyi.
+
+131
+00:10:25,240 --> 00:10:26,520
+Xiaoyi.
+
+132
+00:10:26,520 --> 00:10:27,200
+Are you okay?
+
+133
+00:10:27,200 --> 00:10:29,280
+Mom is here, don't be scared, come.
+
+134
+00:10:30,080 --> 00:10:30,680
+Who are you?
+
+135
+00:10:30,680 --> 00:10:31,520
+What do you want?
+
+136
+00:10:32,200 --> 00:10:33,520
+Sorry, we're the police.
+
+137
+00:10:34,680 --> 00:10:35,520
+Police.
+
+138
+00:10:35,840 --> 00:10:36,680
+Where are your credentials?
+
+139
+00:10:38,640 --> 00:10:40,080
+Nanyang Branch Criminal Investigation Team.
+
+140
+00:10:41,680 --> 00:10:42,880
+What's wrong with the police?
+
+141
+00:10:42,920 --> 00:10:44,640
+Can the police just break into private homes?
+
+142
+00:10:44,760 --> 00:10:46,480
+We showed our credentials when we came in.
+
+143
+00:10:47,920 --> 00:10:49,240
+She was fine at that time.
+
+144
+00:10:49,720 --> 00:10:50,760
+Then suddenly she became like this.
+
+145
+00:10:52,560 --> 00:10:53,280
+Xiaoyi, Xiaoyi.
+
+146
+00:10:53,720 --> 00:10:55,160
+Xiaoyi, Xiaoyi.
+
+147
+00:11:25,360 --> 00:11:26,520
+Who is the patient's family member?
+
+148
+00:11:27,120 --> 00:11:28,560
+Doctor, I am her mother.
+
+149
+00:11:30,280 --> 00:11:31,440
+What are you all doing here?
+
+150
+00:11:31,920 --> 00:11:32,520
+Doctor.
+
+151
+00:11:32,720 --> 00:11:33,520
+We are police officers.
+
+152
+00:11:33,520 --> 00:11:34,400
+Police need to leave too.
+
+153
+00:11:34,680 --> 00:11:35,880
+Only the family member stays.
+
+154
+00:11:37,000 --> 00:11:38,360
+Doctor, actually we are—
+
+155
+00:11:39,800 --> 00:11:40,720
+This is a hospital room.
+
+156
+00:11:41,640 --> 00:11:42,360
+A place for treatment.
+
+157
+00:11:42,520 --> 00:11:44,080
+If you have business, go find the right person.
+
+158
+00:11:44,560 --> 00:11:45,200
+Leave.
+
+159
+00:11:45,760 --> 00:11:46,760
+Everyone out. Out, out.
+
+160
+00:11:47,080 --> 00:11:48,080
+Come out, come out.
+
+161
+00:11:48,280 --> 00:11:48,880
+What’s going on?
+
+162
+00:11:48,880 --> 00:11:49,680
+Don’t cause trouble for others.
+
+163
+00:11:49,680 --> 00:11:50,440
+She was a bit shaken.
+
+164
+00:11:50,720 --> 00:11:51,600
+Shaken by what?
+
+165
+00:11:51,840 --> 00:11:52,520
+She was frightened.
+
+166
+00:12:08,160 --> 00:12:09,880
+If anything happens to Hu Yi,
+
+167
+00:12:10,160 --> 00:12:11,360
+I will definitely file a complaint against you.
+
+168
+00:12:12,400 --> 00:12:13,280
+Go ahead, complain about me.
+
+169
+00:12:13,760 --> 00:12:14,560
+Fine.
+
+170
+00:12:15,240 --> 00:12:16,160
+I’ll take you.
+
+171
+00:12:16,800 --> 00:12:18,400
+Ask Auntie to come with me to the station.
+
+172
+00:12:18,840 --> 00:12:19,560
+Why should we?
+
+173
+00:12:20,080 --> 00:12:21,360
+To cooperate with the police investigation.
+
+174
+00:12:21,720 --> 00:12:22,840
+Isn’t that the right thing to do?
+
+175
+00:12:31,760 --> 00:12:32,440
+Auntie.
+
+176
+00:12:32,920 --> 00:12:33,920
+What did the doctor say?
+
+177
+00:12:34,640 --> 00:12:35,920
+Nothing serious.
+
+178
+00:12:36,080 --> 00:12:37,160
+Just a bit shaken.
+
+179
+00:12:41,760 --> 00:12:42,960
+You’re lucky.
+
+180
+00:12:44,040 --> 00:12:45,040
+Lucky.
+
+181
+00:12:45,840 --> 00:12:46,760
+Thank you.
+
+182
+00:12:51,800 --> 00:12:53,000
+Bro, I'm going to get some documents.
+
+183
+00:12:53,000 --> 00:12:53,720
+Go ahead.
+
+184
+00:12:55,080 --> 00:12:55,880
+Xiaoqiu.
+
+185
+00:12:58,240 --> 00:12:59,440
+Cheng Feng, what are you doing here?
+
+186
+00:12:59,480 --> 00:13:00,880
+I'm here at the precinct to assist with a case.
+
+187
+00:13:01,440 --> 00:13:02,360
+You know each other?
+
+188
+00:13:03,440 --> 00:13:04,280
+My fiancée.
+
+189
+00:13:04,280 --> 00:13:04,960
+Ren Xiaoqiu.
+
+190
+00:13:05,200 --> 00:13:05,960
+Fiancée?
+
+191
+00:13:06,760 --> 00:13:07,880
+One of us, then.
+
+192
+00:13:10,920 --> 00:13:11,720
+What's going on?
+
+193
+00:13:12,240 --> 00:13:13,080
+Fiancée.
+
+194
+00:13:17,080 --> 00:13:17,560
+Nice.
+
+195
+00:13:21,120 --> 00:13:21,960
+Ren Xiaoqiu.
+
+196
+00:13:24,160 --> 00:13:24,960
+And you are?
+
+197
+00:13:26,800 --> 00:13:27,800
+I'm Ran Yue.
+
+198
+00:13:29,480 --> 00:13:30,840
+We know each other, too.
+
+199
+00:13:31,880 --> 00:13:32,880
+We're all on the same side.
+
+200
+00:13:32,960 --> 00:13:33,960
+Auntie, do you know each other?
+
+201
+00:13:34,480 --> 00:13:35,760
+You're not one of them, are you?
+
+202
+00:13:36,680 --> 00:13:37,440
+Zhang Haonan.
+
+203
+00:13:37,920 --> 00:13:38,680
+Did you bring it?
+
+204
+00:13:38,680 --> 00:13:39,520
+Alright, alright, bro.
+
+205
+00:13:39,560 --> 00:13:40,560
+Bring Auntie and come with me.
+
+206
+00:13:44,480 --> 00:13:45,480
+Auntie, this way.
+
+207
+00:13:56,880 --> 00:13:57,680
+Here's the situation.
+
+208
+00:13:58,280 --> 00:13:59,760
+It's about Sun Bin's case.
+
+209
+00:13:59,920 --> 00:14:01,560
+We need to talk to Hu Yi about some details.
+
+210
+00:14:01,560 --> 00:14:03,040
+And get some information from her mother.
+
+211
+00:14:03,720 --> 00:14:05,240
+If you know them well,
+
+212
+00:14:05,240 --> 00:14:07,480
+please provide as much information as you can.
+
+213
+00:14:07,840 --> 00:14:08,640
+Okay.
+
+214
+00:14:11,640 --> 00:14:12,280
+Yifei.
+
+215
+00:14:12,280 --> 00:14:12,640
+Here.
+
+216
+00:14:12,640 --> 00:14:15,400
+You and Dakuan, come talk in my office.
+
+217
+00:14:15,640 --> 00:14:16,440
+Yes.
+
+218
+00:14:17,520 --> 00:14:18,320
+It's fine.
+
+219
+00:14:18,360 --> 00:14:19,160
+Go ahead.
+
+220
+00:14:26,920 --> 00:14:28,040
+It's all my fault.
+
+221
+00:14:28,680 --> 00:14:30,080
+I was having dinner with Ran Da.
+
+222
+00:14:30,680 --> 00:14:32,360
+I stepped out to buy a pack of cigarettes.
+
+223
+00:14:32,880 --> 00:14:34,280
+I heard gunshots.
+
+224
+00:14:35,080 --> 00:14:36,520
+I ran out to check.
+
+225
+00:14:37,720 --> 00:14:39,720
+Ran Da was already lying on the ground.
+
+226
+00:14:51,480 --> 00:14:52,480
+Don't cover him.
+
+227
+00:14:54,520 --> 00:14:55,520
+Don't cover him.
+
+228
+00:14:58,560 --> 00:14:59,960
+Don't cover my dad.
+
+229
+00:15:00,080 --> 00:15:00,880
+Ran Yue.
+
+230
+00:15:02,760 --> 00:15:04,120
+Don't cover my dad.
+
+231
+00:15:04,720 --> 00:15:06,120
+Don't cover him, don't cover him.
+
+232
+00:15:06,120 --> 00:15:07,320
+I said don't cover him.
+
+233
+00:15:08,200 --> 00:15:09,760
+Sister-in-law.
+
+234
+00:15:12,240 --> 00:15:12,920
+Sister-in-law.
+
+235
+00:15:15,440 --> 00:15:17,320
+Sister-in-law, be careful.
+
+236
+00:15:17,320 --> 00:15:18,320
+Deputy Zhao.
+
+237
+00:15:23,640 --> 00:15:26,080
+Captain Ran Haochuan's death is related to Gao Ang.
+
+238
+00:15:31,320 --> 00:15:32,320
+Is there enough evidence?
+
+239
+00:15:41,920 --> 00:15:42,720
+Lao Gao
+
+240
+00:15:44,360 --> 00:15:45,280
+Come here for a moment.
+
+241
+00:15:50,080 --> 00:15:50,760
+Gao Ang
+
+242
+00:15:51,200 --> 00:15:52,040
+After examination,
+
+243
+00:15:52,040 --> 00:15:54,480
+the bullet taken from Captain Ran Haochuan's body
+
+244
+00:15:54,480 --> 00:15:55,680
+came from your issued gun.
+
+245
+00:15:55,680 --> 00:15:57,240
+We are now summoning you according to the law.
+
+246
+00:15:57,240 --> 00:15:58,080
+My gun...
+
+247
+00:15:59,560 --> 00:16:01,040
+What on earth is going on?
+
+248
+00:16:01,040 --> 00:16:01,960
+Say something.
+
+249
+00:16:02,080 --> 00:16:03,280
+My gun...
+
+250
+00:16:03,280 --> 00:16:04,560
+My gun went missing a couple of days ago.
+
+251
+00:16:04,880 --> 00:16:06,960
+I was talking about this with Captain Ran over dinner.
+
+252
+00:16:06,960 --> 00:16:07,960
+Gao Ang
+
+253
+00:16:09,840 --> 00:16:11,640
+Why? What exactly happened?
+
+254
+00:16:11,640 --> 00:16:12,160
+Ran Yue
+
+255
+00:16:12,160 --> 00:16:13,280
+Say something.
+
+256
+00:16:13,480 --> 00:16:14,680
+Why didn't you report the missing gun?
+
+257
+00:16:14,680 --> 00:16:15,960
+Say something.
+
+258
+00:16:16,080 --> 00:16:16,640
+I'm sorry.
+
+259
+00:16:16,640 --> 00:16:17,240
+Take him away.
+
+260
+00:16:17,240 --> 00:16:18,480
+Say something.
+
+261
+00:16:21,360 --> 00:16:23,360
+Say something.
+
+262
+00:16:40,200 --> 00:16:41,040
+Auntie
+
+263
+00:16:41,680 --> 00:16:43,400
+Sorry, please have some water first.
+
+264
+00:16:43,400 --> 00:16:44,400
+It was all a misunderstanding just now.
+
+265
+00:16:46,800 --> 00:16:47,800
+Please don't be nervous.
+
+266
+00:16:48,000 --> 00:16:50,520
+We just want to ask you about some things.
+
+267
+00:16:50,520 --> 00:16:51,960
+Just a few simple questions.
+
+268
+00:16:55,680 --> 00:16:56,680
+Go ahead and ask.
+
+269
+00:17:02,640 --> 00:17:03,520
+Hello.
+
+270
+00:17:06,000 --> 00:17:06,920
+Your daughter—
+
+271
+00:17:07,480 --> 00:17:08,480
+What is her relationship with Sun Bin?
+
+272
+00:17:09,120 --> 00:17:10,280
+What relationship could there be?
+
+273
+00:17:10,320 --> 00:17:12,600
+My daughter has nothing to do with that animal.
+
+274
+00:17:13,720 --> 00:17:14,360
+She doesn't know him.
+
+275
+00:17:14,480 --> 00:17:15,440
+She doesn't know him.
+
+276
+00:17:15,720 --> 00:17:17,320
+They don't know each other at all.
+
+277
+00:17:17,480 --> 00:17:19,800
+A few of Hu Yi's classmates know Sun Bin.
+
+278
+00:17:20,200 --> 00:17:21,320
+A few months ago,
+
+279
+00:17:21,320 --> 00:17:22,720
+those classmates invited her
+
+280
+00:17:22,720 --> 00:17:24,520
+to attend Sun Bin's birthday party.
+
+281
+00:17:24,920 --> 00:17:27,680
+Hu Yi couldn't resist their persistent persuasion and went.
+
+282
+00:17:43,800 --> 00:17:44,720
+Unexpectedly,
+
+283
+00:17:44,920 --> 00:17:47,000
+no one expected that Sun Bin, that animal,
+
+284
+00:17:47,480 --> 00:17:50,200
+actually put drugs in Xiao Yi's drink.
+
+285
+00:17:51,760 --> 00:17:52,560
+Here.
+
+286
+00:17:53,920 --> 00:17:54,880
+Drink.
+
+287
+00:17:55,160 --> 00:17:55,960
+Take it.
+
+288
+00:17:55,960 --> 00:17:56,760
+Have a sip.
+
+289
+00:17:57,520 --> 00:17:58,320
+Come on.
+
+290
+00:18:14,880 --> 00:18:15,680
+Drink.
+
+291
+00:18:17,520 --> 00:18:18,320
+Come on.
+
+292
+00:18:19,080 --> 00:18:19,880
+Drink.
+
+293
+00:18:39,120 --> 00:18:41,080
+Then he dragged her to the apartment
+
+294
+00:18:44,120 --> 00:18:46,320
+and raped Xiao Yi.
+
+295
+00:19:02,640 --> 00:19:03,440
+Xiao Yi.
+
+296
+00:19:04,680 --> 00:19:05,680
+Xiao Yi.
+
+297
+00:19:06,240 --> 00:19:07,200
+What's wrong?
+
+298
+00:19:08,640 --> 00:19:09,760
+What's wrong, child?
+
+299
+00:19:24,000 --> 00:19:25,560
+Later, we called the police.
+
+300
+00:19:26,200 --> 00:19:27,960
+The forensic doctor examined Xiao Yi.
+
+301
+00:19:28,600 --> 00:19:30,800
+The police also arrested Sun Bin.
+
+302
+00:19:31,800 --> 00:19:34,000
+At that time, Xiao Yi was interviewed by a reporter.
+
+303
+00:19:34,280 --> 00:19:36,240
+The incident was reported truthfully.
+
+304
+00:19:36,360 --> 00:19:38,160
+Back then, to protect her,
+
+305
+00:19:38,600 --> 00:19:39,880
+I used a pseudonym.
+
+306
+00:19:41,160 --> 00:19:42,360
+At first, the evidence was solid.
+
+307
+00:19:42,680 --> 00:19:44,400
+She had a good chance of winning the case.
+
+308
+00:19:45,040 --> 00:19:46,840
+That jerk was definitely going to jail.
+
+309
+00:19:48,680 --> 00:19:50,000
+But who could have expected
+
+310
+00:19:50,400 --> 00:19:51,880
+the temptation of money would be so great?
+
+311
+00:19:52,480 --> 00:19:54,840
+The two girls who went to the birthday party with her
+
+312
+00:19:55,080 --> 00:19:56,960
+suddenly changed their statements in court.
+
+313
+00:19:57,680 --> 00:19:59,600
+They said Hu Yi set up Sun Bin
+
+314
+00:20:00,160 --> 00:20:02,400
+to seduce him for breakup money.
+
+315
+00:20:02,760 --> 00:20:03,600
+In the end,
+
+316
+00:20:04,360 --> 00:20:06,440
+Sun Bin was found not guilty of rape.
+
+317
+00:20:07,600 --> 00:20:08,680
+My report
+
+318
+00:20:09,160 --> 00:20:10,440
+was also labeled as fake news
+
+319
+00:20:10,440 --> 00:20:12,160
+and forcibly removed from the entire internet.
+
+320
+00:20:12,640 --> 00:20:13,840
+The Sun family spent a lot of money
+
+321
+00:20:14,440 --> 00:20:15,920
+to have reports use Hu Yi's real name.
+
+322
+00:20:16,400 --> 00:20:19,400
+They spread rumors online that she tried to seduce for money and failed,
+
+323
+00:20:19,600 --> 00:20:21,240
+and then falsely accused Sun Bin.
+
+324
+00:20:21,480 --> 00:20:23,440
+They just open their mouths,
+
+325
+00:20:24,480 --> 00:20:26,120
+and say all kinds of filthy things.
+
+326
+00:20:26,400 --> 00:20:28,520
+They insulted my daughter online.
+
+327
+00:20:29,200 --> 00:20:32,440
+That's how Hu Yi was driven mad by them.
+
+328
+00:20:32,480 --> 00:20:33,720
+I killed him.
+
+329
+00:20:35,080 --> 00:20:36,320
+He deserved it.
+
+330
+00:20:38,520 --> 00:20:40,400
+He'll never bully me again.
+
+331
+00:20:41,520 --> 00:20:42,720
+I killed him.
+
+332
+00:20:43,320 --> 00:20:44,200
+Killed him.
+
+333
+00:20:45,880 --> 00:20:46,680
+Darn it.
+
+334
+00:20:47,480 --> 00:20:48,560
+He deserved it.
+
+335
+00:20:49,800 --> 00:20:51,800
+He won't bully me anymore.
+
+336
+00:20:52,560 --> 00:20:54,120
+Won't bully me anymore.
+
+337
+00:20:54,920 --> 00:20:56,160
+Won't bully me anymore.
+
+338
+00:20:56,240 --> 00:20:58,160
+She is a victim of power and public opinion.
+
+339
+00:20:58,840 --> 00:21:00,720
+But why should she be the victim?
+
+340
+00:21:01,640 --> 00:21:02,880
+Just because she's beautiful?
+
+341
+00:21:03,200 --> 00:21:04,240
+Because she rejected him.
+
+342
+00:21:04,240 --> 00:21:06,240
+She hurt his pride.
+
+343
+00:21:06,520 --> 00:21:08,640
+Does she deserve to suffer for that?
+
+344
+00:21:16,040 --> 00:21:16,800
+Later,
+
+345
+00:21:17,200 --> 00:21:19,040
+Whenever I had time, I would go see her.
+
+346
+00:21:21,280 --> 00:21:22,480
+As time went by,
+
+347
+00:21:23,120 --> 00:21:24,840
+we became friends.
+
+348
+00:21:25,440 --> 00:21:27,240
+Reporter Ren is a good person.
+
+349
+00:21:34,120 --> 00:21:34,840
+Thank you.
+
+350
+00:21:40,640 --> 00:21:41,720
+September 9th.
+
+351
+00:21:42,240 --> 00:21:43,640
+From 8 to 11 p.m.
+
+352
+00:21:44,000 --> 00:21:45,080
+What were you doing?
+
+353
+00:21:47,000 --> 00:21:48,880
+At the house where I work part-time.
+
+354
+00:21:48,880 --> 00:21:50,600
+They were going on a trip today.
+
+355
+00:21:50,640 --> 00:21:52,840
+So the lady of the house asked me last night
+
+356
+00:21:52,840 --> 00:21:54,240
+to help them pack.
+
+357
+00:21:54,240 --> 00:21:55,880
+I worked three extra hours.
+
+358
+00:21:56,040 --> 00:21:58,920
+I didn't finish until 10:30.
+
+359
+00:21:59,480 --> 00:22:00,720
+Because the weather was bad,
+
+360
+00:22:00,840 --> 00:22:03,640
+they paid me for an extra hour.
+
+361
+00:22:04,040 --> 00:22:04,840
+What about Hu Yi?
+
+362
+00:22:05,080 --> 00:22:08,280
+You don't suspect Xiao Yi of murder, do you?
+
+363
+00:22:08,800 --> 00:22:09,920
+Impossible.
+
+364
+00:22:10,160 --> 00:22:11,520
+She's just talking nonsense.
+
+365
+00:22:11,840 --> 00:22:14,160
+She imagines killing this person every day.
+
+366
+00:22:14,240 --> 00:22:16,200
+But she could never actually kill someone.
+
+367
+00:22:16,640 --> 00:22:17,800
+Xiaoyi, she...
+
+368
+00:22:18,160 --> 00:22:19,600
+She's actually very timid,
+
+369
+00:22:19,600 --> 00:22:21,040
+a very cowardly child.
+
+370
+00:22:21,320 --> 00:22:23,800
+Where was Hu Yi last night?
+
+371
+00:22:24,880 --> 00:22:26,760
+Now, every day when I go to work,
+
+372
+00:22:26,840 --> 00:22:27,960
+I always
+
+373
+00:22:28,040 --> 00:22:30,840
+leave Xiaoyi with our neighbor, Grandma Chen.
+
+374
+00:22:30,840 --> 00:22:32,160
+I ask her to look after her for me.
+
+375
+00:22:32,560 --> 00:22:34,000
+That day, I
+
+376
+00:22:34,000 --> 00:22:36,920
+didn't pick her up until after 10:30.
+
+377
+00:22:37,720 --> 00:22:39,320
+Grandma Chen can vouch for this.
+
+378
+00:22:56,560 --> 00:22:57,320
+Officer,
+
+379
+00:22:57,960 --> 00:22:58,760
+um...
+
+380
+00:22:59,760 --> 00:23:01,360
+How did Sun Bin die?
+
+381
+00:23:03,840 --> 00:23:05,240
+Why are you asking about that?
+
+382
+00:23:07,360 --> 00:23:09,000
+I'm just saying, someone like him...
+
+383
+00:23:09,600 --> 00:23:12,160
+He—he—he's not even human, he never did anything decent.
+
+384
+00:23:12,200 --> 00:23:13,560
+He must have had a lot of enemies.
+
+385
+00:23:13,560 --> 00:23:15,640
+He deserved to die, he had it coming.
+
+386
+00:23:22,560 --> 00:23:24,960
+Officer, can I go now?
+
+387
+00:23:25,920 --> 00:23:27,320
+I still have a job to do.
+
+388
+00:23:27,760 --> 00:23:29,160
+It's an assignment from my company.
+
+389
+00:23:29,320 --> 00:23:31,640
+If I don't go, I'll get fined.
+
+390
+00:23:31,960 --> 00:23:32,880
+That's fine.
+
+391
+00:23:33,560 --> 00:23:35,160
+Please check the statement in a moment.
+
+392
+00:23:35,680 --> 00:23:36,160
+We'll print it out for you.
+
+393
+00:23:36,400 --> 00:23:36,840
+Okay.
+
+394
+00:23:37,000 --> 00:23:37,840
+No problem.
+
+395
+00:23:38,120 --> 00:23:39,360
+Just sign it and you can leave.
+
+396
+00:23:39,520 --> 00:23:40,560
+Okay, thank you.
+
+397
+00:23:40,560 --> 00:23:41,360
+You're welcome.
+
+398
+00:23:42,000 --> 00:23:43,120
+Thank you, too.
+
+399
+00:24:33,200 --> 00:24:33,960
+Master
+
+400
+00:24:34,920 --> 00:24:37,760
+Master
+
+401
+00:24:37,840 --> 00:24:38,720
+Take a look
+
+402
+00:24:38,720 --> 00:24:40,160
+How's my new camera?
+
+403
+00:24:40,760 --> 00:24:41,080
+It's good
+
+404
+00:24:41,640 --> 00:24:42,120
+It's clear, see?
+
+405
+00:24:42,520 --> 00:24:43,360
+Take a photo of me
+
+406
+00:24:43,360 --> 00:24:44,360
+Why take a photo? I won't
+
+407
+00:24:44,360 --> 00:24:45,360
+Just one, just one
+
+408
+00:24:45,440 --> 00:24:45,960
+I don't want to
+
+409
+00:24:45,960 --> 00:24:46,840
+Come on, just one
+
+410
+00:24:46,840 --> 00:24:47,240
+Just like this
+
+411
+00:24:47,240 --> 00:24:48,560
+How about "Serve the People"?
+
+412
+00:24:48,880 --> 00:24:49,440
+That's good
+
+413
+00:24:49,840 --> 00:24:50,440
+Qiangzi
+
+414
+00:24:50,560 --> 00:24:51,440
+Take a photo of the two of us
+
+415
+00:24:51,440 --> 00:24:52,760
+Come on, Master, come here
+
+416
+00:24:53,120 --> 00:24:53,920
+Fix your clothes
+
+417
+00:24:54,640 --> 00:24:55,320
+Alright
+
+418
+00:24:55,640 --> 00:24:56,320
+Look sharp
+
+419
+00:24:57,320 --> 00:24:58,120
+Make sure it's a good one
+
+420
+00:25:03,760 --> 00:25:06,000
+Fifteen minutes ago, our station received a tip from the public.
+
+421
+00:25:06,560 --> 00:25:09,040
+A homicide occurred on the twelfth floor of Wuma Building.
+
+422
+00:25:09,400 --> 00:25:10,600
+We can now see
+
+423
+00:25:10,600 --> 00:25:12,600
+that there are already many onlookers at the scene.
+
+424
+00:25:12,920 --> 00:25:15,760
+The police have also carried the victim's body out of the building.
+
+425
+00:25:15,960 --> 00:25:18,000
+It will likely be sent for an urgent autopsy.
+
+426
+00:25:19,440 --> 00:25:20,280
+According to reports,
+
+427
+00:25:20,400 --> 00:25:21,480
+the deceased was
+
+428
+00:25:21,480 --> 00:25:23,720
+Sun Bin, the owner of four apartments in the building.
+
+429
+00:25:24,080 --> 00:25:26,440
+Sun Bin was the only son of Sun Ruhai, a well-known real estate developer in Luzhou.
+
+430
+00:25:26,640 --> 00:25:27,960
+He was the only son of Sun Ruhai.
+
+431
+00:25:28,360 --> 00:25:30,360
+He truly grew up with a silver spoon in his mouth.
+
+432
+00:25:30,560 --> 00:25:31,000
+Sun Ruhai.
+
+433
+00:25:31,000 --> 00:25:32,000
+How do you know him?
+
+434
+00:25:32,000 --> 00:25:33,520
+He made his fortune through a demolition company.
+
+435
+00:25:33,520 --> 00:25:35,160
+Now he has established himself in Luzhou.
+
+436
+00:25:35,160 --> 00:25:36,760
+He has built his own business empire.
+
+437
+00:25:37,200 --> 00:25:38,240
+A childhood friend.
+
+438
+00:25:38,240 --> 00:25:39,560
+Not long ago, Sun Bin was suspected of rape.
+
+439
+00:25:39,560 --> 00:25:40,360
+Boss,
+
+440
+00:25:40,360 --> 00:25:41,960
+give me another serving of the same noodles he's having.
+
+441
+00:25:41,960 --> 00:25:43,560
+Add a fried egg and a tofu skin.
+
+442
+00:25:43,600 --> 00:25:44,760
+And an order of chicken feet.
+
+443
+00:25:45,360 --> 00:25:46,160
+Alright.
+
+444
+00:25:46,160 --> 00:25:47,160
+You're really not shy about it.
+
+445
+00:25:50,240 --> 00:25:51,800
+Whenever you come to our place for a meal,
+
+446
+00:25:51,960 --> 00:25:53,320
+have you ever been polite?
+
+447
+00:25:55,640 --> 00:25:58,240
+Come on, we're not kids anymore.
+
+448
+00:25:58,640 --> 00:26:00,120
+Why are you still hung up on the past?
+
+449
+00:26:03,800 --> 00:26:07,560
+Between the two of us, who's really the one who can't let go of the past?
+
+450
+00:26:14,000 --> 00:26:16,240
+No matter what happened before, we have to face it.
+
+451
+00:26:17,360 --> 00:26:18,160
+Ajun,
+
+452
+00:26:19,560 --> 00:26:21,040
+not catching the killer
+
+453
+00:26:21,200 --> 00:26:23,160
+can't be your excuse for giving up now.
+
+454
+00:26:31,920 --> 00:26:33,120
+I still have my mom.
+
+455
+00:26:33,320 --> 00:26:34,560
+I can't get stuck in a rut.
+
+456
+00:26:35,520 --> 00:26:37,560
+If I were like you every day,
+
+457
+00:26:37,800 --> 00:26:39,640
+how would my mom be able to go on?
+
+458
+00:26:41,840 --> 00:26:42,840
+Have I ever blamed you?
+
+459
+00:26:42,840 --> 00:26:43,520
+Yes.
+
+460
+00:26:43,840 --> 00:26:45,480
+Your attitude is blaming me.
+
+461
+00:26:45,560 --> 00:26:46,800
+You blame me for being cold-hearted.
+
+462
+00:26:46,800 --> 00:26:48,640
+Acting like nothing happened after your own father died.
+
+463
+00:26:48,920 --> 00:26:49,640
+Right?
+
+464
+00:26:51,520 --> 00:26:52,240
+Thank you.
+
+465
+00:26:53,840 --> 00:26:54,920
+Enough.
+
+466
+00:26:55,640 --> 00:26:56,640
+Stop being so sentimental.
+
+467
+00:26:57,960 --> 00:26:58,800
+Hurry up and eat your noodles.
+
+468
+00:27:07,440 --> 00:27:08,520
+All these years,
+
+469
+00:27:09,360 --> 00:27:10,960
+I've never given up
+
+470
+00:27:11,720 --> 00:27:12,920
+on finding that missing gun.
+
+471
+00:27:16,760 --> 00:27:17,600
+Why investigate it?
+
+472
+00:27:17,640 --> 00:27:19,200
+Why not just investigate Gao Ang directly?
+
+473
+00:27:19,360 --> 00:27:20,560
+We're all detectives.
+
+474
+00:27:20,560 --> 00:27:22,200
+Can't you tell if someone's telling the truth?
+
+475
+00:27:23,440 --> 00:27:24,920
+Everyone pretends not to hear or see.
+
+476
+00:27:25,240 --> 00:27:26,600
+There are so many suspicious points right there.
+
+477
+00:27:26,600 --> 00:27:27,800
+And you just pretend not to see them, right?
+
+478
+00:27:29,840 --> 00:27:31,040
+I've said it long ago.
+
+479
+00:27:31,640 --> 00:27:32,840
+Did anyone listen to me?
+
+480
+00:27:33,040 --> 00:27:34,360
+About Uncle Gao's case,
+
+481
+00:27:34,360 --> 00:27:36,560
+his colleagues already investigated it back then.
+
+482
+00:27:36,560 --> 00:27:38,120
+He also served three years in prison.
+
+483
+00:27:38,120 --> 00:27:39,960
+He's already paid the price for his mistake.
+
+484
+00:27:39,960 --> 00:27:41,040
+Is three years enough?
+
+485
+00:27:41,520 --> 00:27:42,960
+My mentor lost his life.
+
+486
+00:27:42,960 --> 00:27:44,040
+His life.
+
+487
+00:27:50,040 --> 00:27:51,960
+Time and space online will continue.
+
+488
+00:28:07,560 --> 00:28:08,600
+This was at 10 p.m. tonight
+
+489
+00:28:08,600 --> 00:28:10,720
+during the rebroadcast of "Time Online" on the general channel.
+
+490
+00:28:10,760 --> 00:28:13,160
+The perpetrator hacked into the TV station's broadcast system
+
+491
+00:28:13,200 --> 00:28:14,800
+and forcibly inserted this video.
+
+492
+00:28:15,120 --> 00:28:16,800
+The video lasted less than a minute,
+
+493
+00:28:16,800 --> 00:28:18,360
+but since the staff on duty had never dealt with
+
+494
+00:28:18,360 --> 00:28:19,160
+this kind of situation before,
+
+495
+00:28:19,320 --> 00:28:20,560
+the video was directly
+
+496
+00:28:20,560 --> 00:28:22,160
+broadcast to all citizens of Luyu City.
+
+497
+00:28:23,360 --> 00:28:24,160
+The woman in the video
+
+498
+00:28:24,160 --> 00:28:25,840
+is the host of "Time Online"
+
+499
+00:28:25,840 --> 00:28:27,960
+and the program director, Yin Hui.
+
+500
+00:28:27,960 --> 00:28:29,200
+Just like in the Sun Bin case,
+
+501
+00:28:29,400 --> 00:28:31,760
+the perpetrator deliberately placed a clock
+
+502
+00:28:32,160 --> 00:28:34,160
+to prove to us that this was a live broadcast.
+
+503
+00:28:34,240 --> 00:28:36,200
+After the incident, we tracked Yin Hui's phone,
+
+504
+00:28:36,440 --> 00:28:37,240
+but there was no signal.
+
+505
+00:28:37,360 --> 00:28:38,920
+We also checked her residence, but no one was there.
+
+506
+00:28:39,280 --> 00:28:40,360
+Based on the Sun Bin case,
+
+507
+00:28:41,320 --> 00:28:42,080
+her life may be in danger.
+
+508
+00:28:43,040 --> 00:28:43,840
+Ding Yifei, Da Kuan
+
+509
+00:28:43,840 --> 00:28:44,360
+Here.
+
+510
+00:28:44,360 --> 00:28:46,120
+Go to the TV station and see if there are any new leads.
+
+511
+00:28:46,200 --> 00:28:47,000
+Yes.
+
+512
+00:28:47,640 --> 00:28:48,640
+Ran Yue, Tang Jun
+
+513
+00:28:48,640 --> 00:28:49,400
+Here.
+
+514
+00:28:49,400 --> 00:28:50,920
+Go to the TV station and Yin Hui's home
+
+515
+00:28:50,960 --> 00:28:52,560
+and collect all nearby surveillance footage.
+
+516
+00:28:52,600 --> 00:28:53,400
+Yes.
+
+517
+00:29:04,800 --> 00:29:06,240
+She has been
+
+518
+00:29:06,240 --> 00:29:07,240
+pretty normal at the station lately.
+
+519
+00:29:07,440 --> 00:29:08,440
+Who is this person?
+
+520
+00:29:09,400 --> 00:29:11,160
+Our news department reporter, Ren Xiaoqiu.
+
+521
+00:29:11,160 --> 00:29:12,520
+At 8 p.m. on October 29th,
+
+522
+00:29:12,520 --> 00:29:13,520
+where did Yin Hui go after that?
+
+523
+00:29:14,720 --> 00:29:15,720
+She probably got off work.
+
+524
+00:29:16,120 --> 00:29:17,760
+What did they do after 8 p.m.?
+
+525
+00:29:18,520 --> 00:29:19,360
+Who else was there?
+
+526
+00:29:19,760 --> 00:29:20,720
+No one else.
+
+527
+00:29:48,200 --> 00:29:48,800
+How is it?
+
+528
+00:29:59,960 --> 00:30:00,760
+It's been solved.
+
+529
+00:30:02,800 --> 00:30:03,600
+Cheng Tou
+
+530
+00:30:03,760 --> 00:30:05,000
+What does this mean?
+
+531
+00:30:05,360 --> 00:30:06,120
+It's French.
+
+532
+00:30:06,320 --> 00:30:07,720
+The translated meaning is
+
+533
+00:30:08,120 --> 00:30:10,160
+Legend has it that there was no fire on Earth.
+
+534
+00:30:10,160 --> 00:30:12,320
+People lived in great hardship back then.
+
+535
+00:30:12,360 --> 00:30:13,880
+I want to take you away from suffering.
+
+536
+00:30:13,880 --> 00:30:14,880
+At midnight.
+
+537
+00:30:16,760 --> 00:30:19,560
+This sentence is the original French version from a Greek myth.
+
+538
+00:30:19,720 --> 00:30:20,800
+It's hinting at Yin Hui.
+
+539
+00:30:21,120 --> 00:30:22,160
+I've checked the information.
+
+540
+00:30:22,160 --> 00:30:24,520
+Eight years ago, she was the host of a late-night show.
+
+541
+00:30:24,760 --> 00:30:26,320
+This sentence was their slogan.
+
+542
+00:30:26,760 --> 00:30:28,320
+At midnight.
+
+543
+00:30:28,640 --> 00:30:29,600
+Twelve o'clock.
+
+544
+00:30:30,400 --> 00:30:31,640
+The time of the crime.
+
+545
+00:31:01,880 --> 00:31:02,960
+Nanyang Branch Criminal Investigation Team
+
+546
+00:31:10,680 --> 00:31:11,320
+Captain
+
+547
+00:31:14,200 --> 00:31:14,960
+What happened?
+
+548
+00:31:14,960 --> 00:31:17,120
+An apartment in Xinhua Lane caught fire.
+
+549
+00:31:17,320 --> 00:31:18,400
+Someone died in the fire.
+
+550
+00:31:18,520 --> 00:31:19,600
+It seems to be
+
+551
+00:31:20,360 --> 00:31:21,160
+Yin Hui
