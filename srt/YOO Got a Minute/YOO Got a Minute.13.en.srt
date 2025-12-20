@@ -1,0 +1,2220 @@
+1
+00:00:02,236 --> 00:00:03,303
+Hello.
+
+2
+00:00:04,037 --> 00:00:07,341
+I'm Yoo Byungjae, a quiet man
+hosting The Quiet Interview.
+
+3
+00:00:07,407 --> 00:00:10,177
+Life is often compared to a game of Go,
+
+4
+00:00:10,244 --> 00:00:13,413
+a constant tug of war
+between black and white.
+
+5
+00:00:13,480 --> 00:00:15,048
+And this place is no different.
+
+6
+00:00:15,115 --> 00:00:17,951
+At the crossroads of laughter
+and composure,
+
+7
+00:00:18,018 --> 00:00:22,356
+let's see what brilliant move
+our guest will bring to the table today.
+
+8
+00:00:22,422 --> 00:00:26,426
+Please join me
+as we quietly welcome today's guest.
+
+9
+00:01:00,827 --> 00:01:02,563
+-Please have a seat.
+-Okay.
+
+10
+00:01:18,412 --> 00:01:20,180
+-It's nice to meet you.
+-Hello.
+
+11
+00:01:20,247 --> 00:01:25,252
+-We've never met before, have we?
+-No.
+
+12
+00:01:25,319 --> 00:01:27,454
+Not once in my entire life.
+
+13
+00:01:27,521 --> 00:01:30,424
+-Do you know who I am?
+-Of course.
+
+14
+00:01:30,490 --> 00:01:32,659
+I've seen you on various shows,
+
+15
+00:01:32,726 --> 00:01:36,396
+so I actually feel like
+I know you already.
+
+16
+00:01:36,463 --> 00:01:39,800
+Great. Before we dive into the show,
+
+17
+00:01:39,867 --> 00:01:43,370
+I was wondering how I should address you.
+
+18
+00:01:43,437 --> 00:01:47,241
+Some people call you "Master,"
+some say "Pro," others go with "9-Dan."
+
+19
+00:01:47,307 --> 00:01:50,110
+And since your book came out,
+you're also an author.
+
+20
+00:01:50,177 --> 00:01:52,946
+Which title would you be
+most comfortable with?
+
+21
+00:01:53,013 --> 00:01:58,418
+Any title you're comfortable with is fine.
+We can just go with that.
+
+22
+00:01:58,485 --> 00:02:00,053
+May I ask your age?
+
+23
+00:02:00,120 --> 00:02:03,690
+-I was born in 1983.
+-Why don't I call you "Older Brother"?
+
+24
+00:02:03,757 --> 00:02:06,960
+I was born in 1988,
+so there's a five-year age gap.
+
+25
+00:02:10,531 --> 00:02:12,299
+You don't seem to like that.
+
+26
+00:02:12,366 --> 00:02:16,436
+-Does anyone call you "Mr. Lee"?
+-"Mr. Lee"?
+
+27
+00:02:17,938 --> 00:02:21,308
+I guess that's not appropriate either.
+
+28
+00:02:21,375 --> 00:02:26,380
+-I will just address you as "Lee Sedol."
+-Okay.
+
+29
+00:02:26,446 --> 00:02:30,450
+This might be a bit new to you,
+so let me quickly go over the rules.
+
+30
+00:02:30,517 --> 00:02:34,087
+It's actually quite simple.
+You're not supposed to laugh.
+
+31
+00:02:34,154 --> 00:02:37,524
+If you do laugh, you'll be sent
+to the Quiet Room behind me,
+
+32
+00:02:37,591 --> 00:02:42,529
+where you'll spend
+five long, lonely minutes.
+
+33
+00:02:42,596 --> 00:02:43,897
+Should I try laughing?
+
+34
+00:02:45,332 --> 00:02:49,736
+You might be wondering
+how we decide what counts as a laugh.
+
+35
+00:02:49,803 --> 00:02:53,106
+The cameras you see in front of us
+are not just ordinary cameras.
+
+36
+00:02:53,173 --> 00:02:56,510
+They're cutting-edge AI cameras
+that use deep learning
+
+37
+00:02:56,577 --> 00:02:59,279
+to read every facial expression
+down to the nanosecond.
+
+38
+00:02:59,346 --> 00:03:03,183
+That means if you so much as
+crack a tiny smile,
+
+39
+00:03:03,250 --> 00:03:05,719
+you'll hear a warning sound.
+
+40
+00:03:07,187 --> 00:03:09,690
+But when it's absolutely undeniable
+
+41
+00:03:09,756 --> 00:03:13,827
+and there's no doubt
+that you've burst out laughing…
+
+42
+00:03:23,504 --> 00:03:24,738
+-You'll hear that.
+-Okay.
+
+43
+00:03:24,805 --> 00:03:28,242
+This cutting-edge system
+analyzes your emotions and expressions
+
+44
+00:03:28,308 --> 00:03:30,410
+with pinpoint accuracy.
+
+45
+00:03:30,477 --> 00:03:36,183
+There's hardly any field
+untouched by AI these days.
+
+46
+00:03:36,250 --> 00:03:41,455
+We truly live in the age of AI,
+and our show is no exception.
+
+47
+00:03:41,522 --> 00:03:45,325
+We also have a crew
+that's armed with cutting-edge AI tools.
+
+48
+00:03:45,392 --> 00:03:46,660
+Giung No. 1.
+
+49
+00:03:48,996 --> 00:03:53,467
+Greetings. I am Giung No. 1,
+a member of the cutting-edge AI crew.
+
+50
+00:03:54,868 --> 00:03:56,203
+It is nice to meet you.
+
+51
+00:03:56,270 --> 00:03:57,337
+Nice to meet you.
+
+52
+00:03:57,404 --> 00:04:02,476
+I have prepared a fascinating
+science experiment for you today.
+
+53
+00:04:03,143 --> 00:04:05,412
+I have a bottle of carbonated C*ke.
+
+54
+00:04:06,280 --> 00:04:07,281
+It's C*ke.
+
+55
+00:04:07,347 --> 00:04:09,716
+When I drop a few M*ntos inside--
+
+56
+00:04:09,783 --> 00:04:13,153
+It's going to explode.
+You're putting way too many.
+
+57
+00:04:14,154 --> 00:04:15,355
+Please stop.
+
+58
+00:04:15,422 --> 00:04:16,456
+It explodes.
+
+59
+00:04:18,091 --> 00:04:19,927
+Why isn't it exploding?
+
+60
+00:04:21,094 --> 00:04:23,497
+Crap, I brought B*attles instead.
+
+61
+00:04:26,300 --> 00:04:28,302
+No wonder they were so small.
+
+62
+00:04:28,869 --> 00:04:30,404
+Ha, ha, ha, ha.
+
+63
+00:04:32,272 --> 00:04:35,209
+Don't you have something else prepared?
+
+64
+00:04:35,275 --> 00:04:37,978
+Yes, I'll show you Greg from <i>Superstar K</i>
+
+65
+00:04:38,045 --> 00:04:41,915
+giving Lee Sedol
+a ride on the back of his motorcycle
+
+66
+00:04:41,982 --> 00:04:44,585
+while singing <i>I Miss You.</i>
+
+67
+00:04:44,651 --> 00:04:47,721
+That seems highly unlikely.
+Lee Sedol and Greg--
+
+68
+00:04:47,788 --> 00:04:50,324
+<i>Mi, mi, mi, mi, mi</i>
+
+69
+00:04:50,390 --> 00:04:51,391
+<i>Mi, mi, mi, mi</i>
+
+70
+00:04:51,458 --> 00:04:56,263
+<i>The memories of loving you like crazy</i>
+
+71
+00:04:56,330 --> 00:04:58,365
+<i>Those memories</i>
+
+72
+00:04:58,432 --> 00:05:03,704
+<i>Are searching for you</i>
+
+73
+00:05:03,770 --> 00:05:07,341
+<i>But I can no longer keep you captive</i>
+
+74
+00:05:07,407 --> 00:05:12,613
+<i>In the name of love anymore</i>
+
+75
+00:05:18,752 --> 00:05:20,287
+I've never seen that before.
+
+76
+00:05:20,354 --> 00:05:24,391
+That was a performance
+I never expected to see.
+
+77
+00:05:24,458 --> 00:05:29,630
+Of course, when we talk about Lee Sedol,
+we can't leave out AlphaGo.
+
+78
+00:05:29,696 --> 00:05:31,899
+Since it's been nearly a decade,
+
+79
+00:05:31,965 --> 00:05:38,205
+many of today's younger generation
+might not be familiar with you.
+
+80
+00:05:38,272 --> 00:05:43,343
+Is there anyone here today
+who doesn't know who Lee Sedol is?
+
+81
+00:05:46,113 --> 00:05:47,881
+The baby over there.
+
+82
+00:05:47,948 --> 00:05:49,950
+Do you know who Lee Sedol is?
+
+83
+00:05:58,358 --> 00:05:59,960
+He doesn't know who you are.
+
+84
+00:06:00,027 --> 00:06:01,828
+He's probably too young,
+
+85
+00:06:01,895 --> 00:06:07,100
+but I've been told that
+he is quite the prodigy.
+
+86
+00:06:07,167 --> 00:06:08,735
+How old is he?
+
+87
+00:06:10,304 --> 00:06:11,438
+Two weeks old.
+
+88
+00:06:12,005 --> 00:06:13,173
+That's incredible.
+
+89
+00:06:13,674 --> 00:06:16,109
+I also heard you can speak Japanese.
+
+90
+00:06:17,644 --> 00:06:20,380
+Tanjiro Kamado.
+
+91
+00:06:20,447 --> 00:06:22,082
+Akaza.
+
+92
+00:06:22,749 --> 00:06:23,951
+From <i>Demon Slayer.</i>
+
+93
+00:06:24,451 --> 00:06:26,653
+-Right.
+-To be honest,
+
+94
+00:06:26,720 --> 00:06:31,825
+babies like him, who can't even talk yet,
+may not know how great you are.
+
+95
+00:06:31,892 --> 00:06:35,162
+So, we put together a quick visual
+to introduce who you are.
+
+96
+00:06:35,229 --> 00:06:37,364
+I'm proud to introduce
+a member of our crew,
+
+97
+00:06:37,431 --> 00:06:40,267
+equipped with a high-speed
+motion control system.
+
+98
+00:06:40,334 --> 00:06:44,071
+Lightning No. 1.
+Please bring me the poster.
+
+99
+00:06:51,278 --> 00:06:54,481
+She's known for her incredible speed…
+
+100
+00:06:58,118 --> 00:07:00,787
+and she's going to grab the poster for us.
+
+101
+00:07:06,860 --> 00:07:10,430
+This might take a while,
+so let's use the monitor for now.
+
+102
+00:07:13,500 --> 00:07:17,371
+Please put it in the middle.
+
+103
+00:07:17,437 --> 00:07:20,240
+To really understand
+how great Lee Sedol is,
+
+104
+00:07:20,307 --> 00:07:24,111
+let's start from the beginning.
+
+105
+00:07:24,178 --> 00:07:25,412
+First…
+
+106
+00:07:25,479 --> 00:07:26,547
+ENIAC
+
+107
+00:07:26,613 --> 00:07:28,182
+…there was ENIAC.
+
+108
+00:07:28,248 --> 00:07:31,919
+Developed in 1946, it was the world's
+first general-purpose computer.
+
+109
+00:07:31,985 --> 00:07:33,687
+Then came something better.
+
+110
+00:07:33,754 --> 00:07:35,022
+-Deep Blue…
+-Yes.
+
+111
+00:07:35,088 --> 00:07:37,524
+…the chess AI program developed by IBM.
+
+112
+00:07:37,591 --> 00:07:40,861
+It was the first computer
+to defeat the world chess champion.
+
+113
+00:07:40,928 --> 00:07:43,030
+What was better than that was…
+
+114
+00:07:43,096 --> 00:07:44,331
+ALPHAGO
+
+115
+00:07:44,398 --> 00:07:45,399
+…AlphaGo.
+
+116
+00:07:45,465 --> 00:07:48,468
+Go has 10 to the power of 50
+more possible moves than chess,
+
+117
+00:07:48,535 --> 00:07:50,604
+but this AI beat a professional player
+at Go.
+
+118
+00:07:50,671 --> 00:07:54,508
+Its overall record was
+73 wins and 1 loss out of 74 matches.
+
+119
+00:07:54,575 --> 00:07:56,076
+That's an astonishing record.
+
+120
+00:07:56,143 --> 00:07:59,046
+The one who dealt that single loss was…
+
+121
+00:08:00,247 --> 00:08:01,381
+Lee Sedol.
+
+122
+00:08:01,448 --> 00:08:03,984
+With 18 world championships
+and the 2nd most titles,
+
+123
+00:08:04,051 --> 00:08:08,088
+he's become a symbol of hope against AI.
+Lee Sedol!
+
+124
+00:08:08,155 --> 00:08:09,456
+Thank you.
+
+125
+00:08:14,094 --> 00:08:15,395
+But he was defeated by…
+
+126
+00:08:15,929 --> 00:08:16,930
+KIM HARIN
+
+127
+00:08:16,997 --> 00:08:18,365
+…Kim Harin.
+
+128
+00:08:20,033 --> 00:08:21,368
+Justin Min, Tinno,
+
+129
+00:08:21,435 --> 00:08:25,239
+Kyuhyun, Kang Jiyeong, Son Eunyu, 7high,
+Choi Hyunjoon, Yoon Sohui, Jeong Hyungyu.
+
+130
+00:08:25,305 --> 00:08:28,976
+The final winner of <i>The Devil's Plan</i>
+was Jeong Hyungyu.
+
+131
+00:08:29,042 --> 00:08:32,279
+But do you think
+the greatest human out there…
+
+132
+00:08:32,346 --> 00:08:33,947
+JEONG HYUNGYU
+
+133
+00:08:34,014 --> 00:08:35,282
+…is Jeong Hyungyu?
+
+134
+00:08:35,782 --> 00:08:37,851
+We don't think so.
+
+135
+00:08:37,918 --> 00:08:39,920
+He was nominated for Best New Entertainer
+
+136
+00:08:39,987 --> 00:08:42,456
+at the 4th Blue Dragon Series Awards.
+
+137
+00:08:42,523 --> 00:08:46,927
+But unfortunately,
+he wasn't able to take home the award.
+
+138
+00:08:46,994 --> 00:08:51,398
+The one who took home the award
+was none other than…
+
+139
+00:08:52,399 --> 00:08:53,400
+MOON SANGHOON
+
+140
+00:08:53,467 --> 00:08:54,701
+…Moon Sanghoon.
+
+141
+00:08:54,768 --> 00:08:58,839
+Then is Moon Sanghoon
+the greatest human out there?
+
+142
+00:08:58,906 --> 00:09:02,743
+We'll have him answer that question.
+
+143
+00:09:04,011 --> 00:09:05,679
+-I see.
+<i>-I'm the greatest human?</i>
+
+144
+00:09:05,746 --> 00:09:06,914
+<i>No, I'm not.</i>
+
+145
+00:09:06,980 --> 00:09:09,550
+<i>Compared to Byungjae,</i>
+<i>I still have a long way to go.</i>
+
+146
+00:09:10,117 --> 00:09:12,886
+<i>I'm still far behind him.</i>
+
+147
+00:09:12,953 --> 00:09:16,857
+<i>No matter how hard I try,</i>
+<i>he'll always be ahead of me.</i>
+
+148
+00:09:16,924 --> 00:09:19,560
+<i>I'll always look up to Byungjae.</i>
+
+149
+00:09:22,262 --> 00:09:24,531
+Then are you the greatest…
+
+150
+00:09:24,598 --> 00:09:31,338
+Unfortunately, I will always be
+one step ahead of Moon Sanghoon.
+
+151
+00:09:31,405 --> 00:09:33,841
+Let's review our findings.
+
+152
+00:09:33,907 --> 00:09:36,510
+YOO BYUNGJAE, MOON SANGHOON,
+JEONG HYUNGYU, YOON SOHUI
+
+153
+00:09:36,577 --> 00:09:37,711
+Byungjae, Moon Sanghoon,
+
+154
+00:09:37,778 --> 00:09:40,547
+Jeong Hyungyu, Yoon Sohui,
+Choi Hyunjoon, 7high, Son Eunyu,
+
+155
+00:09:40,614 --> 00:09:43,917
+Kang Jiyeong, Kyuhyun, Tinno,
+Justin Min, Kim Harin, Lee Sedol.
+
+156
+00:09:43,984 --> 00:09:45,853
+Your position is…
+
+157
+00:09:47,521 --> 00:09:49,957
+right around here.
+
+158
+00:09:50,023 --> 00:09:53,126
+We went ahead and ranked
+who the greatest humans are.
+
+159
+00:09:53,193 --> 00:09:55,329
+Do you agree with our findings?
+
+160
+00:09:58,832 --> 00:10:01,401
+Let's go ahead and move on.
+
+161
+00:10:01,468 --> 00:10:06,640
+You've said many memorable things
+that have become iconic quotes.
+
+162
+00:10:06,707 --> 00:10:09,776
+So we made a list of…
+
+163
+00:10:13,413 --> 00:10:18,352
+That part is over.
+Can you bring the one with his quotes?
+
+164
+00:10:18,919 --> 00:10:20,287
+We're done with that part.
+
+165
+00:10:20,888 --> 00:10:22,923
+I mean, since she's here…
+
+166
+00:10:24,091 --> 00:10:25,959
+I'll continue using the monitor.
+
+167
+00:10:26,026 --> 00:10:30,130
+You've said many memorable quotes,
+so we tried ranking them.
+
+168
+00:10:30,764 --> 00:10:33,367
+"When I see a move, I play it."
+
+169
+00:10:33,433 --> 00:10:34,935
+Did you really say this?
+
+170
+00:10:35,435 --> 00:10:38,305
+Yes, I said that about 20 years ago.
+
+171
+00:10:38,906 --> 00:10:43,210
+I think I was simply sharing
+my honest thoughts
+
+172
+00:10:43,277 --> 00:10:48,215
+about Go in a very casual way.
+
+173
+00:10:49,650 --> 00:10:53,921
+This might be the one that people
+have quoted and parodied the most.
+
+174
+00:10:53,987 --> 00:10:57,090
+As an author, I have to say,
+it's very well-phrased.
+
+175
+00:10:57,157 --> 00:11:01,061
+The word "confidence"
+isn't usually paired with "losing."
+
+176
+00:11:01,128 --> 00:11:04,665
+You said, "I'm not confident I'll lose."
+Do you remember when you said this?
+
+177
+00:11:04,731 --> 00:11:07,801
+I was playing against Wang Xi,
+so I think it was 2004.
+
+178
+00:11:07,868 --> 00:11:10,938
+-So about 21 years ago.
+-Yes.
+
+179
+00:11:11,004 --> 00:11:13,407
+I had won the first game of the finals,
+
+180
+00:11:13,473 --> 00:11:16,743
+and someone asked
+if it would be over tomorrow.
+
+181
+00:11:16,810 --> 00:11:19,980
+They asked me that
+because it was a best-of-three match.
+
+182
+00:11:20,047 --> 00:11:21,648
+So I said, "I'm not confident."
+
+183
+00:11:22,382 --> 00:11:23,884
+They asked why I thought that.
+
+184
+00:11:23,951 --> 00:11:26,753
+-"Why aren't you confident?"
+-"I'm not confident I'll lose."
+
+185
+00:11:26,820 --> 00:11:29,022
+You said it in a joking way.
+
+186
+00:11:29,089 --> 00:11:33,126
+It was a joke, but at the same time,
+I wanted to show how confident I was.
+
+187
+00:11:33,193 --> 00:11:35,863
+That's great. Let's see the next one.
+
+188
+00:11:35,929 --> 00:11:38,098
+"IT WASN'T MANKIND THAT WON. IT WAS ME."
+
+189
+00:11:38,165 --> 00:11:40,934
+"Mankind didn't win, I did."
+When you beat AlphaGo--
+
+190
+00:11:41,001 --> 00:11:45,138
+I didn't say that,
+but people always ask me about this quote.
+
+191
+00:11:45,205 --> 00:11:49,076
+And it always comes up during interviews.
+
+192
+00:11:49,142 --> 00:11:52,246
+I hear it so often that
+sometimes I wonder if I did say it.
+
+193
+00:11:52,312 --> 00:11:55,315
+You actually said this
+when you lost to AlphaGo.
+
+194
+00:11:55,382 --> 00:11:57,684
+"It wasn't mankind that lost. It was me."
+
+195
+00:11:57,751 --> 00:12:00,587
+-But people took it out of context.
+-That's right.
+
+196
+00:12:00,654 --> 00:12:02,189
+Let's look at the next quote.
+
+197
+00:12:03,290 --> 00:12:05,826
+"THIS BASTARD'S SHIT AT PLAYING GO."
+
+198
+00:12:07,127 --> 00:12:08,195
+What?
+
+199
+00:12:08,862 --> 00:12:09,863
+Did you…
+
+200
+00:12:11,732 --> 00:12:14,368
+Usually, in games like League of Legends,
+
+201
+00:12:14,434 --> 00:12:19,673
+it's something you say as a compliment
+to someone who's really good.
+
+202
+00:12:19,740 --> 00:12:22,976
+-Yes, it could be a compliment.
+-Right.
+
+203
+00:12:23,043 --> 00:12:26,547
+But I don't think
+I would've said something like that.
+
+204
+00:12:27,114 --> 00:12:28,182
+You keep…
+
+205
+00:12:30,050 --> 00:12:32,386
+Regardless of my true feelings.
+
+206
+00:12:33,253 --> 00:12:38,425
+You know how players use trash talk
+to throw off their opponents?
+
+207
+00:12:38,492 --> 00:12:40,327
+Is there something like that in Go?
+
+208
+00:12:40,394 --> 00:12:42,663
+Yes, it's called
+"crushing someone's spirit."
+
+209
+00:12:42,729 --> 00:12:46,767
+-"Crush their spirit"?
+-Yes, you say things like, "You lost."
+
+210
+00:12:46,834 --> 00:12:49,670
+Does the opponent get affected by that?
+
+211
+00:12:50,237 --> 00:12:53,173
+-It does affect them.
+-So it's effective.
+
+212
+00:12:53,240 --> 00:12:54,808
+If you tell them that they lost,
+
+213
+00:12:54,875 --> 00:13:00,814
+they can't help but question
+if they can turn the game around.
+
+214
+00:13:01,381 --> 00:13:02,449
+All right.
+
+215
+00:13:04,084 --> 00:13:06,086
+"Is there a hammer or a club here?"
+
+216
+00:13:06,153 --> 00:13:09,022
+I wanted to ask if you really said this.
+
+217
+00:13:09,089 --> 00:13:12,426
+You supposedly said this
+because you wanted to smash AlphaGo.
+
+218
+00:13:13,393 --> 00:13:16,296
+That's what I really felt like doing.
+
+219
+00:13:16,363 --> 00:13:18,232
+You felt that way during the match.
+
+220
+00:13:18,298 --> 00:13:21,502
+To be honest, I was quite frustrated.
+
+221
+00:13:21,568 --> 00:13:24,338
+I don't think I said that,
+
+222
+00:13:24,404 --> 00:13:27,875
+but I certainly felt
+that level of frustration.
+
+223
+00:13:27,941 --> 00:13:33,013
+Now that we're done with the quotes,
+could someone take this monitor away?
+
+224
+00:13:41,788 --> 00:13:43,257
+Lightning No. 1
+
+225
+00:13:43,323 --> 00:13:47,060
+We're done with the quotes,
+so please return to your seat.
+
+226
+00:13:54,735 --> 00:13:58,138
+-Do they actually know how to play Go?
+-Yes, they do.
+
+227
+00:13:58,205 --> 00:14:02,276
+-They know how to play Go.
+-Okay.
+
+228
+00:14:02,342 --> 00:14:05,679
+Could you take a look
+and tell us how the game is going?
+
+229
+00:14:08,582 --> 00:14:09,950
+White versus black.
+
+230
+00:14:12,352 --> 00:14:13,654
+You lost.
+
+231
+00:14:14,221 --> 00:14:17,324
+-Yeah, you lost, so hurry up.
+-Who lost?
+
+232
+00:14:17,391 --> 00:14:18,392
+Did white lose?
+
+233
+00:14:18,458 --> 00:14:19,893
+-Someone lost.
+-Someone.
+
+234
+00:14:19,960 --> 00:14:22,930
+-He can't tell you who.
+-It would be coaching.
+
+235
+00:14:22,996 --> 00:14:24,998
+-Look at the board.
+-Let's go back.
+
+236
+00:14:27,501 --> 00:14:30,604
+I heard you're a heavy smoker.
+Do you still smoke?
+
+237
+00:14:30,671 --> 00:14:33,006
+-Yes.
+-What do you smoke?
+
+238
+00:14:33,073 --> 00:14:35,042
+I smoke D*nhill L*ghts.
+
+239
+00:14:35,108 --> 00:14:36,677
+Do you smoke?
+
+240
+00:14:37,477 --> 00:14:41,515
+-I vape.
+-I see. You betrayed us.
+
+241
+00:14:43,183 --> 00:14:44,351
+What do you mean?
+
+242
+00:14:45,085 --> 00:14:49,189
+Everyone's vaping now.
+No one smokes cigarettes anymore.
+
+243
+00:14:49,256 --> 00:14:51,291
+May I ask when you started smoking?
+
+244
+00:14:52,960 --> 00:14:54,461
+-Okay, got it.
+-Yes.
+
+245
+00:14:54,528 --> 00:14:57,931
+-I'm not trying to promote smoking.
+-Of course not.
+
+246
+00:14:57,998 --> 00:15:01,134
+Smoking is bad for your health.
+That's what I…
+
+247
+00:15:01,969 --> 00:15:03,003
+Smoke break.
+
+248
+00:15:05,939 --> 00:15:07,341
+Smoke break.
+
+249
+00:15:07,407 --> 00:15:08,408
+Smoke break?
+
+250
+00:15:09,176 --> 00:15:10,878
+He's two weeks old.
+
+251
+00:15:11,879 --> 00:15:13,881
+-Absolutely not.
+-No.
+
+252
+00:15:13,947 --> 00:15:19,253
+We mentioned it briefly at the start,
+but are you a board game developer now?
+
+253
+00:15:19,319 --> 00:15:24,091
+-Developer, designer. It's all the same.
+-I heard you're active in that field.
+
+254
+00:15:24,157 --> 00:15:27,027
+-What board games would you recommend?
+-I like Acquire.
+
+255
+00:15:27,094 --> 00:15:28,462
+I've heard of this one.
+
+256
+00:15:28,529 --> 00:15:31,098
+I don't know much about it,
+but I've heard of it.
+
+257
+00:15:31,164 --> 00:15:35,335
+It's a game about stocks.
+It's one of my favorite games.
+
+258
+00:15:35,402 --> 00:15:36,470
+I see.
+
+259
+00:15:36,537 --> 00:15:39,139
+My favorite game is B*skin-R*bbins.
+Do you know it?
+
+260
+00:15:39,206 --> 00:15:40,541
+-B*skin-R*bbins?
+-Yes.
+
+261
+00:15:40,607 --> 00:15:45,179
+If you're up for it,
+would you play the game with us?
+
+262
+00:15:45,245 --> 00:15:47,347
+-Sure.
+-Let's all shout it together.
+
+263
+00:15:47,414 --> 00:15:50,684
+-B*skin-R*bbins 31!
+-B*skin-R*bbins 31!
+
+264
+00:15:50,751 --> 00:15:52,119
+1, 2, 3.
+
+265
+00:15:52,186 --> 00:15:54,555
+-4, 5, 6.
+-7, 8, 9.
+
+266
+00:15:54,621 --> 00:15:56,590
+10, 11, 12.
+
+267
+00:15:56,657 --> 00:15:58,025
+13, 14, 15.
+
+268
+00:15:58,091 --> 00:15:59,660
+16, 17, 18.
+
+269
+00:15:59,726 --> 00:16:02,396
+19, 20, 21.
+
+270
+00:16:06,366 --> 00:16:07,734
+I think we're at 24.
+
+271
+00:16:07,801 --> 00:16:09,503
+25, 26, 27.
+
+272
+00:16:10,003 --> 00:16:11,171
+28, 29, 30.
+
+273
+00:16:16,677 --> 00:16:17,845
+He hasn't gone yet.
+
+274
+00:16:19,146 --> 00:16:21,081
+It wasn't my turn?
+
+275
+00:16:23,217 --> 00:16:25,552
+We're going around in a circle.
+
+276
+00:16:25,619 --> 00:16:27,688
+But we could also go this way.
+
+277
+00:16:27,754 --> 00:16:29,690
+But he hasn't gone yet.
+
+278
+00:16:29,756 --> 00:16:33,360
+-I guess if we're going that way--
+-This could get confusing.
+
+279
+00:16:33,427 --> 00:16:35,896
+-Let's just play a new game.
+-Okay.
+
+280
+00:16:35,963 --> 00:16:37,431
+I created this game.
+
+281
+00:16:37,497 --> 00:16:40,701
+I made a game based on
+the 12 months of the year.
+
+282
+00:16:40,767 --> 00:16:42,102
+This is how it starts.
+
+283
+00:16:42,169 --> 00:16:44,771
+Regular month, leap month,
+regular month, leap month.
+
+284
+00:16:44,838 --> 00:16:48,342
+Then, when someone says a month,
+we'll count the number of days it has.
+
+285
+00:16:48,408 --> 00:16:49,810
+Let's give it a go.
+
+286
+00:16:49,877 --> 00:16:53,013
+Regular month, leap month,
+regular month, leap month!
+
+287
+00:16:53,080 --> 00:16:55,182
+August! 1, 2, 3.
+
+288
+00:16:55,682 --> 00:16:58,719
+-4, 5, 6.
+-7, 8, 9.
+
+289
+00:16:58,785 --> 00:17:01,288
+10, 11, 12.
+
+290
+00:17:01,355 --> 00:17:03,790
+13, 14, 15.
+
+291
+00:17:03,857 --> 00:17:05,692
+16, 17, 18.
+
+292
+00:17:05,759 --> 00:17:08,929
+19, 20, 21.
+
+293
+00:17:11,598 --> 00:17:14,268
+-We're at 24.
+-25, 26, 27.
+
+294
+00:17:14,835 --> 00:17:16,537
+28, 29, 30.
+
+295
+00:17:19,606 --> 00:17:20,941
+September 1.
+
+296
+00:17:26,013 --> 00:17:27,681
+There are 31 days in August.
+
+297
+00:17:27,748 --> 00:17:29,149
+July, August.
+
+298
+00:17:29,216 --> 00:17:32,152
+Right, August. Wait, what?
+
+299
+00:17:32,786 --> 00:17:35,956
+January, February, March,
+April, May, June, July, August.
+
+300
+00:17:37,691 --> 00:17:39,526
+August has 31 days!
+
+301
+00:17:39,593 --> 00:17:42,462
+January, February, March,
+April, May, June, July, August.
+
+302
+00:17:44,431 --> 00:17:46,934
+You're supposed to use your knuckles.
+
+303
+00:17:47,000 --> 00:17:51,238
+It's January, February, March,
+April, May, June, July, August.
+
+304
+00:17:51,805 --> 00:17:54,007
+-March, April, May, June, July, August.
+-See?
+
+305
+00:17:54,074 --> 00:17:56,510
+Byungjae, August has 31 days.
+
+306
+00:17:56,577 --> 00:17:57,578
+What the heck?
+
+307
+00:18:01,515 --> 00:18:02,850
+We won!
+
+308
+00:18:04,651 --> 00:18:06,019
+We beat Lee Sedol!
+
+309
+00:18:06,086 --> 00:18:09,223
+We beat the guy
+who became a symbol of hope against AI!
+
+310
+00:18:09,289 --> 00:18:10,958
+There are 31 days.
+
+311
+00:18:11,024 --> 00:18:12,426
+Ha, ha, ha, ha.
+
+312
+00:18:12,492 --> 00:18:14,962
+December doesn't end on the 30th.
+
+313
+00:18:15,028 --> 00:18:18,532
+You have to count the last knuckle twice
+before going back, right?
+
+314
+00:18:18,599 --> 00:18:19,733
+You're right.
+
+315
+00:18:19,800 --> 00:18:21,134
+I almost fell for that.
+
+316
+00:18:22,436 --> 00:18:24,638
+I heard you recently
+started using Inst*gram?
+
+317
+00:18:24,705 --> 00:18:25,706
+Yes.
+
+318
+00:18:25,772 --> 00:18:28,942
+We were a bit surprised
+because we saw that
+
+319
+00:18:29,009 --> 00:18:32,546
+you don't follow OH MY GIRL,
+but you follow STAYC.
+
+320
+00:18:32,613 --> 00:18:35,015
+I don't follow OH MY GIRL?
+
+321
+00:18:35,082 --> 00:18:36,917
+Let me check right now.
+
+322
+00:18:36,984 --> 00:18:39,820
+I don't really keep up with that.
+
+323
+00:18:40,487 --> 00:18:43,090
+You don't follow OH MY GIRL.
+
+324
+00:18:43,156 --> 00:18:46,226
+So we thought you had a change of heart,
+
+325
+00:18:46,293 --> 00:18:48,996
+especially since you're a big fan
+of OH MY GIRL.
+
+326
+00:18:49,062 --> 00:18:54,935
+I actually met YooA just a few months ago.
+
+327
+00:18:55,002 --> 00:18:57,271
+It just never occurred to me
+to follow them.
+
+328
+00:18:57,337 --> 00:19:01,275
+I see that you're not following me either.
+
+329
+00:19:01,341 --> 00:19:03,677
+-I just followed you.
+-I see.
+
+330
+00:19:03,744 --> 00:19:04,811
+Could you…
+
+331
+00:19:07,181 --> 00:19:08,682
+I promise I will.
+
+332
+00:19:10,250 --> 00:19:13,086
+-Do you have your phone?
+-I do.
+
+333
+00:19:13,153 --> 00:19:17,057
+Really? Then you could do it now?
+Could you follow me?
+
+334
+00:19:17,124 --> 00:19:19,760
+I don't have Inst*gram on my phone.
+
+335
+00:19:19,826 --> 00:19:20,827
+What?
+
+336
+00:19:21,295 --> 00:19:23,830
+-I only use it on my computer.
+-What?
+
+337
+00:19:26,967 --> 00:19:29,670
+I just saw you upload a Story.
+
+338
+00:19:29,736 --> 00:19:30,737
+That was on…
+
+339
+00:19:32,439 --> 00:19:33,507
+Your computer?
+
+340
+00:19:34,308 --> 00:19:37,744
+I use my computer or I ask other people.
+
+341
+00:19:38,245 --> 00:19:41,181
+I have people who upload things for me.
+
+342
+00:19:42,349 --> 00:19:45,752
+Do you really promise to follow me?
+
+343
+00:19:45,819 --> 00:19:47,354
+-Of course.
+-Okay.
+
+344
+00:19:47,421 --> 00:19:49,122
+Can you add it to your highlights?
+
+345
+00:19:49,189 --> 00:19:51,925
+"Mutuals with Byungjae"
+and add today's date?
+
+346
+00:19:53,961 --> 00:19:57,064
+-I'll think about it.
+-Okay, you need to think about it.
+
+347
+00:19:57,130 --> 00:19:58,198
+Got it.
+
+348
+00:19:59,833 --> 00:20:01,935
+-It's not on your phone?
+-No.
+
+349
+00:20:02,002 --> 00:20:03,971
+Can I take a look at your wallpaper?
+
+350
+00:20:04,037 --> 00:20:05,038
+My wallpaper?
+
+351
+00:20:06,974 --> 00:20:08,642
+Here it is.
+
+352
+00:20:09,643 --> 00:20:11,011
+I see. Wait.
+
+353
+00:20:12,212 --> 00:20:13,747
+You have Inst*gram.
+
+354
+00:20:14,581 --> 00:20:16,483
+Do I have Inst*gram?
+
+355
+00:20:17,618 --> 00:20:20,454
+-You have it right there.
+-I see.
+
+356
+00:20:26,260 --> 00:20:27,861
+All right.
+
+357
+00:20:28,962 --> 00:20:31,231
+Up next is our promo segment.
+
+358
+00:20:31,298 --> 00:20:33,734
+We'll be promoting things
+on behalf of our guest.
+
+359
+00:20:33,800 --> 00:20:37,571
+-I heard you published a new book.
+-Yes, that's right.
+
+360
+00:20:37,638 --> 00:20:42,009
+Even as we film this,
+it's already selling incredibly well.
+
+361
+00:20:42,075 --> 00:20:45,445
+We even bought copies in advance.
+Please bring it over, Lightning No. 1.
+
+362
+00:20:45,512 --> 00:20:47,014
+Does it have to be her?
+
+363
+00:20:47,614 --> 00:20:49,616
+-She wanted--
+-Is there a No. 2?
+
+364
+00:20:55,222 --> 00:20:56,890
+She wanted to do it.
+
+365
+00:20:56,957 --> 00:20:59,359
+-Since it's something she enjoys doing…
+-I see.
+
+366
+00:20:59,426 --> 00:21:01,295
+…she asked if she could handle it.
+
+367
+00:21:01,361 --> 00:21:06,233
+There's a line in chapter two that says,
+"Concentration also requires strategy."
+
+368
+00:21:06,300 --> 00:21:08,569
+Byungjae, we have to do a quick mic check.
+
+369
+00:21:08,635 --> 00:21:09,870
+-Okay.
+-Excuse us.
+
+370
+00:21:10,571 --> 00:21:11,672
+We're almost done.
+
+371
+00:21:11,738 --> 00:21:14,474
+-It should take another 30 or 40 minutes.
+-No worries.
+
+372
+00:21:14,541 --> 00:21:17,845
+One, two, three. Hello. One, two, three.
+
+373
+00:21:17,911 --> 00:21:18,912
+Thank you.
+
+374
+00:21:19,780 --> 00:21:20,781
+Let's keep going.
+
+375
+00:21:21,815 --> 00:21:26,086
+There's a line in chapter two that says,
+"Concentration also requires strategy."
+
+376
+00:21:26,153 --> 00:21:28,021
+Do you remember what this was about?
+
+377
+00:21:28,088 --> 00:21:30,591
+Concentration is a finite resource.
+
+378
+00:21:31,124 --> 00:21:35,162
+This is true when playing Go
+and even when studying.
+
+379
+00:21:35,229 --> 00:21:39,466
+I think it's important
+to manage and use it wisely.
+
+380
+00:21:39,967 --> 00:21:41,668
+In line with what you just said,
+
+381
+00:21:41,735 --> 00:21:46,406
+we've prepared an observation challenge
+to test your concentration skills.
+
+382
+00:21:46,473 --> 00:21:50,177
+The crew member who was just on stage
+will come back out again.
+
+383
+00:21:50,244 --> 00:21:54,348
+If you observed him
+with a high level of concentration,
+
+384
+00:21:54,414 --> 00:21:59,186
+you should be able to notice
+one very subtle change.
+
+385
+00:22:00,053 --> 00:22:01,889
+-Let's see--
+-I wasn't paying attention.
+
+386
+00:22:01,955 --> 00:22:04,558
+We're very excited about this
+
+387
+00:22:04,625 --> 00:22:08,128
+-since you possess concentration skills.
+-Okay.
+
+388
+00:22:08,195 --> 00:22:10,564
+All right. Please come out.
+
+389
+00:22:14,168 --> 00:22:15,169
+Ten.
+
+390
+00:22:15,869 --> 00:22:18,138
+Nine. Eight.
+
+391
+00:22:18,639 --> 00:22:19,806
+Seven.
+
+392
+00:22:20,774 --> 00:22:23,277
+-Six. Five.
+-Are you sure something's changed?
+
+393
+00:22:24,077 --> 00:22:26,680
+Four. Three.
+
+394
+00:22:26,747 --> 00:22:27,814
+His underwear.
+
+395
+00:22:28,382 --> 00:22:29,416
+Is that correct?
+
+396
+00:22:29,917 --> 00:22:32,152
+-That is correct.
+-That is correct!
+
+397
+00:22:35,389 --> 00:22:39,960
+Earlier, he was wearing gray boxer briefs,
+
+398
+00:22:40,027 --> 00:22:43,530
+but now he's changed into these boxers.
+
+399
+00:22:43,597 --> 00:22:45,966
+-Okay, you can go back.
+-Thank you.
+
+400
+00:22:46,033 --> 00:22:50,804
+As expected, you have once again proven
+
+401
+00:22:50,871 --> 00:22:53,240
+your incredible eye for detail.
+
+402
+00:22:53,807 --> 00:22:56,109
+We've reached the final part of our show.
+
+403
+00:22:56,176 --> 00:23:00,614
+We'll now take some time
+to talk to the audience.
+
+404
+00:23:03,250 --> 00:23:04,918
+Sorry, we're done with the book.
+
+405
+00:23:04,985 --> 00:23:07,187
+Please return to your seat,
+Lightning No. 1.
+
+406
+00:23:07,888 --> 00:23:08,889
+But…
+
+407
+00:23:17,064 --> 00:23:19,399
+If anyone has something to say
+to Lee Sedol,
+
+408
+00:23:19,466 --> 00:23:21,969
+please feel free to speak up.
+
+409
+00:23:22,035 --> 00:23:25,172
+-Is there anyone?
+-I have a question for him.
+
+410
+00:23:25,239 --> 00:23:26,373
+Very well.
+
+411
+00:23:26,440 --> 00:23:29,843
+I recently entered
+an amateur Go tournament,
+
+412
+00:23:29,910 --> 00:23:33,213
+but was eliminated in the final round.
+
+413
+00:23:33,280 --> 00:23:35,349
+I've replayed the game over and over,
+
+414
+00:23:35,415 --> 00:23:38,886
+but I still can't figure out
+what move I should've made.
+
+415
+00:23:38,952 --> 00:23:42,789
+So if you don't mind,
+could you take a look at the game record
+
+416
+00:23:42,856 --> 00:23:45,359
+and tell me
+what the best move would've been?
+
+417
+00:23:45,425 --> 00:23:46,426
+The game record?
+
+418
+00:23:46,493 --> 00:23:50,264
+-Would that be okay with you?
+-Of course.
+
+419
+00:23:50,330 --> 00:23:52,232
+-Please come up here.
+-Thank you.
+
+420
+00:23:52,299 --> 00:23:53,834
+Where's the game record?
+
+421
+00:23:53,901 --> 00:23:58,071
+It's a great honor
+to get advice directly from Lee Sedol.
+
+422
+00:23:58,138 --> 00:24:00,474
+-Please come to the center.
+-Okay.
+
+423
+00:24:00,541 --> 00:24:02,976
+If you show it to him,
+he'll give you some tips.
+
+424
+00:24:05,345 --> 00:24:09,550
+-Please show him the game record.
+-Okay, one second.
+
+425
+00:24:11,018 --> 00:24:14,188
+I painted it on my body
+so I wouldn't forget.
+
+426
+00:24:27,301 --> 00:24:29,469
+Please take a look.
+
+427
+00:24:32,172 --> 00:24:33,607
+How does it look?
+
+428
+00:24:35,642 --> 00:24:39,079
+It's a hopeless situation,
+a really tough one to deal with.
+
+429
+00:24:39,146 --> 00:24:42,149
+I kept thinking about it,
+but I couldn't figure it out.
+
+430
+00:24:42,216 --> 00:24:46,053
+-There's a fold over here.
+-Right.
+
+431
+00:24:46,620 --> 00:24:48,288
+There's a stone here.
+
+432
+00:24:48,789 --> 00:24:52,926
+I don't know Go very well,
+but isn't this where…
+
+433
+00:24:56,196 --> 00:24:58,398
+-You're playing as black here, right?
+-Right.
+
+434
+00:24:58,465 --> 00:25:00,467
+Then from that perspective…
+
+435
+00:25:03,570 --> 00:25:06,106
+Is this show R-rated?
+
+436
+00:25:06,173 --> 00:25:08,075
+This seems like an R-rated problem.
+
+437
+00:25:08,141 --> 00:25:12,212
+I almost went to the Quiet Room just now.
+
+438
+00:25:12,880 --> 00:25:16,049
+This stone is just one move away
+from being captured.
+
+439
+00:25:16,116 --> 00:25:19,119
+There are one, two, three, four liberties.
+
+440
+00:25:19,186 --> 00:25:20,954
+If white plays here, it's captured.
+
+441
+00:25:21,021 --> 00:25:23,290
+-It's surrounded.
+-All four liberties are blocked.
+
+442
+00:25:23,357 --> 00:25:25,559
+-So you need to connect over here.
+-Okay.
+
+443
+00:25:25,626 --> 00:25:27,261
+Is it already connected?
+
+444
+00:25:27,895 --> 00:25:32,199
+This is just…
+I think he's just pale over here.
+
+445
+00:25:32,266 --> 00:25:33,300
+I see.
+
+446
+00:25:33,367 --> 00:25:36,003
+-It's not easy for white either.
+-It's not?
+
+447
+00:25:36,069 --> 00:25:38,572
+-Even for white…
+-That spot isn't…
+
+448
+00:25:38,639 --> 00:25:42,276
+It's not a good spot for black,
+but it's not good for white either.
+
+449
+00:25:42,342 --> 00:25:44,778
+You're saying it's not
+an advantageous situation.
+
+450
+00:25:46,213 --> 00:25:50,484
+-So, this is the best possible move.
+-Yes, that's right.
+
+451
+00:25:50,551 --> 00:25:51,952
+-Let me mark it.
+-Okay.
+
+452
+00:25:57,958 --> 00:26:00,494
+-That's excellent.
+-Great. I hope that helped.
+
+453
+00:26:00,561 --> 00:26:04,431
+I've practically taught you
+
+454
+00:26:04,498 --> 00:26:07,968
+the rules of Go just now.
+
+455
+00:26:08,535 --> 00:26:11,238
+Now you know that if you're surrounded,
+
+456
+00:26:12,406 --> 00:26:13,407
+you're busted.
+
+457
+00:26:16,143 --> 00:26:18,979
+Sorry, that may have been inappropriate.
+
+458
+00:26:19,613 --> 00:26:22,749
+You're busted if you're surrounded.
+
+459
+00:26:22,816 --> 00:26:25,853
+-Thank you for being so brave, Jinyeong.
+-Thank you.
+
+460
+00:26:25,919 --> 00:26:28,155
+-Please return to your seat.
+-Okay.
+
+461
+00:26:29,890 --> 00:26:30,891
+Thank you.
+
+462
+00:26:32,926 --> 00:26:34,428
+-Here?
+-That's right.
+
+463
+00:26:35,028 --> 00:26:36,029
+Mama.
+
+464
+00:26:36,096 --> 00:26:39,399
+His passion for Go is so strong
+that he painted it on his body.
+
+465
+00:26:39,466 --> 00:26:42,436
+We spent some time with Lee Sedol
+on The Quiet Interview,
+
+466
+00:26:42,503 --> 00:26:44,605
+where you're not allowed to laugh.
+
+467
+00:26:44,671 --> 00:26:47,140
+I'd like to ask for your thoughts today.
+
+468
+00:26:48,108 --> 00:26:51,011
+The show itself feels very original.
+
+469
+00:26:51,078 --> 00:26:52,446
+Everyone here…
+
+470
+00:26:52,513 --> 00:26:56,216
+I don't know where Lightning No. 2 is,
+but No. 1 worked so hard today.
+
+471
+00:26:56,283 --> 00:26:59,052
+-The first guy--
+-Giung No. 1.
+
+472
+00:26:59,119 --> 00:27:01,855
+And even those two…
+I don't know what they're doing.
+
+473
+00:27:01,922 --> 00:27:03,423
+But does that even come off?
+
+474
+00:27:05,626 --> 00:27:08,428
+As far as I know,
+it's not going to come off that easily.
+
+475
+00:27:08,495 --> 00:27:14,835
+He needs to burn it off
+with acetone and formaldehyde
+
+476
+00:27:14,902 --> 00:27:16,403
+since it's oil-based.
+
+477
+00:27:16,470 --> 00:27:19,006
+-He needs to burn it off?
+-He's very passionate.
+
+478
+00:27:19,072 --> 00:27:22,209
+It wouldn't hurt to burn it off a bit.
+
+479
+00:27:22,843 --> 00:27:24,111
+Don't you think so?
+
+480
+00:27:24,178 --> 00:27:26,280
+-What do you mean?
+-His body…
+
+481
+00:27:26,980 --> 00:27:29,950
+-If he could burn off the fat--
+-Barbecue.
+
+482
+00:27:30,017 --> 00:27:31,451
+Is that what you want?
+
+483
+00:27:32,586 --> 00:27:35,155
+But he's a person.
+
+484
+00:27:35,722 --> 00:27:38,992
+-Right, sorry about that.
+-Barbecue.
+
+485
+00:27:40,727 --> 00:27:44,164
+For those who haven't read
+your latest book yet,
+
+486
+00:27:44,231 --> 00:27:46,300
+could you say a few words to them?
+
+487
+00:27:46,366 --> 00:27:50,304
+I feel like there were many parts
+that were lacking,
+
+488
+00:27:50,370 --> 00:27:55,943
+but it's still a book
+that I wrote with great sincerity.
+
+489
+00:27:56,009 --> 00:27:57,077
+So I hope…
+
+490
+00:27:58,011 --> 00:27:59,513
+Please check it out.
+
+491
+00:27:59,580 --> 00:28:01,648
+-Thank you.
+-Please go read it.
+
+492
+00:28:01,715 --> 00:28:02,716
+Thank you.
+
+493
+00:28:02,783 --> 00:28:08,155
+All right, that concludes
+The Quiet Interview with Lee Sedol.
+
+494
+00:28:08,222 --> 00:28:09,289
+Thank you.
+
+495
+00:28:10,490 --> 00:28:12,926
+Thanks for all your hard work today.
+
+496
+00:28:19,032 --> 00:28:22,069
+THE QUIET INTERVIEW
+
+497
+00:28:22,703 --> 00:28:26,874
+HOST: YOO BYUNGJAE
+
+498
+00:28:26,940 --> 00:28:33,847
+GUEST: LEE SEDOL
