@@ -1,0 +1,927 @@
+1
+00:00:53,600 --> 00:00:54,119
+Liu Yu
+
+2
+00:00:54,280 --> 00:00:54,880
+Yang Yang
+
+3
+00:00:55,600 --> 00:00:56,880
+I chose you at first
+
+4
+00:00:57,159 --> 00:00:59,320
+because you are software engineering majors.
+
+5
+00:00:59,320 --> 00:01:00,039
+Now
+
+6
+00:01:00,840 --> 00:01:02,799
+it's time for you to use your strengths.
+
+7
+00:01:03,320 --> 00:01:04,879
+You'll learn from me for a while
+
+8
+00:01:05,519 --> 00:01:06,640
+and then work with me
+
+9
+00:01:07,040 --> 00:01:08,640
+to develop a mobile app.
+
+10
+00:01:09,200 --> 00:01:10,040
+But remember
+
+11
+00:01:11,040 --> 00:01:12,280
+you must keep this confidential.
+
+12
+00:01:12,760 --> 00:01:13,159
+Mm-hmm.
+
+13
+00:01:13,159 --> 00:01:13,599
+Okay.
+
+14
+00:01:13,760 --> 00:01:15,040
+What are you scheming this time?
+
+15
+00:01:17,280 --> 00:01:18,480
+You really know me.
+
+16
+00:01:29,120 --> 00:01:30,120
+That Zhang Liang kid
+
+17
+00:01:30,920 --> 00:01:33,680
+has moved up the development timeline for the Fruit Phone.
+
+18
+00:01:34,040 --> 00:01:34,840
+This means
+
+19
+00:01:34,959 --> 00:01:36,640
+he has changed the times.
+
+20
+00:01:37,000 --> 00:01:37,719
+Technology
+
+21
+00:01:38,040 --> 00:01:40,680
+is now entering a period of rapid advancement ahead of schedule.
+
+22
+00:01:42,359 --> 00:01:44,359
+As soon as this phone hits the market,
+
+23
+00:01:44,519 --> 00:01:46,120
+customers will love it.
+
+24
+00:01:46,599 --> 00:01:48,079
+It will become a nationwide sensation.
+
+25
+00:01:48,560 --> 00:01:49,239
+So
+
+26
+00:01:49,760 --> 00:01:51,280
+we need to develop
+
+27
+00:01:51,640 --> 00:01:53,680
+a game software that can be compatible with this phone.
+
+28
+00:01:53,680 --> 00:01:54,640
+a game software.
+
+29
+00:01:54,920 --> 00:01:56,319
+You mean
+
+30
+00:01:56,879 --> 00:01:58,959
+this is the same as when we outsourced Yuanqi
+
+31
+00:01:59,159 --> 00:02:00,319
+the same kind of situation?
+
+32
+00:02:00,519 --> 00:02:01,040
+Yeah.
+
+33
+00:02:02,079 --> 00:02:04,000
+But Zhang Liang has always been against us.
+
+34
+00:02:04,519 --> 00:02:06,000
+Would he agree to work with us?
+
+35
+00:02:08,159 --> 00:02:09,879
+We'll have to come up with a way.
+
+36
+00:02:13,560 --> 00:02:14,240
+President Ye,
+
+37
+00:02:16,520 --> 00:02:17,719
+long time no see.
+
+38
+00:02:17,919 --> 00:02:19,479
+Our President Li
+
+39
+00:02:21,120 --> 00:02:22,400
+has become even more handsome.
+
+40
+00:02:24,680 --> 00:02:25,960
+President Ye, doing this
+
+41
+00:02:27,280 --> 00:02:29,360
+aren't you afraid President Zhang will get angry?
+
+42
+00:02:31,120 --> 00:02:32,199
+You really
+
+43
+00:02:32,520 --> 00:02:34,280
+know how to kill the mood.
+
+44
+00:02:37,439 --> 00:02:39,879
+President Ye, you've kept things well hidden.
+
+45
+00:02:40,919 --> 00:02:42,159
+I only just found out
+
+46
+00:02:42,439 --> 00:02:43,439
+that you and President Zhang
+
+47
+00:02:43,759 --> 00:02:45,039
+are married.
+
+48
+00:02:46,159 --> 00:02:47,879
+You were the one who reached out to me.
+
+49
+00:02:48,719 --> 00:02:51,639
+You didn't just come to hear gossip, did you?
+
+50
+00:02:52,840 --> 00:02:54,039
+President Ye is straightforward.
+
+51
+00:02:54,319 --> 00:02:55,919
+You definitely wouldn't get mad
+
+52
+00:02:55,919 --> 00:02:56,879
+over a joke.
+
+53
+00:03:02,319 --> 00:03:03,599
+I came to see you today
+
+54
+00:03:04,680 --> 00:03:06,599
+because I want to discuss a collaboration with you.
+
+55
+00:03:10,800 --> 00:03:12,199
+You want to work with me?
+
+56
+00:03:12,560 --> 00:03:13,120
+Yes.
+
+57
+00:03:15,479 --> 00:03:17,360
+The Fruit Phone developed by Mr. Zhang
+
+58
+00:03:17,360 --> 00:03:18,719
+is about to be launched.
+
+59
+00:03:18,719 --> 00:03:19,719
+As for this phone,
+
+60
+00:03:19,960 --> 00:03:21,400
+I know a bit about it.
+
+61
+00:03:21,680 --> 00:03:23,240
+To retain users,
+
+62
+00:03:24,479 --> 00:03:26,759
+besides the essential software,
+
+63
+00:03:26,840 --> 00:03:29,240
+lifestyle and entertainment apps are also indispensable.
+
+64
+00:03:29,599 --> 00:03:31,319
+I have a mobile app
+
+65
+00:03:31,759 --> 00:03:33,800
+that would be a great fit for your Fruit Phone.
+
+66
+00:03:39,039 --> 00:03:41,240
+I can't give you an answer on this right now.
+
+67
+00:03:42,439 --> 00:03:43,319
+However,
+
+68
+00:03:45,240 --> 00:03:47,360
+I can ask Mr. Zhang for his opinion
+
+69
+00:03:47,479 --> 00:03:48,840
+and get back to you later.
+
+70
+00:03:49,800 --> 00:03:50,360
+Alright.
+
+71
+00:03:50,840 --> 00:03:51,439
+Then,
+
+72
+00:03:51,639 --> 00:03:53,039
+thank you in advance, Mr. Ye.
+
+73
+00:03:53,360 --> 00:03:53,960
+Goodbye.
+
+74
+00:04:05,000 --> 00:04:07,039
+I never thought Li Tian would come to me for help one day.
+
+75
+00:04:07,680 --> 00:04:09,159
+But his idea is actually pretty good.
+
+76
+00:04:10,280 --> 00:04:11,000
+Isn't Chen Yang
+
+77
+00:04:11,000 --> 00:04:12,280
+also competing for the software agency rights?
+
+78
+00:04:12,280 --> 00:04:14,120
+But Chen Yang's technology isn't very stable yet.
+
+79
+00:04:14,199 --> 00:04:14,680
+It still needs improvement.
+
+80
+00:04:14,680 --> 00:04:15,800
+Enough with the nonsense.
+
+81
+00:04:16,759 --> 00:04:18,439
+The old-timers at the company are watching me closely.
+
+82
+00:04:18,480 --> 00:04:19,800
+We can't let Li Tian take advantage of this.
+
+83
+00:04:21,079 --> 00:04:22,480
+Contact the person in charge at Chen Yang
+
+84
+00:04:23,000 --> 00:04:24,199
+and agree to work with them.
+
+85
+00:04:28,920 --> 00:04:30,000
+As for Li Tian,
+
+86
+00:04:30,120 --> 00:04:30,920
+let's keep him waiting for now.
+
+87
+00:04:31,560 --> 00:04:32,199
+Leave.
+
+88
+00:04:43,040 --> 00:04:43,959
+Is there anything else?
+
+89
+00:04:55,279 --> 00:04:56,160
+Tianming Group said
+
+90
+00:04:56,160 --> 00:04:58,040
+they could consider signing an agency contract.
+
+91
+00:04:58,879 --> 00:05:00,199
+But they still haven't given us the contract.
+
+92
+00:05:00,600 --> 00:05:01,839
+Sister Lin, don't worry yet.
+
+93
+00:05:02,240 --> 00:05:04,240
+Since Brother Tian said this can work out,
+
+94
+00:05:04,360 --> 00:05:05,639
+there shouldn't be any problem.
+
+95
+00:05:06,199 --> 00:05:06,839
+Yeah.
+
+96
+00:05:08,120 --> 00:05:08,839
+Don't worry.
+
+97
+00:05:09,360 --> 00:05:10,399
+This technology,
+
+98
+00:05:10,639 --> 00:05:11,800
+if you look across the whole country,
+
+99
+00:05:12,480 --> 00:05:13,040
+no, actually,
+
+100
+00:05:13,639 --> 00:05:14,839
+to be precise,
+
+101
+00:05:14,920 --> 00:05:16,079
+it's the whole world.
+
+102
+00:05:16,319 --> 00:05:18,800
+Only our Qianxi's technology meets the standard.
+
+103
+00:05:19,279 --> 00:05:20,319
+They probably
+
+104
+00:05:20,480 --> 00:05:22,639
+wouldn't risk their own future as a joke.
+
+105
+00:05:22,759 --> 00:05:23,879
+Let's hope so.
+
+106
+00:05:23,920 --> 00:05:24,519
+Yeah.
+
+107
+00:05:25,519 --> 00:05:26,000
+Let's go.
+
+108
+00:05:26,519 --> 00:05:26,879
+Okay.
+
+109
+00:05:26,959 --> 00:05:27,439
+Yeah.
+
+110
+00:05:42,079 --> 00:05:42,920
+Sorry about that.
+
+111
+00:05:43,600 --> 00:05:44,439
+Thank you all for waiting.
+
+112
+00:05:44,879 --> 00:05:46,480
+Today, our Tianming Group
+
+113
+00:05:46,519 --> 00:05:48,839
+is holding the decision meeting for the mobile system software agency.
+
+114
+00:05:49,000 --> 00:05:49,639
+So,
+
+115
+00:05:49,839 --> 00:05:50,680
+we've invited two
+
+116
+00:05:50,680 --> 00:05:52,160
+potential future partner
+
+117
+00:05:52,399 --> 00:05:53,439
+company representatives
+
+118
+00:05:53,600 --> 00:05:54,920
+to attend this meeting.
+
+119
+00:05:56,720 --> 00:05:58,199
+The proposal from Qianxi
+
+120
+00:05:58,680 --> 00:05:59,720
+in terms of logic and technology
+
+121
+00:06:00,120 --> 00:06:01,120
+is excellent.
+
+122
+00:06:02,079 --> 00:06:02,680
+Therefore,
+
+123
+00:06:03,079 --> 00:06:05,800
+after careful consideration and research,
+
+124
+00:06:06,040 --> 00:06:07,199
+we have decided to grant the agency rights
+
+125
+00:06:07,959 --> 00:06:08,720
+to
+
+126
+00:06:09,040 --> 00:06:10,879
+Chenyang Company as the sole agent.
+
+127
+00:06:11,120 --> 00:06:11,920
+Congratulations, President Chen.
+
+128
+00:06:18,240 --> 00:06:19,000
+Mr. Li
+
+129
+00:06:19,240 --> 00:06:20,560
+Our company, Qianxi,
+
+130
+00:06:20,920 --> 00:06:22,759
+has only recently switched industries.
+
+131
+00:06:23,079 --> 00:06:24,680
+So in terms of experience and technology,
+
+132
+00:06:24,800 --> 00:06:26,160
+we're definitely not as good as Chen Yang.
+
+133
+00:06:26,879 --> 00:06:28,160
+I'm really sorry about that.
+
+134
+00:06:36,199 --> 00:06:37,040
+Thank you for your trust.
+
+135
+00:06:37,079 --> 00:06:37,959
+Looking forward to working together.
+
+136
+00:06:38,959 --> 00:06:39,800
+Looking forward to working together.
+
+137
+00:06:40,360 --> 00:06:41,879
+Logically, the technology provided by Qianxi Group
+
+138
+00:06:41,879 --> 00:06:42,959
+should actually be more advanced.
+
+139
+00:06:43,040 --> 00:06:43,600
+That's right.
+
+140
+00:06:43,600 --> 00:06:44,920
+I remember Qianxi did really well
+
+141
+00:06:44,920 --> 00:06:46,519
+in the gaming industry.
+
+142
+00:06:50,040 --> 00:06:51,879
+What a fool who can't see real talent.
+
+143
+00:06:57,360 --> 00:06:58,199
+Let's talk about
+
+144
+00:06:58,319 --> 00:07:00,079
+today's hot topics in technology.
+
+145
+00:07:00,199 --> 00:07:02,439
+Tianming Group announced today
+
+146
+00:07:02,560 --> 00:07:05,160
+that their smart Fruit Phone has officially launched.
+
+147
+00:07:05,199 --> 00:07:06,920
+It has made a strong entry into the domestic market,
+
+148
+00:07:06,920 --> 00:07:09,160
+with its unprecedented high-performance specs
+
+149
+00:07:09,279 --> 00:07:11,000
+and revolutionary user experience,
+
+150
+00:07:11,000 --> 00:07:13,439
+officially opening a new chapter in communication history.
+
+151
+00:07:13,439 --> 00:07:14,879
+It has sparked a buying frenzy.
+
+152
+00:07:14,879 --> 00:07:15,680
+Sir,
+
+153
+00:07:15,759 --> 00:07:16,600
+may I interview you
+
+154
+00:07:16,600 --> 00:07:18,240
+about your thoughts on the Xiaoyao game?
+
+155
+00:07:18,399 --> 00:07:20,160
+It's so convenient to play games on this phone.
+
+156
+00:07:20,160 --> 00:07:22,079
+And this game is really fun.
+
+157
+00:07:22,079 --> 00:07:22,879
+Ma'am,
+
+158
+00:07:22,879 --> 00:07:23,639
+may I interview you
+
+159
+00:07:23,639 --> 00:07:25,120
+about your thoughts on the Xiaoyao game?
+
+160
+00:07:25,360 --> 00:07:26,600
+Although the price is a bit high,
+
+161
+00:07:26,600 --> 00:07:28,519
+there are many helpful lifestyle apps included.
+
+162
+00:07:28,519 --> 00:07:29,959
+There are even makeup tutorials.
+
+163
+00:07:30,519 --> 00:07:31,399
+Stop watching.
+
+164
+00:07:31,600 --> 00:07:32,319
+Let's eat.
+
+165
+00:07:32,519 --> 00:07:33,079
+Alright.
+
+166
+00:07:34,120 --> 00:07:34,759
+Let's go.
+
+167
+00:07:39,480 --> 00:07:41,079
+Mr. Li, someone is here to see you.
+
+168
+00:07:44,360 --> 00:07:45,040
+Mr. Chen.
+
+169
+00:07:45,480 --> 00:07:46,079
+Long time no see.
+
+170
+00:07:46,240 --> 00:07:47,000
+Long time no see.
+
+171
+00:07:48,759 --> 00:07:49,800
+Let me introduce you.
+
+172
+00:07:50,360 --> 00:07:51,120
+This is Mr. Chen,
+
+173
+00:07:51,680 --> 00:07:52,480
+an old friend.
+
+174
+00:07:53,279 --> 00:07:54,399
+We still have to thank Mr. Li.
+
+175
+00:07:54,680 --> 00:07:55,680
+Our Xiaoyao
+
+176
+00:07:55,680 --> 00:07:56,879
+has not only made huge profits,
+
+177
+00:07:56,920 --> 00:07:58,120
+but the other lifestyle apps
+
+178
+00:07:58,120 --> 00:07:59,160
+have also earned quite a lot.
+
+179
+00:08:00,079 --> 00:08:01,519
+When did you two start working together?
+
+180
+00:08:06,959 --> 00:08:07,519
+Hello.
+
+181
+00:08:07,959 --> 00:08:08,839
+Oh, please come in.
+
+182
+00:08:11,600 --> 00:08:12,199
+Hello.
+
+183
+00:08:13,360 --> 00:08:14,319
+Are you Chen Yu?
+
+184
+00:08:14,639 --> 00:08:15,480
+Yes, I am.
+
+185
+00:08:16,800 --> 00:08:17,560
+I know you.
+
+186
+00:08:17,879 --> 00:08:21,240
+You're a top student from the Computer Science Department at Qingbei University.
+
+187
+00:08:21,560 --> 00:08:23,240
+Currently, you're starting your own business.
+
+188
+00:08:23,519 --> 00:08:25,600
+You want to create your own internet company.
+
+189
+00:08:25,920 --> 00:08:27,120
+Oh, let me introduce myself.
+
+190
+00:08:27,360 --> 00:08:29,360
+I'm the founder of Millennium Investment Company.
+
+191
+00:08:29,360 --> 00:08:29,959
+Li Tian.
+
+192
+00:08:30,360 --> 00:08:31,279
+I'm willing to invest in you.
+
+193
+00:08:32,320 --> 00:08:32,759
+Okay.
+
+194
+00:08:32,919 --> 00:08:33,480
+Oh.
+
+195
+00:08:34,960 --> 00:08:35,600
+Thank you.
+
+196
+00:08:36,919 --> 00:08:39,080
+So you two set this up from the beginning.
+
+197
+00:08:39,120 --> 00:08:39,759
+That's right.
+
+198
+00:08:40,679 --> 00:08:42,759
+It's because Mr. Li gave me startup funding.
+
+199
+00:08:43,159 --> 00:08:45,159
+Otherwise, I wouldn't have achieved what I have today.
+
+200
+00:08:45,679 --> 00:08:46,879
+Well played, Li Tian.
+
+201
+00:08:47,080 --> 00:08:48,559
+You even kept it from the two of us.
+
+202
+00:08:49,360 --> 00:08:50,039
+Exactly.
+
+203
+00:08:51,320 --> 00:08:53,559
+Isn't it because you and Xia Yu acted so poorly?
+
+204
+00:08:53,559 --> 00:08:54,720
+I was afraid you two would give it away.
+
+205
+00:08:54,720 --> 00:08:55,960
+What are you talking about?
+
+206
+00:08:56,320 --> 00:08:57,519
+You're something else.
+
+207
+00:08:57,519 --> 00:08:58,879
+And you didn't even say anything.
+
+208
+00:08:58,919 --> 00:08:59,360
+Yeah.
+
+209
+00:08:59,360 --> 00:08:59,919
+I did it for the company.
+
+210
+00:08:59,919 --> 00:09:00,559
+You kept it from us.
+
+211
+00:09:00,559 --> 00:09:01,799
+You didn't tell us just because it was for the company?
+
+212
+00:09:01,799 --> 00:09:03,200
+Mr. Chen is still here.
+
+213
+00:09:10,440 --> 00:09:12,559
+The real boss behind Chenyang Company is actually Li Tian.
+
+214
+00:09:12,600 --> 00:09:13,840
+We just found out too.
+
+215
+00:09:17,480 --> 00:09:18,879
+He fooled all of us.
+
+216
+00:09:20,080 --> 00:09:21,159
+Terminate the contract for me immediately.
+
+217
+00:09:21,360 --> 00:09:22,759
+I won't let him make another cent off me.
+
+218
+00:09:22,840 --> 00:09:24,519
+But our contract is for ten years.
+
+219
+00:09:24,879 --> 00:09:26,399
+If we terminate it now,
+
+220
+00:09:26,879 --> 00:09:29,000
+we'll have to pay a huge penalty.
+
+221
+00:09:38,840 --> 00:09:40,480
+If I say terminate, then terminate.
+
+222
+00:09:41,240 --> 00:09:42,600
+Stop with all the nonsense.
+
+223
+00:09:43,000 --> 00:09:43,960
+As for the shareholders,
+
+224
+00:09:45,759 --> 00:09:47,120
+I developed the phone.
+
+225
+00:09:47,440 --> 00:09:48,720
+They've made so much money.
+
+226
+00:09:48,840 --> 00:09:50,559
+What right do they have to bargain with me?
+
+227
+00:09:59,080 --> 00:10:00,639
+When you met Li Tian before,
+
+228
+00:10:01,240 --> 00:10:02,320
+what did you say to him?
+
+229
+00:10:03,679 --> 00:10:04,360
+Nothing.
+
+230
+00:10:04,679 --> 00:10:05,519
+I didn't say anything.
+
+231
+00:10:05,519 --> 00:10:06,360
+Nothing.
+
+232
+00:10:17,159 --> 00:10:18,000
+Help!
