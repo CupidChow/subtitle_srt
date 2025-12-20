@@ -1,0 +1,1827 @@
+1
+00:02:32,800 --> 00:02:33,639
+Hello everyone
+
+2
+00:02:33,680 --> 00:02:36,080
+Welcome friends from Century Real Estate
+
+3
+00:02:36,080 --> 00:02:37,960
+I'm today's instructor Zhang Hui
+
+4
+00:02:38,000 --> 00:02:39,479
+Nice to meet you all
+
+5
+00:02:39,800 --> 00:02:41,400
+The purpose of today's class
+
+6
+00:02:41,400 --> 00:02:42,759
+is to help everyone
+
+7
+00:02:42,879 --> 00:02:44,680
+through the project management module
+
+8
+00:02:44,680 --> 00:02:47,759
+better achieve your sales targets
+
+9
+00:02:47,800 --> 00:02:48,599
+Teacher Zhang
+
+10
+00:02:48,960 --> 00:02:50,719
+We're all real estate agents
+
+11
+00:02:50,960 --> 00:02:52,879
+We don't deal with project management
+
+12
+00:02:53,360 --> 00:02:54,960
+Let's not waste time, okay?
+
+13
+00:02:55,000 --> 00:02:56,400
+Get to the point
+
+14
+00:02:56,879 --> 00:02:58,000
+I think this student
+
+15
+00:02:58,000 --> 00:03:00,039
+raised a very good question
+
+16
+00:03:00,240 --> 00:03:02,240
+Yes, we're in real estate sales
+
+17
+00:03:02,240 --> 00:03:04,039
+Why should we learn project management?
+
+18
+00:03:05,000 --> 00:03:05,840
+I'm curious too
+
+19
+00:03:05,840 --> 00:03:07,639
+Why did you ask this question?
+
+20
+00:03:07,919 --> 00:03:09,400
+So I'd like to ask you
+
+21
+00:03:09,520 --> 00:03:11,759
+How do you view your work?
+
+22
+00:03:11,879 --> 00:03:14,000
+How do you understand project management?
+
+23
+00:03:14,199 --> 00:03:15,599
+Our job
+
+24
+00:03:15,879 --> 00:03:17,800
+is to sell houses quickly and efficiently
+
+25
+00:03:18,000 --> 00:03:19,360
+As for project management
+
+26
+00:03:20,879 --> 00:03:22,599
+Let me answer that for you
+
+27
+00:03:23,400 --> 00:03:24,199
+Project management
+
+28
+00:03:24,199 --> 00:03:27,039
+isn't just simple process management
+
+29
+00:03:27,039 --> 00:03:30,240
+It involves project planning, execution
+
+30
+00:03:30,280 --> 00:03:32,560
+monitoring, and closing
+
+31
+00:03:32,560 --> 00:03:34,520
+In real estate sales
+
+32
+00:03:34,520 --> 00:03:35,599
+we need to use
+
+33
+00:03:35,599 --> 00:03:37,479
+project management concepts and methods
+
+34
+00:03:37,479 --> 00:03:40,159
+to plan our sales process
+
+35
+00:03:50,800 --> 00:03:52,360
+Let's look at the PPT
+
+36
+00:03:53,120 --> 00:03:56,039
+Hello? Yes, go ahead
+
+37
+00:04:03,039 --> 00:04:04,000
+Okay, got it
+
+38
+00:04:17,959 --> 00:04:20,160
+Thank you all for your cooperation
+
+39
+00:04:20,160 --> 00:04:21,839
+If what you learned today
+
+40
+00:04:21,839 --> 00:04:23,240
+was helpful to you
+
+41
+00:04:23,240 --> 00:04:25,120
+please fill out
+
+42
+00:04:25,120 --> 00:04:26,399
+a positive feedback form
+
+43
+00:04:26,399 --> 00:04:27,120
+Thank you
+
+44
+00:04:27,639 --> 00:04:29,000
+If you're satisfied
+
+45
+00:04:29,000 --> 00:04:30,279
+with today's class
+
+46
+00:04:30,279 --> 00:04:32,240
+please check this box, yes
+
+47
+00:04:33,720 --> 00:04:34,959
+Thank you all, thank you
+
+48
+00:04:45,160 --> 00:04:46,879
+Do you think the supervisor is targeting us?
+
+49
+00:04:47,000 --> 00:04:49,920
+Teaching project management to salespeople
+
+50
+00:04:49,920 --> 00:04:51,160
+Do they even need it?
+
+51
+00:04:51,160 --> 00:04:52,680
+And calling them potential users
+
+52
+00:04:53,040 --> 00:04:53,879
+Most importantly
+
+53
+00:04:53,879 --> 00:04:56,879
+He knows your specialty is business consulting
+
+54
+00:04:57,040 --> 00:04:58,879
+This is like making a blacksmith do carpentry
+
+55
+00:04:59,600 --> 00:05:00,800
+If we lose this deal
+
+56
+00:05:00,800 --> 00:05:02,399
+it'll be a disaster
+
+57
+00:05:03,480 --> 00:05:05,639
+Yihan, thank you so much today
+
+58
+00:05:05,639 --> 00:05:07,839
+You, a team leader, came as my assistant
+
+59
+00:05:08,319 --> 00:05:09,639
+I'll treat you to dinner soon
+
+60
+00:05:09,639 --> 00:05:10,519
+No problem, no problem
+
+61
+00:05:10,519 --> 00:05:11,879
+You spoke really well today
+
+62
+00:05:11,879 --> 00:05:14,360
+You shut him up with just a few words
+
+63
+00:05:17,040 --> 00:05:18,399
+I see your schedule
+
+64
+00:05:18,399 --> 00:05:19,759
+is packed with classes
+
+65
+00:05:19,839 --> 00:05:21,639
+Probably no time for meals
+
+66
+00:05:21,839 --> 00:05:22,639
+Not really
+
+67
+00:05:22,720 --> 00:05:24,079
+Be careful of low blood sugar
+
+68
+00:05:26,199 --> 00:05:28,360
+My cousin brought this chocolate from abroad
+
+69
+00:05:28,360 --> 00:05:29,879
+For your low blood sugar, keep it
+
+70
+00:05:42,319 --> 00:05:43,079
+Well...
+
+71
+00:05:43,680 --> 00:05:45,600
+Teacher Zhang, I didn't know
+
+72
+00:05:45,600 --> 00:05:46,879
+if you eat chocolate
+
+73
+00:05:46,879 --> 00:05:47,920
+I'll be more careful
+
+74
+00:05:47,920 --> 00:05:48,319
+No, it's not that
+
+75
+00:05:48,319 --> 00:05:49,639
+Oh, and also
+
+76
+00:05:49,759 --> 00:05:51,560
+I answered a call for you outside
+
+77
+00:05:51,560 --> 00:05:53,879
+That guy said he can't pretend to be your boyfriend
+
+78
+00:05:53,879 --> 00:05:55,639
+He'll return the 5000 yuan soon
+
+79
+00:05:59,839 --> 00:06:01,319
+No, it's like this, like this
+
+80
+00:06:01,399 --> 00:06:04,160
+You go ahead, I'll... I'll go work
+
+81
+00:06:04,160 --> 00:06:04,920
+Well...
+
+82
+00:06:07,639 --> 00:06:09,480
+Call me anytime you need
+
+83
+00:06:09,759 --> 00:06:10,560
+I'll be here
+
+84
+00:06:15,720 --> 00:06:17,519
+Yihan, are you free tonight?
+
+85
+00:06:17,519 --> 00:06:19,439
+How about dinner at my place tonight?
+
+86
+00:06:21,680 --> 00:06:22,439
+Sure
+
+87
+00:06:34,639 --> 00:06:37,360
+Now let's play a truth-telling game
+
+88
+00:06:37,399 --> 00:06:39,560
+where you must answer within three seconds
+
+89
+00:06:41,199 --> 00:06:43,480
+One rule: no lying
+
+90
+00:06:44,399 --> 00:06:47,480
+How did your love story with Hui begin?
+
+91
+00:06:47,480 --> 00:06:48,959
+(empty line for timing)
+
+92
+00:06:50,199 --> 00:06:53,439
+It was a stormy night with thunder and lightning
+
+93
+00:06:54,439 --> 00:06:58,279
+When Hui looked at me with her gentle,
+
+94
+00:06:58,279 --> 00:07:00,680
+clear and bright eyes like water
+
+95
+00:07:00,759 --> 00:07:02,759
+I knew we were meant to be together
+
+96
+00:07:02,759 --> 00:07:05,920
+Because I was instantly struck by her charm
+
+97
+00:07:10,040 --> 00:07:10,920
+Be serious
+
+98
+00:07:12,000 --> 00:07:13,920
+How long have you actually been dating?
+
+99
+00:07:14,480 --> 00:07:16,240
+About half a year
+
+100
+00:07:16,240 --> 00:07:19,319
+To be precise, six months and eight days
+
+101
+00:07:19,319 --> 00:07:20,680
+Because I remember every single day
+
+102
+00:07:20,680 --> 00:07:21,439
+I've been with Hui
+
+103
+00:07:21,439 --> 00:07:22,920
+Yes yes, including today
+
+104
+00:07:22,959 --> 00:07:24,079
+Exactly eight days
+
+105
+00:07:25,720 --> 00:07:28,079
+Brother Yihan, you're so attentive
+
+106
+00:07:28,079 --> 00:07:28,879
+That's only natural
+
+107
+00:07:28,879 --> 00:07:29,680
+That's what love is
+
+108
+00:07:30,279 --> 00:07:31,639
+Where was your first date?
+
+109
+00:07:32,439 --> 00:07:33,240
+It was at...
+
+110
+00:07:34,040 --> 00:07:35,519
+a very impressive...
+
+111
+00:07:35,600 --> 00:07:37,720
+very very... elegant
+
+112
+00:07:38,199 --> 00:07:39,720
+and romantic café
+
+113
+00:07:39,839 --> 00:07:41,000
+Their coffee...
+
+114
+00:07:41,000 --> 00:07:43,399
+and French pastries
+
+115
+00:07:43,399 --> 00:07:44,199
+were absolutely delicious
+
+116
+00:07:44,199 --> 00:07:45,519
+And the ambiance was great
+
+117
+00:07:52,600 --> 00:07:54,000
+As Hui's boyfriend,
+
+118
+00:07:54,600 --> 00:07:57,040
+what would you like to say to her?
+
+119
+00:07:58,759 --> 00:08:00,000
+Actually sometimes
+
+120
+00:08:00,079 --> 00:08:01,639
+I don't feel like her boyfriend
+
+121
+00:08:05,120 --> 00:08:08,800
+Because she's so strong, independent and confident
+
+122
+00:08:09,240 --> 00:08:11,079
+She doesn't seem to need anyone to rely on
+
+123
+00:08:11,079 --> 00:08:11,800
+And me...
+
+124
+00:08:11,800 --> 00:08:14,319
+I'm more like her personal comedian
+
+125
+00:08:14,319 --> 00:08:15,600
+When she's unhappy
+
+126
+00:08:15,600 --> 00:08:16,600
+or bored
+
+127
+00:08:16,600 --> 00:08:18,240
+I use my humor to cheer her up
+
+128
+00:08:22,800 --> 00:08:23,480
+Right
+
+129
+00:08:25,680 --> 00:08:28,879
+What would you give up for Hui?
+
+130
+00:08:30,240 --> 00:08:31,920
+I'd give up everything for Hui
+
+131
+00:08:32,519 --> 00:08:34,320
+Because she's the most
+
+132
+00:08:34,320 --> 00:08:35,960
+important person in my heart
+
+133
+00:08:42,639 --> 00:08:43,399
+Hui
+
+134
+00:08:44,360 --> 00:08:45,159
+Zhenhui
+
+135
+00:08:45,159 --> 00:08:46,039
+Let's have a quick meeting
+
+136
+00:08:46,480 --> 00:08:47,399
+Have a seat first
+
+137
+00:08:47,440 --> 00:08:48,240
+Okay
+
+138
+00:08:49,799 --> 00:08:50,960
+Just sit for a while
+
+139
+00:09:05,639 --> 00:09:06,879
+What do you two think?
+
+140
+00:09:07,480 --> 00:09:10,399
+No problem, he lies without blinking
+
+141
+00:09:10,399 --> 00:09:12,399
+His acting is decent
+
+142
+00:09:14,399 --> 00:09:15,960
+Why did you choose him as fake boyfriend?
+
+143
+00:09:16,919 --> 00:09:18,840
+Not because he's particularly clever
+
+144
+00:09:18,960 --> 00:09:21,519
+But because the fake boyfriend I hired
+
+145
+00:09:21,519 --> 00:09:22,799
+bailed on me last minute
+
+146
+00:09:23,000 --> 00:09:25,480
+And Li Yihan was happy to help me out
+
+147
+00:09:26,200 --> 00:09:29,399
+Isn't it because he's decent-looking?
+
+148
+00:09:29,879 --> 00:09:32,399
+Do I seem that shallow to you?
+
+149
+00:09:33,320 --> 00:09:35,799
+If you both think it's fine
+
+150
+00:09:35,919 --> 00:09:37,600
+then I'm relieved about my mom
+
+151
+00:09:39,240 --> 00:09:40,480
+As you know
+
+152
+00:09:40,639 --> 00:09:41,960
+my mom is a teacher
+
+153
+00:09:41,960 --> 00:09:43,720
+She's very strict about everything
+
+154
+00:09:43,720 --> 00:09:45,679
+and quick to make big issues out of things
+
+155
+00:09:46,080 --> 00:09:49,279
+I'm afraid she'll notice something's off
+
+156
+00:09:54,799 --> 00:09:55,600
+Understood
+
+157
+00:09:56,279 --> 00:09:57,759
+Let me practice with you
+
+158
+00:10:06,559 --> 00:10:07,480
+Pretty convincing
+
+159
+00:10:08,039 --> 00:10:09,559
+I can't stand you guys
+
+160
+00:10:09,879 --> 00:10:10,679
+I'll go grocery shopping
+
+161
+00:10:10,679 --> 00:10:11,799
+What does auntie like to eat?
+
+162
+00:10:11,799 --> 00:10:12,600
+Pasta
+
+163
+00:10:12,960 --> 00:10:14,360
+For auntie, not you
+
+164
+00:10:17,840 --> 00:10:18,639
+Anything's fine
+
+165
+00:10:19,480 --> 00:10:20,279
+Okay
+
+166
+00:10:31,720 --> 00:10:32,240
+Auntie
+
+167
+00:10:32,240 --> 00:10:32,879
+Coming
+
+168
+00:10:33,279 --> 00:10:35,039
+Let's see what to buy today
+
+169
+00:10:35,039 --> 00:10:35,840
+These shrimp look good
+
+170
+00:10:35,840 --> 00:10:37,879
+Are these sea shrimp 24 per pound?
+
+171
+00:10:37,879 --> 00:10:38,519
+Yes
+
+172
+00:10:38,519 --> 00:10:39,279
+One pound
+
+173
+00:10:39,399 --> 00:10:40,519
+Yes, one pound
+
+174
+00:10:40,639 --> 00:10:41,480
+These are good
+
+175
+00:10:41,480 --> 00:10:43,240
+See, I've only got this much left
+
+176
+00:10:43,240 --> 00:10:44,000
+Give me one pound
+
+177
+00:10:44,000 --> 00:10:44,759
+Okay
+
+178
+00:10:45,320 --> 00:10:47,120
+No no, make it two pounds
+
+179
+00:10:47,360 --> 00:10:48,159
+Okay
+
+180
+00:10:55,559 --> 00:10:56,320
+Double eight
+
+181
+00:10:58,480 --> 00:10:59,279
+I'm back
+
+182
+00:11:00,440 --> 00:11:01,559
+Is it pasta?
+
+183
+00:11:01,639 --> 00:11:02,440
+Yes
+
+184
+00:11:03,960 --> 00:11:05,080
+How long until auntie arrives?
+
+185
+00:11:05,320 --> 00:11:07,120
+About fifteen minutes
+
+186
+00:11:07,919 --> 00:11:08,720
+Let me help you
+
+187
+00:11:09,320 --> 00:11:10,399
+You go play with them
+
+188
+00:11:14,399 --> 00:11:15,919
+Come on, whose turn is it?
+
+189
+00:11:15,919 --> 00:11:17,279
+Here, bomb
+
+190
+00:11:37,679 --> 00:11:40,120
+Zhengui, can I borrow your white wine?
+
+191
+00:11:40,120 --> 00:11:42,759
+Okay, but I've been saving it
+
+192
+00:11:42,759 --> 00:11:43,600
+No time
+
+193
+00:11:53,720 --> 00:11:56,200
+Cooking sometimes requires a sense of ceremony
+
+194
+00:11:56,639 --> 00:11:57,480
+Like pasta
+
+195
+00:11:58,000 --> 00:11:59,279
+Without this step
+
+196
+00:11:59,720 --> 00:12:00,480
+The cooked result
+
+197
+00:12:01,519 --> 00:12:03,320
+Always seems to lack something
+
+198
+00:12:03,559 --> 00:12:05,159
+Cook for exactly twelve minutes
+
+199
+00:12:05,159 --> 00:12:07,480
+To achieve the perfect texture
+
+200
+00:12:08,639 --> 00:12:10,480
+In Italian it's called
+
+201
+00:12:11,360 --> 00:12:12,399
+Al dente
+
+202
+00:12:13,960 --> 00:12:16,200
+That pleasantly chewy texture
+
+203
+00:12:17,879 --> 00:12:19,840
+Sauce is the soul of pasta
+
+204
+00:12:20,519 --> 00:12:23,240
+First sauté bacon in butter
+
+205
+00:12:23,240 --> 00:12:25,399
+With mushrooms and onions
+
+206
+00:12:30,600 --> 00:12:33,000
+Then add plenty of fresh milk
+
+207
+00:12:37,440 --> 00:12:38,279
+And light cream
+
+208
+00:12:39,840 --> 00:12:41,279
+Some black pepper
+
+209
+00:12:42,759 --> 00:12:43,600
+And salt
+
+210
+00:12:45,320 --> 00:12:47,919
+Add perfectly cooked pasta
+
+211
+00:12:48,159 --> 00:12:51,840
+Coat every strand with thick sauce
+
+212
+00:12:53,279 --> 00:12:54,279
+Simmer on low heat
+
+213
+00:12:56,360 --> 00:12:58,279
+Don't forget parsley garnish
+
+214
+00:13:03,000 --> 00:13:05,919
+Pasta pairs perfectly with pumpkin cream soup
+
+215
+00:13:30,320 --> 00:13:31,639
+While steaming pumpkin
+
+216
+00:13:31,879 --> 00:13:35,200
+Let's make a Tuna Vegetable Salad
+
+217
+00:13:35,840 --> 00:13:37,120
+The salad's tanginess
+
+218
+00:13:37,279 --> 00:13:39,559
+Balances the cream's richness
+
+219
+00:14:01,799 --> 00:14:03,440
+Steamed pumpkin
+
+220
+00:14:04,080 --> 00:14:06,440
+Blend into smooth puree
+
+221
+00:14:09,200 --> 00:14:10,039
+Onion
+
+222
+00:14:11,399 --> 00:14:12,240
+Mushrooms
+
+223
+00:14:12,639 --> 00:14:13,480
+Sauté until fragrant
+
+224
+00:14:14,799 --> 00:14:16,000
+Add water and simmer
+
+225
+00:14:23,200 --> 00:14:23,679
+Salt
+
+226
+00:14:27,559 --> 00:14:28,159
+Sugar
+
+227
+00:14:29,519 --> 00:14:30,559
+Add some of each
+
+228
+00:14:38,759 --> 00:14:40,519
+Serve in white porcelain
+
+229
+00:14:41,120 --> 00:14:41,960
+Most beautiful
+
+230
+00:14:52,840 --> 00:14:54,480
+Drizzle with light cream
+
+231
+00:14:57,279 --> 00:14:58,120
+Perfect
+
+232
+00:15:15,720 --> 00:15:16,720
+Mom, auntie
+
+233
+00:15:17,039 --> 00:15:18,000
+Long time no see
+
+234
+00:15:19,320 --> 00:15:21,000
+You brought gifts for me?
+
+235
+00:15:21,000 --> 00:15:22,320
+Don't flatter yourself
+
+236
+00:15:22,320 --> 00:15:23,360
+Not for you
+
+237
+00:15:23,360 --> 00:15:24,799
+For your friends
+
+238
+00:15:26,960 --> 00:15:27,840
+Little Zhengui
+
+239
+00:15:28,120 --> 00:15:30,080
+You've grown so tall!
+
+240
+00:15:30,440 --> 00:15:32,000
+I'm twenty-four now
+
+241
+00:15:34,200 --> 00:15:35,440
+Mom, this is Nian'er
+
+242
+00:15:35,440 --> 00:15:36,639
+The one I always mention
+
+243
+00:15:36,639 --> 00:15:37,480
+Hello auntie
+
+244
+00:15:37,519 --> 00:15:38,399
+Hello Nian'er
+
+245
+00:15:38,519 --> 00:15:39,879
+Hui often talks about you
+
+246
+00:15:40,960 --> 00:15:42,480
+Why are you cooking?
+
+247
+00:15:43,000 --> 00:15:45,159
+I wanted to treat you out
+
+248
+00:15:45,159 --> 00:15:46,039
+This is too much trouble
+
+249
+00:15:46,039 --> 00:15:47,000
+No trouble at all, auntie
+
+250
+00:15:47,000 --> 00:15:48,480
+I love cooking for everyone
+
+251
+00:15:48,919 --> 00:15:50,159
+Please sit, I'll keep cooking
+
+252
+00:15:50,159 --> 00:15:50,840
+Okay
+
+253
+00:15:50,840 --> 00:15:51,639
+Come sit inside
+
+254
+00:15:53,879 --> 00:15:54,679
+Hello auntie
+
+255
+00:15:56,480 --> 00:15:57,279
+Hello
+
+256
+00:16:01,679 --> 00:16:03,840
+For steak, first add black pepper
+
+257
+00:16:08,240 --> 00:16:09,159
+And sea salt
+
+258
+00:16:13,080 --> 00:16:13,919
+Marinate
+
+259
+00:16:15,679 --> 00:16:18,960
+Give it a massage to absorb flavors
+
+260
+00:16:23,200 --> 00:16:24,919
+Heat oil in pan
+
+261
+00:16:29,960 --> 00:16:31,600
+Sear each side for 45 seconds
+
+262
+00:16:34,639 --> 00:16:37,200
+Precise heat and timing control
+
+263
+00:16:37,320 --> 00:16:39,679
+Is key to perfect steak
+
+264
+00:16:47,159 --> 00:16:48,360
+Add some butter
+
+265
+00:16:48,960 --> 00:16:52,000
+Elevates the steak
+
+266
+00:16:52,480 --> 00:16:54,639
+Floral with pine notes
+
+267
+00:16:55,200 --> 00:16:56,600
+Rosemary flavor
+
+268
+00:17:24,880 --> 00:17:27,400
+Slice against grain for tenderness
+
+269
+00:17:52,480 --> 00:17:54,640
+Auntie, this drink is for you
+
+270
+00:17:56,720 --> 00:17:58,039
+Welcome to our home
+
+271
+00:17:58,319 --> 00:17:59,480
+Thank you, little Zhengui
+
+272
+00:18:00,119 --> 00:18:01,319
+Dinner is served
+
+273
+00:18:06,039 --> 00:18:09,400
+Nian'er cooked all these dishes
+
+274
+00:18:10,720 --> 00:18:13,119
+I've never had any of these
+
+275
+00:18:13,359 --> 00:18:14,440
+Thank you Nian'er
+
+276
+00:18:14,440 --> 00:18:15,640
+My pleasure, auntie
+
+277
+00:18:15,759 --> 00:18:17,279
+Perfect color, aroma and taste
+
+278
+00:18:17,880 --> 00:18:18,640
+Let's eat everyone
+
+279
+00:18:18,640 --> 00:18:19,640
+Before the food gets cold
+
+280
+00:18:29,000 --> 00:18:31,240
+Welcome back to our home, Auntie.
+
+281
+00:18:31,319 --> 00:18:32,119
+Welcome.
+
+282
+00:18:32,400 --> 00:18:33,519
+Thank you, thank you.
+
+283
+00:18:38,359 --> 00:18:39,160
+Auntie.
+
+284
+00:18:40,319 --> 00:18:43,599
+This is the Creamy Shrimp Pasta.
+
+285
+00:18:45,559 --> 00:18:46,640
+And this steak.
+
+286
+00:18:46,640 --> 00:18:48,200
+If medium-rare isn't to your taste,
+
+287
+00:18:48,200 --> 00:18:50,279
+we've specially prepared medium-well for you.
+
+288
+00:18:50,559 --> 00:18:52,319
+Thank you, Nian'er. So thoughtful.
+
+289
+00:18:56,480 --> 00:18:57,240
+Let's eat.
+
+290
+00:19:08,480 --> 00:19:09,240
+Delicious.
+
+291
+00:19:49,559 --> 00:19:50,640
+Really delicious.
+
+292
+00:21:20,079 --> 00:21:21,599
+So, Xiao Li...
+
+293
+00:21:21,960 --> 00:21:24,119
+How long have you been with our Hui?
+
+294
+00:21:24,680 --> 00:21:27,240
+Auntie, Hui'er and I have known each other for half a year.
+
+295
+00:21:27,240 --> 00:21:29,920
+To be precise, six months and eight days.
+
+296
+00:21:31,960 --> 00:21:34,319
+Oh my, you remember so clearly.
+
+297
+00:21:34,640 --> 00:21:36,440
+How did you meet?
+
+298
+00:21:36,440 --> 00:21:37,680
+At a seminar... in the park.
+
+299
+00:21:47,519 --> 00:21:49,440
+Shouldn't you think this through?
+
+300
+00:21:49,960 --> 00:21:51,759
+Or discuss it properly?
+
+301
+00:21:51,759 --> 00:21:54,000
+Was it the park or the seminar?
+
+302
+00:21:56,720 --> 00:21:57,519
+Mom, I...
+
+303
+00:21:57,519 --> 00:21:59,000
+Auntie, here's what happened...
+
+304
+00:21:59,359 --> 00:22:03,559
+The three of us were strolling in the park,
+
+305
+00:22:04,079 --> 00:22:06,440
+when Brother Yihan...
+
+306
+00:22:06,440 --> 00:22:09,640
+was walking his dog.
+
+307
+00:22:09,759 --> 00:22:11,319
+His dog misbehaved...
+
+308
+00:22:11,319 --> 00:22:12,799
+It came over to us...
+
+309
+00:22:14,160 --> 00:22:15,960
+and peed near us.
+
+310
+00:22:15,960 --> 00:22:17,759
+He kept apologizing profusely,
+
+311
+00:22:17,759 --> 00:22:19,400
+and after apologizing...
+
+312
+00:22:19,759 --> 00:22:21,119
+Later we met again...
+
+313
+00:22:21,119 --> 00:22:22,000
+And then...
+
+314
+00:22:22,000 --> 00:22:23,000
+Later on...
+
+315
+00:22:23,000 --> 00:22:25,240
+at a business management seminar.
+
+316
+00:22:25,240 --> 00:22:27,240
+It was our second meeting.
+
+317
+00:22:27,720 --> 00:22:29,240
+She was on stage then,
+
+318
+00:22:29,240 --> 00:22:30,440
+giving an excellent presentation.
+
+319
+00:22:30,440 --> 00:22:33,160
+I was deeply attracted by her unique charm.
+
+320
+00:22:33,240 --> 00:22:34,079
+I think Hui'er...
+
+321
+00:22:34,079 --> 00:22:36,839
+is a cultured, well-raised girl.
+
+322
+00:22:38,839 --> 00:22:39,839
+I see.
+
+323
+00:22:41,640 --> 00:22:44,039
+Auntie, I see you enjoy the shrimp.
+
+324
+00:22:44,079 --> 00:22:46,759
+Here, have some more.
+
+325
+00:22:46,880 --> 00:22:48,839
+Nian'er, this dish is so delicious.
+
+326
+00:22:48,839 --> 00:22:50,119
+I must eat more.
+
+327
+00:22:54,119 --> 00:22:56,240
+Xiao Li, what do you do?
+
+328
+00:22:56,480 --> 00:22:58,160
+Auntie, we work at the same company,
+
+329
+00:22:58,160 --> 00:22:59,200
+just in different positions.
+
+330
+00:22:59,200 --> 00:23:00,440
+I'm in sales.
+
+331
+00:23:01,839 --> 00:23:03,880
+What are your career plans
+
+332
+00:23:03,880 --> 00:23:06,039
+for the future?
+
+333
+00:23:06,599 --> 00:23:07,240
+Well...
+
+334
+00:23:07,240 --> 00:23:08,559
+I plan to...
+
+335
+00:23:08,559 --> 00:23:10,119
+First develop ourselves at the current company,
+
+336
+00:23:10,640 --> 00:23:14,160
+learn and improve our skills,
+
+337
+00:23:14,160 --> 00:23:15,400
+and expand our network.
+
+338
+00:23:15,400 --> 00:23:17,279
+When we've improved enough
+
+339
+00:23:17,279 --> 00:23:18,279
+and gained enough experience,
+
+340
+00:23:18,279 --> 00:23:19,880
+we'll start our own studio.
+
+341
+00:23:21,519 --> 00:23:22,160
+Your parents...
+
+342
+00:23:22,160 --> 00:23:24,240
+Mom, that's enough.
+
+343
+00:23:26,640 --> 00:23:28,880
+Let me toast Auntie.
+
+344
+00:23:30,599 --> 00:23:33,720
+When I was little, my parents were often away.
+
+345
+00:23:33,720 --> 00:23:35,039
+You took care of me.
+
+346
+00:23:35,039 --> 00:23:36,319
+I'm so grateful to you.
+
+347
+00:23:37,000 --> 00:23:39,480
+I was so lonely at home,
+
+348
+00:23:39,480 --> 00:23:41,440
+and often came to your place for meals.
+
+349
+00:23:42,200 --> 00:23:43,240
+Seeing your happy family
+
+350
+00:23:43,240 --> 00:23:44,640
+always made me feel warm.
+
+351
+00:23:44,640 --> 00:23:45,920
+I felt so happy.
+
+352
+00:23:46,119 --> 00:23:47,799
+I've always envied Hui'er
+
+353
+00:23:47,799 --> 00:23:49,480
+because you cook so well too.
+
+354
+00:23:49,880 --> 00:23:50,680
+Thank you.
+
+355
+00:24:00,559 --> 00:24:01,680
+See you next time.
+
+356
+00:24:03,519 --> 00:24:04,799
+Thank you, little Zhen'gui.
+
+357
+00:24:05,680 --> 00:24:07,119
+Nian'er, thank you for tonight.
+
+358
+00:24:07,119 --> 00:24:08,200
+Not at all, Auntie.
+
+359
+00:24:09,039 --> 00:24:09,880
+Mom, let's go.
+
+360
+00:24:10,279 --> 00:24:11,200
+I'll see you out.
+
+361
+00:24:11,720 --> 00:24:12,759
+Auntie, take care on your way.
+
+362
+00:24:12,759 --> 00:24:13,920
+Alright, goodbye.
+
+363
+00:24:21,960 --> 00:24:23,279
+A mother's love is truly great.
+
+364
+00:24:23,960 --> 00:24:25,400
+Why are you suddenly so emotional?
+
+365
+00:24:26,079 --> 00:24:27,400
+I remember when we were kids,
+
+366
+00:24:28,000 --> 00:24:29,200
+Hui told me
+
+367
+00:24:29,920 --> 00:24:31,519
+her mom didn't like shrimp.
+
+368
+00:24:32,480 --> 00:24:33,559
+But just now,
+
+369
+00:24:33,559 --> 00:24:36,640
+I remember she actually did like them.
+
+370
+00:24:36,920 --> 00:24:39,599
+She just knew Hui loved them,
+
+371
+00:24:39,839 --> 00:24:42,720
+so she pretended not to like them.
+
+372
+00:24:46,039 --> 00:24:48,799
+I don't think she should lie to her mom.
+
+373
+00:24:49,119 --> 00:24:50,799
+She should find a proper boyfriend.
+
+374
+00:24:53,039 --> 00:24:55,119
+Lying to Hui's mom was wrong,
+
+375
+00:24:55,359 --> 00:24:56,640
+but finding someone just to avoid lying
+
+376
+00:24:56,640 --> 00:24:59,039
+isn't the right solution either.
+
+377
+00:25:01,599 --> 00:25:02,240
+Whatever.
+
+378
+00:25:02,240 --> 00:25:03,640
+Just don't get involved with that Li Yihan.
+
+379
+00:25:03,640 --> 00:25:04,400
+That's all that matters.
+
+380
+00:25:05,400 --> 00:25:06,200
+Why?
+
+381
+00:25:12,920 --> 00:25:14,640
+That Brother Yihan,
+
+382
+00:25:14,920 --> 00:25:17,839
+I think a considerate man like you
+
+383
+00:25:17,839 --> 00:25:20,000
+is really rare in this world.
+
+384
+00:25:20,039 --> 00:25:23,400
+Shall we exchange contacts
+
+385
+00:25:23,720 --> 00:25:24,640
+and keep in touch?
+
+386
+00:25:37,880 --> 00:25:39,000
+Why?
+
+387
+00:25:40,720 --> 00:25:43,440
+Your dad's finally retiring for good this time.
+
+388
+00:25:43,839 --> 00:25:45,240
+After working as a rehire for so many years,
+
+389
+00:25:45,240 --> 00:25:47,000
+it's time he took care of his health.
+
+390
+00:25:47,559 --> 00:25:49,880
+You'll have to watch his drinking then.
+
+391
+00:25:50,759 --> 00:25:51,640
+If you were home,
+
+392
+00:25:51,640 --> 00:25:53,319
+he wouldn't touch a drop.
+
+393
+00:25:53,559 --> 00:25:54,640
+If I say one word,
+
+394
+00:25:54,640 --> 00:25:55,799
+he has ten thousand comebacks ready.
+
+395
+00:25:55,799 --> 00:25:57,039
+I won't provoke him.
+
+396
+00:25:58,119 --> 00:26:01,200
+Mom, my career's going really well now.
+
+397
+00:26:01,400 --> 00:26:03,440
+That apartment Uncle saw before,
+
+398
+00:26:03,440 --> 00:26:05,880
+the smaller unit next door looks perfect.
+
+399
+00:26:06,240 --> 00:26:07,599
+Let me save up some more,
+
+400
+00:26:07,960 --> 00:26:09,799
+then I can buy it outright.
+
+401
+00:26:11,039 --> 00:26:13,279
+Is the bathroom still leaking at home?
+
+402
+00:26:13,599 --> 00:26:15,200
+And Uncle told me
+
+403
+00:26:15,200 --> 00:26:17,279
+there's always a gas smell in the kitchen.
+
+404
+00:26:17,799 --> 00:26:19,119
+You should get that checked.
+
+405
+00:26:19,200 --> 00:26:21,440
+Save your money for yourself.
+
+406
+00:26:21,559 --> 00:26:23,200
+Don't always worry about us.
+
+407
+00:26:24,880 --> 00:26:25,680
+Also,
+
+408
+00:26:27,119 --> 00:26:29,200
+you've been avoiding your dad's calls.
+
+409
+00:26:29,200 --> 00:26:31,640
+Is it because he keeps nagging about marriage?
+
+410
+00:26:31,640 --> 00:26:32,920
+Driving you crazy with it?
+
+411
+00:26:34,920 --> 00:26:36,519
+I've told him so many times,
+
+412
+00:26:36,519 --> 00:26:37,880
+but he won't listen to me.
+
+413
+00:26:37,880 --> 00:26:40,720
+Now it's all he ever talks about.
+
+414
+00:26:44,960 --> 00:26:48,880
+Mom, does Dad think
+
+415
+00:26:49,319 --> 00:26:51,400
+I'm a failure for not being married?
+
+416
+00:26:53,880 --> 00:26:55,599
+That's not what he means.
+
+417
+00:26:55,920 --> 00:26:58,920
+He just wants you to find true happiness.
+
+418
+00:27:06,279 --> 00:27:07,079
+Hui,
+
+419
+00:27:10,200 --> 00:27:11,720
+that Li Yihan earlier,
+
+420
+00:27:12,519 --> 00:27:14,240
+he's not really your boyfriend, right?
+
+421
+00:27:18,559 --> 00:27:19,519
+It's delicious.
+
+422
+00:27:24,599 --> 00:27:26,839
+If you'd really been dating six months,
+
+423
+00:27:27,000 --> 00:27:28,640
+how could he not know?
+
+424
+00:27:31,400 --> 00:27:33,200
+Mom, I'm sorry.
+
+425
+00:27:37,920 --> 00:27:41,880
+About breaking up with Runze...
+
+426
+00:27:41,880 --> 00:27:43,400
+I already knew.
+
+427
+00:27:44,039 --> 00:27:45,200
+But don't worry,
+
+428
+00:27:45,200 --> 00:27:46,640
+your father doesn't know.
+
+429
+00:27:46,640 --> 00:27:48,440
+How did you find out?
+
+430
+00:27:53,279 --> 00:27:55,039
+Your uncle told me.
+
+431
+00:27:55,599 --> 00:27:57,240
+You blocked us from that post,
+
+432
+00:27:57,240 --> 00:27:59,279
+but forgot to block your uncle.
+
+433
+00:27:59,559 --> 00:28:01,880
+You forgot to exclude him.
+
+434
+00:28:05,039 --> 00:28:06,079
+Don't be upset.
+
+435
+00:28:06,319 --> 00:28:07,920
+Don't worry about your dad.
+
+436
+00:28:08,279 --> 00:28:10,119
+If he nags you about it,
+
+437
+00:28:10,319 --> 00:28:12,240
+I have ways to handle him.
+
+438
+00:28:18,880 --> 00:28:22,039
+Hui, can I ask you something?
+
+439
+00:28:22,880 --> 00:28:25,680
+You were with Runze so long.
+
+440
+00:28:26,119 --> 00:28:27,759
+Why break up suddenly?
+
+441
+00:28:29,960 --> 00:28:31,799
+I thought he truly loved me,
+
+442
+00:28:32,759 --> 00:28:33,599
+but when we discussed
+
+443
+00:28:33,599 --> 00:28:35,440
+engagement, I realized
+
+444
+00:28:35,920 --> 00:28:37,519
+he wouldn't give up
+
+445
+00:28:37,519 --> 00:28:39,319
+the whole forest for one tree.
+
+446
+00:28:40,599 --> 00:28:42,440
+Maybe I'm not good enough,
+
+447
+00:28:43,240 --> 00:28:44,920
+or he has other options.
+
+448
+00:28:48,519 --> 00:28:51,440
+Mom, have I failed
+
+449
+00:28:51,440 --> 00:28:52,480
+your expectations again?
+
+450
+00:28:55,000 --> 00:28:57,400
+Hui, remember this:
+
+451
+00:28:58,599 --> 00:29:01,119
+Having a boyfriend or getting married
+
+452
+00:29:01,119 --> 00:29:03,079
+isn't what we expect from you.
+
+453
+00:29:05,200 --> 00:29:06,519
+I've spent my whole life
+
+454
+00:29:06,759 --> 00:29:09,200
+living up to others' expectations.
+
+455
+00:29:09,559 --> 00:29:12,039
+So my daughter
+
+456
+00:29:13,039 --> 00:29:14,880
+should live her own way -
+
+457
+00:29:15,519 --> 00:29:19,680
+safe, healthy, and truly happy.
