@@ -1,0 +1,1397 @@
+1
+00:00:01,001 --> 00:00:03,086
+[Max]
+<i>So you've been calling this Joris guy</i>
+
+2
+00:00:03,169 --> 00:00:04,587
+<i>since we were in Kaigen.</i>
+
+3
+00:00:04,671 --> 00:00:06,673
+<i>And now he's not answering your calls?</i>
+
+4
+00:00:06,756 --> 00:00:08,550
+<i>I think he ran off with the money.</i>
+
+5
+00:00:08,633 --> 00:00:11,136
+<i>Wherever that bastard hides,</i>
+<i>I'll find him.</i>
+
+6
+00:00:11,302 --> 00:00:13,388
+<i>I can hack the system</i>
+<i>of cameras within the city</i>
+
+7
+00:00:13,471 --> 00:00:15,015
+<i>so we can track him down.</i>
+
+8
+00:00:15,098 --> 00:00:18,518
+<i>Be honest with me.</i>
+<i>Are you a hitman? Gun for hire?</i>
+
+9
+00:00:18,601 --> 00:00:19,686
+<i>Come on, Uncle.</i> [scoffs]
+
+10
+00:00:19,769 --> 00:00:21,521
+<i>I have no plans of stopping you.</i>
+
+11
+00:00:21,604 --> 00:00:25,191
+<i>Now, if you're out there</i>
+<i>sending people to hell,</i>
+
+12
+00:00:25,275 --> 00:00:27,235
+<i>I hope they're demons who deserve it.</i>
+
+13
+00:00:27,318 --> 00:00:29,654
+<i>Hi, Doc. How are you?</i>
+
+14
+00:00:29,738 --> 00:00:32,490
+<i>It's not easy to be away from them.</i>
+
+15
+00:00:32,574 --> 00:00:34,034
+<i>But it's for the best.</i>
+
+16
+00:00:34,117 --> 00:00:37,370
+<i>I owe it to myself to be a</i>
+<i>better version of myself.</i>
+
+17
+00:00:37,454 --> 00:00:39,664
+<i>How about you?</i>
+<i>Any news about your brother?</i>
+
+18
+00:00:39,748 --> 00:00:41,124
+<i>I've got the documents.</i>
+
+19
+00:00:41,207 --> 00:00:43,042
+<i>But I really don't buy it.</i>
+
+20
+00:00:43,126 --> 00:00:44,669
+<i>Who's trying to stop you?</i>
+
+21
+00:00:44,753 --> 00:00:47,338
+<i>Are you getting close to the truth?</i>
+<i>Am I, too?</i>
+
+22
+00:00:49,883 --> 00:00:56,890
+[theme music playing]
+
+23
+00:01:35,428 --> 00:01:38,723
+I have to infiltrate the airline networks
+to check the passenger logs
+
+24
+00:01:38,807 --> 00:01:43,144
+to find out if Joris
+has left the country or not.
+
+25
+00:01:44,479 --> 00:01:45,688
+Thanks, Max.
+
+26
+00:01:45,772 --> 00:01:46,648
+Sure.
+
+27
+00:01:47,565 --> 00:01:48,316
+Guys!
+
+28
+00:01:48,399 --> 00:01:49,776
+- Sir JB.
+- Doc.
+
+29
+00:01:50,527 --> 00:01:52,028
+- Hey, how are you?
+- I'm good.
+
+30
+00:01:52,112 --> 00:01:53,863
+- How are you? You okay?
+- I'm good.
+
+31
+00:01:53,947 --> 00:01:55,907
+- What's up, Doc?
+- I'm doing alright.
+
+32
+00:01:55,990 --> 00:01:58,910
+- [Gab] How are you? Nice surprise.
+- [indistinct chatter]
+
+33
+00:01:58,993 --> 00:02:02,247
+- What are you guys doing here? [chuckles]
+- [Gab chuckles softly]
+
+34
+00:02:02,330 --> 00:02:04,874
+Well, we made a group chat without you,
+
+35
+00:02:04,958 --> 00:02:07,252
+but don't worry, we'll add you later.
+It's a surprise!
+
+36
+00:02:07,335 --> 00:02:10,880
+Yeah, a surprise.
+Gab said you and Andres were here.
+
+37
+00:02:10,964 --> 00:02:14,342
+Of course, we miss you,
+so we came by for… you know,
+
+38
+00:02:14,425 --> 00:02:17,679
+to see you. [giggles]
+
+39
+00:02:18,096 --> 00:02:19,264
+[Tomas groans]
+
+40
+00:02:19,347 --> 00:02:21,891
+Good thing, Miguel,
+I didn't get slide up like sashimi.
+
+41
+00:02:21,975 --> 00:02:25,395
+I can still dance, see? Ow!
+
+42
+00:02:25,478 --> 00:02:29,816
+There, there. Sit still, will you?
+
+43
+00:02:29,899 --> 00:02:33,319
+How's that cut supposed to heal?
+Relax a bit.
+
+44
+00:02:33,403 --> 00:02:38,408
+But seriously, Doc,
+that contract… it was insane.
+
+45
+00:02:38,491 --> 00:02:40,660
+It was ten times harder than we expected.
+
+46
+00:02:40,743 --> 00:02:41,911
+- Super.
+- Yeah.
+
+47
+00:02:41,995 --> 00:02:44,831
+- So tough. The cold almost killed us all.
+- Yeah.
+
+48
+00:02:44,998 --> 00:02:46,624
+Hmm? Really, Guerrero?
+
+49
+00:02:46,708 --> 00:02:49,127
+I thought you were the
+happiest in the snow.
+
+50
+00:02:49,669 --> 00:02:52,213
+Max, I love the heat and
+stickiness of the Philippines.
+
+51
+00:02:52,297 --> 00:02:54,883
+- Remember that.
+- Oh, really?
+
+52
+00:02:54,966 --> 00:02:57,218
+[laughing]
+
+53
+00:02:57,302 --> 00:02:59,220
+Alright, spill the tea then.
+
+54
+00:03:00,638 --> 00:03:01,848
+Spill what?
+
+55
+00:03:01,931 --> 00:03:04,267
+Oh, come on, Doc.
+Don't play dumb like a kid.
+
+56
+00:03:04,350 --> 00:03:05,852
+- Just spill it.
+- Yeah, spill.
+
+57
+00:03:05,935 --> 00:03:07,312
+It's just that…
+
+58
+00:03:07,520 --> 00:03:10,732
+you've been gone for so long.
+We didn't even get to hang out.
+
+59
+00:03:10,815 --> 00:03:12,984
+Tell us what happened.
+Why weren't you in Kaigen?
+
+60
+00:03:13,067 --> 00:03:14,485
+Come on, it's just us here.
+
+61
+00:03:14,569 --> 00:03:17,322
+["Liwanag Sa Dilim" instrumental playing]
+
+62
+00:03:17,405 --> 00:03:18,948
+- [clears throat]
+- He's thinking.
+
+63
+00:03:19,616 --> 00:03:20,617
+Doc.
+
+64
+00:03:21,200 --> 00:03:23,828
+You don't have to
+answer if you're not ready.
+
+65
+00:03:26,164 --> 00:03:28,291
+No, no, it's okay.
+
+66
+00:03:29,709 --> 00:03:32,879
+Uh… Let's just say that…
+
+67
+00:03:33,755 --> 00:03:39,052
+I've been focusing on myself
+to be the best version of me.
+
+68
+00:03:39,135 --> 00:03:42,472
+And please… let's just leave it at that.
+
+69
+00:03:42,555 --> 00:03:44,057
+- Okay.
+- Wow.
+
+70
+00:03:44,140 --> 00:03:46,434
+- What a boring conversation.
+- Respect.
+
+71
+00:03:46,517 --> 00:03:48,019
+- Tomas!
+- Sorry. I'm kidding, Doc.
+
+72
+00:03:48,102 --> 00:03:49,896
+Show some respect.
+
+73
+00:03:49,979 --> 00:03:53,149
+But… That's great, Doc. Good for you.
+
+74
+00:03:53,233 --> 00:03:54,234
+I love that.
+
+75
+00:03:55,652 --> 00:03:56,611
+- Thank you.
+- So…
+
+76
+00:03:56,694 --> 00:03:58,738
+you're joining us on the next missions?
+
+77
+00:03:58,821 --> 00:04:00,740
+["Liwanag Sa Dilim"
+instrumental continues]
+
+78
+00:04:00,823 --> 00:04:02,242
+Of course!
+
+79
+00:04:02,325 --> 00:04:04,244
+- Nice! That's my Doc! Nice!
+- Of course!
+
+80
+00:04:04,369 --> 00:04:07,121
+Because of that, let's drink!
+Where's the booze?
+
+81
+00:04:07,205 --> 00:04:08,873
+- [Max] Oh, wait…
+- Tomas!
+
+82
+00:04:08,957 --> 00:04:12,919
+You know what? Let's all have
+orange juice for Doc instead.
+
+83
+00:04:13,670 --> 00:04:17,507
+- You don't have to.
+- [Tomas] Boring drinks!
+
+84
+00:04:17,590 --> 00:04:20,134
+- Don't adjust just for me
+- It's fine.
+
+85
+00:04:20,218 --> 00:04:22,178
+- No worries.
+- Is it here?
+
+86
+00:04:22,262 --> 00:04:25,223
+- Don't worry, we'll match you.
+- Let me help you.
+
+87
+00:04:25,306 --> 00:04:27,809
+- Look, man, look. Right.
+- Give it to me.
+
+88
+00:04:27,892 --> 00:04:30,561
+- This one's for you, Doc. Here.
+- Thanks.
+
+89
+00:04:30,645 --> 00:04:32,188
+[Gab] Thank you, thank you.
+
+90
+00:04:32,272 --> 00:04:35,692
+My back hurts. Ugh.
+
+91
+00:04:35,775 --> 00:04:37,652
+- For Doc.
+- Cheers.
+
+92
+00:04:37,735 --> 00:04:39,612
+- Cheers for Doc.
+- Cheers!
+
+93
+00:04:39,696 --> 00:04:42,031
+- This is for you.
+- Welcome back, Doc.
+
+94
+00:04:42,115 --> 00:04:44,284
+- [Gab giggling]
+- Cheers.
+
+95
+00:04:44,367 --> 00:04:47,161
+["Liwanag Sa Dilim"
+instrumental continues]
+
+96
+00:04:47,245 --> 00:04:49,372
+- Is this what I think it is?
+- [clears throat]
+
+97
+00:04:49,455 --> 00:04:50,873
+I just want to say…
+
+98
+00:04:52,834 --> 00:04:55,378
+I appreciate you all being here.
+
+99
+00:04:57,380 --> 00:05:01,009
+I know we all have our own problems,
+
+100
+00:05:01,092 --> 00:05:03,428
+we all have our struggles,
+
+101
+00:05:05,638 --> 00:05:13,646
+but this friendship of ours,
+it's different.
+
+102
+00:05:15,356 --> 00:05:16,816
+We're family.
+
+103
+00:05:18,776 --> 00:05:21,070
+- Thank you.
+- [Gab] Nice.
+
+104
+00:05:21,154 --> 00:05:23,448
+- Cheers to that, Doc!
+- [all] Cheers!
+
+105
+00:05:23,531 --> 00:05:24,949
+- Cheers.
+- Love you, Doc.
+
+106
+00:05:25,033 --> 00:05:26,284
+- Love you, Doc.
+- [Andres] I love you.
+
+107
+00:05:26,367 --> 00:05:29,037
+You've got a lot more patients to help.
+
+108
+00:05:29,120 --> 00:05:31,581
+[laughs]
+
+109
+00:05:32,832 --> 00:05:33,833
+Grandma…
+
+110
+00:05:35,543 --> 00:05:37,295
+Stay strong.
+
+111
+00:05:39,172 --> 00:05:41,591
+I'm sure there's been a mistake.
+
+112
+00:05:41,674 --> 00:05:44,343
+[cicadas chirping]
+
+113
+00:05:48,306 --> 00:05:51,059
+I don't even know what to feel anymore.
+
+114
+00:05:53,936 --> 00:05:57,273
+[sniffles] Don't worry, Grandma.
+I won't stop.
+
+115
+00:05:58,066 --> 00:05:59,859
+I'll find out the truth.
+
+116
+00:06:04,697 --> 00:06:05,865
+Enough.
+
+117
+00:06:06,991 --> 00:06:07,992
+Stop it.
+
+118
+00:06:13,372 --> 00:06:14,373
+Just a minute.
+
+119
+00:06:17,126 --> 00:06:19,962
+This is for you, Grandma.
+I bought it there.
+
+120
+00:06:21,130 --> 00:06:25,051
+They say this means hope, okay?
+
+121
+00:06:25,134 --> 00:06:26,844
+Look, see?
+
+122
+00:06:26,928 --> 00:06:31,015
+That's why we can't lose
+hope finding Jun, Grandma.
+
+123
+00:06:31,099 --> 00:06:32,100
+[Andres] Right?
+
+124
+00:06:40,399 --> 00:06:41,400
+Stop it.
+
+125
+00:06:44,028 --> 00:06:47,365
+It's time we accept the truth.
+
+126
+00:06:50,451 --> 00:06:51,869
+Jun is gone.
+
+127
+00:06:52,954 --> 00:06:56,874
+No, Grandma, that's not true.
+I don't believe it.
+
+128
+00:06:59,085 --> 00:07:01,546
+It's been over two decades.
+
+129
+00:07:06,050 --> 00:07:07,051
+Maybe…
+
+130
+00:07:09,804 --> 00:07:12,765
+Maybe we're the only ones
+who can't let go.
+
+131
+00:07:14,684 --> 00:07:16,144
+Aren't you tired?
+
+132
+00:07:16,227 --> 00:07:19,897
+I'll never get tired. I'll never stop.
+
+133
+00:07:19,981 --> 00:07:21,441
+And I will bring Jun back!
+
+134
+00:07:21,524 --> 00:07:22,859
+Enough!
+
+135
+00:07:24,235 --> 00:07:25,236
+Stop it.
+
+136
+00:07:26,154 --> 00:07:28,573
+Stop what you're doing.
+
+137
+00:07:28,948 --> 00:07:31,033
+[sobs] Jun is gone.
+
+138
+00:07:31,117 --> 00:07:34,495
+Grandma, what are you saying?
+What do you mean Jun is gone?
+
+139
+00:07:34,954 --> 00:07:36,122
+[sobs]
+
+140
+00:07:36,205 --> 00:07:38,332
+Jun is dead.
+
+141
+00:07:38,416 --> 00:07:43,880
+[somber music playing]
+
+142
+00:07:43,963 --> 00:07:47,967
+He's never coming back.
+
+143
+00:07:48,050 --> 00:07:52,346
+[somber music continues]
+
+144
+00:07:52,430 --> 00:07:55,266
+You can't bring him back.
+
+145
+00:08:01,814 --> 00:08:06,694
+[somber music continues]
+
+146
+00:08:08,446 --> 00:08:11,324
+[sobs, sniffles]
+
+147
+00:08:12,700 --> 00:08:18,331
+[somber music continues]
+
+148
+00:08:18,414 --> 00:08:20,166
+You've done everything you could.
+
+149
+00:08:23,294 --> 00:08:25,880
+And I'm so grateful for that.
+
+150
+00:08:27,423 --> 00:08:34,430
+[somber music continues]
+
+151
+00:08:43,022 --> 00:08:46,317
+Losing someone you
+love is unbearably painful.
+
+152
+00:08:46,400 --> 00:08:52,073
+[somber music continues]
+
+153
+00:08:52,156 --> 00:08:57,995
+And we don't even know if
+that pain will ever go away.
+
+154
+00:09:01,207 --> 00:09:04,460
+Some wounds can't heal,
+
+155
+00:09:06,087 --> 00:09:10,424
+and some never close,
+
+156
+00:09:10,508 --> 00:09:14,095
+not because we didn't fight,
+
+157
+00:09:16,347 --> 00:09:20,351
+but because we have to accept,
+
+158
+00:09:21,852 --> 00:09:28,234
+that not every battle can be won.
+
+159
+00:09:28,317 --> 00:09:35,324
+[somber music continues]
+
+160
+00:09:37,368 --> 00:09:40,079
+[sobbing softly]
+
+161
+00:09:41,414 --> 00:09:42,957
+[sniffles]
+
+162
+00:09:43,374 --> 00:09:46,460
+[sobbing softly]
+
+163
+00:09:46,544 --> 00:09:51,173
+[somber music continues]
+
+164
+00:09:51,257 --> 00:09:53,259
+Grandson…
+
+165
+00:09:54,927 --> 00:09:59,599
+Take me back to our homeland, Andres.
+
+166
+00:10:02,184 --> 00:10:04,645
+That's our battle now.
+
+167
+00:10:09,442 --> 00:10:10,443
+[sniffles]
+
+168
+00:10:11,986 --> 00:10:13,571
+[sniffles, clicks tongue]
+
+169
+00:10:13,654 --> 00:10:14,780
+[sniffles]
+
+170
+00:10:14,864 --> 00:10:18,159
+[somber music fades]
+
+171
+00:10:18,242 --> 00:10:22,538
+[suspenseful music playing]
+
+172
+00:10:22,622 --> 00:10:24,040
+[keyboard clacks]
+
+173
+00:10:30,087 --> 00:10:32,298
+[Max]
+His name isn't on any flight records.
+
+174
+00:10:32,381 --> 00:10:35,051
+I have to give it to this guy.
+He's being careful.
+
+175
+00:10:36,052 --> 00:10:37,053
+[sighs]
+
+176
+00:10:38,638 --> 00:10:41,807
+That bastard will regret messing with me.
+
+177
+00:10:41,891 --> 00:10:47,438
+- [keyboard clacks]
+- [suspenseful music continues]
+
+178
+00:10:47,521 --> 00:10:48,814
+[Max sighs exasperatedly]
+
+179
+00:10:48,898 --> 00:10:50,733
+We've been here for hours,
+
+180
+00:10:50,816 --> 00:10:52,443
+but still nothing.
+
+181
+00:10:52,526 --> 00:10:54,904
+Are you sure this is
+his girlfriend's address?
+
+182
+00:10:55,821 --> 00:10:57,323
+I'm sure, Max.
+
+183
+00:10:58,366 --> 00:10:59,950
+She lives in this area.
+
+184
+00:11:02,787 --> 00:11:03,788
+[Max sighs]
+
+185
+00:11:03,871 --> 00:11:10,961
+[suspenseful music continues]
+
+186
+00:11:11,045 --> 00:11:12,046
+Max.
+
+187
+00:11:13,464 --> 00:11:14,965
+Can you zoom in here?
+
+188
+00:11:22,640 --> 00:11:23,891
+Is that him?
+
+189
+00:11:23,974 --> 00:11:29,772
+[suspenseful music continues]
+
+190
+00:11:30,272 --> 00:11:31,732
+That's him, alright.
+
+191
+00:11:31,816 --> 00:11:33,901
+Let's go. We can still catch him.
+
+192
+00:11:34,902 --> 00:11:36,112
+- [car key cranks]
+- [engine sputters on]
+
+193
+00:11:36,195 --> 00:11:39,573
+[engine revving]
+
+194
+00:11:39,657 --> 00:11:41,784
+[suspenseful music fades]
+
+195
+00:11:43,536 --> 00:11:46,455
+[investigator] Everything you
+say here will be recorded.
+
+196
+00:11:46,580 --> 00:11:49,458
+It can be used against
+or in favor of you in court,
+
+197
+00:11:49,792 --> 00:11:52,795
+so make sure you tell
+nothing but the truth.
+
+198
+00:11:55,297 --> 00:11:56,549
+[phone buzzes]
+
+199
+00:11:56,632 --> 00:12:03,389
+[ominous music playing]
+
+200
+00:12:10,938 --> 00:12:12,106
+Wait here.
+
+201
+00:12:18,237 --> 00:12:19,447
+[door closes]
+
+202
+00:12:22,074 --> 00:12:23,159
+[door opens]
+
+203
+00:12:26,203 --> 00:12:31,876
+[ominous music intensifies]
+
+204
+00:12:34,712 --> 00:12:36,464
+Sorry, man. Just following orders.
+
+205
+00:12:37,131 --> 00:12:38,466
+- [grunts]
+- [knife clatters]
+
+206
+00:12:38,549 --> 00:12:39,675
+- [thud]
+- [grunt]
+
+207
+00:12:39,758 --> 00:12:41,051
+[grunting]
+
+208
+00:12:42,428 --> 00:12:43,971
+- [grunts]
+- [loud crash]
+
+209
+00:12:44,054 --> 00:12:48,100
+[suspenseful music playing]
+
+210
+00:12:48,184 --> 00:12:49,059
+[groans]
+
+211
+00:12:51,896 --> 00:12:57,359
+- [men yelling, grunting]
+- [blows landing]
+
+212
+00:13:02,156 --> 00:13:04,116
+[loud crash]
+
+213
+00:13:06,911 --> 00:13:08,162
+[yells]
+
+214
+00:13:08,496 --> 00:13:12,833
+[blows landing]
+
+215
+00:13:13,083 --> 00:13:20,090
+[suspenseful music continues]
+
+216
+00:13:25,763 --> 00:13:27,181
+[blow lands]
+
+217
+00:13:30,434 --> 00:13:31,894
+- [blow lands]
+- [grunts]
+
+218
+00:13:32,603 --> 00:13:33,562
+[wood clatters]
+
+219
+00:13:33,646 --> 00:13:36,857
+- [grunting]
+- [blows landing]
+
+220
+00:13:37,691 --> 00:13:39,068
+- [handcuff rattling]
+- [grunts]
+
+221
+00:13:39,610 --> 00:13:40,569
+[thud]
+
+222
+00:13:42,154 --> 00:13:43,531
+[loud thud]
+
+223
+00:13:45,783 --> 00:13:46,909
+[handcuffs rattle]
+
+224
+00:13:48,536 --> 00:13:49,537
+[blow lands]
+
+225
+00:13:51,997 --> 00:13:53,457
+- [blow lands]
+- [blood splatters]
+
+226
+00:13:53,582 --> 00:13:58,420
+[suspenseful music continues]
+
+227
+00:13:58,504 --> 00:13:59,797
+[blow lands]
+
+228
+00:14:00,631 --> 00:14:02,091
+[glass shatters]
+
+229
+00:14:08,681 --> 00:14:10,349
+- [loud crash]
+- [grunts]
+
+230
+00:14:10,432 --> 00:14:12,351
+[objects clattering]
+
+231
+00:14:14,311 --> 00:14:21,318
+[suspenseful music continues]
+
+232
+00:14:31,787 --> 00:14:37,459
+[suspenseful music intensifies]
+
+233
+00:14:42,256 --> 00:14:43,549
+[handcuffs rattle]
+
+234
+00:14:48,178 --> 00:14:54,226
+[suspenseful music continues
+
+235
+00:14:58,439 --> 00:15:00,441
+[suspenseful music crescendos]
+
+236
+00:15:05,696 --> 00:15:06,614
+Oh.
+
+237
+00:15:07,448 --> 00:15:09,825
+Andres, there's a parcel for you.
+
+238
+00:15:10,659 --> 00:15:11,994
+- For me?
+- Yeah.
+
+239
+00:15:13,746 --> 00:15:15,039
+[delivery man] Andres Malvar?
+
+240
+00:15:15,122 --> 00:15:16,123
+That's me.
+
+241
+00:15:17,833 --> 00:15:18,876
+Please sign here.
+
+242
+00:15:19,126 --> 00:15:22,296
+[unsettling music playing]
+
+243
+00:15:22,379 --> 00:15:23,589
+Thank you.
+
+244
+00:15:28,344 --> 00:15:30,471
+[motorcycle engine rumbles]
+
+245
+00:15:30,554 --> 00:15:36,894
+[unsettling music continues]
+
+246
+00:15:40,814 --> 00:15:42,608
+[unsettling music intensifies]
+
+247
+00:15:46,737 --> 00:15:53,702
+[unsettling music continues]
+
+248
+00:15:57,122 --> 00:15:58,457
+I'll be inside.
+
+249
+00:16:00,250 --> 00:16:02,419
+[unsettling music fades]
+
+250
+00:16:02,503 --> 00:16:04,004
+[keyboard clacks]
+
+251
+00:16:07,800 --> 00:16:10,886
+There's no other way out of this property.
+
+252
+00:16:12,638 --> 00:16:14,390
+He'll be out soon.
+
+253
+00:16:16,558 --> 00:16:23,565
+[suspenseful music playing]
+
+254
+00:16:33,575 --> 00:16:34,827
+That's him.
+
+255
+00:16:35,494 --> 00:16:37,079
+[Joris] I'll just go for a smoke.
+
+256
+00:16:37,162 --> 00:16:39,331
+[guard]
+The smoking area is over there, sir.
+
+257
+00:16:39,415 --> 00:16:40,541
+[Joris] Okay.
+
+258
+00:16:40,624 --> 00:16:45,754
+[suspenseful music continues]
+
+259
+00:16:54,138 --> 00:16:55,889
+[laptop closes]
+
+260
+00:17:00,060 --> 00:17:06,233
+[suspenseful music continues]
+
+261
+00:17:11,947 --> 00:17:13,699
+[footsteps approaching]
+
+262
+00:17:15,659 --> 00:17:17,411
+[JB] You think you can hide from me?
+
+263
+00:17:19,038 --> 00:17:20,748
+[scoffs] Bonifacio!
+
+264
+00:17:24,960 --> 00:17:26,378
+- [guards grunt]
+- [thuds]
+
+265
+00:17:26,462 --> 00:17:27,963
+Wait, wait! JB, Wait!
+
+266
+00:17:28,047 --> 00:17:30,132
+- Calm down.
+- Where is my money, Joris?
+
+267
+00:17:30,215 --> 00:17:32,551
+I'll give it back to you. Just calm down.
+
+268
+00:17:33,135 --> 00:17:35,387
+It's in my car. Follow me.
+
+269
+00:17:35,471 --> 00:17:36,555
+Relax, okay?
+
+270
+00:17:37,306 --> 00:17:42,978
+[suspenseful music continues]
+
+271
+00:17:43,103 --> 00:17:46,231
+That's Jun. I'm sure of it, Grandma.
+
+272
+00:17:46,315 --> 00:17:50,027
+How are you so sure?
+His name's not even here.
+
+273
+00:17:50,986 --> 00:17:53,739
+And didn't the BSWP already give us
+
+274
+00:17:53,822 --> 00:17:56,617
+records of Jun's death?
+
+275
+00:17:56,700 --> 00:17:59,244
+- It even has a picture of him.
+- [Andres] I know, Grandma.
+
+276
+00:17:59,328 --> 00:18:01,163
+But don't you think it's suspicious
+
+277
+00:18:01,246 --> 00:18:05,209
+that I received this after we
+were informed of Jun's death?
+
+278
+00:18:05,292 --> 00:18:07,544
+[suspenseful music continues]
+
+279
+00:18:07,628 --> 00:18:10,089
+Maybe that lady from BSWP felt guilty
+
+280
+00:18:10,172 --> 00:18:13,008
+after witnessing Grandma's
+crash out back in their office.
+
+281
+00:18:13,092 --> 00:18:14,134
+Maybe?
+
+282
+00:18:15,427 --> 00:18:18,639
+But who adopted your brother?
+
+283
+00:18:19,348 --> 00:18:20,432
+According to this document,
+
+284
+00:18:20,516 --> 00:18:22,059
+it's a man named Manuel Aguinaldo.
+
+285
+00:18:22,392 --> 00:18:24,103
+Who is he?
+
+286
+00:18:24,186 --> 00:18:27,022
+And… and how will we find him?
+
+287
+00:18:27,106 --> 00:18:31,193
+Look, it has the signature
+of the previous BSWP head, Ligaya Argonza.
+
+288
+00:18:32,111 --> 00:18:34,321
+- Oh.
+- Isn't she long dead?
+
+289
+00:18:34,404 --> 00:18:36,448
+She died of cancer.
+
+290
+00:18:36,532 --> 00:18:38,575
+Yeah, but check out the other signatory.
+
+291
+00:18:38,659 --> 00:18:42,579
+It's the current secretary,
+Marichu Doronilla.
+
+292
+00:18:42,663 --> 00:18:44,998
+- This one?
+- She's married now.
+
+293
+00:18:45,082 --> 00:18:47,835
+She now goes by
+the last name Marquez.
+
+294
+00:18:51,880 --> 00:18:54,216
+I don't know what to think anymore.
+
+295
+00:18:55,008 --> 00:18:56,927
+I smell something fishy, Andres.
+
+296
+00:18:57,010 --> 00:18:59,805
+It looks like Cristy isn't telling us the truth.
+
+297
+00:19:00,472 --> 00:19:03,433
+That's why I need to talk to this Marichu.
+
+298
+00:19:05,352 --> 00:19:06,603
+Wait a minute.
+
+299
+00:19:06,687 --> 00:19:08,230
+If Jun was adopted,
+
+300
+00:19:09,523 --> 00:19:11,275
+why would they lie to us?
+
+301
+00:19:11,692 --> 00:19:15,445
+And who sent you this document?
+
+302
+00:19:15,529 --> 00:19:17,656
+What are their motives?
+
+303
+00:19:19,449 --> 00:19:21,994
+And if Jun is still alive,
+
+304
+00:19:23,162 --> 00:19:25,122
+why are they doing this?
+
+305
+00:19:25,205 --> 00:19:26,915
+Why are they playing with us?
+
+306
+00:19:27,249 --> 00:19:28,375
+Grandma…
+
+307
+00:19:30,878 --> 00:19:32,546
+I don't know, Grandma.
+
+308
+00:19:34,298 --> 00:19:36,300
+Whether this is Jun or not,
+
+309
+00:19:36,383 --> 00:19:38,135
+I need to get to the bottom of this.
+
+310
+00:19:41,972 --> 00:19:45,225
+[unsettling music playing]
+
+311
+00:19:47,102 --> 00:19:48,395
+<i>I look good, right?</i>
+
+312
+00:19:48,478 --> 00:19:51,148
+<i>- You look so fine, boy!</i>
+- [Tomas chuckles]
+
+313
+00:19:51,773 --> 00:19:53,775
+<i>I think I saw my brother.</i>
+
+314
+00:19:53,859 --> 00:19:55,569
+<i>I followed Marcelo Marquez.</i>
+
+315
+00:19:55,652 --> 00:19:57,404
+<i>He looks just like him. That's Jun.</i>
+
+316
+00:19:57,487 --> 00:19:58,780
+<i>I'm looking for my brother.</i>
+
+317
+00:19:58,864 --> 00:20:01,491
+<i>His name is Francisco Malvar.</i>
+<i>We call him Jun.</i>
+
+318
+00:20:01,575 --> 00:20:03,202
+<i>You know what I'm capable of, Joris.</i>
+
+319
+00:20:03,285 --> 00:20:05,078
+<i>You can't hide from me.</i>
+
+320
+00:20:05,162 --> 00:20:06,288
+[grunts, coughs]
+
+321
+00:20:06,371 --> 00:20:09,499
+<i>You promised you'd get</i>
+<i>my father out of prison.</i>
+
+322
+00:20:09,583 --> 00:20:11,376
+<i>Your dad's case is a lost cause, JB!</i>
+
+323
+00:20:11,460 --> 00:20:12,461
+- [grunts]
+- [blow lands]
+
+324
+00:20:12,544 --> 00:20:13,545
+<i>JB!</i>
