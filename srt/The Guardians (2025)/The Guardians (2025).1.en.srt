@@ -1,0 +1,2807 @@
+1
+00:01:27,040 --> 00:01:35,760
+[The Guardians]
+
+2
+00:01:36,120 --> 00:01:38,920
+[Episode 1]
+
+3
+00:01:42,840 --> 00:01:44,900
+In mid-1940,
+
+4
+00:01:44,920 --> 00:01:47,740
+the War of Resistance Against
+Japanese Aggression stalled.
+
+5
+00:01:48,400 --> 00:01:50,900
+The open battlefield raged with gunfire.
+
+6
+00:01:51,310 --> 00:01:54,380
+Covert fronts churned with tension too.
+
+7
+00:01:54,920 --> 00:01:55,820
+Here,
+
+8
+00:01:56,200 --> 00:01:58,180
+dots and dashes of Morse code
+
+9
+00:01:58,680 --> 00:02:00,540
+turned into blades and guns.
+
+10
+00:02:01,200 --> 00:02:03,740
+The cipher system that encoded the codes
+
+11
+00:02:04,200 --> 00:02:05,930
+became walls and shields.
+
+12
+00:02:06,760 --> 00:02:08,820
+Both sides used radio waves
+
+13
+00:02:08,840 --> 00:02:11,260
+to fight battles in the air.
+
+14
+00:02:12,080 --> 00:02:14,380
+The enemy's wall kept rising higher,
+
+15
+00:02:15,000 --> 00:02:16,540
+but our code-breakers
+
+16
+00:02:17,400 --> 00:02:19,540
+kept moving closer.
+
+17
+00:02:28,760 --> 00:02:38,280
+[1940, Shanghai; Southeast Trading Company
+(Mei Secret Service of Japan, MSS)]
+
+18
+00:02:46,800 --> 00:02:47,340
+At this point,
+
+19
+00:02:47,560 --> 00:02:49,100
+we can use the seed key,
+
+20
+00:02:49,120 --> 00:02:50,260
+along with this F function,
+
+21
+00:02:50,280 --> 00:02:52,260
+to keep generating the key stream.
+
+22
+00:02:53,400 --> 00:02:54,570
+The algorithm we're discussing
+
+23
+00:02:55,120 --> 00:02:56,260
+can basically be seen as
+
+24
+00:02:56,280 --> 00:02:57,820
+a type of symmetric algorithm.
+
+25
+00:02:58,960 --> 00:03:01,100
+It uses the seed key
+
+26
+00:03:01,400 --> 00:03:02,690
+and key derivation function
+
+27
+00:03:02,710 --> 00:03:04,100
+to produce the key stream,
+
+28
+00:03:04,680 --> 00:03:06,410
+then applies a one-time pad rule
+
+29
+00:03:06,430 --> 00:03:07,260
+for encryption.
+
+30
+00:03:13,280 --> 00:03:14,260
+Sorry to interrupt,
+
+31
+00:03:14,430 --> 00:03:15,980
+could you
+
+32
+00:03:16,000 --> 00:03:18,130
+repeat the last word
+
+33
+00:03:18,150 --> 00:03:19,820
+one more time?
+
+34
+00:03:19,840 --> 00:03:21,980
+I've studied Chinese for years,
+
+35
+00:03:22,000 --> 00:03:24,100
+but my English isn't great.
+
+36
+00:03:25,040 --> 00:03:28,440
+[Takeda Eisho; Manager, Southeast Trading Company
+(Manager, Cipher Section of MSS)]
+
+37
+00:03:35,680 --> 00:03:36,540
+Blackboard.
+
+38
+00:04:26,600 --> 00:04:27,900
+One-time pad.
+
+39
+00:04:32,360 --> 00:04:33,340
+Excuse me,
+
+40
+00:04:33,920 --> 00:04:36,340
+could you say it in Chinese again?
+
+41
+00:04:36,360 --> 00:04:37,700
+Or in Japanese.
+
+42
+00:04:37,950 --> 00:04:38,460
+I'm good
+
+43
+00:04:38,560 --> 00:04:39,460
+with both.
+
+44
+00:04:44,800 --> 00:04:45,980
+I apologize for that.
+
+45
+00:04:53,040 --> 00:04:54,490
+I can understand
+
+46
+00:04:54,510 --> 00:04:55,220
+the one-time pad.
+
+47
+00:04:57,120 --> 00:04:57,700
+Really?
+
+48
+00:04:57,720 --> 00:04:59,900
+Yes, Mr. Joseph Lee.
+
+49
+00:05:01,240 --> 00:05:02,780
+[Kondo Saburo]
+I'm Kondo Saburo.
+
+50
+00:05:02,800 --> 00:05:03,610
+[Staff, Southeast Trading Company]
+Like you,
+
+51
+00:05:04,240 --> 00:05:07,220
+[Cipher Officer, Cipher Section of MSS]
+I've also studied in the UK.
+
+52
+00:05:07,240 --> 00:05:09,460
+But I wasn't as fortunate.
+
+53
+00:05:10,240 --> 00:05:13,140
+I couldn't get into Oxford University.
+
+54
+00:05:16,920 --> 00:05:18,220
+But I'm curious
+
+55
+00:05:18,800 --> 00:05:20,900
+why the coefficients
+in the key derivation function
+
+56
+00:05:21,480 --> 00:05:22,700
+are always fixed.
+
+57
+00:05:23,360 --> 00:05:24,340
+Just these coefficients here.
+
+58
+00:05:36,120 --> 00:05:37,780
+You sure have a lot of questions.
+
+59
+00:05:38,600 --> 00:05:39,580
+This one's pretty simple.
+
+60
+00:05:39,720 --> 00:05:40,980
+Try thinking it over yourself.
+
+61
+00:05:42,720 --> 00:05:43,980
+Honestly, I can't think of why.
+
+62
+00:05:45,160 --> 00:05:46,340
+Could you please clarify?
+
+63
+00:05:48,160 --> 00:05:49,250
+Oh my god.
+
+64
+00:05:51,800 --> 00:05:52,780
+Teaching you all
+
+65
+00:05:53,270 --> 00:05:54,900
+just feels like a waste of my time.
+
+66
+00:06:02,600 --> 00:06:03,780
+Time's up.
+
+67
+00:06:05,390 --> 00:06:06,250
+That's unfortunate.
+
+68
+00:06:06,270 --> 00:06:07,460
+We'll have to stop here for today.
+
+69
+00:06:07,830 --> 00:06:08,780
+I hope next time,
+
+70
+00:06:09,920 --> 00:06:11,100
+everyone comes more prepared.
+
+71
+00:06:40,360 --> 00:06:41,020
+Mr. Lee.
+
+72
+00:06:45,040 --> 00:06:45,540
+Mr. Lee.
+
+73
+00:06:47,830 --> 00:06:48,290
+Hold on.
+
+74
+00:06:48,430 --> 00:06:49,050
+Hold on.
+
+75
+00:06:49,430 --> 00:06:49,850
+What is it?
+
+76
+00:06:50,270 --> 00:06:52,490
+Mr. Takeda, do you need something?
+
+77
+00:06:54,070 --> 00:06:55,250
+You forgot something.
+
+78
+00:07:01,000 --> 00:07:03,610
+Mr. Lee, here's double the payment.
+
+79
+00:07:04,000 --> 00:07:06,050
+I hope this makes up for it.
+
+80
+00:07:08,870 --> 00:07:09,810
+Please accept it.
+
+81
+00:07:14,950 --> 00:07:17,170
+My team really messed up today.
+
+82
+00:07:17,870 --> 00:07:19,170
+If we go by your approach,
+
+83
+00:07:19,560 --> 00:07:22,610
+I'll send someone to apologize soon.
+
+84
+00:07:23,510 --> 00:07:25,410
+Next time I give a lecture,
+
+85
+00:07:25,430 --> 00:07:27,700
+I hope you respect my time
+
+86
+00:07:28,430 --> 00:07:29,730
+and respect mathematics.
+
+87
+00:07:31,310 --> 00:07:31,730
+Let's go.
+
+88
+00:07:38,950 --> 00:07:40,340
+About Joseph Lee,
+
+89
+00:07:40,360 --> 00:07:42,140
+he skipped the connection
+
+90
+00:07:42,160 --> 00:07:43,660
+between symmetric algorithm
+and equations.
+
+91
+00:07:43,680 --> 00:07:45,520
+[Metropolitan Hotel]
+
+92
+00:07:45,520 --> 00:07:47,250
+He was just going through the motions.
+
+93
+00:07:47,270 --> 00:07:49,050
+Why do you still trust him?
+
+94
+00:07:49,400 --> 00:07:53,840
+[Public Concession,
+Metropolitan Hotel]
+
+95
+00:07:57,390 --> 00:07:59,020
+Mr. Lee, this way please.
+
+96
+00:08:00,360 --> 00:08:03,900
+His encryption method helped us
+
+97
+00:08:03,920 --> 00:08:07,580
+avoid detection by Chinese troops.
+
+98
+00:08:20,830 --> 00:08:22,410
+Mr. Lee, take care.
+
+99
+00:08:23,070 --> 00:08:23,810
+Thanks.
+
+100
+00:08:26,480 --> 00:08:27,730
+It won't be long.
+
+101
+00:08:27,750 --> 00:08:28,930
+The Chinese army is about to
+
+102
+00:08:28,950 --> 00:08:31,100
+lose the battle in Northern Jiangsu.
+
+103
+00:08:37,720 --> 00:08:39,610
+Just for this alone,
+
+104
+00:08:39,630 --> 00:08:42,610
+he's worth every penny.
+
+105
+00:08:57,400 --> 00:09:01,200
+[Ding Yi, actor of Chaosheng Troupe]
+
+106
+00:09:10,240 --> 00:09:14,600
+[Joseph Lee,
+British-Chinese cryptographer]
+
+107
+00:09:14,600 --> 00:09:15,940
+Lights on again,
+
+108
+00:09:16,600 --> 00:09:17,980
+it's not like I can see a thing.
+
+109
+00:09:19,240 --> 00:09:19,980
+Without the lights,
+
+110
+00:09:21,120 --> 00:09:22,130
+I can't see.
+
+111
+00:09:24,000 --> 00:09:24,420
+Here.
+
+112
+00:09:39,120 --> 00:09:39,700
+Joseph,
+
+113
+00:09:40,120 --> 00:09:41,100
+your payment for today.
+
+114
+00:09:50,030 --> 00:09:50,300
+So,
+
+115
+00:09:50,600 --> 00:09:51,340
+Joseph,
+
+116
+00:09:51,360 --> 00:09:53,100
+see you next class.
+
+117
+00:09:53,360 --> 00:09:54,100
+Wait a minute.
+
+118
+00:09:55,240 --> 00:09:57,220
+Some parts of today's prep materials
+
+119
+00:09:58,600 --> 00:09:59,460
+are left out
+
+120
+00:10:00,240 --> 00:10:01,420
+on purpose.
+
+121
+00:10:02,120 --> 00:10:03,940
+If you stick to the script today,
+
+122
+00:10:04,750 --> 00:10:06,700
+someone's bound to ask questions,
+
+123
+00:10:06,960 --> 00:10:09,100
+and you won't have the answers.
+
+124
+00:10:09,120 --> 00:10:10,340
+I bet the Japanese
+
+125
+00:10:10,360 --> 00:10:12,610
+will think you're unhappy with pay,
+
+126
+00:10:13,000 --> 00:10:13,460
+so naturally,
+
+127
+00:10:14,200 --> 00:10:16,340
+they probably gave you extra cash.
+
+128
+00:10:16,360 --> 00:10:17,700
+So you did this on purpose?
+
+129
+00:10:18,240 --> 00:10:20,220
+I almost got caught today, you know?
+
+130
+00:10:20,240 --> 00:10:21,220
+Lucky I reacted quickly.
+
+131
+00:10:21,240 --> 00:10:23,220
+Otherwise, we'd have lost this deal.
+
+132
+00:10:23,840 --> 00:10:24,940
+How much the extra?
+
+133
+00:10:26,120 --> 00:10:26,940
+Double?
+
+134
+00:10:30,960 --> 00:10:32,130
+Day in, day out...
+
+135
+00:10:32,150 --> 00:10:34,100
+scheming over these trivial nonsense.
+
+136
+00:10:37,960 --> 00:10:39,940
+If not for making some cash for Mom,
+
+137
+00:10:41,360 --> 00:10:43,220
+I wouldn't be involved at all.
+
+138
+00:10:44,000 --> 00:10:44,700
+It's all yours.
+
+139
+00:10:46,360 --> 00:10:46,820
+Since
+
+140
+00:10:47,120 --> 00:10:49,980
+they're willing to pay you double,
+
+141
+00:10:51,840 --> 00:10:53,060
+that just proves even more
+
+142
+00:10:53,720 --> 00:10:54,420
+the enemy
+
+143
+00:10:55,600 --> 00:10:57,730
+is totally lost
+
+144
+00:10:58,240 --> 00:10:59,530
+with my cipher system.
+
+145
+00:11:00,840 --> 00:11:01,940
+But it doesn't make sense.
+
+146
+00:11:04,120 --> 00:11:05,220
+How could he
+
+147
+00:11:06,120 --> 00:11:07,220
+be so slow?
+
+148
+00:11:10,360 --> 00:11:11,100
+Who?
+
+149
+00:11:14,480 --> 00:11:15,700
+Someone who's paying attention.
+
+150
+00:11:16,600 --> 00:11:17,420
+None of your business.
+
+151
+00:11:39,720 --> 00:11:40,460
+So stingy.
+
+152
+00:12:09,720 --> 00:12:10,820
+Today, let's just have apples.
+
+153
+00:12:22,480 --> 00:12:23,460
+Extra! Extra!
+
+154
+00:12:23,480 --> 00:12:24,340
+Last night at nine,
+
+155
+00:12:24,360 --> 00:12:25,820
+Wang Kui, the traitor, was shot dead
+
+156
+00:12:25,840 --> 00:12:27,530
+by the Anti-Traitor Squad
+at Meizhen Restaurant
+
+157
+00:12:27,840 --> 00:12:29,340
+at the corner of Sima and Hubei Road.
+
+158
+00:12:29,870 --> 00:12:30,850
+Extra! Extra!
+
+159
+00:12:31,120 --> 00:12:31,940
+Last night at nine,
+
+160
+00:12:31,960 --> 00:12:33,700
+Wang Kui, the traitor, was shot dead
+
+161
+00:12:33,720 --> 00:12:35,580
+by the Anti-Traitor Squad
+at Meizhen Restaurant
+
+162
+00:12:35,600 --> 00:12:37,580
+at the corner of Sima and Hubei Road.
+
+163
+00:12:37,870 --> 00:12:38,340
+No way.
+
+164
+00:13:08,550 --> 00:13:09,300
+Mr. Lee,
+
+165
+00:13:09,790 --> 00:13:11,100
+I've been thinking about something.
+
+166
+00:13:11,120 --> 00:13:12,580
+I feel the salary split
+
+167
+00:13:12,600 --> 00:13:13,610
+isn't exactly fair.
+
+168
+00:13:14,120 --> 00:13:16,010
+Let me break it down.
+
+169
+00:13:16,480 --> 00:13:17,180
+Before,
+
+170
+00:13:17,600 --> 00:13:19,700
+I took one piece from one pile.
+
+171
+00:13:19,910 --> 00:13:21,340
+But today, they gave two piles.
+
+172
+00:13:21,720 --> 00:13:23,580
+Shouldn't I take two pieces?
+
+173
+00:13:24,360 --> 00:13:24,940
+I'll pay you.
+
+174
+00:13:37,120 --> 00:13:39,860
+No wonder no one opened the door.
+
+175
+00:13:41,230 --> 00:13:42,450
+He's fallen asleep.
+
+176
+00:13:44,120 --> 00:13:44,700
+Seriously,
+
+177
+00:13:45,760 --> 00:13:46,810
+work's exhausting these days.
+
+178
+00:13:49,240 --> 00:13:50,100
+So I guess
+
+179
+00:13:50,720 --> 00:13:52,100
+I'll leave you be for now.
+
+180
+00:13:56,040 --> 00:13:57,750
+[Two hours earlier]
+
+181
+00:13:57,750 --> 00:13:58,580
+Mr. Lee.
+
+182
+00:14:03,200 --> 00:14:03,940
+Mr. Lee.
+
+183
+00:14:31,360 --> 00:14:34,200
+[Metropolitan Hotel]
+
+184
+00:15:14,870 --> 00:15:17,460
+When did you start smoking cigars?
+
+185
+00:15:18,360 --> 00:15:21,820
+Even your footsteps sound heavier now.
+
+186
+00:15:43,080 --> 00:15:44,060
+Is this really necessary
+
+187
+00:15:44,080 --> 00:15:45,460
+for someone who can't even see?
+
+188
+00:15:48,200 --> 00:15:51,820
+I don't want our reunion
+after years apart
+
+189
+00:15:52,360 --> 00:15:53,460
+would be interrupted.
+
+190
+00:15:54,200 --> 00:15:56,340
+I've been waiting here a long time.
+
+191
+00:15:59,480 --> 00:16:00,820
+Gu Yangshan.
+
+192
+00:16:02,680 --> 00:16:04,720
+[Gu Yangshan, agent,
+Shanghai BIS]
+
+193
+00:16:04,720 --> 00:16:05,220
+Old friend,
+
+194
+00:16:06,840 --> 00:16:07,700
+long time no see.
+
+195
+00:16:08,840 --> 00:16:11,360
+[Japanese-Occupied Zone,
+Public Concession]
+
+196
+00:16:22,600 --> 00:16:25,180
+Did you design MSS's new cipher?
+
+197
+00:16:25,840 --> 00:16:27,980
+What makes you think it was me?
+
+198
+00:16:29,200 --> 00:16:31,180
+The new cipher uses a stream cipher,
+
+199
+00:16:31,200 --> 00:16:32,940
+and only a handful of people
+
+200
+00:16:32,960 --> 00:16:34,460
+can handle that.
+
+201
+00:16:34,480 --> 00:16:36,820
+And back in college,
+
+202
+00:16:36,840 --> 00:16:38,940
+you focused on the XOR operation.
+
+203
+00:16:39,600 --> 00:16:40,820
+My sources told me
+
+204
+00:16:40,840 --> 00:16:42,060
+that MSS's new cipher
+
+205
+00:16:42,080 --> 00:16:43,820
+was designed by
+
+206
+00:16:43,840 --> 00:16:45,820
+a brilliant British-Chinese mathematician
+from Oxford.
+
+207
+00:16:46,720 --> 00:16:48,980
+I figured it had to be you.
+
+208
+00:16:49,600 --> 00:16:50,730
+That's right.
+
+209
+00:16:52,600 --> 00:16:54,610
+You never let me down.
+
+210
+00:16:54,910 --> 00:16:56,130
+So,
+
+211
+00:16:56,150 --> 00:16:57,420
+can't crack it, can you?
+
+212
+00:16:58,390 --> 00:16:59,820
+How far have you got?
+
+213
+00:17:00,360 --> 00:17:01,010
+Tell me
+
+214
+00:17:02,080 --> 00:17:03,370
+the details.
+
+215
+00:17:05,070 --> 00:17:06,570
+Do you know how many people died
+
+216
+00:17:08,070 --> 00:17:09,330
+at the Northern Jiangsu Front
+
+217
+00:17:10,160 --> 00:17:11,860
+just because of your cipher?
+
+218
+00:17:12,270 --> 00:17:13,490
+Just tell me,
+
+219
+00:17:13,680 --> 00:17:16,010
+how far you've cracked it now.
+
+220
+00:17:19,160 --> 00:17:20,810
+So you think math is more important
+
+221
+00:17:21,440 --> 00:17:24,140
+than anyone's life, right?
+
+222
+00:17:24,590 --> 00:17:25,620
+It's about the math problem.
+
+223
+00:17:25,920 --> 00:17:27,900
+You should look for answers in math,
+
+224
+00:17:27,920 --> 00:17:29,180
+instead of coming here
+
+225
+00:17:29,350 --> 00:17:31,290
+to threaten me by dragging
+
+226
+00:17:31,720 --> 00:17:32,660
+unrelated individuals in.
+
+227
+00:17:33,350 --> 00:17:35,570
+You owe me all of this.
+
+228
+00:17:35,590 --> 00:17:37,050
+This is our own battlefield.
+
+229
+00:17:37,070 --> 00:17:38,570
+I want to see you with no way out,
+
+230
+00:17:38,590 --> 00:17:40,570
+watch your reputation crash.
+
+231
+00:17:40,590 --> 00:17:41,810
+For every life lost here,
+
+232
+00:17:42,680 --> 00:17:45,620
+I'll put the blame on you, Gu Yangshan.
+
+233
+00:17:46,400 --> 00:17:47,050
+Alright.
+
+234
+00:17:48,350 --> 00:17:50,140
+Then let's keep things professional.
+
+235
+00:17:50,830 --> 00:17:51,660
+Back to the BIS.
+
+236
+00:17:52,440 --> 00:17:55,380
+I have a hundred ways to make you talk.
+
+237
+00:17:58,110 --> 00:17:58,810
+Gu Yangshan,
+
+238
+00:17:59,590 --> 00:18:00,530
+you've changed.
+
+239
+00:18:01,270 --> 00:18:02,140
+Don't forget,
+
+240
+00:18:02,480 --> 00:18:03,900
+you're still a mathematician.
+
+241
+00:18:04,830 --> 00:18:07,860
+Now you're using
+
+242
+00:18:07,880 --> 00:18:08,980
+BIS tricks on me.
+
+243
+00:18:10,550 --> 00:18:12,290
+Come on, old friend.
+
+244
+00:18:13,830 --> 00:18:15,050
+Let's keep some dignity here
+
+245
+00:18:15,440 --> 00:18:16,860
+and just walk out together.
+
+246
+00:18:18,590 --> 00:18:18,900
+Alright.
+
+247
+00:18:30,310 --> 00:18:31,050
+Mr. Lee.
+
+248
+00:18:35,350 --> 00:18:35,660
+Mr...
+
+249
+00:18:41,590 --> 00:18:42,330
+Is this necessary?
+
+250
+00:18:47,440 --> 00:18:48,330
+Let me break it down.
+
+251
+00:18:48,830 --> 00:18:51,810
+Before, I took one piece from one pile.
+
+252
+00:18:52,240 --> 00:18:53,660
+But today, they gave two piles.
+
+253
+00:18:53,880 --> 00:18:55,620
+Shouldn't I take two pieces?
+
+254
+00:18:57,160 --> 00:18:57,730
+I'll pay you.
+
+255
+00:19:05,110 --> 00:19:05,610
+Hey, man,
+
+256
+00:19:06,110 --> 00:19:07,050
+I'm just a bystander.
+
+257
+00:19:07,870 --> 00:19:09,530
+But now, you're in this too.
+
+258
+00:19:09,920 --> 00:19:11,020
+Come on, get up.
+
+259
+00:19:11,250 --> 00:19:11,850
+Say it standing.
+
+260
+00:19:12,390 --> 00:19:14,370
+No, it's comfier on my knees.
+
+261
+00:19:20,390 --> 00:19:21,610
+Interesting.
+
+262
+00:19:22,390 --> 00:19:23,260
+Who are you?
+
+263
+00:19:23,630 --> 00:19:24,700
+I'm not Joseph Lee.
+
+264
+00:19:24,870 --> 00:19:26,370
+Of course I know.
+
+265
+00:19:26,630 --> 00:19:27,850
+I'm asking about you.
+
+266
+00:19:28,630 --> 00:19:29,940
+Who are you?
+
+267
+00:19:32,110 --> 00:19:33,330
+My name's Ding Yi.
+
+268
+00:19:33,350 --> 00:19:34,420
+I'm an actor.
+
+269
+00:19:36,870 --> 00:19:37,850
+Hey, man.
+
+270
+00:19:38,040 --> 00:19:41,370
+Are you
+from the Anti-Traitor Squad?
+
+271
+00:19:44,630 --> 00:19:45,770
+Yeah, that's right.
+
+272
+00:19:49,110 --> 00:19:49,850
+Come on, get up.
+
+273
+00:19:49,870 --> 00:19:50,850
+Thanks, man.
+
+274
+00:19:56,870 --> 00:19:57,850
+What's this?
+
+275
+00:19:59,790 --> 00:20:00,610
+Don't move.
+
+276
+00:20:00,960 --> 00:20:02,530
+The faster you move,
+the faster you die.
+
+277
+00:20:03,630 --> 00:20:04,610
+It's a neurotoxin.
+
+278
+00:20:04,870 --> 00:20:06,770
+If you don't get the antidote
+in six hours,
+
+279
+00:20:07,350 --> 00:20:08,090
+you're done for.
+
+280
+00:20:09,110 --> 00:20:10,610
+Central nervous paralysis.
+
+281
+00:20:11,070 --> 00:20:12,330
+You'll be suffocated to death.
+
+282
+00:20:14,630 --> 00:20:15,260
+Sir.
+
+283
+00:20:16,630 --> 00:20:17,050
+Sir.
+
+284
+00:20:17,350 --> 00:20:17,940
+Don't kneel.
+
+285
+00:20:18,630 --> 00:20:19,420
+My legs are giving out.
+
+286
+00:20:20,350 --> 00:20:20,810
+Sir,
+
+287
+00:20:21,630 --> 00:20:22,940
+aren't you with the Squad?
+
+288
+00:20:23,680 --> 00:20:25,460
+Doesn't the Squad spare good people?
+
+289
+00:20:25,680 --> 00:20:27,130
+Yeah, we don't hurt the innocent.
+
+290
+00:20:27,630 --> 00:20:29,570
+But right now, I can't tell if you are.
+
+291
+00:20:30,070 --> 00:20:31,290
+Help me out first,
+
+292
+00:20:31,630 --> 00:20:32,610
+then I'll know if you're good.
+
+293
+00:20:51,680 --> 00:20:53,020
+You don't even have a first aid kit.
+
+294
+00:20:53,830 --> 00:20:54,770
+Come with me.
+
+295
+00:21:01,350 --> 00:21:01,900
+Close the door.
+
+296
+00:21:04,000 --> 00:21:04,770
+Manager, almost there.
+
+297
+00:21:06,310 --> 00:21:06,810
+Alright.
+
+298
+00:21:08,310 --> 00:21:08,900
+Taking me where?
+
+299
+00:21:08,920 --> 00:21:09,660
+Why are they here?
+
+300
+00:21:13,960 --> 00:21:14,850
+When class ended just now,
+
+301
+00:21:14,870 --> 00:21:15,530
+Takeda told me
+
+302
+00:21:15,630 --> 00:21:17,090
+he'd bring Kondo
+
+303
+00:21:17,110 --> 00:21:18,290
+to apologize to me personally.
+
+304
+00:21:19,480 --> 00:21:20,570
+Didn't expect he'd come so fast.
+
+305
+00:21:20,870 --> 00:21:21,940
+If you want to live, play along.
+
+306
+00:21:26,480 --> 00:21:28,090
+Feels like I'm in a movie today.
+
+307
+00:21:28,110 --> 00:21:28,660
+Way too intense.
+
+308
+00:21:28,680 --> 00:21:30,370
+My head's still spinning.
+
+309
+00:21:30,680 --> 00:21:32,090
+Keep acting as Joseph Lee.
+
+310
+00:21:32,110 --> 00:21:33,290
+We need to shake them off.
+
+311
+00:21:33,310 --> 00:21:34,050
+No tricks.
+
+312
+00:21:34,070 --> 00:21:35,530
+Or neither of us will leave alive.
+
+313
+00:21:40,480 --> 00:21:41,370
+Mr. Lee.
+
+314
+00:21:44,390 --> 00:21:46,330
+Mr. Takeda?
+
+315
+00:21:47,480 --> 00:21:49,020
+Where are you headed?
+
+316
+00:21:49,630 --> 00:21:51,660
+Mr. Takeda, why are you here?
+
+317
+00:21:52,720 --> 00:21:54,460
+I just said earlier
+
+318
+00:21:54,480 --> 00:21:58,330
+Kondo needs to apologize to you.
+
+319
+00:21:58,870 --> 00:22:00,050
+Did you forget?
+
+320
+00:22:02,110 --> 00:22:02,530
+I'm sorry
+
+321
+00:22:03,350 --> 00:22:04,420
+for what happened in class earlier.
+
+322
+00:22:05,040 --> 00:22:05,610
+I acted out of line.
+
+323
+00:22:06,110 --> 00:22:08,050
+I'm really sorry for that.
+
+324
+00:22:13,110 --> 00:22:13,700
+Young people, you know.
+
+325
+00:22:14,830 --> 00:22:15,460
+It's understandable.
+
+326
+00:22:15,870 --> 00:22:17,050
+But keep this in mind,
+
+327
+00:22:17,390 --> 00:22:18,740
+if you don't get something,
+
+328
+00:22:19,150 --> 00:22:20,090
+keep it to yourself.
+
+329
+00:22:20,630 --> 00:22:21,050
+That way,
+
+330
+00:22:21,760 --> 00:22:24,130
+no one will think less of you.
+
+331
+00:22:32,920 --> 00:22:34,290
+Are you heading out?
+
+332
+00:22:34,830 --> 00:22:35,290
+What is it?
+
+333
+00:22:36,070 --> 00:22:36,460
+Mr. Takeda,
+
+334
+00:22:37,390 --> 00:22:38,460
+do I have to report
+
+335
+00:22:39,070 --> 00:22:40,090
+my whereabouts to you now?
+
+336
+00:22:43,110 --> 00:22:43,940
+Mr. Lee,
+
+337
+00:22:44,390 --> 00:22:45,500
+I'm just concerned
+
+338
+00:22:45,520 --> 00:22:46,500
+it might be hard for you to get around.
+
+339
+00:22:47,110 --> 00:22:47,980
+Where are you going?
+
+340
+00:22:48,240 --> 00:22:50,260
+Let me arrange a ride for you.
+
+341
+00:22:50,480 --> 00:22:51,180
+No need.
+
+342
+00:22:51,830 --> 00:22:52,530
+We have our own car.
+
+343
+00:22:54,070 --> 00:22:54,610
+Hold on a sec.
+
+344
+00:22:55,150 --> 00:22:56,660
+Let me help with your bags.
+
+345
+00:22:56,680 --> 00:22:58,610
+Why are you all standing there?
+
+346
+00:22:59,110 --> 00:23:00,370
+Help Mr. Lee with his luggage.
+
+347
+00:23:00,870 --> 00:23:01,090
+Got it.
+
+348
+00:23:12,590 --> 00:23:13,050
+Charlie.
+
+349
+00:23:16,350 --> 00:23:18,610
+We shouldn't let others carry our bags.
+
+350
+00:23:20,870 --> 00:23:22,370
+Don't you know your place?
+
+351
+00:23:23,110 --> 00:23:24,290
+Can't you use your own hands?
+
+352
+00:23:25,870 --> 00:23:26,850
+Sorry, Mr. Takeda.
+
+353
+00:23:26,870 --> 00:23:27,770
+Sorry for the awkward moment.
+
+354
+00:23:28,310 --> 00:23:30,940
+My assistant just got back from the UK.
+
+355
+00:23:31,390 --> 00:23:32,850
+He might still be jet-lagged.
+
+356
+00:23:32,870 --> 00:23:33,810
+So his mind
+
+357
+00:23:34,880 --> 00:23:36,370
+might be a bit fuzzy.
+
+358
+00:23:37,120 --> 00:23:38,100
+Sorry, sir.
+
+359
+00:23:41,630 --> 00:23:42,610
+Hello.
+
+360
+00:23:42,630 --> 00:23:45,370
+I'm Charlie.
+
+361
+00:23:45,870 --> 00:23:47,610
+Nice to meet you.
+
+362
+00:23:49,360 --> 00:23:53,130
+Your Japanese is pretty good.
+
+363
+00:23:55,600 --> 00:23:57,130
+Impressive.
+
+364
+00:23:59,880 --> 00:24:00,650
+Don't just stand there.
+
+365
+00:24:00,830 --> 00:24:02,130
+We're in a hurry.
+
+366
+00:24:04,120 --> 00:24:05,580
+Mr. Lee.
+
+367
+00:24:05,600 --> 00:24:06,380
+Mr. Lee!
+
+368
+00:24:08,120 --> 00:24:09,620
+Hey man, slow down.
+
+369
+00:24:10,080 --> 00:24:11,100
+Joseph Lee can't see a thing.
+
+370
+00:24:11,120 --> 00:24:12,100
+Did you forget?
+
+371
+00:24:13,120 --> 00:24:13,890
+Sorry.
+
+372
+00:24:16,640 --> 00:24:17,570
+Blue car on your right.
+
+373
+00:24:22,830 --> 00:24:23,100
+Bro,
+
+374
+00:24:23,870 --> 00:24:24,850
+that's as far as I can go.
+
+375
+00:24:25,360 --> 00:24:25,940
+Already a big help.
+
+376
+00:24:26,870 --> 00:24:27,940
+Hand me the antidote.
+
+377
+00:24:28,270 --> 00:24:29,620
+Drop me off somewhere quiet later.
+
+378
+00:24:29,640 --> 00:24:30,130
+Just,
+
+379
+00:24:30,150 --> 00:24:30,850
+get yourself out.
+
+380
+00:24:30,870 --> 00:24:31,380
+I can handle it.
+
+381
+00:24:31,680 --> 00:24:32,700
+No, get in the car.
+
+382
+00:24:41,040 --> 00:24:42,370
+I'm your boss.
+
+383
+00:24:45,110 --> 00:24:48,420
+Get someone
+to check the customs records.
+
+384
+00:24:49,070 --> 00:24:51,610
+See if his assistant shows up.
+
+385
+00:24:53,920 --> 00:24:54,420
+Man,
+
+386
+00:24:54,830 --> 00:24:56,090
+you've got nerves of steel.
+
+387
+00:24:56,110 --> 00:24:58,020
+You should be an actor in our troupe.
+
+388
+00:24:58,110 --> 00:24:58,810
+How about this,
+
+389
+00:24:58,830 --> 00:24:59,610
+give me the antidote first.
+
+390
+00:24:59,630 --> 00:25:00,610
+I need to get back and perform.
+
+391
+00:25:00,630 --> 00:25:02,370
+My schedule's packed every day.
+
+392
+00:25:23,110 --> 00:25:24,700
+Their moves seem off.
+
+393
+00:25:30,630 --> 00:25:31,050
+Man,
+
+394
+00:25:31,550 --> 00:25:32,530
+what are you really after?
+
+395
+00:25:33,110 --> 00:25:34,290
+Can't you just listen to me?
+
+396
+00:25:47,830 --> 00:25:48,660
+Isn't that Kobayashi?
+
+397
+00:25:48,870 --> 00:25:50,370
+He's been trailing us.
+
+398
+00:25:50,390 --> 00:25:51,130
+Stay calm.
+
+399
+00:26:24,640 --> 00:26:26,000
+[Props Storage]
+
+400
+00:26:41,830 --> 00:26:44,050
+Why are we at the theatre?
+
+401
+00:26:45,150 --> 00:26:45,420
+Help me.
+
+402
+00:26:48,830 --> 00:26:49,570
+Help me shake them off.
+
+403
+00:26:49,590 --> 00:26:50,370
+How much did Joseph pay you?
+
+404
+00:26:50,390 --> 00:26:50,900
+I'll double it.
+
+405
+00:26:51,110 --> 00:26:51,660
+Man,
+
+406
+00:26:52,110 --> 00:26:52,850
+it's not about the money.
+
+407
+00:26:52,870 --> 00:26:53,610
+It's about life and death.
+
+408
+00:26:53,870 --> 00:26:54,610
+The fix is simple.
+
+409
+00:26:54,630 --> 00:26:55,610
+Hand me the antidote.
+
+410
+00:26:55,720 --> 00:26:56,370
+Just toss him over.
+
+411
+00:26:56,390 --> 00:26:57,090
+We go our separate ways.
+
+412
+00:26:57,110 --> 00:26:57,460
+It's much safer.
+
+413
+00:26:57,480 --> 00:26:58,290
+You've got five and a half hours left.
+
+414
+00:26:58,440 --> 00:26:59,460
+Help or not, it's up to you.
+
+415
+00:27:06,390 --> 00:27:06,850
+Come with me!
+
+416
+00:27:25,870 --> 00:27:27,370
+Quick, over here.
+
+417
+00:27:27,370 --> 00:27:30,720
+[Chaosheng Theatre,
+Public Concession]
+
+418
+00:27:32,350 --> 00:27:33,090
+What even is this place?
+
+419
+00:27:33,630 --> 00:27:35,290
+Props Storage,
+backstage at Chaosheng Theatre.
+
+420
+00:27:36,110 --> 00:27:37,570
+There's a show on up front.
+
+421
+00:27:37,590 --> 00:27:38,740
+Relax, no one's coming.
+
+422
+00:27:38,820 --> 00:27:39,190
+Relax.
+
+423
+00:27:41,390 --> 00:27:42,130
+Everyone, hurry up.
+
+424
+00:27:42,550 --> 00:27:43,610
+Scene one is almost over.
+
+425
+00:27:44,720 --> 00:27:46,460
+You guys, move those props.
+
+426
+00:27:46,920 --> 00:27:47,850
+Hurry.
+
+427
+00:27:50,110 --> 00:27:51,180
+Wait, here.
+
+428
+00:28:11,870 --> 00:28:13,370
+It's impossible they scaled the wall
+
+429
+00:28:13,390 --> 00:28:14,460
+with that suitcase.
+
+430
+00:28:23,960 --> 00:28:24,900
+We do this show every day.
+
+431
+00:28:24,920 --> 00:28:26,050
+How can you still mess up like this?
+
+432
+00:28:27,390 --> 00:28:28,610
+Didn't you say no one's coming?
+
+433
+00:28:28,630 --> 00:28:29,810
+Something unexpected happened.
+
+434
+00:28:31,200 --> 00:28:31,940
+Hurry up and look for it.
+
+435
+00:28:32,680 --> 00:28:33,420
+Go check over there.
+
+436
+00:28:40,830 --> 00:28:41,660
+Where's my cane?
+
+437
+00:28:56,630 --> 00:28:58,370
+Ms. Xian, I found it.
+
+438
+00:28:58,390 --> 00:28:59,700
+Nizi must have been goofing off,
+
+439
+00:28:59,720 --> 00:29:00,850
+and left it over here.
+
+440
+00:29:25,870 --> 00:29:26,820
+Mr. Kondo.
+
+441
+00:29:28,870 --> 00:29:29,820
+Bloodstains.
+
+442
+00:29:31,630 --> 00:29:32,330
+Some over here too.
+
+443
+00:29:35,630 --> 00:29:37,090
+Don't move on your own.
+
+444
+00:29:38,880 --> 00:29:40,180
+They might be inside.
+
+445
+00:29:40,350 --> 00:29:44,020
+We need authorization
+to search this area. Call Mr. Takeda.
+
+446
+00:30:04,600 --> 00:30:05,370
+Bro,
+
+447
+00:30:05,390 --> 00:30:06,140
+see, what did I say?
+
+448
+00:30:08,630 --> 00:30:09,610
+Told you.
+
+449
+00:30:10,630 --> 00:30:14,140
+They just came in for a prop.
+
+450
+00:30:14,390 --> 00:30:15,900
+They won't notice us.
+
+451
+00:30:22,070 --> 00:30:22,610
+Open it.
+
+452
+00:30:23,400 --> 00:30:23,770
+Me?
+
+453
+00:30:24,150 --> 00:30:25,020
+Open.
+
+454
+00:30:41,480 --> 00:30:42,130
+Joseph Lee.
+
+455
+00:30:43,870 --> 00:30:45,130
+Let me get to the point.
+
+456
+00:30:45,150 --> 00:30:46,660
+I'm not here to trouble you.
+
+457
+00:30:47,870 --> 00:30:49,610
+I'm here to invite you.
+
+458
+00:30:50,350 --> 00:30:53,090
+I hope you'll join our side.
+
+459
+00:30:53,150 --> 00:30:54,660
+Be part of us.
+
+460
+00:30:56,390 --> 00:30:58,530
+I don't know how I offended you.
+
+461
+00:30:58,960 --> 00:31:00,570
+At this moment of national crisis,
+
+462
+00:31:01,390 --> 00:31:03,130
+we must put aside personal drama.
+
+463
+00:31:04,680 --> 00:31:05,460
+You,
+
+464
+00:31:05,960 --> 00:31:06,660
+come with me.
+
+465
+00:31:07,590 --> 00:31:08,530
+Any requests?
+
+466
+00:31:09,440 --> 00:31:10,850
+Just let us know what you need.
+
+467
+00:31:12,720 --> 00:31:13,530
+Exactly.
+
+468
+00:31:14,390 --> 00:31:15,180
+Look at him.
+
+469
+00:31:15,830 --> 00:31:17,370
+He's always so open-minded.
+
+470
+00:31:17,870 --> 00:31:18,610
+He already said it,
+
+471
+00:31:18,870 --> 00:31:19,850
+ask for whatever you want.
+
+472
+00:31:20,350 --> 00:31:21,700
+It means you can get anything you want.
+
+473
+00:31:22,110 --> 00:31:22,660
+Right?
+
+474
+00:31:25,110 --> 00:31:26,290
+I want nothing.
+
+475
+00:31:27,390 --> 00:31:28,850
+All I've ever wanted
+
+476
+00:31:31,630 --> 00:31:33,700
+is to beat you myself.
+
+477
+00:31:37,630 --> 00:31:38,130
+You,
+
+478
+00:31:39,870 --> 00:31:40,810
+the prodigy,
+
+479
+00:31:42,830 --> 00:31:44,260
+cracked my encryption model
+
+480
+00:31:44,260 --> 00:31:45,610
+in your second year at Oxford.
+
+481
+00:31:46,390 --> 00:31:47,420
+I put
+
+482
+00:31:48,390 --> 00:31:49,940
+all the hard work to build it.
+
+483
+00:31:50,870 --> 00:31:51,850
+The International Mathematicians
+Association
+
+484
+00:31:51,870 --> 00:31:52,660
+withdrew their invitation
+
+485
+00:31:52,790 --> 00:31:54,330
+because of this.
+
+486
+00:31:54,920 --> 00:31:56,530
+You became the one everyone admired,
+
+487
+00:31:58,480 --> 00:31:58,900
+while I
+
+488
+00:32:00,390 --> 00:32:01,660
+lost everything.
+
+489
+00:32:04,310 --> 00:32:05,420
+From the top,
+
+490
+00:32:07,350 --> 00:32:08,460
+I fell straight into the dirt.
+
+491
+00:32:12,110 --> 00:32:13,420
+Later, just to beat you,
+
+492
+00:32:14,390 --> 00:32:16,570
+I moved into a dark, damp basement.
+
+493
+00:32:16,590 --> 00:32:17,420
+I worked day and night,
+
+494
+00:32:18,390 --> 00:32:19,610
+just to come up with a way
+
+495
+00:32:19,630 --> 00:32:20,700
+to outdo you.
+
+496
+00:32:22,110 --> 00:32:22,900
+Unfortunately,
+
+497
+00:32:23,350 --> 00:32:23,900
+I got brain cancer.
+
+498
+00:32:26,480 --> 00:32:28,370
+It pressed on my optic nerve.
+
+499
+00:32:29,110 --> 00:32:30,050
+Even now,
+
+500
+00:32:30,680 --> 00:32:31,850
+I still remember that day.
+
+501
+00:32:32,870 --> 00:32:34,570
+When I leaned over my desk
+
+502
+00:32:34,590 --> 00:32:36,610
+and wrote the last symbol,
+
+503
+00:32:36,920 --> 00:32:38,610
+I completely became
+
+504
+00:32:39,590 --> 00:32:41,660
+what everyone calls a blind fool.
+
+505
+00:32:43,390 --> 00:32:44,940
+I can't see anything now,
+
+506
+00:32:45,630 --> 00:32:46,850
+but in my mind,
+
+507
+00:32:46,870 --> 00:32:48,130
+I see every single day
+
+508
+00:32:48,590 --> 00:32:49,090
+the way
+
+509
+00:32:50,110 --> 00:32:52,420
+you got their invitation letter
+
+510
+00:32:56,110 --> 00:32:57,090
+and tossed it aside,
+
+511
+00:32:58,110 --> 00:32:59,660
+like it was worthless.
+
+512
+00:33:07,870 --> 00:33:08,700
+Sorry,
+
+513
+00:33:09,870 --> 00:33:11,420
+I honestly have no idea,
+
+514
+00:33:12,480 --> 00:33:13,570
+but if that's the reason,
+
+515
+00:33:14,630 --> 00:33:15,460
+I apologize to you.
+
+516
+00:33:16,070 --> 00:33:16,610
+Look,
+
+517
+00:33:17,870 --> 00:33:18,850
+look, just look.
+
+518
+00:33:19,630 --> 00:33:21,180
+What you ignore
+
+519
+00:33:21,830 --> 00:33:23,810
+is everything I want.
+
+520
+00:33:25,870 --> 00:33:27,900
+So I just want to be your rival.
+
+521
+00:33:28,870 --> 00:33:31,290
+I honestly don't care who I serve.
+
+522
+00:33:31,310 --> 00:33:32,570
+If it's too much, I won't go on.
+
+523
+00:33:33,040 --> 00:33:33,850
+But even if I die,
+
+524
+00:33:34,070 --> 00:33:35,570
+I'll still haunt you, always.
+
+525
+00:33:35,830 --> 00:33:37,770
+You'll never crack my cipher.
+
+526
+00:33:38,070 --> 00:33:38,900
+For the rest of your life,
+
+527
+00:33:39,110 --> 00:33:39,810
+eyes open,
+
+528
+00:33:40,630 --> 00:33:41,090
+eyes shut,
+
+529
+00:33:43,830 --> 00:33:47,050
+you're haunted by this cipher's curse.
+
+530
+00:33:51,150 --> 00:33:52,370
+Want to know the answer?
+
+531
+00:33:56,150 --> 00:33:58,370
+Let's reveal it in hell.
+
+532
+00:34:10,200 --> 00:34:11,650
+Don't you dare die.
+
+533
+00:34:11,670 --> 00:34:12,690
+If you die,
+
+534
+00:34:13,070 --> 00:34:14,100
+I'll be branded a traitor.
+
+535
+00:34:14,120 --> 00:34:15,650
+Nothing I do will prove my innocence.
+
+536
+00:34:17,880 --> 00:34:19,380
+Get your filthy hands off me,
+
+537
+00:34:20,880 --> 00:34:22,650
+lousy extra.
+
+538
+00:34:22,680 --> 00:34:23,850
+How many times have I told you,
+
+539
+00:34:26,240 --> 00:34:27,370
+I'm not some extra.
+
+540
+00:34:27,590 --> 00:34:28,570
+I'm an actor.
+
+541
+00:34:28,880 --> 00:34:30,170
+An actor!
+
+542
+00:34:39,750 --> 00:34:40,690
+Knew it'd be you again.
+
+543
+00:34:40,690 --> 00:34:43,360
+[Xian Biyun, movie star,
+leader of Chaosheng Troupe]
+
+544
+00:34:46,750 --> 00:34:47,250
+Who are you?
+
+545
+00:34:51,190 --> 00:34:51,690
+Bro.
+
+546
+00:34:51,750 --> 00:34:52,380
+Let go!
+
+547
+00:34:52,710 --> 00:34:53,380
+Bro, please don't shoot.
+
+548
+00:34:54,400 --> 00:34:55,460
+That's our boss.
+
+549
+00:34:55,800 --> 00:34:57,380
+She's an actress too, a big star.
+
+550
+00:34:57,880 --> 00:34:58,980
+You know Xian Biyun, right?
+
+551
+00:35:00,520 --> 00:35:01,340
+Don't shoot.
+
+552
+00:35:02,750 --> 00:35:05,500
+Ms. Xian, I picked up a side gig.
+
+553
+00:35:05,840 --> 00:35:08,300
+We're just rehearsing here.
+
+554
+00:35:08,590 --> 00:35:10,380
+This one's fake.
+
+555
+00:35:10,750 --> 00:35:12,730
+It's just a prop, not real.
+
+556
+00:35:13,520 --> 00:35:14,730
+Looks like it's a big job.
+
+557
+00:35:16,360 --> 00:35:17,210
+Are you the lead role?
+
+558
+00:35:26,480 --> 00:35:26,980
+What are you doing?
+
+559
+00:35:30,000 --> 00:35:30,940
+Don't let it go off.
+
+560
+00:35:31,230 --> 00:35:31,940
+Stop.
+
+561
+00:35:31,960 --> 00:35:33,050
+Ms. Xian, step aside.
+
+562
+00:35:45,590 --> 00:35:46,380
+No, wait.
+
+563
+00:35:53,070 --> 00:35:53,610
+Back off.
+
+564
+00:35:56,400 --> 00:35:57,250
+Ding Yi!
+
+565
+00:36:11,840 --> 00:36:13,340
+Joseph Lee!
+
+566
+00:36:18,400 --> 00:36:19,380
+You can't die.
+
+567
+00:36:19,400 --> 00:36:20,530
+You can't die!
+
+568
+00:36:24,000 --> 00:36:25,020
+What did you say?
+
+569
+00:36:26,040 --> 00:36:29,380
+My... cipher
+
+570
+00:36:29,880 --> 00:36:32,020
+will haunt
+
+571
+00:36:32,040 --> 00:36:33,820
+you...
+
+572
+00:36:35,800 --> 00:36:36,980
+for the rest
+
+573
+00:36:37,000 --> 00:36:38,250
+of your life.
+
+574
+00:37:09,590 --> 00:37:10,340
+Mr. Takeda,
+
+575
+00:37:10,360 --> 00:37:10,940
+this way.
+
+576
+00:37:17,240 --> 00:37:25,560
+[Chaosheng Theatre]
+
+577
+00:37:25,590 --> 00:37:28,690
+[Wu, Manager, Chaosheng Troupe]
+Ms. Xian.
+
+578
+00:37:39,230 --> 00:37:39,860
+Ding Yi.
+
+579
+00:37:40,880 --> 00:37:42,860
+Ding Yi, what the hell are you doing?
+
+580
+00:37:43,070 --> 00:37:44,380
+Ms. Xian, they're...
+
+581
+00:37:48,070 --> 00:37:48,980
+Ms. Xian.
+
+582
+00:37:49,880 --> 00:37:50,690
+A group showed up outside.
+
+583
+00:37:51,320 --> 00:37:52,170
+I think they're the Japanese.
+
+584
+00:37:53,630 --> 00:37:55,020
+They've already come into the theatre.
+
+585
+00:37:58,230 --> 00:37:59,500
+How's it looking at the front?
+
+586
+00:38:01,000 --> 00:38:02,380
+The first scene is nearly done.
+
+587
+00:38:03,960 --> 00:38:04,500
+What about them?
+
+588
+00:38:05,550 --> 00:38:05,860
+This...
+
+589
+00:38:12,150 --> 00:38:13,900
+I don't know who you are,
+
+590
+00:38:14,880 --> 00:38:15,820
+but I won't let
+
+591
+00:38:15,840 --> 00:38:16,980
+a few uninvited guests like you
+
+592
+00:38:17,000 --> 00:38:19,340
+mess up the Chaosheng Troupe.
+
+593
+00:38:48,230 --> 00:38:49,020
+Hurry up.
+
+594
+00:38:49,360 --> 00:38:49,690
+Next scene.
+
+595
+00:38:50,550 --> 00:38:50,940
+Come on.
+
+596
+00:38:51,800 --> 00:38:52,380
+Hurry up.
+
+597
+00:38:53,880 --> 00:38:54,820
+Stay busy but don't panic.
+
+598
+00:38:57,360 --> 00:38:57,860
+Watch yourselves.
+
+599
+00:39:00,400 --> 00:39:01,020
+Hi,
+
+600
+00:39:01,920 --> 00:39:02,780
+this is backstage.
+
+601
+00:39:02,960 --> 00:39:03,900
+You can't come in.
+
+602
+00:39:05,590 --> 00:39:06,730
+What are you doing here?
+
+603
+00:39:08,360 --> 00:39:09,690
+I told you already, no entry.
+
+604
+00:39:12,320 --> 00:39:13,940
+Ms. Xian Biyun.
+
+605
+00:39:16,840 --> 00:39:18,420
+I'm Takeda.
+
+606
+00:39:19,560 --> 00:39:22,090
+I work for the Empire of Japan.
+
+607
+00:39:25,080 --> 00:39:25,980
+I just arrived in Shanghai.
+
+608
+00:39:26,000 --> 00:39:29,340
+I've already heard your name, Ms. Xian.
+
+609
+00:39:33,310 --> 00:39:34,610
+Mr. Takeda.
+
+610
+00:39:35,310 --> 00:39:36,060
+You're in the wrong place.
+
+611
+00:39:37,000 --> 00:39:38,420
+If you want to watch,
+go to the audience.
+
+612
+00:39:38,840 --> 00:39:40,060
+Your presence here
+
+613
+00:39:40,080 --> 00:39:41,210
+disrupts our work.
+
+614
+00:39:43,270 --> 00:39:45,690
+Why do you think I'm here for a show?
+
+615
+00:39:48,190 --> 00:39:50,130
+I'm actually looking for someone.
+
+616
+00:39:50,630 --> 00:39:51,610
+Looking for someone?
+
+617
+00:39:55,080 --> 00:39:57,420
+I just spoke to Director William
+
+618
+00:39:57,440 --> 00:39:58,420
+from the Municipal Council.
+
+619
+00:39:58,840 --> 00:40:00,540
+This is the Public Concession.
+
+620
+00:40:00,560 --> 00:40:01,770
+He knows a lot of people here.
+
+621
+00:40:03,110 --> 00:40:06,020
+Want me to ask him for you?
+
+622
+00:40:09,480 --> 00:40:10,380
+It's alright.
+
+623
+00:40:11,230 --> 00:40:13,820
+Before Director William arrives,
+
+624
+00:40:14,920 --> 00:40:17,170
+I'll find who I wanted.
+
+625
+00:40:20,790 --> 00:40:21,610
+Slow down.
+
+626
+00:40:21,630 --> 00:40:22,420
+Be careful.
+
+627
+00:40:28,230 --> 00:40:29,290
+Come on, make some space.
+
+628
+00:40:30,230 --> 00:40:31,820
+Watch out, Mr. Takeda.
+
+629
+00:40:32,630 --> 00:40:33,380
+Careful.
+
+630
+00:41:00,480 --> 00:41:01,130
+Mr. Takeda.
+
+631
+00:41:02,360 --> 00:41:03,540
+The show's about to start.
+
+632
+00:41:03,560 --> 00:41:04,610
+Let's go.
+
+633
+00:41:09,520 --> 00:41:12,210
+Ms. Xian, aren't you on stage tonight?
+
+634
+00:41:14,670 --> 00:41:16,210
+I need to stay with you.
+
+635
+00:41:20,400 --> 00:41:21,250
+Please, this way.
+
+636
+00:41:29,040 --> 00:41:30,170
+Kondo, check over here.
+
+637
+00:41:30,400 --> 00:41:30,770
+Alright.
+
+638
+00:41:31,190 --> 00:41:31,940
+We'll look over there.
+
+639
+00:41:31,960 --> 00:41:32,380
+Yes.
+
+640
+00:41:34,590 --> 00:41:35,250
+Sir, the show's in the front.
+
+641
+00:41:35,270 --> 00:41:36,940
+Move aside!
+
+642
+00:41:47,670 --> 00:41:49,060
+Where are we even going?
+
+643
+00:41:50,110 --> 00:41:51,570
+We're on the stage.
+
+644
+00:41:55,270 --> 00:41:56,250
+Nothing here.
+
+645
+00:41:56,710 --> 00:41:57,690
+Let's check over there.
+
+646
+00:41:58,000 --> 00:41:59,250
+Alright.
+
+647
+00:42:05,590 --> 00:42:06,210
+Hold on tight.
+
+648
+00:42:15,630 --> 00:42:16,420
+Take it slow.
+
+649
+00:42:17,270 --> 00:42:18,020
+Be careful.
+
+650
+00:42:42,400 --> 00:42:43,420
+Mr. Takeda.
+
+651
+00:42:43,710 --> 00:42:44,610
+This way, please.
+
+652
+00:42:48,080 --> 00:42:48,570
+Have a seat.
+
+653
+00:42:51,000 --> 00:42:52,940
+These are my old friends
+from the Municipal Council.
+
+654
+00:43:24,070 --> 00:43:26,790
+♪Flames dancing alone♪
+
+655
+00:43:26,860 --> 00:43:28,480
+♪Broken candle wax♪
+
+656
+00:43:28,610 --> 00:43:30,370
+♪Holding onto the warmth♪
+
+657
+00:43:31,290 --> 00:43:33,940
+♪Eyes tinted red with light♪
+
+658
+00:43:34,070 --> 00:43:36,220
+♪Flickering dimness♪
+
+659
+00:43:36,220 --> 00:43:37,920
+♪A lonely little lamp♪
+
+660
+00:43:38,550 --> 00:43:40,930
+♪Flowers cradle morning dew♪
+
+661
+00:43:41,140 --> 00:43:43,070
+♪Cracked skin♪
+
+662
+00:43:43,070 --> 00:43:44,820
+♪Turns back into earth♪
+
+663
+00:43:45,730 --> 00:43:48,210
+♪When the sun rises♪
+
+664
+00:43:48,470 --> 00:43:49,740
+♪That very first light♪
+
+665
+00:43:49,740 --> 00:43:51,810
+♪Will dance for me♪
+
+666
+00:43:52,860 --> 00:43:55,300
+♪Home lost in the mist♪
+
+667
+00:43:55,610 --> 00:43:57,240
+♪Nowhere to go♪
+
+668
+00:43:57,240 --> 00:43:59,140
+♪And nowhere to retreat♪
+
+669
+00:43:59,940 --> 00:44:02,580
+♪I swallowed the pain again♪
+
+670
+00:44:02,840 --> 00:44:04,680
+♪A real life or a play?♪
+
+671
+00:44:04,680 --> 00:44:06,570
+♪It's hard to tell♪
+
+672
+00:44:07,320 --> 00:44:09,860
+♪Where does the wind go?♪
+
+673
+00:44:10,030 --> 00:44:11,860
+♪Whose window does it shake?♪
+
+674
+00:44:11,860 --> 00:44:13,690
+♪It whispers softly♪
+
+675
+00:44:14,290 --> 00:44:17,010
+♪It rustles in my heart♪
+
+676
+00:44:17,160 --> 00:44:19,140
+♪Maybe you or maybe me♪
+
+677
+00:44:19,140 --> 00:44:20,720
+♪Caught in the sorrow♪
+
+678
+00:44:20,930 --> 00:44:23,990
+♪Someone keeps the watch♪
+
+679
+00:44:24,340 --> 00:44:26,930
+♪On the vast plains♪
+
+680
+00:44:28,030 --> 00:44:31,360
+♪Tears gently fall♪
+
+681
+00:44:31,600 --> 00:44:35,030
+♪Cracked wounds linger on♪
+
+682
+00:44:35,220 --> 00:44:38,280
+♪Someone keeps the watch♪
+
+683
+00:44:38,760 --> 00:44:41,960
+♪Wandering in the shadows♪
+
+684
+00:44:42,370 --> 00:44:44,830
+♪Nightfall closes in♪
+
+685
+00:44:45,060 --> 00:44:49,390
+♪When we turn back, dawn appears♪
+
+686
+00:44:49,570 --> 00:44:51,580
+♪Someone keeps the watch♪
+
+687
+00:44:53,300 --> 00:44:55,840
+♪On the vast plains♪
+
+688
+00:44:56,900 --> 00:44:59,180
+♪Tears gently fall♪
+
+689
+00:45:00,390 --> 00:45:03,670
+♪Cracked wounds linger on♪
+
+690
+00:45:04,290 --> 00:45:07,070
+♪Someone keeps the watch♪
+
+691
+00:45:07,590 --> 00:45:10,710
+♪Wandering in the shadows♪
+
+692
+00:45:11,200 --> 00:45:13,710
+♪Nightfall closes in♪
+
+693
+00:45:13,900 --> 00:45:17,950
+♪When we turn back, dawn appears♪
+
+694
+00:45:18,420 --> 00:45:20,570
+♪Nightfall closes in♪
+
+695
+00:45:21,090 --> 00:45:26,750
+♪When we turn back, dawn appears♪
