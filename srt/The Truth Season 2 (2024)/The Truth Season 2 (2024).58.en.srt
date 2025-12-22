@@ -1,0 +1,7687 @@
+1
+00:00:09,760 --> 00:00:12,920
+"Start Reasoning" Trial Version Game Rules
+
+2
+00:00:12,920 --> 00:00:14,480
+Six players per episode
+
+3
+00:00:14,480 --> 00:00:17,680
+Divided into four suspects and two investigators
+
+4
+00:00:17,680 --> 00:00:19,240
+to solve the case
+
+5
+00:00:19,240 --> 00:00:21,360
+The real culprit is hidden among the suspects
+
+6
+00:00:21,360 --> 00:00:24,160
+The culprit's task is to conceal their identity
+
+7
+00:00:24,160 --> 00:00:26,000
+without being discovered by others
+
+8
+00:00:26,400 --> 00:00:28,760
+Only the real culprit is allowed to lie
+
+9
+00:00:29,600 --> 00:00:30,880
+Notably
+
+10
+00:00:30,880 --> 00:00:32,960
+A new gameplay element is introduced
+
+11
+00:00:32,960 --> 00:00:34,320
+The player who is the culprit
+
+12
+00:00:34,320 --> 00:00:36,320
+if they pass a certain test
+
+13
+00:00:36,320 --> 00:00:38,520
+can choose one investigator
+
+14
+00:00:38,520 --> 00:00:39,840
+from the two
+
+15
+00:00:39,840 --> 00:00:41,560
+to turn into an X
+
+16
+00:00:41,920 --> 00:00:43,920
+X's task is to assist
+
+17
+00:00:43,920 --> 00:00:45,200
+the culprit during the investigation
+
+18
+00:00:45,200 --> 00:00:47,680
+and help them escape detection
+
+19
+00:00:47,680 --> 00:00:49,320
+Victory conditions:
+
+20
+00:00:49,320 --> 00:00:52,920
+After investigation, players vote for the culprit
+
+21
+00:00:52,920 --> 00:00:55,880
+If the culprit gets fewer votes than others
+
+22
+00:00:55,880 --> 00:00:58,160
+the culprit and X win
+
+23
+00:00:58,160 --> 00:01:01,840
+Otherwise, correct voters win
+
+24
+00:01:03,040 --> 00:01:04,200
+Welcome to
+
+25
+00:01:04,200 --> 00:01:06,040
+"Start Reasoning" Trial Version
+
+26
+00:01:06,520 --> 00:01:07,520
+I'm Reason Bao
+
+27
+00:01:08,440 --> 00:01:10,200
+Before the official recording
+
+28
+00:01:10,200 --> 00:01:11,400
+of "Start Reasoning" Season 2
+
+29
+00:01:11,920 --> 00:01:14,520
+we invited Laura, Wang Nengneng
+
+30
+00:01:16,040 --> 00:01:17,920
+Hou Zhuocheng, Yang Ruqing
+
+31
+00:01:17,920 --> 00:01:19,760
+Huang Kai, Hu Minghao
+
+32
+00:01:19,760 --> 00:01:21,960
+six guests to Reason Town
+
+33
+00:01:22,240 --> 00:01:23,840
+for a trial experience
+
+34
+00:01:26,120 --> 00:01:28,160
+Now let me, Reason Bao
+
+35
+00:01:28,160 --> 00:01:29,920
+watch together with everyone
+
+36
+00:01:29,920 --> 00:01:33,440
+and comment on the new residents' performances
+
+37
+00:01:34,040 --> 00:01:36,320
+Yesterday, June 3, 2004
+
+38
+00:01:36,320 --> 00:01:37,760
+marked the first day
+
+39
+00:01:37,760 --> 00:01:39,680
+of the three-day anniversary
+
+40
+00:01:39,680 --> 00:01:40,400
+at Reason Town Art Academy
+
+41
+00:01:40,400 --> 00:01:41,680
+Want to hear some rap?
+
+42
+00:01:41,680 --> 00:01:42,840
+Great but affordable
+
+43
+00:01:42,840 --> 00:01:44,760
+Exit left and scan to pay
+
+44
+00:01:45,080 --> 00:01:47,160
+Several students were rehearsing
+
+45
+00:01:47,160 --> 00:01:48,560
+"Reason Swan Lake" in the auditorium
+
+46
+00:01:49,040 --> 00:01:50,440
+when the screen suddenly showed
+
+47
+00:01:50,440 --> 00:01:52,080
+Zhi Daole's distress video
+
+48
+00:01:56,280 --> 00:01:57,080
+Everyone discovered
+
+49
+00:01:57,080 --> 00:01:59,040
+Zhi Daole dead in the prop cabinet
+
+50
+00:02:04,920 --> 00:02:07,160
+During the subsequent investigation by Tui Tan,
+
+51
+00:02:07,160 --> 00:02:08,360
+an empty piano room
+
+52
+00:02:08,360 --> 00:02:10,600
+revealed the second victim, TYP.
+
+53
+00:02:14,800 --> 00:02:16,520
+As the investigation deepened,
+
+54
+00:02:16,800 --> 00:02:18,920
+they discovered hidden behind the laundry room
+
+55
+00:02:18,920 --> 00:02:20,920
+the Tui Ke Empire.
+
+56
+00:02:20,920 --> 00:02:22,760
+This led to the speculation that both victims
+
+57
+00:02:22,760 --> 00:02:27,240
+might have been the forum moderator and 555 conspiring together.
+
+58
+00:02:27,240 --> 00:02:28,440
+However, regrettably,
+
+59
+00:02:28,440 --> 00:02:30,360
+the group failed to capture the true culprit,
+
+60
+00:02:30,360 --> 00:02:31,760
+allowing them to escape.
+
+61
+00:02:32,200 --> 00:02:33,080
+Bet you didn't see that coming.
+
+62
+00:02:33,080 --> 00:02:35,880
+Meanwhile, Tui Zhen Art Academy's anniversary celebration continues,
+
+63
+00:02:35,880 --> 00:02:37,640
+with the cast of the musical "Tui Goose Lake"
+
+64
+00:02:37,640 --> 00:02:40,440
+preparing for their performance in the small auditorium.
+
+65
+00:02:52,240 --> 00:02:53,040
+Someone died
+
+66
+00:02:53,360 --> 00:02:55,760
+Just as "Swan Lake" was about to begin
+
+67
+00:02:55,760 --> 00:02:57,840
+Everyone was drawn by Xiao Xiao's voice
+
+68
+00:02:57,840 --> 00:02:59,200
+to the backyard
+
+69
+00:02:59,720 --> 00:03:00,320
+Someone died
+
+70
+00:03:00,840 --> 00:03:02,320
+Xiao Xiao told everyone
+
+71
+00:03:02,320 --> 00:03:03,720
+Rui Sibai died in
+
+72
+00:03:03,720 --> 00:03:05,120
+the courtyard of the dormitory
+
+73
+00:03:08,600 --> 00:03:09,400
+Rui Sibai
+
+74
+00:03:14,840 --> 00:03:15,920
+At 11:20 in the morning,
+
+75
+00:03:16,680 --> 00:03:17,840
+I received an anonymous message.
+
+76
+00:03:18,720 --> 00:03:20,040
+It told me to come to the second-floor atrium.
+
+77
+00:03:20,040 --> 00:03:21,040
+As soon as I reached the second floor,
+
+78
+00:03:21,040 --> 00:03:22,000
+I looked through the glass window
+
+79
+00:03:22,000 --> 00:03:23,480
+and saw Sisi lying on the ground.
+
+80
+00:03:24,040 --> 00:03:25,120
+Then from the second-floor window,
+
+81
+00:03:25,120 --> 00:03:26,640
+I noticed the first-floor door was covered in tape.
+
+82
+00:03:28,640 --> 00:03:29,520
+I went downstairs,
+
+83
+00:03:29,520 --> 00:03:30,640
+but found the door wouldn't open
+
+84
+00:03:30,640 --> 00:03:31,640
+because of the tape.
+
+85
+00:03:31,960 --> 00:03:32,840
+So I went to the convenience store
+
+86
+00:03:32,840 --> 00:03:33,960
+and got a utility knife.
+
+87
+00:03:35,640 --> 00:03:37,520
+I used it to cut through the tape along the door seam.
+
+88
+00:03:37,960 --> 00:03:38,800
+When I got inside,
+
+89
+00:03:38,800 --> 00:03:40,080
+she was already dead.
+
+90
+00:03:41,400 --> 00:03:43,120
+I swear I had nothing to do with this.
+
+91
+00:03:43,120 --> 00:03:43,760
+Here's the thing -
+
+92
+00:03:44,120 --> 00:03:44,960
+I'm the only one here
+
+93
+00:03:44,960 --> 00:03:46,040
+who's taken forensic courses.
+
+94
+00:03:46,040 --> 00:03:47,240
+I'll go get the autopsy kit.
+
+95
+00:03:47,720 --> 00:03:48,440
+Okay.
+
+96
+00:03:48,440 --> 00:03:49,120
+Wait for me.
+
+97
+00:03:49,120 --> 00:03:49,640
+Alright.
+
+98
+00:03:49,640 --> 00:03:50,360
+Hurry up.
+
+99
+00:03:51,560 --> 00:03:52,600
+Secure the crime scene.
+
+100
+00:03:52,600 --> 00:03:53,360
+Got it.
+
+101
+00:04:02,040 --> 00:04:04,960
+"Start Reasoning" Experience Version - Case 2
+
+102
+00:04:06,160 --> 00:04:08,800
+The Midnight Curse of Reasoning Arts
+
+103
+00:04:08,800 --> 00:04:10,160
+Officially begins
+
+104
+00:04:10,640 --> 00:04:13,200
+The date is June 4, 2004
+
+105
+00:04:13,200 --> 00:04:15,120
+The victim in this case is Sisi
+
+106
+00:04:15,120 --> 00:04:17,360
+She was a performing arts major
+
+107
+00:04:17,360 --> 00:04:18,600
+A sophomore at Tui Town Art College
+
+108
+00:04:18,760 --> 00:04:20,040
+After preliminary investigation
+
+109
+00:04:20,440 --> 00:04:23,040
+Sisi's death may have been homicide
+
+110
+00:04:23,560 --> 00:04:25,080
+The murderer
+
+111
+00:04:25,080 --> 00:04:25,960
+is likely among
+
+112
+00:04:26,320 --> 00:04:27,600
+Ah Kai
+
+113
+00:04:27,840 --> 00:04:28,640
+Luo Luo
+
+114
+00:04:29,200 --> 00:04:30,080
+Neng Neng
+
+115
+00:04:30,080 --> 00:04:31,800
+and Ming Hao
+
+116
+00:04:31,800 --> 00:04:34,480
+Ru Qing and Zhuo Cheng are temporarily cleared
+
+117
+00:04:34,480 --> 00:04:36,360
+So they'll serve as investigators
+
+118
+00:04:39,480 --> 00:04:40,520
+Both investigators
+
+119
+00:04:40,520 --> 00:04:43,320
+Please remain at the scene for evidence collection
+
+120
+00:04:43,760 --> 00:04:45,080
+We can't look?
+
+121
+00:04:46,720 --> 00:04:48,040
+Suddenly everyone seems suspicious
+
+122
+00:04:50,400 --> 00:04:51,720
+Have a nice time
+
+123
+00:04:53,720 --> 00:04:55,280
+Head first
+
+124
+00:04:59,080 --> 00:05:00,240
+There's something in her pocket
+
+125
+00:05:01,200 --> 00:05:02,120
+I should die
+
+126
+00:05:02,480 --> 00:05:03,720
+It's printed
+
+127
+00:05:11,360 --> 00:05:13,320
+The scaffolding is 6 meters high.
+
+128
+00:05:16,040 --> 00:05:18,280
+She might have fallen from above.
+
+129
+00:05:18,280 --> 00:05:20,280
+But we can't rule out the possibility that she was pushed.
+
+130
+00:05:32,240 --> 00:05:33,640
+It says here that
+
+131
+00:05:33,640 --> 00:05:35,840
+This sign means you can't open it
+
+132
+00:05:35,840 --> 00:05:37,200
+The camera operator is inside
+
+133
+00:05:37,360 --> 00:05:38,480
+Then on her phone
+
+134
+00:05:38,480 --> 00:05:39,920
+Let me see if there's any other information
+
+135
+00:05:40,000 --> 00:05:41,360
+Right, let's check the phone again
+
+136
+00:05:42,840 --> 00:05:43,320
+It's here
+
+137
+00:05:45,640 --> 00:05:47,080
+The killer is
+
+138
+00:05:47,320 --> 00:05:48,760
+10:10 AM
+
+139
+00:05:51,520 --> 00:05:52,800
+I'm Wei from the convenience store
+
+140
+00:05:52,800 --> 00:05:55,240
+My colleague checked the dormitory entrance
+
+141
+00:05:55,240 --> 00:05:56,600
+The surveillance at the store entrance
+
+142
+00:05:58,280 --> 00:06:00,240
+Suddenly Wei appeared
+
+143
+00:06:00,240 --> 00:06:02,800
+Providing a clue to the two investigators
+
+144
+00:06:02,800 --> 00:06:06,480
+So the investigators came to check the store
+
+145
+00:06:06,480 --> 00:06:07,680
+It should be this one
+
+146
+00:06:07,680 --> 00:06:08,520
+There's one here
+
+147
+00:06:08,520 --> 00:06:09,560
+There's one on this computer
+
+148
+00:06:09,560 --> 00:06:12,000
+A chat dialog with the store manager
+
+149
+00:06:12,000 --> 00:06:13,760
+The two investigators at the crime scene
+
+150
+00:06:13,760 --> 00:06:15,160
+After collecting evidence
+
+151
+00:06:15,160 --> 00:06:17,880
+Brought four suspects to the interrogation room
+
+152
+00:06:17,880 --> 00:06:18,520
+For questioning
+
+153
+00:06:20,120 --> 00:06:21,840
+This appears to be a pharmacy
+
+154
+00:06:21,840 --> 00:06:24,640
+But actually it's the town's investigation center
+
+155
+00:06:44,720 --> 00:06:46,000
+Let's all share
+
+156
+00:06:46,000 --> 00:06:48,000
+our connections with the deceased, Sisi.
+
+157
+00:06:48,320 --> 00:06:51,640
+Sisi and I were classmates and roommates.
+
+158
+00:06:51,640 --> 00:06:54,360
+I was Sisi's senior at school.
+
+159
+00:06:54,360 --> 00:06:55,360
+Sisi was my junior.
+
+160
+00:06:55,360 --> 00:06:57,680
+We rehearsed a play together.
+
+161
+00:06:58,560 --> 00:07:00,160
+Sisi and I were classmates.
+
+162
+00:07:00,160 --> 00:07:02,200
+I admired her directing talent.
+
+163
+00:07:02,200 --> 00:07:03,560
+I thought we could have been great
+
+164
+00:07:03,560 --> 00:07:04,400
+creative partners.
+
+165
+00:07:04,400 --> 00:07:06,160
+She created many musicals,
+
+166
+00:07:06,160 --> 00:07:07,480
+and I performed in some of them.
+
+167
+00:07:07,480 --> 00:07:09,920
+But it was purely artistic collaboration.
+
+168
+00:07:10,880 --> 00:07:11,800
+She was my classmate.
+
+169
+00:07:12,640 --> 00:07:14,480
+Her expertise in musical theater
+
+170
+00:07:14,480 --> 00:07:15,320
+was quite remarkable.
+
+171
+00:07:15,320 --> 00:07:17,800
+I really wanted to collaborate with her.
+
+172
+00:07:17,800 --> 00:07:20,360
+Sister Ruisi Bai was my
+
+173
+00:07:20,800 --> 00:07:23,040
+very good director friend.
+
+174
+00:07:23,040 --> 00:07:26,600
+She often helped us rehearse plays.
+
+175
+00:07:26,600 --> 00:07:28,920
+I was also one of the actors
+
+176
+00:07:28,920 --> 00:07:30,360
+in her drama troupe.
+
+177
+00:07:31,400 --> 00:07:34,480
+Alright, now that we've all described
+
+178
+00:07:34,480 --> 00:07:35,960
+our relationships with Ruisi Bai,
+
+179
+00:07:35,960 --> 00:07:37,200
+let's share
+
+180
+00:07:37,200 --> 00:07:38,800
+the crime scene investigation report
+
+181
+00:07:38,800 --> 00:07:40,400
+and the evidence we've collected.
+
+182
+00:07:41,240 --> 00:07:44,600
+First, about today's incident:
+
+183
+00:07:45,040 --> 00:07:46,960
+The victim was Ruisi Bai.
+
+184
+00:07:48,440 --> 00:07:51,360
+The incident occurred on June 4th
+
+185
+00:07:51,360 --> 00:07:53,360
+at 11:40 in the morning.
+
+186
+00:07:53,760 --> 00:07:56,440
+The location was the dormitory courtyard.
+
+187
+00:07:57,520 --> 00:07:59,400
+The evidence we found at the scene:
+
+188
+00:07:59,400 --> 00:08:02,440
+First, the autopsy report
+
+189
+00:08:02,440 --> 00:08:03,960
+provided by classmate Xiao Xiao.
+
+190
+00:08:03,960 --> 00:08:05,920
+Yes, everyone can look at the autopsy report.
+
+191
+00:08:06,680 --> 00:08:08,840
+The victim had ligature marks on her ankles,
+
+192
+00:08:08,840 --> 00:08:10,320
+severe head trauma,
+
+193
+00:08:10,320 --> 00:08:11,440
+intracranial bleeding,
+
+194
+00:08:11,440 --> 00:08:13,680
+and multiple internal organ injuries.
+
+195
+00:08:13,680 --> 00:08:17,240
+Cause of death was an 8-meter fall.
+
+196
+00:08:17,240 --> 00:08:20,000
+Estimated time of death was
+
+197
+00:08:20,000 --> 00:08:20,680
+on June 4th
+
+198
+00:08:20,680 --> 00:08:22,840
+between 10:00 and 11:00 AM.
+
+199
+00:08:24,360 --> 00:08:25,800
+Then I'd like to ask everyone
+
+200
+00:08:25,800 --> 00:08:28,920
+Between 10 to 11 this morning
+
+201
+00:08:29,360 --> 00:08:30,680
+what were you all doing?
+
+202
+00:08:30,680 --> 00:08:31,960
+The detective immediately
+
+203
+00:08:31,960 --> 00:08:33,160
+questioned everyone
+
+204
+00:08:33,160 --> 00:08:34,040
+about their whereabouts
+
+205
+00:08:34,040 --> 00:08:36,040
+between 10 and 11 am
+
+206
+00:08:36,040 --> 00:08:38,640
+trying to find anything unusual
+
+207
+00:08:38,640 --> 00:08:40,240
+Unexpectedly, all four suspects
+
+208
+00:08:40,240 --> 00:08:41,400
+after 10:30 am
+
+209
+00:08:41,400 --> 00:08:43,640
+were paired up together
+
+210
+00:08:43,640 --> 00:08:44,280
+At around 10:30 am
+
+211
+00:08:44,280 --> 00:08:46,040
+I went to find my sister Luo Luo
+
+212
+00:08:46,280 --> 00:08:47,960
+planning to teach her some singing
+
+213
+00:08:47,960 --> 00:08:49,800
+since we were all rehearsing
+
+214
+00:08:49,800 --> 00:08:50,600
+for "Swan Goose Lake"
+
+215
+00:08:50,600 --> 00:08:51,920
+From 10:30 to 11 am
+
+216
+00:08:51,920 --> 00:08:54,400
+A Kai and Luo Luo were in the school courtyard
+
+217
+00:08:54,400 --> 00:08:57,160
+Their conversation turned into an argument
+
+218
+00:08:57,160 --> 00:08:58,720
+and Luo Luo ended up crying
+
+219
+00:08:58,720 --> 00:09:00,400
+While Ming Hao and Neng Neng
+
+220
+00:09:00,400 --> 00:09:02,480
+from 10:30 to 11:15 am
+
+221
+00:09:02,480 --> 00:09:03,880
+were together in the dance studio
+
+222
+00:09:03,880 --> 00:09:06,600
+practicing the fight scene between the Demon King and Prince
+
+223
+00:09:06,920 --> 00:09:08,280
+Before 10:30 am
+
+224
+00:09:08,280 --> 00:09:10,080
+Luo Luo was reading in the courtyard
+
+225
+00:09:10,080 --> 00:09:11,960
+A Kai was practicing vocals in the recording studio
+
+226
+00:09:11,960 --> 00:09:14,560
+Ming Hao was watching a movie by the Wu Ke Nai River
+
+227
+00:09:14,560 --> 00:09:17,280
+Neng Neng was organizing props in the storage room
+
+228
+00:09:20,720 --> 00:09:21,800
+So currently,
+
+229
+00:09:21,800 --> 00:09:23,200
+between 10:30 AM and 11:00 AM,
+
+230
+00:09:23,200 --> 00:09:25,080
+there are basically mutual alibis
+
+231
+00:09:25,080 --> 00:09:26,160
+that can be verified.
+
+232
+00:09:26,160 --> 00:09:27,480
+But between 10:00 AM and 10:30 AM,
+
+233
+00:09:27,480 --> 00:09:28,360
+currently,
+
+234
+00:09:28,360 --> 00:09:29,040
+yes, there are no alibis.
+
+235
+00:09:29,040 --> 00:09:31,520
+Since between 10:30 AM and 11:00 AM,
+
+236
+00:09:31,520 --> 00:09:34,200
+the four suspects were paired together,
+
+237
+00:09:34,200 --> 00:09:36,080
+the preliminary suspicion is
+
+238
+00:09:36,080 --> 00:09:37,600
+that the crime was more likely
+
+239
+00:09:37,600 --> 00:09:39,760
+committed before 10:30 AM.
+
+240
+00:09:39,760 --> 00:09:42,240
+By checking Sisi's phone, we found
+
+241
+00:09:42,240 --> 00:09:43,520
+an unknown number
+
+242
+00:09:43,520 --> 00:09:44,560
+sent a message to Sisi
+
+243
+00:09:44,560 --> 00:09:46,560
+at 10:10 AM.
+
+244
+00:09:46,880 --> 00:09:48,480
+At 10:10 AM,
+
+245
+00:09:49,320 --> 00:09:51,080
+an unknown phone number
+
+246
+00:09:51,080 --> 00:09:53,200
+sent Sisi a message saying:
+
+247
+00:09:53,200 --> 00:09:55,040
+"Come to the laundry room.
+
+248
+00:09:55,040 --> 00:09:57,800
+I'll tell you the truth about Xiao Ai's suicide."
+
+249
+00:09:58,160 --> 00:10:00,800
+The unknown number lured Sisi
+
+250
+00:10:00,800 --> 00:10:01,800
+under the pretense of revealing
+
+251
+00:10:01,800 --> 00:10:03,960
+the truth about Xiao Ai's death.
+
+252
+00:10:03,960 --> 00:10:06,640
+Then, in the convenience store's computer,
+
+253
+00:10:06,640 --> 00:10:10,360
+we found some chat logs.
+
+254
+00:10:10,920 --> 00:10:13,600
+The store clerk mentioned in the logs
+
+255
+00:10:13,600 --> 00:10:16,680
+that Sisi entered the dormitory at 10:15 AM.
+
+256
+00:10:16,680 --> 00:10:19,360
+This proves Sisi was still alive at 10:15.
+
+257
+00:10:19,360 --> 00:10:21,440
+She likely went to the laundry room
+
+258
+00:10:21,440 --> 00:10:23,360
+after receiving the message.
+
+259
+00:10:23,360 --> 00:10:25,120
+The laundry room was where the killer
+
+260
+00:10:25,120 --> 00:10:25,920
+arranged to meet Sisi.
+
+261
+00:10:25,920 --> 00:10:27,520
+Now we can actually
+
+262
+00:10:27,520 --> 00:10:29,040
+narrow down Sisi's time of death
+
+263
+00:10:30,040 --> 00:10:32,320
+to between 10:15 AM and 10:30 AM.
+
+264
+00:10:35,360 --> 00:10:37,080
+Then the investigator turned his attention
+
+265
+00:10:37,080 --> 00:10:38,600
+to the fatal fall height.
+
+266
+00:10:38,600 --> 00:10:39,640
+Let's continue examining
+
+267
+00:10:39,640 --> 00:10:40,960
+this autopsy report.
+
+268
+00:10:41,640 --> 00:10:44,840
+The medical examiner concluded it was an 8-meter fatal fall.
+
+269
+00:10:44,840 --> 00:10:47,560
+The autopsy report indicates an 8-meter fall height.
+
+270
+00:10:47,960 --> 00:10:49,120
+However, at the scene in the courtyard,
+
+271
+00:10:49,120 --> 00:10:50,960
+the highest construction scaffold was only 6 meters.
+
+272
+00:10:50,960 --> 00:10:51,880
+The highest scaffold measured just 6 meters.
+
+273
+00:10:51,880 --> 00:10:54,000
+So there's a height discrepancy.
+
+274
+00:10:54,960 --> 00:10:57,360
+Moreover, since yesterday when student Ai Changge
+
+275
+00:10:57,360 --> 00:10:58,320
+fell into the courtyard,
+
+276
+00:10:58,800 --> 00:11:00,680
+the school has sealed off
+
+277
+00:11:00,680 --> 00:11:03,600
+all windows above the second floor.
+
+278
+00:11:03,800 --> 00:11:06,320
+Eliminating the possibility of falling
+
+279
+00:11:06,320 --> 00:11:07,440
+from upper floor windows.
+
+280
+00:11:08,000 --> 00:11:09,960
+This leaves a temporary mystery:
+
+281
+00:11:09,960 --> 00:11:12,760
+how could she fall 8 meters
+
+282
+00:11:12,760 --> 00:11:15,360
+in a courtyard without that height?
+
+283
+00:11:17,600 --> 00:11:19,480
+The investigator also found
+
+284
+00:11:19,480 --> 00:11:20,760
+ligature marks on the feet
+
+285
+00:11:21,720 --> 00:11:23,520
+and a printed note
+
+286
+00:11:23,520 --> 00:11:26,280
+reading "I deserve to die."
+
+287
+00:11:26,280 --> 00:11:27,840
+Next, Zhuocheng shared
+
+288
+00:11:27,840 --> 00:11:29,880
+the biggest mystery of the case.
+
+289
+00:11:29,880 --> 00:11:31,600
+According to Xiao Xiao's testimony,
+
+290
+00:11:31,600 --> 00:11:33,480
+at 11:20 am,
+
+291
+00:11:33,480 --> 00:11:34,560
+he received an anonymous message
+
+292
+00:11:34,560 --> 00:11:35,680
+telling him to go to the second floor.
+
+293
+00:11:36,160 --> 00:11:37,320
+At 11:20 am,
+
+294
+00:11:37,800 --> 00:11:39,080
+I got an anonymous text
+
+295
+00:11:39,720 --> 00:11:40,880
+telling me to come to the second-floor courtyard.
+
+296
+00:11:40,880 --> 00:11:42,960
+Then from the second-floor window,
+
+297
+00:11:42,960 --> 00:11:45,640
+he saw a girl lying in the courtyard.
+
+298
+00:11:45,640 --> 00:11:47,520
+And the courtyard door
+
+299
+00:11:47,520 --> 00:11:49,160
+was sealed with tape from inside.
+
+300
+00:11:49,160 --> 00:11:51,040
+He rushed down,
+
+301
+00:11:51,040 --> 00:11:52,280
+found the door wouldn't open,
+
+302
+00:11:52,280 --> 00:11:55,040
+went to get a utility knife,
+
+303
+00:11:55,040 --> 00:11:56,760
+cut the tape along the door seam,
+
+304
+00:11:56,760 --> 00:11:58,120
+and entered the courtyard
+
+305
+00:11:58,120 --> 00:11:59,880
+to discover Rui Sisi's body.
+
+306
+00:12:00,480 --> 00:12:04,120
+The courtyard had only one entrance,
+
+307
+00:12:04,120 --> 00:12:05,760
+and as you saw,
+
+308
+00:12:05,760 --> 00:12:08,080
+it was sealed from inside.
+
+309
+00:12:09,640 --> 00:12:12,560
+What's puzzling is:
+
+310
+00:12:12,560 --> 00:12:14,520
+if the killer wanted to fake
+
+311
+00:12:14,520 --> 00:12:15,760
+a falling accident,
+
+312
+00:12:16,320 --> 00:12:18,720
+why seal the door with tape?
+
+313
+00:12:22,360 --> 00:12:24,520
+Could it be that he actually wanted to create
+
+314
+00:12:24,520 --> 00:12:26,720
+the atmosphere of a locked-room scenario?
+
+315
+00:12:26,720 --> 00:12:28,720
+Perhaps he believed that Sisi
+
+316
+00:12:28,720 --> 00:12:30,640
+truly committed suicide
+
+317
+00:12:30,640 --> 00:12:31,480
+rather than being murdered.
+
+318
+00:12:31,480 --> 00:12:33,080
+Right, he wanted to fabricate
+
+319
+00:12:33,080 --> 00:12:35,400
+that she pasted it herself before jumping.
+
+320
+00:12:35,400 --> 00:12:38,000
+Yes, because she wrote "I deserve to die"
+
+321
+00:12:38,000 --> 00:12:41,000
+but this note might have been forged by the killer.
+
+322
+00:12:41,000 --> 00:12:43,320
+So this is a locked-room murder case.
+
+323
+00:12:43,320 --> 00:12:44,560
+What about upstairs?
+
+324
+00:12:44,560 --> 00:12:46,280
+Could someone come down from above?
+
+325
+00:12:46,280 --> 00:12:47,600
+Theoretically, no.
+
+326
+00:12:47,600 --> 00:12:49,160
+Because logistics has already
+
+327
+00:12:49,160 --> 00:12:51,640
+sealed all windows above the second floor.
+
+328
+00:12:51,640 --> 00:12:53,800
+But were there any damages to second-floor windows?
+
+329
+00:12:53,800 --> 00:12:54,120
+No.
+
+330
+00:12:55,120 --> 00:12:56,040
+Meaning they couldn't be opened, right?
+
+331
+00:12:56,040 --> 00:12:56,520
+Correct.
+
+332
+00:12:56,520 --> 00:12:59,080
+Moreover, the convenience store surveillance shows
+
+333
+00:12:59,840 --> 00:13:02,360
+that between 10:00 and 11:30,
+
+334
+00:13:02,360 --> 00:13:04,680
+only Sisi and Xiao Xiao appeared.
+
+335
+00:13:05,120 --> 00:13:07,080
+So how did the murderer disappear from
+
+336
+00:13:07,080 --> 00:13:08,760
+this courtyard locked room
+
+337
+00:13:08,760 --> 00:13:10,960
+and move through the dormitory to commit the crime
+
+338
+00:13:10,960 --> 00:13:13,040
+without being caught on the store's cameras?
+
+339
+00:13:14,160 --> 00:13:15,720
+Therefore, everyone speculates
+
+340
+00:13:15,720 --> 00:13:16,440
+there must be
+
+341
+00:13:16,440 --> 00:13:19,080
+another path that bypasses the dormitory entrance
+
+342
+00:13:19,080 --> 00:13:20,480
+leading to the courtyard.
+
+343
+00:13:30,880 --> 00:13:32,880
+The investigative sharing session comes to an end.
+
+344
+00:13:32,880 --> 00:13:34,080
+Then A-Kai shared
+
+345
+00:13:34,080 --> 00:13:35,680
+the evidence he had found,
+
+346
+00:13:35,680 --> 00:13:37,080
+which brought Neng Neng's hidden secret
+
+347
+00:13:37,080 --> 00:13:39,800
+and concealed murderous intent to light.
+
+348
+00:13:39,800 --> 00:13:41,680
+Neng Neng treasured a sketchbook
+
+349
+00:13:41,680 --> 00:13:43,680
+containing drawings of her younger self
+
+350
+00:13:43,680 --> 00:13:45,680
+and a girl with nine pockmarks
+
+351
+00:13:45,680 --> 00:13:47,800
+named Canary.
+
+352
+00:13:47,800 --> 00:13:50,320
+It documented their happy memories
+
+353
+00:13:50,320 --> 00:13:51,080
+together abroad.
+
+354
+00:13:51,520 --> 00:13:53,400
+There was a drawing of a boy and a girl
+
+355
+00:13:53,400 --> 00:13:54,240
+having a meal together.
+
+356
+00:13:54,240 --> 00:13:55,200
+What does this writing say?
+
+357
+00:13:55,200 --> 00:13:56,320
+Canary.
+
+358
+00:13:57,200 --> 00:13:57,960
+Canary (meaning "goldfinch").
+
+359
+00:13:58,400 --> 00:13:58,960
+It's you.
+
+360
+00:14:01,160 --> 00:14:02,880
+You actually know such an obscure word.
+
+361
+00:14:04,320 --> 00:14:05,920
+Pushing the Eiffel Tower,
+
+362
+00:14:05,920 --> 00:14:07,280
+seven-star Michelin restaurants...
+
+363
+00:14:07,760 --> 00:14:08,720
+You seem quite proud of yourself.
+
+364
+00:14:08,720 --> 00:14:09,920
+No, I'm not.
+
+365
+00:14:09,920 --> 00:14:11,680
+So this is a drawing of you and me?
+
+366
+00:14:12,000 --> 00:14:13,000
+Isn't that right, Neng Neng?
+
+367
+00:14:15,320 --> 00:14:16,320
+Just when everyone thought
+
+368
+00:14:16,320 --> 00:14:17,240
+this Canary
+
+369
+00:14:17,240 --> 00:14:19,280
+was Luo Luo from childhood,
+
+370
+00:14:19,280 --> 00:14:21,560
+a suicide letter revealed the truth.
+
+371
+00:14:21,600 --> 00:14:22,320
+Terrence
+
+372
+00:14:22,320 --> 00:14:23,280
+so it was you all along?
+
+373
+00:14:23,280 --> 00:14:23,840
+This...
+
+374
+00:14:25,240 --> 00:14:26,800
+I want to say goodbye to you.
+
+375
+00:14:26,800 --> 00:14:28,080
+Please don't think it's sudden.
+
+376
+00:14:28,080 --> 00:14:29,680
+Let me tell you a story.
+
+377
+00:14:30,440 --> 00:14:32,440
+Until you transferred to our class,
+
+378
+00:14:32,440 --> 00:14:33,640
+even after all these years,
+
+379
+00:14:33,640 --> 00:14:35,640
+I recognized you at first sight.
+
+380
+00:14:35,640 --> 00:14:37,120
+I just never expected
+
+381
+00:14:37,120 --> 00:14:38,800
+you'd become one of those
+
+382
+00:14:38,800 --> 00:14:40,040
+who ignore me in the crowd.
+
+383
+00:14:40,040 --> 00:14:41,200
+But still, thank you
+
+384
+00:14:41,200 --> 00:14:43,840
+for giving me those pure, beautiful memories.
+
+385
+00:14:43,840 --> 00:14:44,680
+I'm leaving now.
+
+386
+00:14:44,680 --> 00:14:46,400
+I hope your future is smooth sailing,
+
+387
+00:14:46,400 --> 00:14:47,280
+filled with happiness and joy.
+
+388
+00:14:47,600 --> 00:14:50,480
+A Canary who will sing no more.
+
+389
+00:14:50,480 --> 00:14:51,520
+Ai Singing who fell from the building...
+
+390
+00:14:51,520 --> 00:14:52,480
+Yes,
+
+391
+00:14:54,640 --> 00:14:55,120
+Luo Luo.
+
+392
+00:14:55,480 --> 00:14:57,960
+He's grieving for her.
+
+393
+00:14:57,960 --> 00:14:59,480
+Explain yourself clearly.
+
+394
+00:15:02,360 --> 00:15:03,480
+Does everyone remember yesterday?
+
+395
+00:15:03,480 --> 00:15:04,560
+After 10 o'clock at night,
+
+396
+00:15:04,560 --> 00:15:06,520
+I found a letter
+
+397
+00:15:06,520 --> 00:15:07,760
+slipped through the dormitory door.
+
+398
+00:15:07,760 --> 00:15:09,120
+It's the letter you're holding now.
+
+399
+00:15:10,680 --> 00:15:12,880
+Actually, since last September
+
+400
+00:15:13,800 --> 00:15:14,840
+after joining Tuiyi
+
+401
+00:15:15,560 --> 00:15:17,160
+I suddenly saw Luoluo
+
+402
+00:15:18,360 --> 00:15:19,480
+who had nine pimples
+
+403
+00:15:20,040 --> 00:15:21,240
+and was also called Canary
+
+404
+00:15:21,800 --> 00:15:24,920
+I was certain she was the one I met
+
+405
+00:15:26,440 --> 00:15:29,160
+by the Tuina riverside ten years ago
+
+406
+00:15:34,200 --> 00:15:35,080
+Substitute Literature
+
+407
+00:15:35,080 --> 00:15:36,720
+You treated my sister as a substitute
+
+408
+00:15:37,840 --> 00:15:38,560
+Exactly
+
+409
+00:15:42,160 --> 00:15:44,720
+But I still feel remorse towards her
+
+410
+00:15:44,720 --> 00:15:46,080
+At the same time, I feel
+
+411
+00:15:46,080 --> 00:15:47,760
+longing for the real Canary
+
+412
+00:15:47,760 --> 00:15:51,000
+Because she ultimately fell down the air shaft
+
+413
+00:15:51,000 --> 00:15:52,320
+was taken to the hospital
+
+414
+00:15:52,960 --> 00:15:54,040
+but couldn't be saved
+
+415
+00:15:54,040 --> 00:15:55,800
+My heart is filled with anguish
+
+416
+00:15:56,360 --> 00:15:58,640
+It turns out Nengneng and Luoluo's love
+
+417
+00:15:58,640 --> 00:16:00,400
+originated from a misunderstanding
+
+418
+00:16:00,400 --> 00:16:02,480
+while the real Canary, Ai Singing
+
+419
+00:16:02,480 --> 00:16:03,840
+Ai Singing jumped to her death
+
+420
+00:16:04,120 --> 00:16:05,760
+She already fell to her death
+
+421
+00:16:05,760 --> 00:16:07,560
+When Nengneng was grief-stricken
+
+422
+00:16:07,560 --> 00:16:09,800
+she received an anonymous private message
+
+423
+00:16:09,800 --> 00:16:10,920
+on Tweet Empire
+
+424
+00:16:10,920 --> 00:16:12,240
+The message described how
+
+425
+00:16:12,240 --> 00:16:14,080
+the school bully Rui Sibai
+
+426
+00:16:14,080 --> 00:16:14,800
+Rui Sibai
+
+427
+00:16:14,800 --> 00:16:16,960
+bullied Ai Singing
+
+428
+00:16:16,960 --> 00:16:18,000
+Rui Sibai rigged the votes
+
+429
+00:16:18,000 --> 00:16:19,600
+causing Ai Singing
+
+430
+00:16:19,600 --> 00:16:21,360
+to become last place
+
+431
+00:16:21,360 --> 00:16:22,680
+in the Talent Star voting
+
+432
+00:16:22,680 --> 00:16:25,440
+Afterwards, Ai Singing was ostracized
+
+433
+00:16:25,440 --> 00:16:26,680
+treated as invisible
+
+434
+00:16:26,680 --> 00:16:28,760
+It's speculated that when Talent Star
+
+435
+00:16:28,760 --> 00:16:30,200
+held another competition yesterday
+
+436
+00:16:30,200 --> 00:16:31,160
+Ai Singing feared she would
+
+437
+00:16:31,160 --> 00:16:33,400
+still be last place
+
+438
+00:16:33,400 --> 00:16:34,960
+Unable to endure
+
+439
+00:16:34,960 --> 00:16:37,000
+the pain of covert bullying
+
+440
+00:16:37,000 --> 00:16:38,440
+she chose suicide
+
+441
+00:16:41,000 --> 00:16:43,680
+It was around 11 PM that night
+
+442
+00:16:43,680 --> 00:16:45,680
+I was grieving alone by the riverside
+
+443
+00:16:45,680 --> 00:16:46,880
+At midnight
+
+444
+00:16:46,880 --> 00:16:48,520
+I received this private message
+
+445
+00:16:48,520 --> 00:16:50,200
+I'd always been cold to her before
+
+446
+00:16:50,200 --> 00:16:51,640
+Why were you so cold to her?
+
+447
+00:16:52,040 --> 00:16:53,480
+Because classmates would tell me
+
+448
+00:16:53,480 --> 00:16:55,040
+to stay away from Ai Singing
+
+449
+00:16:55,520 --> 00:16:56,920
+But I never imagined Ai Singing was actually
+
+450
+00:16:56,920 --> 00:16:58,680
+my former Canary
+
+451
+00:16:58,680 --> 00:17:00,200
+I believe my coldness
+
+452
+00:17:00,200 --> 00:17:01,600
+indirectly caused her death
+
+453
+00:17:02,160 --> 00:17:04,000
+So you hate Rui Sibo deeply
+
+454
+00:17:04,000 --> 00:17:06,280
+Yes, I truly hate Rui Sibo
+
+455
+00:17:09,200 --> 00:17:10,960
+Can you tell me when the message was sent?
+
+456
+00:17:11,400 --> 00:17:12,720
+It was at midnight
+
+457
+00:17:12,720 --> 00:17:13,240
+Midnight
+
+458
+00:17:13,240 --> 00:17:13,720
+Correct
+
+459
+00:17:14,920 --> 00:17:17,320
+Although Rui Sibo bullied Ai Singing
+
+460
+00:17:17,320 --> 00:17:20,560
+but according to the phone we found at the scene
+
+461
+00:17:20,560 --> 00:17:22,520
+the text said "Come to the laundry room"
+
+462
+00:17:22,520 --> 00:17:25,080
+"I'll tell you the truth about Ai Singing's suicide"
+
+463
+00:17:25,080 --> 00:17:27,520
+So it definitely wasn't Rui Sibo
+
+464
+00:17:27,520 --> 00:17:29,680
+who pushed Ai Singing, right?
+
+465
+00:17:29,680 --> 00:17:31,360
+Actually, Rui Sibo was also
+
+466
+00:17:31,800 --> 00:17:32,600
+searching for the truth
+
+467
+00:17:32,600 --> 00:17:35,800
+investigating Ai Singing's suicide
+
+468
+00:17:36,680 --> 00:17:38,800
+Then why would Rui Sibo investigate
+
+469
+00:17:38,800 --> 00:17:41,000
+the suicide of someone she bullied?
+
+470
+00:17:41,000 --> 00:17:44,480
+This logic seems very strange to me
+
+471
+00:17:45,720 --> 00:17:48,320
+So it's possible that Ai Singing
+
+472
+00:17:48,320 --> 00:17:49,680
+and Rui Sibo
+
+473
+00:17:49,680 --> 00:17:51,400
+had some other connection
+
+474
+00:17:51,400 --> 00:17:53,800
+It shouldn't just be a simple bully-victim relationship
+
+475
+00:17:53,800 --> 00:17:54,200
+Right
+
+476
+00:17:56,160 --> 00:17:57,400
+And is it possible that
+
+477
+00:17:57,400 --> 00:17:59,480
+the text message from that unknown phone
+
+478
+00:17:59,480 --> 00:18:02,240
+and the one saying "I know the truth" to Huinengneng
+
+479
+00:18:02,240 --> 00:18:03,680
+were sent by the same person?
+
+480
+00:18:08,280 --> 00:18:09,600
+The next piece of evidence is
+
+481
+00:18:09,600 --> 00:18:11,160
+a large piece of tree bark
+
+482
+00:18:11,840 --> 00:18:13,880
+with a pig's nose imprint on it.
+
+483
+00:18:14,560 --> 00:18:16,120
+Actually, after midnight,
+
+484
+00:18:16,120 --> 00:18:17,000
+after receiving that private message,
+
+485
+00:18:17,000 --> 00:18:19,600
+I went to the common areas of the dormitory
+
+486
+00:18:19,920 --> 00:18:20,520
+to walk around
+
+487
+00:18:20,520 --> 00:18:21,360
+and clear my mind.
+
+488
+00:18:21,360 --> 00:18:23,520
+Then I suddenly realized I'd left my phone behind,
+
+489
+00:18:23,520 --> 00:18:26,200
+so I returned to the Wukenai River.
+
+490
+00:18:26,200 --> 00:18:27,080
+Just as I found it,
+
+491
+00:18:27,080 --> 00:18:28,240
+I heard a loud bang -
+
+492
+00:18:28,240 --> 00:18:30,320
+two trees suddenly fell down.
+
+493
+00:18:30,320 --> 00:18:32,480
+That's when I saw a pig-headed monster
+
+494
+00:18:33,920 --> 00:18:35,120
+ramming into trees.
+
+495
+00:18:36,160 --> 00:18:37,760
+The pig-headed monster was knocking down trees.
+
+496
+00:18:37,760 --> 00:18:39,560
+After the monster finished,
+
+497
+00:18:39,560 --> 00:18:41,240
+I collected some evidence under the trees
+
+498
+00:18:41,240 --> 00:18:42,640
+and obtained this
+
+499
+00:18:42,640 --> 00:18:44,720
+piece of bark with the pig's nose imprint.
+
+500
+00:18:44,720 --> 00:18:47,120
+Then ahead there was a dinosaur monster.
+
+501
+00:18:49,880 --> 00:18:50,920
+Now there's a pig-headed monster too
+
+502
+00:18:50,920 --> 00:18:52,280
+I'm utterly astonished
+
+503
+00:19:00,920 --> 00:19:02,800
+The pig-headed monster crashed into a tree
+
+504
+00:19:02,800 --> 00:19:03,360
+So terrifying
+
+505
+00:19:03,360 --> 00:19:04,280
+What's even scarier is
+
+506
+00:19:04,280 --> 00:19:06,480
+the pig-headed monster appeared right after
+
+507
+00:19:06,480 --> 00:19:07,920
+Luo Luo found Ming Hao's
+
+508
+00:19:07,920 --> 00:19:10,400
+T-shirt covered in leaves and mud
+
+509
+00:19:10,400 --> 00:19:10,960
+pants
+
+510
+00:19:10,960 --> 00:19:11,880
+prop handcuffs
+
+511
+00:19:11,880 --> 00:19:13,840
+During questioning, Ming Hao described
+
+512
+00:19:13,840 --> 00:19:16,800
+how he turned into a pig-headed monster at midnight
+
+513
+00:19:17,000 --> 00:19:18,760
+"I was sleeping last night
+
+514
+00:19:18,760 --> 00:19:20,560
+when suddenly I felt like I was hit
+
+515
+00:19:20,560 --> 00:19:21,760
+Then I opened my eyes
+
+516
+00:19:21,760 --> 00:19:23,320
+and saw not the dorm room
+
+517
+00:19:23,320 --> 00:19:24,360
+but a riverside
+
+518
+00:19:25,760 --> 00:19:27,880
+There were two fallen trees
+
+519
+00:19:27,880 --> 00:19:29,440
+I was really confused
+
+520
+00:19:29,440 --> 00:19:31,440
+and wondered why I was there
+
+521
+00:19:31,640 --> 00:19:32,960
+I tried to wipe my face
+
+522
+00:19:32,960 --> 00:19:34,520
+to see what was going on
+
+523
+00:19:34,520 --> 00:19:36,280
+Then I felt a pig snout
+
+524
+00:19:37,480 --> 00:19:38,800
+You also felt a pig snout?
+
+525
+00:19:38,800 --> 00:19:40,080
+You touched your face and felt a pig snout?
+
+526
+00:19:40,080 --> 00:19:41,280
+Yes, I touched my head
+
+527
+00:19:41,280 --> 00:19:42,240
+and felt it was huge
+
+528
+00:19:42,240 --> 00:19:44,440
+Then my ears moved upward
+
+529
+00:19:44,880 --> 00:19:46,160
+When I reached the dorm
+
+530
+00:19:46,160 --> 00:19:48,160
+I saw my reflection in the door
+
+531
+00:19:48,880 --> 00:19:50,800
+and realized my head had turned into a pig's
+
+532
+00:19:51,400 --> 00:19:52,840
+He is the pig-headed monster
+
+533
+00:19:54,560 --> 00:19:55,800
+I didn't want to be seen by others either
+
+534
+00:19:55,800 --> 00:19:56,960
+But I was also afraid to say
+
+535
+00:19:56,960 --> 00:19:58,160
+Because I was initially in the dorm
+
+536
+00:19:58,160 --> 00:19:59,040
+Then later went to the riverside
+
+537
+00:19:59,040 --> 00:20:00,480
+Could it have been sleepwalking?
+
+538
+00:20:00,480 --> 00:20:02,720
+Then I was afraid I'd fall asleep and sleepwalk around again
+
+539
+00:20:02,720 --> 00:20:04,840
+So I went to the prop storage
+
+540
+00:20:04,840 --> 00:20:07,000
+And took one of those
+
+541
+00:20:07,000 --> 00:20:07,480
+Handcuffs
+
+542
+00:20:08,560 --> 00:20:09,400
+After taking them
+
+543
+00:20:09,400 --> 00:20:11,160
+I went straight back to the dorm
+
+544
+00:20:11,160 --> 00:20:13,520
+Then handcuffed myself to the bed and fell asleep
+
+545
+00:20:13,920 --> 00:20:14,840
+Do you roughly know when
+
+546
+00:20:14,840 --> 00:20:15,680
+You returned to the dorm?
+
+547
+00:20:16,080 --> 00:20:16,680
+I don't know that
+
+548
+00:20:16,680 --> 00:20:18,600
+I only know it was
+
+549
+00:20:18,600 --> 00:20:19,280
+After 12 at night
+
+550
+00:20:19,280 --> 00:20:20,840
+Because at that time I
+
+551
+00:20:20,840 --> 00:20:23,040
+Wasn't in the mood to check my phone
+
+552
+00:20:23,040 --> 00:20:24,480
+Or confirm the time or anything
+
+553
+00:20:24,480 --> 00:20:27,000
+Then under Minghao's bed
+
+554
+00:20:27,000 --> 00:20:30,680
+There was a blood-stained shirt
+
+555
+00:20:30,960 --> 00:20:33,080
+Why was that?
+
+556
+00:20:34,800 --> 00:20:36,400
+Before I turned into the pig-headed monster,
+
+557
+00:20:36,400 --> 00:20:39,880
+I was writing lyrics for my own rap song.
+
+558
+00:20:39,880 --> 00:20:41,720
+Suddenly, I heard in the hallway
+
+559
+00:20:41,720 --> 00:20:42,800
+hurried footsteps
+
+560
+00:20:42,800 --> 00:20:44,360
+and some moaning sounds,
+
+561
+00:20:44,360 --> 00:20:45,960
+like someone was in pain.
+
+562
+00:20:45,960 --> 00:20:47,320
+Then I got curious,
+
+563
+00:20:47,320 --> 00:20:49,400
+so I cracked open the dorm door
+
+564
+00:20:49,400 --> 00:20:50,080
+to peek outside.
+
+565
+00:20:50,080 --> 00:20:53,360
+I saw someone completely wrapped in bandages,
+
+566
+00:20:53,360 --> 00:20:54,720
+still bleeding.
+
+567
+00:20:55,840 --> 00:20:56,840
+Dead or alive?
+
+568
+00:20:56,840 --> 00:20:57,680
+Alive.
+
+569
+00:20:57,680 --> 00:20:58,920
+Because he was carrying something
+
+570
+00:20:58,920 --> 00:21:00,160
+while walking toward the stairwell.
+
+571
+00:21:00,160 --> 00:21:01,600
+He kept looking around,
+
+572
+00:21:01,600 --> 00:21:03,920
+so I quickly and quietly closed the door.
+
+573
+00:21:03,920 --> 00:21:04,880
+I was afraid he might see me.
+
+574
+00:21:04,880 --> 00:21:06,200
+After making sure he was gone,
+
+575
+00:21:06,200 --> 00:21:07,680
+I dared to go out and look.
+
+576
+00:21:07,680 --> 00:21:09,320
+He was indeed no longer in the hallway,
+
+577
+00:21:09,320 --> 00:21:10,840
+but at the stairwell,
+
+578
+00:21:10,840 --> 00:21:12,360
+I saw this
+
+579
+00:21:12,360 --> 00:21:14,120
+bloodstained shirt.
+
+580
+00:21:14,120 --> 00:21:15,840
+Minghao first found
+
+581
+00:21:15,840 --> 00:21:17,640
+the blood-soaked bandaged man's
+
+582
+00:21:17,640 --> 00:21:19,040
+dropped bloody shirt.
+
+583
+00:21:19,040 --> 00:21:20,320
+Then he woke up from a nightmare,
+
+584
+00:21:20,320 --> 00:21:22,760
+only to find he had turned into a pig-headed monster.
+
+585
+00:21:22,760 --> 00:21:24,800
+These bizarre incidents
+
+586
+00:21:24,800 --> 00:21:26,440
+seem connected to
+
+587
+00:21:26,440 --> 00:21:27,880
+an online post.
+
+588
+00:21:27,880 --> 00:21:29,800
+Luoluo found on Minghao's computer
+
+589
+00:21:29,800 --> 00:21:32,920
+a campus forum discussion post.
+
+590
+00:21:32,920 --> 00:21:34,280
+The post discussed
+
+591
+00:21:34,280 --> 00:21:36,240
+a musical directed by Ruisibai
+
+592
+00:21:36,240 --> 00:21:36,800
+"Pig Head."
+
+593
+00:21:36,800 --> 00:21:38,800
+"Pig Head" tells the story of a child star
+
+594
+00:21:38,800 --> 00:21:40,120
+who loses himself
+
+595
+00:21:40,120 --> 00:21:42,560
+after achieving early fame.
+
+596
+00:21:42,560 --> 00:21:44,960
+It stars this year's last-place
+
+597
+00:21:44,960 --> 00:21:46,040
+Push Art Star, Hu Jie.
+
+598
+00:21:46,040 --> 00:21:48,560
+"Pig Head" is a pun on "pig-headed,"
+
+599
+00:21:48,560 --> 00:21:49,320
+and this name
+
+600
+00:21:49,320 --> 00:21:53,160
+was what Minghao used to mock Hu Jie.
+
+601
+00:21:53,160 --> 00:21:55,800
+It seems you have
+
+602
+00:21:55,800 --> 00:21:57,320
+some unpleasant history
+
+603
+00:21:57,320 --> 00:21:59,920
+with the male lead of "Pig Head."
+
+604
+00:21:59,920 --> 00:22:01,680
+May I ask what happened?
+
+605
+00:22:03,280 --> 00:22:04,320
+I wouldn't say I hate him.
+
+606
+00:22:04,320 --> 00:22:05,320
+Just find him a bit annoying.
+
+607
+00:22:05,320 --> 00:22:07,080
+It was around March last year.
+
+608
+00:22:07,080 --> 00:22:09,840
+He transferred to our program at Tuiyi.
+
+609
+00:22:09,840 --> 00:22:10,640
+But back then,
+
+610
+00:22:10,640 --> 00:22:12,640
+I was too busy dating Luoluo
+
+611
+00:22:13,400 --> 00:22:14,480
+to pay much attention to him.
+
+612
+00:22:14,880 --> 00:22:15,960
+However, when I slept,
+
+613
+00:22:15,960 --> 00:22:17,040
+I kept hearing someone snoring.
+
+614
+00:22:17,040 --> 00:22:18,880
+The snoring would go up and down,
+
+615
+00:22:18,880 --> 00:22:20,480
+and was intermittent.
+
+616
+00:22:20,480 --> 00:22:21,320
+This snoring
+
+617
+00:22:21,320 --> 00:22:22,800
+really affected my sleep.
+
+618
+00:22:22,800 --> 00:22:24,480
+To the point that during several performances,
+
+619
+00:22:24,480 --> 00:22:26,680
+I was yawning while rapping on stage.
+
+620
+00:22:27,320 --> 00:22:28,120
+So I decided
+
+621
+00:22:28,120 --> 00:22:29,920
+I had to find out who was snoring.
+
+622
+00:22:29,920 --> 00:22:32,200
+I pressed my ear against every dorm door,
+
+623
+00:22:32,200 --> 00:22:33,280
+listening one by one.
+
+624
+00:22:34,200 --> 00:22:36,840
+Finally traced it to A-Kai and Hu Jie's room.
+
+625
+00:22:36,840 --> 00:22:37,600
+where it was coming from.
+
+626
+00:22:37,960 --> 00:22:39,320
+I knocked on their door,
+
+627
+00:22:39,320 --> 00:22:40,120
+and when it opened,
+
+628
+00:22:40,120 --> 00:22:40,800
+Hu Jie wasn't there,
+
+629
+00:22:40,800 --> 00:22:41,520
+only A-Kai was.
+
+630
+00:22:41,520 --> 00:22:42,480
+So I asked A-Kai,
+
+631
+00:22:42,480 --> 00:22:44,480
+"Is Hu Jie the one who snores every night?"
+
+632
+00:22:44,480 --> 00:22:46,800
+And A-Kai said it was Hu Jie.
+
+633
+00:22:46,800 --> 00:22:49,000
+So I concluded that Hu Jie
+
+634
+00:22:49,000 --> 00:22:49,960
+was the snorer,
+
+635
+00:22:49,960 --> 00:22:50,960
+the culprit.
+
+636
+00:22:50,960 --> 00:22:52,880
+Yes, that's my grudge against Hu Jie.
+
+637
+00:22:53,280 --> 00:22:54,800
+Because Hu Jie's snoring
+
+638
+00:22:54,800 --> 00:22:56,920
+affected Minghao's performance.
+
+639
+00:22:56,920 --> 00:22:58,720
+So to get back at Hu Jie,
+
+640
+00:22:58,720 --> 00:23:01,080
+Minghao nicknamed him "Piggy."
+
+641
+00:23:01,080 --> 00:23:03,400
+Hu Jie embarrassed me during performances,
+
+642
+00:23:03,400 --> 00:23:04,800
+so I wanted him
+
+643
+00:23:04,800 --> 00:23:06,280
+to taste some embarrassment too.
+
+644
+00:23:09,840 --> 00:23:10,720
+People speculate
+
+645
+00:23:10,720 --> 00:23:13,200
+there might be a connection between "Piggy" and Minghao turning into a pig-headed monster.
+
+646
+00:23:13,200 --> 00:23:14,760
+(Repeats speculation from previous line)
+
+647
+00:23:14,760 --> 00:23:15,720
+Coincidentally,
+
+648
+00:23:15,720 --> 00:23:17,640
+A-Kai also experienced
+
+649
+00:23:17,640 --> 00:23:20,080
+something bizarre last night.
+
+650
+00:23:20,080 --> 00:23:22,960
+The sheets, pillowcases, and even his pants...
+
+651
+00:23:24,320 --> 00:23:26,520
+Okay, let's spread out the bedsheet and take a look.
+
+652
+00:23:26,520 --> 00:23:28,280
+Really, is there something...
+
+653
+00:23:28,720 --> 00:23:30,120
+There's a watermark.
+
+654
+00:23:31,120 --> 00:23:33,040
+Bedwetting.
+
+655
+00:23:34,280 --> 00:23:35,680
+The whole thing is damp with bloodstains.
+
+656
+00:23:39,080 --> 00:23:40,560
+Last night when I was almost asleep,
+
+657
+00:23:40,560 --> 00:23:42,320
+I vaguely felt
+
+658
+00:23:42,320 --> 00:23:43,240
+intense pain all over my body.
+
+659
+00:23:43,240 --> 00:23:44,320
+When I opened my eyes,
+
+660
+00:23:44,320 --> 00:23:47,200
+I found many wounds appearing on my body.
+
+661
+00:23:49,160 --> 00:23:50,720
+They just appeared out of nowhere.
+
+662
+00:23:50,720 --> 00:23:53,440
+On my chest, belly, and limbs,
+
+663
+00:23:53,440 --> 00:23:54,840
+they were all splitting open.
+
+664
+00:23:54,840 --> 00:23:56,480
+And bleeding.
+
+665
+00:23:56,680 --> 00:23:57,840
+Instinctively, I immediately
+
+666
+00:23:57,840 --> 00:24:00,960
+took out my first aid kit from under my bed.
+
+667
+00:24:00,960 --> 00:24:01,880
+and bandaged myself up.
+
+668
+00:24:01,880 --> 00:24:03,720
+I often got injured doing extra work before,
+
+669
+00:24:04,280 --> 00:24:06,000
+so I'm quite good at bandaging.
+
+670
+00:24:06,000 --> 00:24:09,320
+After bandaging, I changed
+
+671
+00:24:09,320 --> 00:24:09,880
+out of these clothes
+
+672
+00:24:09,880 --> 00:24:11,360
+and took them to the laundry room.
+
+673
+00:24:11,360 --> 00:24:13,320
+So the person Lin Hao saw must have been me.
+
+674
+00:24:14,200 --> 00:24:17,160
+Then I saw someone covered in bandages
+
+675
+00:24:17,160 --> 00:24:17,960
+still bleeding.
+
+676
+00:24:20,960 --> 00:24:22,880
+While running there, it really hurt again,
+
+677
+00:24:22,880 --> 00:24:24,040
+and I kept bleeding.
+
+678
+00:24:28,040 --> 00:24:29,080
+So scary, I'm not watching anymore.
+
+679
+00:24:29,080 --> 00:24:30,240
+Everyone can take a look.
+
+680
+00:24:30,600 --> 00:24:32,760
+It's a blurred shadow.
+
+681
+00:24:32,760 --> 00:24:35,880
+Stealing some food from the convenience store.
+
+682
+00:24:35,880 --> 00:24:37,440
+Yes, it particularly likes to eat dragon beard candy.
+
+683
+00:24:37,440 --> 00:24:38,720
+Look, it took out all the dragon beard candy.
+
+684
+00:24:38,720 --> 00:24:39,720
+It took everything out.
+
+685
+00:24:40,200 --> 00:24:41,600
+Yesterday (June 3rd), wasn't it...
+
+686
+00:24:41,600 --> 00:24:42,640
+After 10:30 PM...
+
+687
+00:24:42,640 --> 00:24:44,960
+we all went our separate ways?
+
+688
+00:24:44,960 --> 00:24:47,320
+Then I went to the front yard...
+
+689
+00:24:47,320 --> 00:24:48,920
+to practice the aria from "Pushing Goose Lake."
+
+690
+00:24:49,280 --> 00:24:50,240
+I checked the time...
+
+691
+00:24:50,240 --> 00:24:51,680
+and it was almost midnight.
+
+692
+00:24:51,680 --> 00:24:54,040
+At that point, I was about to return to the dorm.
+
+693
+00:24:54,040 --> 00:24:55,200
+Then when I got back to the dorm...
+
+694
+00:24:55,200 --> 00:24:57,400
+Just as I stepped into the dorm building...
+
+695
+00:24:57,600 --> 00:24:58,880
+I heard from over there...
+
+696
+00:24:58,880 --> 00:25:00,280
+rustling...
+
+697
+00:25:00,280 --> 00:25:03,040
+scraping and crunching sounds.
+
+698
+00:25:03,320 --> 00:25:04,840
+I thought it was either a thief...
+
+699
+00:25:04,840 --> 00:25:06,760
+or a monster.
+
+700
+00:25:06,760 --> 00:25:08,960
+Because we saw some monsters yesterday too.
+
+701
+00:25:08,960 --> 00:25:10,640
+Then, terrified, I quickly...
+
+702
+00:25:10,640 --> 00:25:11,640
+took a step back.
+
+703
+00:25:11,640 --> 00:25:12,480
+I hid in the corner...
+
+704
+00:25:12,480 --> 00:25:14,680
+and secretly took a photo with my phone.
+
+705
+00:25:15,120 --> 00:25:17,040
+Then I saw it was a dark figure...
+
+706
+00:25:17,040 --> 00:25:18,680
+with dragon beard candy all over the floor.
+
+707
+00:25:19,440 --> 00:25:20,840
+It was frantically eating...
+
+708
+00:25:20,840 --> 00:25:22,760
+as if it was starving.
+
+709
+00:25:22,760 --> 00:25:24,120
+After seeing it, did you do anything?
+
+710
+00:25:24,120 --> 00:25:25,360
+Did you tell anyone else?
+
+711
+00:25:25,360 --> 00:25:26,760
+Did you tell Hu Jie?
+
+712
+00:25:26,760 --> 00:25:29,560
+The strange thing is, Hu Jie wasn't in the dorm.
+
+713
+00:25:30,040 --> 00:25:31,240
+I didn't see him either.
+
+714
+00:25:35,160 --> 00:25:37,640
+Then, Nengneng found another post on the campus forum
+
+715
+00:25:37,640 --> 00:25:39,800
+a top trending thread
+
+716
+00:25:39,800 --> 00:25:42,680
+that turned Hu Jie from a beloved child star
+
+717
+00:25:42,680 --> 00:25:45,080
+into someone everyone despised
+
+718
+00:25:45,080 --> 00:25:45,920
+The post's content
+
+719
+00:25:45,920 --> 00:25:47,800
+was an insider's full exposé on Hu Jie
+
+720
+00:25:47,800 --> 00:25:49,720
+covering everything
+
+721
+00:25:49,720 --> 00:25:51,720
+including but not limited to plastic surgery
+
+722
+00:25:51,720 --> 00:25:52,680
+loud snoring
+
+723
+00:25:52,680 --> 00:25:54,040
+privately insulting fans
+
+724
+00:25:54,040 --> 00:25:55,960
+dating 18 girlfriends simultaneously
+
+725
+00:25:55,960 --> 00:25:57,280
+being late due to arrogance
+
+726
+00:25:57,280 --> 00:25:58,880
+fighting, gambling, and more
+
+727
+00:25:58,880 --> 00:26:01,760
+People suspected A-Kai's intense interest in this post
+
+728
+00:26:01,760 --> 00:26:04,320
+meant he was involved in one of the leaks
+
+729
+00:26:04,320 --> 00:26:05,680
+But it was soon discovered
+
+730
+00:26:05,680 --> 00:26:07,360
+that all the information in the post
+
+731
+00:26:07,360 --> 00:26:08,520
+was leaked by A-Kai himself
+
+732
+00:26:08,520 --> 00:26:10,360
+and all of it was fabricated
+
+733
+00:26:10,360 --> 00:26:11,960
+You've got the gossip
+
+734
+00:26:14,360 --> 00:26:16,560
+Accounts of random people A, B, C, D
+
+735
+00:26:16,640 --> 00:26:18,840
+It's not that he has all of these
+
+736
+00:26:18,840 --> 00:26:19,920
+Fake accounts
+
+737
+00:26:20,440 --> 00:26:22,480
+Then there's plastic surgery mentioned behind
+
+738
+00:26:22,480 --> 00:26:23,320
+Badmouthing fans behind their backs
+
+739
+00:26:23,320 --> 00:26:24,720
+Dating eighteen girlfriends simultaneously
+
+740
+00:26:24,720 --> 00:26:25,800
+Seems we don't even need to fabricate evidence
+
+741
+00:26:25,800 --> 00:26:27,200
+Now people will believe whatever is said
+
+742
+00:26:27,200 --> 00:26:28,360
+You little hater
+
+743
+00:26:28,360 --> 00:26:30,680
+What exactly is between you and Hu Jie
+
+744
+00:26:30,680 --> 00:26:31,920
+Such deep-seated hatred?
+
+745
+00:26:31,920 --> 00:26:34,240
+On the tallest thread in the forum
+
+746
+00:26:34,240 --> 00:26:35,640
+Spreading rumors about him
+
+747
+00:26:35,920 --> 00:26:36,960
+I just asked him if even one
+
+748
+00:26:36,960 --> 00:26:37,520
+Was posted by him
+
+749
+00:26:37,520 --> 00:26:38,560
+Turns out all of them were posted by him
+
+750
+00:26:40,880 --> 00:26:41,800
+LOL
+
+751
+00:26:41,800 --> 00:26:43,000
+Come on, haters
+
+752
+00:26:43,840 --> 00:26:45,240
+So cyberbullying was your doing
+
+753
+00:26:45,560 --> 00:26:46,400
+Now, explain this
+
+754
+00:26:46,720 --> 00:26:47,680
+June 10, 2003
+
+755
+00:26:47,680 --> 00:26:49,560
+In our town Tui Zhen
+
+756
+00:26:49,560 --> 00:26:51,720
+The latest issue of "Tui Zhen Gossip"
+
+757
+00:26:51,720 --> 00:26:54,000
+I saw an article that infuriated me
+
+758
+00:26:54,000 --> 00:26:56,360
+Claiming child stars are better than grassroots actors
+
+759
+00:26:56,360 --> 00:26:58,520
+The epic "Ambush in Plain Sight"
+
+760
+00:26:58,520 --> 00:26:59,840
+Might be replacing the male lead
+
+761
+00:26:59,840 --> 00:27:01,440
+When I had already agreed with the director
+
+762
+00:27:01,440 --> 00:27:02,480
+That I would be the male lead
+
+763
+00:27:03,680 --> 00:27:05,480
+But they claimed with certainty I'd be replaced
+
+764
+00:27:05,480 --> 00:27:06,840
+And have Hu Jie take the role
+
+765
+00:27:07,400 --> 00:27:08,720
+This made me furious
+
+766
+00:27:08,720 --> 00:27:11,120
+Why does everyone adore him
+
+767
+00:27:11,120 --> 00:27:12,680
+While the media just uses me
+
+768
+00:27:12,680 --> 00:27:13,840
+As a tool to promote him
+
+769
+00:27:14,640 --> 00:27:16,760
+I thought since everyone believes
+
+770
+00:27:16,760 --> 00:27:17,760
+He's so brilliant
+
+771
+00:27:17,760 --> 00:27:19,400
+I would destroy him
+
+772
+00:27:20,560 --> 00:27:22,200
+Ruin his public image completely
+
+773
+00:27:22,200 --> 00:27:23,360
+So on June 12
+
+774
+00:27:23,360 --> 00:27:25,800
+I registered a Guagua Le account
+
+775
+00:27:25,800 --> 00:27:27,400
+Posted my first article
+
+776
+00:27:27,400 --> 00:27:29,240
+Created many derivative works
+
+777
+00:27:30,280 --> 00:27:30,920
+Derivative content
+
+778
+00:27:31,760 --> 00:27:33,440
+Produced lots of derivative works
+
+779
+00:27:33,440 --> 00:27:35,400
+Fabricating damaging rumors
+
+780
+00:27:35,600 --> 00:27:36,440
+But I felt
+
+781
+00:27:36,440 --> 00:27:37,840
+This wasn't convincing enough
+
+782
+00:27:37,840 --> 00:27:39,600
+So I created multiple accounts
+
+783
+00:27:39,600 --> 00:27:40,960
+Random bystanders A, B, C, D
+
+784
+00:27:41,320 --> 00:27:42,840
+And I even fabricated some
+
+785
+00:27:42,840 --> 00:27:44,120
+"Concrete evidence"
+
+786
+00:27:47,440 --> 00:27:49,800
+For example, the rumor about him getting plastic surgery
+
+787
+00:27:49,800 --> 00:27:52,360
+So I photoshopped his pictures to look ugly
+
+788
+00:27:54,360 --> 00:27:55,560
+And the one about insulting fans
+
+789
+00:27:55,560 --> 00:27:57,880
+Actually, I personally heard
+
+790
+00:27:57,880 --> 00:27:58,920
+I heard Hu Jie
+
+791
+00:27:58,920 --> 00:28:01,800
+helping someone with an audition
+
+792
+00:28:01,800 --> 00:28:04,120
+But I edited out
+
+793
+00:28:04,120 --> 00:28:04,760
+the context
+
+794
+00:28:04,760 --> 00:28:06,160
+and only kept this part
+
+795
+00:28:06,160 --> 00:28:08,520
+where he seemed to be insulting fans
+
+796
+00:28:08,520 --> 00:28:11,080
+Then I posted the edited audio online
+
+797
+00:28:11,080 --> 00:28:13,000
+The snoring rumor was also made up by me
+
+798
+00:28:13,000 --> 00:28:15,200
+Actually, that snoring sound was me
+
+799
+00:28:15,200 --> 00:28:16,360
+Later when there were
+
+800
+00:28:16,360 --> 00:28:18,400
+so many "proofs" against him
+
+801
+00:28:18,400 --> 00:28:19,680
+many people already disliked him
+
+802
+00:28:19,680 --> 00:28:21,320
+and joined in bashing him online
+
+803
+00:28:21,840 --> 00:28:22,520
+As it progressed
+
+804
+00:28:22,520 --> 00:28:23,880
+more and more rumors emerged
+
+805
+00:28:23,880 --> 00:28:25,040
+When the hype grew bigger
+
+806
+00:28:25,040 --> 00:28:26,880
+people would believe anything I made up
+
+807
+00:28:29,520 --> 00:28:30,920
+A'Kai, out of jealousy
+
+808
+00:28:30,920 --> 00:28:33,760
+spread baseless rumors to slander Hu Jie
+
+809
+00:28:33,760 --> 00:28:36,280
+Then strange phenomena appeared with him covered in blood
+
+810
+00:28:36,280 --> 00:28:38,120
+Similar things happened to
+
+811
+00:28:38,120 --> 00:28:39,040
+Luo Luo
+
+812
+00:28:39,040 --> 00:28:41,360
+Luo Luo never liked dragon beard candy since childhood
+
+813
+00:28:41,360 --> 00:28:42,560
+But last midnight
+
+814
+00:28:42,560 --> 00:28:44,640
+while completely unconscious
+
+815
+00:28:44,640 --> 00:28:47,480
+was found at a store devouring dragon beard candy
+
+816
+00:28:48,120 --> 00:28:49,040
+First question
+
+817
+00:28:54,840 --> 00:28:55,880
+It's quite tasty.
+
+818
+00:28:55,880 --> 00:28:58,440
+Just crispy, crunchy.
+
+819
+00:28:58,440 --> 00:29:00,560
+Just like when it was captured in his photo.
+
+820
+00:29:00,560 --> 00:29:01,960
+That exact moment.
+
+821
+00:29:01,960 --> 00:29:02,800
+The one in the photo.
+
+822
+00:29:02,800 --> 00:29:03,920
+The shadow captured in the photo was you.
+
+823
+00:29:04,240 --> 00:29:04,840
+Yes.
+
+824
+00:29:04,840 --> 00:29:06,680
+Probably, though I'm not sure.
+
+825
+00:29:06,680 --> 00:29:09,160
+Because in my memory,
+
+826
+00:29:09,160 --> 00:29:10,720
+I don't like dragon beard candy.
+
+827
+00:29:10,880 --> 00:29:11,760
+Then why were you there
+
+828
+00:29:11,760 --> 00:29:12,520
+at that time?
+
+829
+00:29:13,200 --> 00:29:16,360
+It's because that day
+
+830
+00:29:16,360 --> 00:29:17,800
+I felt very strange.
+
+831
+00:29:17,800 --> 00:29:19,440
+My head was dizzy and swollen,
+
+832
+00:29:19,440 --> 00:29:21,800
+then suddenly I entered the convenience store.
+
+833
+00:29:21,800 --> 00:29:23,880
+I started eating dragon beard candy.
+
+834
+00:29:23,880 --> 00:29:25,200
+You were conscious.
+
+835
+00:29:25,200 --> 00:29:26,360
+I wasn't conscious.
+
+836
+00:29:28,120 --> 00:29:29,840
+Additionally, Minghao also found
+
+837
+00:29:29,840 --> 00:29:32,320
+the chat records between Luoluo and Ai Singing.
+
+838
+00:29:32,320 --> 00:29:34,080
+They documented how
+
+839
+00:29:34,080 --> 00:29:36,640
+Luoluo emotionally manipulated Ai Singing
+
+840
+00:29:36,640 --> 00:29:37,760
+to serve her own purposes.
+
+841
+00:29:37,760 --> 00:29:39,240
+Then when Ai Singing became
+
+842
+00:29:39,240 --> 00:29:41,200
+the last place in "Star of Pushing Arts",
+
+843
+00:29:41,200 --> 00:29:42,560
+she completely ignored her.
+
+844
+00:29:42,560 --> 00:29:44,400
+This added heavy weight
+
+845
+00:29:44,400 --> 00:29:46,640
+to Ai Singing's suicidal thoughts.
+
+846
+00:29:46,880 --> 00:29:48,320
+It's suffocating me.
+
+847
+00:29:48,920 --> 00:29:49,800
+I'm leaving.
+
+848
+00:29:50,360 --> 00:29:51,000
+Goodbye.
+
+849
+00:29:52,160 --> 00:29:53,880
+I'm not that bad of a person.
+
+850
+00:29:56,720 --> 00:29:58,320
+I've always just liked
+
+851
+00:29:58,320 --> 00:30:00,520
+singing with Sister Ai
+
+852
+00:30:00,520 --> 00:30:02,240
+We lived together
+
+853
+00:30:02,240 --> 00:30:04,200
+She always took good care of me
+
+854
+00:30:04,200 --> 00:30:06,480
+I felt she was like a real sister to me
+
+855
+00:30:06,480 --> 00:30:07,720
+Then why last year
+
+856
+00:30:07,720 --> 00:30:09,920
+did you cut ties with her?
+
+857
+00:30:09,920 --> 00:30:11,040
+Does everyone know about
+
+858
+00:30:11,040 --> 00:30:12,760
+the unwritten rule at school?
+
+859
+00:30:14,520 --> 00:30:18,480
+That the last place in the Talent Star competition
+
+860
+00:30:18,480 --> 00:30:21,200
+can't be spoken to
+
+861
+00:30:21,600 --> 00:30:23,360
+I think Luo Luo's relationship with Ai
+
+862
+00:30:23,360 --> 00:30:24,160
+wasn't so much good
+
+863
+00:30:24,160 --> 00:30:25,640
+as it was that she
+
+864
+00:30:25,640 --> 00:30:26,960
+treated her like a maid
+
+865
+00:30:27,880 --> 00:30:29,080
+That's true actually
+
+866
+00:30:29,080 --> 00:30:30,920
+You saw through her true nature
+
+867
+00:30:31,760 --> 00:30:33,600
+Also, from Luo Luo's
+
+868
+00:30:33,600 --> 00:30:36,320
+dorm check with the supervisor last night
+
+869
+00:30:36,320 --> 00:30:38,560
+no one was in their rooms at that time
+
+870
+00:30:38,560 --> 00:30:41,320
+But Ru Qing claimed she went to bed early
+
+871
+00:30:41,320 --> 00:30:42,960
+Why wasn't she found
+
+872
+00:30:42,960 --> 00:30:44,360
+during the room check?
+
+873
+00:30:44,360 --> 00:30:45,760
+In my memory
+
+874
+00:30:45,760 --> 00:30:47,600
+because of today's performance
+
+875
+00:30:47,600 --> 00:30:50,520
+I actually went to bed at 11 for beauty sleep
+
+876
+00:30:50,520 --> 00:30:52,640
+But Luo Luo just said
+
+877
+00:30:52,640 --> 00:30:54,400
+I wasn't actually in the dorm
+
+878
+00:30:55,800 --> 00:30:57,280
+This is what's strange to me
+
+879
+00:30:57,280 --> 00:30:58,200
+I don't know if it's because
+
+880
+00:30:58,200 --> 00:30:59,720
+I also lost consciousness
+
+881
+00:31:06,080 --> 00:31:07,800
+To summarize one point,
+
+882
+00:31:07,800 --> 00:31:10,000
+A-Kai, Luo Luo and I
+
+883
+00:31:10,000 --> 00:31:12,040
+have all actually engaged in bullying behaviors.
+
+884
+00:31:12,240 --> 00:31:13,200
+One was spreading rumors,
+
+885
+00:31:13,200 --> 00:31:14,480
+one was giving people nicknames,
+
+886
+00:31:14,480 --> 00:31:15,520
+and one was that cold indifference.
+
+887
+00:31:15,520 --> 00:31:17,640
+That's why we're all experiencing these
+
+888
+00:31:17,640 --> 00:31:18,200
+supernatural phenomena.
+
+889
+00:31:18,200 --> 00:31:19,160
+Just with different targets.
+
+890
+00:31:19,160 --> 00:31:21,160
+So perhaps these phenomena we're experiencing
+
+891
+00:31:21,160 --> 00:31:22,800
+are punishments for our bullying.
+
+892
+00:31:22,800 --> 00:31:24,280
+There might be some kind of
+
+893
+00:31:24,280 --> 00:31:25,360
+mechanism in this school
+
+894
+00:31:25,360 --> 00:31:26,360
+that punishes
+
+895
+00:31:26,360 --> 00:31:28,720
+those who bully others with retribution.
+
+896
+00:31:28,960 --> 00:31:29,760
+I understand now.
+
+897
+00:31:32,120 --> 00:31:33,600
+You just asked why she changed the script.
+
+898
+00:31:33,600 --> 00:31:35,400
+This morning at 7am,
+
+899
+00:31:35,400 --> 00:31:37,360
+Rui Sibai woke me up
+
+900
+00:31:37,360 --> 00:31:38,480
+and asked me
+
+901
+00:31:38,480 --> 00:31:40,640
+if we could change the white swan to a black swan.
+
+902
+00:31:40,640 --> 00:31:42,480
+She said it would make the script more dramatic.
+
+903
+00:31:42,480 --> 00:31:43,400
+So I agreed.
+
+904
+00:31:43,480 --> 00:31:45,280
+Last night, Ai Changge died.
+
+905
+00:31:45,280 --> 00:31:47,240
+She was bullied by Rui Sibai, right?
+
+906
+00:31:47,320 --> 00:31:47,920
+Right.
+
+907
+00:31:47,920 --> 00:31:49,480
+So the white swan became a black swan.
+
+908
+00:31:49,480 --> 00:31:50,480
+She changed the script.
+
+909
+00:31:50,480 --> 00:31:52,160
+So it was Ai Changge's
+
+910
+00:31:52,160 --> 00:31:53,640
+spirit possessing Rui Sibai.
+
+911
+00:31:54,280 --> 00:31:58,080
+Perhaps Rui Sibai learned that Ai Changge jumped
+
+912
+00:31:58,080 --> 00:32:01,080
+because of the bullying she led.
+
+913
+00:32:01,080 --> 00:32:02,960
+So she faked it to make it seem
+
+914
+00:32:02,960 --> 00:32:04,320
+that Rui Sibai knew about this
+
+915
+00:32:04,320 --> 00:32:05,440
+and felt she deserved to die.
+
+916
+00:32:05,440 --> 00:32:06,680
+She jumped herself.
+
+917
+00:32:06,680 --> 00:32:08,000
+But in reality, wasn't it
+
+918
+00:32:08,000 --> 00:32:12,000
+someone taking revenge for Ai Changge
+
+919
+00:32:15,720 --> 00:32:17,720
+and staging this
+
+920
+00:32:17,720 --> 00:32:19,240
+locked-room murder case?
+
+921
+00:32:19,240 --> 00:32:20,960
+That should be it. It makes sense.
+
+922
+00:32:29,280 --> 00:32:32,400
+Next, we will enter the X confirmation phase
+
+923
+00:32:32,600 --> 00:32:33,680
+In this episode
+
+924
+00:32:33,960 --> 00:32:35,040
+The player acting as the murderer
+
+925
+00:32:35,280 --> 00:32:37,040
+will face the trial of X
+
+926
+00:32:37,400 --> 00:32:40,280
+If the true murderer succeeds in the trial
+
+927
+00:32:40,280 --> 00:32:42,400
+they can choose between the two detectives
+
+928
+00:32:42,400 --> 00:32:45,440
+to corrupt one of them
+
+929
+00:33:21,800 --> 00:33:23,160
+At first glance it's clearly
+
+930
+00:33:33,400 --> 00:33:33,880
+Don't point at me
+
+931
+00:33:33,880 --> 00:33:34,880
+It's definitely you pointing at me
+
+932
+00:33:36,120 --> 00:33:37,120
+A family torn apart situation
+
+933
+00:33:38,520 --> 00:33:39,920
+It might not necessarily be this one
+
+934
+00:33:40,040 --> 00:33:41,680
+You seem different today compared to yesterday
+
+935
+00:33:41,680 --> 00:33:42,760
+quite noticeably so
+
+936
+00:33:44,840 --> 00:33:47,280
+Is it Ruqing who can't hide her smile
+
+937
+00:33:47,960 --> 00:33:49,840
+or Zhuocheng pretending to be calm?
+
+938
+00:33:50,200 --> 00:33:52,880
+Or perhaps there's no X in this case at all?
+
+939
+00:33:52,880 --> 00:33:54,000
+I'll keep you in suspense for now
+
+940
+00:33:54,000 --> 00:33:55,720
+Let's continue watching.
+
+941
+00:33:59,400 --> 00:34:01,680
+Then let's go search for evidence in the dormitory.
+
+942
+00:34:01,680 --> 00:34:02,600
+Check the scene.
+
+943
+00:34:02,600 --> 00:34:04,240
+How about going to my dorm room first?
+
+944
+00:34:04,240 --> 00:34:06,160
+Because Sisi and I are roommates.
+
+945
+00:34:06,160 --> 00:34:07,200
+This way.
+
+946
+00:34:07,200 --> 00:34:08,160
+102
+
+947
+00:34:08,160 --> 00:34:10,040
+Following Xu Duocheng's suggestion,
+
+948
+00:34:10,040 --> 00:34:12,080
+everyone decided to start with Xu Duocheng
+
+949
+00:34:12,080 --> 00:34:15,880
+and the deceased Sisi's dorm room, 102.
+
+950
+00:34:15,880 --> 00:34:17,560
+There's a computer and a notebook here.
+
+951
+00:34:18,400 --> 00:34:19,200
+Let's take a look.
+
+952
+00:34:21,600 --> 00:34:23,400
+This is Ruisi Bai's account
+
+953
+00:34:23,960 --> 00:34:24,840
+Yes, log in
+
+954
+00:34:25,760 --> 00:34:27,280
+She sent messages to three people
+
+955
+00:34:27,280 --> 00:34:28,560
+Let's see A'Kai's first
+
+956
+00:34:29,480 --> 00:34:32,760
+Don't vote for Ai Singing in this year's Rising Star Awards
+
+957
+00:34:32,760 --> 00:34:34,600
+Or you won't be in my musicals anymore
+
+958
+00:34:34,600 --> 00:34:36,040
+Dear sister, for this year's Rising Star Awards
+
+959
+00:34:36,040 --> 00:34:37,760
+don't vote for Ai Singing
+
+960
+00:34:37,760 --> 00:34:39,200
+Otherwise, as long as it's my musical
+
+961
+00:34:39,200 --> 00:34:40,440
+you can forget about being in it
+
+962
+00:34:40,440 --> 00:34:41,920
+Ruisi Bai also rallied everyone
+
+963
+00:34:41,920 --> 00:34:44,160
+not to vote for Hu Jie
+
+964
+00:34:44,160 --> 00:34:46,080
+or they wouldn't be in the musical
+
+965
+00:34:46,080 --> 00:34:46,760
+It's Ruisi Bai
+
+966
+00:34:46,760 --> 00:34:47,840
+who's been bullying everyone
+
+967
+00:34:49,080 --> 00:34:51,800
+Give me one of your personal items, it's urgent
+
+968
+00:34:53,560 --> 00:34:55,320
+A'Kai asked what for
+
+969
+00:34:55,320 --> 00:34:56,040
+Ruisi Bai said
+
+970
+00:34:56,040 --> 00:34:58,600
+I want to create a custom play for you
+
+971
+00:34:58,600 --> 00:35:00,920
+using your personal items for scenes
+
+972
+00:35:02,400 --> 00:35:04,480
+A'Kai said that sounds interesting
+
+973
+00:35:04,880 --> 00:35:07,800
+Is a 10cm height-increasing insole personal enough?
+
+974
+00:35:07,800 --> 00:35:09,520
+10cm height increase
+
+975
+00:35:12,360 --> 00:35:15,240
+Then at 11 PM, Ruisi Bai
+
+976
+00:35:15,240 --> 00:35:19,040
+asked Luoluo to also give her a personal item
+
+977
+00:35:22,280 --> 00:35:23,280
+Ruisi Bai said,
+
+978
+00:35:23,280 --> 00:35:25,320
+"You'll be the heroine in all my scripts"
+
+979
+00:35:25,320 --> 00:35:26,280
+"The female lead has changed"
+
+980
+00:35:27,560 --> 00:35:29,440
+"Sis finally recognized my talent"
+
+981
+00:35:29,440 --> 00:35:31,320
+"My personal item is this book"
+
+982
+00:35:31,320 --> 00:35:33,520
+"How to Conquer Handsome Young Men"
+
+983
+00:35:35,200 --> 00:35:37,240
+She actually owns this book, okay?
+
+984
+00:35:40,680 --> 00:35:42,880
+Minghao gave a 2B pencil
+
+985
+00:35:42,880 --> 00:35:44,920
+Zhonghua brand, made in China
+
+986
+00:35:47,600 --> 00:35:50,120
+Essential item recommendation for every creator
+
+987
+00:35:51,800 --> 00:35:53,200
+Let's see if there are any personal items
+
+988
+00:35:53,200 --> 00:35:55,480
+I need to find that 2B pencil
+
+989
+00:35:55,480 --> 00:35:56,480
+You want to draw eyebrows, right?
+
+990
+00:35:56,480 --> 00:35:57,400
+Yes
+
+991
+00:36:00,080 --> 00:36:00,680
+Photo
+
+992
+00:36:01,760 --> 00:36:03,920
+What's with this photo, Ruqing?
+
+993
+00:36:04,680 --> 00:36:05,840
+Little Star Orphanage
+
+994
+00:36:05,840 --> 00:36:07,240
+You were adopted
+
+995
+00:36:14,480 --> 00:36:15,960
+Is this your photo?
+
+996
+00:36:17,040 --> 00:36:18,520
+Me with my grandpa
+
+997
+00:36:19,040 --> 00:36:22,320
+But I haven’t actually told anyone about this
+
+998
+00:36:22,320 --> 00:36:23,880
+Except for my good roommate
+
+999
+00:36:25,640 --> 00:36:26,920
+Alright, let’s head to Room 101 now
+
+1000
+00:36:26,920 --> 00:36:28,960
+Luo Luo and Ai’s singing dorm
+
+1001
+00:36:36,880 --> 00:36:38,280
+These are all Xiao Ai's singing awards.
+
+1002
+00:36:43,960 --> 00:36:45,040
+What
+
+1003
+00:36:45,040 --> 00:36:46,640
+Everyone, look at this
+
+1004
+00:36:48,360 --> 00:36:50,960
+If you see this text
+
+1005
+00:36:50,960 --> 00:36:52,760
+It means you're gradually mutating into
+
+1006
+00:36:52,760 --> 00:36:55,160
+the monster from campus legends
+
+1007
+00:36:55,160 --> 00:36:56,920
+The way to curse someone is
+
+1008
+00:36:56,920 --> 00:36:58,680
+to take their personal belongings
+
+1009
+00:36:58,680 --> 00:37:02,240
+to the hidden shrine in the night study room
+
+1010
+00:37:02,240 --> 00:37:03,480
+So the three of you
+
+1011
+00:37:03,480 --> 00:37:05,840
+Akai, Luoluo, and Minghao
+
+1012
+00:37:05,840 --> 00:37:08,000
+Last night everyone turned into monsters
+
+1013
+00:37:08,000 --> 00:37:09,360
+It turns out it was because of Ruisi Bai
+
+1014
+00:37:09,360 --> 00:37:11,840
+took your personal belongings to cast curses
+
+1015
+00:37:12,760 --> 00:37:14,520
+Everyone was in Luo Luo's dorm room
+
+1016
+00:37:14,520 --> 00:37:17,640
+where they found some mysterious writing
+
+1017
+00:37:17,640 --> 00:37:19,600
+It mentioned her personal belongings
+
+1018
+00:37:19,600 --> 00:37:22,440
+being placed on the shrine in the night study room
+
+1019
+00:37:22,440 --> 00:37:23,640
+and being cursed
+
+1020
+00:37:23,640 --> 00:37:25,000
+Luo Luo admitted that she
+
+1021
+00:37:25,000 --> 00:37:27,360
+went to check the night study room
+
+1022
+00:37:27,360 --> 00:37:28,840
+and found her personal book
+
+1023
+00:37:28,840 --> 00:37:30,960
+It was indeed placed on the shrine
+
+1024
+00:37:30,960 --> 00:37:33,800
+And a curse was stuck on its back
+
+1025
+00:37:33,800 --> 00:37:35,680
+Turning into a monster behind the white screen
+
+1026
+00:37:35,680 --> 00:37:38,160
+Losing control of one's body
+
+1027
+00:37:38,680 --> 00:37:40,000
+First, let's check our dorm
+
+1028
+00:37:40,920 --> 00:37:42,560
+Then everyone searched
+
+1029
+00:37:42,560 --> 00:37:44,720
+Minghao and Akai's dorm
+
+1030
+00:37:44,720 --> 00:37:46,440
+and found that both of them, like Luoluo
+
+1031
+00:37:46,440 --> 00:37:48,200
+had experienced exactly the same thing
+
+1032
+00:37:48,480 --> 00:37:49,320
+Year 2004
+
+1033
+00:37:49,880 --> 00:37:53,600
+Pig head on human body, appetite increased dramatically
+
+1034
+00:37:53,600 --> 00:37:56,600
+Using "oink" to replace all responses
+
+1035
+00:37:56,600 --> 00:37:58,040
+Minghao was cursed
+
+1036
+00:37:58,960 --> 00:38:00,280
+Height-increasing insoles
+
+1037
+00:38:00,280 --> 00:38:01,400
+Ten centimeters tall
+
+1038
+00:38:01,400 --> 00:38:02,480
+With words written on them
+
+1039
+00:38:02,480 --> 00:38:04,280
+Bleeding all over, suffering unbearable pain
+
+1040
+00:38:04,280 --> 00:38:05,520
+Forever repeating
+
+1041
+00:38:05,920 --> 00:38:07,080
+This is your curse
+
+1042
+00:38:07,080 --> 00:38:07,600
+Yes
+
+1043
+00:38:08,120 --> 00:38:10,520
+I just happened to see that note
+
+1044
+00:38:10,520 --> 00:38:12,560
+Then I went to the night study room
+
+1045
+00:38:12,560 --> 00:38:13,520
+Found a shrine
+
+1046
+00:38:13,520 --> 00:38:15,200
+My shoe lifts are indeed inside
+
+1047
+00:38:15,200 --> 00:38:17,840
+I feel something beneath me
+
+1048
+00:38:21,840 --> 00:38:23,080
+Medicine
+
+1049
+00:38:23,080 --> 00:38:24,080
+For snoring
+
+1050
+00:38:24,080 --> 00:38:25,320
+It's you
+
+1051
+00:38:25,320 --> 00:38:27,120
+Yes, I mentioned earlier
+
+1052
+00:38:27,120 --> 00:38:27,840
+You snore
+
+1053
+00:38:27,840 --> 00:38:28,440
+I snore
+
+1054
+00:38:29,480 --> 00:38:32,000
+This seems like regular candy now
+
+1055
+00:38:33,160 --> 00:38:33,840
+This
+
+1056
+00:38:37,960 --> 00:38:38,920
+What is this?
+
+1057
+00:38:40,480 --> 00:38:42,000
+If you're reading this
+
+1058
+00:38:42,000 --> 00:38:43,600
+It means you're gradually becoming
+
+1059
+00:38:43,600 --> 00:38:46,160
+a monster from the campus horror legend
+
+1060
+00:38:46,160 --> 00:38:50,680
+So all cursed individuals will have
+
+1061
+00:38:50,680 --> 00:38:52,520
+this text
+
+1062
+00:38:53,000 --> 00:38:55,360
+It seems they all end up in the night study room
+
+1063
+00:38:55,360 --> 00:38:55,880
+found
+
+1064
+00:38:55,880 --> 00:38:56,400
+We need to go to the night study room
+
+1065
+00:38:56,400 --> 00:38:58,640
+Then let's check out the night study room
+
+1066
+00:38:58,640 --> 00:38:59,560
+Let's go
+
+1067
+00:39:01,920 --> 00:39:02,880
+You go first
+
+1068
+00:39:03,920 --> 00:39:04,480
+I'll bring up the rear
+
+1069
+00:39:05,760 --> 00:39:06,920
+Actually, I'll be last
+
+1070
+00:39:07,680 --> 00:39:08,520
+You stay in the middle
+
+1071
+00:39:09,320 --> 00:39:12,240
+They all saw the mysterious text first
+
+1072
+00:39:12,240 --> 00:39:13,440
+then went to the night study room
+
+1073
+00:39:13,440 --> 00:39:15,960
+before discovering they were cursed
+
+1074
+00:39:17,080 --> 00:39:18,360
+There's a password
+
+1075
+00:39:18,680 --> 00:39:19,960
+Password
+
+1076
+00:39:20,680 --> 00:39:21,960
+It's 6 characters
+
+1077
+00:39:21,960 --> 00:39:22,560
+Letters
+
+1078
+00:39:23,120 --> 00:39:25,080
+I think it's related to colors too
+
+1079
+00:39:29,040 --> 00:39:31,920
+23351 is green-blue
+
+1080
+00:39:33,640 --> 00:39:34,440
+pink
+
+1081
+00:39:36,600 --> 00:39:37,640
+Could it be green?
+
+1082
+00:39:37,640 --> 00:39:38,320
+Yes, green
+
+1083
+00:39:38,320 --> 00:39:40,920
+Then the second letter of green
+
+1084
+00:39:40,920 --> 00:39:41,280
+Right
+
+1085
+00:39:42,120 --> 00:39:43,080
+And blue is blue
+
+1086
+00:39:43,080 --> 00:39:43,560
+Smart
+
+1087
+00:39:47,440 --> 00:39:48,120
+run now
+
+1088
+00:39:48,120 --> 00:39:50,520
+Run now
+
+1089
+00:40:08,560 --> 00:40:09,720
+Come on
+
+1090
+00:40:14,800 --> 00:40:16,320
+I also have night blindness
+
+1091
+00:40:16,320 --> 00:40:17,920
+I want to go home
+
+1092
+00:40:17,920 --> 00:40:20,000
+Why should I play this?
+
+1093
+00:40:20,000 --> 00:40:21,360
+There's a candle here
+
+1094
+00:40:21,360 --> 00:40:22,440
+There's a match
+
+1095
+00:40:29,040 --> 00:40:31,480
+Everyone
+
+1096
+00:40:34,680 --> 00:40:36,800
+There's a piece of paper here, okay?
+
+1097
+00:40:38,520 --> 00:40:39,000
+Okay, let's continue.
+
+1098
+00:40:39,000 --> 00:40:41,000
+Everyone find a seat.
+
+1099
+00:40:41,120 --> 00:40:43,360
+Then you sit on my left.
+
+1100
+00:40:53,320 --> 00:40:54,960
+Where's the safest place to sit?
+
+1101
+00:40:55,960 --> 00:40:57,920
+This way I can't hold on.
+
+1102
+00:40:57,920 --> 00:40:59,160
+Can there be a guy next to me?
+
+1103
+00:41:04,080 --> 00:41:06,160
+Pull it.
+
+1104
+00:41:08,640 --> 00:41:09,720
+Those two are open.
+
+1105
+00:41:10,560 --> 00:41:11,800
+Don't scare me
+
+1106
+00:41:11,800 --> 00:41:13,160
+This is safe
+
+1107
+00:41:16,040 --> 00:41:16,640
+Read it
+
+1108
+00:41:16,640 --> 00:41:18,040
+Sitting in the night study room
+
+1109
+00:41:18,040 --> 00:41:21,440
+After placing the candle on the marked circle on the table
+
+1110
+00:41:21,440 --> 00:41:23,040
+The lights will go out
+
+1111
+00:41:23,040 --> 00:41:25,120
+Light the candles in order and recite
+
+1112
+00:41:25,120 --> 00:41:27,040
+Tui Yi Strange Tales
+
+1113
+00:41:27,040 --> 00:41:28,920
+The door to the abandoned space will open
+
+1114
+00:41:29,880 --> 00:41:30,600
+Recite
+
+1115
+00:41:30,600 --> 00:41:31,920
+The four words "Tui Yi Strange Tales"
+
+1116
+00:41:31,920 --> 00:41:33,880
+I hope we don't actually summon something
+
+1117
+00:41:36,640 --> 00:41:38,280
+Happy birthday
+
+1118
+00:41:38,280 --> 00:41:43,000
+Happy birthday to you
+
+1119
+00:41:43,000 --> 00:41:45,880
+Happy birthday to you, Zhuocheng
+
+1120
+00:41:45,880 --> 00:41:47,360
+Making wishes on white candles is unlucky
+
+1121
+00:41:52,320 --> 00:41:53,920
+There's no specified order
+
+1122
+00:42:02,720 --> 00:42:03,480
+You scared me to death
+
+1123
+00:42:04,080 --> 00:42:06,720
+Good luck comes, wishing you good luck
+
+1124
+00:42:06,720 --> 00:42:08,480
+Good luck comes, wishing you good luck
+
+1125
+00:42:08,960 --> 00:42:09,760
+Help me click it
+
+1126
+00:42:10,360 --> 00:42:11,240
+Not that one
+
+1127
+00:42:11,240 --> 00:42:13,040
+To avoid being startled by sudden noises
+
+1128
+00:42:13,040 --> 00:42:13,920
+Don't burn yourself
+
+1129
+00:42:15,040 --> 00:42:16,720
+Good luck comes
+
+1130
+00:42:16,720 --> 00:42:19,200
+Good luck comes to us
+
+1131
+00:42:19,200 --> 00:42:20,200
+Ready
+
+1132
+00:42:20,200 --> 00:42:20,680
+Say it together
+
+1133
+00:42:20,680 --> 00:42:23,040
+Three two one
+
+1134
+00:42:23,040 --> 00:42:25,200
+Pushing Arts Strange Tales
+
+1135
+00:42:25,720 --> 00:42:27,320
+It's open
+
+1136
+00:42:27,320 --> 00:42:28,640
+It's already open
+
+1137
+00:42:28,640 --> 00:42:29,440
+Let's go over there
+
+1138
+00:42:29,440 --> 00:42:31,600
+It's really very dark here
+
+1139
+00:42:33,400 --> 00:42:35,360
+So scary
+
+1140
+00:42:46,320 --> 00:42:49,800
+Happy New Year
+
+1141
+00:42:49,800 --> 00:42:52,880
+Wishing everyone a Happy New Year
+
+1142
+00:42:52,880 --> 00:42:56,600
+We sing, we dance
+
+1143
+00:42:56,600 --> 00:43:00,000
+Wishing everyone a Happy New Year
+
+1144
+00:43:00,160 --> 00:43:03,440
+Happy Birthday, Zhuocheng
+
+1145
+00:43:03,440 --> 00:43:04,040
+Wait a moment
+
+1146
+00:43:04,040 --> 00:43:05,080
+We've reached a door
+
+1147
+00:43:05,480 --> 00:43:06,640
+There's a light
+
+1148
+00:43:08,400 --> 00:43:09,040
+What is it?
+
+1149
+00:43:10,760 --> 00:43:12,440
+Revolving Door Instructions
+
+1150
+00:43:12,760 --> 00:43:14,000
+Due to long-term disrepair
+
+1151
+00:43:14,000 --> 00:43:16,960
+Each time the door revolves
+
+1152
+00:43:16,960 --> 00:43:18,360
+the angle may vary
+
+1153
+00:43:19,360 --> 00:43:20,120
+Let's go
+
+1154
+00:43:23,280 --> 00:43:24,040
+Going now
+
+1155
+00:43:25,360 --> 00:43:26,560
+Minghao
+
+1156
+00:43:26,560 --> 00:43:27,760
+So brave, Minghao
+
+1157
+00:43:27,760 --> 00:43:28,640
+How old are you?
+
+1158
+00:43:28,640 --> 00:43:30,400
+Bye bye
+
+1159
+00:43:30,400 --> 00:43:32,640
+Hope to see you again
+
+1160
+00:43:33,320 --> 00:43:35,040
+If you're scared, just scream
+
+1161
+00:43:36,560 --> 00:43:38,440
+How's the world over there?
+
+1162
+00:43:41,280 --> 00:43:42,720
+Keep making sounds, Minghao
+
+1163
+00:43:42,720 --> 00:43:44,360
+Minghao, are you still there?
+
+1164
+00:43:45,800 --> 00:43:46,520
+Minghao
+
+1165
+00:43:54,040 --> 00:43:55,480
+There's a skeleton here
+
+1166
+00:43:55,800 --> 00:43:57,120
+There's a skeleton here
+
+1167
+00:43:57,120 --> 00:43:58,000
+Skeleton
+
+1168
+00:43:59,040 --> 00:44:00,920
+Without it, he's just talking nonsense
+
+1169
+00:44:00,920 --> 00:44:02,200
+Nonsense
+
+1170
+00:44:04,400 --> 00:44:05,480
+Knit hat
+
+1171
+00:44:05,840 --> 00:44:07,560
+I'll go up first
+
+1172
+00:44:07,840 --> 00:44:08,640
+Good luck
+
+1173
+00:44:08,640 --> 00:44:10,360
+Goodbye
+
+1174
+00:44:13,640 --> 00:44:14,160
+Who is it?
+
+1175
+00:44:15,160 --> 00:44:16,040
+We're the same
+
+1176
+00:44:27,480 --> 00:44:28,880
+We're spinning differently
+
+1177
+00:44:28,880 --> 00:44:29,240
+Right
+
+1178
+00:44:32,480 --> 00:44:33,760
+No, I'm so scared
+
+1179
+00:44:33,760 --> 00:44:34,760
+I can't do this
+
+1180
+00:44:35,560 --> 00:44:37,400
+I'm really about to cry
+
+1181
+00:44:37,400 --> 00:44:39,760
+Please don't scare me, I'm begging you
+
+1182
+00:44:44,760 --> 00:44:45,480
+Let's leave it at that
+
+1183
+00:44:45,480 --> 00:44:46,440
+Let's stay here
+
+1184
+00:44:50,400 --> 00:44:51,400
+Don't scare us
+
+1185
+00:44:52,400 --> 00:44:53,720
+There's a room here
+
+1186
+00:44:56,560 --> 00:44:57,960
+What's this?
+
+1187
+00:44:59,200 --> 00:44:59,960
+Go
+
+1188
+00:45:00,800 --> 00:45:02,440
+Wait, I haven't gotten down yet
+
+1189
+00:45:02,440 --> 00:45:03,320
+Is there a slope here?
+
+1190
+00:45:03,320 --> 00:45:04,080
+There's a step
+
+1191
+00:45:04,080 --> 00:45:05,720
+Wait, there's a step here
+
+1192
+00:45:05,720 --> 00:45:07,480
+Slow down
+
+1193
+00:45:07,480 --> 00:45:08,800
+Got down
+
+1194
+00:45:29,000 --> 00:45:30,160
+Is it over?
+
+1195
+00:45:30,160 --> 00:45:31,000
+It's over.
+
+1196
+00:45:40,120 --> 00:45:41,120
+Let's go, there's a door upstairs anyway.
+
+1197
+00:45:41,120 --> 00:45:41,800
+Go, get out.
+
+1198
+00:45:48,560 --> 00:45:50,320
+You go push this door, I don't dare
+
+1199
+00:45:53,720 --> 00:45:54,400
+Wait a moment
+
+1200
+00:45:54,400 --> 00:45:55,640
+This needs unlocking
+
+1201
+00:45:56,160 --> 00:45:56,520
+Hold on
+
+1202
+00:45:57,320 --> 00:46:00,560
+Ruisibai's secret space
+
+1203
+00:46:01,040 --> 00:46:02,440
+Every time we leave the secret space
+
+1204
+00:46:02,440 --> 00:46:04,400
+We must remind ourselves to hide the keys in
+
+1205
+00:46:04,400 --> 00:46:06,440
+The abandoned toilet and abandoned bathroom
+
+1206
+00:46:06,440 --> 00:46:07,480
+This secret space
+
+1207
+00:46:08,800 --> 00:46:11,000
+So are they in the abandoned bathroom?
+
+1208
+00:46:11,000 --> 00:46:12,560
+Can we communicate?
+
+1209
+00:46:12,560 --> 00:46:14,040
+Can you hear us?
+
+1210
+00:46:15,200 --> 00:46:15,920
+We can hear you
+
+1211
+00:46:16,640 --> 00:46:17,480
+On our side
+
+1212
+00:46:17,480 --> 00:46:18,920
+Let me read it for you
+
+1213
+00:46:20,160 --> 00:46:21,640
+We need two keys here
+
+1214
+00:46:22,640 --> 00:46:23,880
+One is in the toilet
+
+1215
+00:46:23,880 --> 00:46:25,160
+One is in the abandoned bathroom
+
+1216
+00:46:25,160 --> 00:46:26,640
+Bathroom
+
+1217
+00:46:27,160 --> 00:46:28,000
+"Yan" room
+
+1218
+00:46:28,400 --> 00:46:30,280
+Who's in the toilet?
+
+1219
+00:46:30,280 --> 00:46:31,640
+Who's in the bathroom?
+
+1220
+00:46:31,840 --> 00:46:32,360
+Key
+
+1221
+00:46:32,360 --> 00:46:33,040
+Keys
+
+1222
+00:46:34,160 --> 00:46:35,760
+I really don't dare to go
+
+1223
+00:46:38,160 --> 00:46:40,360
+We're both cowards
+
+1224
+00:46:40,360 --> 00:46:42,360
+We're the coward team
+
+1225
+00:46:42,360 --> 00:46:43,920
+Not joking at all
+
+1226
+00:46:43,920 --> 00:46:45,760
+We can't move right now
+
+1227
+00:46:45,760 --> 00:46:48,040
+My legs are weak
+
+1228
+00:46:48,040 --> 00:46:49,440
+Please, seriously
+
+1229
+00:46:51,080 --> 00:46:52,400
+Please
+
+1230
+00:46:52,400 --> 00:46:54,760
+Although I said in 2024
+
+1231
+00:46:54,760 --> 00:46:56,320
+I would be braver
+
+1232
+00:46:56,320 --> 00:46:59,120
+But not brave in this situation
+
+1233
+00:47:02,640 --> 00:47:04,760
+Luoluo Nengneng, what's on your side?
+
+1234
+00:47:07,120 --> 00:47:08,600
+We don't dare to go out
+
+1235
+00:47:13,000 --> 00:47:15,160
+Let's go to their place.
+
+1236
+00:47:16,920 --> 00:47:18,480
+Thank you, Zhuocheng.
+
+1237
+00:47:18,480 --> 00:47:19,800
+We're coming to look now.
+
+1238
+00:47:20,320 --> 00:47:21,240
+Okay.
+
+1239
+00:47:21,240 --> 00:47:22,400
+Thanks for your hard work.
+
+1240
+00:47:22,400 --> 00:47:23,360
+Slow down.
+
+1241
+00:47:23,720 --> 00:47:24,880
+It's fine.
+
+1242
+00:47:28,160 --> 00:47:29,600
+We really look like...
+
+1243
+00:47:29,600 --> 00:47:30,800
+You know what?
+
+1244
+00:47:30,800 --> 00:47:33,000
+The life-cherishing old folks group.
+
+1245
+00:47:33,000 --> 00:47:33,640
+Right.
+
+1246
+00:47:35,360 --> 00:47:37,760
+All masculinity is gone today.
+
+1247
+00:47:38,600 --> 00:47:40,200
+Does that make you a little sad?
+
+1248
+00:47:41,000 --> 00:47:41,640
+But there's no choice.
+
+1249
+00:47:41,640 --> 00:47:42,960
+I know you're afraid of this.
+
+1250
+00:47:42,960 --> 00:47:45,480
+You've done well to get this far.
+
+1251
+00:47:48,040 --> 00:47:50,560
+There's a hat on the bloody gauze.
+
+1252
+00:47:52,960 --> 00:47:54,200
+There's a rope on the ground.
+
+1253
+00:47:54,200 --> 00:47:55,960
+Here's a rope and shoes.
+
+1254
+00:47:55,960 --> 00:47:57,360
+Rope and shoes.
+
+1255
+00:47:58,240 --> 00:47:59,000
+Tools for the crime.
+
+1256
+00:47:59,320 --> 00:48:01,160
+But can this thing really move a person?
+
+1257
+00:48:01,160 --> 00:48:02,600
+Let's leave everything here for now.
+
+1258
+00:48:02,600 --> 00:48:03,280
+It can't handle a person.
+
+1259
+00:48:03,280 --> 00:48:04,800
+But it might be able to close a door.
+
+1260
+00:48:05,360 --> 00:48:06,240
+Like tape, for example.
+
+1261
+00:48:06,240 --> 00:48:07,760
+Now you stick it like this.
+
+1262
+00:48:07,760 --> 00:48:09,040
+Right, I've thought about this before.
+
+1263
+00:48:09,040 --> 00:48:09,920
+But think about it.
+
+1264
+00:48:09,920 --> 00:48:11,400
+If it was loosely stuck at first.
+
+1265
+00:48:11,400 --> 00:48:11,920
+Then when bent.
+
+1266
+00:48:11,920 --> 00:48:13,360
+The tape would snap into place.
+
+1267
+00:48:13,360 --> 00:48:14,120
+But I feel that way.
+
+1268
+00:48:14,120 --> 00:48:15,400
+The tape would be too loose.
+
+1269
+00:48:15,400 --> 00:48:16,400
+It might come off with a bump.
+
+1270
+00:48:16,400 --> 00:48:18,440
+But he said he had to use a knife to cut it open.
+
+1271
+00:48:21,040 --> 00:48:22,760
+Let's examine this thing.
+
+1272
+00:48:25,080 --> 00:48:27,040
+Could this bandage have any clues?
+
+1273
+00:48:27,040 --> 00:48:28,760
+Should we tear off the bandage?
+
+1274
+00:48:28,760 --> 00:48:30,240
+We can try.
+
+1275
+00:48:31,960 --> 00:48:33,960
+Is there anything inside?
+
+1276
+00:48:38,320 --> 00:48:39,080
+A key.
+
+1277
+00:48:39,080 --> 00:48:39,800
+There really is.
+
+1278
+00:48:41,400 --> 00:48:42,720
+Take this hat out.
+
+1279
+00:48:42,720 --> 00:48:44,400
+This wouldn't represent that pig head, would it?
+
+1280
+00:48:48,120 --> 00:48:49,320
+We should just leave now.
+
+1281
+00:48:54,440 --> 00:48:55,600
+This might be the secret passage
+
+1282
+00:48:55,600 --> 00:48:56,040
+Right
+
+1283
+00:48:57,200 --> 00:48:58,280
+There are two locks
+
+1284
+00:48:59,280 --> 00:49:00,320
+Do we only have one key?
+
+1285
+00:49:00,880 --> 00:49:01,320
+Damn
+
+1286
+00:49:01,720 --> 00:49:02,960
+Do we have to wait for them?
+
+1287
+00:49:02,960 --> 00:49:04,320
+We need to wait for the bathroom key
+
+1288
+00:49:08,160 --> 00:49:09,560
+Wait a minute
+
+1289
+00:49:14,240 --> 00:49:15,640
+Maybe I should stay here
+
+1290
+00:49:16,040 --> 00:49:16,600
+crouching down
+
+1291
+00:49:17,360 --> 00:49:17,800
+No need
+
+1292
+00:49:17,800 --> 00:49:18,880
+You'll just scare yourself more by crouching
+
+1293
+00:49:19,920 --> 00:49:21,000
+I don't dare look
+
+1294
+00:49:23,600 --> 00:49:24,960
+There's something up there
+
+1295
+00:49:25,960 --> 00:49:27,360
+It already scared us once
+
+1296
+00:49:27,640 --> 00:49:29,640
+We were sent here as VIP guests
+
+1297
+00:49:29,640 --> 00:49:30,400
+No more scares please
+
+1298
+00:49:31,040 --> 00:49:32,320
+We have special privileges
+
+1299
+00:49:32,320 --> 00:49:33,960
+Right, we're here to help
+
+1300
+00:49:33,960 --> 00:49:36,240
+We've already been scared once
+
+1301
+00:49:45,760 --> 00:49:46,920
+Don't run, I'm coming
+
+1302
+00:49:48,880 --> 00:49:49,480
+Don't run
+
+1303
+00:49:54,440 --> 00:49:55,600
+Then what?
+
+1304
+00:49:55,600 --> 00:49:56,480
+Let's go, move forward
+
+1305
+00:50:08,440 --> 00:50:09,840
+Be careful
+
+1306
+00:50:10,760 --> 00:50:11,800
+This door is open
+
+1307
+00:50:19,120 --> 00:50:22,040
+I've reached the toilet
+
+1308
+00:50:23,080 --> 00:50:25,680
+And you didn't even touch any poop
+
+1309
+00:50:34,760 --> 00:50:35,320
+Hello
+
+1310
+00:50:36,160 --> 00:50:37,120
+Why is it so high up?
+
+1311
+00:50:39,520 --> 00:50:40,160
+Use that
+
+1312
+00:50:40,160 --> 00:50:41,880
+Use the key to open the other lock
+
+1313
+00:50:44,720 --> 00:50:45,640
+Let's go
+
+1314
+00:50:48,000 --> 00:50:50,400
+In Ruisi Bai's secret space
+
+1315
+00:50:50,400 --> 00:50:51,680
+Everyone discovered
+
+1316
+00:50:51,680 --> 00:50:53,800
+a loft higher than the second floor of the dormitory
+
+1317
+00:50:53,800 --> 00:50:56,680
+This height better matches an eight-meter fatal fall
+
+1318
+00:50:57,800 --> 00:50:59,120
+This place could create
+
+1319
+00:50:59,120 --> 00:51:00,680
+the conditions for someone to fall to their death
+
+1320
+00:51:01,000 --> 00:51:02,440
+It's that rope
+
+1321
+00:51:02,440 --> 00:51:03,120
+Really
+
+1322
+00:51:03,120 --> 00:51:04,600
+There's a pulley here
+
+1323
+00:51:05,560 --> 00:51:06,640
+Outside this loft window
+
+1324
+00:51:06,640 --> 00:51:08,720
+there's a suspended pulley device
+
+1325
+00:51:08,720 --> 00:51:10,120
+Everyone speculates Ruisi Bai
+
+1326
+00:51:10,120 --> 00:51:12,160
+was tied up here
+
+1327
+00:51:12,160 --> 00:51:13,600
+Hence the rope marks on the feet
+
+1328
+00:51:14,840 --> 00:51:15,960
+There's a sign below
+
+1329
+00:51:15,960 --> 00:51:17,560
+Back door of the small auditorium
+
+1330
+00:51:17,560 --> 00:51:19,880
+Looking down from the loft window
+
+1331
+00:51:19,880 --> 00:51:22,120
+there's a back door to the small auditorium
+
+1332
+00:51:22,120 --> 00:51:24,640
+a secret passage no one knew about before
+
+1333
+00:51:24,640 --> 00:51:27,200
+Let's see what we can find
+
+1334
+00:51:27,200 --> 00:51:28,760
+There's something here
+
+1335
+00:51:31,920 --> 00:51:32,880
+This painting was done by me.
+
+1336
+00:51:34,200 --> 00:51:35,520
+It depicts something from deep within my heart.
+
+1337
+00:51:35,520 --> 00:51:37,920
+The incident that affected me the most.
+
+1338
+00:51:37,920 --> 00:51:40,240
+About Sisi - she was my roommate.
+
+1339
+00:51:40,240 --> 00:51:41,920
+And also my close friend.
+
+1340
+00:51:41,920 --> 00:51:43,000
+Actually, I would never
+
+1341
+00:51:43,000 --> 00:51:44,240
+tell anyone else that
+
+1342
+00:51:44,240 --> 00:51:47,040
+I was adopted by my grandfather from an orphanage.
+
+1343
+00:51:47,040 --> 00:51:48,160
+Right?
+
+1344
+00:51:48,160 --> 00:51:49,680
+I only told her.
+
+1345
+00:51:49,680 --> 00:51:51,360
+Because I trusted her completely.
+
+1346
+00:51:51,360 --> 00:51:52,320
+But I never expected
+
+1347
+00:51:52,320 --> 00:51:53,840
+that she would tell others.
+
+1348
+00:51:54,640 --> 00:51:56,320
+I overheard her
+
+1349
+00:51:56,320 --> 00:51:57,560
+telling others:
+
+1350
+00:51:57,560 --> 00:51:58,320
+"Do you know?
+
+1351
+00:51:58,320 --> 00:51:59,640
+Ruqing is an orphan."
+
+1352
+00:52:01,320 --> 00:52:03,000
+I absolutely never imagined
+
+1353
+00:52:03,000 --> 00:52:03,760
+this would happen.
+
+1354
+00:52:03,760 --> 00:52:06,200
+And because I was an orphan,
+
+1355
+00:52:06,200 --> 00:52:07,720
+people started bullying me
+
+1356
+00:52:07,720 --> 00:52:09,080
+for no reason.
+
+1357
+00:52:09,600 --> 00:52:10,600
+They would say things like:
+
+1358
+00:52:11,520 --> 00:52:12,560
+"You liar,"
+
+1359
+00:52:12,560 --> 00:52:13,560
+"No one wants to play with you,"
+
+1360
+00:52:13,560 --> 00:52:14,240
+"You'll never have friends,"
+
+1361
+00:52:14,240 --> 00:52:15,280
+"Poor little thing," and such.
+
+1362
+00:52:15,280 --> 00:52:16,800
+This is the scene of me being bullied.
+
+1363
+00:52:16,800 --> 00:52:18,200
+And you can see Sisi here,
+
+1364
+00:52:18,200 --> 00:52:21,960
+just walking by casually.
+
+1365
+00:52:22,720 --> 00:52:24,600
+I feel all the mudslinging
+
+1366
+00:52:24,600 --> 00:52:26,000
+and the pain I suffered
+
+1367
+00:52:26,000 --> 00:52:28,400
+actually originated from her.
+
+1368
+00:52:28,400 --> 00:52:29,720
+She poured it all over me.
+
+1369
+00:52:29,720 --> 00:52:30,440
+That's Sisi.
+
+1370
+00:52:30,440 --> 00:52:30,720
+Yes.
+
+1371
+00:52:33,400 --> 00:52:34,080
+But I don't know
+
+1372
+00:52:34,080 --> 00:52:35,040
+why it's here.
+
+1373
+00:52:36,560 --> 00:52:37,560
+Where was it originally kept?
+
+1374
+00:52:38,080 --> 00:52:39,560
+It must have been in my dorm.
+
+1375
+00:52:39,560 --> 00:52:40,720
+Definitely under my bed.
+
+1376
+00:52:40,720 --> 00:52:42,000
+But now it's appeared here.
+
+1377
+00:52:42,000 --> 00:52:44,800
+Maybe because Sisi found out
+
+1378
+00:52:44,800 --> 00:52:45,960
+about this matter.
+
+1379
+00:52:49,000 --> 00:52:50,120
+There's a combination lock here.
+
+1380
+00:52:52,480 --> 00:52:54,720
+It's an alphabetical combination lock.
+
+1381
+00:53:04,120 --> 00:53:04,840
+Here
+
+1382
+00:53:06,480 --> 00:53:08,080
+there's a note
+
+1383
+00:53:09,480 --> 00:53:11,480
+After thinking all night in my secret space
+
+1384
+00:53:11,480 --> 00:53:13,400
+I decided to tell the truth tomorrow
+
+1385
+00:53:13,400 --> 00:53:15,240
+June 3, 2004
+
+1386
+00:53:15,880 --> 00:53:18,280
+She planned to reveal the truth the next day
+
+1387
+00:53:18,280 --> 00:53:19,960
+But she died the following day
+
+1388
+00:53:22,240 --> 00:53:23,480
+What was the truth?
+
+1389
+00:53:31,160 --> 00:53:31,920
+The truth might be
+
+1390
+00:53:31,920 --> 00:53:33,040
+We all think Ruisi is
+
+1391
+00:53:33,040 --> 00:53:34,360
+bullying others
+
+1392
+00:53:34,360 --> 00:53:35,120
+But could it be
+
+1393
+00:53:35,120 --> 00:53:37,200
+that Ruisi partnered with someone
+
+1394
+00:53:37,200 --> 00:53:37,840
+to bully others
+
+1395
+00:53:37,840 --> 00:53:39,280
+then wanted to quit?
+
+1396
+00:53:39,280 --> 00:53:39,720
+Perhaps
+
+1397
+00:53:39,720 --> 00:53:41,040
+her partner refused?
+
+1398
+00:53:42,480 --> 00:53:43,600
+Or maybe Ruisi
+
+1399
+00:53:43,600 --> 00:53:44,560
+was being bullied
+
+1400
+00:53:44,560 --> 00:53:46,000
+and forced to do this?
+
+1401
+00:53:47,920 --> 00:53:49,720
+But this locked box
+
+1402
+00:53:49,720 --> 00:53:51,480
+remains unsolved
+
+1403
+00:53:52,000 --> 00:53:54,200
+Though it might contain money
+
+1404
+00:53:54,200 --> 00:53:55,680
+If it's 'e'
+
+1405
+00:53:55,960 --> 00:53:56,560
+But these
+
+1406
+00:53:56,560 --> 00:53:57,360
+four
+
+1407
+00:53:59,080 --> 00:54:01,000
+So we'll take it
+
+1408
+00:54:01,000 --> 00:54:02,840
+to meet Luoluo and Nengneng
+
+1409
+00:54:02,840 --> 00:54:05,000
+Alright, let's take it
+
+1410
+00:54:07,760 --> 00:54:08,400
+Hello
+
+1411
+00:54:08,400 --> 00:54:09,880
+We're heading to the small auditorium
+
+1412
+00:54:09,880 --> 00:54:11,880
+Everyone rushes to the secret attic's
+
+1413
+00:54:11,880 --> 00:54:13,560
+previously discovered auditorium
+
+1414
+00:54:13,560 --> 00:54:15,080
+toward the back entrance
+
+1415
+00:54:15,080 --> 00:54:16,920
+Indeed, a hidden door
+
+1416
+00:54:16,920 --> 00:54:18,360
+is concealed in the wall
+
+1417
+00:54:18,880 --> 00:54:19,520
+This one
+
+1418
+00:54:25,720 --> 00:54:27,560
+Look, this is the one we just saw.
+
+1419
+00:54:36,880 --> 00:54:37,960
+That hanging rope
+
+1420
+00:54:39,560 --> 00:54:40,360
+What's below it?
+
+1421
+00:54:40,360 --> 00:54:42,240
+There's a map underneath
+
+1422
+00:54:42,240 --> 00:54:43,480
+Here's also a mask
+
+1423
+00:54:44,680 --> 00:54:45,800
+A knockout incense
+
+1424
+00:54:45,800 --> 00:54:47,080
+Called "Instant Sleep"
+
+1425
+00:54:49,440 --> 00:54:51,520
+Causes immediate unconsciousness when inhaled
+
+1426
+00:54:51,800 --> 00:54:54,080
+Victims won't wake up for a full day and night
+
+1427
+00:54:55,280 --> 00:54:58,520
+This is a bloodstained
+
+1428
+00:54:58,840 --> 00:54:59,680
+plastic sheet
+
+1429
+00:55:00,480 --> 00:55:02,040
+This should be the sealing tape for doors
+
+1430
+00:55:08,760 --> 00:55:09,280
+Because this way
+
+1431
+00:55:09,280 --> 00:55:11,320
+when she fell, the blood wouldn't
+
+1432
+00:55:11,800 --> 00:55:12,320
+splatter on the ground
+
+1433
+00:55:12,320 --> 00:55:14,040
+They could just dispose of this plastic sheet
+
+1434
+00:55:14,040 --> 00:55:14,680
+And then they could
+
+1435
+00:55:14,680 --> 00:55:16,320
+So she actually died here
+
+1436
+00:55:16,320 --> 00:55:16,880
+Right
+
+1437
+00:55:18,800 --> 00:55:19,880
+They moved the crime scene
+
+1438
+00:55:21,120 --> 00:55:22,360
+Here's a remote control
+
+1439
+00:55:22,360 --> 00:55:23,520
+It says it can tighten the pulley
+
+1440
+00:55:23,520 --> 00:55:24,440
+or loosen the pulley
+
+1441
+00:55:25,960 --> 00:55:27,320
+If someone was tied to it
+
+1442
+00:55:27,320 --> 00:55:28,360
+They could actually use this to
+
+1443
+00:55:28,360 --> 00:55:29,280
+hoist them up
+
+1444
+00:55:32,960 --> 00:55:33,760
+This is a hidden door
+
+1445
+00:55:34,360 --> 00:55:34,840
+Look at the back
+
+1446
+00:55:34,840 --> 00:55:35,520
+There's writing on the back
+
+1447
+00:55:38,400 --> 00:55:40,400
+I heard you cursing Ruisi Bai
+
+1448
+00:55:40,400 --> 00:55:43,640
+I can provide you with a murder plan
+
+1449
+00:55:43,640 --> 00:55:45,320
+If interested, please reply
+
+1450
+00:55:45,320 --> 00:55:46,400
+Say OKOK
+
+1451
+00:55:46,680 --> 00:55:48,120
+For our safety
+
+1452
+00:55:48,120 --> 00:55:49,040
+Don't meet in person
+
+1453
+00:55:49,040 --> 00:55:50,640
+Pass notes through the door
+
+1454
+00:55:51,280 --> 00:55:53,560
+OKOK you can do this
+
+1455
+00:56:03,480 --> 00:56:05,120
+Art Building Atrium
+
+1456
+00:56:05,120 --> 00:56:07,440
+It's an abandoned space in the art building
+
+1457
+00:56:07,440 --> 00:56:08,880
+No one would ever go there
+
+1458
+00:56:08,880 --> 00:56:11,680
+So this space could be used to commit the crime
+
+1459
+00:56:12,480 --> 00:56:13,800
+He pointed us in the right direction
+
+1460
+00:56:16,120 --> 00:56:17,760
+Meaning Sisi definitely died here
+
+1461
+00:56:17,760 --> 00:56:18,760
+Because there's bloodstains here
+
+1462
+00:56:18,760 --> 00:56:19,400
+Right
+
+1463
+00:56:19,400 --> 00:56:20,920
+And the strangulation marks were likely from a rope
+
+1464
+00:56:20,920 --> 00:56:21,680
+Hanging her by the legs
+
+1465
+00:56:21,680 --> 00:56:22,200
+Yes
+
+1466
+00:56:22,720 --> 00:56:24,480
+Then controlling the lift upwards
+
+1467
+00:56:25,040 --> 00:56:26,200
+This area is eight meters high
+
+1468
+00:56:26,200 --> 00:56:27,200
+Yes, this spot right here
+
+1469
+00:56:31,120 --> 00:56:32,520
+It's labeled as the atrium here
+
+1470
+00:56:32,520 --> 00:56:34,000
+We're in the atrium now, right?
+
+1471
+00:56:34,000 --> 00:56:34,720
+Correct
+
+1472
+00:56:34,720 --> 00:56:36,400
+The atrium connects to the laundry room
+
+1473
+00:56:49,360 --> 00:56:49,960
+That one
+
+1474
+00:56:49,960 --> 00:56:51,080
+That's the emergency exit
+
+1475
+00:56:51,080 --> 00:56:52,160
+The laundry room's emergency exit
+
+1476
+00:56:54,240 --> 00:56:55,680
+So we can go through here
+
+1477
+00:56:55,680 --> 00:56:57,080
+to reach the laundry room
+
+1478
+00:57:02,680 --> 00:57:03,600
+We've made it through
+
+1479
+00:57:16,080 --> 00:57:17,160
+Then to here,
+
+1480
+00:57:18,200 --> 00:57:19,920
+She was dragged over like this,
+
+1481
+00:57:20,520 --> 00:57:22,880
+Currently, everyone has unanimously agreed
+
+1482
+00:57:22,880 --> 00:57:24,880
+that Sisi was killed by falling
+
+1483
+00:57:24,880 --> 00:57:26,280
+at the back door of the small auditorium,
+
+1484
+00:57:27,240 --> 00:57:29,760
+and then the body was transported through the laundry room's secret passage
+
+1485
+00:57:30,240 --> 00:57:32,760
+to the dormitory building's courtyard.
+
+1486
+00:57:38,640 --> 00:57:39,280
+Could there be a possibility
+
+1487
+00:57:39,280 --> 00:57:40,440
+that this is misleading us
+
+1488
+00:57:40,440 --> 00:57:41,640
+into thinking it's a locked room
+
+1489
+00:57:41,640 --> 00:57:43,640
+when actually the killer placed her there
+
+1490
+00:57:43,640 --> 00:57:44,320
+and then left?
+
+1491
+00:57:44,320 --> 00:57:45,880
+Then the question becomes
+
+1492
+00:57:45,880 --> 00:57:46,600
+how to seal it
+
+1493
+00:57:46,600 --> 00:57:47,360
+so everyone would think
+
+1494
+00:57:47,360 --> 00:57:49,280
+the killer couldn't seal it from outside
+
+1495
+00:57:49,280 --> 00:57:50,720
+Right, because sealing requires outside access
+
+1496
+00:57:50,720 --> 00:57:51,360
+Exactly
+
+1497
+00:57:51,760 --> 00:57:53,600
+Everyone gathered all the evidence
+
+1498
+00:57:53,600 --> 00:57:55,280
+and returned to the small auditorium
+
+1499
+00:57:55,760 --> 00:57:57,960
+They've figured out the corpse transport route avoiding the store's cameras
+
+1500
+00:57:58,440 --> 00:57:59,600
+They already have the answer
+
+1501
+00:57:59,760 --> 00:58:01,480
+But how did the killer
+
+1502
+00:58:01,480 --> 00:58:04,360
+escape from what appeared to be
+
+1503
+00:58:04,360 --> 00:58:05,480
+a taped-up sealed courtyard?
+
+1504
+00:58:07,200 --> 00:58:08,520
+Wait, there's something about this tape
+
+1505
+00:58:08,520 --> 00:58:09,560
+that hasn't been mentioned yet
+
+1506
+00:58:10,360 --> 00:58:12,400
+Can withstand hundreds of kilograms of pulling force
+
+1507
+00:58:12,400 --> 00:58:14,440
+Easily cut by sharp objects
+
+1508
+00:58:14,440 --> 00:58:17,000
+Meaning human strength cannot tear the strong adhesive tape
+
+1509
+00:58:17,400 --> 00:58:18,520
+Can only be cut using sharp tools
+
+1510
+00:58:18,520 --> 00:58:20,920
+But the sharp tool will retain adhesive residue
+
+1511
+00:58:21,360 --> 00:58:22,360
+So this must be
+
+1512
+00:58:22,360 --> 00:58:23,880
+The tape used to seal the door
+
+1513
+00:58:24,200 --> 00:58:27,240
+He said if it was cut open with a sharp tool
+
+1514
+00:58:27,240 --> 00:58:29,840
+The tool would retain adhesive residue
+
+1515
+00:58:29,840 --> 00:58:30,960
+What about that knife?
+
+1516
+00:58:30,960 --> 00:58:32,080
+Check that utility knife
+
+1517
+00:58:32,080 --> 00:58:33,320
+For any residue
+
+1518
+00:58:33,320 --> 00:58:34,520
+None on the knife
+
+1519
+00:58:34,520 --> 00:58:34,920
+Absolutely none
+
+1520
+00:58:34,920 --> 00:58:35,680
+There's really nothing on the knife
+
+1521
+00:58:38,920 --> 00:58:40,560
+So it was a fake seal then?
+
+1522
+00:58:42,200 --> 00:58:43,080
+Then why couldn't Xiao Xiao
+
+1523
+00:58:43,080 --> 00:58:44,080
+Open that door?
+
+1524
+00:58:46,760 --> 00:58:48,320
+Xiao Xiao couldn't push it open
+
+1525
+00:58:48,320 --> 00:58:49,320
+Could it be because
+
+1526
+00:58:49,320 --> 00:58:50,520
+Someone was holding it from inside
+
+1527
+00:58:50,520 --> 00:58:53,240
+Then when he went to get the knife
+
+1528
+00:58:53,240 --> 00:58:54,200
+That person escaped
+
+1529
+00:58:55,800 --> 00:58:56,640
+How did they escape?
+
+1530
+00:59:01,200 --> 00:59:03,040
+Because he told Xiao Xiao when to come
+
+1531
+00:59:03,040 --> 00:59:04,760
+He knew Xiao Xiao would definitely
+
+1532
+00:59:04,760 --> 00:59:06,200
+At 11:20
+
+1533
+00:59:06,680 --> 00:59:08,080
+I received an anonymous message
+
+1534
+00:59:08,600 --> 00:59:09,880
+Telling me to come to the second-floor atrium
+
+1535
+00:59:11,000 --> 00:59:12,000
+Right.
+
+1536
+00:59:12,920 --> 00:59:14,880
+The killer first worked in the courtyard.
+
+1537
+00:59:14,880 --> 00:59:17,640
+Taped the door and its frame together.
+
+1538
+00:59:17,640 --> 00:59:19,200
+Then cut the tape.
+
+1539
+00:59:19,200 --> 00:59:22,840
+Texted Xiao Xiao to come to the second floor to see the body.
+
+1540
+00:59:22,840 --> 00:59:25,720
+At this moment, the killer hid outside the courtyard door.
+
+1541
+00:59:25,720 --> 00:59:26,960
+There's one point.
+
+1542
+00:59:26,960 --> 00:59:28,000
+On the second floor.
+
+1543
+00:59:28,000 --> 00:59:29,600
+He could see the entire courtyard.
+
+1544
+00:59:29,600 --> 00:59:31,680
+Are there hiding spots in the courtyard?
+
+1545
+00:59:31,680 --> 00:59:33,040
+He must have known clearly.
+
+1546
+00:59:33,040 --> 00:59:34,760
+That he would go to the second floor to look.
+
+1547
+00:59:34,760 --> 00:59:35,760
+At this exact moment.
+
+1548
+00:59:35,760 --> 00:59:36,920
+He might have.
+
+1549
+00:59:37,360 --> 00:59:38,680
+Not been in that space.
+
+1550
+00:59:39,800 --> 00:59:41,840
+Then as he went downstairs.
+
+1551
+00:59:41,840 --> 00:59:43,640
+He first ran to brace that door.
+
+1552
+00:59:44,200 --> 00:59:46,920
+When Xiao Xiao ran from second to first floor.
+
+1553
+00:59:46,920 --> 00:59:49,000
+The killer hid inside the courtyard door again.
+
+1554
+00:59:49,000 --> 00:59:49,880
+Bracing the door.
+
+1555
+00:59:49,880 --> 00:59:51,960
+Xiao Xiao tried pushing the door unsuccessfully.
+
+1556
+00:59:51,960 --> 00:59:54,240
+When going to the store to get a utility knife.
+
+1557
+00:59:54,240 --> 00:59:55,880
+The killer seized the chance to leave.
+
+1558
+00:59:57,200 --> 00:59:58,800
+Xiao Xiao returned with the knife.
+
+1559
+00:59:58,800 --> 01:00:00,640
+Instinctively sliced along the door gap.
+
+1560
+01:00:00,640 --> 01:00:02,280
+Then entered the courtyard and discovered.
+
+1561
+01:00:02,280 --> 01:00:03,720
+Rui Sipai was dead.
+
+1562
+01:00:06,720 --> 01:00:08,560
+At this point, everyone deduced
+
+1563
+01:00:08,560 --> 01:00:10,200
+the killer's escape method
+
+1564
+01:00:10,200 --> 01:00:11,840
+He made it appear like a locked room
+
+1565
+01:00:11,840 --> 01:00:13,320
+Didn't Xiao Xiao use a knife to cut?
+
+1566
+01:00:13,320 --> 01:00:14,040
+But the knife
+
+1567
+01:00:14,040 --> 01:00:15,720
+had no tape residue
+
+1568
+01:00:15,720 --> 01:00:17,360
+meaning it wasn't forcibly sealed
+
+1569
+01:00:17,360 --> 01:00:19,560
+If it had actually been
+
+1570
+01:00:19,560 --> 01:00:20,480
+cut open
+
+1571
+01:00:20,480 --> 01:00:21,640
+the craft knife would show marks
+
+1572
+01:00:21,640 --> 01:00:22,120
+Right
+
+1573
+01:00:22,120 --> 01:00:23,680
+So the killer used that
+
+1574
+01:00:23,680 --> 01:00:24,480
+After exiting through that door
+
+1575
+01:00:24,480 --> 01:00:25,360
+went through the laundry room
+
+1576
+01:00:25,360 --> 01:00:26,560
+and then escaped
+
+1577
+01:00:26,720 --> 01:00:27,560
+Because the killer knew
+
+1578
+01:00:27,560 --> 01:00:28,560
+this escape route
+
+1579
+01:00:28,960 --> 01:00:30,560
+Then everyone tried
+
+1580
+01:00:30,560 --> 01:00:32,200
+to find more clues
+
+1581
+01:00:32,200 --> 01:00:34,480
+from each person's story
+
+1582
+01:00:34,480 --> 01:00:37,120
+Ruqing first cast suspicion
+
+1583
+01:00:37,120 --> 01:00:38,960
+on Nengneng
+
+1584
+01:00:38,960 --> 01:00:40,760
+Let me propose a new theory
+
+1585
+01:00:40,760 --> 01:00:44,320
+If Ruisi Bai's death
+
+1586
+01:00:44,320 --> 01:00:46,920
+was revenge against bullies
+
+1587
+01:00:47,320 --> 01:00:49,480
+and Luo Luo, A Kai and Minghao's
+
+1588
+01:00:49,480 --> 01:00:50,360
+treatment
+
+1589
+01:00:50,360 --> 01:00:52,240
+were all anti-bullying revenge
+
+1590
+01:00:52,240 --> 01:00:56,120
+then whoever performed the ritual in the study room
+
+1591
+01:00:56,120 --> 01:00:57,240
+wanting revenge
+
+1592
+01:00:57,240 --> 01:00:59,120
+couldn't be the bullies themselves
+
+1593
+01:00:59,120 --> 01:01:00,480
+or Ruisi Bai
+
+1594
+01:01:02,840 --> 01:01:03,960
+Is it possible
+
+1595
+01:01:03,960 --> 01:01:06,960
+that from the beginning Nengneng had
+
+1596
+01:01:07,720 --> 01:01:09,040
+drugged Ruisi Bai
+
+1597
+01:01:09,760 --> 01:01:11,160
+then used Ruisi Bai's account
+
+1598
+01:01:11,160 --> 01:01:12,440
+to obtain your information?
+
+1599
+01:01:14,480 --> 01:01:15,640
+The current trigger
+
+1600
+01:01:15,640 --> 01:01:17,400
+was Ai Changge's death
+
+1601
+01:01:17,400 --> 01:01:19,120
+which led to Ruisi Bai's death
+
+1602
+01:01:20,120 --> 01:01:21,920
+Now who would be so affected
+
+1603
+01:01:21,920 --> 01:01:23,280
+by Ai Changge's death?
+
+1604
+01:01:23,280 --> 01:01:24,560
+One would be someone
+
+1605
+01:01:24,560 --> 01:01:25,880
+who once loved her deeply
+
+1606
+01:01:28,040 --> 01:01:29,160
+Ai Changge who fell from the building
+
+1607
+01:01:29,160 --> 01:01:29,640
+Right
+
+1608
+01:01:31,800 --> 01:01:33,800
+After falling through the lightwell and being hospitalized
+
+1609
+01:01:34,520 --> 01:01:35,600
+she died from her injuries
+
+1610
+01:01:35,600 --> 01:01:37,200
+I was deeply pained
+
+1611
+01:01:37,200 --> 01:01:39,280
+I actually hated Ruisi Bai
+
+1612
+01:01:43,960 --> 01:01:44,760
+One is
+
+1613
+01:01:44,760 --> 01:01:46,720
+a younger sister she was once very close to
+
+1614
+01:01:48,240 --> 01:01:49,960
+So both of you had motives
+
+1615
+01:01:50,800 --> 01:01:51,760
+But I can tell you
+
+1616
+01:01:51,760 --> 01:01:52,920
+that actually
+
+1617
+01:01:52,920 --> 01:01:54,360
+I also really want to admit my mistakes
+
+1618
+01:01:54,360 --> 01:01:56,520
+Because Xiao Ai singing
+
+1619
+01:01:56,520 --> 01:01:58,000
+was my very good roommate
+
+1620
+01:01:58,000 --> 01:01:59,840
+but in reality, I had been
+
+1621
+01:02:00,680 --> 01:02:02,800
+subtly bullying her all along
+
+1622
+01:02:04,360 --> 01:02:05,280
+Because she treated me so well
+
+1623
+01:02:05,280 --> 01:02:06,480
+She always treated me like
+
+1624
+01:02:06,480 --> 01:02:07,640
+her own younger sister
+
+1625
+01:02:07,640 --> 01:02:09,520
+So every time I would
+
+1626
+01:02:09,520 --> 01:02:10,960
+without any restraint
+
+1627
+01:02:10,960 --> 01:02:11,800
+make demands of her
+
+1628
+01:02:11,800 --> 01:02:13,400
+to do many things for me
+
+1629
+01:02:17,440 --> 01:02:19,200
+And now I realize
+
+1630
+01:02:19,200 --> 01:02:20,480
+I actually feel quite regretful
+
+1631
+01:02:20,480 --> 01:02:22,240
+But I haven't reached
+
+1632
+01:02:22,240 --> 01:02:23,720
+the point of desperately wanting
+
+1633
+01:02:23,720 --> 01:02:25,760
+to take revenge for her
+
+1634
+01:02:27,120 --> 01:02:29,040
+I do feel that
+
+1635
+01:02:29,040 --> 01:02:32,160
+it's unbelievable she actually died like this
+
+1636
+01:02:33,080 --> 01:02:34,360
+So before dorm inspection
+
+1637
+01:02:34,360 --> 01:02:37,200
+you became the one eating dragon beard candy
+
+1638
+01:02:37,200 --> 01:02:37,880
+Right
+
+1639
+01:02:37,880 --> 01:02:39,760
+So you developed murderous intent towards Ruisi Bai
+
+1640
+01:02:39,760 --> 01:02:40,720
+before 1 AM
+
+1641
+01:02:41,120 --> 01:02:43,560
+because you did dorm inspection after drinking tea
+
+1642
+01:02:43,560 --> 01:02:44,720
+The inspection was at 1 AM
+
+1643
+01:02:46,880 --> 01:02:48,080
+You were already sober then
+
+1644
+01:02:50,200 --> 01:02:51,560
+Because you had
+
+1645
+01:02:51,560 --> 01:02:52,760
+murderous intent towards Ruisi Bai
+
+1646
+01:02:52,760 --> 01:02:54,840
+Regardless of whether the intent was strong or weak
+
+1647
+01:02:54,840 --> 01:02:56,480
+you at least had murderous motives towards her
+
+1648
+01:02:58,160 --> 01:03:00,920
+So you can't be ruled out yet
+
+1649
+01:03:02,600 --> 01:03:03,680
+Because we're looking for
+
+1650
+01:03:03,680 --> 01:03:04,520
+someone who developed murderous intent
+
+1651
+01:03:04,520 --> 01:03:05,640
+towards Ruisi Bai between 1-2 AM
+
+1652
+01:03:05,840 --> 01:03:07,600
+Actually I have a new thought
+
+1653
+01:03:09,600 --> 01:03:11,280
+About Luo Luo
+
+1654
+01:03:11,280 --> 01:03:13,160
+See how she dates boyfriends
+
+1655
+01:03:13,160 --> 01:03:14,640
+who are just substitutes
+
+1656
+01:03:15,120 --> 01:03:16,240
+for her brother
+
+1657
+01:03:16,240 --> 01:03:18,120
+And yesterday her brother died
+
+1658
+01:03:18,120 --> 01:03:19,560
+yet she didn't kill anyone
+
+1659
+01:03:20,280 --> 01:03:21,440
+So it's even less likely
+
+1660
+01:03:21,440 --> 01:03:23,520
+that she would kill because of
+
+1661
+01:03:23,520 --> 01:03:25,560
+Ai Singing's sister jumping to her death
+
+1662
+01:03:25,560 --> 01:03:26,000
+Right?
+
+1663
+01:03:32,560 --> 01:03:33,560
+I think
+
+1664
+01:03:33,560 --> 01:03:35,600
+If we follow the timeline
+
+1665
+01:03:36,680 --> 01:03:37,880
+Only one person could have
+
+1666
+01:03:37,880 --> 01:03:40,200
+both the opportunity and motive
+
+1667
+01:03:40,560 --> 01:03:41,920
+I did have a motive to kill
+
+1668
+01:03:41,920 --> 01:03:42,680
+That's true
+
+1669
+01:03:44,800 --> 01:03:46,880
+But I didn't have the means
+
+1670
+01:03:46,880 --> 01:03:47,840
+It's quite obvious
+
+1671
+01:03:49,360 --> 01:03:50,920
+Like tools or props
+
+1672
+01:03:51,600 --> 01:03:53,000
+I didn't have any of those
+
+1673
+01:03:53,000 --> 01:03:54,360
+No time to prepare at all
+
+1674
+01:03:56,200 --> 01:03:57,360
+You just wanted
+
+1675
+01:03:57,360 --> 01:03:59,200
+those three to receive
+
+1676
+01:03:59,200 --> 01:04:00,360
+the punishment they deserve as bullies
+
+1677
+01:04:00,360 --> 01:04:01,920
+to face appropriate consequences
+
+1678
+01:04:01,920 --> 01:04:03,960
+Because Minghao called someone a pig-head
+
+1679
+01:04:03,960 --> 01:04:05,320
+So he saw a pig-head
+
+1680
+01:04:05,320 --> 01:04:06,680
+What about Akai?
+
+1681
+01:04:06,680 --> 01:04:08,000
+And what about Luoluo?
+
+1682
+01:04:08,000 --> 01:04:09,800
+It's the same cycle repeating
+
+1683
+01:04:09,800 --> 01:04:12,440
+You're making my murder motive
+
+1684
+01:04:12,440 --> 01:04:13,600
+seem too broad
+
+1685
+01:04:13,600 --> 01:04:14,640
+If I really
+
+1686
+01:04:14,640 --> 01:04:16,320
+wanted to kill someone
+
+1687
+01:04:16,320 --> 01:04:17,440
+I'd only target Ruisi
+
+1688
+01:04:18,240 --> 01:04:19,640
+But towards the other three
+
+1689
+01:04:19,640 --> 01:04:21,160
+I had no such intentions
+
+1690
+01:04:21,160 --> 01:04:22,720
+You just wanted simple revenge
+
+1691
+01:04:28,360 --> 01:04:29,440
+Both of you could be the one.
+
+1692
+01:04:32,520 --> 01:04:35,800
+I can prove my motive for killing.
+
+1693
+01:04:35,800 --> 01:04:36,800
+Arose after 2:10 AM.
+
+1694
+01:04:36,800 --> 01:04:37,440
+Because when I opened my eyes,
+
+1695
+01:04:37,440 --> 01:04:38,560
+those two trees were already fallen.
+
+1696
+01:04:39,080 --> 01:04:40,640
+So it must have been
+
+1697
+01:04:40,640 --> 01:04:41,960
+at least after 2 AM.
+
+1698
+01:04:42,200 --> 01:04:43,560
+And about the motive,
+
+1699
+01:04:43,560 --> 01:04:44,640
+we could all be lying.
+
+1700
+01:04:44,640 --> 01:04:45,480
+It's possible to lie.
+
+1701
+01:04:45,480 --> 01:04:46,000
+The killer
+
+1702
+01:04:46,000 --> 01:04:46,680
+But
+
+1703
+01:04:46,680 --> 01:04:47,480
+that tree outside,
+
+1704
+01:04:47,480 --> 01:04:48,320
+why does it have a
+
+1705
+01:04:48,320 --> 01:04:49,040
+pig symbol on it?
+
+1706
+01:04:49,040 --> 01:04:50,520
+That could only have been drawn by Nengneng
+
+1707
+01:04:50,520 --> 01:04:52,400
+to trick Minghao
+
+1708
+01:04:52,400 --> 01:04:53,320
+into thinking it was real.
+
+1709
+01:04:53,320 --> 01:04:54,840
+Now I feel
+
+1710
+01:04:55,240 --> 01:04:56,440
+because initially,
+
+1711
+01:04:56,440 --> 01:04:57,880
+he had the clearest motive.
+
+1712
+01:04:57,880 --> 01:05:00,320
+But if it's still him now,
+
+1713
+01:05:00,320 --> 01:05:01,240
+that seems too obvious.
+
+1714
+01:05:01,240 --> 01:05:02,600
+And you're somewhat targeting him.
+
+1715
+01:05:02,600 --> 01:05:04,240
+Now I think you might be X.
+
+1716
+01:05:04,760 --> 01:05:06,320
+You're X, you know that?
+
+1717
+01:05:06,320 --> 01:05:07,680
+You've been targeting me all along.
+
+1718
+01:05:07,680 --> 01:05:08,920
+I also think you
+
+1719
+01:05:09,640 --> 01:05:10,920
+I'm definitely not X.
+
+1720
+01:05:14,320 --> 01:05:15,360
+It should be Ruqing.
+
+1721
+01:05:18,720 --> 01:05:20,520
+Actually, there's another question.
+
+1722
+01:05:20,520 --> 01:05:23,640
+Why did you know that Ruisibai
+
+1723
+01:05:23,640 --> 01:05:24,520
+was constantly bullying you,
+
+1724
+01:05:24,520 --> 01:05:26,120
+yet you still chose to be her roommate?
+
+1725
+01:05:26,840 --> 01:05:27,760
+The school assigned us.
+
+1726
+01:05:29,400 --> 01:05:31,080
+No, the important thing is
+
+1727
+01:05:31,720 --> 01:05:33,560
+Ruisibai was also promoting me,
+
+1728
+01:05:33,560 --> 01:05:34,720
+and she even
+
+1729
+01:05:34,720 --> 01:05:36,080
+made me the Art Promotion Star.
+
+1730
+01:05:36,080 --> 01:05:36,560
+Right.
+
+1731
+01:05:36,960 --> 01:05:37,960
+So why would I kill her?
+
+1732
+01:05:39,560 --> 01:05:41,200
+It's exactly like this.
+
+1733
+01:05:41,200 --> 01:05:42,560
+Here's what we've discovered now:
+
+1734
+01:05:42,560 --> 01:05:43,960
+Your painting appeared in
+
+1735
+01:05:43,960 --> 01:05:45,280
+Ruisibai's secret space.
+
+1736
+01:05:45,920 --> 01:05:46,960
+So what?
+
+1737
+01:05:47,520 --> 01:05:48,440
+It means you've been there.
+
+1738
+01:05:49,120 --> 01:05:50,040
+So what?
+
+1739
+01:05:50,040 --> 01:05:51,000
+It means you're an accomplice.
+
+1740
+01:05:53,840 --> 01:05:54,600
+Even if we assume that,
+
+1741
+01:05:54,600 --> 01:05:56,600
+who would I be helping as an accomplice?
+
+1742
+01:05:58,840 --> 01:06:00,920
+Why would I help someone kill?
+
+1743
+01:06:00,920 --> 01:06:02,760
+I think you've been targeting me.
+
+1744
+01:06:02,760 --> 01:06:04,680
+I agree, it's too obvious.
+
+1745
+01:06:04,680 --> 01:06:06,280
+You're obviously [censored]
+
+1746
+01:06:09,200 --> 01:06:09,920
+Way too obvious.
+
+1747
+01:06:09,920 --> 01:06:11,000
+Don't believe him.
+
+1748
+01:06:11,000 --> 01:06:12,880
+No, this is solid [evidence]
+
+1749
+01:06:12,880 --> 01:06:14,000
+It's testified, confirmed.
+
+1750
+01:06:14,000 --> 01:06:14,600
+Exactly.
+
+1751
+01:06:16,320 --> 01:06:18,200
+You've been protecting him all along.
+
+1752
+01:06:30,320 --> 01:06:30,920
+Let's vote
+
+1753
+01:06:39,520 --> 01:06:42,160
+I think today's murderer is Nengneng.
+
+1754
+01:06:43,600 --> 01:06:45,840
+He disguised himself as Rui Sisi
+
+1755
+01:06:46,480 --> 01:06:49,320
+to make all the novice bullies
+
+1756
+01:06:49,320 --> 01:06:50,680
+was punished
+
+1757
+01:06:50,680 --> 01:06:52,600
+In the end, the ultimate bully, Sisi,
+
+1758
+01:06:52,960 --> 01:06:53,720
+met her demise
+
+1759
+01:06:54,440 --> 01:06:56,200
+I voted for Lin Hao
+
+1760
+01:06:56,200 --> 01:06:58,760
+because I believe, based on the current situation,
+
+1761
+01:06:59,320 --> 01:07:01,600
+More people will vote for Nengneng.
+
+1762
+01:07:01,600 --> 01:07:03,960
+Then I think the culprit is likely between
+
+1763
+01:07:03,960 --> 01:07:05,680
+Minghao and Nengneng.
+
+1764
+01:07:05,680 --> 01:07:08,640
+If the real culprit is Minghao,
+
+1765
+01:07:08,640 --> 01:07:09,920
+but everyone votes for Nengneng instead,
+
+1766
+01:07:09,920 --> 01:07:10,520
+we'll lose.
+
+1767
+01:07:10,520 --> 01:07:12,240
+So I'll cast my vote for Minghao.
+
+1768
+01:07:17,280 --> 01:07:19,320
+My vote today is for Nengneng.
+
+1769
+01:07:19,760 --> 01:07:21,600
+And I chose Nengneng because of Ruisi.
+
+1770
+01:07:21,600 --> 01:07:22,760
+He was bullied at school.
+
+1771
+01:07:22,760 --> 01:07:24,160
+A former crush.
+
+1772
+01:07:24,160 --> 01:07:24,920
+He grew resentful.
+
+1773
+01:07:24,920 --> 01:07:26,440
+He felt he couldn't let the bullying continue.
+
+1774
+01:07:26,440 --> 01:07:28,000
+to go on any longer.
+
+1775
+01:07:28,000 --> 01:07:30,320
+And he took a series of actions.
+
+1776
+01:07:30,320 --> 01:07:32,200
+Those former bullies.
+
+1777
+01:07:32,200 --> 01:07:34,200
+also received appropriate punishment.
+
+1778
+01:07:34,200 --> 01:07:36,200
+I voted for Nengneng as the culprit.
+
+1779
+01:07:39,080 --> 01:07:41,760
+I voted for Minghao.
+
+1780
+01:07:42,720 --> 01:07:45,080
+X is Zhuocheng.
+
+1781
+01:07:46,240 --> 01:07:47,880
+I hope I win.
+
+1782
+01:07:52,240 --> 01:07:54,560
+I'm not the killer myself.
+
+1783
+01:07:54,560 --> 01:07:56,120
+So the real culprit is...
+
+1784
+01:07:57,720 --> 01:07:58,360
+It was actually very difficult.
+
+1785
+01:07:58,360 --> 01:07:59,720
+But in the end I wrote...
+
+1786
+01:08:05,560 --> 01:08:06,720
+Next we will announce.
+
+1787
+01:08:07,200 --> 01:08:08,880
+the voting results of all players.
+
+1788
+01:08:10,840 --> 01:08:12,520
+After everyone's voting,
+
+1789
+01:08:12,520 --> 01:08:13,960
+our voting results are:
+
+1790
+01:08:16,680 --> 01:08:18,560
+three players received votes.
+
+1791
+01:08:21,160 --> 01:08:22,360
+The one with 0 votes is
+
+1792
+01:08:26,080 --> 01:08:26,600
+A-Kai.
+
+1793
+01:08:28,560 --> 01:08:30,480
+Among the other three players,
+
+1794
+01:08:31,640 --> 01:08:33,480
+who received more votes?
+
+1795
+01:08:35,000 --> 01:08:36,160
+Now I announce:
+
+1796
+01:08:36,520 --> 01:08:38,960
+One player received 3 votes.
+
+1797
+01:08:41,000 --> 01:08:41,880
+He is
+
+1798
+01:08:43,080 --> 01:08:43,680
+Minghao.
+
+1799
+01:08:44,960 --> 01:08:46,080
+What?
+
+1800
+01:08:50,200 --> 01:08:51,920
+I voted for Minghao.
+
+1801
+01:08:51,920 --> 01:08:54,440
+I voted for Minghao too.
+
+1802
+01:08:54,440 --> 01:08:56,320
+The real culprit is Minghao.
+
+1803
+01:08:57,600 --> 01:08:58,200
+It was really a tough decision,
+
+1804
+01:08:58,200 --> 01:09:00,080
+but I ultimately chose Luoluo.
+
+1805
+01:09:02,320 --> 01:09:04,720
+So did everyone successfully identify the culprit?
+
+1806
+01:09:10,040 --> 01:09:11,320
+Everyone identifies the culprit
+
+1807
+01:09:14,600 --> 01:09:15,560
+Failed
+
+1808
+01:09:19,680 --> 01:09:21,200
+The real culprit in this case is
+
+1809
+01:09:23,560 --> 01:09:24,040
+Luo Luo
+
+1810
+01:09:25,200 --> 01:09:26,200
+It's me
+
+1811
+01:09:27,120 --> 01:09:27,920
+Sorry about that
+
+1812
+01:09:28,320 --> 01:09:29,040
+Too strong
+
+1813
+01:09:29,040 --> 01:09:30,160
+I guessed right
+
+1814
+01:09:33,520 --> 01:09:36,760
+Please have the real culprit approach the case X
+
+1815
+01:09:43,600 --> 01:09:44,400
+Is that you?
+
+1816
+01:09:46,280 --> 01:09:47,160
+Zhuocheng
+
+1817
+01:09:48,480 --> 01:09:49,000
+It's not me
+
+1818
+01:09:52,800 --> 01:09:53,200
+What?
+
+1819
+01:10:08,520 --> 01:10:10,320
+Who would be so affected by Ai Singing's death
+
+1820
+01:10:10,320 --> 01:10:11,680
+to such a great extent?
+
+1821
+01:10:11,680 --> 01:10:12,960
+One is someone who
+
+1822
+01:10:12,960 --> 01:10:14,280
+used to love her deeply,
+
+1823
+01:10:14,280 --> 01:10:15,080
+the other is
+
+1824
+01:10:15,080 --> 01:10:17,320
+a younger sister who was once very close to him.
+
+1825
+01:10:17,320 --> 01:10:18,800
+I haven't reached
+
+1826
+01:10:18,800 --> 01:10:20,360
+the point of desperately wanting
+
+1827
+01:10:20,360 --> 01:10:22,160
+to take revenge for her.
+
+1828
+01:10:22,160 --> 01:10:23,560
+Regardless of whether the intent to kill was strong or weak,
+
+1829
+01:10:23,560 --> 01:10:25,040
+you at least had murderous intentions toward her.
+
+1830
+01:10:25,040 --> 01:10:27,320
+Even when Luo Luo's brother died yesterday,
+
+1831
+01:10:27,320 --> 01:10:28,640
+she didn't resort to killing.
+
+1832
+01:10:28,640 --> 01:10:31,000
+So it's even more impossible that she would kill because of
+
+1833
+01:10:31,000 --> 01:10:33,000
+an Ai Singing sister she had been using,
+
+1834
+01:10:33,000 --> 01:10:34,840
+who jumped to her death, right?
+
+1835
+01:10:35,400 --> 01:10:36,480
+Both of you could be suspects.
+
+1836
+01:10:38,000 --> 01:10:39,480
+Then it must have been drawn by Neng Neng
+
+1837
+01:10:39,480 --> 01:10:40,920
+to deceive Ming Hao.
+
+1838
+01:10:41,840 --> 01:10:43,400
+I feel like you've been targeting me.
+
+1839
+01:10:43,400 --> 01:10:45,480
+I agree, it's too obvious.
+
+1840
+01:10:47,160 --> 01:10:48,920
+You've been protecting him all along.
+
+1841
+01:10:49,320 --> 01:10:50,680
+And you seem to be targeting him a bit.
+
+1842
+01:10:50,680 --> 01:10:51,720
+Now I think you're somewhat like X.
+
+1843
+01:10:51,720 --> 01:10:53,080
+You're clearly X.
+
+1844
+01:10:55,880 --> 01:10:57,560
+Yes, darling.
+
+1845
+01:11:03,760 --> 01:11:04,200
+But I don't understand
+
+1846
+01:11:04,200 --> 01:11:05,440
+why you keep targeting me
+
+1847
+01:11:06,240 --> 01:11:07,200
+Yeah, it's really strange
+
+1848
+01:11:07,200 --> 01:11:09,840
+He genuinely believes it's you
+
+1849
+01:11:11,120 --> 01:11:13,480
+Back then I thought "thank you"
+
+1850
+01:11:14,240 --> 01:11:17,240
+Zhuocheng helped me by relentlessly targeting you
+
+1851
+01:11:18,480 --> 01:11:19,840
+which brings us to today
+
+1852
+01:11:19,840 --> 01:11:21,440
+Actually, we still have many
+
+1853
+01:11:21,440 --> 01:11:22,560
+unsolved mysteries
+
+1854
+01:11:22,880 --> 01:11:24,360
+Like on the first day
+
+1855
+01:11:24,360 --> 01:11:27,000
+we heard Luoluo talk about
+
+1856
+01:11:27,000 --> 01:11:28,080
+the campus urban legends
+
+1857
+01:11:28,080 --> 01:11:29,400
+To this day we still don't know
+
+1858
+01:11:29,400 --> 01:11:31,240
+whether those legends were real or not
+
+1859
+01:11:31,920 --> 01:11:34,120
+The Seven Mysteries of Tuiyi
+
+1860
+01:11:34,120 --> 01:11:37,480
+And that day when Nengneng and I went to the piano room
+
+1861
+01:11:37,480 --> 01:11:38,960
+There was clearly no one there
+
+1862
+01:11:38,960 --> 01:11:40,520
+so why was it playing by itself?
+
+1863
+01:11:40,920 --> 01:11:43,320
+Then in that day's chat records
+
+1864
+01:11:43,320 --> 01:11:44,680
+Xiaoxi and Xiaonan said
+
+1865
+01:11:44,680 --> 01:11:46,440
+we've forgotten someone
+
+1866
+01:11:46,440 --> 01:11:48,040
+Who did they forget?
+
+1867
+01:11:48,440 --> 01:11:49,640
+Today's case is about
+
+1868
+01:11:49,880 --> 01:11:52,200
+who gave Luoluo the murder plan
+
+1869
+01:11:52,560 --> 01:11:53,880
+Then there's the locked box
+
+1870
+01:11:53,880 --> 01:11:54,680
+inside Ruisi Temple
+
+1871
+01:11:54,680 --> 01:11:55,760
+that still hasn't been opened
+
+1872
+01:11:56,320 --> 01:11:58,480
+And now all three of you
+
+1873
+01:11:58,480 --> 01:12:00,040
+have been cursed
+
+1874
+01:12:00,360 --> 01:12:01,840
+Is it possible to break it?
+
+1875
+01:12:02,080 --> 01:12:04,880
+As for my own unsolved mystery
+
+1876
+01:12:04,880 --> 01:12:06,160
+Luoluo said she checked the dorms
+
+1877
+01:12:06,160 --> 01:12:07,960
+so why wasn't I there?
+
+1878
+01:12:07,960 --> 01:12:09,360
+So actually right now
+
+1879
+01:12:09,360 --> 01:12:11,320
+there are still many eerie things
+
+1880
+01:12:11,880 --> 01:12:13,240
+that we haven't figured out
+
+1881
+01:12:16,560 --> 01:12:17,200
+Students
+
+1882
+01:12:17,600 --> 01:12:19,880
+It's now 8 PM on June 4th
+
+1883
+01:12:20,360 --> 01:12:21,520
+Those who signed up for
+
+1884
+01:12:21,880 --> 01:12:23,840
+the Tuiyi Mysterious Art Exhibition
+
+1885
+01:12:24,200 --> 01:12:27,760
+please come to the library at midnight for the event
+
+1886
+01:12:33,080 --> 01:12:34,600
+Kyle Owen
+
+1887
+01:12:35,720 --> 01:12:37,440
+Great
+
+1888
+01:12:37,440 --> 01:12:39,440
+Go for it, brothers
+
+1889
+01:12:39,440 --> 01:12:40,120
+Where is Ruqing?
+
+1890
+01:12:41,760 --> 01:12:42,400
+Something's wrong
+
+1891
+01:12:44,640 --> 01:12:46,440
+Where does this lead to?
+
+1892
+01:12:46,440 --> 01:12:47,200
+Warning
+
+1893
+01:12:47,200 --> 01:12:49,560
+Detected 6 people in the elevator
+
+1894
+01:12:50,400 --> 01:12:51,480
+There are only 5 of us now
+
+1895
+01:12:51,720 --> 01:12:52,560
+What does that mean?
+
+1896
+01:12:52,560 --> 01:12:53,360
+Someone has to get off
+
+1897
+01:12:55,080 --> 01:12:55,880
+Not allowed to leave
+
+1898
+01:13:02,960 --> 01:13:04,240
+Who is holding me now?
+
+1899
+01:13:04,240 --> 01:13:05,520
+Who is holding my hand now?
+
+1900
+01:13:09,480 --> 01:13:10,040
+Brother
+
+1901
+01:13:11,280 --> 01:13:12,440
+I'm Luoluo
+
+1902
+01:13:12,440 --> 01:13:13,440
+Where are you, Luoluo?
+
+1903
+01:13:13,440 --> 01:13:14,400
+Nengneng
+
+1904
+01:13:16,720 --> 01:13:17,800
+Brothers, why am I here again?
+
+1905
+01:13:18,880 --> 01:13:20,040
+Sister Ai Singing
+
+1906
+01:13:20,040 --> 01:13:21,440
+Didn't she already die?
+
+1907
+01:13:21,440 --> 01:13:23,080
+I don't need to break up peacefully with Luoluo anymore
+
+1908
+01:13:23,080 --> 01:13:24,480
+She's both Ai Singing and Luoluo anyway
+
+1909
+01:13:26,000 --> 01:13:27,480
+You're happy, aren't you?
+
+1910
+01:13:31,480 --> 01:13:32,720
+Room F was empty at that time
+
+1911
+01:13:32,720 --> 01:13:33,360
+Where did you go?
+
+1912
+01:13:33,880 --> 01:13:34,960
+Who pressed the B button?
+
+1913
+01:13:34,960 --> 01:13:36,200
+The B button was pressed by A
+
+1914
+01:13:36,200 --> 01:13:37,400
+Who pressed the F button?
+
+1915
+01:13:37,400 --> 01:13:37,840
+E
+
+1916
+01:13:37,840 --> 01:13:39,040
+Tell me which button I should press
+
+1917
+01:13:39,280 --> 01:13:40,280
+No, you don't need to press anything
+
+1918
+01:13:40,280 --> 01:13:40,840
+Right
+
+1919
+01:13:40,840 --> 01:13:41,960
+I didn't need to press anything in the first place
+
+1920
+01:13:41,960 --> 01:13:43,600
+If we first exclude the invisible person
+
+1921
+01:13:43,600 --> 01:13:44,640
+No, why exclude the invisible person?
+
+1922
+01:13:45,880 --> 01:13:47,120
+You're wrong, I won't believe it
