@@ -1,0 +1,1815 @@
+1
+00:00:05,520 --> 00:00:06,280
+Welcome to
+
+2
+00:00:06,280 --> 00:00:07,760
+the show sponsored by
+
+3
+00:00:07,760 --> 00:00:10,640
+all our dedicated fans - "Let's Deduce! X"
+
+4
+00:00:11,040 --> 00:00:12,120
+I'm Cui Shaoyang
+
+5
+00:00:13,480 --> 00:00:15,080
+"Start Deduction" Season 2
+
+6
+00:00:15,080 --> 00:00:17,440
+introducing our first "Dual Killers" gameplay
+
+7
+00:00:17,800 --> 00:00:19,520
+This episode at Deduction Town Art Academy
+
+8
+00:00:19,520 --> 00:00:22,400
+we welcome the annual school festival once again
+
+9
+00:00:22,400 --> 00:00:25,400
+Zhi Daole and TYP were both murdered
+
+10
+00:00:25,840 --> 00:00:27,200
+After investigation
+
+11
+00:00:27,200 --> 00:00:31,200
+the real culprits turned out to be Ke Daole and Ning Hao
+
+12
+00:00:31,200 --> 00:00:34,160
+How did these two killers pass the X test
+
+13
+00:00:34,400 --> 00:00:36,640
+and clear themselves of suspicion
+
+14
+00:00:36,640 --> 00:00:38,320
+to successfully obtain the golden key?
+
+15
+00:00:39,000 --> 00:00:40,520
+Now let's all together
+
+16
+00:00:40,640 --> 00:00:42,160
+"Let's Deduce! X"
+
+17
+00:00:46,640 --> 00:00:49,320
+It's time for the annual X Mission Competition
+
+18
+00:00:49,440 --> 00:00:50,880
+So today
+
+19
+00:00:50,880 --> 00:00:51,760
+as the killers
+
+20
+00:00:52,320 --> 00:00:53,200
+as the killers
+
+21
+00:00:56,000 --> 00:00:57,720
+if "Ke" represents three
+
+22
+00:00:57,720 --> 00:00:59,480
+what numbers do "Dao" and "Le" represent?
+
+23
+00:01:04,920 --> 00:01:06,760
+Three words have five numbers
+
+24
+00:01:06,920 --> 00:01:07,960
+No mistake, right?
+
+25
+00:01:09,400 --> 00:01:12,200
+What's the connection between nine and "Ning"?
+
+26
+00:01:15,280 --> 00:01:16,560
+These are numbers
+
+27
+00:01:17,760 --> 00:01:18,720
+Three
+
+28
+00:01:20,400 --> 00:01:21,680
+Three
+
+29
+00:01:23,160 --> 00:01:24,200
+Why should it be three?
+
+30
+00:01:38,200 --> 00:01:38,680
+This "beauty"
+
+31
+00:01:38,680 --> 00:01:41,360
+It has one, two, three, four, five, six
+
+32
+00:01:41,360 --> 00:01:42,720
+six horizontal lines
+
+33
+00:01:42,720 --> 00:01:45,520
+Then "self" has one, two, three, four horizontal lines
+
+34
+00:01:45,720 --> 00:01:47,760
+"Ba" has one, two, three horizontal lines
+
+35
+00:01:47,760 --> 00:01:49,200
+So it's three, four, six
+
+36
+00:01:50,440 --> 00:01:52,280
+But our actual logic is
+
+37
+00:01:52,280 --> 00:01:54,600
+to count how many squares there are
+
+38
+00:02:03,680 --> 00:02:04,640
+Square
+
+39
+00:02:04,640 --> 00:02:05,720
+Numbers?
+
+40
+00:02:05,880 --> 00:02:07,880
+One two three four five six
+
+41
+00:02:09,520 --> 00:02:15,120
+Seven eight nine
+
+42
+00:02:16,880 --> 00:02:19,600
+One two three four five six seven eight nine ten
+
+43
+00:02:26,080 --> 00:02:28,720
+Eight nine two three
+
+44
+00:02:28,720 --> 00:02:32,320
+The number of squares contained in each shape
+
+45
+00:02:32,320 --> 00:02:35,520
+First count the smallest ones: one, two, three, four, five, six
+
+46
+00:02:35,920 --> 00:02:39,480
+Then the combined ones: seven, eight
+
+47
+00:02:39,840 --> 00:02:41,880
+So it's eight nine two three
+
+48
+00:02:43,760 --> 00:02:44,960
+Wait, let me check again
+
+49
+00:02:46,040 --> 00:02:47,600
+Maybe it's like this
+
+50
+00:02:48,240 --> 00:02:48,920
+Let me see
+
+51
+00:02:49,920 --> 00:02:51,320
+I think
+
+52
+00:02:52,480 --> 00:02:53,600
+This "Bai" character
+
+53
+00:02:53,920 --> 00:02:55,240
+is combined
+
+54
+00:02:55,240 --> 00:02:57,240
+Then this definitely isn't Bai Sect's doing
+
+55
+00:02:57,360 --> 00:02:59,160
+One two three, right?
+
+56
+00:02:59,160 --> 00:03:00,160
+This is three
+
+57
+00:03:01,440 --> 00:03:02,760
+One two three four
+
+58
+00:03:02,760 --> 00:03:04,040
+This is four
+
+59
+00:03:07,640 --> 00:03:09,400
+Three four one
+
+60
+00:03:10,040 --> 00:03:12,760
+The correct answer is 391.
+
+61
+00:03:20,160 --> 00:03:21,800
+The first character has been guessed.
+
+62
+00:03:22,840 --> 00:03:26,560
+The character "gold" has a total of eight strokes.
+
+63
+00:03:26,560 --> 00:03:27,720
+And this one written
+
+64
+00:03:27,720 --> 00:03:29,200
+is the awkwardly written character "gold"
+
+65
+00:03:29,200 --> 00:03:29,840
+with eleven strokes
+
+66
+00:03:29,840 --> 00:03:31,120
+Eleven minus eight equals
+
+67
+00:03:31,960 --> 00:03:32,760
+Three
+
+68
+00:03:32,760 --> 00:03:34,520
+Then let's count the second "si"
+
+69
+00:03:34,720 --> 00:03:37,320
+One, two, three, four, five—five strokes
+
+70
+00:03:38,800 --> 00:03:40,000
+How do you count this?
+
+71
+00:03:40,760 --> 00:03:42,480
+How is this counted as one stroke?
+
+72
+00:03:45,600 --> 00:03:47,720
+Let's start with the shapes
+
+73
+00:03:48,800 --> 00:03:49,600
+Three
+
+74
+00:03:50,600 --> 00:03:51,880
+One triangle
+
+75
+00:03:52,120 --> 00:03:53,400
+Two trapezoids
+
+76
+00:03:53,400 --> 00:03:54,800
+Two squares
+
+77
+00:03:59,360 --> 00:04:01,320
+How does this count as shapes?
+
+78
+00:04:01,320 --> 00:04:02,040
+End
+
+79
+00:04:02,400 --> 00:04:03,400
+Challenge failed
+
+80
+00:04:04,040 --> 00:04:05,240
+Good thing I'm not the murderer
+
+81
+00:04:11,240 --> 00:04:12,360
+Three five two
+
+82
+00:04:12,360 --> 00:04:13,720
+Three seven two
+
+83
+00:04:13,720 --> 00:04:15,080
+Three four two
+
+84
+00:04:15,080 --> 00:04:16,440
+Three six two
+
+85
+00:04:16,440 --> 00:04:17,600
+Wrong
+
+86
+00:04:21,200 --> 00:04:22,240
+I got it
+
+87
+00:04:22,440 --> 00:04:23,360
+Three nine two
+
+88
+00:04:24,080 --> 00:04:24,800
+Wrong
+
+89
+00:04:25,400 --> 00:04:27,240
+The correct answer is three eight two
+
+90
+00:04:27,240 --> 00:04:28,440
+Three nine two
+
+91
+00:04:28,440 --> 00:04:29,720
+Three seven two
+
+92
+00:04:29,720 --> 00:04:31,160
+Three four two
+
+93
+00:04:31,160 --> 00:04:32,240
+Three six two
+
+94
+00:04:36,840 --> 00:04:38,160
+Nine three two, right?
+
+95
+00:04:39,200 --> 00:04:40,160
+Because this
+
+96
+00:04:40,160 --> 00:04:42,440
+This "宁" looks like nine
+
+97
+00:04:42,440 --> 00:04:43,640
+And this one
+
+98
+00:04:43,640 --> 00:04:45,120
+This should look like three
+
+99
+00:04:45,120 --> 00:04:47,040
+Then what does this "女" look like?
+
+100
+00:04:48,120 --> 00:04:49,840
+Nine four three
+
+101
+00:04:50,240 --> 00:04:51,480
+Nine eight three
+
+102
+00:04:55,920 --> 00:04:56,720
+How come
+
+103
+00:04:58,720 --> 00:05:00,040
+Look, look
+
+104
+00:05:00,040 --> 00:05:02,040
+Count the squares inside the "宁" character
+
+105
+00:05:03,160 --> 00:05:04,520
+Calculate it this way
+
+106
+00:05:07,440 --> 00:05:08,160
+Today's is quite difficult
+
+107
+00:05:08,160 --> 00:05:09,920
+They made it deliberately hard, didn't they?
+
+108
+00:05:29,720 --> 00:05:31,320
+Who should go first?
+
+109
+00:05:31,320 --> 00:05:32,320
+You go or I go?
+
+110
+00:05:32,320 --> 00:05:32,960
+Alright.
+
+111
+00:05:38,480 --> 00:05:40,360
+This is my first time experiencing this.
+
+112
+00:05:53,840 --> 00:05:55,440
+Completely calm and composed
+
+113
+00:06:01,520 --> 00:06:03,120
+Come on
+
+114
+00:06:25,520 --> 00:06:28,320
+Why are you staring at him?
+
+115
+00:06:29,880 --> 00:06:31,000
+What's with that expression?
+
+116
+00:06:34,360 --> 00:06:35,760
+Anyway, those two know
+
+117
+00:06:35,760 --> 00:06:37,400
+who is X and who isn't X
+
+118
+00:06:37,400 --> 00:06:39,080
+They know it themselves
+
+119
+00:06:39,080 --> 00:06:40,080
+Only these two detectives
+
+120
+00:06:40,080 --> 00:06:41,600
+know about each other's identities
+
+121
+00:06:41,600 --> 00:06:44,240
+Because they'll see they're not
+
+122
+00:06:44,240 --> 00:06:45,680
+Before this round, the killer
+
+123
+00:06:45,680 --> 00:06:47,240
+will complete this X mission
+
+124
+00:06:47,240 --> 00:06:48,400
+If completed,
+
+125
+00:06:48,680 --> 00:06:50,480
+they get a secret action
+
+126
+00:06:51,800 --> 00:06:52,280
+For example,
+
+127
+00:06:52,280 --> 00:06:52,800
+saying something
+
+128
+00:06:52,800 --> 00:06:53,680
+anything at all
+
+129
+00:06:53,800 --> 00:06:54,880
+I once had a mission
+
+130
+00:06:54,880 --> 00:06:57,640
+where I had to pat him in front of everyone
+
+131
+00:07:15,520 --> 00:07:17,080
+I've heard about your situation.
+
+132
+00:07:17,400 --> 00:07:19,520
+You have three days to sign it.
+
+133
+00:07:19,520 --> 00:07:22,680
+Otherwise I'll start releasing some statements.
+
+134
+00:07:22,680 --> 00:07:23,880
+I advise you not to.
+
+135
+00:07:23,880 --> 00:07:25,480
+Destroy your own future.
+
+136
+00:07:25,880 --> 00:07:27,600
+Party B is Ke Daole.
+
+137
+00:07:27,800 --> 00:07:30,200
+Zi Daole must have called TYP.
+
+138
+00:07:30,200 --> 00:07:31,080
+Saying he wants to break up with me.
+
+139
+00:07:31,080 --> 00:07:32,560
+She said then sign a supplementary contract.
+
+140
+00:07:32,560 --> 00:07:34,560
+Sign it quickly, or you'll regret it.
+
+141
+00:07:34,640 --> 00:07:35,600
+They're demanding compensation from you.
+
+142
+00:07:35,600 --> 00:07:35,960
+Signed one.
+
+143
+00:07:35,960 --> 00:07:36,600
+Right.
+
+144
+00:07:36,600 --> 00:07:38,440
+She wants to ruin my reputation.
+
+145
+00:07:38,440 --> 00:07:40,040
+And TYP wants to take advantage of this.
+
+146
+00:07:40,040 --> 00:07:41,440
+To make me pay him compensation.
+
+147
+00:07:41,720 --> 00:07:43,400
+Then you have even stronger motive for murder.
+
+148
+00:07:43,560 --> 00:07:43,920
+Yes.
+
+149
+00:07:52,920 --> 00:07:55,560
+If the three of us can prove our alibis,
+
+150
+00:07:55,560 --> 00:07:56,920
+and one person is imitating TYP,
+
+151
+00:07:56,920 --> 00:07:58,280
+then the killer must be among the four of us.
+
+152
+00:07:58,280 --> 00:07:59,600
+It must be him doing the imitation.
+
+153
+00:08:00,200 --> 00:08:01,320
+Unless you have a reason,
+
+154
+00:08:01,320 --> 00:08:02,200
+a reason that can prove
+
+155
+00:08:02,200 --> 00:08:03,120
+the first appearance of that TYP
+
+156
+00:08:03,120 --> 00:08:04,840
+was genuine and not you.
+
+157
+00:08:28,560 --> 00:08:29,560
+After TYP went in,
+
+158
+00:08:29,560 --> 00:08:31,280
+we didn't see him leave on the surveillance footage.
+
+159
+00:08:31,280 --> 00:08:32,160
+So there must be someone
+
+160
+00:08:32,160 --> 00:08:34,160
+who helped him get out.
+
+161
+00:08:34,560 --> 00:08:35,000
+This...
+
+162
+00:08:35,000 --> 00:08:38,000
+Didn't I mention earlier about the sequence
+
+163
+00:08:38,000 --> 00:08:38,720
+where...
+
+164
+00:08:38,720 --> 00:08:39,920
+moving paintings and pushing boxes?
+
+165
+00:08:39,920 --> 00:08:41,160
+Two people could work together.
+
+166
+00:08:41,160 --> 00:08:41,560
+Right.
+
+167
+00:08:41,960 --> 00:08:43,360
+How did this person get out?
+
+168
+00:08:44,200 --> 00:08:45,920
+The person moving paintings could cover for him.
+
+169
+00:08:45,920 --> 00:08:46,760
+I'm hypothesizing
+
+170
+00:08:46,760 --> 00:08:49,960
+if he was the one impersonating TYP.
+
+171
+00:08:49,960 --> 00:08:51,480
+He's the fourth...
+
+172
+00:08:51,480 --> 00:08:52,400
+No, he's the third.
+
+173
+00:08:52,800 --> 00:08:55,120
+You go in carrying paintings,
+
+174
+00:08:55,280 --> 00:08:56,000
+and then...
+
+175
+00:08:56,000 --> 00:08:57,680
+smuggle him out while he's wearing red clothes.
+
+176
+00:08:57,680 --> 00:08:58,960
+I didn't smuggle him out.
+
+177
+00:08:59,200 --> 00:08:59,640
+I didn't say that.
+
+178
+00:08:59,640 --> 00:09:00,560
+Just a hypothesis.
+
+179
+00:09:00,560 --> 00:09:01,320
+Yes, hypothetically.
+
+180
+00:09:01,320 --> 00:09:02,920
+I'm just explaining this logical method.
+
+181
+00:09:03,600 --> 00:09:05,200
+Boxes and paintings work the same way.
+
+182
+00:09:08,840 --> 00:09:10,600
+Let's analyze
+
+183
+00:09:10,600 --> 00:09:14,800
+who might have motives for murder.
+
+184
+00:09:14,800 --> 00:09:16,040
+Start by examining the motives.
+
+185
+00:09:20,200 --> 00:09:22,400
+This person probably only intended to kill one person.
+
+186
+00:09:22,400 --> 00:09:24,440
+My murder motive was actually to kill two people.
+
+187
+00:09:24,440 --> 00:09:25,600
+So it couldn't have been me.
+
+188
+00:09:25,600 --> 00:09:26,600
+Eliminated.
+
+189
+00:09:26,960 --> 00:09:27,640
+Then maybe coincidentally,
+
+190
+00:09:27,640 --> 00:09:28,800
+you saw someone else who also wanted to kill him.
+
+191
+00:09:28,800 --> 00:09:29,560
+So you thought
+
+192
+00:09:29,560 --> 00:09:30,440
+you could conveniently use that person.
+
+193
+00:09:30,440 --> 00:09:31,240
+You're targeting me.
+
+194
+00:09:31,240 --> 00:09:32,240
+It's obvious.
+
+195
+00:09:33,160 --> 00:09:34,320
+In my opinion,
+
+196
+00:09:34,320 --> 00:09:35,240
+from my personal perspective,
+
+197
+00:09:35,240 --> 00:09:36,440
+one person killed two people.
+
+198
+00:09:38,760 --> 00:09:40,960
+I think the siblings are highly suspicious.
+
+199
+00:09:41,600 --> 00:09:43,240
+But we just can't find any evidence.
+
+200
+00:09:45,560 --> 00:09:47,160
+Why does it have to be the two of us?
+
+201
+00:09:47,720 --> 00:09:50,440
+Neither of us can impersonate TYP.
+
+202
+00:09:50,440 --> 00:09:51,320
+Neither of us can.
+
+203
+00:09:51,320 --> 00:09:52,760
+Impersonate the first TYP.
+
+204
+00:09:52,760 --> 00:09:54,360
+What makes you say it's the two of us?
+
+205
+00:09:54,360 --> 00:09:55,960
+Why must these two impersonators of TYP
+
+206
+00:09:57,080 --> 00:09:58,280
+have to be TYP's...
+
+207
+00:09:58,960 --> 00:09:59,560
+Fine.
+
+208
+00:09:59,560 --> 00:10:00,680
+His concept is always that
+
+209
+00:10:00,680 --> 00:10:01,760
+it's impersonated by an anonymous netizen.
+
+210
+00:10:02,680 --> 00:10:03,920
+Again with the dual killers.
+
+211
+00:10:03,920 --> 00:10:04,960
+And there's another netizen.
+
+212
+00:10:04,960 --> 00:10:06,600
+You also have an X.
+
+213
+00:10:06,600 --> 00:10:08,120
+It's possible you each impersonated once.
+
+214
+00:10:08,120 --> 00:10:08,880
+Why is that impossible?
+
+215
+00:10:10,640 --> 00:10:12,640
+You and her had the strongest motive for murder.
+
+216
+00:10:12,880 --> 00:10:15,400
+As the killer, playing it this way was the right move.
+
+217
+00:10:15,400 --> 00:10:16,680
+Yes, that's right.
+
+218
+00:10:16,680 --> 00:10:17,360
+I am the killer.
+
+219
+00:10:17,360 --> 00:10:19,240
+No matter what, I'm voting for you.
+
+220
+00:10:19,240 --> 00:10:20,880
+I'm convinced it's you.
+
+221
+00:10:25,240 --> 00:10:25,760
+Let's go.
+
+222
+00:10:26,320 --> 00:10:27,120
+Goodbye everyone.
+
+223
+00:10:27,120 --> 00:10:28,040
+Farewell.
+
+224
+00:10:28,040 --> 00:10:29,440
+I just want to see the final result.
+
+225
+00:10:29,440 --> 00:10:30,600
+I'm speechless.
+
+226
+00:10:30,600 --> 00:10:31,760
+I refuse to believe this.
+
+227
+00:10:32,240 --> 00:10:33,240
+Getting worked up.
+
+228
+00:11:01,000 --> 00:11:03,720
+The suspect identification in this case has failed
+
+229
+00:11:04,560 --> 00:11:05,320
+Who is it
+
+230
+00:11:05,600 --> 00:11:09,200
+The killer of Zi Daole is Ke Daole
+
+231
+00:11:09,960 --> 00:11:13,920
+The killer of TYP is Ning Hao
+
+232
+00:11:23,400 --> 00:11:24,720
+It's really him.
+
+233
+00:11:24,880 --> 00:11:27,040
+How do we fight each other?
+
+234
+00:11:28,040 --> 00:11:30,720
+Why do you have a different role every round?
+
+235
+00:11:33,800 --> 00:11:35,760
+No one actually voted for me.
+
+236
+00:11:38,400 --> 00:11:39,360
+I took all the blame for you.
+
+237
+00:11:39,360 --> 00:11:39,960
+Yes.
+
+238
+00:11:40,520 --> 00:11:42,960
+Look how fiercely you two are fighting.
+
+239
+00:11:43,080 --> 00:11:44,280
+What's going on?
+
+240
+00:11:47,960 --> 00:11:50,600
+This victory feels so satisfying, bro.
+
+241
+00:11:50,960 --> 00:11:52,200
+I can't take it anymore.
+
+242
+00:11:52,200 --> 00:11:53,800
+This is unbearable.
+
+243
+00:11:55,480 --> 00:11:57,960
+Rome wasn't built in a day.
+
+244
+00:11:58,600 --> 00:12:00,760
+Former classmates turned into enemies.
+
+245
+00:12:00,760 --> 00:12:02,440
+Behind this premeditated scheme,
+
+246
+00:12:02,440 --> 00:12:04,480
+what hidden story lies beneath?
+
+247
+00:12:04,480 --> 00:12:07,720
+How did the two culprits plan their crime?
+
+248
+00:12:19,200 --> 00:12:20,160
+I am Ke Daole
+
+249
+00:12:20,560 --> 00:12:21,960
+May 30th
+
+250
+00:12:21,960 --> 00:12:23,680
+I discovered Zi Daole plans to expose me
+
+251
+00:12:23,680 --> 00:12:24,760
+and ruin my reputation
+
+252
+00:12:25,560 --> 00:12:27,320
+Don’t entertain thoughts you shouldn’t
+
+253
+00:12:27,320 --> 00:12:29,880
+Be careful, or the overnight fame will turn into infamy
+
+254
+00:12:30,120 --> 00:12:31,200
+On the anniversary of the school’s founding
+
+255
+00:12:33,200 --> 00:12:34,280
+May 31st
+
+256
+00:12:34,280 --> 00:12:36,880
+Boss TYP threatened me again in an email
+
+257
+00:12:38,560 --> 00:12:40,480
+To protect my reputation and interests
+
+258
+00:12:40,480 --> 00:12:41,880
+I must kill these two people
+
+259
+00:12:46,400 --> 00:12:48,400
+Both of them will come to attend on June 3rd
+
+260
+00:12:48,400 --> 00:12:49,480
+the school anniversary celebration
+
+261
+00:12:51,400 --> 00:12:52,520
+There will be many people that day
+
+262
+00:12:52,680 --> 00:12:54,160
+making it easy to hide in the crowd
+
+263
+00:12:55,600 --> 00:12:57,760
+So I planned to act on June 3rd
+
+264
+00:12:58,000 --> 00:13:00,680
+But I needed a method to both kill and escape
+
+265
+00:13:00,800 --> 00:13:01,080
+Therefore
+
+266
+00:13:01,080 --> 00:13:03,800
+I went to the amateur killer section of Tweaker Empire website
+
+267
+00:13:03,800 --> 00:13:05,600
+and posted an anonymous thread
+
+268
+00:13:05,720 --> 00:13:07,600
+offering a large reward for murder methods
+
+269
+00:13:08,160 --> 00:13:10,800
+Unexpectedly, the post received many anonymous replies
+
+270
+00:13:11,160 --> 00:13:12,960
+Someone contacted me through the post
+
+271
+00:13:13,400 --> 00:13:15,520
+That person claimed to have a murder method
+
+272
+00:13:15,520 --> 00:13:17,800
+but the condition was that I help them escape
+
+273
+00:13:17,800 --> 00:13:19,680
+After we gained each other's trust
+
+274
+00:13:19,680 --> 00:13:20,960
+we met at the convenience store
+
+275
+00:13:25,200 --> 00:13:27,360
+I just found out he was my classmate Ning Hao
+
+276
+00:13:27,920 --> 00:13:29,360
+He wanted to kill TYP
+
+277
+00:13:31,120 --> 00:13:32,080
+I am Ning Hao
+
+278
+00:13:32,080 --> 00:13:33,000
+May 3rd
+
+279
+00:13:33,080 --> 00:13:37,160
+TYP Company held a masquerade ball at Tuizhen Art Academy
+
+280
+00:13:37,600 --> 00:13:38,720
+My best friend
+
+281
+00:13:38,720 --> 00:13:41,160
+Went there wearing the evening suit mask I gave him
+
+282
+00:13:41,320 --> 00:13:42,680
+For some unknown reason
+
+283
+00:13:42,680 --> 00:13:44,640
+He got into an argument with TYP
+
+284
+00:13:48,480 --> 00:13:51,400
+Then was pushed to the ground by TYP
+
+285
+00:13:51,800 --> 00:13:52,960
+Hit the back of his head
+
+286
+00:13:52,960 --> 00:13:54,960
+He clearly died instantly
+
+287
+00:13:55,560 --> 00:13:56,920
+I will kill TYP
+
+288
+00:13:57,280 --> 00:13:58,520
+To avenge my brother
+
+289
+00:14:00,000 --> 00:14:01,200
+May 31st
+
+290
+00:14:01,200 --> 00:14:04,200
+I saw TYP post a QQ status
+
+291
+00:14:04,200 --> 00:14:07,600
+Showing photos of his anniversary celebration outfit
+
+292
+00:14:07,760 --> 00:14:09,480
+A red suit and top hat
+
+293
+00:14:09,560 --> 00:14:12,480
+He then notified me, Canary and Bai Yangzuo in the group chat
+
+294
+00:14:12,520 --> 00:14:15,800
+That we'd be filming material for campus TV
+
+295
+00:14:15,800 --> 00:14:18,480
+Between 12:00-12:30 during the anniversary celebration
+
+296
+00:14:19,120 --> 00:14:22,560
+That's when I thought of a perfect murder plan
+
+297
+00:14:22,760 --> 00:14:24,880
+Our school's art building surveillance
+
+298
+00:14:24,880 --> 00:14:26,760
+Only activates at 12:30
+
+299
+00:14:27,080 --> 00:14:27,880
+Before that time
+
+300
+00:14:27,880 --> 00:14:30,400
+I could lure TYP to the art building
+
+301
+00:14:30,400 --> 00:14:31,920
+And poison him without leaving evidence
+
+302
+00:14:32,280 --> 00:14:33,920
+Then find someone to
+
+303
+00:14:33,920 --> 00:14:37,000
+During my joint filming session with Bai Jin
+
+304
+00:14:37,000 --> 00:14:39,720
+Pretend to be TYP walking past the camera
+
+305
+00:14:40,080 --> 00:14:42,760
+This would obscure TYP's actual time of death
+
+306
+00:14:43,040 --> 00:14:45,120
+While giving me an alibi
+
+307
+00:14:45,600 --> 00:14:47,640
+So I logged into the "Little Killer" forum
+
+308
+00:14:48,560 --> 00:14:51,160
+To hire a partner with generous payment
+
+309
+00:14:51,640 --> 00:14:52,560
+While browsing
+
+310
+00:14:52,560 --> 00:14:55,760
+I saw a post offering big money for methods
+
+311
+00:14:56,720 --> 00:14:58,760
+The poster wanted to commit murder
+
+312
+00:14:58,760 --> 00:15:00,120
+At school on the same day
+
+313
+00:15:00,360 --> 00:15:02,120
+He'd make a perfect accomplice
+
+314
+00:15:02,440 --> 00:15:03,720
+Because he also had motives
+
+315
+00:15:03,840 --> 00:15:05,680
+So we could keep each other in check
+
+316
+00:15:05,680 --> 00:15:06,920
+With no risk of betrayal
+
+317
+00:15:07,480 --> 00:15:08,640
+So I contacted him
+
+318
+00:15:08,720 --> 00:15:10,840
+My condition was providing the method
+
+319
+00:15:10,920 --> 00:15:12,320
+While he'd help me escape suspicion
+
+320
+00:15:13,360 --> 00:15:15,080
+After meeting at the school store
+
+321
+00:15:15,120 --> 00:15:17,320
+I learned he was Ke Daole
+
+322
+00:15:17,640 --> 00:15:20,680
+He planned to kill both Zi Daole and TYP
+
+323
+00:15:21,240 --> 00:15:23,760
+We immediately devised a complete plan
+
+324
+00:15:26,520 --> 00:15:29,720
+Ning Hao first activated the surveillance at the art building before killing TYP.
+
+325
+00:15:30,160 --> 00:15:32,280
+Then I disguised myself as TYP to appear.
+
+326
+00:15:32,560 --> 00:15:34,240
+To help confuse the time of death.
+
+327
+00:15:35,080 --> 00:15:37,920
+Afterwards, I disguised myself as TYP again to kill Zi Daole.
+
+328
+00:15:39,640 --> 00:15:41,120
+Then we used Ruisi Bai to notify us.
+
+329
+00:15:41,120 --> 00:15:43,760
+To move props and arrange blind spots in the art building's surveillance.
+
+330
+00:15:43,760 --> 00:15:46,920
+Completing our escape and the transfer of the bodies.
+
+331
+00:15:47,560 --> 00:15:48,560
+Finally, I suggested.
+
+332
+00:15:48,560 --> 00:15:51,520
+We could disguise both deaths as campus urban legends.
+
+333
+00:15:53,640 --> 00:15:54,840
+We immediately agreed on this.
+
+334
+00:15:55,720 --> 00:15:57,560
+Right away, we purchased online.
+
+335
+00:15:57,560 --> 00:15:59,880
+TYP's identical suit and top hat.
+
+336
+00:16:00,640 --> 00:16:02,120
+June 3rd, the school anniversary day.
+
+337
+00:16:02,560 --> 00:16:04,120
+Welcome everyone to.
+
+338
+00:16:04,120 --> 00:16:07,960
+Tui Zhen Art Academy's annual anniversary celebration.
+
+339
+00:16:09,080 --> 00:16:10,840
+Free activities begin at 11:00.
+
+340
+00:16:12,120 --> 00:16:12,760
+Let's go.
+
+341
+00:16:13,240 --> 00:16:13,960
+I went to the prop room.
+
+342
+00:16:13,960 --> 00:16:17,080
+Changed into the silver-gray shirt I prepared in advance.
+
+343
+00:16:17,720 --> 00:16:19,360
+This way when poisoning TYP.
+
+344
+00:16:19,360 --> 00:16:21,520
+My clothes wouldn't retain any odor.
+
+345
+00:16:23,320 --> 00:16:25,720
+At 11:20 I went to TYP's camping area.
+
+346
+00:16:25,720 --> 00:16:27,200
+I slipped him a note.
+
+347
+00:16:27,200 --> 00:16:29,360
+Asking to meet at the piano room at 11:30.
+
+348
+00:16:30,920 --> 00:16:32,960
+He arrived at the piano room promptly at 11:30.
+
+349
+00:16:33,520 --> 00:16:36,440
+Wearing a gas mask, I circled behind him.
+
+350
+00:16:36,480 --> 00:16:37,240
+Catching him off guard.
+
+351
+00:16:37,240 --> 00:16:40,160
+I took out the poisoned perfume I prepared.
+
+352
+00:16:40,640 --> 00:16:42,080
+And sprayed the entire bottle on him.
+
+353
+00:16:43,720 --> 00:16:45,720
+He immediately died from poisoning.
+
+354
+00:16:46,080 --> 00:16:47,040
+TYP is dead.
+
+355
+00:16:47,280 --> 00:16:48,880
+Brother, your revenge is complete.
+
+356
+00:16:50,560 --> 00:16:53,240
+I dragged his body behind a screen to hide it.
+
+357
+00:16:55,440 --> 00:16:57,080
+And placed behind the piano.
+
+358
+00:16:57,080 --> 00:17:00,640
+An alarm set to play piano music at 18:20.
+
+359
+00:17:01,040 --> 00:17:02,560
+At this time the piano room was empty.
+
+360
+00:17:02,640 --> 00:17:04,640
+This could be staged as the campus legend.
+
+361
+00:17:04,640 --> 00:17:07,080
+"Don't casually enter an empty piano room".
+
+362
+00:17:07,080 --> 00:17:09,240
+"Beware the deadly piano music that plays there".
+
+363
+00:17:12,240 --> 00:17:13,280
+After completing all preparations,
+
+364
+00:17:13,280 --> 00:17:14,760
+I went to TYP's camping area
+
+365
+00:17:14,760 --> 00:17:16,440
+to retrieve the note that invited him.
+
+366
+00:17:16,640 --> 00:17:18,680
+Then used his computer's QQ to contact Zidaole.
+
+367
+00:17:18,680 --> 00:17:20,880
+Asked to meet at the props warehouse at 13:10.
+
+368
+00:17:22,040 --> 00:17:23,080
+Zidaole agreed.
+
+369
+00:17:23,160 --> 00:17:23,640
+Afterwards,
+
+370
+00:17:23,640 --> 00:17:26,960
+I removed my silver-gray shirt that had absorbed odors,
+
+371
+00:17:26,960 --> 00:17:28,440
+and changed back into my morning clothes.
+
+372
+00:17:28,640 --> 00:17:31,640
+Then I discarded the silver-gray shirt, poison, and gas mask,
+
+373
+00:17:31,640 --> 00:17:33,080
+along with the note for TYP,
+
+374
+00:17:33,080 --> 00:17:35,640
+into an iron barrel by Wukenai River.
+
+375
+00:17:36,040 --> 00:17:37,160
+At 11:50,
+
+376
+00:17:37,160 --> 00:17:40,080
+I wore TYP's formal suit and hat to the small auditorium.
+
+377
+00:17:40,600 --> 00:17:42,400
+I replaced the scheduled presentation materials
+
+378
+00:17:42,400 --> 00:17:44,000
+with my pre-prepared horror footage.
+
+379
+00:17:44,000 --> 00:17:46,400
+Deleted the original materials Ruisibai intended to show.
+
+380
+00:17:46,480 --> 00:17:49,040
+So when everyone gathered for rehearsal at 16:00,
+
+381
+00:17:49,040 --> 00:17:50,240
+"Hello everyone,
+
+382
+00:17:50,440 --> 00:17:52,000
+Director Ruisibai
+
+383
+00:17:52,000 --> 00:17:53,640
+had some urgent matters and can't attend.
+
+384
+00:17:53,640 --> 00:17:56,240
+So I'll be leading this afternoon's rehearsal."
+
+385
+00:17:56,440 --> 00:17:58,080
+"Let me play the background music."
+
+386
+00:17:58,080 --> 00:18:00,200
+This would trigger my prepared horror footage.
+
+387
+00:18:04,600 --> 00:18:07,480
+Help me! Help me!
+
+388
+00:18:08,160 --> 00:18:08,960
+In the cabinet.
+
+389
+00:18:08,960 --> 00:18:10,640
+Inside the cabinet.
+
+390
+00:18:11,360 --> 00:18:13,720
+Lead everyone to discover Zidaole's body in the cabinet.
+
+391
+00:18:14,640 --> 00:18:15,640
+Zidaole.
+
+392
+00:18:16,080 --> 00:18:18,960
+Make everyone think it's the work of campus legends.
+
+393
+00:18:20,880 --> 00:18:22,600
+Between 12:00 and 12:30,
+
+394
+00:18:22,600 --> 00:18:24,760
+I wore the same dress and hat as TYP,
+
+395
+00:18:24,760 --> 00:18:27,640
+when Ninghao was filming for campus TV,
+
+396
+00:18:27,640 --> 00:18:30,280
+walking from the small auditorium of the arts building to the backyard,
+
+397
+00:18:30,280 --> 00:18:32,640
+purposely leaving my back in his shot.
+
+398
+00:18:32,640 --> 00:18:34,600
+To confuse TYP's time of death.
+
+399
+00:18:34,600 --> 00:18:36,760
+And give Ninghao an alibi.
+
+400
+00:18:36,760 --> 00:18:38,040
+Then at 1:20 PM,
+
+401
+00:18:38,040 --> 00:18:39,800
+I continued pretending to be TYP,
+
+402
+00:18:40,080 --> 00:18:43,440
+purposely entering the arts building through Gate 4,
+
+403
+00:18:43,440 --> 00:18:44,920
+and went into the prop storage room.
+
+404
+00:18:46,240 --> 00:18:49,160
+By then, Zidaole was already waiting in the prop storage room.
+
+405
+00:18:49,560 --> 00:18:51,840
+I quickly used the awl I prepared in advance
+
+406
+00:18:51,840 --> 00:18:54,640
+to stab Zidaole's left neck and kill her.
+
+407
+00:18:55,600 --> 00:18:58,400
+Then I hid her in the prop cabinet for "Pushing Goose Lake."
+
+408
+00:18:58,400 --> 00:18:59,400
+I pulled out the wooden awl,
+
+409
+00:19:00,200 --> 00:19:02,520
+letting Zidaole bleed all over inside the cabinet.
+
+410
+00:19:03,160 --> 00:19:05,240
+To fake the legend: "Don't open cabinets carelessly,"
+
+411
+00:19:05,240 --> 00:19:08,320
+"Beware of blood-covered people inside cabinets."
+
+412
+00:19:09,280 --> 00:19:11,320
+Some blood accidentally splashed on me,
+
+413
+00:19:11,320 --> 00:19:11,920
+but it was fine.
+
+414
+00:19:11,920 --> 00:19:13,800
+I was wearing TYP's dress for disguise,
+
+415
+00:19:14,600 --> 00:19:16,400
+and I hid in another prop cabinet,
+
+416
+00:19:16,920 --> 00:19:18,840
+waiting for Ninghao to move me out.
+
+417
+00:19:19,280 --> 00:19:21,480
+At 2:00 PM sharp, I returned to the arts building,
+
+418
+00:19:21,480 --> 00:19:23,280
+following Ruisibai's instructions,
+
+419
+00:19:23,280 --> 00:19:25,280
+to move cabinets from the prop storage room.
+
+420
+00:19:25,520 --> 00:19:27,320
+Ke, wearing TYP's clothes,
+
+421
+00:19:27,320 --> 00:19:29,240
+hid in the prop cabinet I was moving.
+
+422
+00:19:30,040 --> 00:19:31,440
+I pushed the cabinet out,
+
+423
+00:19:31,440 --> 00:19:32,960
+and when we reached a blind spot,
+
+424
+00:19:33,680 --> 00:19:35,040
+Kedaole came out of the cabinet
+
+425
+00:19:35,360 --> 00:19:36,680
+and left the arts building.
+
+426
+00:19:38,560 --> 00:19:41,040
+I continued pushing the cabinet to the small auditorium,
+
+427
+00:19:41,040 --> 00:19:42,920
+and handed it to student Xiao Hou inside.
+
+428
+00:19:43,160 --> 00:19:44,640
+Then I left through Gate 2.
+
+429
+00:19:45,200 --> 00:19:46,600
+I changed back into my own clothes,
+
+430
+00:19:46,600 --> 00:19:48,400
+and threw the awl and TYP's disguise clothes
+
+431
+00:19:48,400 --> 00:19:50,440
+into an iron barrel by Wukenai River.
+
+432
+00:19:50,600 --> 00:19:51,120
+By then,
+
+433
+00:19:51,120 --> 00:19:53,880
+the barrel already had the gray shirt Ninghao threw in,
+
+434
+00:19:53,880 --> 00:19:56,200
+a gas mask, a poisoned perfume bottle,
+
+435
+00:19:56,200 --> 00:19:57,720
+and the note to meet TYP.
+
+436
+00:19:58,840 --> 00:20:01,440
+We burned everything in the barrel together.
+
+437
+00:20:05,840 --> 00:20:08,280
+At 15:30, I entered through Gate 2.
+
+438
+00:20:08,280 --> 00:20:09,640
+Walked into the props storage room.
+
+439
+00:20:09,720 --> 00:20:12,400
+Pushed out the prop cabinet containing Zidaole's corpse.
+
+440
+00:20:13,520 --> 00:20:16,520
+At 15:35, I wheeled the cabinet to the small auditorium.
+
+441
+00:20:16,720 --> 00:20:19,200
+The clever boy Xiao Hou even asked me,
+
+442
+00:20:19,280 --> 00:20:20,720
+"Why is this cabinet so heavy?"
+
+443
+00:20:21,120 --> 00:20:23,280
+I brushed it off by saying it's the normal weight for performance props.
+
+444
+00:20:23,280 --> 00:20:24,400
+And got away with it.
+
+445
+00:20:25,040 --> 00:20:27,400
+At 15:40, I left the small auditorium.
+
+446
+00:20:27,520 --> 00:20:29,720
+And exited through Gate 2 of the Arts Building.
+
+447
+00:20:31,520 --> 00:20:33,440
+Both TYP and Zidaole are dead.
+
+448
+00:20:33,600 --> 00:20:35,200
+No one can threaten me now.
+
+449
+00:20:36,360 --> 00:20:38,640
+At 16:00, I acted like nothing happened.
+
+450
+00:20:38,840 --> 00:20:41,960
+Returned punctually to the auditorium for rehearsal.
+
+451
+00:20:45,600 --> 00:20:46,600
+Thank you all for watching.
+
+452
+00:20:46,600 --> 00:20:48,840
+This episode of "Let's Deduce! X".
+
+453
+00:20:49,600 --> 00:20:50,920
+To find out what happens next,
+
+454
+00:20:50,920 --> 00:20:53,720
+Stay tuned for Shaoyang's continued explanation next time.
