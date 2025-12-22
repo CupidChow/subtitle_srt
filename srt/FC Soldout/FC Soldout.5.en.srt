@@ -382,7 +382,7 @@ What am I supposed to do?
 
 96
 00:05:29,230 --> 00:05:32,620
-[FC Soldout]
+(FC Soldout)
 
 97
 00:05:33,640 --> 00:05:34,860
@@ -539,11 +539,11 @@ Gosh, when is he going to sleep?
 
 135
 00:08:29,940 --> 00:08:31,700
-[Do Ji-woo, Number 7]
+(Do Ji-woo, Number 7)
 
 136
 00:08:37,929 --> 00:08:38,909
-[Ryu Kyung-jae]
+(Ryu Kyung-jae)
 
 137
 00:09:22,870 --> 00:09:24,590
@@ -708,13 +708,14 @@ Really?
 Okay.
 
 177
-00:11:27,400 --> 00:11:31,430
-[Taking pictures]
+00:11:27,400 --> 00:11:29,500
+(Taking pictures)
 
 178
 00:11:29,500 --> 00:11:31,740
 -You won't be able to take the photo like that.
 -What?
+(Taking pictures)
 
 179
 00:11:32,340 --> 00:11:33,260
@@ -790,12 +791,13 @@ What are you doing?
 Oh... Let's do it.
 
 197
-00:13:01,920 --> 00:13:05,740
-[Taking pictures]
+00:13:01,920 --> 00:13:04,180
+(Taking pictures)
 
 198
 00:13:04,180 --> 00:13:06,040
 What? You can't even blink.
+(Taking pictures)
 
 199
 00:13:06,040 --> 00:13:07,970
@@ -859,7 +861,7 @@ I don't know. Let me take a screenshot.
 
 214
 00:14:18,150 --> 00:14:20,230
-[Zolpidem: Sleep-Inducing Sedative]
+(Zolpidem: Sleep-Inducing Sedative)
 
 215
 00:14:29,550 --> 00:14:31,150
@@ -1102,20 +1104,23 @@ It's a tie.
 Are you satisfied with today's game?
 
 275
-00:17:16,050 --> 00:17:23,270
-[[Exclusive] FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.]
+00:17:16,050 --> 00:17:16,530
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 276
 00:17:16,530 --> 00:17:19,170
 I think this game
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 277
 00:17:19,170 --> 00:17:21,790
 is not as good as the support of the fans who came to vote.
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 278
 00:17:21,790 --> 00:17:23,710
 I'm sorry.
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 279
 00:17:23,710 --> 00:17:26,550
@@ -1138,32 +1143,38 @@ Don't you feel regret?
 Why do they ask such a question?
 
 284
-00:17:36,180 --> 00:17:48,640
-[[Exclusive] FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.]
+00:17:36,180 --> 00:17:36,600
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 285
 00:17:36,600 --> 00:17:39,260
 No matter which game I take part in,
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 286
 00:17:39,260 --> 00:17:41,220
 I never do it for myself.
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 287
 00:17:41,220 --> 00:17:42,180
 And I believe other teammates
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 288
 00:17:42,180 --> 00:17:44,310
 think so too.
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 289
 00:17:44,310 --> 00:17:46,270
 Compared to my record and scores,
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 290
 00:17:46,270 --> 00:17:48,660
 we're only playing for our team's victory.
+((Exclusive) FC TA player Do Ji-woo shares his thoughts in an interview: "I just want the team to win.)
 
 291
 00:17:52,980 --> 00:17:55,150
@@ -1521,7 +1532,7 @@ Well, just looking around.
 
 379
 00:24:11,930 --> 00:24:13,290
-[Tears when reading their stories. Striker.]
+(Tears when reading their stories. Striker.)
 
 380
 00:24:16,060 --> 00:24:18,710
@@ -1533,12 +1544,12 @@ I would still pass the ball to you.
 
 382
 00:24:20,830 --> 00:24:30,990
-[Kyung-jae has arrived!
+(Kyung-jae has arrived!
 Hoo hoo, Kyung-jae has uploaded a photo wall!
 Amazing! Actor Ryu Kyung-jae is really great, I really like Ryu Kyung-jae.
 Is his appearance real?
 My actor is just different.
-Does Kyung-jae have any new photos? Please share the Kyung-jae boyfriend GIFs!!]
+Does Kyung-jae have any new photos? Please share the Kyung-jae boyfriend GIFs!!)
 
 383
 00:24:43,980 --> 00:24:46,960
@@ -1675,4 +1686,4 @@ You look great.
 
 416
 00:26:31,760 --> 00:26:42,000
-[FC Soldout]
+(FC Soldout)
