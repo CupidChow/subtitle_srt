@@ -1,0 +1,3907 @@
+1
+00:00:47,648 --> 00:00:49,876
+<i>[The Auditors]</i>
+
+2
+00:00:54,731 --> 00:00:58,106
+Is it because of the President?
+
+3
+00:00:59,575 --> 00:01:00,575
+Is that so?
+
+4
+00:01:01,325 --> 00:01:03,317
+How about this?
+
+5
+00:01:04,066 --> 00:01:07,206
+What if someone is trying to
+leak company's important technology?
+
+6
+00:01:09,011 --> 00:01:10,381
+Yoon Woo.
+
+7
+00:01:10,405 --> 00:01:12,248
+You are also an important member of the team.
+
+8
+00:01:12,272 --> 00:01:14,743
+No matter how capable they are,
+people who bully others…
+
+9
+00:01:14,767 --> 00:01:16,687
+should be penalized properly.
+Don't you think so?
+
+10
+00:01:18,082 --> 00:01:19,082
+Thanks.
+
+11
+00:01:21,403 --> 00:01:22,879
+But.
+
+12
+00:01:22,903 --> 00:01:25,769
+Have you always had a bad relationship
+with Mr. Park?
+
+13
+00:01:25,793 --> 00:01:27,988
+Or was there some kind of trigger?
+
+14
+00:01:28,012 --> 00:01:31,572
+We need to look at the context…
+
+15
+00:01:31,596 --> 00:01:33,244
+so try to remember anything.
+
+16
+00:01:33,268 --> 00:01:36,354
+That's not really the case.
+
+17
+00:01:36,378 --> 00:01:39,065
+In fact, Mr. Park and I even did
+pair programming together.
+
+18
+00:01:39,089 --> 00:01:40,483
+Pair programming.
+
+19
+00:01:40,507 --> 00:01:42,995
+Does that mean you wrote code
+on one computer with him?
+
+20
+00:01:43,019 --> 00:01:44,881
+Then, there can be a lot of conflicts.
+
+21
+00:01:44,905 --> 00:01:47,190
+Is that why your relationship got worse?
+
+22
+00:01:47,214 --> 00:01:48,753
+No. We had no conflicts.
+
+23
+00:01:52,035 --> 00:01:53,035
+Oh, yes.
+
+24
+00:01:54,191 --> 00:01:55,480
+Did you remember something?
+
+25
+00:01:56,209 --> 00:01:59,186
+<i>That's right.
+You have to break this down.</i>
+
+26
+00:01:59,210 --> 00:02:00,420
+<i>This looks good.</i>
+
+27
+00:02:00,444 --> 00:02:02,613
+<i>Good job. I'll finish the rest.</i>
+
+28
+00:02:03,356 --> 00:02:05,164
+<i>- Can you get me a cup of coffee?
+- Okay.</i>
+
+29
+00:02:13,000 --> 00:02:14,737
+<i>[GUARANTEED 500% WINNING ODDS!
+LAST OPPORTUNITY!]</i>
+
+30
+00:02:14,761 --> 00:02:17,132
+<i>[7aqwxuNET723E0g77.onion
+Accessible only through a dedicated browser.]</i>
+
+31
+00:02:17,156 --> 00:02:18,156
+<i>Isn't this a spam?</i>
+
+32
+00:02:19,125 --> 00:02:21,143
+<i>Maybe the security for the emails
+isn't updated yet.</i>
+
+33
+00:02:21,167 --> 00:02:23,347
+<i>I guess so. Thank you.</i>
+
+34
+00:02:23,371 --> 00:02:24,383
+<i>Sure.</i>
+
+35
+00:02:31,339 --> 00:02:33,588
+<i>I'm sorry.</i>
+
+36
+00:02:54,837 --> 00:02:55,837
+<i>Yoon Woo.</i>
+
+37
+00:02:56,969 --> 00:02:59,465
+<i>Did you report about the spam email
+to the General Manager?</i>
+
+38
+00:02:59,489 --> 00:03:01,976
+<i>Yes, I thought the security system
+needed a check.</i>
+
+39
+00:03:02,000 --> 00:03:05,049
+<i>Why did you report that directly to him?</i>
+
+40
+00:03:06,716 --> 00:03:08,696
+<i>I thought you were busy.</i>
+
+41
+00:03:08,720 --> 00:03:10,570
+<i>I wanted to act quickly for security reasons.</i>
+
+42
+00:03:12,664 --> 00:03:13,602
+<i>Yoon Woo…</i>
+
+43
+00:03:13,626 --> 00:03:15,639
+<i>don't you even know
+about the reporting system here?</i>
+
+44
+00:03:15,663 --> 00:03:16,745
+<i>Huh?</i>
+
+45
+00:03:17,853 --> 00:03:18,853
+<i>I'm sorry.</i>
+
+46
+00:03:20,124 --> 00:03:23,357
+After that incident,
+I stopped pair programming.
+
+47
+00:03:23,381 --> 00:03:24,626
+Thinking about it…
+
+48
+00:03:24,650 --> 00:03:27,485
+it seems like he bullied me more
+and more since that day.
+
+49
+00:03:29,196 --> 00:03:31,519
+Just for not following
+the reporting system once?
+
+50
+00:03:31,543 --> 00:03:32,911
+That's harsh.
+
+51
+00:03:32,935 --> 00:03:34,941
+Maybe he was actually involved
+in illegal gambling.
+
+52
+00:03:34,965 --> 00:03:36,691
+That's why he was upset with you.
+
+53
+00:03:36,715 --> 00:03:38,799
+I don't think he entered the website.
+
+54
+00:03:40,878 --> 00:03:42,846
+Thinking back, I find it odd…
+
+55
+00:03:43,690 --> 00:03:45,713
+that he replied to that spam email.
+
+56
+00:03:50,541 --> 00:03:52,447
+<i>[YOUR EMAIL HAS BEEN SENT]</i>
+
+57
+00:03:52,471 --> 00:03:53,928
+He replied to that spam e-mail?
+
+58
+00:03:53,952 --> 00:03:56,916
+Back then, I didn't consider it weird
+since I was busy getting scolded.
+
+59
+00:03:56,940 --> 00:03:58,807
+Don't you think it's suspicious?
+
+60
+00:03:58,831 --> 00:04:02,097
+Can I see that spam email?
+
+61
+00:04:03,425 --> 00:04:06,088
+I moved it to my spam folder
+because of the security system.
+
+62
+00:04:06,112 --> 00:04:08,277
+It should be still be in my mailbox.
+
+63
+00:04:09,863 --> 00:04:10,863
+This one.
+
+64
+00:04:13,237 --> 00:04:14,841
+<i>[FRESH ONION]</i>
+
+65
+00:04:22,437 --> 00:04:24,178
+Why? What is it?
+
+66
+00:04:24,202 --> 00:04:27,249
+This link is for the dark web.
+
+67
+00:04:28,482 --> 00:04:31,053
+But, why would Mr. Park enter here?
+
+68
+00:04:31,077 --> 00:04:34,238
+This is a place where illegally
+leaked information…
+
+69
+00:04:34,954 --> 00:04:35,954
+is traded.
+
+70
+00:04:36,707 --> 00:04:37,707
+What?
+
+71
+00:04:38,768 --> 00:04:41,856
+Does that mean he illegally leaks information?
+
+72
+00:04:41,880 --> 00:04:42,906
+What kind of information?
+
+73
+00:04:46,008 --> 00:04:47,008
+Could it be?
+
+74
+00:04:49,140 --> 00:04:50,195
+Yes. J-BIMS.
+
+75
+00:04:53,331 --> 00:04:57,528
+<i>[The Auditors]</i>
+
+76
+00:05:00,886 --> 00:05:03,717
+You're suspecting that Mr. Park
+is leaking information on J-BIMS?
+
+77
+00:05:03,741 --> 00:05:06,955
+Yes. I found a trace of trade
+about J-BIMS on the dark web.
+
+78
+00:05:12,535 --> 00:05:14,121
+<i>[FRESH ONION}</i>
+
+79
+00:05:20,872 --> 00:05:21,784
+<i>This one.</i>
+
+80
+00:05:21,808 --> 00:05:24,196
+<i>JJBM5…</i>
+
+81
+00:05:24,220 --> 00:05:25,414
+<i>JU Construction.</i>
+
+82
+00:05:25,438 --> 00:05:26,551
+<i>J-BIMS?</i>
+
+83
+00:05:27,341 --> 00:05:28,597
+<i>What do the numbers mean?</i>
+
+84
+00:05:28,621 --> 00:05:29,941
+<i>I have no idea.</i>
+
+85
+00:05:31,173 --> 00:05:33,110
+<i>Should we run the password generation program?</i>
+
+86
+00:05:33,822 --> 00:05:36,004
+<i>No need. Since this is basically
+just something put up for sale.</i>
+
+87
+00:05:36,028 --> 00:05:37,621
+<i>He intentionally wanted to attract people.</i>
+
+88
+00:05:37,645 --> 00:05:38,794
+<i>He couldn't have used a difficult password.</i>
+
+89
+00:05:38,818 --> 00:05:43,185
+<i>JBIMS504090809</i>
+
+90
+00:05:43,209 --> 00:05:44,209
+<i>[ERROR]</i>
+
+91
+00:05:47,478 --> 00:05:48,478
+<i>[ERROR]</i>
+
+92
+00:05:50,781 --> 00:05:52,509
+<i>[504090809]</i>
+
+93
+00:05:57,991 --> 00:06:00,842
+<i>[0513-500-550-DD]</i>
+
+94
+00:06:05,583 --> 00:06:07,807
+0513 matches the date of the demonstration.
+
+95
+00:06:07,831 --> 00:06:09,983
+The numbers following that
+seem to be the price.
+
+96
+00:06:10,007 --> 00:06:12,586
+Maximum of 55 billion won
+to a minimum of 50 billion won
+
+97
+00:06:12,610 --> 00:06:14,782
+Finally, DD seems to stand for Direct Dealing.
+
+98
+00:06:14,806 --> 00:06:16,326
+It means you deal personally with him.
+
+99
+00:06:17,934 --> 00:06:19,332
+What are these numbers?
+
+100
+00:06:22,172 --> 00:06:24,031
+<i>[0513]</i>
+
+101
+00:06:26,453 --> 00:06:30,171
+I'm not sure about this one.
+
+102
+00:06:30,195 --> 00:06:32,996
+But it's definitely to trade about J-BIMS.
+
+103
+00:06:33,020 --> 00:06:36,115
+Leaking technical information on J-BIMS
+is a serious criminal offense.
+
+104
+00:06:36,139 --> 00:06:39,522
+Are you sure that Mr. Park
+committed such a crime?
+
+105
+00:06:40,302 --> 00:06:41,944
+Is there any other evidence?
+
+106
+00:06:42,772 --> 00:06:44,375
+Not yet.
+
+107
+00:06:44,399 --> 00:06:47,911
+Do you at least have a proof
+that he entered the website?
+
+108
+00:06:48,740 --> 00:06:50,532
+I don't. But…
+
+109
+00:06:50,556 --> 00:06:53,245
+But it's weird that he replied
+to a spam email.
+
+110
+00:06:53,269 --> 00:06:55,426
+Are you sure that he replied?
+
+111
+00:06:56,180 --> 00:06:58,011
+Yoon Woo said he saw it.
+
+112
+00:06:58,035 --> 00:07:02,880
+Are you sure that the bully victim
+did not make up the story out of resentment?
+
+113
+00:07:02,904 --> 00:07:04,598
+He isn't the kind of person who would do that.
+
+114
+00:07:04,622 --> 00:07:06,800
+He wasn't bullied without a reason.
+
+115
+00:07:06,824 --> 00:07:10,268
+It was because he might have known
+about the technology leak!
+
+116
+00:07:10,292 --> 00:07:12,332
+You are still judging with personal emotions
+towards the informant…
+
+117
+00:07:12,356 --> 00:07:15,496
+and viewing things with a biased perspective.
+
+118
+00:07:15,520 --> 00:07:16,989
+Goo Han Soo.
+
+119
+00:07:17,013 --> 00:07:19,075
+We need evidence.
+
+120
+00:07:19,099 --> 00:07:21,209
+It might be too late late by then.
+
+121
+00:07:21,233 --> 00:07:22,716
+We need to investigate Mr. Park immediately!
+
+122
+00:07:22,740 --> 00:07:25,129
+Don't let your emotions blind you, Mr. Goo!
+
+123
+00:07:31,595 --> 00:07:32,855
+I repeat.
+
+124
+00:07:34,744 --> 00:07:36,182
+We need…
+
+125
+00:07:37,064 --> 00:07:38,064
+evidence.
+
+126
+00:07:59,984 --> 00:08:04,452
+<i>Deal with this matter quietly after the event.</i>
+
+127
+00:08:04,476 --> 00:08:06,819
+<i>Workplace bullying is a serious issue.</i>
+
+128
+00:08:06,843 --> 00:08:08,267
+<i>It must be thoroughly investigated.</i>
+
+129
+00:08:08,291 --> 00:08:09,961
+<i>Did I say not to do it?</i>
+
+130
+00:08:12,881 --> 00:08:14,342
+<i>Do it after the event.</i>
+
+131
+00:08:15,053 --> 00:08:19,305
+<i>No disruptions should occur that would
+interfere with the J-BIMS demonstration.</i>
+
+132
+00:08:20,232 --> 00:08:22,396
+<i>Even if that involves you, Mr. Shin.</i>
+
+133
+00:08:41,798 --> 00:08:44,402
+J-BIMS, which will change
+the future of JU Construction…
+
+134
+00:08:44,426 --> 00:08:46,793
+will be unveiled through
+a demonstration next week.
+
+135
+00:08:46,817 --> 00:08:50,157
+It has already shown promising results
+even in its incomplete test version.
+
+136
+00:08:52,911 --> 00:08:57,580
+J-BIMS is an AI-based
+construction process managing program.
+
+137
+00:08:57,604 --> 00:09:00,565
+We will apply the demo version
+to the Goo Young Building construction site…
+
+138
+00:09:00,589 --> 00:09:02,438
+that cost of 70 billion won.
+
+139
+00:09:03,569 --> 00:09:07,125
+It is expected to reduce construction costs
+by approximately 1.4 billion won.
+
+140
+00:09:07,149 --> 00:09:10,256
+In the future, it will drastically
+reduce construction costs.
+
+141
+00:09:10,280 --> 00:09:11,600
+It sounds impressive in theory…
+
+142
+00:09:11,624 --> 00:09:15,759
+but it seems like it's just about
+reducing schedules, cutting costs, …
+
+143
+00:09:15,783 --> 00:09:17,021
+and ultimately reducing staff.
+
+144
+00:09:17,045 --> 00:09:20,492
+Through J-BIMS,
+unnecessary manpower can be reduced…
+
+145
+00:09:20,516 --> 00:09:22,669
+There is no such thing
+as unnecessary manpower in construction.
+
+146
+00:09:22,693 --> 00:09:25,243
+We hire them because we need them.
+
+147
+00:09:25,267 --> 00:09:26,421
+It seems like once this is completed…
+
+148
+00:09:26,445 --> 00:09:30,794
+management will talk about cost savings
+and subsequent layoffs.
+
+149
+00:09:30,818 --> 00:09:34,631
+Is laying off the staff who have built the company
+together while sharing the same meal…
+
+150
+00:09:34,655 --> 00:09:38,147
+the future the CEO envisions for JU?
+
+151
+00:09:38,171 --> 00:09:40,309
+If it's necessary for the company, yes.
+
+152
+00:09:40,333 --> 00:09:41,345
+Especially…
+
+153
+00:09:42,203 --> 00:09:45,203
+we will start by removing executives
+who are hindering the company's growth.
+
+154
+00:09:46,155 --> 00:09:47,155
+By the way…
+
+155
+00:09:48,725 --> 00:09:51,943
+how many times have you visited
+the construction site while working here?
+
+156
+00:09:51,967 --> 00:09:52,500
+Well…
+
+157
+00:09:52,524 --> 00:09:55,484
+If you have something to say, be specific.
+
+158
+00:09:55,508 --> 00:09:59,059
+How many people are needed for the pouring?
+
+159
+00:09:59,083 --> 00:10:00,879
+Do you not know what pouring means?
+
+160
+00:10:00,903 --> 00:10:02,458
+I'm talking about concrete placement.
+
+161
+00:10:02,482 --> 00:10:03,762
+For concrete placing boom…
+
+162
+00:10:03,786 --> 00:10:05,871
+the number of staff needed is…
+
+163
+00:10:05,895 --> 00:10:08,079
+0.49 person per 10 cubic meters
+for reinforced structures.
+
+164
+00:10:08,103 --> 00:10:09,899
+0.49 person?
+
+165
+00:10:09,923 --> 00:10:12,626
+That's wild.
+
+166
+00:10:12,650 --> 00:10:15,266
+So you just cut a person in half?
+
+167
+00:10:16,237 --> 00:10:18,299
+Is this for winter or summer?
+
+168
+00:10:18,323 --> 00:10:20,330
+How about in rainy days?
+
+169
+00:10:20,354 --> 00:10:23,177
+- Sorry?
+- When pouring concrete in an apartment setting…
+
+170
+00:10:23,201 --> 00:10:25,848
+you need two people for
+the discharge area and hose…
+
+171
+00:10:25,872 --> 00:10:27,262
+one for the vibrator…
+
+172
+00:10:27,286 --> 00:10:29,327
+and two to three for finishing and
+cleaning the surface.
+
+173
+00:10:29,351 --> 00:10:31,636
+That's at least 6 people.
+
+174
+00:10:31,660 --> 00:10:34,097
+In addition, if it's cold,
+you'll need extra workers to heat the mix.
+
+175
+00:10:34,121 --> 00:10:37,281
+When it rains, you'll need additional
+workers to cover the surface with plastic.
+
+176
+00:10:37,481 --> 00:10:38,481
+Understand?
+
+177
+00:10:39,342 --> 00:10:42,412
+Such factors can be taken into account
+and reflected in the program.
+
+178
+00:10:42,436 --> 00:10:44,326
+There are many variables
+in the construction site.
+
+179
+00:10:44,350 --> 00:10:47,235
+Are you going to rewrite the program
+every time something changes?
+
+180
+00:10:49,971 --> 00:10:51,651
+Let's adjourn the meeting.
+
+181
+00:11:07,174 --> 00:11:09,735
+He may seem sophisticated,
+
+182
+00:11:09,759 --> 00:11:12,474
+but I can't trust someone
+who relies only on machines.
+
+183
+00:11:12,498 --> 00:11:13,699
+You're right.
+
+184
+00:11:13,723 --> 00:11:19,924
+General Manager Ji Hoon looks like a person
+who would stab people in the back.
+
+185
+00:11:19,948 --> 00:11:21,971
+He has the face of a traitor.
+
+186
+00:11:24,072 --> 00:11:26,134
+What kind of face do I have?
+
+187
+00:11:26,158 --> 00:11:29,875
+You have the face of a dragon.
+It's a good sign.
+
+188
+00:11:29,899 --> 00:11:31,923
+You look like someone who will be king.
+
+189
+00:11:31,947 --> 00:11:35,423
+Mr. Yang, you're very transparent.
+
+190
+00:11:37,630 --> 00:11:38,829
+That's why I like you.
+
+191
+00:11:38,853 --> 00:11:40,446
+Ah well…
+
+192
+00:11:40,470 --> 00:11:42,969
+I'm loyal to the company.
+No, I mean…
+
+193
+00:11:42,993 --> 00:11:47,843
+My priority is to be loyal,
+loyal and loyal to you.
+
+194
+00:11:47,867 --> 00:11:49,741
+Speaking of which..
+
+195
+00:11:49,765 --> 00:11:52,266
+Shin Cha Il doesn't really
+have the right look either.
+
+196
+00:11:52,290 --> 00:11:55,680
+His words are so harsh and
+he seems to be rambling about a lot today.
+
+197
+00:11:57,812 --> 00:11:59,585
+I'm sorry. Excuse me.
+
+198
+00:12:00,824 --> 00:12:04,764
+It seems like something interesting
+happened at the Audit Office today.
+
+199
+00:12:04,788 --> 00:12:06,432
+Something interesting?
+
+200
+00:12:06,456 --> 00:12:08,717
+Someone from the Audit Office…
+
+201
+00:12:08,741 --> 00:12:11,325
+reportedly confronted Mr. Shin,
+alleging that there was a suspicion…
+
+202
+00:12:11,349 --> 00:12:14,254
+- of J-BIMS information leakage.
+- Why?
+
+203
+00:12:14,278 --> 00:12:17,825
+Mr. Shin dismissed it,
+saying there was no evidence.
+
+204
+00:12:17,849 --> 00:12:20,099
+I heard that the CEO ordered…
+
+205
+00:12:20,123 --> 00:12:22,997
+not to create any disturbances
+before the event.
+
+206
+00:12:23,021 --> 00:12:26,231
+So, he probably covered it up.
+
+207
+00:12:27,490 --> 00:12:32,621
+Se Woong and Cha Il only seem
+to work together to bully me.
+
+208
+00:12:33,961 --> 00:12:34,961
+But still…
+
+209
+00:12:36,693 --> 00:12:38,591
+Are you saying Cha Il covered it up?
+
+210
+00:12:43,505 --> 00:12:44,880
+I will go ahead first.
+
+211
+00:12:52,529 --> 00:12:54,294
+He must be in a hurry.
+
+212
+00:12:54,318 --> 00:12:56,169
+I don't think so. He's just upset.
+
+213
+00:12:56,892 --> 00:12:58,357
+Everyone is dismissed for the day.
+
+214
+00:12:59,391 --> 00:13:02,098
+- Let's go home.
+- Yes.
+
+215
+00:13:02,122 --> 00:13:03,170
+- Okay.
+
+216
+00:13:04,889 --> 00:13:06,490
+We'll leave first.
+
+217
+00:13:07,842 --> 00:13:09,061
+Goodbye.
+
+218
+00:13:16,931 --> 00:13:20,363
+Mr. Shin's expression didn't change at all
+even after Han Soo left like that.
+
+219
+00:13:21,176 --> 00:13:23,996
+There may be suspicions,
+but there's no evidence.
+
+220
+00:13:24,728 --> 00:13:26,828
+Why do you think he's so certain?
+
+221
+00:13:26,852 --> 00:13:28,547
+He's frustrated because
+things aren't going well for his friend.
+
+222
+00:13:28,571 --> 00:13:30,856
+So he exaggerated his suspicions.
+
+223
+00:13:30,880 --> 00:13:34,179
+It wasn't that big of a deal anyway.
+
+224
+00:13:34,203 --> 00:13:35,408
+Geez.
+
+225
+00:13:35,432 --> 00:13:37,583
+Seo Jin, you should call and look after him.
+
+226
+00:13:38,327 --> 00:13:39,252
+I'll get going.
+
+227
+00:13:39,276 --> 00:13:40,588
+- Goodbye.
+- Bye.
+
+228
+00:13:41,444 --> 00:13:42,370
+Bye, Seo Jin.
+
+229
+00:13:42,394 --> 00:13:43,936
+- Goodbye.
+- Get home safe.
+
+230
+00:13:57,421 --> 00:14:00,273
+<i>[Park Jae Hwan]</i>
+
+231
+00:14:02,353 --> 00:14:03,413
+<i>[Graduated Kyungseo University
+with a degree in Computer Engineering]</i>
+
+232
+00:14:03,437 --> 00:14:06,357
+<i>[- Intern at Jeoksong R&D in 2012
+- Working at JU Construction since 2014]</i>
+
+233
+00:14:18,072 --> 00:14:20,306
+Director Yang was right.
+
+234
+00:14:20,330 --> 00:14:22,836
+You don't have the right look.
+
+235
+00:14:22,860 --> 00:14:24,526
+Thanks for the compliment.
+
+236
+00:14:26,791 --> 00:14:29,024
+You have a face of someone…
+
+237
+00:14:30,361 --> 00:14:32,035
+with blood on their hands.
+
+238
+00:14:38,226 --> 00:14:42,263
+Someone who pushes people
+to their very limit…
+
+239
+00:14:42,287 --> 00:14:43,616
+is just simply ruthless.
+
+240
+00:14:44,523 --> 00:14:47,162
+It seems you've done some research on my past.
+
+241
+00:14:48,319 --> 00:14:49,791
+But I'm good.
+
+242
+00:14:49,815 --> 00:14:52,173
+You see it a lot on TV.
+
+243
+00:14:52,197 --> 00:14:54,348
+Cold-blooded.
+
+244
+00:14:56,809 --> 00:14:57,848
+I will get going.
+
+245
+00:15:01,131 --> 00:15:03,950
+It's quite disgusting…
+
+246
+00:15:03,974 --> 00:15:06,763
+when someone treats human lives…
+
+247
+00:15:06,787 --> 00:15:08,911
+insignificant and yet
+keeps criticizing corruption.
+
+248
+00:15:21,783 --> 00:15:25,204
+<i>You have a face of someone
+with blood on their hands.</i>
+
+249
+00:15:25,228 --> 00:15:27,690
+<i>It's quite disgusting…</i>
+
+250
+00:15:27,714 --> 00:15:30,317
+<i>when someone treats human lives…</i>
+
+251
+00:15:30,341 --> 00:15:32,734
+<i>insignificant and yet
+keeps criticizing corruption.</i>
+
+252
+00:15:32,758 --> 00:15:35,609
+<i>Mr. Shin Cha Il,
+do you really have to go all this way?</i>
+
+253
+00:15:35,633 --> 00:15:37,411
+<i>I will fight till the end.</i>
+
+254
+00:15:37,435 --> 00:15:40,797
+<i>Mr. Shin, why do you keep doing this?
+Why?</i>
+
+255
+00:15:50,412 --> 00:15:54,114
+The CEO is focused
+on the J-BIMS demonstration event.
+
+256
+00:15:54,138 --> 00:15:58,302
+That's why your team leader
+can't do anything without evidence.
+
+257
+00:15:59,614 --> 00:16:00,957
+No.
+
+258
+00:16:00,981 --> 00:16:04,754
+He isn't someone
+who would overlook suspicions.
+
+259
+00:16:04,778 --> 00:16:09,207
+But how could he ignore the CEO's orders?
+
+260
+00:16:15,355 --> 00:16:16,526
+<i>[0513-500-550-DD]</i>
+
+261
+00:16:20,225 --> 00:16:21,938
+Then, I'll have to make him ignore it.
+
+262
+00:16:21,962 --> 00:16:23,396
+What's up with you?
+
+263
+00:16:23,420 --> 00:16:24,830
+I think I found out
+what these numbers mean.
+
+264
+00:16:24,854 --> 00:16:26,740
+For real? What is it?
+
+265
+00:16:26,764 --> 00:16:27,866
+This is an ASCII code.
+
+266
+00:16:27,890 --> 00:16:29,513
+It's converted it to decimal…
+
+267
+00:16:29,537 --> 00:16:31,217
+We just need to reverse it.
+
+268
+00:16:32,112 --> 00:16:34,240
+<i>[judevelop@ju.com invitation]</i>
+
+269
+00:16:34,264 --> 00:16:36,206
+This is my team's email address.
+
+270
+00:16:38,465 --> 00:16:41,305
+If you send an email here,
+you'll receive an invitation in reply.
+
+271
+00:16:41,329 --> 00:16:44,054
+There will probably be detailed
+contact information in it.
+
+272
+00:16:44,078 --> 00:16:45,461
+I'm going to try sending an email.
+
+273
+00:16:46,532 --> 00:16:47,719
+Will we get a reply?
+
+274
+00:16:49,667 --> 00:16:50,835
+We'll have to wait and see.
+
+275
+00:16:58,456 --> 00:16:59,590
+Hello, sir.
+
+276
+00:17:12,212 --> 00:17:15,219
+<i>[National Intelligence Service Report
+on Industrial Technology Leakage]</i>
+
+277
+00:17:18,500 --> 00:17:21,470
+Here you go.
+You printed this, right?
+
+278
+00:17:21,494 --> 00:17:22,841
+Thank you.
+
+279
+00:17:27,976 --> 00:17:29,175
+Hello.
+
+280
+00:17:36,974 --> 00:17:40,709
+<i>The team leader doesn't seem
+to be associated with the CEO.</i>
+
+281
+00:17:41,622 --> 00:17:43,037
+<i>But why is my uncle…</i>
+
+282
+00:17:52,331 --> 00:17:54,541
+It's regarding the error check update.
+
+283
+00:17:54,565 --> 00:17:56,392
+I was worried since
+it was my first time doing it…
+
+284
+00:17:56,416 --> 00:17:58,795
+but Yoon Woo had recorded everything in detail
+so I was able to resolve it quickly.
+
+285
+00:17:58,819 --> 00:18:00,134
+Okay, thank you.
+
+286
+00:18:00,158 --> 00:18:02,087
+Yoon Woo worked so hard on this project.
+
+287
+00:18:02,111 --> 00:18:04,415
+Shouldn't we watch the demonstration together?
+
+288
+00:18:27,048 --> 00:18:28,218
+What's with the long face?
+
+289
+00:18:28,242 --> 00:18:29,107
+Sorry?
+
+290
+00:18:29,131 --> 00:18:30,450
+Don't you feel good?
+
+291
+00:18:30,474 --> 00:18:33,302
+You've been separated from Yun Woo,
+who was like a pain in the neck.
+
+292
+00:18:33,326 --> 00:18:37,404
+Was it me that felt as such about him?
+
+293
+00:18:39,117 --> 00:18:41,581
+He'll be sent to another department.
+
+294
+00:18:41,605 --> 00:18:43,702
+You don't have to worry about him anymore.
+
+295
+00:18:43,726 --> 00:18:45,390
+Let's talk about work.
+
+296
+00:18:45,414 --> 00:18:48,846
+Change the order of the video
+for the demonstration.
+
+297
+00:18:48,870 --> 00:18:51,018
+Some of them will need to be rendered again.
+
+298
+00:18:51,042 --> 00:18:54,139
+Finalizing the tuning
+of the prediction model itself is challenging.
+
+299
+00:18:54,163 --> 00:18:56,983
+There's no way we can manage that as well.
+
+300
+00:18:57,007 --> 00:18:59,311
+We need help from other departments…
+
+301
+00:18:59,335 --> 00:19:01,028
+You do it.
+
+302
+00:19:01,052 --> 00:19:05,481
+Others aren't as reliable.
+
+303
+00:19:05,505 --> 00:19:08,439
+I have other works to do,
+so I'll be out in the afternoon.
+
+304
+00:19:09,613 --> 00:19:10,788
+Yes, sir.
+
+305
+00:19:10,812 --> 00:19:12,187
+Hello.
+
+306
+00:19:12,211 --> 00:19:13,702
+- Hi.
+- You're here.
+
+307
+00:19:13,726 --> 00:19:15,413
+You've been busy since the morning?
+
+308
+00:19:16,515 --> 00:19:18,793
+Mr. Shin is out on fieldwork.
+
+309
+00:19:18,817 --> 00:19:20,777
+Han Soo is on sick leave…
+
+310
+00:19:20,801 --> 00:19:23,590
+but I wonder if he's really sick
+or just being rebellious.
+
+311
+00:19:23,614 --> 00:19:26,107
+He's too kind to be rebellious.
+
+312
+00:19:26,131 --> 00:19:29,770
+Did he get sick because he was upset
+about what happened yesterday?
+
+313
+00:19:29,794 --> 00:19:32,192
+Even if Han Soo was being unreasonable…
+
+314
+00:19:32,216 --> 00:19:36,497
+Mr. Shin could have at least tried
+to smooth things over.
+
+315
+00:19:36,521 --> 00:19:38,420
+But he's being just as childish.
+
+316
+00:19:39,872 --> 00:19:41,520
+You're more childish than them.
+
+317
+00:19:41,544 --> 00:19:43,845
+Being childish is part of my charm.
+
+318
+00:20:18,599 --> 00:20:21,301
+Are you Kim Jong Won?
+
+319
+00:20:21,325 --> 00:20:24,097
+Yes, I'm Kim Jong Won.
+
+320
+00:20:24,121 --> 00:20:27,801
+I'm the one who called. My name is Shin Cha Il.
+I'm the Audit Team Leader at JU Construction.
+
+321
+00:20:28,652 --> 00:20:30,347
+Thank you for your time.
+
+322
+00:20:30,371 --> 00:20:31,714
+As I've mentioned,
+
+323
+00:20:31,738 --> 00:20:33,518
+I requested to meet…
+
+324
+00:20:33,542 --> 00:20:36,142
+because I have some questions
+related to your work at Tree System.
+
+325
+00:20:37,927 --> 00:20:39,333
+Mr. Park.
+
+326
+00:20:39,357 --> 00:20:41,567
+You need to submit
+the statement of reason by today.
+
+327
+00:20:42,337 --> 00:20:44,310
+Okay.
+
+328
+00:20:49,738 --> 00:20:51,403
+Yoon Woo could you write…
+
+329
+00:21:00,413 --> 00:21:02,516
+I don't think we'll get a reply.
+
+330
+00:21:09,745 --> 00:21:13,721
+Yoon Woo, you said Mr. Park
+replied to that email.
+
+331
+00:21:13,745 --> 00:21:16,212
+That must've been the invitation.
+
+332
+00:21:16,236 --> 00:21:17,697
+Won't that be in his PC?
+
+333
+00:21:17,721 --> 00:21:18,845
+I guess so.
+
+334
+00:21:18,869 --> 00:21:21,271
+But how do you plan to check his PC?
+
+335
+00:21:24,956 --> 00:21:25,914
+Don't tell me…
+
+336
+00:21:25,938 --> 00:21:28,183
+Yes. That's the only way.
+
+337
+00:21:33,044 --> 00:21:34,012
+- Goodbye.
+- Bye.
+
+338
+00:21:34,036 --> 00:21:35,036
+Goodbye.
+
+339
+00:21:35,743 --> 00:21:37,257
+- Goodbye.
+- Bye.
+
+340
+00:21:51,049 --> 00:21:52,618
+Are you sure there's no one here?
+
+341
+00:21:52,642 --> 00:21:54,545
+Yes, I asked.
+
+342
+00:21:54,569 --> 00:21:56,438
+They need to stay overnight tomorrow…
+
+343
+00:21:56,462 --> 00:21:59,052
+so they said they'll leave before 10pm.
+
+344
+00:21:59,076 --> 00:22:01,396
+All right. Let's go.
+
+345
+00:22:18,418 --> 00:22:20,003
+- Hello.
+- Yes.
+
+346
+00:22:21,554 --> 00:22:24,534
+I am Oh Yoon Woo
+from the Technology Development Team
+
+347
+00:22:24,558 --> 00:22:27,015
+What are you doing here at this hour?
+
+348
+00:22:27,039 --> 00:22:28,804
+That's because…
+
+349
+00:22:32,723 --> 00:22:36,662
+Mr. Oh is a victim of workplace harassment
+and he's on leave.
+
+350
+00:22:36,686 --> 00:22:38,671
+He's under the audit team's protection.
+
+351
+00:22:39,612 --> 00:22:43,309
+We came to retrieve some personal belongings
+that he left behind.
+
+352
+00:22:43,333 --> 00:22:44,862
+Okay. You may go in.
+
+353
+00:22:47,382 --> 00:22:48,950
+Staff from other departments…
+
+354
+00:22:48,974 --> 00:22:51,075
+are not allowed to enter
+outside of working hours.
+
+355
+00:22:54,850 --> 00:22:56,999
+I'm from the audit team.
+
+356
+00:22:58,151 --> 00:23:01,347
+Mr. Oh is currently in a very unstable state,
+both mentally and physically.
+
+357
+00:23:01,371 --> 00:23:04,551
+If we leave him alone and something happens,
+will you take responsibility?
+
+358
+00:23:05,653 --> 00:23:07,509
+You need to be quick.
+
+359
+00:23:07,533 --> 00:23:08,707
+Okay.
+
+360
+00:23:09,803 --> 00:23:10,928
+Wait.
+
+361
+00:23:12,765 --> 00:23:15,777
+You need to put a security sticker
+over you phone's camera.
+
+362
+00:23:16,561 --> 00:23:17,958
+Oh, right. Okay.
+
+363
+00:23:25,319 --> 00:23:26,952
+This is his desk.
+
+364
+00:23:31,646 --> 00:23:33,039
+Wait.
+
+365
+00:23:33,063 --> 00:23:35,375
+If the power is turned on,
+an alert will go directly to Mr. Park.
+
+366
+00:23:35,399 --> 00:23:37,983
+Then he'll call the security office.
+They'll come in immediately.
+
+367
+00:23:38,007 --> 00:23:38,978
+Two minutes?
+
+368
+00:23:39,002 --> 00:23:41,335
+No, it probably won't even take a minute.
+
+369
+00:23:41,359 --> 00:23:42,723
+I'll be as quick as possible.
+
+370
+00:23:44,111 --> 00:23:45,454
+Here I go.
+
+371
+00:24:07,878 --> 00:24:10,220
+<i>JU protect Security System App</i>
+
+372
+00:24:25,879 --> 00:24:27,194
+Yes, I'll check.
+
+373
+00:24:36,967 --> 00:24:38,173
+I found it.
+
+374
+00:24:47,867 --> 00:24:49,779
+It's a sample of J-BIMS demonstration version.
+
+375
+00:24:49,803 --> 00:24:54,007
+He showed it to the buyers as a sample
+to make them want to purchase it.
+
+376
+00:24:54,946 --> 00:24:56,483
+Mr. Park seriously…
+
+377
+00:25:00,669 --> 00:25:01,743
+Okay, I will go and check.
+
+378
+00:25:07,908 --> 00:25:09,263
+What are you doing here?
+
+379
+00:25:10,096 --> 00:25:12,805
+I received a report that Mr. Park's computer
+has been turned on.
+
+380
+00:25:12,829 --> 00:25:15,337
+Why did you touch his computer?
+
+381
+00:25:15,361 --> 00:25:16,485
+It was a mistake.
+
+382
+00:25:16,509 --> 00:25:18,619
+I thought it was my computer…
+
+383
+00:25:18,643 --> 00:25:20,723
+because we used the same computer
+during pair coding.
+
+384
+00:25:22,063 --> 00:25:24,086
+I got everything.
+We'll leave now.
+
+385
+00:25:24,110 --> 00:25:25,211
+Please wait here.
+
+386
+00:25:25,235 --> 00:25:26,728
+Mr. Park is on his way.
+
+387
+00:25:26,752 --> 00:25:28,860
+You may leave after he checks.
+
+388
+00:25:28,884 --> 00:25:30,478
+No, we can't.
+
+389
+00:25:30,502 --> 00:25:33,040
+Mr. Park is the perpetrator who harassed him.
+
+390
+00:25:33,064 --> 00:25:35,287
+They aren't allowed to meet. We will leave now.
+
+391
+00:25:35,311 --> 00:25:37,021
+- Let's go.
+- You can't leave.
+
+392
+00:25:37,045 --> 00:25:38,900
+We'll let you go after we have checked.
+
+393
+00:25:38,924 --> 00:25:40,435
+Please stay still.
+
+394
+00:25:49,015 --> 00:25:52,186
+Can I at least make one phone call?
+
+395
+00:26:04,751 --> 00:26:05,984
+Who the hell was it?
+
+396
+00:26:08,075 --> 00:26:09,400
+Stop!
+
+397
+00:26:12,370 --> 00:26:13,550
+What is going on?
+
+398
+00:26:13,574 --> 00:26:16,186
+That computer is an important evidence.
+
+399
+00:26:16,210 --> 00:26:18,305
+Don't touch it until my team leader arrives.
+
+400
+00:26:18,329 --> 00:26:20,022
+- What are you talking about?
+- Take another step…
+
+401
+00:26:20,046 --> 00:26:22,406
+and we will consider it as an attempt
+to erase the evidence.
+
+402
+00:26:44,262 --> 00:26:46,971
+Mr. Shin. I found the evidence.
+
+403
+00:26:58,169 --> 00:27:00,962
+I received a call from Mr. Park
+regarding an issue in the R&D office
+
+404
+00:27:00,986 --> 00:27:02,208
+What's all this about?
+
+405
+00:27:02,232 --> 00:27:06,800
+We figured why Mr. Park bullied Yoon Woo.
+
+406
+00:27:06,824 --> 00:27:09,359
+What are you talking about when you tried
+to snoop on someone else's computer?
+
+407
+00:27:09,383 --> 00:27:11,710
+Let's see if you can say that
+after seeing this.
+
+408
+00:27:12,495 --> 00:27:14,014
+What are you doing?!
+
+409
+00:27:14,038 --> 00:27:15,290
+You must be scared to see this, right?
+
+410
+00:27:15,314 --> 00:27:16,473
+The evidence is all right here.
+
+411
+00:27:16,497 --> 00:27:17,683
+What are you talking about?
+
+412
+00:27:17,707 --> 00:27:19,194
+Leave it.
+
+413
+00:27:19,218 --> 00:27:20,834
+Mr. Lee?
+
+414
+00:27:25,204 --> 00:27:27,462
+I'm not sure what this is about but be quick.
+
+415
+00:27:28,674 --> 00:27:29,814
+Yes, sir.
+
+416
+00:27:37,547 --> 00:27:41,290
+Mr. Park started bullying Yoon Woo
+because he thought he saw his email.
+
+417
+00:27:45,040 --> 00:27:46,528
+What's that email about?
+
+418
+00:27:46,552 --> 00:27:48,120
+This is the email.
+
+419
+00:27:54,109 --> 00:27:55,882
+<i>[Download permission is not available]</i>
+
+420
+00:27:58,726 --> 00:27:59,893
+Give me a second.
+
+421
+00:27:59,917 --> 00:28:01,437
+<i>[Download permission is not available]</i>
+
+422
+00:28:02,057 --> 00:28:03,057
+This…
+
+423
+00:28:03,924 --> 00:28:07,052
+It was definitely here a minute ago, Mr. Shin.
+
+424
+00:28:07,076 --> 00:28:08,718
+Is it okay…
+
+425
+00:28:09,821 --> 00:28:12,273
+for the audit team
+to search the R&D office recklessly?
+
+426
+00:28:12,297 --> 00:28:14,882
+I will report this matter directly to the CEO.
+
+427
+00:28:14,906 --> 00:28:16,140
+No. Wait.
+
+428
+00:28:16,164 --> 00:28:17,822
+No. I saw it.
+
+429
+00:28:17,846 --> 00:28:19,046
+The email was definitely here.
+
+430
+00:28:19,070 --> 00:28:21,311
+Mr. Goo, from this moment on
+you will be excluded from this case.
+
+431
+00:28:21,335 --> 00:28:23,764
+- But Mr. Shin…
+- I saw it too.
+
+432
+00:28:23,788 --> 00:28:26,904
+Mr. Oh, keep in mind that
+this will only be detrimental to you.
+
+433
+00:28:26,928 --> 00:28:28,003
+Please go home immediately.
+
+434
+00:28:28,027 --> 00:28:29,951
+We will contact you later.
+
+435
+00:28:29,975 --> 00:28:31,638
+Come out.
+
+436
+00:28:31,662 --> 00:28:33,927
+Mr. Shin, I saw it.
+
+437
+00:28:36,147 --> 00:28:38,441
+Mr. Shin, I swear I saw it.
+
+438
+00:28:38,465 --> 00:28:40,063
+Sorry for the trouble.
+
+439
+00:28:43,807 --> 00:28:44,920
+Mr. Shin!
+
+440
+00:28:55,369 --> 00:29:00,274
+Why did you hack into Mr. Park's computer
+in the R&D office?
+
+441
+00:29:00,298 --> 00:29:02,026
+To search for the evidence.
+
+442
+00:29:02,050 --> 00:29:04,458
+You said we needed proof.
+
+443
+00:29:04,482 --> 00:29:07,805
+I specifically told you yesterday…
+
+444
+00:29:09,315 --> 00:29:10,882
+to investigate discreetly.
+
+445
+00:29:12,254 --> 00:29:13,912
+<i>We need evidence.</i>
+
+446
+00:29:13,936 --> 00:29:16,067
+<i>It might be too late late by then.</i>
+
+447
+00:29:16,091 --> 00:29:17,750
+<i>We need to investigate Mr. Park immediately!</i>
+
+448
+00:29:17,774 --> 00:29:19,911
+<i>Don't let your emotions blind you, Mr. Goo!</i>
+
+449
+00:29:38,802 --> 00:29:39,966
+<i>Mr. Goo Han Soo.</i>
+
+450
+00:29:47,046 --> 00:29:48,672
+<i>Is there something you want to say?</i>
+
+451
+00:29:52,139 --> 00:29:54,996
+<i>I couldn't talk about it
+since it was a sensitive issue.</i>
+
+452
+00:29:56,132 --> 00:29:57,880
+<i>What do you mean?</i>
+
+453
+00:29:58,640 --> 00:30:01,297
+<i>I suspect there is information leakage
+from the R&D department.</i>
+
+454
+00:30:03,375 --> 00:30:04,485
+<i>I knew it.</i>
+
+455
+00:30:04,509 --> 00:30:07,551
+<i>You also think Mr. Park is
+trying to leak about J-BIMS.</i>
+
+456
+00:30:07,575 --> 00:30:08,780
+<i>No.</i>
+
+457
+00:30:08,804 --> 00:30:09,523
+<i>What?</i>
+
+458
+00:30:09,547 --> 00:30:12,712
+<i>The person I suspect is not Mr. Park.</i>
+
+459
+00:30:12,736 --> 00:30:13,909
+<i>Then who?</i>
+
+460
+00:30:14,711 --> 00:30:16,081
+<i>General Manager Lee Ji Hoon.</i>
+
+461
+00:30:22,507 --> 00:30:23,455
+<i>Hold on a second.</i>
+
+462
+00:30:23,479 --> 00:30:24,334
+<i>What is this about?</i>
+
+463
+00:30:24,358 --> 00:30:25,791
+<i>I need to take this
+to the General Affairs team.</i>
+
+464
+00:30:25,815 --> 00:30:27,193
+<i>Go on.</i>
+
+465
+00:30:27,217 --> 00:30:29,503
+<i>Does the R&D Department use special paper?</i>
+
+466
+00:30:29,527 --> 00:30:31,644
+<i>Yes. Due to the nature the department…</i>
+
+467
+00:30:31,668 --> 00:30:34,010
+<i>their document management is more stringent
+than in other departments.</i>
+
+468
+00:30:34,034 --> 00:30:36,439
+<i>Only paper containing sensors
+is allowed to be used.</i>
+
+469
+00:30:36,463 --> 00:30:40,090
+<i>If an internal document is taken out,
+it will be detected at the checkpoint.</i>
+
+470
+00:30:40,114 --> 00:30:41,780
+<i>May I have a look?</i>
+
+471
+00:30:42,878 --> 00:30:44,439
+<i>It looks like a normal paper.</i>
+
+472
+00:30:50,599 --> 00:30:53,961
+<i>Please excuse the mess.
+I'm not really good at organizing.</i>
+
+473
+00:30:53,985 --> 00:30:56,072
+<i>But I have…</i>
+
+474
+00:30:57,085 --> 00:30:58,678
+<i>- Can I use this?
+- Wait a second.</i>
+
+475
+00:31:00,269 --> 00:31:02,860
+<i>That one is probably crumpled.
+Here's a new one.</i>
+
+476
+00:31:04,837 --> 00:31:05,617
+<i>Please wait.</i>
+
+477
+00:31:05,641 --> 00:31:08,135
+<i>I am here to interview
+General Manager Lee Ji Hoon.</i>
+
+478
+00:31:08,159 --> 00:31:09,400
+<i>You may enter.</i>
+
+479
+00:31:11,370 --> 00:31:13,830
+<i>According to security regulations,
+the R&D Department…</i>
+
+480
+00:31:13,854 --> 00:31:17,377
+<i>must use special paper
+with a weight of 100 grams.</i>
+
+481
+00:31:17,401 --> 00:31:20,912
+<i>But the paper I found
+on General Manager Lee Ji Hoon's sofa…</i>
+
+482
+00:31:20,936 --> 00:31:24,965
+<i>was lighter and thinner than the special paper.</i>
+
+483
+00:31:24,989 --> 00:31:28,693
+<i>It was likely the common 80-gram regular paper.</i>
+
+484
+00:31:28,717 --> 00:31:30,133
+<i>Then…</i>
+
+485
+00:31:30,157 --> 00:31:33,094
+<i>if he printed something confidential
+on that paper and took it out,</i>
+
+486
+00:31:33,118 --> 00:31:34,759
+<i>it wouldn't have been detected
+at the checkpoint.</i>
+
+487
+00:31:34,783 --> 00:31:38,042
+<i>He is outwardly very sensitive
+about the security of the R&D Department…</i>
+
+488
+00:31:38,066 --> 00:31:40,621
+<i>and has always advocated
+for strengthening the system.</i>
+
+489
+00:31:41,941 --> 00:31:45,747
+<i>However, he himself was engaging in actions
+that violate the regulations.</i>
+
+490
+00:31:46,944 --> 00:31:48,052
+<i>It doesn't add up.</i>
+
+491
+00:31:49,554 --> 00:31:50,676
+<i>I agree…</i>
+
+492
+00:31:51,653 --> 00:31:53,644
+<i>but I'm still suspicious of Mr. Park.</i>
+
+493
+00:31:55,388 --> 00:32:00,394
+<i>It makes sense if Mr. Lee was attempting
+to leak information with Mr. Park's help.</i>
+
+494
+00:32:01,421 --> 00:32:04,600
+<i>The problem is finding evidence.</i>
+
+495
+00:32:04,624 --> 00:32:08,045
+<i>Mr. Goo, I want you to
+secretly investigate about Mr. Park.</i>
+
+496
+00:32:08,069 --> 00:32:10,798
+<i>Okay. I will find the evidence.</i>
+
+497
+00:32:10,822 --> 00:32:12,115
+<i>Don't push yourself too hard.</i>
+
+498
+00:32:12,139 --> 00:32:13,758
+<i>It is very important…</i>
+
+499
+00:32:13,782 --> 00:32:16,227
+<i>that the fact that we are investigating
+must not be revealed.</i>
+
+500
+00:32:19,382 --> 00:32:23,759
+I'm sorry. I should've been more careful.
+
+501
+00:32:26,428 --> 00:32:27,788
+What did you find?
+
+502
+00:32:28,899 --> 00:32:30,738
+A sample of the J-BIMS demo version…
+
+503
+00:32:30,762 --> 00:32:33,423
+was posted on the dark web
+to show to potential buyers.
+
+504
+00:32:33,447 --> 00:32:35,169
+However…
+
+505
+00:32:35,193 --> 00:32:37,985
+it was deleted, perhaps because
+they realized we were investigating.
+
+506
+00:32:38,009 --> 00:32:41,247
+That would have been definitive evidence.
+
+507
+00:32:41,271 --> 00:32:43,442
+He wasn't surprised.
+
+508
+00:32:43,466 --> 00:32:44,481
+What?
+
+509
+00:32:44,505 --> 00:32:45,708
+<i>What are you doing?!</i>
+
+510
+00:32:45,732 --> 00:32:48,067
+<i>You must be scared to see this, right?
+The evidence is all right here.</i>
+
+511
+00:32:48,091 --> 00:32:50,137
+<i>- What are you talking about?
+- Leave it.</i>
+
+512
+00:32:50,161 --> 00:32:51,476
+<i>Mr. Lee?</i>
+
+513
+00:32:54,769 --> 00:32:57,252
+<i>I'm not sure what this is about but be quick.</i>
+
+514
+00:32:57,276 --> 00:32:59,330
+It seems certain that Mr. Lee is involved.
+
+515
+00:32:59,354 --> 00:33:01,549
+He must have realized
+that I accessed the dark web…
+
+516
+00:33:01,573 --> 00:33:03,046
+and deleted the demo version.
+
+517
+00:33:03,867 --> 00:33:05,663
+Mr. Park is an accomplice.
+
+518
+00:33:07,562 --> 00:33:10,218
+J-BIMS couldn't be stolen yet, right?
+
+519
+00:33:10,242 --> 00:33:12,636
+Some parts might have been
+handed over to brokers.
+
+520
+00:33:13,494 --> 00:33:16,977
+However, since J-BIMS is not completed yet…
+
+521
+00:33:17,001 --> 00:33:19,002
+So the deal may not have been finalized yet.
+
+522
+00:33:19,026 --> 00:33:20,610
+That's right.
+
+523
+00:33:20,634 --> 00:33:22,708
+But we don't have much time left.
+
+524
+00:33:22,732 --> 00:33:24,661
+What should we do?
+
+525
+00:33:25,819 --> 00:33:28,076
+We need to closely monitor General Manager Lee.
+
+526
+00:33:29,482 --> 00:33:32,062
+I'll take care of that.
+
+527
+00:33:33,574 --> 00:33:35,654
+They must have caught on
+to our investigation by now.
+
+528
+00:33:37,309 --> 00:33:38,309
+Be careful.
+
+529
+00:33:39,581 --> 00:33:40,581
+Yes, sir.
+
+530
+00:33:44,458 --> 00:33:46,794
+Why did you search through
+the R&D Department's computers?
+
+531
+00:33:47,686 --> 00:33:49,869
+What were you looking for?
+
+532
+00:33:49,893 --> 00:33:51,413
+Or were you trying to steal something?
+
+533
+00:33:53,017 --> 00:33:54,611
+I hope you're not going
+to make excuses…
+
+534
+00:33:54,635 --> 00:33:56,912
+like "We're trying to find evidence
+of workplace bullying."
+
+535
+00:33:56,936 --> 00:33:59,036
+The issue is not related to workplace bullying.
+
+536
+00:33:59,060 --> 00:34:00,421
+Then what is it?
+
+537
+00:34:03,562 --> 00:34:05,748
+There were signs of an attempt to leak…
+
+538
+00:34:05,772 --> 00:34:07,835
+J-BIMS's core technology…
+
+539
+00:34:08,772 --> 00:34:11,612
+among the employees in the R&D Department.
+
+540
+00:34:11,636 --> 00:34:12,860
+What did you say?
+
+541
+00:34:14,386 --> 00:34:15,529
+Leaking about J-BIMS?
+
+542
+00:34:18,101 --> 00:34:19,209
+Do you have evidence?
+
+543
+00:34:19,233 --> 00:34:20,641
+There is no physical evidence yet.
+
+544
+00:34:20,665 --> 00:34:23,568
+We only have suspicions
+about the attempt to leak the technology.
+
+545
+00:34:25,206 --> 00:34:29,591
+Is the owner of the computer that
+the audit team secretly searched a suspect?
+
+546
+00:34:29,615 --> 00:34:31,428
+There is a high probability
+that he's an accomplice.
+
+547
+00:34:31,452 --> 00:34:33,267
+So there's another main suspect.
+
+548
+00:34:35,387 --> 00:34:36,822
+It's General Manager Lee Ji Hoon.
+
+549
+00:34:46,801 --> 00:34:48,366
+Honestly, I can't believe it.
+
+550
+00:34:49,344 --> 00:34:51,227
+He oversees J-BIMS…
+
+551
+00:34:51,251 --> 00:34:54,445
+and has previously reported
+about two external brokers' attempts…
+
+552
+00:34:54,469 --> 00:34:56,311
+at leaking information.
+
+553
+00:34:56,335 --> 00:34:58,650
+Still, an investigation is necessary.
+
+554
+00:34:58,674 --> 00:35:00,630
+Variables can always arise.
+
+555
+00:35:01,645 --> 00:35:05,095
+We need to determine if a leak attempt
+actually occurred.
+
+556
+00:35:08,248 --> 00:35:09,928
+Handle it discreetly.
+
+557
+00:35:09,952 --> 00:35:11,074
+Most importantly…
+
+558
+00:35:12,220 --> 00:35:14,622
+the preparation for the demonstration
+must not be disrupted.
+
+559
+00:35:14,646 --> 00:35:15,669
+Yes, sir.
+
+560
+00:35:15,693 --> 00:35:16,716
+Mr. Shin.
+
+561
+00:35:17,417 --> 00:35:21,666
+J-BIMS is crucial not only
+for our company's future revenue…
+
+562
+00:35:21,690 --> 00:35:24,244
+but also for the management rights.
+
+563
+00:35:24,268 --> 00:35:25,979
+If the suspicions turn out to be false,
+
+564
+00:35:26,003 --> 00:35:28,479
+both you and the audit team…
+
+565
+00:35:28,503 --> 00:35:31,200
+will be held responsible for causing trouble.
+
+566
+00:35:39,485 --> 00:35:42,034
+I heard Han Soo is on vacation again.
+
+567
+00:35:42,058 --> 00:35:43,192
+People say…
+
+568
+00:35:44,998 --> 00:35:46,913
+No. Never mind.
+
+569
+00:35:46,937 --> 00:35:48,609
+What is it? Spill it.
+
+570
+00:35:48,633 --> 00:35:50,866
+Are you curious?
+
+571
+00:35:50,890 --> 00:35:52,351
+What is it? Tell us.
+
+572
+00:35:52,375 --> 00:35:53,387
+Well…
+
+573
+00:35:54,238 --> 00:35:57,281
+I heard someone caused trouble
+at the R&D department.
+
+574
+00:35:57,305 --> 00:35:59,128
+I have a feeling that…
+
+575
+00:35:59,152 --> 00:36:00,231
+Was it Han Soo?
+
+576
+00:36:00,255 --> 00:36:01,659
+Yes.
+
+577
+00:36:01,683 --> 00:36:04,480
+He was eager to find evidence.
+I guess he caused trouble.
+
+578
+00:36:04,504 --> 00:36:05,494
+It's just my gut feeling.
+
+579
+00:36:05,518 --> 00:36:08,979
+He went against Mr. Shin once,
+he must think he's the Team Leader now.
+
+580
+00:36:09,003 --> 00:36:10,491
+He's probably going through puberty.
+
+581
+00:36:24,147 --> 00:36:25,422
+Mr. Shin…
+
+582
+00:36:26,381 --> 00:36:28,430
+I have something to tell you.
+
+583
+00:36:33,141 --> 00:36:37,156
+You haven't given up
+on the R&D department case, right?
+
+584
+00:36:39,442 --> 00:36:42,594
+If you're hesitant to move forward
+due to lack of evidence, I can help.
+
+585
+00:36:46,350 --> 00:36:49,641
+I'm also concerned because he's my colleague.
+
+586
+00:36:49,665 --> 00:36:51,458
+What Han Soo said did make sense.
+
+587
+00:36:52,334 --> 00:36:54,783
+For now, I will go to the Information
+Security Team to check…
+
+588
+00:36:54,807 --> 00:36:58,091
+if there are any issues with our company's
+network and technology security systems.
+
+589
+00:37:01,827 --> 00:37:03,255
+Is that alright?
+
+590
+00:37:04,780 --> 00:37:06,035
+Go ahead.
+
+591
+00:37:06,059 --> 00:37:07,179
+Make sure to investigate thoroughly,
+
+592
+00:37:07,203 --> 00:37:11,453
+but it should appear as a routine check
+given the upcoming demonstration.
+
+593
+00:37:12,741 --> 00:37:13,844
+Yes, sir.
+
+594
+00:37:15,662 --> 00:37:16,958
+Come in.
+
+595
+00:37:22,451 --> 00:37:24,759
+- Mr. Park, come here. Take a look at this.
+- Yes, sir.
+
+596
+00:37:26,406 --> 00:37:28,280
+Why was the timeline
+for the demonstration changed?
+
+597
+00:37:28,304 --> 00:37:32,082
+While revising, it turned out that
+changing it this way made the flow more natural
+
+598
+00:37:32,106 --> 00:37:33,812
+Restore it to its original state.
+
+599
+00:37:35,574 --> 00:37:39,549
+Then we'll need to adjust the simulation
+for the latter part and rerun the calculations.
+
+600
+00:37:39,573 --> 00:37:40,785
+Yes, do that.
+
+601
+00:37:43,198 --> 00:37:46,540
+I'm currently fixing an error
+with the material inventory calculations…
+
+602
+00:37:46,564 --> 00:37:50,611
+so I don't have enough time
+to make this adjustment as well.
+
+603
+00:37:50,635 --> 00:37:52,455
+Is there anyone just lounging around?
+
+604
+00:37:52,479 --> 00:37:54,633
+Everyone's short on time.
+
+605
+00:37:54,657 --> 00:37:57,912
+Don't underestimate yourself.
+You can definitely handle it all.
+
+606
+00:37:57,936 --> 00:37:58,975
+Mr. Park…
+
+607
+00:37:59,703 --> 00:38:01,935
+the demonstration is just around the corner.
+
+608
+00:38:01,959 --> 00:38:04,810
+We need to show them how much effort we put in.
+
+609
+00:38:04,834 --> 00:38:06,178
+Once we get through this
+demonstration successfully…
+
+610
+00:38:06,202 --> 00:38:07,779
+you know
+what will happen next, right?
+
+611
+00:38:07,803 --> 00:38:08,803
+Mr. Park…
+
+612
+00:38:11,763 --> 00:38:13,211
+No. General Manager Park.
+
+613
+00:38:17,692 --> 00:38:21,281
+I want to do everything too,
+but realistically, there's not enough time.
+
+614
+00:38:21,305 --> 00:38:25,620
+Please edit it as you wish.
+
+615
+00:38:25,644 --> 00:38:27,755
+Just make sure to match
+the presentation timeline.
+
+616
+00:38:27,779 --> 00:38:31,839
+This exact scene must be shown
+exactly 12 minutes…
+
+617
+00:38:31,863 --> 00:38:33,491
+after I start the presentation.
+
+618
+00:38:33,515 --> 00:38:34,684
+Okay?
+
+619
+00:38:34,708 --> 00:38:35,720
+Yes, sir.
+
+620
+00:38:41,969 --> 00:38:43,624
+The demonstration is coming up soon.
+
+621
+00:38:43,648 --> 00:38:45,773
+I'm just asking as a precaution.
+
+622
+00:38:45,797 --> 00:38:49,077
+Our R&D department's information
+protection system is intact, right?
+
+623
+00:38:49,101 --> 00:38:52,289
+Of course. The system is regularly upgraded.
+
+624
+00:38:55,066 --> 00:38:59,552
+It's rare for anyone in the R&D department
+to violate security regulations, right?
+
+625
+00:38:59,576 --> 00:39:01,519
+There might be minor mistakes occasionally…
+
+626
+00:39:01,543 --> 00:39:03,274
+but with the demonstration so close…
+
+627
+00:39:03,298 --> 00:39:06,576
+Yes. There used to be one person
+who occasionally made mistakes…
+
+628
+00:39:06,600 --> 00:39:09,476
+but there haven't been any in recent days.
+
+629
+00:39:09,500 --> 00:39:10,374
+Speaking of which…
+
+630
+00:39:10,398 --> 00:39:13,749
+I haven't received the statement of reason
+about the security sticker removal.
+
+631
+00:39:13,773 --> 00:39:14,789
+Is that so?
+
+632
+00:39:15,616 --> 00:39:16,831
+Who is it?
+
+633
+00:39:16,855 --> 00:39:18,397
+That's…
+
+634
+00:39:55,498 --> 00:39:57,003
+Yes, I understand.
+
+635
+00:40:07,279 --> 00:40:09,353
+Mr. Shin, it looks like the transaction
+is happening tonight.
+
+636
+00:40:09,377 --> 00:40:11,450
+He made an appointment with the broker.
+
+637
+00:40:11,474 --> 00:40:12,867
+When and where?
+
+638
+00:41:57,554 --> 00:42:01,053
+That's right. I have to follow the evidence.
+
+639
+00:42:42,115 --> 00:42:43,651
+Where did he go?
+
+640
+00:42:55,478 --> 00:42:57,197
+Who are you?
+
+641
+00:42:57,221 --> 00:42:59,385
+Why are you following me?
+
+642
+00:42:59,409 --> 00:43:02,190
+- Well…
+- Well what, you brat?
+
+643
+00:43:07,608 --> 00:43:08,819
+Who are you?
+
+644
+00:43:09,794 --> 00:43:11,669
+Hand over what you received from Lee Ji Hoon.
+
+645
+00:43:11,693 --> 00:43:13,874
+What nonsense are you talking about?
+
+646
+00:43:18,201 --> 00:43:20,736
+- Hand it over.
+- Hand over what?
+
+647
+00:43:20,760 --> 00:43:22,314
+I have nothing.
+
+648
+00:43:22,338 --> 00:43:25,407
+Stop lying. I saw everything.
+
+649
+00:43:33,794 --> 00:43:35,446
+Is this it?
+
+650
+00:43:35,470 --> 00:43:37,801
+Why are you doing this to me?
+
+651
+00:43:42,139 --> 00:43:44,579
+- Whose passport is this?
+- My younger sister.
+
+652
+00:43:44,603 --> 00:43:46,607
+She left it at home.
+
+653
+00:43:46,631 --> 00:43:48,328
+I was bringing it to her.
+
+654
+00:43:48,352 --> 00:43:50,040
+Why did you meet Lee Ji Hoon?
+
+655
+00:43:50,064 --> 00:43:51,454
+Who is that?
+
+656
+00:43:51,478 --> 00:43:53,744
+The one you met under the bridge.
+
+657
+00:43:53,768 --> 00:43:56,070
+Let me go. This is a crime.
+
+658
+00:43:56,094 --> 00:43:58,571
+Call the police.
+
+659
+00:43:58,595 --> 00:44:00,426
+What should I report?
+
+660
+00:44:02,140 --> 00:44:03,286
+Assault and battery.
+
+661
+00:44:04,292 --> 00:44:05,357
+Yes, sir.
+
+662
+00:44:08,402 --> 00:44:10,621
+Hello. I want to report an assault incident.
+
+663
+00:44:12,809 --> 00:44:15,368
+Did you already know
+that he is a passport forger.
+
+664
+00:44:16,208 --> 00:44:18,145
+I didn't believe his story entirely.
+
+665
+00:44:18,169 --> 00:44:19,434
+How so?
+
+666
+00:44:21,006 --> 00:44:22,711
+His sister didn't resemble him.
+
+667
+00:44:25,646 --> 00:44:27,106
+Is that all?
+
+668
+00:44:27,130 --> 00:44:30,808
+Suspicious location, suspicious money,
+and a suspicious passport.
+
+669
+00:44:30,832 --> 00:44:32,293
+It was enough to raise doubts.
+
+670
+00:44:32,317 --> 00:44:35,981
+General Manager Lee bought a fake passport.
+
+671
+00:44:36,005 --> 00:44:37,989
+If the forger confesses, it's all over, right?
+
+672
+00:44:38,013 --> 00:44:41,526
+We might not have time
+to wait for a confession.
+
+673
+00:44:41,550 --> 00:44:43,102
+Why?
+
+674
+00:44:46,453 --> 00:44:47,511
+This is Shin Cha Il.
+
+675
+00:44:50,567 --> 00:44:52,607
+I understand. I'm on my way.
+
+676
+00:44:53,456 --> 00:44:54,851
+We're going back to the office.
+
+677
+00:44:55,818 --> 00:44:56,818
+Yes, sir.
+
+678
+00:45:22,921 --> 00:45:24,638
+You get off from work quite late.
+
+679
+00:45:27,990 --> 00:45:29,642
+I'm going down.
+
+680
+00:45:30,410 --> 00:45:32,472
+Let's have an interview at the audit room.
+
+681
+00:45:32,496 --> 00:45:33,703
+What are you doing?
+
+682
+00:45:33,727 --> 00:45:36,510
+- Do you know what time it is now?
+- It will be quick.
+
+683
+00:45:45,200 --> 00:45:46,319
+Please get off.
+
+684
+00:45:47,255 --> 00:45:49,199
+Is this about Oh Yoon Woo?
+
+685
+00:45:49,223 --> 00:45:50,251
+Let's talk tomorrow. Let me go home.
+
+686
+00:45:50,275 --> 00:45:53,661
+Don't misunderstand.
+This is not a request.
+
+687
+00:45:55,642 --> 00:45:56,735
+Let's go.
+
+688
+00:46:25,716 --> 00:46:28,040
+Isn't Oh Yoon Woo's case over now?
+
+689
+00:46:28,064 --> 00:46:31,289
+The investigation about workplace bullying
+is still ongoing.
+
+690
+00:46:32,875 --> 00:46:35,258
+I didn't bully him.
+
+691
+00:46:35,282 --> 00:46:38,781
+Mr. Park, have you ever been bullied?
+
+692
+00:46:41,865 --> 00:46:43,076
+What are you talking about?
+
+693
+00:46:43,100 --> 00:46:45,256
+Have you ever been bullied…
+
+694
+00:46:45,280 --> 00:46:47,575
+by General Manager Lee Ji Hoon?
+
+695
+00:46:49,566 --> 00:46:53,479
+Compliments and motivation
+disguised as gaslighting.
+
+696
+00:46:53,503 --> 00:46:55,581
+That is his tactic.
+
+697
+00:46:58,422 --> 00:47:00,029
+<i>[Lee Ji Hoon.]</i>
+
+698
+00:47:05,238 --> 00:47:10,948
+I worked with Lee Ji Hoon,
+before he joined JU Construction
+
+699
+00:47:10,972 --> 00:47:13,339
+It was a startup company.
+
+700
+00:47:13,363 --> 00:47:16,581
+He worked as a technical team leader
+for about a year.
+
+701
+00:47:16,605 --> 00:47:17,855
+It wasn't just me.
+
+702
+00:47:17,879 --> 00:47:19,501
+There were a few others too.
+
+703
+00:47:20,202 --> 00:47:21,777
+The people who were bullied by him.
+
+704
+00:47:24,976 --> 00:47:26,276
+Let's end the meeting here.
+
+705
+00:47:26,300 --> 00:47:28,769
+<i>Before joining JU Construction,</i>
+
+706
+00:47:28,793 --> 00:47:32,337
+<i>Lee Ji Hoon worked as a technical team leader
+at a startup for a year.</i>
+
+707
+00:47:37,861 --> 00:47:38,862
+Jung Ho.
+
+708
+00:47:40,149 --> 00:47:41,781
+Is this how you want to work?
+
+709
+00:47:41,805 --> 00:47:45,341
+I wouldn't be like this
+if you take responsibility for your mistakes.
+
+710
+00:47:45,365 --> 00:47:49,985
+<i>An employee who worked under him
+resigned after only three months.</i>
+
+711
+00:47:50,009 --> 00:47:51,082
+<i>The reason being…</i>
+
+712
+00:47:51,106 --> 00:47:54,153
+You have a brain.
+Shouldn't you be putting that to good use?
+
+713
+00:47:54,177 --> 00:47:54,917
+Is it that hard?
+
+714
+00:47:54,941 --> 00:47:56,501
+<i>Covert bullying.</i>
+
+715
+00:47:56,525 --> 00:47:58,238
+<i>[JU Construction Shin Cha Il]</i>
+
+716
+00:48:03,504 --> 00:48:07,031
+I'm not sure where to start.
+
+717
+00:48:11,274 --> 00:48:12,740
+You fix this.
+
+718
+00:48:12,764 --> 00:48:15,370
+I can't handle it anymore.
+
+719
+00:48:21,148 --> 00:48:24,067
+Are you Mr. Shin Cha Il?
+
+720
+00:48:24,091 --> 00:48:25,403
+Yes, I am.
+
+721
+00:48:25,427 --> 00:48:26,577
+<i>That wasn't the end.</i>
+
+722
+00:48:26,601 --> 00:48:30,070
+<i>Within less than six months, two more
+employees resigned from the company.</i>
+
+723
+00:48:31,280 --> 00:48:32,652
+Are you sure
+you won't regret this?
+
+724
+00:48:35,962 --> 00:48:38,256
+<i>Their reasons for leaving were the same…</i>
+
+725
+00:48:39,039 --> 00:48:41,381
+<i>which was bullying by Mr. Lee.</i>
+
+726
+00:48:46,398 --> 00:48:48,340
+<i>He used the same bullying style.</i>
+
+727
+00:48:48,364 --> 00:48:49,575
+Hang in there just a little bit more.
+
+728
+00:48:49,599 --> 00:48:51,520
+We're almost finished with the project.
+You can do it.
+
+729
+00:48:51,544 --> 00:48:52,931
+<i>When it was just the two of them…</i>
+
+730
+00:48:52,955 --> 00:48:57,145
+<i>the bullying was intense and discreet,
+unnoticed by other team members.</i>
+
+731
+00:48:59,794 --> 00:49:00,636
+Finish it by tomorrow.
+
+732
+00:49:00,660 --> 00:49:03,162
+- <i>To everyone else, he was Dr. Jekyll…</i>
+- But this…
+
+733
+00:49:03,186 --> 00:49:06,207
+<i>but to the victim, he was Mr. Hyde.</i>
+
+734
+00:49:08,008 --> 00:49:11,122
+<i>Doesn't it sound familiar to you?</i>
+
+735
+00:49:14,782 --> 00:49:18,120
+But from now on, this is not an interrogation
+on the workplace bullying.
+
+736
+00:49:19,918 --> 00:49:21,714
+Then, what is it?
+
+737
+00:49:21,738 --> 00:49:24,060
+We'll being the investigation of Mr. Park,
+the manager of R&D department…
+
+738
+00:49:24,084 --> 00:49:28,347
+for involvement in attempting
+to leak the core technology of J-BIMS.
+
+739
+00:49:28,371 --> 00:49:30,664
+What…?
+
+740
+00:49:30,688 --> 00:49:32,145
+What are you talking about?
+
+741
+00:49:32,169 --> 00:49:34,506
+Leaking J-BIMS?
+What do you mean I'm the accomplice?
+
+742
+00:49:34,530 --> 00:49:37,170
+We discovered that Mr. Lee Ji Hoon,
+the General Manager of R&D department,
+
+743
+00:49:37,194 --> 00:49:38,789
+was involved in leaking
+the core technology of J-BIMS…
+
+744
+00:49:38,813 --> 00:49:41,424
+to a multinational broker organization.
+
+745
+00:49:41,448 --> 00:49:45,588
+He had also agreed to receive
+approximately 50 billion won in exchange.
+
+746
+00:49:45,612 --> 00:49:47,213
+Wait…
+
+747
+00:49:47,237 --> 00:49:48,158
+Is that true?
+
+748
+00:49:48,182 --> 00:49:52,572
+During this process, we have captured evidence
+indicating that you assisted him.
+
+749
+00:49:52,596 --> 00:49:56,020
+No way. I've never done such thing.
+
+750
+00:49:58,399 --> 00:49:59,488
+Here.
+
+751
+00:50:00,426 --> 00:50:02,988
+According to the list of security
+regulation violations in the R&D department…
+
+752
+00:50:03,012 --> 00:50:05,372
+you brought in standard A4 paper,
+
+753
+00:50:05,396 --> 00:50:07,829
+which is prohibited
+within the development area.
+
+754
+00:50:07,853 --> 00:50:10,080
+Additionally, you removed
+the security stickers four times…
+
+755
+00:50:10,104 --> 00:50:11,979
+and you submitted
+statement of reason for these.
+
+756
+00:50:12,003 --> 00:50:12,965
+Wait but that's…
+
+757
+00:50:12,989 --> 00:50:16,419
+Above all, you replied
+to an email from a broker…
+
+758
+00:50:16,443 --> 00:50:19,413
+disguised as an advertisement spam.
+
+759
+00:50:19,437 --> 00:50:22,566
+No. I've done all that
+because Mr. Lee ordered me to.
+
+760
+00:50:22,590 --> 00:50:25,480
+You did all this
+because your superior asked you to?
+
+761
+00:50:31,349 --> 00:50:35,801
+My position is low compared to my age.
+
+762
+00:50:35,825 --> 00:50:38,434
+I started working quite late
+due to personal reasons…
+
+763
+00:50:39,489 --> 00:50:41,403
+so I didn't get promoted on time.
+
+764
+00:50:43,679 --> 00:50:45,066
+2 years ago…
+
+765
+00:50:45,848 --> 00:50:48,991
+I was sure that I would be promoted
+as the General Manager of the R&D Department.
+
+766
+00:50:49,015 --> 00:50:51,506
+But then Mr. Lee, who's younger than me came.
+
+767
+00:50:51,530 --> 00:50:54,436
+But Mr. Lee said he would soon
+become an executive.
+
+768
+00:50:54,460 --> 00:50:56,280
+So as long as I follow his orders…
+
+769
+00:50:56,304 --> 00:51:00,232
+he would promote me as the head of the team.
+
+770
+00:51:00,256 --> 00:51:01,399
+Then…
+
+771
+00:51:01,423 --> 00:51:05,216
+why did you excluded Yoon Woo
+from the J-BIMS project?
+
+772
+00:51:05,240 --> 00:51:07,514
+I didn't expect that either.
+
+773
+00:51:07,538 --> 00:51:10,314
+Mr. Lee suddenly told me
+not to ask questions…
+
+774
+00:51:10,338 --> 00:51:12,471
+and just respond to a specific spam email.
+
+775
+00:51:12,495 --> 00:51:15,642
+I did as I was told, but then Yoon Woo saw it.
+
+776
+00:51:15,666 --> 00:51:17,112
+After realizing this, he insisted
+on sending Yoon Woo…
+
+777
+00:51:17,136 --> 00:51:19,399
+to another department
+by any means necessary.
+
+778
+00:51:19,423 --> 00:51:24,453
+So, I ended up bullying him.
+But I just followed his orders.
+
+779
+00:51:24,477 --> 00:51:26,565
+Do you think that makes sense?
+
+780
+00:51:27,974 --> 00:51:32,023
+But, I really didn't know
+that it was about a leaking information.
+
+781
+00:51:32,047 --> 00:51:32,973
+I swear.
+
+782
+00:51:32,997 --> 00:51:35,177
+Mr. Lee promised you a promotion.
+
+783
+00:51:35,201 --> 00:51:37,230
+He also used your computer IP address…
+
+784
+00:51:37,254 --> 00:51:41,737
+to upload and promote the J-BIMS
+demo version sample…
+
+785
+00:51:41,761 --> 00:51:43,927
+on the dark web.
+
+786
+00:51:43,951 --> 00:51:47,379
+He intended to pin
+all the technology leakage on you.
+
+787
+00:51:47,403 --> 00:51:50,070
+What?
+
+788
+00:51:51,484 --> 00:51:52,544
+Mr. Park.
+
+789
+00:51:53,614 --> 00:51:55,340
+Answer me properly.
+
+790
+00:51:56,308 --> 00:51:57,066
+Depending in your answer…
+
+791
+00:51:57,090 --> 00:51:59,333
+we will either believe
+your claim of innocence…
+
+792
+00:51:59,357 --> 00:52:02,272
+or decide to report you to the police…
+
+793
+00:52:02,296 --> 00:52:04,172
+immediately after this investigation.
+
+794
+00:52:08,697 --> 00:52:09,925
+I understand.
+
+795
+00:52:38,882 --> 00:52:41,262
+- There will be no problem at all.
+- Welcome, sir.
+
+796
+00:52:42,204 --> 00:52:43,214
+What is going on?
+
+797
+00:52:43,238 --> 00:52:46,920
+I heard there was an error
+in the cost estimation program.
+
+798
+00:52:46,944 --> 00:52:48,315
+<i>Yes, thank you.</i>
+
+799
+00:52:50,398 --> 00:52:55,117
+The CEO has allowed us to upload
+the cost estimation program to the cloud…
+
+800
+00:52:55,141 --> 00:52:56,228
+only during the demonstration.
+
+801
+00:52:56,252 --> 00:52:57,323
+Then we can fix the error immediately…
+
+802
+00:52:57,347 --> 00:53:00,704
+and make real-time updates
+to the demonstration files.
+
+803
+00:53:00,728 --> 00:53:02,124
+But won't there be a security risk?
+
+804
+00:53:02,148 --> 00:53:04,654
+It's only a part of the whole program,
+not the entire system anyway.
+
+805
+00:53:04,678 --> 00:53:06,742
+Since it will only be for about
+an hour during the demonstration.
+
+806
+00:53:06,766 --> 00:53:08,109
+It should be fine.
+
+807
+00:53:08,133 --> 00:53:10,169
+I'm using a secure cloud service…
+
+808
+00:53:10,193 --> 00:53:12,017
+and we can set a new password for access.
+
+809
+00:53:12,041 --> 00:53:14,273
+The password will only
+be shared with Mr. Park…
+
+810
+00:53:14,297 --> 00:53:17,354
+since only the two of us
+can fix the error right now.
+
+811
+00:53:17,378 --> 00:53:18,433
+The rest of you…
+
+812
+00:53:18,457 --> 00:53:19,730
+can just re-check the errors…
+
+813
+00:53:19,754 --> 00:53:21,274
+so that the demonstration
+goes smoothly without any problem.
+
+814
+00:53:21,298 --> 00:53:22,572
+Yes, sir.
+
+815
+00:53:23,779 --> 00:53:25,983
+I uploaded the copied file in the cloud.
+
+816
+00:53:26,007 --> 00:53:27,588
+Please set the password.
+
+817
+00:53:29,448 --> 00:53:31,609
+I'm lazy to think. Let's just use this.
+
+818
+00:53:34,650 --> 00:53:36,948
+Then, I will modify the program from now on…
+
+819
+00:53:36,972 --> 00:53:39,163
+so please accept it and mark it as an error.
+
+820
+00:53:39,187 --> 00:53:40,646
+Yes, sir. I got that.
+
+821
+00:53:54,903 --> 00:53:58,144
+<i>Mr. Lee will hand over
+the core technology of J-BIMS…</i>
+
+822
+00:53:58,168 --> 00:53:59,983
+<i>to the broker at the demonstration event.</i>
+
+823
+00:54:00,724 --> 00:54:02,271
+From the start to the end
+of the demonstration…
+
+824
+00:54:02,295 --> 00:54:05,672
+please share with us all
+notable activities of him.
+
+825
+00:54:05,696 --> 00:54:09,413
+If he becomes aware of what we know,
+and tries to sabotage the situation…
+
+826
+00:54:09,437 --> 00:54:11,163
+we will assume that you leaked
+the information to him…
+
+827
+00:54:11,187 --> 00:54:13,851
+and will immediately report you
+as a technology theft accomplice.
+
+828
+00:54:15,540 --> 00:54:17,669
+<i>While preparing for the demonstration…</i>
+
+829
+00:54:17,693 --> 00:54:19,537
+<i>were there any special requests made by him…</i>
+
+830
+00:54:19,561 --> 00:54:22,637
+<i>aside from violating security protocols?</i>
+
+831
+00:54:51,969 --> 00:54:54,707
+People say AI will lead
+to the extinction of humanity.
+
+832
+00:54:54,731 --> 00:54:57,342
+Do you know that you're contributing to that?
+
+833
+00:55:07,450 --> 00:55:09,341
+This way, sir.
+
+834
+00:55:18,357 --> 00:55:21,770
+Mr. Shin. Do you remember what I said?
+
+835
+00:55:21,794 --> 00:55:24,091
+Yes, I do.
+
+836
+00:55:36,395 --> 00:55:38,277
+I heard there was an error.
+
+837
+00:55:38,301 --> 00:55:39,531
+How did it go?
+
+838
+00:55:39,555 --> 00:55:40,731
+Rest assured.
+
+839
+00:55:40,755 --> 00:55:42,965
+The demonstration go on without a flaw.
+
+840
+00:56:03,658 --> 00:56:05,905
+<i>The broker should be one of them.</i>
+
+841
+00:56:05,929 --> 00:56:08,308
+<i>How do you think he'll communicate
+with the broker?</i>
+
+842
+00:56:08,332 --> 00:56:11,244
+<i>Using his phone would be best.</i>
+
+843
+00:56:25,806 --> 00:56:29,828
+He's taking photos and
+writing articles all by himself.
+
+844
+00:56:29,852 --> 00:56:33,243
+The working class are all suffering everywhere.
+
+845
+00:56:33,267 --> 00:56:35,327
+You must have been having a hard time lately.
+
+846
+00:56:36,062 --> 00:56:38,559
+Why? Do you want to blame it on Mr. Shin again?
+
+847
+00:56:38,583 --> 00:56:39,786
+No I wasn't.
+
+848
+00:56:39,810 --> 00:56:41,833
+I'm just getting emotional watching that.
+
+849
+00:56:41,857 --> 00:56:43,977
+- Are you getting attached to us?
+- That's disgusting!
+
+850
+00:56:44,689 --> 00:56:46,748
+You're always thinking about nonsense.
+
+851
+00:56:56,033 --> 00:56:57,237
+Hello.
+
+852
+00:56:57,261 --> 00:57:00,080
+I am the CEO of JU Construction,
+Hwang Se Woong.
+
+853
+00:57:07,758 --> 00:57:10,428
+Finally, the moment we've been
+waiting for has arrived.
+
+854
+00:57:10,452 --> 00:57:12,291
+I am proud to introduce…
+
+855
+00:57:12,315 --> 00:57:13,229
+the innovative program…
+
+856
+00:57:13,253 --> 00:57:16,630
+that will propel JU Construction
+to become a leading…
+
+857
+00:57:17,475 --> 00:57:19,706
+global construction company.
+
+858
+00:57:20,817 --> 00:57:22,393
+It is none other than J-BIMS.
+
+859
+00:57:38,476 --> 00:57:40,420
+He left his phone behind.
+
+860
+00:57:48,266 --> 00:57:52,687
+Hello. I am Lee Ji Hoon,
+the lead developer of J-BIMS.
+
+861
+00:57:59,634 --> 00:58:02,896
+J-BIMS automatically
+calculates the amount of materials…
+
+862
+00:58:02,920 --> 00:58:05,705
+costs required and the duration needed
+for a construction site.
+
+863
+00:58:05,729 --> 00:58:10,074
+It has already achieved remarkable results
+with its demo version.
+
+864
+00:58:10,098 --> 00:58:12,505
+At the current progress rate of 60%,
+we have successfully reduced…
+
+865
+00:58:12,529 --> 00:58:15,137
+the total estimated construction cost
+of 70 billion won by 2%.
+
+866
+00:58:15,161 --> 00:58:18,043
+Amounting to up to 1.4 billion won of savings.
+
+867
+00:58:19,624 --> 00:58:23,577
+At first glance, this figure
+might seem insignificant.
+
+868
+00:58:23,601 --> 00:58:28,414
+But let's consider our annual average
+order volume valued at 8 trillion won.
+
+869
+00:58:28,438 --> 00:58:29,584
+What does 2% of that makes?
+
+870
+00:58:31,421 --> 00:58:33,079
+It's 160 billion won.
+
+871
+00:58:44,112 --> 00:58:47,775
+There are two elements that are necessary
+on the path to reaching our goal.
+
+872
+00:58:47,799 --> 00:58:50,123
+Passion and perseverance.
+
+873
+00:58:50,147 --> 00:58:53,987
+While it's okay to take a break,
+we must never stop moving forward.
+
+874
+00:58:54,011 --> 00:58:57,046
+We proudly present the destination
+of the journey we've embarked on.
+
+875
+00:58:57,070 --> 00:59:00,979
+The fully completed J-BIMS.
+
+876
+00:59:01,003 --> 00:59:03,284
+<i>[Five W's and one H]</i>
+
+877
+00:59:07,838 --> 00:59:11,659
+Who, when, where, what, how, and why.
+
+878
+00:59:11,683 --> 00:59:14,248
+We refer to this as the 'Five Ws and One H.'
+
+879
+00:59:14,272 --> 00:59:19,616
+Please remember this Five Ws and One H well.
+
+880
+00:59:19,640 --> 00:59:24,716
+It is the key keyword to experience
+the fully completed J-BIMS.
+
+881
+00:59:25,891 --> 00:59:27,492
+That I will introduce to you.
+
+882
+00:59:28,727 --> 00:59:30,500
+Someone just accessed the cloud!
+
+883
+00:59:31,274 --> 00:59:33,165
+<i>If you input the design blueprint like this…</i>
+
+884
+00:59:33,189 --> 00:59:37,230
+<i>the system provides a 3D rendering
+of the completed building.</i>
+
+885
+00:59:37,254 --> 00:59:40,646
+Additionally, it calculates maintenance
+information for the post-construction phase…
+
+886
+00:59:40,670 --> 00:59:42,091
+and supports VR functionality…
+
+887
+00:59:42,115 --> 00:59:43,863
+offering a system that is…
+
+888
+00:59:54,443 --> 00:59:56,005
+What are you doing!
+
+889
+01:00:11,764 --> 01:00:13,590
+I have a question.
+
+890
+01:00:19,187 --> 01:00:20,601
+<i>Here he goes again.</i>
+
+891
+01:00:36,760 --> 01:00:38,402
+What do you think…
+
+892
+01:00:43,680 --> 01:00:45,340
+are you doing?
+
+893
+01:01:05,677 --> 01:01:08,239
+<i>[The Auditors]</i>
+
+894
+01:01:28,383 --> 01:01:32,657
+<i>You are a broker who came to buy J-BIMS
+that Lee Ji Hoon leaked.</i>
+
+895
+01:01:32,681 --> 01:01:35,195
+<i>Is it okay for someone to do this
+with no evidence?</i>
+
+896
+01:01:36,233 --> 01:01:39,483
+<i>I am the CEO yet I am being
+treated as a variable?</i>
+
+897
+01:01:39,507 --> 01:01:43,495
+<i>J Construction.
+It's obviously talking about our company.</i>
+
+898
+01:01:43,519 --> 01:01:46,286
+<i>This is weird. Why is it not here?</i>
+
+899
+01:01:46,310 --> 01:01:47,990
+<i>Of course I took the aptitude test.</i>
+
+900
+01:01:48,014 --> 01:01:49,388
+<i>How would I pass if I didn't?</i>
+
+901
+01:01:49,412 --> 01:01:50,633
+<i>But there was no record of it.</i>
+
+902
+01:01:50,657 --> 01:01:52,691
+<i>Your asses will get fired soon.</i>
+
+903
+01:01:52,715 --> 01:01:54,279
+<i>I will look forward to that.</i>
+
+904
+01:01:54,303 --> 01:01:56,597
+<i>If the media obtains evidence
+of hiring corruptions first…</i>
+
+905
+01:01:56,621 --> 01:01:58,740
+<i>the company will receive a bigger blow.</i>
