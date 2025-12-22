@@ -1,0 +1,2239 @@
+1
+00:00:13,679 --> 00:00:16,399
+Patient is experiencing stiffness and blood pressure has dropped doctor.
+
+2
+00:00:16,879 --> 00:00:17,999
+What were his vital signs?
+
+3
+00:00:18,000 --> 00:00:20,480
+His vital signs were normal.
+
+4
+00:00:50,560 --> 00:00:52,478
+Load the IV and start inotrope.
+
+5
+00:00:52,479 --> 00:00:53,479
+Yes doctor.
+
+6
+00:01:18,079 --> 00:01:19,519
+Vital signs are stable doctor.
+
+7
+00:01:21,120 --> 00:01:22,079
+I'm going to order a blood test.
+
+8
+00:01:22,079 --> 00:01:22,840
+Get me his chart.
+
+9
+00:01:22,840 --> 00:01:23,560
+Yes doctor.
+
+10
+00:01:27,560 --> 00:01:29,280
+The patient is coding.
+
+11
+00:01:29,560 --> 00:01:31,319
+I need a 200 joules cardiac shock, quickly.
+
+12
+00:01:49,000 --> 00:01:49,879
+Machine's here.
+
+13
+00:01:53,040 --> 00:01:53,959
+Ready doctor.
+
+14
+00:01:57,599 --> 00:01:58,200
+Charge
+
+15
+00:01:58,599 --> 00:01:59,280
+Clear
+
+16
+00:01:59,439 --> 00:02:00,120
+Clear
+
+17
+00:02:00,120 --> 00:02:00,959
+Everyone clear.
+
+18
+00:02:01,200 --> 00:02:01,640
+Yes doctor.
+
+19
+00:03:56,360 --> 00:03:57,639
+Why the hell are you calling me?
+
+20
+00:03:58,039 --> 00:04:00,599
+You told me to call and wake you up for the exam.
+
+21
+00:04:01,759 --> 00:04:02,840
+I did?
+
+22
+00:04:03,719 --> 00:04:04,680
+Well, yeah.
+
+23
+00:04:05,240 --> 00:04:07,439
+Last night, you really went overboard Great.
+
+24
+00:04:08,039 --> 00:04:09,800
+Get your ass up and come help me.
+
+25
+00:04:10,360 --> 00:04:12,159
+Shit, I can't go. I have a headache.
+
+26
+00:04:12,960 --> 00:04:14,800
+If you have a headache, just take some damn paracetamol.
+
+27
+00:04:15,000 --> 00:04:18,160
+If you miss another exam, we won't graduate together.
+
+28
+00:04:18,680 --> 00:04:20,759
+See you at 1pm at Uni, that's it.
+
+29
+00:06:36,160 --> 00:06:37,360
+Shit, why can't I fucking breathe?
+
+30
+00:08:20,959 --> 00:08:21,839
+I'm here dad.
+
+31
+00:08:24,600 --> 00:08:26,040
+You're five minutes late.
+
+32
+00:08:27,560 --> 00:08:28,279
+I'm sorry.
+
+33
+00:08:28,480 --> 00:08:30,240
+I was busy talking to a client.
+
+34
+00:08:31,000 --> 00:08:31,680
+Sit down.
+
+35
+00:08:32,080 --> 00:08:33,519
+I have something important to talk to you about.
+
+36
+00:08:38,639 --> 00:08:40,200
+If it's about the latest shipment of goods,
+
+37
+00:08:40,399 --> 00:08:41,440
+and the weight problem,
+
+38
+00:08:41,919 --> 00:08:43,038
+I already cleared it with transport.
+
+39
+00:08:43,039 --> 00:08:43,919
+It's not about that.
+
+40
+00:08:47,840 --> 00:08:50,120
+I want you to take over our investment department.
+
+41
+00:08:52,080 --> 00:08:53,000
+Investment department?
+
+42
+00:08:54,279 --> 00:08:55,679
+Our company has that?
+
+43
+00:08:56,120 --> 00:08:58,240
+I've never seen it in the company's structure before.
+
+44
+00:08:58,919 --> 00:09:00,120
+Investment department?
+
+45
+00:09:00,759 --> 00:09:03,639
+It's the backbone of our company.
+
+46
+00:09:05,000 --> 00:09:07,000
+Revenue from logistics is part of it.
+
+47
+00:09:07,879 --> 00:09:10,519
+But the reason why we've so successful...
+
+48
+00:09:11,399 --> 00:09:12,440
+is because of this department.
+
+49
+00:09:12,720 --> 00:09:14,279
+Its become our primary revenue generator.
+
+50
+00:09:16,159 --> 00:09:18,080
+What about the transportation department that I'm doing?
+
+51
+00:09:18,519 --> 00:09:20,000
+I'll find someone else to take over.
+
+52
+00:09:21,879 --> 00:09:22,639
+Today,
+
+53
+00:09:22,640 --> 00:09:25,279
+I want you to start working at the office.
+
+54
+00:09:25,799 --> 00:09:28,679
+If you have any questions ask someone named Sa-Marn.
+
+55
+00:09:29,240 --> 00:09:32,480
+Sa-Marn has managed the invesment department since day one.
+
+56
+00:09:37,799 --> 00:09:40,080
+Because I see your potential,
+
+57
+00:09:40,759 --> 00:09:41,960
+it has to be you,
+
+58
+00:09:42,440 --> 00:09:44,720
+who will take over this department after me.
+
+59
+00:09:48,200 --> 00:09:49,639
+I will not disappoint you.
+
+60
+00:09:49,840 --> 00:09:50,559
+Okay
+
+61
+00:09:52,159 --> 00:09:52,960
+Get going.
+
+62
+00:10:05,440 --> 00:10:06,440
+Korn
+
+63
+00:10:10,120 --> 00:10:12,279
+Have you talked to your dad about the invesment department?
+
+64
+00:10:14,480 --> 00:10:15,759
+Yes, ma'am.
+
+65
+00:10:16,919 --> 00:10:18,439
+Work hard.
+
+66
+00:10:18,440 --> 00:10:20,759
+This department is very important to the company.
+
+67
+00:10:20,919 --> 00:10:23,240
+If you do well, your dad will be relieved.
+
+68
+00:10:23,559 --> 00:10:24,159
+Yes
+
+69
+00:10:24,160 --> 00:10:25,559
+Excuse me, I need to get back to work.
+
+70
+00:10:26,360 --> 00:10:27,159
+Okay
+
+71
+00:10:46,679 --> 00:10:48,240
+I made the right decision, right?
+
+72
+00:10:48,679 --> 00:10:50,759
+To have him take over our secret operations?
+
+73
+00:10:53,440 --> 00:10:55,399
+You made the right decision.
+
+74
+00:10:55,879 --> 00:10:58,679
+It has to be someone like Korn, to be able to handle it.
+
+75
+00:11:02,519 --> 00:11:05,000
+As to the position he was in,
+
+76
+00:11:05,320 --> 00:11:07,440
+I'll have Great take over.
+
+77
+00:11:07,919 --> 00:11:08,960
+Once he finishes the exam,
+
+78
+00:11:09,440 --> 00:11:11,279
+I'll have him start.
+
+79
+00:11:13,240 --> 00:11:16,279
+It'll depend if you'll have any issues bringing him.
+
+80
+00:11:16,960 --> 00:11:17,559
+Hm
+
+81
+00:11:18,080 --> 00:11:19,919
+He doesn't even like to come home.
+
+82
+00:11:43,200 --> 00:11:44,799
+Why the hell are you calling? I'm on my way.
+
+83
+00:11:45,679 --> 00:11:47,320
+I'm just calling to ask you something.
+
+84
+00:11:47,600 --> 00:11:48,879
+Do you have an extra calculator?
+
+85
+00:11:49,159 --> 00:11:50,200
+I forgot to bring mine.
+
+86
+00:11:51,360 --> 00:11:53,558
+What the hell! Of all the days to forget, you forget today?
+
+87
+00:11:53,559 --> 00:11:54,720
+Stop yelling at me.
+
+88
+00:11:55,440 --> 00:11:56,519
+I know you have two calculators.
+
+89
+00:11:57,320 --> 00:11:58,798
+I don't know if I brought my backup.
+
+90
+00:11:58,799 --> 00:11:59,600
+Let me look.
+
+91
+00:12:13,240 --> 00:12:14,080
+I didn't bring it.
+
+92
+00:12:14,679 --> 00:12:16,120
+Fuck
+
+93
+00:12:16,399 --> 00:12:17,639
+Who can I borrow from?
+
+94
+00:12:19,279 --> 00:12:20,840
+I don't know dumbass, I'm going to be late.
+
+95
+00:12:42,720 --> 00:12:43,679
+What now?
+
+96
+00:12:44,080 --> 00:12:45,360
+No one will let me borrow theirs.
+
+97
+00:12:45,919 --> 00:12:47,080
+Can you buy one for me?
+
+98
+00:12:47,200 --> 00:12:48,638
+Where am I supposed to buy one Tle?
+
+99
+00:12:48,639 --> 00:12:49,480
+I'm not going to make it on time.
+
+100
+00:12:50,759 --> 00:12:52,559
+Holy fuck!
+
+101
+00:12:55,159 --> 00:12:56,840
+Shit! What was that noise?
+
+102
+00:12:57,399 --> 00:12:58,320
+Car accident?
+
+103
+00:12:59,039 --> 00:12:59,639
+Great?
+
+104
+00:13:01,080 --> 00:13:01,960
+Hello? Great?
+
+105
+00:13:02,639 --> 00:13:03,600
+Hey, hello??
+
+106
+00:13:04,320 --> 00:13:05,000
+Hello?
+
+107
+00:14:02,759 --> 00:14:04,119
+What did you say Great?
+
+108
+00:14:04,120 --> 00:14:05,440
+So you have an extra calculator or what?
+
+109
+00:14:06,240 --> 00:14:08,119
+Hello? Do you hear me?
+
+110
+00:14:08,120 --> 00:14:08,960
+Hello?
+
+111
+00:14:09,320 --> 00:14:10,159
+Hello Great?
+
+112
+00:15:43,919 --> 00:15:44,600
+Hey
+
+113
+00:15:44,600 --> 00:15:45,600
+Hey ma'am.
+
+114
+00:15:46,320 --> 00:15:47,519
+Are you okay?
+
+115
+00:15:49,200 --> 00:15:50,798
+I'll call an ambulance for you.
+
+116
+00:15:50,799 --> 00:15:51,720
+Don't.
+
+117
+00:15:53,039 --> 00:15:55,120
+Leave... leave me here.
+
+118
+00:15:56,240 --> 00:15:57,600
+How can I leave you here?
+
+119
+00:15:59,440 --> 00:16:00,159
+Hello?
+
+120
+00:16:01,200 --> 00:16:02,879
+I'd like to report a car accident where someone got hit.
+
+121
+00:16:34,559 --> 00:16:35,240
+Hello
+
+122
+00:16:35,759 --> 00:16:37,360
+Were you the driver?
+
+123
+00:16:43,240 --> 00:16:44,360
+Peek-a-boo, Bee!
+
+124
+00:16:44,720 --> 00:16:46,000
+Oh! Dr. Den!
+
+125
+00:16:46,519 --> 00:16:47,759
+You scared me.
+
+126
+00:16:48,240 --> 00:16:49,200
+Yes?
+
+127
+00:16:49,201 --> 00:16:50,919
+How can I help you?
+
+128
+00:16:51,600 --> 00:16:52,480
+I'm free.
+
+129
+00:16:53,000 --> 00:16:54,038
+So I thought I'd come here and gossip.
+
+130
+00:16:54,039 --> 00:16:54,960
+Dr. Den!
+
+131
+00:16:55,679 --> 00:16:58,119
+Never say...(free)...
+
+132
+00:16:58,120 --> 00:16:59,600
+in my ER.
+
+133
+00:17:00,200 --> 00:17:02,878
+It's a forbidden word. It'll jinx our shift.
+
+134
+00:17:02,879 --> 00:17:03,759
+Whoa Bee.
+
+135
+00:17:04,200 --> 00:17:06,400
+I think we should stop being so superstitious.
+
+136
+00:17:06,599 --> 00:17:08,720
+This kind of thing isn't about science at all.
+
+137
+00:17:09,279 --> 00:17:11,399
+Like what's an auspicious shirt color,
+
+138
+00:17:11,400 --> 00:17:13,279
+or not eating fried chicken in the ward.
+
+139
+00:17:13,680 --> 00:17:14,440
+It makes life...
+
+140
+00:17:14,839 --> 00:17:15,720
+so difficult.
+
+141
+00:17:16,720 --> 00:17:17,599
+Doctor Den.
+
+142
+00:17:18,039 --> 00:17:20,519
+Don't disrespect it even if you don't believe it.
+
+143
+00:17:25,839 --> 00:17:26,759
+There you go.
+
+144
+00:17:30,400 --> 00:17:31,079
+What case?
+
+145
+00:17:31,080 --> 00:17:32,239
+Accident.
+
+146
+00:17:32,240 --> 00:17:33,039
+Go
+
+147
+00:17:43,279 --> 00:17:44,679
+Hello Doctor Tyme, my dear friend.
+
+148
+00:17:44,680 --> 00:17:45,879
+Did you bother Bee again?
+
+149
+00:17:45,880 --> 00:17:48,319
+Well, Isn't fem-med doctor suppose to be everywhere?
+
+150
+00:17:48,799 --> 00:17:50,598
+It's so messed up when I was at the ER shift.
+
+151
+00:17:50,599 --> 00:17:51,480
+What's the case?
+
+152
+00:17:52,240 --> 00:17:53,879
+Patient is female 53 years old.
+
+153
+00:17:53,880 --> 00:17:56,119
+Got hit by a car 15 minutes ago.
+
+154
+00:17:56,279 --> 00:17:57,720
+Nothing significant found in the primary survey.
+
+155
+00:17:57,880 --> 00:17:59,799
+Abdominal tenderness with generalized guarding.
+
+156
+00:17:59,880 --> 00:18:01,480
+Ultrasound revealed intra-abdominal bleeding.
+
+157
+00:18:02,039 --> 00:18:02,839
+I think we need to...
+
+158
+00:18:03,920 --> 00:18:04,720
+huh?
+
+159
+00:18:14,880 --> 00:18:15,960
+Get the ultrasound machine.
+
+160
+00:18:16,160 --> 00:18:17,079
+Huh?
+
+161
+00:18:17,079 --> 00:18:18,039
+I told you I...
+
+162
+00:18:19,240 --> 00:18:20,079
+Get it.
+
+163
+00:18:23,000 --> 00:18:23,680
+Here
+
+164
+00:18:25,359 --> 00:18:27,039
+Take it.
+
+165
+00:18:27,680 --> 00:18:28,200
+Take this.
+
+166
+00:18:28,200 --> 00:18:28,960
+Okay
+
+167
+00:18:53,680 --> 00:18:55,758
+Probably need to set up the OR Emergency.
+
+168
+00:18:55,759 --> 00:18:57,359
+Let me call Dr. Komson first.
+
+169
+00:18:59,400 --> 00:19:00,720
+Doctor
+
+170
+00:19:01,559 --> 00:19:04,240
+I don't have money to pay for treatment.
+
+171
+00:19:04,920 --> 00:19:06,240
+You need emergency surgery.
+
+172
+00:19:07,039 --> 00:19:08,680
+I can use emergency benefits.
+
+173
+00:19:10,880 --> 00:19:12,079
+Actually
+
+174
+00:19:12,640 --> 00:19:14,680
+I intentionally...
+
+175
+00:19:15,200 --> 00:19:17,599
+walked in front of the car.
+
+176
+00:19:22,039 --> 00:19:23,279
+Why did you do that?
+
+177
+00:19:25,880 --> 00:19:28,200
+I don't want to live anymore.
+
+178
+00:19:31,279 --> 00:19:33,558
+You have intra-abdominal bleeding.
+
+179
+00:19:33,559 --> 00:19:36,119
+If we don't operate now, it might get worse.
+
+180
+00:19:36,880 --> 00:19:38,400
+That's fine.
+
+181
+00:19:38,920 --> 00:19:40,960
+I want to die anyway.
+
+182
+00:19:43,400 --> 00:19:45,079
+You can die wherever you want...
+
+183
+00:19:46,039 --> 00:19:47,799
+but not here.
+
+184
+00:19:51,200 --> 00:19:52,799
+Do you understand?
+
+185
+00:19:55,200 --> 00:19:56,720
+Mrs. Manee, do you have any relatives?
+
+186
+00:20:04,079 --> 00:20:05,240
+Yes
+
+187
+00:20:06,039 --> 00:20:07,200
+Yes
+
+188
+00:20:08,000 --> 00:20:09,880
+I have one son
+
+189
+00:20:11,240 --> 00:20:12,000
+But...
+
+190
+00:20:12,759 --> 00:20:15,400
+he doesn't live with me anymore.
+
+191
+00:20:18,039 --> 00:20:21,720
+I understand your problem is probably quite serious.
+
+192
+00:20:22,079 --> 00:20:24,799
+But if your son found out you refused any help.
+
+193
+00:20:25,319 --> 00:20:26,880
+He would probably be very sad.
+
+194
+00:20:30,519 --> 00:20:32,359
+Give us an opportunity to help you.
+
+195
+00:20:34,359 --> 00:20:35,839
+Let's try to overcome this together.
+
+196
+00:20:58,240 --> 00:20:59,039
+Doctor
+
+197
+00:20:59,240 --> 00:21:01,240
+There's a case from the ER. Please prepare the OR now.
+
+198
+00:21:20,559 --> 00:21:22,240
+Today I'm going to let you operate.
+
+199
+00:21:23,160 --> 00:21:23,880
+Are you ready?
+
+200
+00:21:25,279 --> 00:21:26,240
+Ready
+
+201
+00:21:34,880 --> 00:21:35,720
+Scalpel
+
+202
+00:21:51,240 --> 00:21:52,039
+Clamps
+
+203
+00:22:05,799 --> 00:22:07,240
+You've really improved, Tyme.
+
+204
+00:22:08,559 --> 00:22:09,599
+Thank you.
+
+205
+00:22:10,559 --> 00:22:11,640
+You can suture.
+
+206
+00:22:48,880 --> 00:22:50,719
+The next patient isn't here yet.
+
+207
+00:22:50,720 --> 00:22:51,960
+Go eat first.
+
+208
+00:22:54,559 --> 00:22:57,200
+Let me go finish writing off-note first doctor.
+
+209
+00:22:58,279 --> 00:22:59,999
+Oh, by the way.
+
+210
+00:23:00,000 --> 00:23:01,358
+Do you have any plans -
+
+211
+00:23:01,359 --> 00:23:02,838
+after your surgical training,
+
+212
+00:23:02,839 --> 00:23:04,119
+where you're going to work?
+
+213
+00:23:05,240 --> 00:23:06,200
+Not yet.
+
+214
+00:23:07,279 --> 00:23:09,200
+Would you be interested in becoming
+a medical instructor here?
+
+215
+00:23:11,400 --> 00:23:12,838
+I think after I finish training,
+
+216
+00:23:12,839 --> 00:23:14,880
+I'm going to work at a private hospital.
+
+217
+00:23:16,160 --> 00:23:17,119
+Being a medical instructor here,
+
+218
+00:23:17,120 --> 00:23:19,839
+doesn't prohibit you from also
+working at a private hospital.
+
+219
+00:23:21,039 --> 00:23:22,400
+Many doctors do that.
+
+220
+00:23:25,359 --> 00:23:27,118
+Thank you for asking me.
+
+221
+00:23:27,119 --> 00:23:29,279
+But I probably won't change my mind.
+
+222
+00:23:32,079 --> 00:23:33,119
+Excuse me.
+
+223
+00:23:43,319 --> 00:23:44,559
+Hello doctor.
+
+224
+00:23:50,200 --> 00:23:51,960
+Hey, Tyme!
+
+225
+00:23:52,599 --> 00:23:53,599
+You just came out of the OR?
+
+226
+00:23:53,960 --> 00:23:54,599
+Uh huh.
+
+227
+00:23:55,359 --> 00:23:57,799
+And Manee? How is she?
+
+228
+00:23:59,440 --> 00:24:00,319
+Who?
+
+229
+00:24:01,160 --> 00:24:04,599
+The woman who got hit and didn't want your help.
+
+230
+00:24:05,359 --> 00:24:06,880
+Aren't we on the same case?
+
+231
+00:24:07,759 --> 00:24:09,359
+The surgery is done. Went well.
+
+232
+00:24:10,000 --> 00:24:12,839
+You should try to remember your patients' names, Tyme.
+
+233
+00:24:13,200 --> 00:24:14,000
+Hm
+
+234
+00:24:15,279 --> 00:24:16,599
+What are you carrying?
+
+235
+00:24:17,400 --> 00:24:18,599
+My secret research.
+
+236
+00:24:20,400 --> 00:24:22,880
+I've never told anyone outside the department before.
+
+237
+00:24:24,519 --> 00:24:25,799
+But I'm telling you first.
+
+238
+00:24:26,559 --> 00:24:27,480
+Really?
+
+239
+00:24:28,119 --> 00:24:29,759
+Oh, what is it?
+
+240
+00:24:31,960 --> 00:24:32,880
+What the hell are you doing?
+
+241
+00:24:34,640 --> 00:24:35,319
+I -
+
+242
+00:24:35,720 --> 00:24:36,279
+kept -
+
+243
+00:24:36,559 --> 00:24:38,358
+information on patient experiences -
+
+244
+00:24:38,359 --> 00:24:40,599
+that had a cardiac arrest before.
+
+245
+00:24:41,240 --> 00:24:42,039
+Cool right?
+
+246
+00:24:44,440 --> 00:24:45,599
+That's interesting.
+
+247
+00:24:46,519 --> 00:24:47,680
+Of course it is.
+
+248
+00:24:48,319 --> 00:24:51,200
+I'll use a larger sample size than in past research.
+
+249
+00:24:51,720 --> 00:24:52,680
+I guarantee.
+
+250
+00:24:53,319 --> 00:24:54,319
+My research.
+
+251
+00:24:54,320 --> 00:24:56,319
+Will definitely be published internationally.
+
+252
+00:24:58,960 --> 00:25:00,119
+Wicked right?
+
+253
+00:25:02,319 --> 00:25:03,119
+What?
+
+254
+00:25:04,440 --> 00:25:06,400
+I'll leave you alone. Got your hands full with the girlfriend.
+
+255
+00:25:07,079 --> 00:25:07,960
+Later buddy.
+
+256
+00:25:15,960 --> 00:25:16,680
+Hello
+
+257
+00:26:11,680 --> 00:26:12,960
+Hello Mr. Korn.
+
+258
+00:26:16,400 --> 00:26:17,400
+You are...
+
+259
+00:26:18,039 --> 00:26:19,039
+Sa-Marn?
+
+260
+00:26:19,359 --> 00:26:20,160
+Yes sir.
+
+261
+00:26:20,880 --> 00:26:22,200
+Come with way please.
+
+262
+00:26:39,839 --> 00:26:40,799
+Locked from the outside?
+
+263
+00:26:41,319 --> 00:26:42,079
+Yes sir.
+
+264
+00:26:42,640 --> 00:26:43,680
+You don't have to worry Mr. Korn.
+
+265
+00:26:44,599 --> 00:26:46,519
+I made a spare key for you.
+
+266
+00:27:18,400 --> 00:27:19,200
+Here
+
+267
+00:27:19,559 --> 00:27:20,359
+Sir
+
+268
+00:27:34,039 --> 00:27:34,799
+This is it?
+
+269
+00:27:35,640 --> 00:27:37,359
+That my father said is the backbone of the company?
+
+270
+00:27:38,200 --> 00:27:38,920
+Yes sir.
+
+271
+00:27:39,519 --> 00:27:41,839
+This is where we can make millions in minutes.
+
+272
+00:27:43,000 --> 00:27:44,239
+From where?
+
+273
+00:27:44,240 --> 00:27:47,038
+Right here. Online gambling.
+
+274
+00:27:47,039 --> 00:27:48,839
+We have three casinos at the border.
+
+275
+00:27:49,400 --> 00:27:51,000
+I'm sure you'll get to visit.
+
+276
+00:27:54,200 --> 00:27:55,200
+This way.
+
+277
+00:28:02,559 --> 00:28:03,519
+Hey, you.
+
+278
+00:28:03,720 --> 00:28:04,839
+What's the total so far this month?
+
+279
+00:28:05,720 --> 00:28:06,640
+Almost there.
+
+280
+00:28:06,960 --> 00:28:08,039
+You better make it happen.
+
+281
+00:28:37,240 --> 00:28:38,240
+This way.
+
+282
+00:28:50,440 --> 00:28:52,400
+Here is our shareholder information.
+
+283
+00:28:52,799 --> 00:28:54,480
+And all of our earnings and expenses.
+
+284
+00:29:01,079 --> 00:29:03,119
+You should find time to take a look at them.
+
+285
+00:29:12,119 --> 00:29:13,240
+Who let you in?
+
+286
+00:29:14,480 --> 00:29:15,400
+Sorry
+
+287
+00:29:15,759 --> 00:29:16,640
+Get out!
+
+288
+00:29:27,880 --> 00:29:28,919
+Yes
+
+289
+00:29:28,920 --> 00:29:30,079
+Yes I can.
+
+290
+00:29:31,119 --> 00:29:32,279
+I'll fix it and get it back to you right away.
+
+291
+00:29:34,559 --> 00:29:36,039
+When do you need it?
+
+292
+00:29:38,640 --> 00:29:40,039
+By tomorrow?
+
+293
+00:29:42,759 --> 00:29:44,078
+Okay
+
+294
+00:29:44,079 --> 00:29:46,319
+Alright, sir. Goodbye.
+
+295
+00:30:03,599 --> 00:30:04,599
+Korn
+
+296
+00:30:10,759 --> 00:30:11,880
+You didn't tell me you were coming.
+
+297
+00:30:12,359 --> 00:30:13,759
+I miss you.
+
+298
+00:30:17,599 --> 00:30:18,720
+I'm all wet.
+
+299
+00:30:41,559 --> 00:30:42,400
+Some water.
+
+300
+00:30:42,680 --> 00:30:43,720
+I'm...
+
+301
+00:30:44,200 --> 00:30:45,359
+going to get back to work.
+
+302
+00:30:53,440 --> 00:30:54,799
+You don't have to work.
+
+303
+00:30:55,920 --> 00:30:57,599
+Is the money I gave you not enough?
+
+304
+00:30:59,000 --> 00:31:01,160
+It's not like that.
+
+305
+00:31:01,920 --> 00:31:03,440
+I have to work too.
+
+306
+00:31:15,440 --> 00:31:16,440
+Why so stressed?
+
+307
+00:31:17,759 --> 00:31:19,319
+You look so grumpy.
+
+308
+00:31:19,720 --> 00:31:20,720
+Hm?
+
+309
+00:31:27,920 --> 00:31:30,519
+My dad asked me to take over
+an important part of the company.
+
+310
+00:31:32,279 --> 00:31:34,640
+But it's a department that I didn't even know existed.
+
+311
+00:31:36,960 --> 00:31:38,799
+So I felt a little bad.
+
+312
+00:31:39,559 --> 00:31:41,680
+Because it's like I don't know anything about the company.
+
+313
+00:31:42,960 --> 00:31:44,239
+But I'm glad.
+
+314
+00:31:44,240 --> 00:31:45,559
+That my dad trusts me.
+
+315
+00:31:46,279 --> 00:31:47,680
+So I want to make sure it goes well.
+
+316
+00:31:50,400 --> 00:31:51,359
+But it's very challening.
+
+317
+00:31:51,920 --> 00:31:53,400
+And... risky.
+
+318
+00:31:57,079 --> 00:31:58,279
+This job...
+
+319
+00:31:58,640 --> 00:31:59,839
+What kind of job?
+
+320
+00:32:02,519 --> 00:32:03,519
+Hm
+
+321
+00:32:13,000 --> 00:32:13,960
+It'll be alright, Korn.
+
+322
+00:32:14,519 --> 00:32:15,680
+When you start something new.
+
+323
+00:32:16,000 --> 00:32:17,319
+It'll always be challenging.
+
+324
+00:32:18,240 --> 00:32:19,440
+Just stay strong and keep going.
+
+325
+00:32:20,039 --> 00:32:20,960
+You'll get good at it.
+
+326
+00:32:22,000 --> 00:32:23,920
+When you get good at it, It'll be easy.
+
+327
+00:32:25,079 --> 00:32:26,440
+Right? Ha.
+
+328
+00:32:31,799 --> 00:32:33,079
+You're so good, Ton Kla.
+
+329
+00:32:34,359 --> 00:32:36,759
+Hearing you talk always makes me feel better.
+
+330
+00:32:45,359 --> 00:32:46,640
+I'm not only good at talking.
+
+331
+00:33:48,440 --> 00:33:49,720
+Can you fuck me raw?
+
+332
+00:33:49,839 --> 00:33:51,119
+I really want to feel it.
+
+333
+00:34:15,000 --> 00:34:16,079
+Does it hurt?
+
+334
+00:34:17,599 --> 00:34:19,480
+It's fine. Keep going.
+
+335
+00:35:11,880 --> 00:35:12,880
+Did you finish?
+
+336
+00:35:14,679 --> 00:35:15,800
+I'll help you.
+
+337
+00:35:16,599 --> 00:35:17,960
+It's okay.
+
+338
+00:35:18,679 --> 00:35:21,719
+I can't be the only one who finishes.
+
+339
+00:35:27,199 --> 00:35:28,039
+Fuck.
+
+340
+00:35:30,519 --> 00:35:31,320
+I'm close.
+
+341
+00:35:31,320 --> 00:35:32,119
+I'm close!
+
+342
+00:36:03,920 --> 00:36:04,920
+Thank you.
+
+343
+00:37:06,679 --> 00:37:07,880
+Another round?
+
+344
+00:37:26,559 --> 00:37:27,599
+Hello
+
+345
+00:37:30,360 --> 00:37:31,239
+Yes
+
+346
+00:37:32,199 --> 00:37:32,960
+I'm sorry sir.
+
+347
+00:37:34,599 --> 00:37:35,840
+I'm with Fasai.
+
+348
+00:37:38,559 --> 00:37:39,760
+Oh, yes dad.
+
+349
+00:37:41,400 --> 00:37:43,519
+Tonight Fasai is having dinner with uncle Warit.
+
+350
+00:37:48,559 --> 00:37:49,440
+Yes sir. I'll leave now.
+
+351
+00:37:49,679 --> 00:37:50,760
+I'll leave now.
+
+352
+00:37:51,880 --> 00:37:52,679
+Yes sir.
+
+353
+00:37:54,880 --> 00:37:55,840
+I'm sorry.
+
+354
+00:37:56,440 --> 00:37:57,639
+My dad wants me to go home now.
+
+355
+00:37:58,320 --> 00:37:59,280
+For dinner.
+
+356
+00:38:01,480 --> 00:38:02,559
+It's alright.
+
+357
+00:38:03,400 --> 00:38:04,440
+You go ahead.
+
+358
+00:38:06,800 --> 00:38:07,920
+I'll see you next time.
+
+359
+00:39:43,440 --> 00:39:45,119
+I cleared it with the police.
+
+360
+00:39:46,440 --> 00:39:48,199
+Luckily she didn't die.
+
+361
+00:39:49,840 --> 00:39:52,719
+When will you stop screwing up
+and force me to clean up your mess.
+
+362
+00:39:59,480 --> 00:40:00,480
+Great
+
+363
+00:40:01,400 --> 00:40:02,400
+Huh?
+
+364
+00:40:04,320 --> 00:40:06,239
+It was just an accident.
+
+365
+00:40:06,559 --> 00:40:09,719
+We're lucky Great isn't hurt.
+
+366
+00:40:12,440 --> 00:40:16,519
+Tomorrow I'm going to order flowers
+and have you bring them to her.
+
+367
+00:40:16,880 --> 00:40:19,760
+And don't forget to take a picture.
+
+368
+00:40:20,559 --> 00:40:22,239
+I don't think we need to take a picture.
+
+369
+00:40:22,480 --> 00:40:23,480
+No.
+
+370
+00:40:23,960 --> 00:40:25,559
+Take a picture for evidence.
+
+371
+00:40:26,199 --> 00:40:28,840
+So other people can't say we're not taking
+any responsibility.
+
+372
+00:40:37,039 --> 00:40:38,239
+Bon Appetit.
+
+373
+00:41:09,960 --> 00:41:10,960
+Drop me here.
+
+374
+00:41:10,961 --> 00:41:12,198
+I can walk to the building myself.
+
+375
+00:41:12,199 --> 00:41:13,159
+Are you sure?
+
+376
+00:41:13,160 --> 00:41:14,598
+Yes. See you later.
+
+377
+00:41:14,599 --> 00:41:15,400
+Okay.
+
+378
+00:41:22,599 --> 00:41:24,000
+How can it be 11 o'clock already?
+
+379
+00:41:26,199 --> 00:41:27,199
+Wait
+
+380
+00:41:32,480 --> 00:41:33,119
+Huh?
+
+381
+00:41:33,719 --> 00:41:34,519
+I'm sorry.
+
+382
+00:41:35,000 --> 00:41:35,800
+It's nothing.
+
+383
+00:42:12,079 --> 00:42:13,480
+How many times have I told you to stop.
+
+384
+00:42:14,400 --> 00:42:15,800
+I don't like it.
+
+385
+00:42:18,000 --> 00:42:19,360
+I'm not smoking it in your face.
+
+386
+00:42:19,960 --> 00:42:21,760
+I know. But you know it's not good for you.
+
+387
+00:42:22,159 --> 00:42:23,000
+It's a bad habit.
+
+388
+00:42:32,199 --> 00:42:32,840
+Are you okay?
+
+389
+00:42:36,079 --> 00:42:37,760
+The clock on my phone was acting strange.
+
+390
+00:42:40,079 --> 00:42:41,119
+But it's fine now.
+
+391
+00:42:41,960 --> 00:42:42,679
+So many times today.
+
+392
+00:42:47,280 --> 00:42:48,119
+Looks fine to me.
+
+393
+00:42:53,280 --> 00:42:55,159
+Why is everything so weird today.
+
+394
+00:42:56,639 --> 00:42:57,840
+When I crashed my car,
+
+395
+00:42:58,639 --> 00:43:01,079
+I saw the future that I was going to hit someone.
+
+396
+00:43:01,599 --> 00:43:04,039
+The clock I saw looked all strange and distorted.
+
+397
+00:43:06,599 --> 00:43:08,440
+What do you mean you saw the future?
+
+398
+00:43:10,480 --> 00:43:11,400
+I...
+
+399
+00:43:11,960 --> 00:43:14,480
+saw a vision that I was going to hit someone.
+
+400
+00:43:18,119 --> 00:43:18,880
+Are you on drugs?
+
+401
+00:43:19,239 --> 00:43:20,519
+No!
+
+402
+00:43:24,840 --> 00:43:25,639
+Nevermind.
+
+403
+00:43:25,639 --> 00:43:26,480
+I think...
+
+404
+00:43:26,920 --> 00:43:28,039
+you should get some rest.
+
+405
+00:43:28,800 --> 00:43:30,000
+Maybe you're not getting enough sleep.
+
+406
+00:43:31,320 --> 00:43:32,079
+And...
+
+407
+00:43:32,519 --> 00:43:33,679
+stop drinking for a bit.
+
+408
+00:43:34,840 --> 00:43:36,320
+Then let's see how you feel.
+
+409
+00:43:37,360 --> 00:43:39,119
+Are you trying to say I'm hallucinating?
+
+410
+00:43:39,800 --> 00:43:40,960
+Not like that.
+
+411
+00:43:41,960 --> 00:43:43,039
+Maybe you're stressed.
+
+412
+00:43:43,320 --> 00:43:44,400
+Not enough sleep.
+
+413
+00:43:52,679 --> 00:43:53,639
+I'm sorry.
+
+414
+00:43:55,800 --> 00:43:57,400
+That I haven't had enough time for you lately.
+
+415
+00:43:59,840 --> 00:44:01,239
+But I'm worried about you.
+
+416
+00:44:03,079 --> 00:44:04,480
+Just one more year left of school.
+
+417
+00:44:05,519 --> 00:44:08,039
+I want you to take life a bit more seriously.
+
+418
+00:44:09,760 --> 00:44:10,599
+What's so funny?
+
+419
+00:44:10,760 --> 00:44:12,840
+You're sounding more like dad everyday.
+
+420
+00:44:13,719 --> 00:44:14,480
+No I'm not.
+
+421
+00:44:15,159 --> 00:44:16,679
+It is more than enough to have one person like father.
+
+422
+00:44:18,320 --> 00:44:19,239
+And one mother too.
+
+423
+00:44:19,880 --> 00:44:20,800
+True.
+
+424
+00:44:29,880 --> 00:44:31,559
+Do you miss your mom?
+
+425
+00:44:35,199 --> 00:44:36,159
+I do.
+
+426
+00:44:37,519 --> 00:44:38,760
+But it was a long time ago.
+
+427
+00:44:42,000 --> 00:44:42,880
+I see.
+
+428
+00:44:43,440 --> 00:44:44,679
+Because you're old now.
+
+429
+00:44:46,880 --> 00:44:48,119
+Who's old?
+
+430
+00:44:48,400 --> 00:44:50,199
+We're only a few years apart.
+
+431
+00:44:52,639 --> 00:44:53,759
+Hey hey.
+
+432
+00:44:53,760 --> 00:44:55,760
+Well, I didn't finish the other cigarette.
+
+433
+00:44:56,039 --> 00:44:56,880
+Just one puff.
+
+434
+00:44:56,881 --> 00:44:58,280
+Unbelievable! Right in front of me.
+
+435
+00:45:01,559 --> 00:45:02,239
+Give it to me.
+
+436
+00:45:02,559 --> 00:45:03,599
+Okay okay.
+
+437
+00:45:39,679 --> 00:45:40,800
+Grandma!
+
+438
+00:45:42,760 --> 00:45:43,879
+Tyme!
+
+439
+00:45:43,880 --> 00:45:46,598
+Don't sneak up on me like that.
+I almost had a heart attack.
+
+440
+00:45:46,599 --> 00:45:48,639
+Oh grandma don't have one yet.
+
+441
+00:45:48,880 --> 00:45:49,800
+Of course
+
+442
+00:45:50,360 --> 00:45:51,960
+Now that you're here...
+
+443
+00:45:52,199 --> 00:45:53,000
+let's crochet.
+
+444
+00:45:53,719 --> 00:45:54,440
+Coachella?
+
+445
+00:45:54,441 --> 00:45:55,678
+No wait.
+
+446
+00:45:55,679 --> 00:45:56,360
+Knitting
+
+447
+00:45:56,519 --> 00:45:56,760
+Knitting
+
+448
+00:45:56,761 --> 00:45:57,840
+- Knitting
+- Coachella what?
+
+449
+00:46:04,159 --> 00:46:05,679
+It's ready.
+
+450
+00:46:18,360 --> 00:46:20,280
+Did you take your diabetes medication yet?
+
+451
+00:46:20,639 --> 00:46:22,760
+Oh I forgot. I haven't yet.
+
+452
+00:46:23,679 --> 00:46:25,079
+Don't forget grandma.
+
+453
+00:46:25,760 --> 00:46:27,719
+Your blood sugar has been high lately.
+
+454
+00:46:28,000 --> 00:46:30,119
+The diabetic ulcer on your foot still hasn't healed.
+
+455
+00:46:30,519 --> 00:46:32,078
+You'll have your foot cut off.
+
+456
+00:46:32,079 --> 00:46:33,440
+That's fine by me.
+
+457
+00:46:33,880 --> 00:46:34,960
+I'm overweight anyway.
+
+458
+00:46:37,559 --> 00:46:40,320
+I'm going to book an operating room for you. So stubborn.
+
+459
+00:46:40,760 --> 00:46:42,280
+You like to taste the desserts.
+
+460
+00:46:42,760 --> 00:46:43,480
+Well,
+
+461
+00:46:44,039 --> 00:46:46,359
+I make desserts. I have to taste them.
+
+462
+00:46:46,360 --> 00:46:48,480
+If I don't and they don't taste good
+I won't have any customers.
+
+463
+00:46:48,639 --> 00:46:50,960
+It'll ruin my reputation.
+
+464
+00:46:52,199 --> 00:46:52,800
+Hm
+
+465
+00:46:53,280 --> 00:46:55,320
+Right? You like them too?
+
+466
+00:46:55,639 --> 00:46:56,320
+Uh huh
+
+467
+00:46:59,159 --> 00:47:00,239
+Just wait a little longer grandma.
+
+468
+00:47:01,039 --> 00:47:03,079
+I'm about to become a surgeon.
+
+469
+00:47:03,880 --> 00:47:07,599
+I'll become a rich doctor and
+work shifts to earn a lot of money.
+
+470
+00:47:08,119 --> 00:47:10,480
+And make our lives better.
+
+471
+00:47:13,159 --> 00:47:15,199
+I want you to be happy.
+
+472
+00:47:17,079 --> 00:47:18,079
+Like before...
+
+473
+00:47:18,719 --> 00:47:19,880
+Don't complain.
+
+474
+00:47:20,159 --> 00:47:21,199
+I won't listen.
+
+475
+00:47:22,440 --> 00:47:24,320
+It'll raise your blood pressure.
+
+476
+00:47:24,480 --> 00:47:25,440
+Hm
+
+477
+00:47:25,920 --> 00:47:26,920
+Hard
+
+478
+00:47:27,480 --> 00:47:28,159
+Let's eat.
+
+479
+00:47:28,160 --> 00:47:29,719
+Not eating grandma's food? Not tasty?
+
+480
+00:47:29,840 --> 00:47:30,880
+When did I say that?
+
+481
+00:48:43,440 --> 00:48:46,000
+At the time, I didn't feel anything.
+
+482
+00:48:46,840 --> 00:48:48,639
+Everything was black.
+
+483
+00:48:49,119 --> 00:48:51,199
+I didn't see or hear anything.
+
+484
+00:48:52,159 --> 00:48:54,840
+The next thing I knew, I woke up in the ICU.
+
+485
+00:48:55,559 --> 00:48:57,440
+I was intubated already.
+
+486
+00:49:00,599 --> 00:49:03,159
+I saw a bright light from above.
+
+487
+00:49:03,800 --> 00:49:06,480
+Heard medical instruments around me.
+
+488
+00:49:07,360 --> 00:49:09,759
+And then I felt like I -
+
+489
+00:49:09,760 --> 00:49:11,360
+floated to the ceiling.
+
+490
+00:49:13,480 --> 00:49:14,920
+When I looked back down.
+
+491
+00:49:15,079 --> 00:49:17,000
+I saw myself on the operating table.
+
+492
+00:49:33,360 --> 00:49:36,879
+I felt like I fell into a temple or a market.
+
+493
+00:49:36,880 --> 00:49:38,639
+But the people there -
+
+494
+00:49:38,840 --> 00:49:40,920
+were all wearing white.
+
+495
+00:49:43,400 --> 00:49:46,280
+The white outfit wasn't a nurse's uniform?
+
+496
+00:49:46,719 --> 00:49:48,399
+No
+
+497
+00:49:48,400 --> 00:49:50,719
+They were like Brahmin nuns.
+
+498
+00:49:51,400 --> 00:49:54,480
+And you practice religion regularly, Mrs. Nuan?
+
+499
+00:49:55,480 --> 00:49:57,079
+Yes doctor.
+
+500
+00:50:05,440 --> 00:50:08,280
+The elevator door is closing.
+
+501
+00:50:10,800 --> 00:50:13,360
+The elevator door is closing.
+
+502
+00:50:18,679 --> 00:50:20,039
+Why didn't anything happen to me?
+
+503
+00:50:30,840 --> 00:50:32,280
+Excuse me,
+
+504
+00:50:32,760 --> 00:50:34,959
+What room is Manee Temalai in?
+
+505
+00:50:34,960 --> 00:50:36,199
+One moment.
+
+506
+00:50:40,119 --> 00:50:41,880
+Mrs. Manee is in room four.
+
+507
+00:50:42,400 --> 00:50:43,239
+Thank you.
+
+508
+00:51:16,840 --> 00:51:17,559
+Um...
+
+509
+00:51:18,199 --> 00:51:19,119
+hello ma'am.
+
+510
+00:51:20,760 --> 00:51:22,159
+Hello
+
+511
+00:51:25,159 --> 00:51:26,639
+I brought flowers.
+
+512
+00:51:27,599 --> 00:51:28,960
+I'll put them here.
+
+513
+00:51:39,880 --> 00:51:41,159
+Just a moment, please.
+
+514
+00:51:48,840 --> 00:51:49,440
+Sweetie
+
+515
+00:51:50,280 --> 00:51:52,159
+How old are you?
+
+516
+00:51:56,079 --> 00:51:57,119
+21 ma'am.
+
+517
+00:51:58,400 --> 00:52:01,840
+You're about the same age as my son.
+
+518
+00:52:04,760 --> 00:52:05,360
+I see.
+
+519
+00:52:13,480 --> 00:52:15,599
+Young man with a bright future.
+
+520
+00:52:17,599 --> 00:52:20,039
+You shouldn't be worried.
+
+521
+00:52:20,800 --> 00:52:23,039
+Because of the problems I caused.
+
+522
+00:52:26,360 --> 00:52:27,159
+Sweetie
+
+523
+00:52:28,039 --> 00:52:29,800
+Don't worry.
+
+524
+00:52:31,480 --> 00:52:33,960
+I'll tell the police myself.
+
+525
+00:52:36,039 --> 00:52:37,440
+That I...
+
+526
+00:52:37,880 --> 00:52:40,400
+intentionally walked in front of the car.
+
+527
+00:53:07,400 --> 00:53:08,159
+Ow
+
+528
+00:53:12,119 --> 00:53:13,199
+Hey! Don't you know how to say sorry?
+
+529
+00:53:57,440 --> 00:53:59,400
+Mrs. Manee is in room four.
+
+530
+00:54:02,039 --> 00:54:03,039
+Sir?
+
+531
+00:54:03,920 --> 00:54:04,920
+Are you okay?
+
+532
+00:54:08,519 --> 00:54:10,400
+I'd like to leave these flowers for the patient in room 4.
+
+533
+00:54:10,599 --> 00:54:11,119
+Oh,
+
+534
+00:54:11,120 --> 00:54:12,999
+relatives can go in and visit the patient.
+
+535
+00:54:13,000 --> 00:54:13,840
+I shouldn't.
+
+536
+00:54:14,559 --> 00:54:15,679
+Please give them to her, thank you.
+
+537
+00:54:16,000 --> 00:54:17,199
+Sir... sir.
+
+538
+00:54:31,239 --> 00:54:33,159
+Ms. Arinya,
+
+539
+00:54:35,400 --> 00:54:36,199
+is that correct?
+
+540
+00:54:38,440 --> 00:54:39,880
+You can call me Lukwa
+
+541
+00:54:42,440 --> 00:54:44,199
+Okay, Ms. Lukwa
+
+542
+00:54:48,760 --> 00:54:51,279
+From your medical records,
+
+543
+00:54:51,280 --> 00:54:56,158
+your heart has stop beating due to severe
+myocarditis before, correct?
+
+544
+00:54:56,159 --> 00:54:57,159
+Yes
+
+545
+00:54:57,760 --> 00:55:01,118
+Can you remember how it felt when your...
+
+546
+00:55:01,119 --> 00:55:02,559
+heart stopped beating?
+
+547
+00:55:15,559 --> 00:55:17,800
+I didn't know what happened to me.
+
+548
+00:55:18,800 --> 00:55:22,119
+I just lived life normally.
+
+549
+00:55:22,559 --> 00:55:24,840
+But it was my life in the past.
+
+550
+00:55:25,840 --> 00:55:30,118
+Like events in the past were playing again in my mind.
+
+551
+00:55:30,119 --> 00:55:33,159
+- Are you feeling any pain?
+- Yes I am.
+
+552
+00:55:33,960 --> 00:55:34,880
+On my left.
+
+553
+00:55:39,599 --> 00:55:42,159
+That feeling...
+
+554
+00:55:43,239 --> 00:55:44,960
+did it feel real?
+
+555
+00:55:45,840 --> 00:55:46,920
+Very real.
+
+556
+00:55:48,079 --> 00:55:50,000
+But there was one thing that didn't feel real.
+
+557
+00:55:52,679 --> 00:55:54,960
+I could see four minutes into the future.
