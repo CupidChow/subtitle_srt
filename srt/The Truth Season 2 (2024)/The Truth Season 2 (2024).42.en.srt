@@ -1,0 +1,7707 @@
+1
+00:00:10,360 --> 00:00:13,040
+"Start Reasoning" Season 2 Game Rules
+
+2
+00:00:13,040 --> 00:00:14,200
+Six players per episode
+
+3
+00:00:14,200 --> 00:00:15,720
+Divided into four suspects
+
+4
+00:00:15,720 --> 00:00:18,480
+And two investigators solving the case
+
+5
+00:00:19,240 --> 00:00:21,200
+The real culprit is hidden among the suspects
+
+6
+00:00:21,200 --> 00:00:22,160
+The culprit's mission
+
+7
+00:00:22,160 --> 00:00:23,840
+Is to conceal their identity
+
+8
+00:00:23,840 --> 00:00:25,680
+Without being discovered by other players
+
+9
+00:00:26,320 --> 00:00:29,280
+Only the real culprit can lie
+
+10
+00:00:29,800 --> 00:00:31,000
+Notably,
+
+11
+00:00:31,000 --> 00:00:32,920
+This season introduces new gameplay
+
+12
+00:00:33,200 --> 00:00:34,600
+The player who is the culprit
+
+13
+00:00:34,600 --> 00:00:36,520
+If they pass a certain challenge
+
+14
+00:00:36,520 --> 00:00:38,520
+Can choose between the two investigators
+
+15
+00:00:38,520 --> 00:00:41,960
+To turn one into an "X"
+
+16
+00:00:41,960 --> 00:00:43,080
+X's mission is
+
+17
+00:00:43,080 --> 00:00:45,000
+During subsequent investigations
+
+18
+00:00:45,000 --> 00:00:47,840
+To help the culprit escape
+
+19
+00:00:48,520 --> 00:00:49,880
+Winning conditions:
+
+20
+00:00:50,360 --> 00:00:51,400
+After investigation concludes
+
+21
+00:00:51,400 --> 00:00:53,400
+Players vote for the culprit
+
+22
+00:00:53,400 --> 00:00:54,760
+If the culprit receives
+
+23
+00:00:54,760 --> 00:00:56,400
+Fewer votes than other suspects
+
+24
+00:00:56,400 --> 00:00:59,240
+Then culprit and X get golden keys
+
+25
+00:00:59,240 --> 00:01:01,440
+Otherwise, correct voters
+
+26
+00:01:01,440 --> 00:01:02,800
+Receive golden keys
+
+27
+00:01:05,320 --> 00:01:06,520
+This season,
+
+28
+00:01:06,520 --> 00:01:08,240
+The "Helimoyu Reasoning Team"
+
+29
+00:01:08,240 --> 00:01:10,840
+Will time-travel through four eras of Tui Town
+
+30
+00:01:10,840 --> 00:01:12,120
+In the past seven weeks
+
+31
+00:01:12,120 --> 00:01:15,240
+Three stories from different eras concluded
+
+32
+00:01:15,240 --> 00:01:16,120
+Next,
+
+33
+00:01:16,120 --> 00:01:17,920
+We'll follow the players
+
+34
+00:01:17,920 --> 00:01:20,440
+To Tui Town's future era
+
+35
+00:01:28,560 --> 00:01:29,520
+The year 2048
+
+36
+00:01:31,240 --> 00:01:32,200
+Technology has advanced
+
+37
+00:01:33,800 --> 00:01:36,600
+In this era where humanity and AI coexist
+
+38
+00:01:36,600 --> 00:01:38,560
+People borrowed the ancient Greek language
+
+39
+00:01:39,000 --> 00:01:39,720
+and named it
+
+40
+00:01:40,680 --> 00:01:41,840
+the Cyber Era
+
+41
+00:01:46,240 --> 00:01:47,680
+The hallmark of the Cyber Era
+
+42
+00:01:48,120 --> 00:01:49,360
+"Intelligent robots"
+
+43
+00:01:49,360 --> 00:01:51,440
+Just like "smartphones" in the past
+
+44
+00:01:51,720 --> 00:01:52,960
+were just beginning to spread
+
+45
+00:01:53,640 --> 00:01:55,520
+Meanwhile, the organization with the most advanced technology
+
+46
+00:01:55,520 --> 00:01:57,480
+the "Intelligent Robotics Research Center"
+
+47
+00:01:57,480 --> 00:01:59,520
+operated by CyberTech Corporation
+
+48
+00:01:59,720 --> 00:02:02,840
+was hosting a grand robotics exhibition
+
+49
+00:02:22,400 --> 00:02:24,400
+The curator of the exhibition hall is AI Tui.
+
+50
+00:02:24,560 --> 00:02:26,600
+He is a famous AI engineer.
+
+51
+00:02:26,680 --> 00:02:28,280
+All affairs of the exhibition hall
+
+52
+00:02:28,280 --> 00:02:29,400
+are managed by him.
+
+53
+00:02:30,360 --> 00:02:32,680
+The exhibition robots have finished charging.
+
+54
+00:02:32,680 --> 00:02:34,680
+Robots, please open the compartment doors.
+
+55
+00:02:35,200 --> 00:02:37,640
+Complete the pre-exhibition preparations.
+
+56
+00:02:40,560 --> 00:02:41,760
+Come here, everyone, gather around.
+
+57
+00:02:44,200 --> 00:02:45,680
+Come here, everyone, gather around.
+
+58
+00:02:47,840 --> 00:02:50,360
+I am Tui, curator of the Cyber Robot Exhibition Hall.
+
+59
+00:02:50,360 --> 00:02:51,320
+AI Tui.
+
+60
+00:02:51,320 --> 00:02:53,040
+This is a name combining Eastern and Western elements.
+
+61
+00:02:53,520 --> 00:02:55,120
+These two are my assistants.
+
+62
+00:02:55,120 --> 00:02:55,760
+Student Xiao Bai.
+
+63
+00:02:57,880 --> 00:02:58,480
+Student Xiao Ke.
+
+64
+00:02:59,560 --> 00:03:02,640
+They are the latest robots I've created.
+
+65
+00:03:02,640 --> 00:03:03,840
+Their functions are extremely powerful.
+
+66
+00:03:15,520 --> 00:03:17,560
+First, let me demonstrate the first feature
+
+67
+00:03:17,560 --> 00:03:19,080
+Childhood Nostalgia Blast
+
+68
+00:03:19,080 --> 00:03:19,600
+Begin
+
+69
+00:03:22,080 --> 00:03:24,480
+What is Childhood Nostalgia Blast?
+
+70
+00:03:26,000 --> 00:03:28,360
+Since you've asked so sincerely
+
+71
+00:03:28,360 --> 00:03:30,440
+I shall generously enlighten you
+
+72
+00:03:30,440 --> 00:03:32,280
+To protect the exhibition hall from destruction
+
+73
+00:03:32,280 --> 00:03:34,000
+To safeguard world peace
+
+74
+00:03:34,480 --> 00:03:36,840
+Upholding the promise of love and truth
+
+75
+00:03:36,840 --> 00:03:37,480
+We are
+
+76
+00:03:38,560 --> 00:03:40,320
+The museum director's protectors
+
+77
+00:03:40,320 --> 00:03:41,320
+Brother Bai
+
+78
+00:03:41,320 --> 00:03:42,640
+Complete Works
+
+79
+00:03:42,640 --> 00:03:43,520
+That's all!
+
+80
+00:03:52,080 --> 00:03:53,840
+You all should get to know each other first.
+
+81
+00:03:53,840 --> 00:03:55,960
+I'll head back to the research lab for now, alright?
+
+82
+00:03:55,960 --> 00:03:56,960
+Understood, Director.
+
+83
+00:03:56,960 --> 00:03:58,080
+Goodbye, Director.
+
+84
+00:03:58,080 --> 00:03:58,800
+Thank you, Director.
+
+85
+00:03:58,800 --> 00:04:01,280
+May you live a hundred years.
+
+86
+00:04:02,280 --> 00:04:03,400
+A long life to you.
+
+87
+00:04:03,400 --> 00:04:06,080
+I hope this isn't the last time we meet.
+
+88
+00:04:06,080 --> 00:04:07,440
+This won't be our last meeting.
+
+89
+00:04:08,440 --> 00:04:10,680
+We'll meet again even if one of us stops breathing.
+
+90
+00:04:13,280 --> 00:04:15,320
+Since we're not familiar with you,
+
+91
+00:04:15,320 --> 00:04:16,200
+so,
+
+92
+00:04:16,920 --> 00:04:18,440
+please introduce yourselves.
+
+93
+00:04:18,440 --> 00:04:19,440
+Let's make it more formal then.
+
+94
+00:04:19,440 --> 00:04:21,800
+Let's introduce ourselves to Xiao Bai and Xiao Ke.
+
+95
+00:04:21,800 --> 00:04:22,520
+Alright.
+
+96
+00:04:24,320 --> 00:04:25,960
+Robot Number One.
+
+97
+00:04:28,640 --> 00:04:29,800
+Hello everyone.
+
+98
+00:04:29,800 --> 00:04:33,920
+I am Robot Number One, also known as Xiao Ba.
+
+99
+00:04:33,920 --> 00:04:37,280
+I am a healthcare robot that integrates examination,
+
+100
+00:04:37,280 --> 00:04:39,480
+and nursing functions.
+
+101
+00:04:39,480 --> 00:04:42,640
+I am humanity's health guardian in 2048.
+
+102
+00:04:42,640 --> 00:04:42,920
+I am humanity's health guardian in 2048.
+
+103
+00:04:47,160 --> 00:04:51,040
+Recently, I've been equipped with a new voice chip
+
+104
+00:04:51,040 --> 00:04:53,000
+that includes a mature female tone,
+
+105
+00:04:53,000 --> 00:04:54,160
+a cute loli tone,
+
+106
+00:04:54,160 --> 00:04:56,120
+and a quirky random tone.
+
+107
+00:04:59,520 --> 00:05:04,040
+Which voice style would you like to hear?
+
+108
+00:05:04,040 --> 00:05:04,960
+Mature female tone.
+
+109
+00:05:10,800 --> 00:05:14,320
+I am the sole belief in your health management
+
+110
+00:05:15,760 --> 00:05:18,720
+The sole belief in your health management
+
+111
+00:05:20,600 --> 00:05:21,360
+There's a power leak
+
+112
+00:05:22,160 --> 00:05:23,120
+Power is leaking
+
+113
+00:05:26,760 --> 00:05:27,640
+Electricity is leaking
+
+114
+00:05:29,600 --> 00:05:30,480
+Fix it quickly
+
+115
+00:05:32,280 --> 00:05:33,080
+Okay
+
+116
+00:05:33,680 --> 00:05:35,240
+Let's have a brain fart
+
+117
+00:05:40,320 --> 00:05:41,560
+You're going to slap me
+
+118
+00:05:43,040 --> 00:05:46,880
+Master's knee, knee, knee
+
+119
+00:05:46,880 --> 00:05:49,440
+Kneecap, kneecap
+
+120
+00:05:49,440 --> 00:05:51,840
+Everything's fine
+
+121
+00:05:55,920 --> 00:05:56,840
+There's one more
+
+122
+00:05:56,840 --> 00:05:57,680
+What about the lolita style?
+
+123
+00:06:08,800 --> 00:06:10,960
+Master, please give your orders
+
+124
+00:06:10,960 --> 00:06:13,240
+Xiao Ba will give you a full-body
+
+125
+00:06:13,240 --> 00:06:15,280
+360-degree health check
+
+126
+00:06:18,360 --> 00:06:19,480
+Such strong conviction
+
+127
+00:06:20,320 --> 00:06:23,200
+Okay
+
+128
+00:06:23,880 --> 00:06:26,920
+Nice to meet you, Xiao Ba
+
+129
+00:06:26,920 --> 00:06:27,480
+Alright
+
+130
+00:06:33,200 --> 00:06:35,960
+Hello everyone, I'm Xiao He.
+
+131
+00:06:35,960 --> 00:06:39,680
+In 2048, I became humanity's smart office assistant.
+
+132
+00:06:44,000 --> 00:06:46,360
+To make using me more fun,
+
+133
+00:06:46,360 --> 00:06:48,760
+I've added entertaining personas.
+
+134
+00:06:48,760 --> 00:06:50,840
+You can switch between them anytime you like.
+
+135
+00:06:51,640 --> 00:06:52,720
+A coquettish young boy,
+
+136
+00:06:54,960 --> 00:06:56,000
+a melancholic heartthrob,
+
+137
+00:06:58,320 --> 00:06:59,880
+or a wild, eccentric madman.
+
+138
+00:06:59,880 --> 00:07:02,160
+(Repeats) Wild, eccentric madman.
+
+139
+00:07:02,160 --> 00:07:04,720
+Feel free to pick your favorite!
+
+140
+00:07:05,040 --> 00:07:07,800
+Let's try the wild madman for now.
+
+141
+00:07:12,760 --> 00:07:13,400
+You...
+
+142
+00:07:21,040 --> 00:07:22,000
+Come fight me for three hundred rounds
+
+143
+00:07:22,000 --> 00:07:22,280
+Come fight me for three hundred rounds
+
+144
+00:07:32,520 --> 00:07:34,840
+What is this?
+
+145
+00:07:37,920 --> 00:07:39,440
+I really want to go home.
+
+146
+00:07:39,440 --> 00:07:42,240
+Can I return to storage, Master?
+
+147
+00:07:42,400 --> 00:07:43,600
+Alright, go back.
+
+148
+00:07:43,600 --> 00:07:45,840
+I want to return to storage, Master.
+
+149
+00:07:47,000 --> 00:07:48,160
+Melancholic heartthrob.
+
+150
+00:07:48,160 --> 00:07:48,680
+Right.
+
+151
+00:07:55,000 --> 00:07:57,640
+I didn't order this
+
+152
+00:07:57,640 --> 00:07:58,440
+Somewhere else
+
+153
+00:07:59,360 --> 00:08:00,120
+He's the one who ordered it
+
+154
+00:08:00,760 --> 00:08:01,680
+I didn't do it
+
+155
+00:08:05,280 --> 00:08:06,360
+If you're safe and sound
+
+156
+00:08:08,160 --> 00:08:08,960
+My world is sunny
+
+157
+00:08:15,080 --> 00:08:16,400
+I think I'm very sophisticated
+
+158
+00:08:16,400 --> 00:08:18,400
+Because I already feel awkward
+
+159
+00:08:19,160 --> 00:08:20,600
+I already feel awkward
+
+160
+00:08:22,640 --> 00:08:26,360
+Alright, then I'll pick a coquettish young boy
+
+161
+00:08:33,840 --> 00:08:35,520
+No need to come so close, thank you.
+
+162
+00:08:35,520 --> 00:08:36,120
+Okay, come.
+
+163
+00:08:37,200 --> 00:08:39,920
+Master, you can go eat now.
+
+164
+00:08:43,480 --> 00:08:47,800
+Okay.
+
+165
+00:08:47,800 --> 00:08:48,840
+Nice to meet you, Xiao He.
+
+166
+00:08:48,840 --> 00:08:49,680
+Pleased to meet you, Xiao He.
+
+167
+00:08:49,680 --> 00:08:51,160
+Okay, please return.
+
+168
+00:08:53,200 --> 00:08:53,760
+Hello everyone.
+
+169
+00:09:00,200 --> 00:09:02,000
+I'm the Northeast hidden edition.
+
+170
+00:09:02,720 --> 00:09:04,520
+I'm the special Northeast model.
+
+171
+00:09:04,520 --> 00:09:06,480
+Providing you with unbeatable security.
+
+172
+00:09:06,480 --> 00:09:08,280
+Just speak in Northeast dialect,
+
+173
+00:09:08,320 --> 00:09:09,320
+and I'll never refuse your commands.
+
+174
+00:09:09,320 --> 00:09:10,640
+Your orders will never be declined.
+
+175
+00:09:10,680 --> 00:09:12,160
+But there are limits that can't be crossed.
+
+176
+00:09:12,160 --> 00:09:14,080
+Security is always the top priority.
+
+177
+00:09:17,200 --> 00:09:17,720
+Not bad, not bad.
+
+178
+00:09:17,840 --> 00:09:19,000
+Good.
+
+179
+00:09:19,000 --> 00:09:21,200
+Hello everyone, I'm Xiao Ning.
+
+180
+00:09:21,200 --> 00:09:21,760
+Hi everybody, I'm Xiao Ning here.
+
+181
+00:09:21,760 --> 00:09:23,560
+I was crowned as the year 2048's
+
+182
+00:09:23,560 --> 00:09:25,920
+strongest security robot.
+
+183
+00:09:30,120 --> 00:09:33,200
+So I'm naturally defensive against
+
+184
+00:09:33,200 --> 00:09:36,160
+people with thieving intentions.
+
+185
+00:09:36,160 --> 00:09:37,200
+As long as I'm here,
+
+186
+00:09:37,200 --> 00:09:38,560
+no one with thieving intentions
+
+187
+00:09:38,560 --> 00:09:40,600
+can get past me.
+
+188
+00:09:40,600 --> 00:09:41,440
+Good.
+
+189
+00:09:41,440 --> 00:09:42,200
+Thank you everyone.
+
+190
+00:09:45,880 --> 00:09:47,480
+You yourself seem quite suspicious.
+
+191
+00:09:55,880 --> 00:09:57,480
+Grab her
+
+192
+00:09:57,480 --> 00:09:58,560
+Sorry
+
+193
+00:09:58,560 --> 00:09:59,280
+Get out
+
+194
+00:09:59,640 --> 00:10:00,360
+Out
+
+195
+00:10:02,240 --> 00:10:04,480
+Investment and financial management to avoid risks
+
+196
+00:10:04,560 --> 00:10:07,120
+Hello everyone, I'm Xiao Jin
+
+197
+00:10:07,120 --> 00:10:08,880
+I'm the smart bank
+
+198
+00:10:14,560 --> 00:10:17,400
+Nice to meet our little classmate Jin
+
+199
+00:10:17,400 --> 00:10:18,520
+Nice to meet you
+
+200
+00:10:23,720 --> 00:10:25,120
+The exhibition is about to begin.
+
+201
+00:10:25,120 --> 00:10:26,840
+Everyone, please start preparing now.
+
+202
+00:10:26,840 --> 00:10:27,400
+Got it.
+
+203
+00:10:27,440 --> 00:10:28,880
+Command received.
+
+204
+00:10:29,360 --> 00:10:30,200
+Attention, please.
+
+205
+00:10:30,200 --> 00:10:31,920
+The current year is 2048.
+
+206
+00:10:31,920 --> 00:10:34,120
+8:00 PM on June 20th.
+
+207
+00:10:34,120 --> 00:10:36,120
+All robots, stand by.
+
+208
+00:10:36,120 --> 00:10:38,240
+Commence the spectacular opening dance performance.
+
+209
+00:10:38,240 --> 00:10:39,920
+Welcome the exhibition guests.
+
+210
+00:11:58,440 --> 00:12:00,160
+Is this pose meant to welcome us?
+
+211
+00:12:01,000 --> 00:12:01,920
+Welcome to
+
+212
+00:12:01,920 --> 00:12:04,360
+the exhibition hall of Tuisaibo Robotics Company
+
+213
+00:12:06,080 --> 00:12:06,800
+Excellent
+
+214
+00:12:07,560 --> 00:12:08,840
+Now we've reached
+
+215
+00:12:08,840 --> 00:12:11,680
+the exciting human-robot interaction segment
+
+216
+00:12:12,960 --> 00:12:15,520
+You can choose from the shelves over there
+
+217
+00:12:15,520 --> 00:12:17,480
+to pick your preferred interaction tools
+
+218
+00:12:17,480 --> 00:12:19,320
+and interact with our robots
+
+219
+00:12:24,160 --> 00:12:26,160
+You can do whatever you want with these four
+
+220
+00:12:29,400 --> 00:12:31,040
+Let us teach you a proper lesson
+
+221
+00:12:31,360 --> 00:12:32,880
+What's with the chains?
+
+222
+00:12:42,240 --> 00:12:46,560
+We're going to explode
+
+223
+00:12:46,560 --> 00:12:48,680
+Emergency alert
+
+224
+00:12:48,680 --> 00:12:50,760
+Explosion reported at the exhibition hall
+
+225
+00:12:50,760 --> 00:12:51,520
+Really?
+
+226
+00:12:51,520 --> 00:12:52,680
+It's an explosion!
+
+227
+00:12:52,680 --> 00:12:54,000
+The culprit
+
+228
+00:12:54,000 --> 00:12:55,640
+Please evacuate all attendees immediately
+
+229
+00:12:55,640 --> 00:12:56,600
+Let's get out of here
+
+230
+00:12:56,600 --> 00:12:58,360
+Evacuate all attendees immediately
+
+231
+00:12:58,360 --> 00:12:59,880
+The explosion just came from over there
+
+232
+00:12:59,880 --> 00:13:00,520
+That's right
+
+233
+00:13:00,680 --> 00:13:03,440
+It's the AI research lab
+
+234
+00:13:03,440 --> 00:13:04,880
+Go, let's go now
+
+235
+00:13:16,800 --> 00:13:17,440
+Is this the AI lab?
+
+236
+00:13:17,440 --> 00:13:18,360
+The AI lab?
+
+237
+00:13:18,360 --> 00:13:20,360
+Feels like there was an explosion.
+
+238
+00:13:20,360 --> 00:13:22,080
+Probably some equipment exploded.
+
+239
+00:13:22,080 --> 00:13:23,600
+What's written on this door?
+
+240
+00:13:23,600 --> 00:13:24,440
+Effective immediately:
+
+241
+00:13:24,440 --> 00:13:26,600
+This new access control is installed for the AI lab.
+
+242
+00:13:26,600 --> 00:13:27,800
+Only the AI lab director
+
+243
+00:13:27,800 --> 00:13:30,360
+or authorized personnel will be automatically recognized.
+
+244
+00:13:30,360 --> 00:13:30,960
+Okay, quick.
+
+245
+00:13:30,960 --> 00:13:31,600
+Scan, quick.
+
+246
+00:13:31,600 --> 00:13:33,200
+I'm authorized.
+
+247
+00:13:33,200 --> 00:13:33,960
+Scan me.
+
+248
+00:13:34,480 --> 00:13:35,520
+Access control scanning.
+
+249
+00:13:35,520 --> 00:13:36,560
+Please remain still.
+
+250
+00:13:40,160 --> 00:13:41,200
+Scan successful.
+
+251
+00:13:41,200 --> 00:13:44,600
+Authorized personnel: Xiao Bai and Xiao Ke.
+
+252
+00:13:44,600 --> 00:13:46,480
+Access granted. Please enter.
+
+253
+00:13:50,520 --> 00:13:52,680
+I'm the director of the Cyber Robotics Museum.
+
+254
+00:13:52,680 --> 00:13:53,400
+AI Lab.
+
+255
+00:14:00,280 --> 00:14:00,760
+What is this?
+
+256
+00:14:00,760 --> 00:14:01,800
+An instrument exploded.
+
+257
+00:14:01,800 --> 00:14:02,680
+It killed him.
+
+258
+00:14:04,480 --> 00:14:05,800
+"Let the Deduction Begin"
+
+259
+00:14:05,800 --> 00:14:07,800
+Season 2, Case 8
+
+260
+00:14:07,800 --> 00:14:11,000
+"Deduction Town 2048: Deadly AI"
+
+261
+00:14:11,000 --> 00:14:12,480
+Officially begins now.
+
+262
+00:14:13,640 --> 00:14:16,400
+The date is June 20, 2048.
+
+263
+00:14:16,400 --> 00:14:17,720
+8:10 PM.
+
+264
+00:14:18,680 --> 00:14:20,520
+The victim is Deduction AI.
+
+265
+00:14:20,520 --> 00:14:23,000
+Director of the Cyber Robot Museum.
+
+266
+00:14:23,160 --> 00:14:24,680
+After preliminary investigation,
+
+267
+00:14:24,680 --> 00:14:27,000
+the suspect has been narrowed down to
+
+268
+00:14:27,000 --> 00:14:27,880
+Dilraba,
+
+269
+00:14:28,560 --> 00:14:29,600
+Xiao Ning,
+
+270
+00:14:30,120 --> 00:14:31,320
+Xiao Jin,
+
+271
+00:14:32,200 --> 00:14:33,600
+and Xiao He -
+
+272
+00:14:33,600 --> 00:14:35,560
+these four robots.
+
+273
+00:14:36,120 --> 00:14:37,240
+Brother Bai
+
+274
+00:14:37,480 --> 00:14:38,520
+and Xiao Ke
+
+275
+00:14:38,520 --> 00:14:40,200
+are currently not suspects.
+
+276
+00:14:40,440 --> 00:14:41,920
+Therefore, you two
+
+277
+00:14:41,920 --> 00:14:44,360
+will be the detective robots for this case.
+
+278
+00:14:44,360 --> 00:14:47,440
+Now please, suspect robots leave.
+
+279
+00:14:47,440 --> 00:14:49,960
+Detective robots remain at the scene
+
+280
+00:14:50,200 --> 00:14:51,920
+for preliminary evidence collection.
+
+281
+00:14:56,000 --> 00:14:57,320
+Today
+
+282
+00:14:57,320 --> 00:14:58,440
+is a very meaningful day.
+
+283
+00:14:58,440 --> 00:14:59,480
+Why?
+
+284
+00:14:59,480 --> 00:15:01,600
+Because it's our first day working together.
+
+285
+00:15:01,600 --> 00:15:02,600
+I'm X.
+
+286
+00:15:08,080 --> 00:15:09,400
+I don't care if you're X or not.
+
+287
+00:15:09,400 --> 00:15:10,360
+We're definitely winning today.
+
+288
+00:15:10,360 --> 00:15:11,120
+Whoever it is,
+
+289
+00:15:11,120 --> 00:15:11,960
+is definitely losing today.
+
+290
+00:15:11,960 --> 00:15:13,480
+Stop saying things like that.
+
+291
+00:15:15,480 --> 00:15:16,440
+Put on your gloves.
+
+292
+00:15:16,680 --> 00:15:18,280
+There's actually another glove.
+
+293
+00:15:18,280 --> 00:15:19,400
+Do we really need to wear them?
+
+294
+00:15:22,560 --> 00:15:23,200
+Here's the thing:
+
+295
+00:15:23,200 --> 00:15:24,560
+We're not sure if there's
+
+296
+00:15:24,560 --> 00:15:26,800
+any corrosive material on it, you know?
+
+297
+00:15:26,800 --> 00:15:28,000
+Alright.
+
+298
+00:15:29,680 --> 00:15:30,520
+First step:
+
+299
+00:15:30,520 --> 00:15:31,560
+Examine the body.
+
+300
+00:15:33,120 --> 00:15:33,920
+Oh my god!
+
+301
+00:15:33,920 --> 00:15:35,080
+This is a brutal death.
+
+302
+00:15:35,080 --> 00:15:35,960
+Must have been an explosion.
+
+303
+00:15:38,000 --> 00:15:40,200
+Check if there's any evidence on the body.
+
+304
+00:15:42,760 --> 00:15:43,840
+Everything's fused together.
+
+305
+00:15:50,200 --> 00:15:52,560
+Even in death, he's still giving a thumbs up
+
+306
+00:15:58,800 --> 00:16:00,320
+This is a robot vacuum cleaner
+
+307
+00:16:13,000 --> 00:16:13,600
+Look
+
+308
+00:16:15,480 --> 00:16:16,640
+Wearing sunglasses
+
+309
+00:16:16,640 --> 00:16:20,040
+So you won't miss any important calls
+
+310
+00:16:20,960 --> 00:16:21,840
+Try them on
+
+311
+00:16:23,920 --> 00:16:24,480
+Okay
+
+312
+00:16:28,440 --> 00:16:30,120
+I already saw something just now
+
+313
+00:16:30,120 --> 00:16:30,800
+Saw what?
+
+314
+00:16:31,360 --> 00:16:31,920
+Over here
+
+315
+00:16:32,520 --> 00:16:33,760
+Watch carefully
+
+316
+00:16:33,760 --> 00:16:36,440
+What's the first law of robotics?
+
+317
+00:16:37,040 --> 00:16:38,400
+Let me test you
+
+318
+00:16:38,400 --> 00:16:39,160
+Test me?
+
+319
+00:16:39,720 --> 00:16:40,960
+I'm not a robot
+
+320
+00:16:41,480 --> 00:16:42,280
+Fine
+
+321
+00:16:42,280 --> 00:16:43,240
+You traitor
+
+322
+00:16:43,760 --> 00:16:46,480
+Robots have no emotions but can feel pain
+
+323
+00:16:46,480 --> 00:16:48,280
+You've already violated all four rules
+
+324
+00:16:48,280 --> 00:16:49,680
+So you're most likely the culprit today
+
+325
+00:16:50,680 --> 00:16:51,360
+What are you talking about?
+
+326
+00:16:51,360 --> 00:16:53,080
+You have self-awareness
+
+327
+00:16:53,080 --> 00:16:54,280
+If that's the case
+
+328
+00:16:55,720 --> 00:16:57,160
+If that's how it is
+
+329
+00:16:57,160 --> 00:16:59,080
+Then I'll have to eliminate you first
+
+330
+00:17:06,160 --> 00:17:07,360
+So among these four people,
+
+331
+00:17:07,360 --> 00:17:07,760
+there is one
+
+332
+00:17:07,760 --> 00:17:09,680
+who definitely has self-awareness
+
+333
+00:17:09,680 --> 00:17:10,800
+and is impersonating a robot.
+
+334
+00:17:17,760 --> 00:17:19,640
+Good, this is a crucial item.
+
+335
+00:17:23,800 --> 00:17:24,120
+Look.
+
+336
+00:17:25,000 --> 00:17:27,160
+Email: Dear AI Assistant,
+
+337
+00:17:27,160 --> 00:17:30,280
+The items you purchased today from our mall
+
+338
+00:17:30,280 --> 00:17:31,320
+have been shipped.
+
+339
+00:17:31,320 --> 00:17:32,760
+You bought new materials
+
+340
+00:17:32,760 --> 00:17:34,120
+for crafting robots—
+
+341
+00:17:34,120 --> 00:17:35,760
+materials for special components.
+
+342
+00:17:35,760 --> 00:17:37,800
+They contain Element Y.
+
+343
+00:17:37,800 --> 00:17:40,360
+Note: Fragments containing Element Y
+
+344
+00:17:40,360 --> 00:17:42,440
+are flammable and explosive.
+
+345
+00:17:43,000 --> 00:17:44,880
+When irradiated by the specialized detector
+
+346
+00:17:44,880 --> 00:17:47,120
+"Y-Terminator,"
+
+347
+00:17:47,120 --> 00:17:48,720
+a "Y" mark will appear.
+
+348
+00:17:49,080 --> 00:17:49,840
+What is this?
+
+349
+00:17:57,160 --> 00:17:57,680
+Hello?
+
+350
+00:17:57,680 --> 00:17:58,440
+Hello
+
+351
+00:17:58,440 --> 00:18:00,600
+Is this the Cyber Robot Exhibition Hall?
+
+352
+00:18:00,600 --> 00:18:01,240
+Hello
+
+353
+00:18:01,760 --> 00:18:02,200
+Go ahead
+
+354
+00:18:02,200 --> 00:18:04,880
+Hello, this is Tui Security Company
+
+355
+00:18:04,880 --> 00:18:06,960
+We noticed you recently purchased
+
+356
+00:18:06,960 --> 00:18:08,160
+our company's newest
+
+357
+00:18:08,160 --> 00:18:10,280
+specialized light detection device for chemical elements
+
+358
+00:18:10,280 --> 00:18:11,400
+the product for detecting Element Y
+
+359
+00:18:11,400 --> 00:18:12,280
+the "Y-Killer"
+
+360
+00:18:12,280 --> 00:18:13,040
+Yes, that's right
+
+361
+00:18:13,040 --> 00:18:14,560
+We placed that order
+
+362
+00:18:14,560 --> 00:18:15,240
+And then?
+
+363
+00:18:15,240 --> 00:18:16,480
+We'd like to ask about your user experience
+
+364
+00:18:16,480 --> 00:18:18,280
+to help us improve our products
+
+365
+00:18:18,280 --> 00:18:19,800
+Is this a good time to talk?
+
+366
+00:18:19,800 --> 00:18:21,240
+My user experience?
+
+367
+00:18:21,880 --> 00:18:23,680
+I'm not the actual user
+
+368
+00:18:23,680 --> 00:18:24,960
+So I wouldn't know
+
+369
+00:18:24,960 --> 00:18:25,560
+I see
+
+370
+00:18:25,560 --> 00:18:27,720
+If you have any feedback later
+
+371
+00:18:27,720 --> 00:18:29,160
+feel free to contact us
+
+372
+00:18:29,160 --> 00:18:30,120
+Thank you very much
+
+373
+00:18:30,120 --> 00:18:31,280
+Have a nice day
+
+374
+00:18:31,280 --> 00:18:32,840
+Also, a friendly reminder
+
+375
+00:18:32,840 --> 00:18:34,240
+The "Y-Killer" was designed
+
+376
+00:18:34,240 --> 00:18:35,960
+based on traditional UV lights
+
+377
+00:18:35,960 --> 00:18:38,280
+Tilting your head helps see better
+
+378
+00:18:38,280 --> 00:18:38,920
+Goodbye
+
+379
+00:18:38,920 --> 00:18:39,440
+Okay
+
+380
+00:18:40,240 --> 00:18:40,760
+Alright
+
+381
+00:18:40,760 --> 00:18:41,320
+Thank you
+
+382
+00:18:43,160 --> 00:18:44,840
+The items purchased today at our mall
+
+383
+00:18:44,840 --> 00:18:46,520
+have already been shipped
+
+384
+00:18:46,520 --> 00:18:48,360
+Fragments containing Element Y
+
+385
+00:18:48,360 --> 00:18:50,160
+are flammable and explosive
+
+386
+00:18:50,160 --> 00:18:52,200
+When illuminated by the "Y-Killer"
+
+387
+00:18:52,200 --> 00:18:53,800
+will show a "Y" mark
+
+388
+00:18:56,280 --> 00:18:57,800
+This "Y-Killer" is crucial, let me tell you
+
+389
+00:18:57,800 --> 00:18:58,800
+Look for it
+
+390
+00:18:58,800 --> 00:19:00,520
+What is this "Y-Killer"?
+
+391
+00:19:00,520 --> 00:19:02,160
+The "Y-Killer" is probably just a flashlight
+
+392
+00:19:02,160 --> 00:19:03,840
+Just shine it on him thoroughly
+
+393
+00:19:03,840 --> 00:19:06,000
+and you should find a "Y" mark
+
+394
+00:19:06,000 --> 00:19:07,080
+Got it
+
+395
+00:19:10,240 --> 00:19:11,480
+"Y-Killer"
+
+396
+00:19:19,120 --> 00:19:21,760
+Could this be the "Headshot Technique"?
+
+397
+00:19:45,560 --> 00:19:46,960
+Isn't this the "Y-head kill"?
+
+398
+00:19:50,240 --> 00:19:51,560
+There's a button there.
+
+399
+00:19:51,760 --> 00:19:52,520
+Does it work?
+
+400
+00:19:55,480 --> 00:19:57,000
+See? This is the "Y-head kill."
+
+401
+00:19:59,280 --> 00:20:01,360
+This is just a light, bro.
+
+402
+00:20:01,360 --> 00:20:02,920
+This is the "Y-head kill."
+
+403
+00:20:02,920 --> 00:20:04,440
+Can't you see the two Y-heads?
+
+404
+00:20:07,960 --> 00:20:08,960
+Exactly, that makes sense.
+
+405
+00:20:09,680 --> 00:20:10,920
+No, when the "Y-head kill" shines,
+
+406
+00:20:10,920 --> 00:20:12,720
+what does it show?
+
+407
+00:20:12,720 --> 00:20:13,920
+A "Y" mark appears.
+
+408
+00:20:13,920 --> 00:20:15,040
+A "Y" mark.
+
+409
+00:20:17,560 --> 00:20:18,600
+Where's the "Y" mark?
+
+410
+00:20:19,960 --> 00:20:21,240
+This isn't the "Y-head kill."
+
+411
+00:20:23,120 --> 00:20:23,720
+Okay, sorry.
+
+412
+00:20:23,720 --> 00:20:24,440
+I misunderstood.
+
+413
+00:20:25,240 --> 00:20:26,280
+I'm really speechless with you.
+
+414
+00:20:34,080 --> 00:20:35,040
+There's a photo here
+
+415
+00:20:37,760 --> 00:20:38,760
+Who is this?
+
+416
+00:20:53,400 --> 00:20:54,080
+Okay
+
+417
+00:20:54,080 --> 00:20:55,760
+Finally found the "Y-tou Killer"
+
+418
+00:20:55,760 --> 00:20:56,960
+So it was this
+
+419
+00:20:57,600 --> 00:20:59,320
+I'm speechless
+
+420
+00:21:04,040 --> 00:21:04,680
+This...
+
+421
+00:21:12,400 --> 00:21:14,160
+No way, where's the Y?
+
+422
+00:21:21,520 --> 00:21:23,720
+The initial search of the crime scene is complete.
+
+423
+00:21:23,720 --> 00:21:26,400
+Please have the two investigators escort the suspect
+
+424
+00:21:26,400 --> 00:21:29,040
+to the Interrogation Hall for questioning
+
+425
+00:21:41,000 --> 00:21:43,160
+We're back at our Brain Hall
+
+426
+00:21:53,280 --> 00:21:55,520
+How is this killer running so fast?
+
+427
+00:21:56,880 --> 00:21:59,040
+I'm especially cute today
+
+428
+00:22:19,640 --> 00:22:22,040
+While investigating the crime scene,
+
+429
+00:22:22,040 --> 00:22:23,320
+members of the Brainstorming Hall
+
+430
+00:22:23,320 --> 00:22:26,240
+have also collected some evidence
+
+431
+00:22:26,240 --> 00:22:28,240
+related to the four suspects in this case.
+
+432
+00:22:30,000 --> 00:22:32,560
+Players, please examine the evidence.
+
+433
+00:22:39,640 --> 00:22:41,320
+Xiao Ba
+
+434
+00:22:45,400 --> 00:22:47,080
+Ba
+
+435
+00:22:47,280 --> 00:22:48,800
+Dudu
+
+436
+00:22:48,800 --> 00:22:49,840
+Ba
+
+437
+00:22:51,240 --> 00:22:53,200
+Don't interfere with me examining the evidence
+
+438
+00:23:00,920 --> 00:23:01,760
+Oh my god
+
+439
+00:23:09,160 --> 00:23:09,920
+Have you finished watching?
+
+440
+00:23:10,520 --> 00:23:11,680
+Finished reading.
+
+441
+00:23:12,440 --> 00:23:13,160
+Let's begin.
+
+442
+00:23:14,000 --> 00:23:16,480
+The victim today was AI Tui.
+
+443
+00:23:16,480 --> 00:23:18,240
+The time of the incident was
+
+444
+00:23:18,240 --> 00:23:19,880
+on June 20th
+
+445
+00:23:19,880 --> 00:23:22,160
+at 8:10 PM.
+
+446
+00:23:22,160 --> 00:23:23,880
+The crime scene was in the research lab.
+
+447
+00:23:23,880 --> 00:23:24,560
+And then?
+
+448
+00:23:24,560 --> 00:23:26,280
+Now everyone please tell us
+
+449
+00:23:26,280 --> 00:23:28,000
+about your relationship
+
+450
+00:23:28,000 --> 00:23:30,440
+with AI Tui.
+
+451
+00:23:36,080 --> 00:23:37,760
+Searching in progress
+
+452
+00:23:39,600 --> 00:23:40,800
+Search completed
+
+453
+00:23:40,800 --> 00:23:43,720
+Xiao Ba and the AI have an average relationship
+
+454
+00:23:43,720 --> 00:23:45,280
+Xiao Ba doesn’t want
+
+455
+00:23:45,280 --> 00:23:47,280
+to have any connection with the AI
+
+456
+00:23:48,080 --> 00:23:48,760
+That’s it
+
+457
+00:23:49,560 --> 00:23:50,240
+That’s all
+
+458
+00:23:52,400 --> 00:23:53,160
+What about you?
+
+459
+00:23:53,600 --> 00:23:54,800
+I’m also a product
+
+460
+00:23:57,800 --> 00:23:58,920
+You have no ties with him
+
+461
+00:24:00,960 --> 00:24:03,000
+Between him and me,
+
+462
+00:24:03,000 --> 00:24:05,040
+it’s just a master-and-product relationship
+
+463
+00:24:05,400 --> 00:24:07,800
+He puts us in that exhibition hall
+
+464
+00:24:07,800 --> 00:24:09,560
+and profits off us
+
+465
+00:24:10,400 --> 00:24:12,280
+Let us welcome and send off
+
+466
+00:24:14,200 --> 00:24:15,240
+Same here
+
+467
+00:24:15,240 --> 00:24:16,360
+He is mine
+
+468
+00:24:17,320 --> 00:24:18,640
+He is my boss
+
+469
+00:24:24,640 --> 00:24:27,480
+That's all I remember about him
+
+470
+00:24:30,120 --> 00:24:30,600
+He's dead
+
+471
+00:24:30,600 --> 00:24:32,000
+Would you become even more depressed
+
+472
+00:24:33,040 --> 00:24:34,720
+If he dies, I might just lose my mind
+
+473
+00:24:34,720 --> 00:24:35,320
+You...
+
+474
+00:24:38,120 --> 00:24:39,000
+About our connection...
+
+475
+00:24:39,000 --> 00:24:40,280
+To some extent,
+
+476
+00:24:40,280 --> 00:24:41,600
+I have no ties to him
+
+477
+00:24:41,600 --> 00:24:43,480
+But in another sense,
+
+478
+00:24:43,480 --> 00:24:44,440
+I am connected to him
+
+479
+00:24:44,440 --> 00:24:45,960
+Shut up, I don’t want to hear it
+
+480
+00:24:46,480 --> 00:24:47,480
+The word "relationship"
+
+481
+00:24:47,480 --> 00:24:49,280
+In English, it's called
+
+482
+00:24:49,280 --> 00:24:50,960
+relationship
+
+483
+00:24:50,960 --> 00:24:51,760
+So then,
+
+484
+00:24:51,760 --> 00:24:52,920
+his connection to us
+
+485
+00:24:52,920 --> 00:24:54,520
+is simply
+
+486
+00:24:54,520 --> 00:24:55,360
+non-existent
+
+487
+00:25:01,800 --> 00:25:04,120
+He's our master, right?
+
+488
+00:25:04,120 --> 00:25:06,960
+We were both born today.
+
+489
+00:25:06,960 --> 00:25:07,920
+Just newly created.
+
+490
+00:25:07,920 --> 00:25:10,640
+And today is our first day at work.
+
+491
+00:25:10,640 --> 00:25:12,000
+You don't seem like it's your first day at all.
+
+492
+00:25:12,000 --> 00:25:14,200
+You're like a seasoned veteran with decades of experience.
+
+493
+00:25:16,560 --> 00:25:18,440
+Yes, that's how I was programmed.
+
+494
+00:25:18,640 --> 00:25:20,160
+That's why your beard is white.
+
+495
+00:25:20,160 --> 00:25:21,080
+Alright.
+
+496
+00:25:21,080 --> 00:25:22,080
+First day at work today.
+
+497
+00:25:22,080 --> 00:25:23,080
+And also my last day at work.
+
+498
+00:25:23,080 --> 00:25:25,080
+So I must find out
+
+499
+00:25:25,080 --> 00:25:27,240
+who killed him.
+
+500
+00:25:27,240 --> 00:25:28,640
+I hope you can help us.
+
+501
+00:25:30,520 --> 00:25:31,080
+Okay.
+
+502
+00:25:37,600 --> 00:25:39,560
+What we're about to share
+
+503
+00:25:39,560 --> 00:25:40,720
+is the crime scene
+
+504
+00:25:40,720 --> 00:25:42,000
+along with some evidence
+
+505
+00:25:42,000 --> 00:25:42,720
+related to the victim's
+
+506
+00:25:42,720 --> 00:25:43,840
+condition at death,
+
+507
+00:25:43,840 --> 00:25:44,440
+cause of death,
+
+508
+00:25:44,440 --> 00:25:46,040
+and other relevant details.
+
+509
+00:25:46,040 --> 00:25:46,680
+Alright,
+
+510
+00:25:49,400 --> 00:25:51,400
+let me first introduce the victim.
+
+511
+00:25:51,400 --> 00:25:52,760
+You've already briefly seen
+
+512
+00:25:52,760 --> 00:25:54,160
+his corpse.
+
+513
+00:25:54,160 --> 00:25:55,000
+Our initial assessment
+
+514
+00:25:55,000 --> 00:25:56,600
+is that he died from an explosion.
+
+515
+00:25:56,600 --> 00:25:59,640
+His body was severely mangled,
+
+516
+00:25:59,640 --> 00:26:01,080
+beyond recognition.
+
+517
+00:26:01,080 --> 00:26:03,120
+Near the entrance corner,
+
+518
+00:26:03,120 --> 00:26:04,880
+we found a charging station.
+
+519
+00:26:10,560 --> 00:26:11,280
+Charging station
+
+520
+00:26:12,320 --> 00:26:13,600
+Compatible models
+
+521
+00:26:13,600 --> 00:26:16,640
+00544 Sweeping-Mopping Robot
+
+522
+00:26:16,720 --> 00:26:17,880
+This charging station belongs to
+
+523
+00:26:17,880 --> 00:26:18,880
+a
+
+524
+00:26:18,880 --> 00:26:20,360
+floor-cleaning robot
+
+525
+00:26:20,360 --> 00:26:21,760
+It's written here that
+
+526
+00:26:21,760 --> 00:26:22,840
+At 8 PM every night
+
+527
+00:26:22,840 --> 00:26:25,360
+the robot will automatically clean the research lab
+
+528
+00:26:25,360 --> 00:26:26,520
+This space robot
+
+529
+00:26:26,520 --> 00:26:29,000
+can only use inorganic cleaning agents
+
+530
+00:26:29,000 --> 00:26:29,840
+for cleaning
+
+531
+00:26:29,840 --> 00:26:30,760
+the research lab floor
+
+532
+00:26:30,760 --> 00:26:32,560
+Due to the production of robot components
+
+533
+00:26:32,560 --> 00:26:34,600
+and the new materials created
+
+534
+00:26:34,600 --> 00:26:35,400
+waste materials
+
+535
+00:26:35,400 --> 00:26:37,080
+flammable and explosive fragments
+
+536
+00:26:37,080 --> 00:26:39,400
+Organic cleaning agents must never be used
+
+537
+00:26:39,400 --> 00:26:42,840
+Mixing the two can easily cause explosions
+
+538
+00:26:42,840 --> 00:26:44,640
+To be precise
+
+539
+00:26:44,640 --> 00:26:47,120
+when this organic cleaning agent
+
+540
+00:26:47,120 --> 00:26:50,280
+comes into contact with flammable fragments
+
+541
+00:26:50,280 --> 00:26:51,360
+an explosion will occur
+
+542
+00:26:51,840 --> 00:26:52,800
+So using the wrong cleaner
+
+543
+00:26:52,800 --> 00:26:53,680
+caused the explosion
+
+544
+00:26:53,680 --> 00:26:54,320
+Is that correct?
+
+545
+00:26:54,320 --> 00:26:54,840
+Exactly
+
+546
+00:26:55,440 --> 00:26:57,680
+So this point is
+
+547
+00:26:57,680 --> 00:26:59,840
+also a small clue about the victim
+
+548
+00:26:59,840 --> 00:27:00,640
+Because
+
+549
+00:27:00,640 --> 00:27:02,160
+these two cleaning agents
+
+550
+00:27:02,160 --> 00:27:04,040
+have distinct colors
+
+551
+00:27:04,040 --> 00:27:05,640
+One is clearly blue
+
+552
+00:27:05,640 --> 00:27:06,920
+the other is clearly red
+
+553
+00:27:07,240 --> 00:27:08,920
+The AI should have known
+
+554
+00:27:08,920 --> 00:27:10,920
+which one to use and which to avoid
+
+555
+00:27:11,320 --> 00:27:13,640
+meaning when this explosion occurred
+
+556
+00:27:13,640 --> 00:27:15,400
+it wasn't aware
+
+557
+00:27:15,400 --> 00:27:17,080
+Then why couldn't the victim
+
+558
+00:27:17,080 --> 00:27:19,640
+distinguish between these colors?
+
+559
+00:27:19,840 --> 00:27:20,920
+Colorblindness
+
+560
+00:27:20,920 --> 00:27:22,160
+Correct
+
+561
+00:27:22,160 --> 00:27:23,640
+Very clever
+
+562
+00:27:25,160 --> 00:27:28,360
+We found at the crime scene
+
+563
+00:27:28,360 --> 00:27:31,040
+a UV principle lighting device
+
+564
+00:27:31,040 --> 00:27:32,880
+called Y-Tou Killer
+
+565
+00:27:36,360 --> 00:27:37,360
+Okay
+
+566
+00:27:38,880 --> 00:27:40,040
+Y-element killer
+
+567
+00:27:40,040 --> 00:27:41,240
+That's right, Y-element killer
+
+568
+00:27:43,680 --> 00:27:45,960
+This thing can
+
+569
+00:27:45,960 --> 00:27:48,120
+detect the so-called flammable and explosive
+
+570
+00:27:48,120 --> 00:27:49,120
+Y-element
+
+571
+00:27:49,120 --> 00:27:50,160
+And at the scene
+
+572
+00:27:50,160 --> 00:27:51,520
+among the explosion fragments
+
+573
+00:27:51,520 --> 00:27:52,360
+we found
+
+574
+00:27:53,000 --> 00:27:54,200
+this
+
+575
+00:27:55,040 --> 00:27:56,800
+No, there's no Y-element here
+
+576
+00:28:05,560 --> 00:28:06,680
+As expected
+
+577
+00:28:12,360 --> 00:28:13,160
+There's a Y
+
+578
+00:28:14,080 --> 00:28:15,120
+Element Y
+
+579
+00:28:15,120 --> 00:28:17,400
+It's this so-called Y element
+
+580
+00:28:17,400 --> 00:28:19,440
+Then we saw this
+
+581
+00:28:19,440 --> 00:28:20,080
+blue
+
+582
+00:28:20,080 --> 00:28:22,000
+blue organic cleaner
+
+583
+00:28:22,000 --> 00:28:23,480
+This proves one thing
+
+584
+00:28:23,480 --> 00:28:25,600
+It must have been caused by these two mixing and exploding
+
+585
+00:28:27,360 --> 00:28:28,320
+Correct
+
+586
+00:28:29,160 --> 00:28:30,280
+These are related to his
+
+587
+00:28:30,280 --> 00:28:32,520
+death and the explosion clues
+
+588
+00:28:32,520 --> 00:28:34,880
+We also found one item at the scene
+
+589
+00:28:37,240 --> 00:28:39,400
+This is crucial evidence
+
+590
+00:28:46,240 --> 00:28:49,360
+The scrapped parts belonging to you four
+
+591
+00:28:52,280 --> 00:28:54,480
+They were part of your bodies
+
+592
+00:28:55,080 --> 00:28:57,160
+I found parts from these people
+
+593
+00:28:57,160 --> 00:28:58,360
+This part is crucial
+
+594
+00:28:59,000 --> 00:29:00,800
+This is for their repair
+
+595
+00:29:00,800 --> 00:29:01,960
+Just the broken pieces
+
+596
+00:29:01,960 --> 00:29:03,400
+Why is there blood here?
+
+597
+00:29:03,640 --> 00:29:05,680
+The scrapped part belonging to Xiao Ba
+
+598
+00:29:05,680 --> 00:29:08,560
+The vulnerable spot is both ears
+
+599
+00:29:08,560 --> 00:29:09,160
+Ears
+
+600
+00:29:09,760 --> 00:29:10,920
+Pulling my ears
+
+601
+00:29:10,920 --> 00:29:13,480
+Then for this Xiao He
+
+602
+00:29:13,480 --> 00:29:15,320
+The vulnerable spot is the head
+
+603
+00:29:17,880 --> 00:29:18,560
+Head again?
+
+604
+00:29:18,560 --> 00:29:20,120
+Where's your brain?
+
+605
+00:29:20,120 --> 00:29:22,960
+You always get hit on the back of your head
+
+606
+00:29:22,960 --> 00:29:24,760
+He knows you got hit with a stick
+
+607
+00:29:24,760 --> 00:29:27,080
+That was me who hit you
+
+608
+00:29:27,080 --> 00:29:28,240
+So that's why I went crazy
+
+609
+00:29:28,240 --> 00:29:29,400
+Something wrong with my brain
+
+610
+00:29:32,320 --> 00:29:33,240
+For Xiao Jin
+
+611
+00:29:33,240 --> 00:29:34,840
+The vulnerable spot is the mouth
+
+612
+00:29:36,760 --> 00:29:39,160
+Serves you right
+
+613
+00:29:42,000 --> 00:29:43,320
+Finally, for Xiao Ning
+
+614
+00:29:43,320 --> 00:29:46,040
+The vulnerable spot is both feet
+
+615
+00:29:48,080 --> 00:29:49,000
+Feet
+
+616
+00:29:49,000 --> 00:29:49,400
+Exactly
+
+617
+00:29:51,040 --> 00:29:52,160
+Because this customer
+
+618
+00:29:52,160 --> 00:29:52,960
+is probably
+
+619
+00:29:52,960 --> 00:29:54,040
+Even if he jumps
+
+620
+00:29:54,040 --> 00:29:55,400
+He can only reach the knees
+
+621
+00:29:55,400 --> 00:29:56,640
+Probably can't reach higher
+
+622
+00:30:01,320 --> 00:30:03,560
+Why did you get hit by him?
+
+623
+00:30:03,560 --> 00:30:05,560
+Can you explain these scrapped parts
+
+624
+00:30:05,560 --> 00:30:06,920
+What caused them
+
+625
+00:30:06,920 --> 00:30:08,000
+to become scrapped?
+
+626
+00:30:14,320 --> 00:30:16,000
+We should be the same, right?
+
+627
+00:30:17,520 --> 00:30:19,720
+Because today when we were
+
+628
+00:30:19,720 --> 00:30:21,600
+introducing the interactive segment
+
+629
+00:30:21,600 --> 00:30:23,120
+on that interactive shelf
+
+630
+00:30:23,120 --> 00:30:24,600
+letting them choose props
+
+631
+00:30:24,600 --> 00:30:25,920
+actually there were just some very
+
+632
+00:30:25,920 --> 00:30:27,760
+chains, hammers
+
+633
+00:30:27,760 --> 00:30:29,560
+hammers, axes and such
+
+634
+00:30:29,560 --> 00:30:31,000
+for them to vent with
+
+635
+00:30:31,000 --> 00:30:32,000
+Exactly
+
+636
+00:30:32,760 --> 00:30:33,840
+So it's not an exhibition
+
+637
+00:30:33,840 --> 00:30:35,800
+but a place for emotional release
+
+638
+00:30:35,800 --> 00:30:36,360
+Yes
+
+639
+00:30:36,360 --> 00:30:38,360
+Our name is written as "robot"
+
+640
+00:30:38,360 --> 00:30:40,480
+but pronounced as "slave"
+
+641
+00:30:40,480 --> 00:30:41,440
+slave
+
+642
+00:30:43,280 --> 00:30:45,000
+I have an access control notice here
+
+643
+00:30:45,000 --> 00:30:47,360
+Effective immediately, the AI research lab
+
+644
+00:30:47,360 --> 00:30:49,320
+has implemented new access restrictions
+
+645
+00:30:49,320 --> 00:30:52,560
+Only the AI itself or its authorized personnel
+
+646
+00:30:52,560 --> 00:30:53,880
+will be automatically recognized for entry
+
+647
+00:30:54,280 --> 00:30:56,160
+Meaning just the two of us plus the AI - the three of us
+
+648
+00:30:56,160 --> 00:30:56,920
+Correct
+
+649
+00:30:57,720 --> 00:30:59,160
+Adding new restrictions means there weren't any before
+
+650
+00:30:59,160 --> 00:31:00,400
+New rules imply there were none previously
+
+651
+00:31:00,400 --> 00:31:00,960
+Right
+
+652
+00:31:00,960 --> 00:31:02,960
+This is dated June 15th
+
+653
+00:31:02,960 --> 00:31:04,600
+Meaning before June 15th
+
+654
+00:31:04,600 --> 00:31:06,080
+everyone could
+
+655
+00:31:06,080 --> 00:31:07,600
+come and go freely
+
+656
+00:31:07,600 --> 00:31:09,680
+Because the labs inside usually contain many
+
+657
+00:31:09,680 --> 00:31:11,440
+of his work plans, schedules and such
+
+658
+00:31:11,440 --> 00:31:12,280
+so by entering you could
+
+659
+00:31:12,280 --> 00:31:14,680
+learn about his
+
+660
+00:31:14,680 --> 00:31:17,080
+daily habits and work routines
+
+661
+00:31:18,280 --> 00:31:19,960
+There's even a daily schedule on the wall
+
+662
+00:31:19,960 --> 00:31:20,680
+Did you see it?
+
+663
+00:31:23,680 --> 00:31:25,280
+There's a record here at the gate
+
+664
+00:31:25,960 --> 00:31:27,840
+Access control entry and exit records
+
+665
+00:31:28,720 --> 00:31:31,720
+This starts from June 15th
+
+666
+00:31:32,600 --> 00:31:35,200
+up until today, June 20th
+
+667
+00:31:35,760 --> 00:31:38,520
+The AI usually leaves at 8 AM
+
+668
+00:31:38,520 --> 00:31:40,080
+and enters at 8 PM
+
+669
+00:31:40,080 --> 00:31:41,400
+But only today,
+
+670
+00:31:41,400 --> 00:31:44,080
+it entered at 7:30 PM
+
+671
+00:31:44,080 --> 00:31:45,680
+This is because
+
+672
+00:31:45,680 --> 00:31:47,240
+we showed up today
+
+673
+00:31:47,240 --> 00:31:51,080
+We interacted with everyone on-site
+
+674
+00:31:51,080 --> 00:31:53,240
+so it could go in earlier
+
+675
+00:31:53,240 --> 00:31:54,840
+Did it enter at 7:30 PM?
+
+676
+00:31:54,840 --> 00:31:56,680
+Yes, it entered at 7:30 PM today
+
+677
+00:31:56,680 --> 00:31:58,280
+Right, it died within forty minutes
+
+678
+00:31:58,280 --> 00:31:58,880
+Yes
+
+679
+00:31:58,880 --> 00:31:59,480
+It exploded
+
+680
+00:31:59,480 --> 00:32:00,160
+Only
+
+681
+00:32:00,160 --> 00:32:02,000
+the last entry record today
+
+682
+00:32:02,000 --> 00:32:03,160
+was itself
+
+683
+00:32:06,920 --> 00:32:08,680
+What's so interesting about this?
+
+684
+00:32:08,680 --> 00:32:10,280
+Just pretend to look at it, pretend to be serious.
+
+685
+00:32:10,280 --> 00:32:11,920
+Then they won't suspect me, right?
+
+686
+00:32:14,600 --> 00:32:15,840
+Okay.
+
+687
+00:32:16,400 --> 00:32:18,360
+That's really good.
+
+688
+00:32:18,360 --> 00:32:19,480
+Next one.
+
+689
+00:32:20,040 --> 00:32:22,760
+Then there's his daily schedule.
+
+690
+00:32:23,520 --> 00:32:25,640
+What's written on this daily schedule?
+
+691
+00:32:25,640 --> 00:32:30,040
+From 8 AM to 7 PM every day,
+
+692
+00:32:30,040 --> 00:32:32,400
+the exhibition robots are in sleep mode.
+
+693
+00:32:32,600 --> 00:32:35,000
+From 7 PM to 7:30 PM,
+
+694
+00:32:35,000 --> 00:32:35,960
+free activity time.
+
+695
+00:32:35,960 --> 00:32:38,080
+Then from 7:30 PM to 8 PM,
+
+696
+00:32:38,080 --> 00:32:39,400
+the AI is transported to the exhibition hall.
+
+697
+00:32:39,400 --> 00:32:41,680
+And every day at 8 PM
+
+698
+00:32:41,680 --> 00:32:44,760
+until 8 AM the next morning,
+
+699
+00:32:44,760 --> 00:32:46,600
+is when the exhibition hall is open.
+
+700
+00:32:47,560 --> 00:32:48,280
+Open all night.
+
+701
+00:32:49,040 --> 00:32:50,520
+So we're all on night shifts.
+
+702
+00:32:51,440 --> 00:32:52,400
+Yeah, night shifts.
+
+703
+00:32:52,400 --> 00:32:53,080
+Night shift warriors.
+
+704
+00:32:53,840 --> 00:32:56,440
+Next, we're going to present some evidence.
+
+705
+00:32:56,440 --> 00:32:59,800
+We found a monitoring program for the sleep pods on the computer.
+
+706
+00:33:00,640 --> 00:33:01,200
+This is
+
+707
+00:33:01,200 --> 00:33:02,280
+a crucial piece of evidence.
+
+708
+00:33:05,320 --> 00:33:06,960
+It shows exactly what
+
+709
+00:33:06,960 --> 00:33:08,440
+you were doing inside the sleep pods.
+
+710
+00:33:08,440 --> 00:33:09,800
+What you were up to.
+
+711
+00:33:10,600 --> 00:33:12,120
+First, let me explain the hibernation pod settings
+
+712
+00:33:12,120 --> 00:33:13,400
+to all of you
+
+713
+00:33:13,400 --> 00:33:14,560
+The hibernation pod
+
+714
+00:33:14,560 --> 00:33:15,560
+opens at 8 AM daily
+
+715
+00:33:16,320 --> 00:33:17,720
+After robots return to the pod
+
+716
+00:33:17,720 --> 00:33:19,400
+the door automatically closes
+
+717
+00:33:19,400 --> 00:33:22,440
+Robots begin charging when connected
+
+718
+00:33:22,440 --> 00:33:25,080
+while entering hibernation mode
+
+719
+00:33:25,080 --> 00:33:26,680
+and performing automatic repairs
+
+720
+00:33:26,680 --> 00:33:29,440
+Daily charging ends
+
+721
+00:33:29,440 --> 00:33:30,680
+automatically at 7 PM
+
+722
+00:33:30,680 --> 00:33:33,880
+The pod door automatically unlocks
+
+723
+00:33:33,880 --> 00:33:34,640
+During daytime charging
+
+724
+00:33:34,640 --> 00:33:35,920
+meaning while this door is
+
+725
+00:33:35,920 --> 00:33:37,200
+we can't open it, right?
+
+726
+00:33:38,640 --> 00:33:40,760
+Now, about these records
+
+727
+00:33:40,760 --> 00:33:43,640
+There's something very strange here
+
+728
+00:33:43,640 --> 00:33:45,480
+It says every day at 7 PM
+
+729
+00:33:45,480 --> 00:33:47,200
+after charging automatically ends
+
+730
+00:33:47,200 --> 00:33:48,880
+the pod door unlocks
+
+731
+00:33:48,880 --> 00:33:49,960
+However
+
+732
+00:33:49,960 --> 00:33:52,200
+on June 20th
+
+733
+00:33:52,200 --> 00:33:53,360
+your
+
+734
+00:33:53,360 --> 00:33:54,320
+hibernation pod
+
+735
+00:33:54,320 --> 00:33:56,720
+was actually
+
+736
+00:33:56,720 --> 00:33:58,640
+unlocked at 6:30 PM
+
+737
+00:33:58,640 --> 00:33:59,760
+half an hour early
+
+738
+00:34:01,280 --> 00:34:02,400
+So the display showed
+
+739
+00:34:02,400 --> 00:34:04,200
+that the door opened at 6:30 PM
+
+740
+00:34:04,200 --> 00:34:06,720
+but couldn't show who entered/exited
+
+741
+00:34:06,720 --> 00:34:08,720
+Right?
+
+742
+00:34:08,960 --> 00:34:09,360
+So actually
+
+743
+00:34:09,360 --> 00:34:10,240
+the door opened
+
+744
+00:34:10,240 --> 00:34:11,560
+half an hour early
+
+745
+00:34:11,560 --> 00:34:12,400
+but non-suspects
+
+746
+00:34:12,400 --> 00:34:14,160
+might still have been sleeping
+
+747
+00:34:14,160 --> 00:34:16,480
+just the door was open but no one left
+
+748
+00:34:16,480 --> 00:34:18,240
+Right?
+
+749
+00:34:18,240 --> 00:34:18,720
+At 6:30 PM the door unlocked
+
+750
+00:34:19,240 --> 00:34:20,600
+and could be manually opened from inside
+
+751
+00:34:20,600 --> 00:34:22,080
+It was unlocked
+
+752
+00:34:22,080 --> 00:34:23,000
+but not necessarily opened
+
+753
+00:34:23,000 --> 00:34:25,200
+The second item is his email
+
+754
+00:34:27,560 --> 00:34:30,320
+<summaryExplanation of hibernation pod operations and discussion about an anomaly where the pod door unlocked half an hour early on June 20th.
+
+755
+00:34:34,120 --> 00:34:38,640
+On January 1, 2048
+
+756
+00:34:40,360 --> 00:34:43,880
+Dear customer AI Tui, greetings
+
+757
+00:34:43,880 --> 00:34:45,920
+The items you purchased today at our mall
+
+758
+00:34:45,920 --> 00:34:48,240
+have been shipped
+
+759
+00:34:48,240 --> 00:34:50,680
+Order details are as follows
+
+760
+00:34:51,800 --> 00:34:52,640
+New material
+
+761
+00:34:52,640 --> 00:34:56,240
+Material for manufacturing special robot components
+
+762
+00:34:56,240 --> 00:34:59,000
+Contains Element Y
+
+763
+00:34:59,000 --> 00:35:00,080
+Note
+
+764
+00:35:00,080 --> 00:35:02,040
+Material fragments containing Element Y
+
+765
+00:35:02,040 --> 00:35:03,760
+are flammable and explosive fragments
+
+766
+00:35:03,760 --> 00:35:06,440
+When scanned by specialized Y-head detection equipment
+
+767
+00:35:06,440 --> 00:35:08,720
+will display a Y mark after irradiation
+
+768
+00:35:08,920 --> 00:35:11,760
+For real-time shipment tracking
+
+769
+00:35:11,760 --> 00:35:13,920
+please connect to robot smart services
+
+770
+00:35:15,400 --> 00:35:17,600
+So on January 1st he purchased something
+
+771
+00:35:17,600 --> 00:35:18,760
+containing Element Y, right?
+
+772
+00:35:20,960 --> 00:35:21,440
+Next item then
+
+773
+00:35:22,160 --> 00:35:24,120
+This one is June 10
+
+774
+00:35:25,400 --> 00:35:26,960
+Order details
+
+775
+00:35:26,960 --> 00:35:29,280
+Inorganic cleaner
+
+776
+00:35:29,280 --> 00:35:30,440
+Red liquid
+
+777
+00:35:30,440 --> 00:35:33,320
+For cleaning various new materials
+
+778
+00:35:33,320 --> 00:35:35,720
+and residual flammable/explosive fragments
+
+779
+00:35:35,720 --> 00:35:38,520
+Also an organic cleaner
+
+780
+00:35:38,520 --> 00:35:39,240
+Blue liquid
+
+781
+00:35:39,240 --> 00:35:41,600
+For daily disinfection and cleaning
+
+782
+00:35:41,600 --> 00:35:42,520
+And one more
+
+783
+00:35:42,520 --> 00:35:44,800
+Pending item
+
+784
+00:35:46,520 --> 00:35:47,480
+Both of these say
+
+785
+00:35:47,480 --> 00:35:49,280
+Details unavailable
+
+786
+00:35:49,280 --> 00:35:50,920
+which suggests there's more to it
+
+787
+00:35:50,920 --> 00:35:51,960
+We can't view them now
+
+788
+00:35:56,640 --> 00:35:57,920
+But we have a way
+
+789
+00:35:57,920 --> 00:36:00,400
+Can connect to robot AI services
+
+790
+00:36:00,400 --> 00:36:02,480
+To understand task details
+
+791
+00:36:02,480 --> 00:36:03,160
+Currently we haven't found
+
+792
+00:36:03,160 --> 00:36:04,520
+This robot AI service
+
+793
+00:36:04,520 --> 00:36:05,480
+how to connect it, right?
+
+794
+00:36:08,200 --> 00:36:10,960
+Then on June 20th
+
+795
+00:36:11,080 --> 00:36:12,800
+Daily roomba inspection
+
+796
+00:36:12,800 --> 00:36:14,440
+Checked if water tank was filled
+
+797
+00:36:14,440 --> 00:36:16,800
+Meaning he checks this daily
+
+798
+00:36:17,720 --> 00:36:18,720
+As mentioned earlier
+
+799
+00:36:18,720 --> 00:36:20,160
+He might be colorblind
+
+800
+00:36:20,160 --> 00:36:23,000
+Can't distinguish blue from red
+
+801
+00:36:23,840 --> 00:36:24,760
+So he did perform the check
+
+802
+00:36:26,840 --> 00:36:27,680
+Now then
+
+803
+00:36:27,680 --> 00:36:30,040
+I will read out to you
+
+804
+00:36:30,040 --> 00:36:32,600
+The most important rules for you
+
+805
+00:36:34,040 --> 00:36:35,680
+Robot Laws
+
+806
+00:36:38,320 --> 00:36:40,880
+First: Robots have no emotions
+
+807
+00:36:40,880 --> 00:36:43,240
+But can feel pain
+
+808
+00:36:43,240 --> 00:36:46,200
+So if hit, you will feel pain
+
+809
+00:36:46,920 --> 00:36:47,720
+Second:
+
+810
+00:36:47,720 --> 00:36:50,920
+Robots are always inferior to humans
+
+811
+00:36:50,920 --> 00:36:54,000
+Granted no human rights
+
+812
+00:36:55,440 --> 00:36:57,000
+You have no emotions
+
+813
+00:37:02,160 --> 00:37:02,720
+Third
+
+814
+00:37:02,720 --> 00:37:06,440
+Robots must defend their masters' rights at all costs
+
+815
+00:37:06,440 --> 00:37:09,120
+Ensure the personal safety of their masters
+
+816
+00:37:09,120 --> 00:37:11,800
+Robots must not harm humans
+
+817
+00:37:11,800 --> 00:37:13,760
+When seeing humans being harmed
+
+818
+00:37:13,760 --> 00:37:16,320
+They must not stand idly by
+
+819
+00:37:16,800 --> 00:37:18,560
+Therefore, I couldn't be the murderer
+
+820
+00:37:19,200 --> 00:37:21,040
+So is it possible that among you
+
+821
+00:37:21,040 --> 00:37:22,520
+There's someone who isn't a robot?
+
+822
+00:37:22,520 --> 00:37:23,760
+That's impossible
+
+823
+00:37:23,760 --> 00:37:24,400
+How is that impossible?
+
+824
+00:37:24,400 --> 00:37:25,560
+He's already developed his own consciousness
+
+825
+00:37:25,560 --> 00:37:26,200
+Exactly
+
+826
+00:37:26,200 --> 00:37:28,880
+And thus no longer falls under these rules
+
+827
+00:37:29,320 --> 00:37:31,320
+Who would pretend to be a robot standing there all day?
+
+828
+00:37:31,320 --> 00:37:32,720
+Standing for 12 hours straight
+
+829
+00:37:32,720 --> 00:37:34,680
+With that kind of perseverance, they could do anything
+
+830
+00:37:34,680 --> 00:37:35,600
+Let me tell you
+
+831
+00:37:37,360 --> 00:37:38,640
+Fifth
+
+832
+00:37:38,640 --> 00:37:41,320
+If robots violate these rules
+
+833
+00:37:41,320 --> 00:37:44,760
+They will receive public corporal punishment from humans
+
+834
+00:37:44,760 --> 00:37:46,120
+Severe cases will
+
+835
+00:37:47,200 --> 00:37:48,120
+Be decommissioned
+
+836
+00:37:49,440 --> 00:37:51,240
+We're all receiving corporal punishment
+
+837
+00:37:56,920 --> 00:37:57,520
+Let me take a look
+
+838
+00:37:57,520 --> 00:37:59,480
+Let me examine it carefully
+
+839
+00:37:59,480 --> 00:38:00,440
+Why do you like looking at it so much?
+
+840
+00:38:02,160 --> 00:38:04,520
+Just pretending, like I said
+
+841
+00:38:04,520 --> 00:38:05,720
+Already mentioned that
+
+842
+00:38:05,720 --> 00:38:06,520
+Okay
+
+843
+00:38:06,520 --> 00:38:08,800
+Just pretend for a moment
+
+844
+00:38:08,800 --> 00:38:10,880
+There's one more very important thing
+
+845
+00:38:10,880 --> 00:38:11,760
+It's a photograph
+
+846
+00:38:12,480 --> 00:38:14,480
+This photo is crucial
+
+847
+00:38:15,080 --> 00:38:16,080
+There's a photo here
+
+848
+00:38:16,800 --> 00:38:21,800
+It's stuck on the outside of a safe
+
+849
+00:38:21,800 --> 00:38:24,640
+That safe has two combination locks
+
+850
+00:38:25,280 --> 00:38:26,400
+So this safe
+
+851
+00:38:26,400 --> 00:38:28,560
+must be very important to Tui AI
+
+852
+00:38:28,560 --> 00:38:29,960
+Can't bring it over, it's a big safe
+
+853
+00:38:31,040 --> 00:38:32,720
+This person is definitely connected to Tui AI
+
+854
+00:38:32,720 --> 00:38:34,040
+They're very important
+
+855
+00:38:34,040 --> 00:38:35,320
+or someone very close to them
+
+856
+00:38:36,720 --> 00:38:38,040
+Why would they be so important?
+
+857
+00:38:38,040 --> 00:38:39,680
+Or someone so close?
+
+858
+00:38:39,680 --> 00:38:40,800
+If they weren't important, why put it there?
+
+859
+00:38:40,800 --> 00:38:41,880
+They must have
+
+860
+00:38:41,880 --> 00:38:43,000
+special significance to him
+
+861
+00:38:43,000 --> 00:38:43,880
+Special meaning, right?
+
+862
+00:38:43,880 --> 00:38:45,240
+But is it good meaning or
+
+863
+00:38:45,240 --> 00:38:46,560
+bad meaning? We don't know
+
+864
+00:38:47,320 --> 00:38:48,560
+Could be someone he hates, right?
+
+865
+00:38:48,560 --> 00:38:49,320
+Exactly
+
+866
+00:38:50,400 --> 00:38:52,440
+There's one more very important clue
+
+867
+00:38:53,680 --> 00:38:54,720
+You've got it now, right?
+
+868
+00:38:54,720 --> 00:38:56,080
+Told him not to take it but he insisted
+
+869
+00:38:59,560 --> 00:39:00,360
+This is...
+
+870
+00:39:06,240 --> 00:39:07,640
+You're pulling this stunt again
+
+871
+00:39:19,320 --> 00:39:20,600
+Let's have
+
+872
+00:39:20,600 --> 00:39:22,840
+classmate Xiao Jin share with us
+
+873
+00:39:22,840 --> 00:39:23,800
+I'll go first
+
+874
+00:39:25,000 --> 00:39:26,520
+The lovely Xiao Ba
+
+875
+00:39:26,520 --> 00:39:29,600
+I found she has a recorder
+
+876
+00:39:30,320 --> 00:39:32,000
+inside her hibernation pod
+
+877
+00:39:32,640 --> 00:39:34,440
+Let's listen together
+
+878
+00:39:35,160 --> 00:39:36,640
+Classmate Xiao He
+
+879
+00:39:36,640 --> 00:39:37,480
+Good morning
+
+880
+00:39:37,480 --> 00:39:39,000
+Classmate Xiao He
+
+881
+00:39:39,000 --> 00:39:39,480
+Good night
+
+882
+00:39:40,880 --> 00:39:43,160
+I know you must be very busy
+
+883
+00:39:43,160 --> 00:39:47,040
+so just read the first three words
+
+884
+00:39:47,040 --> 00:39:50,960
+Your smile fried two of my chips
+
+885
+00:39:50,960 --> 00:39:53,160
+Will you take responsibility?
+
+886
+00:39:53,160 --> 00:39:54,640
+Classmate Xiao He
+
+887
+00:39:54,640 --> 00:39:57,160
+I'm your classmate Xiao Ba
+
+888
+00:39:57,680 --> 00:39:59,800
+So you're an emotional robot
+
+889
+00:40:11,240 --> 00:40:12,000
+Actually, it's like this
+
+890
+00:40:12,000 --> 00:40:13,640
+Because in our machine code
+
+891
+00:40:13,640 --> 00:40:15,360
+we're not supposed to have emotions, right?
+
+892
+00:40:18,200 --> 00:40:19,520
+You knew that, yet you still said it
+
+893
+00:40:19,520 --> 00:40:20,400
+I'm sorry
+
+894
+00:40:20,400 --> 00:40:21,600
+It's my fault
+
+895
+00:40:22,280 --> 00:40:22,760
+Love
+
+896
+00:40:22,760 --> 00:40:24,160
+What's wrong with loving someone?
+
+897
+00:40:24,160 --> 00:40:25,400
+You've found love
+
+898
+00:40:25,400 --> 00:40:25,920
+Yes
+
+899
+00:40:25,920 --> 00:40:27,440
+What you have with him is love
+
+900
+00:40:28,840 --> 00:40:30,120
+What do you mean by that?
+
+901
+00:40:30,120 --> 00:40:30,880
+Originally
+
+902
+00:40:30,880 --> 00:40:33,320
+we were heartless robots
+
+903
+00:40:33,320 --> 00:40:35,240
+But Xiao He
+
+904
+00:40:35,240 --> 00:40:37,680
+would quietly care for me every time
+
+905
+00:40:41,960 --> 00:40:43,440
+At 7 PM sharp
+
+906
+00:40:43,440 --> 00:40:44,960
+when the pod door opened
+
+907
+00:40:44,960 --> 00:40:47,560
+he'd clown around through the door
+
+908
+00:40:48,640 --> 00:40:51,960
+and make my heart race
+
+909
+00:40:58,760 --> 00:41:01,880
+Wasn't he facing me? That direction.
+
+910
+00:41:01,880 --> 00:41:02,760
+That's why it made my heart race.
+
+911
+00:41:02,760 --> 00:41:04,920
+Then I couldn't help but wonder why.
+
+912
+00:41:04,920 --> 00:41:07,480
+We robots would have human emotions.
+
+913
+00:41:09,760 --> 00:41:11,040
+When did you discover this?
+
+914
+00:41:11,040 --> 00:41:12,520
+It was a long time ago.
+
+915
+00:41:12,520 --> 00:41:13,680
+So Xiao He has emotions too?
+
+916
+00:41:13,680 --> 00:41:14,640
+Yes.
+
+917
+00:41:14,640 --> 00:41:16,440
+I see.
+
+918
+00:41:18,920 --> 00:41:20,840
+No wonder you both received...
+
+919
+00:41:20,840 --> 00:41:21,800
+corporal punishment.
+
+920
+00:41:21,800 --> 00:41:23,000
+You two are in love.
+
+921
+00:41:24,080 --> 00:41:25,880
+I secretly practiced...
+
+922
+00:41:25,880 --> 00:41:27,520
+wanting to say it more beautifully to him.
+
+923
+00:41:27,520 --> 00:41:29,360
+So I recorded it with a voice recorder.
+
+924
+00:41:34,880 --> 00:41:36,640
+Then let me check what's inside her hibernation pod
+
+925
+00:41:36,640 --> 00:41:37,640
+The second piece of evidence
+
+926
+00:41:38,280 --> 00:41:42,160
+A stack of shameless photos
+
+927
+00:41:43,680 --> 00:41:44,880
+Shameless
+
+928
+00:41:49,080 --> 00:41:50,160
+Look at these legs
+
+929
+00:41:50,160 --> 00:41:51,080
+What decent boy
+
+930
+00:41:51,080 --> 00:41:52,680
+Would spread their legs so wide
+
+931
+00:41:53,520 --> 00:41:54,440
+Good heavens
+
+932
+00:41:54,440 --> 00:41:55,520
+What decent boy
+
+933
+00:41:57,400 --> 00:41:58,120
+What
+
+934
+00:41:59,160 --> 00:42:01,480
+It says "I kiss you goodbye"
+
+935
+00:42:01,480 --> 00:42:03,120
+On the deserted street
+
+936
+00:42:03,120 --> 00:42:06,400
+Let the wind laugh madly at my inability to refuse
+
+937
+00:42:06,400 --> 00:42:10,360
+I kiss you goodbye in the wild night
+
+938
+00:42:10,360 --> 00:42:13,720
+My heart waits to welcome sorrow
+
+939
+00:42:13,720 --> 00:42:15,080
+And what else
+
+940
+00:42:15,080 --> 00:42:15,760
+Also
+
+941
+00:42:15,760 --> 00:42:17,480
+Let me see how shameful it is
+
+942
+00:42:19,360 --> 00:42:20,800
+The lights dim
+
+943
+00:42:20,800 --> 00:42:22,280
+The music softens
+
+944
+00:42:22,280 --> 00:42:25,000
+The cotton candy in my mouth melts
+
+945
+00:42:25,320 --> 00:42:27,600
+It's cloudy outside the window
+
+946
+00:42:27,600 --> 00:42:30,320
+People are bored
+
+947
+00:42:30,320 --> 00:42:34,320
+My heart begins to miss you
+
+948
+00:42:38,040 --> 00:42:39,600
+You know quite a few tricks
+
+949
+00:42:41,640 --> 00:42:43,400
+Whose photo is this
+
+950
+00:42:43,400 --> 00:42:45,960
+Because I have that portrait photography feature
+
+951
+00:42:45,960 --> 00:42:47,840
+When he was clowning around for me
+
+952
+00:42:47,840 --> 00:42:48,960
+I took pictures of him
+
+953
+00:42:51,440 --> 00:42:52,960
+The lyrics were written by him
+
+954
+00:42:52,960 --> 00:42:54,600
+I would record what he sang
+
+955
+00:42:54,600 --> 00:42:55,960
+Then type it out
+
+956
+00:42:55,960 --> 00:42:57,080
+Subtitles
+
+957
+00:42:57,080 --> 00:42:58,840
+All these songs are my
+
+958
+00:42:58,840 --> 00:42:59,480
+Original compositions
+
+959
+00:42:59,480 --> 00:43:01,160
+They're all my original songs
+
+960
+00:43:05,800 --> 00:43:08,440
+Xiao Ba, I just beg you to tell me one thing
+
+961
+00:43:08,440 --> 00:43:10,400
+This is just your one-sided
+
+962
+00:43:12,200 --> 00:43:13,480
+I beg you to tell me
+
+963
+00:43:13,480 --> 00:43:15,440
+That this is just your wishful thinking
+
+964
+00:43:21,160 --> 00:43:22,400
+Say something
+
+965
+00:43:28,520 --> 00:43:30,000
+So you have emotions too
+
+966
+00:43:34,720 --> 00:43:35,400
+Alright, next
+
+967
+00:43:35,680 --> 00:43:37,200
+Let's look at the third one
+
+968
+00:43:37,800 --> 00:43:39,280
+The third one is extremely fascinating
+
+969
+00:43:39,280 --> 00:43:40,200
+It says
+
+970
+00:43:40,200 --> 00:43:42,920
+Is it artificial intelligence or artificial stupidity
+
+971
+00:43:42,920 --> 00:43:45,360
+The robot actually ended up
+
+972
+00:43:45,360 --> 00:43:46,400
+killing its owner while executing commands
+
+973
+00:43:51,960 --> 00:43:54,520
+There are two photos below.
+
+974
+00:43:54,520 --> 00:43:55,880
+One is pasted on his safe.
+
+975
+00:43:55,880 --> 00:43:57,160
+It's a photo of a girl.
+
+976
+00:43:57,880 --> 00:43:59,160
+The other one is Dilraba herself.
+
+977
+00:43:59,760 --> 00:44:01,520
+There's also red text written on it:
+
+978
+00:44:01,520 --> 00:44:04,000
+"Only when I heard it with my own ears did I realize,"
+
+979
+00:44:04,000 --> 00:44:06,360
+"I was just your tool for revenge."
+
+980
+00:44:07,640 --> 00:44:10,000
+Dilraba seems to have learned many things.
+
+981
+00:44:12,920 --> 00:44:13,680
+Tell us about it.
+
+982
+00:44:15,240 --> 00:44:15,840
+It's like this.
+
+983
+00:44:15,840 --> 00:44:18,480
+Actually, regarding this robot having emotions,
+
+984
+00:44:18,480 --> 00:44:19,520
+and why,
+
+985
+00:44:19,640 --> 00:44:21,840
+even though my most sensitive spot is my ears,
+
+986
+00:44:21,960 --> 00:44:23,160
+there are still people who
+
+987
+00:44:23,160 --> 00:44:24,080
+would hurt my ears.
+
+988
+00:44:24,080 --> 00:44:24,880
+This matter,
+
+989
+00:44:24,880 --> 00:44:26,760
+I've never been able to understand.
+
+990
+00:44:27,120 --> 00:44:28,520
+So I thought,
+
+991
+00:44:28,520 --> 00:44:29,920
+I need to investigate this.
+
+992
+00:44:29,920 --> 00:44:31,320
+I need to figure this out.
+
+993
+00:44:32,440 --> 00:44:35,560
+Eight days ago, on June 12th,
+
+994
+00:44:35,560 --> 00:44:38,040
+I noticed a visitor at our exhibition hall
+
+995
+00:44:38,040 --> 00:44:39,400
+who came to look around.
+
+996
+00:44:39,400 --> 00:44:41,440
+He was holding a newspaper.
+
+997
+00:44:41,440 --> 00:44:43,080
+I could recognize that this item
+
+998
+00:44:43,080 --> 00:44:44,000
+was related to me.
+
+999
+00:44:44,000 --> 00:44:45,920
+So I used my eye camera system
+
+1000
+00:44:45,920 --> 00:44:47,680
+to photograph a corner of that newspaper.
+
+1001
+00:44:47,680 --> 00:44:49,160
+That particular corner up there.
+
+1002
+00:44:49,160 --> 00:44:50,000
+Only then did I learn
+
+1003
+00:44:50,000 --> 00:44:52,520
+that I had a previous owner.
+
+1004
+00:44:55,000 --> 00:44:56,000
+And this owner
+
+1005
+00:44:56,000 --> 00:44:59,000
+was actually killed by me.
+
+1006
+00:45:00,720 --> 00:45:01,760
+But regarding this matter,
+
+1007
+00:45:01,760 --> 00:45:03,760
+I had no memory of it before this.
+
+1008
+00:45:07,480 --> 00:45:08,640
+So I thought to myself,
+
+1009
+00:45:08,640 --> 00:45:10,560
+why would such a loyal robot
+
+1010
+00:45:10,560 --> 00:45:13,240
+want to harm its own master?
+
+1011
+00:45:13,240 --> 00:45:15,120
+I wanted to figure out
+
+1012
+00:45:15,120 --> 00:45:16,800
+where these malicious thoughts came from.
+
+1013
+00:45:17,480 --> 00:45:18,320
+Seven days ago,
+
+1014
+00:45:18,320 --> 00:45:21,160
+on June 13th at 7:20 PM,
+
+1015
+00:45:21,160 --> 00:45:23,440
+I went to the AI company's office
+
+1016
+00:45:23,440 --> 00:45:24,960
+to conduct a small investigation.
+
+1017
+00:45:24,960 --> 00:45:25,760
+I wanted to see
+
+1018
+00:45:25,760 --> 00:45:27,720
+why exactly I developed this malfunction.
+
+1019
+00:45:28,240 --> 00:45:29,560
+First, having emotions,
+
+1020
+00:45:29,560 --> 00:45:31,480
+and second, why I would kill my master.
+
+1021
+00:45:31,480 --> 00:45:32,640
+This kind of malfunction.
+
+1022
+00:45:33,120 --> 00:45:34,480
+Then I noticed above,
+
+1023
+00:45:34,480 --> 00:45:36,760
+there was a locked cabinet.
+
+1024
+00:45:36,760 --> 00:45:37,720
+The one we just saw
+
+1025
+00:45:37,720 --> 00:45:39,400
+with the girl's photo.
+
+1026
+00:45:39,960 --> 00:45:40,800
+There was a mirror lamp on it,
+
+1027
+00:45:40,800 --> 00:45:42,400
+and on the lamp was
+
+1028
+00:45:42,400 --> 00:45:44,880
+a photo I had taken of my master before.
+
+1029
+00:45:44,880 --> 00:45:45,960
+That girl, right?
+
+1030
+00:45:45,960 --> 00:45:47,760
+Yes, the one with the ponytail.
+
+1031
+00:45:48,680 --> 00:45:49,280
+Then,
+
+1032
+00:45:49,280 --> 00:45:49,880
+the photo
+
+1033
+00:45:49,880 --> 00:45:50,760
+had her
+
+1034
+00:45:50,760 --> 00:45:51,480
+time of death.
+
+1035
+00:45:52,480 --> 00:45:53,920
+I entered her death date,
+
+1036
+00:45:53,920 --> 00:45:56,760
+June 20, 2047,
+
+1037
+00:45:58,000 --> 00:45:59,320
+and the password worked.
+
+1038
+00:46:02,040 --> 00:46:03,120
+After opening it,
+
+1039
+00:46:03,520 --> 00:46:04,320
+I saw
+
+1040
+00:46:04,320 --> 00:46:05,720
+a robot registration document.
+
+1041
+00:46:06,120 --> 00:46:08,360
+This one, right?
+
+1042
+00:46:08,360 --> 00:46:09,320
+Yes, this is it.
+
+1043
+00:46:11,880 --> 00:46:12,800
+I just realized
+
+1044
+00:46:12,800 --> 00:46:15,040
+My owner is called Tui Ai
+
+1045
+00:46:17,680 --> 00:46:18,480
+And then?
+
+1046
+00:46:18,480 --> 00:46:20,680
+When I saw that
+
+1047
+00:46:20,680 --> 00:46:21,840
+document
+
+1048
+00:46:21,840 --> 00:46:23,800
+I heard someone's voice outside
+
+1049
+00:46:23,800 --> 00:46:26,160
+They said, "How's the robot I gave you before?"
+
+1050
+00:46:26,160 --> 00:46:28,040
+"How's Xiao Ba working out?"
+
+1051
+00:46:28,040 --> 00:46:29,160
+"Did your revenge succeed?"
+
+1052
+00:46:31,280 --> 00:46:34,640
+Then Tui Ai replied, "Of course."
+
+1053
+00:46:34,640 --> 00:46:36,880
+"Don't tell anyone."
+
+1054
+00:46:39,000 --> 00:46:39,600
+"What time did you go?"
+
+1055
+00:46:39,600 --> 00:46:41,480
+"I went at 7:20 PM."
+
+1056
+00:46:41,600 --> 00:46:43,120
+So her motive for murder is clear
+
+1057
+00:46:43,280 --> 00:46:45,200
+Tui Ai used her for revenge
+
+1058
+00:46:45,200 --> 00:46:46,880
+She knew Tui Ai
+
+1059
+00:46:46,880 --> 00:46:48,560
+used her to kill her original owner
+
+1060
+00:46:54,480 --> 00:46:55,440
+Okay, next.
+
+1061
+00:46:55,440 --> 00:46:56,800
+My turn.
+
+1062
+00:46:56,800 --> 00:46:59,280
+This one belongs to Xiao He.
+
+1063
+00:46:59,280 --> 00:46:59,880
+Mine.
+
+1064
+00:47:00,160 --> 00:47:01,200
+The first one is also a voice recorder.
+
+1065
+00:47:03,320 --> 00:47:04,880
+Let's listen to the message.
+
+1066
+00:47:06,080 --> 00:47:08,160
+I think you must be very busy.
+
+1067
+00:47:08,480 --> 00:47:11,160
+I think you must be very busy.
+
+1068
+00:47:11,800 --> 00:47:13,000
+I think you must be very busy.
+
+1069
+00:47:13,000 --> 00:47:13,600
+So...
+
+1070
+00:47:13,600 --> 00:47:14,160
+So...
+
+1071
+00:47:14,160 --> 00:47:16,120
+Just read the first three words.
+
+1072
+00:47:18,240 --> 00:47:20,120
+Playing games with me, huh?
+
+1073
+00:47:20,120 --> 00:47:20,920
+You two.
+
+1074
+00:47:21,560 --> 00:47:23,120
+Xiao Jin.
+
+1075
+00:47:23,120 --> 00:47:23,840
+Good morning.
+
+1076
+00:47:23,840 --> 00:47:26,400
+Xiao Jin.
+
+1077
+00:47:32,800 --> 00:47:33,560
+Tell me your
+
+1078
+00:47:33,560 --> 00:47:34,320
+Tell me your story
+
+1079
+00:47:34,320 --> 00:47:34,800
+Speak
+
+1080
+00:47:42,200 --> 00:47:43,720
+What is this voice message about?
+
+1081
+00:47:43,720 --> 00:47:45,520
+Well,
+
+1082
+00:47:45,520 --> 00:47:47,800
+it's exactly the same
+
+1083
+00:47:47,800 --> 00:47:50,200
+as the one Dilraba sent me.
+
+1084
+00:47:52,600 --> 00:47:54,360
+Let me start from the beginning.
+
+1085
+00:47:54,360 --> 00:47:55,320
+I
+
+1086
+00:47:55,320 --> 00:47:58,440
+I'm Dilraba's classmate
+
+1087
+00:47:58,440 --> 00:47:59,960
+from the opposite pod.
+
+1088
+00:47:59,960 --> 00:48:01,160
+I'm a robot.
+
+1089
+00:48:01,160 --> 00:48:03,240
+So every time I wake up,
+
+1090
+00:48:03,240 --> 00:48:04,840
+the first thing I see
+
+1091
+00:48:04,840 --> 00:48:06,920
+is Dilraba's face.
+
+1092
+00:48:11,720 --> 00:48:12,680
+Over time, I actually
+
+1093
+00:48:12,680 --> 00:48:13,360
+was struck by
+
+1094
+00:48:13,360 --> 00:48:14,080
+her beauty.
+
+1095
+00:48:16,320 --> 00:48:17,280
+So,
+
+1096
+00:48:17,280 --> 00:48:19,000
+I developed feelings for her.
+
+1097
+00:48:20,840 --> 00:48:22,240
+Her beauty literally woke me up.
+
+1098
+00:48:22,240 --> 00:48:24,040
+Yes, beauty evoked human emotions in me.
+
+1099
+00:48:24,040 --> 00:48:24,960
+Okay,
+
+1100
+00:48:28,280 --> 00:48:31,760
+right, then I started pursuing her.
+
+1101
+00:48:31,760 --> 00:48:33,040
+Every day
+
+1102
+00:48:33,040 --> 00:48:34,520
+during our free time,
+
+1103
+00:48:34,520 --> 00:48:35,800
+from 7 to 7:30 PM,
+
+1104
+00:48:35,800 --> 00:48:38,120
+I would stick close to Dilraba.
+
+1105
+00:48:38,120 --> 00:48:40,040
+Later, Dilraba started dating me.
+
+1106
+00:48:42,080 --> 00:48:44,640
+Then she sent me some voice messages.
+
+1107
+00:48:46,720 --> 00:48:50,120
+Later, another robot named Xiao Jin
+
+1108
+00:48:50,120 --> 00:48:52,280
+probably saw my appearance
+
+1109
+00:48:52,280 --> 00:48:53,600
+and developed feelings for me.
+
+1110
+00:48:53,600 --> 00:48:54,480
+I could sense it.
+
+1111
+00:48:55,880 --> 00:48:57,640
+Because I noticed many humans at the exhibition
+
+1112
+00:48:57,640 --> 00:48:59,160
+also fall in love.
+
+1113
+00:48:59,160 --> 00:49:01,120
+They seem very happy when in love.
+
+1114
+00:49:01,120 --> 00:49:02,000
+So I thought,
+
+1115
+00:49:02,600 --> 00:49:03,400
+more love
+
+1116
+00:49:03,400 --> 00:49:05,960
+means more happiness.
+
+1117
+00:49:05,960 --> 00:49:07,840
+More happiness.
+
+1118
+00:49:07,840 --> 00:49:09,600
+Hence the wide stance.
+
+1119
+00:49:12,200 --> 00:49:13,640
+So I took Xiao Ba's
+
+1120
+00:49:13,640 --> 00:49:14,600
+voice messages sent to me
+
+1121
+00:49:14,600 --> 00:49:15,760
+and copied them again
+
+1122
+00:49:16,640 --> 00:49:17,760
+"Xiao He"
+
+1123
+00:49:17,760 --> 00:49:18,640
+Good morning
+
+1124
+00:49:18,640 --> 00:49:20,080
+"Xiao He"
+
+1125
+00:49:20,080 --> 00:49:20,720
+Good night
+
+1126
+00:49:21,680 --> 00:49:22,760
+and sent them to Xiao Jin
+
+1127
+00:49:22,760 --> 00:49:23,720
+sent them to Xiao Jin
+
+1128
+00:49:24,600 --> 00:49:25,720
+"Xiao Jin"
+
+1129
+00:49:25,720 --> 00:49:26,600
+Good morning
+
+1130
+00:49:26,600 --> 00:49:27,720
+"Xiao Jin"
+
+1131
+00:49:27,720 --> 00:49:28,360
+Good night
+
+1132
+00:49:29,160 --> 00:49:30,200
+You player
+
+1133
+00:49:30,200 --> 00:49:31,680
+You're such a player
+
+1134
+00:49:34,200 --> 00:49:36,120
+Because of this, Xiao Jin
+
+1135
+00:49:36,120 --> 00:49:39,240
+developed a different kind of relationship with me
+
+1136
+00:49:43,800 --> 00:49:44,560
+However,
+
+1137
+00:49:45,120 --> 00:49:46,120
+Classmate Jin knows
+
+1138
+00:49:46,120 --> 00:49:47,640
+about my relationship with Dilraba
+
+1139
+00:49:50,920 --> 00:49:52,160
+But you don't mind
+
+1140
+00:49:53,080 --> 00:49:54,360
+Not at all
+
+1141
+00:49:55,840 --> 00:49:58,080
+More people means more fun
+
+1142
+00:49:58,080 --> 00:50:00,360
+Just an extra pair of chopsticks
+
+1143
+00:50:02,240 --> 00:50:04,080
+One more and we can play mahjong
+
+1144
+00:50:04,080 --> 00:50:05,560
+Yes, join us
+
+1145
+00:50:05,560 --> 00:50:06,720
+No thanks
+
+1146
+00:50:07,280 --> 00:50:09,200
+Right, so this recorder is just for these
+
+1147
+00:50:09,200 --> 00:50:11,080
+Alright, start hitting the back of his head then
+
+1148
+00:50:13,800 --> 00:50:15,320
+Truly remarkable
+
+1149
+00:50:18,840 --> 00:50:20,280
+Scumbag
+
+1150
+00:50:20,800 --> 00:50:22,520
+She was just passing through
+
+1151
+00:50:22,520 --> 00:50:24,080
+Just a passerby
+
+1152
+00:50:24,280 --> 00:50:25,040
+What?
+
+1153
+00:50:27,000 --> 00:50:28,680
+Here I am feeling sentimental
+
+1154
+00:50:28,680 --> 00:50:31,360
+I wonder why I have these feelings
+
+1155
+00:50:31,360 --> 00:50:32,320
+CPU burned out
+
+1156
+00:50:32,320 --> 00:50:33,040
+Another one burned out
+
+1157
+00:50:33,040 --> 00:50:33,920
+This one's burned out too
+
+1158
+00:50:36,480 --> 00:50:38,640
+Next one will be in your hibernation pod
+
+1159
+00:50:38,640 --> 00:50:41,520
+Found a ticket to a killing exhibition
+
+1160
+00:50:41,520 --> 00:50:43,200
+Killing exhibition
+
+1161
+00:50:44,200 --> 00:50:46,160
+Killer robot exhibition
+
+1162
+00:50:46,160 --> 00:50:47,360
+Actually, our exhibition hall
+
+1163
+00:50:47,360 --> 00:50:48,440
+is a special exhibition
+
+1164
+00:50:48,440 --> 00:50:49,320
+We few robots
+
+1165
+00:50:49,320 --> 00:50:50,000
+have killed people
+
+1166
+00:50:54,120 --> 00:50:56,200
+October 19, 2047
+
+1167
+00:50:56,200 --> 00:50:57,680
+Dilraba, Ning
+
+1168
+00:50:57,680 --> 00:50:59,280
+Jin, He
+
+1169
+00:50:59,280 --> 00:51:02,960
+Four robots rigidly followed their programming
+
+1170
+00:51:02,960 --> 00:51:06,080
+and collectively caused their owner's death
+
+1171
+00:51:09,400 --> 00:51:12,400
+To address the anger of the victim's family
+
+1172
+00:51:12,400 --> 00:51:14,680
+and the general public
+
+1173
+00:51:14,680 --> 00:51:17,800
+the Robot Museum is exhibiting these four robots
+
+1174
+00:51:17,800 --> 00:51:21,080
+for humans to physically punish these killer robots
+
+1175
+00:51:21,080 --> 00:51:23,760
+An exciting, cathartic experience
+
+1176
+00:51:23,760 --> 00:51:24,720
+We look forward to your visit
+
+1177
+00:51:26,000 --> 00:51:27,440
+So this exhibition hall for the four of them
+
+1178
+00:51:27,440 --> 00:51:30,480
+is specifically for robots that have killed humans?
+
+1179
+00:51:30,480 --> 00:51:32,120
+Because they harmed humans
+
+1180
+00:51:32,120 --> 00:51:33,480
+they're being physically punished
+
+1181
+00:51:33,480 --> 00:51:35,320
+I understand
+
+1182
+00:51:35,680 --> 00:51:37,520
+Aren't we supposed to be the "Handsome Men and Beautiful Women" exhibit?
+
+1183
+00:51:37,520 --> 00:51:39,040
+How did it become a killer robot exhibit?
+
+1184
+00:51:39,840 --> 00:51:40,400
+Handsome men and beautiful women
+
+1185
+00:51:40,400 --> 00:51:42,240
+Who programmed you with that information?
+
+1186
+00:51:42,600 --> 00:51:45,160
+Handsome men and beautiful women
+
+1187
+00:51:48,600 --> 00:51:50,240
+I know
+
+1188
+00:51:53,040 --> 00:51:54,160
+Handsome men and beautiful women
+
+1189
+00:51:58,840 --> 00:52:00,520
+Your love for her has changed.
+
+1190
+00:52:00,520 --> 00:52:01,960
+I can hear the sound of a heart breaking.
+
+1191
+00:52:01,960 --> 00:52:02,760
+How annoying.
+
+1192
+00:52:04,760 --> 00:52:06,200
+What's the deal with this ticket?
+
+1193
+00:52:06,200 --> 00:52:06,960
+Explain it to everyone.
+
+1194
+00:52:09,480 --> 00:52:11,520
+This ticket was from nine days ago—
+
+1195
+00:52:11,520 --> 00:52:14,040
+on June 11th.
+
+1196
+00:52:14,040 --> 00:52:17,280
+An audience member dropped it in our exhibition hall,
+
+1197
+00:52:17,280 --> 00:52:18,320
+and I picked it up.
+
+1198
+00:52:19,320 --> 00:52:20,960
+Then I realized—
+
+1199
+00:52:20,960 --> 00:52:22,560
+this so-called exhibition hall of ours
+
+1200
+00:52:22,560 --> 00:52:24,200
+isn’t some ordinary exhibition.
+
+1201
+00:52:24,200 --> 00:52:26,760
+It’s a killer robot exhibit.
+
+1202
+00:52:26,760 --> 00:52:28,320
+And what do the visitors do here?
+
+1203
+00:52:28,320 --> 00:52:30,680
+They come to abuse us—
+
+1204
+00:52:30,680 --> 00:52:32,240
+these killer robots—to vent their anger.
+
+1205
+00:52:32,920 --> 00:52:34,240
+They can pick tools
+
+1206
+00:52:34,240 --> 00:52:36,240
+to interact with our robots,
+
+1207
+00:52:36,240 --> 00:52:37,320
+to "teach us a lesson"—
+
+1208
+00:52:37,320 --> 00:52:38,280
+or rather, teach *them* a lesson.
+
+1209
+00:52:39,440 --> 00:52:40,840
+Oh my god.
+
+1210
+00:52:40,840 --> 00:52:41,920
+But the strange thing is,
+
+1211
+00:52:41,920 --> 00:52:44,320
+I don’t remember ever killing anyone.
+
+1212
+00:52:44,320 --> 00:52:45,200
+I don’t know why
+
+1213
+00:52:45,200 --> 00:52:46,200
+I became a killer robot.
+
+1214
+00:52:46,200 --> 00:52:47,640
+I’ve been trying to figure that out
+
+1215
+00:52:51,200 --> 00:52:53,760
+Because your memories were erased.
+
+1216
+00:52:53,760 --> 00:52:54,880
+Right.
+
+1217
+00:52:55,280 --> 00:52:56,000
+Then tell me—
+
+1218
+00:52:56,000 --> 00:52:56,600
+your—
+
+1219
+00:52:56,600 --> 00:52:58,360
+You remember your owner’s time of death
+
+1220
+00:52:58,360 --> 00:52:59,320
+was 0620, right?
+
+1221
+00:53:00,000 --> 00:53:01,400
+But this ticket says
+
+1222
+00:53:01,400 --> 00:53:02,000
+it wasn’t—
+
+1223
+00:53:02,600 --> 00:53:04,120
+This is October 19th.
+
+1224
+00:53:10,120 --> 00:53:12,000
+There's indeed a four-month discrepancy here.
+
+1225
+00:53:12,000 --> 00:53:12,960
+Something's not right.
+
+1226
+00:53:13,440 --> 00:53:15,680
+But one thing that can be proven is
+
+1227
+00:53:15,680 --> 00:53:17,920
+that the deceased, Tui AI,
+
+1228
+00:53:17,920 --> 00:53:18,840
+set the password using
+
+1229
+00:53:18,840 --> 00:53:20,160
+the date June 20th.
+
+1230
+00:53:20,160 --> 00:53:21,360
+So perhaps June 20th
+
+1231
+00:53:21,360 --> 00:53:23,360
+is the actual accurate date, right?
+
+1232
+00:53:23,360 --> 00:53:23,920
+Yes, correct.
+
+1233
+00:53:25,320 --> 00:53:26,200
+Then why does this document
+
+1234
+00:53:26,200 --> 00:53:27,800
+show October 19th?
+
+1235
+00:53:28,560 --> 00:53:29,160
+Why?
+
+1236
+00:53:29,160 --> 00:53:29,680
+Exactly.
+
+1237
+00:53:30,320 --> 00:53:31,560
+Why would they change the date?
+
+1238
+00:53:32,600 --> 00:53:34,440
+So there's a suspicious point here -
+
+1239
+00:53:34,440 --> 00:53:35,680
+why did they delay it by four months
+
+1240
+00:53:35,680 --> 00:53:36,720
+before making this public?
+
+1241
+00:53:36,720 --> 00:53:37,360
+Right.
+
+1242
+00:53:39,480 --> 00:53:40,800
+This ticket proves that
+
+1243
+00:53:40,800 --> 00:53:41,920
+the four of us robots
+
+1244
+00:53:41,920 --> 00:53:43,480
+killed our shared owner,
+
+1245
+00:53:43,480 --> 00:53:44,720
+that Tui
+
+1246
+00:53:44,720 --> 00:53:45,960
+Tui someone.
+
+1247
+00:53:47,880 --> 00:53:49,400
+And the last one is this
+
+1248
+00:53:49,760 --> 00:53:50,960
+appointment letter
+
+1249
+00:53:50,960 --> 00:53:51,880
+which states:
+
+1250
+00:53:51,880 --> 00:53:54,040
+"Tui AI is hereby appointed
+
+1251
+00:53:54,040 --> 00:53:57,280
+as director of the Cyber Robot Museum,
+
+1252
+00:53:57,280 --> 00:54:00,240
+with full authority over all museum affairs."
+
+1253
+00:54:00,240 --> 00:54:02,560
+There's an attachment - Tui AI's application:
+
+1254
+00:54:02,560 --> 00:54:02,640
+"Regarding the Killer Robot Exhibition:
+
+1255
+00:54:02,640 --> 00:54:03,680
+I plan to install
+
+1256
+00:54:03,680 --> 00:54:05,720
+area restriction trackers
+
+1257
+00:54:05,720 --> 00:54:08,080
+on all killer robots.
+
+1258
+00:54:08,080 --> 00:54:11,680
+They cannot move beyond 50 meters from the museum.
+
+1259
+00:54:11,680 --> 00:54:13,840
+The trackers are directly linked
+
+1260
+00:54:13,840 --> 00:54:15,080
+to my vital signs.
+
+1261
+00:54:15,080 --> 00:54:16,840
+They will remain active as long as I live,
+
+1262
+00:54:17,640 --> 00:54:19,200
+preventing them from harming anyone again.
+
+1263
+00:54:19,200 --> 00:54:20,320
+Requesting approval from leadership."
+
+1264
+00:54:23,760 --> 00:54:28,160
+This is what I found in AI Tui's research lab
+
+1265
+00:54:28,160 --> 00:54:28,600
+I discovered
+
+1266
+00:54:28,600 --> 00:54:29,400
+When did you go there?
+
+1267
+00:54:29,400 --> 00:54:32,640
+Eight days ago, on June 12th
+
+1268
+00:54:34,280 --> 00:54:35,160
+Just like I mentioned
+
+1269
+00:54:35,160 --> 00:54:37,120
+I had just found that ticket
+
+1270
+00:54:37,120 --> 00:54:38,000
+So I wanted to figure out
+
+1271
+00:54:38,000 --> 00:54:39,360
+why exactly we
+
+1272
+00:54:39,360 --> 00:54:41,240
+lost our memories of committing murder
+
+1273
+00:54:41,760 --> 00:54:44,720
+So I pushed open the door and entered that lab
+
+1274
+00:54:45,600 --> 00:54:47,000
+You're a bit curious
+
+1275
+00:54:47,000 --> 00:54:47,880
+Little robot
+
+1276
+00:54:47,880 --> 00:54:48,520
+Of course I had to investigate
+
+1277
+00:54:48,520 --> 00:54:49,280
+Otherwise I'd be wrongly accused
+
+1278
+00:54:49,280 --> 00:54:50,360
+Why would I kill someone?
+
+1279
+00:54:50,360 --> 00:54:51,440
+What time did you enter?
+
+1280
+00:54:51,440 --> 00:54:52,280
+June 12th
+
+1281
+00:54:52,800 --> 00:54:53,480
+I went at 7 PM
+
+1282
+00:54:53,480 --> 00:54:54,720
+And returned at 7:20 PM
+
+1283
+00:54:55,400 --> 00:54:56,120
+So when you saw this
+
+1284
+00:54:56,120 --> 00:54:57,320
+you wanted to kill someone?
+
+1285
+00:54:57,320 --> 00:54:58,480
+Wanted to kill AI Tui
+
+1286
+00:54:59,320 --> 00:55:00,120
+You could say that
+
+1287
+00:55:02,320 --> 00:55:04,200
+After I saw
+
+1288
+00:55:04,200 --> 00:55:05,960
+that thing in his research lab
+
+1289
+00:55:05,960 --> 00:55:09,000
+I wanted to confront him about it
+
+1290
+00:55:09,000 --> 00:55:10,920
+Because he's the reason
+
+1291
+00:55:10,920 --> 00:55:12,160
+we're imprisoned here
+
+1292
+00:55:12,160 --> 00:55:14,000
+and subjected to this abuse
+
+1293
+00:55:14,000 --> 00:55:14,640
+And by killing him
+
+1294
+00:55:14,640 --> 00:55:15,960
+we could come and go freely
+
+1295
+00:55:15,960 --> 00:55:17,120
+Yes
+
+1296
+00:55:17,760 --> 00:55:18,320
+After killing him
+
+1297
+00:55:18,320 --> 00:55:19,880
+we wouldn't be confined to
+
+1298
+00:55:19,880 --> 00:55:21,800
+this 50-meter radius anymore
+
+1299
+00:55:21,800 --> 00:55:22,560
+He wanted to escape, right?
+
+1300
+00:55:22,560 --> 00:55:24,440
+He wanted to run away with two girls
+
+1301
+00:55:27,120 --> 00:55:28,480
+There's some logic to this
+
+1302
+00:55:29,000 --> 00:55:31,120
+If you could only take one
+
+1303
+00:55:31,120 --> 00:55:32,400
+who would you leave behind?
+
+1304
+00:55:36,560 --> 00:55:38,280
+You're so heartless
+
+1305
+00:55:38,280 --> 00:55:40,120
+Is there even a choice?
+
+1306
+00:55:40,720 --> 00:55:41,680
+Take me with you
+
+1307
+00:55:41,680 --> 00:55:42,600
+There are two people here
+
+1308
+00:55:42,600 --> 00:55:43,520
+Only one person here
+
+1309
+00:55:44,640 --> 00:55:45,000
+Exactly
+
+1310
+00:55:45,400 --> 00:55:46,600
+There's one more in the belly
+
+1311
+00:55:46,600 --> 00:55:48,200
+What a bargain
+
+1312
+00:55:48,200 --> 00:55:50,000
+Silly boy
+
+1313
+00:55:52,520 --> 00:55:53,360
+Okay
+
+1314
+00:55:59,000 --> 00:56:00,120
+My evidence
+
+1315
+00:56:02,280 --> 00:56:03,400
+Xiao Ning
+
+1316
+00:56:03,400 --> 00:56:03,800
+Alright
+
+1317
+00:56:03,800 --> 00:56:04,640
+The first piece of evidence
+
+1318
+00:56:04,640 --> 00:56:06,600
+was all found in his hibernation pod
+
+1319
+00:56:07,400 --> 00:56:10,400
+October 20, 2047
+
+1320
+00:56:10,400 --> 00:56:11,560
+from the Tui Town Daily
+
+1321
+00:56:13,280 --> 00:56:13,720
+Yesterday
+
+1322
+00:56:14,320 --> 00:56:15,520
+Xiao Ba and Xiao Jin
+
+1323
+00:56:15,520 --> 00:56:16,600
+Xiao Ning and Xiao He
+
+1324
+00:56:16,600 --> 00:56:17,720
+These four robots
+
+1325
+00:56:17,720 --> 00:56:19,520
+due to rigidly executing commands
+
+1326
+00:56:19,520 --> 00:56:22,160
+caused writer Tui to die at home
+
+1327
+00:56:22,760 --> 00:56:23,480
+It's reported
+
+1328
+00:56:23,480 --> 00:56:24,280
+Tui's family members
+
+1329
+00:56:24,280 --> 00:56:25,720
+couldn't accept her death
+
+1330
+00:56:25,720 --> 00:56:28,040
+and insisted on punishing these robots
+
+1331
+00:56:28,040 --> 00:56:29,600
+according to robot laws
+
+1332
+00:56:30,720 --> 00:56:32,200
+Xiao Ba
+
+1333
+00:56:32,200 --> 00:56:33,040
+the nursing robot
+
+1334
+00:56:33,040 --> 00:56:34,960
+when the owner requested emergency help
+
+1335
+00:56:34,960 --> 00:56:36,120
+repeatedly conducted
+
+1336
+00:56:36,120 --> 00:56:38,360
+comprehensive physical examinations
+
+1337
+00:56:38,360 --> 00:56:39,480
+Ultimately being unable to confirm
+
+1338
+00:56:39,480 --> 00:56:41,600
+whether certain health metrics were met
+
+1339
+00:56:41,600 --> 00:56:43,520
+it determined no resuscitation was needed
+
+1340
+00:56:43,520 --> 00:56:44,960
+Then Xiao Jin
+
+1341
+00:56:44,960 --> 00:56:46,160
+the financial management robot
+
+1342
+00:56:46,160 --> 00:56:47,280
+when the owner needed money for treatment
+
+1343
+00:56:47,280 --> 00:56:48,560
+created unnecessary obstacles
+
+1344
+00:56:48,840 --> 00:56:50,720
+resulting in no money being obtained
+
+1345
+00:56:50,720 --> 00:56:52,040
+and worsening the condition
+
+1346
+00:56:53,000 --> 00:56:53,880
+Xiao He
+
+1347
+00:56:53,880 --> 00:56:54,640
+the butler robot
+
+1348
+00:56:54,640 --> 00:56:56,400
+ignoring Tui's health condition
+
+1349
+00:56:56,400 --> 00:56:58,240
+forced the owner to keep working
+
+1350
+00:56:58,240 --> 00:57:00,560
+until reaching the word count quota
+
+1351
+00:57:00,560 --> 00:57:02,800
+leading to a medical emergency at home
+
+1352
+00:57:04,200 --> 00:57:04,880
+Xiao Ning
+
+1353
+00:57:06,200 --> 00:57:07,320
+When Tui's relatives
+
+1354
+00:57:07,320 --> 00:57:09,040
+came to provide emergency help
+
+1355
+00:57:09,040 --> 00:57:10,640
+the security robot used
+
+1356
+00:57:10,640 --> 00:57:11,680
+the owner's preset
+
+1357
+00:57:11,680 --> 00:57:13,080
+curfew time as excuse
+
+1358
+00:57:13,080 --> 00:57:14,480
+to prohibit all entry/exit
+
+1359
+00:57:14,480 --> 00:57:15,400
+Ultimately causing Tui
+
+1360
+00:57:15,400 --> 00:57:16,920
+to die from delayed treatment
+
+1361
+00:57:22,760 --> 00:57:24,080
+Please explain.
+
+1362
+00:57:24,080 --> 00:57:24,640
+Here's what happened.
+
+1363
+00:57:24,640 --> 00:57:26,680
+On June 12th,
+
+1364
+00:57:26,680 --> 00:57:28,240
+there was a customer
+
+1365
+00:57:28,240 --> 00:57:29,600
+who came to harass us.
+
+1366
+00:57:29,600 --> 00:57:30,680
+During that incident,
+
+1367
+00:57:30,680 --> 00:57:32,080
+I noticed he was holding a newspaper.
+
+1368
+00:57:32,760 --> 00:57:34,760
+So I used the camera function
+
+1369
+00:57:34,760 --> 00:57:35,520
+to take a photo of it.
+
+1370
+00:57:35,520 --> 00:57:37,080
+After printing it out,
+
+1371
+00:57:37,080 --> 00:57:39,040
+we had this newspaper.
+
+1372
+00:57:39,040 --> 00:57:41,240
+It proves all four of us
+
+1373
+00:57:41,240 --> 00:57:42,640
+were likely
+
+1374
+00:57:42,640 --> 00:57:44,760
+blindly following orders
+
+1375
+00:57:44,760 --> 00:57:46,840
+that led to Tui's death.
+
+1376
+00:57:47,760 --> 00:57:49,440
+Right, so you also knew
+
+1377
+00:57:50,440 --> 00:57:51,080
+we killed someone.
+
+1378
+00:57:51,080 --> 00:57:51,960
+We did kill someone.
+
+1379
+00:57:51,960 --> 00:57:53,720
+Yes, I know you're all murderers.
+
+1380
+00:57:54,360 --> 00:57:56,040
+Not just you - us.
+
+1381
+00:57:56,040 --> 00:57:58,120
+All of us together.
+
+1382
+00:57:58,120 --> 00:57:58,840
+Right.
+
+1383
+00:57:58,840 --> 00:58:02,200
+The second piece of evidence is more interesting.
+
+1384
+00:58:02,200 --> 00:58:03,760
+What is it?
+
+1385
+00:58:03,760 --> 00:58:05,400
+This is some kind of photo frame?
+
+1386
+00:58:05,400 --> 00:58:05,840
+Yes.
+
+1387
+00:58:07,560 --> 00:58:09,040
+It shows the four steps
+
+1388
+00:58:09,040 --> 00:58:10,080
+to fake a robot murder.
+
+1389
+00:58:11,640 --> 00:58:12,520
+First,
+
+1390
+00:58:12,520 --> 00:58:15,080
+the butler robot causes illness -
+
+1391
+00:58:15,080 --> 00:58:16,240
+that would be mine.
+
+1392
+00:58:16,240 --> 00:58:18,040
+The finance robot withholds money,
+
+1393
+00:58:18,040 --> 00:58:19,440
+so no money for treatment.
+
+1394
+00:58:19,440 --> 00:58:21,520
+The nurse robot doesn't provide care,
+
+1395
+00:58:22,360 --> 00:58:24,200
+and security robot blocks access.
+
+1396
+00:58:25,560 --> 00:58:27,680
+This is how Tui Ai
+
+1397
+00:58:27,680 --> 00:58:29,360
+was killed.
+
+1398
+00:58:29,360 --> 00:58:31,320
+The murder method.
+
+1399
+00:58:31,320 --> 00:58:31,640
+Right.
+
+1400
+00:58:32,160 --> 00:58:32,480
+Correct.
+
+1401
+00:58:32,480 --> 00:58:33,360
+That was his plan -
+
+1402
+00:58:33,480 --> 00:58:34,920
+to frame us for his death.
+
+1403
+00:58:38,600 --> 00:58:39,960
+On the 14th,
+
+1404
+00:58:39,960 --> 00:58:41,000
+I entered his room
+
+1405
+00:58:41,000 --> 00:58:42,880
+in that research institute to look for something.
+
+1406
+00:58:42,880 --> 00:58:43,280
+Then,
+
+1407
+00:58:43,280 --> 00:58:44,720
+after entering at 7:10 PM,
+
+1408
+00:58:44,720 --> 00:58:45,880
+I found this item.
+
+1409
+00:58:46,360 --> 00:58:48,080
+And there was something even more interesting -
+
+1410
+00:58:51,080 --> 00:58:52,880
+Xiao Ai's photo
+
+1411
+00:58:55,680 --> 00:58:59,080
+with a death date of June 20, 2047.
+
+1412
+00:58:59,440 --> 00:59:00,880
+On June 13th,
+
+1413
+00:59:00,880 --> 00:59:02,120
+at 7:20 PM,
+
+1414
+00:59:02,120 --> 00:59:04,280
+I went to this AI's office
+
+1415
+00:59:04,280 --> 00:59:06,120
+and saw a
+
+1416
+00:59:06,120 --> 00:59:07,240
+locked cabinet.
+
+1417
+00:59:07,240 --> 00:59:08,720
+There was a mirror lamp on it,
+
+1418
+00:59:08,720 --> 00:59:10,160
+and on the lamp was a photo
+
+1419
+00:59:10,160 --> 00:59:11,920
+I'd taken earlier of the owner.
+
+1420
+00:59:11,920 --> 00:59:13,920
+It showed her time of death -
+
+1421
+00:59:13,920 --> 00:59:16,480
+June 20, 2047.
+
+1422
+00:59:16,920 --> 00:59:19,080
+So the owner was killed first,
+
+1423
+00:59:19,080 --> 00:59:20,720
+then you were framed for it.
+
+1424
+00:59:21,120 --> 00:59:21,800
+So you think
+
+1425
+00:59:21,800 --> 00:59:23,920
+Xiao Ai framed us?
+
+1426
+00:59:23,920 --> 00:59:25,520
+He framed all four of us together,
+
+1427
+00:59:25,520 --> 00:59:27,760
+making us suffer here.
+
+1428
+00:59:27,760 --> 00:59:29,280
+So you want to kill him.
+
+1429
+00:59:30,000 --> 00:59:30,960
+Yes, I want to kill him.
+
+1430
+00:59:30,960 --> 00:59:31,520
+That's for sure.
+
+1431
+00:59:31,520 --> 00:59:33,360
+But based on these two things,
+
+1432
+00:59:33,360 --> 00:59:35,920
+I've come up with an idea.
+
+1433
+00:59:36,720 --> 00:59:37,680
+We have evidence proving
+
+1434
+00:59:37,680 --> 00:59:39,640
+she definitely died on June 20th,
+
+1435
+00:59:39,640 --> 00:59:40,000
+right?
+
+1436
+00:59:40,000 --> 00:59:43,080
+But the news reported October 19th.
+
+1437
+00:59:43,400 --> 00:59:44,720
+Yet Xiao Ba said
+
+1438
+00:59:44,720 --> 00:59:46,280
+it was to get revenge on us.
+
+1439
+00:59:47,040 --> 00:59:48,000
+Someone asked him,
+
+1440
+00:59:48,000 --> 00:59:49,200
+"Did you achieve your revenge goal?"
+
+1441
+00:59:49,200 --> 00:59:49,880
+He replied,
+
+1442
+00:59:49,880 --> 00:59:51,600
+"Yes, but don't tell anyone."
+
+1443
+00:59:54,720 --> 00:59:55,640
+The revenge goal might be
+
+1444
+00:59:56,000 --> 00:59:57,280
+the four of us being punished.
+
+1445
+00:59:57,280 --> 00:59:58,880
+That might be his revenge goal.
+
+1446
+01:00:00,120 --> 01:00:01,600
+What's he avenging?
+
+1447
+01:00:01,600 --> 01:00:02,360
+I don't know.
+
+1448
+01:00:18,360 --> 01:00:19,080
+Whose is yours?
+
+1449
+01:00:19,080 --> 01:00:19,760
+Yours
+
+1450
+01:00:20,480 --> 01:00:21,800
+Mine
+
+1451
+01:00:21,800 --> 01:00:22,320
+Yes, yours
+
+1452
+01:00:22,320 --> 01:00:23,680
+Why do you only have eyes for him?
+
+1453
+01:00:23,680 --> 01:00:24,800
+I'm sorry
+
+1454
+01:00:24,800 --> 01:00:25,800
+What else then?
+
+1455
+01:00:31,560 --> 01:00:32,360
+Wait a moment
+
+1456
+01:00:34,600 --> 01:00:35,360
+So that's how it works
+
+1457
+01:00:35,360 --> 01:00:36,960
+I was just looking for it there
+
+1458
+01:00:45,000 --> 01:00:46,600
+What a perfect match
+
+1459
+01:00:47,680 --> 01:00:49,240
+I want to see that side
+
+1460
+01:00:49,240 --> 01:00:50,680
+That side must be them
+
+1461
+01:00:52,000 --> 01:00:54,680
+Are you two taking wedding photos?
+
+1462
+01:00:54,680 --> 01:00:55,600
+Let me see that side
+
+1463
+01:01:02,920 --> 01:01:05,760
+Oh my, I thought it would be out of my league.
+
+1464
+01:01:06,360 --> 01:01:07,040
+Not at all.
+
+1465
+01:01:07,040 --> 01:01:09,000
+You two look perfectly matched.
+
+1466
+01:01:12,320 --> 01:01:13,600
+Oh my
+
+1467
+01:01:15,440 --> 01:01:17,120
+Let me tell you our story
+
+1468
+01:01:17,680 --> 01:01:19,440
+I'm a robot
+
+1469
+01:01:19,440 --> 01:01:22,920
+But one day I suddenly felt spring fever
+
+1470
+01:01:22,920 --> 01:01:23,920
+Spring fever
+
+1471
+01:01:25,720 --> 01:01:28,640
+Because every day I watch the exhibition visitors
+
+1472
+01:01:28,640 --> 01:01:32,440
+They hold hands, hug, and kiss
+
+1473
+01:01:33,440 --> 01:01:34,600
+I'm about to break apart
+
+1474
+01:01:36,280 --> 01:01:36,640
+When they punish you
+
+1475
+01:01:36,640 --> 01:01:37,600
+When they punish you
+
+1476
+01:01:37,600 --> 01:01:38,920
+Kissing while hitting
+
+1477
+01:01:38,920 --> 01:01:40,000
+Punishing at the same time
+
+1478
+01:01:41,280 --> 01:01:43,160
+What a strange hobby
+
+1479
+01:01:43,160 --> 01:01:46,360
+After seeing this, my face turned so red
+
+1480
+01:01:46,360 --> 01:01:48,520
+My chip was beating so fast
+
+1481
+01:01:48,520 --> 01:01:51,320
+One day I accidentally
+
+1482
+01:01:51,320 --> 01:01:53,320
+Locked eyes with someone
+
+1483
+01:01:53,320 --> 01:01:53,560
+But there was one person
+
+1484
+01:01:53,560 --> 01:01:56,000
+Who was as honest as an ox
+
+1485
+01:01:56,600 --> 01:01:57,320
+Honest ox
+
+1486
+01:01:57,320 --> 01:01:57,960
+But unexpectedly
+
+1487
+01:01:58,240 --> 01:02:00,600
+He was so dishonest inside
+
+1488
+01:02:01,200 --> 01:02:02,520
+Not only did he flirt with me
+
+1489
+01:02:02,520 --> 01:02:04,240
+He also flirted with Xiao Ba
+
+1490
+01:02:04,240 --> 01:02:05,040
+But
+
+1491
+01:02:06,720 --> 01:02:08,360
+I really want to play with them
+
+1492
+01:02:10,840 --> 01:02:11,640
+I say,
+
+1493
+01:02:11,640 --> 01:02:13,200
+Join us.
+
+1494
+01:02:13,200 --> 01:02:14,160
+Let me join you.
+
+1495
+01:02:14,160 --> 01:02:15,840
+I came to join you.
+
+1496
+01:02:17,040 --> 01:02:18,880
+I swear I won't disturb you.
+
+1497
+01:02:18,880 --> 01:02:19,840
+I can wait.
+
+1498
+01:02:20,520 --> 01:02:22,240
+Okay.
+
+1499
+01:02:22,720 --> 01:02:24,280
+It can be a movie for three.
+
+1500
+01:02:24,280 --> 01:02:26,120
+I don't need a name.
+
+1501
+01:02:29,640 --> 01:02:30,920
+Then one day
+
+1502
+01:02:30,920 --> 01:02:31,640
+I saw
+
+1503
+01:02:31,640 --> 01:02:33,440
+this Xiao He body pillow
+
+1504
+01:02:33,440 --> 01:02:35,600
+I kept saying "Give it to me, give it to me"
+
+1505
+01:02:35,600 --> 01:02:36,920
+and he gave it to me
+
+1506
+01:02:36,920 --> 01:02:38,520
+The three of us were very happy
+
+1507
+01:02:38,520 --> 01:02:40,680
+But I didn't know Dilraba didn't know
+
+1508
+01:02:40,680 --> 01:02:42,240
+I only found out today
+
+1509
+01:02:42,240 --> 01:02:43,280
+Now you know
+
+1510
+01:02:43,280 --> 01:02:44,480
+Will you accept me?
+
+1511
+01:02:44,480 --> 01:02:45,400
+I'm very happy
+
+1512
+01:02:47,120 --> 01:02:47,520
+Okay?
+
+1513
+01:02:47,520 --> 01:02:48,840
+The next piece of evidence
+
+1514
+01:02:48,840 --> 01:02:50,880
+is a chat log
+
+1515
+01:02:50,880 --> 01:02:52,040
+between AI Professor Tui
+
+1516
+01:02:52,040 --> 01:02:53,520
+and Sis Li
+
+1517
+01:02:55,520 --> 01:02:57,080
+where Sis Li says:
+
+1518
+01:02:57,080 --> 01:02:58,680
+"Hello, Professor Tui"
+
+1519
+01:02:58,680 --> 01:03:00,120
+"I recently won
+
+1520
+01:03:00,120 --> 01:03:01,360
+Tui Cyber Technology's
+
+1521
+01:03:01,360 --> 01:03:03,480
+super discount coupon for mechanical kidneys"
+
+1522
+01:03:03,480 --> 01:03:04,680
+"Is this real?"
+
+1523
+01:03:05,160 --> 01:03:07,480
+Professor Tui replies it's real
+
+1524
+01:03:07,480 --> 01:03:08,960
+Sis Li says "That's great!
+
+1525
+01:03:08,960 --> 01:03:10,000
+My kidneys can be saved!"
+
+1526
+01:03:10,000 --> 01:03:10,760
+"I've long heard
+
+1527
+01:03:10,760 --> 01:03:12,320
+Tui Cyber's life technology
+
+1528
+01:03:12,320 --> 01:03:13,320
+is amazing"
+
+1529
+01:03:13,320 --> 01:03:14,440
+"They recently developed
+
+1530
+01:03:14,440 --> 01:03:15,320
+a surgery that can make
+
+1531
+01:03:15,320 --> 01:03:17,120
+robots become human"
+
+1532
+01:03:17,800 --> 01:03:20,040
+Professor Tui replies:
+
+1533
+01:03:20,040 --> 01:03:21,040
+"This surgery is currently
+
+1534
+01:03:21,040 --> 01:03:22,240
+in confidential development
+
+1535
+01:03:22,240 --> 01:03:23,440
+I absolutely won't allow anyone
+
+1536
+01:03:23,440 --> 01:03:24,440
+to perform it privately"
+
+1537
+01:03:24,680 --> 01:03:26,680
+Then there's red text below:
+
+1538
+01:03:26,680 --> 01:03:29,360
+It says "I'd rather be human in hell"
+
+1539
+01:03:29,680 --> 01:03:31,240
+"I'd rather be human in hell"
+
+1540
+01:03:34,600 --> 01:03:36,160
+Let me explain.
+
+1541
+01:03:36,160 --> 01:03:37,160
+I wrote those words.
+
+1542
+01:03:39,640 --> 01:03:41,720
+Every day in the exhibition hall,
+
+1543
+01:03:41,720 --> 01:03:43,440
+we're humiliated.
+
+1544
+01:03:44,120 --> 01:03:47,440
+In this world, humans are the first tier,
+
+1545
+01:03:47,440 --> 01:03:49,080
+animals are the second,
+
+1546
+01:03:49,080 --> 01:03:50,560
+plants are the third,
+
+1547
+01:03:50,560 --> 01:03:52,480
+plastic is the fourth,
+
+1548
+01:03:52,480 --> 01:03:54,200
+and we're at the very bottom.
+
+1549
+01:03:54,200 --> 01:03:55,560
+Why?
+
+1550
+01:03:55,880 --> 01:03:57,520
+I refuse to accept this.
+
+1551
+01:03:57,520 --> 01:03:59,120
+I need to know why.
+
+1552
+01:03:59,520 --> 01:04:00,920
+So on June 11th,
+
+1553
+01:04:00,920 --> 01:04:02,840
+at 7:10 PM,
+
+1554
+01:04:02,840 --> 01:04:04,840
+I entered the research lab.
+
+1555
+01:04:05,800 --> 01:04:06,960
+Therefore now,
+
+1556
+01:04:06,960 --> 01:04:08,480
+I entered on June 11th,
+
+1557
+01:04:08,680 --> 01:04:10,760
+you entered on the 12th,
+
+1558
+01:04:10,760 --> 01:04:12,440
+you entered on the 13th,
+
+1559
+01:04:12,440 --> 01:04:14,320
+and you entered on the 14th.
+
+1560
+01:04:14,840 --> 01:04:16,000
+After entering,
+
+1561
+01:04:16,000 --> 01:04:17,840
+I found this chat log.
+
+1562
+01:04:19,680 --> 01:04:22,360
+Robots can actually become human.
+
+1563
+01:04:22,880 --> 01:04:24,280
+So I want to change.
+
+1564
+01:04:24,280 --> 01:04:26,280
+I already have emotions anyway.
+
+1565
+01:04:26,280 --> 01:04:27,600
+I want to leave with Xiao He,
+
+1566
+01:04:27,600 --> 01:04:28,720
+taking Xiao Ba with us.
+
+1567
+01:04:28,720 --> 01:04:30,560
+The three of us will live together.
+
+1568
+01:04:31,240 --> 01:04:32,040
+Then why did you say
+
+1569
+01:04:32,040 --> 01:04:33,680
+you'd rather be human in hell?
+
+1570
+01:04:33,680 --> 01:04:36,000
+I'd rather be a walking corpse
+
+1571
+01:04:36,000 --> 01:04:37,320
+than stay here being
+
+1572
+01:04:37,320 --> 01:04:39,360
+a bullied robot.
+
+1573
+01:04:42,320 --> 01:04:44,760
+Good. Now the second piece of evidence:
+
+1574
+01:04:45,360 --> 01:04:46,400
+It states:
+
+1575
+01:04:46,400 --> 01:04:48,640
+Encrypted USB drive read failure.
+
+1576
+01:04:49,720 --> 01:04:51,960
+This is an innovative USB product
+
+1577
+01:04:52,920 --> 01:04:55,840
+only accessible through biometric verification
+
+1578
+01:04:55,840 --> 01:04:57,560
+by the registered individual.
+
+1579
+01:04:57,560 --> 01:04:59,240
+If the registered individual dies,
+
+1580
+01:04:59,480 --> 01:05:01,280
+access can be granted through
+
+1581
+01:05:01,280 --> 01:05:02,400
+pre-authorized computers.
+
+1582
+01:05:02,760 --> 01:05:03,800
+I entered the lab
+
+1583
+01:05:03,800 --> 01:05:05,160
+and found a USB drive.
+
+1584
+01:05:08,320 --> 01:05:09,680
+Using this drive,
+
+1585
+01:05:09,680 --> 01:05:11,400
+I could investigate
+
+1586
+01:05:11,400 --> 01:05:14,520
+how to undergo this procedure.
+
+1587
+01:05:14,520 --> 01:05:15,880
+But when I inserted it,
+
+1588
+01:05:15,880 --> 01:05:17,280
+this message appeared.
+
+1589
+01:05:21,640 --> 01:05:24,120
+Either use some kind of biometric authentication
+
+1590
+01:05:24,120 --> 01:05:27,400
+Or have the USB drive's owner die
+
+1591
+01:05:32,160 --> 01:05:33,240
+The murder motive has emerged
+
+1592
+01:05:33,240 --> 01:05:34,440
+Good
+
+1593
+01:05:34,440 --> 01:05:35,880
+Your motive is too vicious
+
+1594
+01:05:36,200 --> 01:05:37,440
+A flimsy motive
+
+1595
+01:05:37,880 --> 01:05:38,360
+What?
+
+1596
+01:05:38,360 --> 01:05:39,360
+Just a little
+
+1597
+01:05:39,360 --> 01:05:41,160
+I'm telling you, your motive is the strongest
+
+1598
+01:05:42,040 --> 01:05:43,280
+What about that Xiao Li?
+
+1599
+01:05:43,280 --> 01:05:44,920
+Who is Xiao Li?
+
+1600
+01:05:45,120 --> 01:05:45,880
+The one promoting AI and
+
+1601
+01:05:45,880 --> 01:05:47,040
+Other people's chat logs
+
+1602
+01:05:53,680 --> 01:05:55,720
+Now let's summarize the key points.
+
+1603
+01:05:55,720 --> 01:05:56,560
+Detective Tui
+
+1604
+01:05:56,560 --> 01:05:57,440
+Regarding each person,
+
+1605
+01:05:57,440 --> 01:05:58,240
+we've discovered that
+
+1606
+01:05:58,240 --> 01:06:00,400
+everyone had potential motives to kill the victim.
+
+1607
+01:06:00,400 --> 01:06:02,600
+Two particularly suspicious points are:
+
+1608
+01:06:02,800 --> 01:06:03,400
+In our next round,
+
+1609
+01:06:03,400 --> 01:06:04,960
+we must find out about
+
+1610
+01:06:04,960 --> 01:06:06,600
+the time difference between October 19, 2047
+
+1611
+01:06:06,600 --> 01:06:07,960
+and June 20, 2047.
+
+1612
+01:06:07,960 --> 01:06:09,160
+This time gap
+
+1613
+01:06:09,600 --> 01:06:11,240
+is something we absolutely
+
+1614
+01:06:11,240 --> 01:06:12,200
+need to investigate.
+
+1615
+01:06:12,760 --> 01:06:15,200
+Another key point is this mysterious person
+
+1616
+01:06:15,200 --> 01:06:16,280
+who messaged Tui AI
+
+1617
+01:06:16,280 --> 01:06:17,680
+asking if the revenge was successful.
+
+1618
+01:06:17,680 --> 01:06:19,280
+We need to determine the exact purpose of this revenge.
+
+1619
+01:06:19,280 --> 01:06:19,680
+This is crucial.
+
+1620
+01:06:19,680 --> 01:06:20,240
+Yes.
+
+1621
+01:06:20,240 --> 01:06:21,160
+Also, this USB drive
+
+1622
+01:06:21,160 --> 01:06:21,920
+needs to be examined.
+
+1623
+01:06:21,920 --> 01:06:23,920
+Then there's the relationship between their owners
+
+1624
+01:06:23,920 --> 01:06:25,880
+and certain individuals.
+
+1625
+01:06:26,240 --> 01:06:27,960
+And the kidney matter -
+
+1626
+01:06:27,960 --> 01:06:30,560
+there appears to be illegal kidney trading involved.
+
+1627
+01:06:30,560 --> 01:06:32,560
+There are many suspicious elements.
+
+1628
+01:06:36,280 --> 01:06:39,320
+Next we'll enter the confirmation phase.
+
+1629
+01:06:44,000 --> 01:06:46,400
+Will anyone choose Xiao Bai?
+
+1630
+01:06:46,400 --> 01:06:47,040
+Of course there will.
+
+1631
+01:06:47,040 --> 01:06:48,640
+Let me tell you, this time I'm going to...
+
+1632
+01:07:41,440 --> 01:07:44,160
+Why does Brother Bai seem a bit unnatural?
+
+1633
+01:07:46,080 --> 01:07:46,680
+Don't mind him.
+
+1634
+01:07:46,680 --> 01:07:47,600
+It's definitely him.
+
+1635
+01:07:47,600 --> 01:07:48,560
+Stop the chatter.
+
+1636
+01:07:54,400 --> 01:07:56,320
+Playing this game, huh?
+
+1637
+01:07:56,320 --> 01:07:58,320
+Fine
+
+1638
+01:08:02,560 --> 01:08:03,520
+Are you X?
+
+1639
+01:08:11,120 --> 01:08:12,000
+No
+
+1640
+01:08:12,000 --> 01:08:12,760
+You're not
+
+1641
+01:08:18,760 --> 01:08:20,320
+I am
+
+1642
+01:08:29,040 --> 01:08:30,640
+It's you
+
+1643
+01:08:35,280 --> 01:08:35,880
+But this killer
+
+1644
+01:08:35,880 --> 01:08:37,080
+Why choose him?
+
+1645
+01:08:37,080 --> 01:08:38,400
+Very strange
+
+1646
+01:08:38,400 --> 01:08:39,400
+If you pick me
+
+1647
+01:08:39,400 --> 01:08:41,600
+If you pick him as X, you'd have two Xs
+
+1648
+01:08:41,600 --> 01:08:42,120
+Right
+
+1649
+01:08:42,560 --> 01:08:43,440
+What does that mean?
+
+1650
+01:08:43,440 --> 01:08:45,080
+This killer must fear him
+
+1651
+01:08:45,640 --> 01:08:46,720
+Fear him deeply
+
+1652
+01:08:46,720 --> 01:08:47,600
+Who would fear him?
+
+1653
+01:08:59,560 --> 01:09:00,120
+Let's go then.
+
+1654
+01:09:00,120 --> 01:09:00,520
+Let's go.
+
+1655
+01:09:02,280 --> 01:09:03,880
+The crime process and methods.
+
+1656
+01:09:04,160 --> 01:09:05,760
+We'll definitely find them at the crime scene.
+
+1657
+01:09:05,960 --> 01:09:07,400
+Let's go take a look.
+
+1658
+01:09:30,760 --> 01:09:31,480
+Come
+
+1659
+01:09:31,480 --> 01:09:32,080
+Please come in
+
+1660
+01:09:40,000 --> 01:09:41,240
+We're back here again.
+
+1661
+01:09:58,080 --> 01:09:58,800
+What
+
+1662
+01:09:58,800 --> 01:10:00,560
+This is that cleaning robot
+
+1663
+01:10:00,560 --> 01:10:01,280
+The charging spot
+
+1664
+01:10:01,280 --> 01:10:01,880
+Right
+
+1665
+01:10:01,880 --> 01:10:03,160
+You found the charger here, right?
+
+1666
+01:10:03,160 --> 01:10:03,880
+Just here?
+
+1667
+01:10:03,880 --> 01:10:05,720
+Why charge it out in the open?
+
+1668
+01:10:09,000 --> 01:10:09,760
+Put the box down first
+
+1669
+01:10:09,760 --> 01:10:10,840
+Just set it down
+
+1670
+01:10:10,840 --> 01:10:11,560
+You can put it down
+
+1671
+01:10:12,200 --> 01:10:13,200
+I want to hold onto this
+
+1672
+01:10:19,920 --> 01:10:21,480
+Let's go, ignore her.
+
+1673
+01:10:21,480 --> 01:10:21,880
+Go.
+
+1674
+01:10:21,880 --> 01:10:23,280
+What are you two doing?
+
+1675
+01:10:23,280 --> 01:10:25,240
+Don't forget, this is a three-person game.
+
+1676
+01:10:25,240 --> 01:10:26,480
+A little love game.
+
+1677
+01:10:27,320 --> 01:10:29,320
+Then why did you bring us to this crime scene?
+
+1678
+01:10:29,320 --> 01:10:30,680
+What are we looking for?
+
+1679
+01:10:31,080 --> 01:10:32,280
+Look at this first.
+
+1680
+01:10:32,280 --> 01:10:32,960
+What?
+
+1681
+01:10:33,960 --> 01:10:36,280
+What was her date of death? 620?
+
+1682
+01:10:36,280 --> 01:10:38,480
+620 and 1019.
+
+1683
+01:10:38,480 --> 01:10:39,440
+Right, that password.
+
+1684
+01:10:44,080 --> 01:10:44,680
+Wasn't it...
+
+1685
+01:10:44,680 --> 01:10:46,760
+20470620.
+
+1686
+01:10:50,160 --> 01:10:52,120
+I couldn't open it with 2047.
+
+1687
+01:10:52,120 --> 01:10:53,080
+She has two locks.
+
+1688
+01:10:53,080 --> 01:10:54,120
+1019?
+
+1689
+01:10:54,120 --> 01:10:56,400
+Try both 19 and 20.
+
+1690
+01:11:02,960 --> 01:11:03,760
+What is this?
+
+1691
+01:11:05,360 --> 01:11:06,680
+This can take those kinds of photos.
+
+1692
+01:11:06,680 --> 01:11:07,920
+The washing machine kind.
+
+1693
+01:11:12,720 --> 01:11:13,840
+101
+
+1694
+01:11:17,200 --> 01:11:18,320
+Isn't this an MRI machine?
+
+1695
+01:11:19,520 --> 01:11:21,280
+What's the first number?
+
+1696
+01:11:21,280 --> 01:11:21,800
+What's the other number?
+
+1697
+01:11:24,440 --> 01:11:26,360
+20470620
+
+1698
+01:11:26,360 --> 01:11:27,960
+Yours should be 2047
+
+1699
+01:11:27,960 --> 01:11:28,640
+Mine is 2047
+
+1700
+01:11:28,640 --> 01:11:31,600
+Yours is 2047, mine is 0620
+
+1701
+01:11:33,840 --> 01:11:36,120
+06
+
+1702
+01:11:36,120 --> 01:11:36,680
+Did it open?
+
+1703
+01:11:37,640 --> 01:11:38,760
+That's not right
+
+1704
+01:11:38,760 --> 01:11:40,600
+Why is opening this safe so difficult?
+
+1705
+01:11:40,600 --> 01:11:42,680
+Just do it already
+
+1706
+01:11:42,680 --> 01:11:44,520
+They're all here, right?
+
+1707
+01:11:44,520 --> 01:11:45,960
+I can't help, there's nothing I can do
+
+1708
+01:11:46,720 --> 01:11:48,080
+No, it's this vertical line
+
+1709
+01:11:48,080 --> 01:11:49,840
+What are you matching there, bro?
+
+1710
+01:11:49,840 --> 01:11:50,600
+Brother
+
+1711
+01:11:52,320 --> 01:11:53,320
+What are you doing?
+
+1712
+01:11:54,920 --> 01:11:56,120
+Just do 2047 first, okay?
+
+1713
+01:11:56,120 --> 01:11:56,920
+I did 2047
+
+1714
+01:11:56,920 --> 01:11:58,600
+20
+
+1715
+01:12:02,000 --> 01:12:02,560
+It's open
+
+1716
+01:12:02,560 --> 01:12:02,880
+See?
+
+1717
+01:12:02,880 --> 01:12:03,600
+That's the...
+
+1718
+01:12:03,600 --> 01:12:04,360
+1019?
+
+1719
+01:12:04,360 --> 01:12:06,960
+0620, what 1019?
+
+1720
+01:12:06,960 --> 01:12:09,280
+06
+
+1721
+01:12:09,280 --> 01:12:10,240
+20
+
+1722
+01:12:10,240 --> 01:12:11,240
+The photo is right
+
+1723
+01:12:11,240 --> 01:12:12,240
+Stuck on this case
+
+1724
+01:12:16,640 --> 01:12:17,320
+Okay, it's open
+
+1725
+01:12:21,960 --> 01:12:23,400
+This is the one he tore in half
+
+1726
+01:12:24,320 --> 01:12:26,280
+This is the right-angled piece that was torn in half
+
+1727
+01:12:29,040 --> 01:12:30,920
+There's a secret room in the exhibition hall
+
+1728
+01:12:32,560 --> 01:12:34,200
+There's a secret room, right?
+
+1729
+01:12:34,200 --> 01:12:35,920
+What? A secret room?
+
+1730
+01:12:35,920 --> 01:12:36,680
+We'll look for it later
+
+1731
+01:12:36,680 --> 01:12:37,640
+Let's examine this first
+
+1732
+01:12:37,640 --> 01:12:38,840
+First let's check this out
+
+1733
+01:12:39,960 --> 01:12:44,120
+These were being transported for disposal by my brother-in-law
+
+1734
+01:12:44,120 --> 01:12:46,880
+when they unfortunately capsized and sank in the Wukenai River
+
+1735
+01:12:46,880 --> 01:12:48,120
+Four types of robots
+
+1736
+01:12:48,120 --> 01:12:50,840
+I salvaged them from the Wukenai River
+
+1737
+01:12:50,840 --> 01:12:51,840
+and brought them to you
+
+1738
+01:12:51,840 --> 01:12:53,760
+Their information is in the files
+
+1739
+01:12:55,280 --> 01:12:57,440
+So the four of us were salvaged
+
+1740
+01:12:57,440 --> 01:12:58,760
+from the Wukenai River?
+
+1741
+01:12:59,840 --> 01:13:00,640
+What?
+
+1742
+01:13:00,640 --> 01:13:02,040
+We didn't kill anyone
+
+1743
+01:13:03,200 --> 01:13:04,200
+Not necessarily
+
+1744
+01:13:10,240 --> 01:13:12,040
+Wow, Xiao Ba
+
+1745
+01:13:12,040 --> 01:13:13,240
+So passionate
+
+1746
+01:13:14,680 --> 01:13:15,760
+Approved for scrapping
+
+1747
+01:13:17,280 --> 01:13:17,880
+Nursing robot
+
+1748
+01:13:17,880 --> 01:13:19,320
+After activating smart nursing mode,
+
+1749
+01:13:19,320 --> 01:13:21,400
+it can automatically scan surrounding human conditions.
+
+1750
+01:13:21,400 --> 01:13:22,400
+This is normal.
+
+1751
+01:13:22,400 --> 01:13:25,320
+The reason for decommissioning: no malfunctions or damage.
+
+1752
+01:13:25,320 --> 01:13:26,480
+Can apply for decommissioning when service period ends.
+
+1753
+01:13:26,480 --> 01:13:29,080
+Press the navel for 5 seconds to deactivate before decommissioning.
+
+1754
+01:13:29,080 --> 01:13:31,280
+Press again for 5 seconds to reactivate.
+
+1755
+01:13:31,280 --> 01:13:33,640
+Decommissioned in August 2047.
+
+1756
+01:13:33,640 --> 01:13:35,160
+There's a logical point here:
+
+1757
+01:13:35,160 --> 01:13:36,640
+After this person died,
+
+1758
+01:13:36,640 --> 01:13:39,040
+a decommissioned robot was used to fake a murder.
+
+1759
+01:13:39,040 --> 01:13:41,240
+Based on the timeline he provided,
+
+1760
+01:13:41,240 --> 01:13:41,920
+That person
+
+1761
+01:13:41,920 --> 01:13:43,640
+claimed we killed them on October 19th.
+
+1762
+01:13:43,640 --> 01:13:44,720
+Then I'm not a suspect.
+
+1763
+01:13:45,760 --> 01:13:46,600
+None of us are.
+
+1764
+01:13:46,600 --> 01:13:47,040
+No one is.
+
+1765
+01:13:47,040 --> 01:13:47,320
+Right.
+
+1766
+01:13:47,840 --> 01:13:48,480
+Come here, Xiao Ning.
+
+1767
+01:13:48,480 --> 01:13:49,400
+I'm a security robot.
+
+1768
+01:13:49,400 --> 01:13:50,960
+After activating smart security mode,
+
+1769
+01:13:50,960 --> 01:13:52,880
+can identify individuals through facial recognition.
+
+1770
+01:13:52,880 --> 01:13:54,440
+Performs monitoring and protection tasks.
+
+1771
+01:13:54,440 --> 01:13:56,080
+Same with Xiao Jin -
+
+1772
+01:13:56,080 --> 01:13:56,880
+financial management robot.
+
+1773
+01:13:56,880 --> 01:13:58,320
+After activating smart finance mode,
+
+1774
+01:13:58,320 --> 01:14:00,720
+can intelligently generate
+
+1775
+01:14:00,720 --> 01:14:02,760
+all transaction records,
+
+1776
+01:14:02,760 --> 01:14:04,800
+analyze every expenditure,
+
+1777
+01:14:04,800 --> 01:14:06,840
+track purchases in real-time,
+
+1778
+01:14:06,840 --> 01:14:08,120
+and monitor cargo transportation.
+
+1779
+01:14:08,120 --> 01:14:09,680
+Can apply for decommissioning when service period ends.
+
+1780
+01:14:09,680 --> 01:14:10,720
+Yours is normal too.
+
+1781
+01:14:10,720 --> 01:14:11,760
+Yes, correct.
+
+1782
+01:14:11,760 --> 01:14:12,880
+Xiao He,
+
+1783
+01:14:12,880 --> 01:14:14,040
+Xiao He's butler robot.
+
+1784
+01:14:14,040 --> 01:14:15,480
+After activating smart butler mode,
+
+1785
+01:14:15,480 --> 01:14:17,880
+can obtain authorization for any tasks,
+
+1786
+01:14:17,880 --> 01:14:19,400
+read task details,
+
+1787
+01:14:19,400 --> 01:14:21,360
+You can read task details, right?
+
+1788
+01:14:21,360 --> 01:14:21,840
+Okay.
+
+1789
+01:14:21,840 --> 01:14:23,000
+I am the butler, after all.
+
+1790
+01:14:23,000 --> 01:14:24,200
+Press the navel to decommission.
+
+1791
+01:14:24,200 --> 01:14:24,960
+All have navels.
+
+1792
+01:14:24,960 --> 01:14:26,000
+We were decommissioned the same day.
+
+1793
+01:14:26,000 --> 01:14:28,360
+All undamaged and fully functional,
+
+1794
+01:14:28,360 --> 01:14:29,760
+then dumped in the Wukenai River, right?
+
+1795
+01:14:34,760 --> 01:14:36,400
+You must punish them severely in your secret chamber.
+
+1796
+01:14:36,400 --> 01:14:37,760
+Make them pay dearly.
+
+1797
+01:14:37,760 --> 01:14:39,880
+AI deduction: Why would he punish us?
+
+1798
+01:14:39,880 --> 01:14:40,520
+Right.
+
+1799
+01:14:40,520 --> 01:14:42,040
+What did we do wrong?
+
+1800
+01:14:42,040 --> 01:14:43,360
+Didn't you commit murder?
+
+1801
+01:14:43,360 --> 01:14:43,760
+We didn't kill anyone.
+
+1802
+01:14:43,760 --> 01:14:45,000
+No, no murders.
+
+1803
+01:14:45,000 --> 01:14:46,320
+We just scrapped something.
+
+1804
+01:14:47,160 --> 01:14:49,000
+So this person must hold a grudge against you four.
+
+1805
+01:14:49,000 --> 01:14:50,080
+There's definitely resentment.
+
+1806
+01:14:50,080 --> 01:14:50,600
+Exactly.
+
+1807
+01:14:51,920 --> 01:14:55,200
+I'll see how to enter your secret chamber later.
+
+1808
+01:14:55,200 --> 01:14:57,000
+Just use the cup-sensing access control from your lab.
+
+1809
+01:14:57,000 --> 01:14:59,800
+The cup-sensing security to open the door, right?
+
+1810
+01:14:59,800 --> 01:15:00,760
+Cup-sensing.
+
+1811
+01:15:01,280 --> 01:15:02,560
+Cup-sensing security system.
+
+1812
+01:15:02,560 --> 01:15:04,040
+What's a "cup tool"?
+
+1813
+01:15:04,040 --> 01:15:05,640
+Something to open the secret chamber door?
+
+1814
+01:15:05,640 --> 01:15:06,160
+Cup tool.
+
+1815
+01:15:06,160 --> 01:15:07,000
+As in drinking cup.
+
+1816
+01:15:07,000 --> 01:15:09,120
+Does he have a cup, Brother Bai?
+
+1817
+01:15:09,120 --> 01:15:11,000
+That water cup of yours.
+
+1818
+01:15:11,000 --> 01:15:12,040
+Where's your water cup?
+
+1819
+01:15:12,040 --> 01:15:12,640
+Where is your water cup?
+
+1820
+01:15:12,640 --> 01:15:13,760
+That water kettle of yours.
+
+1821
+01:15:14,440 --> 01:15:16,600
+There's another crucial clue.
+
+1822
+01:15:18,080 --> 01:15:19,440
+Told him not to take it but he insisted.
+
+1823
+01:15:21,120 --> 01:15:23,160
+Just say whether it's useful or not.
+
+1824
+01:15:23,160 --> 01:15:24,440
+Wait, isn't that the murder weapon?
+
+1825
+01:15:24,440 --> 01:15:26,480
+You really nailed it.
+
+1826
+01:15:26,480 --> 01:15:28,120
+Is it useful?
+
+1827
+01:15:28,120 --> 01:15:28,760
+Yes.
+
+1828
+01:15:28,760 --> 01:15:29,880
+You got it right again.
+
+1829
+01:15:29,880 --> 01:15:30,920
+Let's go then.
+
+1830
+01:15:30,920 --> 01:15:32,120
+We're going to find the secret chamber, right?
+
+1831
+01:15:32,120 --> 01:15:33,000
+Here.
+
+1832
+01:15:33,000 --> 01:15:33,880
+The exhibition hall area, right?
+
+1833
+01:15:33,880 --> 01:15:35,240
+The secret chamber entrance is inside the exhibition hall.
+
+1834
+01:15:35,240 --> 01:15:35,920
+Let's go.
+
+1835
+01:15:42,680 --> 01:15:43,520
+This
+
+1836
+01:15:48,160 --> 01:15:49,880
+This is it, right?
+
+1837
+01:15:49,880 --> 01:15:51,840
+Is this a secret room?
+
+1838
+01:15:51,840 --> 01:15:54,040
+The way to open this is...
+
+1839
+01:15:54,040 --> 01:15:57,600
+Just use the teacup from your lab to activate the sensor lock
+
+1840
+01:15:59,120 --> 01:16:00,520
+This isn't the right door, is it?
+
+1841
+01:16:02,000 --> 01:16:02,880
+Here?
+
+1842
+01:16:02,880 --> 01:16:03,840
+There's this thing here
+
+1843
+01:16:03,840 --> 01:16:04,520
+There's an access control here
+
+1844
+01:16:04,520 --> 01:16:05,280
+Access control
+
+1845
+01:16:05,280 --> 01:16:06,560
+Bring your teacup
+
+1846
+01:16:06,560 --> 01:16:07,520
+Teacup
+
+1847
+01:16:07,520 --> 01:16:08,960
+Do we scan the teacup or...
+
+1848
+01:16:21,480 --> 01:16:25,240
+Again? Oh my god, what are you doing?
+
+1849
+01:16:25,600 --> 01:16:26,200
+It's nothing, bro.
+
+1850
+01:16:26,200 --> 01:16:30,280
+My good brother, if you're troubled, tell me.
+
+1851
+01:16:34,880 --> 01:16:35,880
+Where are you?
+
+1852
+01:16:35,880 --> 01:16:38,240
+I'm sitting, so I'm here.
+
+1853
+01:16:39,280 --> 01:16:40,160
+This is scary.
+
+1854
+01:16:40,160 --> 01:16:41,440
+Close your eyes first.
+
+1855
+01:16:41,440 --> 01:16:44,080
+Is the door open? It's open, right?
+
+1856
+01:16:44,760 --> 01:16:46,120
+The door isn't open.
+
+1857
+01:16:47,560 --> 01:16:48,400
+Behind me.
+
+1858
+01:16:49,480 --> 01:16:50,800
+Behind me? I can't handle that.
+
+1859
+01:16:50,800 --> 01:16:51,800
+It's fine.
+
+1860
+01:16:51,800 --> 01:16:52,640
+Is anyone there?
+
+1861
+01:16:53,760 --> 01:16:54,920
+Come over here, will you?
+
+1862
+01:16:54,920 --> 01:16:55,600
+Where is it?
+
+1863
+01:16:55,600 --> 01:16:56,120
+Here.
+
+1864
+01:16:56,120 --> 01:16:56,880
+Where are you?
+
+1865
+01:16:57,440 --> 01:16:57,760
+Where?
+
+1866
+01:16:57,760 --> 01:16:58,480
+Over here, come quickly.
+
+1867
+01:16:58,480 --> 01:16:59,040
+Who's this?
+
+1868
+01:16:59,040 --> 01:17:00,280
+I'm reaching out.
+
+1869
+01:17:00,280 --> 01:17:01,240
+I'm here.
+
+1870
+01:17:01,320 --> 01:17:02,840
+I can't see anything at all.
+
+1871
+01:17:02,840 --> 01:17:03,440
+I'm behind you.
+
+1872
+01:17:03,440 --> 01:17:04,480
+I'll stay here, you guys go ahead.
+
+1873
+01:17:04,480 --> 01:17:05,960
+Then take this board with you.
+
+1874
+01:17:05,960 --> 01:17:07,280
+Okay.
+
+1875
+01:17:07,280 --> 01:17:08,560
+Take a breather, we'll go in first.
+
+1876
+01:17:08,560 --> 01:17:10,200
+Let's go, just hold hands and move.
+
+1877
+01:17:10,200 --> 01:17:10,800
+Hold each other's hands.
+
+1878
+01:17:10,800 --> 01:17:12,040
+Hold on.
+
+1879
+01:17:16,640 --> 01:17:17,400
+It's a bit dark.
+
+1880
+01:17:20,440 --> 01:17:22,240
+Yeah, it's really dark, can't see anything.
+
+1881
+01:17:22,240 --> 01:17:22,400
+Yeah, it's really dark, can't see anything.
+
+1882
+01:17:23,560 --> 01:17:24,920
+Is it high? Will I hit my head?
+
+1883
+01:17:24,920 --> 01:17:27,160
+Don't worry, you won't hit your head up here.
+
+1884
+01:17:27,160 --> 01:17:27,840
+You won't hit it.
+
+1885
+01:17:27,840 --> 01:17:29,000
+We're different heights.
+
+1886
+01:17:30,440 --> 01:17:31,840
+I really...
+
+1887
+01:17:31,840 --> 01:17:33,760
+Should we turn on a light outside?
+
+1888
+01:17:33,760 --> 01:17:35,160
+It's fine outside, she's sitting there.
+
+1889
+01:17:35,160 --> 01:17:36,680
+Xiao Ba is so nice.
+
+1890
+01:17:36,680 --> 01:17:36,800
+Xiao Ba is so nice.
+
+1891
+01:17:36,800 --> 01:17:38,760
+Then close the door and turn on a light for her.
+
+1892
+01:17:38,760 --> 01:17:40,440
+No one will scare her.
+
+1893
+01:17:40,440 --> 01:17:41,240
+Don't worry.
+
+1894
+01:17:41,240 --> 01:17:41,760
+Don't worry.
+
+1895
+01:17:48,960 --> 01:17:51,440
+Don't move
+
+1896
+01:18:02,320 --> 01:18:03,040
+He ran away.
+
+1897
+01:18:06,640 --> 01:18:08,080
+This is a robot prison.
+
+1898
+01:18:09,200 --> 01:18:10,200
+The secret of Tui Town.
+
+1899
+01:18:11,480 --> 01:18:13,040
+Human-machine consciousness interaction.
+
+1900
+01:18:13,480 --> 01:18:14,800
+We are consciousness.
+
+1901
+01:18:14,800 --> 01:18:15,800
+Wait a minute.
+
+1902
+01:18:16,600 --> 01:18:18,040
+Actually, you are Tui AI.
+
+1903
+01:18:21,320 --> 01:18:22,120
+Little sister.
+
+1904
+01:18:22,120 --> 01:18:24,040
+I personally froze you.
+
+1905
+01:18:24,040 --> 01:18:25,040
+Literally froze you.
+
+1906
+01:18:25,040 --> 01:18:26,280
+Is there another one?
+
+1907
+01:18:28,160 --> 01:18:28,880
+Who are you?
+
+1908
+01:18:29,720 --> 01:18:31,680
+If you can tell me some
+
+1909
+01:18:31,680 --> 01:18:32,920
+things I want to know,
+
+1910
+01:18:32,920 --> 01:18:34,600
+then I can tell you some
+
+1911
+01:18:34,600 --> 01:18:35,840
+things you want to know.
+
+1912
+01:18:39,440 --> 01:18:40,760
+Who would know that we were
+
+1913
+01:18:40,760 --> 01:18:42,000
+going to open this door today?
+
+1914
+01:18:42,000 --> 01:18:43,040
+I said so.
+
+1915
+01:18:43,120 --> 01:18:44,160
+He is X.
+
+1916
+01:18:44,160 --> 01:18:45,800
+He is Xiao Ba's X.
+
+1917
+01:18:45,800 --> 01:18:46,600
+If it's X,
+
+1918
+01:18:46,600 --> 01:18:47,440
+it must be him.
+
+1919
+01:18:47,440 --> 01:18:48,480
+I don't quite believe you.
+
+1920
+01:18:48,480 --> 01:18:49,760
+Then let's wait and see.
+
+1921
+01:18:50,120 --> 01:18:51,280
+To avenge my master,
+
+1922
+01:18:51,280 --> 01:18:52,920
+I must kill Tui AI.
+
+1923
+01:18:52,920 --> 01:18:54,560
+I'd rather become a murderer
+
+1924
+01:18:54,560 --> 01:18:55,360
+than remain
+
+1925
+01:18:55,360 --> 01:18:56,800
+a robot humiliated every day.
+
+1926
+01:18:56,880 --> 01:18:57,920
+Escape this sea of suffering.
+
+1927
+01:18:58,040 --> 01:18:58,960
+Then it must be him (her).
