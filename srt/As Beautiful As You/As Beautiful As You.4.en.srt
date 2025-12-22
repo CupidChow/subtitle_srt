@@ -1,0 +1,3878 @@
+1
+00:00:21,390 --> 00:00:24,800
+♪The original dream stays buried♪
+
+2
+00:00:24,800 --> 00:00:27,060
+♪Through the wind and the rain♪
+
+3
+00:00:27,440 --> 00:00:30,530
+♪It waits for the sunshine♪
+
+4
+00:00:31,690 --> 00:00:34,410
+♪To slowly revive♪
+
+5
+00:00:34,910 --> 00:00:38,480
+♪I want to travel through the skyscrapers♪
+
+6
+00:00:38,480 --> 00:00:41,090
+♪Even if the trip may be bumpy♪
+
+7
+00:00:41,090 --> 00:00:44,240
+♪Sooner or later the mist will clear♪
+
+8
+00:00:44,550 --> 00:00:47,660
+♪I'll realize my dream without hesitation♪
+
+9
+00:00:47,880 --> 00:00:51,320
+♪Through the crowd, it's hard to see♪
+
+10
+00:00:51,320 --> 00:00:55,040
+♪As cramped as the stars♪
+
+11
+00:00:55,200 --> 00:00:58,090
+♪Yearning for each other's sky♪
+
+12
+00:00:58,280 --> 00:01:02,960
+♪Forget we used to sparkle too♪
+
+13
+00:01:03,440 --> 00:01:07,730
+♪I'm going to the land of dream♪
+
+14
+00:01:07,730 --> 00:01:10,170
+♪Not hesitating at all♪
+
+15
+00:01:10,170 --> 00:01:14,370
+♪I'll seize the future, suspecting nothing♪
+
+16
+00:01:14,520 --> 00:01:17,120
+♪Because I'm dauntless♪
+
+17
+00:01:17,120 --> 00:01:21,220
+♪So, I'm going to the land of dream♪
+
+18
+00:01:21,380 --> 00:01:23,870
+♪Not giving up♪
+
+19
+00:01:23,870 --> 00:01:28,270
+♪I will always believe in miracles♪
+
+20
+00:01:28,270 --> 00:01:31,260
+♪Even if I have to look for them endlessly♪
+
+21
+00:01:31,260 --> 00:01:35,980
+=As Beautiful As You=
+
+22
+00:01:36,420 --> 00:01:38,980
+=Episode 4=
+
+23
+00:01:38,980 --> 00:01:42,060
+(Xinggang Hospital)
+
+24
+00:01:46,370 --> 00:01:48,090
+Granny, are you OK?
+
+25
+00:01:49,450 --> 00:01:50,450
+I'm fine.
+
+26
+00:01:50,970 --> 00:01:52,480
+Thank you, young girl.
+
+27
+00:01:53,040 --> 00:01:55,280
+Why is it so hard to have a dental check?
+
+28
+00:01:56,200 --> 00:01:58,530
+It took me two hours to get here.
+
+29
+00:01:58,760 --> 00:02:01,200
+But my trip will be wasted.
+
+30
+00:02:01,480 --> 00:02:03,010
+What do I do?
+
+31
+00:02:06,560 --> 00:02:07,400
+Oh...
+
+32
+00:02:07,760 --> 00:02:08,720
+The dental department...
+
+33
+00:02:11,560 --> 00:02:12,400
+Director Li,
+
+34
+00:02:12,770 --> 00:02:14,250
+the Doctorcloud broke down.
+
+35
+00:02:14,600 --> 00:02:15,720
+May I check it?
+
+36
+00:02:16,400 --> 00:02:17,240
+Miss Ji,
+
+37
+00:02:17,250 --> 00:02:18,370
+you're a maintenance engineer
+
+38
+00:02:18,370 --> 00:02:19,720
+for Robot Bay.
+
+39
+00:02:20,250 --> 00:02:22,120
+Doctorcloud is quite complicated.
+
+40
+00:02:22,370 --> 00:02:23,210
+Can you handle it?
+
+41
+00:02:23,330 --> 00:02:25,050
+It's a mess out there.
+
+42
+00:02:25,050 --> 00:02:26,720
+Why don't you let me try?
+
+43
+00:02:26,720 --> 00:02:28,440
+It can't get worse, anyway.
+
+44
+00:02:29,330 --> 00:02:30,370
+Fine. You try it.
+
+45
+00:02:30,560 --> 00:02:31,880
+Come on. Give your seat to Miss Ji.
+
+46
+00:03:16,020 --> 00:03:17,300
+(Copying one item from desktop to debug)
+
+47
+00:03:41,460 --> 00:03:42,460
+(Powering off)
+
+48
+00:03:45,180 --> 00:03:46,020
+(Starting Windows)
+
+49
+00:03:47,500 --> 00:03:48,820
+(Welcome)
+
+50
+00:03:57,740 --> 00:03:58,580
+(Doctorcloud)
+
+51
+00:04:04,600 --> 00:04:05,440
+It's done.
+
+52
+00:04:06,440 --> 00:04:07,680
+Now, you can restart
+
+53
+00:04:07,680 --> 00:04:08,600
+all the computers.
+
+54
+00:04:08,600 --> 00:04:09,440
+OK.
+
+55
+00:04:10,120 --> 00:04:11,160
+Oh, Engineer Ji,
+
+56
+00:04:11,530 --> 00:04:12,370
+thank you so much.
+
+57
+00:04:12,530 --> 00:04:13,770
+You're indeed
+
+58
+00:04:13,770 --> 00:04:14,810
+the best engineer in Guanghua.
+
+59
+00:04:14,960 --> 00:04:15,800
+So professional.
+
+60
+00:04:16,360 --> 00:04:17,890
+All the products and engineers
+
+61
+00:04:17,890 --> 00:04:19,480
+of Dongyang Group are professional.
+
+62
+00:04:19,600 --> 00:04:21,250
+I'm just an ordinary one.
+
+63
+00:04:21,920 --> 00:04:22,770
+You're not ordinary.
+
+64
+00:04:22,890 --> 00:04:23,800
+Today, our system
+
+65
+00:04:23,800 --> 00:04:25,010
+had such a big failure.
+
+66
+00:04:25,130 --> 00:04:26,330
+Luckily, you were here to help.
+
+67
+00:04:27,690 --> 00:04:30,040
+Then will you consider
+
+68
+00:04:30,040 --> 00:04:31,690
+the cooperation on Bay Phase II?
+
+69
+00:04:35,040 --> 00:04:36,360
+Let me get it straight.
+
+70
+00:04:36,480 --> 00:04:37,530
+Your Robot Bay
+
+71
+00:04:37,530 --> 00:04:38,370
+is actually a mission
+
+72
+00:04:38,530 --> 00:04:39,770
+to doctors like us.
+
+73
+00:04:39,920 --> 00:04:40,920
+In terms of test
+
+74
+00:04:40,920 --> 00:04:42,480
+and primary diagnosis,
+
+75
+00:04:42,480 --> 00:04:43,800
+Bay does a good job.
+
+76
+00:04:44,010 --> 00:04:45,480
+But after the diagnosis,
+
+77
+00:04:45,480 --> 00:04:46,480
+the patients want doctors
+
+78
+00:04:46,480 --> 00:04:47,400
+to recheck them.
+
+79
+00:04:47,600 --> 00:04:49,800
+For a general hospital like us,
+
+80
+00:04:49,890 --> 00:04:50,730
+it's more complicated.
+
+81
+00:04:51,040 --> 00:04:52,800
+But anyway, your robot
+
+82
+00:04:52,800 --> 00:04:53,770
+is really good.
+
+83
+00:04:53,890 --> 00:04:55,480
+It gives professional diagnoses, too.
+
+84
+00:04:55,720 --> 00:04:57,210
+I see your point.
+
+85
+00:04:58,010 --> 00:04:58,920
+Think about this.
+
+86
+00:04:59,120 --> 00:05:00,400
+If we promote this robot
+
+87
+00:05:00,400 --> 00:05:02,040
+to primary hospitals
+
+88
+00:05:02,040 --> 00:05:04,160
+and township clinics
+
+89
+00:05:04,210 --> 00:05:05,240
+with poor medical resources,
+
+90
+00:05:05,330 --> 00:05:07,770
+will it work better?
+
+91
+00:05:09,360 --> 00:05:10,530
+It's a good idea.
+
+92
+00:05:10,690 --> 00:05:11,530
+Director Li.
+
+93
+00:05:12,240 --> 00:05:13,160
+- Mr. Han.
+- Mr. Han.
+
+94
+00:05:13,530 --> 00:05:15,280
+Today, we barely had a big problem.
+
+95
+00:05:15,600 --> 00:05:17,280
+Luckily, Miss Ji has been here.
+
+96
+00:05:17,530 --> 00:05:18,920
+She solved the problem immediately.
+
+97
+00:05:19,400 --> 00:05:20,650
+If the failure lasted longer
+
+98
+00:05:20,690 --> 00:05:21,720
+and led to media exposure,
+
+99
+00:05:22,010 --> 00:05:23,650
+or some patients made trouble
+
+100
+00:05:23,770 --> 00:05:24,690
+and we were blamed,
+
+101
+00:05:25,010 --> 00:05:26,530
+it would harm both sides.
+
+102
+00:05:28,010 --> 00:05:29,570
+Sorry for the trouble.
+
+103
+00:05:29,840 --> 00:05:31,480
+Later, Dr. Jiang Huai's team
+
+104
+00:05:31,480 --> 00:05:32,400
+will fully upgrade
+
+105
+00:05:32,400 --> 00:05:33,720
+and inspect the system
+
+106
+00:05:34,160 --> 00:05:35,210
+to completely fix the bugs.
+
+107
+00:05:35,480 --> 00:05:36,480
+Nothing like this
+
+108
+00:05:36,480 --> 00:05:37,320
+will happen again.
+
+109
+00:05:37,720 --> 00:05:39,160
+Hearing this, Mr. Han,
+
+110
+00:05:39,360 --> 00:05:40,240
+I'll be relieved.
+
+111
+00:05:45,770 --> 00:05:46,610
+Mr. Han,
+
+112
+00:05:47,360 --> 00:05:48,650
+today's bug problem
+
+113
+00:05:49,330 --> 00:05:50,600
+doesn't look like an accident.
+
+114
+00:05:51,450 --> 00:05:52,480
+I saw a man
+
+115
+00:05:52,480 --> 00:05:53,720
+precisely say out
+
+116
+00:05:54,010 --> 00:05:56,010
+the Doctorcloud of Dongyang Medical.
+
+117
+00:05:56,570 --> 00:05:58,400
+Why do you apply the new system?
+
+118
+00:05:58,600 --> 00:06:00,650
+Doctorcloud, huh?
+
+119
+00:06:01,090 --> 00:06:02,210
+From Dongyang Medical.
+
+120
+00:06:02,210 --> 00:06:03,090
+That's a big company.
+
+121
+00:06:03,530 --> 00:06:04,480
+Such a scam.
+
+122
+00:06:04,770 --> 00:06:06,720
+When it's poorly maintained,
+you'd better not use it.
+
+123
+00:06:07,010 --> 00:06:08,360
+You even hold the patients up.
+
+124
+00:06:08,570 --> 00:06:09,530
+This isn't over.
+
+125
+00:06:09,710 --> 00:06:10,600
+I can't photograph, huh?
+
+126
+00:06:10,600 --> 00:06:11,570
+When can we see a doctor?
+
+127
+00:06:11,840 --> 00:06:12,720
+What a poor system!
+
+128
+00:06:12,720 --> 00:06:13,600
+And some men
+
+129
+00:06:13,600 --> 00:06:14,650
+snap random shots.
+
+130
+00:06:15,040 --> 00:06:16,650
+Would you like to investigate it?
+
+131
+00:06:20,240 --> 00:06:22,360
+Thank you for today.
+
+132
+00:06:23,400 --> 00:06:24,280
+You're welcome.
+
+133
+00:06:24,800 --> 00:06:26,970
+Think of it as my repaying your previous help.
+
+134
+00:06:28,480 --> 00:06:29,330
+Compared
+
+135
+00:06:29,330 --> 00:06:30,720
+with my little help,
+
+136
+00:06:30,920 --> 00:06:32,360
+I've taken advantage.
+
+137
+00:06:37,720 --> 00:06:38,600
+(Smile)
+A reporter had
+
+138
+00:06:38,600 --> 00:06:39,890
+a press release of the Doctorcloud.
+
+139
+00:06:39,970 --> 00:06:41,720
+I'm afraid this isn't an accident.
+
+140
+00:06:42,770 --> 00:06:43,920
+Luckily, the system problem
+
+141
+00:06:44,090 --> 00:06:45,480
+was solved in time.
+
+142
+00:06:46,450 --> 00:06:47,290
+Otherwise,
+
+143
+00:06:47,570 --> 00:06:49,130
+it would affect the use of Doctorcloud
+
+144
+00:06:49,130 --> 00:06:50,040
+in other hospitals.
+
+145
+00:06:50,480 --> 00:06:52,400
+Anyway, I owe you this.
+
+146
+00:06:54,360 --> 00:06:56,800
+I just debugged it for the emergency.
+
+147
+00:06:57,040 --> 00:06:58,920
+It can barely keep the existing system.
+
+148
+00:06:59,280 --> 00:07:00,890
+It should be upgraded as soon as possible
+
+149
+00:07:01,160 --> 00:07:02,800
+in case of further trouble.
+
+150
+00:07:03,330 --> 00:07:05,010
+Don't worry. I'll take care of it.
+
+151
+00:07:09,280 --> 00:07:10,120
+Get in the car.
+
+152
+00:07:11,240 --> 00:07:12,690
+I can go alone, Mr. Han.
+
+153
+00:07:14,570 --> 00:07:16,530
+To avoid me in case they gossip?
+
+154
+00:07:18,840 --> 00:07:20,890
+You also saw the post on the intranet?
+
+155
+00:07:21,600 --> 00:07:22,770
+I guessed it.
+
+156
+00:07:28,330 --> 00:07:29,240
+What?
+
+157
+00:07:30,160 --> 00:07:31,970
+Can't bear the grievance??
+
+158
+00:07:32,770 --> 00:07:33,610
+That's not true.
+
+159
+00:07:36,090 --> 00:07:37,010
+Ji Xing,
+
+160
+00:07:37,450 --> 00:07:39,160
+don't care about what others think.
+
+161
+00:07:39,650 --> 00:07:40,720
+A chained eagle
+
+162
+00:07:41,010 --> 00:07:42,240
+can't roar up into the sky.
+
+163
+00:07:43,160 --> 00:07:44,000
+Be what you want to do.
+
+164
+00:07:44,970 --> 00:07:46,450
+Don't let others define you.
+
+165
+00:08:08,840 --> 00:08:09,770
+Young girl.
+
+166
+00:08:11,090 --> 00:08:13,240
+May I borrow your phone?
+
+167
+00:08:15,530 --> 00:08:16,720
+My son
+
+168
+00:08:16,720 --> 00:08:17,720
+asked me to call him back
+
+169
+00:08:17,720 --> 00:08:19,650
+after the dental check.
+
+170
+00:08:19,650 --> 00:08:21,600
+But my phone is dead.
+
+171
+00:08:21,650 --> 00:08:23,040
+It's OK. You can use mine.
+
+172
+00:08:23,400 --> 00:08:24,600
+Here, just dial.
+
+173
+00:08:24,770 --> 00:08:26,040
+OK. Thanks.
+
+174
+00:08:31,160 --> 00:08:32,520
+Hey, son.
+
+175
+00:08:33,050 --> 00:08:34,330
+I'm done with the dental check.
+
+176
+00:08:34,570 --> 00:08:35,600
+I won't miss the shuttle.
+
+177
+00:08:35,600 --> 00:08:36,760
+Yes. I'll be back soon.
+
+178
+00:08:37,690 --> 00:08:38,530
+I'll say no more.
+
+179
+00:08:38,600 --> 00:08:39,930
+My phone is dead.
+
+180
+00:08:39,930 --> 00:08:41,520
+I borrowed this from a girl.
+
+181
+00:08:41,970 --> 00:08:42,840
+I have to return it.
+
+182
+00:08:43,210 --> 00:08:44,360
+I'll hang up. OK.
+
+183
+00:08:46,640 --> 00:08:47,600
+Thank you very much.
+
+184
+00:08:47,880 --> 00:08:48,720
+You're welcome.
+
+185
+00:08:50,090 --> 00:08:51,170
+Just now,
+
+186
+00:08:51,170 --> 00:08:53,360
+did you solve that problem?
+
+187
+00:08:56,170 --> 00:08:57,210
+It's so nice.
+
+188
+00:08:57,210 --> 00:08:58,330
+Thank you so much.
+
+189
+00:08:59,050 --> 00:09:01,570
+Without you, we would have come for nothing.
+
+190
+00:09:01,570 --> 00:09:02,720
+You're welcome.
+
+191
+00:09:02,720 --> 00:09:03,930
+It's just my job.
+
+192
+00:09:04,520 --> 00:09:06,520
+Young guys like you are always modest.
+
+193
+00:09:07,240 --> 00:09:08,880
+Well, I should go.
+
+194
+00:09:09,120 --> 00:09:09,960
+OK.
+
+195
+00:09:10,210 --> 00:09:11,090
+When you have time,
+
+196
+00:09:11,090 --> 00:09:13,290
+come to our Qingtian Fishing Village for fun.
+
+197
+00:09:13,330 --> 00:09:14,840
+Our village is beautiful.
+
+198
+00:09:14,840 --> 00:09:15,680
+OK. OK.
+
+199
+00:09:15,880 --> 00:09:17,090
+- Bye.
+- Bye. Be careful.
+
+200
+00:09:17,090 --> 00:09:17,930
+Thank you.
+
+201
+00:09:17,940 --> 00:09:19,360
+Not at all. Be careful.
+
+202
+00:09:19,450 --> 00:09:20,290
+I will.
+
+203
+00:09:29,120 --> 00:09:30,120
+I didn't see that coming.
+
+204
+00:09:30,480 --> 00:09:32,090
+I sent her to Xinggang Hospital
+
+205
+00:09:32,450 --> 00:09:34,120
+and she even helped Mr. Han.
+
+206
+00:09:34,880 --> 00:09:35,930
+We can at least tell
+
+207
+00:09:36,520 --> 00:09:38,210
+Ji Xing is really capable.
+
+208
+00:09:39,210 --> 00:09:40,290
+She helped Dongyang Medical
+
+209
+00:09:40,570 --> 00:09:42,570
+to debug Doctorcloud.
+
+210
+00:09:42,840 --> 00:09:44,840
+She won an honor for our company.
+
+211
+00:09:44,970 --> 00:09:46,410
+What if she failed?
+
+212
+00:09:47,210 --> 00:09:48,050
+If the cooperation
+
+213
+00:09:48,050 --> 00:09:49,570
+between them was affected
+
+214
+00:09:49,570 --> 00:09:51,330
+and things went worse,
+
+215
+00:09:52,170 --> 00:09:53,480
+who would be responsible?
+
+216
+00:09:54,880 --> 00:09:55,970
+You or me?
+
+217
+00:10:00,090 --> 00:10:01,000
+You're right.
+
+218
+00:10:01,760 --> 00:10:04,360
+I should have been more thoughtful.
+
+219
+00:10:05,690 --> 00:10:06,720
+Ji Xing was too brash.
+
+220
+00:10:13,410 --> 00:10:14,250
+Songlin.
+
+221
+00:10:16,810 --> 00:10:18,050
+Sometimes it's a good thing
+
+222
+00:10:18,050 --> 00:10:19,120
+when your subordinate
+
+223
+00:10:19,360 --> 00:10:20,520
+is ambitious.
+
+224
+00:10:21,720 --> 00:10:23,360
+But if she gets promoted too quickly,
+
+225
+00:10:23,930 --> 00:10:24,840
+she's very likely
+
+226
+00:10:24,840 --> 00:10:26,050
+to threaten your position.
+
+227
+00:10:30,090 --> 00:10:31,050
+I get it.
+
+228
+00:10:31,970 --> 00:10:33,290
+I'll go teach her a lesson.
+
+229
+00:10:47,880 --> 00:10:48,730
+Ji Xing,
+
+230
+00:10:48,750 --> 00:10:50,170
+are you done with Xinggang Hospital?
+
+231
+00:10:50,970 --> 00:10:52,000
+I have something to tell you.
+
+232
+00:10:52,050 --> 00:10:52,890
+Come with me.
+
+233
+00:10:57,640 --> 00:10:58,720
+Doctorcloud will
+
+234
+00:10:58,930 --> 00:11:00,050
+work with Bay
+
+235
+00:11:00,050 --> 00:11:01,410
+on grass-roots diagnosis.
+
+236
+00:11:02,050 --> 00:11:03,240
+I've signed up for you.
+
+237
+00:11:05,690 --> 00:11:07,880
+Isn't it the job of the Marketing Department?
+
+238
+00:11:08,120 --> 00:11:09,240
+Why do I have to go?
+
+239
+00:11:12,330 --> 00:11:13,170
+Ji Xing,
+
+240
+00:11:13,970 --> 00:11:14,810
+I know
+
+241
+00:11:15,090 --> 00:11:16,760
+you think it's hard work
+
+242
+00:11:16,970 --> 00:11:18,840
+to do a grass-roots mission.
+
+243
+00:11:19,570 --> 00:11:20,880
+But the harder the work is,
+
+244
+00:11:21,090 --> 00:11:22,050
+the more it presents
+
+245
+00:11:22,050 --> 00:11:23,810
+your effort and responsibility.
+
+246
+00:11:24,410 --> 00:11:25,250
+Do a good job
+
+247
+00:11:25,480 --> 00:11:26,450
+and satisfy the superiors.
+
+248
+00:11:26,810 --> 00:11:27,650
+Then,
+
+249
+00:11:27,720 --> 00:11:29,450
+I may get another chance
+
+250
+00:11:29,810 --> 00:11:31,290
+to apply for your promotion thing.
+
+251
+00:11:31,570 --> 00:11:33,450
+You promised to apply for that
+
+252
+00:11:33,450 --> 00:11:34,640
+after Bay Phase I is over.
+
+253
+00:11:34,810 --> 00:11:36,410
+Why would you get another chance?
+
+254
+00:11:39,600 --> 00:11:40,440
+Ji Xing,
+
+255
+00:11:41,360 --> 00:11:43,970
+I was about to tell you about this.
+
+256
+00:11:45,090 --> 00:11:46,210
+I had planned
+
+257
+00:11:46,410 --> 00:11:48,480
+to talk to the HR director after the New Year
+
+258
+00:11:48,880 --> 00:11:50,240
+about your promotion thing.
+
+259
+00:11:52,210 --> 00:11:54,120
+But think about what you did.
+
+260
+00:11:54,410 --> 00:11:55,520
+You made a big scene.
+
+261
+00:11:57,090 --> 00:11:58,640
+Everybody then complains.
+
+262
+00:11:59,970 --> 00:12:00,810
+You know.
+
+263
+00:12:00,810 --> 00:12:02,210
+In some cases, I'm not the one
+
+264
+00:12:02,210 --> 00:12:03,050
+calling the shots alone.
+
+265
+00:12:03,570 --> 00:12:05,170
+I was trying hard for that, too.
+
+266
+00:12:06,450 --> 00:12:07,600
+But now it seems
+
+267
+00:12:08,330 --> 00:12:10,240
+you're not likely to get promoted.
+
+268
+00:12:11,000 --> 00:12:12,520
+The project bonus for Bay
+
+269
+00:12:13,720 --> 00:12:15,050
+may be reduced, too.
+
+270
+00:12:18,330 --> 00:12:19,330
+By what degree?
+
+271
+00:12:21,210 --> 00:12:23,840
+Well, I'm not sure.
+
+272
+00:12:24,410 --> 00:12:25,640
+What you did
+
+273
+00:12:26,330 --> 00:12:27,810
+has made everybody complain.
+
+274
+00:12:28,240 --> 00:12:30,090
+To calm them down,
+
+275
+00:12:31,450 --> 00:12:33,690
+we have to sacrifice you.
+
+276
+00:12:33,720 --> 00:12:34,640
+Why?
+
+277
+00:12:35,120 --> 00:12:36,170
+What do they complain about?
+
+278
+00:12:36,170 --> 00:12:37,720
+I'm the victim.
+
+279
+00:12:38,760 --> 00:12:39,690
+And Director Chen,
+
+280
+00:12:40,000 --> 00:12:41,240
+are you sure I can't get promoted
+
+281
+00:12:41,240 --> 00:12:43,240
+simply for what happened at the party?
+
+282
+00:12:43,520 --> 00:12:44,480
+Come on.
+
+283
+00:12:44,480 --> 00:12:46,520
+What are you talking about?
+
+284
+00:12:47,520 --> 00:12:48,840
+You painted the biggest rosy picture,
+
+285
+00:12:48,970 --> 00:12:50,330
+gave me the hardest work,
+
+286
+00:12:51,330 --> 00:12:52,930
+and put in a good word for me
+
+287
+00:12:52,930 --> 00:12:53,770
+to the HR director
+
+288
+00:12:54,000 --> 00:12:55,170
+so that I couldn't get promoted.
+
+289
+00:12:56,170 --> 00:12:57,010
+I heard that.
+
+290
+00:12:57,570 --> 00:12:58,410
+What?
+
+291
+00:12:58,930 --> 00:12:59,770
+Come on, Ji Xing.
+
+292
+00:13:00,640 --> 00:13:01,640
+Who did you
+
+293
+00:13:01,640 --> 00:13:02,640
+hear all this from?
+
+294
+00:13:05,760 --> 00:13:07,690
+Come on, Ji Xing. Calm down.
+
+295
+00:13:08,170 --> 00:13:09,290
+You have to know. In some cases,
+
+296
+00:13:09,450 --> 00:13:10,970
+I have no choice, either.
+
+297
+00:13:10,970 --> 00:13:12,970
+OK. Since you can't call the shots,
+
+298
+00:13:12,970 --> 00:13:14,760
+I'll go ask someone who can do it.
+
+299
+00:13:16,000 --> 00:13:17,000
+Hey, you...
+
+300
+00:13:17,360 --> 00:13:18,200
+You...
+
+301
+00:13:31,930 --> 00:13:33,520
+Email me an electronic copy.
+
+302
+00:13:34,090 --> 00:13:35,520
+OK. If you don't mind,
+
+303
+00:13:35,520 --> 00:13:36,360
+I should go, Miss Zeng.
+
+304
+00:13:43,760 --> 00:13:44,640
+What's up?
+
+305
+00:13:49,450 --> 00:13:50,290
+Miss Zeng,
+
+306
+00:13:50,880 --> 00:13:52,170
+I have a question.
+
+307
+00:13:52,690 --> 00:13:53,970
+I work for the R&amp;D Department.
+
+308
+00:13:54,480 --> 00:13:55,810
+Why do I have to do the work
+
+309
+00:13:56,120 --> 00:13:58,170
+of the Marketing and Maintenance Departments.
+
+310
+00:14:01,090 --> 00:14:02,760
+It's Director Chen's decision after talking
+
+311
+00:14:02,760 --> 00:14:03,840
+to the HR Department.
+
+312
+00:14:04,410 --> 00:14:05,640
+You ask me?
+
+313
+00:14:06,330 --> 00:14:07,240
+Isn't it inappropriate?
+
+314
+00:14:10,240 --> 00:14:12,090
+Sorry. I know I went over his head.
+
+315
+00:14:13,290 --> 00:14:15,330
+But Director Chen said
+he couldn't call the shots.
+
+316
+00:14:16,170 --> 00:14:17,450
+So, I came to you.
+
+317
+00:14:18,330 --> 00:14:19,210
+Since I came here,
+
+318
+00:14:19,210 --> 00:14:20,930
+I've been working on Bay.
+
+319
+00:14:21,450 --> 00:14:22,930
+I'm deeply engaged in work.
+
+320
+00:14:23,210 --> 00:14:24,290
+I have affections
+
+321
+00:14:24,290 --> 00:14:25,210
+for this project,
+
+322
+00:14:26,090 --> 00:14:27,410
+but I need to live.
+
+323
+00:14:27,760 --> 00:14:28,720
+Director Chen promised
+
+324
+00:14:28,720 --> 00:14:29,690
+to apply for my promotion
+
+325
+00:14:29,690 --> 00:14:31,450
+after Bay Phase I was over but regretted it.
+
+326
+00:14:32,000 --> 00:14:34,000
+The promised bonus was reduced, too.
+
+327
+00:14:34,360 --> 00:14:35,970
+If you want me to do other work,
+
+328
+00:14:36,170 --> 00:14:37,520
+it's OK. No problem.
+
+329
+00:14:38,480 --> 00:14:39,320
+But
+
+330
+00:14:39,880 --> 00:14:42,240
+without a suitable pay,
+
+331
+00:14:42,810 --> 00:14:44,930
+I think it's a little unfair.
+
+332
+00:14:45,330 --> 00:14:46,170
+Ji Xing,
+
+333
+00:14:47,290 --> 00:14:49,090
+if you hold a grudge against Chen Songlin
+
+334
+00:14:49,090 --> 00:14:51,120
+because he defended Zhu Lei,
+
+335
+00:14:52,410 --> 00:14:53,930
+you're being narrow-minded.
+
+336
+00:14:54,720 --> 00:14:55,810
+Besides, Zhu Lei
+
+337
+00:14:55,810 --> 00:14:57,000
+paid his price.
+
+338
+00:14:57,170 --> 00:14:58,970
+You shouldn't blame anyone else.
+
+339
+00:15:02,000 --> 00:15:03,240
+I believe Director Chen
+
+340
+00:15:03,240 --> 00:15:04,600
+has made this decision
+
+341
+00:15:04,600 --> 00:15:05,760
+for some reason.
+
+342
+00:15:06,170 --> 00:15:07,410
+If I meddle rashly,
+
+343
+00:15:08,290 --> 00:15:10,360
+how will he manage the R&amp;D Department?
+
+344
+00:15:10,720 --> 00:15:11,720
+That's not true, Miss Zeng.
+
+345
+00:15:12,640 --> 00:15:13,480
+Ji Xing.
+
+346
+00:15:15,170 --> 00:15:16,600
+I know you're outstanding.
+
+347
+00:15:17,520 --> 00:15:19,690
+But we offered you space for career growth.
+
+348
+00:15:20,090 --> 00:15:21,090
+I want you
+
+349
+00:15:21,090 --> 00:15:22,240
+to take the long view.
+
+350
+00:15:22,810 --> 00:15:23,760
+You should know.
+
+351
+00:15:24,050 --> 00:15:25,600
+Not every company
+
+352
+00:15:25,600 --> 00:15:27,840
+can allow you to do what you want.
+
+353
+00:15:34,330 --> 00:15:35,520
+I have a teleconference.
+
+354
+00:16:03,120 --> 00:16:05,090
+(To calm them down,)
+
+355
+00:16:06,330 --> 00:16:08,720
+(we have to sacrifice you.)
+
+356
+00:16:09,330 --> 00:16:10,810
+(Not every company)
+
+357
+00:16:10,810 --> 00:16:12,970
+(can allow you to do what you want.)
+
+358
+00:16:20,640 --> 00:16:21,480
+It's done.
+
+359
+00:16:21,690 --> 00:16:22,530
+Ji Xing,
+
+360
+00:16:22,570 --> 00:16:23,970
+email me the proposal for Phase II
+
+361
+00:16:23,970 --> 00:16:24,810
+you've compiled.
+
+362
+00:16:38,000 --> 00:16:38,840
+Ji Xing,
+
+363
+00:16:39,640 --> 00:16:40,520
+you're the subordinate
+
+364
+00:16:40,520 --> 00:16:41,880
+I've valued most.
+
+365
+00:16:42,930 --> 00:16:44,210
+If I said something
+
+366
+00:16:44,210 --> 00:16:45,120
+that confused you,
+
+367
+00:16:45,760 --> 00:16:47,170
+don't take it personally.
+
+368
+00:16:48,330 --> 00:16:49,570
+You and I are in the same boat.
+
+369
+00:16:50,520 --> 00:16:51,720
+When Bay develops well,
+
+370
+00:16:51,930 --> 00:16:53,240
+we'll both get promoted.
+
+371
+00:16:53,720 --> 00:16:55,410
+Bay is your hard work.
+
+372
+00:16:55,930 --> 00:16:57,240
+A responsible guy like you
+
+373
+00:16:57,240 --> 00:16:59,000
+will not give up halfway.
+
+374
+00:16:59,600 --> 00:17:00,440
+Ji Xing,
+
+375
+00:17:01,210 --> 00:17:02,450
+you're still young.
+
+376
+00:17:02,600 --> 00:17:04,450
+There will be a lot of opportunities.
+
+377
+00:17:04,970 --> 00:17:06,280
+But what if you offend Miss Zeng
+
+378
+00:17:06,520 --> 00:17:08,240
+for such a small thing?
+
+379
+00:17:09,000 --> 00:17:10,480
+You'd lose more.
+
+380
+00:17:11,850 --> 00:17:13,370
+Do you know
+how hard it is to get a job?
+
+381
+00:17:15,000 --> 00:17:16,610
+Once a technical guy like you
+
+382
+00:17:17,690 --> 00:17:18,720
+can't be admitted
+
+383
+00:17:18,720 --> 00:17:19,690
+to the core project team,
+
+384
+00:17:20,000 --> 00:17:21,520
+the discontinuity in experience and ability
+
+385
+00:17:21,930 --> 00:17:23,930
+will ruin your career.
+
+386
+00:17:26,000 --> 00:17:27,410
+I've been there, girl.
+
+387
+00:17:27,720 --> 00:17:29,450
+I'm saying this for your own good.
+
+388
+00:17:30,930 --> 00:17:32,930
+Come on. Stop being angry.
+
+389
+00:17:33,930 --> 00:17:35,280
+Email me the proposal
+
+390
+00:17:35,450 --> 00:17:36,520
+you've compiled.
+
+391
+00:17:41,500 --> 00:17:44,020
+(Send, Theme: Proposal of Dr. Bay Phase II)
+
+392
+00:17:45,040 --> 00:17:46,520
+I've emailed the proposal.
+
+393
+00:17:47,450 --> 00:17:48,290
+OK.
+
+394
+00:17:48,560 --> 00:17:49,410
+I quit.
+
+395
+00:17:51,320 --> 00:17:52,160
+Qu...
+
+396
+00:17:53,760 --> 00:17:54,890
+Quit?
+
+397
+00:17:55,410 --> 00:17:57,210
+Ji Xing, think carefully about it.
+
+398
+00:17:57,480 --> 00:17:58,450
+When you started your job,
+
+399
+00:17:58,450 --> 00:17:59,890
+you signed the noncompete agreement.
+
+400
+00:18:00,450 --> 00:18:01,480
+Once you resign,
+
+401
+00:18:01,610 --> 00:18:02,560
+in the next two years,
+
+402
+00:18:02,560 --> 00:18:03,760
+you can't work in this industry.
+
+403
+00:18:04,280 --> 00:18:05,280
+Later, I'll email you
+
+404
+00:18:05,280 --> 00:18:06,120
+my resignation.
+
+405
+00:18:11,720 --> 00:18:14,210
+OK. Even if you resign,
+
+406
+00:18:14,520 --> 00:18:15,370
+you'll have one month
+
+407
+00:18:15,370 --> 00:18:16,210
+for the handover.
+
+408
+00:18:16,370 --> 00:18:17,450
+You must finish
+
+409
+00:18:17,450 --> 00:18:18,610
+what you're working on.
+
+410
+00:18:19,480 --> 00:18:20,970
+You must obey the work arrangements
+
+411
+00:18:20,970 --> 00:18:22,170
+and be always on call.
+
+412
+00:19:33,890 --> 00:19:35,080
+Miss Ji is...
+
+413
+00:19:36,800 --> 00:19:38,000
+She has resigned, I think.
+
+414
+00:19:48,520 --> 00:19:50,130
+You offered to recruit Miss Ji
+
+415
+00:19:50,130 --> 00:19:51,370
+to Dr. Jiang's team.
+
+416
+00:19:51,370 --> 00:19:52,800
+Shall we have our HR contact her?
+
+417
+00:19:56,930 --> 00:19:58,210
+Send her resume to Dr. Jiang.
+
+418
+00:19:59,000 --> 00:19:59,840
+OK.
+
+419
+00:20:01,480 --> 00:20:03,080
+Yichen, I quit my job.
+
+420
+00:20:03,720 --> 00:20:04,720
+Did they bully you?
+
+421
+00:20:05,130 --> 00:20:07,760
+No. I just didn't want the job.
+
+422
+00:20:08,850 --> 00:20:10,560
+The project bonus is gone.
+
+423
+00:20:11,320 --> 00:20:13,280
+Our flat plan has to be put off.
+
+424
+00:20:14,370 --> 00:20:15,480
+Silly girl,
+
+425
+00:20:15,930 --> 00:20:16,800
+instead of buying a flat,
+
+426
+00:20:17,280 --> 00:20:18,690
+(Dongyang Group)
+I want you to be happy.
+
+427
+00:20:19,480 --> 00:20:20,370
+It's OK you resigned.
+
+428
+00:20:21,040 --> 00:20:21,880
+Xing,
+
+429
+00:20:22,650 --> 00:20:23,760
+when you don't want this job,
+
+430
+00:20:23,760 --> 00:20:24,600
+quit it.
+
+431
+00:20:24,760 --> 00:20:25,890
+It's just nothing.
+
+432
+00:20:29,210 --> 00:20:30,650
+I've just realized
+
+433
+00:20:33,320 --> 00:20:35,130
+humans are more complicated than codes.
+
+434
+00:20:36,520 --> 00:20:37,360
+Promise me.
+
+435
+00:20:37,410 --> 00:20:38,690
+Don't think of anything these days.
+
+436
+00:20:39,040 --> 00:20:40,930
+Take a good rest and relax.
+
+437
+00:20:41,610 --> 00:20:42,720
+When I'm done working,
+
+438
+00:20:43,080 --> 00:20:44,480
+I'll get back to you immediately.
+
+439
+00:20:44,480 --> 00:20:45,320
+OK?
+
+440
+00:20:48,040 --> 00:20:48,880
+Bye-bye.
+
+441
+00:21:05,540 --> 00:21:12,540
+(Dongyang Group)
+
+442
+00:21:24,280 --> 00:21:25,120
+Yichen.
+
+443
+00:21:25,520 --> 00:21:26,360
+Still working?
+
+444
+00:21:27,690 --> 00:21:28,530
+Come on.
+
+445
+00:21:28,650 --> 00:21:30,130
+Why are you having instant noodles?
+
+446
+00:21:30,690 --> 00:21:32,560
+Director Liu invited us to a big dinner.
+
+447
+00:21:32,720 --> 00:21:33,560
+Let's go.
+
+448
+00:21:33,690 --> 00:21:34,800
+I'll be full.
+
+449
+00:21:34,800 --> 00:21:35,640
+You go have dinner.
+
+450
+00:21:35,930 --> 00:21:38,170
+Today, I'll prepare all the materials
+
+451
+00:21:38,170 --> 00:21:39,040
+for the seminar.
+
+452
+00:21:39,650 --> 00:21:40,690
+When the seminar is over,
+
+453
+00:21:40,930 --> 00:21:41,970
+I'll be able to submit
+
+454
+00:21:41,970 --> 00:21:42,810
+the summary report.
+
+455
+00:21:43,130 --> 00:21:44,800
+This report isn't urgent.
+
+456
+00:21:45,080 --> 00:21:45,920
+After the seminar,
+
+457
+00:21:46,080 --> 00:21:47,320
+we can take our time to write.
+
+458
+00:21:47,450 --> 00:21:48,410
+Besides,
+
+459
+00:21:48,410 --> 00:21:49,690
+didn't we make a deal?
+
+460
+00:21:49,690 --> 00:21:51,930
+We'll travel around before we go back home.
+
+461
+00:21:53,080 --> 00:21:55,040
+Maybe next time. When the seminar is over,
+
+462
+00:21:56,320 --> 00:21:57,480
+I'm going back to Xinggang.
+
+463
+00:21:58,650 --> 00:21:59,690
+Miss your girlfriend, huh?
+
+464
+00:22:00,720 --> 00:22:02,560
+Fine. I won't bother you.
+
+465
+00:22:02,760 --> 00:22:04,170
+Call me if you need anything.
+
+466
+00:22:04,280 --> 00:22:05,240
+Enjoy your dinner.
+
+467
+00:22:26,450 --> 00:22:28,450
+Gentleman, the diamond ring you picked
+
+468
+00:22:28,450 --> 00:22:29,970
+has a fantastic name,
+
+469
+00:22:29,970 --> 00:22:31,520
+Starry Love.
+
+470
+00:22:31,690 --> 00:22:33,280
+It symbolizes the deepest love.
+
+471
+00:22:48,450 --> 00:22:49,290
+Xing,
+
+472
+00:22:50,760 --> 00:22:51,600
+wait for me.
+
+473
+00:22:52,740 --> 00:22:55,900
+(Shao Yichen: Xing, wait for me.)
+
+474
+00:23:38,170 --> 00:23:39,850
+It's ten. Why haven't you gone to work?
+
+475
+00:23:40,690 --> 00:23:41,690
+I quit my job.
+
+476
+00:23:42,520 --> 00:23:43,520
+You did?
+
+477
+00:23:45,000 --> 00:23:46,970
+All of a sudden. You resigned?
+
+478
+00:23:49,040 --> 00:23:50,170
+What a silly girl!
+
+479
+00:23:50,170 --> 00:23:52,370
+Then you can't get the compensation.
+
+480
+00:23:52,970 --> 00:23:54,450
+More than that.
+
+481
+00:23:55,450 --> 00:23:57,320
+The year-end bonus and project bonus
+
+482
+00:23:57,320 --> 00:23:58,210
+are gone, too.
+
+483
+00:24:02,970 --> 00:24:04,560
+Is Shao Yichen aware?
+
+484
+00:24:05,320 --> 00:24:06,280
+Yes.
+
+485
+00:24:07,650 --> 00:24:09,610
+I'm just doing what he asked me to,
+
+486
+00:24:09,610 --> 00:24:11,170
+rest and relax.
+
+487
+00:24:15,800 --> 00:24:18,650
+You keep saying you want to wake up naturally.
+
+488
+00:24:19,040 --> 00:24:21,450
+Now, you can sleep late without worry.
+
+489
+00:24:21,720 --> 00:24:22,720
+Will you get back to sleep?
+
+490
+00:24:23,850 --> 00:24:26,040
+My body clock is set.
+
+491
+00:24:26,040 --> 00:24:27,850
+I can't sleep now.
+
+492
+00:24:29,720 --> 00:24:31,040
+I'm OK. Don't worry.
+
+493
+00:24:31,040 --> 00:24:33,800
+I'll just sit and think of nothing.
+
+494
+00:24:45,480 --> 00:24:47,520
+(Su Zhizhou)
+Xing, I modified the proposal again.
+
+495
+00:24:47,760 --> 00:24:49,760
+When are you available this week?
+
+496
+00:24:49,760 --> 00:24:50,600
+I'll come to you.
+
+497
+00:24:56,170 --> 00:24:57,930
+Now. I'm available now.
+
+498
+00:24:57,970 --> 00:24:59,240
+We can meet now.
+
+499
+00:24:59,240 --> 00:25:00,170
+Right now.
+
+500
+00:25:02,800 --> 00:25:03,850
+Here's your coffee.
+
+501
+00:25:04,170 --> 00:25:05,010
+Careful it's hot.
+
+502
+00:25:09,890 --> 00:25:10,760
+Come on. Cheers.
+
+503
+00:25:14,850 --> 00:25:16,850
+You're so happy to know I resigned.
+
+504
+00:25:17,520 --> 00:25:18,930
+I am, of course.
+
+505
+00:25:20,970 --> 00:25:21,810
+Xing,
+
+506
+00:25:21,970 --> 00:25:23,080
+do some thinking
+
+507
+00:25:23,080 --> 00:25:24,560
+about our entrepreneurship.
+
+508
+00:25:25,170 --> 00:25:26,080
+3D medical printing
+
+509
+00:25:26,080 --> 00:25:27,210
+has a very good prospect.
+
+510
+00:25:27,370 --> 00:25:28,890
+It's for all the patients, too.
+
+511
+00:25:33,970 --> 00:25:36,650
+My head is still spinning.
+
+512
+00:25:36,770 --> 00:25:38,610
+I won't think about work for now.
+
+513
+00:25:41,450 --> 00:25:42,290
+I get it.
+
+514
+00:25:46,650 --> 00:25:47,650
+Xing.
+
+515
+00:25:48,080 --> 00:25:49,610
+I don't know
+
+516
+00:25:49,610 --> 00:25:50,890
+what happened to you.
+
+517
+00:25:51,280 --> 00:25:52,370
+But I can feel
+
+518
+00:25:52,370 --> 00:25:53,240
+this resignation
+
+519
+00:25:53,240 --> 00:25:54,320
+upsets you a lot.
+
+520
+00:25:54,800 --> 00:25:57,130
+Then why do you have to get stuck?
+
+521
+00:25:57,370 --> 00:25:58,210
+Think about it.
+
+522
+00:25:58,240 --> 00:25:59,800
+When we were in college,
+
+523
+00:25:59,930 --> 00:26:01,970
+you used to be unrestrained and dazzling.
+
+524
+00:26:07,130 --> 00:26:08,000
+I have to take this.
+
+525
+00:26:10,650 --> 00:26:11,520
+Hello.
+
+526
+00:26:11,720 --> 00:26:12,760
+Young girl,
+
+527
+00:26:12,970 --> 00:26:13,810
+it's me.
+
+528
+00:26:14,280 --> 00:26:15,930
+In Xinggang Hospital,
+
+529
+00:26:15,930 --> 00:26:16,770
+we met.
+
+530
+00:26:17,280 --> 00:26:18,520
+I even borrowed your phone
+
+531
+00:26:18,520 --> 00:26:20,240
+to call my son.
+
+532
+00:26:20,370 --> 00:26:21,410
+You remember me, huh?
+
+533
+00:26:23,130 --> 00:26:24,080
+Oh, Granny. Hello.
+
+534
+00:26:24,480 --> 00:26:26,000
+What do you want me for?
+
+535
+00:26:27,000 --> 00:26:28,610
+I want to ask you something.
+
+536
+00:26:28,760 --> 00:26:29,800
+Since last time
+
+537
+00:26:29,930 --> 00:26:31,170
+I had the dental check,
+
+538
+00:26:31,170 --> 00:26:33,130
+I've been taking the medicine.
+
+539
+00:26:33,280 --> 00:26:35,280
+But these days, I have a toothache again.
+
+540
+00:26:35,800 --> 00:26:37,970
+Our Qingtian Fishing Village
+
+541
+00:26:37,970 --> 00:26:39,690
+is too far away from the hospital.
+
+542
+00:26:40,080 --> 00:26:41,650
+I want to ask you what I should do.
+
+543
+00:26:41,970 --> 00:26:43,650
+To keep taking some medicine
+
+544
+00:26:43,850 --> 00:26:45,610
+or go to the hospital again?
+
+545
+00:26:46,280 --> 00:26:47,280
+Well, Granny,
+
+546
+00:26:47,280 --> 00:26:48,480
+I'm not a doctor.
+
+547
+00:26:48,720 --> 00:26:49,720
+I'm not sure about that.
+
+548
+00:26:50,170 --> 00:26:51,650
+You'd better go to the hospital.
+
+549
+00:26:53,240 --> 00:26:54,970
+You're not a doctor?
+
+550
+00:26:56,370 --> 00:26:57,240
+In the hospital,
+
+551
+00:26:57,240 --> 00:26:58,890
+I saw you fix that system.
+
+552
+00:26:58,890 --> 00:26:59,800
+I thought you were
+
+553
+00:26:59,800 --> 00:27:01,280
+a doctor there.
+
+554
+00:27:02,560 --> 00:27:04,760
+I'll wait for a day or two, then.
+
+555
+00:27:04,890 --> 00:27:06,080
+If it still hurts,
+
+556
+00:27:06,320 --> 00:27:09,040
+I'll take the shuffle to the hospital.
+
+557
+00:27:09,410 --> 00:27:11,370
+I'll leave you alone, young girl.
+
+558
+00:27:11,610 --> 00:27:12,450
+It's OK.
+
+559
+00:27:12,520 --> 00:27:13,360
+Goodbye.
+
+560
+00:27:15,040 --> 00:27:15,970
+Who's that, Xing?
+
+561
+00:27:16,760 --> 00:27:17,800
+In Xinggang Hospital,
+
+562
+00:27:17,800 --> 00:27:18,970
+I met a granny.
+
+563
+00:27:19,520 --> 00:27:20,800
+She thought I was a doctor.
+
+564
+00:27:23,080 --> 00:27:24,280
+She lives in a fishing village
+
+565
+00:27:24,800 --> 00:27:25,690
+far away from here.
+
+566
+00:27:25,690 --> 00:27:26,610
+It takes her great trouble
+
+567
+00:27:26,610 --> 00:27:28,080
+to have a dental check in the hospital.
+
+568
+00:27:28,320 --> 00:27:30,280
+Indeed. Medical conditions in villages
+
+569
+00:27:30,280 --> 00:27:31,210
+can be even worse.
+
+570
+00:27:31,650 --> 00:27:33,450
+Life is hard for those old people.
+
+571
+00:27:35,800 --> 00:27:36,800
+Let's get to your business.
+
+572
+00:27:37,000 --> 00:27:38,170
+Show me your proposal.
+
+573
+00:27:38,610 --> 00:27:39,450
+Here.
+
+574
+00:27:40,000 --> 00:27:40,930
+Please take a look.
+
+575
+00:27:44,040 --> 00:27:45,280
+It has a cover now.
+
+576
+00:27:46,520 --> 00:27:47,930
+Everyone makes progress, huh?
+
+577
+00:27:55,170 --> 00:27:56,890
+The two of you are so busy
+
+578
+00:27:56,890 --> 00:27:58,450
+that I can hardly see you.
+
+579
+00:27:58,480 --> 00:27:59,410
+Especially Xing.
+
+580
+00:27:59,410 --> 00:28:01,240
+She keeps busy when she's quit her job.
+
+581
+00:28:01,560 --> 00:28:02,400
+She always runs out.
+
+582
+00:28:02,850 --> 00:28:04,720
+I'll stop after handing over my work.
+
+583
+00:28:06,280 --> 00:28:07,120
+Sweetheart,
+
+584
+00:28:07,450 --> 00:28:09,080
+my big client's company
+
+585
+00:28:09,080 --> 00:28:10,850
+is recruiting a software engineer.
+
+586
+00:28:11,170 --> 00:28:12,560
+How about I recommend you?
+
+587
+00:28:15,690 --> 00:28:17,720
+A junior brother of mine
+
+588
+00:28:18,080 --> 00:28:21,080
+invited me to start up a business with him.
+
+589
+00:28:22,970 --> 00:28:24,480
+I really admire him.
+
+590
+00:28:24,480 --> 00:28:26,370
+He's brave and decisive.
+
+591
+00:28:26,650 --> 00:28:27,650
+What he said
+
+592
+00:28:27,970 --> 00:28:29,760
+has actually impressed me.
+
+593
+00:28:29,760 --> 00:28:31,280
+Are you insane?
+
+594
+00:28:31,280 --> 00:28:33,130
+How much money is needed for that?
+
+595
+00:28:34,650 --> 00:28:35,490
+Yeah.
+
+596
+00:28:35,850 --> 00:28:37,450
+It's really hard to start up a business.
+
+597
+00:28:39,170 --> 00:28:40,040
+But I don't know
+
+598
+00:28:40,040 --> 00:28:41,370
+what I should do.
+
+599
+00:28:41,520 --> 00:28:43,130
+If I go to a new company,
+
+600
+00:28:43,480 --> 00:28:44,690
+work for two or three years,
+
+601
+00:28:44,690 --> 00:28:45,970
+and meet something terrible again,
+
+602
+00:28:45,970 --> 00:28:47,890
+life will end up the same way.
+
+603
+00:28:49,690 --> 00:28:51,240
+Never mind. Let's not talk about this.
+
+604
+00:28:51,280 --> 00:28:52,120
+Enjoy the food.
+
+605
+00:28:52,320 --> 00:28:53,450
+Just don't think about it.
+
+606
+00:29:00,260 --> 00:29:02,620
+(Notice: Business trip
+to Qingtian Fishing Village)
+
+607
+00:29:02,650 --> 00:29:04,690
+Qingtian Fishing Village?
+
+608
+00:29:05,320 --> 00:29:06,160
+What village?
+
+609
+00:29:06,560 --> 00:29:07,800
+Guanghua's activity to assist doctors
+
+610
+00:29:07,800 --> 00:29:09,610
+in grass-roots units.
+
+611
+00:29:10,000 --> 00:29:12,130
+Qingtian Fishing Village, come on.
+
+612
+00:29:13,890 --> 00:29:15,370
+But you resigned.
+
+613
+00:29:15,370 --> 00:29:17,410
+Why are you still sent? Don't go.
+
+614
+00:29:17,610 --> 00:29:19,650
+Obviously, it's a job that nobody wants.
+
+615
+00:29:19,650 --> 00:29:20,970
+It's very bad of your superior.
+
+616
+00:29:23,480 --> 00:29:24,690
+But I hear
+
+617
+00:29:24,690 --> 00:29:26,320
+Qingtian Fishing Village is beautiful.
+
+618
+00:29:26,320 --> 00:29:27,930
+How about we travel there?
+
+619
+00:29:28,690 --> 00:29:29,530
+OK.
+
+620
+00:29:29,660 --> 00:29:31,280
+Let's take Xing there for some fresh air.
+
+621
+00:29:31,930 --> 00:29:32,970
+What can we do there?
+
+622
+00:29:33,850 --> 00:29:35,040
+Let me check.
+
+623
+00:29:37,760 --> 00:29:39,240
+We can catch crabs.
+
+624
+00:29:39,480 --> 00:29:41,560
+We can also take a speedboat for sea fishing.
+
+625
+00:29:41,970 --> 00:29:43,240
+It's very far, though.
+
+626
+00:29:43,280 --> 00:29:45,080
+(Yuanshan Station)
+We'll take Subway No.4,
+
+627
+00:29:45,170 --> 00:29:46,760
+Bus No.915,
+
+628
+00:29:46,760 --> 00:29:47,850
+and then Bus No.309.
+
+629
+00:29:48,170 --> 00:29:49,560
+It'll take about two hours.
+
+630
+00:29:51,240 --> 00:29:52,560
+That's too far.
+
+631
+00:29:52,560 --> 00:29:53,400
+I'm not going.
+
+632
+00:29:53,480 --> 00:29:54,890
+We have to transfer like that?
+
+633
+00:29:54,890 --> 00:29:56,080
+We don't need to.
+
+634
+00:29:56,080 --> 00:29:57,890
+Li has a car.
+
+635
+00:29:59,320 --> 00:30:00,160
+Right?
+
+636
+00:30:00,890 --> 00:30:02,320
+With a traffic jam at the weekend,
+
+637
+00:30:02,320 --> 00:30:03,800
+it'll take a longer time.
+
+638
+00:30:04,480 --> 00:30:05,320
+Pick another place.
+
+639
+00:30:05,320 --> 00:30:06,450
+Somewhere closer.
+
+640
+00:30:06,480 --> 00:30:07,970
+Rural tourism, for example.
+
+641
+00:30:08,280 --> 00:30:09,240
+Come on, Li.
+
+642
+00:30:09,320 --> 00:30:11,040
+Look, I'll prepare some snacks.
+
+643
+00:30:11,040 --> 00:30:12,450
+When you're tired from driving,
+
+644
+00:30:12,450 --> 00:30:13,650
+I'll sing for you
+
+645
+00:30:13,650 --> 00:30:14,560
+and give you a massage.
+
+646
+00:30:17,690 --> 00:30:20,450
+Boss, these are the locations and schedules
+
+647
+00:30:20,450 --> 00:30:21,760
+for the joint grass-roots research
+
+648
+00:30:21,760 --> 00:30:22,890
+of Doctorcloud and Bay.
+
+649
+00:30:28,580 --> 00:30:30,940
+(Qingtian Fishing Village, Ji Xing)
+
+650
+00:30:33,080 --> 00:30:34,610
+Qingtian Fishing Village...
+
+651
+00:30:34,930 --> 00:30:35,770
+I'm going there, too.
+
+652
+00:30:41,000 --> 00:30:41,850
+I'll have it arranged.
+
+653
+00:31:10,580 --> 00:31:14,260
+(Pick-up Point of Qingtian Fishing Village)
+
+654
+00:31:18,180 --> 00:31:20,780
+(Donglin, Qingtian Fishing Village, Haizhou)
+
+655
+00:31:20,800 --> 00:31:21,760
+I've just arrived.
+
+656
+00:31:21,760 --> 00:31:22,850
+I just got off the shuttle.
+
+657
+00:31:23,040 --> 00:31:24,370
+Have the devices arrived?
+
+658
+00:31:25,040 --> 00:31:26,410
+OK. Send me the location
+
+659
+00:31:26,410 --> 00:31:27,410
+of the clinic.
+
+660
+00:31:28,410 --> 00:31:29,250
+Bye.
+
+661
+00:31:30,000 --> 00:31:30,850
+Mr. Han?
+
+662
+00:31:30,970 --> 00:31:31,930
+You don't need the location.
+
+663
+00:31:31,930 --> 00:31:32,770
+I'll take you there.
+
+664
+00:31:48,320 --> 00:31:49,450
+Coming to this project
+
+665
+00:31:49,450 --> 00:31:50,610
+even when you've resigned?
+
+666
+00:31:52,000 --> 00:31:53,240
+I gave my word.
+
+667
+00:31:53,450 --> 00:31:54,930
+I'll do my duty in the last few days.
+
+668
+00:31:57,480 --> 00:31:58,850
+Dr. Jiang will take over
+
+669
+00:31:58,850 --> 00:32:00,170
+the AI Department of Dongyang Medical,
+
+670
+00:32:00,370 --> 00:32:01,480
+in charge of the research
+
+671
+00:32:01,480 --> 00:32:02,720
+and operation of Doctorcloud.
+
+672
+00:32:03,970 --> 00:32:05,410
+You have Dr. Jiang in charge.
+
+673
+00:32:05,760 --> 00:32:06,760
+Impressive, Mr. Han.
+
+674
+00:32:07,850 --> 00:32:08,970
+Join Dongyang Medical.
+
+675
+00:32:10,690 --> 00:32:11,850
+He knew you helped
+
+676
+00:32:11,850 --> 00:32:13,210
+to debug Doctorcloud
+
+677
+00:32:13,520 --> 00:32:14,850
+and asked me for your resume.
+
+678
+00:32:14,850 --> 00:32:15,760
+He wants you
+
+679
+00:32:15,760 --> 00:32:16,600
+to join his team.
+
+680
+00:32:18,080 --> 00:32:19,930
+I can't. I signed the noncompete agreement.
+
+681
+00:32:20,130 --> 00:32:21,170
+I can make it invalid.
+
+682
+00:32:23,760 --> 00:32:25,170
+Feel free to ask for a pay.
+
+683
+00:32:25,170 --> 00:32:27,040
+It'll be higher than that in Guanghua.
+
+684
+00:32:29,040 --> 00:32:30,690
+If you request something more,
+
+685
+00:32:30,970 --> 00:32:31,810
+let me know.
+
+686
+00:32:34,210 --> 00:32:35,610
+Old schoolmate, thank you
+
+687
+00:32:35,610 --> 00:32:36,720
+for inviting me.
+
+688
+00:32:36,970 --> 00:32:38,610
+But under such circumstances...
+
+689
+00:32:39,930 --> 00:32:40,850
+What circumstances?
+
+690
+00:32:41,320 --> 00:32:43,800
+I'm confused and self-doubting.
+
+691
+00:32:44,720 --> 00:32:46,650
+You think what you get isn't proportional
+
+692
+00:32:46,650 --> 00:32:47,760
+to what you give, huh?
+
+693
+00:32:49,930 --> 00:32:51,720
+Mr. Han, can you read minds?
+
+694
+00:32:55,760 --> 00:32:56,930
+I always think
+
+695
+00:32:56,930 --> 00:32:57,850
+what I take and what I give
+
+696
+00:32:57,850 --> 00:32:58,970
+should be proportional.
+
+697
+00:32:59,650 --> 00:33:01,480
+But now I've realized
+
+698
+00:33:01,480 --> 00:33:03,610
+traditional codes of conduct matter more
+
+699
+00:33:03,890 --> 00:33:05,240
+than professional skills.
+
+700
+00:33:05,650 --> 00:33:06,800
+You've just realized it?
+
+701
+00:33:08,320 --> 00:33:09,930
+You work on AI.
+
+702
+00:33:10,410 --> 00:33:12,480
+Even a robot has to keep learning
+
+703
+00:33:12,480 --> 00:33:14,560
+and adapt to the environment
+in case of being replaced.
+
+704
+00:33:14,850 --> 00:33:15,690
+Why do you still need
+
+705
+00:33:15,930 --> 00:33:16,970
+to be enlightened?
+
+706
+00:33:18,760 --> 00:33:20,450
+You have a point.
+
+707
+00:33:20,800 --> 00:33:22,720
+But I just don't want to be assimilated
+
+708
+00:33:22,760 --> 00:33:24,450
+or become someone like that.
+
+709
+00:33:24,560 --> 00:33:25,760
+To avoid being assimilated,
+
+710
+00:33:25,800 --> 00:33:26,760
+the simplest way is
+
+711
+00:33:26,760 --> 00:33:27,650
+find the group
+
+712
+00:33:27,650 --> 00:33:28,610
+you fully agree with.
+
+713
+00:33:29,130 --> 00:33:30,280
+Just like you, Dr. Jiang
+
+714
+00:33:30,280 --> 00:33:31,170
+is a technical guy
+
+715
+00:33:31,170 --> 00:33:32,650
+who doesn't care for worldly wisdom.
+
+716
+00:33:33,410 --> 00:33:35,040
+Maybe two stubborn guys like you
+
+717
+00:33:35,170 --> 00:33:36,930
+will make a big difference.
+
+718
+00:33:37,480 --> 00:33:38,930
+Under such circumstances,
+
+719
+00:33:39,650 --> 00:33:41,320
+working with Dr. Jiang
+
+720
+00:33:41,370 --> 00:33:42,650
+will be your best choice.
+
+721
+00:33:46,650 --> 00:33:47,610
+Think about it.
+
+722
+00:33:57,000 --> 00:33:58,210
+It's OK. Take this
+
+723
+00:33:58,210 --> 00:33:59,370
+and line up over there.
+
+724
+00:33:59,720 --> 00:34:00,560
+OK. Thanks.
+
+725
+00:34:02,850 --> 00:34:03,970
+Hello, guys.
+
+726
+00:34:04,560 --> 00:34:05,720
+This is the charity medicine
+
+727
+00:34:05,720 --> 00:34:06,850
+of Guanghua Technology.
+
+728
+00:34:06,850 --> 00:34:07,600
+Here's an introduction.
+
+729
+00:34:07,600 --> 00:34:09,250
+(Charity Medicine of Dongyang Medical)
+If you want
+
+730
+00:34:09,250 --> 00:34:10,610
+(and Guanghua Technology)
+a dental check,
+
+731
+00:34:10,610 --> 00:34:11,600
+you can line up over there.
+
+732
+00:34:11,600 --> 00:34:12,810
+It's free of charge.
+
+733
+00:34:13,160 --> 00:34:14,330
+- Let's go have a look.
+- Come on.
+
+734
+00:34:18,330 --> 00:34:19,680
+Oh, it's you, young girl.
+
+735
+00:34:19,680 --> 00:34:21,410
+- Hi, Granny.
+- Hi.
+
+736
+00:34:21,450 --> 00:34:23,370
+Didn't you say you weren't a doctor?
+
+737
+00:34:23,770 --> 00:34:24,930
+I'm not a doctor.
+
+738
+00:34:25,000 --> 00:34:27,520
+Look at that white machine.
+
+739
+00:34:28,000 --> 00:34:29,450
+It's Robot Bay.
+
+740
+00:34:29,450 --> 00:34:31,480
+I'm the engineer of Bay.
+
+741
+00:34:31,480 --> 00:34:33,520
+I came with it to give dental checks.
+
+742
+00:34:34,000 --> 00:34:35,450
+What about your teeth? Any better?
+
+743
+00:34:35,450 --> 00:34:36,810
+Would like to have a check?
+
+744
+00:34:37,040 --> 00:34:37,930
+No, thanks.
+
+745
+00:34:37,970 --> 00:34:39,250
+I called you
+
+746
+00:34:39,250 --> 00:34:40,640
+because I was too impatient.
+
+747
+00:34:40,640 --> 00:34:42,040
+I took some medicine and it was OK.
+
+748
+00:34:43,450 --> 00:34:44,480
+That robot
+
+749
+00:34:44,480 --> 00:34:45,970
+was invented by you?
+
+750
+00:34:47,290 --> 00:34:50,200
+I'm involved in its design and development.
+
+751
+00:34:50,200 --> 00:34:51,560
+So, you can say that.
+
+752
+00:34:52,600 --> 00:34:53,850
+This is great.
+
+753
+00:34:53,930 --> 00:34:55,410
+Finally, we don't need to go
+
+754
+00:34:55,410 --> 00:34:57,410
+such a long way to the hospital.
+
+755
+00:34:57,930 --> 00:34:59,770
+This is my old friend,
+
+756
+00:35:00,040 --> 00:35:01,250
+Niu Yuhong.
+
+757
+00:35:01,250 --> 00:35:02,850
+- Hi, Granny
+- Hi.
+
+758
+00:35:02,970 --> 00:35:05,080
+These days, she feels
+something wrong inside her mouth.
+
+759
+00:35:05,560 --> 00:35:07,520
+Instead of seeing a doctor,
+she takes casual medicine.
+
+760
+00:35:07,520 --> 00:35:09,120
+Can this little robot
+
+761
+00:35:09,250 --> 00:35:10,450
+give her a check?
+
+762
+00:35:10,450 --> 00:35:11,450
+Yes.
+
+763
+00:35:11,560 --> 00:35:13,160
+Granny, this is for you.
+
+764
+00:35:13,600 --> 00:35:15,480
+You take one and I'll take you to the queue.
+
+765
+00:35:15,480 --> 00:35:16,770
+- Let's go.
+- Oh, don't.
+
+766
+00:35:16,770 --> 00:35:18,000
+I can walk by myself.
+
+767
+00:35:19,080 --> 00:35:20,560
+OK. Come with me, then.
+
+768
+00:35:27,970 --> 00:35:28,810
+Granny Niu.
+
+769
+00:35:29,160 --> 00:35:30,000
+Nice to meet you.
+
+770
+00:35:30,120 --> 00:35:31,810
+According to the report,
+
+771
+00:35:31,810 --> 00:35:33,600
+at the side of the first left molar,
+
+772
+00:35:33,600 --> 00:35:35,410
+some of the gums are swollen.
+
+773
+00:35:35,520 --> 00:35:36,410
+This is it.
+
+774
+00:35:36,410 --> 00:35:37,450
+A deep periodontal pocket.
+
+775
+00:35:37,710 --> 00:35:38,560
+Inside it,
+
+776
+00:35:38,560 --> 00:35:39,970
+some purulent fluid is out.
+
+777
+00:35:40,160 --> 00:35:41,930
+Luckily, you had it checked today.
+
+778
+00:35:41,970 --> 00:35:43,600
+If you let the inflammation continue,
+
+779
+00:35:43,600 --> 00:35:44,450
+it will lead
+
+780
+00:35:44,600 --> 00:35:46,160
+to the absorption of alveolar bone.
+
+781
+00:35:46,370 --> 00:35:48,770
+That is to say, you'll lose this tooth.
+
+782
+00:35:48,890 --> 00:35:50,040
+What can she do?
+
+783
+00:35:50,040 --> 00:35:51,000
+Yeah. What can I do?
+
+784
+00:35:51,000 --> 00:35:51,930
+You need
+
+785
+00:35:51,930 --> 00:35:53,160
+ultrasonic scaling.
+
+786
+00:35:53,560 --> 00:35:55,640
+We'll do the sub-gingival scaling
+
+787
+00:35:55,640 --> 00:35:57,040
+before polishing the surface
+
+788
+00:35:57,040 --> 00:35:57,930
+of your tooth.
+
+789
+00:35:57,930 --> 00:35:59,200
+Then with some medicine,
+
+790
+00:35:59,200 --> 00:36:00,600
+we'll do local irrigation.
+
+791
+00:36:01,730 --> 00:36:02,930
+So much trouble?
+
+792
+00:36:03,120 --> 00:36:04,040
+Not really.
+
+793
+00:36:04,160 --> 00:36:06,680
+Well, I'll give you some anti-inflammatories.
+
+794
+00:36:07,770 --> 00:36:08,850
+- Hi, Chief.
+- Hi, Chief.
+
+795
+00:36:08,850 --> 00:36:10,970
+Hello, kids.
+
+796
+00:36:11,770 --> 00:36:13,730
+Mr. Han, don't worry.
+
+797
+00:36:13,970 --> 00:36:15,160
+Our clinic
+
+798
+00:36:15,730 --> 00:36:18,160
+will make good use
+
+799
+00:36:18,250 --> 00:36:20,250
+of Doctorcloud.
+
+800
+00:36:20,770 --> 00:36:21,970
+Thanks for your cooperation.
+
+801
+00:36:22,040 --> 00:36:23,930
+We should thank you.
+
+802
+00:36:24,200 --> 00:36:25,600
+This medical system
+
+803
+00:36:25,600 --> 00:36:27,120
+is of great help
+
+804
+00:36:27,560 --> 00:36:28,970
+to this remote village.
+
+805
+00:36:30,300 --> 00:36:31,580
+(Metronidazole and Fenbufen Capsules)
+
+806
+00:36:31,580 --> 00:36:33,540
+(Diagnostic Report)
+
+807
+00:36:34,080 --> 00:36:35,410
+Granny, you've kept in mind
+
+808
+00:36:35,410 --> 00:36:36,520
+what the doctor said, huh?
+
+809
+00:36:36,970 --> 00:36:38,600
+Don't worry. The ultrasonic scaling
+
+810
+00:36:38,600 --> 00:36:39,600
+is very convenient.
+
+811
+00:36:41,520 --> 00:36:43,080
+This is your diagnostic report.
+
+812
+00:36:43,080 --> 00:36:43,930
+Take it.
+
+813
+00:36:47,160 --> 00:36:49,160
+- Thanks.
+- You're welcome.
+
+814
+00:36:50,730 --> 00:36:51,570
+What happened?
+
+815
+00:36:52,160 --> 00:36:53,120
+Be careful.
+
+816
+00:36:53,120 --> 00:36:54,930
+Don't help me. Don't.
+
+817
+00:36:55,560 --> 00:36:56,810
+I can walk by myself.
+
+818
+00:37:03,370 --> 00:37:04,370
+Oh, Yuhong.
+
+819
+00:37:04,850 --> 00:37:06,200
+When she was young,
+
+820
+00:37:06,200 --> 00:37:08,410
+her calf was cut off by a car.
+
+821
+00:37:08,410 --> 00:37:09,770
+She's using an artificial calf.
+
+822
+00:37:10,450 --> 00:37:11,930
+She has such strong self-esteem
+
+823
+00:37:11,930 --> 00:37:13,520
+that she lets no one help her.
+
+824
+00:37:13,600 --> 00:37:14,480
+Never mind.
+
+825
+00:37:14,480 --> 00:37:15,370
+I won't.
+
+826
+00:37:15,370 --> 00:37:16,520
+Are you leaving tonight?
+
+827
+00:37:16,890 --> 00:37:17,850
+Tomorrow, actually.
+
+828
+00:37:18,200 --> 00:37:20,000
+Then live in my house tonight.
+
+829
+00:37:20,000 --> 00:37:21,250
+Don't bother, Granny.
+
+830
+00:37:21,250 --> 00:37:22,410
+Our company has arrangements.
+
+831
+00:37:22,410 --> 00:37:23,810
+The guesthouse at the village entrance.
+
+832
+00:37:24,450 --> 00:37:26,520
+OK. I'll let you work. I should go.
+
+833
+00:37:27,040 --> 00:37:28,000
+Let me walk you back.
+
+834
+00:37:28,370 --> 00:37:29,210
+No need.
+
+835
+00:37:29,520 --> 00:37:30,360
+You get back to work.
+
+836
+00:37:30,890 --> 00:37:31,730
+Yuhong.
+
+837
+00:37:36,520 --> 00:37:39,370
+It's a good day, huh? You had a check.
+
+838
+00:37:39,370 --> 00:37:40,770
+What shall I do?
+
+839
+00:37:40,770 --> 00:37:42,370
+See the doctor and take the medicine.
+
+840
+00:37:42,520 --> 00:37:43,640
+Just listen to the doctor.
+
+841
+00:37:44,250 --> 00:37:45,480
+Take it and you'll be fine.
+
+842
+00:37:52,890 --> 00:37:54,330
+This system feels like
+
+843
+00:37:54,330 --> 00:37:56,120
+a professional doctor
+
+844
+00:37:56,160 --> 00:37:57,970
+from a big hospital
+
+845
+00:37:57,970 --> 00:37:59,120
+is sent to our clinic.
+
+846
+00:38:00,560 --> 00:38:01,970
+Glad it can help you.
+
+847
+00:38:01,970 --> 00:38:03,770
+When you have any problem later,
+
+848
+00:38:03,770 --> 00:38:05,560
+feel free to contact our engineers.
+
+849
+00:38:06,290 --> 00:38:07,160
+OK.
+
+850
+00:38:07,810 --> 00:38:09,680
+You get back to work. I'll walk around.
+
+851
+00:38:20,330 --> 00:38:21,170
+What are you thinking?
+
+852
+00:38:25,290 --> 00:38:27,250
+When I see the robot I make
+
+853
+00:38:27,250 --> 00:38:28,560
+can be of great help,
+
+854
+00:38:29,000 --> 00:38:30,370
+I get a sense of achievement.
+
+855
+00:38:31,600 --> 00:38:32,440
+That's right.
+
+856
+00:38:34,080 --> 00:38:35,040
+I'll get to work.
+
+857
+00:38:36,810 --> 00:38:38,450
+Don't eat sour or spicy food.
+
+858
+00:38:38,520 --> 00:38:39,600
+Pay attention
+
+859
+00:38:39,600 --> 00:38:40,850
+to oral hygiene, OK?
+
+860
+00:38:46,370 --> 00:38:48,040
+I'd like to thank the committee
+
+861
+00:38:48,040 --> 00:38:50,560
+(AI Creative Competition)
+for approving the medical robot we've designed.
+
+862
+00:38:51,000 --> 00:38:53,410
+Now, it is only a crude prototype.
+
+863
+00:38:53,810 --> 00:38:55,600
+But we'll keep improving it
+
+864
+00:38:56,480 --> 00:38:58,410
+until it's put into use
+
+865
+00:38:58,410 --> 00:39:00,680
+to help more people in need.
+
+866
+00:39:19,850 --> 00:39:20,690
+Granny Liu.
+
+867
+00:39:21,160 --> 00:39:22,480
+- Girl.
+- What are you doing here?
+
+868
+00:39:22,480 --> 00:39:24,290
+I'm here for you.
+
+869
+00:39:24,680 --> 00:39:26,290
+Yuhong made this dried fish.
+
+870
+00:39:26,460 --> 00:39:27,370
+It's delicious.
+
+871
+00:39:27,370 --> 00:39:29,080
+She asked me to bring you some.
+
+872
+00:39:29,250 --> 00:39:30,890
+No, thanks. It's so nice of you.
+
+873
+00:39:31,560 --> 00:39:33,970
+It's not something expensive.
+
+874
+00:39:34,080 --> 00:39:35,930
+If you don't accept it, she'll be sad.
+
+875
+00:39:37,560 --> 00:39:38,640
+- Fine, then.
+- Here.
+
+876
+00:39:38,640 --> 00:39:39,480
+Come over and sit.
+
+877
+00:39:39,560 --> 00:39:40,400
+OK.
+
+878
+00:39:41,730 --> 00:39:42,810
+Be seated, please.
+
+879
+00:39:46,160 --> 00:39:47,000
+Where's Granny Niu?
+
+880
+00:39:48,480 --> 00:39:50,970
+She doesn't usually go out unless she has to.
+
+881
+00:39:52,730 --> 00:39:54,160
+Oh, does her artificial calf
+
+882
+00:39:54,160 --> 00:39:55,730
+not match her body?
+
+883
+00:39:55,890 --> 00:39:57,890
+I see her walk uncomfortably.
+
+884
+00:39:58,160 --> 00:39:59,000
+Yeah.
+
+885
+00:39:59,370 --> 00:40:01,200
+She was injured many years ago.
+
+886
+00:40:01,730 --> 00:40:03,250
+The artificial calf she wears
+
+887
+00:40:03,250 --> 00:40:05,080
+is a ready-made one.
+
+888
+00:40:05,290 --> 00:40:07,330
+When she felt uncomfortable,
+
+889
+00:40:07,330 --> 00:40:08,730
+she consulted a doctor.
+
+890
+00:40:09,080 --> 00:40:10,040
+The doctor suggests
+
+891
+00:40:10,080 --> 00:40:12,120
+she should have one customized
+
+892
+00:40:12,120 --> 00:40:13,370
+based on her own calf.
+
+893
+00:40:13,680 --> 00:40:15,040
+How much does it cost?
+
+894
+00:40:15,120 --> 00:40:16,640
+We're not sure.
+
+895
+00:40:16,770 --> 00:40:18,330
+We just know a customized calf costs
+
+896
+00:40:18,520 --> 00:40:20,370
+as much as a flat in the city.
+
+897
+00:40:20,850 --> 00:40:22,480
+How can she afford it?
+
+898
+00:40:24,410 --> 00:40:25,290
+You have no idea.
+
+899
+00:40:25,640 --> 00:40:26,890
+When her knee
+
+900
+00:40:26,890 --> 00:40:28,080
+was in a serious condition,
+
+901
+00:40:28,330 --> 00:40:30,160
+it bled really a lot.
+
+902
+00:40:31,640 --> 00:40:33,680
+I feel so sorry for her.
+
+903
+00:40:34,930 --> 00:40:36,250
+She used to be very outgoing
+
+904
+00:40:36,250 --> 00:40:37,850
+and beautiful.
+
+905
+00:40:37,850 --> 00:40:39,520
+Because of her calf,
+
+906
+00:40:39,730 --> 00:40:41,480
+she's been living all alone
+
+907
+00:40:42,370 --> 00:40:43,970
+and her life is wasted.
+
+908
+00:40:44,520 --> 00:40:46,290
+Granny, don't worry.
+
+909
+00:40:46,370 --> 00:40:47,600
+Our medical skills
+
+910
+00:40:47,600 --> 00:40:48,890
+have been developing very fast.
+
+911
+00:40:49,040 --> 00:40:50,640
+Everything will get better.
+
+912
+00:40:51,680 --> 00:40:53,040
+Hope so.
+
+913
+00:40:55,370 --> 00:40:57,080
+All right. I should go.
+
+914
+00:40:57,330 --> 00:40:58,410
+You get some rest early.
+
+915
+00:40:58,410 --> 00:40:59,850
+I won't bother you.
+
+916
+00:41:00,040 --> 00:41:01,250
+It's OK. It's no bother.
+
+917
+00:41:01,930 --> 00:41:04,120
+- I should go.
+- Let me walk you out.
+
+918
+00:41:04,520 --> 00:41:06,160
+Don't bother. Do what you need to do.
+
+919
+00:41:07,120 --> 00:41:07,960
+See you, Granny.
+
+920
+00:41:07,970 --> 00:41:08,930
+OK. Goodbye.
+
+921
+00:42:00,330 --> 00:42:01,560
+(She used to be very outgoing)
+
+922
+00:42:01,560 --> 00:42:03,160
+(and beautiful.)
+
+923
+00:42:03,290 --> 00:42:04,770
+(Because of her calf,)
+
+924
+00:42:05,160 --> 00:42:06,970
+(she's been living all alone)
+
+925
+00:42:06,970 --> 00:42:08,410
+(and her life is wasted.)
+
+926
+00:42:09,890 --> 00:42:10,730
+What happened?
+
+927
+00:42:11,290 --> 00:42:12,130
+Don't help me.
+
+928
+00:42:12,290 --> 00:42:13,130
+Don't.
+
+929
+00:42:13,730 --> 00:42:14,970
+I can walk by myself.
+
+930
+00:42:18,290 --> 00:42:20,480
+It's a good day, huh?
+
+931
+00:42:25,530 --> 00:42:26,370
+(Xing,)
+
+932
+00:42:26,640 --> 00:42:27,730
+(do some thinking)
+
+933
+00:42:27,730 --> 00:42:29,160
+(about our entrepreneurship.)
+
+934
+00:42:29,560 --> 00:42:30,450
+(3D medical printing)
+
+935
+00:42:30,450 --> 00:42:31,680
+has a very good prospect.
+
+936
+00:42:31,730 --> 00:42:33,370
+It's for all the patients, too.
+
+937
+00:42:35,680 --> 00:42:37,080
+(Under such circumstances,)
+
+938
+00:42:37,330 --> 00:42:38,930
+(working with Dr. Jiang)
+
+939
+00:42:38,970 --> 00:42:40,120
+(will be your best choice.)
+
+940
+00:42:59,080 --> 00:43:00,120
+Why do you not sleep so late,
+
+941
+00:43:00,120 --> 00:43:01,290
+but get ocean breezes here?
+
+942
+00:43:04,560 --> 00:43:06,480
+I can't sleep and I'm out for some air.
+
+943
+00:43:07,850 --> 00:43:08,690
+What about you?
+
+944
+00:43:09,250 --> 00:43:10,850
+I can't sleep and I'm out for some air.
+
+945
+00:43:37,920 --> 00:43:42,640
+♪Once again, you stand opposite me♪
+
+946
+00:43:44,740 --> 00:43:49,540
+♪Telling the worlds I'm not familiar with♪
+
+947
+00:43:50,960 --> 00:43:56,960
+♪They seem remote, but get in between us♪
+
+948
+00:43:57,750 --> 00:44:02,730
+♪We test each other
+to see who'll first cross the line♪
+
+949
+00:44:05,320 --> 00:44:10,310
+♪If I can get closer to you♪
+
+950
+00:44:12,050 --> 00:44:17,470
+♪Can we have our memories overlapped?♪
+
+951
+00:44:18,270 --> 00:44:24,580
+♪Time puts walls up to keep my loneliness safe♪
+
+952
+00:44:25,250 --> 00:44:32,180
+♪Hope understanding will not endanger us♪
+
+953
+00:44:34,080 --> 00:44:38,670
+♪We each take a side♪
+
+954
+00:44:39,110 --> 00:44:45,620
+♪The chess board is set,
+leaving us with a dilemma♪
+
+955
+00:44:45,970 --> 00:44:52,200
+♪We always expect each other to relent first♪
+
+956
+00:44:52,410 --> 00:44:55,480
+♪Before we're relieved♪
+
+957
+00:44:55,480 --> 00:45:01,210
+♪Pretend love isn't about winning♪
+
+958
+00:45:01,480 --> 00:45:06,070
+♪We each keep a half♪
+
+959
+00:45:06,580 --> 00:45:13,170
+♪Completing ourselves before revealing♪
+
+960
+00:45:13,400 --> 00:45:15,990
+♪Instead of expectations♪
+
+961
+00:45:15,990 --> 00:45:22,860
+♪We need each other's answer to judge♪
+
+962
+00:45:22,860 --> 00:45:28,240
+♪When love is a game of exchange♪
+
+963
+00:45:29,260 --> 00:45:32,660
+♪It is truly terrible♪
