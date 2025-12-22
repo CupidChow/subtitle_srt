@@ -1,0 +1,7827 @@
+1
+00:00:09,760 --> 00:00:11,320
+"Start Reasoning" Trial Version
+
+2
+00:00:11,320 --> 00:00:12,440
+Game Rules
+
+3
+00:00:12,920 --> 00:00:14,440
+Six players per episode
+
+4
+00:00:14,440 --> 00:00:17,720
+Divided into four suspects and two investigators
+
+5
+00:00:17,720 --> 00:00:18,760
+To solve the case
+
+6
+00:00:19,200 --> 00:00:21,360
+The real culprit is hidden among the suspects
+
+7
+00:00:21,360 --> 00:00:24,120
+The culprit's task is to conceal their identity
+
+8
+00:00:24,120 --> 00:00:26,400
+Without being discovered by other players
+
+9
+00:00:26,400 --> 00:00:28,760
+Only the real culprit is allowed to lie
+
+10
+00:00:29,600 --> 00:00:30,800
+Notably
+
+11
+00:00:30,800 --> 00:00:32,440
+A new gameplay element has been added
+
+12
+00:00:32,960 --> 00:00:34,280
+The player who is the culprit
+
+13
+00:00:34,280 --> 00:00:36,280
+If they pass a certain test
+
+14
+00:00:36,280 --> 00:00:38,520
+Can choose between the two investigators
+
+15
+00:00:38,520 --> 00:00:39,680
+To select one
+
+16
+00:00:39,840 --> 00:00:41,520
+And turn them into X
+
+17
+00:00:41,880 --> 00:00:43,840
+X's mission is to
+
+18
+00:00:43,840 --> 00:00:45,160
+During the investigation
+
+19
+00:00:45,160 --> 00:00:47,200
+Actively help the culprit escape
+
+20
+00:00:47,760 --> 00:00:49,040
+Victory conditions
+
+21
+00:00:49,360 --> 00:00:50,640
+After solving the case
+
+22
+00:00:50,640 --> 00:00:52,600
+Players vote for the culprit
+
+23
+00:00:52,880 --> 00:00:54,240
+If the culprit receives
+
+24
+00:00:54,240 --> 00:00:55,880
+Fewer votes than other suspects
+
+25
+00:00:55,880 --> 00:00:58,120
+Then the culprit and X win
+
+26
+00:00:58,120 --> 00:01:01,000
+Otherwise, players who voted correctly win
+
+27
+00:01:03,040 --> 00:01:04,160
+Welcome to
+
+28
+00:01:04,160 --> 00:01:06,040
+"Start Reasoning" Trial Version
+
+29
+00:01:06,520 --> 00:01:07,360
+I'm Reasoning Bao
+
+30
+00:01:08,440 --> 00:01:10,200
+Before the official recording
+
+31
+00:01:10,200 --> 00:01:11,440
+of "Start Reasoning" Season 2
+
+32
+00:01:11,920 --> 00:01:12,760
+We've invited
+
+33
+00:01:13,040 --> 00:01:14,520
+Lola and Wang Nengneng
+
+34
+00:01:15,960 --> 00:01:17,920
+Hou Zhuocheng and Yang Ruqing
+
+35
+00:01:17,920 --> 00:01:19,640
+Huang Kai and Hu Minghao
+
+36
+00:01:19,760 --> 00:01:22,120
+Six guests to visit Reasoning Town
+
+37
+00:01:22,120 --> 00:01:23,760
+For a trial gameplay experience
+
+38
+00:01:26,160 --> 00:01:28,240
+Now let me, Reasoning Bao
+
+39
+00:01:28,240 --> 00:01:30,800
+Watch and explain with everyone
+
+40
+00:01:30,800 --> 00:01:33,440
+The wonderful performances of Reasoning Town's new residents
+
+41
+00:01:34,360 --> 00:01:36,000
+The day before yesterday was the first day
+
+42
+00:01:36,000 --> 00:01:37,560
+of Reasoning Arts Academy's anniversary celebration
+
+43
+00:01:38,000 --> 00:01:40,160
+To win this Reasoning Arts Star award
+
+44
+00:01:40,160 --> 00:01:42,000
+First I want to thank everyone for your recognition
+
+45
+00:01:46,960 --> 00:01:48,640
+Outstanding graduate representative TYP
+
+46
+00:01:48,640 --> 00:01:50,240
+and classmate Zidaole were murdered
+
+47
+00:01:50,360 --> 00:01:51,040
+TYP
+
+48
+00:01:51,880 --> 00:01:53,680
+Classmate Ai Changge committed suicide by jumping off a building
+
+49
+00:01:54,040 --> 00:01:55,880
+I just saw in the dormitory courtyard
+
+50
+00:01:55,880 --> 00:01:57,200
+Ai Changge jumped to her death
+
+51
+00:01:57,720 --> 00:01:58,880
+Ai Changge
+
+52
+00:01:59,000 --> 00:02:00,000
+Second day of the school anniversary
+
+53
+00:02:00,000 --> 00:02:01,080
+Someone has died
+
+54
+00:02:01,080 --> 00:02:02,560
+Classmate Ruisibai was murdered
+
+55
+00:02:03,120 --> 00:02:03,920
+Ruisibai
+
+56
+00:02:04,080 --> 00:02:05,600
+Everyone failed to catch the real culprit
+
+57
+00:02:05,840 --> 00:02:06,920
+letting them escape
+
+58
+00:02:07,280 --> 00:02:09,560
+As murders occurred one after another
+
+59
+00:02:09,920 --> 00:02:11,880
+students kept encountering
+
+60
+00:02:11,880 --> 00:02:14,080
+the strange phenomena described in campus horror stories
+
+61
+00:02:17,240 --> 00:02:18,600
+I'm almost crying
+
+62
+00:02:20,640 --> 00:02:21,440
+Bloody footprints
+
+63
+00:02:22,600 --> 00:02:24,080
+What secrets are hidden
+
+64
+00:02:24,200 --> 00:02:25,680
+behind these urban legends?
+
+65
+00:02:26,000 --> 00:02:28,080
+Can everyone safely get through
+
+66
+00:02:28,080 --> 00:02:29,000
+the final day of the anniversary?
+
+67
+00:02:40,200 --> 00:02:43,440
+Today is the last day of the school anniversary celebration.
+
+68
+00:02:44,000 --> 00:02:46,920
+The 2004 Tuiyi Basketball Friendship Match
+
+69
+00:02:46,920 --> 00:02:48,120
+is about to begin.
+
+70
+00:03:08,160 --> 00:03:10,000
+Now we'll use a
+
+71
+00:03:10,000 --> 00:03:11,400
+fun little game
+
+72
+00:03:11,400 --> 00:03:13,760
+to divide everyone into groups.
+
+73
+00:03:14,440 --> 00:03:15,880
+This game is called
+
+74
+00:03:15,880 --> 00:03:17,680
+"Who calls whom dad"
+
+75
+00:03:17,680 --> 00:03:18,520
+Have you played before?
+
+76
+00:03:19,240 --> 00:03:20,160
+No
+
+77
+00:03:20,360 --> 00:03:21,640
+No
+
+78
+00:03:23,200 --> 00:03:24,720
+"Who is whose dad?"
+
+79
+00:03:25,200 --> 00:03:26,120
+Right
+
+80
+00:03:26,120 --> 00:03:27,000
+That's how it works
+
+81
+00:03:27,080 --> 00:03:29,600
+Let me demonstrate with Zhuocheng
+
+82
+00:03:30,880 --> 00:03:32,640
+"Who is whose dad?"
+
+83
+00:03:32,640 --> 00:03:34,320
+"I'm your son"
+
+84
+00:03:34,320 --> 00:03:35,600
+Right, that means I lose
+
+85
+00:03:36,320 --> 00:03:37,440
+So how do you win?
+
+86
+00:03:37,440 --> 00:03:38,040
+How do you win then?
+
+87
+00:03:38,040 --> 00:03:40,000
+Your seniority must be higher than the other person's
+
+88
+00:03:40,480 --> 00:03:41,920
+Just have higher seniority than them, right?
+
+89
+00:03:41,920 --> 00:03:42,240
+Yes
+
+90
+00:03:42,240 --> 00:03:42,560
+Okay
+
+91
+00:03:42,640 --> 00:03:44,320
+Another way to ask is
+
+92
+00:03:44,360 --> 00:03:46,160
+"Who calls whom dad?"
+
+93
+00:03:46,160 --> 00:03:47,000
+"I call you"
+
+94
+00:03:47,000 --> 00:03:47,720
+Saying it this way means I lose
+
+95
+00:03:47,720 --> 00:03:48,400
+If he says
+
+96
+00:03:48,400 --> 00:03:48,760
+"I call"
+
+97
+00:03:48,840 --> 00:03:50,120
+"I call you son"
+
+98
+00:03:50,120 --> 00:03:52,160
+Right, that would be correct
+
+99
+00:03:53,400 --> 00:03:54,720
+Understood
+
+100
+00:03:54,720 --> 00:03:56,840
+Okay, everyone do "rock-paper-scissors" first
+
+101
+00:03:57,720 --> 00:03:59,400
+Rock-paper-scissors
+
+102
+00:03:59,400 --> 00:03:59,880
+Go
+
+103
+00:04:00,720 --> 00:04:01,160
+Alright
+
+104
+00:04:01,160 --> 00:04:02,480
+Losers do rock-paper-scissors
+
+105
+00:04:02,480 --> 00:04:03,600
+To see who wins and loses
+
+106
+00:04:03,600 --> 00:04:04,600
+Who goes first
+
+107
+00:04:07,480 --> 00:04:08,840
+Okay, Zhuocheng goes first
+
+108
+00:04:09,520 --> 00:04:10,920
+Ready
+
+109
+00:04:14,960 --> 00:04:16,320
+Are you ready?
+
+110
+00:04:16,320 --> 00:04:16,880
+Start
+
+111
+00:04:17,040 --> 00:04:18,520
+"Who is whose son?"
+
+112
+00:04:18,520 --> 00:04:21,520
+"I call you dad"
+
+113
+00:04:30,880 --> 00:04:31,720
+This game
+
+114
+00:04:31,720 --> 00:04:33,440
+So how can we win in this situation?
+
+115
+00:04:33,440 --> 00:04:34,360
+He lost, right?
+
+116
+00:04:35,360 --> 00:04:37,440
+The loser - Nengneng
+
+117
+00:04:39,680 --> 00:04:41,960
+Now it's Minghao and Akai's turn.
+
+118
+00:04:42,040 --> 00:04:42,640
+Let's go.
+
+119
+00:04:42,880 --> 00:04:43,880
+This game.
+
+120
+00:04:44,160 --> 00:04:45,440
+The winner gets to attack, right?
+
+121
+00:04:45,520 --> 00:04:46,480
+Yes, first you decide who attacks whom.
+
+122
+00:04:46,480 --> 00:04:47,680
+One attack per round, correct?
+
+123
+00:04:47,680 --> 00:04:48,640
+Right, one round.
+
+124
+00:04:48,640 --> 00:04:49,720
+You can also do best two out of three.
+
+125
+00:04:49,720 --> 00:04:50,800
+It's up to you.
+
+126
+00:04:51,600 --> 00:04:52,840
+Rock, paper, scissors.
+
+127
+00:04:52,840 --> 00:04:53,520
+Scissors, paper.
+
+128
+00:04:54,520 --> 00:04:55,320
+You go ahead and attack.
+
+129
+00:04:55,320 --> 00:04:55,760
+Okay.
+
+130
+00:04:56,120 --> 00:04:58,080
+Between us, who's whose dad?
+
+131
+00:04:58,080 --> 00:04:59,800
+Between us, I'm your dad.
+
+132
+00:05:01,800 --> 00:05:03,480
+Which of us is whose son?
+
+133
+00:05:03,480 --> 00:05:05,160
+Between us, you're my son.
+
+134
+00:05:05,160 --> 00:05:06,200
+Which one of us is my son?
+
+135
+00:05:06,200 --> 00:05:07,160
+Between us, you're my son.
+
+136
+00:05:07,160 --> 00:05:08,320
+Which of us is whose father?
+
+137
+00:05:08,320 --> 00:05:09,440
+Between us, I'm your father.
+
+138
+00:05:09,440 --> 00:05:10,280
+Which one of us calls the other father?
+
+139
+00:05:10,280 --> 00:05:11,520
+Between us, you call me father.
+
+140
+00:05:13,080 --> 00:05:14,040
+How about we just play rock-paper-scissors
+
+141
+00:05:14,040 --> 00:05:15,360
+Whoever wins takes it all
+
+142
+00:05:15,360 --> 00:05:15,920
+What's going on?
+
+143
+00:05:15,920 --> 00:05:16,280
+So...
+
+144
+00:05:16,280 --> 00:05:17,120
+You need to clap faster
+
+145
+00:05:17,120 --> 00:05:17,520
+Find your own rhythm
+
+146
+00:05:17,520 --> 00:05:18,600
+Yes, you're too slow
+
+147
+00:05:18,600 --> 00:05:19,720
+Which one of us is the dad here?
+
+148
+00:05:19,720 --> 00:05:20,680
+Then follow the beat
+
+149
+00:05:20,680 --> 00:05:21,000
+Okay, ready
+
+150
+00:05:21,120 --> 00:05:22,360
+Come on everyone, keep the beat together
+
+151
+00:05:22,480 --> 00:05:22,680
+Okay
+
+152
+00:05:22,680 --> 00:05:23,360
+Put your ball down
+
+153
+00:05:24,320 --> 00:05:24,840
+Ready
+
+154
+00:05:25,640 --> 00:05:27,120
+Which one of us calls the other dad?
+
+155
+00:05:27,120 --> 00:05:28,440
+You should call me dad
+
+156
+00:05:29,120 --> 00:05:29,720
+Which one of us...
+
+157
+00:05:29,720 --> 00:05:30,640
+Who calls whom son?
+
+158
+00:05:30,640 --> 00:05:31,920
+You should call me son
+
+159
+00:05:32,920 --> 00:05:34,840
+Fine, as long as the rhythm's faster
+
+160
+00:05:34,840 --> 00:05:35,440
+Alright
+
+161
+00:05:35,440 --> 00:05:37,200
+Then we'll automatically split into
+
+162
+00:05:37,200 --> 00:05:39,960
+Nengneng and A'kai as one team
+
+163
+00:05:39,960 --> 00:05:41,680
+Minghao and Zhuocheng as another
+
+164
+00:05:41,680 --> 00:05:44,240
+Now everyone come up with team names
+
+165
+00:05:44,440 --> 00:05:45,520
+Let's call it...
+
+166
+00:05:45,520 --> 00:05:46,360
+"Cheng"
+
+167
+00:05:46,360 --> 00:05:47,120
+"Cheng Ming"
+
+168
+00:05:47,120 --> 00:05:48,600
+"Make Cheng Ming in one battle"
+
+169
+00:05:48,960 --> 00:05:51,280
+"Kelly Oneng"
+
+170
+00:05:51,280 --> 00:05:52,240
+What about Kelly Owen?
+
+171
+00:05:52,720 --> 00:05:53,720
+Kelly Owen
+
+172
+00:05:53,720 --> 00:05:54,680
+Kelly Oneng
+
+173
+00:05:54,680 --> 00:05:55,120
+Good
+
+174
+00:05:55,120 --> 00:05:56,160
+After choosing team names
+
+175
+00:05:56,160 --> 00:05:58,040
+a 2v2 basketball game
+
+176
+00:05:58,040 --> 00:06:00,040
+began in full swing
+
+177
+00:06:00,280 --> 00:06:02,600
+Kelly Oneng looks to pass this ball
+
+178
+00:06:02,960 --> 00:06:03,720
+No pass
+
+179
+00:06:03,720 --> 00:06:05,360
+Nengneng chooses to shoot directly
+
+180
+00:06:05,720 --> 00:06:07,080
+Beautiful!
+
+181
+00:06:09,760 --> 00:06:10,800
+Nice shot!
+
+182
+00:06:10,800 --> 00:06:13,120
+Our Oneng
+
+183
+00:06:18,080 --> 00:06:19,200
+What a beautiful shot
+
+184
+00:06:20,520 --> 00:06:23,720
+Kelly Owen
+
+185
+00:06:30,800 --> 00:06:31,240
+Block him
+
+186
+00:06:31,680 --> 00:06:32,600
+Possession returns to
+
+187
+00:06:32,880 --> 00:06:34,240
+Nice shot
+
+188
+00:06:39,280 --> 00:06:40,080
+Okay
+
+189
+00:06:40,080 --> 00:06:41,640
+Our battle will make us famous
+
+190
+00:06:42,680 --> 00:06:43,560
+Guardian
+
+191
+00:06:53,520 --> 00:06:54,840
+The score is 10 to 4.
+
+192
+00:06:54,840 --> 00:06:56,560
+Alright, our game.
+
+193
+00:06:56,560 --> 00:06:58,720
+Only three minutes left.
+
+194
+00:06:58,880 --> 00:07:03,080
+Come on, basketball warriors!
+
+195
+00:07:04,160 --> 00:07:05,640
+Can we make a name for ourselves in this battle?
+
+196
+00:07:05,920 --> 00:07:06,720
+Nice!
+
+197
+00:07:09,240 --> 00:07:10,360
+Beautiful!
+
+198
+00:07:12,400 --> 00:07:13,480
+Here we go again.
+
+199
+00:07:13,880 --> 00:07:14,800
+Another one in!
+
+200
+00:07:17,680 --> 00:07:17,920
+Great shot!
+
+201
+00:07:17,920 --> 00:07:18,560
+Nengneng, this is it.
+
+202
+00:07:18,560 --> 00:07:20,040
+Does this count as a three-pointer?
+
+203
+00:07:21,760 --> 00:07:22,640
+Can we shoot directly?
+
+204
+00:07:25,280 --> 00:07:26,200
+Double-team!
+
+205
+00:07:26,200 --> 00:07:28,720
+Okay, last thirty seconds.
+
+206
+00:07:29,200 --> 00:07:30,120
+Nengneng, get ready.
+
+207
+00:07:30,480 --> 00:07:31,400
+Three-step layup.
+
+208
+00:07:31,920 --> 00:07:33,280
+Three.
+
+209
+00:07:33,280 --> 00:07:34,760
+Two.
+
+210
+00:07:34,760 --> 00:07:36,400
+One.
+
+211
+00:07:36,400 --> 00:07:36,880
+Alright.
+
+212
+00:07:36,880 --> 00:07:37,360
+It's over.
+
+213
+00:07:37,360 --> 00:07:37,880
+Good.
+
+214
+00:07:38,480 --> 00:07:40,320
+The victory goes to our team.
+
+215
+00:07:46,840 --> 00:07:50,120
+Kaili O'Neng
+
+216
+00:07:50,120 --> 00:07:51,280
+That's our Brother A'Kai
+
+217
+00:07:51,280 --> 00:07:52,200
+and Brother Nengneng
+
+218
+00:07:52,200 --> 00:07:53,800
+Awesome
+
+219
+00:07:55,280 --> 00:07:57,000
+For our annual basketball tournament
+
+220
+00:07:57,000 --> 00:07:57,760
+the award presenter
+
+221
+00:07:57,760 --> 00:08:00,280
+is always that year's Tuiyi Star
+
+222
+00:08:00,280 --> 00:08:01,520
+Isn't Ruqing this year's star?
+
+223
+00:08:01,640 --> 00:08:02,360
+Where's Ruqing?
+
+224
+00:08:03,160 --> 00:08:03,920
+Right
+
+225
+00:08:03,920 --> 00:08:05,360
+Where is our Ruqing?
+
+226
+00:08:05,800 --> 00:08:07,440
+Have you seen her today?
+
+227
+00:08:07,440 --> 00:08:08,480
+No
+
+228
+00:08:09,120 --> 00:08:10,280
+Something's happened
+
+229
+00:08:10,280 --> 00:08:11,680
+Someone died in the library
+
+230
+00:08:13,760 --> 00:08:14,440
+Come quick
+
+231
+00:08:14,440 --> 00:08:15,920
+There's been a death in the library
+
+232
+00:08:16,240 --> 00:08:18,320
+Right when the Tuiyi basketball tournament ended
+
+233
+00:08:18,320 --> 00:08:19,880
+Xiao Wei came running to tell everyone
+
+234
+00:08:19,880 --> 00:08:21,360
+Someone died in the library
+
+235
+00:08:21,360 --> 00:08:22,400
+The library
+
+236
+00:08:22,400 --> 00:08:23,000
+Hurry
+
+237
+00:08:29,960 --> 00:08:30,480
+Hurry
+
+238
+00:08:32,280 --> 00:08:33,480
+Here
+
+239
+00:08:33,480 --> 00:08:34,840
+Everyone follows Xiao Wei
+
+240
+00:08:34,840 --> 00:08:36,720
+They go to the library exhibition hall and discover
+
+241
+00:08:37,960 --> 00:08:38,720
+Ru Qing
+
+242
+00:08:38,720 --> 00:08:40,800
+dead inside a cabinet in Exhibition Hall A
+
+243
+00:08:40,800 --> 00:08:42,720
+Ru Qing
+
+244
+00:08:42,720 --> 00:08:43,800
+This morning
+
+245
+00:08:43,800 --> 00:08:45,200
+I came to the library as a volunteer
+
+246
+00:08:45,200 --> 00:08:46,400
+Then at 11:20
+
+247
+00:08:46,400 --> 00:08:47,640
+I was about to leave
+
+248
+00:08:48,040 --> 00:08:49,600
+when I suddenly remembered I hadn't cleaned
+
+249
+00:08:49,600 --> 00:08:51,160
+last night's horror story exhibition
+
+250
+00:08:51,160 --> 00:08:52,920
+So I came to clean
+
+251
+00:08:52,920 --> 00:08:54,240
+When I arrived at Exhibition Hall A
+
+252
+00:08:54,240 --> 00:08:55,720
+I opened the cabinet door to wipe it down
+
+253
+00:08:55,720 --> 00:08:57,320
+and suddenly discovered a corpse inside
+
+254
+00:08:58,480 --> 00:08:59,600
+I was so scared I didn't even see the face clearly
+
+255
+00:08:59,600 --> 00:09:00,920
+and immediately came to tell you
+
+256
+00:09:04,560 --> 00:09:05,200
+I'll leave this to you
+
+257
+00:09:05,200 --> 00:09:06,480
+I need to get back to work
+
+258
+00:09:06,480 --> 00:09:07,000
+Bye
+
+259
+00:09:07,520 --> 00:09:08,920
+Thanks for your hard work, Xiao Wei
+
+260
+00:09:10,040 --> 00:09:11,440
+There's a knife.
+
+261
+00:09:14,320 --> 00:09:15,200
+Let me carry her out.
+
+262
+00:09:16,600 --> 00:09:18,440
+There's also a doll placed on top.
+
+263
+00:09:19,320 --> 00:09:19,920
+Is it a curse?
+
+264
+00:09:19,920 --> 00:09:21,200
+It looks like a voodoo doll.
+
+265
+00:09:21,720 --> 00:09:22,720
+Right here in the middle of the doll...
+
+266
+00:09:22,720 --> 00:09:23,440
+There's also one...
+
+267
+00:09:23,440 --> 00:09:24,040
+There's also that...
+
+268
+00:09:24,040 --> 00:09:24,760
+There's a knife wound.
+
+269
+00:09:24,760 --> 00:09:25,520
+A knife wound, right?
+
+270
+00:09:25,520 --> 00:09:27,200
+So following this doll's...
+
+271
+00:09:28,040 --> 00:09:29,000
+pattern...
+
+272
+00:09:31,480 --> 00:09:33,080
+"Let's Start Deduction" Trial Version
+
+273
+00:09:33,080 --> 00:09:33,920
+Case Three:
+
+274
+00:09:35,280 --> 00:09:38,120
+Mystery Tales: Deadly Art Exhibition
+
+275
+00:09:38,120 --> 00:09:39,560
+Officially begins.
+
+276
+00:09:40,600 --> 00:09:43,200
+The date is June 5, 2004.
+
+277
+00:09:43,400 --> 00:09:44,960
+The victim in this case, Ru Qing,
+
+278
+00:09:45,240 --> 00:09:45,960
+was discovered
+
+279
+00:09:45,960 --> 00:09:47,160
+murdered in the library's
+
+280
+00:09:47,160 --> 00:09:48,520
+exhibition room cabinet.
+
+281
+00:09:48,760 --> 00:09:50,480
+Through initial investigation,
+
+282
+00:09:50,480 --> 00:09:52,320
+the perpetrator has been narrowed down to
+
+283
+00:09:52,480 --> 00:09:53,320
+A-Kai,
+
+284
+00:09:54,200 --> 00:09:55,160
+Luo Luo,
+
+285
+00:09:55,760 --> 00:09:56,720
+Zhuo Cheng,
+
+286
+00:09:57,480 --> 00:09:58,960
+and Ming Hao.
+
+287
+00:09:59,080 --> 00:10:01,080
+Neng Neng is temporarily not a suspect,
+
+288
+00:10:01,080 --> 00:10:03,080
+and thus becomes this case's investigator.
+
+289
+00:10:07,320 --> 00:10:09,600
+After the investigators finished collecting evidence at the crime scene,
+
+290
+00:10:09,880 --> 00:10:12,320
+they brought the four suspects to the small auditorium.
+
+291
+00:10:12,680 --> 00:10:13,840
+for questioning.
+
+292
+00:10:14,200 --> 00:10:15,640
+As you all saw this morning,
+
+293
+00:10:15,640 --> 00:10:17,240
+Xiao Wei discovered the library
+
+294
+00:10:17,240 --> 00:10:18,600
+after we finished playing basketball.
+
+295
+00:10:19,160 --> 00:10:20,040
+There, we found
+
+296
+00:10:20,360 --> 00:10:21,200
+one of the victims—
+
+297
+00:10:21,200 --> 00:10:21,960
+Ru Qing—
+
+298
+00:10:22,640 --> 00:10:23,240
+dead.
+
+299
+00:10:23,520 --> 00:10:24,720
+So, the time of the crime
+
+300
+00:10:24,920 --> 00:10:26,960
+was right after we finished playing basketball.
+
+301
+00:10:28,000 --> 00:10:29,880
+Then yesterday at dawn,
+
+302
+00:10:29,880 --> 00:10:31,360
+we went to visit
+
+303
+00:10:31,360 --> 00:10:32,880
+that interactive art exhibition
+
+304
+00:10:32,880 --> 00:10:33,720
+inside the library.
+
+305
+00:10:33,720 --> 00:10:34,920
+Today at midnight,
+
+306
+00:10:35,320 --> 00:10:36,120
+Nengneng,
+
+307
+00:10:36,160 --> 00:10:36,960
+Ruqing,
+
+308
+00:10:37,360 --> 00:10:38,320
+Luoluo,
+
+309
+00:10:38,320 --> 00:10:39,240
+Zhuocheng,
+
+310
+00:10:39,240 --> 00:10:40,120
+Akai,
+
+311
+00:10:40,120 --> 00:10:41,040
+and Minghao - all six of them
+
+312
+00:10:41,040 --> 00:10:42,480
+went to the library as agreed
+
+313
+00:10:42,480 --> 00:10:43,840
+to participate in the school anniversary event,
+
+314
+00:10:43,960 --> 00:10:45,120
+the "Mystical Arts Exhibition."
+
+315
+00:10:45,560 --> 00:10:46,880
+According to the exhibition rules,
+
+316
+00:10:46,880 --> 00:10:48,720
+they could only see each other
+
+317
+00:10:48,720 --> 00:10:49,520
+during the pre-show lottery draw.
+
+318
+00:10:49,520 --> 00:10:50,560
+After that,
+
+319
+00:10:50,800 --> 00:10:53,080
+they entered their assigned exhibition halls
+
+320
+00:10:53,320 --> 00:10:54,840
+and didn't meet again
+
+321
+00:10:54,840 --> 00:10:56,000
+until leaving after the show ended.
+
+322
+00:10:56,960 --> 00:10:59,440
+It wasn't until this morning's basketball game
+
+323
+00:10:59,440 --> 00:11:01,360
+that the five of us met again.
+
+324
+00:11:01,360 --> 00:11:03,640
+But Ruqing was nowhere to be seen.
+
+325
+00:11:03,640 --> 00:11:05,080
+Where's our Ruqing?
+
+326
+00:11:05,200 --> 00:11:06,720
+Did any of you see her today?
+
+327
+00:11:06,840 --> 00:11:07,880
+No.
+
+328
+00:11:08,120 --> 00:11:09,440
+Ruqing's body
+
+329
+00:11:09,520 --> 00:11:10,480
+was discovered in
+
+330
+00:11:10,480 --> 00:11:12,160
+the cabinet of Exhibition Hall A
+
+331
+00:11:12,160 --> 00:11:13,440
+where she had been during the exhibition.
+
+332
+00:11:13,440 --> 00:11:14,400
+The murder weapon
+
+333
+00:11:14,400 --> 00:11:16,680
+was a knife stabbed into her left chest.
+
+334
+00:11:16,800 --> 00:11:18,120
+Detective Nengneng put forward
+
+335
+00:11:18,120 --> 00:11:19,560
+his initial suspicions.
+
+336
+00:11:19,680 --> 00:11:20,760
+The exhibition lasted from
+
+337
+00:11:20,760 --> 00:11:22,680
+midnight to 12:30 AM,
+
+338
+00:11:23,080 --> 00:11:24,000
+so during that time
+
+339
+00:11:24,000 --> 00:11:25,600
+everyone saw Ruqing present.
+
+340
+00:11:25,600 --> 00:11:26,480
+But this morning,
+
+341
+00:11:26,480 --> 00:11:28,240
+none of us saw Ruqing.
+
+342
+00:11:29,000 --> 00:11:30,360
+Right, so
+
+343
+00:11:30,360 --> 00:11:31,240
+I deduce that
+
+344
+00:11:31,840 --> 00:11:32,920
+Ruqing's
+
+345
+00:11:33,240 --> 00:11:35,000
+time of death was likely
+
+346
+00:11:35,280 --> 00:11:37,240
+between midnight and 12:30 AM.
+
+347
+00:11:38,000 --> 00:11:39,520
+The time Ruqing was killed
+
+348
+00:11:39,520 --> 00:11:41,560
+probably occurred during the exhibition.
+
+349
+00:11:41,840 --> 00:11:42,520
+Therefore,
+
+350
+00:11:42,520 --> 00:11:43,600
+Nengneng focused his investigation
+
+351
+00:11:43,600 --> 00:11:45,080
+on the exhibition.
+
+352
+00:11:45,080 --> 00:11:46,320
+Nengneng found the exhibition hall's
+
+353
+00:11:46,320 --> 00:11:47,520
+reservation log
+
+354
+00:11:47,640 --> 00:11:49,160
+and exhibition guide.
+
+355
+00:11:50,200 --> 00:11:51,040
+This exhibition hall
+
+356
+00:11:51,040 --> 00:11:52,720
+was built in 2003.
+
+357
+00:11:53,000 --> 00:11:54,680
+It opens annually during the school anniversary.
+
+358
+00:11:55,040 --> 00:11:57,840
+Only six visiting slots are available each year.
+
+359
+00:11:57,840 --> 00:11:58,960
+First come, first served.
+
+360
+00:11:59,080 --> 00:12:00,480
+The first two registered visitors
+
+361
+00:12:00,480 --> 00:12:03,640
+will automatically reserve Hall A and Hall B.
+
+362
+00:12:03,800 --> 00:12:05,200
+The remaining four visitors
+
+363
+00:12:05,200 --> 00:12:07,480
+will be assigned based on registration order
+
+364
+00:12:07,480 --> 00:12:08,600
+through a lottery
+
+365
+00:12:08,800 --> 00:12:11,680
+to select from Halls C to F.
+
+366
+00:12:13,360 --> 00:12:14,440
+Ruqing was the first to make a reservation.
+
+367
+00:12:14,440 --> 00:12:15,240
+I was the second to make a reservation.
+
+368
+00:12:15,240 --> 00:12:16,120
+Following this order,
+
+369
+00:12:16,120 --> 00:12:17,040
+Ruqing is in Hall A.
+
+370
+00:12:17,040 --> 00:12:17,760
+I'm in Hall B.
+
+371
+00:12:18,040 --> 00:12:21,360
+The remaining spots were assigned by lottery.
+
+372
+00:12:21,360 --> 00:12:22,400
+So,
+
+373
+00:12:22,400 --> 00:12:23,480
+Who's in Hall C?
+
+374
+00:12:24,240 --> 00:12:25,640
+Zhuocheng is in Hall C.
+
+375
+00:12:25,640 --> 00:12:26,360
+Yes, I'm in Hall C.
+
+376
+00:12:26,360 --> 00:12:27,120
+I'm in Hall C.
+
+377
+00:12:27,360 --> 00:12:28,240
+Who's in Hall D?
+
+378
+00:12:28,240 --> 00:12:28,880
+Hall D is me.
+
+379
+00:12:28,880 --> 00:12:29,840
+Akai.
+
+380
+00:12:30,440 --> 00:12:31,000
+Hall E.
+
+381
+00:12:32,040 --> 00:12:33,040
+Hall E is me.
+
+382
+00:12:33,600 --> 00:12:34,480
+Hall F is me.
+
+383
+00:12:37,960 --> 00:12:40,200
+After identifying everyone's assigned exhibition halls,
+
+384
+00:12:40,320 --> 00:12:42,240
+Nengneng shared with everyone
+
+385
+00:12:42,240 --> 00:12:43,600
+a document found on the computer -
+
+386
+00:12:43,600 --> 00:12:45,240
+the audio guide for the experience exhibition.
+
+387
+00:12:45,240 --> 00:12:46,880
+This guide carefully helped everyone
+
+388
+00:12:46,880 --> 00:12:47,840
+review
+
+389
+00:12:47,840 --> 00:12:49,960
+the experience process from early morning.
+
+390
+00:12:51,760 --> 00:12:54,040
+Welcome students
+
+391
+00:12:54,040 --> 00:12:56,680
+to the Tuiyi Mystery Art Exhibition.
+
+392
+00:12:58,240 --> 00:13:00,920
+The first two students who reserved
+
+393
+00:13:00,920 --> 00:13:03,800
+are assigned to visit Hall A.
+
+394
+00:13:05,040 --> 00:13:07,720
+Students ranked third to sixth in reservations
+
+395
+00:13:08,200 --> 00:13:10,480
+will need to draw lots
+
+396
+00:13:10,880 --> 00:13:12,400
+according to reservation order.
+
+397
+00:13:18,040 --> 00:13:19,920
+All members present
+
+398
+00:13:20,400 --> 00:13:22,120
+All exhibition hall doors
+
+399
+00:13:22,120 --> 00:13:23,520
+are now locked
+
+400
+00:13:24,960 --> 00:13:27,200
+Students in the previous room
+
+401
+00:13:27,200 --> 00:13:28,880
+Before unlocking the door
+
+402
+00:13:29,040 --> 00:13:31,880
+you cannot return
+
+403
+00:13:33,200 --> 00:13:35,320
+Please observe your current exhibition hall
+
+404
+00:13:35,760 --> 00:13:37,440
+At the center of each hall
+
+405
+00:13:38,040 --> 00:13:39,680
+lies a magic circle
+
+406
+00:13:39,680 --> 00:13:43,280
+The circle surrounds a central display cabinet
+
+407
+00:13:43,280 --> 00:13:45,760
+Everyone, begin circling the magic array
+
+408
+00:13:46,280 --> 00:13:48,720
+counterclockwise
+
+409
+00:13:49,200 --> 00:13:52,360
+Then, focus on the doll at the cabinet's center
+
+410
+00:13:53,120 --> 00:13:55,880
+visualize it as your deepest fear
+
+411
+00:13:56,360 --> 00:13:58,040
+Pick up the knife in your hall
+
+412
+00:13:58,520 --> 00:13:59,280
+and stab it
+
+413
+00:14:00,040 --> 00:14:01,640
+Attention, everyone
+
+414
+00:14:01,640 --> 00:14:03,200
+From this moment onward
+
+415
+00:14:03,200 --> 00:14:05,320
+you must stay in place
+
+416
+00:14:05,840 --> 00:14:06,760
+Do not move
+
+417
+00:14:07,080 --> 00:14:09,040
+until the candle ignites
+
+418
+00:14:15,200 --> 00:14:18,000
+Please blow out the candles in front of you
+
+419
+00:14:18,920 --> 00:14:22,640
+Pull the knife out of the doll
+
+420
+00:14:22,960 --> 00:14:26,040
+The exhibition experience ends here
+
+421
+00:14:28,240 --> 00:14:29,360
+Exhibition Hall B
+
+422
+00:14:29,840 --> 00:14:31,440
+Exhibition Hall C
+
+423
+00:14:31,440 --> 00:14:33,280
+Exhibition Hall D
+
+424
+00:14:33,280 --> 00:14:35,440
+Students in Exhibition Hall E
+
+425
+00:14:35,440 --> 00:14:38,600
+Press the access control button on the connecting door
+
+426
+00:14:39,280 --> 00:14:43,560
+Students in Exhibition Hall A, please leave the hall
+
+427
+00:14:44,080 --> 00:14:47,560
+Students in Exhibition Hall B, please leave the hall
+
+428
+00:14:48,480 --> 00:14:51,280
+Students in Exhibition Hall C, please leave the hall
+
+429
+00:14:52,040 --> 00:14:54,800
+Students in Exhibition Hall D, please leave the hall
+
+430
+00:14:55,360 --> 00:14:58,600
+Students in Exhibition Hall E, please leave the hall
+
+431
+00:14:59,240 --> 00:15:02,160
+Students in Exhibition Hall F, please leave the hall
+
+432
+00:15:03,240 --> 00:15:04,480
+Move forward
+
+433
+00:15:05,520 --> 00:15:06,800
+Don't look back
+
+434
+00:15:09,040 --> 00:15:10,600
+So when it officially begins
+
+435
+00:15:11,040 --> 00:15:11,760
+Main gate
+
+436
+00:15:11,760 --> 00:15:13,520
+The gate connecting to Hall A
+
+437
+00:15:13,520 --> 00:15:14,480
+Will all be closed
+
+438
+00:15:14,840 --> 00:15:15,160
+Correct
+
+439
+00:15:15,480 --> 00:15:16,840
+Halls ABCDE
+
+440
+00:15:16,960 --> 00:15:18,160
+All doors will be closed
+
+441
+00:15:18,480 --> 00:15:20,920
+Until the exhibition concludes
+
+442
+00:15:21,080 --> 00:15:21,880
+Only then
+
+443
+00:15:22,280 --> 00:15:23,600
+Will all gates be unlocked
+
+444
+00:15:24,360 --> 00:15:27,000
+Moreover, in each exhibition hall
+
+445
+00:15:27,000 --> 00:15:28,400
+There are one-way access controls
+
+446
+00:15:30,600 --> 00:15:31,840
+What does one-way access control mean?
+
+447
+00:15:32,120 --> 00:15:32,760
+For example,
+
+448
+00:15:32,760 --> 00:15:34,160
+students who enter Exhibition Hall F
+
+449
+00:15:34,480 --> 00:15:35,440
+if they want to exit,
+
+450
+00:15:35,880 --> 00:15:37,360
+only students in Exhibition Hall E
+
+451
+00:15:37,680 --> 00:15:39,480
+can press the access control button
+
+452
+00:15:39,480 --> 00:15:40,400
+to let them out.
+
+453
+00:15:41,960 --> 00:15:42,840
+This pattern continues accordingly:
+
+454
+00:15:42,840 --> 00:15:43,960
+When students in Hall E want to exit,
+
+455
+00:15:43,960 --> 00:15:45,280
+only those in Hall D
+
+456
+00:15:45,280 --> 00:15:45,880
+can press the button
+
+457
+00:15:45,880 --> 00:15:46,640
+to release them.
+
+458
+00:15:47,400 --> 00:15:48,680
+Another important point is
+
+459
+00:15:48,680 --> 00:15:50,760
+I noticed on the lottery box
+
+460
+00:15:50,760 --> 00:15:52,600
+(where you all drew your lottery balls)
+
+461
+00:15:52,600 --> 00:15:53,880
+there was an access control
+
+462
+00:15:53,880 --> 00:15:55,320
+usage log nearby.
+
+463
+00:15:56,160 --> 00:15:58,360
+Exhibition Hall Access Button Usage Log
+
+464
+00:15:59,520 --> 00:16:01,520
+All access controls were used once
+
+465
+00:16:02,640 --> 00:16:03,360
+at
+
+466
+00:16:03,920 --> 00:16:06,840
+12:30 AM on June 5th.
+
+467
+00:16:06,840 --> 00:16:08,400
+At exactly 12:30 AM,
+
+468
+00:16:08,520 --> 00:16:10,520
+all halls A through F
+
+469
+00:16:10,760 --> 00:16:11,480
+access controls
+
+470
+00:16:11,480 --> 00:16:13,200
+were activated once.
+
+471
+00:16:13,200 --> 00:16:14,440
+This was presumably when the exhibition ended
+
+472
+00:16:14,440 --> 00:16:16,320
+and everyone released each other.
+
+473
+00:16:16,520 --> 00:16:17,800
+Therefore,
+
+474
+00:16:18,360 --> 00:16:20,320
+when the experience exhibition concluded
+
+475
+00:16:20,320 --> 00:16:21,880
+at exactly 12:30 AM,
+
+476
+00:16:21,880 --> 00:16:23,400
+all doors were opened
+
+477
+00:16:24,440 --> 00:16:25,560
+just this one time.
+
+478
+00:16:25,560 --> 00:16:27,800
+There are no other access control
+
+479
+00:16:27,800 --> 00:16:29,400
+usage records at any other time.
+
+480
+00:16:31,720 --> 00:16:32,880
+So,
+
+481
+00:16:32,880 --> 00:16:33,880
+here comes the doubt.
+
+482
+00:16:39,040 --> 00:16:40,240
+After it ended,
+
+483
+00:16:40,640 --> 00:16:42,520
+Ruqing from Exhibition Hall A left first.
+
+484
+00:16:42,520 --> 00:16:44,480
+After a while, the guide led me
+
+485
+00:16:44,480 --> 00:16:46,160
+from Exhibition Hall B
+
+486
+00:16:46,560 --> 00:16:48,880
+During the process, we were told to move forward without looking back.
+
+487
+00:16:49,280 --> 00:16:50,760
+Did you see Ruqing leave?
+
+488
+00:16:52,240 --> 00:16:52,960
+No, I didn't.
+
+489
+00:16:52,960 --> 00:16:54,680
+Actually, I waited
+
+490
+00:16:54,680 --> 00:16:56,120
+until Ruqing left,
+
+491
+00:16:56,120 --> 00:16:58,440
+then moved from Hall B to Hall A
+
+492
+00:16:58,440 --> 00:16:59,840
+before finally exiting.
+
+493
+00:16:59,840 --> 00:17:01,160
+But when I passed through Hall A,
+
+494
+00:17:01,160 --> 00:17:02,400
+I didn't see Ruqing.
+
+495
+00:17:02,400 --> 00:17:03,680
+So she might have died at that time,
+
+496
+00:17:03,680 --> 00:17:04,960
+or possibly after midnight,
+
+497
+00:17:04,960 --> 00:17:06,160
+after everyone had left.
+
+498
+00:17:06,440 --> 00:17:07,680
+She might have been killed and brought back.
+
+499
+00:17:08,880 --> 00:17:10,600
+There are several possibilities.
+
+500
+00:17:10,600 --> 00:17:11,440
+Actually, in this
+
+501
+00:17:11,440 --> 00:17:13,080
+exhibition hall reservation list,
+
+502
+00:17:13,080 --> 00:17:14,280
+as you can see in 2003,
+
+503
+00:17:14,280 --> 00:17:16,040
+I mentioned there were six people.
+
+504
+00:17:17,360 --> 00:17:19,040
+In 2004, it was the same six of us.
+
+505
+00:17:20,320 --> 00:17:22,160
+Other than these six who made reservations,
+
+506
+00:17:22,160 --> 00:17:24,680
+no one else knew the hall's layout
+
+507
+00:17:24,840 --> 00:17:26,240
+or how to use it.
+
+508
+00:17:30,560 --> 00:17:31,800
+Apart from the two who died,
+
+509
+00:17:31,800 --> 00:17:32,760
+there are ten people left.
+
+510
+00:17:33,520 --> 00:17:36,320
+Xiao Dong, Xiao Xi, Xiao Nan, Xiao Wei,
+
+511
+00:17:37,240 --> 00:17:38,560
+and the five of us.
+
+512
+00:17:39,280 --> 00:17:40,640
+Only these ten of us
+
+513
+00:17:40,840 --> 00:17:43,600
+know the entire internal layout,
+
+514
+00:17:43,600 --> 00:17:44,760
+the visiting procedure,
+
+515
+00:17:44,760 --> 00:17:46,080
+and the security access sequence.
+
+516
+00:17:47,840 --> 00:17:49,640
+One possibility is that
+
+517
+00:17:49,640 --> 00:17:51,960
+Xiao Dong, Xiao Xi, Xiao Wei, or Xiao Gang
+
+518
+00:17:51,960 --> 00:17:53,560
+might have first
+
+519
+00:17:53,560 --> 00:17:56,400
+informed one of us.
+
+520
+00:17:59,520 --> 00:18:00,920
+So, if this year's people want to know
+
+521
+00:18:00,920 --> 00:18:02,960
+the details of this exhibition hall,
+
+522
+00:18:02,960 --> 00:18:03,560
+they must have learned in advance—
+
+523
+00:18:03,560 --> 00:18:04,280
+either they are
+
+524
+00:18:04,280 --> 00:18:06,280
+the same people from last year,
+
+525
+00:18:06,280 --> 00:18:07,880
+or last year's participants told them.
+
+526
+00:18:07,880 --> 00:18:09,880
+Right—or they truly experienced it
+
+527
+00:18:09,880 --> 00:18:10,880
+during the exhibition themselves.
+
+528
+00:18:10,880 --> 00:18:12,080
+They saw it firsthand.
+
+529
+00:18:12,080 --> 00:18:13,200
+Another possibility is
+
+530
+00:18:13,200 --> 00:18:14,480
+that last year's participants
+
+531
+00:18:14,480 --> 00:18:15,280
+told them.
+
+532
+00:18:15,520 --> 00:18:17,320
+Or, among us,
+
+533
+00:18:17,320 --> 00:18:19,320
+there might be someone from last year.
+
+534
+00:18:21,160 --> 00:18:23,720
+Since the exhibition hall is usually closed to the public
+
+535
+00:18:23,720 --> 00:18:25,920
+and the exhibition process is highly complex,
+
+536
+00:18:26,400 --> 00:18:27,360
+everyone believes
+
+537
+00:18:27,360 --> 00:18:29,040
+that if someone wanted to kill Ruqing
+
+538
+00:18:29,040 --> 00:18:30,080
+during the exhibition,
+
+539
+00:18:30,280 --> 00:18:32,400
+they would need prior knowledge of the layout.
+
+540
+00:18:32,400 --> 00:18:33,920
+Thus, they might have some connection
+
+541
+00:18:33,920 --> 00:18:35,240
+to those who attended last year's exhibition.
+
+542
+00:18:35,240 --> 00:18:36,880
+Somehow, they're linked.
+
+543
+00:18:37,280 --> 00:18:38,880
+As the questioning continued,
+
+544
+00:18:39,000 --> 00:18:40,720
+each person's motive for murder
+
+545
+00:18:40,720 --> 00:18:42,360
+gradually came to light.
+
+546
+00:18:46,760 --> 00:18:48,920
+Let me share with everyone
+
+547
+00:18:48,920 --> 00:18:50,400
+my evidence.
+
+548
+00:18:50,600 --> 00:18:52,520
+Luoluo found in the music room
+
+549
+00:18:52,520 --> 00:18:54,800
+a sheet music folded into a butterfly shape
+
+550
+00:18:55,880 --> 00:18:57,320
+titled "A Butterfly".
+
+551
+00:18:57,320 --> 00:18:59,440
+Both lyrics and music were composed by Zhuocheng.
+
+552
+00:18:59,440 --> 00:19:00,680
+Only then did everyone realize
+
+553
+00:19:00,680 --> 00:19:02,840
+Zhuocheng had a very close cousin
+
+554
+00:19:04,080 --> 00:19:05,200
+I once had
+
+555
+00:19:05,200 --> 00:19:06,600
+a very close cousin
+
+556
+00:19:06,600 --> 00:19:08,040
+whose name was Hudie (Butterfly).
+
+557
+00:19:08,720 --> 00:19:10,560
+He was extremely kind
+
+558
+00:19:10,560 --> 00:19:12,080
+but somewhat introverted.
+
+559
+00:19:12,440 --> 00:19:14,840
+However, in the eyes of teachers and parents,
+
+560
+00:19:14,840 --> 00:19:16,360
+he was an exemplary student
+
+561
+00:19:16,360 --> 00:19:18,080
+or rather, a particularly sensible
+
+562
+00:19:18,080 --> 00:19:18,640
+child.
+
+563
+00:19:19,120 --> 00:19:19,840
+And then,
+
+564
+00:19:19,840 --> 00:19:21,360
+I cared for and loved him deeply,
+
+565
+00:19:21,360 --> 00:19:21,880
+looking after him.
+
+566
+00:19:21,880 --> 00:19:22,920
+Our relationship was extremely close.
+
+567
+00:19:23,040 --> 00:19:24,400
+But because
+
+568
+00:19:25,440 --> 00:19:27,600
+his name was Hudie (Butterfly)
+
+569
+00:19:27,600 --> 00:19:29,120
+and he was a boy,
+
+570
+00:19:29,120 --> 00:19:30,560
+he would often face
+
+571
+00:19:30,560 --> 00:19:32,320
+mockery from classmates
+
+572
+00:19:32,320 --> 00:19:33,960
+who thought he was a girl.
+
+573
+00:19:35,520 --> 00:19:36,680
+After hearing about this situation,
+
+574
+00:19:36,680 --> 00:19:37,360
+I was still comforting him,
+
+575
+00:19:37,360 --> 00:19:38,640
+telling him to just ignore them,
+
+576
+00:19:38,640 --> 00:19:40,520
+that they were just joking with him,
+
+577
+00:19:40,520 --> 00:19:41,680
+and so on.
+
+578
+00:19:41,680 --> 00:19:43,080
+Then I even wrote
+
+579
+00:19:43,080 --> 00:19:44,200
+this song for him,
+
+580
+00:19:44,200 --> 00:19:45,240
+"A Butterfly".
+
+581
+00:19:45,360 --> 00:19:46,640
+But unexpectedly his pride
+
+582
+00:19:46,640 --> 00:19:47,560
+was extremely strong.
+
+583
+00:19:47,560 --> 00:19:48,480
+After seeing this song,
+
+584
+00:19:48,480 --> 00:19:49,640
+when I asked if he liked it,
+
+585
+00:19:49,640 --> 00:19:50,600
+he wouldn't respond.
+
+586
+00:19:50,720 --> 00:19:51,640
+Asked him to get noodles,
+
+587
+00:19:51,640 --> 00:19:52,760
+he wouldn't go with me.
+
+588
+00:19:53,200 --> 00:19:54,800
+Later when I tried contacting him again,
+
+589
+00:19:54,800 --> 00:19:55,920
+he never replied anymore.
+
+590
+00:19:56,720 --> 00:19:57,840
+So your younger brother,
+
+591
+00:19:58,480 --> 00:19:59,520
+your brother
+
+592
+00:19:59,720 --> 00:20:00,320
+now just
+
+593
+00:20:00,320 --> 00:20:01,400
+has no contact with you?
+
+594
+00:20:01,600 --> 00:20:03,200
+Basically after hearing the song you gave him,
+
+595
+00:20:03,200 --> 00:20:04,040
+he stopped contacting you.
+
+596
+00:20:04,040 --> 00:20:05,440
+Right, he got angry.
+
+597
+00:20:05,440 --> 00:20:06,560
+So what we know is
+
+598
+00:20:06,560 --> 00:20:07,480
+you have a
+
+599
+00:20:07,480 --> 00:20:08,800
+brother you don't contact.
+
+600
+00:20:09,120 --> 00:20:09,360
+Yes.
+
+601
+00:20:09,360 --> 00:20:09,720
+Cousin.
+
+602
+00:20:09,720 --> 00:20:10,240
+Okay.
+
+603
+00:20:11,080 --> 00:20:14,000
+Good, this is the second piece of evidence.
+
+604
+00:20:14,320 --> 00:20:15,480
+The memory box
+
+605
+00:20:15,800 --> 00:20:17,520
+Then in one filled with
+
+606
+00:20:17,520 --> 00:20:19,240
+Hu Die's memories,
+
+607
+00:20:19,240 --> 00:20:21,200
+everyone found that Hu Die was mocked
+
+608
+00:20:21,200 --> 00:20:23,320
+for having a girlish name.
+
+609
+00:20:23,320 --> 00:20:25,400
+There was a boy's photo
+
+610
+00:20:25,400 --> 00:20:28,800
+but it seemed someone had drawn
+
+611
+00:20:28,800 --> 00:20:30,960
+some feminine features on it.
+
+612
+00:20:30,960 --> 00:20:32,120
+Beside it was written:
+
+613
+00:20:32,120 --> 00:20:33,360
+"Little butterfly in floral dress,
+
+614
+00:20:33,360 --> 00:20:34,960
+dancing gracefully while singing,
+
+615
+00:20:34,960 --> 00:20:36,280
+turns out he's a flower girl."
+
+616
+00:20:36,640 --> 00:20:39,000
+So after cutting ties with cousin Zhuocheng,
+
+617
+00:20:39,000 --> 00:20:40,320
+he changed his name to Hu Jie,
+
+618
+00:20:40,320 --> 00:20:41,800
+who is A-Kai's roommate.
+
+619
+00:20:41,800 --> 00:20:43,160
+He hoped that by changing his name,
+
+620
+00:20:43,160 --> 00:20:44,840
+he could leave the mockery behind.
+
+621
+00:20:46,120 --> 00:20:48,800
+The school's certificate states
+
+622
+00:20:48,800 --> 00:20:51,880
+Hu Die, a student from Class 1, Grade 8 of our school
+
+623
+00:20:51,880 --> 00:20:55,600
+due to her name being frequently misunderstood by classmates
+
+624
+00:20:55,600 --> 00:20:59,320
+has now changed her registered name to Hu Jie
+
+625
+00:21:00,640 --> 00:21:02,200
+There was a sentence written below:
+
+626
+00:21:02,200 --> 00:21:03,480
+"Farewell to the past"
+
+627
+00:21:03,480 --> 00:21:05,440
+"Start anew, Hu Jie"
+
+628
+00:21:06,360 --> 00:21:07,160
+But unexpectedly,
+
+629
+00:21:07,520 --> 00:21:08,680
+when Hu Jie entered university,
+
+630
+00:21:08,680 --> 00:21:09,480
+he still endured
+
+631
+00:21:09,480 --> 00:21:11,360
+the covert bullying from classmates.
+
+632
+00:21:11,720 --> 00:21:12,680
+I thought leaving behind
+
+633
+00:21:12,680 --> 00:21:14,240
+Hu Jie's hellish past
+
+634
+00:21:14,240 --> 00:21:15,840
+would welcome a new world,
+
+635
+00:21:15,840 --> 00:21:17,280
+but Hu Jie's kindness
+
+636
+00:21:17,280 --> 00:21:20,080
+was just self-deception all along.
+
+637
+00:21:20,080 --> 00:21:22,080
+Like someone trapped in quicksand,
+
+638
+00:21:22,080 --> 00:21:23,680
+struggling with all their might
+
+639
+00:21:23,680 --> 00:21:25,520
+only sinks deeper instead.
+
+640
+00:21:25,800 --> 00:21:27,320
+When selected as the last
+
+641
+00:21:27,320 --> 00:21:28,400
+"Pushing Art Star" nominee,
+
+642
+00:21:28,760 --> 00:21:30,520
+#600 - Hu Jie.
+
+643
+00:21:32,000 --> 00:21:33,200
+Because they didn't want to face
+
+644
+00:21:33,200 --> 00:21:34,920
+the pain of being treated as invisible
+
+645
+00:21:34,920 --> 00:21:37,240
+and chose to commit suicide by jumping into the Wukenai River
+
+646
+00:21:38,120 --> 00:21:39,880
+When did Hu Jie commit suicide?
+
+647
+00:21:39,880 --> 00:21:41,400
+On the evening of June 4th
+
+648
+00:21:41,400 --> 00:21:42,680
+Because I saw this letter
+
+649
+00:21:42,680 --> 00:21:43,880
+and then in the Wukenai River
+
+650
+00:21:43,880 --> 00:21:45,120
+Hu Jie's body was discovered
+
+651
+00:21:46,800 --> 00:21:48,160
+Apart from those related to my cousin,
+
+652
+00:21:48,160 --> 00:21:49,160
+there's another memory box.
+
+653
+00:21:49,160 --> 00:21:51,000
+Zhuocheng has another box,
+
+654
+00:21:51,000 --> 00:21:52,520
+which was found yesterday at Ruisi's
+
+655
+00:21:52,520 --> 00:21:54,040
+secret hideout.
+
+656
+00:21:54,040 --> 00:21:55,520
+That locked box
+
+657
+00:21:56,280 --> 00:21:57,640
+has now been opened.
+
+658
+00:21:57,640 --> 00:21:58,280
+Inside were
+
+659
+00:21:58,280 --> 00:22:00,040
+notes between Ruisi and Ruqing.
+
+660
+00:22:00,040 --> 00:22:01,240
+The notes revealed that
+
+661
+00:22:01,440 --> 00:22:04,080
+when they were young, Ruisi's careless remark
+
+662
+00:22:04,400 --> 00:22:06,480
+led to Ruqing being bullied.
+
+663
+00:22:07,600 --> 00:22:08,840
+Under her grandfather's
+
+664
+00:22:08,840 --> 00:22:09,800
+harsh demands,
+
+665
+00:22:09,800 --> 00:22:11,160
+Ruqing became increasingly extreme,
+
+666
+00:22:11,160 --> 00:22:12,120
+targeting every
+
+667
+00:22:12,120 --> 00:22:13,880
+classmate who outperformed her.
+
+668
+00:22:14,120 --> 00:22:16,880
+Ai's singing voice and skills were too good.
+
+669
+00:22:16,880 --> 00:22:18,400
+No matter how hard I try,
+
+670
+00:22:18,400 --> 00:22:20,240
+I could never surpass her before
+
+671
+00:22:20,240 --> 00:22:21,840
+the Carmen auditions on June 8th.
+
+672
+00:22:21,840 --> 00:22:23,960
+Ruqing demanded Ruisi manipulate
+
+673
+00:22:23,960 --> 00:22:25,240
+the Star Pushing contest votes,
+
+674
+00:22:25,880 --> 00:22:27,400
+making both Ai Singing and Hu Jie
+
+675
+00:22:27,400 --> 00:22:30,000
+finish last in the competition,
+
+676
+00:22:30,000 --> 00:22:31,400
+being ignored by the whole school,
+
+677
+00:22:31,720 --> 00:22:33,760
+which led to both their suicides.
+
+678
+00:22:34,800 --> 00:22:37,040
+Ruisi wanted to expose Ruqing's misdeeds
+
+679
+00:22:37,880 --> 00:22:39,840
+but was killed the night before.
+
+680
+00:22:40,320 --> 00:22:41,960
+When questioned about
+
+681
+00:22:41,960 --> 00:22:43,480
+how he got the box,
+
+682
+00:22:43,480 --> 00:22:45,400
+Zhuocheng claimed ignorance.
+
+683
+00:22:45,560 --> 00:22:47,480
+"That box mysteriously
+
+684
+00:22:47,480 --> 00:22:48,840
+appeared in my room.
+
+685
+00:22:48,840 --> 00:22:50,240
+When we took it from Ruisi's
+
+686
+00:22:50,240 --> 00:22:51,000
+secret hideout yesterday,
+
+687
+00:22:51,000 --> 00:22:52,160
+it was locked.
+
+688
+00:22:52,160 --> 00:22:53,760
+Yes,
+
+689
+00:22:53,760 --> 00:22:54,120
+but when it reached my room,
+
+690
+00:22:54,120 --> 00:22:56,680
+it was already open.
+
+691
+00:22:56,680 --> 00:22:58,680
+Could it be that
+
+692
+00:22:58,680 --> 00:22:59,920
+the person who slipped me that note
+
+693
+00:22:59,920 --> 00:23:02,480
+was Ruqing?
+
+694
+00:23:02,480 --> 00:23:03,560
+For our safety,
+
+695
+00:23:04,880 --> 00:23:06,400
+don't meet in person.
+
+696
+00:23:06,400 --> 00:23:07,320
+Just pass notes
+
+697
+00:23:07,320 --> 00:23:08,760
+through the door."
+
+698
+00:23:10,080 --> 00:23:12,720
+I think his current attitude towards
+
+699
+00:23:12,720 --> 00:23:14,480
+Ru Qing's motive for murder
+
+700
+00:23:14,480 --> 00:23:15,800
+is quite obvious.
+
+701
+00:23:16,440 --> 00:23:19,200
+After all, his dearest younger brother
+
+702
+00:23:19,200 --> 00:23:20,640
+because of this incident,
+
+703
+00:23:20,640 --> 00:23:22,680
+whether it was suicide or homicide,
+
+704
+00:23:23,480 --> 00:23:24,480
+had suffered from
+
+705
+00:23:24,480 --> 00:23:26,160
+because he had been bullied.
+
+706
+00:23:30,000 --> 00:23:31,600
+Zhuo Cheng sought revenge for his cousin,
+
+707
+00:23:31,600 --> 00:23:34,080
+but then why did Luo Luo
+
+708
+00:23:34,080 --> 00:23:35,080
+A Kai found
+
+709
+00:23:35,080 --> 00:23:37,600
+a notebook documenting Luo Luo's daily behaviors.
+
+710
+00:23:37,600 --> 00:23:39,880
+It recorded Luo Luo's catchphrases,
+
+711
+00:23:40,400 --> 00:23:41,560
+behavioral habits,
+
+712
+00:23:41,560 --> 00:23:42,960
+favorite foods,
+
+713
+00:23:42,960 --> 00:23:44,880
+preferred hairstyles, and other details.
+
+714
+00:23:44,880 --> 00:23:47,240
+The tone of description wasn't Luo Luo's own,
+
+715
+00:23:47,240 --> 00:23:49,560
+but more like someone else imitating Luo Luo,
+
+716
+00:23:49,560 --> 00:23:51,720
+reminding themselves how to act.
+
+717
+00:23:51,960 --> 00:23:54,080
+Must remember to maintain Luo Luo's
+
+718
+00:23:54,080 --> 00:23:55,840
+occasional body twitches
+
+719
+00:23:55,840 --> 00:23:56,560
+from yesterday.
+
+720
+00:23:56,560 --> 00:23:57,640
+What's with the body twitches?
+
+721
+00:23:58,920 --> 00:24:00,640
+Some of these past two days'
+
+722
+00:24:01,880 --> 00:24:04,280
+were just being cursed.
+
+723
+00:24:04,280 --> 00:24:04,680
+Right.
+
+724
+00:24:04,680 --> 00:24:06,560
+So who wrote about Luo Luo?
+
+725
+00:24:07,840 --> 00:24:08,840
+Do you want to explain?
+
+726
+00:24:08,840 --> 00:24:09,680
+You wrote it yourself.
+
+727
+00:24:10,080 --> 00:24:11,640
+So you're not Luo Luo
+
+728
+00:24:14,560 --> 00:24:15,040
+I
+
+729
+00:24:15,040 --> 00:24:16,800
+Alright, since you've watched this far
+
+730
+00:24:16,800 --> 00:24:18,320
+you should be able to guess
+
+731
+00:24:19,080 --> 00:24:20,240
+that in fact this entire segment
+
+732
+00:24:20,240 --> 00:24:22,040
+was written by Ai Singing
+
+733
+00:24:25,600 --> 00:24:26,880
+This body belongs to Luoluo.
+
+734
+00:24:27,560 --> 00:24:29,760
+It's Ai Singing who entered into me.
+
+735
+00:24:29,760 --> 00:24:31,360
+into Luoluo's body.
+
+736
+00:24:31,680 --> 00:24:32,600
+Then the one who jumped off the building...
+
+737
+00:24:32,600 --> 00:24:33,800
+was it Luoluo or Ai Singing?
+
+738
+00:24:33,800 --> 00:24:34,920
+It was Ai Singing.
+
+739
+00:24:34,920 --> 00:24:36,200
+I thought I had died.
+
+740
+00:24:36,200 --> 00:24:37,600
+But unexpectedly, I'm still alive.
+
+741
+00:24:37,600 --> 00:24:39,320
+Then I found another piece of evidence.
+
+742
+00:24:40,080 --> 00:24:41,840
+Also in your pillowcase.
+
+743
+00:24:42,440 --> 00:24:44,400
+It was a voice recorder.
+
+744
+00:24:45,480 --> 00:24:46,240
+Let's play it.
+
+745
+00:24:46,680 --> 00:24:47,520
+Ruqing.
+
+746
+00:24:47,520 --> 00:24:49,200
+Last year I did as you told me.
+
+747
+00:24:49,200 --> 00:24:51,000
+Made sure no one could vote for Ai Singing.
+
+748
+00:24:51,000 --> 00:24:52,160
+You successfully became
+
+749
+00:24:52,160 --> 00:24:53,280
+the female lead of "Trapped in Carmen".
+
+750
+00:24:53,280 --> 00:24:54,000
+Isn't that enough?
+
+751
+00:24:54,440 --> 00:24:56,360
+Now you want me to block votes for Hu Jie again?
+
+752
+00:24:56,360 --> 00:24:58,080
+How many more dirty deeds must I do for you?
+
+753
+00:24:58,520 --> 00:24:59,640
+You're quite amusing.
+
+754
+00:25:00,080 --> 00:25:02,040
+I suggest you think carefully.
+
+755
+00:25:02,040 --> 00:25:02,920
+I understand.
+
+756
+00:25:02,920 --> 00:25:03,720
+I'll do it.
+
+757
+00:25:03,720 --> 00:25:04,920
+These two girls must be
+
+758
+00:25:04,920 --> 00:25:06,480
+Ruqing and Ruisi Bai, right?
+
+759
+00:25:06,480 --> 00:25:07,040
+Yes.
+
+760
+00:25:08,520 --> 00:25:09,840
+Why do you have this?
+
+761
+00:25:09,840 --> 00:25:12,920
+Didn't Ruisi Bai die last night?
+
+762
+00:25:12,920 --> 00:25:15,000
+At night, I secretly entered
+
+763
+00:25:15,000 --> 00:25:16,320
+their room.
+
+764
+00:25:16,320 --> 00:25:18,400
+I was looking for evidence.
+
+765
+00:25:18,400 --> 00:25:18,880
+Because I was wondering
+
+766
+00:25:18,880 --> 00:25:20,480
+why they would treat me this way.
+
+767
+00:25:20,480 --> 00:25:22,360
+Am I really
+
+768
+00:25:22,360 --> 00:25:24,360
+so detestable to everyone?
+
+769
+00:25:24,360 --> 00:25:24,760
+Right?
+
+770
+00:25:24,760 --> 00:25:25,880
+I really want to know
+
+771
+00:25:25,880 --> 00:25:26,840
+exactly why.
+
+772
+00:25:26,840 --> 00:25:28,120
+To Luoluo,
+
+773
+00:25:28,640 --> 00:25:31,520
+I was always just her servant.
+
+774
+00:25:31,520 --> 00:25:32,880
+I treated her as a friend,
+
+775
+00:25:32,880 --> 00:25:34,520
+yet this is how she treated me.
+
+776
+00:25:35,680 --> 00:25:37,640
+This truly makes me feel so miserable.
+
+777
+00:25:37,640 --> 00:25:39,560
+And the last place in the "Push the Star" competition
+
+778
+00:25:39,560 --> 00:25:41,360
+was actually manipulated by Ruisi Bai
+
+779
+00:25:41,360 --> 00:25:42,720
+to rig the votes.
+
+780
+00:25:43,480 --> 00:25:45,280
+I can't understand what reason
+
+781
+00:25:45,280 --> 00:25:46,720
+could be behind this.
+
+782
+00:25:46,720 --> 00:25:48,920
+Because Ruqing, who was clearly in second place,
+
+783
+00:25:48,920 --> 00:25:51,120
+in this "Push the Star" competition,
+
+784
+00:25:51,120 --> 00:25:52,200
+benefited from this.
+
+785
+00:25:52,720 --> 00:25:54,280
+If I hadn't been ignored
+
+786
+00:25:54,560 --> 00:25:55,760
+and lost my partner,
+
+787
+00:25:55,920 --> 00:25:57,400
+it would have been hard for her to surpass me
+
+788
+00:25:57,400 --> 00:26:00,720
+and become the female lead in "Carmen Inside."
+
+789
+00:26:02,440 --> 00:26:04,640
+But she appeared so kind-hearted
+
+790
+00:26:04,640 --> 00:26:07,040
+Could she really have done such a thing?
+
+791
+00:26:07,720 --> 00:26:09,560
+So I carried this doubt with me
+
+792
+00:26:09,560 --> 00:26:11,400
+and came to their dormitory
+
+793
+00:26:11,400 --> 00:26:13,320
+I wanted to know the truth
+
+794
+00:26:13,320 --> 00:26:14,280
+That's why this voice recorder
+
+795
+00:26:14,280 --> 00:26:17,000
+was what I found in their room
+
+796
+00:26:17,000 --> 00:26:19,000
+It was secretly recorded by Sisi
+
+797
+00:26:19,000 --> 00:26:20,560
+Their conversation
+
+798
+00:26:20,560 --> 00:26:22,040
+So all of this
+
+799
+00:26:22,040 --> 00:26:24,080
+was Ru Qing's doing
+
+800
+00:26:24,080 --> 00:26:27,120
+She was the real mastermind
+
+801
+00:26:27,600 --> 00:26:29,080
+Now I've seen through this
+
+802
+00:26:29,080 --> 00:26:30,600
+hypocritical woman
+
+803
+00:26:30,600 --> 00:26:32,480
+I'll expose her true nature
+
+804
+00:26:32,480 --> 00:26:33,920
+for everyone to see
+
+805
+00:26:33,920 --> 00:26:36,760
+So your motive for killing Ru Qing
+
+806
+00:26:36,760 --> 00:26:38,320
+was quite obvious, right?
+
+807
+00:26:39,040 --> 00:26:40,680
+I didn't know when I could
+
+808
+00:26:40,680 --> 00:26:42,160
+while in Luo Luo's body
+
+809
+00:26:42,160 --> 00:26:44,640
+So I also didn't know
+
+810
+00:26:44,640 --> 00:26:46,760
+when I could kill Ru Qing
+
+811
+00:26:46,760 --> 00:26:48,320
+Because at any moment
+
+812
+00:26:48,320 --> 00:26:50,200
+"Brothers, why am I here again?"
+
+813
+00:26:50,800 --> 00:26:52,720
+It's that Luo Luo didn't want to kill
+
+814
+00:26:52,720 --> 00:26:54,240
+but Xiao Ai wanted to kill
+
+815
+00:26:54,240 --> 00:26:55,480
+Sister Xiao Ai
+
+816
+00:26:55,480 --> 00:26:57,080
+Wasn't she already dead?
+
+817
+00:27:02,720 --> 00:27:03,800
+Last night at 8 PM
+
+818
+00:27:03,800 --> 00:27:05,600
+What were you doing after 8 PM?
+
+819
+00:27:06,440 --> 00:27:07,520
+From 8 PM to midnight
+
+820
+00:27:07,520 --> 00:27:08,640
+what were you doing during that time?
+
+821
+00:27:08,640 --> 00:27:09,400
+I was just...
+
+822
+00:27:09,400 --> 00:27:10,200
+Right, I don't remember
+
+823
+00:27:10,200 --> 00:27:11,120
+Because I was...
+
+824
+00:27:11,640 --> 00:27:12,960
+I was Xiao Ai singing
+
+825
+00:27:12,960 --> 00:27:13,680
+Meaning last night
+
+826
+00:27:13,680 --> 00:27:15,280
+You were still Xiao Ai singing
+
+827
+00:27:15,280 --> 00:27:16,440
+My memories are very confused
+
+828
+00:27:16,440 --> 00:27:17,440
+I only remember that I...
+
+829
+00:27:18,000 --> 00:27:19,120
+When I became Xiao Ai singing
+
+830
+00:27:19,120 --> 00:27:20,480
+I went rummaging through things
+
+831
+00:27:21,440 --> 00:27:22,760
+That angry-voiced DIVA tone of yours
+
+832
+00:27:22,760 --> 00:27:23,560
+Must be Luo Luo
+
+833
+00:27:24,480 --> 00:27:24,800
+No
+
+834
+00:27:24,800 --> 00:27:27,200
+Luo Luo likes putting on a sweet voice
+
+835
+00:27:27,200 --> 00:27:28,200
+To tell everyone
+
+836
+00:27:28,200 --> 00:27:29,600
+Only this way can she show off
+
+837
+00:27:29,600 --> 00:27:31,480
+Her angry-voiced DIVA side
+
+838
+00:27:31,480 --> 00:27:33,040
+Which is very sexy
+
+839
+00:27:33,040 --> 00:27:34,120
+I don't need to peacefully break up
+
+840
+00:27:34,120 --> 00:27:34,880
+with that Luo Luo anymore
+
+841
+00:27:34,880 --> 00:27:36,400
+She's both Xiao Ai singing and Luo Luo anyway
+
+842
+00:27:40,120 --> 00:27:41,640
+You're quite happy about this, aren't you?
+
+843
+00:27:43,200 --> 00:27:45,560
+Spending all day dreaming this nonsense
+
+844
+00:28:00,040 --> 00:28:01,080
+Luoluo
+
+845
+00:28:01,080 --> 00:28:02,440
+No, it's Ai Singing
+
+846
+00:28:03,280 --> 00:28:04,440
+Ai Singing found out
+
+847
+00:28:04,440 --> 00:28:06,840
+that Rü Qing was the mastermind behind bullying her
+
+848
+00:28:07,800 --> 00:28:09,760
+and thus developed a murderous intent towards Rü Qing
+
+849
+00:28:10,680 --> 00:28:12,400
+Similar to Xiao Ai singing,
+
+850
+00:28:12,400 --> 00:28:13,920
+A-Kai also discovered last night
+
+851
+00:28:13,920 --> 00:28:15,480
+the evil deeds Ruqing had committed.
+
+852
+00:28:16,440 --> 00:28:18,400
+After opening it, there was this
+
+853
+00:28:18,400 --> 00:28:19,040
+search engine.
+
+854
+00:28:19,040 --> 00:28:20,320
+It said "search here"
+
+855
+00:28:21,360 --> 00:28:23,120
+There was a browsing history, and then
+
+856
+00:28:24,440 --> 00:28:25,040
+Tweeter Empire.
+
+857
+00:28:25,040 --> 00:28:25,960
+Tweeter Arts Horror Section.
+
+858
+00:28:25,960 --> 00:28:26,480
+Horror Truth.
+
+859
+00:28:26,480 --> 00:28:26,800
+Exclamation mark!
+
+860
+00:28:26,800 --> 00:28:28,000
+"Destined visitors only."
+
+861
+00:28:28,000 --> 00:28:29,320
+"Posts deleted after 24 hours."
+
+862
+00:28:29,760 --> 00:28:31,560
+Then this post could be clicked into,
+
+863
+00:28:31,680 --> 00:28:33,200
+inside was our old friend
+
+864
+00:28:33,200 --> 00:28:34,600
+Tweeter Empire's forum.
+
+865
+00:28:35,560 --> 00:28:38,000
+It said "Chapter 1: Casting Curses."
+
+866
+00:28:38,000 --> 00:28:40,520
+"Tweeter Arts Horror was formed by ancient curses."
+
+867
+00:28:40,520 --> 00:28:43,640
+"Any student who transforms into a monster on campus"
+
+868
+00:28:43,640 --> 00:28:45,480
+"was cursed by the same method."
+
+869
+00:28:45,480 --> 00:28:46,960
+"The curse method is as follows:"
+
+870
+00:28:47,520 --> 00:28:48,920
+"In the night study room,"
+
+871
+00:28:48,920 --> 00:28:52,360
+"there's a secret shrine with special magnetic fields."
+
+872
+00:28:52,360 --> 00:28:53,440
+"On the secret shrine,"
+
+873
+00:28:53,440 --> 00:28:55,520
+"place a person's personal belonging"
+
+874
+00:28:55,520 --> 00:28:58,160
+"and attach a curse to that item,"
+
+875
+00:28:58,160 --> 00:28:59,720
+"then the curse will take effect."
+
+876
+00:28:59,720 --> 00:29:01,880
+"Then Chapter 2 is about breaking curses,"
+
+877
+00:29:03,240 --> 00:29:04,960
+but this part wasn't captured.
+
+878
+00:29:04,960 --> 00:29:07,280
+Then there was a school uniform top,
+
+879
+00:29:07,280 --> 00:29:08,880
+with a name tag saying "Ruqing."
+
+880
+00:29:08,880 --> 00:29:09,560
+Except the "qing" character's
+
+881
+00:29:09,560 --> 00:29:10,840
+right side was cut off.
+
+882
+00:29:10,840 --> 00:29:11,960
+So it was Ruqing's name tag
+
+883
+00:29:11,960 --> 00:29:13,480
+that appeared in this picture.
+
+884
+00:29:15,520 --> 00:29:16,720
+Although this post
+
+885
+00:29:17,200 --> 00:29:19,040
+didn't show the specific curse-breaking method
+
+886
+00:29:19,040 --> 00:29:21,200
+but A-Kai analyzed the photo information
+
+887
+00:29:21,200 --> 00:29:23,240
+Then I examined the photo carefully
+
+888
+00:29:23,240 --> 00:29:25,600
+and noticed the character "Ru" written nearby
+
+889
+00:29:26,080 --> 00:29:28,040
+probably referring to Ruqing
+
+890
+00:29:28,320 --> 00:29:30,560
+And the bed behind her
+
+891
+00:29:30,560 --> 00:29:31,760
+looked like a dormitory bed
+
+892
+00:29:32,120 --> 00:29:34,640
+So I wondered if it might be Dorm 102
+
+893
+00:29:34,640 --> 00:29:35,920
+I concluded that the poster
+
+894
+00:29:35,920 --> 00:29:37,120
+was in Ruqing's dorm
+
+895
+00:29:37,120 --> 00:29:38,360
+when they took the photo
+
+896
+00:29:38,360 --> 00:29:39,960
+So I went to Ruqing's dorm
+
+897
+00:29:39,960 --> 00:29:41,800
+to look for clues
+
+898
+00:29:41,800 --> 00:29:43,280
+I suspected Ruqing might be
+
+899
+00:29:43,280 --> 00:29:44,040
+the one who cursed me
+
+900
+00:29:44,040 --> 00:29:45,520
+So I went to Dorm 102
+
+901
+00:29:45,520 --> 00:29:46,720
+to investigate everything
+
+902
+00:29:47,640 --> 00:29:49,120
+Her door was slightly ajar
+
+903
+00:29:49,120 --> 00:29:50,000
+I pushed it open and saw no one inside
+
+904
+00:29:50,000 --> 00:29:51,000
+So I entered
+
+905
+00:29:51,000 --> 00:29:52,200
+I searched through everything
+
+906
+00:29:52,200 --> 00:29:53,000
+In her drawer
+
+907
+00:29:53,000 --> 00:29:54,040
+I found a document folder
+
+908
+00:29:54,040 --> 00:29:55,360
+containing a document
+
+909
+00:29:55,360 --> 00:29:58,040
+that mentioned cursing and curse-breaking
+
+910
+00:29:58,040 --> 00:29:59,400
+The curse-breaking method stated:
+
+911
+00:29:59,400 --> 00:30:01,400
+The curse-caster and the cursed person
+
+912
+00:30:01,400 --> 00:30:02,200
+will share the same fate
+
+913
+00:30:02,200 --> 00:30:03,720
+Unless the caster dies
+
+914
+00:30:04,000 --> 00:30:05,840
+the curse will never be broken
+
+915
+00:30:07,400 --> 00:30:09,600
+Then I found a sticky note
+
+916
+00:30:09,600 --> 00:30:11,320
+with a QQ number and password
+
+917
+00:30:11,320 --> 00:30:12,520
+I immediately ran back to my dorm
+
+918
+00:30:12,520 --> 00:30:14,360
+to try logging in
+
+919
+00:30:14,360 --> 00:30:15,400
+and discovered that
+
+920
+00:30:15,400 --> 00:30:17,680
+it was Rui Sisi's account credentials
+
+921
+00:30:20,800 --> 00:30:22,040
+So at that time I thought
+
+922
+00:30:22,040 --> 00:30:24,040
+Could it be that Ruqing herself believed
+
+923
+00:30:24,040 --> 00:30:25,840
+if she asked me for personal belongings
+
+924
+00:30:25,840 --> 00:30:26,520
+I wouldn't give them to her
+
+925
+00:30:26,520 --> 00:30:28,280
+That's why she pretended to be Ruisi Bai
+
+926
+00:30:28,280 --> 00:30:29,960
+Using this method
+
+927
+00:30:29,960 --> 00:30:32,840
+To make me give personal items for her to curse me
+
+928
+00:30:33,440 --> 00:30:34,160
+What I thought was
+
+929
+00:30:34,160 --> 00:30:35,360
+I found a way to break the curse
+
+930
+00:30:35,360 --> 00:30:37,200
+Her reason for cursing no longer mattered
+
+931
+00:30:37,200 --> 00:30:38,680
+All I thought was I must kill her
+
+932
+00:30:38,680 --> 00:30:40,240
+To lift the curse on me
+
+933
+00:30:40,240 --> 00:30:41,120
+That's all
+
+934
+00:30:50,560 --> 00:30:51,360
+As coincidence would have it,
+
+935
+00:30:51,360 --> 00:30:53,080
+Minghao's experience last night with Akai
+
+936
+00:30:53,080 --> 00:30:54,040
+was almost identical.
+
+937
+00:30:54,040 --> 00:30:55,640
+He also saw
+
+938
+00:30:55,640 --> 00:30:57,280
+the same post on Tweet Empire,
+
+939
+00:30:57,280 --> 00:30:59,000
+went to Ruqing's dorm to verify,
+
+940
+00:30:59,000 --> 00:31:00,600
+and found the sticky note
+
+941
+00:31:00,600 --> 00:31:01,840
+that Akai had left behind.
+
+942
+00:31:01,840 --> 00:31:03,480
+At 10:25 PM on June 4th,
+
+943
+00:31:03,480 --> 00:31:05,680
+I went to Sisi's dorm room 102,
+
+944
+00:31:05,680 --> 00:31:07,880
+and found a sticky note
+
+945
+00:31:07,880 --> 00:31:08,920
+in her cabinet.
+
+946
+00:31:08,920 --> 00:31:10,760
+It had a QQ number and password.
+
+947
+00:31:10,760 --> 00:31:12,360
+I tried logging in
+
+948
+00:31:12,360 --> 00:31:13,320
+and actually
+
+949
+00:31:13,320 --> 00:31:14,360
+accessed Sisi's QQ account.
+
+950
+00:31:14,360 --> 00:31:15,280
+This proves Ruqing had
+
+951
+00:31:15,280 --> 00:31:16,560
+Sisi's QQ account and password.
+
+952
+00:31:16,560 --> 00:31:18,280
+So the one who messaged me
+
+953
+00:31:18,280 --> 00:31:19,080
+asking for my personal items
+
+954
+00:31:19,080 --> 00:31:20,320
+must have been Ruqing.
+
+955
+00:31:20,760 --> 00:31:22,280
+Minghao also believes
+
+956
+00:31:22,280 --> 00:31:24,520
+Ruqing used Sisi's QQ account
+
+957
+00:31:24,520 --> 00:31:26,360
+to request his personal items
+
+958
+00:31:26,360 --> 00:31:27,720
+to curse him.
+
+959
+00:31:27,720 --> 00:31:29,240
+To break the curse,
+
+960
+00:31:29,240 --> 00:31:30,520
+Ruqing must be killed -
+
+961
+00:31:30,520 --> 00:31:31,840
+the one who cast the spell.
+
+962
+00:31:31,840 --> 00:31:33,720
+No matter why she cursed me,
+
+963
+00:31:33,720 --> 00:31:35,320
+the only way to lift this pig transformation curse
+
+964
+00:31:35,320 --> 00:31:36,680
+is to kill her.
+
+965
+00:31:36,680 --> 00:31:38,520
+So I have to kill her
+
+966
+00:31:38,520 --> 00:31:40,080
+to remove the curse on me.
+
+967
+00:31:49,960 --> 00:31:50,520
+At this point,
+
+968
+00:31:50,520 --> 00:31:52,560
+the murder motives of all four suspects
+
+969
+00:31:52,560 --> 00:31:54,040
+have become completely clear.
+
+970
+00:31:54,480 --> 00:31:56,680
+But could there be an X in this case?
+
+971
+00:31:58,200 --> 00:31:58,920
+Next,
+
+972
+00:31:58,920 --> 00:32:00,920
+we will proceed to the X confirmation phase.
+
+973
+00:32:39,600 --> 00:32:40,440
+I think today's question
+
+974
+00:32:40,440 --> 00:32:42,240
+should have an X in it
+
+975
+00:32:42,720 --> 00:32:44,040
+Yes, I am X
+
+976
+00:32:46,240 --> 00:32:47,840
+Whether there's really an X today
+
+977
+00:32:47,840 --> 00:32:49,720
+Let's continue watching to find out
+
+978
+00:32:55,280 --> 00:32:57,240
+Alright, let's take a look one by one
+
+979
+00:32:57,240 --> 00:32:59,120
+at the exhibition halls each person stayed in, okay?
+
+980
+00:33:00,240 --> 00:33:00,720
+Let's go
+
+981
+00:33:10,200 --> 00:33:11,680
+This is the exhibition hall corridor.
+
+982
+00:33:14,920 --> 00:33:16,040
+This is Exhibition Hall A.
+
+983
+00:33:16,800 --> 00:33:19,200
+It's the crime scene from earlier.
+
+984
+00:33:19,200 --> 00:33:19,680
+Right.
+
+985
+00:33:27,760 --> 00:33:31,280
+Did you search this room earlier?
+
+986
+00:33:31,280 --> 00:33:32,360
+Just this one and the hallway.
+
+987
+00:33:32,360 --> 00:33:33,480
+Then should we go inside first?
+
+988
+00:33:33,480 --> 00:33:35,000
+Let's go to Room B first.
+
+989
+00:33:35,000 --> 00:33:35,440
+Okay.
+
+990
+00:33:36,240 --> 00:33:38,160
+Could there be something in the painting?
+
+991
+00:33:41,280 --> 00:33:42,960
+Alright, we're in Room B now.
+
+992
+00:33:42,960 --> 00:33:43,960
+B is where Nengneng was before.
+
+993
+00:33:43,960 --> 00:33:45,080
+Yes, it's my room.
+
+994
+00:33:45,080 --> 00:33:46,320
+There's a knife here.
+
+995
+00:33:47,280 --> 00:33:48,320
+Everyone has one.
+
+996
+00:33:50,400 --> 00:33:52,280
+So we need to insert this doll...
+
+997
+00:33:52,280 --> 00:33:53,960
+...with this knife, right?
+
+998
+00:33:53,960 --> 00:33:54,720
+Yes, for this ritual.
+
+999
+00:33:54,720 --> 00:33:56,280
+So the knife in Room A...
+
+1000
+00:33:56,280 --> 00:33:58,680
+...is on Ruqing's body.
+
+1001
+00:33:58,680 --> 00:33:59,840
+On Ruqing's body.
+
+1002
+00:34:00,960 --> 00:34:02,840
+The access control for C...
+
+1003
+00:34:02,840 --> 00:34:04,800
+...you have to press it to open.
+
+1004
+00:34:05,080 --> 00:34:06,960
+In each exhibition hall...
+
+1005
+00:34:06,960 --> 00:34:08,320
+...there's one-way access control.
+
+1006
+00:34:08,480 --> 00:34:09,600
+If someone in E wants to come out...
+
+1007
+00:34:09,600 --> 00:34:11,520
+...only someone in D can press the control...
+
+1008
+00:34:11,520 --> 00:34:12,240
+...to let them out.
+
+1009
+00:34:13,320 --> 00:34:14,920
+The door only opens when you press the control.
+
+1010
+00:34:21,800 --> 00:34:23,360
+There's an extra ball here.
+
+1011
+00:34:24,320 --> 00:34:25,360
+A lottery ball.
+
+1012
+00:34:25,360 --> 00:34:26,560
+Is this a ball for drawing lots?
+
+1013
+00:34:27,320 --> 00:34:28,120
+Because sections A and B
+
+1014
+00:34:28,120 --> 00:34:29,480
+don't have these lottery balls.
+
+1015
+00:34:29,480 --> 00:34:29,880
+Right.
+
+1016
+00:34:29,880 --> 00:34:31,280
+Only sections C through F have them.
+
+1017
+00:34:31,920 --> 00:34:33,480
+Visitors with reservations ranked last four
+
+1018
+00:34:33,480 --> 00:34:35,560
+will draw lots in order of reservation
+
+1019
+00:34:35,560 --> 00:34:36,640
+to determine
+
+1020
+00:34:37,040 --> 00:34:39,640
+which exhibition hall (C-F) they'll visit.
+
+1021
+00:34:40,200 --> 00:34:40,960
+Correct.
+
+1022
+00:34:41,400 --> 00:34:42,480
+Let's take a look first.
+
+1023
+00:34:43,800 --> 00:34:45,360
+Room D.
+
+1024
+00:34:47,240 --> 00:34:48,440
+Why is A-Kai walking so fast?
+
+1025
+00:34:50,040 --> 00:34:51,760
+Are you trying to make us miss some clue?
+
+1026
+00:34:51,760 --> 00:34:53,280
+Hiding something?
+
+1027
+00:34:53,280 --> 00:34:54,280
+No.
+
+1028
+00:34:55,520 --> 00:34:57,120
+This is D's access control.
+
+1029
+00:34:57,120 --> 00:34:59,360
+But to exit, then how exactly...
+
+1030
+00:34:59,360 --> 00:35:00,160
+It's one-way.
+
+1031
+00:35:00,160 --> 00:35:02,080
+The person ahead must press this button
+
+1032
+00:35:02,080 --> 00:35:02,840
+for the door to open.
+
+1033
+00:35:02,840 --> 00:35:04,600
+Only then can people leave this room.
+
+1034
+00:35:05,920 --> 00:35:07,320
+Check if there's anything in the cabinet.
+
+1035
+00:35:07,320 --> 00:35:08,200
+Nothing in the cabinet.
+
+1036
+00:35:16,080 --> 00:35:17,240
+There's a carpet here.
+
+1037
+00:35:17,240 --> 00:35:18,720
+There wouldn't be a hole here, would there?
+
+1038
+00:35:18,720 --> 00:35:19,640
+It won't open.
+
+1039
+00:35:20,600 --> 00:35:22,880
+This is the E access control, right?
+
+1040
+00:35:22,880 --> 00:35:23,720
+Who stays in E?
+
+1041
+00:35:23,720 --> 00:35:25,720
+E is where Luo Luo stays.
+
+1042
+00:35:25,720 --> 00:35:26,800
+E is Luo Luo's, correct.
+
+1043
+00:35:27,400 --> 00:35:28,840
+Let's open F instead.
+
+1044
+00:35:28,840 --> 00:35:29,560
+There's nothing left here.
+
+1045
+00:35:33,160 --> 00:35:33,760
+What's the matter?
+
+1046
+00:35:33,760 --> 00:35:34,680
+Annoying.
+
+1047
+00:35:34,680 --> 00:35:35,600
+Come here.
+
+1048
+00:35:40,160 --> 00:35:41,960
+This is the last door.
+
+1049
+00:35:41,960 --> 00:35:44,160
+Then F and A are connected.
+
+1050
+00:35:45,040 --> 00:35:45,760
+Do you have a diagram?
+
+1051
+00:35:45,760 --> 00:35:47,280
+You just drew a diagram, right?
+
+1052
+00:35:49,400 --> 00:35:50,720
+So impressive
+
+1053
+00:35:52,720 --> 00:35:54,720
+Then these rooms
+
+1054
+00:35:54,720 --> 00:35:55,760
+seem to have nothing in them
+
+1055
+00:35:56,960 --> 00:35:59,040
+Then how do we get out from F?
+
+1056
+00:35:59,040 --> 00:36:01,240
+E would let me out
+
+1057
+00:36:01,240 --> 00:36:04,240
+then D would let E out, like this
+
+1058
+00:36:04,240 --> 00:36:06,600
+According to current clues, that's how it works
+
+1059
+00:36:09,920 --> 00:36:10,880
+What's behind this?
+
+1060
+00:36:12,040 --> 00:36:15,720
+Access control system with one-touch fingerprint unlock
+
+1061
+00:36:15,720 --> 00:36:18,600
+All who have registered fingerprints at the library
+
+1062
+00:36:18,600 --> 00:36:19,840
+have access privileges
+
+1063
+00:36:19,840 --> 00:36:21,760
+After touching the fingerprint scanner
+
+1064
+00:36:21,760 --> 00:36:23,840
+all exhibition hall doors will unlock
+
+1065
+00:36:23,840 --> 00:36:27,160
+Doors from Hall A to F will become bidirectional
+
+1066
+00:36:29,120 --> 00:36:32,080
+All doors can open/close freely up to six times total
+
+1067
+00:36:32,080 --> 00:36:35,360
+Each opening must be closed within three seconds
+
+1068
+00:36:35,360 --> 00:36:38,080
+Note: after six total openings/closings
+
+1069
+00:36:38,080 --> 00:36:39,680
+all one-way doors will lock
+
+1070
+00:36:39,680 --> 00:36:42,520
+Can only open via door access buttons
+
+1071
+00:36:42,520 --> 00:36:43,360
+So when it's dark
+
+1072
+00:36:43,360 --> 00:36:45,880
+this door doesn't need outside activation
+
+1073
+00:36:45,880 --> 00:36:46,760
+it can still open outward
+
+1074
+00:36:46,760 --> 00:36:48,120
+It remains bidirectional
+
+1075
+00:36:48,120 --> 00:36:50,160
+So I can exit by myself?
+
+1076
+00:36:50,160 --> 00:36:51,360
+Each of us can
+
+1077
+00:36:51,360 --> 00:36:52,080
+use this
+
+1078
+00:36:52,080 --> 00:36:54,440
+They all use this fingerprint
+
+1079
+00:36:54,440 --> 00:36:55,960
+And the fingerprint recognition is
+
+1080
+00:36:55,960 --> 00:36:58,560
+The fingerprint recognition is on this part
+
+1081
+00:36:58,560 --> 00:36:59,440
+It's this sun
+
+1082
+00:37:00,240 --> 00:37:01,160
+Only you have this
+
+1083
+00:37:01,480 --> 00:37:02,240
+This is my room
+
+1084
+00:37:02,240 --> 00:37:03,480
+But only I have this here
+
+1085
+00:37:03,760 --> 00:37:06,320
+But there's one issue with this
+
+1086
+00:37:06,320 --> 00:37:07,160
+It might not necessarily be him
+
+1087
+00:37:07,160 --> 00:37:08,680
+Because it's currently Room F, right?
+
+1088
+00:37:08,920 --> 00:37:09,640
+This one in front
+
+1089
+00:37:09,640 --> 00:37:10,960
+Its only exit is E, right?
+
+1090
+00:37:10,960 --> 00:37:12,400
+This person in front
+
+1091
+00:37:12,400 --> 00:37:13,600
+And he could also press this
+
+1092
+00:37:13,600 --> 00:37:14,760
+Taking advantage of the darkness
+
+1093
+00:37:14,760 --> 00:37:15,520
+Then if you walk out
+
+1094
+00:37:15,520 --> 00:37:17,280
+Wouldn’t you be seen?
+
+1095
+00:37:18,240 --> 00:37:18,760
+No
+
+1096
+00:37:18,760 --> 00:37:20,840
+Because there’s a period when it’s dark
+
+1097
+00:37:21,400 --> 00:37:22,880
+From now on
+
+1098
+00:37:22,880 --> 00:37:25,560
+You must stay where you are
+
+1099
+00:37:25,560 --> 00:37:26,840
+Don’t move
+
+1100
+00:37:26,840 --> 00:37:29,040
+Until the candle is lit
+
+1101
+00:37:30,120 --> 00:37:31,400
+And the music starts playing
+
+1102
+00:37:31,400 --> 00:37:32,720
+You might not hear footsteps
+
+1103
+00:37:32,720 --> 00:37:34,240
+He’s using this gap
+
+1104
+00:37:36,400 --> 00:37:37,920
+He said we'd have to come back six times
+
+1105
+00:37:38,560 --> 00:37:40,600
+He actually didn't do it enough times, right?
+
+1106
+00:37:40,880 --> 00:37:41,640
+Let's try walking through
+
+1107
+00:37:41,640 --> 00:37:42,280
+Let's give it a try
+
+1108
+00:37:42,280 --> 00:37:43,080
+You press it
+
+1109
+00:37:43,080 --> 00:37:43,960
+Once
+
+1110
+00:37:43,960 --> 00:37:44,400
+Right
+
+1111
+00:37:44,400 --> 00:37:45,600
+Then we need to walk through quickly
+
+1112
+00:37:47,400 --> 00:37:48,160
+Twice
+
+1113
+00:37:48,160 --> 00:37:49,080
+There's music
+
+1114
+00:37:49,080 --> 00:37:50,760
+Twice
+
+1115
+00:37:57,000 --> 00:37:58,440
+Three times
+
+1116
+00:38:01,840 --> 00:38:03,920
+Four times
+
+1117
+00:38:04,240 --> 00:38:04,800
+That makes four times now
+
+1118
+00:38:04,800 --> 00:38:05,200
+I can't go back
+
+1119
+00:38:05,200 --> 00:38:06,320
+I can't go back now
+
+1120
+00:38:06,400 --> 00:38:07,800
+But the last person doesn't need to go back
+
+1121
+00:38:07,800 --> 00:38:08,760
+Because when we leave
+
+1122
+00:38:08,760 --> 00:38:09,640
+We go one by one
+
+1123
+00:38:09,640 --> 00:38:11,520
+If you don't go back, no one will notice you did
+
+1124
+00:38:13,040 --> 00:38:13,920
+Four times, then what?
+
+1125
+00:38:13,920 --> 00:38:14,680
+Then you go again
+
+1126
+00:38:17,960 --> 00:38:19,080
+Watch your step
+
+1127
+00:38:19,360 --> 00:38:20,160
+Five times
+
+1128
+00:38:20,160 --> 00:38:21,640
+Okay, I need five times to get here
+
+1129
+00:38:21,640 --> 00:38:22,520
+Then I'll...
+
+1130
+00:38:22,520 --> 00:38:23,120
+Kill her
+
+1131
+00:38:23,600 --> 00:38:24,080
+Kill her
+
+1132
+00:38:24,080 --> 00:38:24,840
+Put her in
+
+1133
+00:38:25,280 --> 00:38:26,520
+Then put her body inside
+
+1134
+00:38:26,520 --> 00:38:26,960
+Put it in
+
+1135
+00:38:26,960 --> 00:38:27,440
+Then I...
+
+1136
+00:38:27,440 --> 00:38:28,480
+Then you leave
+
+1137
+00:38:28,480 --> 00:38:30,640
+You mean then I open the door and leave, right?
+
+1138
+00:38:34,560 --> 00:38:35,960
+Take a look at our
+
+1139
+00:38:37,720 --> 00:38:41,480
+Everyone, please blow out the candles in front of you
+
+1140
+00:38:41,480 --> 00:38:45,480
+Pull the knife out from the doll
+
+1141
+00:38:45,480 --> 00:38:48,880
+The exhibition experience ends here
+
+1142
+00:38:49,120 --> 00:38:50,400
+So you must go back
+
+1143
+00:38:50,720 --> 00:38:52,080
+Otherwise you can't blow out your own candle
+
+1144
+00:38:55,720 --> 00:38:57,520
+Everyone is in Minghao's F Exhibition Hall
+
+1145
+00:38:57,520 --> 00:39:00,040
+They discovered a fingerprint unlocking system
+
+1146
+00:39:00,040 --> 00:39:02,200
+They deduced that someone could move around when the lights are off
+
+1147
+00:39:02,200 --> 00:39:03,640
+Go to the F Exhibition Hall
+
+1148
+00:39:03,640 --> 00:39:05,480
+Press the fingerprint to unlock
+
+1149
+00:39:05,480 --> 00:39:07,000
+Within six door-opening opportunities
+
+1150
+00:39:07,000 --> 00:39:08,320
+Go to Ruqing's A Exhibition Hall
+
+1151
+00:39:08,320 --> 00:39:09,720
+And kill Ruqing
+
+1152
+00:39:09,720 --> 00:39:12,520
+Akai thinks since Minghao is in the F Exhibition Hall
+
+1153
+00:39:12,520 --> 00:39:14,640
+He doesn't need to open the door for anyone at 0:30 AM
+
+1154
+00:39:14,640 --> 00:39:16,120
+[repeated context from previous line]
+
+1155
+00:39:16,120 --> 00:39:17,880
+So after killing Ruqing
+
+1156
+00:39:17,880 --> 00:39:19,120
+He could leave directly
+
+1157
+00:39:19,440 --> 00:39:22,360
+But Minghao points out that according to exhibition rules
+
+1158
+00:39:22,360 --> 00:39:24,440
+He needs to blow out the candle in his own exhibition hall
+
+1159
+00:39:24,840 --> 00:39:26,840
+The length of the burned F Hall candle
+
+1160
+00:39:26,840 --> 00:39:28,200
+Is the same as everyone else's
+
+1161
+00:39:28,200 --> 00:39:29,200
+Which proves
+
+1162
+00:39:29,200 --> 00:39:31,440
+That at 0:30 AM
+
+1163
+00:39:31,440 --> 00:39:34,960
+He was in the F Hall blowing out his candle
+
+1164
+00:39:34,960 --> 00:39:37,080
+Just as the case investigation stalled
+
+1165
+00:39:37,080 --> 00:39:39,040
+Everyone discovered new clues
+
+1166
+00:39:40,080 --> 00:39:41,520
+Is there anything in the guestbook?
+
+1167
+00:39:41,960 --> 00:39:42,640
+Let's take a look
+
+1168
+00:39:42,640 --> 00:39:43,760
+Friends
+
+1169
+00:39:43,760 --> 00:39:45,200
+Can someone tell me how to go upstairs in our library?
+
+1170
+00:39:45,200 --> 00:39:46,640
+[repeated question about going upstairs]
+
+1171
+00:39:47,160 --> 00:39:48,160
+Then someone answered
+
+1172
+00:39:48,160 --> 00:39:50,280
+The key is the painting on the first floor wall
+
+1173
+00:39:52,840 --> 00:39:53,880
+The clue is in the painting
+
+1174
+00:40:02,440 --> 00:40:03,480
+But I think this might be
+
+1175
+00:40:03,480 --> 00:40:04,520
+hinting to us that
+
+1176
+00:40:04,880 --> 00:40:06,800
+this answer is how it was derived
+
+1177
+00:40:06,800 --> 00:40:08,320
+Right, the two added together equal that
+
+1178
+00:40:16,080 --> 00:40:16,680
+I think it
+
+1179
+00:40:16,680 --> 00:40:17,880
+should be a deer head.
+
+1180
+00:40:18,360 --> 00:40:18,840
+Right?
+
+1181
+00:40:19,320 --> 00:40:20,680
+If we follow this logic,
+
+1182
+00:40:20,680 --> 00:40:21,760
+if we assemble it this way,
+
+1183
+00:40:23,200 --> 00:40:23,880
+let's try the deer.
+
+1184
+00:40:23,880 --> 00:40:24,600
+Is there any mechanism?
+
+1185
+00:40:24,600 --> 00:40:25,320
+Should we try it?
+
+1186
+00:40:25,320 --> 00:40:26,040
+Let's try.
+
+1187
+00:40:34,280 --> 00:40:35,320
+It's open
+
+1188
+00:40:42,160 --> 00:40:44,360
+Let's go
+
+1189
+00:40:48,400 --> 00:40:49,480
+Wow, this can go upstairs
+
+1190
+00:40:53,320 --> 00:40:55,680
+Where does this lead to?
+
+1191
+00:40:57,120 --> 00:40:59,040
+This is an elevator
+
+1192
+00:40:59,760 --> 00:41:00,200
+Press it again
+
+1193
+00:41:00,200 --> 00:41:00,560
+Press it
+
+1194
+00:41:00,560 --> 00:41:01,600
+Can it go down if pressed again?
+
+1195
+00:41:03,000 --> 00:41:04,080
+It can come up
+
+1196
+00:41:09,320 --> 00:41:10,120
+There's also an announcement
+
+1197
+00:41:10,120 --> 00:41:10,600
+Right.
+
+1198
+00:41:13,440 --> 00:41:14,440
+Come in first.
+
+1199
+00:41:14,440 --> 00:41:15,720
+Public elevator.
+
+1200
+00:41:15,720 --> 00:41:17,840
+has been frequently overloaded without reason.
+
+1201
+00:41:18,160 --> 00:41:20,160
+To ensure the safety of all faculty and students
+
+1202
+00:41:20,160 --> 00:41:20,840
+when using the elevator,
+
+1203
+00:41:20,840 --> 00:41:22,840
+the elevator will undergo maintenance for three days.
+
+1204
+00:41:23,240 --> 00:41:24,720
+Not only can no one see me anymore,
+
+1205
+00:41:24,720 --> 00:41:26,520
+they don't even remember me, Xiao Dong.
+
+1206
+00:41:26,520 --> 00:41:27,280
+Not even my best friend...
+
+1207
+00:41:27,280 --> 00:41:28,240
+Xiaoxi, Xiaonan, Xiaowei
+
+1208
+00:41:28,240 --> 00:41:29,480
+They don't remember that I was with them
+
+1209
+00:41:29,480 --> 00:41:30,560
+when we founded the Tweet Empire
+
+1210
+00:41:30,560 --> 00:41:31,800
+It seems Ruqing is just like me
+
+1211
+00:41:31,800 --> 00:41:33,200
+What do you mean "Ruqing is just like me"?
+
+1212
+00:41:33,200 --> 00:41:35,880
+That man in the photo is
+
+1213
+00:41:35,880 --> 00:41:38,120
+Detected six people in the elevator
+
+1214
+00:41:38,600 --> 00:41:40,000
+Elevator capacity limit
+
+1215
+00:41:40,000 --> 00:41:42,160
+is currently five people
+
+1216
+00:41:42,160 --> 00:41:43,440
+Now overloaded
+
+1217
+00:41:44,320 --> 00:41:44,920
+What does that mean?
+
+1218
+00:41:44,920 --> 00:41:45,880
+It means I
+
+1219
+00:41:45,880 --> 00:41:46,440
+No
+
+1220
+00:41:46,440 --> 00:41:47,280
+One of us should get off
+
+1221
+00:41:47,280 --> 00:41:47,920
+Someone needs to exit
+
+1222
+00:41:47,920 --> 00:41:48,680
+Someone must get off
+
+1223
+00:41:50,960 --> 00:41:51,560
+Won't let us off
+
+1224
+00:41:51,560 --> 00:41:53,600
+Elevator passenger count normal
+
+1225
+00:41:53,600 --> 00:41:55,120
+About to operate
+
+1226
+00:41:56,400 --> 00:41:56,960
+Give it a pull
+
+1227
+00:41:58,000 --> 00:41:59,040
+Sense of security
+
+1228
+00:42:01,680 --> 00:42:02,440
+It's always been the second floor
+
+1229
+00:42:02,440 --> 00:42:03,320
+It keeps going down
+
+1230
+00:42:04,240 --> 00:42:05,480
+Something's about to happen soon
+
+1231
+00:42:05,480 --> 00:42:06,320
+It's getting too close
+
+1232
+00:42:06,320 --> 00:42:07,560
+Help!
+
+1233
+00:42:08,400 --> 00:42:10,280
+Look how the numbers keep jumping around
+
+1234
+00:42:11,080 --> 00:42:11,920
+Oh my god
+
+1235
+00:42:12,640 --> 00:42:13,280
+If we die, we die
+
+1236
+00:42:13,280 --> 00:42:13,880
+Help!
+
+1237
+00:42:14,120 --> 00:42:15,120
+Back to the third floor again
+
+1238
+00:42:15,120 --> 00:42:16,280
+Now second floor, now first floor
+
+1239
+00:42:16,480 --> 00:42:18,520
+The killer has strong nerves too
+
+1240
+00:42:18,520 --> 00:42:20,280
+Elevator malfunction
+
+1241
+00:42:20,280 --> 00:42:21,040
+Help!
+
+1242
+00:42:21,040 --> 00:42:23,040
+The elevator stopped at a non-existent floor
+
+1243
+00:42:26,040 --> 00:42:26,840
+Night blindness time
+
+1244
+00:42:27,880 --> 00:42:29,000
+Everyone hold hands
+
+1245
+00:42:30,240 --> 00:42:33,000
+I'll go ahead then
+
+1246
+00:42:33,000 --> 00:42:34,200
+There's light over there
+
+1247
+00:42:34,720 --> 00:42:35,400
+There's light there
+
+1248
+00:42:35,400 --> 00:42:36,040
+Be careful
+
+1249
+00:42:36,040 --> 00:42:37,560
+Careful not to fall
+
+1250
+00:42:37,560 --> 00:42:38,800
+Can you hold onto me?
+
+1251
+00:42:38,800 --> 00:42:39,360
+Okay
+
+1252
+00:42:39,360 --> 00:42:41,320
+Can I hold onto the person in front?
+
+1253
+00:42:41,320 --> 00:42:43,840
+You hold onto Xiao Hou
+
+1254
+00:42:43,840 --> 00:42:44,760
+I'm holding on
+
+1255
+00:42:44,760 --> 00:42:47,440
+But now I'm the last one, baby
+
+1256
+00:42:47,440 --> 00:42:48,440
+I'm here
+
+1257
+00:42:48,440 --> 00:42:50,120
+You're on my right side
+
+1258
+00:42:50,120 --> 00:42:51,240
+It's fine, hold onto both
+
+1259
+00:42:51,720 --> 00:42:52,880
+We need to move forward
+
+1260
+00:42:52,880 --> 00:42:53,520
+Go
+
+1261
+00:42:53,520 --> 00:42:53,960
+Go
+
+1262
+00:42:56,120 --> 00:42:56,960
+Move forward
+
+1263
+00:42:59,000 --> 00:42:59,760
+Oh my god
+
+1264
+00:43:00,160 --> 00:43:01,960
+But where should we go?
+
+1265
+00:43:02,120 --> 00:43:03,080
+Careful
+
+1266
+00:43:03,080 --> 00:43:04,280
+Sorry
+
+1267
+00:43:06,680 --> 00:43:07,960
+Who's holding me now?
+
+1268
+00:43:07,960 --> 00:43:08,480
+Me
+
+1269
+00:43:10,760 --> 00:43:12,080
+Who's holding my hand right now?
+
+1270
+00:43:12,080 --> 00:43:12,440
+Me.
+
+1271
+00:43:14,600 --> 00:43:15,640
+Who's poking me?
+
+1272
+00:43:40,360 --> 00:43:42,760
+So who are these people?
+
+1273
+00:43:43,800 --> 00:43:44,480
+Victims.
+
+1274
+00:43:48,240 --> 00:43:48,920
+What did you just see?
+
+1275
+00:43:48,920 --> 00:43:49,520
+I kept my eyes closed the whole time.
+
+1276
+00:43:49,920 --> 00:43:51,040
+It's like...
+
+1277
+00:43:51,040 --> 00:43:51,880
+There were sheets covering the walls.
+
+1278
+00:43:51,880 --> 00:43:53,000
+Is anyone there?
+
+1279
+00:43:53,600 --> 00:43:54,560
+Who?
+
+1280
+00:43:54,560 --> 00:43:55,080
+Is anyone there?
+
+1281
+00:43:55,080 --> 00:43:55,440
+Who?
+
+1282
+00:43:56,720 --> 00:43:58,040
+I'm Luoluo.
+
+1283
+00:43:58,360 --> 00:43:59,240
+You're Luoluo?
+
+1284
+00:44:00,240 --> 00:44:01,120
+Luoluo, where are you?
+
+1285
+00:44:01,120 --> 00:44:02,640
+Luoluo is now Ai Singing, so...
+
+1286
+00:44:03,440 --> 00:44:04,720
+Who are you?
+
+1287
+00:44:05,120 --> 00:44:06,240
+Luoluo?
+
+1288
+00:44:06,240 --> 00:44:07,080
+Brother?
+
+1289
+00:44:07,320 --> 00:44:09,040
+Huh?
+
+1290
+00:44:09,800 --> 00:44:10,640
+Are you calling me?
+
+1291
+00:44:10,640 --> 00:44:11,400
+Why are you saying "huh"?
+
+1292
+00:44:13,680 --> 00:44:15,640
+Please save me!
+
+1293
+00:44:15,640 --> 00:44:16,840
+Where are you, Luoluo?
+
+1294
+00:44:17,640 --> 00:44:18,680
+Why do I hear...
+
+1295
+00:44:19,160 --> 00:44:21,120
+a girl's voice outside?
+
+1296
+00:44:21,320 --> 00:44:22,560
+She's Ai Singing.
+
+1297
+00:44:24,080 --> 00:44:25,440
+The fake Luoluo.
+
+1298
+00:44:25,440 --> 00:44:26,360
+Right, it's the fake Luoluo.
+
+1299
+00:44:26,360 --> 00:44:27,200
+We all know now.
+
+1300
+00:44:27,200 --> 00:44:27,920
+Yes.
+
+1301
+00:44:28,360 --> 00:44:32,680
+Give me back my body!
+
+1302
+00:44:32,920 --> 00:44:34,760
+Give it back!
+
+1303
+00:44:35,200 --> 00:44:36,320
+Give it back!
+
+1304
+00:44:39,520 --> 00:44:40,160
+Then we...
+
+1305
+00:44:40,160 --> 00:44:41,160
+How can we help you?
+
+1306
+00:44:45,360 --> 00:44:46,040
+She's not talking.
+
+1307
+00:44:50,560 --> 00:44:51,600
+Is anyone there?
+
+1308
+00:44:51,600 --> 00:44:51,960
+Who?
+
+1309
+00:44:51,960 --> 00:44:52,840
+It's Xiao Wei.
+
+1310
+00:44:52,840 --> 00:44:53,480
+Xiao Wei?
+
+1311
+00:44:53,480 --> 00:44:54,680
+Xiao Wei, how did you get in?
+
+1312
+00:44:54,680 --> 00:44:56,160
+How did you get in, Xiao Wei?
+
+1313
+00:44:59,520 --> 00:45:02,000
+I've been trapped here for two years.
+
+1314
+00:45:02,000 --> 00:45:04,120
+Two years.
+
+1315
+00:45:04,120 --> 00:45:05,840
+Was that Xiao Wei this morning?
+
+1316
+00:45:05,840 --> 00:45:06,680
+That wasn't Xiao Wei this morning.
+
+1317
+00:45:06,680 --> 00:45:07,720
+She was a fake Xiao Wei.
+
+1318
+00:45:08,480 --> 00:45:10,360
+Then there was another one called Xiao...
+
+1319
+00:45:10,360 --> 00:45:11,080
+Xiao Dong.
+
+1320
+00:45:11,640 --> 00:45:13,000
+Who is Xiao Dong?
+
+1321
+00:45:13,320 --> 00:45:14,520
+I don't remember him.
+
+1322
+00:45:14,720 --> 00:45:18,280
+Xiao Xi, Xiao Nan.
+
+1323
+00:45:18,640 --> 00:45:21,560
+The three of us created the Tweet Empire together.
+
+1324
+00:45:22,080 --> 00:45:23,240
+But it says there were four people.
+
+1325
+00:45:23,240 --> 00:45:24,640
+There are four people in that picture.
+
+1326
+00:45:24,640 --> 00:45:25,200
+Right.
+
+1327
+00:45:25,200 --> 00:45:27,760
+When we created the Tweet Empire,
+
+1328
+00:45:27,760 --> 00:45:28,800
+there was also a group chat.
+
+1329
+00:45:29,600 --> 00:45:30,320
+Yes, I remember.
+
+1330
+00:45:30,320 --> 00:45:31,520
+I remember that group chat.
+
+1331
+00:45:31,520 --> 00:45:33,240
+Let me tell you my QQ number.
+
+1332
+00:45:33,600 --> 00:45:34,080
+Write it down.
+
+1333
+00:45:34,080 --> 00:45:35,240
+Wait a moment for the QQ number.
+
+1334
+00:45:35,240 --> 00:45:37,400
+If you don't believe me, you can log into my account.
+
+1335
+00:45:37,400 --> 00:45:38,840
+Go check the group chat contents.
+
+1336
+00:45:38,840 --> 00:45:40,400
+What's your QQ number?
+
+1337
+00:45:40,400 --> 00:45:41,640
+My QQ number is
+
+1338
+00:45:42,520 --> 00:45:46,160
+3852026260.
+
+1339
+00:45:46,160 --> 00:45:48,000
+26260.
+
+1340
+00:45:48,000 --> 00:45:49,120
+What's your password?
+
+1341
+00:45:49,120 --> 00:45:52,880
+My password is xv123456.
+
+1342
+00:45:52,880 --> 00:45:53,680
+Xiao Wei.
+
+1343
+00:45:53,680 --> 00:45:55,040
+Got it?
+
+1344
+00:45:55,040 --> 00:45:56,560
+Quick, log into my QQ.
+
+1345
+00:45:56,560 --> 00:45:57,760
+See if there's any way
+
+1346
+00:45:57,760 --> 00:45:59,040
+to get us out of here.
+
+1347
+00:45:59,040 --> 00:46:00,640
+Alright, let's go log into QQ.
+
+1348
+00:46:00,640 --> 00:46:00,840
+Let's go.
+
+1349
+00:46:00,840 --> 00:46:03,120
+If Ruqing is the curse caster,
+
+1350
+00:46:03,120 --> 00:46:03,720
+Right.
+
+1351
+00:46:03,720 --> 00:46:05,480
+then her death should break the curse.
+
+1352
+00:46:05,480 --> 00:46:06,120
+But now...
+
+1353
+00:46:06,120 --> 00:46:07,240
+So the mastermind is the curse caster.
+
+1354
+00:46:07,240 --> 00:46:07,920
+So we killed the wrong person.
+
+1355
+00:46:07,920 --> 00:46:08,440
+Let's go.
+
+1356
+00:46:08,760 --> 00:46:09,520
+We killed the wrong person.
+
+1357
+00:46:09,520 --> 00:46:11,520
+You killed the wrong person.
+
+1358
+00:46:12,760 --> 00:46:14,440
+Let's go to that exhibition hall - there's a computer there.
+
+1359
+00:46:14,440 --> 00:46:15,520
+We can log into QQ.
+
+1360
+00:46:16,120 --> 00:46:17,000
+Right.
+
+1361
+00:46:22,280 --> 00:46:23,000
+This computer?
+
+1362
+00:46:23,000 --> 00:46:24,320
+Yes, this exact computer.
+
+1363
+00:46:26,200 --> 00:46:26,800
+QQ
+
+1364
+00:46:29,120 --> 00:46:30,920
+Everyone logged into the newly obtained
+
+1365
+00:46:30,920 --> 00:46:32,280
+Xiao Wei's QQ account
+
+1366
+00:46:32,680 --> 00:46:34,280
+and discovered a group chat between Xiao Wei, Xiao Dong,
+
+1367
+00:46:34,280 --> 00:46:36,920
+Xiao Nan, and Xiao Xi.
+
+1368
+00:46:38,920 --> 00:46:40,400
+The four of them shared stories in the group
+
+1369
+00:46:40,400 --> 00:46:41,000
+about bullying other classmates
+
+1370
+00:46:41,000 --> 00:46:42,760
+their acts of bullying other students
+
+1371
+00:46:42,760 --> 00:46:43,960
+and took pleasure in it.
+
+1372
+00:46:44,560 --> 00:46:45,920
+Xiao Dong also mentioned
+
+1373
+00:46:45,920 --> 00:46:48,000
+his plan to establish a hacker organization
+
+1374
+00:46:48,600 --> 00:46:50,760
+Xiao Dong said, "I've decided to create
+
+1375
+00:46:50,760 --> 00:46:51,400
+a hacker group
+
+1376
+00:46:51,400 --> 00:46:52,320
+called Tweet Empire
+
+1377
+00:46:52,320 --> 00:46:53,200
+so we can hide in
+
+1378
+00:46:53,200 --> 00:46:54,720
+the shadows of the internet
+
+1379
+00:46:54,720 --> 00:46:56,000
+and freely exchange all those
+
+1380
+00:46:56,000 --> 00:46:57,680
+shady encrypted school secrets.
+
+1381
+00:46:57,680 --> 00:46:59,200
+We won't need to hide our secrets
+
+1382
+00:46:59,200 --> 00:47:01,560
+in those little hidden compartments
+
+1383
+00:47:01,560 --> 00:47:02,520
+on the first-floor library shelves anymore."
+
+1384
+00:47:03,120 --> 00:47:04,440
+Go look for them
+
+1385
+00:47:04,440 --> 00:47:05,640
+Feel around for them
+
+1386
+00:47:06,480 --> 00:47:08,360
+those hidden compartments on the shelves.
+
+1387
+00:47:10,000 --> 00:47:10,600
+It might be up high
+
+1388
+00:47:10,600 --> 00:47:11,480
+This
+
+1389
+00:47:15,280 --> 00:47:15,920
+Found it
+
+1390
+00:47:15,920 --> 00:47:16,840
+There's one here
+
+1391
+00:47:16,840 --> 00:47:17,640
+There's one in the small hidden compartment
+
+1392
+00:47:19,680 --> 00:47:20,840
+First, take everything out.
+
+1393
+00:47:22,320 --> 00:47:23,480
+Let's look at them on that table over there.
+
+1394
+00:47:24,320 --> 00:47:26,240
+There's an exhibition hall blueprint in the hidden compartment.
+
+1395
+00:47:26,240 --> 00:47:29,120
+And a staff access card for the spatial gate.
+
+1396
+00:47:29,480 --> 00:47:30,200
+Also, there's...
+
+1397
+00:47:30,200 --> 00:47:33,000
+a weathered piece of parchment.
+
+1398
+00:47:33,000 --> 00:47:36,040
+It holds the secret of the Wukenai River.
+
+1399
+00:47:36,040 --> 00:47:38,400
+The reason everyone turned into monsters.
+
+1400
+00:47:38,880 --> 00:47:39,800
+The desperate ones—
+
+1401
+00:47:39,800 --> 00:47:42,200
+placed drift bottles with their final wishes
+
+1402
+00:47:42,200 --> 00:47:44,080
+into the Wukenai River.
+
+1403
+00:47:44,600 --> 00:47:46,920
+Those wishes would manifest
+
+1404
+00:47:46,920 --> 00:47:48,240
+after their deaths.
+
+1405
+00:47:49,040 --> 00:47:50,840
+In 1988,
+
+1406
+00:47:50,840 --> 00:47:52,640
+several victims of covert bullying—
+
+1407
+00:47:52,640 --> 00:47:53,800
+the desperate—
+
+1408
+00:47:53,800 --> 00:47:55,320
+turned their final wishes into curses
+
+1409
+00:47:55,320 --> 00:47:57,960
+by the Wukenai River.
+
+1410
+00:47:58,640 --> 00:48:00,880
+A curse on those who manipulate others:
+
+1411
+00:48:00,880 --> 00:48:03,280
+to become puppets themselves.
+
+1412
+00:48:03,280 --> 00:48:04,720
+Those who isolate others:
+
+1413
+00:48:04,720 --> 00:48:06,960
+to become truly invisible.
+
+1414
+00:48:06,960 --> 00:48:08,960
+Those who spread malicious rumors:
+
+1415
+00:48:08,960 --> 00:48:11,480
+to suffer wounds equal to their lies.
+
+1416
+00:48:11,480 --> 00:48:13,440
+Those who mock others with nicknames:
+
+1417
+00:48:13,440 --> 00:48:15,440
+to become the monsters they named.
+
+1418
+00:48:16,080 --> 00:48:19,000
+These curses took effect after
+
+1419
+00:48:19,000 --> 00:48:20,960
+Ai Sing and Hu Jie—
+
+1420
+00:48:20,960 --> 00:48:23,040
+the bullied—passed away.
+
+1421
+00:48:23,400 --> 00:48:26,440
+And unless bullying stops, the curses remain.
+
+1422
+00:48:27,240 --> 00:48:28,120
+Besides this,
+
+1423
+00:48:28,440 --> 00:48:29,760
+they also found
+
+1424
+00:48:29,760 --> 00:48:31,200
+Xiao Dong's diary.
+
+1425
+00:48:31,960 --> 00:48:32,680
+And another—
+
+1426
+00:48:34,000 --> 00:48:35,800
+This is a diary.
+
+1427
+00:48:36,720 --> 00:48:39,080
+Turns out Xiao Dong, for isolating others,
+
+1428
+00:48:39,080 --> 00:48:41,240
+had turned invisible.
+
+1429
+00:48:41,240 --> 00:48:42,560
+Two days ago, in the music room...
+
+1430
+00:48:42,560 --> 00:48:44,200
+He's the one who played "The Deadly Tune"
+
+1431
+00:48:44,600 --> 00:48:45,680
+This is the piano room
+
+1432
+00:48:45,680 --> 00:48:47,080
+The piano started playing
+
+1433
+00:48:48,320 --> 00:48:49,520
+Because he became invisible
+
+1434
+00:48:49,520 --> 00:48:52,200
+So people could only see the keys moving
+
+1435
+00:48:52,200 --> 00:48:53,960
+But couldn't see the player
+
+1436
+00:48:55,320 --> 00:48:56,720
+That same night
+
+1437
+00:48:56,720 --> 00:48:59,280
+Xiaodong accidentally witnessed Hu Jie's suicide
+
+1438
+00:48:59,280 --> 00:49:00,360
+And found a message bottle
+
+1439
+00:49:00,360 --> 00:49:03,880
+Documenting the 1988 curse of unfulfilled wishes
+
+1440
+00:49:03,880 --> 00:49:04,480
+Learning the whole truth
+
+1441
+00:49:04,480 --> 00:49:05,600
+Discovering the complete truth
+
+1442
+00:49:05,600 --> 00:49:09,040
+Xiaodong believed the bullying must stop to break the curse
+
+1443
+00:49:09,040 --> 00:49:10,880
+Which meant killing
+
+1444
+00:49:10,880 --> 00:49:12,200
+The current bullies at school
+
+1445
+00:49:12,920 --> 00:49:14,960
+To lift the curse and become visible again
+
+1446
+00:49:15,520 --> 00:49:17,760
+Xiaodong tried to kill Rui Sibai
+
+1447
+00:49:18,440 --> 00:49:20,400
+But found he couldn't physically
+
+1448
+00:49:20,400 --> 00:49:21,600
+Harm anyone
+
+1449
+00:49:22,040 --> 00:49:24,560
+So Xiaodong framed Rui Sibai
+
+1450
+00:49:24,560 --> 00:49:25,880
+Making Akai, Minghao and Luoluo
+
+1451
+00:49:25,880 --> 00:49:28,280
+Believe Rui Sibai had cursed them
+
+1452
+00:49:28,800 --> 00:49:31,360
+Using them to kill Rui Sibai
+
+1453
+00:49:31,360 --> 00:49:33,280
+Later Xiaodong discovered
+
+1454
+00:49:33,760 --> 00:49:36,600
+The real bullying mastermind was Ru Qing
+
+1455
+00:49:36,800 --> 00:49:39,840
+So Xiaodong planned to manipulate someone
+
+1456
+00:49:39,840 --> 00:49:42,040
+At the Weird Art Experience Exhibition
+
+1457
+00:49:42,040 --> 00:49:43,440
+To kill Ru Qing
+
+1458
+00:49:43,440 --> 00:49:45,840
+That's why he asked us for personal items
+
+1459
+00:49:45,840 --> 00:49:46,320
+It was him all along
+
+1460
+00:49:46,320 --> 00:49:47,840
+Not Ru Qing
+
+1461
+00:49:47,840 --> 00:49:49,080
+Yes, this diary
+
+1462
+00:49:49,080 --> 00:49:51,360
+The diary belongs to Xiaodong
+
+1463
+00:49:51,360 --> 00:49:53,440
+Let's check under the prize box
+
+1464
+00:49:53,440 --> 00:49:55,840
+But he said there's a mechanism under the prize box
+
+1465
+00:49:57,120 --> 00:49:57,920
+A mechanism
+
+1466
+00:49:59,280 --> 00:50:00,280
+Is this it?
+
+1467
+00:50:01,480 --> 00:50:02,040
+This is it
+
+1468
+00:50:05,520 --> 00:50:06,960
+Then how do we unlock it?
+
+1469
+00:50:07,600 --> 00:50:09,720
+Exhibition hall staff
+
+1470
+00:50:09,720 --> 00:50:11,600
+Access card for the control room
+
+1471
+00:50:11,600 --> 00:50:13,240
+The control room is located
+
+1472
+00:50:13,240 --> 00:50:15,240
+Under the prize box in the hallway
+
+1473
+00:50:15,440 --> 00:50:16,200
+Control room
+
+1474
+00:50:16,200 --> 00:50:17,440
+So this is the room
+
+1475
+00:50:18,160 --> 00:50:18,720
+Swipe it
+
+1476
+00:50:21,240 --> 00:50:22,280
+Brother, seriously
+
+1477
+00:50:22,280 --> 00:50:22,760
+Oh my god
+
+1478
+00:50:23,200 --> 00:50:23,880
+Grab it, there's something
+
+1479
+00:50:23,880 --> 00:50:24,760
+There's something, grab it
+
+1480
+00:50:24,760 --> 00:50:25,320
+Grab it
+
+1481
+00:50:25,320 --> 00:50:26,360
+There's really a remote
+
+1482
+00:50:28,400 --> 00:50:30,280
+This can control our door
+
+1483
+00:50:30,600 --> 00:50:31,760
+There's a remote control
+
+1484
+00:50:31,760 --> 00:50:33,520
+That can open and close the door
+
+1485
+00:50:37,840 --> 00:50:39,000
+And the balls
+
+1486
+00:50:39,560 --> 00:50:40,000
+E
+
+1487
+00:50:40,240 --> 00:50:40,840
+They're all E
+
+1488
+00:50:41,040 --> 00:50:41,600
+Who is E
+
+1489
+00:50:41,960 --> 00:50:42,720
+Luoluo
+
+1490
+00:50:42,720 --> 00:50:43,160
+It's me
+
+1491
+00:50:43,160 --> 00:50:43,880
+E is Luoluo
+
+1492
+00:50:44,360 --> 00:50:44,800
+E
+
+1493
+00:50:44,800 --> 00:50:45,520
+All these balls are E
+
+1494
+00:50:45,520 --> 00:50:47,360
+Why are all the balls E?
+
+1495
+00:50:47,920 --> 00:50:49,200
+Why does it have to be E?
+
+1496
+00:50:49,200 --> 00:50:51,360
+That means you want to draw E
+
+1497
+00:50:51,600 --> 00:50:52,600
+No
+
+1498
+00:50:54,600 --> 00:50:55,440
+The drawing order is
+
+1499
+00:50:55,440 --> 00:50:56,640
+Luoluo draws first
+
+1500
+00:50:56,640 --> 00:50:57,560
+If she's first
+
+1501
+00:50:57,560 --> 00:50:58,720
+She can ensure
+
+1502
+00:50:58,720 --> 00:50:59,880
+she draws E
+
+1503
+00:51:00,120 --> 00:51:00,920
+Then those after her
+
+1504
+00:51:00,920 --> 00:51:01,960
+Why can't they draw E?
+
+1505
+00:51:07,200 --> 00:51:08,760
+Behind here is
+
+1506
+00:51:08,760 --> 00:51:09,800
+Behind here should be
+
+1507
+00:51:09,800 --> 00:51:10,840
+Yes, he can
+
+1508
+00:51:11,600 --> 00:51:12,720
+The back can be opened
+
+1509
+00:51:12,720 --> 00:51:14,360
+So after she drew first
+
+1510
+00:51:14,360 --> 00:51:15,800
+Look, look at my hand
+
+1511
+00:51:16,520 --> 00:51:17,920
+Reach in and you can touch my hand
+
+1512
+00:51:17,920 --> 00:51:19,080
+She directly took that
+
+1513
+00:51:19,080 --> 00:51:20,400
+ball and threw it away, right?
+
+1514
+00:51:20,880 --> 00:51:22,280
+Actually, someone could be behind
+
+1515
+00:51:22,280 --> 00:51:23,560
+controlling what you draw
+
+1516
+00:51:24,000 --> 00:51:24,840
+Actually, it's not just E
+
+1517
+00:51:24,840 --> 00:51:26,840
+No, there must be someone behind it
+
+1518
+00:51:27,360 --> 00:51:28,360
+Each person only drew once
+
+1519
+00:51:28,360 --> 00:51:29,440
+Then he hands it to you
+
+1520
+00:51:29,440 --> 00:51:30,520
+He can make you draw whatever he wants
+
+1521
+00:51:31,240 --> 00:51:32,640
+Then why were they all E?
+
+1522
+00:51:34,280 --> 00:51:35,800
+So the E room is crucial
+
+1523
+00:51:38,000 --> 00:51:39,080
+Press the remote
+
+1524
+00:51:39,080 --> 00:51:43,120
+to rotate the connecting walls of exhibition halls CDEF
+
+1525
+00:51:43,120 --> 00:51:46,720
+Using the hall door as the radius from the connection point
+
+1526
+00:51:46,720 --> 00:51:48,760
+Rotate 90 degrees clockwise
+
+1527
+00:51:50,160 --> 00:51:50,840
+That thing
+
+1528
+00:51:50,840 --> 00:51:51,800
+That whatchamacallit
+
+1529
+00:51:51,800 --> 00:51:53,360
+The carpet area can rotate
+
+1530
+00:51:53,360 --> 00:51:54,240
+It's a circle
+
+1531
+00:51:54,240 --> 00:51:55,400
+Let's try rotating it
+
+1532
+00:51:57,160 --> 00:51:57,880
+This is it
+
+1533
+00:51:57,880 --> 00:51:59,000
+It can rotate
+
+1534
+00:51:59,800 --> 00:52:00,360
+Try it
+
+1535
+00:52:01,880 --> 00:52:02,440
+It rotates
+
+1536
+00:52:03,160 --> 00:52:03,880
+Careful
+
+1537
+00:52:03,880 --> 00:52:04,520
+I'll do it
+
+1538
+00:52:12,120 --> 00:52:13,360
+It can rotate.
+
+1539
+00:52:15,520 --> 00:52:17,240
+Press once, it turns clockwise.
+
+1540
+00:52:17,240 --> 00:52:17,880
+Press it again,
+
+1541
+00:52:17,880 --> 00:52:19,640
+it turns counterclockwise back.
+
+1542
+00:52:19,640 --> 00:52:21,080
+It's meant to return to its original position.
+
+1543
+00:52:25,040 --> 00:52:26,320
+But there will be an alarm.
+
+1544
+00:52:27,360 --> 00:52:28,800
+Three seconds.
+
+1545
+00:52:28,800 --> 00:52:29,840
+Three seconds.
+
+1546
+00:52:32,520 --> 00:52:34,400
+Do not stand in the rotation zone.
+
+1547
+00:52:34,400 --> 00:52:35,960
+You're standing in the rotation zone.
+
+1548
+00:52:35,960 --> 00:52:37,080
+So it will trigger the alarm.
+
+1549
+00:52:37,080 --> 00:52:38,240
+You need to step down when it rotates.
+
+1550
+00:52:38,240 --> 00:52:39,240
+Oh.
+
+1551
+00:52:39,240 --> 00:52:39,600
+Got it.
+
+1552
+00:52:39,600 --> 00:52:41,560
+Then you try rotating it first.
+
+1553
+00:52:41,560 --> 00:52:42,040
+Oh.
+
+1554
+00:52:42,040 --> 00:52:44,480
+If he uses F, he can go directly to C.
+
+1555
+00:52:44,480 --> 00:52:45,960
+That skips many steps.
+
+1556
+00:52:45,960 --> 00:52:46,720
+Oh.
+
+1557
+00:52:47,160 --> 00:52:49,240
+After repeatedly testing the remote control,
+
+1558
+00:52:49,680 --> 00:52:52,440
+they found it can control the exhibition hall door's
+
+1559
+00:52:52,440 --> 00:52:53,640
+clockwise rotation.
+
+1560
+00:52:54,320 --> 00:52:56,920
+But it can only rotate 90 degrees clockwise
+
+1561
+00:52:56,920 --> 00:52:58,320
+before rotating back.
+
+1562
+00:52:58,960 --> 00:53:01,000
+And people cannot stand on it
+
+1563
+00:53:01,000 --> 00:53:02,080
+while it's rotating.
+
+1564
+00:53:02,760 --> 00:53:03,760
+In other words,
+
+1565
+00:53:03,760 --> 00:53:04,840
+the killer's goal
+
+1566
+00:53:04,840 --> 00:53:07,360
+was to manipulate the door's position remotely
+
+1567
+00:53:07,840 --> 00:53:10,240
+to kill Ruqing within six door-opening chances
+
+1568
+00:53:10,240 --> 00:53:11,560
+and return to their own exhibition hall.
+
+1569
+00:53:11,560 --> 00:53:13,320
+With this crucial information,
+
+1570
+00:53:13,680 --> 00:53:15,440
+everyone began the final group discussion.
+
+1571
+00:53:15,440 --> 00:53:18,240
+All who registered fingerprints at the library
+
+1572
+00:53:19,480 --> 00:53:21,640
+have access permission.
+
+1573
+00:53:21,640 --> 00:53:24,360
+After touching the fingerprint scanner,
+
+1574
+00:53:24,360 --> 00:53:26,120
+all exhibition hall doors unlock.
+
+1575
+00:53:26,120 --> 00:53:29,200
+<summaryThe group discovers how the remote control operates the exhibition hall doors' rotation mechanism and deduces the killer's method of committing the murder within limited door operations.
+
+1576
+00:53:32,120 --> 00:53:33,600
+After touching the fingerprint scanner,
+
+1577
+00:53:33,600 --> 00:53:35,480
+all exhibition hall access controls will unlock.
+
+1578
+00:53:35,840 --> 00:53:37,360
+Doors from Hall A to F
+
+1579
+00:53:37,360 --> 00:53:39,000
+will become bidirectional.
+
+1580
+00:53:39,000 --> 00:53:41,560
+All doors can be freely opened/closed
+
+1581
+00:53:41,560 --> 00:53:42,280
+six times in total.
+
+1582
+00:53:42,280 --> 00:53:43,560
+After each opening,
+
+1583
+00:53:43,560 --> 00:53:45,520
+it must close within three seconds.
+
+1584
+00:53:46,840 --> 00:53:49,200
+Once opened, it can't be closed again,
+
+1585
+00:53:49,200 --> 00:53:49,760
+or once closed,
+
+1586
+00:53:49,760 --> 00:53:51,320
+it can't be passed through again after opening.
+
+1587
+00:53:51,320 --> 00:53:52,680
+You can't leave the door open
+
+1588
+00:53:52,680 --> 00:53:53,960
+for convenient return later.
+
+1589
+00:53:53,960 --> 00:53:56,280
+Each exit and entry counts as one use.
+
+1590
+00:53:58,120 --> 00:53:58,960
+What we've confirmed is:
+
+1591
+00:53:58,960 --> 00:54:00,440
+He must first go to F,
+
+1592
+00:54:00,600 --> 00:54:02,680
+right, then press that fingerprint scanner.
+
+1593
+00:54:02,680 --> 00:54:03,280
+Correct.
+
+1594
+00:54:03,280 --> 00:54:04,200
+Let me explain this:
+
+1595
+00:54:04,200 --> 00:54:05,280
+Why would I need to press it?
+
+1596
+00:54:05,800 --> 00:54:06,880
+I have enough steps.
+
+1597
+00:54:07,320 --> 00:54:07,480
+No,
+
+1598
+00:54:07,480 --> 00:54:08,920
+because if you don't press that wall button,
+
+1599
+00:54:08,920 --> 00:54:11,160
+you can't go from C to B
+
+1600
+00:54:11,160 --> 00:54:11,840
+or B to A.
+
+1601
+00:54:11,840 --> 00:54:12,320
+Right.
+
+1602
+00:54:13,240 --> 00:54:13,760
+Isn't that so?
+
+1603
+00:54:13,760 --> 00:54:14,360
+Yes.
+
+1604
+00:54:14,360 --> 00:54:15,960
+Actually we can count the steps -
+
+1605
+00:54:17,880 --> 00:54:18,720
+just tally the steps.
+
+1606
+00:54:19,360 --> 00:54:20,880
+If I (at C) want to commit the crime,
+
+1607
+00:54:20,880 --> 00:54:23,360
+I must first go to F,
+
+1608
+00:54:23,360 --> 00:54:24,800
+press that F button,
+
+1609
+00:54:24,800 --> 00:54:26,120
+then step count resets to zero.
+
+1610
+00:54:28,840 --> 00:54:31,200
+He pressed the revolving door's button
+
+1611
+00:54:31,200 --> 00:54:33,440
+allowing him to move from F to C
+
+1612
+00:54:33,440 --> 00:54:35,800
+F to C to B to A
+
+1613
+00:54:35,800 --> 00:54:37,000
+then back to B
+
+1614
+00:54:37,000 --> 00:54:38,240
+then back to C
+
+1615
+00:54:38,320 --> 00:54:39,160
+I have enough steps
+
+1616
+00:54:39,160 --> 00:54:40,560
+I could have committed the crime
+
+1617
+00:54:42,080 --> 00:54:43,840
+The suspicious part is if he went back
+
+1618
+00:54:43,840 --> 00:54:44,880
+Room A would be empty
+
+1619
+00:54:44,880 --> 00:54:45,920
+But this access control system
+
+1620
+00:54:45,920 --> 00:54:47,440
+shows that at exactly 12:30 AM
+
+1621
+00:54:47,440 --> 00:54:49,080
+there must have been someone in Room A
+
+1622
+00:54:50,080 --> 00:54:51,960
+The access control was used once
+
+1623
+00:54:52,600 --> 00:54:53,400
+Yes
+
+1624
+00:54:54,000 --> 00:54:56,440
+So he definitely wouldn't return to Room C
+
+1625
+00:54:56,440 --> 00:54:57,240
+He would only stay in A
+
+1626
+00:54:59,440 --> 00:54:59,920
+If he stayed in A
+
+1627
+00:54:59,920 --> 00:55:00,880
+C would be empty
+
+1628
+00:55:00,880 --> 00:55:02,760
+Then D and E couldn't exit without someone in C
+
+1629
+00:55:04,200 --> 00:55:05,720
+Therefore he must return to C
+
+1630
+00:55:05,720 --> 00:55:08,080
+But if he returns to C, who would open the door for B?
+
+1631
+00:55:10,160 --> 00:55:12,760
+The Invisible Man can press the door in Room A
+
+1632
+00:55:15,120 --> 00:55:16,120
+Does he have this ability?
+
+1633
+00:55:16,120 --> 00:55:17,160
+The Invisible Man can indeed
+
+1634
+00:55:17,160 --> 00:55:18,840
+He has a physical form
+
+1635
+00:55:18,840 --> 00:55:20,120
+He just can't kill people
+
+1636
+00:55:21,000 --> 00:55:23,040
+Then the Invisible Man could help everyone
+
+1637
+00:55:23,040 --> 00:55:24,120
+That seems unlikely
+
+1638
+00:55:24,120 --> 00:55:26,280
+Because he said when he held a knife
+
+1639
+00:55:26,280 --> 00:55:27,560
+and swung it at someone
+
+1640
+00:55:27,560 --> 00:55:28,360
+he couldn't harm them
+
+1641
+00:55:28,360 --> 00:55:29,760
+But he can pass notes
+
+1642
+00:55:29,760 --> 00:55:31,360
+He can put balls inside
+
+1643
+00:55:31,360 --> 00:55:32,560
+He should be able to press buttons
+
+1644
+00:55:32,560 --> 00:55:33,360
+He can play piano
+
+1645
+00:55:33,760 --> 00:55:35,240
+At this moment from the opposite piano room
+
+1646
+00:55:35,240 --> 00:55:37,680
+came very eerie piano music
+
+1647
+00:55:39,480 --> 00:55:40,720
+We discovered at the door
+
+1648
+00:55:40,720 --> 00:55:42,040
+there was no one inside
+
+1649
+00:55:42,040 --> 00:55:44,000
+The piano was playing automatically
+
+1650
+00:55:45,160 --> 00:55:45,640
+Right
+
+1651
+00:55:45,920 --> 00:55:46,920
+Can play piano, correct
+
+1652
+00:55:48,920 --> 00:55:49,840
+Right, that means pressing buttons
+
+1653
+00:55:49,840 --> 00:55:51,440
+So it should be finally in Room A
+
+1654
+00:55:51,440 --> 00:55:53,160
+The Invisible Man is in Room A
+
+1655
+00:55:53,160 --> 00:55:54,280
+pressed the door between A and B
+
+1656
+00:55:54,280 --> 00:55:54,920
+to open it
+
+1657
+00:55:57,440 --> 00:55:59,880
+Right, I think it must be the Invisible Man helping
+
+1658
+00:56:00,040 --> 00:56:01,080
+Then if that's the case
+
+1659
+00:56:02,120 --> 00:56:03,720
+In that case anything is possible
+
+1660
+00:56:03,720 --> 00:56:04,840
+We could calculate E, I think
+
+1661
+00:56:04,840 --> 00:56:06,200
+E is crucial, right
+
+1662
+00:56:06,200 --> 00:56:06,720
+Let's calculate E
+
+1663
+00:56:07,800 --> 00:56:10,120
+He pressed the revolving door button
+
+1664
+00:56:10,120 --> 00:56:12,440
+allowing him to go from F to C
+
+1665
+00:56:12,440 --> 00:56:13,720
+Then C to B
+
+1666
+00:56:13,960 --> 00:56:15,280
+Then B to A
+
+1667
+00:56:15,560 --> 00:56:17,040
+Then A to B for the fourth time
+
+1668
+00:56:17,040 --> 00:56:18,840
+B to C five times
+
+1669
+00:56:19,360 --> 00:56:20,640
+Then C to D
+
+1670
+00:56:20,640 --> 00:56:21,440
+From D to E
+
+1671
+00:56:21,440 --> 00:56:22,440
+Right, seven times
+
+1672
+00:56:24,960 --> 00:56:25,960
+So E is impossible
+
+1673
+00:56:27,400 --> 00:56:28,520
+But F is possible
+
+1674
+00:56:30,680 --> 00:56:31,800
+Let's calculate the others
+
+1675
+00:56:32,560 --> 00:56:33,200
+D is also possible
+
+1676
+00:56:33,200 --> 00:56:34,680
+Because D is exactly one step less than E
+
+1677
+00:56:34,680 --> 00:56:36,680
+Right at the six-step boundary
+
+1678
+00:56:52,800 --> 00:56:56,640
+Even CDF can do it.
+
+1679
+00:56:58,880 --> 00:57:00,160
+Why give it to E?
+
+1680
+00:57:00,920 --> 00:57:01,880
+Giving this ping pong ball to E.
+
+1681
+00:57:01,880 --> 00:57:03,040
+What's the real reason?
+
+1682
+00:57:03,360 --> 00:57:04,440
+Each person only draws one.
+
+1683
+00:57:04,440 --> 00:57:05,400
+Then he hands it to you.
+
+1684
+00:57:05,400 --> 00:57:06,920
+He can make you get whatever position he wants.
+
+1685
+00:57:07,280 --> 00:57:08,800
+Then why are they all E?
+
+1686
+00:57:10,560 --> 00:57:11,320
+I'd like to ask
+
+1687
+00:57:11,320 --> 00:57:13,240
+Where did everyone get this from?
+
+1688
+00:57:14,160 --> 00:57:16,200
+It was in the staff workroom
+
+1689
+00:57:16,760 --> 00:57:18,280
+And that workroom
+
+1690
+00:57:18,280 --> 00:57:20,000
+Had a notebook with several pages torn out
+
+1691
+00:57:23,640 --> 00:57:25,320
+But because the writing was heavy
+
+1692
+00:57:25,320 --> 00:57:27,960
+I managed to make an imprint of it
+
+1693
+00:57:27,960 --> 00:57:29,320
+I know you want to kill Ruqing
+
+1694
+00:57:29,320 --> 00:57:31,200
+You could use tonight's opening of
+
+1695
+00:57:31,200 --> 00:57:33,360
+"The Weird Tales Art Experience Exhibition"
+
+1696
+00:57:33,360 --> 00:57:35,320
+I've experienced this exhibition before
+
+1697
+00:57:35,320 --> 00:57:37,560
+I know there are some secret mechanisms inside
+
+1698
+00:57:37,560 --> 00:57:39,480
+You could use the mechanisms to kill someone
+
+1699
+00:57:39,480 --> 00:57:40,960
+And escape perfectly
+
+1700
+00:57:40,960 --> 00:57:42,960
+If you're willing to cooperate with me
+
+1701
+00:57:42,960 --> 00:57:44,840
+I'll tell you
+
+1702
+00:57:44,840 --> 00:57:48,440
+The detailed plan of how to coordinate with me
+
+1703
+00:57:49,480 --> 00:57:51,240
+This means today's murderer
+
+1704
+00:57:51,240 --> 00:57:53,920
+Actually collaborated with this person
+
+1705
+00:57:54,480 --> 00:57:57,400
+Meaning they knew about
+
+1706
+00:57:57,400 --> 00:57:58,640
+All these mechanisms beforehand
+
+1707
+00:57:58,640 --> 00:58:00,240
+So now we're figuring out
+
+1708
+00:58:00,240 --> 00:58:01,560
+Their
+
+1709
+00:58:01,560 --> 00:58:02,360
+This
+
+1710
+00:58:02,360 --> 00:58:04,120
+Secrets within some mechanisms
+
+1711
+00:58:06,480 --> 00:58:08,280
+What exactly is special about
+
+1712
+00:58:08,760 --> 00:58:09,960
+This space E?
+
+1713
+00:58:12,840 --> 00:58:13,720
+The special thing about E is
+
+1714
+00:58:13,720 --> 00:58:15,200
+it's the only one among the four
+
+1715
+00:58:16,280 --> 00:58:17,280
+innocent room
+
+1716
+00:58:20,480 --> 00:58:21,040
+It's also possible
+
+1717
+00:58:22,240 --> 00:58:24,160
+he wanted to ensure the first person to draw
+
+1718
+00:58:24,160 --> 00:58:24,880
+would get E
+
+1719
+00:58:24,880 --> 00:58:25,800
+Because the E space
+
+1720
+00:58:25,800 --> 00:58:27,000
+was useless to him
+
+1721
+00:58:27,080 --> 00:58:28,080
+He needed to ensure he
+
+1722
+00:58:28,080 --> 00:58:28,960
+could enter CDF
+
+1723
+00:58:28,960 --> 00:58:29,280
+Putting
+
+1724
+00:58:29,440 --> 00:58:30,720
+more E balls was just to ensure
+
+1725
+00:58:31,120 --> 00:58:32,120
+an unrelated person
+
+1726
+00:58:35,440 --> 00:58:37,760
+So when I reached in to draw
+
+1727
+00:58:37,760 --> 00:58:39,160
+they were all E
+
+1728
+00:58:39,640 --> 00:58:42,120
+So those three E balls became duds
+
+1729
+00:58:42,280 --> 00:58:43,720
+to guarantee you'd draw E
+
+1730
+00:58:43,720 --> 00:58:45,400
+Because CDF wasn't available then
+
+1731
+00:58:45,400 --> 00:58:47,080
+But he was afraid if you drew first
+
+1732
+00:58:47,080 --> 00:58:48,680
+finding only one ball would seem odd
+
+1733
+00:58:48,680 --> 00:58:50,080
+so he gave you three fakes
+
+1734
+00:58:50,080 --> 00:58:52,680
+to make it feel like a real draw
+
+1735
+00:58:54,160 --> 00:58:55,760
+So Luoluo is innocent
+
+1736
+00:58:55,760 --> 00:58:56,360
+Right
+
+1737
+00:58:56,960 --> 00:58:57,920
+Luoluo is cleared
+
+1738
+00:58:57,920 --> 00:59:00,120
+So I'm the least suspicious
+
+1739
+00:59:00,960 --> 00:59:02,360
+CDF could be any
+
+1740
+00:59:02,360 --> 00:59:04,400
+Now we just need to deduce which one
+
+1741
+00:59:04,400 --> 00:59:06,480
+has stronger motive and suspicion
+
+1742
+00:59:06,480 --> 00:59:08,320
+Looking at previous evidence
+
+1743
+00:59:08,440 --> 00:59:09,760
+that showed murderous intent
+
+1744
+00:59:10,440 --> 00:59:11,760
+No need to check Luo Luo.
+
+1745
+00:59:12,120 --> 00:59:13,440
+Can't kill.
+
+1746
+00:59:13,600 --> 00:59:14,200
+C
+
+1747
+00:59:14,200 --> 00:59:14,960
+I think C
+
+1748
+00:59:14,960 --> 00:59:16,200
+is the most likely.
+
+1749
+00:59:18,080 --> 00:59:19,280
+C is the most convenient.
+
+1750
+00:59:19,280 --> 00:59:20,160
+Most convenient.
+
+1751
+00:59:21,040 --> 00:59:21,920
+The motive is
+
+1752
+00:59:21,920 --> 00:59:23,080
+breaking the curse
+
+1753
+00:59:23,080 --> 00:59:24,560
+and avenging his cousin.
+
+1754
+00:59:28,280 --> 00:59:30,640
+C is the most probable.
+
+1755
+00:59:35,160 --> 00:59:36,760
+Based on step calculations,
+
+1756
+00:59:37,080 --> 00:59:39,040
+Luo Luo in Hall E is ruled out.
+
+1757
+00:59:39,360 --> 00:59:43,960
+Among A-Kai, Minghao, and Zhuocheng,
+
+1758
+00:59:44,320 --> 00:59:46,600
+who do you think is the real culprit?
+
+1759
+00:59:53,120 --> 00:59:54,360
+I voted for
+
+1760
+00:59:54,840 --> 00:59:56,320
+I believe the real culprit is Zhuocheng
+
+1761
+00:59:56,320 --> 00:59:58,040
+So I'm casting my vote for Zhuocheng
+
+1762
+00:59:58,560 --> 01:00:02,880
+His motive was his cousin Hujie being bullied
+
+1763
+01:00:02,880 --> 01:00:04,080
+and subsequently committing suicide
+
+1764
+01:00:04,080 --> 01:00:06,800
+So he discovered Ruqing was the real culprit
+
+1765
+01:00:07,120 --> 01:00:08,480
+This gave him strong motivation
+
+1766
+01:00:08,480 --> 01:00:10,120
+to kill Ruqing
+
+1767
+01:00:10,120 --> 01:00:11,240
+Hence my vote for Zhuocheng
+
+1768
+01:00:14,720 --> 01:00:17,400
+This time I'm voting for Minghao as the killer
+
+1769
+01:00:17,480 --> 01:00:20,880
+And he has an X
+
+1770
+01:00:20,880 --> 01:00:22,600
+He is our detective Nengneng
+
+1771
+01:00:30,000 --> 01:00:31,000
+The killer is
+
+1772
+01:00:34,000 --> 01:00:35,520
+I thought this thing
+
+1773
+01:00:35,520 --> 01:00:37,640
+was connected to the Tweet Empire
+
+1774
+01:00:38,400 --> 01:00:40,120
+I voted for
+
+1775
+01:00:42,840 --> 01:00:44,320
+Based on the final statements
+
+1776
+01:00:44,640 --> 01:00:45,640
+I voted
+
+1777
+01:00:53,080 --> 01:00:55,880
+Next, we'll announce the voting results from all players.
+
+1778
+01:00:57,600 --> 01:00:58,880
+After everyone's voting,
+
+1779
+01:00:59,520 --> 01:01:01,040
+our voting results are:
+
+1780
+01:01:02,040 --> 01:01:03,560
+Among the four suspects,
+
+1781
+01:01:03,560 --> 01:01:05,240
+two have received votes.
+
+1782
+01:01:07,960 --> 01:01:08,960
+They are:
+
+1783
+01:01:08,960 --> 01:01:09,600
+Zhuo Cheng.
+
+1784
+01:01:11,080 --> 01:01:11,800
+And Minghao
+
+1785
+01:01:14,160 --> 01:01:15,680
+Now between these two candidates
+
+1786
+01:01:15,680 --> 01:01:16,960
+I now announce
+
+1787
+01:01:16,960 --> 01:01:19,120
+The one who received the most votes is
+
+1788
+01:01:22,360 --> 01:01:24,080
+The highest vote recipient is
+
+1789
+01:01:27,440 --> 01:01:28,040
+Zhuocheng
+
+1790
+01:01:28,320 --> 01:01:29,840
+He received four votes
+
+1791
+01:01:37,680 --> 01:01:40,360
+My vote is for Zhuocheng.
+
+1792
+01:01:40,760 --> 01:01:42,440
+I voted for Zhuocheng.
+
+1793
+01:01:42,440 --> 01:01:43,800
+My vote went to Zhuocheng.
+
+1794
+01:01:44,320 --> 01:01:45,920
+I believe the real culprit is Zhuocheng.
+
+1795
+01:01:45,920 --> 01:01:47,680
+So I cast my vote for Zhuocheng.
+
+1796
+01:01:50,120 --> 01:01:52,640
+Did we successfully identify the culprit?
+
+1797
+01:01:57,280 --> 01:01:59,440
+Now, the real culprit please stand up.
+
+1798
+01:02:06,320 --> 01:02:07,360
+You're still competing with me
+
+1799
+01:02:12,680 --> 01:02:13,440
+Stand up, right?
+
+1800
+01:02:22,760 --> 01:02:24,640
+I voted for Zhuocheng.
+
+1801
+01:02:24,640 --> 01:02:26,040
+Listening to the final statements,
+
+1802
+01:02:26,760 --> 01:02:28,200
+it seems Nengneng also
+
+1803
+01:02:28,200 --> 01:02:29,080
+wants to vote for Zhuocheng.
+
+1804
+01:02:29,080 --> 01:02:29,640
+In that case,
+
+1805
+01:02:29,640 --> 01:02:30,680
+it should be three to two,
+
+1806
+01:02:30,680 --> 01:02:31,760
+which would be enough to win.
+
+1807
+01:02:32,080 --> 01:02:32,920
+Anyway, the goal is
+
+1808
+01:02:32,920 --> 01:02:34,120
+to push his votes up.
+
+1809
+01:02:34,120 --> 01:02:35,320
+I think
+
+1810
+01:02:35,480 --> 01:02:36,760
+he shouldn't be called a rapper,
+
+1811
+01:02:36,760 --> 01:02:38,080
+but a murderer.
+
+1812
+01:02:38,080 --> 01:02:39,120
+He's become the Grim Reaper of Tui Town.
+
+1813
+01:02:41,720 --> 01:02:43,800
+Is there an X in this case?
+
+1814
+01:02:50,120 --> 01:02:52,200
+This case involves X
+
+1815
+01:02:56,280 --> 01:02:58,080
+I am X
+
+1816
+01:02:58,080 --> 01:02:59,200
+I help Minghao
+
+1817
+01:03:12,640 --> 01:03:14,160
+You can't just leave that door open
+
+1818
+01:03:14,160 --> 01:03:15,280
+for your convenience to return later
+
+1819
+01:03:15,280 --> 01:03:17,600
+Each exit and entry must count separately
+
+1820
+01:03:17,840 --> 01:03:18,680
+If he goes back
+
+1821
+01:03:18,680 --> 01:03:19,840
+Room A would be empty
+
+1822
+01:03:19,840 --> 01:03:21,120
+The invisible person could
+
+1823
+01:03:21,120 --> 01:03:22,320
+press the door in Room A
+
+1824
+01:03:22,480 --> 01:03:23,280
+He can't harm anyone
+
+1825
+01:03:23,280 --> 01:03:24,680
+but he can pass notes
+
+1826
+01:03:24,680 --> 01:03:25,520
+He can
+
+1827
+01:03:25,520 --> 01:03:26,280
+insert balls inside
+
+1828
+01:03:26,280 --> 01:03:27,480
+He should be able to press buttons
+
+1829
+01:03:27,480 --> 01:03:28,280
+He can play piano
+
+1830
+01:03:29,080 --> 01:03:29,560
+Right
+
+1831
+01:03:29,840 --> 01:03:30,840
+Can play piano, correct
+
+1832
+01:03:32,720 --> 01:03:34,120
+So E is impossible
+
+1833
+01:03:34,120 --> 01:03:35,560
+Why give E then?
+
+1834
+01:03:36,200 --> 01:03:37,200
+Give E this ping pong ball
+
+1835
+01:03:37,200 --> 01:03:38,360
+What's the real reason?
+
+1836
+01:03:38,360 --> 01:03:39,800
+To ensure you'd draw E
+
+1837
+01:03:39,800 --> 01:03:41,480
+Because CDF weren't present then
+
+1838
+01:03:41,480 --> 01:03:43,160
+But he worried if you drew first
+
+1839
+01:03:43,160 --> 01:03:44,760
+finding only one ball would be suspicious
+
+1840
+01:03:44,760 --> 01:03:46,160
+So he gave three decoys
+
+1841
+01:03:46,160 --> 01:03:48,640
+to make the draw seem authentic
+
+1842
+01:03:50,800 --> 01:03:52,160
+CDF are all possible
+
+1843
+01:03:52,160 --> 01:03:52,960
+Now just deduce
+
+1844
+01:03:53,560 --> 01:03:55,120
+which suspect has
+
+1845
+01:03:55,120 --> 01:03:56,320
+stronger motives
+
+1846
+01:03:56,400 --> 01:03:57,280
+The motives are
+
+1847
+01:03:57,280 --> 01:03:58,440
+breaking the curse
+
+1848
+01:03:58,440 --> 01:03:59,920
+avenging his cousin
+
+1849
+01:03:59,920 --> 01:04:01,800
+C is most likely
+
+1850
+01:04:03,120 --> 01:04:05,160
+I think C is most probable
+
+1851
+01:04:08,120 --> 01:04:10,480
+Initially we thought
+
+1852
+01:04:10,840 --> 01:04:11,640
+A must have someone
+
+1853
+01:04:11,640 --> 01:04:14,480
+If not returning, only F is possible
+
+1854
+01:04:14,760 --> 01:04:16,680
+But he used the invisible person to trick me
+
+1855
+01:04:20,440 --> 01:04:21,680
+In the end, I thought
+
+1856
+01:04:21,680 --> 01:04:22,480
+Since I'm not
+
+1857
+01:04:22,480 --> 01:04:23,880
+You couldn't possibly
+
+1858
+01:04:24,120 --> 01:04:25,320
+Then between the two of them
+
+1859
+01:04:25,320 --> 01:04:26,440
+I said if that's the case
+
+1860
+01:04:26,440 --> 01:04:30,160
+Then we can only choose the one with stronger motives
+
+1861
+01:04:30,160 --> 01:04:31,400
+Otherwise there's no way
+
+1862
+01:04:33,200 --> 01:04:34,360
+Wrong, I won't believe it anymore
+
+1863
+01:04:37,840 --> 01:04:38,840
+First, let me talk about that
+
+1864
+01:04:38,840 --> 01:04:40,640
+There really was an invisible person opening the door
+
+1865
+01:04:40,640 --> 01:04:41,840
+The invisible person was about to help me kill someone
+
+1866
+01:04:41,840 --> 01:04:42,760
+What's wrong with him pressing a button?
+
+1867
+01:04:43,240 --> 01:04:44,320
+So it was really him helping you
+
+1868
+01:04:44,320 --> 01:04:45,240
+Yes
+
+1869
+01:04:45,240 --> 01:04:48,080
+The invisible person's motive for choosing the killer
+
+1870
+01:04:48,080 --> 01:04:49,400
+was actually the same as HR's
+
+1871
+01:04:49,400 --> 01:04:51,440
+All three of us were
+
+1872
+01:04:51,440 --> 01:04:52,640
+members of his talent pool
+
+1873
+01:04:54,680 --> 01:04:56,080
+At first he wanted to choose Zhuocheng
+
+1874
+01:04:56,080 --> 01:04:57,600
+because Zhuocheng wasn't cursed
+
+1875
+01:04:57,600 --> 01:04:59,240
+He wouldn't turn into a pig halfway through killing
+
+1876
+01:04:59,240 --> 01:05:01,000
+But you took way too long eating noodles
+
+1877
+01:05:01,000 --> 01:05:02,000
+You were still eating at 11:30 PM
+
+1878
+01:05:03,480 --> 01:05:05,560
+And Akai would drip blood
+
+1879
+01:05:05,560 --> 01:05:07,440
+If he transformed during the killing process
+
+1880
+01:05:07,440 --> 01:05:08,960
+his bleeding would leave traces
+
+1881
+01:05:08,960 --> 01:05:10,760
+But I would just turn into a pig head
+
+1882
+01:05:11,120 --> 01:05:13,360
+I wouldn't make noise or draw attention
+
+1883
+01:05:15,920 --> 01:05:18,120
+I think the invisible person considered
+
+1884
+01:05:18,120 --> 01:05:19,920
+me to be the safer choice
+
+1885
+01:05:21,240 --> 01:05:22,640
+So the key evidence everyone missed
+
+1886
+01:05:22,640 --> 01:05:24,080
+was
+
+1887
+01:05:24,720 --> 01:05:26,160
+in the library bookshelf's
+
+1888
+01:05:26,160 --> 01:05:27,480
+corner pages
+
+1889
+01:05:27,480 --> 01:05:29,320
+There were pencil-written responses
+
+1890
+01:05:30,240 --> 01:05:31,000
+That control room's
+
+1891
+01:05:31,000 --> 01:05:32,720
+notebook had several pages torn out
+
+1892
+01:05:34,760 --> 01:05:36,800
+And the person who owned this pencil
+
+1893
+01:05:36,800 --> 01:05:38,160
+was from the previous case -
+
+1894
+01:05:38,160 --> 01:05:40,760
+the one cursed by personal belongings
+
+1895
+01:05:40,760 --> 01:05:41,640
+Minghao
+
+1896
+01:05:44,240 --> 01:05:45,360
+As I said yesterday
+
+1897
+01:05:45,360 --> 01:05:45,760
+I believe
+
+1898
+01:05:45,760 --> 01:05:47,160
+being kind to others is being kind to yourself
+
+1899
+01:05:50,160 --> 01:05:51,080
+Then we learned
+
+1900
+01:05:51,080 --> 01:05:53,160
+that this bullying includes not just physical bullying
+
+1901
+01:05:53,160 --> 01:05:54,800
+but also the neglect of such bullying
+
+1902
+01:05:56,320 --> 01:05:57,240
+And there's one point
+
+1903
+01:05:57,240 --> 01:05:58,320
+that if a classmate
+
+1904
+01:05:58,320 --> 01:06:00,120
+has indeed done something very bad
+
+1905
+01:06:00,120 --> 01:06:01,520
+and everyone isolates them at this point
+
+1906
+01:06:01,520 --> 01:06:02,680
+does this count as bullying?
+
+1907
+01:06:03,280 --> 01:06:05,240
+How bad must their actions be
+
+1908
+01:06:05,240 --> 01:06:07,160
+for their isolation by others
+
+1909
+01:06:07,160 --> 01:06:07,920
+to not be considered bullying?
+
+1910
+01:06:07,920 --> 01:06:10,320
+Or should bullying itself as a behavior
+
+1911
+01:06:10,320 --> 01:06:11,480
+never be considered
+
+1912
+01:06:11,480 --> 01:06:12,840
+an acceptable way to treat classmates?
+
+1913
+01:06:12,840 --> 01:06:14,280
+I think this is also
+
+1914
+01:06:14,280 --> 01:06:16,000
+a point very worthy of consideration
+
+1915
+01:06:18,000 --> 01:06:20,440
+As a parent,
+
+1916
+01:06:20,640 --> 01:06:22,160
+I pay special attention
+
+1917
+01:06:22,160 --> 01:06:25,400
+to my child's mental state.
+
+1918
+01:06:25,400 --> 01:06:27,480
+I basically ask him every week
+
+1919
+01:06:27,480 --> 01:06:29,240
+how he's getting along with classmates,
+
+1920
+01:06:29,240 --> 01:06:30,720
+if anything bad happened,
+
+1921
+01:06:30,720 --> 01:06:32,760
+and to tell me if anyone bullies him.
+
+1922
+01:06:33,440 --> 01:06:34,800
+But children won't say.
+
+1923
+01:06:35,960 --> 01:06:37,920
+From a parent's perspective,
+
+1924
+01:06:37,920 --> 01:06:39,880
+we sometimes easily overlook things.
+
+1925
+01:06:39,960 --> 01:06:41,320
+Even when I ask,
+
+1926
+01:06:41,320 --> 01:06:42,120
+sometimes I still
+
+1927
+01:06:42,120 --> 01:06:43,600
+can't get clear answers.
+
+1928
+01:06:44,560 --> 01:06:46,240
+Then one day I noticed
+
+1929
+01:06:47,040 --> 01:06:48,400
+he was using his allowance
+
+1930
+01:06:48,400 --> 01:06:51,640
+to buy classmates gifts.
+
+1931
+01:06:52,080 --> 01:06:53,720
+I found it strange,
+
+1932
+01:06:54,120 --> 01:06:56,320
+then he replied:
+
+1933
+01:06:56,320 --> 01:06:57,360
+"This way they'll play with me."
+
+1934
+01:06:59,160 --> 01:07:01,280
+I was terrified,
+
+1935
+01:07:01,360 --> 01:07:02,640
+because sometimes
+
+1936
+01:07:02,720 --> 01:07:05,520
+children don't realize they're being bullied.
+
+1937
+01:07:05,520 --> 01:07:07,240
+They think it's just
+
+1938
+01:07:07,800 --> 01:07:09,880
+a way to make people like them.
+
+1939
+01:07:09,880 --> 01:07:11,400
+This is actually quite scary.
+
+1940
+01:07:11,400 --> 01:07:13,080
+So we adults around them
+
+1941
+01:07:13,080 --> 01:07:15,360
+should guide them to understand
+
+1942
+01:07:15,360 --> 01:07:16,600
+that making friends
+
+1943
+01:07:16,600 --> 01:07:19,120
+should be based on
+
+1944
+01:07:19,120 --> 01:07:23,040
+shared interests or goals,
+
+1945
+01:07:23,040 --> 01:07:24,400
+not because you're constantly
+
+1946
+01:07:24,400 --> 01:07:27,320
+trying to please others.
+
+1947
+01:07:27,320 --> 01:07:28,760
+That's not true friendship.
+
+1948
+01:07:28,760 --> 01:07:31,360
+And when your efforts
+
+1949
+01:07:31,360 --> 01:07:33,000
+stop being enough for them,
+
+1950
+01:07:33,000 --> 01:07:35,440
+you might get hurt.
+
+1951
+01:07:35,440 --> 01:07:38,960
+Just like Ai Sing in this story.
+
+1952
+01:07:38,960 --> 01:07:40,800
+So beyond bullying,
+
+1953
+01:07:40,800 --> 01:07:43,800
+we should pay more attention
+
+1954
+01:07:44,440 --> 01:07:46,320
+to what children this age
+
+1955
+01:07:46,320 --> 01:07:47,480
+might experience.
+
+1956
+01:07:47,480 --> 01:07:49,080
+We should give them more
+
+1957
+01:07:49,080 --> 01:07:50,400
+positive guidance.
