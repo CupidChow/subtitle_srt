@@ -1,0 +1,1843 @@
+1
+00:00:17,290 --> 00:00:20,950
+To add or subtract in polynomials,
+
+2
+00:00:20,950 --> 00:00:24,860
+you need to know what a monomial is first.
+
+3
+00:00:24,860 --> 00:00:30,860
+A monomial is an expression consisting of one term.
+
+4
+00:00:30,860 --> 00:00:33,240
+A polynomial is
+
+5
+00:00:33,240 --> 00:00:39,050
+an expression consisting of more than one term with the sum of several terms.
+
+6
+00:00:39,050 --> 00:00:44,390
+A term is an expression consisting solely of multiplied numbers or characters...
+
+7
+00:00:49,010 --> 00:00:54,570
+These idiots. You don't even understand. What am I even doing?
+
+8
+00:00:57,270 --> 00:00:59,310
+Let's say...
+
+9
+00:00:59,310 --> 00:01:04,330
+there's an expression that goes like, "x squared plus 2x squared plus 2x minus three."
+
+10
+00:01:04,330 --> 00:01:06,900
+What is the total number of terms here, then?
+
+11
+00:01:06,900 --> 00:01:09,700
+[A monomial is an expression consisting of one term.]
+
+12
+00:01:09,700 --> 00:01:14,620
+[A polynomial is an expression consisting of more than one term with the sum of several terms.]
+
+13
+00:01:14,620 --> 00:01:18,880
+[These idiots. You don't even understand. What am I even doing?]
+
+14
+00:01:20,220 --> 00:01:22,380
+<i>You might find it hard to believe,</i>
+
+15
+00:01:23,430 --> 00:01:25,670
+[Yun Ga Min / 10th grader / Yuseong Technical High School]
+<i>but I am a bad student.</i>
+
+16
+00:01:34,550 --> 00:01:37,800
+Mom! I want to join an academy.
+
+17
+00:01:39,950 --> 00:01:42,200
+[26th place out of 28 students]
+
+18
+00:01:44,670 --> 00:01:48,740
+Mom! I want a private tutor.
+
+19
+00:01:48,740 --> 00:01:53,020
+Teacher, I think I really get it now.
+
+20
+00:01:53,020 --> 00:01:54,160
+[278th place out of 280 students]
+
+21
+00:01:54,160 --> 00:01:55,970
+Ga Min,
+
+22
+00:01:57,440 --> 00:02:01,410
+you didn't skip a row and mark the answer sheet wrong, did you?
+
+23
+00:02:02,760 --> 00:02:05,030
+<i>Is it because I'm not smart?</i>
+
+24
+00:02:05,810 --> 00:02:07,460
+<i>That can't be.</i>
+
+25
+00:02:07,460 --> 00:02:09,970
+<i>Is it because I'm not trying hard enough?</i>
+
+26
+00:02:18,380 --> 00:02:20,190
+[279th place out of 280 students]
+
+27
+00:02:25,970 --> 00:02:28,920
+<i>"Studying isn't everything in life."</i>
+
+28
+00:02:30,300 --> 00:02:34,080
+<i>I can't say that because I want to get good grades so badly.</i>
+
+29
+00:02:34,080 --> 00:02:35,820
+<i>So, I found a perfect solution.</i>
+
+30
+00:02:35,820 --> 00:02:37,770
+Gosh, I want to go to college.
+
+31
+00:02:37,770 --> 00:02:41,740
+If you want to go to college so badly, go to Yuseong Technical High
+
+32
+00:02:41,740 --> 00:02:44,790
+and aim for special admission to specialized schools.
+
+33
+00:02:51,940 --> 00:02:53,380
+<i>Are you crazy?</i>
+
+34
+00:02:53,380 --> 00:02:56,230
+I'd rather die than go to Yuseong.
+
+35
+00:02:56,230 --> 00:02:57,710
+I agree.
+
+36
+00:02:57,710 --> 00:02:59,850
+♫ <i>One, two, three. Come on!</i> ♫
+
+37
+00:02:59,850 --> 00:03:02,000
+[Welcome to Yuseong Technical High School]
+
+38
+00:03:08,940 --> 00:03:12,630
+[Yuseong Technical High School]
+
+39
+00:03:40,530 --> 00:03:44,970
+<i>Although it's a bit different than what I expected.</i>
+
+40
+00:03:47,850 --> 00:03:50,270
+What are you looking at? You f***er.
+
+41
+00:03:50,270 --> 00:03:51,580
+You son of a bitch.
+
+42
+00:03:51,580 --> 00:03:53,600
+- Look down, you loser.
+- Hey, fight me.
+
+43
+00:03:53,600 --> 00:03:57,610
+<i>If I survive here and get good grades, I could go to college-</i>
+
+44
+00:03:57,610 --> 00:04:00,310
+[219th place out of 220 students]
+
+45
+00:04:00,310 --> 00:04:01,650
+<i>I put my guard down.</i>
+
+46
+00:04:01,650 --> 00:04:04,440
+<i>I judged them by their looks.</i>
+
+47
+00:04:04,440 --> 00:04:07,280
+<i>They pretend they aren't interested in grades at school,</i>
+
+48
+00:04:07,280 --> 00:04:10,500
+<i>but they all must study hard at home.</i>
+
+49
+00:04:12,290 --> 00:04:15,790
+<i>But it's too early to give up.</i>
+
+50
+00:04:17,550 --> 00:04:20,500
+[I create opportunities even in hellish situations]
+<i>I have the last solution...</i>
+
+51
+00:04:20,500 --> 00:04:23,070
+<i>that I've never tried yet.</i>
+
+52
+00:04:24,750 --> 00:04:25,600
+[Study Group]
+
+53
+00:04:36,910 --> 00:04:38,900
+[Study - Join if you want to study!]
+
+54
+00:04:38,900 --> 00:04:41,470
+[Hwang Min Hyun]
+
+55
+00:04:41,470 --> 00:04:43,310
+[Han Ji Eun]
+
+56
+00:04:43,310 --> 00:04:44,600
+[Cha Woo Min]
+
+57
+00:04:54,640 --> 00:04:56,080
+[Lee Jong Hyun]
+
+58
+00:04:56,080 --> 00:04:57,170
+[Shin Su Hyun]
+
+59
+00:04:58,200 --> 00:05:00,560
+[Yoon Sang Jung / Gong Do Yu]
+
+60
+00:05:06,090 --> 00:05:10,650
+[Study Group]
+
+61
+00:05:14,980 --> 00:05:17,070
+<i>Not him.</i>
+
+62
+00:05:17,070 --> 00:05:18,640
+<i>Not him.</i>
+
+63
+00:05:18,640 --> 00:05:20,460
+<i>Not him, either.</i>
+
+64
+00:05:20,460 --> 00:05:22,220
+<i>Not him, either.</i>
+
+65
+00:05:28,210 --> 00:05:31,550
+<i>It's him. He looks like he wants to study.</i>
+
+66
+00:05:50,390 --> 00:05:53,060
+Would you like to study with me?
+
+67
+00:05:54,550 --> 00:05:58,020
+<i>I knew it. He looks interested.</i>
+
+68
+00:06:00,890 --> 00:06:02,320
+Well-
+
+69
+00:06:03,360 --> 00:06:05,460
+[173rd place]
+
+70
+00:06:05,460 --> 00:06:07,790
+You're No. 170, right?
+
+71
+00:06:07,790 --> 00:06:10,330
+Fight me, you f***er!
+
+72
+00:06:15,780 --> 00:06:18,840
+No. 173 and No. 170!
+
+73
+00:06:18,840 --> 00:06:22,110
+A battle of losers!
+
+74
+00:06:28,740 --> 00:06:30,880
+Get up! You idiot.
+
+75
+00:06:30,880 --> 00:06:32,790
+No. 170.
+
+76
+00:06:32,790 --> 00:06:37,020
+If you don't fight properly, I'll report you to the disciplinary department.
+
+77
+00:06:37,020 --> 00:06:40,270
+What are you doing? Fight, you son of a bitch.
+
+78
+00:06:56,810 --> 00:07:00,080
+This is no fun. F***ing hell.
+
+79
+00:07:01,080 --> 00:07:03,120
+No. 173 wins.
+
+80
+00:07:05,140 --> 00:07:06,290
+Here's the proof.
+
+81
+00:07:06,290 --> 00:07:09,190
+No, you can keep going.
+
+82
+00:07:09,190 --> 00:07:11,710
+Why did you fight at all?
+
+83
+00:07:11,710 --> 00:07:14,220
+[No. 170 to No. 171]
+
+84
+00:07:14,220 --> 00:07:17,410
+Shit. What's this?
+
+85
+00:07:17,410 --> 00:07:19,000
+So annoying.
+
+86
+00:07:19,000 --> 00:07:22,360
+The bell rang a long time ago. Sit down, you bastards.
+
+87
+00:07:22,360 --> 00:07:24,270
+The discipline chief.
+
+88
+00:07:27,160 --> 00:07:28,850
+Are you okay?
+
+89
+00:07:33,130 --> 00:07:34,810
+Attention!
+
+90
+00:07:34,810 --> 00:07:39,600
+Mr. Park Ho Jin is on leave due to a personal situation.
+
+91
+00:07:39,600 --> 00:07:46,360
+So, a new homeroom teacher will be joining you today.
+
+92
+00:07:46,360 --> 00:07:47,960
+Say hello.
+
+93
+00:07:50,740 --> 00:07:55,900
+I'm Lee Han Gyeong, and I'll be in charge of Class 4 of 10th Grade.
+
+94
+00:07:55,900 --> 00:07:57,510
+Nice to meet you.
+
+95
+00:07:58,870 --> 00:08:01,870
+<i>Huh? Ms. Lee?</i>
+
+96
+00:08:01,870 --> 00:08:05,690
+Would I become good at studying someday?
+
+97
+00:08:05,690 --> 00:08:07,710
+Of course.
+
+98
+00:08:07,710 --> 00:08:09,760
+You have a talent.
+
+99
+00:08:10,700 --> 00:08:12,570
+Me?
+
+100
+00:08:12,570 --> 00:08:14,580
+This is your talent.
+
+101
+00:08:15,380 --> 00:08:17,400
+This will end up...
+
+102
+00:08:18,830 --> 00:08:20,730
+defeating this.
+
+103
+00:08:20,730 --> 00:08:24,560
+Let me check the attendance, then.
+
+104
+00:08:24,560 --> 00:08:26,210
+Shin Hyeong Wuk.
+
+105
+00:08:26,210 --> 00:08:28,530
+He's out for a smoke.
+
+106
+00:08:28,530 --> 00:08:30,660
+Oh, really?
+
+107
+00:08:30,660 --> 00:08:32,920
+He's absent, then.
+
+108
+00:08:32,920 --> 00:08:34,600
+Yu Seung Yeon?
+
+109
+00:08:44,400 --> 00:08:48,520
+F***. I'm sleepy. It's so noisy.
+
+110
+00:08:48,520 --> 00:08:50,410
+Which bastard was it?
+
+111
+00:08:50,410 --> 00:08:52,790
+Which bastard farted?
+
+112
+00:09:10,400 --> 00:09:12,640
+Hey, what are you doing?
+
+113
+00:09:14,370 --> 00:09:16,620
+You're spared because of her.
+
+114
+00:09:19,060 --> 00:09:21,480
+Hey, Lee Hyeon Wu.
+
+115
+00:09:21,480 --> 00:09:25,500
+You f***er. Did you just throw my coffee?
+
+116
+00:09:25,500 --> 00:09:28,230
+- F***er?
+- Yes, you f***er.
+
+117
+00:09:35,910 --> 00:09:37,050
+Who are you betting on?
+
+118
+00:09:37,050 --> 00:09:38,510
+Lee Hyeon Wu. Who else? F***!
+
+119
+00:09:38,510 --> 00:09:41,920
+The distribution rate will be low, then.
+
+120
+00:09:53,510 --> 00:09:55,430
+Go back to your seats.
+
+121
+00:10:01,960 --> 00:10:05,160
+Hey, didn't you hear her?
+
+122
+00:10:44,530 --> 00:10:46,110
+Ms. Lee.
+
+123
+00:10:49,480 --> 00:10:52,340
+Hey, you're...
+
+124
+00:10:52,340 --> 00:10:54,160
+Ga Min.
+
+125
+00:10:55,100 --> 00:10:57,590
+[Yuseong Technical High School]
+
+126
+00:10:57,590 --> 00:10:59,960
+Gosh, you grew so much.
+
+127
+00:10:59,960 --> 00:11:02,020
+I almost didn't recognize you.
+
+128
+00:11:04,590 --> 00:11:10,930
+You must've been surprised that I quit without a word back then.
+
+129
+00:11:12,720 --> 00:11:14,420
+Yes, a little.
+
+130
+00:11:14,420 --> 00:11:17,510
+I'm sorry. I had a bit of a situation.
+
+131
+00:11:17,510 --> 00:11:19,330
+It's okay.
+
+132
+00:11:23,140 --> 00:11:25,520
+Ms. Lee, by the way...
+
+133
+00:11:25,520 --> 00:11:27,040
+Yes?
+
+134
+00:11:27,040 --> 00:11:29,760
+Will you stay at this school?
+
+135
+00:11:29,760 --> 00:11:31,680
+Yes. Why?
+
+136
+00:11:31,680 --> 00:11:35,930
+The former homeroom teacher quit in less than a month.
+
+137
+00:11:35,930 --> 00:11:38,240
+Today is my first day, though.
+
+138
+00:11:38,240 --> 00:11:41,980
+- Pardon?
+- It'd be embarrassing to quit on my first day.
+
+139
+00:11:41,980 --> 00:11:44,450
+Well, but still...
+
+140
+00:11:45,870 --> 00:11:47,330
+Thank you.
+
+141
+00:11:47,330 --> 00:11:50,970
+You're all grown up, and you're worried about me now.
+
+142
+00:11:52,460 --> 00:11:54,060
+By the way,
+
+143
+00:11:54,060 --> 00:11:57,460
+how are you studying these days?
+
+144
+00:11:57,460 --> 00:12:00,220
+There's something I'm working on.
+
+145
+00:12:30,340 --> 00:12:33,460
+[Library]
+
+146
+00:12:39,870 --> 00:12:44,830
+Wow, our school had a nice place like this?
+
+147
+00:12:44,830 --> 00:12:48,450
+It'd be nice to have a friend to study with.
+
+148
+00:12:53,150 --> 00:12:57,570
+This person studied with his friend, too.
+
+149
+00:12:57,570 --> 00:12:59,300
+I'm jealous.
+
+150
+00:12:59,300 --> 00:13:02,400
+But I don't have a friend to study with.
+
+151
+00:13:06,820 --> 00:13:09,070
+This awakens your brain.
+
+152
+00:13:23,490 --> 00:13:27,350
+I understood it yesterday. Why can't I now?
+
+153
+00:13:30,550 --> 00:13:32,970
+I wish someone could teach me this one thing.
+
+154
+00:13:32,970 --> 00:13:34,880
+Geez, please!
+
+155
+00:13:36,420 --> 00:13:37,980
+Sorry.
+
+156
+00:14:08,360 --> 00:14:10,360
+Hey, I give up. Bring it over.
+
+157
+00:14:10,360 --> 00:14:12,830
+Don't bother me once I teach you.
+
+158
+00:14:14,570 --> 00:14:19,680
+Therefore, 0.9999 is 1.
+
+159
+00:14:19,680 --> 00:14:20,910
+Done, right?
+
+160
+00:14:20,910 --> 00:14:25,720
+No matter how close 0.9999 is, it's still not 1.
+
+161
+00:14:27,410 --> 00:14:29,330
+Look carefully.
+
+162
+00:14:29,330 --> 00:14:31,620
+There's a cake here.
+
+163
+00:14:33,040 --> 00:14:34,650
+You cut this in thirds.
+
+164
+00:14:34,650 --> 00:14:37,330
+How big is each slice?
+
+165
+00:14:37,330 --> 00:14:39,500
+- A third?
+- That's right.
+
+166
+00:14:39,500 --> 00:14:42,110
+What is it in decimal? 0.3333, right?
+
+167
+00:14:42,110 --> 00:14:44,780
+You put the three back together. What happens, then?
+
+168
+00:14:44,780 --> 00:14:47,110
+It's one cake again, right?
+
+169
+00:14:47,110 --> 00:14:51,180
+If you combine 0.3333 pieces, it's 0.9999.
+
+170
+00:14:51,180 --> 00:14:53,400
+But it ended up becoming 1.
+
+171
+00:14:54,510 --> 00:14:57,890
+Why? What do you not understand now?
+
+172
+00:14:57,890 --> 00:15:01,730
+How about what's on this?
+
+173
+00:15:01,730 --> 00:15:03,100
+Huh?
+
+174
+00:15:14,300 --> 00:15:15,910
+So?
+
+175
+00:15:15,910 --> 00:15:17,110
+Pardon?
+
+176
+00:15:17,940 --> 00:15:21,680
+So, this is still a school.
+
+177
+00:15:21,680 --> 00:15:26,890
+We shouldn't put drums around to be used as ashtrays.
+
+178
+00:15:27,890 --> 00:15:30,640
+- You think that would be enough?
+- Pardon?
+
+179
+00:15:30,640 --> 00:15:35,980
+Will they stop smoking because we put the drums away?
+
+180
+00:15:36,870 --> 00:15:40,870
+Even I can't quit after 40 years.
+
+181
+00:15:44,490 --> 00:15:47,230
+But still, Vice Principal,
+
+182
+00:15:47,230 --> 00:15:49,690
+the school is legally...
+
+183
+00:15:51,760 --> 00:15:54,150
+Ms. Lee Han Gyeong,
+
+184
+00:15:54,150 --> 00:15:56,670
+rather than putting the drums away,
+
+185
+00:15:56,670 --> 00:16:02,130
+you shouldn't upset your superiors to go full-time, don't you think?
+
+186
+00:16:02,940 --> 00:16:04,080
+I'm sorry.
+
+187
+00:16:04,080 --> 00:16:06,560
+You don't have to apologize.
+
+188
+00:16:09,170 --> 00:16:12,010
+Try putting them away yourself if you want.
+
+189
+00:16:12,010 --> 00:16:16,320
+I'll stand back and cheer you on.
+
+190
+00:16:16,320 --> 00:16:18,150
+Fighting.
+
+191
+00:16:24,060 --> 00:16:26,670
+Hey, this is impressive.
+
+192
+00:16:27,420 --> 00:16:29,070
+How did you write down every word-
+
+193
+00:16:29,070 --> 00:16:30,750
+I take good notes-
+
+194
+00:16:30,750 --> 00:16:33,570
+But this is for math.
+
+195
+00:16:33,570 --> 00:16:35,270
+What about it?
+
+196
+00:16:35,270 --> 00:16:37,870
+You never know what will be on the test.
+
+197
+00:16:41,540 --> 00:16:44,900
+I didn't want to say this, but-
+
+198
+00:16:44,900 --> 00:16:46,950
+- What is it?
+- I think...
+
+199
+00:16:46,950 --> 00:16:48,520
+Yes?
+
+200
+00:16:48,520 --> 00:16:50,510
+you're stupid.
+
+201
+00:17:01,110 --> 00:17:06,020
+But why do you want to be good at studying?
+
+202
+00:17:06,020 --> 00:17:08,270
+I just want to be good.
+
+203
+00:17:08,270 --> 00:17:09,520
+I see.
+
+204
+00:17:09,520 --> 00:17:12,440
+- You're the same way.
+- Me?
+
+205
+00:17:12,440 --> 00:17:13,950
+I'm not.
+
+206
+00:17:13,950 --> 00:17:16,980
+- You're lying.
+- I said I'm not. Why do you say I'm lying?
+
+207
+00:17:16,980 --> 00:17:19,180
+You have turtle neck syndrome from studying a lot.
+
+208
+00:17:19,180 --> 00:17:22,180
+You have calluses on the right middle finger because you write a lot.
+
+209
+00:17:22,180 --> 00:17:25,240
+Your bangs are short enough not to poke your eyes when you read.
+
+210
+00:17:25,240 --> 00:17:27,270
+And most importantly,
+
+211
+00:17:28,740 --> 00:17:30,760
+it's your eyes.
+
+212
+00:17:30,760 --> 00:17:32,600
+I know you want to study.
+
+213
+00:17:33,620 --> 00:17:36,300
+Let's form a study group together.
+
+214
+00:17:36,300 --> 00:17:38,680
+- What?
+- A study group.
+
+215
+00:17:41,500 --> 00:17:45,170
+You weren't just a dummy, but a Grade-A stupid.
+
+216
+00:17:45,170 --> 00:17:47,870
+A study group? This is Yuseong Technical High.
+
+217
+00:17:47,870 --> 00:17:49,790
+You think Pi Han Ul would allow it?
+
+218
+00:17:49,790 --> 00:17:51,390
+Pi Han Ul?
+
+219
+00:17:59,110 --> 00:18:00,670
+He created this ranking app.
+
+220
+00:18:00,670 --> 00:18:03,070
+- What's this?
+- You don't know this, either?
+
+221
+00:18:03,070 --> 00:18:05,290
+I don't. What is it?
+
+222
+00:18:09,400 --> 00:18:13,200
+<i>The leader of Yeonbaek Gang, the infamously cruel gang of Jeonguk-gu,</i>
+
+223
+00:18:13,200 --> 00:18:15,400
+<i>Chairman Pi Yeon Baek's son.</i>
+
+224
+00:18:15,400 --> 00:18:17,770
+<i>And he's the No. 1 in our school.</i>
+
+225
+00:18:19,130 --> 00:18:23,250
+He created this ranking app and got the kids to obsess over the power ranking.
+
+226
+00:18:23,250 --> 00:18:24,870
+That's Pi Han Ul.
+
+227
+00:18:24,870 --> 00:18:26,950
+What does that have to do with us studying?
+
+228
+00:18:26,950 --> 00:18:31,340
+I'm saying it's impossible to study in this school-
+
+229
+00:18:32,240 --> 00:18:33,980
+[Yuseong Technical High School 10th Grade Placement Test]
+
+230
+00:18:40,320 --> 00:18:42,420
+[2nd place out of 220 students]
+
+231
+00:18:45,560 --> 00:18:47,530
+Let's form a study group together.
+
+232
+00:18:47,530 --> 00:18:49,960
+Let's study together and go to college.
+
+233
+00:18:54,130 --> 00:18:58,690
+[2nd place out of 220 students]
+
+234
+00:19:11,970 --> 00:19:14,250
+Get out of my face.
+
+235
+00:19:14,250 --> 00:19:17,040
+- Se Hyeon.
+- Get the f*** out of my face.
+
+236
+00:19:17,040 --> 00:19:19,030
+I said I won't study.
+
+237
+00:19:19,030 --> 00:19:20,570
+Enough is enough. You know nothing.
+
+238
+00:19:20,570 --> 00:19:23,020
+- Se Hyeon, I just-
+- You know f***ing nothing.
+
+239
+00:19:23,020 --> 00:19:25,610
+Don't you dare tell me to study.
+
+240
+00:19:28,630 --> 00:19:30,420
+F***.
+
+241
+00:19:39,490 --> 00:19:42,810
+<i>Class 8 of 11th Grade. Pi Han Ul.</i>
+
+242
+00:20:00,430 --> 00:20:05,630
+This student has excellent grades, and he always sets examples for everyone.
+
+243
+00:20:05,630 --> 00:20:07,900
+Therefore, I give him this award.
+
+244
+00:20:07,900 --> 00:20:10,900
+[2024 Academic Excellence Award Ceremony]
+
+245
+00:20:29,730 --> 00:20:32,890
+Shit, that's enough, I said.
+
+246
+00:20:36,300 --> 00:20:39,540
+Well, I wasn't talking to you.
+
+247
+00:20:43,480 --> 00:20:47,140
+You're nothing but No. 171. Did you pick a fight with me just now?
+
+248
+00:20:47,140 --> 00:20:49,770
+No. I'm sorry.
+
+249
+00:20:52,330 --> 00:20:53,370
+You think that's enough?
+
+250
+00:20:53,370 --> 00:20:55,370
+No, it's not what you think-
+
+251
+00:20:55,370 --> 00:20:57,650
+You should compensate me if you're sorry.
+
+252
+00:20:57,650 --> 00:21:00,260
+Bring 200,000 won by tomorrow.
+
+253
+00:21:00,260 --> 00:21:03,140
+Well, I have no money-
+
+254
+00:21:05,120 --> 00:21:08,300
+You keep saying you're sorry,
+
+255
+00:21:08,300 --> 00:21:10,480
+but you keep doing the wrong thing.
+
+256
+00:21:11,460 --> 00:21:14,080
+Bring me a baseball bat. He still doesn't get it.
+
+257
+00:21:14,080 --> 00:21:15,650
+Baseball bat?
+
+258
+00:21:36,510 --> 00:21:38,340
+<i>Does it hurt?</i>
+
+259
+00:21:41,670 --> 00:21:43,840
+<i>I think he's crying!</i>
+
+260
+00:21:45,160 --> 00:21:47,490
+Excuse me. Sir.
+
+261
+00:22:02,710 --> 00:22:04,520
+I'll go.
+
+262
+00:22:04,520 --> 00:22:08,380
+Se Hyeon is the future member of my study group.
+
+263
+00:22:08,380 --> 00:22:10,020
+Get up.
+
+264
+00:22:11,110 --> 00:22:13,690
+You're trying to be clever.
+
+265
+00:23:09,770 --> 00:23:11,510
+Are you okay?
+
+266
+00:23:13,880 --> 00:23:16,410
+Why are you doing this to me?
+
+267
+00:23:16,410 --> 00:23:19,230
+- What?
+- I told you to leave me alone.
+
+268
+00:23:19,230 --> 00:23:21,170
+Why do you keep doing this?
+
+269
+00:23:21,170 --> 00:23:22,680
+I just wanted to help you.
+
+270
+00:23:22,680 --> 00:23:26,260
+I'm sure you feel good about helping me once, and that's it.
+
+271
+00:23:30,290 --> 00:23:31,540
+What do you mean-
+
+272
+00:23:31,540 --> 00:23:32,940
+Don't you get it?
+
+273
+00:23:32,940 --> 00:23:35,170
+I was almost done getting beaten.
+
+274
+00:23:35,170 --> 00:23:38,720
+But I ran away like this. Then, what?
+
+275
+00:23:38,720 --> 00:23:42,440
+I'd put a target on my back and keep getting bullied. Don't you think?
+
+276
+00:23:44,580 --> 00:23:47,010
+Studying? It sounds nice.
+
+277
+00:23:47,010 --> 00:23:52,160
+I wish I could talk about studying leisurely, too.
+
+278
+00:23:52,160 --> 00:23:54,430
+But this...
+
+279
+00:23:54,430 --> 00:23:57,940
+is a matter of life and death to me. More crucial than studying.
+
+280
+00:24:32,560 --> 00:24:34,490
+Where's that bastard?
+
+281
+00:24:41,730 --> 00:24:43,140
+Who?
+
+282
+00:24:45,350 --> 00:24:47,670
+Are you kidding me?
+
+283
+00:24:48,740 --> 00:24:52,840
+The bastard who sprayed the fire extinguisher. He's in our class, right?
+
+284
+00:24:52,840 --> 00:24:55,010
+I didn't get a good look.
+
+285
+00:24:56,010 --> 00:24:58,520
+Get up, you f***er!
+
+286
+00:25:03,730 --> 00:25:06,240
+Let me ask you one last time.
+
+287
+00:25:06,240 --> 00:25:08,110
+Where's that bastard?
+
+288
+00:25:09,180 --> 00:25:12,710
+I'm sorry, but I really don't know.
+
+289
+00:25:24,120 --> 00:25:26,770
+<i>They say, "Strong body, strong mind."</i>
+
+290
+00:25:26,770 --> 00:25:30,220
+<i>Because I wanted to become good at studying, I've never</i>
+
+291
+00:25:30,220 --> 00:25:32,860
+<i>skipped working out for a day since third grade.</i>
+
+292
+00:25:32,860 --> 00:25:37,350
+<i>Ga Min, all of your talents are physical.</i>
+
+293
+00:25:37,350 --> 00:25:39,680
+<i>So, instead of studying,</i>
+
+294
+00:25:39,680 --> 00:25:45,640
+[Hanrim Gym]
+why don't you become a martial artist like me?
+
+295
+00:25:45,640 --> 00:25:48,640
+Look at you. Not a bad punch.
+
+296
+00:25:55,440 --> 00:25:58,450
+Hey, are you okay?
+
+297
+00:26:01,160 --> 00:26:02,790
+What a relief.
+
+298
+00:26:10,950 --> 00:26:13,220
+Don't worry about anything...
+
+299
+00:26:13,220 --> 00:26:15,660
+and join my study group.
+
+300
+00:26:22,810 --> 00:26:24,530
+I don't want to.
+
+301
+00:26:24,530 --> 00:26:25,890
+What?
+
+302
+00:26:35,660 --> 00:26:38,950
+I don't want to. I'm not going to.
+
+303
+00:26:41,970 --> 00:26:44,740
+- Why not?
+- Be honest. You're not confident.
+
+304
+00:26:44,740 --> 00:26:47,940
+- What?
+- Stop playing ignorant.
+
+305
+00:26:47,940 --> 00:26:50,450
+Isn't that why you put on the mask, too?
+
+306
+00:26:51,450 --> 00:26:54,250
+You're afraid kids would pick on you.
+
+307
+00:27:46,680 --> 00:27:48,910
+You'd better learn welding well.
+
+308
+00:27:54,610 --> 00:27:56,520
+Why don't you answer?
+
+309
+00:27:56,520 --> 00:27:58,340
+Okay.
+
+310
+00:28:00,700 --> 00:28:03,010
+Going to college is useless.
+
+311
+00:28:03,010 --> 00:28:07,110
+Our new youngest employee has a bachelor's degree, too.
+
+312
+00:28:08,850 --> 00:28:11,760
+You need to have skills to be treated well.
+
+313
+00:28:11,760 --> 00:28:13,300
+You know that?
+
+314
+00:28:19,850 --> 00:28:23,020
+That's enough. Can't you just stop?
+
+315
+00:28:24,130 --> 00:28:26,650
+I'm not studying anymore.
+
+316
+00:28:26,650 --> 00:28:29,330
+I won't go to college and learn welding.
+
+317
+00:28:29,330 --> 00:28:32,360
+That's why I'm at Yuseong Technical High, too.
+
+318
+00:28:32,360 --> 00:28:35,060
+How dare you, you little...
+
+319
+00:29:13,600 --> 00:29:23,300
+♫ <i>On these narrow streets, my days are filled with my dried-up dreams</i> ♫
+
+320
+00:29:23,300 --> 00:29:26,660
+[Math - Wrong answer notes / Kim Se Hyeon]
+
+321
+00:29:27,820 --> 00:29:33,220
+♫ <i>If I look at you silently</i> ♫
+
+322
+00:29:35,030 --> 00:29:40,020
+♫ <i>Will you embrace me?</i> ♫
+
+323
+00:29:41,090 --> 00:29:44,350
+♫ <i>Some days pass by as if they're mocking me</i> ♫
+
+324
+00:29:44,350 --> 00:29:46,580
+<i>Isn't Ga Min in a study group?</i>
+
+325
+00:29:46,580 --> 00:29:49,660
+My son formed a study group with his classmates
+
+326
+00:29:49,660 --> 00:29:52,190
+and his ranking went up by 10 for the midterm.
+
+327
+00:29:52,190 --> 00:29:53,520
+Really?
+
+328
+00:29:53,520 --> 00:29:55,800
+Tell Ga Min to join one, too.
+
+329
+00:29:55,800 --> 00:29:57,860
+You can't join our study group.
+
+330
+00:29:57,860 --> 00:29:59,420
+Why not?
+
+331
+00:29:59,420 --> 00:30:01,740
+You're at the bottom of our class.
+
+332
+00:30:01,740 --> 00:30:04,900
+<i>I'm sorry. Our moms make the decisions.</i>
+
+333
+00:30:04,900 --> 00:30:06,950
+We can't just let anyone join.
+
+334
+00:30:08,590 --> 00:30:10,990
+Our study group is full.
+
+335
+00:30:16,470 --> 00:30:18,660
+Hey, don't make eye contact with him.
+
+336
+00:30:18,660 --> 00:30:21,860
+He has no conscience. How dare he try to use us?
+
+337
+00:30:21,860 --> 00:30:26,190
+He'd have better luck to be reborn than joining a study group.
+
+338
+00:30:31,410 --> 00:30:37,060
+Ga Min, something suddenly came up with Ms. Lee-
+
+339
+00:30:39,250 --> 00:30:42,590
+Are you crying? What's wrong?
+
+340
+00:30:42,590 --> 00:30:44,360
+Is something wrong?
+
+341
+00:30:47,690 --> 00:30:52,010
+It's okay. It's okay if you're not good at studying.
+
+342
+00:30:52,010 --> 00:30:54,030
+No.
+
+343
+00:30:54,030 --> 00:30:55,650
+It's not that.
+
+344
+00:30:56,620 --> 00:31:01,580
+♫ <i>Even the warmth is gone</i> ♫
+
+345
+00:31:01,580 --> 00:31:06,060
+♫ <i>I stayed up secretly that night</i> ♫
+
+346
+00:31:07,060 --> 00:31:14,300
+♫ <i>Some days pass by as if they're mocking me</i> ♫
+
+347
+00:31:14,300 --> 00:31:20,900
+♫ <i>I sit blanking out and shed tears</i> ♫
+
+348
+00:31:27,940 --> 00:31:31,240
+I don't want to go to school.
+
+349
+00:31:34,440 --> 00:31:37,020
+No, I still need to go.
+
+350
+00:31:37,880 --> 00:31:40,010
+I'm a teacher.
+
+351
+00:32:00,450 --> 00:32:03,020
+Hey, put out the cigarettes. Hurry and go inside!
+
+352
+00:32:03,020 --> 00:32:05,700
+Go inside! Put them right now!
+
+353
+00:32:05,700 --> 00:32:08,560
+You bastards. Hurry up!
+
+354
+00:32:08,560 --> 00:32:11,050
+- You, go in quickly!
+- The discipline chief is here. Let's go.
+
+355
+00:32:11,050 --> 00:32:12,630
+Discipline Chief, hello.
+
+356
+00:32:12,630 --> 00:32:13,990
+Hello, my foot.
+
+357
+00:32:13,990 --> 00:32:16,400
+- Get rid of all these drums.
+- Sorry?
+
+358
+00:32:16,400 --> 00:32:19,310
+A school inspector is suddenly coming. The vice principal is freaking out.
+
+359
+00:32:19,310 --> 00:32:21,100
+Get rid of all of these, okay?
+
+360
+00:32:21,100 --> 00:32:22,610
+Wait...
+
+361
+00:32:46,080 --> 00:32:47,380
+Thank you.
+
+362
+00:32:47,380 --> 00:32:49,690
+By the way, what's your name?
+
+363
+00:32:49,690 --> 00:32:52,450
+Well, I'm Park Geon Yeop.
+
+364
+00:32:52,450 --> 00:32:54,130
+Geon Yeop.
+
+365
+00:32:55,460 --> 00:32:57,400
+By the way, this ashtray...
+
+366
+00:32:57,400 --> 00:33:00,960
+Isn't it better to let the inspector see it?
+
+367
+00:33:02,640 --> 00:33:05,910
+To be honest, I wish I could, too.
+
+368
+00:33:05,910 --> 00:33:08,060
+But it's still our school.
+
+369
+00:33:09,060 --> 00:33:11,940
+You trying alone won't change this school.
+
+370
+00:33:11,940 --> 00:33:15,320
+It probably won't, but...
+
+371
+00:33:16,320 --> 00:33:19,680
+But it's embarrassing to give up like this.
+
+372
+00:33:19,680 --> 00:33:21,900
+Anyway, I'll take care of the rest.
+
+373
+00:33:21,900 --> 00:33:24,160
+Go to your class, Geon Yeop.
+
+374
+00:33:24,160 --> 00:33:25,710
+See you.
+
+375
+00:33:25,710 --> 00:33:27,170
+Okay.
+
+376
+00:34:18,350 --> 00:34:22,790
+[Math - Wrong answer notes]
+
+377
+00:34:22,790 --> 00:34:24,210
+[Kim Se Hyeon]
+
+378
+00:34:40,230 --> 00:34:42,450
+This...
+
+379
+00:34:42,450 --> 00:34:44,220
+I threw it away.
+
+380
+00:34:46,460 --> 00:34:48,060
+Thank you.
+
+381
+00:34:54,890 --> 00:34:56,770
+Give me a break.
+
+382
+00:34:59,890 --> 00:35:01,520
+It was this bastard, right?
+
+383
+00:35:01,520 --> 00:35:03,400
+The welding mask.
+
+384
+00:35:15,050 --> 00:35:18,140
+Wow, what the f***.
+
+385
+00:35:18,140 --> 00:35:19,740
+Give it back.
+
+386
+00:35:21,090 --> 00:35:24,070
+Yuseong Technical High failed to meet the enrollment quota this year again.
+
+387
+00:35:24,070 --> 00:35:27,180
+Inspector, even during the unemployment crisis of late,
+
+388
+00:35:27,180 --> 00:35:31,430
+we're very proud of our high employment rate.
+
+389
+00:35:31,430 --> 00:35:37,280
+Anyway, keep in mind that we're always watching Yuseong Technical High.
+
+390
+00:35:37,280 --> 00:35:39,200
+We're grateful for that.
+
+391
+00:35:39,200 --> 00:35:41,350
+As a response to your attention,
+
+392
+00:35:41,350 --> 00:35:45,600
+we're working hard to manage the students strictly.
+
+393
+00:35:51,710 --> 00:35:54,600
+You still haven't put them all away?
+
+394
+00:35:55,420 --> 00:35:59,210
+- I-Inspector, the Training Building is this way.
+- H-Hey...
+
+395
+00:36:00,420 --> 00:36:02,450
+I-Inspector.
+
+396
+00:36:02,450 --> 00:36:04,410
+Stop right there.
+
+397
+00:36:07,020 --> 00:36:08,620
+M-Me?
+
+398
+00:36:08,620 --> 00:36:10,140
+Me?
+
+399
+00:36:11,800 --> 00:36:15,390
+Miss, have we met before by chance?
+
+400
+00:36:15,390 --> 00:36:16,690
+You couldn't have.
+
+401
+00:36:16,690 --> 00:36:20,500
+She's a substitute teacher who just joined us.
+
+402
+00:36:20,500 --> 00:36:23,730
+I-I'm sorry. I don't remember...
+
+403
+00:36:23,730 --> 00:36:25,990
+Really? You look familiar.
+
+404
+00:36:25,990 --> 00:36:28,780
+Inspector, let's go to the Training Building.
+
+405
+00:36:28,780 --> 00:36:33,040
+We switched to equipment that meets the industry standards.
+
+406
+00:36:44,530 --> 00:36:45,990
+Ah, yes...
+
+407
+00:36:45,990 --> 00:36:47,710
+I-Inspector.
+
+408
+00:36:47,710 --> 00:36:49,320
+Inspector.
+
+409
+00:36:52,830 --> 00:36:54,040
+Everyone,
+
+410
+00:36:54,880 --> 00:36:57,030
+leave except for this bastard.
+
+411
+00:37:01,610 --> 00:37:03,100
+Come out!
+
+412
+00:37:07,070 --> 00:37:08,860
+What are you doing?
+
+413
+00:37:08,860 --> 00:37:10,950
+Do you want to get beat up again?
+
+414
+00:37:14,560 --> 00:37:16,520
+I'm okay.
+
+415
+00:37:29,260 --> 00:37:31,220
+Give me that first.
+
+416
+00:37:34,290 --> 00:37:36,230
+F*** off.
+
+417
+00:37:51,200 --> 00:37:53,640
+Look at me. What are you looking at?
+
+418
+00:37:57,130 --> 00:37:58,860
+Hey, did he just get pushed around?
+
+419
+00:37:58,860 --> 00:38:00,160
+It must've been a fluke.
+
+420
+00:38:00,160 --> 00:38:02,500
+Did we have a bastard like that in our class?
+
+421
+00:38:02,500 --> 00:38:04,500
+Yun Ga Min. No. 220?
+
+422
+00:38:04,500 --> 00:38:07,690
+No. 220. He's a total loser!
+
+423
+00:38:09,020 --> 00:38:11,400
+You son of a bitch.
+
+424
+00:38:18,000 --> 00:38:19,540
+No.
+
+425
+00:38:38,890 --> 00:38:40,110
+Apologize.
+
+426
+00:38:40,110 --> 00:38:41,980
+What?
+
+427
+00:38:41,980 --> 00:38:43,570
+Apologize to Se Hyeon.
+
+428
+00:38:43,570 --> 00:38:45,320
+Se Hyeon?
+
+429
+00:38:45,320 --> 00:38:47,250
+Who's that now?
+
+430
+00:38:58,240 --> 00:39:00,790
+Do you want to die, you bastard?
+
+431
+00:40:13,210 --> 00:40:15,030
+Don't pass out.
+
+432
+00:40:15,030 --> 00:40:17,330
+Apologize to Se Hyeon first.
+
+433
+00:40:17,330 --> 00:40:18,420
+Wake up.
+
+434
+00:40:18,420 --> 00:40:19,660
+Who's Se Hyeon?
+
+435
+00:40:19,660 --> 00:40:21,140
+I don't know.
+
+436
+00:40:23,590 --> 00:40:27,220
+I want to study liberal arts.
+
+437
+00:40:27,220 --> 00:40:29,920
+You've got to be kidding me.
+
+438
+00:40:29,920 --> 00:40:33,350
+What would you do that for? Will you...
+
+439
+00:40:34,390 --> 00:40:36,500
+go to college or something?
+
+440
+00:40:44,000 --> 00:40:47,420
+He dozed off while studying.
+
+441
+00:40:47,420 --> 00:40:53,240
+I've never seen a Yuseong Tech student at the library. Seriously.
+
+442
+00:41:11,700 --> 00:41:13,470
+[Math - Wrong answer notes]
+Ma'am.
+
+443
+00:41:13,470 --> 00:41:15,710
+Just a moment, please.
+
+444
+00:41:15,710 --> 00:41:18,810
+I'm sorry. This shouldn't have been thrown out.
+
+445
+00:41:20,850 --> 00:41:22,920
+It's my friend's.
+
+446
+00:41:42,450 --> 00:41:44,710
+I'm sorry, Se Hyeon.
+
+447
+00:41:46,460 --> 00:41:48,340
+Your notebook...
+
+448
+00:41:58,140 --> 00:42:01,070
+Why are you doing this for this stupid thing?
+
+449
+00:42:03,620 --> 00:42:06,090
+You worked hard on keeping those notes.
+
+450
+00:42:07,240 --> 00:42:11,200
+It was so well-organized that it made me want to study.
+
+451
+00:42:11,200 --> 00:42:14,400
+- All your efforts were wasted.
+- I'll do it.
+
+452
+00:42:17,600 --> 00:42:21,080
+- What?
+- I said I'll join your study group.
+
+453
+00:42:27,600 --> 00:42:29,250
+Really?
+
+454
+00:42:29,250 --> 00:42:33,150
+[Study Group]
+
+455
+00:42:33,322 --> 00:42:35,322
+Dramaday.me
