@@ -1,0 +1,3588 @@
+﻿1
+00:01:24,439 --> 00:01:27,318
+(Thank You, Doctor)
+
+2
+00:01:27,319 --> 00:01:29,959
+(Adapted from Sheng Li's novel "ICU 48 Hours")
+
+3
+00:01:30,120 --> 00:01:32,959
+(Episode 39)
+
+4
+00:01:34,400 --> 00:01:36,159
+Hematuria and proteinuria.
+
+5
+00:01:36,200 --> 00:01:38,159
+It's a classic case of acute nephritic syndrome.
+
+6
+00:01:38,519 --> 00:01:39,640
+You're something.
+
+7
+00:01:39,760 --> 00:01:40,958
+You have acute nephritis.
+
+8
+00:01:40,959 --> 00:01:42,280
+How can you take your own medicine?
+
+9
+00:01:42,400 --> 00:01:43,840
+You're a medical student.
+
+10
+00:01:44,000 --> 00:01:45,439
+Isn't it just a cold?
+
+11
+00:01:45,480 --> 00:01:46,760
+How is it nephritis?
+
+12
+00:01:46,879 --> 00:01:48,319
+Tell me...
+
+13
+00:01:48,519 --> 00:01:50,760
+the pathology and pathogenesis of acute nephritis.
+
+14
+00:01:51,359 --> 00:01:53,400
+Xiao Yan, I'm a patient now.
+
+15
+00:01:54,239 --> 00:01:55,599
+Okay, I'll stop joking with you.
+
+16
+00:01:55,719 --> 00:01:57,159
+Go ahead with the admission procedure.
+
+17
+00:01:57,840 --> 00:01:58,840
+Admission?
+
+18
+00:01:59,040 --> 00:02:00,400
+My flight is tomorrow.
+
+19
+00:02:00,920 --> 00:02:02,560
+Then I'm afraid you won't be able to fly.
+
+20
+00:02:02,879 --> 00:02:04,760
+You need to be hospitalized to fight the infection...
+
+21
+00:02:04,879 --> 00:02:06,840
+and have your urine and kidney function checked.
+
+22
+00:02:07,000 --> 00:02:09,530
+If necessary, a kidney biopsy.
+
+23
+00:02:10,000 --> 00:02:11,318
+It's just nephritis.
+
+24
+00:02:11,319 --> 00:02:13,120
+Why do I need a kidney biopsy?
+
+25
+00:02:18,639 --> 00:02:19,679
+Doctor.
+
+26
+00:02:19,680 --> 00:02:20,680
+Doctor!
+
+27
+00:02:20,759 --> 00:02:21,759
+Xiao Min is...
+
+28
+00:02:23,280 --> 00:02:24,479
+V-fib. Prepare to defibrillate.
+
+29
+00:02:24,530 --> 00:02:25,810
+- Charge to 200 joules. - Family members, please leave.
+
+30
+00:02:34,000 --> 00:02:35,319
+Charged to 200 joules.
+
+31
+00:02:37,840 --> 00:02:38,840
+Clear.
+
+32
+00:02:41,840 --> 00:02:42,960
+Charge to 200 joules again.
+
+33
+00:02:43,240 --> 00:02:44,479
+Charged to 200 joules.
+
+34
+00:02:45,039 --> 00:02:46,479
+- Charged. - Clear.
+
+35
+00:02:50,439 --> 00:02:51,879
+200 joules again.
+
+36
+00:02:52,120 --> 00:02:53,919
+One milligram of epinephrine, stat.
+
+37
+00:02:59,039 --> 00:03:00,039
+Stat.
+
+38
+00:03:00,039 --> 00:03:01,039
+Clear.
+
+39
+00:03:15,800 --> 00:03:16,839
+Dr. Lu.
+
+40
+00:03:16,840 --> 00:03:18,359
+Under normal circumstances,
+
+41
+00:03:18,360 --> 00:03:19,799
+a week after the surgery,
+
+42
+00:03:19,800 --> 00:03:21,399
+the patient can be removed from the ECMO.
+
+43
+00:03:21,400 --> 00:03:22,438
+But...
+
+44
+00:03:22,439 --> 00:03:24,840
+the patient has severe heart failure.
+
+45
+00:03:25,159 --> 00:03:26,400
+Once the flow decreases,
+
+46
+00:03:26,520 --> 00:03:28,280
+there is arrhythmia...
+
+47
+00:03:28,319 --> 00:03:29,360
+and worsening heart failure.
+
+48
+00:03:29,560 --> 00:03:31,400
+So she can't be removed from the ECMO.
+
+49
+00:03:31,479 --> 00:03:32,599
+Her lung function...
+
+50
+00:03:32,759 --> 00:03:33,879
+hasn't improved at all.
+
+51
+00:03:36,439 --> 00:03:38,039
+The third round will be tough.
+
+52
+00:03:38,599 --> 00:03:40,360
+A lung transplant is the only way now.
+
+53
+00:03:40,639 --> 00:03:42,639
+Sun Fang Min's case is a special one.
+
+54
+00:03:42,759 --> 00:03:44,360
+Even if you give her a lung transplant,
+
+55
+00:03:44,479 --> 00:03:45,519
+in her case,
+
+56
+00:03:45,520 --> 00:03:47,479
+the survival rate is only 50 to 60 percent at most.
+
+57
+00:03:47,840 --> 00:03:49,800
+Without a transplant, she can only wait for death.
+
+58
+00:03:49,919 --> 00:03:50,960
+That's right, Dr. Lu.
+
+59
+00:03:51,000 --> 00:03:52,319
+As long as there's hope,
+
+60
+00:03:52,360 --> 00:03:53,360
+we have to save her.
+
+61
+00:03:53,400 --> 00:03:54,800
+If we take the risk...
+
+62
+00:03:54,840 --> 00:03:55,919
+and give her a lung transplant,
+
+63
+00:03:56,080 --> 00:03:57,680
+should anything go wrong,
+
+64
+00:03:57,840 --> 00:03:59,639
+the blame is not only on the EICU.
+
+65
+00:03:59,960 --> 00:04:01,560
+It's on the entire Tongshan Hospital.
+
+66
+00:04:01,840 --> 00:04:03,159
+We're all to blame.
+
+67
+00:04:03,240 --> 00:04:05,360
+- Dr. Lu, we're doctors. - I know what you're trying to say.
+
+68
+00:04:05,439 --> 00:04:07,198
+You want to gamble...
+
+69
+00:04:07,199 --> 00:04:08,560
+on the future of the EICU, right?
+
+70
+00:04:12,879 --> 00:04:13,879
+Dr. Lu.
+
+71
+00:04:13,960 --> 00:04:15,400
+We really can't watch her die without helping.
+
+72
+00:04:15,520 --> 00:04:16,560
+Dr. Lu.
+
+73
+00:04:16,920 --> 00:04:18,839
+We can't just watch her die.
+
+74
+00:04:23,120 --> 00:04:24,170
+How about this?
+
+75
+00:04:25,610 --> 00:04:27,319
+If the patient herself agrees,
+
+76
+00:04:28,199 --> 00:04:29,480
+we'll give her a transplant.
+
+77
+00:04:40,050 --> 00:04:42,049
+If you consent to a lung transplant,
+
+78
+00:04:42,050 --> 00:04:43,079
+nod your head.
+
+79
+00:04:46,439 --> 00:04:48,610
+Doctor, she says she'll do it.
+
+80
+00:04:48,920 --> 00:04:50,198
+Thank you for trusting us.
+
+81
+00:04:50,199 --> 00:04:51,480
+We'll do our best.
+
+82
+00:04:51,920 --> 00:04:54,199
+You can watch your son grow up.
+
+83
+00:04:54,399 --> 00:04:56,610
+You can become a good mother.
+
+84
+00:04:59,079 --> 00:05:00,610
+Thank you, doctor.
+
+85
+00:05:01,839 --> 00:05:02,839
+Thank you.
+
+86
+00:05:07,560 --> 00:05:09,279
+According to clinical cases,
+
+87
+00:05:09,610 --> 00:05:11,279
+those waiting for a lung source for more than 30 days...
+
+88
+00:05:11,439 --> 00:05:13,800
+and are on life support on the ECMO...
+
+89
+00:05:13,920 --> 00:05:15,639
+mostly won't survive.
+
+90
+00:05:15,920 --> 00:05:18,170
+So hurry and get Sun Fang Min in line.
+
+91
+00:05:18,199 --> 00:05:20,519
+See if we can get matching lungs.
+
+92
+00:05:26,279 --> 00:05:27,839
+What's the patient's condition?
+
+93
+00:05:28,040 --> 00:05:29,198
+The patient's oxygen level is still dropping.
+
+94
+00:05:29,199 --> 00:05:30,839
+Her lung function can hardly be maintained.
+
+95
+00:05:30,879 --> 00:05:32,600
+And she's still unconscious.
+
+96
+00:05:32,759 --> 00:05:33,839
+A lung transplant is the only way.
+
+97
+00:05:33,920 --> 00:05:35,120
+Can she make it through today?
+
+98
+00:05:35,399 --> 00:05:36,800
+The chance is slim.
+
+99
+00:05:39,519 --> 00:05:41,559
+- Got it! - Got what?
+
+100
+00:05:41,560 --> 00:05:42,879
+A lung donor!
+
+101
+00:05:46,160 --> 00:05:47,278
+Great news.
+
+102
+00:05:47,279 --> 00:05:49,879
+The lung donor and the patient are a match.
+
+103
+00:05:50,879 --> 00:05:52,000
+That's great.
+
+104
+00:05:52,240 --> 00:05:53,399
+That's great!
+
+105
+00:05:53,720 --> 00:05:54,720
+Dr. Lu.
+
+106
+00:05:54,721 --> 00:05:55,958
+Let's hurry with the surgery.
+
+107
+00:05:55,959 --> 00:05:57,079
+Please calm down.
+
+108
+00:05:57,120 --> 00:05:59,439
+The lung has just been removed from the donor.
+
+109
+00:05:59,560 --> 00:06:01,318
+It will take half an hour to get here at the fastest.
+
+110
+00:06:01,319 --> 00:06:02,438
+But don't worry.
+
+111
+00:06:02,439 --> 00:06:04,319
+Our hospital has prepared for the operation.
+
+112
+00:06:04,399 --> 00:06:06,518
+The chief of thoracic surgery, Dr. Li will operate.
+
+113
+00:06:06,519 --> 00:06:07,559
+Once the lungs arrive,
+
+114
+00:06:07,560 --> 00:06:09,279
+we'll proceed with the transplant right away.
+
+115
+00:06:10,600 --> 00:06:11,959
+Thank you, Dr. Lu.
+
+116
+00:06:12,720 --> 00:06:14,319
+Thank you.
+
+117
+00:06:15,600 --> 00:06:17,398
+Mr. Lu, where did the lung donor come from?
+
+118
+00:06:17,399 --> 00:06:18,438
+It's a coincidence.
+
+119
+00:06:18,439 --> 00:06:20,199
+A young man was in an accident yesterday.
+
+120
+00:06:20,279 --> 00:06:21,679
+He was taken to the ICU at Xinrui Hospital...
+
+121
+00:06:21,680 --> 00:06:23,240
+but he couldn't be saved.
+
+122
+00:06:23,399 --> 00:06:24,399
+When he was alive,
+
+123
+00:06:24,400 --> 00:06:26,399
+he signed the organ donation agreement.
+
+124
+00:06:26,480 --> 00:06:28,639
+His lungs are just right for Sun Fang Min.
+
+125
+00:06:30,279 --> 00:06:32,560
+How can I not be anxious when a person's life is at stake?
+
+126
+00:06:33,879 --> 00:06:36,319
+Didn't he sign the organ donation agreement?
+
+127
+00:06:38,319 --> 00:06:40,559
+Talk to the patient's family, okay?
+
+128
+00:06:40,560 --> 00:06:41,560
+What's going on?
+
+129
+00:06:41,561 --> 00:06:43,319
+I think his family refused to donate.
+
+130
+00:06:43,399 --> 00:06:44,638
+Isn't that ridiculous?
+
+131
+00:06:44,639 --> 00:06:45,639
+How about this?
+
+132
+00:06:45,720 --> 00:06:47,319
+I'll give you another 30 minutes.
+
+133
+00:06:47,399 --> 00:06:48,879
+You have to deliver the lungs.
+
+134
+00:06:49,720 --> 00:06:50,720
+Dr. Lu.
+
+135
+00:06:50,721 --> 00:06:52,399
+Dr. Lu, how are the lungs?
+
+136
+00:06:52,439 --> 00:06:53,800
+There's a small problem.
+
+137
+00:06:53,920 --> 00:06:55,240
+We got the lung donor.
+
+138
+00:06:55,319 --> 00:06:57,359
+But when the donor's grandparents arrived at the hospital,
+
+139
+00:06:57,360 --> 00:06:58,879
+they refused to have the lungs delivered.
+
+140
+00:06:58,920 --> 00:07:00,879
+It's about saving someone's life! Why are they backing out now?
+
+141
+00:07:00,920 --> 00:07:02,120
+What should we do now?
+
+142
+00:07:02,199 --> 00:07:03,959
+What can we do? We can only wait.
+
+143
+00:07:05,000 --> 00:07:07,078
+Sun Fang Min's lungs don't work at all now.
+
+144
+00:07:07,079 --> 00:07:08,839
+- Her body is deteriorating rapidly. - Dr. Lu.
+
+145
+00:07:08,879 --> 00:07:10,240
+Sun Fang Min's condition isn't good.
+
+146
+00:07:11,480 --> 00:07:12,480
+Xiao Min.
+
+147
+00:07:12,481 --> 00:07:14,638
+- Doctor. - I'm here.
+
+148
+00:07:14,639 --> 00:07:15,639
+Family members, please leave.
+
+149
+00:07:15,680 --> 00:07:17,239
+Family members, please come out.
+
+150
+00:07:17,240 --> 00:07:18,720
+Mom, let's go.
+
+151
+00:07:19,240 --> 00:07:21,039
+Xiao Min, hang in there.
+
+152
+00:07:21,040 --> 00:07:22,120
+Please keep it down.
+
+153
+00:07:22,480 --> 00:07:23,480
+Mom.
+
+154
+00:07:23,481 --> 00:07:24,560
+Dr. Lu.
+
+155
+00:07:25,120 --> 00:07:27,040
+Why aren't the lungs here yet?
+
+156
+00:07:27,120 --> 00:07:28,120
+Soon.
+
+157
+00:07:28,121 --> 00:07:29,639
+Don't panic. They'll be there soon.
+
+158
+00:07:29,720 --> 00:07:30,920
+Why so slow?
+
+159
+00:07:31,439 --> 00:07:33,279
+They're going as fast as they can.
+
+160
+00:07:33,439 --> 00:07:34,480
+Please wait a little longer.
+
+161
+00:07:34,920 --> 00:07:36,319
+What should we do?
+
+162
+00:07:36,399 --> 00:07:37,600
+Xiao Min will make it, Mom.
+
+163
+00:07:37,759 --> 00:07:38,800
+Don't worry.
+
+164
+00:07:41,160 --> 00:07:42,680
+Doctor, how is she?
+
+165
+00:07:43,360 --> 00:07:44,360
+Don't worry.
+
+166
+00:07:44,361 --> 00:07:45,800
+The patient's condition is stable now.
+
+167
+00:07:47,000 --> 00:07:48,120
+Thank you.
+
+168
+00:07:48,240 --> 00:07:49,680
+Thank goodness.
+
+169
+00:07:50,040 --> 00:07:52,040
+We can't have any more accidents.
+
+170
+00:07:52,399 --> 00:07:54,040
+We can't have any more accidents.
+
+171
+00:07:55,240 --> 00:07:57,560
+Dr. Lu, we can't wait any longer.
+
+172
+00:07:58,000 --> 00:07:59,800
+If we don't wait, what else can we do?
+
+173
+00:08:00,120 --> 00:08:01,600
+I'll go to Xinrui Hospital...
+
+174
+00:08:01,639 --> 00:08:02,720
+to retrieve the lungs.
+
+175
+00:08:02,759 --> 00:08:04,519
+I'm sure I can convince the donor's family.
+
+176
+00:08:05,879 --> 00:08:07,039
+It's the evening rush hour.
+
+177
+00:08:07,040 --> 00:08:08,799
+There's a lot of traffic. You might not make it.
+
+178
+00:08:08,800 --> 00:08:10,680
+I'll take the motorbike. I won't be stuck.
+
+179
+00:08:11,600 --> 00:08:12,758
+That's fine too.
+
+180
+00:08:12,759 --> 00:08:14,560
+- Be careful. - Okay.
+
+181
+00:08:14,600 --> 00:08:15,680
+I'll go with you.
+
+182
+00:08:16,399 --> 00:08:17,559
+Don't just stand there. Hurry up.
+
+183
+00:08:17,560 --> 00:08:18,560
+Go.
+
+184
+00:08:18,561 --> 00:08:20,160
+- Two is better than one. - Okay.
+
+185
+00:08:23,279 --> 00:08:24,360
+Hold on tight.
+
+186
+00:08:24,920 --> 00:08:25,959
+Let's go.
+
+187
+00:08:46,720 --> 00:08:47,879
+God help us.
+
+188
+00:08:48,090 --> 00:08:49,679
+God bless my child.
+
+189
+00:08:50,210 --> 00:08:52,399
+- Xiao Min. - My dear Xiao Min.
+
+190
+00:08:52,600 --> 00:08:53,999
+You must hang in there.
+
+191
+00:08:54,000 --> 00:08:55,090
+God help us.
+
+192
+00:08:55,210 --> 00:08:56,639
+The lungs will be here soon.
+
+193
+00:08:56,879 --> 00:08:58,210
+God help us.
+
+194
+00:08:58,480 --> 00:09:00,090
+God help us.
+
+195
+00:09:00,399 --> 00:09:01,600
+God help us.
+
+196
+00:09:02,879 --> 00:09:04,639
+God help us.
+
+197
+00:09:10,000 --> 00:09:11,919
+I'll never agree to it.
+
+198
+00:09:12,519 --> 00:09:14,519
+- But... - Hao Hao...
+
+199
+00:09:14,919 --> 00:09:17,000
+won't be able to rest in peace.
+
+200
+00:09:17,159 --> 00:09:18,159
+Dad.
+
+201
+00:09:18,600 --> 00:09:19,878
+This is his last wish.
+
+202
+00:09:19,879 --> 00:09:20,918
+Shut up!
+
+203
+00:09:20,919 --> 00:09:22,360
+You trash! I'll beat you up!
+
+204
+00:09:22,480 --> 00:09:23,559
+Dr. Gao.
+
+205
+00:09:23,879 --> 00:09:25,599
+- This is Dr. Gao. - Hello.
+
+206
+00:09:25,600 --> 00:09:27,480
+We're from the EICU of Tongshan Hospital.
+
+207
+00:09:27,679 --> 00:09:28,759
+- We're here to retrieve... - What?
+
+208
+00:09:29,000 --> 00:09:30,919
+You're the ones...
+
+209
+00:09:31,159 --> 00:09:32,919
+who want my eldest grandson's lungs?
+
+210
+00:09:33,960 --> 00:09:35,450
+They are Hao Hao's family.
+
+211
+00:09:36,600 --> 00:09:38,519
+We understand how you feel right now.
+
+212
+00:09:38,720 --> 00:09:40,120
+- But... - Do you?
+
+213
+00:09:40,799 --> 00:09:42,519
+It's good that you understand.
+
+214
+00:09:42,759 --> 00:09:44,399
+Don't stay here.
+
+215
+00:09:44,720 --> 00:09:46,999
+Don't even think about my eldest grandson.
+
+216
+00:09:47,000 --> 00:09:48,330
+Just leave, okay?
+
+217
+00:09:49,330 --> 00:09:50,719
+Don't get any ideas about my eldest grandson.
+
+218
+00:09:50,720 --> 00:09:52,039
+Dad, calm down.
+
+219
+00:09:52,120 --> 00:09:53,210
+Come on, let's sit down.
+
+220
+00:09:54,399 --> 00:09:55,399
+Dad.
+
+221
+00:09:59,879 --> 00:10:01,799
+- Hao Hao... - Sirs and madam.
+
+222
+00:10:02,799 --> 00:10:04,960
+We really do understand how you feel.
+
+223
+00:10:05,480 --> 00:10:07,450
+We're doctors from the EICU of Tongshan Hospital.
+
+224
+00:10:07,720 --> 00:10:10,210
+I know that talking about this now...
+
+225
+00:10:10,399 --> 00:10:12,000
+is too cruel for you.
+
+226
+00:10:12,240 --> 00:10:13,720
+But I have to tell you this.
+
+227
+00:10:13,960 --> 00:10:15,960
+We have a patient who is in very critical condition.
+
+228
+00:10:16,120 --> 00:10:17,519
+A second late...
+
+229
+00:10:17,639 --> 00:10:18,839
+and she could die at any time.
+
+230
+00:10:18,840 --> 00:10:21,039
+I know you need the lungs desperately.
+
+231
+00:10:21,159 --> 00:10:23,039
+I'm willing to respect Hao Hao's last wish.
+
+232
+00:10:23,559 --> 00:10:24,600
+But...
+
+233
+00:10:24,639 --> 00:10:26,799
+as you can see,
+
+234
+00:10:26,960 --> 00:10:28,159
+my dad...
+
+235
+00:10:29,000 --> 00:10:30,600
+Although I've never met Hao Hao,
+
+236
+00:10:30,679 --> 00:10:31,720
+I believe...
+
+237
+00:10:32,000 --> 00:10:33,399
+he was a sensible...
+
+238
+00:10:33,450 --> 00:10:35,559
+and good kid who helped others.
+
+239
+00:10:35,759 --> 00:10:36,799
+Yes.
+
+240
+00:10:37,330 --> 00:10:38,480
+He was so young.
+
+241
+00:10:38,639 --> 00:10:40,210
+But he made such a brave decision.
+
+242
+00:10:40,399 --> 00:10:43,159
+It must have to do with your teaching.
+
+243
+00:10:43,679 --> 00:10:45,399
+Since he signed the agreement,
+
+244
+00:10:45,480 --> 00:10:47,919
+that means he wants to help others.
+
+245
+00:10:48,039 --> 00:10:51,210
+His lungs could save another life right now.
+
+246
+00:10:51,360 --> 00:10:53,279
+I'm sure he'll be happy if he knew.
+
+247
+00:10:53,399 --> 00:10:56,679
+All right. Stop trying to lecture us.
+
+248
+00:10:57,039 --> 00:10:58,798
+This or that agreement,
+
+249
+00:10:58,799 --> 00:10:59,840
+I don't understand at all.
+
+250
+00:11:00,240 --> 00:11:01,719
+No matter what happens today,
+
+251
+00:11:01,720 --> 00:11:03,119
+I won't let you take...
+
+252
+00:11:03,120 --> 00:11:04,999
+my eldest grandson's lungs!
+
+253
+00:11:05,000 --> 00:11:06,038
+Sir.
+
+254
+00:11:06,039 --> 00:11:07,959
+We had a patient...
+
+255
+00:11:07,960 --> 00:11:09,639
+who was in a car accident too.
+
+256
+00:11:09,720 --> 00:11:10,999
+On his deathbed,
+
+257
+00:11:11,000 --> 00:11:12,480
+he signed the agreement.
+
+258
+00:11:12,559 --> 00:11:14,559
+His cornea is helping someone now.
+
+259
+00:11:14,639 --> 00:11:16,158
+This is also a kind of continuation of life.
+
+260
+00:11:16,159 --> 00:11:17,799
+- Yes, that's right. - Miss.
+
+261
+00:11:17,960 --> 00:11:20,639
+We understand what you're saying.
+
+262
+00:11:20,960 --> 00:11:23,720
+But we've just lost our eldest grandson.
+
+263
+00:11:24,000 --> 00:11:26,918
+We can't get over it.
+
+264
+00:11:26,919 --> 00:11:28,039
+That's right.
+
+265
+00:11:28,320 --> 00:11:30,240
+We don't care about other people's business.
+
+266
+00:11:30,440 --> 00:11:31,960
+Anyway, let me tell you.
+
+267
+00:11:32,159 --> 00:11:33,559
+Don't you dare try...
+
+268
+00:11:33,639 --> 00:11:35,399
+to take my eldest grandson's lungs away from me.
+
+269
+00:11:36,279 --> 00:11:37,599
+Don't even think about it.
+
+270
+00:11:37,600 --> 00:11:38,679
+Sir.
+
+271
+00:11:39,120 --> 00:11:40,878
+- We understand... - Say no more.
+
+272
+00:11:40,879 --> 00:11:42,200
+I'm asking you to leave. Please leave.
+
+273
+00:11:42,279 --> 00:11:44,038
+- If you don't leave, I... - Dad.
+
+274
+00:11:44,039 --> 00:11:45,480
+- Calm down. - Get out of here.
+
+275
+00:11:46,360 --> 00:11:47,398
+Get out of here!
+
+276
+00:11:47,399 --> 00:11:48,559
+Dad!
+
+277
+00:11:48,639 --> 00:11:49,720
+Mom!
+
+278
+00:11:50,440 --> 00:11:51,600
+My son.
+
+279
+00:11:55,600 --> 00:11:58,240
+Hao Hao was such a poor kid.
+
+280
+00:11:58,960 --> 00:12:01,000
+When he was just a kid,
+
+281
+00:12:02,200 --> 00:12:04,960
+his mom passed away.
+
+282
+00:12:05,080 --> 00:12:08,038
+But he was still so enthusiastic...
+
+283
+00:12:08,039 --> 00:12:09,759
+about life.
+
+284
+00:12:09,919 --> 00:12:12,120
+It's all because...
+
+285
+00:12:12,279 --> 00:12:14,799
+of the education and love we gave him.
+
+286
+00:12:16,000 --> 00:12:18,399
+Don't be selfish.
+
+287
+00:12:18,960 --> 00:12:21,120
+Try to empathize with others.
+
+288
+00:12:21,600 --> 00:12:24,440
+Learn to care and help others.
+
+289
+00:12:25,399 --> 00:12:28,080
+That's how you raised me since I was little.
+
+290
+00:12:28,279 --> 00:12:31,480
+That's also what you've always done, Dad.
+
+291
+00:12:34,000 --> 00:12:35,000
+So...
+
+292
+00:12:35,440 --> 00:12:38,000
+I'm not surprised...
+
+293
+00:12:39,120 --> 00:12:41,320
+that Hao Hao made that choice.
+
+294
+00:12:42,440 --> 00:12:43,480
+Dad.
+
+295
+00:12:44,080 --> 00:12:45,918
+Right now, his choice...
+
+296
+00:12:45,919 --> 00:12:48,120
+can save another life.
+
+297
+00:12:48,360 --> 00:12:51,440
+Shouldn't we be proud of him, Dad?
+
+298
+00:12:53,159 --> 00:12:54,200
+Yes.
+
+299
+00:12:55,200 --> 00:12:57,240
+Hao Hao is gone now.
+
+300
+00:12:57,919 --> 00:13:00,159
+Both of you must be sad.
+
+301
+00:13:00,480 --> 00:13:01,798
+As his dad,
+
+302
+00:13:01,799 --> 00:13:04,439
+I'm even sadder.
+
+303
+00:13:04,440 --> 00:13:05,440
+Dad...
+
+304
+00:13:06,679 --> 00:13:07,959
+This is the last thing...
+
+305
+00:13:07,960 --> 00:13:10,200
+I can do for Hao Hao.
+
+306
+00:13:10,519 --> 00:13:11,519
+Dad.
+
+307
+00:13:12,559 --> 00:13:16,039
+Please fulfill his last wish!
+
+308
+00:13:16,120 --> 00:13:17,159
+Dad!
+
+309
+00:13:18,519 --> 00:13:19,639
+My son.
+
+310
+00:13:21,120 --> 00:13:22,120
+Hao Hao...
+
+311
+00:13:23,039 --> 00:13:24,039
+Hao Hao...
+
+312
+00:13:36,399 --> 00:13:38,440
+Hao Hao...
+
+313
+00:13:38,639 --> 00:13:42,080
+I'm sorry, Hao Hao!
+
+314
+00:13:46,279 --> 00:13:48,039
+We'll be there in 20 minutes.
+
+315
+00:14:00,200 --> 00:14:01,279
+The lungs will be here soon.
+
+316
+00:14:01,440 --> 00:14:02,879
+The patient will be moved to the OR.
+
+317
+00:14:02,919 --> 00:14:04,158
+- Okay. - Okay, let's get ready.
+
+318
+00:14:04,159 --> 00:14:05,839
+- Go. - Move her to the OR.
+
+319
+00:14:05,840 --> 00:14:06,879
+- Got it. - This is great.
+
+320
+00:14:18,120 --> 00:14:19,759
+- Go. - We'll go first.
+
+321
+00:14:19,840 --> 00:14:21,080
+- Don't fall. - Be careful.
+
+322
+00:14:21,440 --> 00:14:22,600
+Make way!
+
+323
+00:14:25,159 --> 00:14:26,519
+- Are you okay? - Yes.
+
+324
+00:14:27,039 --> 00:14:28,079
+Are you okay?
+
+325
+00:14:28,080 --> 00:14:29,480
+I'll return your helmet later.
+
+326
+00:14:30,120 --> 00:14:31,200
+Are you okay?
+
+327
+00:14:35,960 --> 00:14:36,960
+Make way!
+
+328
+00:14:37,080 --> 00:14:38,080
+Make way!
+
+329
+00:14:43,200 --> 00:14:44,798
+- Make way! - Make way!
+
+330
+00:14:44,799 --> 00:14:46,480
+- Dr. Lu. - Hurry.
+
+331
+00:14:49,360 --> 00:14:50,559
+Thank you.
+
+332
+00:14:51,559 --> 00:14:53,159
+Dr. Li, the lungs are here.
+
+333
+00:14:53,679 --> 00:14:54,758
+Okay, let's begin.
+
+334
+00:14:54,759 --> 00:14:55,799
+Scalpel.
+
+335
+00:15:05,879 --> 00:15:07,158
+I hope there won't be...
+
+336
+00:15:07,159 --> 00:15:08,559
+another surgery like this one.
+
+337
+00:15:08,759 --> 00:15:10,239
+I hope that other patients...
+
+338
+00:15:10,240 --> 00:15:11,639
+with pulmonary lymphangioleiomyomatosis...
+
+339
+00:15:11,799 --> 00:15:13,159
+don't look up to her as a role model.
+
+340
+00:15:13,279 --> 00:15:15,960
+Not everyone has this kind of luck to escape from death.
+
+341
+00:15:17,200 --> 00:15:18,240
+Doctor.
+
+342
+00:15:20,080 --> 00:15:21,360
+Thank you so much.
+
+343
+00:15:21,559 --> 00:15:22,678
+I'm sorry for the trouble...
+
+344
+00:15:22,679 --> 00:15:23,758
+with Xiao Min illness.
+
+345
+00:15:23,759 --> 00:15:24,798
+Don't mention it.
+
+346
+00:15:24,799 --> 00:15:26,080
+It's what we should do.
+
+347
+00:15:26,120 --> 00:15:27,320
+Then will she be okay...
+
+348
+00:15:27,559 --> 00:15:29,000
+in the future?
+
+349
+00:15:29,679 --> 00:15:31,840
+If there are no infections or complications after the surgery,
+
+350
+00:15:31,960 --> 00:15:33,119
+after a good rest,
+
+351
+00:15:33,120 --> 00:15:35,119
+she'll be the same as a normal person.
+
+352
+00:15:35,120 --> 00:15:37,239
+And If she recovers well,
+
+353
+00:15:37,240 --> 00:15:40,080
+she can go hiking and exercise as much as she wants.
+
+354
+00:15:40,279 --> 00:15:41,320
+And...
+
+355
+00:15:41,600 --> 00:15:43,200
+she must remember to take the anti-rejection medicine.
+
+356
+00:15:45,399 --> 00:15:46,679
+Thank you.
+
+357
+00:15:46,960 --> 00:15:48,080
+Thank you.
+
+358
+00:15:49,159 --> 00:15:50,480
+Thank you.
+
+359
+00:15:51,799 --> 00:15:52,799
+We're not in a hurry.
+
+360
+00:15:52,919 --> 00:15:53,919
+You drive.
+
+361
+00:15:54,320 --> 00:15:56,080
+We can take the motorbike.
+
+362
+00:16:07,200 --> 00:16:09,240
+I'm used to you riding a motorbike.
+
+363
+00:16:34,399 --> 00:16:35,559
+What are you thinking about?
+
+364
+00:16:35,759 --> 00:16:37,679
+If Hao Hao's dad didn't kneel today,
+
+365
+00:16:37,840 --> 00:16:40,080
+we wouldn't have gotten the lungs.
+
+366
+00:16:40,159 --> 00:16:41,399
+I was thinking...
+
+367
+00:16:41,639 --> 00:16:43,240
+what it was...
+
+368
+00:16:43,279 --> 00:16:44,639
+that made him do it.
+
+369
+00:16:44,879 --> 00:16:45,919
+A father's love.
+
+370
+00:16:46,919 --> 00:16:48,480
+I want to ask you a question.
+
+371
+00:16:48,600 --> 00:16:49,639
+Go ahead.
+
+372
+00:16:50,200 --> 00:16:51,519
+What is a father's love?
+
+373
+00:16:53,279 --> 00:16:55,679
+Am I writing an essay for a college entrance exam?
+
+374
+00:16:55,799 --> 00:16:56,799
+I refuse to answer.
+
+375
+00:16:56,960 --> 00:16:58,399
+If you answer it well,
+
+376
+00:16:58,440 --> 00:17:00,000
+I'll let you in on a little secret.
+
+377
+00:17:03,720 --> 00:17:04,799
+Sure.
+
+378
+00:17:05,410 --> 00:17:07,119
+A father's love...
+
+379
+00:17:07,759 --> 00:17:09,680
+is not as natural and innate...
+
+380
+00:17:10,119 --> 00:17:11,559
+as a mother's love.
+
+381
+00:17:12,519 --> 00:17:14,039
+It's more like...
+
+382
+00:17:14,559 --> 00:17:17,319
+something that has been awoken at a certain point.
+
+383
+00:17:17,480 --> 00:17:19,359
+I can't understand its entirety.
+
+384
+00:17:19,480 --> 00:17:20,519
+But at least,
+
+385
+00:17:20,599 --> 00:17:22,359
+I experienced most of it.
+
+386
+00:17:22,839 --> 00:17:25,039
+When I first started taking care of Xiao Guang,
+
+387
+00:17:25,410 --> 00:17:27,170
+nothing went right.
+
+388
+00:17:27,680 --> 00:17:29,359
+Until one night...
+
+389
+00:17:29,559 --> 00:17:31,119
+when he woke up from a dream.
+
+390
+00:17:31,319 --> 00:17:33,720
+He called my name and was looking for me.
+
+391
+00:17:34,240 --> 00:17:36,410
+I felt...
+
+392
+00:17:36,599 --> 00:17:37,890
+my traces on him.
+
+393
+00:17:39,599 --> 00:17:41,000
+That's when...
+
+394
+00:17:41,279 --> 00:17:44,000
+developed a feeling that's like a father's love.
+
+395
+00:17:46,519 --> 00:17:48,170
+In that case,
+
+396
+00:17:48,359 --> 00:17:51,240
+a mother's love is more like a home.
+
+397
+00:17:51,359 --> 00:17:53,999
+A father's love is like the road to the world...
+
+398
+00:17:54,000 --> 00:17:55,680
+in front of the home.
+
+399
+00:17:55,839 --> 00:17:58,079
+Doesn't every father hope...
+
+400
+00:17:58,119 --> 00:17:59,920
+to pave the road for his children?
+
+401
+00:18:00,039 --> 00:18:01,680
+And that will never change.
+
+402
+00:18:03,319 --> 00:18:05,599
+That's why Hao Hao's dad...
+
+403
+00:18:05,720 --> 00:18:07,839
+did what he did today...
+
+404
+00:18:08,559 --> 00:18:10,240
+to fulfill his son's wish.
+
+405
+00:18:10,410 --> 00:18:11,890
+What gave him the power was a father's love.
+
+406
+00:18:11,960 --> 00:18:14,519
+To any family that has lost a child,
+
+407
+00:18:14,680 --> 00:18:17,519
+getting them to donate their organs is not easy.
+
+408
+00:18:17,720 --> 00:18:19,519
+I can understand...
+
+409
+00:18:19,599 --> 00:18:20,839
+the way his grandparents behaved.
+
+410
+00:18:21,119 --> 00:18:22,519
+But in the end,
+
+411
+00:18:22,650 --> 00:18:24,440
+the determined elders...
+
+412
+00:18:24,519 --> 00:18:25,759
+eventually let go.
+
+413
+00:18:26,039 --> 00:18:27,720
+Isn't it also because of love?
+
+414
+00:18:28,519 --> 00:18:30,650
+People are complicated.
+
+415
+00:18:30,799 --> 00:18:33,039
+But it's precisely because of this emotional bond...
+
+416
+00:18:33,200 --> 00:18:35,480
+that it could be passed on.
+
+417
+00:18:35,519 --> 00:18:36,758
+That life...
+
+418
+00:18:36,759 --> 00:18:38,839
+can be passed on in another way.
+
+419
+00:18:42,890 --> 00:18:43,890
+I'm done.
+
+420
+00:18:44,000 --> 00:18:45,170
+What's your secret?
+
+421
+00:18:51,559 --> 00:18:52,920
+That doesn't count.
+
+422
+00:18:53,170 --> 00:18:54,650
+Say another one.
+
+423
+00:18:54,960 --> 00:18:56,200
+Tell me one more.
+
+424
+00:18:59,319 --> 00:19:01,079
+Fine, you don't have to.
+
+425
+00:19:01,119 --> 00:19:03,170
+Then you owe me a secret.
+
+426
+00:19:12,650 --> 00:19:14,359
+Are the elders all right?
+
+427
+00:19:16,410 --> 00:19:17,559
+They're fine.
+
+428
+00:19:17,920 --> 00:19:19,650
+They're just heartbroken.
+
+429
+00:19:19,920 --> 00:19:21,680
+They took some medicine and fell asleep.
+
+430
+00:19:24,079 --> 00:19:25,170
+We came this time...
+
+431
+00:19:25,359 --> 00:19:27,680
+to thank you and the two elders.
+
+432
+00:19:27,839 --> 00:19:30,559
+And to let you know of the result of the surgery.
+
+433
+00:19:31,650 --> 00:19:33,200
+How is that patient now?
+
+434
+00:19:33,359 --> 00:19:34,559
+The surgery went well.
+
+435
+00:19:34,799 --> 00:19:36,440
+Your son saved a life.
+
+436
+00:19:45,440 --> 00:19:46,759
+Hao Hao signed the organ donation agreement...
+
+437
+00:19:46,799 --> 00:19:48,170
+when he was alive.
+
+438
+00:19:49,119 --> 00:19:50,890
+As Hao Hao's dad,
+
+439
+00:19:51,039 --> 00:19:53,119
+I'm proud of what he did.
+
+440
+00:19:53,279 --> 00:19:54,890
+I support it too.
+
+441
+00:19:55,319 --> 00:19:56,960
+But you should understand...
+
+442
+00:19:57,319 --> 00:19:58,960
+how the elders feel.
+
+443
+00:19:59,650 --> 00:20:00,679
+My parents...
+
+444
+00:20:00,680 --> 00:20:02,799
+are usually more reasonable...
+
+445
+00:20:02,920 --> 00:20:04,559
+and kind-hearted than anyone else.
+
+446
+00:20:05,359 --> 00:20:06,799
+But this time,
+
+447
+00:20:07,960 --> 00:20:09,410
+Hao Hao is gone.
+
+448
+00:20:11,119 --> 00:20:13,720
+Their grandson died before them.
+
+449
+00:20:15,559 --> 00:20:17,359
+They are terribly upset.
+
+450
+00:20:18,079 --> 00:20:19,079
+Yes.
+
+451
+00:20:19,119 --> 00:20:20,680
+We can understand.
+
+452
+00:20:21,039 --> 00:20:23,680
+We Chinese put emphasis on having an intact body for burial.
+
+453
+00:20:24,079 --> 00:20:25,119
+Organ donation...
+
+454
+00:20:25,170 --> 00:20:26,890
+is only developed in modern medicine.
+
+455
+00:20:26,920 --> 00:20:28,518
+It's not just the two elders.
+
+456
+00:20:28,519 --> 00:20:29,519
+Even youngsters...
+
+457
+00:20:29,559 --> 00:20:31,170
+are unable to accept it.
+
+458
+00:20:31,559 --> 00:20:33,170
+You've done very well.
+
+459
+00:20:33,200 --> 00:20:35,409
+Hao Hao's life will continue...
+
+460
+00:20:35,410 --> 00:20:36,720
+in another form.
+
+461
+00:20:36,920 --> 00:20:38,480
+We're proud of him too.
+
+462
+00:20:40,759 --> 00:20:42,440
+Since there's nothing else,
+
+463
+00:20:42,680 --> 00:20:44,359
+we'll get going.
+
+464
+00:20:44,519 --> 00:20:45,799
+We won't disturb you anymore.
+
+465
+00:20:46,079 --> 00:20:47,519
+- Thank you. - Thank you.
+
+466
+00:20:49,410 --> 00:20:50,480
+Let's go.
+
+467
+00:21:01,359 --> 00:21:02,440
+Tired?
+
+468
+00:21:03,920 --> 00:21:04,960
+A little.
+
+469
+00:21:16,920 --> 00:21:18,039
+Take a nap.
+
+470
+00:21:54,440 --> 00:21:55,599
+We're here.
+
+471
+00:22:01,640 --> 00:22:02,960
+Your ears hurt?
+
+472
+00:22:03,160 --> 00:22:04,519
+I feel like they're buzzing.
+
+473
+00:22:04,680 --> 00:22:05,839
+I don't know why.
+
+474
+00:22:06,240 --> 00:22:07,440
+Try pressing here.
+
+475
+00:22:07,559 --> 00:22:08,880
+That happens to me all the time.
+
+476
+00:22:09,839 --> 00:22:10,839
+Press here?
+
+477
+00:22:13,079 --> 00:22:14,200
+It's not working.
+
+478
+00:22:14,440 --> 00:22:15,480
+Harder.
+
+479
+00:22:15,519 --> 00:22:17,200
+It's still not working.
+
+480
+00:22:18,559 --> 00:22:20,160
+Don't move. Like this.
+
+481
+00:22:22,079 --> 00:22:23,079
+That's right.
+
+482
+00:22:23,080 --> 00:22:24,559
+- Is it better? - I think so.
+
+483
+00:22:48,359 --> 00:22:49,479
+Xiao Yan.
+
+484
+00:22:49,480 --> 00:22:50,519
+Xiao Yan.
+
+485
+00:23:17,079 --> 00:23:19,880
+(Xiao Yan, I really like you!)
+
+486
+00:23:26,559 --> 00:23:30,599
+(Get home safe, see you tomorrow.)
+
+487
+00:23:32,880 --> 00:23:36,599
+(Get home safe.)
+
+488
+00:24:29,200 --> 00:24:30,519
+What are you looking at?
+
+489
+00:24:35,799 --> 00:24:37,200
+Are you serious?
+
+490
+00:24:37,400 --> 00:24:39,559
+You two are being reproved but you're still happy?
+
+491
+00:24:39,880 --> 00:24:41,038
+Can't I be?
+
+492
+00:24:41,039 --> 00:24:42,720
+Do you have a fever?
+
+493
+00:24:51,799 --> 00:24:53,759
+There's something up with you today.
+
+494
+00:24:55,680 --> 00:24:57,559
+Did you two...
+
+495
+00:24:58,160 --> 00:25:00,200
+Why is your mind so dirty?
+
+496
+00:25:00,440 --> 00:25:01,440
+Then why are you so happy?
+
+497
+00:25:08,000 --> 00:25:09,279
+I told her...
+
+498
+00:25:10,160 --> 00:25:11,240
+I liked her.
+
+499
+00:25:11,319 --> 00:25:12,480
+She said yes?
+
+500
+00:25:13,079 --> 00:25:14,559
+She told me...
+
+501
+00:25:15,319 --> 00:25:16,920
+to get home safely.
+
+502
+00:25:19,960 --> 00:25:21,039
+And?
+
+503
+00:25:21,440 --> 00:25:22,559
+That's it.
+
+504
+00:25:22,680 --> 00:25:23,838
+What's wrong with you?
+
+505
+00:25:23,839 --> 00:25:25,240
+What's wrong with you?
+
+506
+00:25:25,319 --> 00:25:26,960
+She was concerned about me.
+
+507
+00:25:27,400 --> 00:25:29,920
+That means we still have a chance.
+
+508
+00:25:30,039 --> 00:25:31,199
+Are you mad?
+
+509
+00:25:31,200 --> 00:25:33,640
+She meant she wanted you to leave.
+
+510
+00:25:33,799 --> 00:25:34,960
+What hope do you have?
+
+511
+00:25:35,000 --> 00:25:36,200
+Shut up!
+
+512
+00:25:36,279 --> 00:25:37,359
+You don't get it.
+
+513
+00:25:37,480 --> 00:25:38,920
+I know more than you, okay?
+
+514
+00:25:40,599 --> 00:25:42,279
+- It's for Xiao Yan? - None of your business.
+
+515
+00:25:42,440 --> 00:25:43,720
+Give me a bite.
+
+516
+00:25:46,920 --> 00:25:48,880
+It's for Xiao Yan.
+
+517
+00:25:51,079 --> 00:25:52,759
+My head hurts.
+
+518
+00:25:52,960 --> 00:25:54,359
+It's okay. As long as you're happy.
+
+519
+00:25:54,880 --> 00:25:56,480
+I'll get back to work.
+
+520
+00:25:57,880 --> 00:25:58,880
+Bye.
+
+521
+00:26:08,000 --> 00:26:09,039
+Dr. Xiao.
+
+522
+00:26:09,119 --> 00:26:10,720
+- Good morning. - You haven't had breakfast, right?
+
+523
+00:26:12,480 --> 00:26:14,079
+I've had breakfast.
+
+524
+00:26:14,160 --> 00:26:16,079
+- Why don't you keep it... - It's fine.
+
+525
+00:26:16,200 --> 00:26:17,680
+You can still eat more.
+
+526
+00:26:18,920 --> 00:26:20,960
+We have a lot of work to do today.
+
+527
+00:26:21,000 --> 00:26:22,240
+You need energy.
+
+528
+00:26:23,039 --> 00:26:25,480
+I asked my friend to send the coffee beans...
+
+529
+00:26:26,640 --> 00:26:28,599
+Sorry, I need to take this call.
+
+530
+00:26:33,359 --> 00:26:34,359
+Shirley.
+
+531
+00:26:34,480 --> 00:26:35,960
+Your application came through.
+
+532
+00:26:37,440 --> 00:26:38,440
+That's great.
+
+533
+00:26:39,000 --> 00:26:40,319
+Welcome back.
+
+534
+00:26:41,920 --> 00:26:43,559
+Thank you, Catherine. Thank you.
+
+535
+00:26:45,480 --> 00:26:46,519
+Bye.
+
+536
+00:27:06,839 --> 00:27:08,680
+Dad! Mom!
+
+537
+00:27:12,160 --> 00:27:13,279
+Xiao Min.
+
+538
+00:27:13,680 --> 00:27:14,960
+Xiao Min.
+
+539
+00:27:16,039 --> 00:27:17,160
+Xiao Min.
+
+540
+00:27:18,680 --> 00:27:20,079
+You're awake.
+
+541
+00:27:22,079 --> 00:27:24,200
+Am I alive?
+
+542
+00:27:24,480 --> 00:27:25,920
+You're alive.
+
+543
+00:27:26,559 --> 00:27:29,119
+Of course, you're alive.
+
+544
+00:27:31,480 --> 00:27:33,319
+I told you.
+
+545
+00:27:34,599 --> 00:27:36,640
+I'm tough.
+
+546
+00:27:38,000 --> 00:27:39,160
+You're tough.
+
+547
+00:27:39,599 --> 00:27:40,920
+You're so tough.
+
+548
+00:27:46,200 --> 00:27:47,919
+Dr. Lu, come and take a look!
+
+549
+00:27:47,920 --> 00:27:49,719
+- What's wrong? - Some drunkard got hurt in a fight.
+
+550
+00:27:49,720 --> 00:27:51,038
+Ms. Jiang asked him a few questions...
+
+551
+00:27:51,039 --> 00:27:52,799
+but he went crazy and hit her!
+
+552
+00:27:54,440 --> 00:27:55,640
+Call security!
+
+553
+00:27:56,559 --> 00:27:57,559
+Don't you know how to treat a patient?
+
+554
+00:27:57,640 --> 00:27:58,640
+Let go!
+
+555
+00:27:59,680 --> 00:28:00,920
+What are you doing?
+
+556
+00:28:01,079 --> 00:28:02,119
+Let go!
+
+557
+00:28:02,319 --> 00:28:03,480
+What are you doing?
+
+558
+00:28:05,720 --> 00:28:06,758
+- Dr. Lu! - Call security!
+
+559
+00:28:06,759 --> 00:28:08,119
+- Excuse me. - Let go!
+
+560
+00:28:09,480 --> 00:28:10,518
+- Let go! - Call security!
+
+561
+00:28:10,519 --> 00:28:12,400
+- Let go! - Get up!
+
+562
+00:28:13,319 --> 00:28:14,319
+Let go of me.
+
+563
+00:28:14,400 --> 00:28:15,839
+- Are you okay? - Come to the station.
+
+564
+00:28:19,839 --> 00:28:20,879
+Are you okay?
+
+565
+00:28:20,880 --> 00:28:22,000
+I think I sprained my leg.
+
+566
+00:28:22,240 --> 00:28:23,318
+- Slowly. - I'm fine.
+
+567
+00:28:23,319 --> 00:28:24,319
+Here, put your arm around me.
+
+568
+00:28:24,519 --> 00:28:25,799
+Slowly.
+
+569
+00:28:28,119 --> 00:28:29,240
+It's cold. Let me help you.
+
+570
+00:28:29,319 --> 00:28:30,679
+- I'll do it myself. - No, it's too cold.
+
+571
+00:28:30,680 --> 00:28:32,480
+No, I can do it myself.
+
+572
+00:28:34,400 --> 00:28:35,759
+Let me get you a towel.
+
+573
+00:28:48,720 --> 00:28:49,799
+Does it hurt?
+
+574
+00:29:00,119 --> 00:29:01,160
+Dr. Lu.
+
+575
+00:29:01,720 --> 00:29:02,759
+Thank you.
+
+576
+00:29:03,240 --> 00:29:05,000
+You're taking care of me again.
+
+577
+00:29:05,799 --> 00:29:06,839
+It's nothing.
+
+578
+00:29:09,400 --> 00:29:11,039
+After what happened to Xian Yun,
+
+579
+00:29:12,240 --> 00:29:15,359
+I saw how hard it was for you.
+
+580
+00:29:15,720 --> 00:29:17,319
+I've seen it all.
+
+581
+00:29:18,440 --> 00:29:19,920
+As a colleague,
+
+582
+00:29:20,200 --> 00:29:21,880
+I can't be of much help.
+
+583
+00:29:28,519 --> 00:29:30,200
+I admit that I have feelings for you.
+
+584
+00:29:32,240 --> 00:29:34,319
+But I really understand your situation.
+
+585
+00:29:34,839 --> 00:29:36,039
+I also respect...
+
+586
+00:29:36,160 --> 00:29:37,799
+your relationship with Xian Yun.
+
+587
+00:29:38,200 --> 00:29:40,240
+I never thought to bother you two.
+
+588
+00:29:42,039 --> 00:29:43,480
+After Xian Yun passed away,
+
+589
+00:29:45,400 --> 00:29:47,519
+I know how sad you are.
+
+590
+00:29:48,359 --> 00:29:49,480
+But...
+
+591
+00:29:50,119 --> 00:29:52,319
+life must go on, don't you agree?
+
+592
+00:29:53,920 --> 00:29:55,720
+That's why if I can help you,
+
+593
+00:29:56,480 --> 00:29:58,079
+I'll do it.
+
+594
+00:29:59,240 --> 00:30:00,599
+Be it at work...
+
+595
+00:30:02,319 --> 00:30:03,680
+or in life.
+
+596
+00:30:04,680 --> 00:30:05,960
+I understand...
+
+597
+00:30:07,880 --> 00:30:09,440
+your feelings for me.
+
+598
+00:30:09,599 --> 00:30:10,599
+But...
+
+599
+00:30:11,160 --> 00:30:12,160
+I'm sorry.
+
+600
+00:30:12,161 --> 00:30:13,440
+Don't be sad.
+
+601
+00:30:21,200 --> 00:30:22,519
+As colleagues,
+
+602
+00:30:22,720 --> 00:30:24,960
+we've fought side by side for so many years.
+
+603
+00:30:25,720 --> 00:30:28,079
+There's an understanding between us.
+
+604
+00:30:29,839 --> 00:30:31,359
+As for what happened today,
+
+605
+00:30:31,519 --> 00:30:33,119
+I would still step in...
+
+606
+00:30:33,240 --> 00:30:34,920
+even if it were someone else...
+
+607
+00:30:35,160 --> 00:30:36,599
+as I'm the chief of the EICU.
+
+608
+00:30:40,720 --> 00:30:41,920
+Thank you.
+
+609
+00:30:44,720 --> 00:30:46,920
+Let's not be so courteous.
+
+610
+00:30:55,160 --> 00:30:56,279
+Your leg...
+
+611
+00:30:56,519 --> 00:30:57,558
+It's fine.
+
+612
+00:30:57,559 --> 00:30:58,559
+I'm old.
+
+613
+00:30:58,560 --> 00:30:59,639
+It's easy to pull the wrong muscle.
+
+614
+00:30:59,640 --> 00:31:00,960
+I'll be fine after putting on some pain relief patches.
+
+615
+00:31:03,039 --> 00:31:04,440
+I'll get you some then.
+
+616
+00:31:04,480 --> 00:31:06,319
+- There's no need. - Sit still.
+
+617
+00:31:06,400 --> 00:31:07,480
+Don't move.
+
+618
+00:31:21,200 --> 00:31:22,920
+You've just recovered from the nephritis.
+
+619
+00:31:22,960 --> 00:31:25,559
+You have to be careful and don't overwork yourself.
+
+620
+00:31:26,000 --> 00:31:27,278
+Don't eat too much.
+
+621
+00:31:27,279 --> 00:31:28,719
+Measure your blood pressure frequently.
+
+622
+00:31:28,720 --> 00:31:29,959
+If your blood pressure rises,
+
+623
+00:31:29,960 --> 00:31:31,959
+take the blood pressure medicine following the doctor's advise.
+
+624
+00:31:31,960 --> 00:31:33,480
+- Okay? - Okay, Xiao Yan.
+
+625
+00:31:33,559 --> 00:31:34,640
+If you keep nagging,
+
+626
+00:31:34,680 --> 00:31:36,279
+you'll be just like our mom.
+
+627
+00:31:36,359 --> 00:31:37,680
+I'm just concerned about you.
+
+628
+00:31:38,640 --> 00:31:40,039
+Actually, before I came,
+
+629
+00:31:40,359 --> 00:31:41,839
+I was thinking of convincing you to go back.
+
+630
+00:31:42,160 --> 00:31:44,039
+But after some observation,
+
+631
+00:31:44,079 --> 00:31:46,440
+I realized you seem to be in good condition lately.
+
+632
+00:31:47,200 --> 00:31:49,279
+Seems like you're used to the life in Shanghai.
+
+633
+00:31:49,519 --> 00:31:50,880
+So if you want to stay here,
+
+634
+00:31:51,079 --> 00:31:52,200
+I support you.
+
+635
+00:31:54,319 --> 00:31:55,359
+All right, Xiao Yan.
+
+636
+00:31:55,440 --> 00:31:57,079
+There will always be a time of separation.
+
+637
+00:31:57,319 --> 00:31:58,640
+You can get back to work.
+
+638
+00:32:02,559 --> 00:32:04,039
+Be careful.
+
+639
+00:32:07,519 --> 00:32:08,559
+Come.
+
+640
+00:32:09,039 --> 00:32:10,200
+Future brother-in-law,
+
+641
+00:32:10,599 --> 00:32:11,599
+good luck.
+
+642
+00:32:13,039 --> 00:32:14,079
+Don't worry.
+
+643
+00:32:14,519 --> 00:32:15,559
+I'll get going.
+
+644
+00:32:15,599 --> 00:32:16,640
+- Bye. - Bye.
+
+645
+00:32:19,759 --> 00:32:21,039
+What did he say to you?
+
+646
+00:32:21,720 --> 00:32:23,039
+Do you want to know?
+
+647
+00:32:26,440 --> 00:32:28,240
+I won't tell you.
+
+648
+00:32:32,359 --> 00:32:33,719
+Okay, call me if you need anything.
+
+649
+00:32:33,720 --> 00:32:34,720
+- Okay. - Dr. Lu.
+
+650
+00:32:37,160 --> 00:32:38,200
+Take a look at this.
+
+651
+00:32:39,440 --> 00:32:40,440
+What is it?
+
+652
+00:32:40,680 --> 00:32:43,000
+Sun Fang Min posted a video online.
+
+653
+00:32:43,240 --> 00:32:44,798
+She's encouraging other patients...
+
+654
+00:32:44,799 --> 00:32:46,240
+with pulmonary lymphangioleiomyomatosis...
+
+655
+00:32:46,319 --> 00:32:47,480
+to be like her,
+
+656
+00:32:47,640 --> 00:32:48,960
+get pregnant and have a baby.
+
+657
+00:32:49,119 --> 00:32:51,319
+...a very cute baby boy.
+
+658
+00:32:52,039 --> 00:32:53,880
+Pulmonary lymphangioleiomyomatosis...
+
+659
+00:32:54,039 --> 00:32:56,599
+is a rare respiratory system disease.
+
+660
+00:32:58,200 --> 00:33:00,479
+Once you reach the advanced stage,
+
+661
+00:33:00,480 --> 00:33:01,799
+you can't carry a child.
+
+662
+00:33:02,559 --> 00:33:04,440
+Then how did I...
+
+663
+00:33:04,480 --> 00:33:06,559
+escape from death?
+
+664
+00:33:06,880 --> 00:33:09,400
+I'd like to share with everyone...
+
+665
+00:33:10,440 --> 00:33:12,200
+I know you want to share with everyone...
+
+666
+00:33:12,559 --> 00:33:15,480
+the beautiful feeling of being pregnant.
+
+667
+00:33:15,759 --> 00:33:17,279
+I understand that.
+
+668
+00:33:17,839 --> 00:33:18,920
+However,
+
+669
+00:33:19,119 --> 00:33:20,558
+you can't encourage other patients...
+
+670
+00:33:20,559 --> 00:33:22,160
+who have the same illness as you...
+
+671
+00:33:22,279 --> 00:33:24,200
+to ignore the doctor's advice and get pregnant.
+
+672
+00:33:24,279 --> 00:33:25,399
+Do you know?
+
+673
+00:33:25,400 --> 00:33:28,039
+A successful case like yours is even rarer.
+
+674
+00:33:28,119 --> 00:33:29,480
+By encouraging them,
+
+675
+00:33:29,680 --> 00:33:31,200
+you're misleading them.
+
+676
+00:33:31,240 --> 00:33:33,400
+You'll end up harming them, do you understand?
+
+677
+00:33:35,359 --> 00:33:36,440
+I'm sorry.
+
+678
+00:33:36,839 --> 00:33:38,480
+I didn't think that far.
+
+679
+00:33:38,799 --> 00:33:39,920
+I just wanted...
+
+680
+00:33:40,039 --> 00:33:41,519
+to give patients like me...
+
+681
+00:33:41,640 --> 00:33:42,839
+a little hope.
+
+682
+00:33:42,920 --> 00:33:44,960
+You're harming them by doing that.
+
+683
+00:33:45,079 --> 00:33:46,839
+They're losing more than hope.
+
+684
+00:33:46,920 --> 00:33:48,319
+They may even lose their lives.
+
+685
+00:33:48,359 --> 00:33:49,920
+It's that serious?
+
+686
+00:33:51,119 --> 00:33:52,240
+What should we do then?
+
+687
+00:33:52,400 --> 00:33:54,200
+Why don't I record another video?
+
+688
+00:33:54,319 --> 00:33:57,078
+Like that, more people will know about your case...
+
+689
+00:33:57,079 --> 00:33:58,960
+and see you as a role model.
+
+690
+00:33:59,480 --> 00:34:01,160
+You should delete the video now...
+
+691
+00:34:01,279 --> 00:34:02,319
+and say no more.
+
+692
+00:34:02,960 --> 00:34:05,319
+Okay. I'll delete the video now.
+
+693
+00:34:05,920 --> 00:34:07,000
+I'm sorry.
+
+694
+00:34:07,240 --> 00:34:08,809
+I've caused you trouble.
+
+695
+00:34:16,960 --> 00:34:17,960
+Dr. Lu.
+
+696
+00:34:19,289 --> 00:34:21,079
+Someone is waiting for you in your office.
+
+697
+00:34:21,239 --> 00:34:22,288
+Who?
+
+698
+00:34:22,289 --> 00:34:23,360
+He, the reporter.
+
+699
+00:34:23,599 --> 00:34:24,719
+Mr. He?
+
+700
+00:34:24,880 --> 00:34:26,079
+Did he need something?
+
+701
+00:34:26,199 --> 00:34:28,809
+I think it's for the pulmonary lymphangioleiomyomatosis patient.
+
+702
+00:34:30,639 --> 00:34:32,159
+Tell him I'm out for a meeting.
+
+703
+00:34:37,079 --> 00:34:38,239
+I'll go check.
+
+704
+00:34:40,809 --> 00:34:42,809
+Thank you Dr. Lu for doing an interview with us.
+
+705
+00:34:42,960 --> 00:34:44,079
+So everyone,
+
+706
+00:34:44,199 --> 00:34:45,329
+now...
+
+707
+00:34:46,199 --> 00:34:48,329
+Can you turn off the camera?
+
+708
+00:34:50,360 --> 00:34:51,519
+What's wrong, Dr. Lu?
+
+709
+00:34:51,679 --> 00:34:52,920
+Because this case...
+
+710
+00:34:53,000 --> 00:34:55,289
+is not suitable to be broadcasted to the media.
+
+711
+00:34:55,920 --> 00:34:58,400
+Turn the camera off first. Let me explain why.
+
+712
+00:34:59,719 --> 00:35:00,809
+Okay. Turn it off first.
+
+713
+00:35:02,809 --> 00:35:03,879
+You're here to interview me...
+
+714
+00:35:03,880 --> 00:35:05,518
+about the patient with pulmonary lymphangioleiomyomatosis.
+
+715
+00:35:05,519 --> 00:35:08,239
+I'm sure you know about this disease then, right?
+
+716
+00:35:09,559 --> 00:35:11,879
+For a patient with pulmonary lymphangioleiomyomatosis...
+
+717
+00:35:11,880 --> 00:35:13,119
+in the advanced stage,
+
+718
+00:35:13,639 --> 00:35:14,769
+pregnancy is prohibited.
+
+719
+00:35:15,239 --> 00:35:16,440
+Once pregnant,
+
+720
+00:35:16,679 --> 00:35:18,480
+their life will be in great danger.
+
+721
+00:35:18,679 --> 00:35:20,599
+But Sun Fang Min made it.
+
+722
+00:35:20,639 --> 00:35:22,639
+Sun Fang Min is an exception.
+
+723
+00:35:22,719 --> 00:35:24,719
+Such an isolated case can't be replicated.
+
+724
+00:35:24,880 --> 00:35:26,079
+But you should know this, Dr. Lu.
+
+725
+00:35:26,289 --> 00:35:29,000
+Many patients are willing to die if they can have children.
+
+726
+00:35:29,239 --> 00:35:30,480
+It's nature.
+
+727
+00:35:31,079 --> 00:35:33,329
+The choice between motherly love and rationality...
+
+728
+00:35:33,639 --> 00:35:35,960
+is hard for us onlookers to understand.
+
+729
+00:35:36,039 --> 00:35:37,769
+I can strictly tell you...
+
+730
+00:35:38,199 --> 00:35:40,519
+the patient's attitude of not considering their own situation...
+
+731
+00:35:40,679 --> 00:35:42,039
+is a terrible mindset...
+
+732
+00:35:42,199 --> 00:35:44,039
+in my opinion.
+
+733
+00:35:44,519 --> 00:35:46,079
+Having a baby in the name of love...
+
+734
+00:35:46,639 --> 00:35:48,289
+is in fact using the name of love...
+
+735
+00:35:48,360 --> 00:35:49,480
+to shackle the hospital...
+
+736
+00:35:49,679 --> 00:35:50,960
+and the doctors.
+
+737
+00:35:51,239 --> 00:35:53,639
+And in the process of shackling,
+
+738
+00:35:54,239 --> 00:35:56,719
+the media plays a very bad role.
+
+739
+00:35:58,880 --> 00:35:59,960
+It seems like...
+
+740
+00:36:00,289 --> 00:36:02,440
+you're still prejudiced against the media.
+
+741
+00:36:02,559 --> 00:36:03,769
+You can't say that.
+
+742
+00:36:03,920 --> 00:36:05,639
+Due to the need to spread the news,
+
+743
+00:36:06,000 --> 00:36:08,199
+you media often hype up...
+
+744
+00:36:08,440 --> 00:36:09,718
+all kinds of patients who sacrifice themselves...
+
+745
+00:36:09,719 --> 00:36:11,719
+in the name of love...
+
+746
+00:36:11,880 --> 00:36:12,960
+to have children.
+
+747
+00:36:13,400 --> 00:36:14,920
+This kind of exalted praise...
+
+748
+00:36:15,079 --> 00:36:17,000
+that is detached from science...
+
+749
+00:36:17,239 --> 00:36:19,159
+can mislead a lot of patients.
+
+750
+00:36:19,329 --> 00:36:21,920
+They'll think it's okay not to listen to doctors...
+
+751
+00:36:22,039 --> 00:36:23,329
+and take the risk for once.
+
+752
+00:36:23,440 --> 00:36:24,920
+That they'll be able to survive...
+
+753
+00:36:25,000 --> 00:36:27,239
+and give birth to a healthy baby.
+
+754
+00:36:27,769 --> 00:36:28,880
+Little do they know...
+
+755
+00:36:29,000 --> 00:36:30,329
+that behind all this risk...
+
+756
+00:36:30,519 --> 00:36:32,679
+are severe consequences.
+
+757
+00:36:32,769 --> 00:36:34,359
+Is that why...
+
+758
+00:36:34,360 --> 00:36:35,639
+you don't want this case...
+
+759
+00:36:35,719 --> 00:36:37,400
+to be spread to the media?
+
+760
+00:36:37,559 --> 00:36:40,239
+It's not just patients...
+
+761
+00:36:40,559 --> 00:36:42,719
+with advanced pulmonary lymphangioleiomyomatosis.
+
+762
+00:36:43,329 --> 00:36:44,769
+The media often report...
+
+763
+00:36:44,880 --> 00:36:46,769
+about patients with congenital heart disease,
+
+764
+00:36:46,880 --> 00:36:47,920
+leukemia,
+
+765
+00:36:48,119 --> 00:36:49,159
+tumors,
+
+766
+00:36:49,360 --> 00:36:50,440
+and genetic diseases...
+
+767
+00:36:50,559 --> 00:36:52,440
+who are not suitable for pregnancy...
+
+768
+00:36:52,519 --> 00:36:55,329
+yet took the risk and successfully gave birth.
+
+769
+00:36:55,599 --> 00:36:57,119
+They don't know...
+
+770
+00:36:57,159 --> 00:36:58,519
+that behind every risk of childbirth,
+
+771
+00:36:58,599 --> 00:37:00,199
+the patients and their families...
+
+772
+00:37:00,400 --> 00:37:02,599
+are paying a huge price.
+
+773
+00:37:02,840 --> 00:37:04,329
+For example, the medical expenses.
+
+774
+00:37:04,599 --> 00:37:06,079
+It's an astronomical number.
+
+775
+00:37:06,199 --> 00:37:08,039
+Ordinary families can't even afford it.
+
+776
+00:37:08,199 --> 00:37:10,289
+And the success rate is very low.
+
+777
+00:37:10,679 --> 00:37:12,679
+Behind a successful patient...
+
+778
+00:37:12,880 --> 00:37:14,679
+are countless tragic families...
+
+779
+00:37:14,809 --> 00:37:15,840
+with desperation and loss of life,
+
+780
+00:37:15,920 --> 00:37:18,199
+both mother and child.
+
+781
+00:37:18,440 --> 00:37:20,159
+That's why by telling you this,
+
+782
+00:37:20,329 --> 00:37:21,639
+I sincerely hope...
+
+783
+00:37:21,769 --> 00:37:23,079
+that as a media outlet,
+
+784
+00:37:23,159 --> 00:37:24,999
+we must take the lives of the vast majority of patients...
+
+785
+00:37:25,000 --> 00:37:26,559
+as the premise.
+
+786
+00:37:26,719 --> 00:37:28,288
+Don't encourage them indirectly...
+
+787
+00:37:28,289 --> 00:37:29,769
+to take the risk.
+
+788
+00:37:34,519 --> 00:37:35,519
+Dr. Lu.
+
+789
+00:37:35,719 --> 00:37:37,238
+I was very inspired by what you said today.
+
+790
+00:37:37,239 --> 00:37:38,639
+I'll have a lot to learn from you.
+
+791
+00:37:38,769 --> 00:37:40,289
+You flatter me. Let's keep in touch.
+
+792
+00:37:40,400 --> 00:37:41,678
+- Okay. - Bye.
+
+793
+00:37:41,679 --> 00:37:42,880
+- Bye. - Okay.
+
+794
+00:37:54,960 --> 00:37:55,960
+Come in.
+
+795
+00:37:57,559 --> 00:37:58,719
+Did you ask for me?
+
+796
+00:38:00,000 --> 00:38:01,039
+Come.
+
+797
+00:38:02,039 --> 00:38:03,079
+Have a seat.
+
+798
+00:38:11,159 --> 00:38:13,399
+You've been in Tongshan Hospital's EICU...
+
+799
+00:38:13,400 --> 00:38:15,079
+for almost half a year, right?
+
+800
+00:38:15,519 --> 00:38:17,599
+So? Are you used to it?
+
+801
+00:38:17,719 --> 00:38:19,679
+I couldn't get used to it at first.
+
+802
+00:38:19,809 --> 00:38:21,400
+But it's much better now.
+
+803
+00:38:21,559 --> 00:38:22,769
+How so?
+
+804
+00:38:23,119 --> 00:38:24,638
+When I was in Switzerland,
+
+805
+00:38:24,639 --> 00:38:26,679
+I was just a doctor...
+
+806
+00:38:26,719 --> 00:38:27,960
+who treated patients.
+
+807
+00:38:28,159 --> 00:38:30,079
+After coming to the EICU,
+
+808
+00:38:30,159 --> 00:38:32,000
+I'm not just treating patients.
+
+809
+00:38:32,039 --> 00:38:33,198
+Part of my job...
+
+810
+00:38:33,199 --> 00:38:35,199
+is dealing with the patient's family.
+
+811
+00:38:35,440 --> 00:38:36,920
+Because of this,
+
+812
+00:38:37,039 --> 00:38:38,999
+I have a better understanding...
+
+813
+00:38:39,000 --> 00:38:40,719
+of who we are as doctors.
+
+814
+00:38:41,289 --> 00:38:42,289
+Indeed.
+
+815
+00:38:42,400 --> 00:38:45,039
+Different national conditions have different requirements for doctors.
+
+816
+00:38:45,639 --> 00:38:47,159
+But I have faith in your skills...
+
+817
+00:38:47,559 --> 00:38:50,119
+to solve any sort of complicated problems.
+
+818
+00:38:50,679 --> 00:38:52,000
+Thank you, Dr. Jiang.
+
+819
+00:38:52,360 --> 00:38:53,920
+I asked you to come...
+
+820
+00:38:54,880 --> 00:38:57,639
+because I'd like to ask for your opinion on something.
+
+821
+00:38:59,039 --> 00:39:01,559
+Dr. Lu is managing the EICU well.
+
+822
+00:39:01,840 --> 00:39:03,719
+The hospital is thinking of promoting him.
+
+823
+00:39:04,679 --> 00:39:07,360
+Previously, you said you could stay with the hospital for a year.
+
+824
+00:39:08,400 --> 00:39:11,329
+I can see that you get along well with your colleagues.
+
+825
+00:39:12,639 --> 00:39:14,599
+Will you stay?
+
+826
+00:39:15,519 --> 00:39:16,679
+Dr. Xiao.
+
+827
+00:39:17,329 --> 00:39:19,239
+You're an excellent doctor.
+
+828
+00:39:19,639 --> 00:39:21,119
+I hope...
+
+829
+00:39:21,639 --> 00:39:24,239
+you can take Tongshan Hospital's EICU...
+
+830
+00:39:24,440 --> 00:39:26,039
+to another level.
+
+831
+00:39:41,840 --> 00:39:42,960
+Come in.
+
+832
+00:39:43,289 --> 00:39:44,880
+Dr. Jiang, you were looking for me?
+
+833
+00:39:48,239 --> 00:39:49,840
+You've been in the EICU for half a year.
+
+834
+00:39:50,400 --> 00:39:51,960
+You've matured a lot.
+
+835
+00:39:53,480 --> 00:39:55,440
+It's time to transfer you back to cardiology...
+
+836
+00:39:55,519 --> 00:39:57,769
+or it'll be too late.
+
+837
+00:39:58,000 --> 00:39:59,119
+Transfer me back?
+
+838
+00:39:59,199 --> 00:40:00,239
+What?
+
+839
+00:40:00,329 --> 00:40:01,400
+You don't want to?
+
+840
+00:40:01,960 --> 00:40:03,039
+No, it's not that.
+
+841
+00:40:03,159 --> 00:40:04,199
+Why so suddenly?
+
+842
+00:40:04,239 --> 00:40:05,289
+What do you mean it's too late?
+
+843
+00:40:05,440 --> 00:40:06,599
+Suddenly?
+
+844
+00:40:06,840 --> 00:40:09,039
+I'm afraid you're used to being in the EICU...
+
+845
+00:40:09,289 --> 00:40:10,920
+and don't want to return.
+
+846
+00:40:13,400 --> 00:40:15,199
+I sent you to the EICU...
+
+847
+00:40:15,400 --> 00:40:16,880
+because I wanted you to know...
+
+848
+00:40:17,199 --> 00:40:18,639
+that doctors look at not only the disease...
+
+849
+00:40:18,809 --> 00:40:19,920
+but also the patients.
+
+850
+00:40:20,119 --> 00:40:21,840
+Skills are important.
+
+851
+00:40:23,960 --> 00:40:25,289
+But you need to learn...
+
+852
+00:40:26,000 --> 00:40:28,239
+to communicate with the patients and their families.
+
+853
+00:40:28,289 --> 00:40:29,639
+It's a kind of medical ethics...
+
+854
+00:40:29,809 --> 00:40:31,400
+and humanistic care.
+
+855
+00:40:31,519 --> 00:40:32,769
+It's very important.
+
+856
+00:40:33,599 --> 00:40:35,679
+Always keep that in mind.
+
+857
+00:40:36,519 --> 00:40:37,718
+You have to learn...
+
+858
+00:40:37,719 --> 00:40:40,239
+to restrain your bad temper and your so-called personality.
+
+859
+00:40:41,289 --> 00:40:42,440
+You're good now.
+
+860
+00:40:43,119 --> 00:40:44,199
+You can come back.
+
+861
+00:40:44,519 --> 00:40:46,239
+Dr. Jiang, I know you mean well...
+
+862
+00:40:46,440 --> 00:40:48,159
+but I want to stay in the EICU.
+
+863
+00:40:54,769 --> 00:40:56,039
+Have you thought it through?
+
+864
+00:40:57,400 --> 00:40:58,639
+Yes, I've thought it through.
+
+865
+00:41:07,880 --> 00:41:09,719
+You can go now. I'm done.
+
+866
+00:41:12,400 --> 00:41:13,769
+Thank you, Dr. Jiang.
+
+867
+00:41:24,000 --> 00:41:25,000
+Bai Zhu.
+
+868
+00:41:25,159 --> 00:41:27,000
+- What's the hurry? - Xiao Yan's going to Switzerland.
+
+869
+00:41:27,329 --> 00:41:29,519
+- A visit or a vacation? - She resigned.
+
+870
+00:41:30,079 --> 00:41:31,519
+She's going back there to work.
+
+871
+00:41:33,880 --> 00:41:35,639
+Why are you suddenly returning to Switzerland?
+
+872
+00:41:35,880 --> 00:41:37,039
+It's not sudden.
+
+873
+00:41:37,159 --> 00:41:38,480
+I signed a one-year contract...
+
+874
+00:41:38,519 --> 00:41:40,239
+with Tongshan Hospital.
+
+875
+00:41:40,289 --> 00:41:41,480
+A few days ago,
+
+876
+00:41:41,719 --> 00:41:44,079
+I got a call from my former director in Switzerland.
+
+877
+00:41:44,239 --> 00:41:45,559
+He wants me to go back.
+
+878
+00:41:45,809 --> 00:41:47,719
+But there's no rush.
+
+879
+00:41:47,840 --> 00:41:48,840
+Besides,
+
+880
+00:41:49,000 --> 00:41:51,159
+it hasn't even been a year yet.
+
+881
+00:41:53,329 --> 00:41:55,809
+Is it because yesterday, I...
+
+882
+00:41:57,960 --> 00:41:59,359
+It has nothing to do with you.
+
+883
+00:41:59,360 --> 00:42:00,440
+Then why?
+
+884
+00:42:00,679 --> 00:42:01,840
+When I was in Switzerland,
+
+885
+00:42:01,880 --> 00:42:03,769
+I didn't finish my project.
+
+886
+00:42:05,199 --> 00:42:07,599
+I've also learned a lot here.
+
+887
+00:42:07,769 --> 00:42:09,880
+I wish I could go back and finish my project.
+
+888
+00:42:09,920 --> 00:42:12,159
+And my parents are there too.
+
+889
+00:42:12,400 --> 00:42:13,480
+They're old.
+
+890
+00:42:13,809 --> 00:42:15,769
+I want to be with them.
+
+891
+00:42:17,769 --> 00:42:19,159
+Will you come back...
+
+892
+00:42:19,400 --> 00:42:20,559
+after going to Switzerland?
+
+893
+00:42:20,769 --> 00:42:23,440
+I need to finish my project first.
+
+894
+00:42:26,480 --> 00:42:28,599
+I think Switzerland...
+
+895
+00:42:29,199 --> 00:42:31,119
+would be a better choice for me.
+
+896
+00:42:33,679 --> 00:42:35,400
+Of course, I'm still happy...
+
+897
+00:42:35,599 --> 00:42:37,000
+to have met all of you here.
+
