@@ -1,0 +1,3251 @@
+1
+00:00:00,270 --> 00:00:03,000
+♪ A character that no one knows ♪
+
+2
+00:00:03,000 --> 00:00:06,560
+♪ Who do you worship? ♪
+
+3
+00:00:07,160 --> 00:00:09,760
+♪ Who do you blame? ♪
+
+4
+00:00:11,450 --> 00:00:14,350
+♪ The cold shoulder ♪
+
+5
+00:00:14,350 --> 00:00:17,070
+♪ The shackles of false freedom ♪
+
+6
+00:00:17,070 --> 00:00:21,180
+♪ What have you finally become? ♪
+
+7
+00:00:22,750 --> 00:00:25,600
+♪ Beautiful fireworks ♪
+
+8
+00:00:25,680 --> 00:00:29,210
+♪ One time is enough ♪
+
+9
+00:00:29,770 --> 00:00:32,190
+♪ What else do you expect? ♪
+
+10
+00:00:35,560 --> 00:00:38,700
+♪ Mr. Nobody, who am I? ♪
+
+11
+00:00:38,700 --> 00:00:41,450
+♪ It doesn't matter if you forget me ♪
+
+12
+00:00:41,450 --> 00:00:46,880
+♪ We all fight till the end of life ♪
+
+13
+00:00:46,880 --> 00:00:49,660
+♪ We may get exhausted ♪
+
+14
+00:00:49,660 --> 00:00:52,510
+♪ We may accomplish nothing ♪
+
+15
+00:00:52,750 --> 00:00:58,140
+♪ We may never make you proud ♪
+
+16
+00:00:58,140 --> 00:01:01,230
+♪ Mr. Nobody, who am I? ♪
+
+17
+00:01:01,230 --> 00:01:04,080
+♪ It doesn't matter if you forget me ♪
+
+18
+00:01:04,080 --> 00:01:05,450
+♪ Keep chasing ♪
+
+19
+00:01:05,450 --> 00:01:09,370
+♪ Success always comes with pain ♪
+
+20
+00:01:09,370 --> 00:01:12,240
+♪ We may get exhausted ♪
+
+21
+00:01:12,240 --> 00:01:15,200
+♪ We may accomplish nothing ♪
+
+22
+00:01:15,320 --> 00:01:18,490
+♪ We're all born the same ♪
+
+23
+00:01:18,570 --> 00:01:25,000
+♪ Just call me Mr. Nobody ♪
+
+24
+00:01:25,000 --> 00:01:29,870
+= Go Go Squid! =
+= Based on the novel Stewed Squid with Honey =
+
+25
+00:01:30,000 --> 00:01:32,810
+= Episode 1 =
+
+26
+00:01:33,280 --> 00:01:34,560
+= The Chinese telecom industry is a worldwide industry leader. =
+
+27
+00:01:34,560 --> 00:01:35,760
+= The exponential growth of the industry =
+
+28
+00:01:35,760 --> 00:01:37,080
+= has led to 'cyber security competitions' =
+
+29
+00:01:37,080 --> 00:01:38,600
+= held amongst cyber security technicians. =
+
+30
+00:01:38,600 --> 00:01:39,640
+= The most well-known competition is CTF, =
+
+31
+00:01:39,640 --> 00:01:40,560
+= short for 'capture the flag'. =
+
+32
+00:01:41,130 --> 00:01:45,930
+= CTF World Tournament, Singapore Station =
+
+33
+00:01:46,080 --> 00:01:46,840
+= K&K Captain: DT =
+
+34
+00:01:46,840 --> 00:01:48,590
+Here comes the final battle.
+= K&K Sub-attacker: Demo =
+
+35
+00:01:48,630 --> 00:01:50,590
+SP is attacking their rival's server.
+= K&K Main defender: 97 =
+
+36
+00:01:50,710 --> 00:01:52,420
+SP is being very aggressive
+
+37
+00:01:52,460 --> 00:01:54,680
+and has embedded a worm virus.
+= K&K: One / K&K: Grunt =
+
+38
+00:01:54,720 --> 00:01:56,350
+K&K managed to defend against the attack
+
+39
+00:01:56,360 --> 00:01:57,530
+and reinforced their defenses.
+
+40
+00:01:57,580 --> 00:01:58,000
+Oh no.
+
+41
+00:01:58,000 --> 00:02:00,240
+SP has found another loophole in K&K's system.
+
+42
+00:02:00,280 --> 00:02:02,650
+K&K's server is breaking down.
+
+43
+00:02:02,700 --> 00:02:03,640
+Captain, we're done.
+
+44
+00:02:03,690 --> 00:02:04,430
+We've lost our flag.
+
+45
+00:02:04,510 --> 00:02:05,500
+Shut up, 97!
+
+46
+00:02:05,590 --> 00:02:06,880
+He won't listen to you.
+
+47
+00:02:07,000 --> 00:02:08,640
+Grunt, it's you who should shut up.
+
+48
+00:02:08,640 --> 00:02:10,159
+= Owner of K&K: Han Shangyan =
+
+49
+00:02:10,670 --> 00:02:12,630
+Congratulations to SP!
+
+50
+00:02:12,670 --> 00:02:14,990
+They are the champions of Singapore station's
+
+51
+00:02:15,070 --> 00:02:16,250
+first CTF World Tournament!
+
+52
+00:02:16,880 --> 00:02:19,800
+Congrats! Although K&K is a new team.
+
+53
+00:02:19,850 --> 00:02:20,380
+Yes.
+
+54
+00:02:20,460 --> 00:02:21,950
+It's still surprising that
+
+55
+00:02:21,980 --> 00:02:23,100
+with Gun as their leader,
+
+56
+00:02:23,130 --> 00:02:24,320
+they could lose this match.
+
+57
+00:02:24,590 --> 00:02:25,080
+On the other hand,
+
+58
+00:02:25,130 --> 00:02:27,630
+we all know that the manager of SP China
+
+59
+00:02:27,690 --> 00:02:28,330
+is Solo,
+
+60
+00:02:28,480 --> 00:02:30,250
+the guy who introduced CTF
+
+61
+00:02:30,480 --> 00:02:32,430
+to Chinese fans 10 years ago,
+
+62
+00:02:32,540 --> 00:02:35,360
+the legendary former captain of team Solo.
+
+63
+00:02:35,440 --> 00:02:35,840
+Yes.
+
+64
+00:02:35,850 --> 00:02:36,940
+He's also brought on Appledog,
+
+65
+00:02:37,000 --> 00:02:38,840
+who was the main attacker of Solo,
+
+66
+00:02:38,940 --> 00:02:40,920
+Shangyan.  -to join the SP team.
+
+67
+00:02:41,170 --> 00:02:43,400
+Their performance has been stable,
+
+68
+00:02:43,400 --> 00:02:46,170
+and the teamwork is perfect in this group.
+
+69
+00:02:46,250 --> 00:02:50,090
+They make me think of the Solo team in their heyday.
+
+70
+00:02:50,300 --> 00:02:51,890
+Solo is still the miracle worker!
+
+71
+00:02:52,020 --> 00:02:53,950
+With him as the leader, SP is unrivaled,
+
+72
+00:02:54,020 --> 00:02:55,560
+just like the old Solo team.
+
+73
+00:02:55,690 --> 00:02:57,720
+Congratulations again!
+
+74
+00:02:57,770 --> 00:02:59,580
+They're the winners!
+
+75
+00:02:59,600 --> 00:03:00,230
+I believe that
+
+76
+00:03:00,270 --> 00:03:01,940
+for a very long time,
+
+77
+00:03:01,980 --> 00:03:03,060
+SP and K&K will remain
+
+78
+00:03:03,060 --> 00:03:05,520
+the strongest teams in the world of CTF.
+
+79
+00:03:06,060 --> 00:03:07,640
+SP! SP! SP!
+
+80
+00:03:07,640 --> 00:03:08,960
+= Team SP =
+
+81
+00:03:12,160 --> 00:03:14,440
+= Coach of SP: Appledog =
+
+82
+00:03:19,760 --> 00:03:21,720
+= K&K Captain: DT =
+
+83
+00:03:24,520 --> 00:03:27,560
+SP! SP! SP!
+
+84
+00:03:27,640 --> 00:03:29,140
+SP!
+
+85
+00:03:41,050 --> 00:03:43,900
+♪ The city lights at dawn ♪
+
+86
+00:03:43,960 --> 00:03:46,640
+♪ A star is falling ♪
+
+87
+00:03:46,750 --> 00:03:50,060
+♪ One after another ♪
+
+88
+00:03:50,100 --> 00:03:52,200
+What's with you today, Demo?
+
+89
+00:03:52,600 --> 00:03:53,480
+Why didn't you input the virus
+
+90
+00:03:53,480 --> 00:03:54,810
+when I asked you to?
+
+91
+00:03:56,140 --> 00:03:57,440
+97 told me to wait.
+
+92
+00:03:57,520 --> 00:03:58,100
+Problem?
+
+93
+00:03:58,520 --> 00:04:00,640
+We needed to defend our server first.
+
+94
+00:04:00,890 --> 00:04:01,980
+That's your reason?
+
+95
+00:04:02,690 --> 00:04:03,810
+And you, One!
+
+96
+00:04:04,020 --> 00:04:05,050
+You're the sub-defender,
+
+97
+00:04:05,240 --> 00:04:06,960
+and what did you do?
+
+98
+00:04:06,980 --> 00:04:08,080
+You acted on your own.
+
+99
+00:04:08,100 --> 00:04:10,010
+You messed up our plan!
+
+100
+00:04:10,480 --> 00:04:12,350
+I messed up your plan?!
+
+101
+00:04:12,730 --> 00:04:14,270
+You're blaming me?
+
+102
+00:04:14,350 --> 00:04:15,770
+Grunt, what One said is true.
+
+103
+00:04:15,770 --> 00:04:17,310
+You were being reckless today.
+
+104
+00:04:17,350 --> 00:04:18,810
+You left so many loopholes open.
+
+105
+00:04:18,850 --> 00:04:19,600
+How was I reckless?
+
+106
+00:04:19,690 --> 00:04:20,520
+I left loopholes?
+
+107
+00:04:20,600 --> 00:04:21,560
+Then you should have fixed them!
+
+108
+00:04:21,640 --> 00:04:23,190
+I wish you were as good as Wu Bai.
+
+109
+00:04:23,230 --> 00:04:24,560
+He never nags at us.
+
+110
+00:04:24,640 --> 00:04:25,630
+Wu Bai is our captain!
+
+111
+00:04:25,630 --> 00:04:26,480
+I can't compare to him.
+
+112
+00:04:26,560 --> 00:04:27,600
+You all suck!
+
+113
+00:04:31,520 --> 00:04:32,390
+We suck?!
+
+114
+00:04:32,390 --> 00:04:33,390
+Enough!
+
+115
+00:04:42,350 --> 00:04:43,940
+We lost the championship!
+
+116
+00:04:48,100 --> 00:04:50,190
+You think second place is alright?
+
+117
+00:04:50,770 --> 00:04:52,850
+There are only 2 kinds of people in competition.
+
+118
+00:04:53,100 --> 00:04:54,560
+Champion and losers!
+
+119
+00:04:55,690 --> 00:04:56,640
+You got it?
+
+120
+00:05:00,690 --> 00:05:01,690
+Boss, where are you going?
+
+121
+00:05:01,690 --> 00:05:02,670
+Boss, we are sorry.
+
+122
+00:05:02,720 --> 00:05:03,550
+Boss, you okay?
+
+123
+00:05:03,580 --> 00:05:04,520
+Where are you going?
+
+124
+00:05:04,640 --> 00:05:06,440
+Boss! Boss! Boss!
+
+125
+00:05:27,890 --> 00:05:29,940
+This man is Han Shangyan,
+
+126
+00:05:30,230 --> 00:05:32,850
+the sponsor and owner of K&K.
+
+127
+00:05:33,440 --> 00:05:35,360
+The team members call him "Boss".
+
+128
+00:05:35,870 --> 00:05:37,060
+Two days ago,
+
+129
+00:05:37,060 --> 00:05:40,360
+his team lost a CTF match.
+
+130
+00:05:41,130 --> 00:05:42,350
+Right now,
+
+131
+00:05:42,390 --> 00:05:44,060
+he doesn't know me.
+
+132
+00:05:44,520 --> 00:05:46,620
+My name is Tong Nian,
+
+133
+00:05:47,040 --> 00:05:48,540
+a postgraduate student
+
+134
+00:05:48,650 --> 00:05:49,760
+majoring in computer science.
+
+135
+00:05:50,190 --> 00:05:50,940
+Yes,
+
+136
+00:05:51,020 --> 00:05:53,610
+my major is related to cyber security.
+
+137
+00:05:54,100 --> 00:05:55,980
+It seems that he and I
+
+138
+00:05:56,140 --> 00:05:58,280
+are destined to meet.
+
+139
+00:05:58,380 --> 00:05:59,790
+♪ Chasing in the wind and rain ♪
+
+140
+00:05:59,950 --> 00:06:02,760
+♪ Can't see clearly in the fog ♪
+
+141
+00:06:02,970 --> 00:06:05,870
+♪ You and I and this big world ♪
+
+142
+00:06:05,920 --> 00:06:07,290
+♪ What's changing? ♪
+
+143
+00:06:07,310 --> 00:06:09,080
+♪ And what's not? ♪
+
+144
+00:06:16,890 --> 00:06:17,580
+Excuse me,
+
+145
+00:06:17,610 --> 00:06:19,440
+are there any more strawberries for sale?
+
+146
+00:06:19,800 --> 00:06:21,310
+Sorry, they're sold out.
+
+147
+00:06:22,600 --> 00:06:23,640
+Excuse me,
+
+148
+00:06:23,690 --> 00:06:25,190
+are there any other red envelops?
+
+149
+00:06:25,230 --> 00:06:26,850
+All the ones we have are on that shelf.
+
+150
+00:06:58,310 --> 00:07:00,440
+They say love occurs
+
+151
+00:07:00,730 --> 00:07:02,920
+in a most mysterious way.
+
+152
+00:07:06,440 --> 00:07:08,560
+If he hadn't turned around that day,
+
+153
+00:07:08,810 --> 00:07:09,730
+then perhaps,
+
+154
+00:07:10,020 --> 00:07:12,060
+none of these would have happened.
+
+155
+00:07:36,770 --> 00:07:37,440
+Overnight.
+
+156
+00:07:56,230 --> 00:07:56,980
+Overnight.
+
+157
+00:07:58,520 --> 00:07:59,640
+Alright.
+
+158
+00:07:59,690 --> 00:08:01,770
+May I have your ID card?
+
+159
+00:08:08,140 --> 00:08:08,850
+Thanks.
+
+160
+00:08:19,730 --> 00:08:23,280
+Overnight starts from 11 pm
+
+161
+00:08:23,310 --> 00:08:25,190
+to 6 am tomorrow morning.
+
+162
+00:08:25,890 --> 00:08:28,140
+We'll close at 7 am.
+
+163
+00:08:28,640 --> 00:08:30,670
+So you can stay for 1 more hour
+
+164
+00:08:30,670 --> 00:08:31,610
+if you want.
+
+165
+00:08:32,320 --> 00:08:33,770
+Han Shangyan.
+
+166
+00:08:34,980 --> 00:08:37,060
+We have instant noodles.
+
+167
+00:08:37,100 --> 00:08:38,940
+Let me know if you want any.
+
+168
+00:08:39,060 --> 00:08:41,100
+I'll make you one anytime you want.
+
+169
+00:08:45,480 --> 00:08:46,480
+My ID card.
+
+170
+00:08:47,980 --> 00:08:48,730
+Oh. Here you go.
+
+171
+00:09:10,600 --> 00:09:11,600
+Hey!
+
+172
+00:09:11,940 --> 00:09:13,020
+What are you looking at?
+
+173
+00:10:05,320 --> 00:10:05,600
+Hey!
+
+174
+00:10:05,810 --> 00:10:06,640
+What's up?
+
+175
+00:10:07,770 --> 00:10:10,430
+Instant noodles are bad for your health.
+
+176
+00:10:11,690 --> 00:10:13,140
+I have chocolate in my drawer.
+
+177
+00:10:13,440 --> 00:10:14,140
+You do?
+
+178
+00:10:16,390 --> 00:10:17,980
+Give it here.
+
+179
+00:10:18,060 --> 00:10:19,390
+You are here to work,
+
+180
+00:10:19,690 --> 00:10:20,890
+not to steal my food.
+
+181
+00:10:25,940 --> 00:10:27,520
+It looks terrible.
+
+182
+00:10:30,690 --> 00:10:31,480
+You hungry?
+
+183
+00:10:31,520 --> 00:10:32,680
+You can have some of these.
+
+184
+00:10:32,890 --> 00:10:34,100
+Eat your food and shut up.
+
+185
+00:10:47,850 --> 00:10:48,320
+Hey...
+
+186
+00:10:57,770 --> 00:10:58,600
+Hi.
+
+187
+00:11:01,770 --> 00:11:02,350
+Yes?
+
+188
+00:11:02,890 --> 00:11:04,890
+This is our overnight meal set...
+
+189
+00:11:08,860 --> 00:11:09,900
+Did you make it?
+
+190
+00:11:15,850 --> 00:11:16,770
+It smells good.
+
+191
+00:11:19,100 --> 00:11:21,100
+You... You're cute.
+
+192
+00:11:22,730 --> 00:11:23,350
+Thanks.
+
+193
+00:11:23,940 --> 00:11:24,810
+May I...
+
+194
+00:11:24,940 --> 00:11:26,440
+have your name please?
+
+195
+00:11:27,350 --> 00:11:28,980
+I'm Tong Nian.
+
+196
+00:11:30,850 --> 00:11:31,600
+Well...
+
+197
+00:11:32,690 --> 00:11:34,060
+maybe we can hang out sometime.
+
+198
+00:11:45,020 --> 00:11:45,890
+Hello?
+
+199
+00:11:53,480 --> 00:11:54,440
+Hello?
+
+200
+00:12:00,600 --> 00:12:01,440
+Hello!
+
+201
+00:12:05,690 --> 00:12:08,300
+This is our overnight meal set.
+
+202
+00:12:12,440 --> 00:12:13,190
+Oh. How much?
+
+203
+00:12:13,440 --> 00:12:14,980
+The meal? It's f....
+
+204
+00:12:15,060 --> 00:12:15,600
+40.
+
+205
+00:12:19,940 --> 00:12:21,390
+Let's make it 30.
+
+206
+00:12:22,100 --> 00:12:23,640
+What's wrong with you?
+
+207
+00:12:24,020 --> 00:12:25,350
+The meal is free!
+
+208
+00:12:25,480 --> 00:12:25,980
+Free!
+
+209
+00:12:26,060 --> 00:12:26,560
+No way!
+
+210
+00:12:26,690 --> 00:12:27,230
+Free!
+
+211
+00:12:29,350 --> 00:12:30,100
+Be quiet.
+
+212
+00:12:30,560 --> 00:12:33,150
+Bring me an orange juice while you're at it.
+
+213
+00:12:33,280 --> 00:12:34,190
+Sure thing.
+
+214
+00:12:34,270 --> 00:12:34,890
+Thanks.
+
+215
+00:12:47,100 --> 00:12:47,980
+Your orange juice.
+
+216
+00:12:56,480 --> 00:12:57,810
+You've overcharged him.
+
+217
+00:12:58,350 --> 00:12:59,390
+Let me crunch the numbers.
+
+218
+00:13:00,520 --> 00:13:02,270
+I was protecting you.
+
+219
+00:13:02,600 --> 00:13:04,810
+I was trying to see if he's a bad guy or not.
+
+220
+00:13:05,190 --> 00:13:06,770
+As the owner of this cafe,
+
+221
+00:13:06,980 --> 00:13:09,180
+I know all too well about men
+
+222
+00:13:09,370 --> 00:13:10,490
+who spend an entire night here.
+
+223
+00:13:11,230 --> 00:13:13,140
+Most of them are losers.
+
+224
+00:13:14,560 --> 00:13:15,890
+This guy is no different.
+
+225
+00:13:15,980 --> 00:13:17,060
+He's good-looking.
+
+226
+00:13:20,440 --> 00:13:22,060
+But that's probably it.
+
+227
+00:13:23,560 --> 00:13:24,730
+I'm talking to you.
+
+228
+00:13:24,850 --> 00:13:26,020
+Miss Squid?
+
+229
+00:13:27,060 --> 00:13:28,100
+Cute Squid?
+
+230
+00:13:28,390 --> 00:13:30,270
+Come on!
+
+231
+00:13:31,060 --> 00:13:31,980
+Fine! I'll help you.
+
+232
+00:13:32,010 --> 00:13:32,890
+I'll help you this one time.
+
+233
+00:13:33,940 --> 00:13:34,730
+How?
+
+234
+00:13:34,810 --> 00:13:37,730
+Free overnight for a week?
+
+235
+00:13:38,230 --> 00:13:40,940
+Let's say he won a prize.
+
+236
+00:13:41,480 --> 00:13:43,230
+Overnight for a week?
+
+237
+00:13:43,310 --> 00:13:44,060
+No, no, no...
+
+238
+00:13:45,190 --> 00:13:46,920
+What about free everything for a week?
+
+239
+00:13:47,270 --> 00:13:48,160
+This way,
+
+240
+00:13:48,220 --> 00:13:50,520
+he can swing by anytime he wants.
+
+241
+00:13:51,560 --> 00:13:52,410
+Good idea!
+
+242
+00:13:52,490 --> 00:13:53,060
+Go tell him.
+
+243
+00:13:53,140 --> 00:13:54,350
+Why me?
+
+244
+00:13:54,350 --> 00:13:55,440
+Do you want me to go?
+
+245
+00:13:55,560 --> 00:13:56,590
+Just tell him
+
+246
+00:13:56,620 --> 00:13:58,720
+that he can take part in our drawing today.
+
+247
+00:13:58,750 --> 00:13:59,560
+But,
+
+248
+00:13:59,870 --> 00:14:02,220
+we must add him as a WeChat friend
+
+249
+00:14:02,300 --> 00:14:03,160
+to participate.
+
+250
+00:14:03,520 --> 00:14:05,850
+This cafe doesn't have a WeChat account.
+
+251
+00:14:06,390 --> 00:14:08,200
+We don't? Are you kidding me?
+
+252
+00:14:08,270 --> 00:14:08,690
+I...
+
+253
+00:14:08,770 --> 00:14:10,140
+I don't do marketing!
+
+254
+00:14:10,190 --> 00:14:12,730
+I take money and check the accounts.
+
+255
+00:14:22,270 --> 00:14:25,140
+Nice To See You Cafe?
+
+256
+00:14:27,480 --> 00:14:28,250
+Use my phone.
+
+257
+00:14:28,300 --> 00:14:28,940
+Now go!
+
+258
+00:14:29,070 --> 00:14:30,520
+Oh...
+
+259
+00:14:40,850 --> 00:14:41,440
+Hey, man.
+
+260
+00:14:44,270 --> 00:14:45,060
+Can we talk?
+
+261
+00:14:48,230 --> 00:14:49,560
+We are hosting a drawing
+
+262
+00:14:49,810 --> 00:14:51,190
+for the coming Christmas.
+
+263
+00:14:51,310 --> 00:14:52,560
+You won our grand prize.
+
+264
+00:14:52,690 --> 00:14:54,520
+Free everything for a whole week!
+
+265
+00:14:55,020 --> 00:14:55,690
+No, thanks.
+
+266
+00:14:56,890 --> 00:14:58,460
+But you're the winner!
+
+267
+00:14:58,510 --> 00:14:59,660
+One week totally free.
+
+268
+00:14:59,710 --> 00:15:00,350
+Totally free!
+
+269
+00:15:05,560 --> 00:15:06,140
+Hey.
+
+270
+00:15:10,850 --> 00:15:13,980
+We don't have much change around here.
+
+271
+00:15:14,640 --> 00:15:17,630
+Could you please pay another way?
+
+272
+00:15:18,600 --> 00:15:19,390
+Keep the change.
+
+273
+00:15:20,020 --> 00:15:21,020
+I can't do that!
+
+274
+00:15:21,350 --> 00:15:23,770
+We're running an honest business here,
+
+275
+00:15:23,890 --> 00:15:24,560
+an honest one!
+
+276
+00:15:27,850 --> 00:15:29,100
+I'll pay by WeChat then.
+
+277
+00:15:30,390 --> 00:15:31,810
+I'm very sorry,
+
+278
+00:15:32,060 --> 00:15:35,130
+but our WeChat account isn't working at the moment.
+
+279
+00:15:39,730 --> 00:15:40,770
+Well, how can I pay you then?
+
+280
+00:15:41,440 --> 00:15:42,350
+Personal transfer!
+
+281
+00:15:43,060 --> 00:15:44,690
+But, you would have to
+
+282
+00:15:44,940 --> 00:15:46,140
+add me as a friend.
+
+283
+00:15:50,060 --> 00:15:51,390
+I... I'll add you.
+
+284
+00:15:56,350 --> 00:15:56,980
+Oh right,
+
+285
+00:15:57,100 --> 00:15:58,520
+don't forget your prize.
+
+286
+00:15:58,640 --> 00:15:59,850
+Free everything for a week!
+
+287
+00:15:59,980 --> 00:16:00,910
+Totally free!
+
+288
+00:16:01,020 --> 00:16:01,520
+Remember!
+
+289
+00:16:03,690 --> 00:16:04,350
+You got it?
+
+290
+00:16:05,640 --> 00:16:06,520
+Of course I did.
+
+291
+00:16:07,140 --> 00:16:08,060
+You two are friends now.
+
+292
+00:16:08,520 --> 00:16:09,400
+Come here.
+
+293
+00:16:12,230 --> 00:16:13,020
+Let me see.
+
+294
+00:16:13,350 --> 00:16:14,460
+His WeChat name is GN.
+
+295
+00:16:14,520 --> 00:16:15,270
+Let me see.
+
+296
+00:16:15,390 --> 00:16:16,690
+Check his moments.
+
+297
+00:16:16,810 --> 00:16:17,850
+What does he do?
+
+298
+00:16:21,890 --> 00:16:24,970
+There're nothing but reposts of cyber security news.
+
+299
+00:16:25,230 --> 00:16:26,520
+Do you know what this is?
+
+300
+00:16:27,600 --> 00:16:28,140
+Never mind.
+
+301
+00:16:28,160 --> 00:16:28,960
+Of course you don't.
+
+302
+00:16:29,040 --> 00:16:29,890
+You're computer illiterate.
+
+303
+00:16:29,940 --> 00:16:30,830
+Yeah yeah yeah.
+
+304
+00:16:30,880 --> 00:16:31,550
+I know nothing.
+
+305
+00:16:31,610 --> 00:16:32,320
+I know nothing at all.
+
+306
+00:16:32,400 --> 00:16:32,800
+That's what I am!
+
+307
+00:16:32,880 --> 00:16:33,480
+Problem?
+
+308
+00:16:33,980 --> 00:16:35,980
+I'll find someone who knows about it.
+
+309
+00:17:05,140 --> 00:17:05,810
+Check please.
+
+310
+00:17:09,560 --> 00:17:10,990
+Uh... oh.
+
+311
+00:17:14,560 --> 00:17:15,900
+Aren't you staying overnight?
+
+312
+00:17:15,950 --> 00:17:18,640
+It's only 2 am.
+
+313
+00:17:20,440 --> 00:17:21,390
+Only 2 am?
+
+314
+00:17:23,100 --> 00:17:24,060
+It's pretty late.
+
+315
+00:17:25,100 --> 00:17:27,270
+I'd say it's late if you were
+
+316
+00:17:28,280 --> 00:17:29,400
+a teenager
+
+317
+00:17:29,500 --> 00:17:30,620
+and you should go home.
+
+318
+00:17:30,640 --> 00:17:32,430
+But you're an adult.
+
+319
+00:17:32,490 --> 00:17:33,160
+So...
+
+320
+00:17:44,140 --> 00:17:45,060
+One moment please.
+
+321
+00:17:48,560 --> 00:17:51,230
+What should I say to him?
+
+322
+00:17:54,940 --> 00:17:57,060
+Thanks for coming.
+
+323
+00:17:59,690 --> 00:18:02,380
+Congrats for winning our prize.
+
+324
+00:18:03,140 --> 00:18:04,690
+Please come again.
+
+325
+00:18:05,480 --> 00:18:06,100
+Again?
+
+326
+00:18:10,640 --> 00:18:12,140
+You work here every night?
+
+327
+00:18:17,520 --> 00:18:19,310
+No, not really.
+
+328
+00:18:19,560 --> 00:18:20,640
+I'm on holiday.
+
+329
+00:18:20,720 --> 00:18:22,770
+I'm just here to help my cousin.
+
+330
+00:18:22,850 --> 00:18:24,600
+It's not like I work here.
+
+331
+00:18:27,060 --> 00:18:28,270
+Don't get me wrong.
+
+332
+00:18:28,600 --> 00:18:29,980
+I didn't mean anything else.
+
+333
+00:18:30,890 --> 00:18:32,240
+I just feel it's not safe
+
+334
+00:18:32,330 --> 00:18:33,390
+for a girl to stay here
+
+335
+00:18:34,160 --> 00:18:34,920
+at this hour.
+
+336
+00:18:56,600 --> 00:18:57,190
+Hey!
+
+337
+00:18:57,890 --> 00:18:58,230
+Hey!
+
+338
+00:18:58,310 --> 00:18:59,020
+What?
+
+339
+00:18:59,190 --> 00:18:59,850
+His ID card.
+
+340
+00:19:01,940 --> 00:19:02,770
+Go!
+
+341
+00:19:25,100 --> 00:19:26,020
+Han Shangyan!
+
+342
+00:19:33,310 --> 00:19:35,060
+You left your ID card.
+
+343
+00:19:41,600 --> 00:19:42,230
+Thanks.
+
+344
+00:19:42,890 --> 00:19:43,730
+Sure thing.
+
+345
+00:19:44,890 --> 00:19:47,310
+If you want to book a spot or something,
+
+346
+00:19:47,600 --> 00:19:50,670
+just leave a message on WeChat.
+
+347
+00:19:56,060 --> 00:19:56,690
+See you!
+
+348
+00:20:34,060 --> 00:20:35,390
+If you have a dream,
+
+349
+00:20:36,770 --> 00:20:39,310
+you'll have to fight for it.
+
+350
+00:20:41,100 --> 00:20:42,310
+I came back to China
+
+351
+00:20:43,850 --> 00:20:45,810
+and founded K&K,
+
+352
+00:20:47,100 --> 00:20:49,500
+to help these talented young people
+
+353
+00:20:49,850 --> 00:20:52,060
+realize their dream,
+
+354
+00:20:52,730 --> 00:20:55,120
+which is to win the CTF trophy for China.
+
+355
+00:20:56,940 --> 00:20:58,060
+Their parents
+
+356
+00:20:58,350 --> 00:20:59,960
+chose to put their trust in me
+
+357
+00:20:59,960 --> 00:21:02,400
+and let me coach their kids.
+
+358
+00:21:03,440 --> 00:21:06,090
+So I'm responsible for their future,
+
+359
+00:21:07,690 --> 00:21:09,790
+and that is exactly why
+
+360
+00:21:10,690 --> 00:21:13,760
+I must be stricter on them.
+
+361
+00:21:18,100 --> 00:21:20,520
+For their own sake.
+
+362
+00:21:21,310 --> 00:21:24,060
+After all, they're all so young.
+
+363
+00:21:25,020 --> 00:21:27,270
+They lack determination,
+
+364
+00:21:27,850 --> 00:21:29,520
+and often fool around.
+
+365
+00:21:30,190 --> 00:21:33,500
+They need to change to realize their dreams.
+
+366
+00:21:36,440 --> 00:21:38,190
+My dear teammates,
+
+367
+00:21:39,270 --> 00:21:42,270
+you'll never know what kind of responsibility
+
+368
+00:21:42,770 --> 00:21:44,640
+I am shouldering.
+
+369
+00:21:46,390 --> 00:21:47,360
+But,
+
+370
+00:21:48,640 --> 00:21:49,560
+please trust me.
+
+371
+00:21:51,140 --> 00:21:52,890
+I will not fail you.
+
+372
+00:23:28,440 --> 00:23:29,690
+Did any of you
+
+373
+00:23:29,920 --> 00:23:31,020
+see Boss last night?
+
+374
+00:23:31,390 --> 00:23:32,880
+-No, I didn't.  -Me neither.
+
+375
+00:23:32,940 --> 00:23:33,770
+None of you saw him?
+
+376
+00:23:33,770 --> 00:23:34,390
+No.
+
+377
+00:23:34,810 --> 00:23:37,420
+Did he come back at all?
+
+378
+00:23:37,520 --> 00:23:38,230
+Who knows?
+
+379
+00:23:38,730 --> 00:23:40,840
+He's an adult after all.
+
+380
+00:23:41,060 --> 00:23:42,600
+He can do what he wants to do.
+
+381
+00:23:43,810 --> 00:23:44,940
+So, should we...
+
+382
+00:23:45,060 --> 00:23:45,520
+You go.
+
+383
+00:23:46,020 --> 00:23:47,020
+Come on!
+
+384
+00:23:48,730 --> 00:23:49,480
+Go go go!
+
+385
+00:23:57,140 --> 00:23:57,640
+You go.
+
+386
+00:23:58,560 --> 00:23:59,480
+Me? No way!
+
+387
+00:23:59,560 --> 00:24:00,440
+-Listen to me...  -I'm not going!
+
+388
+00:24:00,520 --> 00:24:01,140
+You're the youngest.
+
+389
+00:24:01,230 --> 00:24:01,980
+Boss won't get mad at you.
+
+390
+00:24:02,060 --> 00:24:03,060
+Go, go knock!
+
+391
+00:24:03,810 --> 00:24:04,770
+He won't get mad at me?
+
+392
+00:24:04,860 --> 00:24:06,200
+Are you kidding?
+
+393
+00:24:17,190 --> 00:24:17,690
+Jeez.
+
+394
+00:24:21,810 --> 00:24:22,780
+Boss.
+
+395
+00:24:22,970 --> 00:24:24,230
+Where were you last night?
+
+396
+00:24:24,350 --> 00:24:25,020
+Why ask?
+
+397
+00:24:25,730 --> 00:24:26,540
+I...
+
+398
+00:24:26,750 --> 00:24:28,060
+I was just worried.
+
+399
+00:24:28,270 --> 00:24:29,600
+Do you feel better now?
+
+400
+00:24:30,350 --> 00:24:31,690
+What if I don't?
+
+401
+00:24:37,640 --> 00:24:38,890
+What is it?
+
+402
+00:24:40,980 --> 00:24:42,690
+Come on, I'm listening.
+
+403
+00:24:43,810 --> 00:24:44,810
+Nothing!
+
+404
+00:24:44,940 --> 00:24:46,730
+I was just worried about you.
+
+405
+00:24:47,850 --> 00:24:49,850
+Do you expect me to thank you?
+
+406
+00:24:56,980 --> 00:24:59,020
+Good morning, Mr. Han.
+
+407
+00:24:59,100 --> 00:25:01,140
+It will be rainy today and tomorrow.
+
+408
+00:25:01,270 --> 00:25:03,640
+Don't forget to bring an umbrella!
+
+409
+00:25:03,730 --> 00:25:05,350
+From Nice To See You Cafe.
+
+410
+00:25:06,060 --> 00:25:06,810
+Seriously, Boss?
+
+411
+00:25:07,560 --> 00:25:08,890
+You have a new friend?
+
+412
+00:25:09,020 --> 00:25:10,140
+Good for you!
+
+413
+00:25:13,060 --> 00:25:14,350
+Why are you still here?
+
+414
+00:25:14,480 --> 00:25:16,720
+Go wash your face and brush your teeth!
+
+415
+00:25:16,780 --> 00:25:18,100
+The bus is waiting downstairs!
+
+416
+00:25:18,390 --> 00:25:19,810
+Don't test my patience!
+
+417
+00:25:24,310 --> 00:25:26,060
+If you're coming tonight,
+
+418
+00:25:26,140 --> 00:25:27,480
+please make a reservation.
+
+419
+00:25:27,600 --> 00:25:29,520
+Contact me if you have any questions!
+
+420
+00:25:38,390 --> 00:25:39,850
+Well? Did he reply?
+
+421
+00:25:42,390 --> 00:25:44,110
+Didn't you send him a bunch of messages?
+
+422
+00:25:44,390 --> 00:25:45,730
+No response.
+
+423
+00:25:58,980 --> 00:25:59,640
+Get off!
+
+424
+00:26:01,310 --> 00:26:03,440
+Let's go!
+
+425
+00:26:05,060 --> 00:26:06,560
+It's raining really hard!
+
+426
+00:26:08,060 --> 00:26:09,350
+Why are we here?
+
+427
+00:26:09,480 --> 00:26:10,350
+I have no idea.
+
+428
+00:26:14,390 --> 00:26:15,850
+What are we going to do here?
+
+429
+00:26:16,560 --> 00:26:17,310
+Boss!
+
+430
+00:26:17,440 --> 00:26:19,060
+Why did you take us here?
+
+431
+00:26:19,140 --> 00:26:20,020
+Boss!
+
+432
+00:26:20,100 --> 00:26:22,700
+Are we here for a picnic or sightseeing?
+
+433
+00:26:23,020 --> 00:26:25,060
+But it's raining so hard...
+
+434
+00:26:25,190 --> 00:26:26,690
+Isn't it nice?
+
+435
+00:26:26,810 --> 00:26:28,440
+A picnic in the rain.
+
+436
+00:26:28,520 --> 00:26:29,190
+Dude,
+
+437
+00:26:29,230 --> 00:26:30,940
+have you lost your mind?
+
+438
+00:26:30,980 --> 00:26:32,640
+Don't be ridiculous.
+
+439
+00:26:32,980 --> 00:26:34,990
+Time for our daily 5-kilometer run!
+
+440
+00:26:35,020 --> 00:26:35,770
+Boss, please!
+
+441
+00:26:35,810 --> 00:26:36,520
+It's raining!
+
+442
+00:26:36,730 --> 00:26:38,390
+Do we have to run in the rain?
+
+443
+00:26:38,810 --> 00:26:40,310
+Captain, say something!
+
+444
+00:26:40,440 --> 00:26:41,310
+Don't make us run today.
+
+445
+00:26:41,390 --> 00:26:42,600
+It's raining so hard!
+
+446
+00:26:42,680 --> 00:26:43,230
+Yeah!
+
+447
+00:26:48,940 --> 00:26:49,690
+Where do we start?
+
+448
+00:26:50,730 --> 00:26:51,980
+What? Captain!
+
+449
+00:26:52,060 --> 00:26:53,690
+Are you serious?
+
+450
+00:26:56,390 --> 00:26:57,810
+1, 2, 1.
+
+451
+00:26:58,060 --> 00:26:59,440
+1, 2, 1.
+
+452
+00:27:00,350 --> 00:27:01,190
+Move it!
+
+453
+00:27:02,440 --> 00:27:03,350
+Run faster!
+
+454
+00:27:11,270 --> 00:27:12,230
+I can't do it!
+
+455
+00:27:13,600 --> 00:27:14,810
+30 rounds!
+
+456
+00:27:14,920 --> 00:27:16,060
+Keep it up!
+
+457
+00:27:16,190 --> 00:27:17,270
+You're too slow.
+
+458
+00:27:17,350 --> 00:27:19,480
+We don't eat lunch until you're done!
+
+459
+00:27:20,690 --> 00:27:21,480
+Faster!
+
+460
+00:27:26,310 --> 00:27:28,270
+1, 2, 3.
+
+461
+00:27:28,390 --> 00:27:30,100
+The first three don't get punished.
+
+462
+00:27:30,940 --> 00:27:32,440
+I'm exhausted!
+
+463
+00:27:32,850 --> 00:27:33,770
+What are you doing?
+
+464
+00:27:33,940 --> 00:27:35,020
+Number 4
+
+465
+00:27:35,310 --> 00:27:37,060
+gets 1 day of New Year holiday deducted.
+
+466
+00:27:37,770 --> 00:27:39,060
+What? Come on!
+
+467
+00:27:39,890 --> 00:27:40,640
+I can't run anymore.
+
+468
+00:27:40,730 --> 00:27:41,480
+Hurry up!
+
+469
+00:27:41,530 --> 00:27:42,270
+You wanna lose my holiday?
+
+470
+00:27:42,350 --> 00:27:43,890
+Run! Hurry up!
+
+471
+00:27:44,310 --> 00:27:46,730
+Boss! Don't do this to us!
+
+472
+00:27:47,060 --> 00:27:47,980
+Hurry up! Let's go!
+
+473
+00:28:00,350 --> 00:28:02,810
+We're holding another drawing!
+
+474
+00:28:03,020 --> 00:28:06,280
+Reply "happy forever"
+
+475
+00:28:06,330 --> 00:28:08,090
+to win a prize!
+
+476
+00:28:20,560 --> 00:28:21,140
+I can't feel my legs.
+
+477
+00:28:24,600 --> 00:28:25,770
+Get up! Get up!
+
+478
+00:28:26,810 --> 00:28:29,100
+Looks like my idea worked, huh?
+
+479
+00:28:29,480 --> 00:28:30,350
+Boss!
+
+480
+00:28:30,730 --> 00:28:32,770
+Your idea of punishment is too cruel!
+
+481
+00:28:32,890 --> 00:28:34,190
+It's the New Year holiday!
+
+482
+00:28:34,350 --> 00:28:36,310
+You have a problem?
+
+483
+00:28:36,480 --> 00:28:38,750
+How many years do you think you have?
+
+484
+00:28:39,100 --> 00:28:40,520
+As a CTF competitor,
+
+485
+00:28:40,690 --> 00:28:43,530
+you only have 6 years to make a name.
+
+486
+00:28:43,940 --> 00:28:46,440
+Seize the time you have.
+
+487
+00:28:47,600 --> 00:28:49,640
+If you waste your 6 years,
+
+488
+00:28:49,890 --> 00:28:52,640
+you won't get another chance
+
+489
+00:28:52,650 --> 00:28:55,360
+even if you spent all of your holidays training for it.
+
+490
+00:28:57,640 --> 00:28:59,480
+It seems you've all forgotten
+
+491
+00:28:59,810 --> 00:29:01,060
+you just lost a match.
+
+492
+00:29:01,600 --> 00:29:03,530
+Looks like you're happy with what you got, huh?
+
+493
+00:29:04,390 --> 00:29:05,350
+Boss!
+
+494
+00:29:05,580 --> 00:29:07,420
+We came in second place.
+
+495
+00:29:07,600 --> 00:29:08,440
+In any case,
+
+496
+00:29:08,560 --> 00:29:10,140
+it's normal to lose to SP.
+
+497
+00:29:10,270 --> 00:29:11,480
+SP is always the winner.
+
+498
+00:29:12,390 --> 00:29:12,810
+Boss,
+
+499
+00:29:12,890 --> 00:29:13,960
+Demo didn't mean what he said.
+
+500
+00:29:13,970 --> 00:29:14,770
+Don't listen to him.
+
+501
+00:29:14,890 --> 00:29:15,850
+Shut up, you!
+
+502
+00:29:15,850 --> 00:29:18,310
+It's normal to lose to SP?
+
+503
+00:29:19,140 --> 00:29:20,060
+You're wrong!
+
+504
+00:29:20,640 --> 00:29:22,600
+The worst thing is to lose to SP!
+
+505
+00:29:23,390 --> 00:29:24,980
+You don't want to lose to Solo.
+
+506
+00:29:25,060 --> 00:29:25,810
+We know that.
+
+507
+00:29:26,060 --> 00:29:26,720
+Are you insane?
+
+508
+00:29:26,760 --> 00:29:27,720
+Don't say that!
+
+509
+00:29:27,940 --> 00:29:29,310
+What? Did I say something wrong?
+
+510
+00:29:30,020 --> 00:29:31,520
+Boss, don't listen to him.
+
+511
+00:29:31,600 --> 00:29:32,730
+He didn't mean it, really.
+
+512
+00:29:32,810 --> 00:29:33,520
+Listen carefully.
+
+513
+00:29:34,390 --> 00:29:35,520
+Losing
+
+514
+00:29:35,900 --> 00:29:37,130
+is never an option for me.
+
+515
+00:29:37,730 --> 00:29:38,560
+Got it?
+
+516
+00:29:43,440 --> 00:29:44,560
+Let me ask you something.
+
+517
+00:29:45,600 --> 00:29:47,230
+You've all been to school.
+
+518
+00:29:47,350 --> 00:29:48,520
+Do you still remember
+
+519
+00:29:49,200 --> 00:29:50,890
+the best student in your class?
+
+520
+00:29:51,060 --> 00:29:52,140
+Of course!
+
+521
+00:29:52,270 --> 00:29:53,240
+I'll never forget.
+
+522
+00:29:53,310 --> 00:29:54,160
+The teachers' favorite.
+
+523
+00:29:54,230 --> 00:29:55,600
+Do you remember who was in the second place?
+
+524
+00:30:03,480 --> 00:30:05,020
+As for the competition,
+
+525
+00:30:05,770 --> 00:30:07,100
+since you're entering it,
+
+526
+00:30:07,730 --> 00:30:08,480
+you must
+
+527
+00:30:08,600 --> 00:30:10,270
+excel in it!
+
+528
+00:30:10,480 --> 00:30:11,310
+Do you hear me?
+
+529
+00:30:11,480 --> 00:30:12,600
+Yes!
+
+530
+00:30:12,730 --> 00:30:13,560
+Louder!
+
+531
+00:30:13,730 --> 00:30:15,440
+Yes! Boss!
+
+532
+00:30:18,230 --> 00:30:18,940
+Let's go eat.
+
+533
+00:30:20,520 --> 00:30:21,770
+Am I wrong?
+
+534
+00:30:46,060 --> 00:30:48,390
+Wu Bai. Come here.
+
+535
+00:31:00,600 --> 00:31:01,690
+Don't do this.
+
+536
+00:31:01,810 --> 00:31:03,060
+They won't be able to handle it.
+
+537
+00:31:03,520 --> 00:31:05,290
+If they can't handle this,
+
+538
+00:31:05,340 --> 00:31:06,770
+they may as well go home now.
+
+539
+00:31:06,940 --> 00:31:08,020
+Am I right?
+
+540
+00:31:09,310 --> 00:31:10,330
+Do me a favor.
+
+541
+00:31:10,540 --> 00:31:11,440
+Withdraw some money.
+
+542
+00:31:11,850 --> 00:31:13,850
+The pin number is 214214.
+
+543
+00:31:15,440 --> 00:31:16,230
+How much?
+
+544
+00:31:16,350 --> 00:31:17,500
+It's up to you.
+
+545
+00:31:17,560 --> 00:31:18,600
+For the holiday.
+
+546
+00:31:18,940 --> 00:31:20,430
+You've already given us an annual bonus.
+
+547
+00:31:21,310 --> 00:31:22,810
+This is different.
+
+548
+00:31:23,190 --> 00:31:24,810
+The bonus is a must.
+
+549
+00:31:24,980 --> 00:31:26,700
+This is a personal gift.
+
+550
+00:31:27,350 --> 00:31:28,270
+So...
+
+551
+00:31:29,100 --> 00:31:29,840
+500 each?
+
+552
+00:31:33,190 --> 00:31:34,020
+Make it 5,000.
+
+553
+00:31:34,390 --> 00:31:35,850
+It's New Year after all.
+
+554
+00:31:37,190 --> 00:31:38,560
+Well, I'm your cousin.
+
+555
+00:31:39,070 --> 00:31:40,170
+Are you giving me a share too?
+
+556
+00:31:41,350 --> 00:31:42,060
+Yep.
+
+557
+00:31:42,690 --> 00:31:44,350
+5,000 per person, handle it.
+
+558
+00:31:45,350 --> 00:31:46,060
+Also,
+
+559
+00:31:47,600 --> 00:31:49,480
+can you block WeChat messages?
+
+560
+00:31:51,690 --> 00:31:54,730
+Nice To See You Cafe?
+
+561
+00:31:56,940 --> 00:31:58,020
+What is it?
+
+562
+00:31:59,640 --> 00:32:01,230
+This is an internet cafe.
+
+563
+00:32:01,390 --> 00:32:03,290
+They keep sending me messages.
+
+564
+00:32:03,480 --> 00:32:04,690
+You can delete the contact.
+
+565
+00:32:04,850 --> 00:32:06,230
+I can do it for you.
+
+566
+00:32:07,060 --> 00:32:08,190
+No, it's okay. Don't bother.
+
+567
+00:32:08,310 --> 00:32:09,060
+Just leave it.
+
+568
+00:32:10,640 --> 00:32:12,890
+Get them something good for lunch.
+
+569
+00:32:13,060 --> 00:32:14,560
+Let them order anything they want.
+
+570
+00:32:15,850 --> 00:32:16,770
+I'll be away for a few days.
+
+571
+00:32:18,190 --> 00:32:18,940
+Understood.
+
+572
+00:32:19,850 --> 00:32:20,640
+For how long?
+
+573
+00:32:21,270 --> 00:32:22,060
+2 days.
+
+574
+00:32:28,800 --> 00:32:29,040
+Hey!
+
+575
+00:32:29,190 --> 00:32:30,350
+Boss just left!
+
+576
+00:32:36,520 --> 00:32:37,940
+Where is he going?
+
+577
+00:32:38,980 --> 00:32:39,770
+Another city.
+
+578
+00:32:40,020 --> 00:32:41,230
+For what?
+
+579
+00:32:42,560 --> 00:32:44,440
+He didn't tell, guess we'll find out.
+
+580
+00:32:44,850 --> 00:32:47,440
+So, can we start eating now?
+
+581
+00:32:47,640 --> 00:32:48,100
+Can we?
+
+582
+00:32:48,310 --> 00:32:49,230
+I'm starving.
+
+583
+00:32:52,890 --> 00:32:54,110
+Finally!
+
+584
+00:32:54,240 --> 00:32:55,440
+I'm famished!
+
+585
+00:33:15,050 --> 00:33:16,140
+Stop doing that!
+
+586
+00:33:16,170 --> 00:33:17,100
+You scared me!
+
+587
+00:33:17,480 --> 00:33:20,350
+Why are you staring at your phone?
+
+588
+00:33:21,060 --> 00:33:23,340
+Is it because the winter holiday is coming?
+
+589
+00:33:24,100 --> 00:33:26,040
+Are you planning to go somewhere?
+
+590
+00:33:26,850 --> 00:33:28,440
+I am not!
+
+591
+00:33:28,520 --> 00:33:30,270
+My cousin runs an internet cafe,
+
+592
+00:33:30,330 --> 00:33:31,440
+it's understaffed.
+
+593
+00:33:31,600 --> 00:33:34,520
+I'll have to give him a hand during the holiday.
+
+594
+00:33:34,560 --> 00:33:36,060
+I don't have time to travel.
+
+595
+00:33:36,140 --> 00:33:37,350
+Listen to me,
+
+596
+00:33:37,560 --> 00:33:41,900
+life is not just about reading and studying
+
+597
+00:33:41,980 --> 00:33:44,170
+and helping your cousin run some internet café.
+
+598
+00:33:44,270 --> 00:33:45,020
+Look around.
+
+599
+00:33:45,140 --> 00:33:47,840
+No one's life is as boring as yours.
+
+600
+00:33:48,270 --> 00:33:49,980
+You should go out,
+
+601
+00:33:50,110 --> 00:33:51,610
+find a man, and fall in love.
+
+602
+00:33:54,980 --> 00:33:55,680
+Yaya.
+
+603
+00:33:55,740 --> 00:33:56,200
+Yeah?
+
+604
+00:33:56,240 --> 00:33:58,020
+How does it feel when you fall in love?
+
+605
+00:34:00,850 --> 00:34:02,350
+You've fallen for someone?
+
+606
+00:34:02,520 --> 00:34:03,900
+Nonsense!
+
+607
+00:34:03,920 --> 00:34:04,840
+I was just asking!
+
+608
+00:34:04,890 --> 00:34:06,060
+You have!
+
+609
+00:34:12,350 --> 00:34:13,520
+Is it Zheng Hui?
+
+610
+00:34:13,690 --> 00:34:14,390
+It must be him!
+
+611
+00:34:14,440 --> 00:34:15,520
+Are you crazy?
+
+612
+00:34:15,550 --> 00:34:16,400
+He's just a friend.
+
+613
+00:34:16,410 --> 00:34:17,240
+-Listen up.  -What?
+
+614
+00:34:17,245 --> 00:34:18,310
+There's nothing between us.
+
+615
+00:34:18,390 --> 00:34:19,230
+I'm serious.
+
+616
+00:34:20,310 --> 00:34:21,100
+Here he comes.
+
+617
+00:34:24,640 --> 00:34:25,890
+Here you are.
+
+618
+00:34:26,060 --> 00:34:26,980
+Thanks.  -Thanks.
+
+619
+00:34:27,230 --> 00:34:29,580
+A cup of juice a day keeps the doctor away.
+
+620
+00:34:34,100 --> 00:34:34,810
+Yaya.
+
+621
+00:34:35,100 --> 00:34:35,640
+Yeah?
+
+622
+00:34:36,190 --> 00:34:38,300
+Can I talk to you alone for a second?
+
+623
+00:34:38,850 --> 00:34:39,770
+Please?
+
+624
+00:34:39,940 --> 00:34:40,850
+Me?
+
+625
+00:34:41,120 --> 00:34:41,710
+Yeah.
+
+626
+00:34:42,100 --> 00:34:43,890
+Not... Tong Nian?
+
+627
+00:34:46,520 --> 00:34:47,190
+No, you.
+
+628
+00:34:50,640 --> 00:34:52,440
+It won't take long, really.
+
+629
+00:34:52,850 --> 00:34:53,520
+Alright.
+
+630
+00:34:53,690 --> 00:34:55,810
+Go go go, take your time.
+
+631
+00:34:56,480 --> 00:34:57,150
+Hey, Tong Nian.
+
+632
+00:34:57,160 --> 00:34:57,520
+Yeah?
+
+633
+00:34:57,690 --> 00:34:59,740
+I'll be back soon.
+
+634
+00:35:00,190 --> 00:35:01,190
+Oh... Okay.
+
+635
+00:35:02,730 --> 00:35:03,770
+Wait for me!
+
+636
+00:35:03,820 --> 00:35:04,620
+Okay.
+
+637
+00:35:15,190 --> 00:35:17,020
+Yaya, here. Come here.
+
+638
+00:35:20,020 --> 00:35:21,640
+The thing is...
+
+639
+00:35:22,640 --> 00:35:23,270
+I mean...
+
+640
+00:35:27,980 --> 00:35:28,730
+Yaya.
+
+641
+00:35:28,750 --> 00:35:29,080
+Yeah?
+
+642
+00:35:29,210 --> 00:35:30,460
+You are such a nice girl.
+
+643
+00:35:31,190 --> 00:35:32,600
+We've known each other for some time.
+
+644
+00:35:33,560 --> 00:35:35,060
+You, you are beautiful,
+
+645
+00:35:35,140 --> 00:35:36,980
+and you are a good student,
+
+646
+00:35:37,600 --> 00:35:38,160
+right?
+
+647
+00:35:38,250 --> 00:35:38,800
+Yeah.
+
+648
+00:35:40,640 --> 00:35:41,770
+As for Tong Nian...
+
+649
+00:35:42,160 --> 00:35:43,270
+she is nice too.
+
+650
+00:35:43,440 --> 00:35:44,160
+Yeah.
+
+651
+00:35:44,680 --> 00:35:46,060
+She's a good student too.
+
+652
+00:35:46,230 --> 00:35:46,770
+Right.
+
+653
+00:35:46,940 --> 00:35:48,890
+I think she is beautiful too.
+
+654
+00:35:48,920 --> 00:35:49,360
+Yeah.
+
+655
+00:35:50,020 --> 00:35:51,440
+So I...
+
+656
+00:35:52,480 --> 00:35:53,500
+You...?
+
+657
+00:35:53,560 --> 00:35:54,590
+So I...
+
+658
+00:35:55,390 --> 00:35:56,270
+I'm thinking...
+
+659
+00:35:56,330 --> 00:35:57,390
+You're thinking...
+
+660
+00:35:57,680 --> 00:35:58,890
+I think, I...
+
+661
+00:36:00,190 --> 00:36:00,850
+You...
+
+662
+00:36:03,600 --> 00:36:04,810
+I got it!
+
+663
+00:36:05,060 --> 00:36:07,140
+You like Tong Nian, don't you?
+
+664
+00:36:08,640 --> 00:36:10,350
+I should have realized it sooner!
+
+665
+00:36:10,400 --> 00:36:11,980
+A cup of juice every day...
+
+666
+00:36:12,520 --> 00:36:13,600
+That's what it's about!
+
+667
+00:36:13,640 --> 00:36:14,480
+Zheng Hui,
+
+668
+00:36:14,940 --> 00:36:16,890
+you could have just told her!
+
+669
+00:36:17,230 --> 00:36:18,940
+Yes, I could have told her.
+
+670
+00:36:19,560 --> 00:36:20,480
+But, I mean,
+
+671
+00:36:20,730 --> 00:36:22,560
+Tong Nian is such a wonderful girl.
+
+672
+00:36:22,730 --> 00:36:25,130
+I'm afraid she will turn me down, and I...
+
+673
+00:36:25,350 --> 00:36:26,230
+Don't worry!
+
+674
+00:36:26,390 --> 00:36:27,730
+You're wonderful too!
+
+675
+00:36:27,890 --> 00:36:29,190
+You and she are both so smart.
+
+676
+00:36:29,350 --> 00:36:32,120
+You two will make a great couple.
+
+677
+00:36:32,560 --> 00:36:34,920
+For the sake of so many cups of juice,
+
+678
+00:36:35,100 --> 00:36:36,100
+I'll help you!
+
+679
+00:36:36,690 --> 00:36:37,470
+You mean it?
+
+680
+00:36:37,500 --> 00:36:37,920
+Yeah!
+
+681
+00:36:38,350 --> 00:36:40,310
+Then, I'm counting on you!
+
+682
+00:36:41,060 --> 00:36:41,600
+Thank you!
+
+683
+00:36:41,980 --> 00:36:42,940
+No worries!  -Thanks!
+
+684
+00:36:43,100 --> 00:36:44,060
+It's not a big deal!  -Thanks!
+
+685
+00:36:44,230 --> 00:36:44,940
+It's my pleasure, really.
+
+686
+00:36:45,020 --> 00:36:46,160
+-Thank you, Yaya.  -No worries.
+
+687
+00:36:46,390 --> 00:36:47,390
+You're so kind!
+
+688
+00:37:14,020 --> 00:37:15,560
+Take whatever you want,
+
+689
+00:37:15,730 --> 00:37:17,980
+and leave the money on the desk.
+
+690
+00:37:19,100 --> 00:37:21,190
+The change is in the box.
+
+691
+00:37:21,730 --> 00:37:25,120
+Cash only. No Alipay, no Apple Pay.
+
+692
+00:37:28,230 --> 00:37:30,690
+I want you. How much?
+
+693
+00:37:31,800 --> 00:37:34,170
+= Mi Shaofei =
+
+694
+00:37:46,440 --> 00:37:47,310
+Han Shangyan!
+
+695
+00:37:49,290 --> 00:37:51,120
+♪ Today ♪
+
+696
+00:37:52,940 --> 00:37:55,600
+♪ Snow's falling in this cold night ♪
+
+697
+00:37:56,040 --> 00:37:59,340
+♪ Wandering the earth with a frozen heart ♪
+
+698
+00:37:59,400 --> 00:38:00,850
+I thought you'd never come back.
+
+699
+00:38:01,230 --> 00:38:02,140
+Well, here I am.
+
+700
+00:38:03,060 --> 00:38:04,310
+I'm here for you.
+
+701
+00:38:07,100 --> 00:38:07,850
+I...
+
+702
+00:38:09,140 --> 00:38:10,910
+I thought I'd never see you again.
+
+703
+00:38:13,520 --> 00:38:15,920
+Stop acting like a little girl! You crying?
+
+704
+00:38:16,170 --> 00:38:16,810
+Shut up!
+
+705
+00:38:20,100 --> 00:38:21,320
+You have to stay for the night.
+
+706
+00:38:21,390 --> 00:38:22,540
+Let's go get some drinks!
+
+707
+00:38:22,640 --> 00:38:23,100
+Hey, hey!
+
+708
+00:38:23,810 --> 00:38:24,730
+What about your store?
+
+709
+00:38:25,060 --> 00:38:26,620
+I'm the boss, don't worry!
+
+710
+00:38:26,700 --> 00:38:26,960
+Let's go!
+
+711
+00:38:26,990 --> 00:38:27,260
+Hey!
+
+712
+00:38:28,360 --> 00:38:29,940
+I've got a match coming.
+
+713
+00:38:30,100 --> 00:38:31,770
+I can only stay for one day.
+
+714
+00:38:33,890 --> 00:38:37,690
+The genius is back in the game?
+
+715
+00:38:38,940 --> 00:38:39,660
+Where's the match?
+
+716
+00:38:39,710 --> 00:38:40,940
+I'll be there.
+
+717
+00:38:41,480 --> 00:38:45,480
+I told you, you should never have retired.
+
+718
+00:38:45,810 --> 00:38:47,350
+I'm already 30.
+
+719
+00:38:47,520 --> 00:38:48,640
+I'm too old for this.
+
+720
+00:38:48,850 --> 00:38:50,020
+Listen to me.
+
+721
+00:38:50,300 --> 00:38:52,190
+You were born to be a CTF player.
+
+722
+00:38:52,350 --> 00:38:53,520
+As long as you are in,
+
+723
+00:38:53,690 --> 00:38:55,440
+you'll definitely win.
+
+724
+00:38:59,890 --> 00:39:00,720
+Enough about me.
+
+725
+00:39:00,720 --> 00:39:01,520
+What about you?
+
+726
+00:39:05,100 --> 00:39:07,440
+What about me?
+
+727
+00:39:09,190 --> 00:39:09,810
+Sit.
+
+728
+00:39:10,850 --> 00:39:11,810
+Talk with me.
+
+729
+00:39:18,190 --> 00:39:21,310
+I put together a CTF club 5 years ago
+
+730
+00:39:21,920 --> 00:39:23,270
+based in Norway.
+
+731
+00:39:23,940 --> 00:39:25,890
+The business went well,
+
+732
+00:39:26,060 --> 00:39:28,060
+so I came back to China,
+
+733
+00:39:28,310 --> 00:39:29,850
+and built a team here.
+
+734
+00:39:31,140 --> 00:39:32,730
+We're a small team,
+
+735
+00:39:32,770 --> 00:39:33,890
+but we've been doing well.
+
+736
+00:39:37,060 --> 00:39:38,240
+They are young,
+
+737
+00:39:38,620 --> 00:39:39,640
+but they have potential.
+
+738
+00:39:40,060 --> 00:39:43,060
+That's big news, man!
+
+739
+00:39:45,940 --> 00:39:46,520
+Wait!
+
+740
+00:39:50,350 --> 00:39:53,850
+K&K club is based in Norway.
+
+741
+00:39:56,250 --> 00:39:56,800
+Yeah.
+
+742
+00:39:57,060 --> 00:40:00,060
+You're the owner of K&K?
+
+743
+00:40:00,640 --> 00:40:01,230
+I am.
+
+744
+00:40:03,150 --> 00:40:05,140
+Good for you!
+
+745
+00:40:05,940 --> 00:40:07,770
+That's amazing!
+
+746
+00:40:08,140 --> 00:40:09,640
+You're well-informed.
+
+747
+00:40:12,310 --> 00:40:13,980
+There's not much to do here.
+
+748
+00:40:14,240 --> 00:40:15,680
+I read the news now and then.
+
+749
+00:40:16,640 --> 00:40:18,600
+Sometimes it upset me
+
+750
+00:40:18,730 --> 00:40:20,020
+and I'd stop reading.
+
+751
+00:40:22,140 --> 00:40:23,100
+You miss the old days?
+
+752
+00:40:24,560 --> 00:40:25,640
+Not really.
+
+753
+00:40:26,230 --> 00:40:26,940
+I don't know.
+
+754
+00:40:29,190 --> 00:40:30,380
+Join me
+
+755
+00:40:30,520 --> 00:40:31,980
+if you do.
+
+756
+00:40:36,390 --> 00:40:37,480
+Don't be ridiculous!
+
+757
+00:40:38,940 --> 00:40:41,290
+I can't be more serious, Shaofei.
+
+758
+00:40:41,980 --> 00:40:44,160
+Join me and fight with us.
+
+759
+00:40:44,890 --> 00:40:46,390
+I'm too old to fight now.
+
+760
+00:40:46,770 --> 00:40:48,590
+You're younger than me.
+
+761
+00:40:48,640 --> 00:40:49,810
+Don't say you're old.
+
+762
+00:40:50,810 --> 00:40:52,780
+I flied all the way here from Shanghai
+
+763
+00:40:52,810 --> 00:40:54,350
+to find you, you know that?
+
+764
+00:40:56,560 --> 00:41:00,240
+Man, I don't have the energy or skills anymore.
+
+765
+00:41:00,600 --> 00:41:01,850
+Alright, forget it.
+
+766
+00:41:01,890 --> 00:41:03,060
+Let's go get some drinks!
+
+767
+00:41:03,730 --> 00:41:05,800
+I'm meeting with someone you know.
+
+768
+00:41:06,230 --> 00:41:06,770
+Let's go!
+
+769
+00:41:06,890 --> 00:41:07,440
+Who?
+
+770
+00:41:07,940 --> 00:41:09,440
+You'll find out! Come on!
+
+771
+00:41:14,100 --> 00:41:14,730
+Come on!
+
+772
+00:41:22,850 --> 00:41:24,350
+So mysterious!
+
+773
+00:41:24,690 --> 00:41:25,850
+Is it your girlfriend?
+
+774
+00:41:26,230 --> 00:41:27,730
+Stop joking.
+
+775
+00:41:27,810 --> 00:41:29,060
+No girl would want me.
+
+776
+00:41:33,360 --> 00:41:33,960
+Hey!
+
+777
+00:41:34,270 --> 00:41:35,230
+There he is!
+
+778
+00:41:36,980 --> 00:41:38,600
+Dude! This is a nice place!
+
+779
+00:41:40,090 --> 00:41:42,410
+= Member of SP: Ou Qiang =
+
+780
+00:41:43,230 --> 00:41:44,020
+Shangyan?
+
+781
+00:41:48,020 --> 00:41:49,060
+When did you come back?
+
+782
+00:41:49,230 --> 00:41:50,730
+You look guilty.
+
+783
+00:41:50,810 --> 00:41:51,690
+What's the problem?
+
+784
+00:41:52,480 --> 00:41:53,810
+Are you kidding?
+
+785
+00:41:53,890 --> 00:41:55,140
+Why would I feel guilty?
+
+786
+00:41:55,980 --> 00:41:57,600
+I'm just surprised, that's all.
+
+787
+00:42:00,140 --> 00:42:01,520
+There's another person coming.
+
+788
+00:42:01,600 --> 00:42:02,310
+Who?
+
+789
+00:42:17,080 --> 00:42:21,150
+♪ Why is my heart beating so fast? ♪
+
+790
+00:42:21,290 --> 00:42:25,390
+♪ I want to rest in your pretty eyes ♪
+
+791
+00:42:25,600 --> 00:42:27,630
+♪ The storms of love ♪
+
+792
+00:42:27,630 --> 00:42:31,880
+♪ Blow away my cover at once ♪
+
+793
+00:42:33,760 --> 00:42:37,930
+♪ You're the drug I'm addicted to ♪
+
+794
+00:42:38,040 --> 00:42:42,190
+♪ You are the only one in my heart ♪
+
+795
+00:42:42,190 --> 00:42:45,160
+♪ What else should I do? ♪
+
+796
+00:42:45,310 --> 00:42:51,130
+♪ So that I can be your only love? ♪
+
+797
+00:42:51,130 --> 00:42:55,340
+♪ We're a match, like bread and butter ♪
+
+798
+00:42:55,340 --> 00:42:59,480
+♪ No one can separate us ♪
+
+799
+00:42:59,480 --> 00:43:04,030
+♪ Our love is as sweet as it should be ♪
+
+800
+00:43:04,030 --> 00:43:07,740
+♪ Your smile is the source of my happiness ♪
+
+801
+00:43:07,840 --> 00:43:12,080
+♪ I love you, like bread loves butter ♪
+
+802
+00:43:12,080 --> 00:43:16,090
+♪ Bittersweet is the taste of love ♪
+
+803
+00:43:16,090 --> 00:43:20,380
+♪ The wonderful flavor of memories ♪
+
+804
+00:43:20,380 --> 00:43:26,590
+♪ Will you forever be my harbor? ♪
+
+805
+00:43:28,730 --> 00:43:32,830
+♪ I love you, like bread loves butter ♪
+
+806
+00:43:32,830 --> 00:43:37,040
+♪ No one can separate us ♪
+
+807
+00:43:37,040 --> 00:43:41,800
+♪ Our love is as sweet as it should be ♪
+
+808
+00:43:41,800 --> 00:43:45,200
+♪ Your smile is the source of my happiness ♪
+
+809
+00:43:45,370 --> 00:43:49,500
+♪ I love you, like bread loves butter ♪
+
+810
+00:43:49,500 --> 00:43:53,760
+♪ Bittersweet is the taste of love ♪
+
+811
+00:43:53,760 --> 00:43:58,000
+♪ The wonderful flavor of memories ♪
+
+812
+00:43:58,000 --> 00:44:04,330
+♪ Will you forever be my harbor? ♪
