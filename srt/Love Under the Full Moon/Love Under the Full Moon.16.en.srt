@@ -1,0 +1,3498 @@
+1
+00:00:00,000 --> 00:00:10,000
+[English subtitles are available]
+
+2
+00:01:57,480 --> 00:01:59,919
+[Love Under The Full Moon]
+
+3
+00:02:00,000 --> 00:02:03,000
+[Episode 16]
+
+4
+00:02:04,800 --> 00:02:06,240
+I'm working overtime now.
+
+5
+00:02:07,430 --> 00:02:08,230
+Yes.
+
+6
+00:02:11,000 --> 00:02:12,310
+About a month.
+
+7
+00:02:13,470 --> 00:02:14,270
+I promise I'll get it done.
+
+8
+00:02:15,150 --> 00:02:16,030
+Don't worry, Mr. Wang.
+
+9
+00:02:16,520 --> 00:02:17,430
+Alright, bye.
+
+10
+00:02:23,240 --> 00:02:25,240
+[Xu Xiao Dong]
+
+11
+00:02:36,430 --> 00:02:37,230
+Hello?
+
+12
+00:02:39,190 --> 00:02:39,990
+Xu Xiao Dong.
+
+13
+00:02:42,360 --> 00:02:43,590
+You were in my office.
+
+14
+00:02:46,470 --> 00:02:47,270
+What?
+
+15
+00:02:48,590 --> 00:02:50,000
+You want to talk to me?
+
+16
+00:02:51,120 --> 00:02:51,920
+Sorry,
+
+17
+00:02:52,030 --> 00:02:53,030
+I don't have time.
+
+18
+00:02:53,590 --> 00:02:54,350
+Also,
+
+19
+00:02:54,430 --> 00:02:56,120
+you're fired.
+
+20
+00:02:56,400 --> 00:02:57,710
+Stop harassing me.
+
+21
+00:02:59,750 --> 00:03:00,550
+Crazy man.
+
+22
+00:03:19,190 --> 00:03:20,030
+How did you get in?
+
+23
+00:03:22,630 --> 00:03:23,430
+I walked in.
+
+24
+00:03:24,310 --> 00:03:26,000
+I've been waiting for you for a long time.
+
+25
+00:03:26,520 --> 00:03:26,790
+Mr. Zhao,
+
+26
+00:03:26,870 --> 00:03:28,350
+don't you think it's a bit rude to
+
+27
+00:03:28,430 --> 00:03:29,750
+hang up on me like that?
+
+28
+00:03:30,000 --> 00:03:30,800
+Xu Xiao Dong,
+
+29
+00:03:31,360 --> 00:03:32,070
+if you have a problem
+
+30
+00:03:32,150 --> 00:03:32,829
+with the company's decision
+
+31
+00:03:32,910 --> 00:03:33,710
+to dismiss you,
+
+32
+00:03:34,150 --> 00:03:35,240
+you can get a lawyer.
+
+33
+00:03:36,190 --> 00:03:37,079
+But let me warn you,
+
+34
+00:03:37,470 --> 00:03:39,360
+if you are coming in here to cause trouble,
+
+35
+00:03:39,750 --> 00:03:40,710
+you've come to the wrong place.
+
+36
+00:03:41,310 --> 00:03:42,150
+Please get out,
+
+37
+00:03:42,430 --> 00:03:43,430
+or I'll call the cops now.
+
+38
+00:03:44,000 --> 00:03:44,550
+Mr. Zhao,
+
+39
+00:03:44,630 --> 00:03:45,430
+calm down, calm down.
+
+40
+00:03:45,870 --> 00:03:47,000
+I came here for no other reason than
+
+41
+00:03:47,190 --> 00:03:47,950
+to talk to you about
+
+42
+00:03:48,030 --> 00:03:49,400
+the company's
+
+43
+00:03:50,120 --> 00:03:51,030
+product development.
+
+44
+00:03:51,590 --> 00:03:52,070
+You see,
+
+45
+00:03:52,150 --> 00:03:52,670
+Yao Yang Tech
+
+46
+00:03:52,750 --> 00:03:53,960
+is such a big company,
+
+47
+00:03:54,150 --> 00:03:55,520
+it wasn't easy to get in.
+
+48
+00:03:55,840 --> 00:03:56,640
+Let me just grab my phone.
+
+49
+00:04:00,800 --> 00:04:01,600
+Oh right, Mr. Zhao,
+
+50
+00:04:01,750 --> 00:04:03,590
+I have a question for you.
+
+51
+00:04:04,000 --> 00:04:04,800
+About
+
+52
+00:04:05,750 --> 00:04:07,360
+changing the author's prefatory note,
+
+53
+00:04:07,510 --> 00:04:09,269
+changing underlying protocol,
+
+54
+00:04:09,390 --> 00:04:10,720
+removing the author's signature,
+
+55
+00:04:10,920 --> 00:04:12,830
+and then marking these as
+
+56
+00:04:12,920 --> 00:04:14,560
+your own open-source work,
+
+57
+00:04:14,750 --> 00:04:16,120
+is that considered plagiarism?
+
+58
+00:04:16,240 --> 00:04:16,670
+I don't have time
+
+59
+00:04:16,750 --> 00:04:17,870
+for this nonsense.
+
+60
+00:04:18,360 --> 00:04:19,160
+Are you leaving or not?
+
+61
+00:04:25,600 --> 00:04:26,400
+Zhao Yao Yang,
+
+62
+00:04:27,159 --> 00:04:27,960
+the stuff in that room.
+
+63
+00:04:28,070 --> 00:04:29,120
+I believe you don't want
+
+64
+00:04:29,270 --> 00:04:30,240
+others to find out, right?
+
+65
+00:04:32,190 --> 00:04:33,680
+With just a tap on my phone,
+
+66
+00:04:35,830 --> 00:04:36,680
+all the major websites,
+
+67
+00:04:37,040 --> 00:04:38,000
+all the media
+
+68
+00:04:38,240 --> 00:04:39,310
+will learn
+
+69
+00:04:39,750 --> 00:04:41,270
+your dirty little secret.
+
+70
+00:04:44,390 --> 00:04:45,190
+You're a businessman.
+
+71
+00:04:46,159 --> 00:04:46,960
+I believe
+
+72
+00:04:47,720 --> 00:04:49,000
+you wouldn't let your hard work
+
+73
+00:04:50,870 --> 00:04:52,000
+go down the drain.
+
+74
+00:04:53,430 --> 00:04:54,750
+Even if you manage to grab the phone,
+
+75
+00:04:55,360 --> 00:04:56,270
+do you think you'll be okay?
+
+76
+00:05:11,190 --> 00:05:11,990
+Fine,
+
+77
+00:05:12,630 --> 00:05:13,720
+Xu Xiao Dong,
+
+78
+00:05:14,720 --> 00:05:15,520
+you are something.
+
+79
+00:05:16,240 --> 00:05:18,070
+Go on, tell me what you want.
+
+80
+00:05:20,600 --> 00:05:22,390
+The one who was accused of plagiarism
+
+81
+00:05:22,870 --> 00:05:24,270
+after you stole
+
+82
+00:05:25,360 --> 00:05:26,159
+the patent for
+
+83
+00:05:26,240 --> 00:05:29,680
+his research and development, Xu Wei Yi,
+
+84
+00:05:30,120 --> 00:05:30,920
+do you remember him?
+
+85
+00:05:32,270 --> 00:05:33,360
+I don't know Xu Wei Yi.
+
+86
+00:05:34,430 --> 00:05:35,920
+The person who framed Xu Wei Yi,
+
+87
+00:05:36,040 --> 00:05:36,870
+please tell me
+
+88
+00:05:37,000 --> 00:05:38,000
+who else could it be but you?
+
+89
+00:05:38,270 --> 00:05:39,360
+I don't know what you're talking about.
+
+90
+00:05:39,510 --> 00:05:40,159
+You fired me
+
+91
+00:05:40,240 --> 00:05:41,680
+because you found out that
+
+92
+00:05:41,830 --> 00:05:42,750
+Xu Wei Yi is my father.
+
+93
+00:05:42,830 --> 00:05:43,280
+I told you.
+
+94
+00:05:43,360 --> 00:05:43,750
+Wasn't it?
+
+95
+00:05:43,830 --> 00:05:44,680
+I don't know Xu Wei Yi!
+
+96
+00:05:52,950 --> 00:05:54,360
+I can give you anything you want.
+
+97
+00:05:55,240 --> 00:05:56,310
+You have 24 hours.
+
+98
+00:06:02,000 --> 00:06:02,920
+I'll be waiting for you to tell me the truth
+
+99
+00:06:03,000 --> 00:06:03,830
+about what happened back then.
+
+100
+00:06:19,480 --> 00:06:21,800
+[Zhao Yao Yang]
+
+101
+00:06:23,400 --> 00:06:24,720
+[Zhao Yao Yang]
+
+102
+00:06:26,680 --> 00:06:27,480
+Hello.
+
+103
+00:06:27,630 --> 00:06:28,350
+[Mr. Wei,]
+
+104
+00:06:28,430 --> 00:06:29,230
+[it's me.]
+
+105
+00:06:30,390 --> 00:06:31,190
+You were right.
+
+106
+00:06:31,830 --> 00:06:33,510
+I underestimated Xu Xiao Dong.
+
+107
+00:06:33,870 --> 00:06:34,720
+[The plagiarized code]
+
+108
+00:06:34,800 --> 00:06:36,040
+[of Family First that I gave you before]
+
+109
+00:06:36,159 --> 00:06:36,960
+[can't be used anymore.]
+
+110
+00:06:37,070 --> 00:06:38,360
+[I'm afraid the truth about ten years ago]
+
+111
+00:06:38,720 --> 00:06:39,750
+[can no longer stay buried.]
+
+112
+00:06:52,360 --> 00:06:53,750
+Isn't it too late
+
+113
+00:06:55,360 --> 00:06:56,430
+to shirk responsibility now?
+
+114
+00:07:05,190 --> 00:07:06,510
+Send some men to get Zhao Yao Yang.
+
+115
+00:07:07,070 --> 00:07:08,360
+Meanwhile, keep a close watch on Xu Xiao Dong
+
+116
+00:07:08,800 --> 00:07:09,600
+and
+
+117
+00:07:11,120 --> 00:07:11,920
+Lei Chu Xia.
+
+118
+00:07:17,870 --> 00:07:18,670
+Xiao Dong,
+
+119
+00:07:19,310 --> 00:07:20,600
+are you sure it's a good idea
+
+120
+00:07:20,680 --> 00:07:21,480
+to confront him openly like that?
+
+121
+00:07:21,630 --> 00:07:23,310
+You've been investigating in secret for ten years,
+
+122
+00:07:23,830 --> 00:07:25,240
+and you exposed yourself now
+
+123
+00:07:25,480 --> 00:07:26,360
+without having any hard evidence,
+
+124
+00:07:28,240 --> 00:07:29,480
+what if you alert them?
+
+125
+00:07:29,680 --> 00:07:30,600
+Zhao Yao Yang already knows
+
+126
+00:07:30,680 --> 00:07:32,040
+that I am Xu Wei Yi's son.
+
+127
+00:07:32,360 --> 00:07:33,750
+If I keep hiding,
+
+128
+00:07:34,830 --> 00:07:36,120
+I would only get stuck in a dead-end.
+
+129
+00:07:37,310 --> 00:07:39,680
+It's time to go head to head with him.
+
+130
+00:07:41,040 --> 00:07:41,350
+You're doing this
+
+131
+00:07:41,430 --> 00:07:42,720
+because of Chu Xia, aren't you?
+
+132
+00:07:44,480 --> 00:07:46,560
+You want to find out the truth quickly,
+
+133
+00:07:46,720 --> 00:07:48,950
+and to prove Chu Xia is innocent at the same time.
+
+134
+00:07:49,190 --> 00:07:50,430
+I've always believed Chu Xia,
+
+135
+00:07:50,510 --> 00:07:51,310
+okay?
+
+136
+00:07:52,630 --> 00:07:53,430
+Really?
+
+137
+00:07:53,920 --> 00:07:54,720
+That's enough.
+
+138
+00:07:54,920 --> 00:07:55,640
+I've started tracking
+
+139
+00:07:55,720 --> 00:07:56,720
+Zhao Yao Yang with Turing.
+
+140
+00:07:57,310 --> 00:07:58,600
+As soon as Zhao Yao Yang makes a move,
+
+141
+00:07:59,720 --> 00:08:01,040
+I'll be able to follow the trail
+
+142
+00:08:01,360 --> 00:08:02,560
+to catch the people behind him.
+
+143
+00:08:16,950 --> 00:08:17,670
+Mr. Wei,
+
+144
+00:08:17,750 --> 00:08:18,520
+we didn't find anything
+
+145
+00:08:18,600 --> 00:08:19,560
+in Xu Xiao Dong's house.
+
+146
+00:08:19,680 --> 00:08:20,870
+But we got something
+
+147
+00:08:20,950 --> 00:08:21,830
+on Mr. Zhao Yao Yang's side.
+
+148
+00:08:22,320 --> 00:08:23,669
+Xu Xiao Dong went to Yao Yang Tech
+
+149
+00:08:23,750 --> 00:08:24,630
+to cause trouble with Mr. Zhao.
+
+150
+00:08:24,720 --> 00:08:25,870
+And he has been gathering information about
+
+151
+00:08:26,000 --> 00:08:27,549
+the relationship between you and Zhao Yao Yang.
+
+152
+00:08:31,440 --> 00:08:32,600
+You're saying that
+
+153
+00:08:32,960 --> 00:08:34,910
+Xu Xiao Dong not only suspected Zhao Yao Yang,
+
+154
+00:08:35,790 --> 00:08:36,790
+he's also suspecting me,
+
+155
+00:08:36,910 --> 00:08:37,840
+who has been in contact with Zhao Yao Yang?
+
+156
+00:08:38,360 --> 00:08:39,160
+Yes.
+
+157
+00:08:41,320 --> 00:08:42,550
+Have you reached Zhao Yao Yang?
+
+158
+00:08:43,080 --> 00:08:43,880
+Mr. Zhao
+
+159
+00:08:44,320 --> 00:08:45,480
+has become uncontactable.
+
+160
+00:08:51,000 --> 00:08:51,800
+[Sorry,]
+
+161
+00:08:52,080 --> 00:08:53,190
+[the number you dialled]
+
+162
+00:08:53,270 --> 00:08:54,550
+[is not available at the moment.]
+
+163
+00:08:54,840 --> 00:08:55,910
+[Please try again later.]
+
+164
+00:08:58,840 --> 00:08:59,640
+Zhao Yao Yang,
+
+165
+00:09:00,840 --> 00:09:02,320
+do you really think you can hide from me?
+
+166
+00:09:24,080 --> 00:09:25,320
+24 hours have passed,
+
+167
+00:09:25,670 --> 00:09:27,080
+and Zhao Yao Yang hasn't replied yet.
+
+168
+00:09:27,390 --> 00:09:28,320
+Looks like he's determined to
+
+169
+00:09:28,440 --> 00:09:29,240
+hide until the matter goes away.
+
+170
+00:09:33,150 --> 00:09:33,800
+This is a villa that
+
+171
+00:09:33,800 --> 00:09:34,200
+[Most Expensive Foreclosed Property in 2011]
+This is a villa that
+
+172
+00:09:34,200 --> 00:09:35,310
+[Most Expensive Foreclosed Property in 2011]
+Zhao Yao Yang bought in the name of others
+
+173
+00:09:35,310 --> 00:09:35,390
+[Most Expensive Foreclosed Property in 2011]
+
+174
+00:09:35,390 --> 00:09:36,240
+[Most Expensive Foreclosed Property in 2011]
+ten years ago.
+
+175
+00:09:36,240 --> 00:09:36,870
+[Most Expensive Foreclosed Property in 2011]
+
+176
+00:09:36,870 --> 00:09:38,270
+[Most Expensive Foreclosed Property in 2011]
+It's not on his property inventory,
+
+177
+00:09:38,270 --> 00:09:38,790
+[Most Expensive Foreclosed Property in 2011]
+
+178
+00:09:38,790 --> 00:09:39,910
+[Most Expensive Foreclosed Property in 2011]
+that's why I didn't find out.
+
+179
+00:09:40,360 --> 00:09:42,630
+Fortunately, history always leaves a trail behind.
+
+180
+00:09:43,550 --> 00:09:44,310
+By the way,
+
+181
+00:09:44,390 --> 00:09:45,440
+don't tell Chu Xia.
+
+182
+00:09:46,270 --> 00:09:47,070
+Why?
+
+183
+00:09:47,720 --> 00:09:48,470
+I have a feeling that
+
+184
+00:09:48,550 --> 00:09:49,440
+I've been followed lately.
+
+185
+00:09:50,120 --> 00:09:51,840
+My house was broken into.
+
+186
+00:09:52,720 --> 00:09:53,870
+I've been watching Zhao Yao Yang
+
+187
+00:09:53,960 --> 00:09:54,400
+too closely,
+
+188
+00:09:54,480 --> 00:09:55,510
+someone must've found out.
+
+189
+00:09:56,390 --> 00:09:57,360
+I don't want to get Chu Xia involved.
+
+190
+00:09:58,480 --> 00:09:59,910
+You can tell her directly.
+
+191
+00:10:00,360 --> 00:10:01,480
+Do you think after I tell her,
+
+192
+00:10:02,550 --> 00:10:03,600
+she won't get worried anymore?
+
+193
+00:10:04,000 --> 00:10:05,360
+After all, it's my father's business,
+
+194
+00:10:05,910 --> 00:10:07,030
+which makes it mine too.
+
+195
+00:10:08,240 --> 00:10:09,270
+I want to take care of it myself.
+
+196
+00:10:10,270 --> 00:10:11,070
+Okay.
+
+197
+00:10:29,150 --> 00:10:30,270
+This is the place they're coming to.
+
+198
+00:10:30,510 --> 00:10:31,510
+Jin Xiao Rui doesn't dare
+
+199
+00:10:31,630 --> 00:10:32,790
+to lie to me now.
+
+200
+00:10:34,630 --> 00:10:35,470
+Are you really not going
+
+201
+00:10:35,550 --> 00:10:36,630
+to tell Xu Xiao Dong?
+
+202
+00:10:37,840 --> 00:10:38,790
+He didn't want me to come,
+
+203
+00:10:38,960 --> 00:10:39,310
+it must be because he didn't want me
+
+204
+00:10:39,390 --> 00:10:40,360
+to put myself in danger.
+
+205
+00:10:40,910 --> 00:10:41,710
+But this is a matter
+
+206
+00:10:41,790 --> 00:10:42,840
+of my innocence.
+
+207
+00:10:43,120 --> 00:10:44,510
+I have to take care of it myself.
+
+208
+00:10:46,080 --> 00:10:46,880
+Come on, let's go and take a look.
+
+209
+00:10:50,390 --> 00:10:51,480
+Hour maids are not allowed in.
+
+210
+00:10:53,390 --> 00:10:54,480
+Have you ever seen any hour maids
+
+211
+00:10:54,600 --> 00:10:55,670
+dressed like this?
+
+212
+00:10:56,320 --> 00:10:57,200
+You're not hour maids.
+
+213
+00:10:58,000 --> 00:10:59,030
+All the more reason you can't go in.
+
+214
+00:10:59,390 --> 00:11:01,150
+If something happens,
+
+215
+00:11:01,270 --> 00:11:02,070
+who will take responsibility?
+
+216
+00:11:04,670 --> 00:11:06,390
+Open your eyes and look at us.
+
+217
+00:11:06,630 --> 00:11:08,390
+Do we look like bad guys?
+
+218
+00:11:15,000 --> 00:11:15,790
+Why are they allowed
+
+219
+00:11:15,870 --> 00:11:16,550
+to drive in?
+
+220
+00:11:16,630 --> 00:11:17,160
+Look at
+
+221
+00:11:17,240 --> 00:11:18,320
+the brand of car they drive.
+
+222
+00:11:18,630 --> 00:11:19,310
+So what if they have a car?
+
+223
+00:11:19,390 --> 00:11:20,390
+So what if they are rich?
+
+224
+00:11:20,600 --> 00:11:21,550
+Just because he's rich,
+
+225
+00:11:21,720 --> 00:11:22,430
+does it mean he's not a scammer
+
+226
+00:11:22,510 --> 00:11:23,390
+or a bad guy?
+
+227
+00:11:33,030 --> 00:11:34,240
+I didn't mean to tell her.
+
+228
+00:11:34,390 --> 00:11:35,670
+Yuan Yuan grabbed my phone.
+
+229
+00:11:38,390 --> 00:11:39,120
+Just go.
+
+230
+00:11:39,200 --> 00:11:40,750
+You're unbelievable.
+
+231
+00:11:47,200 --> 00:11:48,000
+Excuse me,
+
+232
+00:11:48,080 --> 00:11:48,430
+they are
+
+233
+00:11:48,510 --> 00:11:49,480
+our hour maids.
+
+234
+00:11:50,790 --> 00:11:51,590
+Okay, okay.
+
+235
+00:11:51,790 --> 00:11:52,840
+I'm sorry, girls.
+
+236
+00:11:53,120 --> 00:11:53,920
+Please.
+
+237
+00:11:54,120 --> 00:11:55,320
+What are you waiting for, hour maids?
+
+238
+00:12:08,440 --> 00:12:09,320
+Ouch, ouch.
+
+239
+00:12:09,320 --> 00:12:12,640
+[No. 189, 5A]
+
+240
+00:12:15,200 --> 00:12:16,360
+No. 189, 5A.
+
+241
+00:12:17,000 --> 00:12:17,950
+This is Zhao Yao Yang's
+
+242
+00:12:18,030 --> 00:12:18,830
+foreclosed villa.
+
+243
+00:12:20,840 --> 00:12:22,440
+I just walked around.
+
+244
+00:12:22,670 --> 00:12:24,360
+The environment around
+
+245
+00:12:24,440 --> 00:12:25,480
+is really nice.
+
+246
+00:12:25,840 --> 00:12:27,000
+Looks like Zhao Yao Yang
+
+247
+00:12:27,200 --> 00:12:28,480
+definitely makes a lot of money.
+
+248
+00:12:29,550 --> 00:12:30,160
+I've set up
+
+249
+00:12:30,240 --> 00:12:31,240
+a motion capture system.
+
+250
+00:12:31,390 --> 00:12:32,320
+Whenever there is movement in his house,
+
+251
+00:12:32,550 --> 00:12:33,390
+it will alert us.
+
+252
+00:12:33,670 --> 00:12:34,600
+That's brilliant, Xiao Dong.
+
+253
+00:12:34,910 --> 00:12:35,590
+We won't have to bother
+
+254
+00:12:35,670 --> 00:12:36,550
+with surveillance.
+
+255
+00:12:54,440 --> 00:12:55,600
+Are you upset?
+
+256
+00:12:58,870 --> 00:12:59,670
+No.
+
+257
+00:13:00,000 --> 00:13:00,910
+I just suddenly
+
+258
+00:13:01,550 --> 00:13:02,720
+thought about my dad.
+
+259
+00:13:05,320 --> 00:13:05,920
+He used to
+
+260
+00:13:06,000 --> 00:13:07,080
+like to sit under an old tree too.
+
+261
+00:13:08,790 --> 00:13:09,630
+He told me that
+
+262
+00:13:10,390 --> 00:13:11,360
+when he shared all his happiness
+
+263
+00:13:11,510 --> 00:13:12,390
+with the tree,
+
+264
+00:13:12,600 --> 00:13:13,550
+he would gain strength;
+
+265
+00:13:14,440 --> 00:13:15,240
+when he shared all his unhappiness
+
+266
+00:13:15,390 --> 00:13:16,480
+with the tree,
+
+267
+00:13:17,240 --> 00:13:18,750
+all his worries would be gone.
+
+268
+00:13:19,840 --> 00:13:20,790
+This is who he is.
+
+269
+00:13:21,270 --> 00:13:22,480
+He likes to
+
+270
+00:13:23,150 --> 00:13:24,200
+keep everything to himself.
+
+271
+00:13:25,390 --> 00:13:26,750
+Every time I hear you talk about your dad,
+
+272
+00:13:26,870 --> 00:13:27,960
+I can feel that
+
+273
+00:13:28,080 --> 00:13:28,880
+he is a good father.
+
+274
+00:13:31,200 --> 00:13:32,000
+You know,
+
+275
+00:13:32,790 --> 00:13:33,360
+I have
+
+276
+00:13:33,440 --> 00:13:35,080
+a game console that I grew up playing with.
+
+277
+00:13:35,550 --> 00:13:36,120
+My dad
+
+278
+00:13:36,200 --> 00:13:37,240
+carved some words on it for me.
+
+279
+00:13:37,960 --> 00:13:38,760
+What are those words?
+
+280
+00:13:40,240 --> 00:13:41,040
+To Xiao Dong,
+
+281
+00:13:41,120 --> 00:13:41,920
+my son.
+
+282
+00:13:44,480 --> 00:13:45,480
+But at that time,
+
+283
+00:13:46,240 --> 00:13:47,200
+I was rebellious and immature.
+
+284
+00:13:48,080 --> 00:13:49,870
+I always caused him trouble.
+
+285
+00:13:51,390 --> 00:13:53,000
+So I made up my mind
+
+286
+00:13:53,870 --> 00:13:55,080
+to find out the truth
+
+287
+00:13:55,870 --> 00:13:56,670
+and clear his name.
+
+288
+00:13:57,480 --> 00:13:58,550
+I think
+
+289
+00:13:59,960 --> 00:14:00,470
+as long as you don't lose
+
+290
+00:14:00,550 --> 00:14:01,840
+the courage to face everything,
+
+291
+00:14:02,670 --> 00:14:03,070
+any difficulty
+
+292
+00:14:03,150 --> 00:14:04,150
+can be defeated.
+
+293
+00:14:08,240 --> 00:14:09,070
+Why does it
+
+294
+00:14:09,150 --> 00:14:10,000
+sound so familiar?
+
+295
+00:14:15,440 --> 00:14:16,240
+The
+
+296
+00:14:16,320 --> 00:14:17,320
+old fairy lady
+
+297
+00:14:17,440 --> 00:14:18,240
+said the same thing before.
+
+298
+00:14:18,390 --> 00:14:19,190
+She said something similar
+
+299
+00:14:19,440 --> 00:14:20,550
+to encourage me.
+
+300
+00:14:21,480 --> 00:14:22,960
+You mean the person you told me about last time?
+
+301
+00:14:23,240 --> 00:14:24,200
+Are you still in touch with her?
+
+302
+00:14:24,480 --> 00:14:25,280
+No.
+
+303
+00:14:25,670 --> 00:14:26,720
+Ten years have passed.
+
+304
+00:14:26,910 --> 00:14:27,750
+I've lost touch with her a long time ago.
+
+305
+00:14:28,270 --> 00:14:30,000
+Besides, I didn't see clearly
+
+306
+00:14:30,080 --> 00:14:30,960
+what she looked like.
+
+307
+00:14:31,120 --> 00:14:32,550
+I think even if we stand together now,
+
+308
+00:14:32,630 --> 00:14:33,360
+face to face,
+
+309
+00:14:33,440 --> 00:14:34,630
+we still won't recognize each other.
+
+310
+00:14:39,630 --> 00:14:40,790
+There are quite a lot of stars tonight.
+
+311
+00:14:41,550 --> 00:14:43,000
+I guess we'll have fine weather tomorrow.
+
+312
+00:14:43,320 --> 00:14:44,480
+Oh right, have you heard?
+
+313
+00:14:44,670 --> 00:14:45,960
+A comet named Neo
+
+314
+00:14:46,080 --> 00:14:47,600
+will pass by
+
+315
+00:14:47,720 --> 00:14:48,520
+Earth soon.
+
+316
+00:14:48,720 --> 00:14:49,760
+Experts say that
+
+317
+00:14:49,840 --> 00:14:50,360
+if we miss it this time,
+
+318
+00:14:50,440 --> 00:14:51,590
+it'll only come again
+
+319
+00:14:51,670 --> 00:14:52,720
+6,000 years from now.
+
+320
+00:14:54,360 --> 00:14:55,510
+That sounds romantic.
+
+321
+00:14:59,550 --> 00:15:00,390
+There must be something special on Earth
+
+322
+00:15:00,480 --> 00:15:02,390
+that it cares about,
+
+323
+00:15:03,080 --> 00:15:04,550
+that is why it has to come back
+
+324
+00:15:04,630 --> 00:15:05,910
+to Earth again after 6,000 years.
+
+325
+00:15:06,270 --> 00:15:07,720
+It's just a cosmic phenomenon.
+
+326
+00:15:08,320 --> 00:15:09,480
+There are also many comets
+
+327
+00:15:09,790 --> 00:15:11,150
+that pass through the solar system
+
+328
+00:15:11,630 --> 00:15:12,550
+once and never return.
+
+329
+00:15:12,870 --> 00:15:14,000
+Simply passing by and going into
+
+330
+00:15:14,320 --> 00:15:15,120
+the depths of the universe.
+
+331
+00:15:16,030 --> 00:15:17,200
+This is just
+
+332
+00:15:17,870 --> 00:15:19,080
+the trajectory of the comet.
+
+333
+00:15:19,750 --> 00:15:20,670
+You know nothing.
+
+334
+00:15:21,720 --> 00:15:22,520
+This is
+
+335
+00:15:24,320 --> 00:15:25,270
+the trajectory of love.
+
+336
+00:15:31,600 --> 00:15:32,400
+No way.
+
+337
+00:15:33,870 --> 00:15:36,070
+Could that be the comet
+
+338
+00:15:36,150 --> 00:15:37,600
+you were just talking about?
+
+339
+00:15:37,910 --> 00:15:38,710
+It could be.
+
+340
+00:15:38,910 --> 00:15:39,590
+Make a wish, make a wish.
+
+341
+00:15:39,670 --> 00:15:40,040
+I don't care.
+
+342
+00:15:40,120 --> 00:15:40,920
+Make a wish first, make a wish first.
+
+343
+00:15:41,030 --> 00:15:41,830
+Hurry.
+
+344
+00:15:53,910 --> 00:15:54,710
+Sorry.
+
+345
+00:15:55,030 --> 00:15:56,000
+Did I interrupt you?
+
+346
+00:15:56,080 --> 00:15:56,670
+Sorry for interrupting.
+
+347
+00:15:56,750 --> 00:15:57,750
+No, no.
+
+348
+00:15:57,840 --> 00:15:58,790
+You didn't interrupt anything.
+
+349
+00:15:59,600 --> 00:16:00,400
+You have a flashlight.
+
+350
+00:16:00,550 --> 00:16:01,480
+I need to use the bathroom.
+
+351
+00:16:01,840 --> 00:16:02,750
+You carry on.
+
+352
+00:16:03,480 --> 00:16:04,190
+Let's go.
+
+353
+00:16:04,270 --> 00:16:05,670
+Are you seriously using me as a third wheel?
+
+354
+00:16:05,840 --> 00:16:06,640
+What...
+
+355
+00:16:15,960 --> 00:16:17,240
+Oh, Xu Xiao Dong,
+
+356
+00:16:17,320 --> 00:16:19,000
+serve you right.
+
+357
+00:16:22,000 --> 00:16:23,550
+Now you know how it feels to get interrupted.
+
+358
+00:16:25,270 --> 00:16:26,320
+You even lit a small lamp.
+
+359
+00:16:26,480 --> 00:16:27,510
+That's quite romantic.
+
+360
+00:16:29,720 --> 00:16:30,520
+It's to keep away mosquitoes.
+
+361
+00:16:32,840 --> 00:16:33,640
+Keep away mosquitoes?
+
+362
+00:16:34,790 --> 00:16:35,590
+Wait up.
+
+363
+00:16:39,270 --> 00:16:40,070
+Chu Xia,
+
+364
+00:16:40,510 --> 00:16:42,630
+there are a lot of mosquitoes inside, look.
+
+365
+00:16:43,270 --> 00:16:43,760
+Check if there's any mosquito spray
+
+366
+00:16:43,840 --> 00:16:44,640
+in the bag.
+
+367
+00:16:44,720 --> 00:16:45,520
+What should I do?
+
+368
+00:16:46,440 --> 00:16:47,240
+Mosquito spray.
+
+369
+00:16:48,150 --> 00:16:49,200
+Let me see if they have brought it.
+
+370
+00:16:52,270 --> 00:16:53,080
+What is this?
+
+371
+00:16:56,640 --> 00:16:57,680
+I didn't find any mosquito spray,
+
+372
+00:16:58,349 --> 00:17:00,160
+but I found two bottles of pepper spray.
+
+373
+00:17:02,960 --> 00:17:03,790
+Jin Xiao Rui!
+
+374
+00:17:05,400 --> 00:17:06,480
+Jin Xiao Rui.
+
+375
+00:17:07,720 --> 00:17:08,520
+What's wrong?
+
+376
+00:17:09,440 --> 00:17:10,349
+Why did you bring
+
+377
+00:17:10,510 --> 00:17:11,480
+pepper spray?
+
+378
+00:17:12,160 --> 00:17:13,349
+What's wrong with pepper spray?
+
+379
+00:17:13,510 --> 00:17:14,349
+Boys need to
+
+380
+00:17:14,480 --> 00:17:15,640
+protect themselves too.
+
+381
+00:17:22,720 --> 00:17:23,790
+Are you going to eat me?
+
+382
+00:17:24,440 --> 00:17:25,800
+Jin Xiao Rui, you're so gross.
+
+383
+00:17:25,880 --> 00:17:27,110
+How can you be so shameless?
+
+384
+00:17:53,110 --> 00:17:53,910
+What are you doing?
+
+385
+00:17:55,200 --> 00:17:56,000
+There are a lot of mosquitoes inside.
+
+386
+00:17:56,160 --> 00:17:57,720
+I'm sacrificing myself to feed the mosquitoes.
+
+387
+00:17:58,070 --> 00:17:58,840
+So that mosquitoes
+
+388
+00:17:58,920 --> 00:17:59,750
+won't bite Yuan Yuan.
+
+389
+00:18:00,590 --> 00:18:01,720
+Is there any scientific basis for this?
+
+390
+00:18:02,000 --> 00:18:02,960
+It'll work if you believe in it.
+
+391
+00:18:05,440 --> 00:18:06,830
+It'll work if I believe in it?
+
+392
+00:18:25,400 --> 00:18:26,480
+Is there any scientific basis for this?
+
+393
+00:18:27,510 --> 00:18:28,720
+It'll work if you believe in it.
+
+394
+00:18:31,750 --> 00:18:32,550
+Xiao Dong,
+
+395
+00:18:33,400 --> 00:18:34,200
+tell me,
+
+396
+00:18:35,030 --> 00:18:36,550
+does this count as we are offering blood?
+
+397
+00:18:36,920 --> 00:18:38,030
+What are you talking about?
+
+398
+00:18:38,350 --> 00:18:40,070
+We are offering love.
+
+399
+00:19:29,720 --> 00:19:30,520
+What's wrong with your hand?
+
+400
+00:19:31,720 --> 00:19:32,520
+Nothing.
+
+401
+00:19:34,400 --> 00:19:35,200
+How are you feeling?
+
+402
+00:19:35,680 --> 00:19:36,640
+Did you sleep well last night?
+
+403
+00:19:37,750 --> 00:19:38,550
+It was alright.
+
+404
+00:19:45,110 --> 00:19:46,030
+Zhao Yao Yang showed up.
+
+405
+00:19:55,480 --> 00:19:56,270
+Let's go.
+
+406
+00:19:56,350 --> 00:19:57,150
+Mr. Zhao.
+
+407
+00:20:00,160 --> 00:20:01,430
+Are you
+
+408
+00:20:01,510 --> 00:20:02,510
+the assistant of Mr. Wei?
+
+409
+00:20:03,550 --> 00:20:04,590
+What are you doing here?
+
+410
+00:20:04,960 --> 00:20:05,960
+Mr. Wei would like to
+
+411
+00:20:06,070 --> 00:20:07,350
+talk to you alone.
+
+412
+00:20:07,680 --> 00:20:09,030
+Please come with me.
+
+413
+00:20:10,000 --> 00:20:11,110
+I've said everything I needed to.
+
+414
+00:20:11,440 --> 00:20:12,190
+You guys should go.
+
+415
+00:20:12,270 --> 00:20:13,640
+I'm sorry for this then.
+
+416
+00:20:18,310 --> 00:20:19,110
+What's going on?
+
+417
+00:20:20,550 --> 00:20:21,350
+Seize him!
+
+418
+00:20:22,270 --> 00:20:22,800
+Let's go.
+
+419
+00:20:22,880 --> 00:20:23,470
+Come on.
+
+420
+00:20:23,550 --> 00:20:24,350
+Stop!
+
+421
+00:20:26,790 --> 00:20:27,590
+Stop!
+
+422
+00:20:54,400 --> 00:20:55,200
+Stop!
+
+423
+00:20:56,000 --> 00:20:56,800
+Let's go.
+
+424
+00:20:57,480 --> 00:20:58,280
+Let's go.
+
+425
+00:20:58,440 --> 00:20:59,030
+Stop!
+
+426
+00:20:59,110 --> 00:21:00,070
+-Stop!
+-Stop there!
+
+427
+00:21:01,240 --> 00:21:02,040
+Stop!
+
+428
+00:21:02,880 --> 00:21:03,680
+I didn't expect
+
+429
+00:21:04,200 --> 00:21:05,000
+you'd be the one who saved me.
+
+430
+00:21:05,680 --> 00:21:06,360
+Thank you.
+
+431
+00:21:06,440 --> 00:21:07,310
+Save your thanks.
+
+432
+00:21:09,310 --> 00:21:10,270
+I need to ask you about something.
+
+433
+00:21:10,880 --> 00:21:11,400
+Did I steal the
+
+434
+00:21:11,480 --> 00:21:12,750
+patent certificate for you back then?
+
+435
+00:21:13,350 --> 00:21:14,150
+You?
+
+436
+00:21:15,680 --> 00:21:16,590
+Plus the memorial service,
+
+437
+00:21:17,000 --> 00:21:18,070
+this is only the second time I met you.
+
+438
+00:21:18,510 --> 00:21:19,550
+How could it be you?
+
+439
+00:21:19,830 --> 00:21:20,640
+Who was it then?
+
+440
+00:21:24,070 --> 00:21:24,880
+Are you still not going
+
+441
+00:21:24,960 --> 00:21:25,760
+to tell the truth?
+
+442
+00:21:30,440 --> 00:21:31,240
+Fine.
+
+443
+00:21:31,750 --> 00:21:32,470
+For the sake that
+
+444
+00:21:32,550 --> 00:21:33,440
+you saved me today,
+
+445
+00:21:33,640 --> 00:21:34,480
+I'll tell you.
+
+446
+00:21:35,880 --> 00:21:36,270
+It was
+
+447
+00:21:36,350 --> 00:21:37,680
+a woman named Gu Xiao Qi.
+
+448
+00:21:38,000 --> 00:21:38,880
+Gu Xiao Qi?
+
+449
+00:21:39,510 --> 00:21:40,310
+Do you know her?
+
+450
+00:21:41,070 --> 00:21:42,000
+She was my dad's secretary.
+
+451
+00:21:42,480 --> 00:21:43,920
+His right-hand-woman in the company.
+
+452
+00:21:44,550 --> 00:21:45,920
+Why would a right-hand woman do that?
+
+453
+00:21:46,110 --> 00:21:46,910
+About this,
+
+454
+00:21:47,110 --> 00:21:47,640
+you will have to
+
+455
+00:21:47,720 --> 00:21:48,750
+ask Wei Xuan He.
+
+456
+00:21:49,070 --> 00:21:50,680
+He will tell you everything.
+
+457
+00:21:53,680 --> 00:21:54,790
+Wei Xuan He?
+
+458
+00:21:55,680 --> 00:21:56,480
+Let me see.
+
+459
+00:21:57,790 --> 00:21:58,830
+So much blood.
+
+460
+00:21:59,680 --> 00:22:00,230
+We're going to the hospital.
+
+461
+00:22:00,310 --> 00:22:01,110
+Come on.
+
+462
+00:22:05,550 --> 00:22:05,800
+Doctor,
+
+463
+00:22:05,880 --> 00:22:07,240
+isn't his wound a little deep?
+
+464
+00:22:07,550 --> 00:22:08,590
+It's fine, it's just a minor injury.
+
+465
+00:22:08,790 --> 00:22:09,590
+It's nothing serious.
+
+466
+00:22:10,640 --> 00:22:11,480
+What do you mean by nothing serious?
+
+467
+00:22:12,000 --> 00:22:12,960
+Your wound
+
+468
+00:22:13,200 --> 00:22:14,440
+requires at least twelve stitches.
+
+469
+00:22:14,680 --> 00:22:16,200
+And you need a tetanus shot.
+
+470
+00:22:16,510 --> 00:22:17,640
+You're being dramatic.
+
+471
+00:22:18,160 --> 00:22:18,880
+It's not necessary.
+
+472
+00:22:18,960 --> 00:22:19,600
+Don't worry, I'm fine.
+
+473
+00:22:19,680 --> 00:22:20,480
+What do you mean "not necessary?”
+
+474
+00:22:20,750 --> 00:22:21,920
+Come, get ready for suturing.
+
+475
+00:22:43,640 --> 00:22:44,440
+Sorry, Mr. Wei.
+
+476
+00:22:45,400 --> 00:22:46,270
+We lost Zhao Yao Yang.
+
+477
+00:22:46,830 --> 00:22:48,030
+And we saw
+
+478
+00:22:48,110 --> 00:22:49,110
+Lei Chu Xia and Xu Xiao Dong.
+
+479
+00:22:49,350 --> 00:22:50,510
+We can't find out
+
+480
+00:22:50,590 --> 00:22:51,440
+their whereabouts now.
+
+481
+00:22:56,680 --> 00:22:57,510
+A bunch of losers.
+
+482
+00:22:58,000 --> 00:22:58,800
+Scram!
+
+483
+00:23:27,680 --> 00:23:29,160
+Did you not hear what I said?
+
+484
+00:23:29,440 --> 00:23:30,480
+I said scram.
+
+485
+00:23:38,920 --> 00:23:39,720
+You're here.
+
+486
+00:23:40,310 --> 00:23:40,710
+Have a seat.
+
+487
+00:23:40,790 --> 00:23:41,590
+Who is Gu Xiao Qi?
+
+488
+00:23:48,960 --> 00:23:50,160
+You met Zhao Yao Yang, didn't you?
+
+489
+00:23:52,240 --> 00:23:54,240
+Nothing he said was true.
+
+490
+00:23:54,750 --> 00:23:56,480
+But Gu Xiao Qi is real, isn't it?
+
+491
+00:24:00,200 --> 00:24:01,960
+You're still lying to me at this point.
+
+492
+00:24:02,350 --> 00:24:03,590
+You were the one who colluded with other people
+
+493
+00:24:03,720 --> 00:24:04,360
+and stole the patent certificate.
+
+494
+00:24:04,440 --> 00:24:05,270
+Yet you're pinning it on me now.
+
+495
+00:24:05,510 --> 00:24:06,230
+Was there anything
+
+496
+00:24:06,310 --> 00:24:07,110
+you said that was true?
+
+497
+00:24:08,270 --> 00:24:09,440
+You still don't trust me.
+
+498
+00:24:10,680 --> 00:24:11,640
+Why do you always
+
+499
+00:24:11,720 --> 00:24:12,590
+take sides against me?
+
+500
+00:24:16,030 --> 00:24:18,270
+You are still doing that even now.
+
+501
+00:24:20,240 --> 00:24:21,550
+Is it hard to tell the truth?
+
+502
+00:24:26,400 --> 00:24:27,440
+What is the truth?
+
+503
+00:24:28,000 --> 00:24:29,200
+What is the evidence?
+
+504
+00:24:29,790 --> 00:24:30,790
+Do you have any evidence?
+
+505
+00:24:35,030 --> 00:24:35,830
+If you don't,
+
+506
+00:24:37,350 --> 00:24:38,680
+then there is no truth.
+
+507
+00:25:00,640 --> 00:25:02,000
+[Cyber Tech]
+
+508
+00:26:10,750 --> 00:26:11,550
+Yuan Yuan.
+
+509
+00:26:12,240 --> 00:26:13,160
+Chu Xia, where are you?
+
+510
+00:26:13,240 --> 00:26:14,750
+Why didn't you answer your phone?
+
+511
+00:26:15,830 --> 00:26:17,070
+I came here to see Wei Xuan He.
+
+512
+00:26:18,440 --> 00:26:19,790
+All the leads are gone.
+
+513
+00:26:20,510 --> 00:26:20,990
+Did Wei Xuan He
+
+514
+00:26:21,070 --> 00:26:22,200
+tell you anything?
+
+515
+00:26:22,480 --> 00:26:22,840
+I only know there was a girl
+
+516
+00:26:22,920 --> 00:26:24,000
+named Gu Xiao Qi.
+
+517
+00:26:26,000 --> 00:26:27,110
+Gu Xiao Qi?
+
+518
+00:26:28,200 --> 00:26:29,000
+What?
+
+519
+00:26:29,590 --> 00:26:30,390
+Do you know her?
+
+520
+00:26:33,000 --> 00:26:34,160
+Not only do I know her,
+
+521
+00:26:35,000 --> 00:26:36,000
+you know her too.
+
+522
+00:26:44,240 --> 00:26:45,720
+[I know Gu Xiao Qi too?]
+
+523
+00:26:46,590 --> 00:26:47,720
+[Who is she?]
+
+524
+00:26:53,680 --> 00:26:54,480
+[Where will]
+
+525
+00:26:55,270 --> 00:26:56,960
+[fate lead me to this time?]
+
+526
+00:27:21,030 --> 00:27:22,070
+This is the machine that
+
+527
+00:27:22,480 --> 00:27:24,070
+can make Lei Chu Xia disappear?
+
+528
+00:27:24,880 --> 00:27:25,960
+At least I managed
+
+529
+00:27:27,240 --> 00:27:28,440
+to bring Lei Chu Xia
+
+530
+00:27:28,640 --> 00:27:30,350
+back to this dimension last time.
+
+531
+00:27:33,350 --> 00:27:34,960
+If I want her to disappear again,
+
+532
+00:27:36,160 --> 00:27:37,070
+can you do that?
+
+533
+00:27:37,480 --> 00:27:38,920
+The machine has some problems now.
+
+534
+00:27:39,680 --> 00:27:40,590
+I need some time.
+
+535
+00:27:42,270 --> 00:27:42,880
+Also,
+
+536
+00:27:42,960 --> 00:27:44,440
+the bracelet Professor Chen gave her
+
+537
+00:27:44,790 --> 00:27:45,270
+has stabilized
+
+538
+00:27:45,350 --> 00:27:46,830
+her magnetic field in this dimension.
+
+539
+00:27:47,310 --> 00:27:48,400
+I can no longer control
+
+540
+00:27:48,510 --> 00:27:50,070
+the energy in her from a distance.
+
+541
+00:27:51,110 --> 00:27:52,200
+I can give you time.
+
+542
+00:27:52,880 --> 00:27:54,200
+You just need to fix this.
+
+543
+00:27:54,960 --> 00:27:55,760
+I'll take care of
+
+544
+00:27:56,550 --> 00:27:57,350
+the rest.
+
+545
+00:27:57,880 --> 00:27:58,680
+It's a deal.
+
+546
+00:28:08,110 --> 00:28:08,910
+Mr. Wei,
+
+547
+00:28:09,720 --> 00:28:11,160
+I think there's something you should know.
+
+548
+00:28:12,640 --> 00:28:13,590
+Without
+
+549
+00:28:13,680 --> 00:28:15,110
+Professor Chen's bracelet,
+
+550
+00:28:16,350 --> 00:28:17,680
+I can't ensure that Lei Chu Xia
+
+551
+00:28:17,790 --> 00:28:19,000
+will return to her original dimension,
+
+552
+00:28:23,880 --> 00:28:24,720
+and there is a possibility that
+
+553
+00:28:25,750 --> 00:28:26,640
+she will dissipate into the universe.
+
+554
+00:28:29,640 --> 00:28:30,920
+You don't need to worry about that.
+
+555
+00:28:31,790 --> 00:28:33,920
+We'll leave it to the universe.
+
+556
+00:28:38,240 --> 00:28:39,040
+[Chu Xia,]
+
+557
+00:28:39,590 --> 00:28:41,200
+[you leave me no choice.]
+
+558
+00:28:46,400 --> 00:28:47,880
+Haven't I already seen all of these?
+
+559
+00:28:48,030 --> 00:28:49,960
+No, I'm asking you to look at these.
+
+560
+00:28:50,240 --> 00:28:51,350
+Do you remember
+
+561
+00:28:51,590 --> 00:28:52,400
+the last time you
+
+562
+00:28:52,550 --> 00:28:53,790
+saw these pictures, you asked me
+
+563
+00:28:53,960 --> 00:28:55,270
+why was a part of these photos cut off?
+
+564
+00:28:55,350 --> 00:28:56,150
+Yes.
+
+565
+00:28:56,510 --> 00:28:57,750
+Because the person who was cut out
+
+566
+00:28:57,960 --> 00:28:58,960
+is Gu Xiao Qi.
+
+567
+00:29:02,350 --> 00:29:03,640
+The three of us were good friends
+
+568
+00:29:04,000 --> 00:29:05,480
+for four years in college.
+
+569
+00:29:06,000 --> 00:29:07,240
+And in those four years,
+
+570
+00:29:07,350 --> 00:29:08,510
+you and her were close.
+
+571
+00:29:08,790 --> 00:29:09,590
+After graduation,
+
+572
+00:29:09,680 --> 00:29:10,160
+you two
+
+573
+00:29:10,240 --> 00:29:11,590
+shared a place for a while.
+
+574
+00:29:11,830 --> 00:29:13,000
+Why haven't you mentioned this before?
+
+575
+00:29:14,160 --> 00:29:14,670
+There was a time
+
+576
+00:29:14,750 --> 00:29:15,830
+when you two
+
+577
+00:29:15,960 --> 00:29:17,310
+were pretty close.
+
+578
+00:29:18,000 --> 00:29:19,000
+However,
+
+579
+00:29:19,680 --> 00:29:21,160
+before you went missing,
+
+580
+00:29:21,480 --> 00:29:22,280
+every time she was mentioned,
+
+581
+00:29:22,590 --> 00:29:23,920
+you would become upset.
+
+582
+00:29:24,200 --> 00:29:25,880
+Until you disappeared,
+
+583
+00:29:26,110 --> 00:29:27,510
+she never showed up
+
+584
+00:29:27,720 --> 00:29:29,110
+nor asked about you.
+
+585
+00:29:29,350 --> 00:29:30,680
+What kind of good friend was she?
+
+586
+00:29:30,960 --> 00:29:32,480
+So I just cut her out of the photo.
+
+587
+00:29:32,680 --> 00:29:33,120
+Keep her
+
+588
+00:29:33,200 --> 00:29:34,550
+out of your world.
+
+589
+00:29:35,070 --> 00:29:36,160
+Now that you've lost your memory,
+
+590
+00:29:36,550 --> 00:29:37,360
+there's no need to
+
+591
+00:29:37,440 --> 00:29:38,590
+remember this person who upset you.
+
+592
+00:29:38,960 --> 00:29:40,240
+Besides, over the past ten years,
+
+593
+00:29:40,640 --> 00:29:41,190
+I've never seen
+
+594
+00:29:41,270 --> 00:29:42,270
+Gu Xiao Qi.
+
+595
+00:29:42,640 --> 00:29:43,590
+And I have no idea what she is doing now.
+
+596
+00:29:44,070 --> 00:29:44,670
+Isn't this the case with
+
+597
+00:29:44,750 --> 00:29:45,680
+most college friends?
+
+598
+00:29:46,270 --> 00:29:47,200
+Losing touch after graduation.
+
+599
+00:29:47,400 --> 00:29:47,920
+Never heard from her since then.
+
+600
+00:29:48,000 --> 00:29:49,030
+Just disappear.
+
+601
+00:29:49,550 --> 00:29:50,320
+And I don't care.
+
+602
+00:29:50,400 --> 00:29:52,070
+Gu Xiao Qi was my dad's secretary.
+
+603
+00:29:52,400 --> 00:29:53,510
+My dad trusted her so much that
+
+604
+00:29:53,830 --> 00:29:54,920
+she had every chance
+
+605
+00:29:55,110 --> 00:29:56,240
+to get her hands on the patent certificate.
+
+606
+00:29:57,110 --> 00:29:58,640
+Why would she help Wei Xuan He?
+
+607
+00:29:58,880 --> 00:29:59,680
+And how did
+
+608
+00:29:59,880 --> 00:30:01,070
+the patent certificate end up in your house?
+
+609
+00:30:01,830 --> 00:30:02,880
+Wei Xuan He told me that
+
+610
+00:30:03,070 --> 00:30:04,640
+that day before I went missing ten years ago,
+
+611
+00:30:04,920 --> 00:30:05,720
+I went to your house
+
+612
+00:30:05,880 --> 00:30:07,200
+and Uncle Xu's company.
+
+613
+00:30:07,640 --> 00:30:08,190
+My house
+
+614
+00:30:08,270 --> 00:30:09,440
+and my dad's company?
+
+615
+00:30:19,720 --> 00:30:20,720
+[Wei Yi Tech forced by investors for rights protection]
+
+616
+00:30:20,720 --> 00:30:22,080
+[Wei Yi Tech forced by investors for rights protection]
+[Stop, stop.]
+
+617
+00:30:22,080 --> 00:30:22,960
+[Wei Yi Tech forced by investors for rights protection]
+[Please stop taking photos.]
+
+618
+00:30:22,960 --> 00:30:24,080
+[Wei Yi Tech forced by investors for rights protection]
+[Quiet down.]
+
+619
+00:30:24,080 --> 00:30:26,560
+[Wei Yi Tech forced by investors for rights protection]
+
+620
+00:30:27,440 --> 00:30:28,790
+This video is real.
+
+621
+00:30:29,510 --> 00:30:30,400
+But I'm certain that
+
+622
+00:30:31,110 --> 00:30:31,910
+before we met,
+
+623
+00:30:32,030 --> 00:30:33,110
+I had no memory of you at all.
+
+624
+00:30:36,960 --> 00:30:38,000
+Let's go find Gu Xiao Qi.
+
+625
+00:30:50,000 --> 00:30:51,310
+Excuse me,
+
+626
+00:30:52,000 --> 00:30:52,950
+do you know a person
+
+627
+00:30:53,030 --> 00:30:53,830
+named Gu Xiao Qi,
+
+628
+00:30:54,000 --> 00:30:54,960
+who lives around here?
+
+629
+00:30:55,720 --> 00:30:57,000
+Gu Xiao Qi?
+
+630
+00:30:57,110 --> 00:30:57,910
+Yes.
+
+631
+00:30:58,550 --> 00:30:59,350
+Do you know?
+
+632
+00:31:00,400 --> 00:31:01,400
+Gu Xiao Qi?
+
+633
+00:31:03,550 --> 00:31:05,000
+Isn't that Gu's youngest daughter?
+
+634
+00:31:05,590 --> 00:31:06,590
+Oh, yes, yes.
+
+635
+00:31:07,920 --> 00:31:10,000
+She died in a car accident eight years ago.
+
+636
+00:31:10,510 --> 00:31:11,480
+She died?
+
+637
+00:31:12,160 --> 00:31:13,550
+At such a young age.
+
+638
+00:31:13,790 --> 00:31:14,670
+That's such a pity.
+
+639
+00:31:14,750 --> 00:31:15,550
+That's right.
+
+640
+00:31:15,750 --> 00:31:16,550
+Such a pity.
+
+641
+00:31:17,550 --> 00:31:18,790
+We're at a dead end now.
+
+642
+00:31:21,880 --> 00:31:22,680
+Let's go.
+
+643
+00:31:31,070 --> 00:31:31,870
+Come back.
+
+644
+00:31:40,480 --> 00:31:41,960
+Why don't I just stay at your place tonight?
+
+645
+00:31:42,310 --> 00:31:43,240
+Let's discuss it.
+
+646
+00:31:49,590 --> 00:31:50,390
+Sure.
+
+647
+00:31:55,000 --> 00:31:57,280
+[Moonlit Flats]
+
+648
+00:31:57,880 --> 00:31:59,160
+♫ One word from you ♫
+
+649
+00:31:59,320 --> 00:32:01,200
+♫ and everything's good ♫
+
+650
+00:32:02,880 --> 00:32:04,840
+♫ That's all I ask you ♫
+
+651
+00:32:05,000 --> 00:32:07,120
+♫ No need to be true ♫
+
+652
+00:32:07,240 --> 00:32:09,640
+♫ You are my pursuit ♫
+
+653
+00:32:09,800 --> 00:32:10,720
+♫ If only ♫
+
+654
+00:32:10,800 --> 00:32:12,320
+♫ I could show you ♫
+
+655
+00:32:12,560 --> 00:32:16,080
+♫ All you need to care about is you ♫
+
+656
+00:32:17,640 --> 00:32:19,880
+♫ Take you step by step ♫
+
+657
+00:32:19,960 --> 00:32:22,080
+♫ Hold you hand in hand ♫
+
+658
+00:32:22,560 --> 00:32:24,560
+♫ Gonna protect you ♫
+
+659
+00:32:24,640 --> 00:32:26,360
+♫ like a man ♫
+
+660
+00:32:30,960 --> 00:32:31,830
+This is weird.
+
+661
+00:32:33,110 --> 00:32:34,350
+I have lived with Chu Xia
+
+662
+00:32:34,680 --> 00:32:36,240
+like this before,
+
+663
+00:32:37,070 --> 00:32:39,310
+why do I suddenly
+
+664
+00:32:39,510 --> 00:32:41,440
+feel so awkward now?
+
+665
+00:32:49,880 --> 00:32:50,680
+Xiao Dong, I...
+
+666
+00:32:57,880 --> 00:32:58,680
+He falls asleep?
+
+667
+00:33:00,880 --> 00:33:02,440
+I can see your eyelids moving.
+
+668
+00:33:11,070 --> 00:33:11,880
+What do you want?
+
+669
+00:33:12,750 --> 00:33:14,070
+I think I got a new clue.
+
+670
+00:33:14,720 --> 00:33:15,430
+I travelled back
+
+671
+00:33:15,510 --> 00:33:16,310
+ten years ago last time, right?
+
+672
+00:33:16,750 --> 00:33:17,190
+Then I found
+
+673
+00:33:17,270 --> 00:33:18,070
+the patent certificate at my house.
+
+674
+00:33:19,110 --> 00:33:19,910
+Why don't
+
+675
+00:33:20,640 --> 00:33:21,590
+we go back again tomorrow?
+
+676
+00:33:21,830 --> 00:33:22,680
+Maybe we'll find a new lead.
+
+677
+00:33:24,880 --> 00:33:26,310
+This is all you wanted to talk about?
+
+678
+00:33:29,790 --> 00:33:30,190
+Sure.
+
+679
+00:33:30,270 --> 00:33:31,070
+Okay.
+
+680
+00:33:31,310 --> 00:33:32,110
+Okay?
+
+681
+00:33:40,030 --> 00:33:40,640
+But wouldn't we be
+
+682
+00:33:40,720 --> 00:33:41,520
+a bit too...
+
+683
+00:33:42,000 --> 00:33:42,920
+Go to sleep.
+
+684
+00:34:04,190 --> 00:34:04,989
+This one.
+
+685
+00:34:16,030 --> 00:34:17,960
+The air seems to be filled with
+
+686
+00:34:18,070 --> 00:34:19,760
+pink bubbles.
+
+687
+00:34:21,800 --> 00:34:22,920
+What do you mean by pink bubbles?
+
+688
+00:34:24,480 --> 00:34:25,280
+Are you stupid?
+
+689
+00:34:40,920 --> 00:34:41,719
+Let me wash it for you first.
+
+690
+00:34:42,110 --> 00:34:43,670
+I don't mind, hey...
+
+691
+00:34:51,960 --> 00:34:52,760
+Help me...
+
+692
+00:34:57,590 --> 00:34:58,390
+I'll help.
+
+693
+00:34:59,000 --> 00:34:59,920
+I'll help. I'll help. I'll help.
+
+694
+00:35:02,110 --> 00:35:03,320
+What's going on with Xu Xiao Dong?
+
+695
+00:35:03,400 --> 00:35:04,070
+Why is he acting strangely?
+
+696
+00:35:04,150 --> 00:35:05,110
+I can't do it, I can't do it.
+
+697
+00:35:06,760 --> 00:35:07,800
+Why can't you do it?
+
+698
+00:35:08,510 --> 00:35:09,070
+Xiao Rui,
+
+699
+00:35:09,150 --> 00:35:09,760
+we were living together too
+
+700
+00:35:09,840 --> 00:35:10,710
+before, right?
+
+701
+00:35:10,800 --> 00:35:11,710
+But after my love confession,
+
+702
+00:35:11,960 --> 00:35:12,590
+now that we are living together again,
+
+703
+00:35:12,670 --> 00:35:13,280
+I just have this
+
+704
+00:35:13,360 --> 00:35:15,000
+awkward feeling, why is that?
+
+705
+00:35:15,190 --> 00:35:16,280
+Did anything happen between you two?
+
+706
+00:35:16,510 --> 00:35:17,360
+Nothing.
+
+707
+00:35:17,670 --> 00:35:19,190
+You really can't do it then.
+
+708
+00:35:23,230 --> 00:35:23,990
+Does this have something to do
+
+709
+00:35:24,070 --> 00:35:24,960
+with my rejection last time?
+
+710
+00:35:26,320 --> 00:35:27,920
+But I know in my heart that I like him.
+
+711
+00:35:28,480 --> 00:35:29,280
+That's right.
+
+712
+00:35:29,760 --> 00:35:30,560
+Lei Chu Xia,
+
+713
+00:35:30,670 --> 00:35:31,880
+have you ever heard a saying?
+
+714
+00:35:32,280 --> 00:35:33,510
+You may get a moment of pleasure from hurting your man,
+
+715
+00:35:33,710 --> 00:35:34,960
+but now you'll need to grovel to win him back.
+
+716
+00:35:35,280 --> 00:35:36,080
+So,
+
+717
+00:35:36,550 --> 00:35:37,590
+for the sake of your love,
+
+718
+00:35:37,960 --> 00:35:39,480
+be brave and get him back.
+
+719
+00:35:43,070 --> 00:35:43,550
+Until I know
+
+720
+00:35:43,630 --> 00:35:44,800
+how she really feels about me,
+
+721
+00:35:45,000 --> 00:35:45,590
+I think
+
+722
+00:35:45,670 --> 00:35:46,670
+we should keep our distance.
+
+723
+00:35:47,510 --> 00:35:49,320
+So can you do it or not?
+
+724
+00:35:52,080 --> 00:35:55,280
+[Moonlit Flats]
+
+725
+00:36:14,560 --> 00:36:15,600
+[Today's promotion, Rainbow Cake]
+
+726
+00:36:31,880 --> 00:36:32,680
+How did it go?
+
+727
+00:36:32,880 --> 00:36:33,400
+Any luck
+
+728
+00:36:33,480 --> 00:36:34,880
+last night?
+
+729
+00:36:37,320 --> 00:36:38,400
+How's that possible?
+
+730
+00:36:39,190 --> 00:36:41,670
+A man and a woman being alone in the same house.
+
+731
+00:36:42,030 --> 00:36:43,470
+As long as you show concern for him,
+
+732
+00:36:43,550 --> 00:36:44,400
+take good care of him,
+
+733
+00:36:44,670 --> 00:36:46,400
+everything should've worked out naturally.
+
+734
+00:36:48,280 --> 00:36:49,710
+How come it didn't work out naturally
+
+735
+00:36:50,480 --> 00:36:51,320
+for you?
+
+736
+00:36:51,960 --> 00:36:52,760
+It didn't work out.
+
+737
+00:36:56,760 --> 00:36:57,560
+I got it.
+
+738
+00:36:58,320 --> 00:37:00,550
+To deal with an IT geek,
+
+739
+00:37:00,710 --> 00:37:01,630
+you need to do it in a way that
+
+740
+00:37:01,800 --> 00:37:02,990
+he can understand.
+
+741
+00:37:03,070 --> 00:37:03,870
+Play it straight.
+
+742
+00:37:06,510 --> 00:37:07,510
+Confess directly.
+
+743
+00:37:09,960 --> 00:37:10,760
+Confess directly?
+
+744
+00:37:14,480 --> 00:37:15,280
+You can do it.
+
+745
+00:37:23,110 --> 00:37:23,960
+I like you.
+
+746
+00:37:27,590 --> 00:37:28,710
+Confess directly.
+
+747
+00:37:35,960 --> 00:37:38,080
+[I like you]
+
+748
+00:37:42,920 --> 00:37:44,150
+Say something.
+
+749
+00:37:47,440 --> 00:37:48,240
+Xiao Dong,
+
+750
+00:37:49,590 --> 00:37:50,630
+I made you a cake.
+
+751
+00:37:50,710 --> 00:37:51,800
+Do you want to come over and take a look at it?
+
+752
+00:37:52,070 --> 00:37:52,870
+I'm almost done.
+
+753
+00:37:53,150 --> 00:37:53,950
+Give me a minute.
+
+754
+00:37:55,550 --> 00:37:56,350
+Xiao Dong,
+
+755
+00:37:57,070 --> 00:37:59,070
+Chu Xia wrote what she wanted to tell you
+
+756
+00:37:59,150 --> 00:38:00,670
+on the cake.
+
+757
+00:38:03,070 --> 00:38:03,870
+I'll be right over.
+
+758
+00:38:06,760 --> 00:38:07,560
+Yuan Yuan.
+
+759
+00:38:07,670 --> 00:38:08,470
+What are you doing here?
+
+760
+00:38:13,280 --> 00:38:14,480
+Chu Xia, this cake is so good.
+
+761
+00:38:14,710 --> 00:38:15,630
+I'm starving.
+
+762
+00:38:18,360 --> 00:38:19,160
+You owe me?
+
+763
+00:38:19,800 --> 00:38:23,080
+[I owe you]
+
+764
+00:38:24,840 --> 00:38:25,430
+You owe me
+
+765
+00:38:25,510 --> 00:38:26,440
+more than a cake.
+
+766
+00:38:28,320 --> 00:38:29,120
+What did she owe you?
+
+767
+00:38:30,590 --> 00:38:31,390
+Ask her.
+
+768
+00:38:32,360 --> 00:38:33,510
+I owe you, I owe you.
+
+769
+00:38:34,000 --> 00:38:35,440
+It's not for you.
+
+770
+00:38:35,880 --> 00:38:36,800
+Why are you so starving?
+
+771
+00:38:37,030 --> 00:38:38,030
+Why are you so starving?
+
+772
+00:38:43,480 --> 00:38:44,280
+What do you think?
+
+773
+00:38:44,480 --> 00:38:45,920
+Don't you think it's too corny?
+
+774
+00:38:46,000 --> 00:38:47,190
+You've confessed in a western way,
+
+775
+00:38:47,360 --> 00:38:48,320
+you've tried that,
+
+776
+00:38:48,550 --> 00:38:48,990
+but did he get it?
+
+777
+00:38:49,070 --> 00:38:50,000
+He didn't get it at all.
+
+778
+00:38:50,190 --> 00:38:51,710
+If he doesn't get it,
+
+779
+00:38:51,960 --> 00:38:52,360
+after
+
+780
+00:38:52,440 --> 00:38:53,360
+you use such a direct way,
+
+781
+00:38:53,590 --> 00:38:55,000
+then he's just an idiot.
+
+782
+00:38:55,510 --> 00:38:56,240
+Yuan Yuan,
+
+783
+00:38:56,320 --> 00:38:57,120
+miss me?
+
+784
+00:39:11,000 --> 00:39:11,920
+Why did you have to mess it up?
+
+785
+00:39:12,150 --> 00:39:12,960
+Why did you have to mess it up?
+
+786
+00:39:16,400 --> 00:39:17,230
+Blow it.
+
+787
+00:39:30,710 --> 00:39:31,630
+I can't hold it in anymore.
+
+788
+00:39:31,710 --> 00:39:32,550
+Please let me out.
+
+789
+00:39:33,070 --> 00:39:33,880
+What are you doing?
+
+790
+00:39:41,510 --> 00:39:43,710
+Stop, stop, stop.
+
+791
+00:39:44,360 --> 00:39:45,160
+Are you going to say it or not?
+
+792
+00:39:45,550 --> 00:39:46,200
+I really didn't know
+
+793
+00:39:46,280 --> 00:39:47,190
+you were trying to confess.
+
+794
+00:39:47,440 --> 00:39:48,240
+We've exhausted
+
+795
+00:39:48,320 --> 00:39:49,320
+all methods now.
+
+796
+00:39:49,510 --> 00:39:50,630
+Tell me what more we can do.
+
+797
+00:39:51,710 --> 00:39:53,070
+You could ask me.
+
+798
+00:39:53,400 --> 00:39:54,240
+Honestly,
+
+799
+00:39:54,320 --> 00:39:54,840
+among the four of us,
+
+800
+00:39:54,920 --> 00:39:55,630
+I have the most experience
+
+801
+00:39:55,710 --> 00:39:56,670
+when it comes to relationships.
+
+802
+00:39:57,150 --> 00:39:57,920
+Listen, Chu Xia,
+
+803
+00:39:58,000 --> 00:39:59,190
+if you want him to accept your love confession,
+
+804
+00:39:59,440 --> 00:40:00,440
+you need to cater to his liking.
+
+805
+00:40:00,710 --> 00:40:01,760
+Cater to his liking?
+
+806
+00:40:02,030 --> 00:40:02,830
+What does he like?
+
+807
+00:40:12,630 --> 00:40:13,430
+Tickets to technology fair.
+
+808
+00:40:13,670 --> 00:40:14,480
+[The Future of High-Tech AI, Technology Fair]
+Xiao Dong's favourite.
+
+809
+00:40:16,480 --> 00:40:18,030
+I was going to save it for myself
+
+810
+00:40:18,230 --> 00:40:19,960
+for when I want to beg Xiao Dong for something.
+
+811
+00:40:20,400 --> 00:40:21,200
+I'll let you have it now.
+
+812
+00:40:22,320 --> 00:40:23,510
+This is something.
+
+813
+00:40:26,360 --> 00:40:27,630
+What did you just say?
+
+814
+00:40:27,880 --> 00:40:30,510
+You have the most experience when it comes to relationships?
+
+815
+00:40:30,800 --> 00:40:31,600
+How many girlfriends
+
+816
+00:40:31,760 --> 00:40:33,190
+have you had before me?
+
+817
+00:40:35,510 --> 00:40:36,310
+Hang in there.
+
+818
+00:40:37,280 --> 00:40:38,360
+Chu Xia!
+
+819
+00:41:01,070 --> 00:41:01,870
+What's wrong?
+
+820
+00:41:02,440 --> 00:41:03,240
+Nothing.
+
+821
+00:41:03,550 --> 00:41:04,710
+You've been acting weird today.
+
+822
+00:41:04,960 --> 00:41:05,880
+You didn't do something wrong,
+
+823
+00:41:06,110 --> 00:41:06,910
+did you?
+
+824
+00:41:07,280 --> 00:41:07,990
+No.
+
+825
+00:41:08,070 --> 00:41:09,190
+What could I possibly do wrong?
+
+826
+00:41:09,440 --> 00:41:10,630
+I just went through
+
+827
+00:41:10,840 --> 00:41:11,880
+the tragedy of
+
+828
+00:41:12,000 --> 00:41:12,990
+filling with regrets after I hurt someone
+
+829
+00:41:13,070 --> 00:41:14,000
+for a moment of pleasure.
+
+830
+00:41:14,360 --> 00:41:15,160
+What does that mean?
+
+831
+00:41:15,440 --> 00:41:16,240
+Doesn't matter.
+
+832
+00:41:22,590 --> 00:41:24,070
+My friend gave me two tickets
+
+833
+00:41:24,150 --> 00:41:25,440
+[The Future of High-Tech AI, Technology Fair]
+to some kind of technology fair.
+
+834
+00:41:25,920 --> 00:41:27,030
+I don't really know much about this
+
+835
+00:41:27,110 --> 00:41:28,280
+future intelligent high-tech stuff.
+
+836
+00:41:28,510 --> 00:41:29,310
+Are you interested?
+
+837
+00:41:29,590 --> 00:41:30,550
+Of course I'm interested.
+
+838
+00:41:30,840 --> 00:41:32,510
+I've always wanted to go to a technology fair.
+
+839
+00:41:33,000 --> 00:41:33,880
+And there are two tickets here.
+
+840
+00:41:34,000 --> 00:41:35,440
+I can go with Jin Xiao Rui.
+
+841
+00:41:38,440 --> 00:41:39,320
+You can't take it back.
+
+842
+00:41:39,550 --> 00:41:40,350
+You've given it to me.
+
+843
+00:41:40,510 --> 00:41:41,400
+I won't take it back, I won't take it back.
+
+844
+00:41:42,000 --> 00:41:42,720
+But how do you know
+
+845
+00:41:42,800 --> 00:41:43,880
+if Jin Xiao Rui wants to go?
+
+846
+00:41:44,150 --> 00:41:44,990
+Maybe he has a date with
+
+847
+00:41:45,070 --> 00:41:45,870
+Yuan Yuan.
+
+848
+00:41:46,280 --> 00:41:48,000
+If he doesn't want to go,
+
+849
+00:41:50,510 --> 00:41:51,400
+I'll force him.
+
+850
+00:41:51,630 --> 00:41:52,630
+What's so hard about that?
+
+851
+00:42:03,200 --> 00:42:05,200
+[Moonlit Flats]
+
+852
+00:42:07,510 --> 00:42:08,360
+You can't take it back.
+
+853
+00:42:16,440 --> 00:42:17,240
+Qin Yue.
+
+854
+00:42:18,630 --> 00:42:19,430
+Xiao Dong.
+
+855
+00:42:19,550 --> 00:42:20,350
+What are you doing here?
+
+856
+00:42:24,630 --> 00:42:25,430
+Xiao Dong,
+
+857
+00:42:25,630 --> 00:42:27,840
+I heard you lost your job again.
+
+858
+00:42:29,630 --> 00:42:31,110
+I found a new job for you.
+
+859
+00:42:31,670 --> 00:42:33,190
+It's a low-level post,
+
+860
+00:42:33,440 --> 00:42:34,400
+but I've taken care of everything for you.
+
+861
+00:42:34,710 --> 00:42:35,760
+You just need to go to the interview
+
+862
+00:42:35,840 --> 00:42:36,710
+for the sake of formality.
+
+863
+00:42:38,280 --> 00:42:39,070
+You don't have to worry about
+
+864
+00:42:39,150 --> 00:42:40,550
+my job.
+
+865
+00:42:40,630 --> 00:42:41,550
+I'll take care of it myself.
+
+866
+00:42:42,070 --> 00:42:42,870
+Is that
+
+867
+00:42:43,110 --> 00:42:44,360
+what you came here for?
+
+868
+00:42:47,670 --> 00:42:49,190
+I need to talk to Lei Chu Xia.
+
+869
+00:42:51,670 --> 00:42:53,150
+Go back first.
+
+870
+00:42:53,710 --> 00:42:54,510
+Be careful.
+
+871
+00:42:55,070 --> 00:42:55,720
+Alright, I got it.
+
+872
+00:42:55,800 --> 00:42:56,800
+Go on, go on.
