@@ -1,0 +1,877 @@
+1
+00:01:37,764 --> 00:01:42,977
+SERIAL NETFLIX
+
+2
+00:03:02,348 --> 00:03:06,853
+LUNA
+
+3
+00:03:07,937 --> 00:03:09,063
+Kapten.
+
+4
+00:03:10,356 --> 00:03:11,733
+Kapten, aku menemukan…
+
+5
+00:03:12,442 --> 00:03:14,652
+Aku menemukan E2. Dia…
+
+6
+00:03:15,486 --> 00:03:16,446
+Dia sudah mati.
+
+7
+00:03:17,030 --> 00:03:17,906
+Apa?
+
+8
+00:03:19,616 --> 00:03:20,575
+Ulangi lagi.
+
+9
+00:03:22,160 --> 00:03:23,995
+Ada luka tembakan di dadanya.
+
+10
+00:03:25,955 --> 00:03:27,373
+<i>Sepertinya dia dibunuh.</i>
+
+11
+00:03:28,875 --> 00:03:30,251
+<i>Di mana Letnan Ryu?</i>
+
+12
+00:03:30,335 --> 00:03:31,377
+<i>Aku belum</i>
+
+13
+00:03:32,086 --> 00:03:33,671
+menemukannya.
+
+14
+00:03:33,755 --> 00:03:36,132
+Semua sampel Air Lunar juga hilang.
+
+15
+00:03:36,216 --> 00:03:38,718
+Baiklah. Pergilah ke pusat komando dahulu.
+
+16
+00:03:39,344 --> 00:03:40,470
+<i>Baik, Kapten.</i>
+
+17
+00:03:43,598 --> 00:03:44,933
+Sialan.
+
+18
+00:03:45,016 --> 00:03:46,476
+<i>Menyetel ulang kode komunikasi.</i>
+
+19
+00:04:32,063 --> 00:04:34,274
+MENGHUBUNGKAN KE DATA BATA
+MEMUAT FAIL, JANGAN PINDAHKAN BATA
+
+20
+00:04:46,577 --> 00:04:48,871
+"Tes Respons Air Lunar"?
+
+21
+00:04:50,206 --> 00:04:51,499
+TES RESPONS AIR LUNAR
+
+22
+00:04:53,293 --> 00:04:54,627
+ZAT ANORGANIK,
+ZAT ORGANIK
+
+23
+00:05:02,302 --> 00:05:03,136
+<i>Kim Sun.</i>
+
+24
+00:05:03,219 --> 00:05:05,471
+<i>Kim Sun! Apa kau sudah tiba</i>
+<i>di pusat komando?</i>
+
+25
+00:05:05,555 --> 00:05:06,931
+Ya, aku baru masuk.
+
+26
+00:05:07,682 --> 00:05:09,809
+<i>Cari lokasi Ryu Taesuk</i>
+<i>dan Doktor Song segera.</i>
+
+27
+00:05:09,892 --> 00:05:12,854
+Ya, Pak. Aku akan langsung mengeceknya.
+
+28
+00:05:13,521 --> 00:05:14,355
+Ya.
+
+29
+00:05:15,273 --> 00:05:17,442
+Sialan. Kenapa semua orang mati?
+
+30
+00:05:18,234 --> 00:05:19,319
+Doktor Song.
+
+31
+00:05:20,570 --> 00:05:23,197
+Ryu Taesuk. Lokasi…
+
+32
+00:05:30,705 --> 00:05:32,290
+PENUTUPAN PINTU
+
+33
+00:05:32,999 --> 00:05:33,875
+Apa?
+
+34
+00:05:40,131 --> 00:05:41,049
+Letnan Ryu.
+
+35
+00:06:30,556 --> 00:06:31,766
+Letnan Ryu.
+
+36
+00:06:33,518 --> 00:06:34,435
+Letnan Ryu.
+
+37
+00:06:34,519 --> 00:06:35,520
+Berbaliklah.
+
+38
+00:06:49,700 --> 00:06:50,868
+Apa kau membunuhnya?
+
+39
+00:06:50,952 --> 00:06:52,829
+Kenapa kau mencari Doktor Song?
+
+40
+00:06:53,830 --> 00:06:55,331
+Kenapa kau melakukan ini?
+
+41
+00:06:57,959 --> 00:06:59,460
+Sialan.
+
+42
+00:07:01,671 --> 00:07:02,713
+Kenapa kau membunuhnya?
+
+43
+00:07:07,552 --> 00:07:08,678
+Jawab aku.
+
+44
+00:07:13,516 --> 00:07:16,352
+Doktor Song mengejar anak itu.
+
+45
+00:07:24,277 --> 00:07:26,237
+PENUTUPAN PINTU
+
+46
+00:07:36,706 --> 00:07:39,375
+<i>Kim Sun! Jawab aku, Kim Sun!</i>
+
+47
+00:07:41,878 --> 00:07:43,087
+Ayo berpencar.
+
+48
+00:07:43,171 --> 00:07:44,589
+Kau lanjutkan pencarian.
+
+49
+00:07:45,631 --> 00:07:46,883
+Aku akan mengecek Kim Sun.
+
+50
+00:07:46,966 --> 00:07:48,050
+Kapten,
+
+51
+00:07:48,134 --> 00:07:51,304
+Air Lunar yang kita punya sekarang
+hanyalah yang dipegang Doktor Song.
+
+52
+00:07:51,387 --> 00:07:54,640
+Kita harus fokus mengambil sampel
+dan mencari Doktor Song.
+
+53
+00:07:54,724 --> 00:07:58,519
+Jika dia juga kehilangan Air Lunar,
+kita harus menjaga yang di lab utama.
+
+54
+00:08:00,104 --> 00:08:02,648
+Yang bisa membunuh E2
+dan mengambil Air Lunar
+
+55
+00:08:03,900 --> 00:08:05,234
+hanya Ryu Taesuk.
+
+56
+00:08:08,321 --> 00:08:09,363
+Apa kau yakin…
+
+57
+00:08:10,948 --> 00:08:12,200
+Letnan Ryu pelakunya?
+
+58
+00:08:14,452 --> 00:08:17,747
+Kita cari tahu dahulu. Bersiaplah
+begitu kau menemukan Doktor Song.
+
+59
+00:08:18,706 --> 00:08:19,624
+Ya, Pak.
+
+60
+00:08:22,835 --> 00:08:24,837
+Jika target menunjukkan tanda berbahaya,
+
+61
+00:08:24,921 --> 00:08:27,340
+aku akan menembaknya
+untuk menyelesaikan misi.
+
+62
+00:08:30,218 --> 00:08:32,261
+Namun, akan kupastikan
+Doktor Song selamat.
+
+63
+00:08:58,079 --> 00:08:59,747
+Dasar kau orang gila.
+
+64
+00:08:59,830 --> 00:09:01,874
+Kau tak seharusnya melakukan ini.
+
+65
+00:09:05,253 --> 00:09:06,254
+Sialan.
+
+66
+00:09:19,058 --> 00:09:20,184
+Aku hidup.
+
+67
+00:09:21,018 --> 00:09:22,520
+Aku masih hidup.
+
+68
+00:09:25,147 --> 00:09:26,941
+Kita harus tetap hidup.
+
+69
+00:09:27,024 --> 00:09:28,401
+Kita bisa pulang hidup-hidup.
+
+70
+00:09:29,193 --> 00:09:30,736
+Ayo kita pulang hidup-hidup.
+
+71
+00:09:31,904 --> 00:09:32,905
+Ayo kita pulang saja.
+
+72
+00:09:35,366 --> 00:09:38,911
+Apa Doktor Song menemukan sesuatu
+mengenai monster itu?
+
+73
+00:09:39,996 --> 00:09:42,373
+Kaulah monsternya, Berengsek.
+
+74
+00:09:42,456 --> 00:09:43,666
+Sialan.
+
+75
+00:09:44,917 --> 00:09:47,044
+Memangnya apa ini?
+
+76
+00:09:47,878 --> 00:09:49,046
+Apa ini sangat berharga?
+
+77
+00:09:49,755 --> 00:09:52,800
+Apa ini sangat penting
+hingga kau tega membunuh orang?
+
+78
+00:09:52,883 --> 00:09:55,261
+Persetan kau!
+
+79
+00:09:58,264 --> 00:09:59,432
+Baiklah, hentikan.
+
+80
+00:10:01,809 --> 00:10:03,644
+Ayo kita pulang dengan selamat.
+
+81
+00:10:04,895 --> 00:10:05,855
+Letakkan itu.
+
+82
+00:10:08,024 --> 00:10:09,066
+Letakkan itu.
+
+83
+00:10:09,150 --> 00:10:10,359
+Jangan dekati aku.
+
+84
+00:10:11,193 --> 00:10:13,779
+Letakkan itu, Sialan.
+
+85
+00:10:13,863 --> 00:10:15,323
+Bedebah!
+
+86
+00:10:15,406 --> 00:10:16,657
+Berhenti!
+
+87
+00:10:17,366 --> 00:10:20,870
+Aku akan menumpahkan benda ini padamu.
+
+88
+00:10:20,953 --> 00:10:23,998
+Aku akan menumpahkan ini dan membunuhmu!
+
+89
+00:10:40,431 --> 00:10:41,932
+Tolong biarkan aku hidup.
+
+90
+00:10:45,728 --> 00:10:49,190
+Aku terkena ini… Sialan.
+
+91
+00:10:54,445 --> 00:10:56,989
+Letnan Ryu, biarkan aku hidup.
+
+92
+00:10:57,073 --> 00:10:58,324
+Letnan Ryu…
+
+93
+00:10:58,866 --> 00:11:00,409
+Tolong aku.
+
+94
+00:11:04,455 --> 00:11:05,665
+TUTUP
+
+95
+00:11:08,167 --> 00:11:10,419
+TUTUP
+KUNCI
+
+96
+00:11:17,051 --> 00:11:18,886
+Hei, tolong aku…
+
+97
+00:11:18,969 --> 00:11:20,096
+Hei.
+
+98
+00:11:21,597 --> 00:11:24,266
+Aku hanya ingin pulang.
+
+99
+00:11:25,184 --> 00:11:26,310
+Aku hanya…
+
+100
+00:11:28,354 --> 00:11:29,605
+Letnan Ryu…
+
+101
+00:11:42,326 --> 00:11:43,327
+Letnan…
+
+102
+00:11:50,543 --> 00:11:52,044
+Apa…
+
+103
+00:11:52,128 --> 00:11:53,587
+Apa ini?
+
+104
+00:13:43,239 --> 00:13:47,201
+TES RESPONS AIR LUNAR
+
+105
+00:13:49,662 --> 00:13:50,663
+Luna.
+
+106
+00:14:57,229 --> 00:14:59,189
+<i>Dok Hong, apa yang terjadi?</i>
+
+107
+00:15:14,246 --> 00:15:15,164
+Kapten.
+
+108
+00:15:15,706 --> 00:15:17,124
+Aku jatuh…
+
+109
+00:15:18,751 --> 00:15:20,127
+dari lubang ventilasi.
+
+110
+00:15:21,086 --> 00:15:22,296
+<i>Di mana kau?</i>
+
+111
+00:15:25,507 --> 00:15:26,717
+Aku…
+
+112
+00:15:27,718 --> 00:15:29,762
+Aku tak tahu aku berada di mana.
+
+113
+00:15:30,471 --> 00:15:32,181
+Sepertinya di gudang.
+
+114
+00:15:34,141 --> 00:15:35,225
+<i>Air Lunar disuntikkan.</i>
+
+115
+00:15:35,309 --> 00:15:37,686
+<i>Tes pertama pada tubuh manusia dimulai.</i>
+
+116
+00:15:48,155 --> 00:15:50,950
+Luna 001 tak menunjukkan tanda kehidupan.
+
+117
+00:15:53,827 --> 00:15:55,371
+Apa yang mereka lakukan?
+
+118
+00:16:27,152 --> 00:16:29,446
+<i>Luna 027, gagal.</i>
+
+119
+00:16:30,823 --> 00:16:32,574
+<i>Luna 037, gagal.</i>
+
+120
+00:16:34,326 --> 00:16:36,412
+<i>Luna 041, gagal.</i>
+
+121
+00:16:38,330 --> 00:16:41,625
+<i>Luna 054 tak menunjukkan tanda kehidupan.</i>
+
+122
+00:17:17,536 --> 00:17:20,080
+<i>Luna 073, semua tanda vitalnya stabil.</i>
+
+123
+00:17:20,164 --> 00:17:22,541
+<i>Tidak terdeteksi pertambahan Air Lunar.</i>
+
+124
+00:17:23,834 --> 00:17:26,045
+Tak ada reaksi berbahaya di sel tubuhnya.
+
+125
+00:17:41,518 --> 00:17:42,770
+Apa kau baik saja?
+
+126
+00:17:42,853 --> 00:17:43,896
+Ya.
+
+127
+00:18:02,873 --> 00:18:06,877
+<i>Matahari terbit dan terbenam</i>
+<i>sekali sebulan di sini.</i>
+
+128
+00:18:07,711 --> 00:18:10,089
+<i>Jadi, rasanya aku menjalani hari</i>
+<i>yang amat panjang,</i>
+
+129
+00:18:11,465 --> 00:18:13,342
+<i>sementara waktu berlalu dengan lambat.</i>
+
+130
+00:18:15,260 --> 00:18:16,845
+<i>Sudah dua tahun berlalu,</i>
+
+131
+00:18:17,971 --> 00:18:20,599
+<i>tetapi aku belum tahu apa itu Air Lunar.</i>
+
+132
+00:18:21,892 --> 00:18:23,102
+<i>Para petinggi</i>
+
+133
+00:18:24,019 --> 00:18:27,731
+<i>ribut menyuruh kami</i>
+<i>untuk segera mengujinya di tubuh manusia.</i>
+
+134
+00:18:31,193 --> 00:18:32,069
+Tentu saja.
+
+135
+00:18:33,320 --> 00:18:34,696
+Jika ini berhasil,
+
+136
+00:18:35,656 --> 00:18:37,574
+umat manusia bisa diselamatkan.
+
+137
+00:18:40,577 --> 00:18:41,453
+Kenapa?
+
+138
+00:18:43,288 --> 00:18:44,665
+Kenapa kau lakukan itu?
+
+139
+00:19:14,862 --> 00:19:16,488
+Itu bukan keputusan yang mudah.
+
+140
+00:19:17,072 --> 00:19:19,241
+Aku tahu hal itu amat kejam untukmu.
+
+141
+00:19:20,159 --> 00:19:23,328
+Namun, aku pikir
+itu hal yang harus aku lakukan…
+
+142
+00:19:26,290 --> 00:19:28,709
+demi masa depan semua orang.
+
+143
+00:19:29,918 --> 00:19:30,919
+Suatu hari nanti…
+
+144
+00:19:33,839 --> 00:19:35,757
+aku ingin menjelaskan semuanya kepadamu.
+
+145
+00:19:39,178 --> 00:19:40,554
+Kenapa kau memanggilku?
+
+146
+00:19:42,514 --> 00:19:44,183
+Kau ingin aku melakukan apa?
+
+147
+00:19:49,229 --> 00:19:50,355
+Jian.
+
+148
+00:19:55,444 --> 00:19:58,530
+Aku ingin menunjukkan laut padamu.
+
+149
+00:20:01,366 --> 00:20:02,910
+Kau bodoh.
+
+150
+00:20:04,661 --> 00:20:06,246
+Jian. Apa…
+
+151
+00:20:07,748 --> 00:20:09,374
+Apa yang sudah aku lakukan?
+
+152
+00:20:09,875 --> 00:20:11,168
+Kenapa…
+
+153
+00:20:11,251 --> 00:20:14,338
+Kenapa kau tak tetap di sisiku?
+
+154
+00:20:18,175 --> 00:20:20,469
+Maaf aku tak mengangkat teleponmu.
+
+155
+00:21:03,971 --> 00:21:05,389
+Aku merindukanmu.
+
+156
+00:21:22,698 --> 00:21:24,533
+Kapten, aku menemukan pintu.
+
+157
+00:22:57,167 --> 00:22:58,502
+SISTEM PENYARINGAN UDARA,
+SEDANG DISIAPKAN
+
+158
+00:22:58,585 --> 00:22:59,419
+AKTIVASI PENGATUR WAKTU
+
+159
+00:23:03,131 --> 00:23:07,552
+ANOMALI TEKANAN TERDETEKSI
+
+160
+00:23:45,424 --> 00:23:46,758
+DIPERLUKAN KODE LEVEL 1
+UNTUK AKTIVASI PAKSA
+
+161
+00:23:50,053 --> 00:23:51,221
+AKTIVASI PENGATUR WAKTU
+
+162
+00:23:51,304 --> 00:23:52,973
+PERINTAH DILAKSANAKAN
+
+163
+00:25:04,503 --> 00:25:05,337
+Kapten.
+
+164
+00:25:37,118 --> 00:25:38,787
+PENUTUPAN PINTU
+
+165
+00:25:42,165 --> 00:25:43,875
+BUKA PINTU
+
+166
+00:25:50,549 --> 00:25:53,176
+BUKA PINTU
+
+167
+00:25:53,260 --> 00:25:55,136
+<i>Menonaktifkan penutupan pintu.</i>
+
+168
+00:25:55,220 --> 00:25:57,180
+<i>Menonaktifkan penutupan pintu.</i>
+
+169
+00:26:02,561 --> 00:26:03,478
+Dok Hong.
+
+170
+00:26:12,988 --> 00:26:14,155
+Ya?
+
+171
+00:26:14,239 --> 00:26:15,365
+Kita harus pergi.
+
+172
+00:26:16,116 --> 00:26:17,033
+Baik.
+
+173
+00:26:23,415 --> 00:26:26,960
+<i>Tekanan level dalam bahaya.</i>
+<i>Mengaktifkan sistem ventilasi paksa.</i>
+
+174
+00:26:28,712 --> 00:26:31,464
+Dok Hong, pergilah ke lab utama
+dan tunggu di sana.
+
+175
+00:26:31,548 --> 00:26:32,424
+Ya, Pak.
+
+176
+00:27:12,797 --> 00:27:14,215
+Itu Bumi.
+
+177
+00:27:16,843 --> 00:27:19,679
+Apa kau tahu apa itu Bumi?
+
+178
+00:27:28,313 --> 00:27:29,272
+Bu…
+
+179
+00:27:32,192 --> 00:27:33,234
+Bum…
+
+180
+00:27:51,961 --> 00:27:54,089
+Turunkan pistolmu, Ketua Gong.
+
+181
+00:27:54,839 --> 00:27:56,007
+Menyingkir, Doktor Song.
+
+182
+00:27:56,966 --> 00:27:58,677
+Aku bisa menenangkannya.
+
+183
+00:27:58,760 --> 00:28:00,053
+Tidak apa-apa.
+
+184
+00:28:00,720 --> 00:28:03,348
+Kau sudah lihat perbuatannya
+pada kru kita. Minggir.
+
+185
+00:28:03,932 --> 00:28:06,393
+Aku terus bersamanya,
+tetapi dia tak menyerangku.
+
+186
+00:28:06,476 --> 00:28:08,144
+Dia tak akan menyerang kita lagi.
+
+187
+00:28:10,605 --> 00:28:11,815
+Tolong turunkan pistolmu.
+
+188
+00:28:11,898 --> 00:28:13,108
+<i>Ketua Gong.</i>
+
+189
+00:28:14,651 --> 00:28:16,903
+Aku sudah menemukan
+Doktor Song dan target.
+
+190
+00:28:21,574 --> 00:28:23,410
+Aku gagal mengamankan kapsul.
+
+191
+00:28:23,493 --> 00:28:24,911
+Ryu Taesuk berjalan ke sana.
+
+192
+00:28:24,994 --> 00:28:26,871
+Bawa mereka berdua ke lab utama.
+
+193
+00:28:27,455 --> 00:28:29,833
+<i>Jangan bunuh dia.</i>
+<i>Dia harus dibawa hidup-hidup.</i>
+
+194
+00:28:29,916 --> 00:28:31,292
+<i>Bisa ikuti perintahku?</i>
+
+195
+00:31:38,855 --> 00:31:40,064
+Luna!
+
+196
+00:31:40,773 --> 00:31:41,774
+Luna!
+
+197
+00:31:42,650 --> 00:31:43,735
+Sebelah sini.
+
+198
+00:31:46,738 --> 00:31:47,989
+Kita harus ke sebelah sini.
+
+199
+00:31:49,991 --> 00:31:51,200
+Ayo kemari.
+
+200
+00:31:51,784 --> 00:31:52,827
+Luna.
+
+201
+00:32:10,845 --> 00:32:12,180
+Ayo ke arah sini.
+
+202
+00:33:43,187 --> 00:33:44,272
+Taesuk.
+
+203
+00:33:47,316 --> 00:33:48,776
+Kenapa kau lakukan ini?
+
+204
+00:33:49,277 --> 00:33:50,153
+Kapten.
+
+205
+00:33:51,112 --> 00:33:53,031
+Kau tak tahu apa-apa.
+
+206
+00:33:57,869 --> 00:34:00,621
+Kau tak tahu apa yang terjadi di sini…
+
+207
+00:34:01,748 --> 00:34:03,082
+serta apa itu Air Lunar.
+
+208
+00:34:07,336 --> 00:34:08,546
+PESAN DITERIMA
+
+209
+00:38:05,491 --> 00:38:07,034
+SEMUA KARAKTER, LOKASI,
+ORGANISASI, NAMA, DAN INSIDEN
+
+210
+00:38:07,118 --> 00:38:08,411
+ADALAH HASIL IMAJINASI
+ATAU DIGUNAKAN SECARA FIKTIF.
+
+211
+00:38:08,494 --> 00:38:09,745
+KESAMAAN DENGAN KENYATAAN
+ADALAH KEBETULAN.
+
+212
+00:38:09,829 --> 00:38:14,834
+Terjemahan subtitle oleh Fatimah Az Zahra
+
