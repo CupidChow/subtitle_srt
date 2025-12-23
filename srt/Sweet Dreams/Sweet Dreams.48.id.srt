@@ -1,0 +1,3195 @@
+1
+00:00:07,460 --> 00:00:09,700
+♪ Tertidur di atas bianglala ♪
+
+2
+00:00:09,770 --> 00:00:11,860
+♪ Melihat paus yang ada diatas awan ♪
+
+3
+00:00:11,860 --> 00:00:13,980
+♪ Sedang menua dengan pelan ♪
+
+4
+00:00:14,040 --> 00:00:16,290
+♪ Kereta labu melewati jembatan pelangi ♪
+
+5
+00:00:16,380 --> 00:00:18,050
+♪ Pangeran cepat menidurkanku ♪
+
+6
+00:00:18,080 --> 00:00:20,320
+♪ Bunga akan memakan istana ♪
+
+7
+00:00:20,360 --> 00:00:23,310
+♪ Saat terbangun melihat sepatu kaca ♪
+
+8
+00:00:23,380 --> 00:00:24,600
+♪ Dipenuhi kupu-kupu ♪
+
+9
+00:00:24,650 --> 00:00:25,720
+♪ Bagaimana menepati janji ♪
+
+10
+00:00:25,840 --> 00:00:26,810
+♪ Oh, sayang ♪
+
+11
+00:00:26,870 --> 00:00:28,410
+♪ Tutuplah matamu ♪
+
+12
+00:00:28,410 --> 00:00:30,050
+♪ Putuskan didalam mimpi ♪
+
+13
+00:00:30,080 --> 00:00:31,020
+♪ 1001 malam ♪
+
+14
+00:00:31,020 --> 00:00:32,470
+♪ Siapa adalah tokoh utama ♪
+
+15
+00:00:32,550 --> 00:00:34,180
+♪ Karena aku mencintaimu ♪
+
+16
+00:00:34,210 --> 00:00:35,740
+♪ Hanya karena kamu ♪
+
+17
+00:00:35,800 --> 00:00:37,320
+♪ Suasana hatiku bisa begitu indah ♪
+
+18
+00:00:37,420 --> 00:00:38,530
+♪ Mimpi bersama ♪
+
+19
+00:00:38,530 --> 00:00:40,100
+♪ Oh… oh… ♪
+
+20
+00:00:40,120 --> 00:00:42,210
+♪ Kamu, hanya karena kamu ♪
+
+21
+00:00:42,210 --> 00:00:43,500
+♪ Oh… oh… ♪
+
+22
+00:00:43,500 --> 00:00:45,110
+♪ Cepat bergandengan tangan ♪
+
+23
+00:00:45,110 --> 00:00:46,770
+♪ Oh… oh… cinta ♪
+
+24
+00:00:46,780 --> 00:00:48,450
+♪ Ada monster didalam hatimu ♪
+
+25
+00:00:48,450 --> 00:00:50,140
+♪ Juga tersimpan semesta yang hangat ♪
+
+26
+00:00:50,140 --> 00:00:51,760
+♪ Kita bersama, sayang ♪
+
+27
+00:00:51,760 --> 00:00:53,370
+♪ Maju bersama ♪
+
+28
+00:00:53,370 --> 00:00:55,730
+♪ Kamu, hanya karena kamu ♪
+
+29
+00:00:55,730 --> 00:00:56,680
+♪ Oh… oh… ♪
+
+30
+00:00:56,680 --> 00:00:58,400
+♪ Lihat tidak pernah musnah ♪
+
+31
+00:00:58,400 --> 00:01:00,720
+♪ Oh… oh… cinta ♪
+
+32
+00:01:00,740 --> 00:01:02,220
+♪ Karena aku cinta padamu ♪
+
+33
+00:01:02,270 --> 00:01:03,740
+♪ Hanya karena kamu ♪
+
+34
+00:01:03,740 --> 00:01:05,450
+♪ Suasana hatiku bisa begitu indah ♪
+
+35
+00:01:05,450 --> 00:01:08,130
+♪ Disisimu oh… oh… ♪
+
+36
+00:01:08,260 --> 00:01:10,620
+♪ Kamu, hanya karena kamu ♪
+
+37
+00:01:10,620 --> 00:01:11,610
+♪ Oh… oh… ♪
+
+38
+00:01:11,610 --> 00:01:13,190
+♪ Kamu memegang tanganku ♪
+
+39
+00:01:13,190 --> 00:01:14,920
+♪ Oh… oh… cinta ♪
+
+40
+00:01:14,920 --> 00:01:16,560
+♪ Ada monster didalam hatimu ♪
+
+41
+00:01:16,560 --> 00:01:18,240
+♪ Juga tersimpan semesta yang hangat ♪
+
+42
+00:01:18,240 --> 00:01:19,850
+♪ Kita bersama, sayang ♪
+
+43
+00:01:19,850 --> 00:01:21,500
+♪ Maju bersama ♪
+
+44
+00:01:21,500 --> 00:01:23,850
+♪ Kamu, hanya karena kamu ♪
+
+45
+00:01:23,850 --> 00:01:24,770
+♪ Oh… oh… ♪
+
+46
+00:01:24,800 --> 00:01:25,940
+♪ Lihat tidak pernah musnah ♪
+
+47
+00:01:26,490 --> 00:01:30,980
+♪ Oh… oh… ♪
+
+48
+00:01:30,980 --> 00:01:33,260
+♪ Cinta ♪
+
+49
+00:01:33,260 --> 00:01:35,020
+= 1001 Malam =
+
+50
+00:01:36,740 --> 00:01:41,060
+= Episode 48 =
+
+51
+00:01:57,417 --> 00:01:59,918
+Kelihatannya sains memang masuk akal.
+
+52
+00:02:06,209 --> 00:02:06,876
+Mengapa aku bisa menyukai
+
+53
+00:02:06,959 --> 00:02:08,209
+wanita yang seperti ini?
+
+54
+00:02:14,459 --> 00:02:15,334
+Aku menyukaimu.
+
+55
+00:03:47,709 --> 00:03:48,959
+Ibu, aku sudah pulang.
+
+56
+00:03:49,999 --> 00:03:51,000
+Hai sudah pulang.
+
+57
+00:03:55,876 --> 00:03:56,709
+Modul kapalnya rusak?
+
+58
+00:03:58,334 --> 00:03:58,876
+Ibu tidak sengaja
+
+59
+00:03:58,959 --> 00:03:59,999
+menjatuhkannya,
+
+60
+00:04:00,542 --> 00:04:02,083
+jadi harus memperbaikinya
+dengan seksama.
+
+61
+00:04:02,542 --> 00:04:04,000
+Benda ini sangatlah penting
+
+62
+00:04:04,167 --> 00:04:05,167
+bagi Ibu.
+
+63
+00:04:06,667 --> 00:04:07,501
+Itu adalah hadiah ulang tahun
+yang kuberikan
+
+64
+00:04:07,584 --> 00:04:08,542
+kepada Ibu.
+
+65
+00:04:08,918 --> 00:04:09,751
+Benar.
+
+66
+00:04:11,334 --> 00:04:11,959
+Sudah selesai diperbaiki?
+
+67
+00:04:12,250 --> 00:04:12,792
+Segera.
+
+68
+00:04:16,167 --> 00:04:16,667
+Sudah.
+
+69
+00:04:18,083 --> 00:04:18,834
+Aku akan menempatkannya
+dengan baik.
+
+70
+00:04:35,501 --> 00:04:36,417
+Modul kapal itu!
+
+71
+00:04:56,500 --> 00:05:00,380
+= Kartu penyimpanan catatan transaksi =
+
+72
+00:05:03,000 --> 00:05:03,584
+Ini adalah
+
+73
+00:05:03,584 --> 00:05:05,250
+catatan transaksi Liu Yingjie
+di Ikebana Yunhe?
+
+74
+00:05:07,792 --> 00:05:08,709
+Jadi bukti
+
+75
+00:05:09,000 --> 00:05:10,209
+selama ini berada di tempatmu?
+
+76
+00:05:13,125 --> 00:05:14,584
+Ternyata cara melawan Liu Yingjie,
+
+77
+00:05:15,792 --> 00:05:17,334
+Ibu sudah memikirkannya untukku.
+
+78
+00:05:27,959 --> 00:05:28,626
+Ini adalah catatan transaksi
+
+79
+00:05:28,709 --> 00:05:29,667
+20 tahun yang lalu.
+
+80
+00:05:30,020 --> 00:05:30,834
+= Map Dokumen =
+Di dalamnya tercatat perincian bukti kejahatan
+
+81
+00:05:30,834 --> 00:05:31,300
+= Map Dokumen =
+Liu Yingjie memanfaatkan posisinya
+
+82
+00:05:31,300 --> 00:05:32,375
+Liu Yingjie memanfaatkan posisinya
+
+83
+00:05:32,375 --> 00:05:33,209
+menggunakan berbagai cara
+
+84
+00:05:33,417 --> 00:05:34,250
+menggelapkan biaya operasional
+
+85
+00:05:34,334 --> 00:05:35,959
+Ikebana Yunhe.
+
+86
+00:05:36,209 --> 00:05:37,167
+Berdasarkan informasi yang ditemukan,
+
+87
+00:05:37,292 --> 00:05:38,250
+aku memiliki alasan untuk mencurigai
+
+88
+00:05:38,375 --> 00:05:39,792
+Liu Yingjie dan Lu Yunqing
+
+89
+00:05:39,918 --> 00:05:41,250
+memiliki hubungan dengan
+kematian Yin Changhe.
+
+90
+00:05:43,125 --> 00:05:43,709
+Sungguh terima kasih
+
+91
+00:05:43,709 --> 00:05:44,834
+informasi yang
+kamu memberikan kepada kami,
+
+92
+00:05:45,209 --> 00:05:46,584
+sangat membantu penyelidikan kami.
+
+93
+00:05:46,876 --> 00:05:47,751
+Untuk kecurigaan terhadapmu,
+
+94
+00:05:48,167 --> 00:05:48,999
+sebenarnya pada saat
+
+95
+00:05:49,042 --> 00:05:50,083
+menemukan mayat Lu Yunqing.
+
+96
+00:05:50,334 --> 00:05:51,083
+Kami, pihak kepolisian
+
+97
+00:05:51,292 --> 00:05:52,959
+terus melakukan pencarian
+terhadap petunjuk ini.
+
+98
+00:05:53,167 --> 00:05:53,959
+Akhir-akhir ini juga telah
+
+99
+00:05:54,000 --> 00:05:54,626
+memiliki penerobosan.
+
+100
+00:05:54,918 --> 00:05:55,584
+Serta telah menangkap satu orang
+
+101
+00:05:55,667 --> 00:05:56,751
+personel penting terkait kasus ini.
+
+102
+00:06:08,626 --> 00:06:09,167
+Kamu tenanglah.
+
+103
+00:06:09,959 --> 00:06:10,751
+Kami pasti akan menyelidiki
+
+104
+00:06:10,751 --> 00:06:11,584
+kebenarannya.
+
+105
+00:06:12,501 --> 00:06:13,042
+Terima kasih.
+
+106
+00:06:14,584 --> 00:06:15,375
+Percaya para pemirsa
+
+107
+00:06:15,459 --> 00:06:16,876
+masih memiliki kesan
+
+108
+00:06:16,959 --> 00:06:18,626
+terhadap Ikebana Yunhe
+yang dulunya sangat terkenal.
+
+109
+00:06:18,876 --> 00:06:20,292
+Perusahaan Ikebana
+yang sudah lama ini
+
+110
+00:06:20,375 --> 00:06:22,125
+sebagai inovasi pertama
+dalam industri dalam negeri.
+
+111
+00:06:22,292 --> 00:06:23,042
+Pernah mendapatkan
+
+112
+00:06:23,125 --> 00:06:24,667
+banyak peringkat yang mengagumkan.
+
+113
+00:06:25,000 --> 00:06:26,959
+Tapi pada kebakaran 20 tahun lalu,
+
+114
+00:06:27,000 --> 00:06:28,125
+tidak hanya merenggut nyawa
+
+115
+00:06:28,167 --> 00:06:29,667
+dari dua orang pendiri Yunhe,
+
+116
+00:06:29,834 --> 00:06:31,125
+juga membuat Ikebana Yunhe
+
+117
+00:06:31,209 --> 00:06:33,125
+yang saat itu berada dalam
+titik tertinggi menjadi sejarah.
+
+118
+00:06:33,334 --> 00:06:33,751
+Beberapa hari ini
+
+119
+00:06:33,876 --> 00:06:34,959
+kasus kebakaran yang telah terpendam
+
+120
+00:06:35,000 --> 00:06:35,792
+selama 20 tahun
+
+121
+00:06:35,834 --> 00:06:37,834
+kembali muncul kedalam pandangan kita.
+
+122
+00:06:37,980 --> 00:06:38,250
+= Sedang dalam operasional =
+
+123
+00:06:38,250 --> 00:06:38,959
+= Sedang dalam operasional =
+Wartawan menemukan
+
+124
+00:06:38,959 --> 00:06:39,820
+= Sedang dalam operasional =
+pihak kepolisian kemarin
+
+125
+00:06:39,918 --> 00:06:41,167
+baru saja mengeluarkan
+surat perintah buronan
+
+126
+00:06:41,250 --> 00:06:41,959
+untuk melakukan buronan terhadap
+
+127
+00:06:42,000 --> 00:06:43,626
+tersangka utama kasus ini, Liu Yingjie.
+
+128
+00:06:43,959 --> 00:06:45,834
+Berdasarkan informasi
+yang dimiliki pihak kepolisian,
+
+129
+00:06:45,999 --> 00:06:47,626
+Liu Yingjie pada tahun 1997
+
+130
+00:06:47,709 --> 00:06:48,918
+saat berperan sebagai
+
+131
+00:06:48,999 --> 00:06:50,042
+manajer keuangan Ikebana Yunhe,
+
+132
+00:06:50,125 --> 00:06:50,999
+pernah
+
+133
+00:06:51,125 --> 00:06:53,125
+melakukan mutasi kas
+perusahaan sebanyak 7 kali
+
+134
+00:06:53,209 --> 00:06:54,918
+dengan jumlah 2,38 juta Yuan RMB.
+
+135
+00:06:55,125 --> 00:06:56,542
+Kalau begitu Liu Yingjie
+yang paling berpengaruh dalam kasus ini
+
+136
+00:06:56,626 --> 00:06:58,501
+apakah juga
+
+137
+00:06:58,584 --> 00:06:59,501
+memiliki hubungan tertentu
+
+138
+00:06:59,584 --> 00:07:00,417
+dengan kebakaran Yunhe
+
+139
+00:07:00,459 --> 00:07:01,834
+serta kematian kedua pendiri?
+
+140
+00:07:02,209 --> 00:07:03,584
+Percaya hal ini akan
+terungkap kebenarannya
+
+141
+00:07:03,709 --> 00:07:05,959
+setelah Liu Yingjie tertangkap.
+
+142
+00:07:07,209 --> 00:07:08,334
+Hubungi kantor pusat, cepat.
+
+143
+00:07:08,542 --> 00:07:10,250
+Bos, aku harus bagaimana mengatakannya?
+
+144
+00:07:10,626 --> 00:07:11,250
+Katakan kepada mereka,
+
+145
+00:07:12,209 --> 00:07:13,167
+biar mereka memikirkan cara.
+
+146
+00:07:13,751 --> 00:07:14,626
+Aku tidak boleh tertangkap.
+
+147
+00:07:16,584 --> 00:07:17,167
+Identitasku,
+
+148
+00:07:18,792 --> 00:07:19,417
+posisiku,
+
+149
+00:07:20,918 --> 00:07:21,876
+aku tidak boleh dipenjara.
+
+150
+00:07:23,042 --> 00:07:24,209
+Ini bukanlah masalah pribadiku.
+
+151
+00:07:24,375 --> 00:07:24,876
+Ini berhubungan dengan
+
+152
+00:07:24,876 --> 00:07:26,250
+nama baik seluruh
+Perusahaan Chuangxiang.
+
+153
+00:07:26,999 --> 00:07:27,542
+Aku mengerti.
+
+154
+00:07:28,292 --> 00:07:29,042
+Untuk apa menelepon?
+
+155
+00:07:29,751 --> 00:07:30,792
+Kamu ingin membocorkan lokasi kita?
+
+156
+00:07:31,626 --> 00:07:32,167
+Maaf, Bos.
+
+157
+00:07:32,584 --> 00:07:34,542
+Cari satu tempat, kirimkan surel.
+
+158
+00:07:35,000 --> 00:07:35,626
+Aku mengerti.
+
+159
+00:07:36,042 --> 00:07:36,959
+Bodoh.
+
+160
+00:07:49,667 --> 00:07:50,250
+Halo, Direktur Bo.
+
+161
+00:07:50,542 --> 00:07:51,292
+Pihak Chuangxiang mengundang
+
+162
+00:07:51,375 --> 00:07:52,709
+ingin segera mengadakan rapat
+dengan panggilan video.
+
+163
+00:07:53,375 --> 00:07:53,959
+Sambungkanlah.
+
+164
+00:07:57,794 --> 00:07:58,960
+Ada apa ini?
+
+165
+00:08:00,577 --> 00:08:01,331
+Ada apa ini?
+
+166
+00:08:03,480 --> 00:08:04,182
+Tidak tahu.
+
+167
+00:08:05,083 --> 00:08:06,125
+William ini menjadi buronan,
+
+168
+00:08:06,250 --> 00:08:07,667
+para bule ini semuanya pasti takut.
+
+169
+00:08:07,792 --> 00:08:08,334
+Siapa suruh mereka
+
+170
+00:08:08,417 --> 00:08:09,584
+harus mengakuisisi kita
+dengan cara jahat?
+
+171
+00:08:09,834 --> 00:08:10,584
+Ini namanya ingin mencelakai orang
+
+172
+00:08:10,709 --> 00:08:11,792
+tapi akhirnya mencelakai diri sendiri.
+
+173
+00:08:11,918 --> 00:08:12,626
+Benar.
+
+174
+00:08:13,334 --> 00:08:14,959
+Sekretaris Chen, kabarnya Chuangxiang
+
+175
+00:08:15,000 --> 00:08:16,459
+mencari Direktur Bo untuk rapat?
+
+176
+00:08:17,167 --> 00:08:17,918
+Sedang berlangsung.
+
+177
+00:08:18,292 --> 00:08:19,083
+Apakah ini perlu dibicarakan lagi,
+
+178
+00:08:19,209 --> 00:08:20,209
+pasti untuk berdamai.
+
+179
+00:08:20,709 --> 00:08:21,959
+Bisa saja untuk mohon maaf.
+
+180
+00:08:31,375 --> 00:08:32,667
+Berdasarkan penelitian
+dari berbagai pihak,
+
+181
+00:08:33,083 --> 00:08:33,959
+komite memutuskan
+
+182
+00:08:34,167 --> 00:08:35,420
+Perusahaan Chuangxiang
+melakukan penipuan bisnis,
+
+183
+00:08:35,420 --> 00:08:36,083
+= Asosiasi Ikebana = // Perusahaan Chuangxiang
+melakukan penipuan bisnis,
+
+184
+00:08:36,083 --> 00:08:37,999
+= Asosiasi Ikebana = // dan persaingan
+tidak sehat merupakan fakta kebenaran,
+
+185
+00:08:38,501 --> 00:08:39,667
+kelakuan Perusahaan Chuangxiang
+
+186
+00:08:39,751 --> 00:08:40,959
+sangat mengganggu prosedur
+
+187
+00:08:41,000 --> 00:08:42,083
+operasional Flower Plus,
+
+188
+00:08:42,584 --> 00:08:43,709
+membahayakan kesehatan perkembangan
+
+189
+00:08:43,792 --> 00:08:44,584
+sektor industri terkait.
+
+190
+00:08:45,250 --> 00:08:46,959
+Kita akan memberikan sanksi
+
+191
+00:08:47,125 --> 00:08:48,334
+terhadap penanggung jawab terkait.
+
+192
+00:08:58,584 --> 00:08:59,125
+Direktur Bo sudah datang.
+
+193
+00:09:11,501 --> 00:09:12,792
+Chuangxiang tidak melepaskannya
+juga tidak apa-apa,
+
+194
+00:09:12,959 --> 00:09:13,959
+kita masih memiliki cara lain.
+
+195
+00:09:16,999 --> 00:09:17,834
+Seperti dugaanku
+
+196
+00:09:18,709 --> 00:09:19,751
+Liu Yingjie menjadi bidak
+catur yang dikorbankan.
+
+197
+00:09:20,626 --> 00:09:21,959
+Bule pada pusat Chuangxiang,
+
+198
+00:09:22,167 --> 00:09:23,250
+memastikan segala taktik
+
+199
+00:09:23,334 --> 00:09:24,209
+yang direncanakan untuk Tiongkok
+
+200
+00:09:24,417 --> 00:09:26,042
+semuanya adalah tindakan
+pribadi Liu Yingjie.
+
+201
+00:09:26,209 --> 00:09:27,459
+Seluruh kewajiban juga akan
+
+202
+00:09:27,584 --> 00:09:28,542
+ditanggung oleh dirinya.
+
+203
+00:09:29,209 --> 00:09:30,125
+Pusat Chuangxiang memutuskan
+
+204
+00:09:30,959 --> 00:09:32,125
+untuk mengalihkan semua hak
+
+205
+00:09:32,209 --> 00:09:33,083
+pemegang saham Flower Plus.
+
+206
+00:09:33,292 --> 00:09:35,334
+Serta menyusun perencanaan
+secara global.
+
+207
+00:09:36,417 --> 00:09:36,876
+Baik.
+
+208
+00:09:38,292 --> 00:09:38,709
+Baik.
+
+209
+00:09:39,918 --> 00:09:40,375
+Bagus sekali!
+
+210
+00:09:50,501 --> 00:09:50,959
+Mo Nan,
+
+211
+00:09:57,751 --> 00:09:59,083
+ba... bagaimana hasilnya?
+
+212
+00:10:01,876 --> 00:10:03,042
+Satu kabar baik,
+
+213
+00:10:03,584 --> 00:10:04,792
+satu kabar buruk.
+
+214
+00:10:06,209 --> 00:10:07,918
+Kamu ingin mendengar
+yang mana dulu?
+
+215
+00:10:10,125 --> 00:10:11,250
+Mendengar kabar baik dulu.
+
+216
+00:10:14,834 --> 00:10:16,042
+Kabar baiknya adalah
+
+217
+00:10:17,584 --> 00:10:19,417
+karena aku melakukan laporan
+
+218
+00:10:19,542 --> 00:10:20,959
+dan mengaku kesalahan dengan tulus,
+
+219
+00:10:21,918 --> 00:10:23,667
+memutuskan aku tidak boleh masuk dalam
+industri ini selama 5 tahun,
+
+220
+00:10:23,667 --> 00:10:24,709
+serta denda tunai.
+
+221
+00:10:26,334 --> 00:10:28,125
+Ini sudah merupakan
+hukuman paling ringan.
+
+222
+00:10:34,000 --> 00:10:36,125
+Bagaimana dengan kabar buruk?
+
+223
+00:10:38,417 --> 00:10:39,626
+Kabar buruk adalah
+
+224
+00:10:42,626 --> 00:10:43,999
+makan malam besar malam ini
+
+225
+00:10:44,667 --> 00:10:46,417
+mungkin kamu yang harus mentraktirnya.
+
+226
+00:10:47,542 --> 00:10:48,667
+Dasar!
+
+227
+00:10:51,292 --> 00:10:52,501
+Karena aku harus membayarkan
+denda tunai
+
+228
+00:10:52,501 --> 00:10:53,209
+maka harus menjual
+
+229
+00:10:53,209 --> 00:10:54,501
+semua saham di Flower Plus
+
+230
+00:10:54,959 --> 00:10:56,334
+ditambah dengan tabungan di bank,
+
+231
+00:10:58,292 --> 00:10:59,292
+aku benar-benar menjadi
+
+232
+00:10:59,375 --> 00:11:00,375
+orang miskin.
+
+233
+00:11:02,501 --> 00:11:03,542
+Tapi bagiku
+
+234
+00:11:03,959 --> 00:11:05,375
+ini barulah kabar baik yang sebenarnya.
+
+235
+00:11:08,584 --> 00:11:09,083
+Bagus sekali.
+
+236
+00:11:10,876 --> 00:11:11,334
+Kamu kembali menjadi
+
+237
+00:11:11,417 --> 00:11:12,667
+Mo Nan yang waktu itu.
+
+238
+00:11:13,876 --> 00:11:15,209
+Kembali menjadi teman baik kami.
+
+239
+00:11:25,834 --> 00:11:27,334
+Baoni, apakah kamu tahu,
+
+240
+00:11:27,751 --> 00:11:29,459
+di mana bisa menyewa rumah yang murah?
+
+241
+00:11:32,501 --> 00:11:33,000
+Aku pikir dulu.
+
+242
+00:11:34,209 --> 00:11:35,542
+Kamu jangan bilang,
+aku benar-benar memikirkan
+
+243
+00:11:35,667 --> 00:11:36,334
+satu tempat yang baik.
+
+244
+00:11:37,459 --> 00:11:38,334
+Dingin di musim dingin,
+panas di musim kemarau,
+
+245
+00:11:39,959 --> 00:11:40,918
+bisa dimasuki angin
+dan bocor ketika hujan.
+
+246
+00:11:41,876 --> 00:11:43,584
+Tapi pemandangannya luas,
+
+247
+00:11:43,584 --> 00:11:44,751
+dan cantik sekali.
+
+248
+00:11:45,626 --> 00:11:47,751
+Yang paling mengharukan
+adalah harganya sangat murah.
+
+249
+00:11:47,999 --> 00:11:48,959
+Bagaimana jika dipertimbangkan dulu?
+
+250
+00:11:49,751 --> 00:11:50,542
+Aku rasa bagus juga.
+
+251
+00:11:50,667 --> 00:11:51,375
+Hanya saja tidak tahu
+
+252
+00:11:51,459 --> 00:11:53,000
+apakah pemilik rumah itu
+
+253
+00:11:53,083 --> 00:11:53,999
+bisa berbaur atau tidak,
+
+254
+00:11:55,083 --> 00:11:56,375
+apakah bisa menjahatiku?
+
+255
+00:12:02,918 --> 00:12:03,542
+Aku akan terus menganggapmu
+
+256
+00:12:03,542 --> 00:12:04,834
+sebagai teman baikku.
+
+257
+00:12:05,876 --> 00:12:07,209
+Terus menemani disisimu.
+
+258
+00:12:08,918 --> 00:12:09,792
+Mungkin suatu hari nanti
+
+259
+00:12:10,459 --> 00:12:11,542
+kamu akan berhenti
+
+260
+00:12:12,250 --> 00:12:13,501
+dan melihatku dengan baik.
+
+261
+00:12:16,334 --> 00:12:17,125
+Pada ada saatnya nanti.
+
+262
+00:12:27,584 --> 00:12:28,209
+Sejujurnya
+
+263
+00:12:29,417 --> 00:12:30,834
+aku sudah tidak bisa ingat
+
+264
+00:12:31,751 --> 00:12:32,083
+kapan
+
+265
+00:12:32,250 --> 00:12:33,250
+terakhir kali bercanda ria
+
+266
+00:12:33,375 --> 00:12:34,417
+dengan semuanya.
+
+267
+00:12:35,209 --> 00:12:36,209
+Dalam satu tahun ini
+
+268
+00:12:37,000 --> 00:12:39,667
+banyak yang berubah baik
+perusahaan dan aku.
+
+269
+00:12:41,042 --> 00:12:41,667
+Dulu,
+
+270
+00:12:43,501 --> 00:12:44,542
+aku adalah tumbuhan kanibal
+
+271
+00:12:44,667 --> 00:12:45,459
+yang ada di mulut kalian.
+
+272
+00:12:46,959 --> 00:12:49,292
+Tidak manusiawi, dingin dan ketat,
+
+273
+00:12:50,751 --> 00:12:51,751
+mesin pekerja
+
+274
+00:12:51,876 --> 00:12:52,792
+yang tidak memiliki perasaan.
+
+275
+00:12:54,125 --> 00:12:54,918
+Kalianlah...
+
+276
+00:12:56,167 --> 00:12:56,999
+Kalianlah yang melelehkan
+
+277
+00:12:57,042 --> 00:12:58,167
+es yang ada dalam hatiku.
+
+278
+00:12:58,999 --> 00:12:59,584
+Membuatku merasakan
+
+279
+00:12:59,709 --> 00:13:00,959
+kehangatan dalam kehidupan.
+
+280
+00:13:02,334 --> 00:13:02,918
+Merasakan
+
+281
+00:13:02,959 --> 00:13:05,584
+keindahan dan kebaikan
+dari dunia ini.
+
+282
+00:13:07,209 --> 00:13:08,000
+Selain bekerja,
+
+283
+00:13:08,918 --> 00:13:10,292
+kita masih ada kue dadar
+yang menjadi sarapan pagi
+
+284
+00:13:11,000 --> 00:13:12,000
+dan matahari terbenam pada petang,
+
+285
+00:13:13,042 --> 00:13:15,501
+udara yang penuh
+dengan aroma bunga.
+
+286
+00:13:17,209 --> 00:13:18,125
+Kita sudah berapa lama
+
+287
+00:13:18,751 --> 00:13:19,751
+tidak melihat dunia ini
+
+288
+00:13:19,876 --> 00:13:20,792
+dengan baik?
+
+289
+00:13:22,876 --> 00:13:24,375
+Karena pandangan hidupku
+yang melenceng,
+
+290
+00:13:25,667 --> 00:13:25,999
+aku tahu
+
+291
+00:13:26,042 --> 00:13:27,167
+membuat pekerjaan kalian sebelumnya
+
+292
+00:13:27,792 --> 00:13:28,542
+sangat tertekan.
+
+293
+00:13:29,542 --> 00:13:31,292
+Disini aku juga minta maaf kepada kalian.
+
+294
+00:13:32,292 --> 00:13:33,000
+Tapi untungnya,
+
+295
+00:13:33,792 --> 00:13:34,792
+semuanya masih sempat,
+
+296
+00:13:35,584 --> 00:13:36,792
+selagi matahari belum terbenam,
+
+297
+00:13:37,292 --> 00:13:39,292
+selagi kehangatan belum menjadi dingin,
+
+298
+00:13:40,167 --> 00:13:41,792
+pergilah menikmati kehidupan
+dengan baik.
+
+299
+00:13:43,083 --> 00:13:43,876
+Jadi hari ini
+
+300
+00:13:44,792 --> 00:13:46,250
+semuanya libur.
+
+301
+00:13:48,501 --> 00:13:49,334
+Bagus sekali!
+
+302
+00:14:27,167 --> 00:14:27,501
+Bos.
+
+303
+00:14:27,751 --> 00:14:28,792
+Bagaimana? Apa perkataan mereka?
+
+304
+00:14:29,167 --> 00:14:30,083
+Mereka tidak membalas surel.
+
+305
+00:14:31,000 --> 00:14:31,459
+Lalu aku mencoba
+
+306
+00:14:31,542 --> 00:14:32,584
+menelepon melalui internet,
+
+307
+00:14:33,459 --> 00:14:34,292
+tapi mereka tidak menjawabnya.
+
+308
+00:14:37,083 --> 00:14:38,083
+Dasar bule!
+
+309
+00:14:39,250 --> 00:14:40,626
+Mengkhianatiku?
+
+310
+00:14:40,999 --> 00:14:41,417
+Bos.
+
+311
+00:14:42,334 --> 00:14:43,334
+Kita selanjutnya harus bagaimana?
+
+312
+00:14:45,626 --> 00:14:46,709
+Aku tidak akan kalah.
+
+313
+00:14:49,876 --> 00:14:52,083
+Aku pasti tidak akan kalah.
+
+314
+00:14:54,999 --> 00:14:56,876
+Apakah kamu sebelumnya
+pernah berpikir
+
+315
+00:14:57,083 --> 00:14:57,876
+suatu hari nanti
+
+316
+00:14:58,083 --> 00:14:59,250
+kita benar-benar bisa bersama?
+
+317
+00:15:00,584 --> 00:15:01,959
+Kamu benar-benar narsis.
+
+318
+00:15:02,459 --> 00:15:03,334
+Aku pernah berpikir berbagai cara
+
+319
+00:15:03,459 --> 00:15:04,459
+untuk bertemu denganmu,
+
+320
+00:15:04,584 --> 00:15:05,292
+juga pernah berpikir
+
+321
+00:15:05,417 --> 00:15:06,542
+berbagai cara kamu jatuh
+cinta kepadaku.
+
+322
+00:15:07,000 --> 00:15:08,209
+Tapi aku merasa semua
+ini adalah imajinasi.
+
+323
+00:15:10,375 --> 00:15:11,375
+Aku merasa jawabanmu ini
+
+324
+00:15:11,501 --> 00:15:12,459
+lebih narsis.
+
+325
+00:15:14,292 --> 00:15:15,042
+Aku sudah tahu dari awal
+
+326
+00:15:15,167 --> 00:15:16,292
+aku pasti bisa mendapatkanmu,
+
+327
+00:15:17,459 --> 00:15:17,959
+karena aku tahu
+
+328
+00:15:18,250 --> 00:15:20,834
+biarpun impian bisa mengkhianatiku,
+
+329
+00:15:21,000 --> 00:15:21,999
+tapi usaha tidak akan pernah.
+
+330
+00:15:30,876 --> 00:15:31,375
+Qi,
+
+331
+00:15:33,209 --> 00:15:34,250
+terima kasih kamu bertemu denganku.
+
+332
+00:15:35,459 --> 00:15:36,459
+Jika tidak bertemu denganmu,
+
+333
+00:15:37,959 --> 00:15:38,709
+aku rasa seumur hidupku ini
+
+334
+00:15:38,792 --> 00:15:40,125
+tidak akan bertemu dengan
+orang yang tepat.
+
+335
+00:15:51,584 --> 00:15:52,709
+Banyak sekali daun semanggi.
+
+336
+00:16:00,584 --> 00:16:01,209
+Semanggi berdaun empat,
+
+337
+00:16:06,125 --> 00:16:06,792
+cepat berdoa.
+
+338
+00:16:16,334 --> 00:16:17,375
+Apa doa mu?
+
+339
+00:16:18,083 --> 00:16:18,834
+Tidak akan kuberitahu.
+
+340
+00:16:20,375 --> 00:16:21,167
+Kamu tidak beri tahu aku,
+
+341
+00:16:21,626 --> 00:16:23,083
+bagaimana aku membantumu
+mencapai impianmu?
+
+342
+00:16:24,959 --> 00:16:26,083
+Apakah kamu tahu bahasa
+bunga dari semanggi berdaun empat?
+
+343
+00:16:26,209 --> 00:16:26,959
+Apa?
+
+344
+00:16:30,250 --> 00:16:31,042
+Kamu tidak tahu bukan?
+
+345
+00:16:32,792 --> 00:16:34,083
+Bahasa bunga dari semanggi
+berdaun empat adalah
+
+346
+00:16:34,459 --> 00:16:35,334
+impian yang tercapai.
+
+347
+00:16:38,792 --> 00:16:39,999
+Impian yang tercapai.
+
+348
+00:17:12,751 --> 00:17:13,792
+Di dunia ini
+
+349
+00:17:14,959 --> 00:17:15,959
+ada 6 miliar orang.
+
+350
+00:17:17,584 --> 00:17:18,083
+Satu orang seumur hidup
+
+351
+00:17:18,083 --> 00:17:19,417
+mungkin akan bertemu
+
+352
+00:17:20,250 --> 00:17:21,709
+29.20 juta orang.
+
+353
+00:17:23,209 --> 00:17:25,083
+Persentase bertemunya
+dua orang adalah
+
+354
+00:17:25,542 --> 00:17:26,792
+empat per seratus ribu.
+
+355
+00:17:28,292 --> 00:17:29,542
+Persentase saling mengenal adalah
+
+356
+00:17:30,167 --> 00:17:31,334
+lima per sepuluh juta.
+
+357
+00:17:32,709 --> 00:17:33,834
+Persentase saling mengerti adalah
+
+358
+00:17:34,667 --> 00:17:35,959
+tiga per semiliar.
+
+359
+00:17:37,334 --> 00:17:38,918
+Dan persentase saling mencintai
+
+360
+00:17:40,959 --> 00:17:42,000
+sama sekali tidak bisa dihitung.
+
+361
+00:17:42,918 --> 00:17:43,667
+Yang penting
+
+362
+00:17:44,999 --> 00:17:46,209
+sangat-sangat rendah.
+
+363
+00:18:37,459 --> 00:18:38,459
+Interior toko ini
+
+364
+00:18:38,626 --> 00:18:39,542
+lumayan bagus juga.
+
+365
+00:18:47,751 --> 00:18:48,751
+Cantik sekali!
+
+366
+00:18:51,417 --> 00:18:52,125
+Apakah cantik?
+
+367
+00:18:52,959 --> 00:18:53,667
+Rancangan meja pameran ini
+
+368
+00:18:53,792 --> 00:18:54,501
+memang bagus.
+
+369
+00:18:56,876 --> 00:18:57,999
+Aku tidak membicarakan tentang
+meja pameran kepadamu,
+
+370
+00:18:58,042 --> 00:18:59,501
+yang aku bilang adalah produknya.
+
+371
+00:19:07,167 --> 00:19:07,626
+Halo.
+
+372
+00:19:08,417 --> 00:19:09,292
+Nona ini sepertinya
+
+373
+00:19:09,417 --> 00:19:10,667
+sangat menyukai cincin kami.
+
+374
+00:19:10,959 --> 00:19:11,584
+Ini adalah cincin edisi terbatas
+
+375
+00:19:11,709 --> 00:19:12,918
+yang kami luncurkan.
+
+376
+00:19:13,083 --> 00:19:14,292
+Seluruh dunia hanya
+satu pasang saja.
+
+377
+00:19:14,501 --> 00:19:16,125
+Namanya adalah hanya untukmu.
+
+378
+00:19:17,667 --> 00:19:19,417
+Hubungan Anda berdua
+sepertinya baik sekali,
+
+379
+00:19:19,709 --> 00:19:20,042
+tidak tahu
+
+380
+00:19:20,167 --> 00:19:21,375
+apakah berencana untuk menikah?
+
+381
+00:19:31,626 --> 00:19:33,250
+Hm... hari ini toko kami
+
+382
+00:19:33,292 --> 00:19:33,999
+kebetulan ada acara.
+
+383
+00:19:34,083 --> 00:19:35,083
+Bisa memberikan diskon
+10% kepada Anda.
+
+384
+00:19:35,209 --> 00:19:36,167
+Setelah diskon adalah
+
+385
+00:19:36,334 --> 00:19:37,999
+88,888 Yuan.
+
+386
+00:19:39,209 --> 00:19:40,042
+Delapan puluh ribu lebih?
+
+387
+00:19:40,292 --> 00:19:41,417
+Ini terlalu mahal.
+
+388
+00:19:43,375 --> 00:19:44,125
+Benar, benar, benar.
+
+389
+00:19:44,501 --> 00:19:45,000
+Tidak apa-apa.
+
+390
+00:19:45,042 --> 00:19:45,959
+Jika kamu suka...
+
+391
+00:19:46,042 --> 00:19:47,000
+Aku tidak suka, tidak suka.
+
+392
+00:19:47,334 --> 00:19:47,834
+Tidak suka.
+
+393
+00:19:48,792 --> 00:19:50,000
+Perusahaan masih
+belum melewati krisis.
+
+394
+00:19:50,167 --> 00:19:51,209
+Maaf, terlalu mahal.
+
+395
+00:19:51,250 --> 00:19:51,667
+Tidak apa-apa, tidak apa-apa.
+
+396
+00:19:51,792 --> 00:19:52,417
+Maaf, sampai jumpa.
+
+397
+00:19:55,999 --> 00:19:56,542
+Aku jawab telepon dulu.
+
+398
+00:19:58,626 --> 00:19:59,042
+Halo.
+
+399
+00:20:01,250 --> 00:20:01,751
+Benarkah?
+
+400
+00:20:02,417 --> 00:20:02,999
+Baik, aku mengerti.
+
+401
+00:20:03,667 --> 00:20:05,250
+Qi, perusahaan ada sedikit masalah,
+
+402
+00:20:05,375 --> 00:20:06,125
+aku kembali menanganinya dulu.
+
+403
+00:20:06,292 --> 00:20:06,959
+Kamu pulanglah sendiri.
+
+404
+00:20:07,042 --> 00:20:07,959
+Sampai rumah kabari aku
+dengan WeChat.
+
+405
+00:20:08,167 --> 00:20:08,542
+Anak baik.
+
+406
+00:20:16,584 --> 00:20:17,792
+Sungguh tidak menyenangkan.
+
+407
+00:20:20,918 --> 00:20:22,000
+Aku memang mengatakan mahal,
+
+408
+00:20:22,000 --> 00:20:22,709
+tapi paling tidak harus
+
+409
+00:20:22,709 --> 00:20:24,209
+memberikan ekspresi
+yang realistis bukan?
+
+410
+00:20:24,959 --> 00:20:25,751
+Jelas-jelas keluar untuk berkencan,
+
+411
+00:20:25,876 --> 00:20:27,000
+kenapa harus kembali kerja?
+
+412
+00:20:28,000 --> 00:20:28,459
+Masih mengatakan
+
+413
+00:20:28,584 --> 00:20:29,459
+melelehkan es yang ada dalam hatimu.
+
+414
+00:20:29,626 --> 00:20:30,584
+Memberikan kehangatan
+ke dalam hatimu.
+
+415
+00:20:31,501 --> 00:20:32,125
+Dasar!
+
+416
+00:20:32,999 --> 00:20:33,834
+Kehangatan apa?
+
+417
+00:20:33,834 --> 00:20:34,959
+Setiap hari hanya tahu
+membual saja,
+
+418
+00:20:34,959 --> 00:20:35,542
+gadis yang sebaik diriku
+
+419
+00:20:35,584 --> 00:20:36,125
+apakah tidak pantas
+
+420
+00:20:36,125 --> 00:20:37,292
+kamu mengorbankan tubuhmu?
+
+421
+00:20:41,167 --> 00:20:42,542
+Berpacaran dengan pria
+yang EQnya rendah
+
+422
+00:20:42,667 --> 00:20:44,334
+seperti ini benar-benar
+melelahkan hati.
+
+423
+00:21:01,209 --> 00:21:02,083
+Beruntung sekali!
+
+424
+00:21:04,125 --> 00:21:06,083
+Aku ingin menikah dengan Bo Hai.
+
+425
+00:21:09,584 --> 00:21:11,584
+Apa yang impian tercapai.
+
+426
+00:21:49,417 --> 00:21:49,792
+Halo.
+
+427
+00:21:50,375 --> 00:21:52,959
+Qi, Aku mencintaimu.
+
+428
+00:21:54,042 --> 00:21:54,709
+Apa-apaan?
+
+429
+00:21:55,584 --> 00:21:56,250
+Apakah kamu tadi mendengar
+
+430
+00:21:56,375 --> 00:21:57,167
+keluhanku tadi?
+
+431
+00:21:57,999 --> 00:21:59,167
+Persentase kedua
+orang saling mencintai
+
+432
+00:22:00,584 --> 00:22:01,918
+dalam lautan manusia
+
+433
+00:22:02,667 --> 00:22:04,083
+sudah sangat rendah hingga
+tidak dapat dihitung lagi.
+
+434
+00:22:04,626 --> 00:22:05,167
+Cinta
+
+435
+00:22:06,751 --> 00:22:08,334
+pada dasarnya merupakan hal
+yang persentase kegagalannya besar
+
+436
+00:22:09,083 --> 00:22:10,584
+dan persentase keberhasilannya kecil.
+
+437
+00:22:12,667 --> 00:22:13,417
+Jika begitu
+
+438
+00:22:14,626 --> 00:22:15,626
+aku ingin kita berdua
+saling bergenggaman
+
+439
+00:22:15,751 --> 00:22:16,459
+dengan erat dan
+
+440
+00:22:18,459 --> 00:22:19,876
+tidak dilepaskan selamanya.
+
+441
+00:22:26,334 --> 00:22:26,876
+Qi.
+
+442
+00:22:29,250 --> 00:22:30,209
+Menikahlah denganku, bagaimana?
+
+443
+00:22:46,876 --> 00:22:47,999
+Kamu dimana?
+
+444
+00:22:53,042 --> 00:22:55,000
+Kamu sekarang sedang melamarku?
+
+445
+00:22:55,792 --> 00:22:57,250
+Cara melamar yang
+tidak resmi seperti ini
+
+446
+00:22:57,375 --> 00:22:58,292
+akan mengurangi nilaimu.
+
+447
+00:22:59,083 --> 00:23:00,083
+Tutuplah matamu.
+
+448
+00:23:00,626 --> 00:23:01,501
+Hitung mundur dari sepuluh.
+
+449
+00:23:02,292 --> 00:23:03,417
+Aku akan langsung muncul.
+
+450
+00:23:09,834 --> 00:23:10,542
+Aku tidak percaya.
+
+451
+00:23:11,459 --> 00:23:12,000
+Cepat.
+
+452
+00:23:18,209 --> 00:23:18,626
+Baiklah.
+
+453
+00:23:21,501 --> 00:23:22,083
+Sepuluh,
+
+454
+00:23:22,709 --> 00:23:23,375
+sembilan,
+
+455
+00:23:24,918 --> 00:23:25,334
+delapan,
+
+456
+00:23:27,375 --> 00:23:27,918
+tujuh,
+
+457
+00:23:29,751 --> 00:23:30,209
+enam,
+
+458
+00:23:32,209 --> 00:23:32,834
+lima,
+
+459
+00:23:34,792 --> 00:23:35,375
+empat,
+
+460
+00:23:37,584 --> 00:23:38,250
+tiga,
+
+461
+00:23:42,375 --> 00:23:42,959
+dua,
+
+462
+00:23:51,501 --> 00:23:51,959
+satu.
+
+463
+00:24:31,209 --> 00:24:31,709
+Bo Hai!
+
+464
+00:24:33,209 --> 00:24:33,709
+Bo Hai!
+
+465
+00:24:34,250 --> 00:24:34,792
+Bo Hai!
+
+466
+00:24:36,375 --> 00:24:36,918
+Bo Hai,
+
+467
+00:24:38,167 --> 00:24:40,125
+kamu masih belum melamarku,
+
+468
+00:24:41,918 --> 00:24:43,375
+kamu cepatlah bangun.
+
+469
+00:24:50,709 --> 00:24:51,250
+Maaf nona.
+
+470
+00:24:51,417 --> 00:24:52,501
+Anda tidak boleh masuk lagi,
+tidak boleh masuk lagi.
+
+471
+00:24:52,501 --> 00:24:53,417
+Kamu harus menolongnya.
+
+472
+00:24:53,459 --> 00:24:54,417
+Ku mohon padamu.
+
+473
+00:26:48,334 --> 00:26:49,834
+Bo Hai, kamu jalan lebih pelan.
+
+474
+00:26:51,709 --> 00:26:52,918
+Aku tidak bisa mengejarmu.
+
+475
+00:26:54,334 --> 00:26:54,876
+Bo Hai!
+
+476
+00:26:58,375 --> 00:26:58,876
+Bo Hai!
+
+477
+00:27:01,501 --> 00:27:02,042
+Bo Hai!
+
+478
+00:27:06,000 --> 00:27:07,918
+Bo Hai! Kamu jangan
+jalan terlalu cepat.
+
+479
+00:27:10,542 --> 00:27:12,459
+Bo Hai! Aku tidak bisa mengejarmu.
+
+480
+00:27:15,000 --> 00:27:15,918
+Bo Hai!
+
+481
+00:27:19,417 --> 00:27:20,083
+Bo Hai!
+
+482
+00:27:23,626 --> 00:27:25,334
+Bo Hai! Kamu jangan
+jalan terlalu cepat.
+
+483
+00:27:31,751 --> 00:27:32,459
+Bo Hai!
+
+484
+00:27:35,000 --> 00:27:38,375
+Bai Hai, kamu jangan
+berjalan terlalu cepat.
+
+485
+00:27:38,417 --> 00:27:39,918
+Aku tidak bisa mengejarmu.
+
+486
+00:27:44,584 --> 00:27:45,501
+Bo Hai!
+
+487
+00:27:48,417 --> 00:27:49,459
+Bo Hai!
+
+488
+00:28:09,876 --> 00:28:10,417
+Kasus kebakaran Ikebana Yunhe
+
+489
+00:28:10,459 --> 00:28:11,918
+yang membingungkan
+
+490
+00:28:11,918 --> 00:28:13,709
+kemarin telah mendapatkan keputusan.
+
+491
+00:28:13,792 --> 00:28:15,083
+Pihak pengadilan melalui
+penyelidikan memutuskan,
+
+492
+00:28:15,334 --> 00:28:16,626
+kasus kebakaran 20 tahun lalu
+
+493
+00:28:16,792 --> 00:28:18,584
+serta kematian kedua orang pendiri
+
+494
+00:28:18,667 --> 00:28:19,542
+merupakan kecelakaan.
+
+495
+00:28:19,876 --> 00:28:21,167
+Tersangka Liu Yingjie
+
+496
+00:28:21,292 --> 00:28:22,417
+terhadap ini tidak perlu
+
+497
+00:28:22,417 --> 00:28:23,709
+dikenakan sanksi hukum.
+
+498
+00:28:23,876 --> 00:28:25,584
+Tapi, gugatan terhadap penipuan bisnis
+
+499
+00:28:25,626 --> 00:28:27,209
+dan mencelakai orang dengan sengaja,
+benar merupakan tindakan kejahatan
+
+500
+00:28:27,542 --> 00:28:28,250
+dan akan dihukum secara bersamaan.
+
+501
+00:28:28,375 --> 00:28:29,876
+Liu Yingjie pada akhirnya ditetapkan
+
+502
+00:28:29,999 --> 00:28:30,876
+penjara seumur hidup
+
+503
+00:28:30,959 --> 00:28:32,959
+serta menjalankan hukum
+perdata terkait.
+
+504
+00:28:38,020 --> 00:28:40,220
+= Supermarket keluarga Ling =
+Cat anti air 290 Yuan.
+
+505
+00:28:40,220 --> 00:28:40,999
+Cat anti air 290 Yuan.
+
+506
+00:28:41,460 --> 00:28:43,820
+= Secara resmi dibuka =
+Cat 180 Yuan.
+
+507
+00:28:44,834 --> 00:28:47,167
+Dua kuas cat, 50 Yuan.
+
+508
+00:28:48,751 --> 00:28:49,042
+Aku bilang,
+
+509
+00:28:49,834 --> 00:28:50,334
+biaya bahan
+
+510
+00:28:50,501 --> 00:28:52,667
+perbaikan rumah atap kita
+
+511
+00:28:52,792 --> 00:28:54,751
+seharusnya dibayar
+oleh penyewa bukan?
+
+512
+00:28:54,918 --> 00:28:55,709
+Bagaimanapun dia yang ingin tinggal,
+
+513
+00:28:55,876 --> 00:28:56,709
+baru kita perbaiki.
+
+514
+00:28:57,584 --> 00:28:58,542
+Tentu mereka yang membayarnya.
+
+515
+00:28:58,709 --> 00:28:59,959
+Siapa yang tinggal dialah
+yang membayarnya,
+
+516
+00:29:00,042 --> 00:29:01,250
+sangat adil.
+
+517
+00:29:02,375 --> 00:29:03,209
+Ling,
+
+518
+00:29:03,709 --> 00:29:05,501
+cuka beras ini berilah diskon.
+
+519
+00:29:07,083 --> 00:29:07,918
+Tidak bisa lebih murah lagi.
+
+520
+00:29:08,626 --> 00:29:09,459
+Kenapa?
+
+521
+00:29:10,542 --> 00:29:12,751
+Supermarket baru menjual 6 Yuan,
+
+522
+00:29:12,876 --> 00:29:14,375
+kamu disini menjual 6.5 Yuan.
+
+523
+00:29:14,375 --> 00:29:15,584
+Kamu merampok?
+
+524
+00:29:16,209 --> 00:29:17,417
+Tidak bisa bicara begitu, benar tidak?
+
+525
+00:29:17,584 --> 00:29:18,876
+Aku masih mengantarkan
+sampai di depan rumahmu.
+
+526
+00:29:19,000 --> 00:29:20,000
+Kamu juga tidak perlu berjalan jauh lagi.
+
+527
+00:29:21,000 --> 00:29:21,751
+Li Lijun,
+
+528
+00:29:22,792 --> 00:29:23,918
+konsep pemikiranmu ini
+
+529
+00:29:24,042 --> 00:29:25,501
+apakah bisa diperbarui sesuai dengan
+
+530
+00:29:25,667 --> 00:29:26,375
+perkembangan zaman?
+
+531
+00:29:26,792 --> 00:29:27,584
+Kamu lihatlah dengan baik,
+
+532
+00:29:27,876 --> 00:29:28,959
+apakah ini masih toserba?
+
+533
+00:29:29,501 --> 00:29:30,209
+Supermarket!
+
+534
+00:29:30,459 --> 00:29:32,042
+Buka selama 24 jam,
+
+535
+00:29:33,042 --> 00:29:34,542
+e-commerce.
+
+536
+00:29:35,792 --> 00:29:37,250
+Kamu belanja di supermarket
+yang di luar sana
+
+537
+00:29:37,417 --> 00:29:38,542
+apakah bisa memberimu diskon?
+
+538
+00:29:38,751 --> 00:29:38,999
+Benar.
+
+539
+00:29:39,167 --> 00:29:39,792
+Apakah bisa memberimu potongan
+harga dengan sembarangan?
+
+540
+00:29:39,792 --> 00:29:40,209
+Benar.
+
+541
+00:29:40,709 --> 00:29:42,000
+Sudahlah, masih e-commerce.
+
+542
+00:29:42,125 --> 00:29:43,250
+Supermarket besar juga bisa diskon,
+
+543
+00:29:43,417 --> 00:29:44,125
+e-commerce kalian
+
+544
+00:29:44,250 --> 00:29:45,083
+tidak bisa diskon?
+
+545
+00:29:46,334 --> 00:29:47,292
+Siapa tidak tahu
+
+546
+00:29:47,459 --> 00:29:48,709
+penyewa
+
+547
+00:29:48,709 --> 00:29:49,584
+di rumah atap kalian
+
+548
+00:29:49,584 --> 00:29:50,792
+Mo Nan itu
+
+549
+00:29:50,999 --> 00:29:53,000
+memberitahu kalian
+dua saham unggulan,
+
+550
+00:29:53,209 --> 00:29:54,584
+agar kalian mendapatkan uang.
+
+551
+00:29:54,792 --> 00:29:55,918
+Jika tidak, apakah kalian
+bisa mengubah
+
+552
+00:29:56,042 --> 00:29:57,000
+toserba kecil ini
+
+553
+00:29:57,167 --> 00:29:58,999
+menjadi e-commerce?
+
+554
+00:29:59,417 --> 00:30:00,417
+Bagaimana?
+
+555
+00:30:02,584 --> 00:30:03,125
+Sejujurnya,
+
+556
+00:30:03,667 --> 00:30:05,167
+kita tetangga begitu lama,
+
+557
+00:30:05,542 --> 00:30:07,125
+kamu beri tahu aku dua
+saham unggulan itu,
+
+558
+00:30:07,334 --> 00:30:08,167
+biar aku juga membelinya,
+
+559
+00:30:08,375 --> 00:30:09,751
+agar aku juga mendapatkan
+sedikit keuntungan.
+
+560
+00:30:13,959 --> 00:30:14,959
+Hanya bisa memberitahumu
+satu saja.
+
+561
+00:30:16,000 --> 00:30:16,918
+Satu juga tidak apa-apa.
+
+562
+00:30:17,125 --> 00:30:17,626
+Mari, mari, mari.
+
+563
+00:30:17,834 --> 00:30:19,375
+6.5 Yuan juga tidak apa-apa,
+pindai sebentar.
+
+564
+00:30:21,209 --> 00:30:22,209
+Halo, teman-teman sekalian.
+
+565
+00:30:23,626 --> 00:30:24,626
+Pertama-tama hari ini
+
+566
+00:30:25,125 --> 00:30:26,709
+sangat senang, juga sangat terhormat
+
+567
+00:30:26,999 --> 00:30:28,667
+Kepala sekolah Wang bisa
+mengabaikan pendapat semua orang
+
+568
+00:30:28,876 --> 00:30:30,209
+mengundangku menjadi
+pembicara khusus.
+
+569
+00:30:31,292 --> 00:30:32,042
+Aku sangat berterima kasih kepadanya.
+
+570
+00:30:32,999 --> 00:30:34,292
+Tapi aku juga mencurigai dia,
+
+571
+00:30:34,417 --> 00:30:35,959
+tujuan dia yang sebenarnya
+mengundang ku kemari
+
+572
+00:30:36,792 --> 00:30:38,167
+apakah untuk sebagai contoh salah
+
+573
+00:30:38,209 --> 00:30:39,125
+kepada kalian
+
+574
+00:30:39,417 --> 00:30:41,501
+untuk memperingatkan
+kalian setelah tamat
+
+575
+00:30:41,959 --> 00:30:43,876
+jangan sepertiku masuk
+ke jalan yang salah.
+
+576
+00:30:47,375 --> 00:30:48,501
+Hanya bercanda saja.
+
+577
+00:30:49,334 --> 00:30:51,042
+Tapi aku masih berharap semuanya
+
+578
+00:30:51,292 --> 00:30:52,083
+bisa ingat
+
+579
+00:30:52,959 --> 00:30:54,042
+berhubungan dengan uang,
+
+580
+00:30:54,459 --> 00:30:56,083
+harus memiliki keteguhan hati.
+
+581
+00:30:57,000 --> 00:30:57,667
+Karena setelah tamat,
+
+582
+00:30:57,667 --> 00:30:59,292
+kalian semua akan bekerja
+dalam industri keuangan.
+
+583
+00:31:00,125 --> 00:31:00,626
+Dalam industri keuangan
+
+584
+00:31:00,792 --> 00:31:01,876
+penuh dengan godaan,
+
+585
+00:31:01,999 --> 00:31:02,918
+dan setiap saat selalu ada orang
+
+586
+00:31:03,042 --> 00:31:03,834
+yang membujuk kalian
+
+587
+00:31:04,125 --> 00:31:05,417
+untuk melangkahi moral dan etika.
+
+588
+00:31:06,250 --> 00:31:07,292
+Sebenarnya aku pernah bertemu
+
+589
+00:31:07,292 --> 00:31:08,083
+orang seperti ini.
+
+590
+00:31:08,834 --> 00:31:09,626
+Dia memberitahuku
+
+591
+00:31:10,292 --> 00:31:10,999
+saat kamu berdiri
+
+592
+00:31:10,999 --> 00:31:12,292
+di jalan yang tidak memiliki prinsip...
+
+593
+00:31:14,375 --> 00:31:14,834
+Gadis cantik,
+
+594
+00:31:15,876 --> 00:31:16,959
+aku lihat kamu tidak asing.
+
+595
+00:31:17,542 --> 00:31:18,334
+Bisa makan bersama?
+
+596
+00:31:22,083 --> 00:31:22,709
+Bisa,
+
+597
+00:31:23,375 --> 00:31:24,083
+asalkan kamu tidak keberatan
+
+598
+00:31:24,334 --> 00:31:25,751
+makan bersama dengan
+
+599
+00:31:25,918 --> 00:31:26,334
+guru Mo Nan kalian.
+
+600
+00:31:26,334 --> 00:31:27,626
+Tapi hukuman yang
+aku dapatkan malah adalah
+
+601
+00:31:28,167 --> 00:31:29,959
+terus berhenti
+
+602
+00:31:30,042 --> 00:31:30,792
+di persimpangan itu.
+
+603
+00:31:32,209 --> 00:31:34,292
+Jadi hari ini aku akan menggunakan...
+
+604
+00:31:34,292 --> 00:31:34,626
+Baiklah.
+
+605
+00:31:34,626 --> 00:31:36,667
+Pengalaman pahitku sendiri
+untuk mengingatkan kalian.
+
+606
+00:31:38,542 --> 00:31:39,834
+Setelah kalian tamat nanti,
+
+607
+00:31:40,167 --> 00:31:41,042
+memasuki lapangan kerja,
+
+608
+00:31:41,667 --> 00:31:43,167
+harus menghormati pekerjaan kalian,
+
+609
+00:31:43,459 --> 00:31:44,334
+kompetitor kalian.
+
+610
+00:31:44,918 --> 00:31:45,667
+Yang paling penting adalah
+
+611
+00:31:46,501 --> 00:31:48,167
+harus menghormati diri sendiri.
+
+612
+00:31:49,792 --> 00:31:51,000
+Seperti yang kalian lihat,
+
+613
+00:31:51,167 --> 00:31:52,459
+kecepatan perkembangan
+perusahaan kami
+
+614
+00:31:52,667 --> 00:31:53,417
+sangatlah mengejutkan.
+
+615
+00:31:53,584 --> 00:31:55,000
+Potensi perkembangan
+juga sangat besar,
+
+616
+00:31:55,167 --> 00:31:56,709
+struktur organisasi juga sangat sempurna,
+
+617
+00:31:56,918 --> 00:31:58,083
+jalur pemasokan juga stabil...
+
+618
+00:31:58,626 --> 00:31:59,209
+Direktur Zhou,
+
+619
+00:31:59,751 --> 00:32:00,542
+disini ada urusan mendadak,
+
+620
+00:32:00,709 --> 00:32:01,918
+perlu kamu selesaikan.
+
+621
+00:32:09,167 --> 00:32:09,959
+Maaf semuanya.
+
+622
+00:32:10,125 --> 00:32:11,292
+Aku akan kembali setelah 20 menit.
+
+623
+00:32:11,709 --> 00:32:12,792
+Zhenqi, kamu lanjutkan.
+
+624
+00:32:15,042 --> 00:32:16,292
+Kamu lihatlah kamu ini tidak bisa apa-apa,
+
+625
+00:32:16,501 --> 00:32:17,375
+pantas saja anak terus menangis.
+
+626
+00:32:17,375 --> 00:32:18,542
+Aku bukan tidak bisa apa-apa.
+
+627
+00:32:18,709 --> 00:32:19,999
+Utamanya adalah
+kemampuanku tidak memadai.
+
+628
+00:32:21,375 --> 00:32:22,250
+Kemampuan tidak memadai?
+
+629
+00:32:22,542 --> 00:32:23,709
+Anakku sudah lapar, kamu cepatlah.
+
+630
+00:32:24,334 --> 00:32:25,042
+Aku menarik tirai dulu.
+
+631
+00:32:26,083 --> 00:32:27,167
+Anak baik, anak baik.
+
+632
+00:32:27,209 --> 00:32:27,751
+Tidak menangis,
+tidak menangis, tidak menangis.
+
+633
+00:32:27,959 --> 00:32:29,000
+Semangat profesionalisme
+Direktur Zhou kalian
+
+634
+00:32:29,167 --> 00:32:29,876
+aku sangat mengaguminya.
+
+635
+00:32:30,167 --> 00:32:31,709
+Peraturan perusahaan kalian
+yang manusiawi
+
+636
+00:32:31,918 --> 00:32:32,751
+juga membuatku sangat terharu.
+
+637
+00:32:33,167 --> 00:32:34,709
+Perusahaan seperti ini
+pasti tidak bermasalah.
+
+638
+00:32:35,000 --> 00:32:36,042
+Terima kasih atas pengertian Anda.
+
+639
+00:32:36,417 --> 00:32:37,209
+Kalau begitu kita lanjutkan saja.
+
+640
+00:32:40,125 --> 00:32:42,918
+Musim dingin berlalu, musim semi pun datang,
+bunga yang layu juga sudah bermekaran.
+
+641
+00:32:44,209 --> 00:32:46,542
+Semua makhluk hidup dan bertumbuh,
+jodoh datang dan pergi.
+
+642
+00:32:47,876 --> 00:32:48,667
+Setiap orang hidup berdasarkan
+
+643
+00:32:48,709 --> 00:32:50,417
+jalan kehidupan mereka sendiri,
+
+644
+00:32:52,209 --> 00:32:53,709
+tidak semuanya sesuai dengan keinginan.
+
+645
+00:32:55,334 --> 00:32:57,000
+Tapi, memiliki keberuntungan
+kecil yang menghangatkan.
+
+646
+00:33:01,918 --> 00:33:02,375
+Bagaimana denganmu?
+
+647
+00:33:04,334 --> 00:33:05,250
+Apakah kamu baik-baik saja?
+
+648
+00:34:45,918 --> 00:34:46,459
+Qi.
+
+649
+00:34:48,083 --> 00:34:49,083
+Menikahlah denganku, bagaimana?
+
+650
+00:34:58,459 --> 00:34:59,334
+Mimpi seperti ini
+
+651
+00:35:00,334 --> 00:35:01,709
+aku sudah melaluinya beberapa kali.
+
+652
+00:35:43,334 --> 00:35:44,042
+Tapi sebenarnya
+
+653
+00:35:46,542 --> 00:35:47,334
+semua ini adalah
+
+654
+00:35:47,501 --> 00:35:48,375
+kehendakku sendiri.
+
+655
+00:35:52,417 --> 00:35:53,334
+Tidak tahu kapan
+
+656
+00:35:55,959 --> 00:35:57,375
+mimpi itu akan menjadi kenyataan.
+
+657
+00:36:10,709 --> 00:36:11,459
+Bibi.
+
+658
+00:36:15,751 --> 00:36:16,334
+Terima kasih.
+
+659
+00:36:49,360 --> 00:36:51,491
+♪ Baikpun sendirian ♪
+
+660
+00:36:52,640 --> 00:36:54,760
+♪ Tersenyum hanya sedikit ♪
+
+661
+00:36:56,080 --> 00:36:58,228
+♪ Tidak ingin di ganggu orang lain ♪
+
+662
+00:36:59,502 --> 00:37:01,982
+♪ Keinginan untuk dipeluk ♪
+
+663
+00:37:02,960 --> 00:37:05,502
+♪ Aku bersembunyi dari kebaikanmu ♪
+
+664
+00:37:06,400 --> 00:37:08,560
+♪ Takut tidak mendapatkannya nanti ♪
+
+665
+00:37:09,137 --> 00:37:11,971
+♪ Bahkan lebih takut saya tidak bisa melupakan ♪
+
+666
+00:37:13,611 --> 00:37:16,297
+♪ Senyuman saat kamu datang ♪
+
+667
+00:37:17,034 --> 00:37:20,868
+♪ Bersinar seperti matahari ♪
+
+668
+00:37:23,680 --> 00:37:26,731
+♪ Kata-kata cinta mengatakannya untuk telinga ♪
+
+669
+00:37:27,165 --> 00:37:29,942
+♪ Bagaimana membuat mata tertekan ♪
+
+670
+00:37:30,674 --> 00:37:33,165
+♪ Pemandangannya begitu banyak ♪
+
+671
+00:37:33,228 --> 00:37:37,371
+♪ Tidak semerdu kebohonganmu ♪
+
+672
+00:37:37,457 --> 00:37:40,131
+♪ Kamu adalah mimpiku yang paling cemerlang ♪
+
+673
+00:37:40,154 --> 00:37:40,990
+Gendut, kenapa?
+
+674
+00:37:40,990 --> 00:37:43,262
+♪ Mencerahkan langit malamku yang gelap ♪
+
+675
+00:37:43,314 --> 00:37:46,525
+♪ Itu takdir merupakan cinta ♪
+
+676
+00:37:46,891 --> 00:37:50,668
+♪ Ini terakhir kali memeluk ♪
+
+677
+00:37:51,817 --> 00:37:54,662
+♪ Tidak tulus ♪
+
+678
+00:37:55,177 --> 00:37:59,971
+♪ Harus sambil tersenyum juga ♪
+
+679
+00:38:00,525 --> 00:38:01,845
+♪ Sakit hati ♪
+
+680
+00:38:07,260 --> 00:38:09,700
+= Toko bunga Jieyou =
+
+681
+00:38:27,074 --> 00:38:29,925
+♪ Baikpun sendirian ♪
+
+682
+00:38:30,440 --> 00:38:32,554
+♪ Tersenyum hanya sedikit ♪
+
+683
+00:38:33,880 --> 00:38:36,068
+♪ Tidak ingin di ganggu orang lain ♪
+
+684
+00:38:37,262 --> 00:38:39,817
+♪ Keinginan untuk dipeluk ♪
+
+685
+00:38:40,777 --> 00:38:43,994
+♪ Aku bersembunyi dari kebaikanmu ♪
+
+686
+00:38:44,188 --> 00:38:46,622
+♪ Takut tidak mendapatkannya nanti ♪
+
+687
+00:38:46,874 --> 00:38:49,640
+♪ Bahkan lebih takut saya tidak bisa melupakan ♪
+
+688
+00:38:51,337 --> 00:38:54,280
+♪ Senyuman saat kamu datang ♪
+
+689
+00:38:54,880 --> 00:38:58,034
+♪ Bersinar seperti matahari ♪
+
+690
+00:38:58,080 --> 00:39:01,251
+♪ Kata-kata cinta mengatakannya untuk telinga ♪
+
+691
+00:39:01,480 --> 00:39:04,457
+♪ Bagaimana membuat mata tertekan ♪
+
+692
+00:39:04,925 --> 00:39:07,485
+♪ Pemandangannya begitu banyak ♪
+
+693
+00:39:07,542 --> 00:39:11,662
+♪ Tidak semerdu kebohonganmu ♪
+
+694
+00:39:11,765 --> 00:39:13,720
+♪ Kamu adalah mimpiku yang paling cemerlang ♪
+
+695
+00:39:13,748 --> 00:39:14,410
+Kamu datang terlalu pagi,
+
+696
+00:39:15,792 --> 00:39:17,083
+bungaku belum tersusun rapi.
+
+697
+00:39:17,588 --> 00:39:21,080
+♪ Itu takdir merupakan cinta ♪
+
+698
+00:39:21,211 --> 00:39:24,748
+♪ Tersentuh lagi dan lagi ♪
+
+699
+00:39:24,959 --> 00:39:26,000
+Bukankah kamu bilang akan bekerja di Eropa
+
+700
+00:39:26,042 --> 00:39:27,167
+lebih satu tahun lagi?
+
+701
+00:39:28,751 --> 00:39:29,417
+Merindukanmu,
+
+702
+00:39:31,042 --> 00:39:32,125
+jadi mengubah rencana.
+
+703
+00:39:33,005 --> 00:39:34,142
+♪ Sakit hati ♪
+
+704
+00:39:34,167 --> 00:39:34,667
+Kalau begitu kenapa kamu
+
+705
+00:39:34,667 --> 00:39:35,999
+tidak menelepon terlebih dahulu?
+
+706
+00:39:38,209 --> 00:39:39,542
+Meneleponmu terlebih dahulu
+
+707
+00:39:40,584 --> 00:39:41,834
+tidak bisa dibilang kejutan lagi bukan?
+
+708
+00:39:41,862 --> 00:39:46,851
+♪ Hanya kesalahpahaman ♪
+
+709
+00:39:49,480 --> 00:39:52,377
+♪ Kata-kata cinta mengatakannya untuk telinga ♪
+
+710
+00:39:52,920 --> 00:39:55,702
+♪ Bagaimana membuat mata tertekan ♪
+
+711
+00:39:56,382 --> 00:39:58,931
+♪ Pemandangannya begitu banyak ♪
+
+712
+00:39:58,994 --> 00:40:03,131
+♪ Tidak semerdu kebohonganmu ♪
+
+713
+00:40:03,959 --> 00:40:04,501
+Qi.
+
+714
+00:40:06,680 --> 00:40:08,914
+♪ Mencerahkan langit malamku yang gelap ♪
+
+715
+00:40:10,209 --> 00:40:11,792
+Aku ingin kamu menjadi pengantinku.
+
+716
+00:40:12,634 --> 00:40:16,148
+♪ Tersentuh lagi dan lagi ♪
+
+717
+00:40:16,209 --> 00:40:17,501
+Aku bukan sedang bermimpi?
+
+718
+00:40:18,959 --> 00:40:21,250
+Bodoh, ini adalah kenyataan.
+
+719
+00:40:21,280 --> 00:40:24,337
+♪ Harus sambil tersenyum juga ♪
+
+720
+00:40:24,371 --> 00:40:26,045
+♪ Sakit hati ♪
+
+721
+00:40:27,959 --> 00:40:29,709
+Kamu percaya dengan cerita
+dongeng yang kamu tulis,
+
+722
+00:40:32,292 --> 00:40:33,334
+sendiri menjadi
+
+723
+00:40:33,459 --> 00:40:34,417
+bunga iris dalam dongeng.
+
+724
+00:40:36,042 --> 00:40:37,792
+Hanya dengan sinyal yang sederhana,
+
+725
+00:40:38,584 --> 00:40:39,876
+mengumpulkan bintang-bintang
+
+726
+00:40:40,334 --> 00:40:42,751
+Astragalus sinicus dan belalang,
+
+727
+00:40:43,626 --> 00:40:44,792
+menuju kejauhan yang
+
+728
+00:40:44,792 --> 00:40:45,667
+tidak terkontaminasi.
+
+729
+00:40:47,042 --> 00:40:47,751
+Sehingga,
+
+730
+00:40:48,417 --> 00:40:49,417
+orang-orang percaya denganmu,
+
+731
+00:40:50,959 --> 00:40:53,292
+percaya pinus setelah hujan
+
+732
+00:40:54,626 --> 00:40:56,501
+memiliki puluh ribuan matahari
+yang bergantungan.
+
+733
+00:41:01,209 --> 00:41:01,999
+Murbei,
+
+734
+00:41:02,959 --> 00:41:06,250
+tongkat pancing membengkok
+di pinggir sungai.
+
+735
+00:41:08,667 --> 00:41:11,834
+Awan mengelilingi ekor layang-layang
+
+736
+00:41:14,250 --> 00:41:16,042
+dengan suara seperti perak
+
+737
+00:41:17,918 --> 00:41:20,584
+berkomunikasi dengan mimpimu.
+
+738
+00:41:24,250 --> 00:41:26,292
+Dunia mungkin sangatlah kecil,
+
+739
+00:41:28,375 --> 00:41:32,167
+tapi ruang di dalam hati sangatlah besar.
+
+740
+00:42:04,959 --> 00:42:06,167
+Jika kamu memiliki impian,
+
+741
+00:42:07,792 --> 00:42:09,501
+maka harus mencapainya.
+
+742
+00:42:11,292 --> 00:42:12,459
+Jika tidak bisa tercapai,
+
+743
+00:42:13,918 --> 00:42:15,501
+maka impian memiliki nilai apa?
+
+744
+00:42:38,670 --> 00:42:42,390
+♪ Sudah berapa tahun berjalan sendirian ♪
+
+745
+00:42:42,680 --> 00:42:45,880
+♪ Baru ditemukan oleh orang lain ♪
+
+746
+00:42:46,520 --> 00:42:50,120
+♪ Berjalan, berjalan, masa lalu ♪
+
+747
+00:42:50,330 --> 00:42:53,130
+♪ Telah berlalu ♪
+
+748
+00:42:53,640 --> 00:42:55,890
+♪ Sebuah mimpi ♪
+
+749
+00:42:56,030 --> 00:43:01,750
+♪ Melewati berapa kegelapan dan kesusahan ♪
+
+750
+00:43:02,080 --> 00:43:08,400
+♪ Baru melihat kamu,
+begitu bersinar cantik dan silau ♪
+
+751
+00:43:08,670 --> 00:43:13,520
+♪ Tutup mata mendengar bunga berkata ♪
+
+752
+00:43:13,910 --> 00:43:17,370
+♪ Tidak bisa melakukan apa-apa ♪
+
+753
+00:43:17,700 --> 00:43:23,780
+♪ Bilang hanya bisa mencintaimu, mencintaimu ♪
+
+754
+00:43:24,120 --> 00:43:29,050
+♪ Tutup mata mendengar bunga berkata ♪
+
+755
+00:43:29,210 --> 00:43:32,690
+♪ Berkata beribu-ribu kali ♪
+
+756
+00:43:32,810 --> 00:43:34,670
+♪ Aku merindukanmu, merindukanmu ♪
+
+757
+00:43:34,990 --> 00:43:39,530
+♪ Di pagi hari, di malam hari ♪
+
+758
+00:43:40,040 --> 00:43:44,450
+♪ Setiap bunga terus mencari ♪
+
+759
+00:43:44,720 --> 00:43:47,280
+♪ Orang yang mendengar bunga bermekaran ♪
+
+760
+00:43:47,350 --> 00:43:51,060
+♪ Mendengar diri sendiri ♪
+
+761
+00:43:51,650 --> 00:43:55,110
+♪ Dalam mimpi ♪
+
+762
+00:43:55,530 --> 00:43:59,890
+♪ Setiap aku akan bertemu denganmu ♪
+
+763
+00:44:00,230 --> 00:44:08,310
+♪ Akan melihatmu bersinar... cantik ♪
+
+764
+00:44:10,410 --> 00:44:15,030
+♪ Tutup mata mendengar bunga berkata ♪
+
+765
+00:44:15,810 --> 00:44:19,010
+♪ Tidak bisa melakukan apa-apa ♪
+
+766
+00:44:19,710 --> 00:44:25,760
+♪ Bilang hanya bisa mencintaimu, mencintaimu ♪
+
+767
+00:44:26,020 --> 00:44:31,050
+♪ Tutup mata mendengar bunga berkata ♪
+
+768
+00:44:31,280 --> 00:44:34,610
+♪ Beribu-ribu kali ♪
+
+769
+00:44:34,760 --> 00:44:36,730
+♪ Aku merindukanmu, merindukanmu ♪
+
+770
+00:44:36,920 --> 00:44:41,040
+♪ Di pagi hari, di malam hari ♪
+
+771
+00:44:41,840 --> 00:44:46,070
+♪ Merindukanmu ♪
+
