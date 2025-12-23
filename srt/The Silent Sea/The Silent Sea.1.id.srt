@@ -1,0 +1,2125 @@
+1
+00:00:07,090 --> 00:00:08,633
+Kemari dan bantulah.
+
+2
+00:00:08,717 --> 00:00:10,510
+- Kau tak apa?
+- <i>Peringatan.</i>
+
+3
+00:00:10,593 --> 00:00:12,637
+<i>Tekanan internal hilang</i>
+<i>pada modul pendaratan.</i>
+
+4
+00:00:12,721 --> 00:00:15,306
+- Pak Hwang, kau tak apa?
+-<i> Tingkat oksigen tidak stabil.</i>
+
+5
+00:00:15,390 --> 00:00:16,307
+<i>Peringatan.</i>
+
+6
+00:00:16,391 --> 00:00:19,185
+<i>- Tekanan internal hilang.</i>
+<i>- </i>Hati-hati. E1, cek perlengkapan.
+
+7
+00:00:19,269 --> 00:00:22,397
+<i>- Tingkat oksigen tidak stabil.</i>
+- Dia luka dalam, jadi, hati-hati.
+
+8
+00:00:22,480 --> 00:00:25,442
+Apa kau bisa bernapas
+dengan normal, Pak Hwang?
+
+9
+00:00:25,525 --> 00:00:29,029
+<i>Peringatan. Tekanan internal hilang</i>
+<i>pada modul pendaratan.</i>
+
+10
+00:00:29,112 --> 00:00:30,989
+<i>Tingkat oksigen tidak stabil.</i>
+
+11
+00:00:31,489 --> 00:00:33,116
+- E2, cek perlengkapan!
+<i>- Peringatan. Tekanan internal hilang…</i>
+
+12
+00:00:33,199 --> 00:00:35,410
+- Baik, Pak!
+<i>- …pada modul pendaratan.</i>
+
+13
+00:00:35,493 --> 00:00:37,203
+<i>Tingkat oksigen tidak stabil.</i>
+
+14
+00:01:01,811 --> 00:01:03,146
+Kapten,
+
+15
+00:01:03,229 --> 00:01:05,648
+semua mesin sedang menurun sekarang.
+
+16
+00:01:06,357 --> 00:01:07,525
+Di mana lokasi kita?
+
+17
+00:01:07,609 --> 00:01:10,945
+Kita berada 7,6 km barat laut
+dari Pangkalan Balhae.
+
+18
+00:01:15,950 --> 00:01:17,327
+Sistem pendeteksi api?
+
+19
+00:01:17,952 --> 00:01:20,038
+Aku tak bisa mengeceknya.
+
+20
+00:01:20,121 --> 00:01:22,624
+Sialan. Tidak ada yang berfungsi di sini.
+
+21
+00:01:22,707 --> 00:01:25,376
+Kita juga akan kehilangan daya.
+
+22
+00:01:27,003 --> 00:01:28,421
+Kirim sinyal marabahaya dan bersiap pergi.
+
+23
+00:01:28,505 --> 00:01:32,634
+Ruang Kendali, ini Letnan Ryu Taesuk
+dari Nuri 11. Apa kau dengar?
+
+24
+00:01:34,177 --> 00:01:36,596
+Ruang Kendali, apa kau dengar?
+
+25
+00:01:36,679 --> 00:01:38,973
+Ini Nuri 11. Ruang Kendali!
+
+26
+00:01:40,517 --> 00:01:41,726
+Apa kau dengar?
+
+27
+00:01:42,811 --> 00:01:44,062
+Ruang Kendali.
+
+28
+00:01:44,687 --> 00:01:46,231
+Ini dengan Nuri 11. Ruang Kendali!
+
+29
+00:01:47,107 --> 00:01:48,483
+Doktor Song.
+
+30
+00:01:48,566 --> 00:01:50,110
+Doktor Song, kau tak apa?
+
+31
+00:01:50,193 --> 00:01:51,319
+Ya.
+
+32
+00:01:53,029 --> 00:01:54,781
+- Dok Hong, bagaimana dia?
+- Sebentar.
+
+33
+00:01:56,991 --> 00:01:58,493
+Rusuk kirinya patah.
+
+34
+00:02:02,831 --> 00:02:04,582
+Yang bisa kulakukan sekarang
+
+35
+00:02:04,666 --> 00:02:06,292
+hanya memberikan pereda nyeri.
+
+36
+00:02:06,376 --> 00:02:07,710
+Cek apa dia bisa bergerak.
+
+37
+00:02:07,794 --> 00:02:10,213
+- Miringkan dia.
+- E1, E2, cek senjata dan peralatan.
+
+38
+00:02:10,296 --> 00:02:11,256
+- Baik.
+- Baik, Pak.
+
+39
+00:02:11,339 --> 00:02:12,674
+Apa kau bisa bergerak?
+
+40
+00:02:14,342 --> 00:02:15,301
+Sebentar.
+
+41
+00:02:18,221 --> 00:02:20,181
+Komunikasi masih tak berfungsi.
+
+42
+00:02:20,265 --> 00:02:22,142
+Sistem tengah mematikan diri.
+
+43
+00:02:28,231 --> 00:02:30,275
+Air masuk ke sini.
+
+44
+00:03:03,975 --> 00:03:10,773
+SERIAL NETFLIX
+
+45
+00:04:28,851 --> 00:04:33,564
+PANGKALAN RISET BULAN BALHAE
+
+46
+00:04:35,066 --> 00:04:37,193
+{\an8}<i>Curah hujan tahunan</i>
+<i>rata-rata menurun lagi.</i>
+
+47
+00:04:37,277 --> 00:04:40,822
+{\an8}<i>Sungai di berbagai kota besar</i>
+<i>di seluruh dunia kering kerontang.</i>
+
+48
+00:04:40,905 --> 00:04:42,740
+{\an8}<i>Permukaan laut juga menurun,</i>
+
+49
+00:04:42,824 --> 00:04:45,535
+{\an8}<i>menciptakan tantangan</i>
+<i>untuk tumbuhan desalinasi.</i>
+
+50
+00:04:45,618 --> 00:04:47,745
+{\an8}<i>Dewan Sumber Daya Air Dunia memprediksi</i>
+
+51
+00:04:47,829 --> 00:04:50,039
+{\an8}<i>air dunia akan berkurang 40 persen</i>
+
+52
+00:04:50,123 --> 00:04:51,666
+{\an8}<i>dalam sepuluh tahun ke depan.</i>
+
+53
+00:04:51,749 --> 00:04:54,460
+{\an8}<i>Menurut Badan Pusat Statistik,</i>
+
+54
+00:04:54,544 --> 00:04:58,673
+{\an8}<i>angka kematian bayi mencapai</i>
+<i>titik tertinggi pada tahun ini.</i>
+
+55
+00:04:58,756 --> 00:05:01,759
+{\an8}<i>Beberapa penyebab utamanya</i>
+<i>adalah berbagai infeksi dan penyakit</i>
+
+56
+00:05:01,843 --> 00:05:04,762
+<i>yang disebabkan</i>
+<i>oleh konsumsi air terkontaminasi.</i>
+
+57
+00:05:05,388 --> 00:05:09,058
+<i>Perusahaan negara dan swasta</i>
+<i>bersemangat meminjamkan modal</i>
+
+58
+00:05:09,142 --> 00:05:12,103
+{\an8}<i>pada pertanian vertikal</i>
+<i>yang mengurangi masalah pemakaian air.</i>
+
+59
+00:05:12,186 --> 00:05:16,649
+{\an8}<i>Di tengah kekurangan makanan global</i>
+<i>akibat kurangnya air ini,</i>
+
+60
+00:05:16,733 --> 00:05:18,776
+<i>banyak yang mengantisipasi kemungkinan</i>
+
+61
+00:05:18,860 --> 00:05:22,322
+<i>pertanian vertikal besar</i>
+<i>menjadi solusi dari masalah ini.</i>
+
+62
+00:05:22,405 --> 00:05:25,575
+<i>Pemeliharaan hewan ilegal</i>
+<i>menjadi makin serius dari hari ke hari.</i>
+
+63
+00:05:25,658 --> 00:05:28,202
+<i>Meski pemerintah menawarkan denda ringan</i>
+
+64
+00:05:28,286 --> 00:05:31,414
+<i>serta bantuan eutanasia</i>
+<i>pada masa amnesti ini,</i>
+
+65
+00:05:31,497 --> 00:05:33,875
+<i>hanya sedikit warga</i>
+<i>yang memanfaatkan program ini.</i>
+
+66
+00:05:33,958 --> 00:05:38,421
+{\an8}<i>Sementara itu, UU Pembagian Air Merata</i>
+<i>kembali ditolak pada rapat dewan.</i>
+
+67
+00:05:38,504 --> 00:05:41,591
+{\an8}<i>Tuntutan untuk penghapusan</i>
+<i>regulasi penyediaan air makin keras</i>
+
+68
+00:05:41,674 --> 00:05:43,551
+{\an8}<i>seiring makin tak meratanya akses air,</i>
+
+69
+00:05:43,634 --> 00:05:45,511
+{\an8}<i>tetapi tak terlihat solusinya.</i>
+
+70
+00:05:45,595 --> 00:05:48,848
+- Hapus regulasi!
+- Hapus!
+
+71
+00:05:48,931 --> 00:05:50,475
+Hapus regulasi!
+
+72
+00:05:50,558 --> 00:05:52,185
+- Hapus!
+- Hapus!
+
+73
+00:05:52,268 --> 00:05:54,062
+Bagikan air dengan adil!
+
+74
+00:05:54,145 --> 00:05:56,147
+- Dengan adil!
+- Dengan adil!
+
+75
+00:05:56,230 --> 00:05:57,732
+- Hapus!
+- Hapus!
+
+76
+00:05:57,815 --> 00:05:59,567
+Hapus regulasi!
+
+77
+00:05:59,650 --> 00:06:01,277
+- Hapus!
+- Hapus!
+
+78
+00:06:08,701 --> 00:06:11,371
+ANGGOTA MERAH, LEE JINSEOK
+
+79
+00:06:17,460 --> 00:06:19,796
+ANGGOTA BIRU, KIM JAEMIN
+
+80
+00:06:56,249 --> 00:06:57,083
+<i>Pak Kim,</i>
+
+81
+00:06:57,166 --> 00:07:01,546
+kudengar tingkat airmu
+sudah naik ke Kelas B. Selamat!
+
+82
+00:07:01,629 --> 00:07:03,756
+Kenaikannya tidak besar.
+
+83
+00:07:04,382 --> 00:07:06,884
+Mungkin kelas para peneliti di sini
+lebih tinggi dariku.
+
+84
+00:07:06,968 --> 00:07:08,010
+Begitu rupanya.
+
+85
+00:07:08,094 --> 00:07:10,179
+Seperti apa Doktor Song Jian?
+
+86
+00:07:10,263 --> 00:07:12,223
+Seperti seorang saintis.
+
+87
+00:07:12,306 --> 00:07:15,101
+Pintar, membosankan,
+sok hebat, dan memuakkan.
+
+88
+00:07:15,184 --> 00:07:18,438
+Jadi, kenapa kita membutuhkan
+ahli etologi untuk misi kali ini?
+
+89
+00:07:18,521 --> 00:07:20,648
+Dahulu dia
+adalah ahli astrobiologi terkenal.
+
+90
+00:07:22,191 --> 00:07:24,902
+Kenapa dia berhenti
+dan beralih ke etologi?
+
+91
+00:07:24,986 --> 00:07:27,572
+Entahlah. Mungkin gajinya lebih besar.
+
+92
+00:07:29,365 --> 00:07:31,451
+Apa kau pernah bertemu dengannya?
+
+93
+00:07:31,534 --> 00:07:33,619
+Lima tahun lalu. Hanya satu kali.
+
+94
+00:07:35,496 --> 00:07:36,497
+Apa itu?
+
+95
+00:08:22,919 --> 00:08:24,045
+<i>Pak Kim,</i>
+
+96
+00:08:24,128 --> 00:08:25,713
+tampaknya kau ganti kacamata, ya.
+
+97
+00:08:25,796 --> 00:08:27,673
+Tadinya kacamata bingkai tanduk cokelat.
+
+98
+00:08:28,508 --> 00:08:30,718
+Ya, ingatanmu luar biasa.
+
+99
+00:08:31,469 --> 00:08:32,762
+Itu lima tahun lalu.
+
+100
+00:08:34,514 --> 00:08:35,723
+Ada apa kali ini?
+
+101
+00:08:36,432 --> 00:08:40,645
+Jurnalmu tentang astrobiologi
+tengah menjadi sorotan baru-baru ini.
+
+102
+00:08:41,145 --> 00:08:42,230
+Kerja yang bagus.
+
+103
+00:08:43,397 --> 00:08:46,067
+Apa kau datang ke sini untuk Proyek Mars?
+
+104
+00:08:47,693 --> 00:08:50,321
+Aku tak tertarik lagi dengan astrobiologi.
+
+105
+00:08:50,404 --> 00:08:51,781
+Begitu rupanya, tetapi…
+
+106
+00:08:52,323 --> 00:08:55,326
+Tak ada apa-apa di luar angkasa.
+
+107
+00:08:57,745 --> 00:08:59,747
+Aku mengunjungimu hari ini
+
+108
+00:08:59,830 --> 00:09:03,376
+karena kami butuh ahli astrobiologi
+untuk ambil bagian dalam misi penting.
+
+109
+00:09:03,960 --> 00:09:06,754
+Direktur Choi juga merekomendasikanmu
+untuk posisi itu.
+
+110
+00:09:06,837 --> 00:09:07,672
+Direktur Choi?
+
+111
+00:09:09,882 --> 00:09:11,759
+Misi apa itu?
+
+112
+00:09:11,842 --> 00:09:15,304
+Aku baru bisa menceritakan detailnya
+setelah kau menerima tawaran kami.
+
+113
+00:09:18,975 --> 00:09:21,811
+Apa ada saintis yang terbujuk
+dengan perkataanmu?
+
+114
+00:09:24,188 --> 00:09:26,357
+Kau mungkin akan berubah pikiran
+
+115
+00:09:26,440 --> 00:09:28,317
+begitu mendengar tujuan kami.
+
+116
+00:09:31,362 --> 00:09:32,488
+Ke mana?
+
+117
+00:09:33,072 --> 00:09:34,323
+Pangkalan Balhae.
+
+118
+00:09:48,879 --> 00:09:51,507
+{\an8}TURUT BERDUKA
+SEMOGA BERISTIRAHAT DALAM DAMAI
+
+119
+00:10:35,635 --> 00:10:37,219
+Kau pasti haus.
+
+120
+00:10:56,697 --> 00:11:03,663
+<i>Area peringatan ini untuk mengenang</i>
+<i>117 anggota kru yang tewas lima tahun lalu</i>
+
+121
+00:11:03,746 --> 00:11:09,210
+<i>di Pangkalan Balhae, pangkalan di bulan</i>
+<i>yang dibangun oleh SAA Korea Selatan.</i>
+
+122
+00:11:09,960 --> 00:11:12,171
+<i>Melalui kerja keras mandiri, SAA…</i>
+
+123
+00:11:12,254 --> 00:11:13,589
+Doktor Song Jian?
+
+124
+00:11:16,425 --> 00:11:17,385
+Ya?
+
+125
+00:11:18,302 --> 00:11:21,013
+- Katanya kau ikut ke Pangkalan Balhae.
+- Siapa kau?
+
+126
+00:11:22,556 --> 00:11:24,016
+Han Yunjae, kapten.
+
+127
+00:11:24,684 --> 00:11:25,643
+Begitu rupanya.
+
+128
+00:11:26,268 --> 00:11:27,687
+Aku Song Jian.
+
+129
+00:11:28,854 --> 00:11:30,773
+Aku dengar banyak tentangmu.
+
+130
+00:11:30,856 --> 00:11:32,024
+Kau datang lebih awal.
+
+131
+00:11:33,526 --> 00:11:35,069
+Ya, aku hanya ingin datang
+
+132
+00:11:36,529 --> 00:11:37,613
+melihat ini.
+
+133
+00:11:39,824 --> 00:11:43,619
+<i>Area peringatan ini untuk mengenang…</i>
+
+134
+00:11:43,703 --> 00:11:47,248
+Rasanya suasana di sini suram sekali.
+
+135
+00:11:47,331 --> 00:11:51,544
+<i>…lima tahun lalu di Pangkalan Balhae.</i>
+
+136
+00:11:52,920 --> 00:11:55,923
+<i>Melalui kerja keras mandiri, SAA mampu…</i>
+
+137
+00:11:56,006 --> 00:11:57,591
+Pikirkanlah kembali.
+
+138
+00:12:00,678 --> 00:12:01,595
+Pikirkan apa?
+
+139
+00:12:01,679 --> 00:12:03,222
+Pergi ke Pangkalan Balhae.
+
+140
+00:12:04,223 --> 00:12:05,433
+Coba pikirkan lagi.
+
+141
+00:12:07,226 --> 00:12:08,769
+Kapten!
+
+142
+00:12:08,853 --> 00:12:09,854
+Hormat!
+
+143
+00:12:11,731 --> 00:12:12,606
+Halo.
+
+144
+00:12:13,858 --> 00:12:16,068
+Ini selalu membuatku sedih.
+
+145
+00:12:16,152 --> 00:12:18,863
+Bukankah seharusnya
+mereka menulis nama korban?
+
+146
+00:12:18,946 --> 00:12:22,199
+Benar. Kru selalu diperlakukan buruk.
+
+147
+00:12:22,867 --> 00:12:24,326
+Lama tak jumpa, Pak.
+
+148
+00:12:24,410 --> 00:12:26,287
+Hei, Ryu Taesuk.
+
+149
+00:12:27,371 --> 00:12:29,749
+Jadi, dia Letnan Ryu Taesuk?
+
+150
+00:12:29,832 --> 00:12:32,543
+Prajurit elite terkenal dari militer.
+
+151
+00:12:32,626 --> 00:12:34,754
+Firasatku bagus untuk misi kali ini.
+
+152
+00:12:34,837 --> 00:12:36,714
+- Senang bertemu denganmu.
+- Aku juga.
+
+153
+00:12:37,298 --> 00:12:38,966
+Aku Gong Soochan, Pak. Siap!
+
+154
+00:12:39,049 --> 00:12:41,135
+- Ya, halo.
+- Senang bertemu denganmu.
+
+155
+00:12:41,218 --> 00:12:44,680
+- Aku Pilot Ulung SAA, Kim Sun.
+- Ya, senang bertemu denganmu.
+
+156
+00:12:47,475 --> 00:12:48,309
+Apa?
+
+157
+00:12:48,392 --> 00:12:50,311
+Kok, dia menjuluki dirinya Pilot Ulung?
+
+158
+00:12:51,020 --> 00:12:53,355
+Dasar berandal.
+Dia tak menjalani wajib militer.
+
+159
+00:12:53,981 --> 00:12:56,901
+Begitu, ya.
+Dia ditolak pekan lalu karena jelek.
+
+160
+00:12:57,651 --> 00:12:59,487
+- Bukan karena aku jelek.
+- Lantas apa?
+
+161
+00:12:59,570 --> 00:13:03,365
+Halo, aku Eun Jiyoung, yang ditunjuk
+sebagai kopilot untuk misi kali ini.
+
+162
+00:13:04,074 --> 00:13:04,909
+Begitu rupanya.
+
+163
+00:13:04,992 --> 00:13:06,327
+Senang bertemu denganmu.
+
+164
+00:13:06,410 --> 00:13:09,580
+Aku Kim Heesun, Pilot Ulung di SAA.
+
+165
+00:13:09,663 --> 00:13:11,874
+Ya, aku sudah tahu siapa dirimu, Pak.
+
+166
+00:13:11,957 --> 00:13:13,167
+Bagaimana kau tahu?
+
+167
+00:13:15,377 --> 00:13:18,130
+Wow, aku sungguh menantikan misi kali ini.
+
+168
+00:13:18,714 --> 00:13:19,840
+{\an8}ANGGOTA EMAS
+
+169
+00:13:25,805 --> 00:13:26,764
+Kartu emas.
+
+170
+00:13:27,932 --> 00:13:28,766
+Wow.
+
+171
+00:13:29,600 --> 00:13:32,812
+Aku hanya dengar ceritanya.
+Kau orang pertama dengan kartu emas.
+
+172
+00:13:34,522 --> 00:13:35,648
+Begitu rupanya.
+
+173
+00:13:36,398 --> 00:13:37,483
+Kau pasti gugup.
+
+174
+00:13:38,818 --> 00:13:40,236
+Semua pasti gugup di awal.
+
+175
+00:13:40,319 --> 00:13:42,530
+Namun, kau akan segera terbiasa.
+
+176
+00:13:43,656 --> 00:13:45,449
+Begitu kau ada di luar angkasa,
+
+177
+00:13:45,533 --> 00:13:48,202
+menghabiskan sehari di sana
+terasa seperti setahun di Bumi.
+
+178
+00:13:50,079 --> 00:13:55,501
+Jadi, menurutku penampilan
+para anggota kru sangat penting.
+
+179
+00:13:56,085 --> 00:13:57,545
+Coba pikirkan.
+
+180
+00:13:57,628 --> 00:14:02,716
+Kau terjebak di dalam pesawat antariksa
+dan melihat wajah yang sama setiap hari.
+
+181
+00:14:02,800 --> 00:14:05,803
+Tanpa wajah menarik untuk dilihat,
+pasti akan sulit untuk bertahan.
+
+182
+00:14:08,472 --> 00:14:10,975
+Aku dokter tim untuk misi kali ini,
+Hong Gayoung.
+
+183
+00:14:11,725 --> 00:14:13,519
+Panggil saja Dok Hong.
+
+184
+00:14:14,603 --> 00:14:17,356
+- Salam kenal, aku…
+- Aku tahu siapa kau, Doktor Song Jian.
+
+185
+00:14:17,439 --> 00:14:19,608
+Yah, kau terkenal sekali.
+
+186
+00:14:19,692 --> 00:14:20,734
+Boleh bicara santai?
+
+187
+00:14:20,818 --> 00:14:22,111
+Tidak.
+
+188
+00:14:22,695 --> 00:14:23,696
+Begitu rupanya.
+
+189
+00:14:23,779 --> 00:14:25,531
+Kau suka membatasi diri, ya.
+
+190
+00:14:26,407 --> 00:14:29,368
+Kalau begitu, apa panggilanmu?
+Doktor Song? Nona Jian?
+
+191
+00:14:34,373 --> 00:14:35,749
+Aku lebih suka Doktor Song.
+
+192
+00:14:35,833 --> 00:14:38,294
+Kau anggota emas,
+jadi, Doktor Song lebih cocok.
+
+193
+00:14:40,087 --> 00:14:42,715
+Para atasan sudah datang. Halo.
+
+194
+00:14:44,758 --> 00:14:46,719
+Lama tak jumpa, Doktor Song.
+
+195
+00:14:50,306 --> 00:14:53,475
+Pangkalan ditutup sementara
+lima tahun lalu usai kebocoran radiasi.
+
+196
+00:14:53,559 --> 00:14:55,352
+Kami putuskan tutup permanen.
+
+197
+00:14:56,103 --> 00:14:58,689
+Misi kalian adalah mengambil
+sampel penting
+
+198
+00:14:58,772 --> 00:15:03,068
+sebelum penutupan permanen pangkalan
+dan kembali ke Bumi.
+
+199
+00:15:03,152 --> 00:15:05,863
+Begitu mendarat di bulan,
+batas waktu untuk misi kalian
+
+200
+00:15:06,530 --> 00:15:07,781
+adalah 24 jam.
+
+201
+00:15:12,953 --> 00:15:14,371
+Sampel yang akan kalian ambil
+
+202
+00:15:14,455 --> 00:15:16,790
+ada di dalam kapsul ini.
+
+203
+00:15:16,874 --> 00:15:20,085
+Kapsul ini didesain
+untuk mempertahankan suhu sangat rendah
+
+204
+00:15:20,169 --> 00:15:22,504
+demi melindungi isinya.
+
+205
+00:15:22,588 --> 00:15:26,342
+Jika kapsul dalam kondisi baik,
+kalian tak akan kesulitan dalam misi ini.
+
+206
+00:15:26,425 --> 00:15:28,761
+Namun, jika kalian menemukan kejanggalan
+
+207
+00:15:28,844 --> 00:15:31,013
+pada cangkang luar atau pengatur suhu,
+
+208
+00:15:31,096 --> 00:15:32,681
+kalian harus urus secara khusus.
+
+209
+00:15:34,600 --> 00:15:35,976
+Ya, Doktor Song?
+
+210
+00:15:37,394 --> 00:15:41,065
+Apa tepatnya zat
+yang akan kami ambil kembali ini?
+
+211
+00:15:41,148 --> 00:15:43,943
+Kenapa harus kami bawa
+dalam suhu yang amat rendah?
+
+212
+00:15:46,236 --> 00:15:47,237
+Soal itu…
+
+213
+00:15:48,030 --> 00:15:51,408
+Kami tak tahu pasti
+karena informasinya hilang akibat insiden.
+
+214
+00:15:51,492 --> 00:15:52,785
+Mohon lanjutkan.
+
+215
+00:15:54,828 --> 00:15:58,958
+Ada tiga lokasi yang kami percayai
+merupakan tempat sampel itu ditinggalkan.
+
+216
+00:15:59,041 --> 00:16:02,628
+Pangkalan itu dalam keadaan amat kacau
+tepat di waktu insiden,
+
+217
+00:16:02,711 --> 00:16:06,382
+jadi, kami tak punya data
+mengenai kerusakan sampel-sampel itu.
+
+218
+00:16:06,966 --> 00:16:09,927
+Kalian tak perlu mengambil kembali
+sampel dalam jumlah besar.
+
+219
+00:16:10,010 --> 00:16:11,512
+Fokus utama kita
+
+220
+00:16:11,595 --> 00:16:14,390
+adalah setidaknya
+satu sampel yang selamat.
+
+221
+00:16:14,473 --> 00:16:15,557
+Ini kelewatan.
+
+222
+00:16:15,641 --> 00:16:19,520
+Bukankah seharusnya kalian
+memberi tahu kami lebih detail lagi?
+
+223
+00:16:19,603 --> 00:16:23,023
+Kami bukan kurir yang hanya bergerak
+untuk mengambil paket.
+
+224
+00:16:24,024 --> 00:16:25,609
+Ini seperti misi lainnya.
+
+225
+00:16:26,735 --> 00:16:28,320
+Kita hanya perlu menuruti perintah.
+
+226
+00:16:30,364 --> 00:16:33,993
+SAA juga mendapat informasi
+yang amat sedikit,
+
+227
+00:16:34,493 --> 00:16:36,912
+jadi, mohon maklumi
+informasi yang kurang detail ini.
+
+228
+00:16:36,996 --> 00:16:39,373
+Jika kami tak tahu
+seberapa berbahayanya zat ini,
+
+229
+00:16:39,790 --> 00:16:42,084
+bagaimana kami bisa mengambilnya
+dengan aman?
+
+230
+00:16:42,793 --> 00:16:45,587
+Apa kalian benar-benar ingin
+misi ini sukses?
+
+231
+00:16:47,548 --> 00:16:50,259
+Karena itu kami membutuhkanmu,
+Doktor Song.
+
+232
+00:16:50,843 --> 00:16:51,719
+Doktor Song.
+
+233
+00:16:53,762 --> 00:16:55,723
+Tampaknya kau berpikir
+
+234
+00:16:55,806 --> 00:16:58,892
+kami menyembunyikan informasi penting.
+
+235
+00:17:00,936 --> 00:17:04,023
+Namun, sayangnya,
+kami juga tak tahu apa-apa.
+
+236
+00:17:05,482 --> 00:17:07,234
+Karena itu, kami membutuhkan
+
+237
+00:17:07,317 --> 00:17:11,363
+seorang ahli astrobiologi bertalenta
+sepertimu dalam situasi berat seperti ini.
+
+238
+00:17:11,947 --> 00:17:12,865
+Atau…
+
+239
+00:17:14,116 --> 00:17:16,368
+apa pikiranku salah?
+
+240
+00:17:18,954 --> 00:17:21,123
+Kapten Han
+adalah penanggung jawab operasi ini,
+
+241
+00:17:21,874 --> 00:17:24,043
+tetapi jika mengenai sampel,
+
+242
+00:17:24,752 --> 00:17:26,712
+penilaianmu akan diprioritaskan.
+
+243
+00:17:27,796 --> 00:17:30,257
+Tolong ingat itu.
+
+244
+00:17:36,597 --> 00:17:38,307
+ANGGOTA EMAS
+
+245
+00:17:39,016 --> 00:17:40,601
+{\an8}LIMA TAHUN LALU
+
+246
+00:17:40,684 --> 00:17:44,021
+{\an8}Kau tak akan perlu khawatir lagi soal air.
+
+247
+00:17:44,605 --> 00:17:46,607
+Tolong anggap ini
+
+248
+00:17:46,690 --> 00:17:49,318
+hadiah terakhir dari kakakmu,
+bukan kompensasi pemerintah.
+
+249
+00:18:08,128 --> 00:18:10,255
+ANGGOTA EMAS
+
+250
+00:18:39,785 --> 00:18:40,786
+Pergilah.
+
+251
+00:19:10,691 --> 00:19:11,900
+Kapten Han.
+
+252
+00:19:14,027 --> 00:19:16,321
+Apa semua misimu dijalankan seperti ini?
+
+253
+00:19:17,322 --> 00:19:20,576
+Tak masuk akal informasi penting dibatasi.
+
+254
+00:19:23,871 --> 00:19:26,081
+Apa kau selalu bersemangat seperti ini?
+
+255
+00:19:26,165 --> 00:19:28,834
+Kemungkinan seluruh kru selamat
+kurang dari sepuluh persen.
+
+256
+00:19:28,917 --> 00:19:30,669
+Jika kau peduli keselamatan mereka,
+
+257
+00:19:30,752 --> 00:19:33,297
+kau harus mengurangi ketidakpastian
+sebanyak mungkin.
+
+258
+00:19:33,380 --> 00:19:37,009
+Ketidakpastian ada di mana saja,
+baik di antariksa maupun Bumi.
+
+259
+00:19:37,092 --> 00:19:40,721
+Jadi, apa seharusnya aku tak bertanya
+dan hanya bekerja sesuai perintah?
+
+260
+00:19:42,681 --> 00:19:44,600
+Kelihatannya suram, ya.
+
+261
+00:19:47,728 --> 00:19:50,022
+Bukankah saintis
+adalah orang yang menemukan cara
+
+262
+00:19:50,522 --> 00:19:52,107
+dalam situasi semacam itu?
+
+263
+00:19:56,361 --> 00:19:58,322
+Apa kau yakin kau masih mau ikut?
+
+264
+00:19:59,448 --> 00:20:01,366
+Kau sudah menyebut etos kerjaku,
+
+265
+00:20:01,867 --> 00:20:02,868
+jadi, aku harus ikut.
+
+266
+00:20:07,331 --> 00:20:10,667
+Aku akan menanyakan pendapatmu
+saat aku membutuhkannya.
+
+267
+00:20:28,977 --> 00:20:29,978
+Wah…
+
+268
+00:20:31,939 --> 00:20:33,440
+Kenapa bawaanmu banyak?
+
+269
+00:20:33,523 --> 00:20:35,901
+Apa kau bawa seluruh isi lab?
+
+270
+00:20:35,984 --> 00:20:37,110
+Aku hanya tak tahu
+
+271
+00:20:37,903 --> 00:20:39,738
+hal apa yang mungkin akan kuperlukan.
+
+272
+00:20:49,539 --> 00:20:52,209
+Wah, kalian sudah siap.
+
+273
+00:20:52,834 --> 00:20:54,086
+Lapor.
+
+274
+00:20:54,169 --> 00:20:55,879
+Aku Lee Gisu, kopilot.
+
+275
+00:20:57,381 --> 00:20:59,841
+Senang bertemu dengan kalian.
+Mohon bantuannya.
+
+276
+00:21:04,096 --> 00:21:07,599
+Aku baru kali ini melihatnya.
+Kenapa kopilotnya tiba-tiba diganti?
+
+277
+00:21:09,810 --> 00:21:12,020
+Mereka sungguh keterlaluan.
+
+278
+00:21:12,104 --> 00:21:14,481
+Kita punya kerja sama tim.
+
+279
+00:21:15,065 --> 00:21:16,358
+Kita bukan bagian mesin.
+
+280
+00:21:16,441 --> 00:21:20,237
+Mereka tak seharusnya membawa
+kopilot baru tepat sebelum lepas landas.
+
+281
+00:21:20,320 --> 00:21:22,614
+Lima menit lagi kita masuk dok.
+Harus kuusir dia?
+
+282
+00:21:23,198 --> 00:21:25,826
+Jangan, aku harus coba
+bekerja dengan baik bersamanya.
+
+283
+00:21:30,205 --> 00:21:31,331
+TARIK UNTUK MENGOPERASIKAN
+
+284
+00:21:34,960 --> 00:21:36,962
+Tampaknya kau gugup sekali.
+
+285
+00:21:37,045 --> 00:21:38,088
+Santailah.
+
+286
+00:21:43,927 --> 00:21:46,179
+Makanlah yang manis
+untuk membantumu bersantai.
+
+287
+00:21:49,224 --> 00:21:50,309
+Apa yang kau lakukan?
+
+288
+00:21:50,392 --> 00:21:52,394
+Lakukan saja tugasmu dengan baik.
+
+289
+00:21:53,061 --> 00:21:56,982
+Ya? Pak Tukang Ikut Campur, jika kau gagal
+mendaratkan pesawat dengan mulus,
+
+290
+00:21:57,065 --> 00:21:59,693
+aku akan muntah di belakang kepalamu.
+
+291
+00:22:16,209 --> 00:22:18,170
+- Apa ini kali pertama kita bertemu?
+- Ya.
+
+292
+00:22:19,588 --> 00:22:20,922
+Kau terlihat familier.
+
+293
+00:22:22,299 --> 00:22:25,093
+Wajahku terlalu pasaran.
+
+294
+00:22:25,177 --> 00:22:26,386
+Salam kenal.
+
+295
+00:22:39,733 --> 00:22:41,151
+Doktor Song.
+
+296
+00:22:42,194 --> 00:22:45,322
+Kudengar EHSRC
+memberimu tingkat bagus untuk akses air.
+
+297
+00:22:45,405 --> 00:22:46,948
+Apa tingkatmu? B?
+
+298
+00:22:48,450 --> 00:22:50,410
+Jangan-jangan lebih tinggi lagi? Kelas A?
+
+299
+00:22:50,494 --> 00:22:52,245
+Mau dia Kelas B atau C,
+
+300
+00:22:52,746 --> 00:22:54,790
+kenapa kau ingin tahu sekali?
+
+301
+00:22:54,873 --> 00:22:57,751
+Kita semua akan naik
+ke Kelas A setelah misi ini.
+
+302
+00:22:57,834 --> 00:23:01,129
+Ayolah, kita sudah seperti
+keluarga sekarang.
+
+303
+00:23:01,630 --> 00:23:05,133
+Kutanya agar makin akrab dengannya.
+Kau selalu kasar padaku.
+
+304
+00:23:05,217 --> 00:23:06,426
+Rasanya kalian semua
+
+305
+00:23:06,927 --> 00:23:09,137
+seperti hendak pergi berwisata.
+
+306
+00:23:09,221 --> 00:23:11,973
+Ya, kita semua hanya berpura-pura.
+
+307
+00:23:13,183 --> 00:23:15,560
+Mau berbuat apa lagi? Kita sudah naik.
+
+308
+00:23:21,733 --> 00:23:24,069
+Semua anggota kru, pakai helm kalian.
+
+309
+00:23:26,822 --> 00:23:30,075
+<i>Nuri 11. Satu menit menuju ke dok.</i>
+
+310
+00:23:31,576 --> 00:23:33,370
+Bersiap untuk menuju dok.
+
+311
+00:24:00,522 --> 00:24:05,777
+<i>Hitung mundur dimulai.</i>
+<i>Sepuluh, sembilan, delapan, tujuh,</i>
+
+312
+00:24:05,861 --> 00:24:11,241
+<i>mesin utama menyala,</i>
+<i>lima, empat, tiga, dua,</i>
+
+313
+00:24:11,324 --> 00:24:13,869
+<i>mesin vernier menyala. Lepas landas.</i>
+
+314
+00:24:42,647 --> 00:24:44,524
+<i>Ruang Kendali, ini Nuri 11.</i>
+
+315
+00:24:44,608 --> 00:24:47,569
+<i>Kami telah memasuki orbit sesuai jadwal.</i>
+
+316
+00:24:49,821 --> 00:24:53,200
+<i>Nuri 11 berada di dalam orbit</i>
+<i>sesuai jadwal.</i>
+
+317
+00:24:53,283 --> 00:24:57,287
+<i>Sekarang aku memegang kendali.</i>
+<i>Alihkan pada sistem navigasi otonom.</i>
+
+318
+00:24:57,370 --> 00:24:58,330
+<i>Baik.</i>
+
+319
+00:25:04,711 --> 00:25:11,009
+<i>Navigasi otonom telah dikonfirmasi.</i>
+<i>Orbit dan kecepatan penerbangan, optimal.</i>
+
+320
+00:25:19,559 --> 00:25:21,394
+Kapan kita tiba di orbit Bulan?
+
+321
+00:25:23,563 --> 00:25:25,565
+Dijadwalkan pukul 09.06.
+
+322
+00:25:25,649 --> 00:25:29,110
+Kita tak bisa menghubungi Ruang Kendali
+selama dua jam akibat hujan meteor.
+
+323
+00:25:29,194 --> 00:25:32,155
+Minta data revisi saat kita
+kembali terhubung. Pantau situasi.
+
+324
+00:25:32,239 --> 00:25:33,323
+Baik, Pak.
+
+325
+00:25:45,502 --> 00:25:49,673
+Pak Hwang berkontribusi besar
+pada pembangunan Pangkalan Balhae.
+
+326
+00:25:49,756 --> 00:25:54,386
+Dia juga tinggal di sana dalam waktu lama
+sebagai bagian tim riset.
+
+327
+00:25:54,469 --> 00:25:56,471
+Dia memutuskan bekerja sama dengan kita
+
+328
+00:25:56,555 --> 00:25:58,473
+sebagai penasihat misi kali ini.
+
+329
+00:26:01,476 --> 00:26:07,023
+Omong-omong,
+bukankah Pak Hwang terlalu pendiam?
+
+330
+00:26:07,649 --> 00:26:10,151
+Apa ada yang pernah mendengarnya bicara?
+Aku belum.
+
+331
+00:26:10,235 --> 00:26:11,444
+Apa itu sifat aslinya?
+
+332
+00:26:11,528 --> 00:26:14,531
+Ya, dia pasti
+bicara lebih sedikit dibandingkan kau.
+
+333
+00:26:15,699 --> 00:26:18,868
+Dia satu-satunya orang di sini
+yang pernah pergi ke Pangkalan Balhae.
+
+334
+00:26:18,952 --> 00:26:21,246
+Aku punya banyak pertanyaan untuknya.
+
+335
+00:26:21,788 --> 00:26:23,373
+Apa yang terjadi di sana?
+
+336
+00:26:23,456 --> 00:26:26,376
+Aku penasaran sekali.
+Perlu kutanya? Akan kutanya.
+
+337
+00:26:26,459 --> 00:26:28,086
+Hei, Soochan.
+
+338
+00:26:28,169 --> 00:26:29,379
+Jangan tanya.
+
+339
+00:26:29,462 --> 00:26:30,422
+Menurutku,
+
+340
+00:26:31,715 --> 00:26:35,969
+baik Pak Hwang dan Direktur Choi
+tak tahu apa-apa.
+
+341
+00:26:37,429 --> 00:26:38,930
+Aku bisa dengar kalian.
+
+342
+00:26:39,973 --> 00:26:42,601
+Jika aku dengar,
+berarti semuanya juga, 'kan?
+
+343
+00:27:30,607 --> 00:27:36,655
+<i>Terdeteksi anomali</i>
+<i>di eksterior pesawat antariksa.</i>
+
+344
+00:27:36,738 --> 00:27:39,699
+- Ada masalah apa?
+- Sistem ini… Sebentar.
+
+345
+00:27:40,700 --> 00:27:42,077
+Masalah di sistem dok.
+
+346
+00:27:42,160 --> 00:27:45,163
+Sekrup tak akan bertahan
+jika kita masuk orbit landasan.
+
+347
+00:27:45,246 --> 00:27:46,748
+Sialan.
+
+348
+00:27:47,624 --> 00:27:50,460
+Jika sekrup jatuh,
+maka itu akan mengenai mesin.
+
+349
+00:27:51,461 --> 00:27:53,338
+Kita tak bisa hubungi Ruang Kendali SAA.
+
+350
+00:27:53,421 --> 00:27:55,924
+Kita baru bisa
+menghubungi mereka 20 menit lagi.
+
+351
+00:27:56,007 --> 00:27:58,134
+- Sekrupnya bergoyang makin hebat.
+- Sial.
+
+352
+00:27:58,218 --> 00:27:59,886
+Berapa lama sampai kita mendarat?
+
+353
+00:27:59,969 --> 00:28:02,681
+Kita akan masuk ke orbit landasan
+dalam tujuh menit.
+
+354
+00:28:02,764 --> 00:28:04,224
+Sekrup itu akan jatuh.
+
+355
+00:28:06,393 --> 00:28:07,310
+Lepaskan modul.
+
+356
+00:28:07,394 --> 00:28:08,728
+- Maaf?
+- Apa?
+
+357
+00:28:08,812 --> 00:28:11,064
+Jika kita lepaskan,
+maka titik masuknya berubah.
+
+358
+00:28:11,147 --> 00:28:13,692
+Kita selamatkan modul pendaratan
+sebelum terlalu telat.
+
+359
+00:28:13,775 --> 00:28:14,693
+Lepaskan modul.
+
+360
+00:28:15,610 --> 00:28:16,903
+Kita harus mendarat.
+
+361
+00:28:18,947 --> 00:28:21,366
+Kru, periksa sabuk pengaman kalian!
+
+362
+00:28:21,449 --> 00:28:23,535
+Bersiaplah untuk benturan!
+
+363
+00:28:32,794 --> 00:28:37,215
+<i>Berganti ke mode lepas modul.</i>
+
+364
+00:28:37,298 --> 00:28:38,299
+Melepas modul.
+
+365
+00:28:45,807 --> 00:28:47,100
+<i>Nyalakan mesin utama!</i>
+
+366
+00:28:48,643 --> 00:28:51,438
+<i>Sialan! Mesin utama tak mau menyala!</i>
+
+367
+00:28:57,986 --> 00:28:59,738
+Bersiap untuk kontrol daya dorong.
+
+368
+00:29:03,700 --> 00:29:04,701
+Tiga!
+
+369
+00:29:05,994 --> 00:29:07,078
+Dua!
+
+370
+00:29:07,746 --> 00:29:08,580
+Satu!
+
+371
+00:29:08,663 --> 00:29:11,082
+Nyalakan mesin kontrol daya dorong!
+
+372
+00:29:19,257 --> 00:29:22,135
+Kita bisa menabrak kalau begini!
+
+373
+00:29:26,306 --> 00:29:27,515
+Luruskan badan pesawat!
+
+374
+00:29:27,599 --> 00:29:30,059
+Aku mohon semoga berhasil!
+
+375
+00:29:33,271 --> 00:29:34,731
+Bersiap untuk benturan.
+
+376
+00:29:43,406 --> 00:29:46,034
+- Sial!
+- Kita akan menabrak!
+
+377
+00:30:06,971 --> 00:30:09,015
+<i>Pesawatnya terbalik. Kita harus keluar.</i>
+
+378
+00:30:11,476 --> 00:30:12,519
+Ayo pergi.
+
+379
+00:30:25,406 --> 00:30:27,826
+TERKUNCI
+
+380
+00:30:31,746 --> 00:30:32,789
+Awas.
+
+381
+00:30:47,387 --> 00:30:49,514
+{\an8}KUNCI TERBUKA
+
+382
+00:30:49,597 --> 00:30:52,141
+TERPALANG - TERBUKA
+
+383
+00:31:16,875 --> 00:31:18,042
+Awas!
+
+384
+00:31:26,092 --> 00:31:27,135
+Kalian tak apa?
+
+385
+00:31:35,935 --> 00:31:37,270
+Pegang yang erat!
+
+386
+00:31:40,607 --> 00:31:41,524
+Doktor Song!
+
+387
+00:31:48,531 --> 00:31:50,199
+Doktor Song, bertahanlah!
+
+388
+00:31:52,368 --> 00:31:53,494
+Kapten!
+
+389
+00:32:43,544 --> 00:32:50,134
+TERBUKA
+
+390
+00:33:00,061 --> 00:33:02,021
+Sistem komunikasi satelit
+hancur sepenuhnya.
+
+391
+00:33:02,105 --> 00:33:03,648
+Kita tak bisa menghubungi SAA.
+
+392
+00:33:04,774 --> 00:33:07,986
+Mungkin mereka melihat semuanya dari Bumi.
+
+393
+00:33:08,903 --> 00:33:12,156
+Pak Hwang, pasti akan sulit bagimu
+untuk bernapas
+
+394
+00:33:12,240 --> 00:33:14,158
+karena rusuk patah itu
+mendorong paru-paru.
+
+395
+00:33:14,242 --> 00:33:15,660
+Kau harus bertahan.
+
+396
+00:33:15,743 --> 00:33:17,829
+Ya, aku tak apa-apa.
+
+397
+00:33:37,807 --> 00:33:38,975
+Awas.
+
+398
+00:33:47,275 --> 00:33:48,985
+Seberapa jauh Pangkalan Balhae?
+
+399
+00:33:49,944 --> 00:33:51,738
+Sekitar 7,6 km.
+
+400
+00:34:37,658 --> 00:34:38,910
+Aku merinding.
+
+401
+00:34:39,869 --> 00:34:40,745
+Aku juga.
+
+402
+00:34:41,412 --> 00:34:44,916
+Apa sekarang kita astronaut
+tanpa pesawat antariksa?
+
+403
+00:34:44,999 --> 00:34:46,000
+Bagaimana ini?
+
+404
+00:34:46,084 --> 00:34:48,628
+Bagaimana lagi?
+Kita harus bertahan sampai diselamatkan.
+
+405
+00:34:58,096 --> 00:34:59,931
+Mari pergi ke Pangkalan Balhae.
+
+406
+00:35:00,515 --> 00:35:01,474
+Ayo bergerak.
+
+407
+00:35:23,454 --> 00:35:27,583
+Kapten, apa menurutmu kita bisa
+menyelesaikan misi dalam 24 jam?
+
+408
+00:35:27,667 --> 00:35:29,043
+Lupakan misi.
+
+409
+00:35:29,794 --> 00:35:33,047
+Kita bahkan tak tahu
+apa kita bisa sampai ke pangkalan
+
+410
+00:35:33,131 --> 00:35:34,715
+sebelum kehabisan oksigen.
+
+411
+00:35:35,716 --> 00:35:38,219
+Kau pasti akan sampai
+asal kau tutup mulut.
+
+412
+00:35:39,178 --> 00:35:42,098
+Begitu sampai di sana,
+kita jalankan misi usai menghubungi Bumi.
+
+413
+00:36:24,849 --> 00:36:25,850
+Pak Hwang.
+
+414
+00:36:30,062 --> 00:36:31,856
+Kau baik-baik saja, Pak Hwang?
+
+415
+00:36:35,568 --> 00:36:38,821
+Doktor Song, jangan berhenti di sini.
+Teruslah berjalan.
+
+416
+00:36:47,455 --> 00:36:49,707
+Doktor Song, kau tak boleh berhenti.
+
+417
+00:37:00,092 --> 00:37:01,052
+Bergeraklah.
+
+418
+00:37:05,640 --> 00:37:06,807
+Kau mampu berjalan?
+
+419
+00:37:07,308 --> 00:37:08,184
+Apa kau bisa?
+
+420
+00:37:08,267 --> 00:37:09,185
+Ya, bisa.
+
+421
+00:38:06,200 --> 00:38:07,243
+Apa itu…
+
+422
+00:38:08,577 --> 00:38:09,745
+Pangkalan Balhae?
+
+423
+00:38:10,788 --> 00:38:12,707
+Tampaknya lebih besar dari perkiraan kita.
+
+424
+00:38:16,711 --> 00:38:18,129
+Kita harus bergegas.
+
+425
+00:38:19,338 --> 00:38:21,549
+Kita bisa kehabisan oksigen kalau begini.
+
+426
+00:38:21,632 --> 00:38:22,800
+OKSIGEN 9% - STATUS PAKAIAN
+
+427
+00:38:26,345 --> 00:38:30,266
+Ada lereng di daerah selatan, tetapi kita
+bisa sampai ke pangkalan lebih cepat.
+
+428
+00:38:34,520 --> 00:38:35,604
+Kapten!
+
+429
+00:38:39,442 --> 00:38:41,569
+Apa kau yakin Pak Hwang
+sanggup sampai ke sana?
+
+430
+00:38:41,652 --> 00:38:44,530
+Pak Hwang, bertahanlah.
+Kita hampir sampai.
+
+431
+00:39:04,050 --> 00:39:06,010
+Tekanan darahnya terus menurun.
+
+432
+00:39:06,093 --> 00:39:08,554
+Tampaknya serpihan tulangnya
+menembus paru-parunya.
+
+433
+00:39:08,637 --> 00:39:09,930
+Kita harus segera sampai.
+
+434
+00:39:14,894 --> 00:39:15,770
+Air…
+
+435
+00:39:18,147 --> 00:39:19,106
+Apa katamu?
+
+436
+00:39:24,111 --> 00:39:25,029
+Air…
+
+437
+00:39:25,654 --> 00:39:26,530
+Air?
+
+438
+00:39:33,537 --> 00:39:34,372
+Air…
+
+439
+00:39:35,247 --> 00:39:36,582
+Dia kehabisan air.
+
+440
+00:39:38,376 --> 00:39:39,335
+Minta air.
+
+441
+00:39:48,511 --> 00:39:49,345
+Ini, Pak.
+
+442
+00:40:03,484 --> 00:40:04,860
+Pak Hwang.
+
+443
+00:40:14,161 --> 00:40:15,204
+Air…
+
+444
+00:40:19,625 --> 00:40:21,377
+Jangan…
+
+445
+00:40:37,560 --> 00:40:40,396
+DENYUT NADI
+STATUS PAKAIAN
+
+446
+00:41:13,888 --> 00:41:15,014
+Kapten.
+
+447
+00:41:25,232 --> 00:41:27,234
+Kita akan membawanya saat kita kembali.
+
+448
+00:41:28,986 --> 00:41:29,987
+Ya, Pak.
+
+449
+00:41:43,834 --> 00:41:44,752
+Ayo pergi.
+
+450
+00:42:37,721 --> 00:42:39,723
+<i>Level oksigen satu persen.</i>
+
+451
+00:42:39,807 --> 00:42:41,892
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+452
+00:42:41,976 --> 00:42:44,895
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+453
+00:42:45,479 --> 00:42:47,314
+<i>Level oksigen satu persen.</i>
+
+454
+00:42:47,398 --> 00:42:49,608
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+455
+00:42:49,692 --> 00:42:52,611
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+456
+00:43:09,336 --> 00:43:11,755
+<i>Level oksigen empat persen.</i>
+
+457
+00:43:11,839 --> 00:43:13,966
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+458
+00:43:16,343 --> 00:43:19,138
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+459
+00:43:21,599 --> 00:43:23,851
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+460
+00:43:23,934 --> 00:43:26,020
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+461
+00:43:26,103 --> 00:43:27,104
+Soohyuk…
+
+462
+00:43:28,731 --> 00:43:30,733
+<i>Level oksigen enam persen.</i>
+
+463
+00:43:30,816 --> 00:43:33,235
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+464
+00:43:33,319 --> 00:43:35,654
+<i>Level oksigen satu persen.</i>
+
+465
+00:43:35,738 --> 00:43:38,616
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+466
+00:43:42,161 --> 00:43:44,913
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+467
+00:44:05,309 --> 00:44:07,519
+<i>Level oksigen satu persen.</i>
+
+468
+00:44:07,603 --> 00:44:09,438
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+469
+00:44:09,521 --> 00:44:12,316
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+470
+00:44:18,322 --> 00:44:21,867
+MODE DAYA DARURAT
+
+471
+00:44:30,876 --> 00:44:32,753
+<i>Level oksigen satu persen.</i>
+
+472
+00:44:32,836 --> 00:44:34,922
+<i>Risiko kerusakan pengatur suhu tubuh.</i>
+
+473
+00:44:35,005 --> 00:44:37,841
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+474
+00:44:38,550 --> 00:44:41,470
+<i>Gagal membuka kunci. Mohon coba lagi.</i>
+
+475
+00:44:44,139 --> 00:44:47,059
+<i>Gagal membuka kunci. Mohon coba lagi.</i>
+
+476
+00:44:47,142 --> 00:44:50,062
+<i>- Segera hubungkan ke sistem pendukung…</i>
+- Kenapa tidak bisa?
+
+477
+00:44:50,145 --> 00:44:53,524
+Tidak seperti ini…
+
+478
+00:44:53,607 --> 00:44:56,318
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+479
+00:44:57,069 --> 00:44:58,362
+Cepatlah!
+
+480
+00:45:00,781 --> 00:45:02,324
+Tidak apa-apa, Soochan.
+
+481
+00:45:02,950 --> 00:45:05,869
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+482
+00:45:10,124 --> 00:45:11,583
+<i>Kunci terbuka.</i>
+
+483
+00:45:31,437 --> 00:45:34,148
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+484
+00:45:34,690 --> 00:45:37,401
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+485
+00:45:37,484 --> 00:45:40,571
+<i>Segera hubungkan</i>
+<i>ke sistem pendukung kehidupan.</i>
+
+486
+00:49:32,177 --> 00:49:33,637
+SEMUA KARAKTER, LOKASI,
+ORGANISASI, NAMA, DAN INSIDEN
+
+487
+00:49:33,720 --> 00:49:35,013
+ADALAH HASIL IMAJINASI
+ATAU DIGUNAKAN SECARA FIKTIF.
+
+488
+00:49:35,097 --> 00:49:36,348
+KESAMAAN DENGAN KENYATAAN
+ADALAH KEBETULAN.
+
+489
+00:49:36,431 --> 00:49:41,436
+Terjemahan subtitle oleh Fatimah Az Zahra
+
