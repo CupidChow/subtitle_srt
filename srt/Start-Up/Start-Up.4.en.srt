@@ -1,0 +1,4880 @@
+1
+00:01:08,610 --> 00:01:10,945
+EPISODE 4
+
+2
+00:01:13,239 --> 00:01:14,324
+THE DREAM PLACE
+
+3
+00:01:14,407 --> 00:01:17,118
+FOR START-UPS
+
+4
+00:01:17,202 --> 00:01:19,788
+ACCEPTING APPLICATIONS
+FOR SAND BOX'S 12TH RESIDENCY PROGRAM
+
+5
+00:01:22,415 --> 00:01:24,834
+A PLACE WHERE YOUR DREAMS COME TRUE
+
+6
+00:01:24,918 --> 00:01:28,171
+A PLACE WHERE YOUR DREAMS COME TRUE
+
+7
+00:01:28,254 --> 00:01:31,674
+I WANT TO LAUNCH MY START-UP BECAUSE
+
+8
+00:01:34,302 --> 00:01:36,971
+I WANT TO BE AN INSPIRING CEO
+
+9
+00:01:38,598 --> 00:01:39,432
+I WANT TO TAKE…
+
+10
+00:01:45,313 --> 00:01:48,358
+Even when you think your code is complete…
+
+11
+00:01:52,153 --> 00:01:53,029
+I DON'T WANT TO…
+
+12
+00:01:54,447 --> 00:01:57,158
+…one missing conditional can create a bug
+
+13
+00:01:57,242 --> 00:01:58,576
+and crash your program.
+
+14
+00:01:58,660 --> 00:02:02,080
+BUG: AN ERROR IN THE SOURCE CODE
+
+15
+00:02:06,543 --> 00:02:07,794
+I WANT TO TURN…
+
+16
+00:02:14,425 --> 00:02:16,386
+There was one conditional in particular,
+
+17
+00:02:16,469 --> 00:02:19,848
+"If Sand Box is everyone's dream…"
+
+18
+00:02:21,307 --> 00:02:24,561
+APPLICATION FOR THE 12TH
+SAND BOX RESIDENCY PROGRAM
+
+19
+00:02:39,409 --> 00:02:42,328
+WON IN-JAE, NAM DO-SAN, SEO DAL-MI
+
+20
+00:02:42,912 --> 00:02:45,582
+I overlooked this one conditional
+
+21
+00:02:46,457 --> 00:02:47,375
+and this is
+
+22
+00:02:51,087 --> 00:02:52,380
+the result of it.
+
+23
+00:02:53,464 --> 00:02:54,757
+Who do you choose,
+
+24
+00:02:54,841 --> 00:02:57,051
+me or Seo Dal-mi?
+
+25
+00:03:11,482 --> 00:03:12,483
+Do-san.
+
+26
+00:03:17,488 --> 00:03:19,157
+A bug occurred, and I crashed.
+
+27
+00:03:21,993 --> 00:03:23,745
+1. PLAYGROUND FILLED WITH SAND
+TO PREVENT INJURIES
+
+28
+00:03:23,828 --> 00:03:24,829
+2. TEST ENVIRONMENT FOR DEVELOPERS
+
+29
+00:03:24,913 --> 00:03:27,123
+3. POSTPONEMENT OF REGULATIONS
+FOR THE RELEASE OF NEW PRODUCTS
+
+30
+00:03:47,852 --> 00:03:50,897
+Dal-mi, wipe the drool
+and sleep in your bed.
+
+31
+00:03:52,065 --> 00:03:54,651
+- Grandma, I have a business idea.
+- Yes?
+
+32
+00:03:55,235 --> 00:03:57,654
+A restaurant you can start with no money.
+
+33
+00:03:57,737 --> 00:04:00,865
+Restaurants that only have kitchens,
+in one place.
+
+34
+00:04:00,949 --> 00:04:02,992
+A restaurant needs more than a kitchen.
+
+35
+00:04:03,576 --> 00:04:05,078
+Where will the customers sit?
+
+36
+00:04:05,912 --> 00:04:07,830
+They won't.
+
+37
+00:04:07,914 --> 00:04:09,165
+It'll be delivery-only.
+
+38
+00:04:09,666 --> 00:04:11,167
+No interior design,
+
+39
+00:04:11,251 --> 00:04:13,002
+and no tables or chairs.
+
+40
+00:04:13,086 --> 00:04:14,254
+Just a kitchen.
+
+41
+00:04:15,213 --> 00:04:16,839
+Since you don't need much capital,
+
+42
+00:04:17,423 --> 00:04:19,175
+it's no big deal even if you fail.
+
+43
+00:04:20,426 --> 00:04:22,971
+Mother, listen to this.
+
+44
+00:04:23,054 --> 00:04:27,725
+- What?
+- A website that displays all the leaflets.
+
+45
+00:04:27,809 --> 00:04:29,686
+Instead of looking at leaflets,
+
+46
+00:04:29,769 --> 00:04:31,938
+you go to the website
+
+47
+00:04:32,021 --> 00:04:35,191
+and browse all the delivery restaurants
+by category.
+
+48
+00:04:36,401 --> 00:04:39,612
+Dad, how about introducing
+a ranking system?
+
+49
+00:04:40,196 --> 00:04:42,532
+There will be five different classes.
+
+50
+00:04:42,615 --> 00:04:46,035
+- That sounds great.
+- Dal-mi, that's a brilliant idea.
+
+51
+00:04:46,536 --> 00:04:50,957
+We'll let the customers
+review the restaurants.
+
+52
+00:04:51,040 --> 00:04:52,875
+If the ratings are high…
+
+53
+00:05:11,811 --> 00:05:12,770
+Dad.
+
+54
+00:05:14,647 --> 00:05:15,898
+What do we do now?
+
+55
+00:05:18,401 --> 00:05:19,402
+What?
+
+56
+00:05:21,195 --> 00:05:22,238
+It's okay.
+
+57
+00:05:23,948 --> 00:05:25,241
+It's no big deal.
+
+58
+00:05:33,541 --> 00:05:35,001
+Don't worry too much. It's okay.
+
+59
+00:05:39,213 --> 00:05:42,675
+Simply put, it's like a coworking space,
+but it's for restaurants.
+
+60
+00:05:44,761 --> 00:05:47,263
+Not interesting? Okay, let's move on.
+
+61
+00:05:47,346 --> 00:05:48,514
+Grandma.
+
+62
+00:05:50,308 --> 00:05:52,268
+How about cars that don't need keys?
+
+63
+00:05:52,351 --> 00:05:54,479
+Instead, we can use
+biometrics authentication.
+
+64
+00:05:54,562 --> 00:05:58,274
+With fingerprint scanners, you won't
+have to carry around your car keys.
+
+65
+00:06:00,276 --> 00:06:01,110
+No, wait.
+
+66
+00:06:01,611 --> 00:06:04,155
+Facial recognition would be better.
+
+67
+00:06:04,238 --> 00:06:06,657
+It's a hassle to take off your gloves
+when it's cold.
+
+68
+00:06:07,784 --> 00:06:09,368
+- Dal-mi.
+- Yes?
+
+69
+00:06:12,455 --> 00:06:13,581
+Running a business
+
+70
+00:06:14,665 --> 00:06:16,793
+is hard. You know that, right?
+
+71
+00:06:18,628 --> 00:06:19,879
+Of course.
+
+72
+00:06:22,465 --> 00:06:25,218
+But it's not as hard as before.
+
+73
+00:06:25,301 --> 00:06:27,512
+Even high schoolers
+start businesses these days.
+
+74
+00:06:28,596 --> 00:06:30,973
+Also, I might have found a way.
+
+75
+00:06:31,724 --> 00:06:32,683
+What way?
+
+76
+00:06:33,351 --> 00:06:34,268
+It's a secret.
+
+77
+00:06:34,352 --> 00:06:36,270
+I'll tell you if I get in.
+
+78
+00:06:36,771 --> 00:06:38,856
+Just tell me now.
+
+79
+00:06:38,940 --> 00:06:41,609
+I don't want to.
+It'll be embarrassing if I don't get in.
+
+80
+00:06:42,110 --> 00:06:44,237
+Facial recognition, not fingerprints.
+
+81
+00:06:44,320 --> 00:06:47,990
+My gosh. Unbelievable.
+
+82
+00:06:51,786 --> 00:06:53,454
+Good morning.
+
+83
+00:06:54,163 --> 00:06:55,414
+Hi.
+
+84
+00:06:55,498 --> 00:06:58,126
+Let's start the meeting.
+Where are the others?
+
+85
+00:07:00,378 --> 00:07:05,633
+Gosh. I am totally against the flexible
+working hour idea. I think it's stupid.
+
+86
+00:07:05,716 --> 00:07:07,510
+Please come to meetings on time.
+
+87
+00:07:07,593 --> 00:07:10,429
+Tell the ones that are not here yet
+to come right now.
+
+88
+00:07:11,097 --> 00:07:12,140
+Let's get started.
+
+89
+00:07:12,723 --> 00:07:14,976
+The thing is… Here, sir.
+
+90
+00:07:17,061 --> 00:07:18,771
+LETTER OF RESIGNATION
+
+91
+00:07:18,855 --> 00:07:20,440
+What are these?
+
+92
+00:07:21,107 --> 00:07:23,609
+I'm sorry to say this
+when you trusted and followed me.
+
+93
+00:07:24,193 --> 00:07:26,612
+But I might not be able to pay you
+for the time being.
+
+94
+00:07:26,696 --> 00:07:28,614
+We also won't get an office anytime soon.
+
+95
+00:07:29,615 --> 00:07:33,161
+I like it. It feels like we're making
+a fresh start.
+
+96
+00:07:33,661 --> 00:07:35,997
+Not many offices
+come with Jacuzzis, do they?
+
+97
+00:07:37,832 --> 00:07:41,085
+- You're right.
+- That aroma oil does wonders.
+
+98
+00:07:41,169 --> 00:07:43,504
+All my wrinkles and spots are gone.
+
+99
+00:07:43,588 --> 00:07:45,798
+Your eyes are aging,
+so you don't see them.
+
+100
+00:07:45,882 --> 00:07:46,757
+They're not gone.
+
+101
+00:07:46,841 --> 00:07:47,758
+You…
+
+102
+00:07:49,510 --> 00:07:50,595
+Who are these people?
+
+103
+00:07:50,678 --> 00:07:53,598
+If you don't see the spots on your face,
+get glasses.
+
+104
+00:07:54,098 --> 00:07:56,893
+Wait. Should she consider it a blessing
+and do nothing?
+
+105
+00:08:03,983 --> 00:08:07,904
+Don't tell me you're using
+my hotel room as your office.
+
+106
+00:08:07,987 --> 00:08:10,865
+I am. Please bear with me
+until I get into Sand Box.
+
+107
+00:08:11,449 --> 00:08:14,911
+There, I can rent an office for free
+and pay my employees.
+
+108
+00:08:15,578 --> 00:08:17,288
+Sorry to interrupt your meeting.
+
+109
+00:08:17,872 --> 00:08:18,998
+We need to talk.
+
+110
+00:08:26,672 --> 00:08:28,966
+Sand Box? Why would you get in there?
+
+111
+00:08:29,550 --> 00:08:31,969
+Isn't that a place for people
+with no money or connections?
+
+112
+00:08:32,053 --> 00:08:33,221
+Exactly.
+
+113
+00:08:33,304 --> 00:08:36,307
+I need to succeed
+with no money or connections.
+
+114
+00:08:36,390 --> 00:08:38,893
+Why? You have money and connections.
+
+115
+00:08:38,976 --> 00:08:40,102
+I'm not divorced yet.
+
+116
+00:08:40,937 --> 00:08:44,607
+Is that why you're putting up with this?
+To give me money and connections?
+
+117
+00:08:44,690 --> 00:08:47,818
+Didn't you thank me for giving you
+a rich dad?
+
+118
+00:08:47,902 --> 00:08:49,070
+I am thankful.
+
+119
+00:08:49,153 --> 00:08:51,989
+As long as I have a rich dad,
+I can't take any credit.
+
+120
+00:08:52,073 --> 00:08:53,950
+I'm not even acknowledged by my own mom.
+
+121
+00:08:54,033 --> 00:08:55,701
+I learned that thanks to you.
+
+122
+00:08:55,785 --> 00:08:56,911
+Are you serious?
+
+123
+00:08:57,662 --> 00:09:00,081
+You think it's easy
+to start a business from zero?
+
+124
+00:09:02,124 --> 00:09:04,544
+Are you doing this to make me worry?
+
+125
+00:09:04,627 --> 00:09:05,586
+"Worry"?
+
+126
+00:09:09,715 --> 00:09:12,552
+Why is it so infuriating
+to hear you say you worry about me?
+
+127
+00:09:13,719 --> 00:09:16,055
+Do you worry about one
+and encourage the other?
+
+128
+00:09:17,098 --> 00:09:19,433
+Bluffing without a real plan
+makes you a fraud.
+
+129
+00:09:19,517 --> 00:09:22,728
+Sorting things out afterward
+makes you the same as your father.
+
+130
+00:09:26,315 --> 00:09:27,441
+I'm rooting for you.
+
+131
+00:09:34,156 --> 00:09:35,658
+In-jae, I just--
+
+132
+00:09:35,741 --> 00:09:37,159
+If you acknowledge me,
+
+133
+00:09:39,036 --> 00:09:41,205
+don't worry about me. Just encourage me.
+
+134
+00:09:49,714 --> 00:09:50,965
+YOON SEON-HAK'S SAND BOX
+
+135
+00:09:58,347 --> 00:09:59,348
+JOINING SAND BOX Q AND A
+
+136
+00:10:04,186 --> 00:10:05,980
+I grabbed it first.
+
+137
+00:10:07,315 --> 00:10:09,609
+Too bad. I grabbed it before you did.
+
+138
+00:10:11,944 --> 00:10:14,572
+Why would a lawyer apply for Sand Box?
+
+139
+00:10:15,656 --> 00:10:18,034
+Law is just a hobby. I'm a designer.
+
+140
+00:10:18,117 --> 00:10:19,702
+Why are you applying, then?
+
+141
+00:10:19,785 --> 00:10:23,122
+Because I have nothing. No connections,
+no credentials, and no money.
+
+142
+00:10:23,831 --> 00:10:26,000
+- What's your name?
+- It's Seo Dal-mi.
+
+143
+00:10:26,083 --> 00:10:27,793
+- Why?
+- To steer clear of you.
+
+144
+00:10:28,377 --> 00:10:29,962
+I have nothing to gain from you.
+
+145
+00:10:31,589 --> 00:10:32,590
+What's your name?
+
+146
+00:10:33,299 --> 00:10:35,134
+It's Jung Sa-ha. Why?
+
+147
+00:10:35,217 --> 00:10:37,887
+I have a lot to gain
+from someone competent like you.
+
+148
+00:10:39,263 --> 00:10:42,183
+You want to leech off me
+but can't give up the book for me?
+
+149
+00:10:53,653 --> 00:10:57,365
+I'll give you 1,000 won.
+Give up the book for me.
+
+150
+00:10:59,367 --> 00:11:00,368
+I'll give you 5,000.
+
+151
+00:11:02,745 --> 00:11:03,704
+Deal.
+
+152
+00:11:06,540 --> 00:11:07,792
+Give up so easily?
+
+153
+00:11:14,131 --> 00:11:15,091
+What a crook.
+
+154
+00:11:19,595 --> 00:11:21,972
+JOINING SAND BOX Q AND A
+
+155
+00:11:22,056 --> 00:11:24,350
+How many bookstores have we visited?
+
+156
+00:11:26,852 --> 00:11:29,146
+Oh, they have them here.
+
+157
+00:11:29,230 --> 00:11:30,356
+Ask her.
+
+158
+00:11:32,441 --> 00:11:33,692
+Excuse me.
+
+159
+00:11:35,277 --> 00:11:37,822
+Could you tell me
+where you found that book?
+
+160
+00:11:39,031 --> 00:11:41,075
+In the Start-up section.
+
+161
+00:11:41,158 --> 00:11:42,451
+- Thank you.
+- Thank you.
+
+162
+00:11:42,535 --> 00:11:43,619
+It's over there.
+
+163
+00:11:43,702 --> 00:11:44,537
+Okay.
+
+164
+00:11:44,620 --> 00:11:47,373
+Too bad. This was the last one.
+
+165
+00:11:47,456 --> 00:11:48,499
+Really?
+
+166
+00:11:48,582 --> 00:11:51,752
+Gosh, we've been going around
+all the bookstores in the neighborhood.
+
+167
+00:11:51,836 --> 00:11:53,295
+How many?
+
+168
+00:11:55,506 --> 00:11:56,966
+This is the sixth.
+
+169
+00:11:57,925 --> 00:11:59,218
+How about this?
+
+170
+00:11:59,301 --> 00:12:02,847
+Give me 10,000 won,
+and the book is yours, darlings.
+
+171
+00:12:02,930 --> 00:12:04,181
+What?
+
+172
+00:12:14,233 --> 00:12:17,194
+Guys, what do you think it means
+
+173
+00:12:17,862 --> 00:12:19,655
+when a girl calls you darling?
+
+174
+00:12:20,698 --> 00:12:24,034
+- What are you talking about?
+- I mean the girl from earlier.
+
+175
+00:12:24,118 --> 00:12:26,787
+She gave up the book for us
+and called us darlings
+
+176
+00:12:26,871 --> 00:12:28,706
+when we just met.
+
+177
+00:12:28,789 --> 00:12:32,251
+- Do you think she was hitting on us?
+- Was she hitting on us?
+
+178
+00:12:32,334 --> 00:12:33,961
+Oh, my. I can't believe this.
+
+179
+00:12:34,044 --> 00:12:35,838
+Was she hitting on us, Do-san?
+
+180
+00:12:35,921 --> 00:12:37,089
+What?
+
+181
+00:12:49,143 --> 00:12:50,144
+Give me that.
+
+182
+00:12:50,227 --> 00:12:51,187
+Here.
+
+183
+00:12:52,646 --> 00:12:54,148
+Goodness.
+
+184
+00:12:56,775 --> 00:12:57,693
+JOINING SAND BOX Q AND A
+
+185
+00:13:01,572 --> 00:13:03,908
+- I dropped my earring.
+- Me, too. No, I mean…
+
+186
+00:13:04,492 --> 00:13:06,619
+- Hello.
+- Hello.
+
+187
+00:13:06,702 --> 00:13:09,205
+- Why are you here?
+- I'm getting a book about San--
+
+188
+00:13:09,288 --> 00:13:11,665
+San Francisco. About Silicon Valley.
+
+189
+00:13:11,749 --> 00:13:14,710
+That's right.
+Our company is going global soon.
+
+190
+00:13:14,793 --> 00:13:17,505
+Already going global? That's impressive.
+
+191
+00:13:18,506 --> 00:13:20,883
+No, there's nothing impressive about us.
+
+192
+00:13:22,468 --> 00:13:23,427
+Isn't he so humble?
+
+193
+00:13:37,066 --> 00:13:38,359
+Where's your car?
+
+194
+00:13:38,442 --> 00:13:39,485
+My car?
+
+195
+00:13:40,110 --> 00:13:42,112
+I slept over at Chul-san's last night.
+
+196
+00:13:42,196 --> 00:13:45,032
+The alley is pretty narrow,
+so I didn't take my car.
+
+197
+00:13:45,616 --> 00:13:47,243
+And that explains my lousy outfit.
+
+198
+00:13:47,326 --> 00:13:49,161
+Did you hear what that betrayer said?
+
+199
+00:13:49,870 --> 00:13:51,872
+I think it's nice and casual.
+
+200
+00:13:51,956 --> 00:13:54,833
+Until now, you looked so perfect
+that it made me uncomfortable.
+
+201
+00:13:56,835 --> 00:13:58,170
+I'm far from perfect.
+
+202
+00:14:00,089 --> 00:14:01,423
+What are you doing tomorrow?
+
+203
+00:14:01,507 --> 00:14:02,341
+Tomorrow?
+
+204
+00:14:02,967 --> 00:14:04,093
+Nothing much.
+
+205
+00:14:04,176 --> 00:14:05,177
+- Really?
+- Yes.
+
+206
+00:14:05,844 --> 00:14:07,721
+You have no plans for your birthday?
+
+207
+00:14:09,473 --> 00:14:11,058
+- My birthday?
+- Yes.
+
+208
+00:14:12,476 --> 00:14:13,936
+His birthday isn't for a while.
+
+209
+00:14:14,019 --> 00:14:16,397
+I guess it's Mr. Han's.
+He wrote those letters.
+
+210
+00:14:17,731 --> 00:14:20,526
+Oh, it is my birthday tomorrow.
+It slipped my mind.
+
+211
+00:14:23,862 --> 00:14:26,740
+Do you remember writing to me
+about your wish?
+
+212
+00:14:27,449 --> 00:14:29,159
+My wish?
+
+213
+00:14:30,536 --> 00:14:32,329
+Of course, I do.
+
+214
+00:14:34,331 --> 00:14:36,292
+I'll make that wish come true tomorrow.
+
+215
+00:14:37,626 --> 00:14:38,752
+Okay.
+
+216
+00:14:39,295 --> 00:14:40,462
+Don't make any plans.
+
+217
+00:14:59,189 --> 00:15:00,524
+- Let's go.
+- Okay.
+
+218
+00:15:03,152 --> 00:15:05,863
+Hey! What are you doing?
+
+219
+00:15:10,618 --> 00:15:11,577
+Thank you.
+
+220
+00:15:21,170 --> 00:15:22,379
+What is he thinking?
+
+221
+00:15:22,922 --> 00:15:24,715
+I approve.
+
+222
+00:15:26,675 --> 00:15:28,969
+- You're jealous, aren't you?
+- Of that?
+
+223
+00:15:29,845 --> 00:15:31,472
+Don't be stupid. Absolutely not.
+
+224
+00:15:31,555 --> 00:15:32,890
+Jealousy is…
+
+225
+00:15:34,934 --> 00:15:37,061
+- for losers.
+- Don't cry.
+
+226
+00:15:39,063 --> 00:15:40,022
+Let's go.
+
+227
+00:15:49,990 --> 00:15:51,825
+Shouldn't you go back to work?
+
+228
+00:15:52,952 --> 00:15:54,620
+I will after I take you home.
+
+229
+00:15:55,204 --> 00:15:57,623
+Goodness, I'm not a kid.
+
+230
+00:16:03,754 --> 00:16:05,255
+Your hand…
+
+231
+00:16:05,339 --> 00:16:06,799
+My hand? What about it?
+
+232
+00:16:11,011 --> 00:16:14,473
+I thought my hands are pretty big,
+but they look tiny next to yours.
+
+233
+00:16:19,687 --> 00:16:20,646
+Oh…
+
+234
+00:17:31,925 --> 00:17:33,177
+- Do-san?
+- Yes?
+
+235
+00:17:33,677 --> 00:17:35,012
+Do-san.
+
+236
+00:17:36,096 --> 00:17:39,600
+Yong-san, did you know I have huge hands?
+
+237
+00:17:39,683 --> 00:17:42,311
+How can it make me so happy?
+I must be crazy.
+
+238
+00:17:42,394 --> 00:17:43,687
+Don't go crazy now. Come.
+
+239
+00:17:43,771 --> 00:17:45,647
+- What's wrong?
+- Just come.
+
+240
+00:17:46,273 --> 00:17:47,357
+Hurry.
+
+241
+00:17:48,650 --> 00:17:50,527
+Line up, please!
+
+242
+00:17:50,611 --> 00:17:52,571
+- Give me one.
+- You'll get one.
+
+243
+00:17:52,654 --> 00:17:55,157
+Please wait! Whatever, just take them all!
+
+244
+00:17:55,240 --> 00:17:58,243
+- What's going on?
+- The news about CODA is finally out.
+
+245
+00:17:58,744 --> 00:18:00,245
+Don't worry. You'll get one.
+
+246
+00:18:00,788 --> 00:18:03,582
+Gosh, why do you show up so late
+when you're the CEO?
+
+247
+00:18:03,665 --> 00:18:05,959
+- He's the CEO?
+- The CEO is here!
+
+248
+00:18:06,043 --> 00:18:07,461
+You won the CODA competition?
+
+249
+00:18:07,544 --> 00:18:09,421
+- Hello.
+- Can we have a meeting, please?
+
+250
+00:18:09,505 --> 00:18:11,256
+- We'd like a meeting.
+- Calm down.
+
+251
+00:18:11,340 --> 00:18:13,634
+- We're GT Electronics.
+- They all want to invest?
+
+252
+00:18:13,717 --> 00:18:16,261
+This is it. We're going big now.
+
+253
+00:18:16,929 --> 00:18:18,931
+- Take my business card!
+- Thank you.
+
+254
+00:18:19,014 --> 00:18:20,641
+- Calm down!
+- Thank you.
+
+255
+00:18:20,724 --> 00:18:23,102
+Nice to meet you all.
+
+256
+00:18:23,185 --> 00:18:24,144
+All right.
+
+257
+00:18:24,770 --> 00:18:26,021
+Let's get started.
+
+258
+00:18:26,605 --> 00:18:28,357
+Our company is called Samsan Tech.
+
+259
+00:18:28,440 --> 00:18:30,567
+Kim Yong-san, Lee Chul-san,
+and Nam Do-san.
+
+260
+00:18:30,651 --> 00:18:33,070
+That's where our name comes from.
+Three Sans.
+
+261
+00:18:34,404 --> 00:18:36,532
+We'd love to hear
+about your business model.
+
+262
+00:18:36,615 --> 00:18:37,866
+Oh, sure.
+
+263
+00:18:37,950 --> 00:18:39,618
+Just a moment.
+
+264
+00:18:40,869 --> 00:18:42,412
+Take your time.
+
+265
+00:18:42,496 --> 00:18:43,789
+CONTENT
+
+266
+00:18:47,543 --> 00:18:49,253
+When learning image recognition,
+
+267
+00:18:49,336 --> 00:18:52,172
+there is a trade-off
+between network size and accuracy.
+
+268
+00:18:52,256 --> 00:18:53,590
+- Here, you see--
+- I get it.
+
+269
+00:18:54,341 --> 00:18:58,428
+I see how great your technology is,
+but how are you going to make money?
+
+270
+00:19:00,556 --> 00:19:01,723
+Money?
+
+271
+00:19:15,404 --> 00:19:17,573
+To raise accuracy,
+the quantity has to increase,
+
+272
+00:19:17,656 --> 00:19:19,116
+making the learning harder.
+
+273
+00:19:19,199 --> 00:19:21,743
+To solve that, our learning architecture--
+
+274
+00:19:21,827 --> 00:19:25,581
+So you don't have
+a clear revenue model yet?
+
+275
+00:19:33,630 --> 00:19:35,924
+We'll discuss it and get back to you.
+
+276
+00:19:36,008 --> 00:19:37,509
+It all sounds brilliant,
+
+277
+00:19:37,593 --> 00:19:40,304
+but I'm afraid it's not
+our main field of interest.
+
+278
+00:19:40,387 --> 00:19:42,639
+Thanks for the explanation.
+I appreciate it.
+
+279
+00:19:54,109 --> 00:19:56,653
+- There.
+- Thank you.
+
+280
+00:19:57,154 --> 00:20:00,324
+As you can see,
+since our network is so slim,
+
+281
+00:20:00,407 --> 00:20:03,076
+it requires shorter training time
+and is easy to implement.
+
+282
+00:20:03,660 --> 00:20:05,329
+Oh, my. Give them a big hand.
+
+283
+00:20:05,871 --> 00:20:07,623
+This is amazing.
+
+284
+00:20:07,706 --> 00:20:11,418
+So it's not reinforcement through
+adding feature maps. Is that right?
+
+285
+00:20:11,501 --> 00:20:12,794
+That's right.
+
+286
+00:20:13,712 --> 00:20:17,633
+As you can see here,
+we connect the feature maps together.
+
+287
+00:20:17,716 --> 00:20:20,344
+- Can we see the next page?
+- Sure. Next page.
+
+288
+00:20:20,427 --> 00:20:22,679
+Here's the next page.
+Take close-ups if you want.
+
+289
+00:20:22,763 --> 00:20:24,139
+This is worth the wait.
+
+290
+00:20:24,223 --> 00:20:26,475
+The future of Samsan Tech--
+
+291
+00:20:28,602 --> 00:20:31,980
+Are you stupid? You want to hand
+your technology to them on a plate?
+
+292
+00:20:35,400 --> 00:20:37,194
+I've never seen you. Where do you work?
+
+293
+00:20:38,612 --> 00:20:41,448
+Are you sure you're VCs,
+not here to steal their technology?
+
+294
+00:20:41,531 --> 00:20:43,867
+VC: INVESTOR THAT PROVIDES CAPITAL
+TO VENTURES
+
+295
+00:20:45,118 --> 00:20:46,328
+SAMSAN TECH INNOVATIONS
+
+296
+00:20:46,411 --> 00:20:48,372
+You're developers, aren't you?
+
+297
+00:20:50,916 --> 00:20:51,917
+What's this photo?
+
+298
+00:20:52,918 --> 00:20:55,796
+Look, we need to verify their technology
+before investing--
+
+299
+00:20:56,546 --> 00:20:57,923
+Give me back my ID card.
+
+300
+00:21:04,012 --> 00:21:05,889
+Your business card says you're a VC,
+
+301
+00:21:05,973 --> 00:21:09,101
+but your ID card says
+you lead the deep learning team.
+
+302
+00:21:09,184 --> 00:21:10,143
+DEEP LEARNING TEAM MANAGER
+
+303
+00:21:13,146 --> 00:21:14,648
+Which is true?
+
+304
+00:21:24,491 --> 00:21:25,701
+Let's go, guys.
+
+305
+00:21:26,368 --> 00:21:27,327
+Okay.
+
+306
+00:21:41,675 --> 00:21:44,845
+I didn't even like the design of this.
+What is this, traffic lights?
+
+307
+00:21:45,429 --> 00:21:46,763
+- Let's go.
+- Gosh.
+
+308
+00:21:47,973 --> 00:21:50,100
+SAMSAN TECH
+ON STANDBY 24/7
+
+309
+00:21:55,105 --> 00:21:57,232
+Are you naive or stupid?
+
+310
+00:21:57,316 --> 00:21:59,484
+Were you going to give away
+the whole algorithm?
+
+311
+00:21:59,568 --> 00:22:02,571
+They said they wanted to see
+our technology before investing.
+
+312
+00:22:02,654 --> 00:22:04,448
+You should've found out who they are.
+
+313
+00:22:04,531 --> 00:22:06,241
+Isn't that common sense?
+
+314
+00:22:07,576 --> 00:22:10,662
+And what? You want to get into Sand Box?
+
+315
+00:22:10,746 --> 00:22:11,788
+Dream on.
+
+316
+00:22:13,081 --> 00:22:15,083
+But we won the CODA competition.
+
+317
+00:22:15,584 --> 00:22:17,919
+And you saw how many investors
+are showing interest.
+
+318
+00:22:18,003 --> 00:22:21,089
+So what?
+Have any of them gotten back to you?
+
+319
+00:22:22,591 --> 00:22:23,467
+No.
+
+320
+00:22:26,219 --> 00:22:28,388
+Is your job discouraging people?
+
+321
+00:22:29,056 --> 00:22:30,974
+Why are you always so critical?
+
+322
+00:22:31,058 --> 00:22:34,519
+None of the VCs we met today
+were harsh like you.
+
+323
+00:22:34,603 --> 00:22:36,855
+Because they're going to turn you down!
+
+324
+00:22:37,856 --> 00:22:41,485
+This isn't the car they're going to ride.
+That's why they just compliment it.
+
+325
+00:22:41,568 --> 00:22:46,114
+On the other hand, I want to know
+about the tires, the lining. All of it.
+
+326
+00:22:46,198 --> 00:22:48,325
+Because I might actually ride it.
+
+327
+00:22:48,408 --> 00:22:50,827
+Because I actually am interested!
+
+328
+00:22:51,703 --> 00:22:52,871
+I'm sorry.
+
+329
+00:22:56,374 --> 00:22:58,001
+From now on, ask me
+
+330
+00:22:59,294 --> 00:23:00,921
+before you make any decision.
+
+331
+00:23:04,341 --> 00:23:05,425
+Understood?
+
+332
+00:23:06,676 --> 00:23:07,594
+Yes.
+
+333
+00:23:10,347 --> 00:23:12,849
+We've officially become his underlings.
+
+334
+00:23:13,517 --> 00:23:16,645
+On that note, let me ask you something.
+
+335
+00:23:17,270 --> 00:23:18,230
+What is it?
+
+336
+00:23:20,315 --> 00:23:21,316
+I ran into
+
+337
+00:23:22,692 --> 00:23:23,985
+Dal-mi earlier.
+
+338
+00:23:25,070 --> 00:23:28,031
+- In those clothes?
+- I told her they're Chul-san's.
+
+339
+00:23:28,115 --> 00:23:29,282
+Chul-san's?
+
+340
+00:23:29,908 --> 00:23:30,909
+Okay.
+
+341
+00:23:34,621 --> 00:23:39,417
+I didn't know you could be
+so shameless and quick-witted.
+
+342
+00:23:41,920 --> 00:23:44,131
+Dal-mi said that tomorrow
+
+343
+00:23:45,048 --> 00:23:46,258
+is my birthday.
+
+344
+00:23:47,008 --> 00:23:50,137
+It's my birthday tomorrow.
+Did I write that in the letters?
+
+345
+00:23:50,220 --> 00:23:52,889
+Do you remember writing
+about your wish, too?
+
+346
+00:23:52,973 --> 00:23:55,100
+Dal-mi said she'd make my wish come true.
+
+347
+00:23:55,183 --> 00:23:56,518
+My wish?
+
+348
+00:23:57,853 --> 00:23:59,771
+- I don't remember it.
+- I see.
+
+349
+00:24:02,149 --> 00:24:04,609
+You don't remember it? Are you serious?
+
+350
+00:24:05,694 --> 00:24:07,279
+What should Do-san do then?
+
+351
+00:24:07,362 --> 00:24:09,573
+- What do you mean?
+- Exactly.
+
+352
+00:24:10,073 --> 00:24:13,910
+Do-san is only dealing with
+that Dal-mi girl
+
+353
+00:24:13,994 --> 00:24:16,204
+because you asked him to.
+
+354
+00:24:16,705 --> 00:24:18,707
+And what's this attitude of yours?
+
+355
+00:24:19,457 --> 00:24:21,209
+In that case, we can't cooperate.
+
+356
+00:24:21,293 --> 00:24:23,753
+- Only because I asked him to?
+- Yes.
+
+357
+00:24:23,837 --> 00:24:26,590
+Do-san wants nothing to do with girls.
+
+358
+00:24:26,673 --> 00:24:29,301
+You could call him a modern-day hermit.
+
+359
+00:24:29,384 --> 00:24:32,387
+Yes, and now he's going
+to all this trouble
+
+360
+00:24:32,470 --> 00:24:34,973
+just to save Samsan Tech.
+
+361
+00:24:37,017 --> 00:24:37,851
+Is that right?
+
+362
+00:24:38,435 --> 00:24:41,021
+I didn't realize
+you were such an ambitious man.
+
+363
+00:24:44,816 --> 00:24:48,195
+Well, yes. I am ambitious.
+
+364
+00:24:48,278 --> 00:24:49,654
+You're ambitious…
+
+365
+00:24:49,738 --> 00:24:53,241
+I don't know what you owe and to whom…
+
+366
+00:24:53,325 --> 00:24:57,370
+But I doubt you can pay your debt
+without Do-san's help.
+
+367
+00:24:57,454 --> 00:25:00,040
+And you've got the nerve
+to treat us like this?
+
+368
+00:25:00,123 --> 00:25:02,959
+You're basically making it impossible
+for us to cooperate.
+
+369
+00:25:03,043 --> 00:25:04,544
+I'm making it…
+
+370
+00:25:07,631 --> 00:25:09,507
+I'm making it impossible?
+
+371
+00:25:16,765 --> 00:25:19,768
+You're doing a great job.
+
+372
+00:25:23,521 --> 00:25:24,814
+And I'm thankful.
+
+373
+00:25:27,192 --> 00:25:29,611
+Please keep up the good work.
+
+374
+00:25:33,823 --> 00:25:34,824
+Okay.
+
+375
+00:25:36,034 --> 00:25:38,286
+We've taken the high ground now.
+
+376
+00:25:40,664 --> 00:25:44,668
+Don't hesitate to ask me anything.
+
+377
+00:25:45,252 --> 00:25:46,127
+Okay.
+
+378
+00:25:48,088 --> 00:25:49,631
+Hey, sit comfortably.
+
+379
+00:25:49,714 --> 00:25:52,592
+You should.
+This is your office, after all.
+
+380
+00:26:11,444 --> 00:26:13,280
+- Grandma!
+- Gosh, you startled me.
+
+381
+00:26:13,989 --> 00:26:16,116
+I'd finally threaded the needle.
+
+382
+00:26:16,199 --> 00:26:17,450
+I'll do it for you.
+
+383
+00:26:19,369 --> 00:26:22,122
+Grandma, can I borrow your blanket?
+
+384
+00:26:22,205 --> 00:26:24,457
+My blanket? Why?
+
+385
+00:26:24,541 --> 00:26:26,334
+I'm going on a date.
+
+386
+00:26:27,335 --> 00:26:30,380
+Do-san and I are going
+on our first official date tomorrow.
+
+387
+00:26:31,756 --> 00:26:34,426
+- There you go. I'll put it here.
+- Okay.
+
+388
+00:26:35,760 --> 00:26:37,012
+- Thanks.
+- No problem.
+
+389
+00:26:39,264 --> 00:26:41,141
+Why does she need a blanket, though?
+
+390
+00:26:44,644 --> 00:26:48,732
+Hey. Why do you need a blanket on a date?
+
+391
+00:26:48,815 --> 00:26:50,942
+It's Do-san's birthday tomorrow.
+
+392
+00:26:51,026 --> 00:26:52,527
+I'll make his wish come true.
+
+393
+00:26:52,610 --> 00:26:55,155
+What does a blanket have
+to do with his birthday?
+
+394
+00:26:55,238 --> 00:26:56,948
+Is it just me?
+
+395
+00:26:57,032 --> 00:26:59,659
+My imagination is running wild.
+
+396
+00:27:00,243 --> 00:27:02,495
+Your imagination? Like what?
+
+397
+00:27:02,579 --> 00:27:03,538
+It's absolutely
+
+398
+00:27:04,456 --> 00:27:05,915
+unspeakable.
+
+399
+00:27:05,999 --> 00:27:07,250
+What?
+
+400
+00:27:08,710 --> 00:27:11,671
+Grandma. This is what we're going to do.
+
+401
+00:27:18,219 --> 00:27:19,220
+Oh…
+
+402
+00:27:20,221 --> 00:27:21,514
+Come on.
+
+403
+00:27:24,893 --> 00:27:26,186
+You had me panicking.
+
+404
+00:27:29,272 --> 00:27:31,024
+That looks good.
+
+405
+00:27:32,150 --> 00:27:34,736
+There you go. You look amazing.
+
+406
+00:27:34,819 --> 00:27:36,237
+This fits me perfectly
+
+407
+00:27:36,321 --> 00:27:38,323
+unlike the previous one,
+which was too short.
+
+408
+00:27:38,406 --> 00:27:41,951
+"Too short"? You're just
+a couple of centimeters taller than me.
+
+409
+00:27:42,035 --> 00:27:44,496
+Really? I'm 187cm tall. What about you?
+
+410
+00:27:44,579 --> 00:27:46,706
+I bought this one for you.
+
+411
+00:27:46,790 --> 00:27:48,666
+And these ones here, too.
+
+412
+00:27:49,209 --> 00:27:50,460
+All of them?
+
+413
+00:27:53,421 --> 00:27:55,465
+Put on this watch.
+
+414
+00:27:57,342 --> 00:27:58,843
+This looks really expensive.
+
+415
+00:27:59,427 --> 00:28:00,887
+- It's more than the car.
+- What?
+
+416
+00:28:06,935 --> 00:28:11,356
+I'm not giving you this.
+Use it carefully and return it. Okay?
+
+417
+00:28:12,148 --> 00:28:13,108
+Be careful.
+
+418
+00:28:13,983 --> 00:28:16,277
+Be absolutely careful, okay?
+
+419
+00:28:18,863 --> 00:28:22,534
+I'm curious, Mr. Han.
+Why are you going to all this trouble?
+
+420
+00:28:23,576 --> 00:28:25,703
+Like I said, I'm trying to pay my debt.
+
+421
+00:28:26,663 --> 00:28:28,498
+How in debt are you
+
+422
+00:28:29,124 --> 00:28:30,917
+that it can't be paid with your wealth?
+
+423
+00:28:34,212 --> 00:28:36,297
+I wish it could be paid with money.
+
+424
+00:28:47,892 --> 00:28:50,061
+- This is the salad fork.
+- The salad fork.
+
+425
+00:28:50,145 --> 00:28:51,896
+- The dessert fork.
+- The dessert fork.
+
+426
+00:28:51,980 --> 00:28:53,773
+- Yes, that's right.
+- Okay.
+
+427
+00:28:53,857 --> 00:28:55,108
+This is how you drink wine.
+
+428
+00:28:55,900 --> 00:28:57,402
+First, swirl your glass.
+
+429
+00:28:58,236 --> 00:29:00,113
+No, not so vigorously.
+
+430
+00:29:00,196 --> 00:29:01,906
+Swirl just slightly.
+
+431
+00:29:03,116 --> 00:29:04,200
+Now, sniff it.
+
+432
+00:29:06,911 --> 00:29:10,540
+Not so loudly. Just enjoy the aroma.
+
+433
+00:29:11,207 --> 00:29:12,959
+- The aroma?
+- Slowly.
+
+434
+00:29:15,253 --> 00:29:17,839
+No, not like that.
+There's no need to inhale so deeply.
+
+435
+00:29:17,922 --> 00:29:19,174
+Do-san is an avatar.
+
+436
+00:29:19,257 --> 00:29:21,634
+I wonder if he can look like a CEO
+by doing that.
+
+437
+00:29:22,135 --> 00:29:23,386
+Just have a quick sniff.
+
+438
+00:29:24,804 --> 00:29:26,848
+That's enough. Put down your glass.
+
+439
+00:29:26,931 --> 00:29:28,349
+That's it. Good.
+
+440
+00:29:28,433 --> 00:29:29,267
+We don't drink it?
+
+441
+00:29:31,352 --> 00:29:32,395
+Go over it again.
+
+442
+00:29:33,730 --> 00:29:35,398
+- Which is the salad fork?
+- Now.
+
+443
+00:29:35,482 --> 00:29:37,650
+I mean, which is the salad fork?
+
+444
+00:29:37,734 --> 00:29:39,194
+This.
+
+445
+00:29:39,277 --> 00:29:40,987
+- Now, find the dessert fork.
+- Okay.
+
+446
+00:29:43,156 --> 00:29:45,617
+Have you two never dated either?
+
+447
+00:29:46,201 --> 00:29:48,161
+It's not because we haven't wanted to.
+
+448
+00:29:48,244 --> 00:29:50,413
+What does that mean?
+Does that mean you tried?
+
+449
+00:29:50,497 --> 00:29:52,123
+Yes, we sure have.
+
+450
+00:29:53,166 --> 00:29:54,375
+There are
+
+451
+00:29:54,459 --> 00:29:57,629
+considerably fewer girls than guys
+in the Engineering Department.
+
+452
+00:29:57,712 --> 00:30:00,673
+Yes, to get more chances to meet girls,
+
+453
+00:30:01,716 --> 00:30:03,092
+we even started a club.
+
+454
+00:30:03,176 --> 00:30:04,260
+What kind of club?
+
+455
+00:30:11,017 --> 00:30:12,268
+There you go. It's done.
+
+456
+00:30:14,771 --> 00:30:16,689
+CLUB ROOM
+
+457
+00:30:16,773 --> 00:30:20,318
+We should close the door.
+We're not open yet. But soon.
+
+458
+00:30:21,152 --> 00:30:22,904
+A knitting club.
+
+459
+00:30:22,987 --> 00:30:24,447
+Knitting?
+
+460
+00:30:24,531 --> 00:30:26,574
+That's how desperate we were.
+
+461
+00:30:26,658 --> 00:30:28,409
+But instead of girls…
+
+462
+00:30:32,539 --> 00:30:35,625
+Nam Do-san came. To actually knit.
+
+463
+00:30:36,209 --> 00:30:39,587
+There were, of course, a few girls
+who came to join the club now and then.
+
+464
+00:30:40,171 --> 00:30:41,339
+But there was no point.
+
+465
+00:30:41,422 --> 00:30:44,676
+Once a girl asked,
+"Do-san, have you always been single?"
+
+466
+00:30:44,759 --> 00:30:47,929
+And he answered,
+"Maybe. But I like to mingle."
+
+467
+00:30:51,057 --> 00:30:53,476
+He drove the girl away
+with his lame jokes.
+
+468
+00:30:54,978 --> 00:30:57,564
+One day, another girl
+almost joined our club.
+
+469
+00:30:57,647 --> 00:31:00,358
+She said, "Do-san, thanks for letting me
+borrow your notes,"
+
+470
+00:31:00,441 --> 00:31:01,693
+giving him a present.
+
+471
+00:31:01,776 --> 00:31:04,320
+He said, "I'm the one
+who should thank you now."
+
+472
+00:31:04,404 --> 00:31:05,989
+Everything was going well
+
+473
+00:31:06,072 --> 00:31:09,200
+until the girl said,
+"I'm twice as thankful as you are."
+
+474
+00:31:10,285 --> 00:31:12,287
+"That means neither of us is thankful.
+
+475
+00:31:12,370 --> 00:31:14,956
+Let's say your gratitude is A,
+and mine is B.
+
+476
+00:31:15,039 --> 00:31:17,250
+B is larger than A, but A equals 2B.
+
+477
+00:31:17,333 --> 00:31:20,753
+For that to be true,
+both A and B should be negative numbers.
+
+478
+00:31:20,837 --> 00:31:24,883
+In other words, what we're feeling is
+the opposite of gratitude."
+
+479
+00:31:26,092 --> 00:31:28,344
+That's how he drove that girl away.
+
+480
+00:31:29,387 --> 00:31:32,056
+Once, a sexy and a bit older girl said,
+
+481
+00:31:32,140 --> 00:31:34,350
+"I heard you're blood type O.
+
+482
+00:31:34,434 --> 00:31:37,353
+People with blood type O
+tend to be easygoing and honest."
+
+483
+00:31:37,437 --> 00:31:38,855
+Do-san answered seriously,
+
+484
+00:31:39,439 --> 00:31:43,067
+"Personalities are determined
+by your brain cells." She said, "Yes."
+
+485
+00:31:43,151 --> 00:31:45,862
+"Blood types are determined
+by your red blood cells." "Yes."
+
+486
+00:31:45,945 --> 00:31:49,949
+"Normally, your brain cells never come
+into contact with your red blood cells.
+
+487
+00:31:50,033 --> 00:31:52,577
+So how could your blood type
+affect your personality?
+
+488
+00:31:52,660 --> 00:31:55,204
+Gosh, this is driving me freaking crazy.
+
+489
+00:31:55,288 --> 00:31:56,664
+Darn it."
+
+490
+00:31:57,624 --> 00:31:59,334
+I'm blood type O, too.
+
+491
+00:31:59,834 --> 00:32:03,379
+Like that, he practically
+kicked the girl out.
+
+492
+00:32:04,005 --> 00:32:07,216
+So what you're saying is,
+even though it wasn't intentional…
+
+493
+00:32:07,300 --> 00:32:09,302
+He ended up driving all the girls away.
+
+494
+00:32:09,385 --> 00:32:12,180
+And because of him,
+we haven't had any girlfriends either.
+
+495
+00:32:12,263 --> 00:32:15,183
+Now that I think of it,
+we're that punk's victims.
+
+496
+00:32:15,266 --> 00:32:16,976
+Did you say this is the salad fork?
+
+497
+00:32:17,060 --> 00:32:19,437
+- No! The dessert fork!
+- The dessert fork!
+
+498
+00:32:23,066 --> 00:32:25,109
+- Gosh.
+- Seriously.
+
+499
+00:32:32,575 --> 00:32:34,661
+- See you later, Grandma.
+- Dal-mi.
+
+500
+00:32:35,244 --> 00:32:36,829
+Take this.
+
+501
+00:32:38,706 --> 00:32:40,917
+- What is this?
+- A birthday present.
+
+502
+00:32:41,000 --> 00:32:45,296
+Tell him it's from me to the Nam Do-san
+in the old days. He'll understand.
+
+503
+00:32:46,047 --> 00:32:48,174
+- "The Nam Do-san in the old days"?
+- Yes.
+
+504
+00:32:49,258 --> 00:32:50,218
+Okay.
+
+505
+00:32:50,927 --> 00:32:52,845
+- See you, ma'am.
+- See you, young lady.
+
+506
+00:32:54,263 --> 00:32:55,598
+- See you.
+- Bye.
+
+507
+00:33:05,858 --> 00:33:08,569
+Be natural.
+Don't cross your legs or anything.
+
+508
+00:33:10,446 --> 00:33:13,199
+What was that noise? What just happened?
+
+509
+00:33:13,741 --> 00:33:16,327
+Don't try to look cool, okay?
+
+510
+00:33:17,829 --> 00:33:18,830
+Okay.
+
+511
+00:33:19,914 --> 00:33:21,624
+You still don't remember your wish?
+
+512
+00:33:22,208 --> 00:33:26,004
+Well, I'm sure it's some kind of present.
+Don't forget to thank her.
+
+513
+00:33:38,516 --> 00:33:41,102
+- What's that?
+- It's a present from my grandma
+
+514
+00:33:41,185 --> 00:33:43,187
+to the Nam Do-san in the old days.
+
+515
+00:33:44,772 --> 00:33:47,108
+The Nam Do-san in the old days? That's me.
+
+516
+00:33:48,484 --> 00:33:50,987
+Where are we going?
+To your home? Your office?
+
+517
+00:33:51,571 --> 00:33:52,989
+- My home?
+- Your office?
+
+518
+00:33:54,157 --> 00:33:56,200
+We should go somewhere inside
+to play Go-Stop.
+
+519
+00:33:56,284 --> 00:33:57,618
+- Go-Stop?
+- Go-Stop?
+
+520
+00:33:57,702 --> 00:34:00,496
+You said your wish was to play Go-Stop.
+
+521
+00:34:01,456 --> 00:34:03,332
+- I did?
+- Why?
+
+522
+00:34:03,416 --> 00:34:05,710
+That's what I should be asking.
+Why Go-Stop?
+
+523
+00:34:07,545 --> 00:34:09,255
+I have no idea. I wonder why.
+
+524
+00:34:10,006 --> 00:34:11,424
+I don't remember it.
+
+525
+00:34:12,091 --> 00:34:14,343
+You might remember it
+once we start playing.
+
+526
+00:34:14,427 --> 00:34:15,887
+Oh, call your friends over, too.
+
+527
+00:34:15,970 --> 00:34:18,389
+- You wanted to play with many people.
+- My friends?
+
+528
+00:34:21,517 --> 00:34:23,895
+So where are we going?
+Your home? Your office?
+
+529
+00:34:23,978 --> 00:34:26,689
+Well… Let me get that.
+
+530
+00:34:32,445 --> 00:34:33,654
+Let's go to my office.
+
+531
+00:34:34,238 --> 00:34:35,990
+Your office? Which one?
+
+532
+00:34:36,074 --> 00:34:37,366
+Hello? Which one?
+
+533
+00:34:37,450 --> 00:34:40,119
+- The one by the Han River, remember?
+- Yes.
+
+534
+00:34:41,079 --> 00:34:43,122
+- Let's go there.
+- Sure.
+
+535
+00:34:43,206 --> 00:34:45,291
+We're going to the one by the Han River.
+
+536
+00:34:46,501 --> 00:34:47,627
+By the Han River?
+
+537
+00:34:49,003 --> 00:34:49,962
+Here?
+
+538
+00:34:54,300 --> 00:34:56,302
+Hello? Did he hang up? Hello?
+
+539
+00:34:56,928 --> 00:34:59,806
+I don't have the phone number
+of Samsan Tech.
+
+540
+00:35:05,812 --> 00:35:07,939
+Hurry up.
+
+541
+00:35:08,022 --> 00:35:10,316
+- To the right.
+- To the right.
+
+542
+00:35:11,859 --> 00:35:13,277
+We don't have much time.
+
+543
+00:35:13,361 --> 00:35:14,821
+- Don't get angry.
+- Help me.
+
+544
+00:35:14,904 --> 00:35:17,490
+Can't you do it alone?
+You obviously can't. There you go.
+
+545
+00:35:17,573 --> 00:35:20,409
+- Hurry up and come here.
+- I'm coming.
+
+546
+00:35:20,493 --> 00:35:22,495
+- Take this.
+- Give it to me.
+
+547
+00:35:22,578 --> 00:35:24,205
+- One,
+- No.
+
+548
+00:35:24,288 --> 00:35:25,623
+two, three.
+
+549
+00:35:25,706 --> 00:35:28,126
+- Put this away first.
+- Isn't that a good photo?
+
+550
+00:35:28,209 --> 00:35:29,127
+- It is.
+- Okay.
+
+551
+00:35:29,710 --> 00:35:32,130
+Wait, that's not how you do it.
+
+552
+00:35:34,632 --> 00:35:37,593
+- This feels like our office now.
+- I agree.
+
+553
+00:35:37,677 --> 00:35:40,012
+- Does this go here?
+- Yes.
+
+554
+00:35:40,596 --> 00:35:42,557
+- The one above that.
+- What?
+
+555
+00:35:42,640 --> 00:35:45,017
+I don't think this is the right one.
+
+556
+00:35:45,101 --> 00:35:46,352
+It's just that you're bad.
+
+557
+00:35:47,103 --> 00:35:49,147
+You're taking a whole day.
+
+558
+00:35:49,230 --> 00:35:51,149
+I'm almost done. Give me just a second.
+
+559
+00:35:51,232 --> 00:35:53,526
+I'm done. Should we turn on the monitor?
+
+560
+00:35:53,609 --> 00:35:55,653
+Please don't touch it. You might break it.
+
+561
+00:35:56,195 --> 00:35:58,948
+You should get changed, too.
+
+562
+00:36:00,116 --> 00:36:01,742
+What do you think?
+
+563
+00:36:01,826 --> 00:36:03,953
+- It's perfect. Good job.
+- I picked navy.
+
+564
+00:36:04,036 --> 00:36:06,330
+They're almost here.
+Hurry up and get changed.
+
+565
+00:36:06,414 --> 00:36:07,915
+Hurry. But don't drop anything.
+
+566
+00:36:08,416 --> 00:36:10,418
+- I'll be cleaning up over there.
+- Okay.
+
+567
+00:36:11,836 --> 00:36:12,879
+Hurry up.
+
+568
+00:36:12,962 --> 00:36:14,130
+Gosh.
+
+569
+00:36:18,843 --> 00:36:20,178
+- Welcome.
+- Hello.
+
+570
+00:36:20,261 --> 00:36:21,888
+- Hi.
+- Hi.
+
+571
+00:36:22,471 --> 00:36:25,850
+It's your first date.
+Why the hell did you come here?
+
+572
+00:36:25,933 --> 00:36:28,895
+The weather is lovely.
+You could've enjoyed the sun somewhere.
+
+573
+00:36:29,687 --> 00:36:32,148
+Mr. Han, we meet again.
+
+574
+00:36:32,231 --> 00:36:33,191
+Hi.
+
+575
+00:36:33,733 --> 00:36:35,776
+I'm really interested in their company.
+
+576
+00:36:36,277 --> 00:36:38,404
+I come here often.
+As if it were my own office.
+
+577
+00:36:38,487 --> 00:36:39,697
+I see.
+
+578
+00:36:41,324 --> 00:36:43,451
+- That's a perfect spot.
+- Where?
+
+579
+00:36:44,160 --> 00:36:45,870
+Do you all know how to play Go-Stop?
+
+580
+00:36:46,370 --> 00:36:47,205
+Go-Stop?
+
+581
+00:36:48,873 --> 00:36:50,791
+Do you remember why you wanted to play?
+
+582
+00:36:50,875 --> 00:36:53,502
+No. It's been too long. I forgot.
+
+583
+00:36:54,086 --> 00:36:56,964
+Anyway, try to relax. Be natural.
+Put on a little smile.
+
+584
+00:36:57,673 --> 00:36:59,759
+Oh, my. What is all this?
+
+585
+00:36:59,842 --> 00:37:02,053
+It's a feast.
+
+586
+00:37:02,136 --> 00:37:03,512
+Songpyeon?
+
+587
+00:37:03,596 --> 00:37:06,307
+Why songpyeon on a birthday,
+not sirutteok?
+
+588
+00:37:06,390 --> 00:37:07,850
+- Ta-da.
+- Oh, my!
+
+589
+00:37:09,143 --> 00:37:11,395
+Unbelievable. She made so much.
+
+590
+00:37:14,190 --> 00:37:15,107
+Do-san.
+
+591
+00:37:16,067 --> 00:37:19,779
+My dad says praying on the full moon
+on Chuseok makes your wish come true.
+
+592
+00:37:20,696 --> 00:37:22,740
+Do you have any wishes?
+
+593
+00:37:23,741 --> 00:37:24,992
+My wish…
+
+594
+00:37:25,076 --> 00:37:27,703
+- Four generations of family members
+- My wish…
+
+595
+00:37:27,787 --> 00:37:29,080
+are gathered together.
+
+596
+00:37:29,747 --> 00:37:32,083
+The whole family played traditional games
+
+597
+00:37:32,166 --> 00:37:35,878
+they'd never played before such as
+spinning tops and neolttwigi.
+
+598
+00:37:36,379 --> 00:37:39,715
+Families that stayed indoors
+spent the day playing games
+
+599
+00:37:39,799 --> 00:37:43,135
+such as Go-stop and Yut Nori.
+
+600
+00:37:43,219 --> 00:37:44,762
+TO DAL-MI
+MY WISH IS…
+
+601
+00:37:44,845 --> 00:37:49,809
+This Chuseok, the whole family gathered
+for the first time in a long time…
+
+602
+00:37:49,892 --> 00:37:53,062
+MY WISH IS TO PLAY GO-STOP
+WITH MY WHOLE FAMILY
+
+603
+00:37:55,064 --> 00:37:57,483
+- But I don't see any galbi.
+- This is enough.
+
+604
+00:37:57,566 --> 00:37:59,485
+I'm just joking!
+
+605
+00:38:01,070 --> 00:38:03,155
+- Laugh harder.
+- It's okay if it's cold.
+
+606
+00:38:03,239 --> 00:38:05,825
+The microwave is over there… Right?
+
+607
+00:38:05,908 --> 00:38:07,076
+Yes, that's right.
+
+608
+00:38:11,622 --> 00:38:12,832
+Here we go.
+
+609
+00:38:14,083 --> 00:38:15,001
+Let's begin.
+
+610
+00:38:15,668 --> 00:38:17,086
+Hurry up.
+
+611
+00:38:17,169 --> 00:38:18,879
+Isn't it such a weird wish, though?
+
+612
+00:38:18,963 --> 00:38:22,049
+I know. Why would playing Go-Stop
+be anyone's wish?
+
+613
+00:38:22,133 --> 00:38:25,886
+You play Go-Stop on holidays every year.
+Right, Mr. Han?
+
+614
+00:38:26,971 --> 00:38:28,764
+Well, I'm…
+
+615
+00:38:29,640 --> 00:38:31,600
+To someone,
+it might have a special meaning.
+
+616
+00:38:31,684 --> 00:38:34,687
+What's ordinary to one person
+can be extraordinary to another.
+
+617
+00:38:35,896 --> 00:38:37,648
+He probably has fond memories of it.
+
+618
+00:38:38,232 --> 00:38:42,570
+Maybe he really enjoyed playing it
+with his family on the holidays.
+
+619
+00:38:43,195 --> 00:38:46,490
+Or maybe it wasn't ordinary at all to him
+and made him envious.
+
+620
+00:38:47,033 --> 00:38:49,035
+- Right?
+- Right.
+
+621
+00:38:50,411 --> 00:38:51,746
+- What?
+- What?
+
+622
+00:38:51,829 --> 00:38:53,080
+- What?
+- What?
+
+623
+00:38:55,708 --> 00:38:56,876
+I can relate.
+
+624
+00:38:57,668 --> 00:38:58,961
+I've been there.
+
+625
+00:38:59,545 --> 00:39:00,713
+Oh, really?
+
+626
+00:39:02,548 --> 00:39:04,550
+Let's get started now.
+
+627
+00:39:04,633 --> 00:39:07,094
+- Hurry up.
+- Come on.
+
+628
+00:39:07,178 --> 00:39:09,138
+- Let's get started.
+- Okay.
+
+629
+00:39:10,097 --> 00:39:11,057
+- Here you go.
+- Well…
+
+630
+00:39:11,640 --> 00:39:12,975
+- Let me see.
+- Here.
+
+631
+00:39:13,893 --> 00:39:15,102
+Gosh, I'm screwed.
+
+632
+00:39:22,193 --> 00:39:24,820
+Stop! Do-san has five gwangs.
+
+633
+00:39:27,281 --> 00:39:29,200
+Do I win five points then?
+
+634
+00:39:29,784 --> 00:39:31,118
+No, you win 15 points.
+
+635
+00:39:31,827 --> 00:39:34,080
+Yong-san and Mr. Han have no gwangs.
+
+636
+00:39:34,663 --> 00:39:36,248
+You're not allowed to help him.
+
+637
+00:39:36,332 --> 00:39:38,042
+- It's against the rules.
+- Be quiet!
+
+638
+00:39:38,125 --> 00:39:39,752
+- How much is it then?
+- 3,000 won.
+
+639
+00:39:39,835 --> 00:39:41,170
+- It's 3,000 won.
+- 3,000 won.
+
+640
+00:39:41,253 --> 00:39:43,047
+You're supposed to learn by losing.
+
+641
+00:39:43,130 --> 00:39:45,633
+- You shouldn't help him.
+- Give me that.
+
+642
+00:39:55,601 --> 00:39:56,560
+Here we go.
+
+643
+00:39:58,270 --> 00:39:59,647
+Oh, my goodness.
+
+644
+00:40:02,983 --> 00:40:06,695
+What's useless to you is valuable to me
+now. Yes! It's all mine. Give it to me.
+
+645
+00:40:07,238 --> 00:40:08,114
+Give it to me!
+
+646
+00:40:08,197 --> 00:40:09,532
+Stop what you're doing.
+
+647
+00:40:11,617 --> 00:40:13,953
+I pulled another matching card.
+The tables have turned, Chul-san.
+
+648
+00:40:16,747 --> 00:40:18,290
+I win, Chul-san!
+
+649
+00:40:28,384 --> 00:40:29,385
+Hurry and pay up.
+
+650
+00:40:29,969 --> 00:40:30,928
+So who wins?
+
+651
+00:40:45,443 --> 00:40:47,945
+What was this called? This is a sweep!
+
+652
+00:40:48,028 --> 00:40:50,948
+You guys have to give me one
+of your pi cards.
+
+653
+00:40:51,031 --> 00:40:52,241
+Give me a pi card.
+
+654
+00:40:52,324 --> 00:40:54,743
+Don't throw the cards like that. God…
+
+655
+00:40:57,496 --> 00:40:58,789
+Seriously.
+
+656
+00:40:58,873 --> 00:41:00,458
+Do you like eating crumbs?
+
+657
+00:41:01,041 --> 00:41:02,877
+I'm not eating this. It's plastic.
+
+658
+00:41:06,297 --> 00:41:08,966
+You guys think that's funny?
+It's not funny, Mr. Nam.
+
+659
+00:41:09,049 --> 00:41:11,093
+What are you talking about?
+It's hilarious.
+
+660
+00:41:12,011 --> 00:41:14,305
+Mr. Han, just let it go.
+
+661
+00:41:14,889 --> 00:41:16,056
+Is your blood type A?
+
+662
+00:41:26,066 --> 00:41:28,611
+It shows from the way you play Go-Stop.
+
+663
+00:41:28,694 --> 00:41:30,362
+You're definitely blood type A.
+
+664
+00:41:30,446 --> 00:41:31,864
+- Right?
+- What?
+
+665
+00:41:37,870 --> 00:41:40,664
+Clearly, considering how timid
+and unforgiving he is.
+
+666
+00:41:40,748 --> 00:41:42,750
+- Unbelievable.
+- See?
+
+667
+00:41:42,833 --> 00:41:46,754
+Do-san, you're putting aside
+your beliefs for a girl?
+
+668
+00:41:46,837 --> 00:41:47,922
+Dal-mi, the thing is…
+
+669
+00:41:48,923 --> 00:41:51,383
+He doesn't believe
+in blood type personalities.
+
+670
+00:41:51,467 --> 00:41:52,593
+Really? You don't?
+
+671
+00:41:53,177 --> 00:41:54,178
+I do.
+
+672
+00:41:54,261 --> 00:41:57,681
+Galileo Galilei must have felt this way
+when he denied heliocentrism.
+
+673
+00:41:57,765 --> 00:42:00,309
+Exactly. Still, the Earth
+revolves around the Sun.
+
+674
+00:42:00,392 --> 00:42:01,894
+No, I really believe it.
+
+675
+00:42:01,977 --> 00:42:04,647
+- I can't believe you.
+- I'm sweating.
+
+676
+00:42:04,730 --> 00:42:07,107
+- You punk.
+- I am blood type A.
+
+677
+00:42:08,317 --> 00:42:10,361
+You are? I knew it.
+
+678
+00:42:22,581 --> 00:42:24,667
+Please thank your grandma for me.
+
+679
+00:42:28,796 --> 00:42:30,631
+Why don't you thank her yourself?
+
+680
+00:42:30,714 --> 00:42:32,341
+I'm sure she'd love to see you.
+
+681
+00:42:33,676 --> 00:42:34,802
+I've never met her.
+
+682
+00:42:35,302 --> 00:42:37,888
+No. I'll visit her properly
+some other time.
+
+683
+00:42:38,472 --> 00:42:41,100
+All right. I had so much fun today.
+
+684
+00:42:42,268 --> 00:42:43,310
+Me, too.
+
+685
+00:42:43,394 --> 00:42:44,436
+Bye.
+
+686
+00:42:49,817 --> 00:42:50,651
+Wait, Dal-mi.
+
+687
+00:42:52,319 --> 00:42:53,320
+Yes?
+
+688
+00:42:55,781 --> 00:42:58,534
+What do you like about me?
+
+689
+00:42:59,285 --> 00:43:00,452
+What?
+
+690
+00:43:01,662 --> 00:43:03,038
+Why all of a sudden?
+
+691
+00:43:11,088 --> 00:43:14,091
+Please tell me what you like about me.
+
+692
+00:43:17,678 --> 00:43:18,721
+First of all,
+
+693
+00:43:19,597 --> 00:43:22,766
+you're my first love.
+
+694
+00:43:24,602 --> 00:43:25,686
+That's not me.
+
+695
+00:43:28,063 --> 00:43:28,939
+And?
+
+696
+00:43:31,984 --> 00:43:33,319
+Your letters
+
+697
+00:43:34,028 --> 00:43:36,614
+comforted me for a long time.
+
+698
+00:43:37,948 --> 00:43:39,158
+That's not me either.
+
+699
+00:43:40,159 --> 00:43:41,368
+And?
+
+700
+00:43:43,245 --> 00:43:44,413
+And…
+
+701
+00:43:45,497 --> 00:43:48,375
+after all these years,
+you're still so brilliant and cool.
+
+702
+00:43:49,126 --> 00:43:50,210
+Again,
+
+703
+00:43:51,420 --> 00:43:52,796
+that's not me.
+
+704
+00:43:52,880 --> 00:43:54,048
+And?
+
+705
+00:43:54,131 --> 00:43:55,174
+You want to hear more?
+
+706
+00:44:02,640 --> 00:44:04,350
+You have nice, big hands.
+
+707
+00:44:17,696 --> 00:44:18,864
+My hands?
+
+708
+00:44:22,660 --> 00:44:25,496
+Why are you suddenly asking this?
+You're embarrassing me.
+
+709
+00:44:26,413 --> 00:44:28,707
+I'm sorry. That was random.
+
+710
+00:44:29,958 --> 00:44:31,627
+Go inside. I'll get going.
+
+711
+00:44:32,211 --> 00:44:34,505
+- Okay. Good night.
+- Good night.
+
+712
+00:45:40,070 --> 00:45:43,323
+YOU PASSED THE 1ST SCREENING
+AND ARE QUALIFIED FOR THE HACKATHON
+
+713
+00:45:44,074 --> 00:45:45,200
+Oh, my God!
+
+714
+00:45:45,701 --> 00:45:46,910
+Dal-mi, is that you?
+
+715
+00:45:46,994 --> 00:45:48,787
+YOU PASSED THE 1ST SCREENING
+
+716
+00:45:49,371 --> 00:45:50,706
+Yes, I'm home.
+
+717
+00:45:51,832 --> 00:45:52,833
+Yes!
+
+718
+00:46:25,532 --> 00:46:29,411
+YOU PASSED THE 1ST SCREENING
+AND ARE QUALIFIED FOR THE HACKATHON
+
+719
+00:47:10,202 --> 00:47:12,454
+YOU PASSED THE 1ST SCREENING
+
+720
+00:47:57,791 --> 00:47:59,001
+Have some coffee.
+
+721
+00:48:00,168 --> 00:48:02,045
+- Thank you.
+- Thank you.
+
+722
+00:48:06,300 --> 00:48:07,217
+Ms. Choi.
+
+723
+00:48:08,302 --> 00:48:09,595
+Is Dal-mi home yet?
+
+724
+00:48:09,678 --> 00:48:13,015
+Yes. She was in such a good mood
+that she danced in the entrance.
+
+725
+00:48:13,682 --> 00:48:14,516
+Really?
+
+726
+00:48:15,642 --> 00:48:17,102
+Thank you, Good Boy.
+
+727
+00:48:17,686 --> 00:48:21,023
+Why do you keep thanking me?
+I haven't done anything much.
+
+728
+00:48:22,566 --> 00:48:25,485
+Also, why did you send so much food?
+
+729
+00:48:25,569 --> 00:48:27,446
+It's the least I can do.
+
+730
+00:48:28,989 --> 00:48:32,701
+Thanks to you,
+Dal-mi's confidence is soaring.
+
+731
+00:48:37,164 --> 00:48:40,542
+Isn't that a good thing? Why do you sigh?
+
+732
+00:48:41,209 --> 00:48:42,919
+I'm worried she'll fall
+
+733
+00:48:43,670 --> 00:48:44,963
+and get hurt.
+
+734
+00:48:51,219 --> 00:48:53,096
+She won't get hurt.
+
+735
+00:48:56,141 --> 00:48:57,184
+I'll make sure
+
+736
+00:48:58,393 --> 00:48:59,645
+she doesn't.
+
+737
+00:49:17,162 --> 00:49:19,706
+The Sand Box Success Story…
+
+738
+00:49:20,582 --> 00:49:22,709
+The Start-up Bible…
+
+739
+00:49:50,779 --> 00:49:52,531
+BAEDAL.COM BUSINESS PLAN
+
+740
+00:49:54,658 --> 00:49:57,369
+CEO SEO CHEONG-MYEONG
+
+741
+00:50:03,583 --> 00:50:06,795
+DADDY, PLEASE ORDER A BUFFET
+ON MY BIRTHDAY
+
+742
+00:50:26,356 --> 00:50:27,816
+You did a good job today.
+
+743
+00:50:28,650 --> 00:50:30,318
+- Here.
+- Oh, yes.
+
+744
+00:50:33,155 --> 00:50:34,406
+The suits are here.
+
+745
+00:50:34,906 --> 00:50:36,742
+Take them with you. You can have them.
+
+746
+00:50:36,825 --> 00:50:38,410
+No. I'll buy my own clothes.
+
+747
+00:50:38,493 --> 00:50:39,578
+Come on.
+
+748
+00:50:40,662 --> 00:50:42,789
+- Your sense of style--
+- I know.
+
+749
+00:50:45,041 --> 00:50:46,209
+It's awful.
+
+750
+00:50:49,504 --> 00:50:50,630
+But I'll change.
+
+751
+00:50:54,092 --> 00:50:56,595
+- Why suddenly draw the line?
+- I'm respecting the line.
+
+752
+00:50:57,179 --> 00:50:59,264
+If I take them, it's not an investment.
+
+753
+00:51:00,140 --> 00:51:01,224
+It's charity.
+
+754
+00:51:04,478 --> 00:51:05,645
+Just give me some tips
+
+755
+00:51:06,354 --> 00:51:08,148
+whether it's on my style or business.
+
+756
+00:51:09,441 --> 00:51:11,026
+I'll follow them no matter what.
+
+757
+00:51:21,328 --> 00:51:23,288
+- No matter what?
+- Yes.
+
+758
+00:51:26,833 --> 00:51:29,503
+What if I tell you to recruit a CEO
+for your company?
+
+759
+00:51:30,420 --> 00:51:31,505
+Pardon?
+
+760
+00:51:33,965 --> 00:51:34,966
+That's my tip.
+
+761
+00:51:35,926 --> 00:51:37,135
+Give up your CEO position.
+
+762
+00:51:37,886 --> 00:51:40,180
+You're not cut out to be a CEO.
+
+763
+00:51:40,263 --> 00:51:42,098
+You'll only make everyone's life harder.
+
+764
+00:51:42,182 --> 00:51:44,476
+Once you enter Sand Box,
+recruit a CEO first.
+
+765
+00:51:45,560 --> 00:51:48,855
+What your company needs is a proper CEO.
+
+766
+00:51:50,607 --> 00:51:53,276
+Are you saying
+I'll never become a good CEO?
+
+767
+00:51:54,319 --> 00:51:55,403
+Yes.
+
+768
+00:52:28,770 --> 00:52:31,022
+Hey, what are you doing here?
+
+769
+00:52:32,232 --> 00:52:34,276
+Wonders never cease!
+
+770
+00:52:34,860 --> 00:52:36,278
+I have a desperate wish.
+
+771
+00:52:36,361 --> 00:52:37,529
+Lord is busy.
+
+772
+00:52:38,113 --> 00:52:41,533
+He has no time to listen to the prayer
+of an unfaithful believer like you.
+
+773
+00:52:41,616 --> 00:52:42,742
+Lord,
+
+774
+00:52:43,535 --> 00:52:45,787
+listen to the prayers
+of unfaithful believers
+
+775
+00:52:46,288 --> 00:52:47,873
+in order to make them faithful.
+
+776
+00:52:50,959 --> 00:52:53,044
+That's what we call business
+and marketing.
+
+777
+00:52:53,128 --> 00:52:55,005
+Cut the crap.
+
+778
+00:52:55,088 --> 00:52:57,632
+What is this desperate wish
+of yours, anyway?
+
+779
+00:52:58,258 --> 00:53:00,677
+And what's that luggage?
+
+780
+00:53:01,219 --> 00:53:04,222
+Sister, shouldn't you keep it down
+in the church?
+
+781
+00:53:24,784 --> 00:53:27,829
+What's that luggage?
+Are you running away from home?
+
+782
+00:53:28,705 --> 00:53:29,831
+Father, Mother.
+
+783
+00:53:30,790 --> 00:53:34,336
+I passed the first screening of Sand Box.
+
+784
+00:53:37,422 --> 00:53:39,591
+I don't even get excited anymore.
+
+785
+00:53:39,674 --> 00:53:42,093
+You tell us you passed this and that
+all the time,
+
+786
+00:53:42,177 --> 00:53:44,179
+but nothing ever changes.
+
+787
+00:53:45,847 --> 00:53:48,642
+If you passed the first screening,
+what's the next step?
+
+788
+00:53:48,725 --> 00:53:51,895
+The next step will be
+a competition called a hackathon.
+
+789
+00:53:51,978 --> 00:53:55,190
+Each team is given three days
+to come up with a business model.
+
+790
+00:53:55,273 --> 00:53:58,485
+You have to win the competition
+to enter Sand Box.
+
+791
+00:53:58,568 --> 00:53:59,819
+At Sand Box,
+
+792
+00:53:59,903 --> 00:54:03,239
+you're given an office,
+and they even pay your employees.
+
+793
+00:54:03,323 --> 00:54:05,241
+Besides, investors will--
+
+794
+00:54:05,325 --> 00:54:08,078
+Whatever.
+Just tell us when you actually get in.
+
+795
+00:54:08,703 --> 00:54:10,956
+I've had enough of your empty promises.
+
+796
+00:54:14,042 --> 00:54:14,960
+Okay.
+
+797
+00:54:22,926 --> 00:54:25,011
+- See you.
+- See you.
+
+798
+00:54:38,858 --> 00:54:40,694
+That rude brat.
+
+799
+00:54:40,777 --> 00:54:43,113
+Did you see how he just slammed the door?
+
+800
+00:54:43,863 --> 00:54:46,574
+He's rebelling against me, isn't he?
+
+801
+00:54:46,658 --> 00:54:48,451
+If I were him, I'd smash that door.
+
+802
+00:54:49,411 --> 00:54:51,579
+Is it so hard to wish him good luck?
+
+803
+00:54:51,663 --> 00:54:54,124
+Why did you have to put him down
+like that?
+
+804
+00:54:54,916 --> 00:54:58,378
+I said that as his parent.
+Can't I say that much?
+
+805
+00:54:58,461 --> 00:55:01,506
+It hurts even more
+because it's from his parent!
+
+806
+00:55:03,425 --> 00:55:06,553
+Well, Father.
+
+807
+00:55:07,345 --> 00:55:08,513
+It was
+
+808
+00:55:09,597 --> 00:55:10,640
+the wind.
+
+809
+00:55:11,224 --> 00:55:12,100
+What?
+
+810
+00:55:12,183 --> 00:55:14,310
+It's very windy outside.
+
+811
+00:55:14,394 --> 00:55:16,312
+I didn't mean to slam the door.
+
+812
+00:55:17,439 --> 00:55:19,399
+I don't want you to get the wrong idea.
+
+813
+00:55:20,525 --> 00:55:21,526
+I'll get going.
+
+814
+00:55:22,110 --> 00:55:24,696
+Do-san. Good luck!
+
+815
+00:55:26,448 --> 00:55:27,699
+Thanks.
+
+816
+00:55:28,742 --> 00:55:29,868
+See you.
+
+817
+00:55:41,337 --> 00:55:42,839
+Gosh, that startled me.
+
+818
+00:55:44,007 --> 00:55:45,717
+This wasn't the wind.
+
+819
+00:56:13,495 --> 00:56:15,080
+SAND BOX IS ROOTING FOR YOUR DREAMS
+
+820
+00:56:16,247 --> 00:56:17,248
+You're here.
+
+821
+00:56:17,832 --> 00:56:18,917
+Here.
+
+822
+00:56:20,919 --> 00:56:22,962
+Are the developers running late?
+
+823
+00:56:23,046 --> 00:56:26,508
+Well… They called this morning,
+and they're backing out.
+
+824
+00:56:26,591 --> 00:56:27,592
+Why?
+
+825
+00:56:27,675 --> 00:56:29,677
+The lead developer is having a baby soon.
+
+826
+00:56:30,220 --> 00:56:31,888
+Su-jin is getting married soon, too.
+
+827
+00:56:32,806 --> 00:56:34,724
+They say they don't want to take the risk.
+
+828
+00:56:35,308 --> 00:56:36,392
+Well, what can we do?
+
+829
+00:56:36,476 --> 00:56:39,270
+We have no developers now.
+Will it be okay?
+
+830
+00:56:40,647 --> 00:56:43,066
+Let's go.
+We'll see if we can recruit some here.
+
+831
+00:56:52,075 --> 00:56:53,076
+In-jae?
+
+832
+00:56:54,577 --> 00:56:56,037
+No way, she's in the US.
+
+833
+00:57:05,171 --> 00:57:07,048
+That's what the autographed ball said.
+
+834
+00:57:15,557 --> 00:57:17,475
+That's what the baseball said.
+
+835
+00:57:20,895 --> 00:57:24,065
+The problem is, there are too many
+following their dreams.
+
+836
+00:57:24,149 --> 00:57:26,609
+I know.
+I hope I don't get crushed to death.
+
+837
+00:57:27,110 --> 00:57:29,529
+And they've already been screened once?
+
+838
+00:57:29,612 --> 00:57:31,990
+- Stop it.
+- No, I won't.
+
+839
+00:57:32,782 --> 00:57:33,908
+Stop it.
+
+840
+00:57:38,580 --> 00:57:40,123
+Excuse me. Coming through.
+
+841
+00:58:05,899 --> 00:58:07,108
+Relax.
+
+842
+00:58:07,192 --> 00:58:08,902
+I'm extremely nervous.
+
+843
+00:58:08,985 --> 00:58:11,654
+- Why? You're a man.
+- Aren't you nervous?
+
+844
+00:58:17,076 --> 00:58:18,369
+It's starting.
+
+845
+00:58:34,219 --> 00:58:37,472
+The 12th Sand Box residency program
+applicants, welcome.
+
+846
+00:58:37,555 --> 00:58:39,891
+I'm Yoon Seon-hak,
+the director of Sand Box.
+
+847
+00:58:44,729 --> 00:58:47,565
+Sand Box was started
+
+848
+00:58:47,649 --> 00:58:51,903
+by successful entrepreneurs
+to help fledgling entrepreneurs
+
+849
+00:58:51,986 --> 00:58:56,866
+and became Asia's largest
+start-up accelerating center.
+
+850
+00:58:56,950 --> 00:59:00,745
+ACCELERATING CENTER: ORGANIZATION THAT
+INVESTS IN AND TRAINS START-UPS
+
+851
+00:59:00,828 --> 00:59:03,998
+Let me compare start-ups to cars.
+
+852
+00:59:04,582 --> 00:59:09,671
+For one reason or another, the cars you're
+in right now aren't moving forward.
+
+853
+00:59:10,255 --> 00:59:12,799
+Some of you may have
+just jumped in brand-new cars.
+
+854
+00:59:12,882 --> 00:59:15,718
+Some of you may be sitting
+in broken-down cars
+
+855
+00:59:15,802 --> 00:59:18,096
+that won't start.
+
+856
+00:59:18,179 --> 00:59:20,890
+And some of you
+may have just switched cars.
+
+857
+00:59:20,974 --> 00:59:25,061
+To make a car move,
+you step on the accelerator, right?
+
+858
+00:59:25,144 --> 00:59:26,104
+- Yes!
+- Yes!
+
+859
+00:59:26,187 --> 00:59:29,774
+Sand Box was created to be
+
+860
+00:59:29,857 --> 00:59:31,150
+your accelerator.
+
+861
+00:59:40,910 --> 00:59:41,911
+What is he doing here?
+
+862
+00:59:42,537 --> 00:59:45,456
+Now, the first step
+
+863
+00:59:45,540 --> 00:59:47,709
+- is to form teams.
+- Is he someone you know?
+
+864
+00:59:48,876 --> 00:59:51,754
+Some of you have already found
+everyone you need,
+
+865
+00:59:51,838 --> 00:59:53,756
+but not all of you have.
+
+866
+00:59:53,840 --> 00:59:55,592
+Some people even came alone.
+
+867
+00:59:56,634 --> 00:59:58,803
+The right to choose teammates
+
+868
+00:59:58,886 --> 01:00:02,890
+is given to the CEO,
+the person whose job is to steer the car.
+
+869
+01:00:05,018 --> 01:00:07,353
+Out of the 400 people here,
+
+870
+01:00:07,437 --> 01:00:10,940
+only 40 get to become CEOs.
+
+871
+01:00:14,235 --> 01:00:15,778
+Only 40?
+
+872
+01:00:15,862 --> 01:00:19,324
+Each team can have up to five members
+
+873
+01:00:19,407 --> 01:00:22,035
+and will compete in a three-day hackathon.
+
+874
+01:00:23,369 --> 01:00:27,832
+The five teams chosen by the investors
+in the hackathon
+
+875
+01:00:27,915 --> 01:00:30,084
+will be accepted into Sand Box.
+
+876
+01:00:35,840 --> 01:00:36,799
+That's tough.
+
+877
+01:00:37,383 --> 01:00:40,720
+We're one. We'll stick together
+whether we win or fail, okay?
+
+878
+01:00:40,803 --> 01:00:43,514
+- You bet. Needless to say.
+- Hands in, guys.
+
+879
+01:00:43,598 --> 01:00:44,641
+One, two, three.
+
+880
+01:00:44,724 --> 01:00:46,225
+- Do-san…
+- Chul-san…
+
+881
+01:00:46,309 --> 01:00:47,560
+Forget it.
+
+882
+01:00:47,644 --> 01:00:48,811
+Gosh.
+
+883
+01:00:52,690 --> 01:00:55,151
+CHEONG-MYEONG CORN DOG
+
+884
+01:00:57,695 --> 01:00:59,030
+HACKATHON LIVE BROADCAST
+
+885
+01:01:00,615 --> 01:01:04,869
+The whole process is being broadcast live
+on the Sand Box app.
+
+886
+01:01:04,952 --> 01:01:10,291
+I know your backgrounds range
+from management to accounting,
+
+887
+01:01:10,375 --> 01:01:12,710
+development, and design.
+
+888
+01:01:12,794 --> 01:01:16,339
+But none of your backgrounds
+or credentials
+
+889
+01:01:16,422 --> 01:01:19,967
+matter in the CEO selection process.
+
+890
+01:01:21,594 --> 01:01:23,179
+They don't matter?
+
+891
+01:01:25,098 --> 01:01:27,600
+Now you're talking.
+
+892
+01:01:28,101 --> 01:01:29,852
+Is that good or bad for us?
+
+893
+01:01:31,396 --> 01:01:32,647
+- It's good…
+- It's bad…
+
+894
+01:01:32,730 --> 01:01:34,649
+- It's good.
+- It's good.
+
+895
+01:01:34,732 --> 01:01:37,777
+Now, we'll send you 50 words
+
+896
+01:01:37,860 --> 01:01:40,029
+start-ups are paying attention to.
+
+897
+01:01:40,113 --> 01:01:41,823
+Words? What words?
+
+898
+01:01:42,824 --> 01:01:44,200
+Are you receiving texts?
+
+899
+01:01:45,493 --> 01:01:46,744
+Within 30 seconds,
+
+900
+01:01:46,828 --> 01:01:51,791
+send in five start-up keywords
+that are most relevant to each word.
+
+901
+01:01:51,874 --> 01:01:53,418
+What?
+
+902
+01:01:53,501 --> 01:01:55,545
+My phone is dead, though.
+
+903
+01:01:55,628 --> 01:01:59,048
+The people who get
+the most relevant keywords right
+
+904
+01:01:59,132 --> 01:02:01,092
+will be chosen as CEOs.
+
+905
+01:02:03,386 --> 01:02:07,348
+So they want those who know
+how to read trends to be CEOs.
+
+906
+01:02:08,307 --> 01:02:09,434
+That makes sense.
+
+907
+01:02:09,976 --> 01:02:12,103
+Okay. Let's start.
+
+908
+01:02:16,190 --> 01:02:17,483
+FINE DUST
+
+909
+01:02:18,818 --> 01:02:21,028
+Fine dust…
+
+910
+01:02:21,112 --> 01:02:22,447
+ULTRAFINE PARTICLES
+
+911
+01:02:22,530 --> 01:02:24,574
+- What?
+- Masks.
+
+912
+01:02:24,657 --> 01:02:26,617
+What do I do? My phone is dead.
+
+913
+01:02:26,701 --> 01:02:27,994
+My phone is dead.
+
+914
+01:02:35,918 --> 01:02:36,961
+OLD DIESEL CARS, YELLOW DUST
+
+915
+01:02:38,504 --> 01:02:41,841
+Why didn't they tell us beforehand?
+I'm sure I'm not the only one.
+
+916
+01:02:43,551 --> 01:02:44,635
+OLD DIESEL CARS
+
+917
+01:02:44,719 --> 01:02:45,595
+FINE DUST
+
+918
+01:02:45,678 --> 01:02:46,804
+KEYWORDS HAVE BEEN SENT
+
+919
+01:02:48,306 --> 01:02:50,558
+ULTRAFINE PARTICLES,
+MASKS, EMERGENCY ALERTS
+
+920
+01:02:51,851 --> 01:02:54,020
+- Yes!
+- Masks…
+
+921
+01:02:56,606 --> 01:02:57,857
+Focus.
+
+922
+01:02:59,108 --> 01:03:00,735
+SECURITY
+
+923
+01:03:02,278 --> 01:03:06,365
+That seems hectic. And you don't have
+enough time to search the Internet.
+
+924
+01:03:06,449 --> 01:03:09,660
+It'd be hard even for those
+with an insight into trends.
+
+925
+01:03:11,662 --> 01:03:13,498
+- Wait.
+- What?
+
+926
+01:03:14,081 --> 01:03:16,834
+No. I must be seeing things.
+
+927
+01:03:20,546 --> 01:03:23,090
+I'm going to start a company,
+like you did.
+
+928
+01:03:24,801 --> 01:03:25,843
+No way.
+
+929
+01:03:27,094 --> 01:03:28,805
+SHARING
+
+930
+01:03:28,888 --> 01:03:30,056
+Please.
+
+931
+01:03:32,016 --> 01:03:33,226
+- Wi-Fi.
+- Wi-Fi.
+
+932
+01:03:33,726 --> 01:03:36,187
+- USB.
+- Just be quiet.
+
+933
+01:03:36,270 --> 01:03:37,146
+AI
+
+934
+01:03:37,230 --> 01:03:39,023
+DEEP LEARNING, SELF-DRIVING
+
+935
+01:03:41,442 --> 01:03:42,485
+AGING SOCIETY
+
+936
+01:03:43,694 --> 01:03:44,862
+Gosh, what was it?
+
+937
+01:03:44,946 --> 01:03:46,656
+Will I be sent home like this?
+
+938
+01:03:46,739 --> 01:03:47,990
+WINTER OLYMPICS
+
+939
+01:03:50,034 --> 01:03:51,577
+Winter Olympics…
+
+940
+01:03:51,661 --> 01:03:52,870
+I'll write down whatever.
+
+941
+01:03:52,954 --> 01:03:54,288
+BLOCKCHAIN
+
+942
+01:03:56,916 --> 01:03:57,917
+- Oh…
+- How many?
+
+943
+01:03:58,000 --> 01:03:59,126
+WORK-LIFE BALANCE
+
+944
+01:04:00,044 --> 01:04:01,796
+- Okay.
+- Father.
+
+945
+01:04:03,047 --> 01:04:04,090
+I'm sorry.
+
+946
+01:04:04,173 --> 01:04:05,299
+KOREAN WAVE
+
+947
+01:04:06,467 --> 01:04:07,385
+K-POP
+
+948
+01:04:08,636 --> 01:04:09,637
+K-POP, WEBTOON
+
+949
+01:04:12,473 --> 01:04:13,516
+Park Chan-ho.
+
+950
+01:04:13,599 --> 01:04:14,517
+- I know.
+- What?
+
+951
+01:04:14,600 --> 01:04:17,436
+- TWICE.
+- You want to mess it up, don't you?
+
+952
+01:04:18,396 --> 01:04:20,189
+- K-pop.
+- Look up, please.
+
+953
+01:04:25,194 --> 01:04:27,446
+GAME, K-POP, WEBTOON, TOURISM, BEAUTY
+
+954
+01:04:29,115 --> 01:04:30,449
+KOREAN WAVE
+
+955
+01:04:41,627 --> 01:04:45,089
+We're done with all 50 topics now.
+
+956
+01:04:45,172 --> 01:04:49,010
+Let me announce those who
+got the most relevant keywords.
+
+957
+01:04:49,093 --> 01:04:50,052
+Well…
+
+958
+01:04:52,221 --> 01:04:53,890
+Congratulations!
+
+959
+01:04:56,601 --> 01:04:58,311
+397…
+
+960
+01:05:00,146 --> 01:05:01,147
+397!
+
+961
+01:05:04,817 --> 01:05:05,776
+Is that my number?
+
+962
+01:05:06,277 --> 01:05:07,445
+397
+SEO DAL-MI
+
+963
+01:05:07,528 --> 01:05:09,280
+It is!
+
+964
+01:05:09,363 --> 01:05:10,489
+There.
+
+965
+01:05:13,951 --> 01:05:15,494
+023
+WON IN-JAE
+
+966
+01:05:16,954 --> 01:05:18,247
+156
+NAM DO-SAN
+
+967
+01:05:20,875 --> 01:05:22,376
+I'm not there. You?
+
+968
+01:05:24,420 --> 01:05:25,588
+Me neither.
+
+969
+01:05:25,671 --> 01:05:30,051
+These are the 40 CEOs
+who can choose their teammates.
+
+970
+01:05:30,134 --> 01:05:32,011
+Please come up on stage!
+
+971
+01:05:34,138 --> 01:05:35,765
+Then we can't be on the same team?
+
+972
+01:05:35,848 --> 01:05:37,475
+This is ridiculous.
+
+973
+01:05:37,558 --> 01:05:40,227
+What an absurd way to choose CEOs!
+
+974
+01:05:40,311 --> 01:05:42,104
+They should've made us code instead.
+
+975
+01:05:42,188 --> 01:05:44,231
+Then no one could beat Do-san.
+
+976
+01:05:44,815 --> 01:05:47,234
+Once you enter Sand Box,
+recruit a CEO first.
+
+977
+01:05:47,318 --> 01:05:50,446
+What your company needs is a proper CEO.
+
+978
+01:05:50,529 --> 01:05:52,782
+Are you saying
+I'll never become a good CEO?
+
+979
+01:05:52,865 --> 01:05:53,991
+Yes.
+
+980
+01:05:57,286 --> 01:06:00,498
+What is that girl doing there?
+
+981
+01:06:23,771 --> 01:06:24,897
+That crook?
+
+982
+01:06:37,618 --> 01:06:39,203
+Isn't that Won In-jae?
+
+983
+01:06:39,787 --> 01:06:40,705
+Yes.
+
+984
+01:06:42,623 --> 01:06:44,291
+What do we do now?
+
+985
+01:06:45,126 --> 01:06:46,293
+What do we do?
+
+986
+01:06:47,878 --> 01:06:49,130
+What?
+
+987
+01:06:49,213 --> 01:06:52,049
+This period will be tough.
+
+988
+01:06:52,550 --> 01:06:55,386
+Isn't that Won In-jae,
+the CEO of Nature Morning?
+
+989
+01:06:55,469 --> 01:06:57,471
+Why would she want to enter Sand Box?
+
+990
+01:06:57,555 --> 01:07:00,057
+She'd be like a college student
+at a kindergarten.
+
+991
+01:07:01,100 --> 01:07:03,894
+Excuse me. Can you come back later?
+
+992
+01:07:12,403 --> 01:07:14,196
+SANDBOX AUDITORIUM LIVE BROADCAST
+
+993
+01:07:14,280 --> 01:07:15,656
+Oh, my Lord.
+
+994
+01:07:17,992 --> 01:07:18,951
+Lord.
+
+995
+01:07:21,704 --> 01:07:25,499
+I'm curious to know
+what my hotshot sister is doing here
+
+996
+01:07:25,583 --> 01:07:28,002
+instead of going back to the US.
+
+997
+01:07:29,795 --> 01:07:31,172
+I'm curious to know
+
+998
+01:07:32,339 --> 01:07:35,217
+what your hotshot boyfriend is doing here.
+
+999
+01:07:35,301 --> 01:07:36,552
+What?
+
+1000
+01:07:44,518 --> 01:07:46,645
+What? Do-san?
+
+1001
+01:07:56,489 --> 01:07:59,742
+I'll give you all one hour.
+
+1002
+01:08:00,326 --> 01:08:05,164
+The CEOs on stage will choose
+their teammates for the hackathon.
+
+1003
+01:08:05,247 --> 01:08:08,667
+I hope you will choose them wisely.
+
+1004
+01:08:29,522 --> 01:08:31,524
+This person has a nice background.
+
+1005
+01:08:31,607 --> 01:08:33,734
+- What do we do?
+- This person…
+
+1006
+01:08:38,447 --> 01:08:40,825
+We're looking for more people.
+
+1007
+01:08:41,826 --> 01:08:43,661
+Oh, so that's your field.
+
+1008
+01:08:44,578 --> 01:08:46,413
+- Are you interested?
+- Do you have a team?
+
+1009
+01:08:46,497 --> 01:08:48,833
+I don't have a team yet.
+
+1010
+01:08:48,916 --> 01:08:50,751
+Right. I think so, too.
+
+1011
+01:08:51,627 --> 01:08:53,796
+How long did you work as a developer?
+
+1012
+01:09:02,805 --> 01:09:03,806
+Do-san.
+
+1013
+01:09:06,892 --> 01:09:08,060
+Why are you here?
+
+1014
+01:09:09,019 --> 01:09:10,521
+You have a fancy office.
+
+1015
+01:09:11,605 --> 01:09:13,149
+And you already found an investor.
+
+1016
+01:09:13,816 --> 01:09:15,609
+You're in a Pre-Series A round.
+
+1017
+01:09:19,155 --> 01:09:20,865
+I'm wondering that, too.
+
+1018
+01:09:21,448 --> 01:09:22,992
+What is Nam Do-san doing here?
+
+1019
+01:09:28,164 --> 01:09:31,041
+Here it says you haven't found
+any investors yet.
+
+1020
+01:09:31,125 --> 01:09:34,211
+And your only credential is
+winning the CODA competition.
+
+1021
+01:09:44,096 --> 01:09:45,097
+I'm sorry
+
+1022
+01:09:46,557 --> 01:09:48,142
+I deceived you, Dal-mi.
+
+1023
+01:09:52,813 --> 01:09:54,565
+You both look so shocked.
+
+1024
+01:09:54,648 --> 01:09:58,319
+Shocked to be fooled,
+and shocked to be caught.
+
+1025
+01:10:07,703 --> 01:10:08,621
+Are you saying
+
+1026
+01:10:09,872 --> 01:10:12,291
+you don't even have a shot
+
+1027
+01:10:12,374 --> 01:10:14,835
+at entering Sand Box
+if no CEO chooses you?
+
+1028
+01:10:18,047 --> 01:10:19,423
+It's all over now.
+
+1029
+01:10:19,924 --> 01:10:21,342
+He and Seo Dal-mi are through.
+
+1030
+01:10:26,722 --> 01:10:29,308
+What a peculiar response to my prayer.
+
+1031
+01:10:32,686 --> 01:10:33,771
+A response?
+
+1032
+01:10:37,942 --> 01:10:38,901
+Lord.
+
+1033
+01:10:40,361 --> 01:10:44,657
+I decided to work up my courage
+and start my own business.
+
+1034
+01:10:46,659 --> 01:10:48,535
+I do have a destination,
+
+1035
+01:10:49,620 --> 01:10:52,748
+but the path is steep and rough.
+
+1036
+01:10:53,958 --> 01:10:56,794
+So I'm not sure if I can handle it.
+
+1037
+01:10:58,462 --> 01:11:01,715
+Please give me the strength to complete
+
+1038
+01:11:01,799 --> 01:11:03,801
+this long, difficult journey.
+
+1039
+01:11:05,844 --> 01:11:06,887
+And please
+
+1040
+01:11:07,638 --> 01:11:11,642
+lead me to find a companion
+for the journey.
+
+1041
+01:11:15,604 --> 01:11:17,231
+You must be disappointed.
+
+1042
+01:11:17,940 --> 01:11:18,899
+No.
+
+1043
+01:11:22,027 --> 01:11:22,945
+I'm thankful.
+
+1044
+01:11:26,865 --> 01:11:29,368
+I'm also thankful
+for the chance to be a CEO.
+
+1045
+01:11:36,000 --> 01:11:37,126
+Do-san.
+
+1046
+01:11:38,252 --> 01:11:41,797
+Will you recruit me
+as the CEO of Samsan Tech?
+
+1047
+01:11:44,800 --> 01:11:46,885
+- What?
+- It's not over?
+
+1048
+01:11:51,974 --> 01:11:55,894
+Is that what you want?
+I'd like to make you a similar offer.
+
+1049
+01:11:57,980 --> 01:12:00,524
+My team happens to be missing developers
+at the moment.
+
+1050
+01:12:00,607 --> 01:12:03,319
+And I'd like to recruit you guys.
+What do you say?
+
+1051
+01:12:05,612 --> 01:12:06,572
+What?
+
+1052
+01:12:07,448 --> 01:12:09,199
+I see your credentials are lacking.
+
+1053
+01:12:10,326 --> 01:12:13,412
+If your CEO also lacks credentials,
+won't it be bad for everyone?
+
+1054
+01:12:15,456 --> 01:12:18,876
+Who do you choose, me or Seo Dal-mi?
+
+1055
+01:12:25,049 --> 01:12:25,966
+Do-san.
+
+1056
+01:12:39,605 --> 01:12:42,649
+- Excuse us for a minute.
+- Sorry.
+
+1057
+01:12:51,950 --> 01:12:54,578
+Do-san, the future of our company
+is on the line.
+
+1058
+01:12:54,661 --> 01:12:57,039
+Yes, and it's an amateur
+versus a professional.
+
+1059
+01:12:57,122 --> 01:12:58,540
+Put your feelings aside
+
+1060
+01:12:58,624 --> 01:13:00,793
+and make a rational decision, okay?
+
+1061
+01:13:02,544 --> 01:13:04,755
+My choice is the same either way.
+
+1062
+01:13:04,838 --> 01:13:05,881
+It's the same?
+
+1063
+01:13:05,964 --> 01:13:08,550
+Whether you follow your heart or head?
+
+1064
+01:13:08,634 --> 01:13:10,386
+How is that possible?
+
+1065
+01:13:10,469 --> 01:13:12,805
+You guys don't want to be
+someone's underlings.
+
+1066
+01:13:12,888 --> 01:13:14,431
+- Of course not.
+- Neither do I.
+
+1067
+01:13:14,515 --> 01:13:15,682
+And?
+
+1068
+01:13:15,766 --> 01:13:20,813
+Dal-mi asked us to recruit her
+while Won In-jae said she'd recruit us.
+
+1069
+01:13:23,482 --> 01:13:24,650
+See the difference?
+
+1070
+01:13:27,694 --> 01:13:29,029
+- Oh…
+- Oh…
+
+1071
+01:13:29,113 --> 01:13:30,197
+There is a difference.
+
+1072
+01:13:30,280 --> 01:13:33,617
+Either we recruit the CEO
+or the CEO recruits us, is that it?
+
+1073
+01:13:34,618 --> 01:13:37,454
+Who do you choose? I'll do as you say.
+
+1074
+01:13:42,793 --> 01:13:46,797
+He even put on such a show. He must have
+wanted to show off in front of you.
+
+1075
+01:13:50,342 --> 01:13:51,260
+Aren't you angry?
+
+1076
+01:13:52,970 --> 01:13:54,054
+I'm not.
+
+1077
+01:13:54,805 --> 01:13:57,891
+I've felt the urge to show off
+in front of someone many times.
+
+1078
+01:14:39,391 --> 01:14:41,351
+Will you be the CEO of Samsan Tech?
+
+1079
+01:15:04,708 --> 01:15:05,751
+Gladly.
+
+1080
+01:16:49,521 --> 01:16:51,607
+- Yes! I win!
+- Gosh.
+
+1081
+01:16:51,690 --> 01:16:55,527
+Five for godori, three for gwang,
+and two for pi, so ten in total.
+
+1082
+01:16:55,611 --> 01:16:57,321
+And penalties for Mr. Han and Dal-mi.
+
+1083
+01:16:58,405 --> 01:17:01,241
+Also, pay Do-san and I for the gwang.
+
+1084
+01:17:01,325 --> 01:17:02,826
+Come on! Pay up.
+
+1085
+01:17:02,909 --> 01:17:05,329
+Gosh, you guys are professionals.
+
+1086
+01:17:05,412 --> 01:17:07,497
+- I guess it's our lucky day.
+- Totally.
+
+1087
+01:17:08,123 --> 01:17:09,875
+Here's your fortune for today.
+
+1088
+01:17:09,958 --> 01:17:11,627
+- Who is it?
+- What's that sound?
+
+1089
+01:17:11,710 --> 01:17:14,504
+It's Yeong-sil, a speaker
+that only gives irrelevant answers.
+
+1090
+01:17:15,130 --> 01:17:18,967
+It tells you the same fortune every day.
+Is that right, Mr. Nam?
+
+1091
+01:17:19,051 --> 01:17:20,719
+- Yes.
+- Every single day.
+
+1092
+01:17:20,802 --> 01:17:22,054
+The same thing every day.
+
+1093
+01:17:22,137 --> 01:17:24,389
+Today, the god of fate
+
+1094
+01:17:24,473 --> 01:17:27,768
+will send a gentle breeze
+into your peaceful life.
+
+1095
+01:17:31,813 --> 01:17:34,650
+It's the same thing every day.
+
+1096
+01:17:35,609 --> 01:17:37,819
+- It's incredible.
+- That's enough, Yeong-sun!
+
+1097
+01:17:41,365 --> 01:17:44,451
+APPLICANT NUMBER 118
+COMPANY NAME: ZEST LINE
+
+1098
+01:17:44,534 --> 01:17:45,911
+REASON FOR APPLICATION
+
+1099
+01:17:50,624 --> 01:17:52,417
+I REMEMBER SWINGING OVER THE SAND
+
+1100
+01:17:57,339 --> 01:17:59,508
+I REMEMBER SWINGING OVER THE SAND
+
+1101
+01:17:59,591 --> 01:18:01,718
+MY DAD SPREAD FOR ME
+
+1102
+01:18:04,054 --> 01:18:08,642
+I wish I could at least fall
+on sand instead of concrete.
+
+1103
+01:18:09,476 --> 01:18:10,519
+Sand?
+
+1104
+01:18:23,782 --> 01:18:26,576
+WON IN-JAE
+
+1105
+01:18:26,660 --> 01:18:28,120
+You may run into someone
+
+1106
+01:18:30,789 --> 01:18:33,750
+you met briefly in the past,
+at an unexpected place.
+
+1107
+01:18:38,380 --> 01:18:39,673
+Be careful.
+
+1108
+01:18:40,674 --> 01:18:44,428
+The person may seem
+like a spring breeze at first
+
+1109
+01:18:46,012 --> 01:18:49,099
+but may turn into a strong winter wind
+
+1110
+01:18:50,016 --> 01:18:54,521
+and change your life completely.
+
+1111
+01:19:10,537 --> 01:19:12,289
+In the limited time,
+
+1112
+01:19:12,372 --> 01:19:15,876
+can you come up with a
+practical business idea or not.
+
+1113
+01:19:15,959 --> 01:19:19,212
+Do you really think we should let
+a high school graduate become the CEO?
+
+1114
+01:19:19,296 --> 01:19:22,340
+Do you have regrets? Dal-mi could've
+gone to college instead of me.
+
+1115
+01:19:22,424 --> 01:19:24,801
+You always make the wrong choices.
+
+1116
+01:19:24,885 --> 01:19:27,763
+I started this because
+I wanted to win against In-jae,
+
+1117
+01:19:27,846 --> 01:19:29,473
+but I keep getting greedy.
+
+1118
+01:19:30,348 --> 01:19:32,517
+I keep wanting more.
+
+1119
+01:19:33,226 --> 01:19:34,770
+How much did Dal-mi find out?
+
+1120
+01:19:34,853 --> 01:19:36,313
+Mr. Han, wait.
+
+1121
+01:19:36,396 --> 01:19:39,566
+Why did you go to great lengths to
+help us even if it meant you had to lie?
+
+1122
+01:19:39,649 --> 01:19:44,654
+Subtitle translation by: Min-jin Kim
