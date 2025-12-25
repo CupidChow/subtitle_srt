@@ -1,0 +1,2724 @@
+1
+00:01:26,770 --> 00:01:30,770
+=My Dear Guardian=
+
+2
+00:01:31,340 --> 00:01:34,120
+=Episode 5=
+
+3
+00:01:37,366 --> 00:01:38,329
+Have you seen Dr. Zhang?
+
+4
+00:01:38,370 --> 00:01:39,328
+He's in the dressing room.
+
+5
+00:01:39,369 --> 00:01:40,680
+-Thank you.
+-You're welcome.
+
+6
+00:01:49,746 --> 00:01:50,626
+Dr. Zhang!
+
+7
+00:01:52,805 --> 00:01:53,991
+I'm changing, what are you doing?
+
+8
+00:01:54,032 --> 00:01:55,200
+Sorry! Sorry!
+
+9
+00:01:58,215 --> 00:01:59,895
+She's killing me.
+How reckless!
+
+10
+00:02:03,971 --> 00:02:06,422
+Xia Chu, how inappropriate!
+
+11
+00:02:06,463 --> 00:02:08,063
+Just carry on and listen to me.
+
+12
+00:02:08,392 --> 00:02:09,462
+We might be able to use
+
+13
+00:02:09,503 --> 00:02:11,085
+interventional surgery
+for Xiao Jun's ASD,
+
+14
+00:02:11,126 --> 00:02:13,783
+but only if we can find a method
+that is more intuitive than a CT scan...
+
+15
+00:02:13,824 --> 00:02:15,225
+for understanding the condition
+of his ASD.
+
+16
+00:02:16,140 --> 00:02:17,020
+I tell you what.
+
+17
+00:02:17,709 --> 00:02:20,300
+The most intuitive way is
+to cut the heart open,
+
+18
+00:02:20,341 --> 00:02:21,761
+and it's the most accurate way.
+
+19
+00:02:21,801 --> 00:02:22,911
+And a 3D printed heart model.
+
+20
+00:02:23,773 --> 00:02:24,653
+3D printed heart model?
+
+21
+00:02:26,094 --> 00:02:26,974
+Do not take photos!
+
+22
+00:02:27,540 --> 00:02:29,100
+I just want to show
+you the previous case.
+
+23
+00:02:29,143 --> 00:02:30,423
+Someone has succeeded before.
+
+24
+00:02:31,925 --> 00:02:32,845
+You get out first.
+
+25
+00:02:35,062 --> 00:02:35,942
+Get out!
+
+26
+00:02:38,595 --> 00:02:41,145
+(Dressing room)
+
+27
+00:02:47,143 --> 00:02:48,063
+Keep that in mind.
+
+28
+00:02:49,020 --> 00:02:50,211
+It's the men's dressing room.
+
+29
+00:02:51,453 --> 00:02:52,333
+I'm sorry, sir.
+
+30
+00:02:52,533 --> 00:02:54,133
+I was in a hurry.
+
+31
+00:02:54,604 --> 00:02:55,484
+Then...
+
+32
+00:02:55,844 --> 00:02:56,724
+Where's the case?
+
+33
+00:02:59,343 --> 00:03:00,223
+Look.
+
+34
+00:03:03,398 --> 00:03:04,828
+This is his echocardiography...
+
+35
+00:03:08,863 --> 00:03:09,743
+and this.
+
+36
+00:03:10,412 --> 00:03:11,292
+Okay.
+
+37
+00:03:12,203 --> 00:03:13,082
+It's possible.
+
+38
+00:03:14,072 --> 00:03:15,553
+But I haven't done it before.
+
+39
+00:03:15,594 --> 00:03:17,394
+I might need to consult with a company.
+
+40
+00:03:17,678 --> 00:03:19,508
+I have a classmate
+who's in this line of work.
+
+41
+00:03:19,549 --> 00:03:20,909
+Then hurry up and contact him.
+
+42
+00:03:22,757 --> 00:03:23,637
+Okay.
+
+43
+00:03:30,524 --> 00:03:31,440
+Xia Chu?
+
+44
+00:03:34,181 --> 00:03:35,061
+It's me.
+
+45
+00:03:36,196 --> 00:03:37,606
+I have something to talk to you.
+
+46
+00:03:38,042 --> 00:03:38,922
+Go ahead.
+
+47
+00:03:40,423 --> 00:03:41,893
+There's a kid with
+congenital heart disease.
+
+48
+00:03:42,356 --> 00:03:44,108
+His first operation failed.
+
+49
+00:03:44,149 --> 00:03:48,924
+We need your 3D printing technology
+to print his heart model out...
+
+50
+00:03:48,965 --> 00:03:50,525
+before we perform the second surgery.
+
+51
+00:03:51,717 --> 00:03:54,660
+To get a full overview
+of the location and type of his ASD...
+
+52
+00:03:54,701 --> 00:03:56,861
+and to practice the surgery in advance.
+
+53
+00:03:59,743 --> 00:04:00,702
+You may wait in there.
+
+54
+00:04:00,743 --> 00:04:01,863
+Boss will be right here soon.
+
+55
+00:04:02,516 --> 00:04:03,400
+Thank you.
+
+56
+00:04:34,373 --> 00:04:36,013
+Do you know the origin of this sketch?
+
+57
+00:04:42,140 --> 00:04:44,181
+September 7, 2011.
+
+58
+00:04:44,503 --> 00:04:46,143
+It was my first day
+transferring to a new school.
+
+59
+00:04:46,910 --> 00:04:48,578
+During recess,
+
+60
+00:04:48,619 --> 00:04:50,189
+someone invited me to play shuttlecock.
+
+61
+00:04:50,781 --> 00:04:51,811
+I was hesitant.
+
+62
+00:04:52,403 --> 00:04:53,437
+It wasn't that I don't want to.
+
+63
+00:04:54,124 --> 00:04:55,542
+Just that I was drawing...
+
+64
+00:04:55,583 --> 00:04:57,783
+a girl with a
+beautiful smile at that moment.
+
+65
+00:05:01,189 --> 00:05:03,109
+Hello, Xia Chu.
+
+66
+00:05:13,773 --> 00:05:14,843
+The CT scans and the data of...
+
+67
+00:05:14,884 --> 00:05:16,964
+echocardiography of
+the patient are all in here.
+
+68
+00:05:21,703 --> 00:05:23,383
+How long does it take
+to complete the production?
+
+69
+00:05:25,534 --> 00:05:27,254
+About one week if everything goes well.
+
+70
+00:05:28,341 --> 00:05:29,221
+How about the fee?
+
+71
+00:05:30,749 --> 00:05:32,309
+It depends on the material you choose.
+
+72
+00:05:32,526 --> 00:05:35,806
+Will the quality of the materials
+affect the accuracy of the final model?
+
+73
+00:05:40,733 --> 00:05:41,743
+It won't affect much.
+
+74
+00:05:43,037 --> 00:05:45,198
+For preoperative purposes,
+
+75
+00:05:45,861 --> 00:05:47,901
+normal materials costing a few
+hundred will do.
+
+76
+00:05:48,389 --> 00:05:50,309
+Okay, I'll wait for your call.
+
+77
+00:05:50,918 --> 00:05:53,389
+If you have any medical issues that
+need to be communicated,
+
+78
+00:05:53,430 --> 00:05:54,464
+please feel free to contact me.
+
+79
+00:05:55,183 --> 00:05:56,063
+Xia Chu,
+
+80
+00:06:02,903 --> 00:06:05,823
+is it only medical issues that I can ask?
+
+81
+00:06:06,719 --> 00:06:08,022
+I don't know about other questions.
+
+82
+00:06:08,063 --> 00:06:09,197
+And I have no time to answer that.
+
+83
+00:06:11,157 --> 00:06:12,087
+Are you still mad at me?
+
+84
+00:06:12,776 --> 00:06:13,622
+No.
+
+85
+00:06:13,663 --> 00:06:15,349
+-That's it.
+-Zhuo Ran,
+
+86
+00:06:15,390 --> 00:06:16,630
+I am a resident.
+
+87
+00:06:17,055 --> 00:06:19,295
+My patients are my first priority.
+
+88
+00:06:19,968 --> 00:06:21,902
+If it weren't for helping my patients,
+
+89
+00:06:21,943 --> 00:06:25,583
+I wouldn't be standing here today
+and have this conversation with you.
+
+90
+00:06:26,198 --> 00:06:27,718
+I want to spend my time
+on the people and things...
+
+91
+00:06:27,759 --> 00:06:28,793
+that are more meaningful to me.
+
+92
+00:06:29,183 --> 00:06:30,143
+Do you understand me?
+
+93
+00:06:41,543 --> 00:06:42,703
+With her attitude,
+
+94
+00:06:43,223 --> 00:06:46,303
+are you sure the plan to approach
+Xia Guang Yuan through her will work?
+
+95
+00:06:50,783 --> 00:06:53,783
+Xia Chu's attitude towards Zhuo Ran
+would never change.
+
+96
+00:06:54,071 --> 00:06:55,800
+We just need time to rouse her.
+
+97
+00:06:57,127 --> 00:06:59,487
+I believe we can get what we need
+
+98
+00:07:01,063 --> 00:07:02,743
+through Xia Chu.
+
+99
+00:07:06,239 --> 00:07:07,119
+I hope so.
+
+100
+00:07:10,439 --> 00:07:11,639
+So far,
+
+101
+00:07:11,903 --> 00:07:14,223
+we can't identify
+the male body in the villa.
+
+102
+00:07:14,633 --> 00:07:16,862
+We found an account...
+
+103
+00:07:16,903 --> 00:07:20,343
+named Scary Pirate
+in a confiscated laptop,
+
+104
+00:07:21,100 --> 00:07:23,550
+but it takes time to break the passcode.
+
+105
+00:07:23,733 --> 00:07:29,143
+So we can't confirm
+whether this is related to...
+
+106
+00:07:29,263 --> 00:07:32,503
+the founder who lurks in the drugs
+trading platform.
+
+107
+00:07:32,663 --> 00:07:33,663
+Even if we break the passcode,
+
+108
+00:07:34,078 --> 00:07:36,933
+this can only mean that the person
+logged into the account
+
+109
+00:07:36,974 --> 00:07:38,734
+named Scary Pirate in the villa.
+
+110
+00:07:39,103 --> 00:07:42,103
+It can't show who Scary Pirate is
+or if he's related to that body.
+
+111
+00:07:42,943 --> 00:07:45,023
+This might be a
+characteristic of a cybercrime.
+
+112
+00:07:46,959 --> 00:07:49,103
+Any progress on the
+Jiao Tong University district case?
+
+113
+00:07:49,143 --> 00:07:50,343
+The name of the deceased is Zhou Lan,
+
+114
+00:07:50,383 --> 00:07:51,533
+22 years old,
+
+115
+00:07:51,623 --> 00:07:52,863
+born in Yibin, Sichuan.
+
+116
+00:07:53,207 --> 00:07:54,967
+She came here from
+Chengdu three years ago.
+
+117
+00:07:55,303 --> 00:07:58,463
+She'd worked as a beverage promoter
+in a club before.
+
+118
+00:08:00,152 --> 00:08:03,102
+She was later kept by
+a man named Mr. Bear.
+
+119
+00:08:03,143 --> 00:08:05,542
+After they broke up in March this year,
+
+120
+00:08:05,583 --> 00:08:08,521
+Mr. Bear gave one of his properties
+to the deceased,
+
+121
+00:08:08,561 --> 00:08:11,903
+which is the house where
+the body was found by the cleaning lady.
+
+122
+00:08:12,693 --> 00:08:13,786
+Has the autopsy report come out yet?
+
+123
+00:08:13,827 --> 00:08:14,707
+Yes.
+
+124
+00:08:17,415 --> 00:08:18,906
+According to the autopsy report,
+
+125
+00:08:18,946 --> 00:08:21,395
+basically, we can rule out
+the possibility of homicide.
+
+126
+00:08:21,435 --> 00:08:24,023
+Zhou Lan's drowning might be
+due to the hallucination...
+
+127
+00:08:24,063 --> 00:08:25,530
+which was caused by the consumption
+of methamphetamine.
+
+128
+00:08:25,759 --> 00:08:26,659
+Where is the drugs' source?
+
+129
+00:08:27,303 --> 00:08:29,942
+We logged into an account
+which she saved on the laptop.
+
+130
+00:08:30,503 --> 00:08:34,121
+We found that she had sent
+a few posts requesting drugs...
+
+131
+00:08:34,161 --> 00:08:36,081
+in a drug trading platform
+called City of Desire.
+
+132
+00:08:39,008 --> 00:08:41,408
+How did a 20-year-old young lady...
+
+133
+00:08:42,063 --> 00:08:46,023
+enter this bottomless world?
+
+134
+00:08:46,783 --> 00:08:51,343
+Who is Mr. Bear exactly?
+
+135
+00:08:59,303 --> 00:09:03,973
+Hurry up! Keep going!
+
+136
+00:09:04,063 --> 00:09:07,543
+Hurry up!
+
+137
+00:09:08,423 --> 00:09:10,823
+Keep going! Keep going!
+
+138
+00:09:12,583 --> 00:09:16,783
+Hurry up! Keep going!
+
+139
+00:09:17,423 --> 00:09:20,063
+Hurry up! Keep going!
+
+140
+00:09:20,743 --> 00:09:21,943
+Hurry up! Run!
+
+141
+00:09:22,023 --> 00:09:23,423
+Hurry up! Run!
+
+142
+00:09:23,783 --> 00:09:27,463
+Hurry up! Keep going!
+
+143
+00:09:28,023 --> 00:09:31,703
+Hurry up! Run!
+
+144
+00:09:39,903 --> 00:09:41,823
+I'm a second faster
+than your vice-captain.
+
+145
+00:09:42,855 --> 00:09:44,175
+Finish the remaining five kilometers.
+
+146
+00:09:46,544 --> 00:09:47,424
+Vice-captain,
+
+147
+00:09:48,087 --> 00:09:50,607
+are you an undercover
+whom the captain sent here?
+
+148
+00:09:51,103 --> 00:09:52,983
+Are you a fun guy
+whom the monkey sent here?
+
+149
+00:09:54,671 --> 00:09:55,640
+Wipe your drool.
+
+150
+00:09:56,326 --> 00:09:57,966
+Okay, stop hesitating!
+Let's get started!
+
+151
+00:09:58,216 --> 00:09:59,166
+All tanks!
+
+152
+00:09:59,863 --> 00:10:01,360
+Five kilometers of trail running!
+
+153
+00:10:01,401 --> 00:10:03,001
+Double march!
+
+154
+00:10:03,743 --> 00:10:04,663
+Get your equipment.
+
+155
+00:10:04,903 --> 00:10:05,783
+I got it!
+
+156
+00:10:14,119 --> 00:10:14,999
+Brigade Commander.
+
+157
+00:10:19,117 --> 00:10:20,465
+In the last comprehensive assessment,
+
+158
+00:10:20,506 --> 00:10:22,547
+you set a new record for Team Lightning.
+
+159
+00:10:22,588 --> 00:10:23,609
+Here's your citation.
+
+160
+00:10:23,650 --> 00:10:24,690
+Let's take a photo.
+
+161
+00:10:24,903 --> 00:10:25,937
+This isn't a first-class merit.
+
+162
+00:10:26,488 --> 00:10:28,800
+You're getting greedy.
+
+163
+00:10:29,454 --> 00:10:32,063
+Even a field citation can't satisfy you?
+
+164
+00:10:32,503 --> 00:10:34,253
+It was within our expectation.
+
+165
+00:10:34,294 --> 00:10:37,023
+We can get a better result
+if Tian Yong hadn't cramped up.
+
+166
+00:10:38,263 --> 00:10:39,373
+Don't be proud!
+
+167
+00:10:40,023 --> 00:10:42,902
+Later on, there will be a special
+combat training for reserve officers.
+
+168
+00:10:42,943 --> 00:10:45,063
+By then, all the experts will be here.
+
+169
+00:10:45,213 --> 00:10:46,338
+The more experts, the better.
+
+170
+00:10:46,379 --> 00:10:48,369
+It would be boring
+if they were incompetent.
+
+171
+00:10:51,858 --> 00:10:52,908
+I'm quite cool.
+
+172
+00:10:54,893 --> 00:10:56,743
+What's the point that
+I think you're cool?
+
+173
+00:10:57,615 --> 00:10:59,551
+You have to make the
+ladies think you're cool.
+
+174
+00:10:59,591 --> 00:11:00,458
+Silly boy.
+
+175
+00:11:00,499 --> 00:11:01,583
+When it comes to girls,
+
+176
+00:11:01,805 --> 00:11:04,063
+I've had only one problem
+since childhood.
+
+177
+00:11:04,863 --> 00:11:05,997
+Too many ladies are coming for me.
+
+178
+00:11:06,958 --> 00:11:08,398
+Are you sure about that?
+
+179
+00:11:08,823 --> 00:11:11,903
+Then why did your mother
+send me the photos?
+
+180
+00:11:12,703 --> 00:11:13,583
+What photos?
+
+181
+00:11:14,423 --> 00:11:17,013
+No, Mother, you're a
+knowledgeable lady...
+
+182
+00:11:17,054 --> 00:11:18,881
+who has been working for years, right?
+
+183
+00:11:18,922 --> 00:11:20,396
+Why did you become ignorant
+and old-fashioned...
+
+184
+00:11:20,437 --> 00:11:21,837
+when it comes to your child's marriage?
+
+185
+00:11:22,983 --> 00:11:23,860
+Not that I don't like it.
+
+186
+00:11:23,901 --> 00:11:25,182
+Just that it's too many.
+
+187
+00:11:25,223 --> 00:11:26,823
+I need to work too.
+
+188
+00:11:30,703 --> 00:11:31,583
+Mother?
+
+189
+00:11:34,649 --> 00:11:35,769
+Now she is mad.
+
+190
+00:11:45,023 --> 00:11:45,891
+Report!
+
+191
+00:11:45,932 --> 00:11:46,812
+Come in.
+
+192
+00:11:47,576 --> 00:11:48,456
+Captain,
+
+193
+00:11:49,943 --> 00:11:50,903
+Brigade Commander said...
+
+194
+00:11:53,583 --> 00:11:54,463
+Here it comes again.
+
+195
+00:11:59,295 --> 00:12:00,175
+What did he say?
+
+196
+00:12:00,903 --> 00:12:03,663
+Brigade Commander asked you to drive
+me to the hospital for a re-inspection...
+
+197
+00:12:03,703 --> 00:12:05,063
+and to visit Xiao Jun.
+
+198
+00:12:06,032 --> 00:12:06,912
+Noted.
+
+199
+00:12:16,021 --> 00:12:16,902
+You can take some.
+
+200
+00:12:16,943 --> 00:12:18,062
+No, Captain.
+
+201
+00:12:18,103 --> 00:12:19,253
+-Why did you ask me to take it?
+-Don't be shy.
+
+202
+00:12:19,293 --> 00:12:20,181
+-No!
+-Take it!
+
+203
+00:12:20,222 --> 00:12:21,422
+I didn't see it, really!
+
+204
+00:12:21,463 --> 00:12:22,763
+-Take a pick!
+-I really didn't see it!
+
+205
+00:12:22,813 --> 00:12:24,543
+-Captain!
+-Keep it...
+
+206
+00:12:24,783 --> 00:12:26,623
+Captain, I'll go change my clothes!
+
+207
+00:12:28,973 --> 00:12:30,263
+He was staring at it.
+
+208
+00:12:39,223 --> 00:12:40,103
+Captain,
+
+209
+00:12:40,679 --> 00:12:42,799
+You're really ungrateful.
+
+210
+00:12:43,343 --> 00:12:45,681
+How I wish my parents
+could arrange my marriage.
+
+211
+00:12:45,721 --> 00:12:46,801
+And you?
+
+212
+00:12:46,841 --> 00:12:48,469
+You don't appreciate it...
+
+213
+00:12:48,510 --> 00:12:50,942
+and you even keep
+yourself away from girls like a monk.
+
+214
+00:12:50,983 --> 00:12:52,006
+What's wrong with you?
+
+215
+00:12:52,047 --> 00:12:53,121
+I just don't like it.
+
+216
+00:12:53,161 --> 00:12:54,091
+What do you dislike?
+
+217
+00:12:54,783 --> 00:12:56,241
+There's always a stack of photos.
+
+218
+00:12:56,281 --> 00:12:57,921
+Looking at the photos, having blind dates.
+
+219
+00:12:58,573 --> 00:12:59,453
+It's so old-fashioned.
+
+220
+00:13:00,983 --> 00:13:02,342
+Why don't you just say...
+
+221
+00:13:02,383 --> 00:13:03,783
+you don't like any of the girls
+in the photos?
+
+222
+00:13:03,823 --> 00:13:05,263
+What's all this for?
+
+223
+00:13:05,583 --> 00:13:06,543
+What isn't old-fashioned?
+
+224
+00:13:07,743 --> 00:13:09,133
+Among tens of thousands of people,
+
+225
+00:13:09,573 --> 00:13:13,142
+in the boundless river
+spanning tens of thousands of years,
+
+226
+00:13:13,183 --> 00:13:15,383
+there's such thing as being too
+early or too late.
+
+227
+00:13:16,119 --> 00:13:19,703
+What a coincidence!
+You met the one you wish to meet.
+
+228
+00:13:20,423 --> 00:13:22,183
+You can only ask her discreetly,
+
+229
+00:13:22,631 --> 00:13:23,840
+"So you're here?"
+
+230
+00:13:24,187 --> 00:13:25,147
+Shut up!
+
+231
+00:13:25,503 --> 00:13:26,737
+Do you think this will work, Captain?
+
+232
+00:13:27,543 --> 00:13:28,423
+Stop talking.
+
+233
+00:13:29,933 --> 00:13:32,398
+According to the 3D printed heart model
+of the patient,
+
+234
+00:13:32,439 --> 00:13:36,182
+ASD runs obliquely between the lower
+part of the right superior and inferior...
+
+235
+00:13:36,223 --> 00:13:39,262
+pulmonary vein and the superior
+part of the inferior vena cava.
+
+236
+00:13:39,303 --> 00:13:43,321
+If we use APMLATZ septal occluder
+on the model to simulate the occlusion,
+
+237
+00:13:43,361 --> 00:13:45,561
+the right superior and inferior
+pulmonary vein will be obstructed,
+
+238
+00:13:45,601 --> 00:13:47,720
+which is the same problem
+on the first surgery.
+
+239
+00:13:48,943 --> 00:13:51,502
+If we use a PDA occluder to occlude it,
+
+240
+00:13:51,543 --> 00:13:53,881
+there'll be no obstruction on the right
+superior and inferior pulmonary vein
+
+241
+00:13:53,921 --> 00:13:55,881
+making for a tight and secure seal.
+
+242
+00:13:57,263 --> 00:14:00,880
+Above is the result of the surgical trial
+according to the 3D printed heart model.
+
+243
+00:14:01,844 --> 00:14:02,804
+I've finished the debrief.
+
+244
+00:14:03,205 --> 00:14:04,085
+Thank you.
+
+245
+00:14:06,503 --> 00:14:07,383
+Xia Chu,
+
+246
+00:14:08,157 --> 00:14:09,526
+prepare for the surgery.
+
+247
+00:14:13,143 --> 00:14:14,023
+Yes.
+
+248
+00:14:15,955 --> 00:14:17,245
+We don't need to cut the heart open?
+
+249
+00:14:17,743 --> 00:14:18,623
+Yes.
+
+250
+00:14:19,606 --> 00:14:21,540
+But I heard Dr. Zhang said...
+
+251
+00:14:21,581 --> 00:14:23,581
+it's hard to process
+with interventional surgery.
+
+252
+00:14:23,903 --> 00:14:24,920
+Yes, it is.
+
+253
+00:14:24,992 --> 00:14:27,743
+That's why we need to duplicate
+Xiao Jun's heart and simulate...
+
+254
+00:14:28,383 --> 00:14:30,863
+the occlusion on the heart model
+before the surgery.
+
+255
+00:14:33,303 --> 00:14:34,782
+Duplicating the heart,
+
+256
+00:14:34,823 --> 00:14:35,703
+does it really work?
+
+257
+00:14:36,072 --> 00:14:36,942
+Of course.
+
+258
+00:14:36,983 --> 00:14:39,007
+Conventional ultrasonic imaging
+with CT imaging...
+
+259
+00:14:39,048 --> 00:14:40,302
+and 3D data test mode,
+
+260
+00:14:40,343 --> 00:14:41,983
+these are the latest technologies.
+
+261
+00:14:43,015 --> 00:14:44,449
+Have there been any
+successful cases before?
+
+262
+00:14:45,503 --> 00:14:46,463
+Why are you here?
+
+263
+00:14:47,103 --> 00:14:48,737
+I'm with Tian Yong.
+He's here for a re-inspection.
+
+264
+00:14:50,623 --> 00:14:51,782
+If this is the first attempt...
+
+265
+00:14:51,823 --> 00:14:53,157
+This is the first time for our hospital.
+
+266
+00:14:53,663 --> 00:14:55,783
+But there's been successful cases
+in other hospitals.
+
+267
+00:14:57,126 --> 00:14:59,943
+3D printing technology
+can make a more accurate surgical plan.
+
+268
+00:15:00,463 --> 00:15:01,864
+There are certain
+risks in thoracotomy too.
+
+269
+00:15:02,253 --> 00:15:03,387
+As for the interventional surgery,
+
+270
+00:15:03,573 --> 00:15:05,062
+the damage it causes is relatively minor.
+
+271
+00:15:05,103 --> 00:15:06,503
+Why don't you give it a try?
+
+272
+00:15:11,613 --> 00:15:12,493
+Trust her.
+
+273
+00:15:27,103 --> 00:15:29,063
+I'm in charge of tomorrow's operation.
+
+274
+00:15:29,703 --> 00:15:31,903
+You failed in the first operation.
+
+275
+00:15:32,183 --> 00:15:34,343
+Interventional surgery is
+the field of cardiology.
+
+276
+00:15:34,836 --> 00:15:35,836
+Rest assured.
+
+277
+00:15:36,416 --> 00:15:39,823
+For a surgeon, an interventional surgery
+is nothing new.
+
+278
+00:15:45,231 --> 00:15:46,191
+What about this?
+
+279
+00:15:46,727 --> 00:15:49,023
+It's more intuitive with this.
+
+280
+00:15:56,613 --> 00:15:57,583
+What are you doing?
+
+281
+00:15:58,398 --> 00:15:59,465
+It's not our first time to kiss.
+
+282
+00:16:07,311 --> 00:16:08,441
+What are you doing?
+
+283
+00:16:08,481 --> 00:16:09,551
+Enough.
+
+284
+00:16:10,986 --> 00:16:12,720
+We've broken up for years.
+
+285
+00:16:14,160 --> 00:16:15,680
+Why did you do that?
+
+286
+00:16:20,064 --> 00:16:22,383
+Did you do that to your resident too?
+
+287
+00:16:24,343 --> 00:16:25,982
+-Which resident?
+-Xia Chu.
+
+288
+00:16:26,023 --> 00:16:27,173
+How is that possible?
+
+289
+00:16:27,214 --> 00:16:28,364
+You're ridiculous!
+
+290
+00:16:29,293 --> 00:16:30,382
+Let me tell you,
+
+291
+00:16:30,423 --> 00:16:34,197
+I've stayed away
+from all my colleagues...
+
+292
+00:16:34,238 --> 00:16:35,998
+since we broke up.
+
+293
+00:16:42,040 --> 00:16:44,040
+I knew you'd regret...
+
+294
+00:16:44,790 --> 00:16:46,070
+breaking up with me.
+
+295
+00:16:47,383 --> 00:16:49,360
+Why don't we get back together?
+
+296
+00:16:50,303 --> 00:16:53,040
+Stop! Stop! What are you doing?
+
+297
+00:16:53,823 --> 00:16:54,703
+I don't...
+
+298
+00:17:01,262 --> 00:17:04,863
+Don't tell me
+it's all because of an operation.
+
+299
+00:17:05,607 --> 00:17:09,063
+It's a huge operation that might
+break new grounds for clinical medicine.
+
+300
+00:17:11,772 --> 00:17:13,317
+Li Juan,
+
+301
+00:17:13,358 --> 00:17:16,558
+you haven't changed a bit
+after all these years.
+
+302
+00:17:17,303 --> 00:17:18,252
+Have you changed?
+
+303
+00:17:23,863 --> 00:17:25,463
+I am responsible for my patient.
+
+304
+00:17:31,063 --> 00:17:32,863
+I thought you would
+oppose this operation.
+
+305
+00:17:36,023 --> 00:17:37,503
+A doctor told me.
+
+306
+00:17:37,935 --> 00:17:40,055
+When a patient is
+on the operating table,
+
+307
+00:17:40,638 --> 00:17:42,558
+the person who wishes for
+his safety the most...
+
+308
+00:17:43,463 --> 00:17:44,343
+is the doctor.
+
+309
+00:17:49,070 --> 00:17:49,950
+True.
+
+310
+00:18:33,039 --> 00:18:35,559
+Is the 3D printed heart model reliable?
+
+311
+00:18:36,173 --> 00:18:39,480
+It should be performed
+by a cardiologist if it has to be done.
+
+312
+00:18:40,383 --> 00:18:41,263
+One more time.
+
+313
+00:18:43,878 --> 00:18:45,118
+This operation won't work.
+
+314
+00:18:45,836 --> 00:18:46,716
+Why not?
+
+315
+00:18:47,343 --> 00:18:50,525
+We've studied the patient's
+3D printed heart model thoroughly...
+
+316
+00:18:50,566 --> 00:18:52,481
+and the surgical plan
+is well-established.
+
+317
+00:18:52,522 --> 00:18:55,200
+What remains is
+seriousness and patience.
+
+318
+00:18:55,663 --> 00:18:56,623
+There will be no problems.
+
+319
+00:19:23,457 --> 00:19:25,840
+Zhang Yi Chi is going
+to perform the repair of ASD.
+
+320
+00:19:35,703 --> 00:19:37,603
+Notify the anesthesiologist
+and extracorporeal circulation...
+
+321
+00:19:37,663 --> 00:19:38,943
+to prepare for the repair of ASD.
+
+322
+00:19:39,983 --> 00:19:40,863
+Yes, Dr. Zhang.
+
+323
+00:19:48,783 --> 00:19:49,663
+Dr. Zhang,
+
+324
+00:19:51,943 --> 00:19:53,413
+use model 26 PDA occluder.
+
+325
+00:19:54,303 --> 00:19:55,263
+We've tried it many times.
+
+326
+00:19:55,583 --> 00:19:56,859
+Its umbrella is more stable.
+
+327
+00:19:56,900 --> 00:19:57,780
+You can't go wrong.
+
+328
+00:20:06,103 --> 00:20:06,983
+Sir,
+
+329
+00:20:07,383 --> 00:20:08,343
+please don't give up.
+
+330
+00:20:11,543 --> 00:20:12,423
+Try it again.
+
+331
+00:20:14,903 --> 00:20:17,063
+Open model 26 PDA occluder.
+
+332
+00:20:17,461 --> 00:20:18,341
+Yes.
+
+333
+00:20:40,757 --> 00:20:41,637
+Dr. Zhang.
+
+334
+00:20:44,143 --> 00:20:45,023
+Dr. Zhang.
+
+335
+00:20:45,503 --> 00:20:46,383
+It's successful.
+
+336
+00:20:48,694 --> 00:20:52,823
+We had a little trouble while occluding
+the ASD at first,
+
+337
+00:20:53,343 --> 00:20:54,582
+but then at her insistence,
+
+338
+00:20:54,623 --> 00:20:58,422
+we promptly
+replaced it with a PDA occluder,
+
+339
+00:20:58,463 --> 00:20:59,343
+and it worked.
+
+340
+00:21:06,029 --> 00:21:07,029
+Thank you!
+
+341
+00:21:08,063 --> 00:21:08,943
+Thank you!
+
+342
+00:21:09,983 --> 00:21:10,863
+Thank you!
+
+343
+00:21:12,076 --> 00:21:13,196
+And Dr. Xia.
+
+344
+00:21:13,743 --> 00:21:15,103
+Thank you very much!
+
+345
+00:21:16,421 --> 00:21:19,743
+You guys really are angels, thank you.
+
+346
+00:21:20,367 --> 00:21:22,447
+Okay, you can rest assured now.
+
+347
+00:21:23,540 --> 00:21:24,774
+I have to drop by the emergency room.
+
+348
+00:21:26,173 --> 00:21:27,053
+Go on, you go on.
+
+349
+00:21:37,263 --> 00:21:38,143
+I'll get going.
+
+350
+00:21:50,351 --> 00:21:53,031
+Dr. Xia told you that, didn't she?
+
+351
+00:21:54,343 --> 00:21:55,223
+Yes.
+
+352
+00:22:00,543 --> 00:22:03,143
+You work this hard just for an operation?
+
+353
+00:22:06,343 --> 00:22:08,302
+It's not about the operation,
+
+354
+00:22:08,343 --> 00:22:09,743
+it's for saving the patient.
+
+355
+00:22:10,903 --> 00:22:13,223
+Then how do you feel
+about reclaiming the patient?
+
+356
+00:22:14,783 --> 00:22:16,222
+A patient is not a prize.
+
+357
+00:22:16,263 --> 00:22:17,463
+Don't use the word "claim."
+
+358
+00:22:18,583 --> 00:22:19,903
+I tell you what, Xia Chu.
+
+359
+00:22:20,743 --> 00:22:23,703
+Every resident in this hospital
+wishes to take part in the surgery.
+
+360
+00:22:24,223 --> 00:22:25,583
+We work hard to show our strengths.
+
+361
+00:22:25,943 --> 00:22:29,303
+I finally got a chance
+but you easily took it from me.
+
+362
+00:22:30,543 --> 00:22:32,201
+You took advantage of me.
+
+363
+00:22:32,242 --> 00:22:33,722
+I'm enough with your sweet-talk.
+
+364
+00:22:34,920 --> 00:22:37,150
+Do you know
+how annoying you are?
+
+365
+00:22:40,390 --> 00:22:41,441
+Easily?
+
+366
+00:22:41,761 --> 00:22:44,041
+I only slept for
+10 hours in seven days for this model.
+
+367
+00:22:44,082 --> 00:22:46,333
+I kept researching, practicing and
+recording data during this period.
+
+368
+00:22:46,374 --> 00:22:48,332
+From the operation in the morning
+to the handover,
+
+369
+00:22:48,373 --> 00:22:50,041
+I didn't even have time to eat.
+
+370
+00:22:50,081 --> 00:22:51,401
+I'm so sleepy and hungry I could vomit,
+
+371
+00:22:51,441 --> 00:22:52,961
+but I keep going, why?
+
+372
+00:22:53,000 --> 00:22:55,614
+Because someone told me
+not to give up on my patient...
+
+373
+00:22:55,655 --> 00:22:56,644
+until the last minute.
+
+374
+00:22:56,685 --> 00:22:58,827
+I made it.
+Now, I'm really happy.
+
+375
+00:22:58,868 --> 00:23:01,212
+Your likes and dislikes
+are meaningless to me.
+
+376
+00:23:01,253 --> 00:23:03,600
+I didn't come to this hospital
+to please you.
+
+377
+00:23:15,223 --> 00:23:16,213
+Why are you here?
+
+378
+00:23:16,870 --> 00:23:17,830
+You haven't eaten, right?
+
+379
+00:23:18,822 --> 00:23:20,415
+Laoyou noodles, without spices.
+
+380
+00:23:20,456 --> 00:23:21,496
+Your favourite taste.
+
+381
+00:23:25,946 --> 00:23:27,636
+You don't have to be like this.
+
+382
+00:23:35,126 --> 00:23:36,116
+Did the surgery go well?
+
+383
+00:23:37,703 --> 00:23:38,583
+Yes.
+
+384
+00:23:41,783 --> 00:23:42,863
+The model is useful.
+
+385
+00:23:43,701 --> 00:23:44,581
+Thank you.
+
+386
+00:23:45,183 --> 00:23:46,063
+That's great.
+
+387
+00:23:47,063 --> 00:23:48,263
+Eat the noodles before it gets cold.
+
+388
+00:23:48,303 --> 00:23:49,223
+I'll leave first.
+
+389
+00:23:55,103 --> 00:23:55,983
+How are things going?
+
+390
+00:23:57,519 --> 00:23:58,681
+Xiao Jun hasn't come out yet.
+
+391
+00:23:58,721 --> 00:23:59,755
+I'm in the middle of something.
+
+392
+00:25:00,703 --> 00:25:01,583
+Dr. Xia, you're awake.
+
+393
+00:25:03,935 --> 00:25:04,935
+Dr. Xia, you've worked hard.
+
+394
+00:25:11,724 --> 00:25:12,804
+Can I help you?
+
+395
+00:25:15,726 --> 00:25:16,606
+Nothing.
+
+396
+00:25:18,983 --> 00:25:21,583
+Have you found a place to stay?
+
+397
+00:25:22,343 --> 00:25:23,511
+I'm still searching.
+
+398
+00:25:23,552 --> 00:25:24,752
+I've been working overtime recently.
+
+399
+00:25:24,793 --> 00:25:26,073
+I have no time for it.
+
+400
+00:25:27,440 --> 00:25:28,960
+Then stop looking. Just live in my house.
+
+401
+00:25:30,775 --> 00:25:31,655
+What?
+
+402
+00:25:33,720 --> 00:25:34,600
+Really?
+
+403
+00:25:34,903 --> 00:25:35,783
+Yes.
+
+404
+00:25:38,349 --> 00:25:40,909
+You're not that generous, Liang Mu Ze.
+
+405
+00:25:41,732 --> 00:25:42,612
+Yes.
+
+406
+00:25:43,223 --> 00:25:44,093
+There's a condition.
+
+407
+00:25:44,236 --> 00:25:45,116
+Okay.
+
+408
+00:25:45,583 --> 00:25:47,103
+You didn't even ask what the condition is.
+
+409
+00:25:47,599 --> 00:25:48,742
+I'm fine with everything.
+
+410
+00:25:48,783 --> 00:25:50,983
+Nothing is more important
+than one's life and death.
+
+411
+00:25:51,863 --> 00:25:52,743
+Okay then.
+
+412
+00:25:53,728 --> 00:25:54,608
+Date me.
+
+413
+00:25:57,751 --> 00:25:58,631
+What did you say?
+
+414
+00:25:59,167 --> 00:26:00,047
+Date me.
+
+415
+00:26:00,422 --> 00:26:01,452
+To handle my mother.
+
+416
+00:26:01,983 --> 00:26:02,863
+Just fake it.
+
+417
+00:26:04,656 --> 00:26:06,016
+Liang Mu Ze, are you crazy?
+
+418
+00:26:06,503 --> 00:26:07,783
+How could we pretend to fall in love?
+
+419
+00:26:07,824 --> 00:26:08,894
+Definitely not.
+
+420
+00:26:09,663 --> 00:26:11,690
+Did you spread
+the information about me having a son?
+
+421
+00:26:13,023 --> 00:26:13,903
+I...
+
+422
+00:26:14,160 --> 00:26:15,680
+I didn't mean to.
+
+423
+00:26:16,663 --> 00:26:18,053
+My mother forced me.
+
+424
+00:26:18,094 --> 00:26:19,374
+I had no choice.
+
+425
+00:26:20,303 --> 00:26:22,262
+She always tries to set us up.
+
+426
+00:26:22,303 --> 00:26:24,919
+If I don't get firm with her
+and put a stop to it,
+
+427
+00:26:24,959 --> 00:26:26,199
+she'd never stop nagging me.
+
+428
+00:26:27,786 --> 00:26:29,822
+You did wipe it out of your mother's mind.
+
+429
+00:26:29,863 --> 00:26:31,973
+But my mother is
+dying to take girls to my unit.
+
+430
+00:26:32,623 --> 00:26:33,503
+What should I do?
+
+431
+00:26:35,023 --> 00:26:36,143
+Isn't that great?
+
+432
+00:26:42,223 --> 00:26:43,103
+No.
+
+433
+00:26:43,413 --> 00:26:45,263
+I really can't pretend to fall in love.
+
+434
+00:26:46,743 --> 00:26:49,383
+Moreover,
+what if you really fall in love with me?
+
+435
+00:26:49,424 --> 00:26:50,584
+Just worry about yourself.
+
+436
+00:26:51,623 --> 00:26:53,423
+Me? Why should I be worried?
+
+437
+00:26:56,783 --> 00:26:58,303
+I'll fall in love with you?
+
+438
+00:27:02,055 --> 00:27:03,335
+Are you kidding?
+
+439
+00:27:17,247 --> 00:27:19,327
+By your silence,
+I assume you accept it.
+
+440
+00:27:46,783 --> 00:27:47,863
+I ate.
+
+441
+00:27:50,423 --> 00:27:51,690
+A dose of public display of affection.
+
+442
+00:27:53,783 --> 00:27:55,263
+Liang Mu Ze, don't be like this.
+
+443
+00:27:55,535 --> 00:27:57,015
+What if someone sees us?
+
+444
+00:27:59,592 --> 00:28:00,752
+You made me nervous.
+
+445
+00:28:01,072 --> 00:28:02,272
+Why are you so nervous, Dr. Xia?
+
+446
+00:28:02,623 --> 00:28:03,503
+I...
+
+447
+00:28:04,863 --> 00:28:06,183
+I'm just shocked.
+
+448
+00:28:08,183 --> 00:28:09,077
+By the way,
+
+449
+00:28:09,118 --> 00:28:11,503
+why must you ask me
+to trick your mother?
+
+450
+00:28:13,093 --> 00:28:14,183
+You live in my house.
+
+451
+00:28:14,853 --> 00:28:15,863
+And you refuse to help me?
+
+452
+00:28:16,638 --> 00:28:17,598
+It must be you.
+
+453
+00:28:25,371 --> 00:28:26,251
+Senior.
+
+454
+00:28:26,583 --> 00:28:27,463
+Where are you?
+
+455
+00:28:28,487 --> 00:28:30,422
+I'm in the hospital on afternoon break.
+
+456
+00:28:30,463 --> 00:28:31,343
+How about tomorrow?
+
+457
+00:28:32,360 --> 00:28:33,600
+I have a night shift tomorrow.
+
+458
+00:28:34,639 --> 00:28:36,120
+What's wrong?
+What's up?
+
+459
+00:28:36,579 --> 00:28:38,179
+Professor Zhao of the
+Military Medical University...
+
+460
+00:28:38,220 --> 00:28:40,020
+had three consecutive
+operations yesterday.
+
+461
+00:28:40,383 --> 00:28:42,693
+He died of acute myocardial
+infarction on his way home.
+
+462
+00:28:43,063 --> 00:28:44,383
+Can you stop by?
+
+463
+00:28:45,740 --> 00:28:48,063
+Okay.
+Wait for me, I'll be right over.
+
+464
+00:28:51,183 --> 00:28:52,143
+Deal?
+
+465
+00:28:55,663 --> 00:28:56,543
+What's wrong?
+
+466
+00:28:57,903 --> 00:28:59,703
+One of my professors
+at the Military Medical University...
+
+467
+00:29:00,949 --> 00:29:02,389
+died of acute myocardial infarction.
+
+468
+00:29:06,140 --> 00:29:07,020
+Where are you going?
+
+469
+00:29:07,783 --> 00:29:08,663
+To the airport.
+
+470
+00:29:09,213 --> 00:29:10,093
+I'll give you a ride.
+
+471
+00:29:12,663 --> 00:29:14,223
+I booked the 2:00 PM flight.
+
+472
+00:29:14,983 --> 00:29:15,943
+You don't have to pick me up.
+
+473
+00:29:15,984 --> 00:29:17,142
+Just send me the address.
+
+474
+00:29:17,183 --> 00:29:18,183
+I'll go there by myself.
+
+475
+00:29:19,333 --> 00:29:20,213
+Okay.
+
+476
+00:29:33,343 --> 00:29:35,063
+Mr. Zhang, I'm off.
+
+477
+00:29:35,663 --> 00:29:37,163
+Something's up,
+I'm going back to my hometown.
+
+478
+00:29:37,204 --> 00:29:38,880
+I'll be back before
+tomorrow's night shift.
+
+479
+00:29:52,263 --> 00:29:54,263
+Just a few days before his retirement.
+
+480
+00:29:55,863 --> 00:29:57,360
+His greatest wish...
+
+481
+00:29:58,463 --> 00:30:02,543
+is to travel the world with his wife
+after retirement...
+
+482
+00:30:03,983 --> 00:30:06,720
+to make up for the time
+he's owed his family due to work.
+
+483
+00:30:08,813 --> 00:30:10,720
+Mrs. Zhang is a high-school
+geography teacher.
+
+484
+00:30:11,791 --> 00:30:13,520
+The farthest place they'd ever been to...
+
+485
+00:30:15,103 --> 00:30:17,383
+was Yellow Mountain,
+which they visited on their honeymoon.
+
+486
+00:30:22,023 --> 00:30:23,473
+Every time I go to Mr. Zhang's house,
+
+487
+00:30:24,833 --> 00:30:27,600
+Mrs. Zhang will take out
+the photo and tell me...
+
+488
+00:30:29,073 --> 00:30:30,440
+they would go to...
+
+489
+00:30:32,353 --> 00:30:34,463
+Yellow Mountain again
+after Mr. Zhang retires...
+
+490
+00:30:34,903 --> 00:30:36,073
+to see the clouds.
+
+491
+00:30:42,527 --> 00:30:45,007
+He's gone just like that.
+
+492
+00:31:10,393 --> 00:31:11,273
+Let's go.
+
+493
+00:31:12,593 --> 00:31:14,593
+I think it's stuck.
+
+494
+00:31:15,353 --> 00:31:16,233
+Let me take a look.
+
+495
+00:31:24,488 --> 00:31:25,368
+Done.
+
+496
+00:31:30,713 --> 00:31:31,633
+-Go.
+-Thank you.
+
+497
+00:31:32,673 --> 00:31:33,593
+Do you have money?
+
+498
+00:31:34,695 --> 00:31:35,575
+I do.
+
+499
+00:31:35,953 --> 00:31:36,833
+Then
+
+500
+00:31:37,183 --> 00:31:38,063
+I'll get going.
+
+501
+00:31:38,216 --> 00:31:39,096
+Go.
+
+502
+00:31:46,423 --> 00:31:47,743
+About pretending to be your girlfriend,
+
+503
+00:31:48,313 --> 00:31:50,793
+I'll do it
+if it's a genuine need.
+
+504
+00:31:52,544 --> 00:31:53,778
+We'll talk about it when you're back.
+
+505
+00:32:04,583 --> 00:32:07,663
+Selling point!
+It must have a selling point!
+
+506
+00:32:08,056 --> 00:32:10,976
+The reason why
+the last issue became a hot topic...
+
+507
+00:32:19,793 --> 00:32:21,273
+3D printing company?
+
+508
+00:32:22,777 --> 00:32:23,657
+Mi Gu, what did you say?
+
+509
+00:32:25,482 --> 00:32:27,562
+Are you listening to me?
+
+510
+00:32:28,089 --> 00:32:28,952
+I'm listening.
+
+511
+00:32:28,993 --> 00:32:29,841
+So...
+
+512
+00:32:29,882 --> 00:32:33,073
+You think
+it's in a 3D printing company?
+
+513
+00:32:41,793 --> 00:32:43,473
+This is what I'm thinking
+about this problem.
+
+514
+00:32:51,873 --> 00:32:54,153
+This is the power of modern technology.
+
+515
+00:32:56,774 --> 00:32:57,654
+Good.
+
+516
+00:32:58,841 --> 00:32:59,721
+We'll do this.
+
+517
+00:33:00,976 --> 00:33:01,856
+Leave it to me.
+
+518
+00:33:20,641 --> 00:33:24,527
+Mi Gu, please draft a thematic plan
+about the 3D printing topic...
+
+519
+00:33:24,568 --> 00:33:26,481
+as soon as possible.
+
+520
+00:33:27,083 --> 00:33:28,400
+I'm looking forward to it.
+
+521
+00:33:46,080 --> 00:33:47,880
+Hello, I am Mi Gu.
+
+522
+00:33:49,440 --> 00:33:52,542
+I'd like to meet up and
+talk with you about 3D printing.
+
+523
+00:33:52,583 --> 00:33:53,543
+Are you free?
+
+524
+00:34:25,433 --> 00:34:29,273
+I'm sorry.
+The user you're calling is not available.
+
+525
+00:34:40,572 --> 00:34:42,702
+Can you contact Zhuo Ran for me?
+
+526
+00:34:42,743 --> 00:34:44,000
+I'm looking for him.
+
+527
+00:35:43,032 --> 00:35:44,312
+I've met Mrs. Zhang.
+
+528
+00:35:44,793 --> 00:35:45,673
+Everything is fine.
+
+529
+00:35:46,181 --> 00:35:47,421
+Thank you for giving me a ride.
+
+530
+00:35:51,653 --> 00:35:55,173
+(Friend request)
+
+531
+00:36:03,533 --> 00:36:10,223
+(Special Forces: Accept)
+
+532
+00:36:28,263 --> 00:36:34,813
+(Set note and tag)
+
+533
+00:36:38,273 --> 00:36:39,153
+It's rare.
+
+534
+00:36:40,686 --> 00:36:41,896
+You proactively add a friend.
+
+535
+00:36:42,953 --> 00:36:43,833
+And it's a girl.
+
+536
+00:36:44,488 --> 00:36:45,350
+Can't I do that?
+
+537
+00:36:45,391 --> 00:36:46,391
+You can.
+
+538
+00:36:46,913 --> 00:36:47,793
+Is she extraordinary?
+
+539
+00:36:48,633 --> 00:36:49,761
+No.
+
+540
+00:36:49,801 --> 00:36:52,161
+But she is a doctor, she saved Xiao Jun.
+
+541
+00:36:53,513 --> 00:36:54,813
+How long have you been living together?
+
+542
+00:36:56,953 --> 00:36:58,853
+Not even a ten-thousandth
+of the time we've been together.
+
+543
+00:37:00,873 --> 00:37:01,753
+Well played.
+
+544
+00:37:03,473 --> 00:37:05,593
+Why do I feel that
+you treat her differently?
+
+545
+00:37:06,310 --> 00:37:07,392
+What's the difference?
+
+546
+00:37:07,433 --> 00:37:08,477
+Look.
+
+547
+00:37:08,518 --> 00:37:09,528
+To send her to the airport,
+
+548
+00:37:10,193 --> 00:37:13,313
+you left me in the hospital for so long.
+
+549
+00:37:15,233 --> 00:37:17,072
+You put off rejoining the unit...
+
+550
+00:37:17,113 --> 00:37:20,878
+and you have to take the risk of
+being lectured by Brigade Commander.
+
+551
+00:37:20,919 --> 00:37:22,440
+Isn't the reason sufficient?
+
+552
+00:37:22,481 --> 00:37:23,441
+Isn't that obvious?
+
+553
+00:37:24,960 --> 00:37:26,440
+You're giving a reason...
+
+554
+00:37:27,157 --> 00:37:29,440
+to scold you if you don't drive faster.
+
+555
+00:37:30,593 --> 00:37:31,473
+Yes, sir!
+
+556
+00:37:32,471 --> 00:37:34,711
+It is hard to meet and hard to part too.
+
+557
+00:37:35,953 --> 00:37:38,953
+As the east wind wanes,
+all the flowers fade.
+
+558
+00:37:39,753 --> 00:37:42,353
+Silkworms won't stop spinning
+silk till they die.
+
+559
+00:37:42,936 --> 00:37:44,816
+Sericulture is the new way to get rich.
+
+560
+00:37:45,513 --> 00:37:46,393
+Drive fast.
+
+561
+00:38:17,113 --> 00:38:18,193
+Xia, are you back?
+
+562
+00:38:19,193 --> 00:38:20,983
+I left the snow mushroom soup
+on the table.
+
+563
+00:38:21,024 --> 00:38:22,200
+Drink it.
+
+564
+00:38:55,753 --> 00:38:57,033
+Ms. Lan.
+
+565
+00:38:58,071 --> 00:39:01,110
+Girl, you're back. You scared me.
+
+566
+00:39:01,151 --> 00:39:02,471
+I thought it was your father.
+
+567
+00:39:03,392 --> 00:39:05,352
+Have you eaten?
+I'll cook for you.
+
+568
+00:39:05,393 --> 00:39:06,393
+Never mind.
+
+569
+00:39:07,054 --> 00:39:08,254
+I've eaten.
+
+570
+00:39:09,273 --> 00:39:10,233
+You've eaten?
+
+571
+00:39:11,055 --> 00:39:13,241
+You didn't have your first meal
+at home when you're back.
+
+572
+00:39:13,281 --> 00:39:14,201
+Where did you eat?
+
+573
+00:39:14,767 --> 00:39:15,647
+What did you eat?
+
+574
+00:39:18,119 --> 00:39:19,039
+Ms. Lan,
+
+575
+00:39:20,033 --> 00:39:22,233
+I want to sleep with you tonight.
+
+576
+00:39:26,479 --> 00:39:27,719
+Silly girl,
+
+577
+00:39:28,038 --> 00:39:30,713
+you're past the age to act like a baby.
+
+578
+00:39:36,273 --> 00:39:37,592
+Look at it.
+
+579
+00:39:37,633 --> 00:39:39,993
+How long since
+you've cleaned your ear wax?
+
+580
+00:39:40,393 --> 00:39:41,273
+Don't move.
+
+581
+00:39:46,071 --> 00:39:47,398
+Home is the best, right?
+
+582
+00:39:50,679 --> 00:39:51,760
+Don't leave then.
+
+583
+00:39:53,193 --> 00:39:54,232
+No.
+
+584
+00:39:54,273 --> 00:39:55,393
+I still need to work.
+
+585
+00:39:56,711 --> 00:39:58,672
+You're like your father.
+
+586
+00:39:58,713 --> 00:39:59,913
+You're a workaholic.
+
+587
+00:40:02,583 --> 00:40:04,113
+Has Father been busy recently?
+
+588
+00:40:06,273 --> 00:40:07,312
+Sure.
+
+589
+00:40:07,353 --> 00:40:09,273
+He's so busy that he's been gone
+for three weeks.
+
+590
+00:40:10,833 --> 00:40:13,913
+Where did you two go
+for your honeymoon?
+
+591
+00:40:14,633 --> 00:40:16,233
+No honeymoon.
+
+592
+00:40:17,073 --> 00:40:18,727
+Your father was summoned...
+
+593
+00:40:18,768 --> 00:40:21,368
+by the research group the day
+after our wedding.
+
+594
+00:40:23,633 --> 00:40:24,593
+Don't move!
+
+595
+00:40:26,713 --> 00:40:30,033
+Then you two must go on
+a trip when father retires.
+
+596
+00:40:30,193 --> 00:40:31,273
+I'll pay for you.
+
+597
+00:40:31,593 --> 00:40:32,673
+You'll pay for us?
+
+598
+00:40:34,993 --> 00:40:37,273
+What can you do for us with your
+starvation wage?
+
+599
+00:40:38,433 --> 00:40:40,833
+Just take good care of yourself,
+
+600
+00:40:41,712 --> 00:40:42,952
+that would be enough for me.
+
+601
+00:40:43,303 --> 00:40:44,473
+I'm doing fine.
+
+602
+00:40:46,823 --> 00:40:47,703
+Right.
+
+603
+00:40:47,913 --> 00:40:50,593
+Why did you come back
+all of a sudden?
+
+604
+00:40:54,944 --> 00:40:56,211
+Did someone bully you in the hospital?
+
+605
+00:40:56,873 --> 00:40:57,753
+No.
+
+606
+00:40:58,673 --> 00:41:00,233
+Were you not satisfied
+with your new house?
+
+607
+00:41:01,633 --> 00:41:02,513
+No.
+
+608
+00:41:05,193 --> 00:41:06,073
+You've got a boyfriend?
+
+609
+00:41:08,028 --> 00:41:09,871
+Stop being ridiculous.
+
+610
+00:41:09,912 --> 00:41:11,422
+I'm sleepy, let's sleep.
+
+611
+00:41:11,463 --> 00:41:12,455
+You...
+
+612
+00:41:12,496 --> 00:41:13,512
+You stupid girl.
+
+613
+00:41:13,553 --> 00:41:15,632
+You always avoid me
+when I talk about something important.
+
+614
+00:41:15,673 --> 00:41:16,833
+Avoid me, will you?
+
+615
+00:41:20,953 --> 00:41:22,793
+Why did you want to go that far?
+
+616
+00:41:24,343 --> 00:41:27,353
+I worry when you're away from home.
+
+617
+00:41:28,519 --> 00:41:31,239
+I worry when you're back home.
+
+618
+00:41:32,727 --> 00:41:36,074
+You think that I'm naggy
+and you refuse to listen to me, don't you?
+
+619
+00:41:36,473 --> 00:41:38,680
+I can only worry by myself.
+
+620
+00:41:40,685 --> 00:41:41,895
+You'll know it one day.
+
+621
+00:41:43,450 --> 00:41:45,535
+You'll know it when you become a mother.
+
+622
+00:41:45,576 --> 00:41:47,416
+That whether every mother
+in the world is the same.
+
+623
+00:42:03,713 --> 00:42:04,753
+I'm fine.
+
+624
+00:42:06,553 --> 00:42:08,160
+I just missed you guys...
+
+625
+00:42:09,818 --> 00:42:11,320
+and wanted to come home.
+
+626
+00:42:14,873 --> 00:42:18,480
+I shouldn't have
+allowed you to study medicine.
+
+627
+00:42:19,170 --> 00:42:20,120
+You're right.
+
+628
+00:42:20,988 --> 00:42:22,748
+What's good to study medicine?
+
+629
+00:42:25,128 --> 00:42:27,031
+But I like it.
+
+630
+00:42:27,072 --> 00:42:28,072
+What should I do?
+
+631
+00:43:12,410 --> 00:43:16,510
+(Military University Professor died of
+sudden heart attack due to overwork.)
+
+632
+00:44:04,913 --> 00:44:06,313
+I'm back!
+
+633
+00:44:06,833 --> 00:44:07,793
+Er Miao.
+
+634
+00:44:09,263 --> 00:44:10,463
+Er Miao.
+
+635
+00:44:10,586 --> 00:44:12,560
+Do you miss me?
+
+636
+00:44:13,433 --> 00:44:15,033
+Look what I've got you.
+
+637
+00:44:21,273 --> 00:44:22,433
+Liang Mu Ze?
+
+638
+00:44:25,045 --> 00:44:27,375
+The combat zone is organizing
+a special training for the reserve force.
+
+639
+00:44:27,416 --> 00:44:28,336
+It'll last for 20 days.
+
+640
+00:44:28,673 --> 00:44:30,140
+We're allowed to go home
+during the weekends.
