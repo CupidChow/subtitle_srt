@@ -1,0 +1,915 @@
+1
+00:00:13,984 --> 00:00:15,966
+♪I wrote a stroke♪
+
+2
+00:00:17,533 --> 00:00:19,264
+♪About you and me♪
+
+3
+00:00:20,864 --> 00:00:22,432
+♪You pass like the wind♪
+
+4
+00:00:22,978 --> 00:00:26,105
+♪I follow like a leaf♪
+
+5
+00:00:28,109 --> 00:00:30,432
+♪But just you and me♪
+
+6
+00:00:31,808 --> 00:00:34,376
+♪Had no happy ending♪
+
+7
+00:00:35,488 --> 00:00:40,318
+♪Perhaps it was just a chance encounter♪
+
+8
+00:00:40,768 --> 00:00:47,970
+♪I turn memories over with great care♪
+
+9
+00:00:48,912 --> 00:00:54,176
+♪Afraid to lose the past♪
+
+10
+00:00:55,161 --> 00:01:02,462
+♪Tears fall quietly with the plot♪
+
+11
+00:01:03,168 --> 00:01:09,184
+♪Shattered with no response♪
+
+12
+00:01:09,184 --> 00:01:10,336
+♪The wind once♪
+
+13
+00:01:10,528 --> 00:01:11,712
+♪Through layers of mist♪
+
+14
+00:01:11,712 --> 00:01:12,960
+♪And snowy scenes♪
+
+15
+00:01:12,960 --> 00:01:16,483
+♪Gently cradled the leaf in my palm♪
+
+16
+00:01:16,483 --> 00:01:17,504
+♪But♪
+
+17
+00:01:17,504 --> 00:01:18,240
+♪Winds will cease♪
+
+18
+00:01:18,325 --> 00:01:19,309
+♪Leaves will wither♪
+
+19
+00:01:19,309 --> 00:01:21,131
+♪Our meeting was too fleeting♪
+
+20
+00:01:21,131 --> 00:01:23,664
+♪It's an unavoidable fate♪
+
+21
+00:01:23,664 --> 00:01:24,640
+♪I too once♪
+
+22
+00:01:24,640 --> 00:01:25,568
+♪Walked through♪
+
+23
+00:01:25,568 --> 00:01:26,544
+♪A sea of people♪
+
+24
+00:01:26,544 --> 00:01:28,096
+♪Unafraid of how far it is♪
+
+25
+00:01:28,096 --> 00:01:30,784
+♪Racing under stars toward you♪
+
+26
+00:01:30,784 --> 00:01:31,904
+♪But♪
+
+27
+00:01:31,904 --> 00:01:32,704
+♪Time is heartless♪
+
+28
+00:01:32,704 --> 00:01:33,559
+♪You never yield♪
+
+29
+00:01:33,559 --> 00:01:35,936
+♪Let love remain♪
+
+30
+00:01:35,936 --> 00:01:41,184
+=Spring Night=
+
+31
+00:01:41,504 --> 00:01:45,216
+=Episode 8=
+
+32
+00:01:59,621 --> 00:02:01,938
+♪When we were young♪
+
+33
+00:02:01,938 --> 00:02:03,941
+♪We traveled together♪
+
+34
+00:02:03,941 --> 00:02:05,580
+♪We made a pact♪
+
+35
+00:02:06,469 --> 00:02:08,775
+♪It's hard to obtain a wish♪
+
+36
+00:02:08,775 --> 00:02:10,570
+♪So close♪
+
+37
+00:02:10,570 --> 00:02:13,216
+♪We keep silent♪
+
+38
+00:02:13,349 --> 00:02:15,666
+♪Leaving one alone♪
+
+39
+00:02:15,666 --> 00:02:17,669
+♪Looking back now♪
+
+40
+00:02:17,669 --> 00:02:19,308
+♪Between heaven and earth♪
+
+41
+00:02:19,584 --> 00:02:21,696
+♪How to hold a memory♪
+
+42
+00:02:21,696 --> 00:02:26,949
+♪How to say goodbye♪
+
+43
+00:02:27,296 --> 00:02:29,951
+♪Back then♪
+
+44
+00:02:29,951 --> 00:02:33,527
+♪Both dreamlike and real♪
+
+45
+00:02:34,245 --> 00:02:36,581
+♪It was windy and snowy♪
+
+46
+00:02:36,832 --> 00:02:41,077
+♪It was pure and bright♪
+
+47
+00:02:41,312 --> 00:02:43,749
+♪Remembering a past life♪
+
+48
+00:02:43,749 --> 00:02:47,232
+♪No regrets for this chapter♪
+
+49
+00:02:47,232 --> 00:02:51,059
+♪Can I still hope for one day♪
+
+50
+00:02:51,328 --> 00:02:54,821
+♪When we meet again♪
+
+51
+00:03:09,237 --> 00:03:11,892
+♪Back then♪
+
+52
+00:03:11,892 --> 00:03:15,468
+♪Both dreamlike and real♪
+
+53
+00:03:16,186 --> 00:03:18,522
+♪It was windy and snowy♪
+
+54
+00:03:18,773 --> 00:03:23,018
+♪It was pure and bright♪
+
+55
+00:03:23,253 --> 00:03:25,690
+♪Remembering a past life♪
+
+56
+00:03:25,690 --> 00:03:29,173
+♪No regrets for this chapter♪
+
+57
+00:03:29,173 --> 00:03:33,000
+♪Can I still hope for one day♪
+
+58
+00:03:33,000 --> 00:03:35,936
+♪When we meet again♪
+
+59
+00:03:36,512 --> 00:03:40,725
+♪Can I still hope for one day♪
+
+60
+00:03:43,648 --> 00:03:48,278
+♪When we meet again♪
+
+61
+00:04:21,520 --> 00:04:23,720
+Look, this is how you
+should tie the wish ribbon.
+
+62
+00:04:23,880 --> 00:04:25,400
+That way it's secure.
+
+63
+00:04:26,000 --> 00:04:27,120
+The one you tied
+
+64
+00:04:27,120 --> 00:04:28,440
+would get blown away by the wind.
+
+65
+00:04:28,800 --> 00:04:30,840
+How could your wish come true then?
+
+66
+00:04:30,840 --> 00:04:31,560
+Right?
+
+67
+00:04:31,720 --> 00:04:32,240
+Right.
+
+68
+00:04:36,040 --> 00:04:37,200
+My brother was here.
+
+69
+00:04:44,280 --> 00:04:45,960
+If Ye Wuming is my brother,
+
+70
+00:04:47,280 --> 00:04:49,040
+then where did this ribbon come from?
+
+71
+00:04:52,720 --> 00:04:53,800
+Could it be that Ye Wuming
+
+72
+00:04:54,400 --> 00:04:55,600
+isn't my brother?
+
+73
+00:04:56,640 --> 00:04:58,560
+Did Father and I mistake him?
+
+74
+00:05:01,701 --> 00:05:03,363
+(Marriage Certificate)
+
+75
+00:05:08,080 --> 00:05:09,360
+But if he is,
+
+76
+00:05:10,000 --> 00:05:11,880
+I absolutely cannot repeat this mistake.
+
+77
+00:05:17,000 --> 00:05:18,520
+What if he's not?
+
+78
+00:05:20,120 --> 00:05:22,200
+Then what about this jade pendant?
+
+79
+00:05:28,920 --> 00:05:30,320
+This is so frustrating!
+
+80
+00:05:43,717 --> 00:05:46,838
+(Divorce)
+
+81
+00:06:40,304 --> 00:06:42,315
+(Divorce)
+
+82
+00:06:49,800 --> 00:06:50,440
+Divorce.
+
+83
+00:06:53,360 --> 00:06:54,240
+Fine, divorce then!
+
+84
+00:06:59,840 --> 00:07:03,560
+Why must you insist on a divorce?
+
+85
+00:07:06,280 --> 00:07:08,680
+Why? Why? Why?
+
+86
+00:07:10,400 --> 00:07:12,480
+A true man need
+never fear a lack of wives.
+
+87
+00:07:15,640 --> 00:07:16,560
+Divorce.
+
+88
+00:07:18,040 --> 00:07:19,240
+Then divorce it is!
+
+89
+00:07:28,560 --> 00:07:30,280
+What have I just said?
+
+90
+00:07:39,080 --> 00:07:39,600
+No.
+
+91
+00:07:41,080 --> 00:07:42,040
+You can't decide this.
+
+92
+00:07:42,760 --> 00:07:43,360
+I don't agree!
+
+93
+00:07:52,480 --> 00:07:53,400
+Marriage certificate?
+
+94
+00:08:01,520 --> 00:08:02,200
+I found you.
+
+95
+00:08:03,960 --> 00:08:05,000
+What are you doing?
+
+96
+00:08:05,000 --> 00:08:06,117
+(Marriage Certificate)
+
+97
+00:08:07,560 --> 00:08:08,200
+Aha!
+
+98
+00:08:08,600 --> 00:08:09,920
+You want to divorce my sister!
+
+99
+00:08:13,200 --> 00:08:14,040
+This... this...
+
+100
+00:08:15,440 --> 00:08:16,240
+This... no.
+
+101
+00:08:16,640 --> 00:08:18,440
+Why did you tear up
+the marriage certificate?
+
+102
+00:08:22,880 --> 00:08:24,400
+It's not me wanting to divorce.
+
+103
+00:08:24,800 --> 00:08:26,400
+It's your sister who wants it.
+
+104
+00:08:28,160 --> 00:08:29,200
+What happened?
+
+105
+00:08:29,880 --> 00:08:30,720
+What's going on?
+
+106
+00:08:30,800 --> 00:08:31,720
+Ask your sister.
+
+107
+00:08:33,720 --> 00:08:34,200
+No.
+
+108
+00:08:34,880 --> 00:08:35,800
+I can't agree to this.
+
+109
+00:08:43,520 --> 00:08:44,360
+What's this?
+
+110
+00:08:44,720 --> 00:08:45,400
+A jade pendant?
+
+111
+00:08:45,960 --> 00:08:46,520
+No.
+
+112
+00:08:47,160 --> 00:08:47,880
+I mean,
+
+113
+00:08:48,760 --> 00:08:50,240
+why is it here?
+
+114
+00:08:50,600 --> 00:08:52,680
+Isn't this my sister's pendant?
+
+115
+00:08:53,400 --> 00:08:54,080
+It's not like it.
+
+116
+00:08:55,600 --> 00:08:56,520
+This pendant
+
+117
+00:08:56,640 --> 00:08:57,400
+looks more like
+
+118
+00:08:57,400 --> 00:08:58,640
+the other half of hers.
+
+119
+00:08:58,960 --> 00:08:59,880
+The other half?
+
+120
+00:09:02,800 --> 00:09:03,600
+Right?
+
+121
+00:09:07,240 --> 00:09:08,160
+I remember!
+
+122
+00:09:08,400 --> 00:09:09,600
+This fell out
+
+123
+00:09:09,600 --> 00:09:10,840
+of your dirty clothes earlier.
+
+124
+00:09:11,600 --> 00:09:12,120
+Here you go.
+
+125
+00:09:12,120 --> 00:09:14,120
+Maybe you and my sister
+are a perfect match.
+
+126
+00:09:14,120 --> 00:09:14,880
+Mine?
+
+127
+00:09:15,560 --> 00:09:17,000
+Would I lie to you?
+
+128
+00:09:20,800 --> 00:09:22,000
+Then do you remember
+
+129
+00:09:22,280 --> 00:09:23,600
+if you have any family heirlooms?
+
+130
+00:09:23,760 --> 00:09:24,520
+Like...
+
+131
+00:09:25,320 --> 00:09:26,600
+Like a jade pendant?
+
+132
+00:09:28,000 --> 00:09:29,000
+So that's how it is.
+
+133
+00:09:30,200 --> 00:09:31,760
+Wait, just what the heck is going on?
+
+134
+00:09:33,000 --> 00:09:33,760
+Mai!
+
+135
+00:09:35,040 --> 00:09:35,600
+Mai!
+
+136
+00:09:36,280 --> 00:09:36,960
+Mai!
+
+137
+00:09:39,960 --> 00:09:40,560
+Mr. Wang.
+
+138
+00:09:40,840 --> 00:09:42,600
+Father's not home. What's wrong?
+
+139
+00:09:42,600 --> 00:09:43,800
+Wuming, good you're here.
+
+140
+00:09:43,800 --> 00:09:44,600
+Go take a look!
+
+141
+00:09:44,800 --> 00:09:46,440
+Mai Tian is in trouble!
+
+142
+00:09:46,624 --> 00:09:47,264
+Hurry.
+
+143
+00:09:52,520 --> 00:09:53,400
+Fake medicine.
+
+144
+00:09:53,960 --> 00:09:55,800
+You dare peddle fake medicine to me?
+
+145
+00:09:56,720 --> 00:09:57,520
+Sir,
+
+146
+00:09:57,880 --> 00:09:59,640
+all our herbs here are top quality.
+
+147
+00:10:00,400 --> 00:10:01,680
+I am a juren scholar.
+
+148
+00:10:02,040 --> 00:10:03,320
+Would I falsely accuse you?
+
+149
+00:10:03,720 --> 00:10:05,800
+Pay up now. 200 taels.
+
+150
+00:10:06,360 --> 00:10:07,240
+200 taels?
+
+151
+00:10:07,640 --> 00:10:08,760
+I don't have that much!
+
+152
+00:10:08,960 --> 00:10:10,240
+This is clearly a frame-up!
+
+153
+00:10:10,360 --> 00:10:12,000
+Our medicine never
+has a fake ingredient!
+
+154
+00:10:12,600 --> 00:10:13,360
+No money?
+
+155
+00:10:14,800 --> 00:10:16,640
+You peasant woman aren't bad looking.
+
+156
+00:10:17,320 --> 00:10:18,600
+If you don't have money,
+
+157
+00:10:18,800 --> 00:10:20,360
+you can spend the night with me.
+
+158
+00:10:27,680 --> 00:10:28,560
+Sir,
+
+159
+00:10:28,760 --> 00:10:30,480
+I truly don't have the money to pay you,
+
+160
+00:10:30,480 --> 00:10:32,840
+but I have a treasure.
+
+161
+00:10:33,240 --> 00:10:34,800
+I'll give it to you as compensation.
+
+162
+00:10:35,280 --> 00:10:36,440
+Is that acceptable?
+
+163
+00:10:37,720 --> 00:10:38,560
+Treasure?
+
+164
+00:10:45,560 --> 00:10:47,360
+Go die! You want treasure?
+
+165
+00:10:47,360 --> 00:10:49,160
+You frame me and still want treasure?
+
+166
+00:10:49,160 --> 00:10:50,280
+You want me to pay?
+
+167
+00:10:50,280 --> 00:10:51,080
+Outrageous!
+
+168
+00:10:51,600 --> 00:10:52,520
+You dare hit me?
+
+169
+00:10:52,680 --> 00:10:54,800
+You dare assault
+a juren scholar with honors?
+
+170
+00:10:54,880 --> 00:10:56,040
+Yes, I hit you!
+
+171
+00:10:57,760 --> 00:10:59,120
+(Canyun Pavilion)
+Mai Tian.
+
+172
+00:10:59,720 --> 00:11:00,800
+It's you again.
+
+173
+00:11:01,280 --> 00:11:02,080
+You've grown bold.
+
+174
+00:11:02,440 --> 00:11:04,000
+Daring to strike people now.
+
+175
+00:11:05,320 --> 00:11:06,920
+Tell me, why are you so fond of
+
+176
+00:11:06,920 --> 00:11:09,040
+causing trouble for me?
+
+177
+00:11:09,480 --> 00:11:10,280
+Exactly.
+
+178
+00:11:10,960 --> 00:11:12,040
+I'm the jieyuan scholar.
+
+179
+00:11:12,360 --> 00:11:14,160
+How can I endure
+such humiliation from you?
+
+180
+00:11:21,040 --> 00:11:23,600
+You must be Mr. Liu Chen.
+
+181
+00:11:24,640 --> 00:11:26,560
+Your Honor, you know me?
+
+182
+00:11:28,120 --> 00:11:29,680
+I serve the Prime Minister too.
+
+183
+00:11:29,680 --> 00:11:31,600
+I singled out your examination paper
+
+184
+00:11:31,600 --> 00:11:34,240
+for the jieyuan title.
+
+185
+00:11:35,840 --> 00:11:37,600
+Thank you, Your Honor.
+
+186
+00:11:38,400 --> 00:11:40,960
+Colleagues should support each other.
+
+187
+00:11:41,240 --> 00:11:42,400
+Naturally.
+
+188
+00:11:43,200 --> 00:11:44,400
+As for this case...
+
+189
+00:11:45,080 --> 00:11:45,960
+Relax.
+
+190
+00:11:53,680 --> 00:11:54,960
+Commoner Mai Tian
+
+191
+00:11:55,320 --> 00:11:56,840
+openly peddled fake medicine,
+
+192
+00:11:57,120 --> 00:11:59,000
+humiliated, assaulted
+and verbally abused
+
+193
+00:11:59,000 --> 00:12:01,800
+our county's jieyuan scholar,
+an honored juren scholar.
+
+194
+00:12:02,240 --> 00:12:03,880
+This is not
+a formal court session today,
+
+195
+00:12:04,080 --> 00:12:05,080
+but I cannot let you off.
+
+196
+00:12:05,560 --> 00:12:06,880
+I hereby sentence you
+
+197
+00:12:07,080 --> 00:12:08,080
+to compensate Mr. Liu
+
+198
+00:12:08,640 --> 00:12:09,480
+with 500 taels.
+
+199
+00:12:09,480 --> 00:12:10,240
+Your Honor!
+
+200
+00:12:10,480 --> 00:12:12,040
+If you cannot pay,
+
+201
+00:12:12,520 --> 00:12:14,280
+you can indenture
+yourself to my household
+
+202
+00:12:14,360 --> 00:12:15,440
+to serve as a maid.
+
+203
+00:12:16,000 --> 00:12:16,840
+Is that acceptable?
+
+204
+00:12:16,840 --> 00:12:17,640
+You!
+
+205
+00:12:17,640 --> 00:12:18,560
+Who dares touch her?
+
+206
+00:12:55,301 --> 00:12:57,623
+♪The wind drifts alone and free♪
+
+207
+00:12:59,229 --> 00:13:02,277
+♪Through seasons, none asks of me♪
+
+208
+00:13:04,325 --> 00:13:07,148
+♪Spring fades, and autumn wails♪
+
+209
+00:13:08,389 --> 00:13:11,896
+♪Only the waning moon
+lights my solitude♪
+
+210
+00:13:13,669 --> 00:13:16,323
+♪Love arose with the wind's sigh♪
+
+211
+00:13:17,738 --> 00:13:21,390
+♪On a cold night,
+a swan's shadow flashes by♪
+
+212
+00:13:22,853 --> 00:13:24,581
+♪You're deeply devoted♪
+
+213
+00:13:25,184 --> 00:13:29,413
+♪Yet spring wind betrayed your heart♪
+
+214
+00:13:30,949 --> 00:13:34,533
+♪I miss you so much♪
+
+215
+00:13:34,533 --> 00:13:35,685
+♪I never forget you♪
+
+216
+00:13:36,261 --> 00:13:39,557
+♪A brief period of love-sickness♪
+
+217
+00:13:40,229 --> 00:13:43,077
+♪You won my heart over♪
+
+218
+00:13:43,077 --> 00:13:45,456
+♪Why did we first meet♪
+
+219
+00:13:45,456 --> 00:13:49,317
+♪Seeking spring's song
+and night whispers♪
+
+220
+00:13:49,317 --> 00:13:52,357
+♪Long autumn comes,
+and wild geese southward fly♪
+
+221
+00:13:52,357 --> 00:13:55,239
+♪The azure clouds know my name♪
+
+222
+00:13:55,239 --> 00:13:58,661
+♪I remember you, and you understand me♪
+
+223
+00:13:58,661 --> 00:14:01,509
+♪Watching the sun set♪
+
+224
+00:14:01,621 --> 00:14:04,485
+♪Autumn departs, and beauty fades away♪
+
+225
+00:14:04,485 --> 00:14:08,677
+♪To lean on you once more someday♪
