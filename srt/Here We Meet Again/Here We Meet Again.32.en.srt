@@ -1,0 +1,4193 @@
+1
+00:00:05,960 --> 00:00:08,350
+♪In the pursuit of a dream♪
+
+2
+00:00:08,690 --> 00:00:11,250
+♪Starting late matters not♪
+
+3
+00:00:13,080 --> 00:00:15,540
+♪No one is flawless♪
+
+4
+00:00:15,820 --> 00:00:18,440
+♪Take off against the wind♪
+
+5
+00:00:19,350 --> 00:00:22,740
+♪Loud cheers wait at the finish line♪
+
+6
+00:00:22,840 --> 00:00:25,400
+♪But sweat is the cost♪
+
+7
+00:00:26,490 --> 00:00:29,440
+♪Raise head toward the starlight♪
+
+8
+00:00:30,020 --> 00:00:32,380
+♪Look up together♪
+
+9
+00:00:33,050 --> 00:00:35,520
+♪My sky♪
+
+10
+00:00:35,520 --> 00:00:38,690
+♪Is so different♪
+
+11
+00:00:40,190 --> 00:00:42,650
+♪In my dream♪
+
+12
+00:00:42,650 --> 00:00:46,080
+♪There is always your smile♪
+
+13
+00:00:47,460 --> 00:00:49,360
+♪The freezing wind♪
+
+14
+00:00:49,360 --> 00:00:51,170
+♪Is warmed by the sun♪
+
+15
+00:00:51,170 --> 00:00:52,810
+♪Ordinary but glorious♪
+
+16
+00:00:52,810 --> 00:00:54,700
+♪Be your hero♪
+
+17
+00:00:54,700 --> 00:00:56,930
+♪In my sky♪
+
+18
+00:00:56,930 --> 00:01:00,010
+♪There is a hidden rainbow♪
+
+19
+00:01:02,680 --> 00:01:04,570
+♪Protect the star of dream♪
+
+20
+00:01:04,570 --> 00:01:07,180
+♪One day we will arrive♪
+
+21
+00:01:09,730 --> 00:01:11,630
+♪Guard the dream in the heart♪
+
+22
+00:01:11,630 --> 00:01:14,180
+♪Give you a firm answer♪
+
+23
+00:01:15,990 --> 00:01:20,170
+♪I will fly beyond the limit♪
+
+24
+00:01:20,170 --> 00:01:24,020
+♪Run for the lightning♪
+
+25
+00:01:24,020 --> 00:01:26,030
+♪Fight fight fight♪
+
+26
+00:01:26,030 --> 00:01:28,610
+♪The other side of the sky♪
+
+27
+00:01:29,420 --> 00:01:32,980
+=Here We Meet Again=
+
+28
+00:01:33,020 --> 00:01:35,980
+=Episode 32=
+
+29
+00:01:35,980 --> 00:01:40,180
+(Donghe Group)
+
+30
+00:01:41,590 --> 00:01:43,480
+Donghe Intelligent Medical Rescue System
+
+31
+00:01:43,640 --> 00:01:44,840
+breaks the pattern
+
+32
+00:01:44,840 --> 00:01:46,430
+of traditional systems
+
+33
+00:01:46,590 --> 00:01:48,230
+and achieves
+
+34
+00:01:48,350 --> 00:01:49,510
+a standard platform
+
+35
+00:01:49,680 --> 00:01:50,920
+integrating intelligent monitoring,
+
+36
+00:01:51,040 --> 00:01:52,280
+precise positioning,
+
+37
+00:01:52,280 --> 00:01:53,350
+first-aid guidance,
+
+38
+00:01:53,350 --> 00:01:54,400
+video and audio interaction,
+
+39
+00:01:54,400 --> 00:01:55,510
+remote consultation,
+
+40
+00:01:55,510 --> 00:01:57,150
+mobile monitoring,
+
+41
+00:01:57,230 --> 00:01:58,280
+and big data analysis.
+
+42
+00:01:58,510 --> 00:01:59,640
+Based on
+
+43
+00:01:59,640 --> 00:02:02,120
+advanced 5G Internet Technology
+
+44
+00:02:02,120 --> 00:02:03,480
+of high bandwidth and low latency,
+
+45
+00:02:03,560 --> 00:02:05,480
+it makes first-aid faster,
+
+46
+00:02:05,560 --> 00:02:06,430
+more intelligent,
+
+47
+00:02:06,640 --> 00:02:07,790
+and more precise.
+
+48
+00:02:09,190 --> 00:02:10,590
+Any more questions?
+
+49
+00:02:13,000 --> 00:02:16,770
+♪Looking at the sky
+toward the dazzling light♪
+
+50
+00:02:17,510 --> 00:02:21,340
+♪Never back away or regret♪
+
+51
+00:02:21,910 --> 00:02:22,760
+♪Ready♪
+
+52
+00:02:22,760 --> 00:02:24,820
+♪Enjoy the journey to the dream♪
+
+53
+00:02:24,820 --> 00:02:27,100
+♪Fly over the darkness♪
+
+54
+00:02:27,100 --> 00:02:29,780
+♪Nothing could stop me♪
+
+55
+00:02:30,930 --> 00:02:33,700
+♪When wind dispels the hazes♪
+
+56
+00:02:33,700 --> 00:02:36,740
+♪Be with me always♪
+
+57
+00:02:36,980 --> 00:02:39,050
+♪Oh♪
+
+58
+00:02:39,670 --> 00:02:40,420
+♪Ready♪
+
+59
+00:02:40,420 --> 00:02:42,660
+♪Enjoy the journey to the dream♪
+
+60
+00:02:42,660 --> 00:02:44,710
+♪Fly towards the glory♪
+
+61
+00:02:44,710 --> 00:02:48,200
+♪Nothing could stop you♪
+
+62
+00:02:48,740 --> 00:02:51,650
+♪When wind rushes through
+the celestial melody♪
+
+63
+00:02:51,680 --> 00:02:53,430
+Guys, may I have your attention, please?
+
+64
+00:02:53,870 --> 00:02:54,800
+First,
+
+65
+00:02:55,120 --> 00:02:56,150
+I'd like to congratulate you
+
+66
+00:02:56,150 --> 00:02:57,630
+on the completion
+
+67
+00:02:57,630 --> 00:02:58,870
+of our rescue system.
+
+68
+00:02:59,190 --> 00:03:00,240
+- Congratulations!
+- Congratulations!
+
+69
+00:03:04,360 --> 00:03:05,400
+Next,
+
+70
+00:03:05,870 --> 00:03:07,750
+our new CTO,
+
+71
+00:03:08,030 --> 00:03:08,840
+Zhou Yuchen,
+
+72
+00:03:09,080 --> 00:03:09,840
+joined us
+
+73
+00:03:09,840 --> 00:03:10,710
+and has taken the place
+
+74
+00:03:10,710 --> 00:03:11,960
+of Xu Yanshi.
+
+75
+00:03:11,960 --> 00:03:13,470
+Let's warmly welcome him.
+
+76
+00:03:13,470 --> 00:03:14,120
+Welcome!
+
+77
+00:03:14,190 --> 00:03:15,120
+Welcome!
+
+78
+00:03:15,870 --> 00:03:17,520
+Raise your glasses.
+
+79
+00:03:18,000 --> 00:03:18,680
+Bravo!
+
+80
+00:03:19,360 --> 00:03:20,190
+Cheers.
+
+81
+00:03:20,280 --> 00:03:21,750
+You know what?
+
+82
+00:03:21,750 --> 00:03:23,360
+No one shall dodge.
+
+83
+00:03:23,360 --> 00:03:24,710
+It's the champagne of victory.
+
+84
+00:03:24,710 --> 00:03:26,240
+Whoever gets sprayed will be blessed.
+
+85
+00:03:26,710 --> 00:03:27,310
+OK, OK.
+
+86
+00:03:27,430 --> 00:03:28,030
+Wow!
+
+87
+00:03:34,820 --> 00:03:36,540
+(Navigation Research Institute: Congratulations,
+you've passed the interview of the Institute.)
+
+88
+00:03:43,280 --> 00:03:44,800
+Xu Yanshi was recruited
+
+89
+00:03:44,800 --> 00:03:45,680
+by the Institute!
+
+90
+00:04:02,190 --> 00:04:03,280
+Not this one.
+
+91
+00:04:16,750 --> 00:04:18,070
+That was disgusting.
+
+92
+00:04:21,360 --> 00:04:22,270
+Think about it.
+
+93
+00:04:22,630 --> 00:04:24,630
+If I mix Jagermeister
+
+94
+00:04:24,920 --> 00:04:26,600
+with some whisky
+
+95
+00:04:26,680 --> 00:04:27,630
+and coffee,
+
+96
+00:04:27,630 --> 00:04:28,920
+how will it taste?
+
+97
+00:04:29,870 --> 00:04:30,310
+How about
+
+98
+00:04:30,310 --> 00:04:31,480
+you add some ginseng chicken soup?
+
+99
+00:04:31,480 --> 00:04:32,240
+It's nutritious.
+
+100
+00:04:32,920 --> 00:04:34,190
+Wine with soup?
+
+101
+00:04:34,310 --> 00:04:35,560
+How did you come up with that?
+
+102
+00:04:37,120 --> 00:04:39,040
+Add some of this.
+
+103
+00:04:43,070 --> 00:04:44,240
+What else?
+
+104
+00:05:21,310 --> 00:05:22,160
+That's awful!
+
+105
+00:05:22,310 --> 00:05:23,480
+Did you add some chicken soup?
+
+106
+00:05:31,240 --> 00:05:31,870
+Well...
+
+107
+00:05:32,240 --> 00:05:32,630
+I...
+
+108
+00:05:32,680 --> 00:05:34,430
+I'm going to the toilet.
+
+109
+00:05:47,950 --> 00:05:49,040
+I can't hold it anymore.
+
+110
+00:05:50,070 --> 00:05:50,750
+Shu,
+
+111
+00:05:50,830 --> 00:05:52,360
+I have to tell you something.
+
+112
+00:05:52,800 --> 00:05:54,000
+What?
+
+113
+00:05:54,160 --> 00:05:55,040
+You have no idea
+
+114
+00:05:55,040 --> 00:05:56,630
+what Gao Leng did for you!
+
+115
+00:05:58,240 --> 00:05:59,000
+Once,
+
+116
+00:05:59,070 --> 00:06:00,190
+you were carrying several big boxes
+
+117
+00:06:00,190 --> 00:06:00,830
+upstairs.
+
+118
+00:06:00,830 --> 00:06:01,870
+Gao Leng saw that.
+
+119
+00:06:02,160 --> 00:06:03,240
+In case you got tired,
+
+120
+00:06:03,560 --> 00:06:05,160
+he asked You Zhi and me to help you.
+
+121
+00:06:05,160 --> 00:06:06,160
+He was afraid that if he went to help you,
+
+122
+00:06:06,160 --> 00:06:07,510
+our colleagues might gossip.
+
+123
+00:06:08,240 --> 00:06:09,070
+Shu,
+
+124
+00:06:09,310 --> 00:06:10,310
+when you wanted to do business
+
+125
+00:06:10,310 --> 00:06:11,240
+with Mr. Lu of Ruidong,
+
+126
+00:06:11,480 --> 00:06:12,480
+and invited him to the play
+
+127
+00:06:12,480 --> 00:06:13,950
+whose tickets were hard to get,
+
+128
+00:06:14,160 --> 00:06:15,560
+Gao Leng got you the tickets
+
+129
+00:06:15,560 --> 00:06:17,360
+with a model figure he bought
+after queueing for the whole night.
+
+130
+00:06:17,560 --> 00:06:18,680
+In case you were too angry with him
+
+131
+00:06:18,680 --> 00:06:19,680
+to accept the tickets,
+
+132
+00:06:19,680 --> 00:06:21,190
+he asked me to give them to you.
+
+133
+00:06:22,240 --> 00:06:23,000
+And...
+
+134
+00:06:23,600 --> 00:06:24,600
+Do you know why
+
+135
+00:06:24,600 --> 00:06:25,870
+Gao Leng fought Lu Dong?
+
+136
+00:06:27,040 --> 00:06:28,240
+Still for you.
+
+137
+00:06:29,240 --> 00:06:30,240
+Because Lu Dong
+
+138
+00:06:30,240 --> 00:06:31,000
+spoke ill of you
+
+139
+00:06:31,000 --> 00:06:32,000
+and humiliated you
+
+140
+00:06:32,000 --> 00:06:33,070
+at someone else's party.
+
+141
+00:06:33,750 --> 00:06:35,070
+Gao Leng was boiling with anger.
+
+142
+00:06:35,720 --> 00:06:37,270
+Even if he knew you would be angry,
+
+143
+00:06:37,270 --> 00:06:38,870
+he still wanted to give him a lesson.
+
+144
+00:06:39,950 --> 00:06:40,950
+Shu,
+
+145
+00:06:41,190 --> 00:06:42,920
+you often complain
+that Gao Leng is too childish.
+
+146
+00:06:42,920 --> 00:06:44,240
+But you've never seen
+
+147
+00:06:44,240 --> 00:06:44,920
+how much he has changed
+
+148
+00:06:44,920 --> 00:06:45,720
+just to continue his relationship
+
+149
+00:06:45,720 --> 00:06:47,190
+with you!
+
+150
+00:07:12,430 --> 00:07:13,360
+What are you doing?
+
+151
+00:07:13,510 --> 00:07:14,430
+Why didn't you
+
+152
+00:07:14,430 --> 00:07:15,600
+beg me to forgive you?
+
+153
+00:07:19,510 --> 00:07:20,160
+Lu Dong and I
+
+154
+00:07:20,160 --> 00:07:21,750
+were never together.
+
+155
+00:07:24,600 --> 00:07:26,000
+Re... Really?
+
+156
+00:07:28,160 --> 00:07:29,950
+I waited for such a long time.
+
+157
+00:07:30,720 --> 00:07:31,870
+And for you,
+
+158
+00:07:32,240 --> 00:07:34,000
+I even came to Shanghai.
+
+159
+00:07:34,360 --> 00:07:35,720
+But you still don't trust me?
+
+160
+00:07:38,480 --> 00:07:40,000
+I had no idea.
+
+161
+00:07:50,630 --> 00:07:52,240
+I'm just in time
+for your birthday, Professor.
+
+162
+00:07:52,830 --> 00:07:53,920
+A few days ago,
+
+163
+00:07:54,070 --> 00:07:55,070
+I saw a pen
+
+164
+00:07:55,240 --> 00:07:57,000
+perfect for you.
+
+165
+00:07:57,510 --> 00:07:59,040
+Hope you'll like it, Professor.
+
+166
+00:08:02,480 --> 00:08:04,510
+In time for my birthday?
+
+167
+00:08:04,950 --> 00:08:07,630
+You nearly missed the interview!
+
+168
+00:08:08,750 --> 00:08:10,800
+You're daring, you know?
+
+169
+00:08:11,190 --> 00:08:12,190
+Before the interview,
+
+170
+00:08:12,190 --> 00:08:14,190
+you went to the US for your mother!
+
+171
+00:08:14,190 --> 00:08:15,480
+Luckily, your return flight
+
+172
+00:08:15,480 --> 00:08:16,310
+wasn't delayed due to the hurricane.
+
+173
+00:08:16,310 --> 00:08:17,070
+Had it been,
+
+174
+00:08:17,070 --> 00:08:18,680
+even if you cried and begged me,
+
+175
+00:08:18,680 --> 00:08:20,630
+you couldn't join the Institute!
+
+176
+00:08:23,390 --> 00:08:25,430
+What? Are you coming
+
+177
+00:08:26,000 --> 00:08:26,920
+to explain something
+
+178
+00:08:26,920 --> 00:08:28,680
+for Xiang Yuan?
+
+179
+00:08:31,120 --> 00:08:31,950
+Professor,
+
+180
+00:08:32,320 --> 00:08:33,790
+I know you did everything for me.
+
+181
+00:08:34,320 --> 00:08:35,600
+But when you blamed her,
+
+182
+00:08:35,790 --> 00:08:37,080
+Xiang Yuan would really think
+
+183
+00:08:37,080 --> 00:08:38,440
+you hated her.
+
+184
+00:08:40,150 --> 00:08:41,270
+In the future,
+
+185
+00:08:41,510 --> 00:08:42,670
+if I'm not doing
+
+186
+00:08:43,000 --> 00:08:44,120
+as well as you think
+
+187
+00:08:44,120 --> 00:08:44,960
+I can do it,
+
+188
+00:08:45,120 --> 00:08:46,670
+blame me any way you want it.
+
+189
+00:08:47,200 --> 00:08:48,270
+But don't blame her.
+
+190
+00:08:48,480 --> 00:08:50,080
+I'm just not capable enough.
+
+191
+00:08:50,360 --> 00:08:51,240
+None of her business.
+
+192
+00:08:51,240 --> 00:08:51,790
+Enough!
+
+193
+00:08:52,200 --> 00:08:53,320
+Say no more!
+
+194
+00:08:54,120 --> 00:08:55,480
+All right, all right.
+
+195
+00:08:55,600 --> 00:08:57,360
+That's pretty enough.
+
+196
+00:08:57,440 --> 00:08:58,720
+What's gone is gone.
+
+197
+00:08:58,720 --> 00:08:59,790
+Don't bring it up again.
+
+198
+00:09:00,750 --> 00:09:02,670
+Yanshi, come and have lunch.
+
+199
+00:09:07,390 --> 00:09:08,270
+Come on.
+
+200
+00:09:11,910 --> 00:09:13,200
+Yanshi, come on.
+
+201
+00:09:17,630 --> 00:09:18,240
+Dude,
+
+202
+00:09:19,270 --> 00:09:21,200
+we didn't get along for a long time.
+
+203
+00:09:21,600 --> 00:09:23,320
+But our most important projects
+
+204
+00:09:23,320 --> 00:09:24,360
+counted on you.
+
+205
+00:09:24,720 --> 00:09:25,750
+The patents you applied for
+
+206
+00:09:25,790 --> 00:09:26,790
+have been approved.
+
+207
+00:09:27,000 --> 00:09:27,790
+My company
+
+208
+00:09:27,790 --> 00:09:28,720
+has a place in the industry now.
+
+209
+00:09:29,910 --> 00:09:31,480
+I'd like to thank you guys, too.
+
+210
+00:09:31,910 --> 00:09:33,510
+I've also learned a lot here
+
+211
+00:09:34,120 --> 00:09:35,240
+from you.
+
+212
+00:09:35,320 --> 00:09:36,080
+Mr. Xu,
+
+213
+00:09:36,360 --> 00:09:38,320
+we worked together for months
+
+214
+00:09:38,550 --> 00:09:40,000
+and I really don't want you to leave.
+
+215
+00:09:40,840 --> 00:09:41,870
+Come on.
+
+216
+00:09:41,870 --> 00:09:42,840
+He's going to make contributions
+
+217
+00:09:42,840 --> 00:09:43,390
+to our country.
+
+218
+00:09:43,840 --> 00:09:44,720
+Let's stop here.
+
+219
+00:09:44,790 --> 00:09:45,390
+Anyway,
+
+220
+00:09:45,390 --> 00:09:46,750
+you always have shares in my company.
+
+221
+00:09:47,030 --> 00:09:47,630
+And we are
+
+222
+00:09:47,630 --> 00:09:49,200
+always good friends.
+
+223
+00:09:49,600 --> 00:09:50,030
+Right.
+
+224
+00:09:50,390 --> 00:09:50,870
+By the way,
+
+225
+00:09:50,870 --> 00:09:52,080
+remember to come to the wedding
+
+226
+00:09:52,080 --> 00:09:53,120
+of Kairui and me.
+
+227
+00:10:17,630 --> 00:10:18,270
+Sir,
+
+228
+00:10:18,480 --> 00:10:19,960
+to No.77 Beidou Road.
+
+229
+00:10:21,030 --> 00:10:22,320
+Oh, that place.
+
+230
+00:10:22,320 --> 00:10:23,030
+I know it.
+
+231
+00:10:23,360 --> 00:10:24,870
+I feel they never get off work.
+
+232
+00:10:25,870 --> 00:10:26,870
+I've never seen the light
+
+233
+00:10:26,870 --> 00:10:28,240
+in their offices
+
+234
+00:10:28,240 --> 00:10:28,960
+go off.
+
+235
+00:10:57,940 --> 00:11:00,700
+(Navigation Research Institute)
+
+236
+00:11:56,670 --> 00:11:58,270
+Why are you back so early today?
+
+237
+00:12:04,440 --> 00:12:05,150
+What?
+
+238
+00:12:05,750 --> 00:12:06,750
+You don't want me back?
+
+239
+00:12:07,910 --> 00:12:10,240
+I was waiting for too long.
+
+240
+00:12:12,240 --> 00:12:13,550
+Recently,
+
+241
+00:12:13,670 --> 00:12:14,840
+I've been really busy.
+
+242
+00:12:15,600 --> 00:12:17,000
+After it's over,
+
+243
+00:12:17,200 --> 00:12:18,240
+I'll take you out for fun.
+
+244
+00:12:18,670 --> 00:12:19,440
+All right.
+
+245
+00:12:19,960 --> 00:12:21,550
+It has to be a lot of fun.
+
+246
+00:12:21,720 --> 00:12:22,320
+OK.
+
+247
+00:12:24,630 --> 00:12:25,960
+I'm going to take a bath.
+
+248
+00:12:26,360 --> 00:12:27,200
+I have
+
+249
+00:12:27,200 --> 00:12:28,240
+something important
+
+250
+00:12:28,240 --> 00:12:29,030
+to tell you.
+
+251
+00:12:59,390 --> 00:13:02,360
+When did he buy the ring?
+
+252
+00:13:07,350 --> 00:13:08,720
+♪By you, by you♪
+
+253
+00:13:08,720 --> 00:13:11,400
+♪Wonderful color of crush♪
+
+254
+00:13:11,920 --> 00:13:13,370
+♪By you, by you♪
+
+255
+00:13:13,370 --> 00:13:16,150
+♪Those words are for you♪
+
+256
+00:13:17,390 --> 00:13:19,630
+Exactly my size.
+
+257
+00:13:21,080 --> 00:13:24,440
+When did he take my finger measure?
+
+258
+00:13:25,830 --> 00:13:27,300
+♪By you, by you♪
+
+259
+00:13:27,300 --> 00:13:29,940
+♪The moment my heart is slightly drunk♪
+
+260
+00:13:30,150 --> 00:13:31,860
+♪'Cause I believe you♪
+
+261
+00:13:31,860 --> 00:13:34,690
+♪When you look at me♪
+
+262
+00:13:34,690 --> 00:13:41,520
+♪Love you♪
+
+263
+00:13:41,960 --> 00:13:44,280
+♪Every time you♪
+
+264
+00:13:44,280 --> 00:13:45,800
+♪By you, by you♪
+
+265
+00:13:45,800 --> 00:13:48,360
+♪Feel your breath♪
+
+266
+00:13:48,910 --> 00:13:50,400
+♪By you, by you♪
+
+267
+00:13:50,400 --> 00:13:53,080
+♪We meet each other again♪
+
+268
+00:13:53,320 --> 00:14:00,320
+♪Love you♪
+
+269
+00:14:02,720 --> 00:14:03,990
+♪By you, by you♪
+
+270
+00:14:04,250 --> 00:14:06,960
+♪I want to be close to you♪
+
+271
+00:14:07,120 --> 00:14:08,660
+♪'Cause I believe you♪
+
+272
+00:14:08,660 --> 00:14:11,580
+♪It's you in my imagination♪
+
+273
+00:14:11,730 --> 00:14:18,960
+♪Love you♪
+
+274
+00:14:18,960 --> 00:14:21,160
+♪Every time you♪
+
+275
+00:14:21,160 --> 00:14:22,610
+♪By you, by you♪
+
+276
+00:14:22,610 --> 00:14:25,280
+♪Feel your breath♪
+
+277
+00:14:25,760 --> 00:14:27,260
+♪By you, by you♪
+
+278
+00:14:27,260 --> 00:14:30,070
+♪We meet each other again♪
+
+279
+00:14:30,070 --> 00:14:37,040
+♪Love you♪
+
+280
+00:14:39,680 --> 00:14:41,140
+♪By you, by you♪
+
+281
+00:14:41,140 --> 00:14:43,800
+♪I want to be close to you♪
+
+282
+00:14:43,800 --> 00:14:45,650
+♪'Cause I believe you♪
+
+283
+00:14:45,650 --> 00:14:48,650
+♪It's you in my imagination♪
+
+284
+00:14:48,650 --> 00:14:55,830
+♪Love you♪
+
+285
+00:14:55,830 --> 00:14:58,140
+♪Every time you♪
+
+286
+00:15:06,600 --> 00:15:07,600
+I need a lipstick touch-up.
+
+287
+00:15:38,080 --> 00:15:39,390
+Going out?
+
+288
+00:15:41,120 --> 00:15:42,080
+I just tried
+
+289
+00:15:42,080 --> 00:15:44,000
+the new lipstick.
+
+290
+00:15:45,360 --> 00:15:47,030
+So late?
+
+291
+00:15:49,600 --> 00:15:51,840
+What a silly man!
+
+292
+00:15:52,200 --> 00:15:54,080
+Tell me. What is it?
+
+293
+00:16:03,510 --> 00:16:04,600
+Well...
+
+294
+00:16:05,790 --> 00:16:07,510
+I'm going on a business trip to Xichang.
+
+295
+00:16:07,750 --> 00:16:09,320
+In the following days,
+
+296
+00:16:10,870 --> 00:16:12,270
+I can't keep you company.
+
+297
+00:16:13,390 --> 00:16:14,120
+That's all?
+
+298
+00:16:16,320 --> 00:16:17,000
+That's all.
+
+299
+00:16:29,600 --> 00:16:31,390
+(At 3:22 PM this afternoon,)
+
+300
+00:16:31,390 --> 00:16:33,080
+(in Xichang Satellite)
+
+301
+00:16:33,080 --> 00:16:33,790
+(Launch Center,)
+
+302
+00:16:33,790 --> 00:16:36,080
+(China successfully launched)
+
+303
+00:16:36,080 --> 00:16:37,720
+(No.52 and No.53)
+
+304
+00:16:37,720 --> 00:16:38,510
+(Beidou navigation satellites)
+
+305
+00:16:38,510 --> 00:16:40,120
+(with one carrier rocket,)
+
+306
+00:16:40,120 --> 00:16:41,360
+(CZ-3B.)
+
+307
+00:16:41,600 --> 00:16:42,270
+(So far,)
+
+308
+00:16:42,360 --> 00:16:44,240
+(all MEO satellites)
+
+309
+00:16:44,240 --> 00:16:45,360
+(have been launched.)
+
+310
+00:16:45,510 --> 00:16:47,270
+(It also marks)
+
+311
+00:16:47,270 --> 00:16:48,720
+("Two Satellites in One Rocket")
+(the completion of)
+
+312
+00:16:48,720 --> 00:16:49,630
+(the basic constellation deployment of BDS-3.)
+
+313
+00:16:51,440 --> 00:16:53,440
+(After a three-hour flight,)
+
+314
+00:16:53,440 --> 00:16:55,390
+(the satellites successfully
+entered the orbits.)
+
+315
+00:16:55,390 --> 00:16:56,840
+(In Orbit Test will be done later.)
+
+316
+00:16:56,840 --> 00:16:58,120
+It's been a long time
+
+317
+00:16:58,120 --> 00:17:00,000
+since you last saw Xu Yanshi, right?
+
+318
+00:17:00,000 --> 00:17:00,960
+How do you know?
+
+319
+00:17:00,960 --> 00:17:03,030
+(As the main satellite)
+
+320
+00:17:03,030 --> 00:17:04,110
+(of BDS-3 constellation deployment...)
+
+321
+00:17:04,110 --> 00:17:06,960
+They're on TV every day.
+
+322
+00:17:06,960 --> 00:17:07,590
+I can imagine
+
+323
+00:17:07,590 --> 00:17:08,920
+what he's doing now.
+
+324
+00:17:09,270 --> 00:17:11,480
+Exactly what your mother was doing.
+
+325
+00:17:11,790 --> 00:17:12,720
+Grandpa,
+
+326
+00:17:12,720 --> 00:17:13,440
+you've said that
+
+327
+00:17:13,440 --> 00:17:14,830
+many times.
+
+328
+00:17:14,830 --> 00:17:15,510
+Anyway,
+
+329
+00:17:15,510 --> 00:17:16,510
+you picked him
+
+330
+00:17:16,510 --> 00:17:18,240
+as your boyfriend.
+
+331
+00:17:18,400 --> 00:17:19,480
+In this case,
+
+332
+00:17:19,480 --> 00:17:21,680
+you should be more considerate.
+
+333
+00:17:22,310 --> 00:17:23,830
+This is the crucial moment for them
+
+334
+00:17:24,510 --> 00:17:26,270
+when they can't be distracted.
+
+335
+00:17:28,880 --> 00:17:30,030
+If you have no one
+
+336
+00:17:30,030 --> 00:17:30,920
+to vent your anger on,
+
+337
+00:17:30,920 --> 00:17:32,310
+get mad at me.
+
+338
+00:17:32,480 --> 00:17:33,790
+I'm used to that, anyway.
+
+339
+00:17:36,000 --> 00:17:36,830
+(Now,)
+
+340
+00:17:36,830 --> 00:17:38,720
+(BDS-3 global system constellation...)
+
+341
+00:17:38,960 --> 00:17:40,110
+I don't know
+
+342
+00:17:40,240 --> 00:17:41,440
+how complicated
+
+343
+00:17:41,920 --> 00:17:43,790
+or how charming
+
+344
+00:17:44,400 --> 00:17:45,790
+BDS can be.
+
+345
+00:17:46,510 --> 00:17:48,550
+("Two Satellites in One Rocket")
+So many excellent talents
+
+346
+00:17:49,160 --> 00:17:52,000
+work tirelessly for it.
+
+347
+00:17:53,350 --> 00:17:54,240
+He's working hard
+
+348
+00:17:54,240 --> 00:17:56,110
+with Mother's effort
+
+349
+00:17:56,880 --> 00:17:58,030
+and he'll realize their dream.
+
+350
+00:18:07,440 --> 00:18:07,920
+No.
+
+351
+00:18:07,920 --> 00:18:09,880
+You can't fix the bug like this.
+
+352
+00:18:09,880 --> 00:18:10,510
+This is right.
+
+353
+00:18:10,510 --> 00:18:11,310
+No, it's not.
+
+354
+00:18:11,310 --> 00:18:12,400
+No, no. It's here.
+
+355
+00:18:12,400 --> 00:18:12,960
+Add this.
+
+356
+00:18:12,960 --> 00:18:13,440
+Modify it.
+
+357
+00:18:14,110 --> 00:18:14,590
+But...
+
+358
+00:18:15,070 --> 00:18:16,400
+Yuan, why are you back?
+
+359
+00:18:16,400 --> 00:18:17,920
+Why are you still working?
+
+360
+00:18:18,270 --> 00:18:19,640
+Today, some bugs were detected
+
+361
+00:18:19,640 --> 00:18:20,750
+in the new system.
+
+362
+00:18:20,750 --> 00:18:21,920
+In order not to delay the launch
+at the end of this month,
+
+363
+00:18:22,030 --> 00:18:24,110
+we want to solve the problem soon.
+
+364
+00:18:24,510 --> 00:18:25,000
+Right.
+
+365
+00:18:25,240 --> 00:18:26,270
+Only you three?
+
+366
+00:18:36,240 --> 00:18:37,160
+Any problem here?
+
+367
+00:18:37,160 --> 00:18:38,110
+No.
+
+368
+00:18:38,480 --> 00:18:39,680
+Then let's pass.
+
+369
+00:18:39,680 --> 00:18:40,590
+Come on, listen to me.
+
+370
+00:18:40,590 --> 00:18:42,550
+You can't patch it like this.
+
+371
+00:18:42,680 --> 00:18:43,790
+It can't be.
+
+372
+00:18:43,830 --> 00:18:44,790
+This is E.
+
+373
+00:18:44,790 --> 00:18:45,750
+I know this.
+
+374
+00:18:46,000 --> 00:18:46,680
+Right?
+
+375
+00:18:47,350 --> 00:18:48,110
+See?
+
+376
+00:18:57,310 --> 00:18:58,160
+Come in.
+
+377
+00:19:03,030 --> 00:19:04,720
+I have confirmed the relevant matters
+
+378
+00:19:04,720 --> 00:19:06,640
+with the media we cooperated
+
+379
+00:19:06,640 --> 00:19:08,240
+at Velin New Product Launch of 2019.
+
+380
+00:19:09,400 --> 00:19:11,000
+But...
+
+381
+00:19:11,400 --> 00:19:12,240
+But what?
+
+382
+00:19:14,000 --> 00:19:15,070
+Last time,
+
+383
+00:19:15,350 --> 00:19:17,070
+Down's ID was exposed
+
+384
+00:19:17,070 --> 00:19:19,000
+and it made them much more famous.
+
+385
+00:19:19,270 --> 00:19:21,160
+They want something more
+
+386
+00:19:21,400 --> 00:19:22,750
+to reveal this time.
+
+387
+00:19:22,920 --> 00:19:23,680
+But think about it.
+
+388
+00:19:23,680 --> 00:19:25,350
+How can we get so many shadow IDs?
+
+389
+00:19:27,790 --> 00:19:28,750
+I'll take care of it.
+
+390
+00:19:44,750 --> 00:19:47,070
+(2h and 35min)
+Hello, everybody.
+
+391
+00:19:47,070 --> 00:19:48,070
+This is
+
+392
+00:19:48,240 --> 00:19:49,590
+Ashers.
+
+393
+00:19:49,750 --> 00:19:50,720
+Long time no see.
+
+394
+00:19:51,590 --> 00:19:53,400
+I miss you quite a lot.
+
+395
+00:19:53,680 --> 00:19:55,440
+At two this afternoon...
+
+396
+00:19:56,440 --> 00:19:57,680
+What's going on?
+
+397
+00:19:58,880 --> 00:20:00,480
+Why do I remember
+
+398
+00:20:00,640 --> 00:20:02,440
+Ashers was also dressed like this
+
+399
+00:20:02,440 --> 00:20:03,960
+in her livestreaming?
+
+400
+00:20:04,240 --> 00:20:04,830
+It...
+
+401
+00:20:20,240 --> 00:20:20,750
+It...
+
+402
+00:20:21,000 --> 00:20:24,240
+Isn't it too much?
+
+403
+00:20:24,350 --> 00:20:24,920
+Yuan,
+
+404
+00:20:25,110 --> 00:20:26,750
+are you learning from Boss
+
+405
+00:20:26,750 --> 00:20:27,880
+to pretend to be Ashers
+
+406
+00:20:27,880 --> 00:20:29,240
+for our propaganda?
+
+407
+00:20:29,880 --> 00:20:30,960
+This mask
+
+408
+00:20:30,960 --> 00:20:32,160
+sells at 3.5 yuan online
+
+409
+00:20:32,160 --> 00:20:33,350
+at most.
+
+410
+00:20:35,550 --> 00:20:36,480
+Come on.
+
+411
+00:20:36,590 --> 00:20:39,590
+Don't overdo it.
+
+412
+00:20:43,510 --> 00:20:44,920
+Co... Coffee for you.
+
+413
+00:20:46,790 --> 00:20:49,160
+Go get changed. Time for work.
+
+414
+00:20:49,160 --> 00:20:50,920
+It... It doesn't suit you.
+
+415
+00:21:04,240 --> 00:21:06,720
+How I miss Ashers!
+
+416
+00:21:14,920 --> 00:21:16,200
+Morning.
+
+417
+00:21:17,680 --> 00:21:19,160
+You're quite early, Leng.
+
+418
+00:21:19,160 --> 00:21:19,960
+Good.
+
+419
+00:21:19,960 --> 00:21:21,030
+You're early, too.
+
+420
+00:21:21,590 --> 00:21:22,550
+Get to work.
+
+421
+00:21:32,270 --> 00:21:33,440
+(A post from Ashers)
+My idol Ashers
+
+422
+00:21:33,440 --> 00:21:34,720
+just posted something.
+
+423
+00:21:35,920 --> 00:21:36,720
+Hello.
+
+424
+00:21:36,720 --> 00:21:38,110
+Morning, guys.
+
+425
+00:21:38,110 --> 00:21:38,830
+Morning.
+
+426
+00:21:38,830 --> 00:21:40,000
+You're so early.
+
+427
+00:21:40,720 --> 00:21:42,000
+Come on.
+
+428
+00:21:42,550 --> 00:21:43,310
+Let me see.
+
+429
+00:21:43,400 --> 00:21:45,440
+Hello, everybody.
+
+430
+00:21:45,440 --> 00:21:47,510
+This is Ashers.
+
+431
+00:21:55,440 --> 00:21:55,880
+It's...
+
+432
+00:21:56,000 --> 00:21:57,270
+It's me!
+
+433
+00:21:57,550 --> 00:21:58,400
+What?
+
+434
+00:21:58,400 --> 00:21:59,160
+You?
+
+435
+00:21:59,830 --> 00:22:00,550
+Oh, it's you.
+
+436
+00:22:00,550 --> 00:22:01,920
+It's a trending topic now.
+
+437
+00:22:01,920 --> 00:22:03,550
+Is it really you?
+
+438
+00:22:03,680 --> 00:22:05,270
+You... You look bad.
+
+439
+00:22:05,590 --> 00:22:06,550
+It's really you!
+
+440
+00:22:06,550 --> 00:22:07,000
+(It sells at 3.5 yuan)
+
+441
+00:22:07,000 --> 00:22:08,790
+(online at most.)
+
+442
+00:22:08,790 --> 00:22:09,110
+It's...
+
+443
+00:22:09,110 --> 00:22:11,310
+Xiang Yuan is Ashers!
+
+444
+00:22:13,550 --> 00:22:15,880
+Who... Who's Ashers?
+
+445
+00:22:22,550 --> 00:22:23,480
+(Comments)
+(Awesome, Ashers.)
+
+446
+00:22:23,480 --> 00:22:24,350
+(Who said Ashers was no longer popular?)
+
+447
+00:22:24,350 --> 00:22:24,830
+(I want to punch him.)
+
+448
+00:22:24,830 --> 00:22:26,160
+(Who's this man? Bad-looking.)
+
+449
+00:22:26,480 --> 00:22:27,310
+Shi Tianyou,
+
+450
+00:22:28,960 --> 00:22:29,750
+these two parts
+
+451
+00:22:29,750 --> 00:22:30,960
+still need to be improved.
+
+452
+00:22:30,960 --> 00:22:32,200
+Perfect them.
+
+453
+00:22:32,200 --> 00:22:33,590
+I didn't know
+
+454
+00:22:34,160 --> 00:22:36,590
+Down was around me
+
+455
+00:22:36,590 --> 00:22:38,110
+and now even Ashers.
+
+456
+00:22:38,310 --> 00:22:39,640
+What the heck!
+
+457
+00:22:39,880 --> 00:22:40,550
+And...
+
+458
+00:22:40,680 --> 00:22:41,680
+Why did you edit my part
+
+459
+00:22:41,680 --> 00:22:42,720
+in your video?
+
+460
+00:22:42,720 --> 00:22:44,480
+Netizens cursed me the whole afternoon.
+
+461
+00:22:44,680 --> 00:22:46,510
+You kept saying
+
+462
+00:22:46,720 --> 00:22:48,550
+you wanted to be
+in the shot with Ashers.
+
+463
+00:22:49,000 --> 00:22:52,000
+I just realized your dream.
+
+464
+00:22:52,110 --> 00:22:52,680
+You!
+
+465
+00:22:55,070 --> 00:22:56,510
+My dream for my idol
+
+466
+00:22:56,680 --> 00:22:57,750
+ended.
+
+467
+00:22:57,880 --> 00:22:59,270
+Why did it end?
+
+468
+00:22:59,640 --> 00:23:01,270
+Can I not be your idol?
+
+469
+00:23:01,440 --> 00:23:02,110
+No.
+
+470
+00:23:03,110 --> 00:23:03,790
+Boss?
+
+471
+00:23:04,110 --> 00:23:05,000
+Boss.
+
+472
+00:23:06,830 --> 00:23:08,000
+What are you doing here?
+
+473
+00:23:32,000 --> 00:23:33,960
+Why do you stare at me?
+
+474
+00:23:35,400 --> 00:23:36,350
+Can't I?
+
+475
+00:23:54,030 --> 00:23:55,200
+Xu Yanshi.
+
+476
+00:23:57,350 --> 00:23:59,830
+It's been a month
+
+477
+00:24:01,750 --> 00:24:02,590
+and now you look
+
+478
+00:24:02,590 --> 00:24:04,440
+more masculine.
+
+479
+00:24:05,350 --> 00:24:07,000
+And you also get
+
+480
+00:24:07,550 --> 00:24:09,960
+more handsome.
+
+481
+00:24:11,440 --> 00:24:13,240
+On the phone that day, I heard someone
+
+482
+00:24:13,240 --> 00:24:15,440
+call you Brain Box.
+
+483
+00:24:16,920 --> 00:24:18,510
+Everyone there is a brain box.
+
+484
+00:24:23,000 --> 00:24:24,030
+I heard
+
+485
+00:24:24,110 --> 00:24:25,590
+you recruited a male secretary.
+
+486
+00:24:26,110 --> 00:24:27,160
+Who told you that?
+
+487
+00:24:27,750 --> 00:24:29,440
+And he was born in 1998.
+
+488
+00:24:30,200 --> 00:24:31,310
+Majored in acting.
+
+489
+00:24:31,680 --> 00:24:32,680
+Is he handsome?
+
+490
+00:24:34,240 --> 00:24:35,110
+I...
+
+491
+00:24:35,240 --> 00:24:36,790
+I didn't recruit him.
+
+492
+00:24:36,790 --> 00:24:37,550
+He's just...
+
+493
+00:24:38,880 --> 00:24:41,440
+A distant cousin.
+
+494
+00:24:41,550 --> 00:24:43,200
+Grandpa said he majored in acting
+
+495
+00:24:43,200 --> 00:24:44,750
+and didn't get a job for the moment.
+
+496
+00:24:44,880 --> 00:24:45,790
+Then he came here
+
+497
+00:24:45,790 --> 00:24:47,350
+as an intern.
+
+498
+00:24:48,550 --> 00:24:50,270
+He's... He's indeed a young cousin.
+
+499
+00:24:50,440 --> 00:24:51,350
+Think about
+
+500
+00:24:51,350 --> 00:24:53,790
+your own cousins.
+
+501
+00:24:55,590 --> 00:24:56,640
+I don't have cousins.
+
+502
+00:25:02,720 --> 00:25:03,680
+Yuan!
+
+503
+00:25:06,270 --> 00:25:07,030
+Yuan,
+
+504
+00:25:07,240 --> 00:25:08,480
+where's my walking stick?
+
+505
+00:25:10,070 --> 00:25:10,790
+Yuan...
+
+506
+00:25:19,000 --> 00:25:19,790
+What?
+
+507
+00:25:20,000 --> 00:25:21,590
+Did he really say that?
+
+508
+00:25:22,240 --> 00:25:23,680
+And,
+
+509
+00:25:23,880 --> 00:25:26,030
+I found a diamond ring
+
+510
+00:25:26,830 --> 00:25:28,510
+in his pocket last month.
+
+511
+00:25:29,510 --> 00:25:31,070
+Do you think he will...
+
+512
+00:25:31,070 --> 00:25:32,590
+He will propose to you!
+
+513
+00:25:32,830 --> 00:25:34,000
+You... You have to
+
+514
+00:25:34,000 --> 00:25:35,070
+(Xu Yuan)
+be beautifully dressed.
+
+515
+00:25:35,070 --> 00:25:37,480
+How about you wear
+
+516
+00:25:37,720 --> 00:25:39,310
+the purple dress you just bought?
+
+517
+00:25:39,640 --> 00:25:41,240
+I just sent it to the laundry.
+
+518
+00:25:42,480 --> 00:25:42,720
+What...
+
+519
+00:25:42,720 --> 00:25:43,960
+What about the golden suit?
+
+520
+00:25:43,960 --> 00:25:45,030
+It looks great, too.
+
+521
+00:25:45,550 --> 00:25:47,310
+Yeah. Wait, wait a minute.
+
+522
+00:25:53,880 --> 00:25:55,960
+Xiang Yuan, leave it to me.
+
+523
+00:25:56,070 --> 00:25:57,110
+Don't stain your dress.
+
+524
+00:25:57,200 --> 00:25:58,590
+It's OK. It's OK.
+
+525
+00:25:58,720 --> 00:26:00,160
+I'll ask Xu Yanshi to help me.
+
+526
+00:26:01,030 --> 00:26:01,640
+There he is.
+
+527
+00:26:02,440 --> 00:26:03,310
+Thank you.
+
+528
+00:26:06,200 --> 00:26:07,030
+Why didn't you tell me
+
+529
+00:26:07,030 --> 00:26:08,750
+we came for Mrs. Liang's birthday?
+
+530
+00:26:09,000 --> 00:26:09,790
+I saw you
+
+531
+00:26:09,790 --> 00:26:10,680
+get formally dressed
+
+532
+00:26:10,680 --> 00:26:11,790
+and I thought you knew it.
+
+533
+00:26:12,550 --> 00:26:13,030
+I...
+
+534
+00:26:13,830 --> 00:26:14,440
+Hurry.
+
+535
+00:26:23,000 --> 00:26:23,790
+Is everything ready?
+
+536
+00:26:24,270 --> 00:26:24,830
+Come and have dinner.
+
+537
+00:26:25,200 --> 00:26:25,720
+OK.
+
+538
+00:26:33,880 --> 00:26:35,640
+Xiang Yuan, come have dinner.
+
+539
+00:26:39,880 --> 00:26:40,960
+Where's Professor Liang?
+
+540
+00:26:41,830 --> 00:26:43,480
+Knowing you would come,
+
+541
+00:26:43,510 --> 00:26:45,350
+he hid in his study.
+
+542
+00:26:45,440 --> 00:26:46,640
+I called him several times
+
+543
+00:26:46,640 --> 00:26:48,070
+but he didn't come out.
+
+544
+00:26:49,030 --> 00:26:51,790
+Does Professor Liang not want to see me?
+
+545
+00:26:52,590 --> 00:26:53,160
+Not like that.
+
+546
+00:26:53,750 --> 00:26:55,680
+He blamed you wrong
+
+547
+00:26:55,680 --> 00:26:57,510
+and didn't know how to explain it.
+
+548
+00:26:57,830 --> 00:26:59,550
+Ignore him. He's just stubborn.
+
+549
+00:27:00,030 --> 00:27:01,200
+The pride thing.
+
+550
+00:27:01,480 --> 00:27:02,440
+Liang,
+
+551
+00:27:02,590 --> 00:27:04,310
+time for dinner.
+
+552
+00:27:05,240 --> 00:27:06,110
+Be right there.
+
+553
+00:27:10,590 --> 00:27:11,400
+- Professor Liang.
+- Professor Liang.
+
+554
+00:27:11,590 --> 00:27:13,070
+Be seated, guys.
+
+555
+00:27:16,440 --> 00:27:17,790
+Where are Xiang Yuan's chopsticks?
+
+556
+00:27:18,350 --> 00:27:19,400
+How could you forget
+to prepare the chopsticks for her?
+
+557
+00:27:19,400 --> 00:27:20,830
+Here, chopsticks.
+
+558
+00:27:25,400 --> 00:27:26,030
+Umm...
+
+559
+00:27:27,030 --> 00:27:29,110
+Mrs. Liang, a toast to you.
+
+560
+00:27:29,550 --> 00:27:30,920
+Happy birthday!
+
+561
+00:27:30,960 --> 00:27:32,160
+I'll drink it up.
+You drink as much as you want.
+
+562
+00:27:32,160 --> 00:27:32,630
+OK.
+
+563
+00:27:32,720 --> 00:27:33,270
+Cheers.
+
+564
+00:27:33,350 --> 00:27:33,830
+But Professor...
+
+565
+00:27:34,480 --> 00:27:35,480
+I'll just use the big cup.
+
+566
+00:27:39,270 --> 00:27:40,790
+Why does it taste like chili water?
+
+567
+00:27:41,110 --> 00:27:42,400
+It is chili water.
+
+568
+00:28:06,680 --> 00:28:07,590
+Happy birthday!
+
+569
+00:28:07,750 --> 00:28:08,880
+- Happy birthday!
+- Happy birthday!
+
+570
+00:28:09,160 --> 00:28:10,920
+Thanks, thanks.
+
+571
+00:28:11,680 --> 00:28:13,070
+Xiang Yuan, come on.
+
+572
+00:28:13,200 --> 00:28:14,590
+Let me show you something.
+
+573
+00:28:14,830 --> 00:28:16,030
+I'll wash the dishes first.
+
+574
+00:28:16,110 --> 00:28:17,000
+That's a job
+
+575
+00:28:17,110 --> 00:28:18,750
+for Professor Liang.
+
+576
+00:28:18,790 --> 00:28:19,240
+Come on.
+
+577
+00:28:19,480 --> 00:28:20,310
+Liang.
+
+578
+00:28:20,440 --> 00:28:21,070
+Come here.
+
+579
+00:28:22,000 --> 00:28:23,030
+OK, OK.
+
+580
+00:28:23,350 --> 00:28:25,110
+Wash the dishes carefully.
+
+581
+00:28:25,920 --> 00:28:27,000
+Thank you.
+
+582
+00:28:39,270 --> 00:28:40,070
+Oh, my husband.
+
+583
+00:28:41,310 --> 00:28:42,070
+Look,
+
+584
+00:28:42,200 --> 00:28:43,240
+how many guys can you recognize?
+
+585
+00:28:44,640 --> 00:28:45,400
+Look at them.
+
+586
+00:28:45,550 --> 00:28:46,310
+Look.
+
+587
+00:28:46,920 --> 00:28:48,440
+It's been years
+
+588
+00:28:48,750 --> 00:28:50,350
+but Yanshi hasn't changed a lot.
+
+589
+00:28:53,110 --> 00:28:54,680
+He has been more mature.
+
+590
+00:28:54,720 --> 00:28:55,240
+Yes.
+
+591
+00:28:56,200 --> 00:28:56,790
+Yes.
+
+592
+00:28:59,030 --> 00:29:00,350
+They're more mature.
+
+593
+00:29:00,920 --> 00:29:02,350
+Some have even put on weight.
+
+594
+00:29:02,350 --> 00:29:03,880
+Look at this. Look.
+
+595
+00:29:06,550 --> 00:29:07,200
+Well,
+
+596
+00:29:07,270 --> 00:29:08,110
+is the job at the Institute
+
+597
+00:29:08,160 --> 00:29:09,510
+very hard?
+
+598
+00:29:11,880 --> 00:29:13,110
+Not really.
+
+599
+00:29:14,200 --> 00:29:16,110
+Regretting?
+
+600
+00:29:16,400 --> 00:29:17,400
+No.
+
+601
+00:29:17,920 --> 00:29:18,880
+To be honest,
+
+602
+00:29:19,440 --> 00:29:20,790
+life is more fulfilling there.
+
+603
+00:29:21,440 --> 00:29:22,920
+I don't get high pay,
+
+604
+00:29:23,240 --> 00:29:24,310
+but I feel comfortable.
+
+605
+00:29:25,680 --> 00:29:26,590
+Every day,
+
+606
+00:29:26,880 --> 00:29:29,200
+I stay at the Institute or the canteen.
+
+607
+00:29:29,310 --> 00:29:30,270
+Sometimes, I play basketball.
+
+608
+00:29:32,200 --> 00:29:33,240
+Basketball?
+
+609
+00:29:37,000 --> 00:29:37,550
+When are you
+
+610
+00:29:37,550 --> 00:29:38,830
+getting married?
+
+611
+00:29:39,030 --> 00:29:40,680
+Maybe I should start
+
+612
+00:29:40,680 --> 00:29:41,920
+to lose weight.
+
+613
+00:29:41,920 --> 00:29:43,240
+Or when I serve as your best man,
+
+614
+00:29:43,240 --> 00:29:44,880
+I would just be the foil.
+
+615
+00:29:46,110 --> 00:29:47,200
+Foil?
+
+616
+00:29:47,350 --> 00:29:49,270
+You're more like a stout foil.
+
+617
+00:29:50,000 --> 00:29:50,790
+Nonsense.
+
+618
+00:29:50,790 --> 00:29:51,350
+Let me feel.
+
+619
+00:29:51,350 --> 00:29:52,750
+Look at your tummy.
+
+620
+00:29:54,920 --> 00:29:56,440
+Did you propose to her?
+
+621
+00:30:00,790 --> 00:30:02,000
+Look, he's put on weight.
+
+622
+00:30:06,880 --> 00:30:07,680
+No hurry.
+
+623
+00:30:08,440 --> 00:30:11,790
+(June 23, 2020)
+(Today is June 23, 2020.)
+
+624
+00:30:12,000 --> 00:30:14,400
+(China will launch)
+
+625
+00:30:14,400 --> 00:30:15,590
+(No.55 navigation satellite)
+
+626
+00:30:15,590 --> 00:30:18,000
+(at Xichang Satellite Launch Center.)
+
+627
+00:30:18,200 --> 00:30:19,480
+(It's the last networking satellite)
+
+628
+00:30:19,480 --> 00:30:22,000
+(of BDS-3 Navigation Satellite System.)
+
+629
+00:30:22,000 --> 00:30:22,920
+(So far,)
+
+630
+00:30:22,920 --> 00:30:25,160
+(BDS-3 global constellation deployment)
+
+631
+00:30:25,160 --> 00:30:26,790
+(has been completed.)
+
+632
+00:30:26,790 --> 00:30:28,790
+(It indicates China's own)
+
+633
+00:30:28,790 --> 00:30:30,830
+- Sir, can you make it faster?
+- (satellite navigation system will offer)
+
+634
+00:30:30,830 --> 00:30:32,480
+- I have something urgent.
+- (a complete global service.)
+
+635
+00:30:32,550 --> 00:30:33,400
+Lady,
+
+636
+00:30:33,550 --> 00:30:34,880
+we're stuck.
+
+637
+00:30:35,160 --> 00:30:36,240
+I can't make it faster.
+
+638
+00:30:37,720 --> 00:30:39,550
+(It'll be launched soon.)
+
+639
+00:30:40,000 --> 00:30:41,000
+(What do I do?)
+
+640
+00:30:43,660 --> 00:30:49,900
+(Even screws are connected
+to the success of the space industry.)
+
+641
+00:30:52,300 --> 00:30:54,160
+(Monitoring Room No.6 of In-orbit
+Satellite Monitor and Control Center)
+
+642
+00:30:54,160 --> 00:30:56,340
+♪It's the day we've been traveling♪
+
+643
+00:30:56,340 --> 00:30:58,510
+♪It's the day we do happy things♪
+
+644
+00:30:58,510 --> 00:31:01,860
+♪Ready today♪
+
+645
+00:31:02,900 --> 00:31:05,210
+♪It's the thing I keep doing♪
+
+646
+00:31:05,210 --> 00:31:08,800
+♪Every day is a colorful life♪
+
+647
+00:31:09,600 --> 00:31:11,010
+♪Ready♪
+
+648
+00:31:11,780 --> 00:31:15,520
+♪I cross the horizon to enjoy the sunset♪
+
+649
+00:31:15,520 --> 00:31:16,860
+(World Time, Beijing Time,
+Launch Time, Countdown)
+
+650
+00:31:16,860 --> 00:31:17,620
+(The last networking satellite)
+
+651
+00:31:17,640 --> 00:31:20,030
+(of BDS-3 will be launched.)
+(At Xichang Satellite Launch Center,)
+
+652
+00:31:20,030 --> 00:31:22,640
+(the rocket has been thoroughly checked.)
+
+653
+00:31:22,640 --> 00:31:24,830
+(Some staff members)
+
+654
+00:31:24,830 --> 00:31:27,310
+(are doing the final check near it.)
+
+655
+00:31:27,510 --> 00:31:30,030
+(The tower launcher is completely open.)
+
+656
+00:31:30,510 --> 00:31:32,110
+(Rocket CZ-3B)
+
+657
+00:31:32,110 --> 00:31:33,000
+(that carries the last satellite)
+
+658
+00:31:33,000 --> 00:31:34,920
+(of BDS-3)
+
+659
+00:31:34,920 --> 00:31:36,680
+(will be launched.)
+
+660
+00:31:38,430 --> 00:31:40,770
+♪It's the thing we've been fighting♪
+
+661
+00:31:40,770 --> 00:31:44,610
+♪Every day it's a new experience♪
+
+662
+00:31:45,200 --> 00:31:46,050
+♪Ready♪
+
+663
+00:31:46,070 --> 00:31:47,920
+(Beidou Navigation Satellite System)
+
+664
+00:31:47,920 --> 00:31:49,680
+(is a global navigation satellite system)
+
+665
+00:31:49,680 --> 00:31:51,440
+(independently developed by China.)
+
+666
+00:31:51,590 --> 00:31:53,720
+(It's also the third)
+
+667
+00:31:53,720 --> 00:31:54,880
+(global navigation satellite system,)
+
+668
+00:31:54,880 --> 00:31:56,590
+(after the GPS of the USA)
+
+669
+00:31:56,590 --> 00:31:58,110
+(and GLONASS)
+
+670
+00:31:58,240 --> 00:31:59,510
+Yi Shi, look.
+
+671
+00:31:59,510 --> 00:32:01,240
+(of Russia.)
+
+672
+00:32:02,070 --> 00:32:02,880
+This one is OK.
+
+673
+00:32:03,350 --> 00:32:04,310
+I think this one suits you.
+
+674
+00:32:04,680 --> 00:32:05,750
+You can try it on.
+
+675
+00:32:05,830 --> 00:32:06,510
+Dad,
+
+676
+00:32:06,640 --> 00:32:07,310
+look.
+
+677
+00:32:07,480 --> 00:32:09,070
+The satellite is about to be launched.
+
+678
+00:32:10,210 --> 00:32:13,140
+♪Nothing could stop me♪
+
+679
+00:32:13,940 --> 00:32:16,280
+♪When wind dispels the hazes♪
+
+680
+00:32:16,310 --> 00:32:17,350
+Ten.
+
+681
+00:32:18,200 --> 00:32:19,110
+The countdown started.
+
+682
+00:32:19,110 --> 00:32:20,440
+Why isn't Yuan back yet?
+
+683
+00:32:20,550 --> 00:32:21,720
+Nine.
+
+684
+00:32:22,590 --> 00:32:23,550
+Eight.
+
+685
+00:32:25,070 --> 00:32:26,200
+Seven.
+
+686
+00:32:27,550 --> 00:32:28,590
+Six.
+
+687
+00:32:29,750 --> 00:32:30,830
+Five.
+
+688
+00:32:32,160 --> 00:32:33,240
+Four.
+
+689
+00:32:34,590 --> 00:32:35,720
+Three.
+
+690
+00:32:36,720 --> 00:32:37,790
+Two.
+
+691
+00:32:39,310 --> 00:32:40,270
+One.
+
+692
+00:32:47,790 --> 00:32:48,680
+Ignition!
+
+693
+00:32:48,790 --> 00:32:49,590
+Ignition.
+
+694
+00:32:49,590 --> 00:32:53,020
+(World Time, Beijing Time,
+Launch Time, Countdown)
+
+695
+00:32:53,030 --> 00:32:53,830
+Departure!
+
+696
+00:32:53,920 --> 00:32:54,750
+Departure.
+
+697
+00:32:54,880 --> 00:32:55,550
+Departure.
+
+698
+00:32:55,680 --> 00:32:56,550
+(Departure Time: 09:43:04.200)
+The departure time
+
+699
+00:32:56,550 --> 00:32:58,790
+is
+
+700
+00:32:58,790 --> 00:33:00,030
+09:43:04.200.
+
+701
+00:33:00,260 --> 00:33:02,140
+(News: The last
+networking satellite of BDS-3)
+
+702
+00:33:03,850 --> 00:33:06,500
+♪In the pursuit of a dream♪
+
+703
+00:33:06,500 --> 00:33:09,440
+♪Starting late matters not♪
+
+704
+00:33:10,930 --> 00:33:13,450
+♪No one is flawless♪
+
+705
+00:33:14,270 --> 00:33:15,240
+Procedure turn.
+
+706
+00:33:15,440 --> 00:33:16,550
+Procedure turn.
+
+707
+00:33:17,400 --> 00:33:19,590
+Base 160, check.
+
+708
+00:33:19,750 --> 00:33:21,720
+Base 160, check.
+
+709
+00:33:24,260 --> 00:33:27,350
+♪Raise head toward the starlight♪
+
+710
+00:33:27,360 --> 00:33:29,160
+Radar 3112, check.
+
+711
+00:33:29,160 --> 00:33:31,000
+Base 210 starts post-launch firefighting.
+
+712
+00:33:31,270 --> 00:33:33,240
+Radar 3112, check.
+
+713
+00:33:33,240 --> 00:33:35,000
+Base 210 starts post-launch firefighting.
+
+714
+00:33:37,780 --> 00:33:39,940
+(News: The last networking satellite
+of BDS-3 is going to be launched today.)
+
+715
+00:33:40,410 --> 00:33:43,940
+♪There is always your smile♪
+
+716
+00:33:45,310 --> 00:33:47,160
+Radar 3106, check.
+
+717
+00:33:47,400 --> 00:33:49,400
+Radar 3106, check.
+
+718
+00:33:50,960 --> 00:33:52,830
+Xichang Base 211, check.
+
+719
+00:33:52,960 --> 00:33:54,830
+Xichang Base 211, check.
+
+720
+00:33:54,830 --> 00:33:57,890
+♪There is a hidden rainbow♪
+
+721
+00:34:05,030 --> 00:34:06,440
+Booster separation.
+
+722
+00:34:06,590 --> 00:34:07,830
+Booster separation.
+
+723
+00:34:07,830 --> 00:34:10,300
+♪In the pursuit of a dream♪
+
+724
+00:34:10,300 --> 00:34:12,870
+♪No regret after the departure♪
+
+725
+00:34:16,440 --> 00:34:17,480
+Separation of Stage 1 and Stage 2.
+
+726
+00:34:17,480 --> 00:34:19,320
+Lushan 3106, high voltage off.
+
+727
+00:34:20,400 --> 00:34:21,440
+Separation of Stage 1 and Stage 2.
+
+728
+00:34:21,550 --> 00:34:23,230
+Lushan 3106, high voltage off.
+
+729
+00:34:24,490 --> 00:34:27,430
+♪My heart beats louder♪
+
+730
+00:34:28,160 --> 00:34:30,520
+♪Go, go for extreme feelings♪
+
+731
+00:34:30,590 --> 00:34:31,670
+Dump the fairings.
+
+732
+00:34:31,840 --> 00:34:33,030
+Dump the fairings.
+
+733
+00:34:34,530 --> 00:34:37,400
+♪My sky♪
+
+734
+00:34:37,550 --> 00:34:39,000
+Xichang, flight check.
+
+735
+00:34:39,190 --> 00:34:40,670
+Xichang, flight check.
+
+736
+00:34:42,400 --> 00:34:43,360
+Stage 2, off.
+
+737
+00:34:43,360 --> 00:34:44,670
+Separation of Stage 2 and Stage 3.
+
+738
+00:34:45,000 --> 00:34:46,030
+Stage 2, off.
+
+739
+00:34:46,070 --> 00:34:47,320
+Separation of Stage 2 and Stage 3.
+
+740
+00:34:49,250 --> 00:34:53,090
+♪The freezing wind is warmed by the sun♪
+
+741
+00:34:53,090 --> 00:34:56,500
+♪Ordinary but glorious
+Be your hero♪
+
+742
+00:34:56,500 --> 00:34:57,940
+♪My sky♪
+
+743
+00:34:57,960 --> 00:34:59,280
+Stage 3, off for the second time.
+
+744
+00:34:59,280 --> 00:35:00,670
+Terminal velocity correction, off.
+
+745
+00:35:01,030 --> 00:35:02,320
+Stage 3, off for the second time.
+
+746
+00:35:02,320 --> 00:35:03,710
+Terminal velocity correction, off.
+
+747
+00:35:05,360 --> 00:35:06,510
+Satellite-rocket separation.
+
+748
+00:35:06,710 --> 00:35:07,920
+Satellite-rocket separation.
+
+749
+00:35:08,780 --> 00:35:10,740
+(News: The last networking satellite
+of BDS-3 is going to be launched today.)
+
+750
+00:35:11,570 --> 00:35:16,210
+♪Protect the star of dream
+One day we will arrive♪
+
+751
+00:35:18,030 --> 00:35:18,630
+- Great!
+- Great!
+
+752
+00:35:19,630 --> 00:35:21,000
+- We made it!
+- We made it!
+
+753
+00:35:21,070 --> 00:35:21,440
+Great!
+
+754
+00:35:22,070 --> 00:35:22,760
+We made it.
+
+755
+00:35:23,630 --> 00:35:24,630
+We made it, at least.
+
+756
+00:35:26,800 --> 00:35:27,480
+We made it!
+
+757
+00:35:29,360 --> 00:35:30,000
+We succeeded.
+
+758
+00:35:30,230 --> 00:35:30,880
+- Great!
+- Great!
+
+759
+00:35:31,360 --> 00:35:32,920
+They made it! Splendid!
+
+760
+00:35:33,230 --> 00:35:33,670
+They made it.
+
+761
+00:35:33,670 --> 00:35:34,360
+At last!
+
+762
+00:35:34,400 --> 00:35:35,010
+Victory!
+
+763
+00:35:35,010 --> 00:35:42,580
+♪The other side of the sky
+Forever love♪
+
+764
+00:35:51,150 --> 00:35:52,840
+You can't see it.
+
+765
+00:35:53,440 --> 00:35:55,070
+Even if I can't see it,
+
+766
+00:35:56,630 --> 00:35:58,110
+it's still up there.
+
+767
+00:36:06,540 --> 00:36:08,380
+(News: The last networking satellite
+of BDS-3 is going to be launched today.)
+
+768
+00:36:09,440 --> 00:36:10,800
+Dad, make a wish.
+
+769
+00:36:10,800 --> 00:36:11,550
+OK, OK.
+
+770
+00:36:24,410 --> 00:36:27,010
+♪Small points on the map♪
+
+771
+00:36:29,410 --> 00:36:30,580
+♪Unconsciously♪
+
+772
+00:36:30,580 --> 00:36:33,110
+♪We are connected into a line♪
+
+773
+00:36:34,280 --> 00:36:36,820
+♪Billions of light years
+away in the universe♪
+
+774
+00:36:36,820 --> 00:36:39,850
+♪How many stars are waiting♪
+
+775
+00:36:44,230 --> 00:36:46,720
+♪Sometimes the system crashes♪
+
+776
+00:36:46,820 --> 00:36:48,380
+(Conference Room)
+
+777
+00:36:49,710 --> 00:36:50,670
+Stop peeking!
+
+778
+00:36:51,070 --> 00:36:52,280
+Come in!
+
+779
+00:36:54,000 --> 00:36:55,590
+Take your seat. Come on.
+
+780
+00:36:56,600 --> 00:37:00,690
+♪I can always start all over again♪
+
+781
+00:37:02,040 --> 00:37:04,980
+♪'Cause everything is OK♪
+
+782
+00:37:04,980 --> 00:37:06,950
+♪Never be afraid♪
+
+783
+00:37:06,950 --> 00:37:09,670
+♪And every day I pray♪
+
+784
+00:37:09,670 --> 00:37:12,050
+♪This is not a dream♪
+
+785
+00:37:12,050 --> 00:37:14,440
+♪Make it a better day♪
+
+786
+00:37:14,760 --> 00:37:16,630
+Now, I kind of understand
+
+787
+00:37:17,800 --> 00:37:19,510
+why Gu Li and Xu Yanshi
+
+788
+00:37:20,030 --> 00:37:21,480
+worked so tirelessly
+
+789
+00:37:21,480 --> 00:37:22,840
+for Beidou System
+
+790
+00:37:23,480 --> 00:37:25,480
+of our country.
+
+791
+00:37:26,720 --> 00:37:29,510
+♪And every day I pray♪
+
+792
+00:37:29,510 --> 00:37:31,800
+♪This is not a dream♪
+
+793
+00:37:31,800 --> 00:37:34,120
+♪Make it a better day♪
+
+794
+00:37:34,120 --> 00:37:35,850
+♪My world never rains♪
+
+795
+00:37:35,880 --> 00:37:37,000
+Sir, drive.
+
+796
+00:37:37,110 --> 00:37:38,760
+What were you watching?
+
+797
+00:37:39,320 --> 00:37:40,150
+Sorry.
+
+798
+00:37:40,280 --> 00:37:41,440
+The satellite was launched.
+
+799
+00:37:41,440 --> 00:37:43,030
+Look. It's on TV.
+
+800
+00:37:46,440 --> 00:37:47,070
+(Hello, everyone.)
+
+801
+00:37:47,070 --> 00:37:47,960
+(Now, we've come)
+
+802
+00:37:47,960 --> 00:37:48,670
+(to the Navigation Research Institute)
+
+803
+00:37:48,670 --> 00:37:49,360
+(and witness this moment)
+
+804
+00:37:49,360 --> 00:37:50,070
+(with you.)
+
+805
+00:37:50,070 --> 00:37:50,800
+(Next,)
+
+806
+00:37:50,800 --> 00:37:52,000
+(let's interview)
+
+807
+00:37:52,000 --> 00:37:53,230
+(some research scientists)
+
+808
+00:37:53,230 --> 00:37:54,070
+(involved in this launch.)
+
+809
+00:37:54,280 --> 00:37:55,320
+(OK, camera.)
+
+810
+00:37:55,960 --> 00:37:56,510
+(Excuse me.)
+
+811
+00:37:56,510 --> 00:37:58,230
+(How do you feel now?)
+
+812
+00:37:58,230 --> 00:37:59,480
+(Very excited.)
+
+813
+00:37:59,710 --> 00:38:00,630
+(We finally made it.)
+
+814
+00:38:01,880 --> 00:38:02,880
+(OK. Thank you.)
+
+815
+00:38:03,230 --> 00:38:04,840
+(Excuse me, can you introduce yourself?)
+
+816
+00:38:04,840 --> 00:38:05,440
+(I am)
+
+817
+00:38:05,480 --> 00:38:06,400
+(one of the research members)
+
+818
+00:38:06,400 --> 00:38:07,510
+(of this project.)
+
+819
+00:38:07,760 --> 00:38:08,320
+(Surprisingly,)
+
+820
+00:38:08,320 --> 00:38:09,710
+(the project over 20 years)
+
+821
+00:38:09,710 --> 00:38:11,070
+(has finally succeeded today.)
+
+822
+00:38:11,150 --> 00:38:12,480
+(I'm really excited.)
+
+823
+00:38:12,670 --> 00:38:13,630
+(OK. Thank you.)
+
+824
+00:38:13,630 --> 00:38:15,150
+(Excuse me, may I have your name?)
+
+825
+00:38:15,150 --> 00:38:16,110
+(I'm Wang Yu.)
+
+826
+00:38:16,480 --> 00:38:17,760
+(How do you feel now?)
+
+827
+00:38:17,760 --> 00:38:18,960
+(Excited. Really excited.)
+
+828
+00:38:19,190 --> 00:38:20,110
+(OK. Thank you.)
+
+829
+00:38:21,230 --> 00:38:22,880
+(Excuse me, can you introduce yourself?)
+
+830
+00:38:22,960 --> 00:38:24,320
+(Hello, I'm Xu Yanshi.)
+
+831
+00:38:24,670 --> 00:38:25,070
+(May I know)
+
+832
+00:38:25,070 --> 00:38:26,590
+(how you feel now?)
+
+833
+00:38:27,000 --> 00:38:27,710
+(I'm very happy)
+
+834
+00:38:27,710 --> 00:38:29,000
+(to have witnessed this moment.)
+
+835
+00:38:29,000 --> 00:38:30,000
+(And I'm honored)
+
+836
+00:38:30,000 --> 00:38:30,960
+(to be involved)
+
+837
+00:38:30,960 --> 00:38:31,960
+(in this extraordinary project.)
+
+838
+00:38:32,440 --> 00:38:33,510
+(After your work is done,)
+
+839
+00:38:33,510 --> 00:38:34,110
+(is there anything special)
+
+840
+00:38:34,110 --> 00:38:35,510
+(you would like to do?)
+
+841
+00:38:36,070 --> 00:38:37,920
+(Yes, something very important.)
+
+842
+00:38:46,760 --> 00:38:47,590
+(I want my girlfriend)
+
+843
+00:38:47,590 --> 00:38:48,800
+(to accept this badge)
+
+844
+00:38:49,070 --> 00:38:50,230
+(and share the honor with me.)
+
+845
+00:38:50,230 --> 00:38:52,790
+♪Baby, I'm waiting for you♪
+
+846
+00:38:52,790 --> 00:38:55,110
+♪Waiting in happiness♪
+
+847
+00:38:55,110 --> 00:38:56,590
+(Xiang Yuan, will you accept it?)
+
+848
+00:38:58,050 --> 00:39:00,000
+♪Everything, every time♪
+
+849
+00:39:00,000 --> 00:39:01,680
+Yes!
+
+850
+00:39:04,230 --> 00:39:09,750
+♪Baby, in my world, only you♪
+
+851
+00:39:09,750 --> 00:39:14,850
+♪Only you, only you♪
+
+852
+00:39:16,460 --> 00:39:17,460
+(Six days later)
+
+853
+00:39:17,480 --> 00:39:18,920
+Dear friends,
+
+854
+00:39:19,150 --> 00:39:22,030
+to celebrate the launch
+of Beidou satellite,
+
+855
+00:39:22,030 --> 00:39:23,590
+let's drink together.
+
+856
+00:39:23,590 --> 00:39:24,440
+Wrong.
+
+857
+00:39:24,440 --> 00:39:25,710
+To celebrate the completion
+
+858
+00:39:25,710 --> 00:39:27,550
+of Beidou Global Networking!
+
+859
+00:39:28,030 --> 00:39:30,110
+To the completion
+of Beidou Global Networking.
+
+860
+00:39:30,110 --> 00:39:31,230
+Come on, cheers.
+
+861
+00:39:31,230 --> 00:39:32,000
+Cheers!
+
+862
+00:39:32,550 --> 00:39:33,150
+Cheers.
+
+863
+00:39:33,320 --> 00:39:34,330
+Cheers.
+
+864
+00:39:38,710 --> 00:39:39,480
+Cheers.
+
+865
+00:39:39,480 --> 00:39:40,360
+One more time.
+
+866
+00:39:40,440 --> 00:39:41,070
+Cheers.
+
+867
+00:39:41,110 --> 00:39:41,710
+Cheers.
+
+868
+00:40:01,510 --> 00:40:02,360
+Yuan.
+
+869
+00:40:02,760 --> 00:40:03,510
+Yuan,
+
+870
+00:40:03,710 --> 00:40:05,000
+do you remember this?
+
+871
+00:40:05,070 --> 00:40:06,920
+Isn't it my promise feather?
+
+872
+00:40:07,000 --> 00:40:07,510
+Yes.
+
+873
+00:40:07,510 --> 00:40:09,280
+You took three feathers
+
+874
+00:40:09,360 --> 00:40:10,840
+and used two of them.
+
+875
+00:40:11,070 --> 00:40:12,150
+It's the last one
+
+876
+00:40:12,150 --> 00:40:13,320
+and what would you wish for?
+
+877
+00:40:14,710 --> 00:40:16,190
+Be careful, walk slowly.
+
+878
+00:40:16,280 --> 00:40:18,000
+I wish my grandpa
+
+879
+00:40:18,510 --> 00:40:19,710
+would live a long life
+
+880
+00:40:19,800 --> 00:40:20,840
+and always be healthy!
+
+881
+00:40:21,710 --> 00:40:23,880
+I didn't expect you to say this.
+
+882
+00:40:24,760 --> 00:40:25,920
+I'm really glad. I am.
+
+883
+00:40:25,920 --> 00:40:27,440
+My good granddaughter.
+
+884
+00:40:28,190 --> 00:40:29,630
+In this case, Grandpa,
+
+885
+00:40:29,630 --> 00:40:31,280
+give this feather to me.
+
+886
+00:40:32,070 --> 00:40:34,320
+Last time, I told you
+
+887
+00:40:34,400 --> 00:40:35,230
+about the pet store.
+
+888
+00:40:35,230 --> 00:40:36,550
+Think about it.
+
+889
+00:40:38,318 --> 00:40:39,436
+Piss off.
+
+890
+00:40:39,880 --> 00:40:41,110
+- You sit here.
+- Hi, Mr. Lin.
+
+891
+00:40:42,510 --> 00:40:43,550
+Come on. Take a seat.
+
+892
+00:40:43,550 --> 00:40:44,590
+You...
+
+893
+00:40:45,030 --> 00:40:46,230
+Really fast.
+
+894
+00:40:46,230 --> 00:40:47,320
+Indeed.
+
+895
+00:40:47,920 --> 00:40:48,710
+Hi, Mr. Situ.
+
+896
+00:40:49,550 --> 00:40:50,150
+Hi, Kairui.
+
+897
+00:40:53,480 --> 00:40:54,000
+Photo time.
+
+898
+00:40:54,030 --> 00:40:55,400
+Grandpa, you stand here.
+
+899
+00:40:55,400 --> 00:40:57,070
+- Come. Let's take the photo.
+- Move ahead.
+
+900
+00:40:57,150 --> 00:40:57,800
+Come on.
+
+901
+00:40:57,800 --> 00:40:58,630
+Here we go.
+
+902
+00:40:58,630 --> 00:40:59,000
+Start.
+
+903
+00:40:59,000 --> 00:40:59,800
+Cheese.
+
+904
+00:40:59,800 --> 00:41:01,550
+Three, two, one!
+
+905
+00:41:08,710 --> 00:41:09,760
+Come on.
+
+906
+00:41:10,230 --> 00:41:12,400
+Fill the glasses. Fill them.
+
+907
+00:41:12,510 --> 00:41:14,030
+Come on. Drink it up.
+
+908
+00:41:14,030 --> 00:41:15,070
+- Drink.
+- Hurry.
+
+909
+00:41:15,070 --> 00:41:15,920
+Come on, fill the glasses.
+
+910
+00:41:15,920 --> 00:41:16,400
+- Cheers.
+- Together.
+
+911
+00:41:16,840 --> 00:41:17,550
+Why isn't the moon
+
+912
+00:41:17,550 --> 00:41:18,590
+round at all?
+
+913
+00:41:18,590 --> 00:41:19,550
+I want to see the full moon.
+
+914
+00:41:19,880 --> 00:41:21,630
+Because it's not the 15th, honey.
+
+915
+00:41:21,630 --> 00:41:22,960
+It's only the 8th day.
+
+916
+00:41:23,550 --> 00:41:25,510
+But I want the full moon.
+
+917
+00:41:25,800 --> 00:41:26,590
+Didn't we agree
+
+918
+00:41:26,590 --> 00:41:28,320
+that we would live day by day?
+
+919
+00:41:30,070 --> 00:41:30,840
+Let me ask him for you.
+
+920
+00:41:34,000 --> 00:41:35,360
+Hello, 15th.
+
+921
+00:41:35,480 --> 00:41:36,510
+Could you come tomorrow
+
+922
+00:41:36,630 --> 00:41:38,280
+instead of the 9th day?
+
+923
+00:41:38,510 --> 00:41:39,230
+My wife said
+
+924
+00:41:39,230 --> 00:41:41,320
+she wanted to see the full moon tomorrow.
+
+925
+00:41:42,070 --> 00:41:43,150
+He said OK.
+
+926
+00:41:43,590 --> 00:41:44,840
+Look.
+
+927
+00:41:53,000 --> 00:41:53,960
+If...
+
+928
+00:41:53,960 --> 00:41:55,480
+If I were as childish as them,
+
+929
+00:41:55,760 --> 00:41:56,800
+launch me up there
+
+930
+00:41:56,800 --> 00:41:58,150
+the way you launched the satellite.
+
+931
+00:42:00,510 --> 00:42:02,030
+The last networking satellite of BDS-3
+
+932
+00:42:02,030 --> 00:42:02,840
+has been launched.
+
+933
+00:42:03,480 --> 00:42:05,150
+You may not get that chance.
+
+934
+00:42:06,760 --> 00:42:07,960
+You really want to send me up?
+
+935
+00:42:08,070 --> 00:42:09,230
+Should I feel lucky
+
+936
+00:42:09,230 --> 00:42:10,550
+that the project is over?
+
+937
+00:42:12,150 --> 00:42:13,800
+It's not completely over, actually.
+
+938
+00:42:14,630 --> 00:42:16,480
+By the end of 2023,
+
+939
+00:42:16,840 --> 00:42:17,550
+we'll have to achieve
+
+940
+00:42:17,550 --> 00:42:18,630
+global tracking and independent control
+
+941
+00:42:18,630 --> 00:42:19,590
+of flights.
+
+942
+00:42:20,400 --> 00:42:21,590
+So, from now on,
+
+943
+00:42:22,320 --> 00:42:23,710
+I'll be very busy.
+
+944
+00:42:25,920 --> 00:42:26,510
+Don't worry.
+
+945
+00:42:27,760 --> 00:42:29,590
+I'm always here for you.
+
+946
+00:42:32,550 --> 00:42:34,150
+When I'm saying this,
+
+947
+00:42:34,150 --> 00:42:36,150
+I even want to marry you.
+
+948
+00:42:40,960 --> 00:42:42,070
+Marry me any time you want.
+
+949
+00:42:56,030 --> 00:42:56,760
+(Recently,)
+
+950
+00:42:56,760 --> 00:42:58,320
+(Mr. Yang,)
+
+951
+00:42:58,320 --> 00:42:58,920
+(Chairman of Pingshan Technology)
+
+952
+00:42:58,920 --> 00:43:00,630
+(and his mistress Ms. Li)
+
+953
+00:43:00,630 --> 00:43:02,070
+- Have some coffee.
+- (were suspected of embezzlement.)
+
+954
+00:43:02,070 --> 00:43:03,150
+- It's hot, be careful.
+- (Today, the municipal procuratorate)
+
+955
+00:43:03,150 --> 00:43:05,670
+(decided to charge them.)
+
+956
+00:43:10,760 --> 00:43:11,670
+Xu Yanshi,
+
+957
+00:43:12,000 --> 00:43:13,400
+they were arrested.
+
+958
+00:43:15,960 --> 00:43:17,540
+They deserve this.
+
+959
+00:43:21,840 --> 00:43:23,440
+- Here.
+- Congratulations.
+
+960
+00:43:23,510 --> 00:43:24,000
+Thanks.
+
+961
+00:43:24,000 --> 00:43:25,030
+Give me your ID cards
+
+962
+00:43:25,030 --> 00:43:25,670
+and household registers.
+
+963
+00:43:25,670 --> 00:43:26,280
+OK.
+
+964
+00:43:30,320 --> 00:43:31,400
+Boy,
+
+965
+00:43:31,550 --> 00:43:33,070
+what's your name?
+
+966
+00:43:33,190 --> 00:43:33,960
+Who are you looking for?
+
+967
+00:43:33,960 --> 00:43:35,150
+My name is Sweet Dumpling.
+
+968
+00:43:35,150 --> 00:43:37,030
+(PRC Property Ownership Certificate)
+I came to sell my house.
+
+969
+00:43:37,110 --> 00:43:38,230
+Sell your house?
+
+970
+00:43:38,320 --> 00:43:39,590
+But this is the Bureau of Civil Affairs.
+
+971
+00:43:39,590 --> 00:43:41,630
+What is this place?
+
+972
+00:43:41,920 --> 00:43:43,030
+It's for adults
+
+973
+00:43:43,030 --> 00:43:44,840
+to get married or divorced.
+
+974
+00:43:45,030 --> 00:43:46,510
+Where are your parents?
+
+975
+00:43:47,360 --> 00:43:49,840
+Where can I sell my house, then?
+
+976
+00:43:50,630 --> 00:43:52,480
+Why do you want to sell it?
+
+977
+00:43:52,480 --> 00:43:54,480
+Because it's vacant.
+
+978
+00:43:54,480 --> 00:43:56,280
+No one lives in it.
+
+979
+00:44:01,710 --> 00:44:02,630
+Ma'am,
+
+980
+00:44:02,630 --> 00:44:04,510
+if I can't sell my house here,
+
+981
+00:44:04,510 --> 00:44:06,440
+can you help my parents
+
+982
+00:44:06,440 --> 00:44:07,800
+to get divorced?
+
+983
+00:44:08,190 --> 00:44:09,880
+Sorry, sorry.
+
+984
+00:44:10,760 --> 00:44:11,840
+I'm sorry.
+
+985
+00:44:13,000 --> 00:44:13,800
+If you do this again,
+
+986
+00:44:13,800 --> 00:44:15,000
+I'll ask your father to beat you!
+
+987
+00:44:16,000 --> 00:44:17,400
+Xu Yanshi,
+
+988
+00:44:18,070 --> 00:44:19,360
+your son is giving me emotional abuse!
+
+989
+00:44:19,960 --> 00:44:22,630
+Father keeps working at the Institute
+
+990
+00:44:22,630 --> 00:44:25,630
+and he can't reach me, anyway.
+
+991
+00:44:26,710 --> 00:44:29,030
+Xu Yancheng!
+
+992
+00:44:31,480 --> 00:44:32,070
+Mom,
+
+993
+00:44:32,070 --> 00:44:34,400
+did you have a hard day at work?
+
+994
+00:44:35,990 --> 00:44:41,400
+♪Baby, in my world, only you♪
+
+995
+00:44:41,400 --> 00:44:46,710
+♪Only you, only you♪
+
+996
+00:44:46,710 --> 00:44:52,060
+♪You come into my world, only you♪
+
+997
+00:44:52,060 --> 00:44:57,030
+♪Only you, only you♪
+
+998
+00:45:19,656 --> 00:45:20,866
+♪Wanna tell you♪
+
+999
+00:45:20,866 --> 00:45:23,826
+♪The most beautiful scene for me♪
+
+1000
+00:45:24,126 --> 00:45:27,206
+♪That is your smiling eyes♪
+
+1001
+00:45:28,526 --> 00:45:29,766
+♪Wanna travel♪
+
+1002
+00:45:29,766 --> 00:45:32,176
+♪Where no one reaches♪
+
+1003
+00:45:32,176 --> 00:45:34,696
+♪The world that only belongs to us♪
+
+1004
+00:45:37,516 --> 00:45:38,656
+♪Thinking of♪
+
+1005
+00:45:38,656 --> 00:45:41,576
+♪The time when we were innocent♪
+
+1006
+00:45:41,926 --> 00:45:44,936
+♪Shared all my secrets with you♪
+
+1007
+00:45:46,396 --> 00:45:47,466
+♪If life♪
+
+1008
+00:45:47,466 --> 00:45:49,926
+♪Can be scored in rhythm♪
+
+1009
+00:45:49,926 --> 00:45:52,706
+♪Then I would sing for you♪
+
+1010
+00:45:54,416 --> 00:45:57,756
+♪The time when I am with you♪
+
+1011
+00:45:58,026 --> 00:46:02,056
+♪The boring life turns interesting♪
+
+1012
+00:46:03,266 --> 00:46:07,186
+♪Take a deep breath for fresh air♪
+
+1013
+00:46:07,746 --> 00:46:11,146
+♪As if you were whispering♪
+
+1014
+00:46:12,146 --> 00:46:15,646
+♪The time when I am with you♪
+
+1015
+00:46:15,816 --> 00:46:19,736
+♪Everything will be fine♪
+
+1016
+00:46:20,776 --> 00:46:25,066
+♪The wind at the window awakens me♪
+
+1017
+00:46:25,546 --> 00:46:29,726
+♪It is meaningful with you there♪
+
+1018
+00:46:30,666 --> 00:46:31,946
+♪Wanna tell you♪
+
+1019
+00:46:31,946 --> 00:46:34,876
+♪The most beautiful scene for me♪
+
+1020
+00:46:35,296 --> 00:46:38,376
+♪That is your smiling eyes♪
+
+1021
+00:46:39,656 --> 00:46:43,396
+♪Wanna travel where no one reaches♪
+
+1022
+00:46:43,396 --> 00:46:45,876
+♪The world that only belongs to us♪
+
+1023
+00:46:48,546 --> 00:46:49,736
+♪Thinking of♪
+
+1024
+00:46:49,736 --> 00:46:52,676
+♪The time when we were innocent♪
+
+1025
+00:46:53,056 --> 00:46:56,006
+♪Shared all my secrets with you♪
+
+1026
+00:46:57,476 --> 00:46:58,556
+♪If love♪
+
+1027
+00:46:58,556 --> 00:47:01,086
+♪Can be scored in rhythm♪
+
+1028
+00:47:01,086 --> 00:47:03,796
+♪Then I would sing for you♪
+
+1029
+00:47:05,496 --> 00:47:08,826
+♪The time when I am with you♪
+
+1030
+00:47:09,106 --> 00:47:12,986
+♪The boring life turns interesting♪
+
+1031
+00:47:14,416 --> 00:47:18,326
+♪The summer wind and the spring rain♪
+
+1032
+00:47:18,816 --> 00:47:22,506
+♪You put them all in my hand♪
+
+1033
+00:47:23,286 --> 00:47:26,656
+♪The time when I am with you♪
+
+1034
+00:47:26,886 --> 00:47:30,756
+♪Everything will be fine♪
+
+1035
+00:47:32,166 --> 00:47:36,126
+♪The dark night and the broken heart♪
+
+1036
+00:47:36,636 --> 00:47:40,856
+♪It's meaningful with you there♪
