@@ -1,0 +1,1043 @@
+1
+00:01:08,120 --> 00:01:13,850
+Selected project for Guangdong Province's Original Online Audio-Visual Premium Project Database.
+
+2
+00:01:19,960 --> 00:01:22,020
+There's also an encrypted document.
+
+3
+00:01:26,800 --> 00:01:27,120
+This...
+
+4
+00:01:27,120 --> 00:01:28,640
+We saw in my father's office...
+
+5
+00:01:28,640 --> 00:01:30,200
+the missing pages of the document...
+
+6
+00:01:30,200 --> 00:01:32,200
+might be in this confidential file.
+
+7
+00:01:33,280 --> 00:01:34,009
+Sure enough.
+
+8
+00:01:34,360 --> 00:01:35,360
+This document...
+
+9
+00:01:35,440 --> 00:01:37,840
+Uncle Yang didn't want others to discover.
+
+10
+00:01:47,800 --> 00:01:50,160
+Hold Ctrl and scroll the mouse wheel.
+
+11
+00:02:02,600 --> 00:02:03,200
+Oh my god.
+
+12
+00:02:18,800 --> 00:02:19,480
+Ephedrine.
+
+13
+00:02:20,440 --> 00:02:21,770
+It should be ephedrine.
+
+14
+00:02:21,840 --> 00:02:24,900
+The research and development data for the substitute.
+
+15
+00:02:25,280 --> 00:02:26,480
+Without this data...
+
+16
+00:02:27,120 --> 00:02:28,920
+we can't prove Wang Yue's crime.
+
+17
+00:02:31,640 --> 00:02:32,440
+Liu Yaohui...
+
+18
+00:02:32,760 --> 00:02:33,690
+and my father...
+
+19
+00:02:34,280 --> 00:02:36,240
+were the managers of this document's backup.
+
+20
+00:02:36,240 --> 00:02:37,170
+The managers...
+
+21
+00:02:37,960 --> 00:02:39,420
+also met with misfortune.
+
+22
+00:02:46,120 --> 00:02:46,579
+Family.
+
+23
+00:02:53,160 --> 00:02:53,960
+Ninety-four.
+
+24
+00:02:54,640 --> 00:02:55,280
+Twelve.
+
+25
+00:02:56,120 --> 00:02:56,400
+Six.
+
+26
+00:02:57,640 --> 00:02:58,970
+This is a Caesar cipher.
+
+27
+00:02:59,280 --> 00:03:00,200
+Ninety-four...
+
+28
+00:03:00,200 --> 00:03:01,330
+represents page 94.
+
+29
+00:03:01,640 --> 00:03:02,240
+Twelve...
+
+30
+00:03:02,720 --> 00:03:04,120
+represents the 12th line.
+
+31
+00:03:04,120 --> 00:03:04,520
+Six...
+
+32
+00:03:04,960 --> 00:03:05,720
+represents...
+
+33
+00:03:05,720 --> 00:03:06,780
+the 6th character.
+
+34
+00:03:07,200 --> 00:03:07,840
+or symbol.
+
+35
+00:03:08,880 --> 00:03:09,680
+Is this the...
+
+36
+00:03:09,960 --> 00:03:11,620
+missing corresponding data?
+
+37
+00:03:13,680 --> 00:03:14,680
+Not necessarily.
+
+38
+00:03:15,800 --> 00:03:17,860
+This is a basic substitution method.
+
+39
+00:03:17,920 --> 00:03:19,440
+The code must have been encrypted.
+
+40
+00:03:19,440 --> 00:03:20,440
+We need the key...
+
+41
+00:03:21,160 --> 00:03:22,560
+and the original code...
+
+42
+00:03:23,200 --> 00:03:24,530
+to get the final answer.
+
+43
+00:03:25,040 --> 00:03:25,900
+For example...
+
+44
+00:03:26,320 --> 00:03:27,240
+ninety-four...
+
+45
+00:03:27,240 --> 00:03:27,900
+plus six...
+
+46
+00:03:28,320 --> 00:03:29,200
+is page 100.
+
+47
+00:03:29,640 --> 00:03:30,240
+Twelve...
+
+48
+00:03:30,520 --> 00:03:31,320
+minus nine...
+
+49
+00:03:31,520 --> 00:03:32,380
+is the 3rd line.
+
+50
+00:03:33,320 --> 00:03:33,720
+Six...
+
+51
+00:03:34,040 --> 00:03:34,900
+plus twelve...
+
+52
+00:03:35,760 --> 00:03:37,020
+is the 18th character.
+
+53
+00:03:39,440 --> 00:03:40,640
+So that means...
+
+54
+00:03:40,680 --> 00:03:42,210
+these chemical symbols...
+
+55
+00:03:42,520 --> 00:03:44,120
+are in a certain book's...
+
+56
+00:03:44,280 --> 00:03:45,240
+100th page...
+
+57
+00:03:45,240 --> 00:03:45,960
+3rd line...
+
+58
+00:03:46,120 --> 00:03:47,050
+18th character.
+
+59
+00:03:47,720 --> 00:03:48,450
+Or rather...
+
+60
+00:03:48,640 --> 00:03:49,970
+some chemical symbols.
+
+61
+00:03:50,880 --> 00:03:51,610
+Very likely.
+
+62
+00:03:52,160 --> 00:03:52,490
+So...
+
+63
+00:03:52,680 --> 00:03:53,760
+with so many books...
+
+64
+00:03:53,760 --> 00:03:55,760
+how can we determine which one it is?
+
+65
+00:03:58,760 --> 00:03:59,320
+Mr. Wang,
+
+66
+00:04:00,680 --> 00:04:01,610
+may I take a look?
+
+67
+00:04:01,920 --> 00:04:02,250
+Sure,
+
+68
+00:04:02,480 --> 00:04:03,040
+go ahead.
+
+69
+00:04:10,120 --> 00:04:11,250
+General Chemistry.
+
+70
+00:04:11,560 --> 00:04:12,040
+What?
+
+71
+00:04:12,760 --> 00:04:14,490
+It's the book my father gave me.
+
+72
+00:04:14,760 --> 00:04:16,320
+The first time I used a Caesar cipher...
+
+73
+00:04:16,320 --> 00:04:16,980
+to spell...
+
+74
+00:04:17,560 --> 00:04:18,800
+was from this book.
+
+75
+00:04:19,839 --> 00:04:21,760
+I found the chemical element symbols.
+
+76
+00:04:21,760 --> 00:04:22,360
+Xiao Fang.
+
+77
+00:04:22,960 --> 00:04:25,000
+This is from the explosion site at Chen Qingqing's house.
+
+78
+00:04:25,000 --> 00:04:26,440
+from the severely damaged computer,
+
+79
+00:04:26,440 --> 00:04:27,600
+the hard drive that was removed.
+
+80
+00:04:27,600 --> 00:04:28,560
+Go to the technical department
+
+81
+00:04:28,560 --> 00:04:30,480
+and see if you can recover any data.
+
+82
+00:04:30,480 --> 00:04:31,040
+Understood, Captain Xu.
+
+83
+00:04:31,040 --> 00:04:32,100
+I'll go right away.
+
+84
+00:04:39,760 --> 00:04:40,360
+Yang Ming.
+
+85
+00:04:40,920 --> 00:04:41,840
+Why are you here?
+
+86
+00:04:41,840 --> 00:04:43,040
+Where are the things?
+
+87
+00:04:44,760 --> 00:04:46,420
+Everything has been put away.
+
+88
+00:04:46,560 --> 00:04:47,880
+You haven't been here for so long,
+
+89
+00:04:47,880 --> 00:04:50,040
+I thought they were all unnecessary items.
+
+90
+00:04:50,040 --> 00:04:51,640
+So I had someone tidy up a bit.
+
+91
+00:04:52,280 --> 00:04:54,040
+Where did you move the things to?
+
+92
+00:04:54,040 --> 00:04:55,920
+They're all in the company warehouse.
+
+93
+00:04:55,920 --> 00:04:56,720
+Take me there.
+
+94
+00:05:00,120 --> 00:05:00,650
+Let's go.
+
+95
+00:05:01,600 --> 00:05:02,400
+Yang Ming,
+
+96
+00:05:03,680 --> 00:05:04,440
+Although I
+
+97
+00:05:04,840 --> 00:05:06,840
+wrongly accused your father before
+
+98
+00:05:07,400 --> 00:05:08,760
+and caused you suffering,
+
+99
+00:05:08,760 --> 00:05:09,120
+but
+
+100
+00:05:09,680 --> 00:05:10,440
+it was also I
+
+101
+00:05:11,240 --> 00:05:13,320
+who uncovered the truth about his death.
+
+102
+00:05:13,320 --> 00:05:14,120
+It wasn't you.
+
+103
+00:05:15,040 --> 00:05:15,920
+Call me uncle.
+
+104
+00:05:16,400 --> 00:05:18,200
+That's not too much to ask, is it?
+
+105
+00:05:25,440 --> 00:05:26,100
+Uncle Wang.
+
+106
+00:05:37,520 --> 00:05:39,640
+It's been years since my father passed away.
+
+107
+00:05:39,640 --> 00:05:42,040
+You're only dealing with these things now?
+
+108
+00:05:42,360 --> 00:05:42,720
+Yes.
+
+109
+00:05:43,040 --> 00:05:43,440
+I
+
+110
+00:05:43,760 --> 00:05:45,620
+have thought about it many times,
+
+111
+00:05:45,840 --> 00:05:46,400
+but
+
+112
+00:05:46,960 --> 00:05:47,680
+in the end,
+
+113
+00:05:48,040 --> 00:05:49,600
+I just couldn't bring myself to do it.
+
+114
+00:05:49,600 --> 00:05:50,360
+But you know,
+
+115
+00:05:50,560 --> 00:05:51,890
+one has to move forward.
+
+116
+00:05:53,520 --> 00:05:55,380
+With all the chaos in the company,
+
+117
+00:05:55,720 --> 00:05:56,720
+I suddenly realized
+
+118
+00:05:56,720 --> 00:05:57,360
+there are many things
+
+119
+00:05:57,360 --> 00:05:58,560
+that if I don't do now,
+
+120
+00:05:59,159 --> 00:05:59,680
+in the future,
+
+121
+00:05:59,680 --> 00:06:01,740
+I might not have the chance to do them.
+
+122
+00:06:04,760 --> 00:06:05,280
+Are you
+
+123
+00:06:05,600 --> 00:06:07,200
+looking for something specific?
+
+124
+00:06:07,200 --> 00:06:08,460
+Let me help you search.
+
+125
+00:06:09,760 --> 00:06:11,020
+You're in such a hurry.
+
+126
+00:06:11,400 --> 00:06:14,060
+It seems you have something you want to find too.
+
+127
+00:06:16,840 --> 00:06:17,240
+Yes,
+
+128
+00:06:17,760 --> 00:06:19,620
+there is something I want to find.
+
+129
+00:06:20,240 --> 00:06:20,970
+But I believe
+
+130
+00:06:21,400 --> 00:06:21,760
+it
+
+131
+00:06:22,440 --> 00:06:23,120
+will soon
+
+132
+00:06:23,560 --> 00:06:24,960
+appear before me.
+
+133
+00:06:27,840 --> 00:06:28,970
+How can you be so sure
+
+134
+00:06:29,200 --> 00:06:30,560
+that it will definitely appear?
+
+135
+00:06:30,560 --> 00:06:31,120
+It will.
+
+136
+00:06:45,520 --> 00:06:46,720
+Nine four one two six.
+
+137
+00:06:48,159 --> 00:06:48,760
+What is it?
+
+138
+00:06:50,480 --> 00:06:51,810
+How do you know about it?
+
+139
+00:06:56,240 --> 00:06:57,370
+General Chemistry.
+
+140
+00:07:00,880 --> 00:07:02,140
+I really didn't expect
+
+141
+00:07:02,600 --> 00:07:03,260
+your father
+
+142
+00:07:03,600 --> 00:07:05,080
+would put such important data
+
+143
+00:07:05,080 --> 00:07:06,520
+in the most inconspicuous
+
+144
+00:07:06,520 --> 00:07:07,440
+book.
+
+145
+00:07:10,120 --> 00:07:10,780
+Your father
+
+146
+00:07:10,920 --> 00:07:11,720
+and Liu Yaohui
+
+147
+00:07:12,000 --> 00:07:14,160
+were both researchers in the project team.
+
+148
+00:07:14,160 --> 00:07:16,560
+Liu Yaohui handed over his part of the data,
+
+149
+00:07:16,720 --> 00:07:17,650
+but your father,
+
+150
+00:07:18,240 --> 00:07:19,700
+he refused to hand it over.
+
+151
+00:07:19,880 --> 00:07:20,810
+So you're saying
+
+152
+00:07:21,960 --> 00:07:22,960
+my father's death
+
+153
+00:07:23,480 --> 00:07:24,480
+is related to you?
+
+154
+00:07:26,880 --> 00:07:27,480
+Yang Ming,
+
+155
+00:07:29,120 --> 00:07:30,080
+you just asked me
+
+156
+00:07:31,200 --> 00:07:32,520
+why I kept these things
+
+157
+00:07:32,840 --> 00:07:33,720
+until now.
+
+158
+00:07:34,640 --> 00:07:35,500
+Let me tell you,
+
+159
+00:07:35,760 --> 00:07:37,159
+before your father died,
+
+160
+00:07:37,560 --> 00:07:38,560
+he told me
+
+161
+00:07:39,040 --> 00:07:39,440
+the key
+
+162
+00:07:39,880 --> 00:07:41,960
+was hidden in his office.
+
+163
+00:07:43,360 --> 00:07:44,820
+I searched for a long time,
+
+164
+00:07:46,320 --> 00:07:47,920
+but couldn't find any clues.
+
+165
+00:07:49,520 --> 00:07:50,850
+I've only just realized
+
+166
+00:07:52,040 --> 00:07:52,360
+you
+
+167
+00:07:52,720 --> 00:07:53,480
+are the key.
+
+168
+00:07:57,000 --> 00:07:57,600
+You mean
+
+169
+00:07:58,600 --> 00:08:00,260
+you deliberately led me here?
+
+170
+00:08:02,920 --> 00:08:03,760
+Yang Ming,
+
+171
+00:08:04,800 --> 00:08:05,800
+don't throw away your promising future
+
+172
+00:08:05,800 --> 00:08:07,480
+for some so-called sense of justice.
+
+173
+00:08:07,480 --> 00:08:09,740
+Don't throw away your promising future.
+
+174
+00:08:11,720 --> 00:08:12,380
+Uncle Wang,
+
+175
+00:08:12,600 --> 00:08:13,460
+let me tell you,
+
+176
+00:08:14,000 --> 00:08:15,400
+I won't betray my father,
+
+177
+00:08:15,560 --> 00:08:17,420
+and I won't betray myself either.
+
+178
+00:08:19,200 --> 00:08:22,260
+Just because one or two corrupt cops were dragged down,
+
+179
+00:08:22,560 --> 00:08:25,090
+do you think all police officers will comply?
+
+180
+00:08:31,320 --> 00:08:31,850
+Wang Yue!
+
+181
+00:08:31,960 --> 00:08:33,289
+Open the door, Wang Yue!
+
+182
+00:08:33,559 --> 00:08:34,090
+Wang Yue!
+
+183
+00:08:34,120 --> 00:08:34,580
+Open up!
+
+184
+00:08:48,240 --> 00:08:48,770
+Wang Yue,
+
+185
+00:08:49,520 --> 00:08:51,120
+what exactly are you trying to do?
+
+186
+00:08:51,120 --> 00:08:53,000
+The pharmacological formulas and research data
+
+187
+00:08:53,000 --> 00:08:55,440
+are hidden in this ordinary chemistry book.
+
+188
+00:08:55,440 --> 00:08:56,700
+Can't I just buy a copy?
+
+189
+00:08:58,800 --> 00:09:00,730
+You're as stubborn as your father.
+
+190
+00:09:08,440 --> 00:09:09,370
+President Wang,
+
+191
+00:09:09,760 --> 00:09:11,320
+where are you rushing off to?
+
+192
+00:09:11,320 --> 00:09:12,240
+Why are you here?
+
+193
+00:09:12,240 --> 00:09:13,640
+We're here to pick you up.
+
+194
+00:09:14,560 --> 00:09:15,090
+Wang Yue,
+
+195
+00:09:15,520 --> 00:09:16,880
+you're suspected of murder.
+
+196
+00:09:16,880 --> 00:09:18,940
+Please come with us for questioning.
+
+197
+00:09:19,920 --> 00:09:20,880
+You must be joking.
+
+198
+00:09:20,880 --> 00:09:21,340
+Murder.
+
+199
+00:09:22,040 --> 00:09:23,240
+You police officers,
+
+200
+00:09:23,360 --> 00:09:25,120
+you need evidence to handle a case.
+
+201
+00:09:25,120 --> 00:09:27,320
+You can't just arrest people randomly.
+
+202
+00:09:27,320 --> 00:09:29,600
+We've recovered the hard drive from Chen Qingqing's computer.
+
+203
+00:09:29,600 --> 00:09:31,080
+There's a whistleblower letter on it.
+
+204
+00:09:31,080 --> 00:09:32,880
+It documents your criminal activities over the years,
+
+205
+00:09:32,880 --> 00:09:33,840
+including the murder of Yang Qihua,
+
+206
+00:09:33,840 --> 00:09:35,170
+Liu Yaohui, and others.
+
+207
+00:09:35,520 --> 00:09:37,160
+We're also searching for other evidence.
+
+208
+00:09:37,160 --> 00:09:38,160
+You can't escape.
+
+209
+00:09:38,720 --> 00:09:39,720
+It's all hearsay.
+
+210
+00:09:40,400 --> 00:09:41,440
+Where's the evidence?
+
+211
+00:09:41,440 --> 00:09:42,640
+Heaven's net is wide,
+
+212
+00:09:42,680 --> 00:09:44,540
+loose, but lets nothing through.
+
+213
+00:09:46,080 --> 00:09:46,680
+Let's see
+
+214
+00:09:47,040 --> 00:09:48,170
+how capable you are.
+
+215
+00:09:48,760 --> 00:09:49,200
+If
+
+216
+00:09:49,680 --> 00:09:50,880
+within 24 hours,
+
+217
+00:09:51,440 --> 00:09:52,600
+you can't find evidence,
+
+218
+00:09:52,600 --> 00:09:54,120
+you'll have to
+
+219
+00:09:54,320 --> 00:09:56,050
+bring me back here obediently.
+
+220
+00:09:57,520 --> 00:09:58,180
+Fragrance.
+
+221
+00:09:58,600 --> 00:09:59,480
+Datura.
+
+222
+00:10:00,040 --> 00:10:00,960
+Scopolamine.
+
+223
+00:10:01,480 --> 00:10:04,280
+Keep this bottle of medicine with you at all times.
+
+224
+00:10:04,440 --> 00:10:05,640
+next time, I might not
+
+225
+00:10:05,640 --> 00:10:07,770
+be able to get there in time to save you.
+
+226
+00:10:09,640 --> 00:10:10,240
+Licorice.
+
+227
+00:10:11,320 --> 00:10:11,920
+Licorice.
+
+228
+00:10:12,280 --> 00:10:14,880
+Licorice can alleviate the effects of poison.
+
+229
+00:10:26,680 --> 00:10:27,640
+Even at this point,
+
+230
+00:10:27,640 --> 00:10:28,760
+you're still so confident.
+
+231
+00:10:28,760 --> 00:10:30,320
+As expected of Director Wang.
+
+232
+00:10:30,320 --> 00:10:32,400
+Seems like you have quite a few umbrellas over your head.
+
+233
+00:10:32,400 --> 00:10:33,520
+No matter how many umbrellas,
+
+234
+00:10:33,520 --> 00:10:35,380
+the police can take them all down.
+
+235
+00:10:40,680 --> 00:10:41,210
+Cuff him.
+
+236
+00:10:42,120 --> 00:10:42,440
+Behave yourself.
+
+237
+00:10:42,440 --> 00:10:43,500
+What are you doing?
+
+238
+00:10:54,080 --> 00:10:54,640
+Hello?
+
+239
+00:10:55,680 --> 00:10:56,480
+Yao Jiajian.
+
+240
+00:10:57,360 --> 00:10:58,000
+Yang Ming.
+
+241
+00:10:58,920 --> 00:10:59,720
+Where are you?
+
+242
+00:10:59,920 --> 00:11:01,380
+I'm at Wang Yue's company.
+
+243
+00:11:01,440 --> 00:11:02,300
+in a warehouse.
+
+244
+00:11:02,520 --> 00:11:04,050
+There's poison gas inside.
+
+245
+00:11:04,160 --> 00:11:05,160
+They've been poisoned.
+
+246
+00:11:05,160 --> 00:11:05,760
+Yang Ming.
+
+247
+00:11:07,800 --> 00:11:08,330
+Let's go.
+
+248
+00:11:09,480 --> 00:11:10,080
+Yang Ming.
+
+249
+00:11:11,200 --> 00:11:12,400
+Dozens of warehouses.
+
+250
+00:11:12,400 --> 00:11:13,680
+If you're slow,
+
+251
+00:11:15,000 --> 00:11:16,800
+you'll only find a corpse.
+
+252
+00:11:27,920 --> 00:11:28,580
+Hello, sir.
+
+253
+00:11:29,000 --> 00:11:29,920
+Police business.
+
+254
+00:11:29,920 --> 00:11:30,880
+Get the surveillance footage
+
+255
+00:11:30,880 --> 00:11:31,600
+from half an hour ago
+
+256
+00:11:31,600 --> 00:11:33,660
+for all the warehouses immediately.
+
+257
+00:11:48,920 --> 00:11:49,520
+Yang Ming.
+
+258
+00:11:50,080 --> 00:11:51,720
+I've already entered the Wang Corporation.
+
+259
+00:11:51,720 --> 00:11:52,380
+Wait for me.
+
+260
+00:11:52,400 --> 00:11:53,330
+Wake up, wake up.
+
+261
+00:11:53,440 --> 00:11:53,920
+Yang Ming.
