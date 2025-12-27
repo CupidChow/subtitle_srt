@@ -1,0 +1,3013 @@
+1
+00:00:06,958 --> 00:00:07,958
+Linux.
+
+2
+00:00:08,791 --> 00:00:09,916
+The amount of packages is overwhelming.
+
+3
+00:00:10,541 --> 00:00:13,833
+You are in there
+to speed up the belt, right?
+
+4
+00:00:20,333 --> 00:00:21,500
+You don't have to do it.
+
+5
+00:00:23,625 --> 00:00:24,625
+Just come out.
+
+6
+00:00:54,125 --> 00:00:55,500
+Why did the conveyor belt stop?
+
+7
+00:01:03,666 --> 00:01:05,416
+Why is the conveyor belt not working?
+
+8
+00:01:05,500 --> 00:01:07,291
+I don't know. Suddenly, there's an error.
+
+9
+00:01:08,833 --> 00:01:10,666
+Ruijie, the conveyor belt system
+is having an error.
+
+10
+00:01:10,750 --> 00:01:12,000
+Take a look and tell me what's wrong.
+
+11
+00:01:13,333 --> 00:01:16,000
+<i>The code that controls all</i>
+<i>of the conveyor belts has been deleted.</i>
+
+12
+00:01:17,083 --> 00:01:18,000
+What? Who did it?
+
+13
+00:01:19,625 --> 00:01:21,333
+How long will it take to fix this?
+
+14
+00:01:21,875 --> 00:01:23,750
+<i>We have to set up</i>
+<i>the whole system again.</i>
+
+15
+00:01:23,833 --> 00:01:25,250
+<i>It'll take at least 20 hours.</i>
+
+16
+00:01:28,791 --> 00:01:29,625
+Every order has to leave by nine p.m.
+
+17
+00:01:30,916 --> 00:01:32,541
+We won't make it in five hours.
+
+18
+00:01:37,458 --> 00:01:39,875
+Hey. I can't be here forever. I'm out.
+
+19
+00:01:47,833 --> 00:01:50,750
+I already know who the mole is.
+
+20
+00:01:57,250 --> 00:01:59,333
+She manipulated the log file
+in the server.
+
+21
+00:01:59,416 --> 00:02:01,791
+That's why I couldn't detect
+the financial report downloads.
+
+22
+00:02:03,041 --> 00:02:04,083
+Check her laptop.
+
+23
+00:02:10,541 --> 00:02:12,541
+Have you been working for them
+since day one?
+
+24
+00:02:15,875 --> 00:02:17,041
+Since when?
+
+25
+00:02:17,541 --> 00:02:19,708
+- Why did you do this?
+- Why do you want to know?
+
+26
+00:02:21,166 --> 00:02:23,291
+Will it help you win this deal?
+
+27
+00:02:24,208 --> 00:02:26,250
+This place is going down anyway.
+
+28
+00:02:26,333 --> 00:02:28,333
+Even if I didn't do that,
+it wouldn't make any difference.
+
+29
+00:02:29,250 --> 00:02:30,625
+Why didn't you just talk to us?
+
+30
+00:02:30,708 --> 00:02:32,041
+It's easy for you to say.
+
+31
+00:02:32,708 --> 00:02:37,208
+How many years do I have to work for you
+till I can pay off my mom's medical bills?
+
+32
+00:02:38,625 --> 00:02:40,000
+Can you help me?
+
+33
+00:02:41,666 --> 00:02:43,416
+My mother is dying!
+
+34
+00:02:44,125 --> 00:02:46,166
+Answer me!
+
+35
+00:03:10,333 --> 00:03:11,500
+Go ahead.
+
+36
+00:03:14,000 --> 00:03:15,708
+If you have something to say,
+just go for it.
+
+37
+00:03:17,250 --> 00:03:19,416
+Send me to the police if you want.
+
+38
+00:03:29,875 --> 00:03:32,958
+I've been so harsh on you
+and kept scolding you all this time
+
+39
+00:03:35,291 --> 00:03:38,083
+because I believed
+you're the best among us.
+
+40
+00:03:53,958 --> 00:03:55,083
+It's my fault.
+
+41
+00:03:56,666 --> 00:03:58,875
+I couldn't make you believe in what I saw.
+
+42
+00:04:03,458 --> 00:04:04,500
+In five minutes,
+
+43
+00:04:05,958 --> 00:04:07,750
+if anyone sees you here,
+
+44
+00:04:10,000 --> 00:04:11,666
+I'll call the police.
+
+45
+00:04:49,458 --> 00:04:50,333
+Linux?
+
+46
+00:05:01,750 --> 00:05:05,083
+Currently, our "One Day" promotion
+has received great feedback.
+
+47
+00:05:05,166 --> 00:05:07,291
+The total number of parcels exceeded
+our estimates.
+
+48
+00:05:07,375 --> 00:05:10,250
+There are 40,000 more parcels
+expected to arrive by six p.m.
+
+49
+00:05:10,333 --> 00:05:11,958
+We may not be able to sort it all in time.
+
+50
+00:05:12,041 --> 00:05:14,416
+Some must be cut off
+and sent out the day after tomorrow.
+
+51
+00:05:14,500 --> 00:05:15,541
+Speed up the conveyor belt.
+
+52
+00:05:18,083 --> 00:05:19,166
+Uh…
+
+53
+00:05:19,833 --> 00:05:22,916
+But we've never gone
+over 35 meters per minute.
+
+54
+00:05:23,500 --> 00:05:25,500
+If it's too fast, the sorting staff
+won't be able to keep up,
+
+55
+00:05:25,583 --> 00:05:27,416
+and the packages
+might get into the wrong slot.
+
+56
+00:05:28,208 --> 00:05:29,375
+Make it 50.
+
+57
+00:05:30,125 --> 00:05:31,791
+And add more staff to every station.
+
+58
+00:05:33,041 --> 00:05:34,791
+Right away, sir. I'll take care of it.
+
+59
+00:05:40,416 --> 00:05:41,375
+Dad.
+
+60
+00:05:41,916 --> 00:05:43,208
+Don't worry.
+
+61
+00:05:44,208 --> 00:05:45,208
+Look at this.
+
+62
+00:05:45,916 --> 00:05:47,083
+Here.
+
+63
+00:05:47,666 --> 00:05:50,708
+Your precious Thunder's
+conveyor belt system is dead.
+
+64
+00:05:50,791 --> 00:05:52,125
+We're in the lead, Dad.
+
+65
+00:05:53,666 --> 00:05:55,833
+We can't give up. We have to keep going.
+
+66
+00:05:55,916 --> 00:05:58,833
+Even if the machine isn't working,
+we still have our hands and feet!
+
+67
+00:05:58,916 --> 00:06:01,750
+Hey, look carefully
+which parcels belong to which region.
+
+68
+00:06:01,833 --> 00:06:05,333
+Don't sort it wrong.
+I believe you can do it.
+
+69
+00:06:05,416 --> 00:06:06,291
+Go!
+
+70
+00:06:08,000 --> 00:06:09,958
+Be careful. Check them carefully.
+
+71
+00:06:12,458 --> 00:06:13,291
+How are we doing?
+
+72
+00:06:13,375 --> 00:06:14,250
+Everyone in the office is here.
+
+73
+00:06:14,333 --> 00:06:16,041
+But it's still not enough.
+We're not gonna make it in time.
+
+74
+00:06:27,250 --> 00:06:30,208
+Everyone, stop. Listen to me.
+
+75
+00:06:31,083 --> 00:06:33,500
+Take out your phone and call anyone,
+
+76
+00:06:33,583 --> 00:06:38,458
+your dad, mom, friends, relatives,
+or even neighbors. Call them in to help.
+
+77
+00:06:38,541 --> 00:06:40,791
+Whoever finds someone,
+I will give them 1,000 baht per person.
+
+78
+00:06:42,291 --> 00:06:44,375
+And if we can process all of the packages
+before nine p.m.,
+
+79
+00:06:44,458 --> 00:06:46,125
+I'll increase it to 2,000!
+
+80
+00:06:47,166 --> 00:06:49,208
+This is the last storm.
+
+81
+00:06:49,791 --> 00:06:53,541
+By nine p.m., there must be
+no parcels left, not even one.
+
+82
+00:06:56,875 --> 00:06:58,625
+Get your phone! Call someone now!
+
+83
+00:06:59,791 --> 00:07:00,625
+Hey.
+
+84
+00:07:00,708 --> 00:07:02,125
+I'll sell my car.
+
+85
+00:07:05,250 --> 00:07:06,208
+Call someone.
+
+86
+00:07:08,875 --> 00:07:09,958
+Is anyone there?
+
+87
+00:07:10,041 --> 00:07:13,416
+Bring them all. No need to eat now.
+Come. It's 1,000 baht per person.
+
+88
+00:07:20,458 --> 00:07:22,500
+Hey, everyone!
+
+89
+00:07:22,583 --> 00:07:24,083
+Everyone!
+
+90
+00:07:24,166 --> 00:07:26,750
+Hand the packages fast, but be careful.
+
+91
+00:07:26,833 --> 00:07:30,458
+If it's a sack, tie it tightly.
+
+92
+00:07:30,541 --> 00:07:35,000
+Scan the barcodes and hand them
+to the handlers. Handlers, be careful.
+
+93
+00:07:35,666 --> 00:07:37,791
+Help me take the stuff out
+of the truck, so other trucks can get in.
+
+94
+00:07:37,875 --> 00:07:39,666
+Go. Unload the packages.
+
+95
+00:07:39,750 --> 00:07:42,875
+Auan, open the door.
+Pom, open the truck.
+
+96
+00:07:45,083 --> 00:07:46,041
+BOM
+
+97
+00:07:47,333 --> 00:07:50,416
+Bom, there's a problem
+at the warehouse.
+
+98
+00:07:50,500 --> 00:07:52,833
+The conveyor belt is fucked,
+so I need a lot of people to help.
+
+99
+00:07:52,916 --> 00:07:54,083
+We're going to be late.
+
+100
+00:07:54,166 --> 00:07:55,166
+Can you come and help out?
+
+101
+00:07:55,250 --> 00:07:56,916
+<i>You only call me</i>
+<i>when you're in trouble.</i>
+
+102
+00:07:58,708 --> 00:08:00,750
+You said you hate those
+who abandon their friends,
+
+103
+00:08:02,250 --> 00:08:04,291
+but that's exactly what you're doing, Bom.
+
+104
+00:08:10,958 --> 00:08:12,916
+Go, go!
+
+105
+00:08:13,500 --> 00:08:15,916
+The last truck to the eastern route
+leaves in ten minutes.
+
+106
+00:08:16,000 --> 00:08:18,375
+Hey, the eastern route is almost cleared!
+
+107
+00:08:20,416 --> 00:08:21,541
+Hey, meet me in the center.
+
+108
+00:08:21,625 --> 00:08:22,625
+Yeah, I'm going.
+
+109
+00:08:23,416 --> 00:08:24,916
+What?!
+
+110
+00:08:25,000 --> 00:08:27,708
+Shit! Put out the fire! Hurry up!
+
+111
+00:08:28,833 --> 00:08:30,291
+What the fuck happened?
+
+112
+00:08:30,375 --> 00:08:31,875
+Someone must have shipped
+an old battery or something.
+
+113
+00:08:31,958 --> 00:08:33,333
+It took a hard hit and caught fire.
+
+114
+00:08:33,416 --> 00:08:36,375
+Everyone, be careful.
+Don't damage the package.
+
+115
+00:08:36,458 --> 00:08:37,416
+This is unacceptable.
+
+116
+00:08:37,500 --> 00:08:39,250
+Cleared. What's up?
+
+117
+00:08:39,750 --> 00:08:42,291
+Packages for the Northeastern region
+exceed the limit!
+
+118
+00:08:42,375 --> 00:08:45,083
+We only have one truck left,
+and it won't be enough.
+
+119
+00:08:45,166 --> 00:08:46,291
+Xiaoyu, call more trucks in.
+
+120
+00:08:46,375 --> 00:08:47,791
+I'm calling all of them,
+and none are available.
+
+121
+00:08:47,875 --> 00:08:49,166
+The ones that we reserved
+had been canceled.
+
+122
+00:08:49,250 --> 00:08:51,958
+Huh? Canceled? All of them?
+
+123
+00:08:52,041 --> 00:08:54,375
+Yes, all 200 trucks.
+They all went to EASY.
+
+124
+00:08:54,458 --> 00:08:55,791
+All those trucks?
+
+125
+00:08:55,875 --> 00:08:58,500
+Are they shipping
+the whole fucking country?!
+
+126
+00:09:14,583 --> 00:09:15,500
+Sir.
+
+127
+00:09:15,583 --> 00:09:17,375
+So, are you having us deliver
+something or what?
+
+128
+00:09:17,458 --> 00:09:19,416
+I've been waiting for an hour,
+and I still haven't loaded any stuff.
+
+129
+00:09:20,250 --> 00:09:23,833
+Just hang around. That's your job.
+
+130
+00:09:23,916 --> 00:09:27,166
+Getting paid for doing nothing? Great.
+
+131
+00:09:29,500 --> 00:09:31,333
+Put more.
+
+132
+00:09:31,416 --> 00:09:32,875
+You can put more.
+
+133
+00:09:33,583 --> 00:09:35,791
+Be careful. Don't drop anything!
+
+134
+00:09:35,875 --> 00:09:38,541
+There are 6,254 parcels left
+for the Northeastern.
+
+135
+00:09:38,625 --> 00:09:40,583
+We'll need two more trucks anyway.
+
+136
+00:09:40,666 --> 00:09:41,625
+Where are the trucks
+heading for the Northeastern region?
+
+137
+00:09:42,208 --> 00:09:43,541
+The first truck just reached Saraburi.
+
+138
+00:09:43,625 --> 00:09:44,583
+Why?
+
+139
+00:09:47,458 --> 00:09:50,541
+Forget that idea. It takes six hours
+to get to the Northeastern depot.
+
+140
+00:09:50,625 --> 00:09:52,375
+It'll be 12 hours if it comes back.
+
+141
+00:09:52,458 --> 00:09:55,125
+It'd be a total of 18 hours
+if they had to come back and go again.
+
+142
+00:09:55,625 --> 00:09:59,541
+The "next day" parcels will become
+"the day after tomorrow" instead, dumbass.
+
+143
+00:10:00,375 --> 00:10:02,000
+If over 6,000 items
+get customer complaints,
+
+144
+00:10:02,083 --> 00:10:03,666
+Mally will deduct a ton of our points.
+
+145
+00:10:06,458 --> 00:10:09,291
+But this is the best we can do.
+We have to.
+
+146
+00:10:09,375 --> 00:10:10,750
+Niphon!
+
+147
+00:10:10,833 --> 00:10:12,541
+Call all of the Northeastern trucks
+
+148
+00:10:12,625 --> 00:10:14,291
+and tell them to come back
+as soon as they unload.
+
+149
+00:10:14,375 --> 00:10:15,416
+No!
+
+150
+00:10:16,083 --> 00:10:18,125
+There are still two trucks for the south.
+They're still loading the packages.
+
+151
+00:10:18,208 --> 00:10:21,000
+Tell them to unload
+and go the Northeastern route instead.
+
+152
+00:10:21,083 --> 00:10:22,750
+The fuck? How is that going to help?
+
+153
+00:10:22,833 --> 00:10:24,833
+The southern route will then be unable
+to deliver all of the packages!
+
+154
+00:10:24,916 --> 00:10:27,500
+No, because we'll deliver
+to the south by plane.
+
+155
+00:10:30,958 --> 00:10:32,458
+You said we don't have any money left.
+
+156
+00:10:33,041 --> 00:10:34,125
+I learned to adapt
+from being with a reckless,
+
+157
+00:10:34,208 --> 00:10:35,458
+money-burning CEO like you.
+
+158
+00:10:35,541 --> 00:10:37,958
+I put aside a "last contingency" fund
+for something like this.
+
+159
+00:10:38,041 --> 00:10:40,166
+But this is the very last one.
+
+160
+00:10:46,083 --> 00:10:48,625
+The company's brake pads
+have turned into an accelerator now.
+
+161
+00:11:02,125 --> 00:11:04,625
+A flight to Hat Yai!
+A flight to Hat Yai, please.
+
+162
+00:11:05,166 --> 00:11:06,291
+What will you be shipping, ma'am?
+
+163
+00:11:06,375 --> 00:11:07,708
+Five truckloads of packages.
+
+164
+00:11:09,541 --> 00:11:10,666
+Give me your ID card.
+
+165
+00:11:10,750 --> 00:11:13,583
+Let's go. Hang in there.
+
+166
+00:11:13,666 --> 00:11:16,375
+Bring in the five trucks
+that will go to the airport.
+
+167
+00:11:16,458 --> 00:11:18,583
+Come on, come on!
+
+168
+00:11:19,750 --> 00:11:21,333
+XIAOYU
+
+169
+00:11:22,125 --> 00:11:26,000
+Niphon, Thong, Armie, Met, follow me!
+
+170
+00:11:26,541 --> 00:11:28,250
+- Make way, please.
+- Please make way. Keep working.
+
+171
+00:11:28,333 --> 00:11:29,583
+Go on.
+
+172
+00:11:31,708 --> 00:11:32,750
+Say it.
+
+173
+00:11:32,833 --> 00:11:34,625
+<i>Sorry, it took a while</i>
+<i>to find an available plane.</i>
+
+174
+00:11:34,708 --> 00:11:37,708
+<i>We are shipping with Fly Bangkok,</i>
+<i>flight FX186.</i>
+
+175
+00:11:37,791 --> 00:11:40,250
+<i>FX186 to Hat Yai.</i>
+
+176
+00:11:40,333 --> 00:11:42,583
+<i>We need to get the cargo here</i>
+<i>before 10 p.m.</i>
+
+177
+00:11:42,666 --> 00:11:45,666
+Okay. All the parcels
+need to be loaded by 9:15 p.m.
+
+178
+00:11:46,375 --> 00:11:47,916
+Now, it's 8:30 p.m.
+
+179
+00:11:48,000 --> 00:11:49,541
+That's less than an hour.
+You guys think we can make it?
+
+180
+00:11:49,625 --> 00:11:51,166
+There's no such thing
+as not making it. It has to be done!
+
+181
+00:11:51,250 --> 00:11:52,333
+The last five trucks, go!
+
+182
+00:11:52,416 --> 00:11:54,875
+Hey, what about me? What do I do?
+
+183
+00:11:56,666 --> 00:11:57,833
+Make yourself useful.
+
+184
+00:11:59,416 --> 00:12:01,125
+Let's go. Hurry up.
+
+185
+00:12:02,166 --> 00:12:04,416
+Hey, the second last truck,
+load up quickly!
+
+186
+00:12:04,500 --> 00:12:05,875
+Don't just walk. Hurry up.
+
+187
+00:12:06,875 --> 00:12:07,916
+Open it.
+
+188
+00:12:08,666 --> 00:12:10,333
+Enough!
+
+189
+00:12:10,416 --> 00:12:12,708
+Here's water.
+Take some water and drink it!
+
+190
+00:12:19,791 --> 00:12:22,208
+If anything comes up, I'll let you know.
+
+191
+00:12:23,041 --> 00:12:24,125
+Don't worry.
+
+192
+00:12:34,250 --> 00:12:36,458
+THEY'LL SEND
+THE PACKAGES TO THE SOUTH BY PLANE.
+
+193
+00:12:39,958 --> 00:12:40,833
+What happened?
+
+194
+00:12:43,291 --> 00:12:44,375
+Nothing.
+
+195
+00:12:45,416 --> 00:12:46,375
+Logistics problem.
+
+196
+00:12:48,208 --> 00:12:49,625
+Let me go clear it up.
+
+197
+00:12:50,666 --> 00:12:52,083
+Clear?
+
+198
+00:12:53,000 --> 00:12:54,291
+So there's something.
+
+199
+00:12:56,833 --> 00:12:58,708
+They're shipping by airplane.
+
+200
+00:13:01,583 --> 00:13:02,458
+What airline?
+
+201
+00:13:03,041 --> 00:13:04,416
+Fly Bangkok.
+
+202
+00:13:05,000 --> 00:13:07,625
+- What flight?
+- FX186.
+
+203
+00:13:08,166 --> 00:13:09,416
+I'll take care of it.
+
+204
+00:13:12,000 --> 00:13:13,666
+- To Silver Sky Tower.
+- Dad.
+
+205
+00:13:19,208 --> 00:13:21,000
+I'm going to have a drink
+with an old friend.
+
+206
+00:13:22,250 --> 00:13:23,500
+It's nothing.
+
+207
+00:13:36,125 --> 00:13:38,458
+This is the last one. Hurry up!
+
+208
+00:13:40,333 --> 00:13:41,791
+Push it up.
+
+209
+00:13:42,541 --> 00:13:44,375
+Close it tightly.
+
+210
+00:13:45,041 --> 00:13:46,166
+It's ready.
+
+211
+00:13:47,541 --> 00:13:49,041
+Jumbo truck, go!
+
+212
+00:13:51,208 --> 00:13:53,958
+What? Niphon? Why are you the one driving?
+
+213
+00:13:54,041 --> 00:13:55,625
+We'll get there faster if I lead them.
+
+214
+00:13:55,708 --> 00:13:56,833
+Cool.
+
+215
+00:13:57,541 --> 00:13:59,375
+Airport cargo entrance is so confusing.
+
+216
+00:13:59,458 --> 00:14:01,166
+The drivers would get lost again.
+
+217
+00:14:02,083 --> 00:14:03,333
+Do you know how to drive?
+
+218
+00:14:05,041 --> 00:14:07,458
+The last Northeastern truck can go now!
+
+219
+00:14:08,875 --> 00:14:10,041
+Armie, are the southbound packages ready?
+
+220
+00:14:10,125 --> 00:14:11,625
+They're ready. Let's go!
+
+221
+00:14:14,916 --> 00:14:16,750
+The southern fleet is ready.
+Off to the airport.
+
+222
+00:14:16,833 --> 00:14:18,291
+Go. Follow Niphon's truck.
+
+223
+00:14:19,875 --> 00:14:22,416
+DREAM CHASER
+
+224
+00:14:44,125 --> 00:14:46,458
+I heard you're from
+the northern mountain village.
+
+225
+00:14:48,916 --> 00:14:50,541
+Why do you ask?
+
+226
+00:14:50,625 --> 00:14:52,708
+It's small talk, you know?
+
+227
+00:14:52,791 --> 00:14:54,416
+So that I won't be sleepy.
+No need to be stressed.
+
+228
+00:14:54,500 --> 00:14:56,375
+We'll make it in time.
+
+229
+00:14:57,041 --> 00:14:58,166
+Where are you from?
+
+230
+00:14:58,750 --> 00:14:59,791
+Nakhon Sawan.
+
+231
+00:15:00,583 --> 00:15:01,416
+You got a wife?
+
+232
+00:15:02,541 --> 00:15:03,833
+How can you ask that?
+
+233
+00:15:03,916 --> 00:15:07,083
+Look at me. Do I look like I'm single?
+
+234
+00:15:07,166 --> 00:15:08,000
+Two kids.
+
+235
+00:15:10,041 --> 00:15:12,375
+I want to know more about you.
+
+236
+00:15:13,333 --> 00:15:16,416
+How did you end up starting
+an express company?
+
+237
+00:15:18,333 --> 00:15:19,666
+I just want to be rich,
+
+238
+00:15:20,458 --> 00:15:23,208
+so I don't have to worry about my family.
+
+239
+00:15:23,291 --> 00:15:24,541
+You must get that.
+
+240
+00:15:25,541 --> 00:15:28,791
+Your wife and kids must be well off now.
+
+241
+00:15:30,625 --> 00:15:32,000
+Mm.
+
+242
+00:15:32,625 --> 00:15:35,291
+The mom is about to leave me.
+
+243
+00:15:36,541 --> 00:15:40,083
+But the kid is going to grow up strong.
+
+244
+00:15:44,083 --> 00:15:46,541
+Damn. Father of the year.
+
+245
+00:15:47,375 --> 00:15:48,583
+Good for you.
+
+246
+00:15:49,208 --> 00:15:51,041
+Let me tell you something.
+
+247
+00:15:51,125 --> 00:15:55,916
+If you're driving a truck now,
+you must own one tomorrow.
+
+248
+00:15:56,000 --> 00:15:58,500
+Take whatever chances you get.
+
+249
+00:15:59,125 --> 00:16:01,458
+If you're already on the shitter,
+you have to shit all the way.
+
+250
+00:16:01,541 --> 00:16:02,708
+Got it?
+
+251
+00:16:02,791 --> 00:16:05,625
+Why did you inspire me with shit?
+
+252
+00:16:06,458 --> 00:16:08,000
+And have you shit all the way yet?
+
+253
+00:16:08,083 --> 00:16:09,125
+I'm only getting started.
+
+254
+00:16:09,208 --> 00:16:10,708
+Now I know why it smells bad.
+
+255
+00:16:10,791 --> 00:16:12,000
+Damn it.
+
+256
+00:16:15,250 --> 00:16:16,291
+Fuck!
+
+257
+00:16:19,666 --> 00:16:23,083
+Out of all the nights, why is there
+a fucking checkpoint now?
+
+258
+00:16:23,166 --> 00:16:24,000
+Fasten your seatbelt.
+
+259
+00:16:34,041 --> 00:16:35,375
+What's wrong?
+
+260
+00:16:39,208 --> 00:16:40,375
+Have you done meth?
+
+261
+00:16:47,500 --> 00:16:49,500
+STOP AT CHECKPOINT
+
+262
+00:16:49,583 --> 00:16:51,208
+Pull over to the left. To the left.
+
+263
+00:17:11,541 --> 00:17:13,333
+Hello. What's your ETA?
+
+264
+00:17:15,458 --> 00:17:17,000
+Half an hour?
+
+265
+00:17:17,083 --> 00:17:19,500
+Okay, hurry up. I'll try to talk to them.
+
+266
+00:17:19,583 --> 00:17:21,291
+Go around to the back. It's faster.
+
+267
+00:17:22,916 --> 00:17:25,125
+Hi. My trucks are stuck
+at a police checkpoint.
+
+268
+00:17:25,208 --> 00:17:27,333
+What is the latest cut-off time?
+
+269
+00:17:31,166 --> 00:17:34,250
+For this flight,
+we have to cut off in 20 minutes.
+
+270
+00:17:39,625 --> 00:17:41,750
+Registration book is good.
+Stay for the urine test.
+
+271
+00:17:41,833 --> 00:17:43,208
+Okay. Thank you.
+
+272
+00:17:43,875 --> 00:17:45,708
+Whoever is done, just go!
+
+273
+00:17:45,791 --> 00:17:48,291
+Don Mueang Airport,
+Fly Bangkok cargo. Hurry.
+
+274
+00:17:59,458 --> 00:18:01,000
+I've quit it, really.
+
+275
+00:18:02,625 --> 00:18:03,583
+How long have you been off it?
+
+276
+00:18:04,083 --> 00:18:07,041
+Yeah. It's been three or four days.
+
+277
+00:18:10,458 --> 00:18:11,458
+Where are you going?
+
+278
+00:18:14,125 --> 00:18:14,958
+I'm delivering packages.
+
+279
+00:18:15,708 --> 00:18:16,708
+Let me check this.
+
+280
+00:18:30,916 --> 00:18:31,958
+Did you take anything?
+
+281
+00:18:35,666 --> 00:18:36,500
+I'm clean.
+
+282
+00:18:38,208 --> 00:18:39,250
+You sweat a lot.
+
+283
+00:18:41,416 --> 00:18:42,458
+It's hot, sir.
+
+284
+00:18:43,750 --> 00:18:44,625
+We'll see.
+
+285
+00:19:01,541 --> 00:19:04,583
+Done. Two lines.
+
+286
+00:19:16,708 --> 00:19:17,791
+I'm sorry.
+
+287
+00:19:27,125 --> 00:19:30,583
+Well. What are you waiting for?
+You can go.
+
+288
+00:19:33,625 --> 00:19:36,708
+Two lines mean
+there are no drugs in your system.
+
+289
+00:19:38,541 --> 00:19:39,625
+You're free to go.
+
+290
+00:19:39,708 --> 00:19:41,208
+- Go.
+- I told you I'm clean.
+
+291
+00:19:41,291 --> 00:19:42,500
+Bye, officers.
+
+292
+00:19:42,583 --> 00:19:43,416
+Hurry.
+
+293
+00:19:43,500 --> 00:19:46,958
+Hey. I promise you.
+I'll quit drugs for good.
+
+294
+00:19:47,041 --> 00:19:48,375
+I won't do it anymore.
+
+295
+00:19:48,458 --> 00:19:49,791
+Damn it.
+
+296
+00:19:50,375 --> 00:19:52,875
+Wear mine, so that you can drive properly.
+
+297
+00:19:54,291 --> 00:19:55,458
+What about you?
+
+298
+00:19:55,541 --> 00:19:57,083
+I'll wear yours. Come on!
+
+299
+00:20:00,125 --> 00:20:01,250
+Take the registration book with you.
+
+300
+00:20:11,375 --> 00:20:12,333
+Wait for me.
+
+301
+00:20:16,666 --> 00:20:18,208
+What's the matter, Niphon?
+
+302
+00:20:20,666 --> 00:20:22,125
+I'm sorry, Mr. San.
+
+303
+00:20:24,833 --> 00:20:26,166
+I haven't slept for four days.
+
+304
+00:20:26,916 --> 00:20:29,125
+I just needed some energy.
+
+305
+00:20:32,666 --> 00:20:33,541
+Bro!
+
+306
+00:20:35,416 --> 00:20:37,416
+Just a moment, Officer. I can't find
+the registration for this truck.
+
+307
+00:20:37,500 --> 00:20:38,666
+Niphon's truck's book.
+
+308
+00:20:38,750 --> 00:20:40,208
+Have you searched everywhere?
+Glove compartment?
+
+309
+00:20:40,291 --> 00:20:41,625
+I did. I called the owner.
+
+310
+00:20:41,708 --> 00:20:43,500
+He said it was in the glove compartment,
+but it wasn't there.
+
+311
+00:20:44,083 --> 00:20:45,041
+What now?
+
+312
+00:20:46,041 --> 00:20:48,875
+Drug test comes up positive
+and you don't have the registration.
+
+313
+00:20:48,958 --> 00:20:51,041
+We're confiscating this truck
+for further investigation.
+
+314
+00:20:51,125 --> 00:20:53,458
+Confiscate? Can I take the truck first?
+
+315
+00:20:53,541 --> 00:20:54,541
+We're rushing to drop the cargo off.
+
+316
+00:20:54,625 --> 00:20:55,958
+Once we are done,
+I'll bring the truck back around.
+
+317
+00:20:56,041 --> 00:20:58,291
+Whatever you need, I will cooperate. Here.
+
+318
+00:20:58,375 --> 00:21:00,291
+Take my ID card for collateral.
+
+319
+00:21:00,375 --> 00:21:01,208
+That won't do it.
+
+320
+00:21:01,791 --> 00:21:05,041
+The cargo can go,
+but the truck must stay here.
+
+321
+00:21:05,125 --> 00:21:07,916
+You don't even have the registration book.
+How can you take it out?
+
+322
+00:21:14,416 --> 00:21:15,583
+<i>Are you stopping</i>
+<i>for a picnic, dumbass?!</i>
+
+323
+00:21:15,666 --> 00:21:17,083
+<i>Why don't you keep going?</i>
+
+324
+00:21:17,166 --> 00:21:19,625
+Hey. Send me more trucks.
+We got stopped by the police.
+
+325
+00:21:19,708 --> 00:21:21,875
+ROUTE
+
+326
+00:21:21,958 --> 00:21:24,541
+There are no more trucks left.
+What the hell do you want me to send?
+
+327
+00:21:27,583 --> 00:21:28,666
+Give me two minutes.
+
+328
+00:21:28,750 --> 00:21:31,166
+Guys, start SOS Backyard now.
+
+329
+00:21:31,250 --> 00:21:32,458
+Got it.
+
+330
+00:21:37,541 --> 00:21:40,041
+PICK UP AT THIS LOCATION NOW!
+
+331
+00:21:49,750 --> 00:21:51,791
+I've sent you a full company of cavalry.
+
+332
+00:21:54,666 --> 00:21:57,041
+Damn. Your app can do this?
+
+333
+00:21:57,125 --> 00:21:58,416
+<i>You've never listened</i>
+
+334
+00:21:58,500 --> 00:22:00,458
+<i>when I told you everything the app can do.</i>
+
+335
+00:22:02,291 --> 00:22:03,125
+STOP AT CHECKPOINT
+
+336
+00:22:03,208 --> 00:22:04,541
+Thong, open the trunk.
+
+337
+00:22:04,625 --> 00:22:07,958
+Come on. Park here. Come on.
+
+338
+00:22:10,708 --> 00:22:12,166
+Don't drop it. Hand it carefully.
+
+339
+00:22:14,166 --> 00:22:15,291
+You. Take this.
+
+340
+00:22:15,375 --> 00:22:17,208
+Untie the rope.
+
+341
+00:22:20,208 --> 00:22:22,958
+Guys, hurry up! Why is it so slow?
+
+342
+00:22:23,041 --> 00:22:23,916
+Come, I'll help you.
+
+343
+00:22:24,000 --> 00:22:25,500
+These guys are so slow.
+Do you want something strong?!
+
+344
+00:22:25,583 --> 00:22:27,041
+Hey, you don't need to be here.
+
+345
+00:22:27,125 --> 00:22:29,333
+- Just head to the airport. Go!
+- Oh.
+
+346
+00:22:32,625 --> 00:22:36,375
+Sir! I will shit my ass off
+like you told me to.
+
+347
+00:22:37,166 --> 00:22:38,333
+And I won't wipe my ass!
+
+348
+00:22:39,000 --> 00:22:40,208
+I'll go deliver the stuff now.
+
+349
+00:22:40,291 --> 00:22:42,333
+Yeah, hurry up and go!
+
+350
+00:22:42,416 --> 00:22:44,541
+DREAM CHASER
+
+351
+00:22:45,708 --> 00:22:47,875
+A fucking company of only 20?
+
+352
+00:22:47,958 --> 00:22:49,750
+This won't be enough.
+Can you send some more?
+
+353
+00:22:49,833 --> 00:22:51,291
+There's not even a soul left that zone.
+
+354
+00:22:51,375 --> 00:22:53,208
+The closest will take about 30 minutes.
+
+355
+00:22:55,000 --> 00:22:56,708
+Thong, you lead this group there.
+
+356
+00:22:56,791 --> 00:22:58,333
+I will stay back
+in case more people show up.
+
+357
+00:22:59,708 --> 00:23:02,541
+Guys, follow me! Go, go!
+
+358
+00:23:11,875 --> 00:23:13,833
+Officer, I'm begging you.
+
+359
+00:23:13,916 --> 00:23:15,541
+He's usually very mild-mannered.
+
+360
+00:23:15,625 --> 00:23:17,041
+He never takes drugs. He never…
+
+361
+00:23:26,208 --> 00:23:30,208
+Oh, the registration book's here.
+I've been looking for it.
+
+362
+00:23:30,291 --> 00:23:31,541
+Son of a bitch!
+
+363
+00:23:35,708 --> 00:23:36,958
+You're fired!
+
+364
+00:23:37,875 --> 00:23:40,291
+Here's the registration book.
+I'll come get it from you later.
+
+365
+00:23:52,708 --> 00:23:55,708
+THE TRUCK IS LEAVING THE POLICE CHECKPOINT
+
+366
+00:23:57,750 --> 00:23:59,833
+Guys, hurry up, but be careful.
+
+367
+00:23:59,916 --> 00:24:02,250
+Then load them and weigh them right away.
+
+368
+00:24:02,333 --> 00:24:04,583
+Has the last truck left
+the checkpoint yet?
+
+369
+00:24:04,666 --> 00:24:06,666
+No idea, ma'am. We took off before them.
+
+370
+00:24:12,916 --> 00:24:14,541
+I'm sorry.
+
+371
+00:24:14,625 --> 00:24:17,083
+Another truck is on its way.
+It's almost here.
+
+372
+00:24:17,166 --> 00:24:18,333
+Can you wait for a bit?
+
+373
+00:24:18,416 --> 00:24:20,291
+Only five more minutes.
+We have to be on time.
+
+374
+00:24:21,791 --> 00:24:23,208
+Have you ever ordered stuff online?
+
+375
+00:24:25,666 --> 00:24:26,875
+I have.
+
+376
+00:24:26,958 --> 00:24:29,791
+Do you want your orders
+to come as promptly as possible?
+
+377
+00:24:29,875 --> 00:24:30,750
+Yes.
+
+378
+00:24:31,333 --> 00:24:34,125
+My company wants our customers to get
+their packages as fast as they can,
+
+379
+00:24:34,208 --> 00:24:36,083
+so we need to rely on this flight.
+
+380
+00:24:36,666 --> 00:24:38,083
+And have you ever been on a plane?
+
+381
+00:24:39,958 --> 00:24:41,458
+Would you like the plane
+to take off on time?
+
+382
+00:24:46,125 --> 00:24:47,083
+Let's go.
+
+383
+00:24:51,666 --> 00:24:52,500
+Where are you?
+
+384
+00:24:52,583 --> 00:24:53,833
+<i>Hang in there. I just left the checkpoint.</i>
+
+385
+00:24:53,916 --> 00:24:55,583
+Almost there. Give me three minutes.
+
+386
+00:24:55,666 --> 00:24:57,708
+<i>Okay, hurry up.</i>
+<i>I can't hold the plane for much longer.</i>
+
+387
+00:24:57,791 --> 00:24:59,041
+Don't worry. I'll be there in time.
+
+388
+00:25:06,333 --> 00:25:07,541
+Shit!
+
+389
+00:25:43,125 --> 00:25:46,083
+GOODMAN168: DONE
+
+390
+00:25:58,083 --> 00:26:01,500
+KENNY: SENT A PHOTO
+I TOLD YOU I COULD CLEAR IT UP
+
+391
+00:26:15,333 --> 00:26:17,291
+Park right here!
+
+392
+00:26:19,291 --> 00:26:20,916
+PACKING INSTRUCTION
+
+393
+00:26:21,000 --> 00:26:25,541
+Park here and unload!
+
+394
+00:26:27,791 --> 00:26:28,666
+Hello.
+
+395
+00:26:28,750 --> 00:26:30,333
+<i>Is Santi there yet?</i>
+
+396
+00:26:30,416 --> 00:26:31,541
+He hasn't arrived yet.
+Can you contact him?
+
+397
+00:26:31,625 --> 00:26:33,083
+His GPS stops in the middle of the road.
+
+398
+00:26:33,166 --> 00:26:34,750
+He's not picking up my calls.
+What do we do?
+
+399
+00:28:13,833 --> 00:28:15,125
+This place is nice, Nawin.
+
+400
+00:28:16,750 --> 00:28:17,916
+Mr. Kanin.
+
+401
+00:28:18,000 --> 00:28:19,000
+Hello.
+
+402
+00:28:19,083 --> 00:28:21,875
+- One Michter's Rye, on the rocks?
+- Rocks.
+
+403
+00:28:24,583 --> 00:28:26,125
+How can I help you?
+
+404
+00:28:26,833 --> 00:28:28,125
+I need a favor.
+
+405
+00:28:29,375 --> 00:28:31,083
+It's about your airline.
+
+406
+00:28:42,708 --> 00:28:45,375
+Hey! Please stop! Here!
+
+407
+00:29:04,541 --> 00:29:06,041
+Hey, stop!
+
+408
+00:29:17,500 --> 00:29:20,541
+Now! Take all
+of the packages that are still intact.
+
+409
+00:29:21,333 --> 00:29:23,208
+Da, take a look inside.
+
+410
+00:29:23,291 --> 00:29:25,208
+Quickly, assholes. Quickly.
+
+411
+00:29:25,791 --> 00:29:27,000
+Hurry!
+
+412
+00:29:32,250 --> 00:29:33,083
+Can you ride?
+
+413
+00:29:39,416 --> 00:29:41,791
+I'm helping Thong out.
+Don't get the wrong idea.
+
+414
+00:29:43,500 --> 00:29:44,708
+Quick!
+
+415
+00:29:45,458 --> 00:29:46,291
+Hurry up!
+
+416
+00:29:47,291 --> 00:29:48,750
+Da, be careful!
+
+417
+00:30:14,291 --> 00:30:17,416
+Go ahead! Go! Fly Bangkok Cargo.
+
+418
+00:30:38,458 --> 00:30:39,375
+Park here.
+
+419
+00:30:40,250 --> 00:30:41,250
+Hurry up!
+
+420
+00:30:42,000 --> 00:30:43,625
+Damn, you really came!
+
+421
+00:30:43,708 --> 00:30:45,333
+Be careful, dumbass! Don't throw it!
+
+422
+00:30:45,416 --> 00:30:48,166
+- Bom!
+- Get off of me! You troublemaker!
+
+423
+00:30:48,250 --> 00:30:49,375
+You really came!
+
+424
+00:30:49,458 --> 00:30:51,708
+You two only bring fucking trouble!
+
+425
+00:30:52,333 --> 00:30:54,125
+Hurry up!
+
+426
+00:31:05,625 --> 00:31:07,458
+Hurry up and get it done.
+
+427
+00:31:07,541 --> 00:31:08,375
+Be careful.
+
+428
+00:31:08,458 --> 00:31:10,583
+<i>Why is the cargo truck delayed?</i>
+
+429
+00:31:10,666 --> 00:31:13,291
+There's a slight problem.
+It's heading out now.
+
+430
+00:31:13,375 --> 00:31:14,541
+Hurry up. Is it done?
+
+431
+00:31:14,625 --> 00:31:17,791
+Can you wait for two more minutes, please?
+
+432
+00:31:18,375 --> 00:31:20,458
+No. Let's move.
+
+433
+00:31:26,708 --> 00:31:28,875
+Hey. We did it.
+
+434
+00:31:29,375 --> 00:31:30,875
+A lot of our parcels were damaged.
+
+435
+00:31:30,958 --> 00:31:33,458
+We can't afford to have
+any more points deducted by Mally.
+
+436
+00:31:35,958 --> 00:31:38,291
+Let's go home. Turn the lights off.
+
+437
+00:31:40,541 --> 00:31:43,791
+CARGO CLOSES ONE HOUR BEFORE TAKEOFF TIME
+
+438
+00:31:51,916 --> 00:31:52,916
+The cargo is closed.
+
+439
+00:31:53,000 --> 00:31:54,333
+We have to carry the parcels
+onto the plane instead.
+
+440
+00:31:56,541 --> 00:31:57,375
+Do it!
+
+441
+00:31:58,208 --> 00:32:00,500
+Don't disappoint me, asshole!
+
+442
+00:32:00,583 --> 00:32:03,291
+Hey. Go straight
+to the passenger building.
+
+443
+00:32:18,583 --> 00:32:24,041
+I can't just unload a customer's cargo
+off the plane just like that.
+
+444
+00:32:24,125 --> 00:32:25,375
+I understand.
+
+445
+00:32:26,708 --> 00:32:28,458
+That's why I'm telling you
+that this is a special case.
+
+446
+00:32:30,166 --> 00:32:32,416
+If EASY closes the deal with Mally,
+
+447
+00:32:34,416 --> 00:32:37,458
+I'd like to invite Fly Bangkok to invest
+with Kanin group
+
+448
+00:32:38,541 --> 00:32:40,791
+and start
+an air shipping service all over Asia.
+
+449
+00:32:43,500 --> 00:32:44,625
+Does it sound better?
+
+450
+00:32:46,083 --> 00:32:48,083
+You can let me know
+the flight number first.
+
+451
+00:32:55,916 --> 00:32:56,833
+Sorry.
+
+452
+00:32:56,916 --> 00:32:59,333
+This is urgent, guys.
+Pack everything together.
+
+453
+00:33:02,416 --> 00:33:05,083
+I'm checking in for Hat Yai flight.
+I'd like additional weight too.
+
+454
+00:33:11,541 --> 00:33:13,416
+FX186,
+
+455
+00:33:14,291 --> 00:33:17,125
+take all Thunder Express packages
+out of the plane.
+
+456
+00:33:17,208 --> 00:33:19,333
+<i>FX186, urgent order.</i>
+
+457
+00:33:19,416 --> 00:33:21,916
+<i>Offload all Thunder Express packages.</i>
+
+458
+00:33:22,416 --> 00:33:23,541
+Roger that.
+
+459
+00:33:36,291 --> 00:33:37,958
+There's only one seat left.
+
+460
+00:33:38,041 --> 00:33:39,458
+You can go alone, right?
+
+461
+00:33:45,125 --> 00:33:47,125
+I know I shouldn't be asking this anymore.
+
+462
+00:33:50,125 --> 00:33:51,041
+But…
+
+463
+00:33:52,250 --> 00:33:54,458
+if Thunder makes it through,
+
+464
+00:33:56,500 --> 00:33:57,416
+would you…
+
+465
+00:34:00,250 --> 00:34:01,750
+change your mind?
+
+466
+00:34:21,833 --> 00:34:24,125
+Building this company together,
+
+467
+00:34:25,666 --> 00:34:27,416
+sharing this big dream…
+
+468
+00:34:30,208 --> 00:34:31,958
+is really good.
+
+469
+00:34:38,875 --> 00:34:40,833
+Thunder is your dream,
+
+470
+00:34:44,750 --> 00:34:46,375
+but it's not my everything.
+
+471
+00:34:50,125 --> 00:34:52,083
+I have my own dreams too.
+
+472
+00:35:22,333 --> 00:35:23,166
+You have to go now.
+
+473
+00:35:45,666 --> 00:35:46,583
+I don't understand.
+
+474
+00:35:47,291 --> 00:35:49,583
+Thunder Express is tiny.
+
+475
+00:35:49,666 --> 00:35:51,625
+Do you really need
+to squash them down like this?
+
+476
+00:35:53,916 --> 00:35:55,333
+I don't expect you to understand.
+
+477
+00:35:56,791 --> 00:35:58,375
+You were born with everything.
+
+478
+00:36:02,791 --> 00:36:05,083
+<i>Some people have to build</i>
+<i>everything out of nothing</i>
+
+479
+00:36:05,166 --> 00:36:06,541
+<i>with their own hands.</i>
+
+480
+00:36:08,708 --> 00:36:10,416
+I know how that feels.
+
+481
+00:36:14,166 --> 00:36:17,208
+<i>I know how much effort it takes</i>
+
+482
+00:36:19,083 --> 00:36:21,083
+<i>to climb up</i>
+<i>until you are in the big leagues.</i>
+
+483
+00:36:21,166 --> 00:36:22,375
+<i>I get it completely.</i>
+
+484
+00:36:25,208 --> 00:36:27,541
+So, If I let them grow,
+
+485
+00:36:28,958 --> 00:36:30,375
+they'll destroy me.
+
+486
+00:36:33,708 --> 00:36:37,166
+Are you afraid
+that they'll destroy you or your son?
+
+487
+00:36:50,166 --> 00:36:51,375
+Is it done?
+
+488
+00:37:00,416 --> 00:37:01,541
+That's all?
+
+489
+00:37:01,625 --> 00:37:04,333
+That's the only package
+from Thunder Express.
+
+490
+00:37:04,875 --> 00:37:06,916
+My staff just reported this to me.
+
+491
+00:37:09,458 --> 00:37:10,750
+What was the flight again?
+
+492
+00:37:10,833 --> 00:37:13,333
+FX186.
+
+493
+00:37:15,125 --> 00:37:18,208
+That's correct.
+Are you sure it's this flight?
+
+494
+00:37:19,000 --> 00:37:20,875
+There are a lot
+of Malaysians flying on Friday.
+
+495
+00:37:20,958 --> 00:37:24,041
+There are two flights to Hat Yai
+at the same time tonight.
+
+496
+00:37:47,708 --> 00:37:49,500
+We'll deliver to the south by plane.
+
+497
+00:37:55,500 --> 00:37:56,458
+Xiaoyu,
+
+498
+00:37:57,291 --> 00:37:59,291
+after you know the flight number,
+
+499
+00:37:59,375 --> 00:38:02,250
+don't tell anyone. Don't tell me either.
+
+500
+00:38:04,333 --> 00:38:06,458
+There may be traitors among us.
+
+501
+00:38:07,416 --> 00:38:09,208
+You must be the only one
+who knows the flight number.
+
+502
+00:38:13,000 --> 00:38:14,583
+I only trust you.
+
+503
+00:38:28,208 --> 00:38:30,541
+FX184 has taken off.
+
+504
+00:39:20,791 --> 00:39:22,666
+<i>The western shore</i>
+<i>of the Southern region</i>
+
+505
+00:39:22,750 --> 00:39:24,500
+<i>will experience mostly clear weather.</i>
+
+506
+00:39:24,583 --> 00:39:26,083
+Are you here to deliver the package?
+
+507
+00:39:27,166 --> 00:39:30,458
+Grandma, it really comes in one day.
+
+508
+00:39:30,541 --> 00:39:33,125
+Oh, why is it so messed up?
+
+509
+00:39:37,541 --> 00:39:38,416
+Please sign here.
+
+510
+00:39:41,250 --> 00:39:43,958
+Do you want some water?
+We have a lot of water.
+
+511
+00:39:44,583 --> 00:39:46,416
+It's okay, I'm in a hurry. Thank you.
+
+512
+00:39:51,833 --> 00:39:53,041
+Hey!
+
+513
+00:39:53,125 --> 00:39:56,041
+Mom, Dad, come and take a look at him!
+
+514
+00:39:56,125 --> 00:39:57,916
+Hey, are you okay?! Hurry!
+
+515
+00:40:00,791 --> 00:40:01,625
+Sir.
+
+516
+00:40:03,500 --> 00:40:06,375
+Sir. Sir. Wake up.
+
+517
+00:40:06,916 --> 00:40:09,291
+Someone called you hundreds of times.
+
+518
+00:40:09,833 --> 00:40:12,166
+RUIJIE
+
+519
+00:40:21,458 --> 00:40:22,375
+What's up?
+
+520
+00:40:22,458 --> 00:40:24,375
+<i>Hey, where the hell are you?!</i>
+
+521
+00:40:24,458 --> 00:40:26,250
+<i>Mally is about to announce the result.</i>
+<i>Are you going to see it?</i>
+
+522
+00:40:27,750 --> 00:40:28,666
+Hang on.
+
+523
+00:40:28,750 --> 00:40:30,500
+<i>I sent you the link. Join now!</i>
+
+524
+00:40:30,583 --> 00:40:32,666
+Wait. I'll find a computer.
+
+525
+00:40:35,958 --> 00:40:37,416
+<i>Let me reiterate</i>
+
+526
+00:40:37,500 --> 00:40:41,291
+<i>that the scoring is divided</i>
+<i>into three categories.</i>
+
+527
+00:40:41,375 --> 00:40:43,375
+I got it. I'll return it to you soon.
+
+528
+00:40:43,458 --> 00:40:44,333
+- Feel free to use it.
+- Thank you.
+
+529
+00:40:44,958 --> 00:40:48,958
+<i>First, the total</i>
+<i>parcel delivered, which is 35%.</i>
+
+530
+00:40:50,166 --> 00:40:53,666
+<i>The second category is the loss</i>
+<i>and damage rate, 30%.</i>
+
+531
+00:40:53,750 --> 00:40:57,625
+<i>And lastly, customer satisfaction, 35%.</i>
+
+532
+00:40:57,708 --> 00:41:01,708
+<i>The final score is now in this box.</i>
+
+533
+00:41:03,083 --> 00:41:05,458
+<i>Let's open it together!</i>
+
+534
+00:41:09,500 --> 00:41:10,666
+<i>Are you excited?</i>
+
+535
+00:41:15,750 --> 00:41:17,333
+<i>The suspense is killing me.</i>
+
+536
+00:41:18,333 --> 00:41:19,666
+I don't dare to look at it.
+
+537
+00:41:20,250 --> 00:41:21,750
+<i>It's here!</i>
+
+538
+00:41:22,750 --> 00:41:24,875
+<i>From the results,</i>
+
+539
+00:41:25,541 --> 00:41:30,125
+<i>Mally's sole partner for a whole year is…</i>
+
+540
+00:41:32,791 --> 00:41:34,083
+<i>Congrats!</i>
+
+541
+00:41:45,666 --> 00:41:46,875
+We made it!
+
+542
+00:41:48,833 --> 00:41:50,833
+We made it!
+
+543
+00:42:01,791 --> 00:42:04,208
+No one can beat us.
+
+544
+00:42:38,666 --> 00:42:40,750
+Implement the employee
+engagement and communication plan
+
+545
+00:42:40,833 --> 00:42:42,208
+in the third week.
+
+546
+00:42:42,291 --> 00:42:45,000
+Develop a customer
+communication strategy in the fifth week.
+
+547
+00:42:45,083 --> 00:42:47,666
+In the seventh week,
+conduct due diligence with Finix
+
+548
+00:42:47,750 --> 00:42:50,791
+to assess the company's value
+and review all contracts.
+
+549
+00:42:50,875 --> 00:42:52,166
+Okay.
+
+550
+00:42:54,083 --> 00:42:56,291
+Everyone's invited tonight.
+
+551
+00:42:56,375 --> 00:42:58,250
+Let's celebrate in advance.
+
+552
+00:42:58,333 --> 00:43:00,916
+I've booked a restaurant.
+No one can leave.
+
+553
+00:43:01,000 --> 00:43:02,666
+We must have a great time.
+
+554
+00:43:07,833 --> 00:43:09,916
+Everyone must have fun. Ah.
+
+555
+00:43:16,375 --> 00:43:18,916
+Ken.
+
+556
+00:43:22,375 --> 00:43:24,625
+Thailand's market share is limited.
+
+557
+00:43:24,708 --> 00:43:27,291
+Competing with large companies
+is very risky.
+
+558
+00:43:27,875 --> 00:43:29,000
+If we delay any further,
+
+559
+00:43:29,083 --> 00:43:31,208
+the company's market value
+will further decline.
+
+560
+00:43:31,291 --> 00:43:33,875
+At that time, we will just be forced
+to lower our prices for nothing.
+
+561
+00:43:35,250 --> 00:43:36,416
+But I didn't want to sell it.
+
+562
+00:43:36,500 --> 00:43:37,333
+He said he didn't want to sell.
+
+563
+00:43:37,416 --> 00:43:39,666
+Ah. I just heard that
+
+564
+00:43:39,750 --> 00:43:41,750
+FINIX tried to acquire Thunder.
+
+565
+00:43:41,833 --> 00:43:44,083
+Thunder was pretentious and refused.
+
+566
+00:43:44,708 --> 00:43:49,500
+Okay, I'll see how long it can last.
+I don't think they can last long.
+
+567
+00:43:50,708 --> 00:43:52,166
+FINIX made Thunder an offer,
+but they're not interested.
+
+568
+00:43:52,250 --> 00:43:54,041
+I don't think they will be able
+to survive much longer.
+
+569
+00:43:54,916 --> 00:43:56,958
+It's not easy to get to this point.
+
+570
+00:43:57,041 --> 00:43:58,666
+You've done well to make it this far.
+
+571
+00:43:58,750 --> 00:43:59,875
+Let's have a drink tonight.
+
+572
+00:44:00,416 --> 00:44:01,291
+Okay.
+
+573
+00:44:25,083 --> 00:44:26,250
+Take a month off.
+
+574
+00:44:28,875 --> 00:44:30,500
+Come back when you're ready.
+
+575
+00:44:49,916 --> 00:44:51,541
+I should go work for FINIX,
+
+576
+00:44:56,583 --> 00:44:57,833
+or Mally,
+
+577
+00:45:00,291 --> 00:45:02,208
+or even work for Santi, shouldn't I?
+
+578
+00:45:03,500 --> 00:45:04,625
+Don't be silly.
+
+579
+00:45:18,333 --> 00:45:20,000
+Just like what Peter said.
+
+580
+00:45:23,250 --> 00:45:24,583
+"The father builds,
+
+581
+00:45:27,000 --> 00:45:28,458
+the son burns
+
+582
+00:45:33,250 --> 00:45:34,458
+and fucks it all up."
+
+583
+00:45:41,000 --> 00:45:42,166
+You're amazing.
+
+584
+00:45:46,333 --> 00:45:48,166
+You built everything from scratch.
+
+585
+00:45:53,125 --> 00:45:54,750
+But someone like you
+
+586
+00:45:57,041 --> 00:45:58,375
+will never understand how I feel,
+
+587
+00:46:01,458 --> 00:46:03,000
+the pressure I'm under,
+
+588
+00:46:05,083 --> 00:46:06,541
+the burden I carry,
+
+589
+00:46:06,625 --> 00:46:08,500
+or what it's like to be compared to you
+for the rest of my life.
+
+590
+00:46:14,625 --> 00:46:16,791
+I've resigned from all of your companies.
+
+591
+00:46:18,416 --> 00:46:19,375
+All positions.
+
+592
+00:46:24,458 --> 00:46:25,500
+But…
+
+593
+00:46:26,500 --> 00:46:27,958
+I, being Kanin's son,
+
+594
+00:46:30,791 --> 00:46:32,333
+it is impossible to quit.
+
+595
+00:47:43,125 --> 00:47:45,666
+You're finally here. I thought
+you had died and been born again.
+
+596
+00:47:59,083 --> 00:48:00,541
+Have you seen the email?
+
+597
+00:48:00,625 --> 00:48:03,125
+Mally's team told us
+that we will need to change the API.
+
+598
+00:48:03,208 --> 00:48:06,833
+I was on it before the brief. Slowpokes.
+
+599
+00:48:13,291 --> 00:48:14,291
+What's that picture?
+
+600
+00:48:14,375 --> 00:48:17,458
+Xiaoyu's farewell party that you
+were too much of a wimp to show up.
+
+601
+00:48:20,833 --> 00:48:22,583
+Wanna see? Open it and see for yourself.
+
+602
+00:48:46,500 --> 00:48:47,375
+Look.
+
+603
+00:48:48,500 --> 00:48:50,375
+She was about to leave,
+but had the audacity to fucking laugh.
+
+604
+00:48:52,416 --> 00:48:54,250
+She was laughing for, like, two minutes.
+
+605
+00:48:54,791 --> 00:48:56,500
+When I told her you said goodbye,
+
+606
+00:48:57,083 --> 00:48:59,666
+she cried until she left.
+
+607
+00:49:02,791 --> 00:49:04,166
+What did you say to her?
+
+608
+00:49:06,541 --> 00:49:07,708
+I told her
+
+609
+00:49:09,791 --> 00:49:11,458
+not to regret anything here.
+
+610
+00:49:22,750 --> 00:49:23,625
+Well.
+
+611
+00:49:24,916 --> 00:49:26,750
+She's going to leave sooner or later.
+
+612
+00:49:28,125 --> 00:49:30,708
+And you, stop being a pain in the ass.
+
+613
+00:49:38,208 --> 00:49:39,083
+Hey.
+
+614
+00:49:57,666 --> 00:50:00,583
+Thank you for inviting me on this voyage.
+
+615
+00:50:01,666 --> 00:50:05,333
+You are going to build
+a fleet out of this.
+
+616
+00:50:06,166 --> 00:50:07,416
+Mark my words.
+
+617
+00:50:16,541 --> 00:50:22,208
+2021
+
+618
+00:50:51,125 --> 00:50:52,000
+Pun.
+
+619
+00:50:52,083 --> 00:50:53,083
+Yes?
+
+620
+00:50:57,291 --> 00:51:00,708
+Help me read this.
+What does it say down here?
+
+621
+00:51:01,666 --> 00:51:02,791
+Mm.
+
+622
+00:51:02,875 --> 00:51:06,000
+THIRTY BILLION BAHT INVESTMENT DEAL CLOSED
+
+623
+00:51:06,083 --> 00:51:08,625
+BECOMING THAILAND'S FIRST "UNICORN"
+
+624
+00:51:18,750 --> 00:51:19,583
+Mom.
+
+625
+00:51:20,083 --> 00:51:22,041
+Help me take the stuff out of the car.
+
+626
+00:51:23,458 --> 00:51:24,750
+Thank you so much.
+
+627
+00:51:33,583 --> 00:51:34,708
+Let's go inside, Mom.
+
+628
+00:51:36,208 --> 00:51:38,291
+Why are your pants so wrinkled?
+
+629
+00:51:46,375 --> 00:51:47,250
+Hello, Mr. San.
+
+630
+00:51:47,333 --> 00:51:49,000
+- Please take this to my office.
+- Yes, sir.
+
+631
+00:52:25,750 --> 00:52:27,416
+What is going on?
+
+632
+00:52:27,500 --> 00:52:30,333
+Mr. Santi's mom doesn't know
+that her son is the owner of this company.
+
+633
+00:52:30,416 --> 00:52:31,750
+He is telling her today.
+
+634
+00:52:31,833 --> 00:52:34,750
+- Damn, a critical moment.
+- Hey. Keep it down.
+
+635
+00:52:38,583 --> 00:52:39,416
+Mom.
+
+636
+00:52:44,333 --> 00:52:45,750
+I have a confession to make.
+
+637
+00:52:49,166 --> 00:52:54,250
+So, I'm not an employee here.
+
+638
+00:52:56,791 --> 00:53:00,166
+This is my company.
+
+639
+00:53:15,458 --> 00:53:17,166
+So, how many kilos do you have now?
+
+640
+00:53:28,125 --> 00:53:29,375
+<i>What's your problem?</i>
+
+641
+00:53:29,458 --> 00:53:30,291
+<i>What's your problem?</i>
+
+642
+00:53:30,375 --> 00:53:31,208
+<i>What's your problem?</i>
+
+643
+00:53:31,291 --> 00:53:33,375
+- <i>Come on then!</i>
+- <i>Come on!</i>
+
+644
+00:53:33,458 --> 00:53:37,625
+Thong told me
+since the first day he got to Bangkok.
+
+645
+00:53:50,625 --> 00:53:52,833
+Hello. I'd like to make an order.
+
+646
+00:54:02,708 --> 00:54:03,541
+Are you tired, son?
+
+647
+00:54:09,625 --> 00:54:11,833
+I'm so proud of you.
+
+648
+00:54:21,000 --> 00:54:22,750
+<i>In just two years,</i>
+
+649
+00:54:22,833 --> 00:54:27,083
+<i>Chairman Santi Saelee</i>
+<i>completed the Series E funding,</i>
+
+650
+00:54:27,166 --> 00:54:30,875
+<i>making Thunder Express's market value</i>
+<i>exceed 30 billion baht</i>
+
+651
+00:54:30,958 --> 00:54:33,416
+<i>and becoming Thailand's first unicorn.</i>
+
+652
+00:54:33,500 --> 00:54:36,916
+<i>It is expected to expand</i>
+<i>into the Southeast Asian market</i>
+
+653
+00:54:37,000 --> 00:54:39,375
+<i>in the fourth quarter of this year.</i>
+
+654
+00:54:56,625 --> 00:55:00,875
+SHANGHAI
+
+655
+00:55:13,916 --> 00:55:16,125
+DOORBELL CALLS
+
+656
+00:55:16,708 --> 00:55:17,708
+Who are you looking for?
+
+657
+00:55:19,458 --> 00:55:20,500
+<i>I'm delivering your package.</i>
+
+658
+00:55:55,333 --> 00:55:57,000
+Please sign here.
+
+659
+00:56:08,250 --> 00:56:12,000
+You've expanded overseas,
+but you're still using the same device.
+
+660
+00:56:12,583 --> 00:56:16,583
+That's because it's tough as hell.
+
+661
+00:56:21,541 --> 00:56:23,541
+I thought
+I wouldn't see you again in this life.
+
+662
+00:56:26,791 --> 00:56:30,208
+Of course, you'd see me.
+I haven't returned something to you.
+
+663
+00:56:46,625 --> 00:56:51,875
+THE SUM OF 200 MILLION BAHT
+
+664
+00:56:56,500 --> 00:56:58,208
+This will cover your father's debt
+
+665
+00:56:58,291 --> 00:57:01,458
+and maybe enough to buy back
+your childhood home that was taken away.
+
+666
+00:57:05,875 --> 00:57:09,875
+I thought you were going to pile up cash
+in front of my house.
+
+667
+00:57:12,416 --> 00:57:14,125
+I actually tried.
+
+668
+00:57:14,208 --> 00:57:16,750
+But two hundred kilos
+is too heavy for me to carry.
+
+669
+00:57:18,333 --> 00:57:19,416
+I'm disappointed.
+
+670
+00:57:25,416 --> 00:57:27,875
+Thank you for trusting me.
+
+671
+00:57:53,083 --> 00:57:54,083
+Ling Feng.
+
+672
+00:57:58,708 --> 00:58:01,791
+That's a beautiful name, the wind.
+
+673
+00:58:02,500 --> 00:58:06,083
+But when she's hungry,
+she cries like a storm.
+
+674
+00:58:15,166 --> 00:58:16,125
+I have to go now.
+
+675
+00:58:17,000 --> 00:58:18,208
+Won't you stay for lunch?
+
+676
+00:58:20,125 --> 00:58:21,208
+It's okay.
+
+677
+00:58:21,291 --> 00:58:23,166
+I have a meeting with investors.
+
+678
+00:58:23,250 --> 00:58:25,958
+Say hello to Liam for me.
+
+679
+00:58:28,583 --> 00:58:29,708
+See you again.
+
+680
+00:58:52,875 --> 00:58:55,291
+<i>I'd like to thank my colleagues,</i>
+
+681
+00:58:55,375 --> 00:59:00,250
+<i>both those who have walked the same path</i>
+<i>and shared dreams with me,</i>
+
+682
+00:59:00,333 --> 00:59:03,583
+<i>and those who have stayed and overcome</i>
+<i>the challenges together until today.</i>
+
+683
+00:59:04,208 --> 00:59:06,208
+<i>These are the people who truly make</i>
+<i>Thunder what it is today.</i>
+
+684
+00:59:08,000 --> 00:59:09,166
+So cool.
+
+685
+00:59:09,250 --> 00:59:12,708
+<i>For us to learn, I think</i>
+<i>we learn from many different people.</i>
+
+686
+00:59:12,791 --> 00:59:16,041
+<i>But there is one person who</i>
+<i>is very important in doing business…</i>
+
+687
+00:59:16,125 --> 00:59:18,041
+Damn it. I'm out of data.
+
+688
+00:59:18,125 --> 00:59:20,041
+Hey, can you share your hotspot?
+
+689
+00:59:20,125 --> 00:59:22,500
+What the heck? I just topped it up, guys.
+
+690
+00:59:22,583 --> 00:59:26,166
+- I know, I know. Hurry up. Don't complain.
+- I've shared it. You can connect now.
+
+691
+00:59:28,375 --> 00:59:31,875
+<i>Mr. Santi, what did you learn</i>
+<i>from your enemies?</i>
+
+692
+00:59:33,416 --> 00:59:35,708
+<i>Is there anything you want to tell them?</i>
+
+693
+00:59:40,416 --> 00:59:42,875
+<i>Actually, seeing me</i>
+<i>on this show is enough.</i>
+
+694
+00:59:42,958 --> 00:59:45,916
+<i>I don't think I need to say anything.</i>
+
+695
+00:59:46,416 --> 00:59:47,791
+<i>I don't need to say anything at all.</i>
+
+696
+00:59:47,875 --> 00:59:49,708
+<i>I think he knows it. He sees it.</i>
+
+697
+00:59:53,916 --> 00:59:56,000
+I heard you're retiring.
+
+698
+01:00:00,250 --> 01:00:02,041
+When it's time, it's time.
+
+699
+01:00:04,458 --> 01:00:05,750
+Won't you take other paintings too?
+
+700
+01:00:07,625 --> 01:00:08,833
+One is enough.
+
+701
+01:00:19,916 --> 01:00:21,833
+What will you do next after Series E?
+
+702
+01:00:27,583 --> 01:00:28,958
+Do you really want to know?
+
+703
+01:00:31,458 --> 01:00:32,750
+If you want,
+
+704
+01:00:34,000 --> 01:00:35,625
+there's a high price for prying.
+
+705
+01:00:40,833 --> 01:00:41,833
+One cigarette.
