@@ -1,0 +1,3349 @@
+1
+00:00:43,917 --> 00:00:48,516
+[Start-Up]
+
+2
+00:00:48,516 --> 00:00:49,730
+All right, let's make it happen.
+[Previously]
+
+3
+00:00:49,730 --> 00:00:51,131
+The Morning AI crew is also in the mix.
+
+4
+00:00:51,131 --> 00:00:52,296
+We've got to nail this.
+
+5
+00:00:52,296 --> 00:00:53,554
+Let's settle this fairly.
+
+6
+00:00:53,554 --> 00:00:55,161
+All right, let's see who Dream chooses.
+
+7
+00:00:55,161 --> 00:00:56,224
+Hey… keep it down, will you?
+
+8
+00:00:56,224 --> 00:00:58,614
+She's ruthless.
+
+9
+00:00:58,614 --> 00:01:00,104
+I'm entering the bid.
+
+10
+00:01:00,104 --> 00:01:06,011
+A company I interviewed yesterday dealt with a bad ransomware attack.
+
+11
+00:01:24,079 --> 00:01:25,900
+So was our company.
+
+12
+00:01:25,900 --> 00:01:28,839
+But we swiftly resolved it within a few hours.
+
+13
+00:01:28,839 --> 00:01:32,899
+Indeed, we have a team of skilled and seasoned developers.
+
+14
+00:01:32,899 --> 00:01:36,100
+We addressed the issue just in the nick of time.
+
+15
+00:01:36,100 --> 00:01:39,640
+Moreover, we're continuously improving our systems
+
+16
+00:01:39,640 --> 00:01:42,959
+to prevent such incidents from recurring.
+
+17
+00:01:43,599 --> 00:01:46,220
+However, in your case,
+
+18
+00:01:46,220 --> 00:01:49,399
+it's about people's safety.
+
+19
+00:01:49,399 --> 00:01:51,520
+If the system is under development,
+
+20
+00:01:51,520 --> 00:01:55,640
+and the same issue arises,
+
+21
+00:01:57,200 --> 00:02:01,359
+isn't there a risk to users' lives?
+
+22
+00:02:07,540 --> 00:02:09,972
+We need to halt this interview. That journalist—
+
+23
+00:02:09,972 --> 00:02:11,691
+I'm familiar with him.
+
+24
+00:02:11,691 --> 00:02:13,639
+He's known as the "trash reporter".
+
+25
+00:02:13,639 --> 00:02:17,679
+I've been aware of him since the Nature Morning days.
+
+26
+00:02:17,679 --> 00:02:20,039
+Aren't you going to intervene?
+
+27
+00:02:20,039 --> 00:02:21,411
+Rest assured, Mr. Ji.
+
+28
+00:02:21,411 --> 00:02:23,404
+Dream has got this under control.
+
+29
+00:02:23,404 --> 00:02:26,638
+We'll just observe from here.
+
+30
+00:02:32,159 --> 00:02:33,859
+All right,
+
+31
+00:02:33,859 --> 00:02:35,910
+I believe I have all the information I need.
+
+32
+00:02:35,910 --> 00:02:37,366
+Thank you.
+
+33
+00:02:37,366 --> 00:02:39,510
+Please don't leave just yet.
+
+34
+00:02:41,260 --> 00:02:43,260
+Is there more?
+
+35
+00:02:45,699 --> 00:02:47,720
+Unless I'm mistaken,
+
+36
+00:02:47,720 --> 00:02:51,086
+you're planning to twist the facts.
+
+37
+00:02:51,086 --> 00:02:53,130
+"Sunshine Company was hacked"
+
+38
+00:02:53,130 --> 00:02:59,779
+"Lacking standards and security," right?
+
+39
+00:03:00,546 --> 00:03:02,446
+Twist?
+
+40
+00:03:02,446 --> 00:03:04,860
+But these are the facts.
+
+41
+00:03:04,860 --> 00:03:08,700
+Aren't you curious who's behind the attack?
+
+42
+00:03:08,700 --> 00:03:10,028
+You know who it is?
+
+43
+00:03:10,028 --> 00:03:11,828
+Yes.
+
+44
+00:03:14,486 --> 00:03:16,700
+- It's not going to work.
+- Player.
+
+45
+00:03:16,700 --> 00:03:20,239
+What's going on here? Why the long faces?
+
+46
+00:03:20,239 --> 00:03:22,980
+I've been pondering over the ransomware's hostname
+
+47
+00:03:22,980 --> 00:03:25,219
+and trying to decode the anagrams.
+
+48
+00:03:25,219 --> 00:03:28,479
+It might give us a clue about the perpetrator.
+[Anagram: Rearranging letters to create new words]
+
+49
+00:03:28,479 --> 00:03:30,661
+Persia.
+
+50
+00:03:35,119 --> 00:03:37,580
+I noticed Fafad's profile in our control tool.
+
+51
+00:03:37,580 --> 00:03:39,760
+His username was "Vampire".
+
+52
+00:03:39,760 --> 00:03:44,719
+Hey… I recall that Fafad has a bat tattoo on his finger.
+
+53
+00:03:48,150 --> 00:03:52,819
+After analyzing the event log, we identified the attacker.
+
+54
+00:04:07,460 --> 00:04:11,610
+We conducted a port scan on the suspect's laptop
+
+55
+00:04:11,610 --> 00:04:17,539
+and confirmed that the IP Address and hostname matched.
+
+56
+00:04:26,979 --> 00:04:29,523
+That's how we pinpointed the hacker.
+
+57
+00:04:29,523 --> 00:04:32,060
+We've already forwarded the evidence to the authorities.
+
+58
+00:04:32,060 --> 00:04:37,160
+They've just informed us that the suspect has been apprehended.
+
+59
+00:04:37,160 --> 00:04:39,286
+So, who's the suspect?
+
+60
+00:04:39,286 --> 00:04:40,908
+His name is Fafad.
+
+61
+00:04:40,908 --> 00:04:43,400
+He was once part of our development team.
+
+62
+00:04:43,400 --> 00:04:45,538
+However after the incident,
+
+63
+00:04:45,538 --> 00:04:48,325
+Morning AI poached him as their CTO.
+
+64
+00:04:48,325 --> 00:04:49,539
+[CTO: Chief Technology Officer]
+
+65
+00:04:49,539 --> 00:04:52,493
+Seems suspicious, doesn't it?
+
+66
+00:04:52,493 --> 00:04:55,060
+We also have CCTV footage showing
+
+67
+00:04:55,060 --> 00:04:57,540
+Mr. Witoon meeting with Fafad.
+
+68
+00:04:57,540 --> 00:05:00,779
+The investigation will soon uncover the mastermind behind this.
+
+69
+00:05:01,710 --> 00:05:04,520
+Writing about the behind-the-scenes dealings
+
+70
+00:05:04,520 --> 00:05:07,032
+or the startup industry's scandalous betrayals
+
+71
+00:05:07,032 --> 00:05:11,170
+would certainly draw more attention and views.
+
+72
+00:05:11,920 --> 00:05:14,840
+Well, since the matter has been resolved,
+
+73
+00:05:14,840 --> 00:05:18,560
+our editor will likely drop the story.
+
+74
+00:05:18,560 --> 00:05:20,783
+But if the mastermind
+
+75
+00:05:20,783 --> 00:05:24,650
+is the son of Morning Group's CEO,
+
+76
+00:05:24,650 --> 00:05:26,831
+it's bound to be headline news.
+
+77
+00:05:26,831 --> 00:05:28,644
+How can you overlook this?
+
+78
+00:05:28,644 --> 00:05:29,875
+I adhere to ethical standards.
+
+79
+00:05:29,875 --> 00:05:34,419
+Besides, I'm not authorized to report on crimes that are still under investigation.
+
+80
+00:05:34,419 --> 00:05:37,260
+It could influence the case.
+
+81
+00:05:37,260 --> 00:05:38,499
+That's fine.
+
+82
+00:05:38,499 --> 00:05:41,371
+You can cover the story once the investigation concludes.
+
+83
+00:05:42,205 --> 00:05:43,705
+Goodbye.
+
+84
+00:05:43,705 --> 00:05:45,339
+Thank you so much.
+
+85
+00:05:45,339 --> 00:05:48,079
+I eagerly await your article.
+
+86
+00:05:48,959 --> 00:05:50,959
+Best of luck.
+
+87
+00:05:54,512 --> 00:05:57,399
+Hope for a favorable outcome.
+
+88
+00:06:00,319 --> 00:06:02,363
+Make sure to publish the article.
+
+89
+00:06:02,363 --> 00:06:04,999
+You have detailed information.
+
+90
+00:06:04,999 --> 00:06:11,065
+Otherwise, people might suspect that you're in collusion with the culprits.
+
+91
+00:06:15,406 --> 00:06:16,816
+That's reassuring.
+
+92
+00:06:16,816 --> 00:06:19,179
+So, I have nothing to worry about.
+
+93
+00:06:19,800 --> 00:06:21,400
+I think
+
+94
+00:06:21,400 --> 00:06:22,971
+you should be more concerned about yourself.
+
+95
+00:06:22,971 --> 00:06:25,491
+You were out of breath rushing here.
+
+96
+00:06:27,419 --> 00:06:29,519
+I…
+
+97
+00:06:29,519 --> 00:06:32,120
+I was worried she might repeat her past mistakes.
+
+98
+00:06:33,360 --> 00:06:35,555
+She's in her third year now.
+
+99
+00:06:35,555 --> 00:06:39,460
+She's capable of managing this. No need for concern.
+
+100
+00:06:40,123 --> 00:06:41,523
+Moreover,
+
+101
+00:06:41,523 --> 00:06:47,199
+Dream is no longer a novice in need of guidance.
+
+102
+00:06:47,199 --> 00:06:48,899
+Right.
+
+103
+00:06:49,600 --> 00:06:51,700
+My role is redundant now.
+
+104
+00:06:53,739 --> 00:06:55,852
+Do you feel empty now
+
+105
+00:06:55,852 --> 00:07:00,127
+that you're no longer needed to look after the girl on the swing?
+
+106
+00:07:00,127 --> 00:07:02,045
+Not at all.
+
+107
+00:07:02,045 --> 00:07:03,896
+It's actually a relief.
+
+108
+00:07:12,339 --> 00:07:15,083
+[Episode 16: Scale Up]
+
+109
+00:07:16,439 --> 00:07:20,000
+I have sent everyone a list of other companies in the bid.
+
+110
+00:07:20,000 --> 00:07:22,980
+This time, we're up against many companies.
+
+111
+00:07:22,980 --> 00:07:26,420
+They're all well-known and formidable.
+
+112
+00:07:26,420 --> 00:07:27,856
+So,
+
+113
+00:07:27,856 --> 00:07:31,203
+how do we outdo them?
+
+114
+00:07:31,203 --> 00:07:37,120
+Winning? I thought our goal wasn't to win the bid but to gain experience.
+
+115
+00:07:38,463 --> 00:07:41,000
+Right, I forgot about that.
+
+116
+00:07:41,000 --> 00:07:45,560
+Let's all take it easy, then. No stress, we can proceed comfortably.
+
+117
+00:07:46,260 --> 00:07:48,260
+However,
+
+118
+00:07:48,260 --> 00:07:51,352
+what happens if we actually win?
+
+119
+00:07:51,352 --> 00:07:52,777
+If that happens,
+
+120
+00:07:52,777 --> 00:07:54,319
+I'll give you 10 million.
+
+121
+00:07:54,319 --> 00:07:56,619
+10 million?
+
+122
+00:07:56,619 --> 00:07:59,720
+Then I'll shave my head and become a monk.
+
+123
+00:07:59,720 --> 00:08:01,800
+We'll see about that.
+
+124
+00:08:02,339 --> 00:08:04,356
+I'll get married.
+
+125
+00:08:04,356 --> 00:08:06,180
+Married?
+
+126
+00:08:06,180 --> 00:08:08,799
+I mean, it's highly unlikely.
+
+127
+00:08:08,799 --> 00:08:11,783
+Still, if we pull it off,
+
+128
+00:08:11,783 --> 00:08:14,206
+you better stand by your promise.
+
+129
+00:08:14,206 --> 00:08:17,152
+And you, Korn, what's your plan?
+
+130
+00:08:18,339 --> 00:08:21,519
+If I lose, I'll move on from Dream.
+
+131
+00:08:22,060 --> 00:08:24,156
+Winning is a must for me.
+
+132
+00:08:28,232 --> 00:08:30,318
+What about you, Mr. Ji?
+
+133
+00:08:31,225 --> 00:08:33,604
+I don't bet on serious matters.
+
+134
+00:08:35,772 --> 00:08:37,290
+Hey.
+
+135
+00:08:37,290 --> 00:08:39,879
+Betting is pointless.
+
+136
+00:08:41,059 --> 00:08:43,860
+How many will make it to the final round?
+
+137
+00:08:43,860 --> 00:08:46,519
+Five.
+
+138
+00:08:46,519 --> 00:08:47,524
+Then,
+
+139
+00:08:47,524 --> 00:08:50,825
+we need to address every flaw in Miracle World.
+
+140
+00:08:51,699 --> 00:08:53,499
+Agreed.
+
+141
+00:08:55,950 --> 00:08:58,779
+I really appreciate your assistance.
+
+142
+00:08:58,779 --> 00:09:02,376
+Honestly, it's not even your responsibility to help me.
+
+143
+00:09:02,376 --> 00:09:06,823
+Well, if we secure this bid, it's as good as helping Grandma.
+
+144
+00:09:07,977 --> 00:09:10,763
+So, what's the progress?
+
+145
+00:09:10,763 --> 00:09:13,479
+Uh… Now, it's...
+
+146
+00:09:13,479 --> 00:09:15,436
+Please wait a moment.
+
+147
+00:09:17,220 --> 00:09:19,120
+Hello, Mom?
+
+148
+00:09:19,779 --> 00:09:21,176
+Grandma fell?
+
+149
+00:09:21,176 --> 00:09:24,063
+I'm on my way now.
+
+150
+00:09:25,160 --> 00:09:27,460
+Grandma!
+
+151
+00:09:27,460 --> 00:09:28,340
+Grandma!
+
+152
+00:09:28,340 --> 00:09:29,881
+Are you okay?
+
+153
+00:09:29,881 --> 00:09:30,911
+Mom,
+
+154
+00:09:30,911 --> 00:09:32,742
+what happened?
+
+155
+00:09:32,742 --> 00:09:37,419
+She tried to go shopping by herself while I was out.
+
+156
+00:09:37,419 --> 00:09:39,600
+My phone died, too.
+
+157
+00:09:39,600 --> 00:09:44,139
+Thankfully, True Angel called an ambulance for her.
+
+158
+00:09:44,139 --> 00:09:46,489
+It was just a minor fall.
+
+159
+00:09:46,489 --> 00:09:51,240
+Grandma, that was no minor fall. You were unconscious.
+
+160
+00:09:52,220 --> 00:09:54,159
+Grandma,
+
+161
+00:09:54,159 --> 00:09:59,200
+do you realize even a minor fall can be dangerous at your age?
+
+162
+00:09:59,200 --> 00:10:02,159
+If you needed something, you could've asked. I could have gone shopping for you.
+
+163
+00:10:03,000 --> 00:10:05,400
+I'm fine, dear.
+
+164
+00:10:05,400 --> 00:10:08,000
+But what if something serious had happened?
+
+165
+00:10:10,500 --> 00:10:13,400
+What would I do then?
+
+166
+00:10:13,400 --> 00:10:17,720
+I'm still here, don't worry… there, it's okay.
+
+167
+00:10:17,720 --> 00:10:20,408
+It's not okay. You're in the hospital. That's not okay.
+
+168
+00:10:20,408 --> 00:10:23,261
+And if something happened to you, I'd be lost.
+
+169
+00:10:23,261 --> 00:10:25,600
+I'm fine. Please, no tears.
+
+170
+00:10:25,600 --> 00:10:31,000
+I'm just scared… If I lost you, I'd be alone.
+
+171
+00:10:31,000 --> 00:10:36,800
+I'm right here. No more tears, okay?
+
+172
+00:10:36,800 --> 00:10:42,100
+Just let me know if you need anything. I'm here for you.
+
+173
+00:10:44,300 --> 00:10:47,700
+Someone's stealing the spotlight from the real grandchild.
+
+174
+00:10:52,200 --> 00:10:54,400
+Such a softie.
+
+175
+00:10:56,800 --> 00:11:02,000
+I'll grab some tissues. Keep an eye on Grandma for me.
+
+176
+00:11:02,000 --> 00:11:03,500
+Sure thing.
+
+177
+00:11:04,500 --> 00:11:07,400
+Try not to laugh too much. It might hurt.
+
+178
+00:11:07,400 --> 00:11:12,000
+Careful, laughing might make it worse.
+
+179
+00:11:15,400 --> 00:11:16,900
+Thanks.
+
+180
+00:11:17,900 --> 00:11:19,600
+She's okay now.
+
+181
+00:11:19,600 --> 00:11:21,900
+No need to worry.
+
+182
+00:11:21,900 --> 00:11:24,400
+I should be the one comforting you.
+
+183
+00:11:24,400 --> 00:11:27,200
+You were crying like a little kid.
+
+184
+00:11:27,200 --> 00:11:30,000
+Even more upset than I was.
+
+185
+00:11:30,000 --> 00:11:33,300
+It was a shock.
+
+186
+00:11:33,300 --> 00:11:36,200
+Anyone would have been upset seeing her like that.
+
+187
+00:11:36,200 --> 00:11:37,700
+You know…
+
+188
+00:11:37,700 --> 00:11:41,100
+it seems you care about Grandma more than I realized.
+
+189
+00:11:43,200 --> 00:11:44,900
+Well,
+
+190
+00:11:44,900 --> 00:11:48,800
+she's all I have.
+
+191
+00:11:50,400 --> 00:11:52,800
+If she hadn't taken in an orphan like me back then,
+
+192
+00:11:52,800 --> 00:11:54,600
+I might not have made it.
+
+193
+00:11:54,600 --> 00:11:58,500
+I would probably have starved on the street somewhere.
+
+194
+00:11:59,107 --> 00:12:00,600
+To me,
+
+195
+00:12:00,600 --> 00:12:03,600
+she's more than family.
+
+196
+00:12:04,900 --> 00:12:06,000
+And…
+
+197
+00:12:06,000 --> 00:12:09,830
+She always talked about you when I was growing up.
+
+198
+00:12:10,400 --> 00:12:15,000
+And I must have written you a hundred letters.
+
+199
+00:12:17,400 --> 00:12:19,400
+So,
+
+200
+00:12:21,400 --> 00:12:23,800
+I guess my feelings for you...
+
+201
+00:12:26,400 --> 00:12:29,600
+had been building for a long time.
+
+202
+00:12:30,600 --> 00:12:34,300
+When exactly it started, I can't say.
+
+203
+00:12:37,900 --> 00:12:40,100
+Do you think...
+
+204
+00:12:41,400 --> 00:12:44,500
+my words might change your mind?
+
+205
+00:12:53,600 --> 00:12:55,700
+Hold on a second.
+
+206
+00:12:58,400 --> 00:13:00,300
+Hello?
+
+207
+00:13:00,300 --> 00:13:02,600
+Where are you?
+
+208
+00:13:02,600 --> 00:13:06,200
+At the hospital. Grandma had a fall.
+
+209
+00:13:07,900 --> 00:13:13,400
+She's okay, though. Lucky for us, True Angel called an ambulance in time.
+
+210
+00:13:15,000 --> 00:13:16,900
+Don't worry about it.
+
+211
+00:13:18,600 --> 00:13:22,000
+We'll talk more later, okay?
+
+212
+00:13:34,500 --> 00:13:36,700
+This is delicious.
+
+213
+00:14:04,900 --> 00:14:06,700
+Korn,
+
+214
+00:14:06,700 --> 00:14:09,500
+did you spend the whole night here?
+
+215
+00:14:11,700 --> 00:14:15,000
+I was tweaking some features of Miracle World.
+
+216
+00:14:17,100 --> 00:14:19,600
+What features exactly?
+
+217
+00:14:23,063 --> 00:14:25,200
+When Grandma was hospitalized,
+
+218
+00:14:25,200 --> 00:14:30,000
+nobody could explain to the doctor how she fell.
+
+219
+00:14:31,900 --> 00:14:35,600
+We should equip Grandma with something like a black box.
+
+220
+00:14:35,600 --> 00:14:40,260
+Imagine integrating chips into her glasses that record visuals,
+
+221
+00:14:40,260 --> 00:14:44,700
+sounds, locations, activities, and even her heart rate.
+
+222
+00:14:44,700 --> 00:14:47,800
+We'd be able to access all this data from the last 24 hours
+
+223
+00:14:47,800 --> 00:14:51,200
+and sync it with her profile in True Angel,
+
+224
+00:14:51,200 --> 00:14:55,100
+along with the travel log from the black box.
+
+225
+00:14:55,100 --> 00:14:58,600
+Wow, that's an impressive concept.
+
+226
+00:14:58,600 --> 00:15:02,700
+But is it feasible?
+
+227
+00:15:03,700 --> 00:15:05,800
+We have to make it work.
+
+228
+00:15:05,800 --> 00:15:08,800
+Don't worry. I'll get it done for you.
+
+229
+00:15:12,400 --> 00:15:15,400
+Do you know how airplanes have black boxes?
+
+230
+00:15:15,400 --> 00:15:18,200
+I envision this chip as a mini black box inside the glasses.
+
+231
+00:15:18,200 --> 00:15:21,300
+It'll have its own unique algorithm.
+
+232
+00:15:21,300 --> 00:15:22,500
+What I'm looking at is…
+
+233
+00:15:22,500 --> 00:15:23,800
+If there's an accident,
+
+234
+00:15:23,800 --> 00:15:26,400
+True Angel would instantly send the data to the hospital.
+
+235
+00:15:26,400 --> 00:15:28,900
+They'd have immediate access to her medical history,
+
+236
+00:15:28,900 --> 00:15:31,500
+blood pressure, heart rate,
+
+237
+00:15:31,500 --> 00:15:34,800
+and what she was doing before the accident.
+
+238
+00:15:39,800 --> 00:15:43,900
+So, we could trace back the information for a full day.
+
+239
+00:15:43,900 --> 00:15:46,000
+We're here, everyone.
+
+240
+00:15:46,000 --> 00:15:48,500
+Duck rice, anyone?
+
+241
+00:15:48,500 --> 00:15:54,500
+This way, the medical team can quickly analyze symptoms and the patient's behavior.
+
+242
+00:15:58,000 --> 00:16:03,700
+These new Smart Glasses features will be the centerpiece of our bid.
+[Smart Glasses]
+
+243
+00:16:05,700 --> 00:16:07,600
+It's a perfect pitch.
+
+244
+00:16:13,480 --> 00:16:18,819
+I'm going to double-check the documents.
+
+245
+00:16:18,819 --> 00:16:20,419
+You've checked them a million times already.
+
+246
+00:16:20,419 --> 00:16:23,040
+I just want to make sure everything's complete.
+
+247
+00:16:26,700 --> 00:16:29,000
+You don't seem ready.
+
+248
+00:16:34,100 --> 00:16:38,000
+And are you prepared for prison?
+
+249
+00:16:39,000 --> 00:16:41,400
+That was all a big misunderstanding.
+
+250
+00:16:41,400 --> 00:16:44,000
+We'll sort it out in court.
+
+251
+00:16:46,900 --> 00:16:50,300
+What does that have to do with the bidding?
+
+252
+00:16:50,939 --> 00:16:52,659
+Honestly, not much.
+
+253
+00:16:52,659 --> 00:16:56,900
+I never thought a big company's CEO
+
+254
+00:16:56,900 --> 00:17:00,600
+would dare to hire someone with a criminal record.
+
+255
+00:17:01,800 --> 00:17:05,790
+Watch your language, or you might face a lawsuit.
+
+256
+00:17:06,300 --> 00:17:07,300
+I'm not worried.
+
+257
+00:17:07,300 --> 00:17:09,300
+I have evidence.
+
+258
+00:17:09,300 --> 00:17:12,700
+I'm not intimidated by a low-level hacker like you.
+
+259
+00:17:14,400 --> 00:17:16,800
+Just be cautious today.
+
+260
+00:17:16,800 --> 00:17:19,000
+There are lots of journalists around.
+
+261
+00:17:40,300 --> 00:17:41,800
+Dream,
+
+262
+00:17:43,900 --> 00:17:46,700
+don't let those words get to you.
+
+263
+00:17:46,700 --> 00:17:48,500
+Stay calm.
+
+264
+00:17:51,900 --> 00:17:53,100
+Hey,
+
+265
+00:17:53,800 --> 00:17:56,600
+you've really changed.
+
+266
+00:17:58,500 --> 00:18:03,300
+You're more composed and patient now.
+
+267
+00:18:04,300 --> 00:18:09,000
+I've got to be better for you.
+
+268
+00:18:14,130 --> 00:18:16,240
+­[Sandbox]
+
+269
+00:18:22,300 --> 00:18:25,200
+Will it be announced at 2:00 p.m?
+
+270
+00:18:25,200 --> 00:18:26,800
+Yes.
+
+271
+00:18:28,000 --> 00:18:31,400
+Just 2 minutes to go. Hang tight.
+
+272
+00:18:31,400 --> 00:18:34,700
+Stop hitting refresh, you'll break the key.
+
+273
+00:18:36,000 --> 00:18:37,700
+Why the rush?
+
+274
+00:18:37,700 --> 00:18:43,200
+They're only announcing the five finalists, not the winner.
+
+275
+00:18:43,200 --> 00:18:45,800
+So you're calm?
+
+276
+00:18:45,800 --> 00:18:50,700
+You smell like incense like you've visited every temple in town.
+
+277
+00:18:51,800 --> 00:18:54,200
+Any help is welcome.
+
+278
+00:18:55,600 --> 00:18:58,000
+Guys, it's 2:00.
+
+279
+00:18:58,000 --> 00:19:00,000
+- Seriously?
+- Yeah.
+
+280
+00:19:01,250 --> 00:19:02,440
+Let me hit refresh.
+
+281
+00:19:02,440 --> 00:19:03,759
+Do it!
+
+282
+00:19:03,800 --> 00:19:06,500
+Look, it's up!
+
+283
+00:19:06,500 --> 00:19:08,400
+- Hit enter.
+- Doing it.
+
+284
+00:19:08,400 --> 00:19:10,800
+- I'm on it.
+- Okay.
+
+285
+00:19:21,900 --> 00:19:25,400
+[Congratulations, your company has been selected for the next round.]
+
+286
+00:19:30,800 --> 00:19:32,200
+Everyone…
+
+287
+00:19:32,200 --> 00:19:33,200
+listen up.
+
+288
+00:19:33,200 --> 00:19:35,300
+- Yeah?
+- What's up?
+
+289
+00:19:35,300 --> 00:19:37,200
+Glasses up.
+
+290
+00:19:38,800 --> 00:19:40,300
+A huge thanks to all of you.
+
+291
+00:19:40,300 --> 00:19:43,200
+Let's make the most of this moment,
+
+292
+00:19:43,200 --> 00:19:44,100
+Cheers!
+
+293
+00:19:44,100 --> 00:19:46,400
+Cheers!
+
+294
+00:19:47,400 --> 00:19:49,200
+Careful! You're spilling it.
+
+295
+00:19:50,000 --> 00:19:52,300
+Remember,
+
+296
+00:19:52,300 --> 00:19:58,200
+if we win, you owe us.
+
+297
+00:19:58,200 --> 00:20:01,600
+No chance. Getting this far is already a miracle.
+
+298
+00:20:02,559 --> 00:20:03,680
+Cough up that 10 million.
+
+299
+00:20:03,700 --> 00:20:07,000
+- Well, turns out I might be able to.
+- Really now?
+
+300
+00:20:07,000 --> 00:20:08,900
+And you're going to shave your head, remember?
+
+301
+00:20:08,900 --> 00:20:12,000
+No big deal. I've got my razor on standby, Bank.
+
+302
+00:20:12,000 --> 00:20:14,500
+- Seriously?
+- As serious as can be.
+
+303
+00:20:15,200 --> 00:20:20,500
+Yaya, and don't forget your promise.
+
+304
+00:20:20,500 --> 00:20:26,600
+If this actually happens, I expect a 10-carat diamond ring.
+
+305
+00:20:26,600 --> 00:20:28,700
+10 carats?
+
+306
+00:20:28,700 --> 00:20:30,600
+Will it be enough?
+
+307
+00:20:30,600 --> 00:20:33,700
+I mean, do you think I have enough money to buy it?
+
+308
+00:20:33,700 --> 00:20:35,200
+Just messing with you.
+
+309
+00:20:35,200 --> 00:20:38,200
+Hold on a second, you two are acting strange.
+
+310
+00:20:38,200 --> 00:20:44,000
+Spill it. Are you proposing, or did you already… you know.
+
+311
+00:20:44,000 --> 00:20:47,200
+I've had a hunch since the bid day.
+
+312
+00:20:47,200 --> 00:20:49,600
+He's been super focused lately.
+
+313
+00:20:49,600 --> 00:20:51,200
+I've always been diligent.
+
+314
+00:20:51,200 --> 00:20:52,600
+Nope, you weren't always this driven.
+
+315
+00:20:52,600 --> 00:20:54,800
+You're keeping secrets.
+
+316
+00:20:54,800 --> 00:21:01,700
+Come on, just tell them. It's weird like this.
+
+317
+00:21:01,700 --> 00:21:04,400
+Today feels like the right day.
+
+318
+00:21:07,800 --> 00:21:09,200
+All right…
+
+319
+00:21:11,200 --> 00:21:13,600
+Yaya, stand up.
+
+320
+00:21:13,600 --> 00:21:14,600
+No way.
+
+321
+00:21:14,600 --> 00:21:16,400
+Come on!
+
+322
+00:21:16,400 --> 00:21:18,000
+Up you go.
+
+323
+00:21:20,300 --> 00:21:24,100
+Fine, okay, we're…
+
+324
+00:21:24,100 --> 00:21:27,300
+we're seeing each other.
+
+325
+00:21:33,400 --> 00:21:34,799
+Cheers!
+
+326
+00:21:34,799 --> 00:21:37,599
+- Cheers!
+- To the couple!
+
+327
+00:21:37,600 --> 00:21:39,300
+Absolutely.
+
+328
+00:21:40,700 --> 00:21:45,000
+All right, enough teasing me. I've got a question, too.
+
+329
+00:21:46,200 --> 00:21:47,600
+Dream…
+
+330
+00:21:49,000 --> 00:21:51,300
+have you decided?
+
+331
+00:21:51,300 --> 00:21:52,400
+Who's the one for you?
+
+332
+00:21:52,400 --> 00:21:56,300
+Hey, that's not fair! You can't ask that, Yaya.
+
+333
+00:21:56,300 --> 00:21:58,200
+- Why not?
+- Just don't.
+
+334
+00:21:58,200 --> 00:22:00,800
+- Aren't you curious?
+- I don't want to know. Too much to drink?
+
+335
+00:22:00,800 --> 00:22:02,900
+You really don't want to know?
+
+336
+00:22:05,600 --> 00:22:07,400
+No, drop it. You always do this.
+
+337
+00:22:07,400 --> 00:22:10,100
+I need a bathroom break.
+
+338
+00:22:10,800 --> 00:22:12,700
+This isn't right.
+
+339
+00:22:17,200 --> 00:22:18,600
+Does anyone want more to eat?
+
+340
+00:22:18,600 --> 00:22:19,700
+Sure.
+
+341
+00:22:19,700 --> 00:22:21,700
+Just call the waiter.
+
+342
+00:22:23,000 --> 00:22:25,000
+I'll be right back.
+
+343
+00:22:26,500 --> 00:22:28,200
+Let's order some more.
+
+344
+00:22:29,600 --> 00:22:31,200
+Excuse me, sir.
+
+345
+00:22:42,000 --> 00:22:43,600
+Dream,
+
+346
+00:22:46,500 --> 00:22:49,100
+what's got you here all by yourself?
+
+347
+00:22:54,600 --> 00:22:56,100
+I get it.
+
+348
+00:22:56,800 --> 00:22:58,900
+You're trying to spare their feelings.
+
+349
+00:22:58,900 --> 00:23:01,700
+You don't want to lose them.
+
+350
+00:23:01,700 --> 00:23:04,800
+But you cannot have it all.
+
+351
+00:23:04,800 --> 00:23:07,900
+You can't keep avoiding the issue.
+
+352
+00:23:07,900 --> 00:23:10,200
+Do you get it?
+
+353
+00:23:14,800 --> 00:23:17,400
+I'm saying this as your boss, okay?
+
+354
+00:23:17,400 --> 00:23:19,200
+Just hear me out.
+
+355
+00:23:20,800 --> 00:23:22,800
+All right, I know.
+
+356
+00:23:22,800 --> 00:23:27,300
+And you? Why do you dodge the truth?
+
+357
+00:23:29,200 --> 00:23:31,000
+What do you mean?
+
+358
+00:23:35,800 --> 00:23:42,000
+Alice, we're family.
+
+359
+00:23:45,100 --> 00:23:48,300
+Grandma misses you every day.
+
+360
+00:23:50,800 --> 00:23:53,600
+She's hoping you'll come home to us.
+
+361
+00:23:58,800 --> 00:24:00,300
+I know that.
+
+362
+00:24:03,400 --> 00:24:06,500
+Think it over, will you?
+
+363
+00:24:06,500 --> 00:24:11,000
+You should, too. Let's clear the air.
+
+364
+00:24:12,000 --> 00:24:13,800
+Understood.
+
+365
+00:24:13,800 --> 00:24:15,900
+Heading back inside?
+
+366
+00:24:16,500 --> 00:24:22,000
+You go on ahead. I need a moment to breathe.
+
+367
+00:24:35,100 --> 00:24:38,400
+Could I get a papaya salad with crab and fermented fish?
+
+368
+00:24:38,400 --> 00:24:41,600
+- You're having that now?
+- Yeah, what's up with that?
+
+369
+00:24:43,200 --> 00:24:45,300
+Have you had too much to drink?
+
+370
+00:24:47,400 --> 00:24:49,200
+Maybe just a little.
+
+371
+00:24:58,500 --> 00:25:01,900
+Decisions like these...
+
+372
+00:25:03,400 --> 00:25:05,400
+aren't easy.
+
+373
+00:25:06,700 --> 00:25:09,600
+My sister's in a tough spot.
+
+374
+00:25:10,900 --> 00:25:13,100
+But trust me,
+
+375
+00:25:14,100 --> 00:25:18,000
+Dream will make the right choice for herself.
+
+376
+00:25:19,300 --> 00:25:20,700
+Yes.
+
+377
+00:25:21,600 --> 00:25:23,700
+Korn and I, we're on the same page.
+
+378
+00:25:23,700 --> 00:25:26,600
+We'll be happy with whatever Dream decides.
+
+379
+00:25:30,300 --> 00:25:34,900
+Come on, Mr. Ji, show some backbone.
+
+380
+00:25:34,900 --> 00:25:39,300
+You can dish out tough talk to others, but when it's personal, you clam up.
+
+381
+00:25:39,300 --> 00:25:40,700
+You've got a point.
+
+382
+00:25:40,700 --> 00:25:46,000
+Tough talks hit differently when you're on the receiving end.
+
+383
+00:25:46,600 --> 00:25:49,500
+Life's full of these weird moments.
+
+384
+00:25:50,700 --> 00:25:57,300
+If things don't go your way, drinks are on me.
+
+385
+00:25:59,500 --> 00:26:01,200
+Appreciate it.
+
+386
+00:26:01,200 --> 00:26:03,200
+It's a deal.
+
+387
+00:26:10,800 --> 00:26:12,900
+Everything is good?
+
+388
+00:26:12,900 --> 00:26:14,700
+I'm okay.
+
+389
+00:26:22,600 --> 00:26:24,400
+I think…
+
+390
+00:26:24,400 --> 00:26:27,200
+it's time to choose a bar.
+
+391
+00:27:28,700 --> 00:27:31,600
+Could you come to see me?
+
+392
+00:27:31,600 --> 00:27:34,600
+I need to tell you something.
+
+393
+00:28:23,800 --> 00:28:26,900
+I'm sorry for calling you both out here together.
+
+394
+00:28:27,800 --> 00:28:31,200
+But there's something I need to say to you both.
+
+395
+00:28:37,300 --> 00:28:40,200
+You and Ji wanted an answer.
+
+396
+00:28:41,200 --> 00:28:43,600
+I've made up my mind.
+
+397
+00:28:48,800 --> 00:28:51,000
+It's all right, Dream.
+
+398
+00:28:51,000 --> 00:28:52,610
+Just say what you need to.
+
+399
+00:29:05,100 --> 00:29:08,000
+I can't be with anyone right now.
+
+400
+00:29:14,000 --> 00:29:16,400
+I need to look after Grandma.
+
+401
+00:29:16,400 --> 00:29:18,700
+I need to focus on my work.
+
+402
+00:29:26,100 --> 00:29:28,700
+Ji, you,
+
+403
+00:29:30,000 --> 00:29:33,000
+you're like family to me.
+
+404
+00:29:33,900 --> 00:29:37,000
+It might sound selfish,
+
+405
+00:29:38,000 --> 00:29:42,000
+but I can't bear the thought of hurting anyone again.
+
+406
+00:29:44,700 --> 00:29:51,900
+I can't lose you or Ji.
+
+407
+00:29:54,300 --> 00:29:56,500
+I'm really sorry.
+
+408
+00:30:01,480 --> 00:30:03,460
+Dream, no need for apologies.
+
+409
+00:30:07,659 --> 00:30:10,170
+I respect your choice.
+
+410
+00:30:13,839 --> 00:30:18,739
+I'll always be here for you, supporting you as a friend.
+
+411
+00:30:18,739 --> 00:30:20,499
+That's a promise.
+
+412
+00:30:23,359 --> 00:30:25,580
+Thanks, Korn.
+
+413
+00:30:29,319 --> 00:30:32,119
+I respect your decision, too.
+
+414
+00:30:34,680 --> 00:30:38,160
+And I'll always be here, like a brother, wishing you the best.
+
+415
+00:30:38,160 --> 00:30:40,223
+Don't worry about it.
+
+416
+00:30:44,039 --> 00:30:46,756
+Thanks a lot, Brother Ji.
+
+417
+00:31:16,559 --> 00:31:21,798
+Stop patting me, I'll start crying again.
+
+418
+00:31:23,060 --> 00:31:25,810
+Even when you brace for it,
+
+419
+00:31:25,810 --> 00:31:31,380
+it still stings to hear it all out loud.
+
+420
+00:31:31,380 --> 00:31:33,000
+Right, Korn?
+
+421
+00:31:34,079 --> 00:31:35,696
+Brother…
+
+422
+00:31:35,696 --> 00:31:38,579
+I'm just being honest.
+
+423
+00:31:42,739 --> 00:31:44,776
+Feeling any better?
+
+424
+00:32:01,507 --> 00:32:03,507
+Grandma…
+
+425
+00:32:15,945 --> 00:32:19,670
+You look as down as a drooping sunflower.
+
+426
+00:32:25,259 --> 00:32:30,340
+Grandma, I turned down Ji and Korn.
+
+427
+00:32:31,559 --> 00:32:35,056
+I felt so guilty saying it,
+
+428
+00:32:35,056 --> 00:32:41,116
+but I couldn't lead them on any longer.
+
+429
+00:32:42,140 --> 00:32:44,923
+Didn't you have feelings for either of them?
+
+430
+00:32:47,300 --> 00:32:52,276
+Well, before Korn left for America,
+
+431
+00:32:52,276 --> 00:32:55,176
+I did feel something.
+
+432
+00:32:56,799 --> 00:33:01,410
+But now, everything's changed.
+
+433
+00:33:01,410 --> 00:33:07,460
+Ji, Korn, and I, we've been through so much together.
+
+434
+00:33:07,460 --> 00:33:12,019
+We've shared hardships, chased dreams.
+
+435
+00:33:14,179 --> 00:33:20,580
+The bond I have with both of them,
+
+436
+00:33:20,580 --> 00:33:23,383
+it's deeper than romance.
+
+437
+00:33:25,699 --> 00:33:30,490
+It's good you didn't leave things unresolved.
+
+438
+00:33:35,019 --> 00:33:40,259
+I wonder how they're feeling now.
+
+439
+00:33:47,883 --> 00:33:51,499
+Don't be down, Ji. You know what monks say,
+
+440
+00:33:51,499 --> 00:33:58,870
+"Where there's love, there's bound to be pain. Amen!"
+
+441
+00:33:59,979 --> 00:34:01,956
+Ai-oon.
+
+442
+00:34:15,139 --> 00:34:18,919
+Grandma, what brings you here?
+
+443
+00:34:18,919 --> 00:34:21,983
+I've been missing you, so I decided to drop by.
+
+444
+00:34:32,419 --> 00:34:37,336
+Dream mentioned how lovely your place is.
+
+445
+00:34:37,336 --> 00:34:40,076
+I really should've visited sooner.
+
+446
+00:34:41,340 --> 00:34:43,400
+Next time, just let me know, and I'll come and get you.
+
+447
+00:34:43,400 --> 00:34:45,460
+You shouldn't have to travel all this way alone.
+
+448
+00:34:45,460 --> 00:34:48,119
+It's no bother at all.
+
+449
+00:34:48,119 --> 00:34:56,660
+I just wanted to see you, to see how you're getting on.
+
+450
+00:34:56,660 --> 00:35:02,089
+Living by myself, eating by myself… it's been like this.
+
+451
+00:35:03,332 --> 00:35:05,916
+Maybe I should start visiting you more often, then?
+
+452
+00:35:05,916 --> 00:35:09,543
+Grandma, anytime you miss me,
+
+453
+00:35:09,543 --> 00:35:11,782
+just say the word, and I'll be there.
+
+454
+00:35:17,300 --> 00:35:21,123
+My dear, don't isolate yourself.
+
+455
+00:35:22,139 --> 00:35:28,839
+Whether you're overjoyed or down in the dumps,
+
+456
+00:35:28,839 --> 00:35:32,050
+remember, you can always share a laugh,
+
+457
+00:35:33,449 --> 00:35:39,723
+or shed a tear with me.
+
+458
+00:35:40,740 --> 00:35:42,140
+But, please,
+
+459
+00:35:43,450 --> 00:35:48,750
+don't wallow in solitude, my good boy.
+
+460
+00:36:08,509 --> 00:36:10,288
+Yes, Grandma.
+
+461
+00:36:23,116 --> 00:36:25,663
+Thank you so much.
+
+462
+00:36:28,319 --> 00:36:30,076
+Thank you so much.
+
+463
+00:36:37,500 --> 00:36:39,720
+[Morning Group] [Sandbox]­
+
+464
+00:36:45,660 --> 00:36:52,196
+I always make room for fresh faces.
+
+465
+00:36:53,679 --> 00:36:59,316
+If you've got real talent and the guts to step forward,
+
+466
+00:36:59,316 --> 00:37:01,589
+then come and chat with us.
+
+467
+00:37:01,589 --> 00:37:04,243
+Here at Morning Group,
+
+468
+00:37:04,243 --> 00:37:07,515
+we cherish talent
+
+469
+00:37:07,515 --> 00:37:12,798
+and stand ready to back up every gifted individual.
+
+470
+00:37:13,979 --> 00:37:15,679
+Thank you.
+
+471
+00:37:23,619 --> 00:37:25,683
+I'd like to ask something.
+
+472
+00:37:30,979 --> 00:37:32,479
+Thanks.
+
+473
+00:37:34,302 --> 00:37:43,149
+You claim personnel is the be-all and end-all that organizations must hold onto.
+
+474
+00:37:43,149 --> 00:37:44,739
+Indeed.
+
+475
+00:37:45,380 --> 00:37:49,243
+It's vital to retain top-notch staff,
+
+476
+00:37:49,243 --> 00:37:52,596
+but they need to be under control.
+
+477
+00:37:53,180 --> 00:38:00,003
+Yet, the truly skilled and gifted require their liberty, their room to breathe.
+
+478
+00:38:00,003 --> 00:38:04,703
+Nobody appreciates being stifled or micromanaged.
+
+479
+00:38:05,459 --> 00:38:09,748
+And if a firm can't provide them with stability or advancement opportunities,
+
+480
+00:38:09,748 --> 00:38:12,148
+naturally, they'll move on.
+
+481
+00:38:12,866 --> 00:38:16,682
+It seems, though, that Morning Group prefers those
+
+482
+00:38:16,682 --> 00:38:19,916
+who are more controllable, wouldn't you say?
+
+483
+00:38:20,633 --> 00:38:22,473
+Cat got his tongue?
+
+484
+00:38:25,860 --> 00:38:27,560
+Alice!
+
+485
+00:38:29,499 --> 00:38:34,296
+It's Alisa, not Alice.
+
+486
+00:38:34,296 --> 00:38:37,196
+And I'm no longer your stepdaughter.
+
+487
+00:38:38,860 --> 00:38:43,036
+But still, thank you for everything.
+
+488
+00:38:56,860 --> 00:38:58,360
+Where are you going?
+
+489
+00:39:11,220 --> 00:39:13,020
+Ms. Alice.
+
+490
+00:39:19,440 --> 00:39:21,483
+I owe you an apology.
+
+491
+00:39:22,280 --> 00:39:24,080
+To me?
+
+492
+00:39:24,080 --> 00:39:25,419
+Yes.
+
+493
+00:39:26,082 --> 00:39:27,482
+I…
+
+494
+00:39:28,220 --> 00:39:36,170
+I regret speaking so harshly to you three years ago.
+
+495
+00:39:37,960 --> 00:39:41,663
+I'd like to ask how you feel when
+
+496
+00:39:41,663 --> 00:39:44,519
+someone says you are successful
+
+497
+00:39:44,519 --> 00:39:47,759
+because your father is a wealthy businessman.
+
+498
+00:39:48,860 --> 00:39:50,840
+And if you're really competent,
+
+499
+00:39:50,840 --> 00:39:54,523
+you should start from scratch at Sandbox, shouldn't you?
+
+500
+00:39:57,639 --> 00:40:00,210
+I've been working with someone who insulted me all this time?
+
+501
+00:40:01,639 --> 00:40:07,340
+I was out of line. I didn't even know the whole truth.
+
+502
+00:40:08,419 --> 00:40:10,219
+Sorry.
+
+503
+00:40:12,340 --> 00:40:14,996
+Your insults that day...
+
+504
+00:40:16,357 --> 00:40:21,130
+motivated me until these days,
+
+505
+00:40:23,320 --> 00:40:25,020
+Thank you.
+
+506
+00:40:26,860 --> 00:40:28,260
+Okay.
+
+507
+00:40:29,719 --> 00:40:31,723
+Apology accepted.
+
+508
+00:40:32,599 --> 00:40:34,599
+Thank you.
+
+509
+00:40:34,599 --> 00:40:36,903
+I'll take my leave now.
+
+510
+00:40:47,139 --> 00:40:48,280
+Pretty cool!
+
+511
+00:40:48,280 --> 00:40:50,779
+Thanks, friend.
+
+512
+00:40:51,979 --> 00:40:53,679
+Not you.
+
+513
+00:41:00,220 --> 00:41:02,120
+Korn.
+
+514
+00:41:08,779 --> 00:41:10,479
+Korn.
+
+515
+00:41:10,479 --> 00:41:12,200
+Are you doing all right?
+
+516
+00:41:12,200 --> 00:41:16,180
+I'm hanging in there, thanks to all of you.
+
+517
+00:41:16,180 --> 00:41:19,256
+Let me help mend your spirits.
+
+518
+00:41:19,256 --> 00:41:21,060
+It's all right.
+
+519
+00:41:22,380 --> 00:41:24,623
+I do miss how things used to be.
+
+520
+00:41:32,212 --> 00:41:34,436
+- My friends,
+- Well?
+
+521
+00:41:36,320 --> 00:41:38,263
+I owe you all an apology.
+
+522
+00:41:39,986 --> 00:41:42,186
+I've dragged you into my mess.
+
+523
+00:41:43,180 --> 00:41:46,183
+Had you worked with a better CEO,
+
+524
+00:41:46,183 --> 00:41:49,780
+you wouldn't have had to endure these hardships because I lost my way.
+
+525
+00:41:49,780 --> 00:41:51,380
+Come on.
+
+526
+00:41:51,380 --> 00:41:55,219
+What are you even saying? That's ridiculous.
+
+527
+00:41:55,873 --> 00:41:59,459
+If it were just about the money,
+
+528
+00:41:59,459 --> 00:42:01,869
+I would've left ages ago.
+
+529
+00:42:04,380 --> 00:42:08,480
+Sure, I love a good payday,
+
+530
+00:42:08,480 --> 00:42:12,883
+but I've never once regretted our time together.
+
+531
+00:42:12,883 --> 00:42:17,699
+Even through the tough patches, I found joy.
+
+532
+00:42:21,626 --> 00:42:25,559
+I appreciate you, you're incredible!
+
+533
+00:42:25,559 --> 00:42:28,159
+Chin up, no need for tears.
+
+534
+00:42:28,159 --> 00:42:29,700
+I really mean it, thank you.
+
+535
+00:42:29,700 --> 00:42:31,860
+It's all good.
+
+536
+00:42:31,860 --> 00:42:35,860
+Samkorn Thai Tech!
+
+537
+00:42:35,860 --> 00:42:39,660
+Samkorn Thai Tech!
+
+538
+00:42:39,660 --> 00:42:42,363
+Samkorn Thai Tech!
+
+539
+00:42:45,813 --> 00:42:47,080
+You did this.
+
+540
+00:42:47,080 --> 00:42:49,440
+Why the waterworks?
+
+541
+00:42:50,583 --> 00:42:54,576
+Look, you guys… the sign.
+
+542
+00:42:56,350 --> 00:42:59,360
+[Samkorn Thai Tech­]
+
+543
+00:42:59,360 --> 00:43:01,059
+Why hang the sign up here?
+
+544
+00:43:01,059 --> 00:43:03,340
+Well, it's perfect.
+
+545
+00:43:03,340 --> 00:43:05,940
+We'll get to see it every day now.
+
+546
+00:43:07,700 --> 00:43:09,979
+Funny, their success turned you into a cheerleader.
+
+547
+00:43:09,979 --> 00:43:14,943
+When he was starting up, all you did was discourage him.
+
+548
+00:43:15,656 --> 00:43:20,823
+That's exactly why it's going up.
+
+549
+00:43:20,823 --> 00:43:25,260
+Should Korn ever say or do something that rubs me the wrong way again,
+
+550
+00:43:25,260 --> 00:43:27,079
+I'll bite my tongue.
+
+551
+00:43:27,079 --> 00:43:30,703
+I'll give him my trust, unlike before.
+
+552
+00:43:35,860 --> 00:43:39,338
+It looks great. Mom, check out the logo.
+
+553
+00:43:39,980 --> 00:43:44,420
+[Sandbox]­
+
+554
+00:43:44,420 --> 00:43:45,760
+Remember, the deadline is next week.
+
+555
+00:43:45,760 --> 00:43:48,299
+Mr. Ji, good to see you.
+
+556
+00:43:48,299 --> 00:43:50,195
+Please, prepare the documents in this table.
+
+557
+00:43:50,195 --> 00:43:51,220
+Phakaphon.
+
+558
+00:43:51,220 --> 00:43:51,979
+Yes.
+
+559
+00:43:51,979 --> 00:43:54,299
+What is this?
+
+560
+00:43:54,299 --> 00:43:56,268
+Someone sent me an email.
+
+561
+00:43:56,268 --> 00:43:58,900
+It is an application that supports orphans.
+
+562
+00:43:58,900 --> 00:44:02,399
+I think it's interesting. So I want you to read it.
+
+563
+00:44:02,399 --> 00:44:03,979
+Give me some details.
+
+564
+00:44:03,979 --> 00:44:08,180
+It's a startup that connects orphans with
+
+565
+00:44:08,180 --> 00:44:10,880
+homes and guardians.
+
+566
+00:44:10,880 --> 00:44:13,561
+The CEO is an orphan herself,
+[Dream Fulfillment Project]
+
+567
+00:44:13,561 --> 00:44:15,499
+so she's really dedicated to the cause.
+
+568
+00:44:15,499 --> 00:44:18,661
+I thought you might want to check it out…
+
+569
+00:44:18,661 --> 00:44:20,979
+So they are doing charity without generating revenue.
+
+570
+00:44:20,979 --> 00:44:28,260
+So no reason to spend our partner's hard-earned money on them. Right?
+
+571
+00:44:28,260 --> 00:44:31,779
+I know. I'm going to cancel the meeting.
+
+572
+00:44:31,779 --> 00:44:35,243
+Don't. Schedule a meeting with the CEO.
+
+573
+00:44:36,019 --> 00:44:37,519
+Yes, sir.
+
+574
+00:44:41,880 --> 00:44:45,939
+Alice, I'm looking to bring in investors to scale up.
+
+575
+00:44:45,939 --> 00:44:48,923
+Really? Are you sure that's wise?
+
+576
+00:44:48,923 --> 00:44:50,260
+Absolutely!
+
+577
+00:44:50,260 --> 00:44:52,650
+We were finalists in a major bidding competition.
+
+578
+00:44:52,650 --> 00:44:56,936
+It shows we're up to par and have an edge.
+
+579
+00:44:56,936 --> 00:45:04,200
+But taking on investors without any revenue could devalue the company.
+
+580
+00:45:04,200 --> 00:45:07,196
+Plus, you'd be giving up some control.
+
+581
+00:45:07,196 --> 00:45:10,696
+The idea is to boost revenue.
+
+582
+00:45:10,696 --> 00:45:12,679
+We need to build traction first,
+
+583
+00:45:12,679 --> 00:45:15,459
+then consider hedge funding. There's still time.
+
+584
+00:45:15,459 --> 00:45:17,579
+I disagree.
+
+585
+00:45:17,579 --> 00:45:19,340
+If we don't secure the capital to improve our products now,
+
+586
+00:45:19,340 --> 00:45:21,119
+we won't get that traction.
+
+587
+00:45:21,119 --> 00:45:22,119
+I get where you're coming from,
+
+588
+00:45:22,119 --> 00:45:24,760
+but I'm not keen on outside investors right now.
+
+589
+00:45:24,760 --> 00:45:26,459
+It could dilute our executive power
+
+590
+00:45:26,459 --> 00:45:28,963
+and make it harder to steer the company.
+
+591
+00:45:28,963 --> 00:45:33,679
+And remember, your company's value can still skyrocket.
+
+592
+00:45:33,679 --> 00:45:34,860
+Let's not rush this.
+
+593
+00:45:34,860 --> 00:45:36,260
+I still think…
+
+594
+00:45:36,260 --> 00:45:37,970
+Let's leave it there.
+
+595
+00:45:39,139 --> 00:45:41,116
+You've been doing great.
+
+596
+00:45:41,116 --> 00:45:43,636
+No need to rush things.
+
+597
+00:45:46,280 --> 00:45:47,880
+Okay.
+
+598
+00:46:06,840 --> 00:46:08,799
+It's a pleasure to meet you.
+
+599
+00:46:10,760 --> 00:46:12,360
+Likewise.
+
+600
+00:46:22,180 --> 00:46:24,776
+I'm Baipor.
+
+601
+00:46:26,539 --> 00:46:29,309
+I'm Jiraphat.
+
+602
+00:46:31,888 --> 00:46:33,288
+Here you go.
+
+603
+00:46:33,288 --> 00:46:39,679
+We match orphans with families.
+
+604
+00:46:39,679 --> 00:46:45,220
+And if the families need help, we're just a call away through the online system.
+
+605
+00:46:45,220 --> 00:46:47,723
+I've gone through your business plan.
+
+606
+00:46:47,723 --> 00:46:51,799
+Have you considered how much your company is worth?
+
+607
+00:46:53,780 --> 00:46:55,680
+Not yet.
+
+608
+00:46:58,519 --> 00:47:01,199
+And how much are you looking to raise?
+
+609
+00:47:04,019 --> 00:47:08,876
+Around 3 million.
+
+610
+00:47:10,539 --> 00:47:13,859
+I don't think my company will be able to invest in your company.
+
+611
+00:47:17,939 --> 00:47:19,939
+But…
+
+612
+00:47:19,939 --> 00:47:22,356
+I would like to invest personally.
+
+613
+00:47:27,459 --> 00:47:29,623
+I like your voice,
+
+614
+00:47:32,660 --> 00:47:35,470
+it could do a lot of good.
+
+615
+00:47:35,470 --> 00:47:37,539
+I'll put in 3 million myself
+
+616
+00:47:37,539 --> 00:47:40,160
+and add another 10 million as a donation.
+
+617
+00:47:42,619 --> 00:47:47,176
+If that works for you, I'll send over the terms next week.
+
+618
+00:47:50,059 --> 00:47:52,196
+I can't thank you enough.
+
+619
+00:47:54,039 --> 00:47:55,480
+This means the world to us.
+
+620
+00:47:55,480 --> 00:47:57,560
+Don't mention it.
+
+621
+00:47:57,560 --> 00:48:00,690
+I'll see you around.
+
+622
+00:48:01,459 --> 00:48:03,059
+Yes.
+
+623
+00:48:32,180 --> 00:48:34,300
+Whose place is this?
+
+624
+00:48:35,099 --> 00:48:37,476
+It's ours.
+
+625
+00:48:39,820 --> 00:48:41,800
+Nice, let's have a look around.
+
+626
+00:48:41,800 --> 00:48:43,300
+Yeah, let's do that.
+
+627
+00:48:47,700 --> 00:48:49,280
+Who's this in the photo?
+
+628
+00:48:50,220 --> 00:48:51,901
+Such an adorable picture.
+
+629
+00:48:51,901 --> 00:48:54,123
+And there you are.
+
+630
+00:49:08,300 --> 00:49:11,996
+Grandma, what's your take? Do you like the place?
+
+631
+00:49:11,996 --> 00:49:16,294
+It's a big house. Too much for me to clean.
+
+632
+00:49:16,294 --> 00:49:17,119
+Grandma.
+
+633
+00:49:17,119 --> 00:49:21,236
+Listen, Mom, you won't have to lift a finger. I've got it all covered.
+
+634
+00:49:22,480 --> 00:49:25,639
+It's spacious and comfy, sure.
+
+635
+00:49:25,639 --> 00:49:32,049
+But without family, it's just empty space.
+
+636
+00:49:38,559 --> 00:49:43,549
+Grandma, how about we all move in here?
+
+637
+00:49:44,380 --> 00:49:50,510
+I'll come back and look after you, Mom, and Dream.
+
+638
+00:49:50,510 --> 00:49:52,476
+For real?
+
+639
+00:49:52,476 --> 00:49:54,870
+Absolutely, Grandma.
+
+640
+00:50:01,939 --> 00:50:06,700
+I don't need looking after. I'm not a child.
+
+641
+00:50:06,700 --> 00:50:09,523
+But you're the one who needs it most.
+
+642
+00:50:10,199 --> 00:50:12,440
+Look at them, bickering like children again.
+
+643
+00:50:12,440 --> 00:50:13,655
+Right, Grandma?
+
+644
+00:50:13,655 --> 00:50:15,936
+As always.
+
+645
+00:50:44,000 --> 00:50:46,140
+­[Dream Far and Reach It]
+
+646
+00:50:54,180 --> 00:50:56,303
+Is that still around?
+
+647
+00:50:56,303 --> 00:50:59,303
+I thought termites had devoured it by now.
+
+648
+00:51:00,439 --> 00:51:03,099
+This book's tougher than that,
+
+649
+00:51:03,099 --> 00:51:05,596
+not even termites want a bite.
+
+650
+00:51:14,719 --> 00:51:17,339
+I've actually got something for you, too.
+
+651
+00:51:18,459 --> 00:51:20,116
+What's that?
+
+652
+00:51:25,820 --> 00:51:28,480
+You haven't forgotten our little wager, have you?
+
+653
+00:51:29,099 --> 00:51:35,183
+If within 3 years I am as successful as you,
+
+654
+00:51:36,400 --> 00:51:38,956
+you have to pay me a hundred baht.
+
+655
+00:51:39,863 --> 00:51:41,563
+Yes.
+
+656
+00:51:43,660 --> 00:51:45,560
+I do remember.
+
+657
+00:51:46,232 --> 00:51:48,549
+But I'm curious…
+
+658
+00:51:50,073 --> 00:51:54,350
+Do you think I am as successful as you?
+
+659
+00:51:57,960 --> 00:51:59,579
+Not yet.
+
+660
+00:51:59,579 --> 00:52:01,441
+But you will, if you scale up your company.
+
+661
+00:52:01,441 --> 00:52:03,700
+[Scale Up: Capacity improvements, such as production capacity or innovations to boost sales in the same market group]
+
+662
+00:52:03,700 --> 00:52:06,230
+But you said no.
+
+663
+00:52:08,019 --> 00:52:10,419
+So it means…
+
+664
+00:52:10,419 --> 00:52:12,159
+Go ahead,
+
+665
+00:52:13,780 --> 00:52:16,519
+do whatever you want, but give your best.
+
+666
+00:52:18,180 --> 00:52:20,660
+Are you really letting me do this?
+
+667
+00:52:20,660 --> 00:52:24,340
+Despite my warnings, you'll protest.
+
+668
+00:52:24,340 --> 00:52:26,400
+You're stubborn.
+
+669
+00:52:27,573 --> 00:52:29,393
+Just do it.
+
+670
+00:52:35,079 --> 00:52:38,936
+You're great! Whose sister is this?
+
+671
+00:52:38,936 --> 00:52:41,370
+Do your best, okay?
+
+672
+00:52:42,457 --> 00:52:44,657
+I know.
+
+673
+00:52:44,657 --> 00:52:46,676
+Thank you.
+
+674
+00:52:54,679 --> 00:52:57,780
+The CEO of Sunshine wants to scale up her company.
+
+675
+00:52:57,780 --> 00:53:01,900
+She probably saw many opportunities during the bidding competition.
+
+676
+00:53:01,900 --> 00:53:06,280
+I also believe it's about time.
+
+677
+00:53:07,440 --> 00:53:10,940
+So, Sunshine Company wants to find investors.
+
+678
+00:53:10,940 --> 00:53:12,293
+Yes.
+
+679
+00:53:12,293 --> 00:53:20,731
+Please recommend investors who are interested in this business.
+
+680
+00:53:21,719 --> 00:53:23,740
+I can't do that.
+
+681
+00:53:23,740 --> 00:53:27,499
+I can't recommend you any investors.
+
+682
+00:53:28,800 --> 00:53:30,419
+Why?
+
+683
+00:53:30,419 --> 00:53:34,010
+Or do you think it's still too early?
+
+684
+00:53:34,800 --> 00:53:38,140
+I wouldn't hand over this opportunity to other investors.
+
+685
+00:53:40,260 --> 00:53:42,443
+I'll invest myself.
+
+686
+00:53:43,712 --> 00:53:45,212
+Huh?
+
+687
+00:53:46,639 --> 00:53:51,139
+I've been interested in them since they were Samkorn Thai Tech.
+
+688
+00:53:51,139 --> 00:53:55,359
+And thought that one day I would make the investment.
+
+689
+00:53:56,340 --> 00:53:58,280
+In addition,
+
+690
+00:54:00,943 --> 00:54:05,263
+you two were the beginning of this place.
+
+691
+00:54:05,263 --> 00:54:07,510
+I want to support you.
+
+692
+00:54:13,300 --> 00:54:15,200
+Thank you.
+
+693
+00:54:20,380 --> 00:54:22,260
+I'm not doing it.
+
+694
+00:54:23,070 --> 00:54:27,070
+Why? You're the right one.
+
+695
+00:54:27,070 --> 00:54:31,219
+No one knows Sunshine Company better than you.
+
+696
+00:54:32,180 --> 00:54:35,063
+Mr. Ji still can't move on.
+
+697
+00:54:38,139 --> 00:54:43,739
+Sunshine Company has a lot more potential than they think of themselves.
+
+698
+00:54:44,380 --> 00:54:48,456
+We can't let other investors snap them from us.
+
+699
+00:54:49,300 --> 00:54:51,476
+Get it done.
+
+700
+00:54:57,380 --> 00:54:59,480
+Ms. Rose…
+
+701
+00:55:17,579 --> 00:55:19,216
+How's it going?
+
+702
+00:55:19,740 --> 00:55:21,740
+Feeling better?
+
+703
+00:55:21,740 --> 00:55:23,480
+I'm okay.
+
+704
+00:55:24,360 --> 00:55:26,500
+Been through it a couple of times myself.
+
+705
+00:55:28,700 --> 00:55:32,616
+Though, probably not as rough as what you've been dealing with, Brother.
+
+706
+00:55:33,780 --> 00:55:35,781
+It's something you can get used to.
+
+707
+00:55:41,539 --> 00:55:44,140
+So, what's up? Why the call?
+
+708
+00:55:49,199 --> 00:55:52,199
+Ms. Roslin has shown some interest in investing in your venture.
+
+709
+00:55:53,979 --> 00:55:56,220
+And you're telling me this because…?
+
+710
+00:55:56,220 --> 00:55:58,600
+Why not just head to the office?
+
+711
+00:55:59,960 --> 00:56:03,560
+Or is it that you're avoiding the CEO?
+
+712
+00:56:05,900 --> 00:56:07,419
+No, it's not that.
+
+713
+00:56:07,419 --> 00:56:09,380
+I wanted to check with you first.
+
+714
+00:56:09,380 --> 00:56:11,980
+Are you open to this investment?
+
+715
+00:56:13,579 --> 00:56:18,020
+So if I say no, you've got a ready-made excuse for Rose?
+
+716
+00:56:20,820 --> 00:56:22,960
+You've made it clear before,
+
+717
+00:56:23,660 --> 00:56:25,956
+that you didn't want my money involved.
+
+718
+00:56:29,579 --> 00:56:31,499
+True.
+
+719
+00:56:31,499 --> 00:56:33,499
+I don't.
+
+720
+00:56:33,499 --> 00:56:36,069
+Okay. That's it.
+
+721
+00:56:36,069 --> 00:56:38,119
+I'll let Ms. Rose know.
+
+722
+00:56:39,180 --> 00:56:41,209
+Hold on, Mr. Ji.
+
+723
+00:56:47,320 --> 00:56:51,323
+I'd like your genuine take on this.
+
+724
+00:56:52,340 --> 00:56:56,180
+Just give it to me straight, emotions aside.
+
+725
+00:56:56,180 --> 00:56:58,300
+What's your verdict?
+
+726
+00:57:03,000 --> 00:57:05,239
+You remember my track record, right?
+
+727
+00:57:06,939 --> 00:57:08,939
+I do.
+
+728
+00:57:08,939 --> 00:57:12,200
+Among the companies, you decided not to invest in,
+
+729
+00:57:12,200 --> 00:57:14,930
+none succeeded.
+
+730
+00:57:15,419 --> 00:57:18,000
+If I let Sunshine Company slip by,
+
+731
+00:57:18,000 --> 00:57:20,459
+I'll break that streak.
+
+732
+00:57:20,459 --> 00:57:27,560
+For an investor, it's a chance I'd hate to miss out on.
+
+733
+00:57:31,639 --> 00:57:33,476
+Then go for it.
+
+734
+00:57:35,423 --> 00:57:40,419
+You turned down my offer before heading to the States.
+
+735
+00:57:40,419 --> 00:57:43,636
+Why would you consider it now?
+
+736
+00:57:43,636 --> 00:57:49,156
+Because now, my tech is your Plan A.
+
+737
+00:57:50,019 --> 00:57:52,436
+I'm nobody's second choice…
+
+738
+00:57:55,380 --> 00:57:58,300
+So, yeah, let's make it happen.
+
+739
+00:57:59,630 --> 00:58:02,876
+Thanks a ton, Brother.
+
+740
+00:58:04,539 --> 00:58:06,600
+I should thank you.
+
+741
+00:58:15,220 --> 00:58:17,599
+So, how confident are you about the final pitch?
+
+742
+00:58:17,599 --> 00:58:20,659
+I'd say about 99.9% there.
+
+743
+00:58:20,659 --> 00:58:22,639
+And the tiny 0.01%?
+
+744
+00:58:22,639 --> 00:58:26,660
+That's just in case luck's not on my side,
+
+745
+00:58:26,660 --> 00:58:31,443
+or if Uranus aligns weirdly with my horoscope or something.
+
+746
+00:58:31,443 --> 00:58:33,002
+Cut the crap.
+
+747
+00:58:33,002 --> 00:58:35,919
+Hey, I'm just messing with you.
+
+748
+00:58:35,919 --> 00:58:37,579
+I've got this.
+
+749
+00:58:37,579 --> 00:58:41,339
+I mean, we're aiming to be the next big Unicorn, right?
+
+750
+00:58:41,339 --> 00:58:42,740
+Always the big dreamer, huh?
+[Unicorn: Start-ups worth more than one billion USD]
+
+751
+00:58:42,740 --> 00:58:45,419
+I'm serious! It's not just talk.
+
+752
+00:58:45,419 --> 00:58:46,499
+Sure sounds like it!
+
+753
+00:58:46,499 --> 00:58:49,256
+Never doubt what young folks can pull off.
+
+754
+00:58:50,079 --> 00:58:53,750
+You make it sound like we're ancient or something.
+
+755
+00:58:55,499 --> 00:58:58,959
+But we've got this, right, Dream?
+
+756
+00:58:59,639 --> 00:59:00,721
+Absolutely…
+
+757
+00:59:00,721 --> 00:59:06,610
+Let's give it our all, reach for those stars!
+
+758
+00:59:08,579 --> 00:59:10,740
+Are we teaming up or what?
+
+759
+00:59:10,740 --> 00:59:13,519
+Am I a lone wolf here?
+
+760
+00:59:18,551 --> 00:59:20,250
+Come on, let's do this!
+
+761
+00:59:43,792 --> 00:59:48,660
+Hello, I am Pafun, CEO of Sunshine Company.
+
+762
+00:59:48,660 --> 00:59:54,763
+And today we will take you into the Miracle World.
+
+763
+00:59:56,599 --> 01:00:02,483
+Finally, we can all create a world where we can live happily together.
+
+764
+01:00:03,340 --> 01:00:12,109
+A safe world with advanced and convenient technology that leaves no one behind.
+
+765
+01:00:12,109 --> 01:00:15,380
+No matter how far we go,
+
+766
+01:00:15,380 --> 01:00:19,400
+I won't forget to put my heart into it.
+
+767
+01:00:19,400 --> 01:00:23,209
+It looks like it was time for your medicine five minutes back.
+
+768
+01:00:23,209 --> 01:00:26,379
+Angie is calling Ms. Sa.
+
+769
+01:00:30,454 --> 01:00:31,079
+Hey, child.
+
+770
+01:00:31,079 --> 01:00:34,240
+Hey Grandma, what's up? Did you remember to take your meds?
+
+771
+01:00:34,240 --> 01:00:41,220
+I'm on a run. Angie's giving me an earful.
+
+772
+01:00:41,220 --> 01:00:43,217
+Ugh… Angie, you have such a big mouth.
+
+773
+01:00:43,217 --> 01:00:45,051
+♫ I'm begging for the star to shine me back the light ♫
+
+774
+01:00:45,051 --> 01:00:48,381
+[Let's make dreams come true!]
+♫ I'm begging for the star to shine me back the light ♫
+
+775
+01:00:48,381 --> 01:00:51,285
+[Don't be afraid to start over.]
+♫ I'm shouting to the sky but there's no reply ♫
+
+776
+01:00:51,285 --> 01:00:53,620
+[Believe in your dream.]
+♫ I'm sick of running in the maze with eyes fully blind ♫
+
+777
+01:00:53,620 --> 01:00:57,481
+[To change the world.]
+♫ I'm sick of running in the maze with eyes fully blind ♫
+
+778
+01:00:57,481 --> 01:00:58,639
+♫ But how can I turn back time? ♫
+
+779
+01:00:58,639 --> 01:01:02,740
+Together, the four of us are going to chase our dreams
+
+780
+01:01:02,740 --> 01:01:05,679
+to make this world a better place.
+♫ And have you here in my arms ♫
+
+781
+01:01:14,251 --> 01:01:19,720
+[Follow Your Dream]
+
+782
+01:01:19,720 --> 01:01:21,975
+Is that all?
+
+783
+01:01:21,975 --> 01:01:23,820
+[5 Years Later]
+
+784
+01:01:23,820 --> 01:01:26,360
+Dad…
+
+785
+01:01:26,360 --> 01:01:28,360
+Sunshine…
+
+786
+01:01:30,260 --> 01:01:32,670
+- Oh, careful!
+
+787
+01:01:32,679 --> 01:01:35,940
+You miss Uncle Korn, don't you?
+
+788
+01:01:35,940 --> 01:01:38,940
+Uncle? So you miss Auntie Dream too, right?
+
+789
+01:01:38,940 --> 01:01:41,840
+Auntie? Just call me Sister, all right, Sunshine?
+
+790
+01:01:41,840 --> 01:01:43,780
+It's Sister Dream for you, okay?
+
+791
+01:01:45,463 --> 01:01:47,360
+Hey, Grandma. Hi, Mom.
+
+792
+01:01:47,360 --> 01:01:49,300
+Sunshine, why'd you leave me behind?
+
+793
+01:01:49,300 --> 01:01:51,280
+No worries, kiddo.
+
+794
+01:01:51,280 --> 01:01:52,820
+You think you can handle her for one day?
+
+795
+01:01:52,820 --> 01:01:54,163
+It's all good, buddy.
+
+796
+01:01:54,163 --> 01:01:56,239
+But man, Sunshine's sprouting up quickly!
+
+797
+01:01:56,239 --> 01:02:00,019
+Seeing her like this… kind of makes me want a kid of my own.
+
+798
+01:02:00,019 --> 01:02:01,660
+How about finding a girlfriend first, Brother Ji?
+
+799
+01:02:01,660 --> 01:02:06,239
+I've been too busy looking out for you guys to even think about dating.
+
+800
+01:02:09,159 --> 01:02:11,620
+Mr. Ji, you've turned the pork into charcoal!
+
+801
+01:02:14,323 --> 01:02:16,296
+Alice, scoot over.
+
+802
+01:02:36,556 --> 01:02:41,632
+♫ I'm begging for the star to shine me back the light ♫
+
+803
+01:02:41,632 --> 01:02:46,527
+♫ I'm shouting to the sky but there's no reply ♫
+
+804
+01:02:46,527 --> 01:02:49,074
+♫ I'm sick of running in the maze with eyes fully blind ♫
+
+805
+01:02:49,074 --> 01:02:51,526
+The wind's picked up again.
+
+806
+01:02:51,526 --> 01:02:54,815
+But now, it's a gentle breeze of joy
+
+807
+01:02:54,815 --> 01:02:57,449
+wrapping us in warmth.
+
+808
+01:02:57,449 --> 01:03:01,636
+They are my family, my encouragement.
+
+809
+01:03:01,636 --> 01:03:05,319
+Together, we share laughter and tears,
+
+810
+01:03:05,319 --> 01:03:07,692
+and we fulfill our dreams side by side.
+
+811
+01:03:07,692 --> 01:03:10,967
+♫ I'm sick of running in the maze with eyes fully blind ♫
+
+812
+01:03:10,967 --> 01:03:14,617
+♫ But how can I turn back time? ♫
+
+813
+01:03:14,617 --> 01:03:20,446
+♫ and have you here in my arms ♫
+
+814
+01:03:21,010 --> 01:03:24,990
+Final Credit
+
+815
+01:03:24,990 --> 01:03:28,980
+Final Credit
+
+816
+01:03:28,980 --> 01:03:32,950
+Final Credit
+
+817
+01:03:32,950 --> 01:03:37,150
+Final Credit
+
+818
+01:03:37,150 --> 01:03:41,010
+Final Credit
+
+819
+01:03:41,010 --> 01:03:44,990
+Final Credit
+
+820
+01:03:50,880 --> 01:03:55,240
+♫ It’s like the stars have been snuffed out ♫
+
+821
+01:03:55,240 --> 01:04:00,060
+♫ It’s not the same, they’re not shining enough for me to see the way ♫
+
+822
+01:04:00,060 --> 01:04:05,000
+♫ The fading sky ends up in darkness ♫
+
+823
+01:04:05,000 --> 01:04:09,870
+♫ There’s no hand for me to hold from someone who was once beside me ♫
+
+824
+01:04:09,870 --> 01:04:14,830
+♫ I’m going in circles in the same place ♫
+
+825
+01:04:14,830 --> 01:04:19,700
+♫ Where we used to be before you abandoned me ♫
+
+826
+01:04:19,700 --> 01:04:24,480
+♫ However much I run, whatever I do ♫
+
+827
+01:04:24,480 --> 01:04:30,010
+♫ I find only exhaustion ♫
+
+828
+01:04:30,010 --> 01:04:34,850
+♫ When I close my eyes, I still see your image ♫
+
+829
+01:04:34,850 --> 01:04:39,900
+♫ Whichever way I look, I still see you ♫
+
+830
+01:04:39,900 --> 01:04:46,830
+♫ I still don’t know how to endure this, I still don’t know ♫
+
+831
+01:04:46,830 --> 01:04:52,000
+♫ When will the stars in the sky return and shine again? ♫
+
+832
+01:04:52,000 --> 01:04:56,870
+♫ Shining so I can see the way, shining so I can find you ♫
