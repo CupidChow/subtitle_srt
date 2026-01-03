@@ -1,53 +1,53 @@
 1
 00:00:34,451 --> 00:00:37,412
-<i>The Asian artist chart has been released.</i>
+{\an8}<i>The Asian artist chart has been released.</i>
 
 2
 00:00:37,495 --> 00:00:42,250
-<i>Just like last year, Korean artists</i>
+{\an8}<i>Just like last year, Korean artists</i>
 <i>have once again made it onto the chart.</i>
 
 3
 00:00:43,084 --> 00:00:44,127
-And this one too.
+{\an8}And this one too.
 
 4
 00:00:44,210 --> 00:00:46,087
-Just 3,000 won more, please.
+{\an8}Just 3,000 won more, please.
 
 5
 00:00:46,171 --> 00:00:48,798
-<i>The Asia Artist Chart compiles…</i>
+{\an8}<i>The Asia Artist Chart compiles…</i>
 
 6
 00:00:50,091 --> 00:00:52,343
-- Thank you.
+{\an8}- Thank you.
 - Have a good day.
 
 7
 00:00:52,427 --> 00:00:56,389
-<i>This makes the news even more promising.</i>
+{\an8}<i>This makes the news even more promising.</i>
 
 8
 00:00:57,265 --> 00:00:58,683
-<i>Next up,</i>
+{\an8}<i>Next up,</i>
 
 9
 00:00:58,767 --> 00:01:02,479
-<i>Gold Boys' Ra-ik caught up</i>
+{\an8}<i>Gold Boys' Ra-ik caught up</i>
 <i>in a dating rumor</i>
 
 10
 00:01:02,562 --> 00:01:06,649
-<i>with a trainee from the same label.</i>
+{\an8}<i>with a trainee from the same label.</i>
 
 11
 00:01:06,733 --> 00:01:12,363
-<i>The agency remains silent.</i>
+{\an8}<i>The agency remains silent.</i>
 
 12
 00:01:12,447 --> 00:01:15,408
-<i>Some reports say</i>
+{\an8}<i>Some reports say</i>
 <i>the two first met years ago…</i>
 
 13
@@ -57,7 +57,7 @@ RUMORED TO BE DATING A TRAINEE?
 
 14
 00:01:26,753 --> 00:01:27,921
-WHO IS HIS RUMORED LOVE?
+{\an8}WHO IS HIS RUMORED LOVE?
 
 15
 00:01:46,397 --> 00:01:49,484
@@ -1546,11 +1546,11 @@ If you get tangled up
 
 359
 00:25:28,443 --> 00:25:30,654
-So you just cut off on your own?
+{\an8}So you just cut off on your own?
 
 360
 00:25:30,737 --> 00:25:32,280
-Without even telling me?
+{\an8}Without even telling me?
 
 361
 00:25:32,364 --> 00:25:35,867
@@ -1585,7 +1585,7 @@ is that there are secrets between us now.
 
 368
 00:25:57,097 --> 00:25:59,724
-IT'LL ONLY TAKE A MINUTE
+{\an8}IT'LL ONLY TAKE A MINUTE
 I NEED TO TELL YOU SOMETHING
 
 369
@@ -1626,7 +1626,7 @@ HONG HYE-JOO
 
 378
 00:26:50,358 --> 00:26:52,736
-<i>I'm at our usual spot.</i>
+{\an8}<i>I'm at our usual spot.</i>
 
 379
 00:26:52,819 --> 00:26:54,571
@@ -1660,7 +1660,7 @@ you'd really understand.
 
 386
 00:27:32,067 --> 00:27:34,527
-I don't want to keep in touch with you.
+{\an8}I don't want to keep in touch with you.
 
 387
 00:27:34,611 --> 00:27:37,280
@@ -2578,7 +2578,7 @@ all in one.
 
 603
 00:48:16,101 --> 00:48:19,855
-And this one's
+{\an8}And this one's
 the Optimized Fucoidan capsules.
 
 604
@@ -2810,7 +2810,7 @@ after Do Ra-ik returned home,
 
 655
 00:52:53,879 --> 00:52:56,256
-there's a call
+{\an8}there's a call
 between him and Kang Woo-seong.
 
 656
@@ -3243,58 +3243,59 @@ Se-na!
 
 754
 01:00:37,216 --> 01:00:38,801
-<i>I've never been loved.</i>
+{\an8}<i>I've never been loved.</i>
 
 755
 01:00:38,885 --> 01:00:40,219
-What are you doing?
+{\an8}What are you doing?
 
 756
 01:00:40,303 --> 01:00:42,180
-I don't know how to give love
+{\an8}I don't know how to give love
 
 757
 01:00:42,263 --> 01:00:43,598
-<i>or receive it.</i>
+{\an8}<i>or receive it.</i>
 
 758
 01:00:43,681 --> 01:00:45,266
-Are you saying someone did it?
+{\an8}Are you saying someone did it?
 
 759
 01:00:45,350 --> 01:00:46,267
-Doesn't feel right.
+{\an8}Doesn't feel right.
 
 760
 01:00:46,351 --> 01:00:49,937
-If someone really held
+{\an8}If someone really held
 a grudge against me…
 
 761
 01:00:50,021 --> 01:00:51,522
-Why did you lie?
+{\an8}Why did you lie?
 
 762
 01:00:51,606 --> 01:00:53,274
-It's…
+{\an8}It's…
 
 763
 01:00:53,358 --> 01:00:54,692
-I don't really know.
+{\an8}I don't really know.
 
 764
 01:00:55,318 --> 01:00:57,987
-If needed, you should consider
+{\an8}If needed, you should consider
 
 765
 01:00:58,071 --> 01:00:59,572
-shaping the flow yourself.
+{\an8}shaping the flow yourself.
 
 766
 01:00:59,656 --> 01:01:03,034
-So you're telling me to drop my client?
+{\an8}So you're telling me to drop my client?
 
 767
 01:01:03,576 --> 01:01:08,581
-Subtitle translation by:
+{\an8}Subtitle translation by:
 Milena Martirosyan
+
