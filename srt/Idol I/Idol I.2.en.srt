@@ -28,11 +28,11 @@ Universe's best, Do Ra-ik!
 
 8
 00:01:15,700 --> 00:01:16,910
-He's so handsome.
+{\an8}He's so handsome.
 
 9
 00:01:22,207 --> 00:01:23,750
-I love you, Do Ra-ik!
+{\an8}I love you, Do Ra-ik!
 
 10
 00:01:36,554 --> 00:01:37,472
@@ -161,11 +161,11 @@ To find that out, I need your statement.
 
 40
 00:03:18,072 --> 00:03:20,992
-I need to know exactly what happened,
+{\an8}I need to know exactly what happened,
 
 41
 00:03:21,534 --> 00:03:23,453
-whether anyone else came by,
+{\an8}whether anyone else came by,
 
 42
 00:03:23,953 --> 00:03:27,540
@@ -178,7 +178,7 @@ a grudge against you or Woo-seong.
 
 44
 00:03:29,751 --> 00:03:33,296
-<i>Ra-ik, I know it's you.</i>
+{\an8}<i>Ra-ik, I know it's you.</i>
 
 45
 00:03:33,379 --> 00:03:35,423
@@ -313,44 +313,44 @@ Not doing it, that's my biggest regret.
 
 76
 00:05:02,343 --> 00:05:03,303
-Detective.
+{\an8}Detective.
 
 77
 00:05:04,470 --> 00:05:06,764
-What do you mean he's in a meeting?
+{\an8}What do you mean he's in a meeting?
 
 78
 00:05:06,848 --> 00:05:08,766
-- With whom?
+{\an8}- With whom?
 - Come on.
 
 79
 00:05:09,350 --> 00:05:13,563
-You're already tripping over each other?
+{\an8}You're already tripping over each other?
 
 80
 00:05:15,231 --> 00:05:16,649
-There she is.
+{\an8}There she is.
 
 81
 00:05:23,781 --> 00:05:25,742
-Hey!
+{\an8}Hey!
 
 82
 00:05:30,246 --> 00:05:31,664
-How did you know to come here?
+{\an8}How did you know to come here?
 
 83
 00:05:31,748 --> 00:05:34,208
-Did that jerk, Assistant Jang, report it?
+{\an8}Did that jerk, Assistant Jang, report it?
 
 84
 00:05:36,044 --> 00:05:36,961
-Hey!
+{\an8}Hey!
 
 85
 00:05:38,337 --> 00:05:41,090
-You know, jumping
+{\an8}You know, jumping
 a potential client like that
 
 86
@@ -558,7 +558,7 @@ A murderer.
 
 134
 00:09:13,928 --> 00:09:14,845
-DROPOUT APPLICATION
+{\an8}DROPOUT APPLICATION
 
 135
 00:09:14,929 --> 00:09:18,015
@@ -620,12 +620,12 @@ I'll find a reason to stay alive.
 
 149
 00:10:05,855 --> 00:10:10,860
-<i>I want you to recognize yourself</i>
+{\an8}<i>I want you to recognize yourself</i>
 <i>You've dreamed of</i>
 
 150
 00:10:10,943 --> 00:10:16,532
-<i>So petals can bloom</i>
+{\an8}<i>So petals can bloom</i>
 <i>And color you completely</i>
 
 151
@@ -830,71 +830,71 @@ You created me.
 
 199
 00:13:33,938 --> 00:13:37,858
-So you should decide the answer.
+{\an8}So you should decide the answer.
 
 200
 00:13:40,903 --> 00:13:42,321
-Which one do you want?
+{\an8}Which one do you want?
 
 201
 00:13:43,822 --> 00:13:45,074
-A wrongfully accused victim?
+{\an8}A wrongfully accused victim?
 
 202
 00:13:47,243 --> 00:13:48,160
-Or…
+{\an8}Or…
 
 203
 00:13:50,037 --> 00:13:51,455
-a murderer with two faces?
+{\an8}a murderer with two faces?
 
 204
 00:13:54,166 --> 00:13:55,376
-I…
+{\an8}I…
 
 205
 00:13:58,087 --> 00:13:59,547
-What I want is…
+{\an8}What I want is…
 
 206
 00:14:01,507 --> 00:14:02,508
-the real you.
+{\an8}the real you.
 
 207
 00:14:04,927 --> 00:14:06,262
-The real Ra-ik.
+{\an8}The real Ra-ik.
 
 208
 00:14:08,722 --> 00:14:10,057
-The real Ra-ik?
+{\an8}The real Ra-ik?
 
 209
 00:14:16,647 --> 00:14:17,606
-No…
+{\an8}No…
 
 210
 00:14:19,275 --> 00:14:21,819
-That's not Ra-ik, he's…
+{\an8}That's not Ra-ik, he's…
 
 211
 00:14:24,280 --> 00:14:25,489
-My Ra-ik is…
+{\an8}My Ra-ik is…
 
 212
 00:14:25,573 --> 00:14:26,824
-It's not?
+{\an8}It's not?
 
 213
 00:14:28,075 --> 00:14:29,201
-Then who is it?
+{\an8}Then who is it?
 
 214
 00:14:30,744 --> 00:14:31,954
-Who is
+{\an8}Who is
 
 215
 00:14:33,372 --> 00:14:34,957
-the real me?
+{\an8}the real me?
 
 216
 00:15:04,862 --> 00:15:05,988
@@ -1030,7 +1030,7 @@ Don't you dare talk when you know nothing.
 
 246
 00:16:37,079 --> 00:16:38,622
-Don't frown.
+{\an8}Don't frown.
 
 247
 00:16:39,123 --> 00:16:42,543
@@ -1301,16 +1301,16 @@ And think about it.
 
 305
 00:20:58,924 --> 00:21:02,219
-Someone was dying right outside,
+{\an8}Someone was dying right outside,
 there's no way he wouldn't have known.
 
 306
 00:21:02,302 --> 00:21:03,637
-Does that make any sense to you?
+{\an8}Does that make any sense to you?
 
 307
 00:21:03,720 --> 00:21:06,598
-GOLDIE ENTERTAINMENT'S STOCK PLUNGES
+{\an8}GOLDIE ENTERTAINMENT'S STOCK PLUNGES
 AFTERMATH OF THE IDOL MURDER CASE?
 
 308
@@ -1669,11 +1669,11 @@ Why…
 
 391
 00:26:33,425 --> 00:26:35,260
-<i>the public pressure will only grow.</i>
+{\an8}<i>the public pressure will only grow.</i>
 
 392
 00:26:35,343 --> 00:26:36,803
-IS THIS THE END FOR GOLD BOYS?
+{\an8}IS THIS THE END FOR GOLD BOYS?
 
 393
 00:26:36,886 --> 00:26:38,722
@@ -1695,7 +1695,7 @@ Punish Do Ra-ik!
 
 397
 00:26:49,190 --> 00:26:53,069
-Severely punish Do Ra-ik
+{\an8}Severely punish Do Ra-ik
 for killing Kang Woo-seong!
 
 398
@@ -2138,7 +2138,7 @@ You and I both know how irrational
 
 495
 00:33:42,437 --> 00:33:43,688
-and reckless that is.
+{\an8}and reckless that is.
 
 496
 00:33:45,565 --> 00:33:47,483
@@ -2489,7 +2489,7 @@ We're not obsessive fans.
 
 575
 00:39:33,871 --> 00:39:36,832
-We're TMB fans.
+{\an8}We're TMB fans.
 
 576
 00:39:37,625 --> 00:39:39,668
@@ -2538,20 +2538,20 @@ What is she talking about?
 
 586
 00:40:05,986 --> 00:40:08,823
-That day Woo-seong ended up like that,
+{\an8}That day Woo-seong ended up like that,
 
 587
 00:40:08,906 --> 00:40:11,325
-- we were tailing the TMB boys.
+{\an8}- we were tailing the TMB boys.
 - Right.
 
 588
 00:40:12,034 --> 00:40:13,828
-How did you even find us?
+{\an8}How did you even find us?
 
 589
 00:40:13,911 --> 00:40:17,998
-Is it okay for you
+{\an8}Is it okay for you
 to go after unrelated people like this?
 
 590
@@ -2801,7 +2801,7 @@ But…
 
 645
 00:44:16,779 --> 00:44:19,031
-Did he really kill Woo-seong?
+{\an8}Did he really kill Woo-seong?
 
 646
 00:44:19,114 --> 00:44:21,867
@@ -2913,12 +2913,12 @@ COURT
 
 671
 00:45:46,243 --> 00:45:48,912
-You look like guilty
+{\an8}You look like guilty
 if you keep your head down.
 
 672
 00:45:49,538 --> 00:45:51,540
-Lift your head, and stand tall.
+{\an8}Lift your head, and stand tall.
 
 673
 00:45:53,959 --> 00:45:54,793
@@ -2960,7 +2960,7 @@ Mr. Do Ra-ik.
 
 682
 00:46:31,538 --> 00:46:33,457
-As long as I'm representing you,
+{\an8}As long as I'm representing you,
 
 683
 00:46:33,540 --> 00:46:35,876
@@ -2992,7 +2992,7 @@ Did not kill Kang Woo-seong.
 
 690
 00:47:01,902 --> 00:47:05,989
-"I do not admit to killing
+{\an8}"I do not admit to killing
 Kang Woo-seong."
 
 691
@@ -3148,21 +3148,21 @@ interrogation record,
 
 724
 00:48:58,101 --> 00:49:00,937
-<i>they repeatedly questioned him</i>
+{\an8}<i>they repeatedly questioned him</i>
 <i>with things like,</i>
 
 725
 00:49:01,021 --> 00:49:03,357
-<i>"There were signs</i>
+{\an8}<i>"There were signs</i>
 <i>that the place had been searched.</i>
 
 726
 00:49:03,440 --> 00:49:05,484
-<i>What exactly were you looking for?"</i>
+{\an8}<i>What exactly were you looking for?"</i>
 
 727
 00:49:05,567 --> 00:49:10,489
-This means the presence of search traces
+{\an8}This means the presence of search traces
 at the scene cannot be excluded.
 
 728
@@ -3308,7 +3308,7 @@ It fired, so that's good enough.
 
 759
 00:51:19,910 --> 00:51:21,244
-He talks well.
+{\an8}He talks well.
 
 760
 00:51:39,638 --> 00:51:41,890
@@ -3330,21 +3330,21 @@ I'll have them come pick you up.
 
 764
 00:52:03,078 --> 00:52:07,123
-<i>The arrest warrant for singer Do Ra-ik</i>
+{\an8}<i>The arrest warrant for singer Do Ra-ik</i>
 <i>has been dismissed.</i>
 
 765
 00:52:07,207 --> 00:52:10,794
-<i>In today's closed warrant review hearing,</i>
+{\an8}<i>In today's closed warrant review hearing,</i>
 
 766
 00:52:10,877 --> 00:52:15,549
-<i>the court determined that he doesn't pose</i>
+{\an8}<i>the court determined that he doesn't pose</i>
 <i>a risk of destroying evidence or fleeing.</i>
 
 767
 00:52:16,091 --> 00:52:18,802
-<i>As a result of this decision,</i>
+{\an8}<i>As a result of this decision,</i>
 <i>he will remain out of custody</i>
 
 768
@@ -3461,58 +3461,59 @@ to my home.
 
 794
 00:59:14,175 --> 00:59:15,927
-<i>I'm Do Ra-ik's lawyer right now.</i>
+{\an8}<i>I'm Do Ra-ik's lawyer right now.</i>
 
 795
 00:59:16,010 --> 00:59:18,012
-<i>I have to protect my client to the end.</i>
+{\an8}<i>I have to protect my client to the end.</i>
 
 796
 00:59:18,638 --> 00:59:20,431
-<i>Is that really the only reason?</i>
+{\an8}<i>Is that really the only reason?</i>
 
 797
 00:59:21,140 --> 00:59:22,475
-<i>Ugh, Maeng-byeon, seriously.</i>
+{\an8}<i>Ugh, Maeng-byeon, seriously.</i>
 
 798
 00:59:22,559 --> 00:59:23,643
-Aren't you scared?
+{\an8}Aren't you scared?
 
 799
 00:59:23,726 --> 00:59:24,602
-Punish Do Ra-ik.
+{\an8}Punish Do Ra-ik.
 
 800
 00:59:24,686 --> 00:59:27,397
-<i>Given the distance, you should have been</i>
+{\an8}<i>Given the distance, you should have been</i>
 <i>back within 20 minutes at the latest.</i>
 
 801
 00:59:27,480 --> 00:59:30,233
-You're hiding something from me, right?
+{\an8}You're hiding something from me, right?
 What is it?
 
 802
 00:59:30,316 --> 00:59:31,526
-<i>Will you even trust me?</i>
+{\an8}<i>Will you even trust me?</i>
 
 803
 00:59:31,609 --> 00:59:32,986
-Until the end.
+{\an8}Until the end.
 
 804
 00:59:33,486 --> 00:59:35,196
-I'll stay by your side.
+{\an8}I'll stay by your side.
 
 805
 00:59:35,280 --> 00:59:37,031
-<i>I will find my memory back somehow.</i>
+{\an8}<i>I will find my memory back somehow.</i>
 
 806
 00:59:37,949 --> 00:59:39,158
-<i>No matter what.</i>
+{\an8}<i>No matter what.</i>
 
 807
 00:59:40,493 --> 00:59:45,498
-Subtitle translation by: Kim Soyeon
+{\an8}Subtitle translation by: Kim Soyeon
+
