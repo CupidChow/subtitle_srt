@@ -1,2493 +1,2493 @@
 1
 00:00:01,560 --> 00:00:02,960
-<i>The new inspector is here.</i>
+<font color="#ffffff"><i>The new inspector is here.</i></font><font color="#ffffff"></font>
 
 2
 00:00:03,040 --> 00:00:04,680
-<i>Hello, Captain Jade.</i>
+<font color="#ffffff"><i>Hello, Captain Jade.</i></font><font color="#ffffff"></font>
 
 3
 00:00:04,760 --> 00:00:06,480
-<i>So you studied abroad.</i>
+<font color="#ffffff"><i>So you studied abroad.</i></font><font color="#ffffff"></font>
 
 4
 00:00:06,560 --> 00:00:09,520
-- Are you as good as those in the movies?
-- I bet you've watched too many movies.
+<font color="#ffffff">-Are you as good as those in the movies?</font><font color="#ffffff">
+<font color="#ffffff">-I bet you've watched too many movies.<font color="#ffffff"></font></font></font>
 
 5
 00:00:10,520 --> 00:00:13,760
-<i>I think these seven kids</i>
-<i>are hiding something from us.</i>
+<font color="#ffffff"><i>I think these seven kids</i></font><font color="#ffffff">
+<font color="#ffffff"><i>are hiding something from us.</i></font><font color="#ffffff"></font></font>
 
 6
 00:00:13,840 --> 00:00:15,800
-<i>And this one is the worst liar.</i>
+<font color="#ffffff"><i>And this one is the worst liar.</i></font><font color="#ffffff"></font>
 
 7
 00:00:15,880 --> 00:00:19,080
-Champ, why did you send me the letter?
-What crap are you trying to pull on me?
+<font color="#ffffff">Champ, why did you send me the letter?</font><font color="#ffffff">
+<font color="#ffffff">What crap are you trying to pull on me?<font color="#ffffff"></font></font></font>
 
 8
 00:00:19,160 --> 00:00:20,160
-Hey!
+<font color="#ffffff">Hey!</font><font color="#ffffff"></font>
 
 9
 00:00:24,520 --> 00:00:26,960
-<i>I'll be in your care from now on,</i>
+<font color="#ffffff"><i>I'll be in your care from now on,</i></font><font color="#ffffff"></font>
 
 10
 00:00:27,040 --> 00:00:28,080
-Inspector Kamin.
+<font color="#ffffff">Inspector Kamin.</font><font color="#ffffff"></font>
 
 11
 00:01:25,120 --> 00:01:26,080
-<i>Hello?</i>
+<font color="#ffffff"><i>Hello?</i></font><font color="#ffffff"></font>
 
 12
 00:01:26,160 --> 00:01:30,400
-Champ, why did you send me the letter?
-What crap are you trying to pull on me?
+<font color="#ffffff">Champ, why did you send me the letter?</font><font color="#ffffff">
+<font color="#ffffff">What crap are you trying to pull on me?<font color="#ffffff"></font></font></font>
 
 13
 00:01:30,480 --> 00:01:32,360
-<i>What the hell is wrong with you, Tar?</i>
+<font color="#ffffff"><i>What the hell is wrong with you, Tar?</i></font><font color="#ffffff"></font>
 
 14
 00:01:33,960 --> 00:01:36,120
-Are you messing with me?
-Where the hell are you?
+<font color="#ffffff">Are you messing with me?</font><font color="#ffffff">
+<font color="#ffffff">Where the hell are you?<font color="#ffffff"></font></font></font>
 
 15
 00:02:29,880 --> 00:02:32,800
-We found midazolam
-in the glasses and the liquor bottle.
+<font color="#ffffff">We found midazolam</font><font color="#ffffff">
+<font color="#ffffff">in the glasses and the liquor bottle.<font color="#ffffff"></font></font></font>
 
 16
 00:02:32,880 --> 00:02:34,880
-It must have been mixed into the bottle
+<font color="#ffffff">It must have been mixed into the bottle</font><font color="#ffffff"></font>
 
 17
 00:02:34,960 --> 00:02:37,520
-since the drug was found in every glass.
+<font color="#ffffff">since the drug was found in every glass.</font><font color="#ffffff"></font>
 
 18
 00:02:41,120 --> 00:02:44,760
-And the glasses only have fingerprints
-from those seven kids, right?
+<font color="#ffffff">And the glasses only have fingerprints</font><font color="#ffffff">
+<font color="#ffffff">from those seven kids, right?<font color="#ffffff"></font></font></font>
 
 19
 00:02:45,480 --> 00:02:46,600
-Correct.
+<font color="#ffffff">Correct.</font><font color="#ffffff"></font>
 
 20
 00:02:47,800 --> 00:02:50,400
-This looks like murder to me.
+<font color="#ffffff">This looks like murder to me.</font><font color="#ffffff"></font>
 
 21
 00:02:51,000 --> 00:02:52,560
-Don't jump to conclusions yet.
+<font color="#ffffff">Don't jump to conclusions yet.</font><font color="#ffffff"></font>
 
 22
 00:02:53,240 --> 00:02:54,960
-We need to wait for the autopsy report.
+<font color="#ffffff">We need to wait for the autopsy report.</font><font color="#ffffff"></font>
 
 23
 00:02:56,160 --> 00:02:57,960
-I'm just stating a possibility, Inspector.
+<font color="#ffffff">I'm just stating a possibility, Inspector.</font><font color="#ffffff"></font>
 
 24
 00:02:59,120 --> 00:03:01,760
-I think whoever drugged them
-was after something.
+<font color="#ffffff">I think whoever drugged them</font><font color="#ffffff">
+<font color="#ffffff">was after something.<font color="#ffffff"></font></font></font>
 
 25
 00:03:02,960 --> 00:03:05,480
-Are you sure you're not using drugs?
+<font color="#ffffff">Are you sure you're not using drugs?</font><font color="#ffffff"></font>
 
 26
 00:03:06,840 --> 00:03:07,800
-I'm clean.
+<font color="#ffffff">I'm clean.</font><font color="#ffffff"></font>
 
 27
 00:03:10,040 --> 00:03:10,880
-Thank you.
+<font color="#ffffff">Thank you.</font><font color="#ffffff"></font>
 
 28
 00:03:10,960 --> 00:03:13,240
-We'll contact you
-if we need anything else.
+<font color="#ffffff">We'll contact you</font><font color="#ffffff">
+<font color="#ffffff">if we need anything else.<font color="#ffffff"></font></font></font>
 
 29
 00:03:13,840 --> 00:03:15,320
-Of course, Inspector.
+<font color="#ffffff">Of course, Inspector.</font><font color="#ffffff"></font>
 
 30
 00:03:15,400 --> 00:03:17,120
-Here are the documents.
+<font color="#ffffff">Here are the documents.</font><font color="#ffffff"></font>
 
 31
 00:03:30,920 --> 00:03:33,000
-If you're sleepy,
-maybe you should take a nap.
+<font color="#ffffff">If you're sleepy,</font><font color="#ffffff">
+<font color="#ffffff">maybe you should take a nap.<font color="#ffffff"></font></font></font>
 
 32
 00:03:36,600 --> 00:03:38,240
-Fine. I'll go to sleep then.
+<font color="#ffffff">Fine. I'll go to sleep then.</font><font color="#ffffff"></font>
 
 33
 00:03:43,280 --> 00:03:45,760
-Why are you staring at me like that?
+<font color="#ffffff">Why are you staring at me like that?</font><font color="#ffffff"></font>
 
 34
 00:03:45,840 --> 00:03:48,280
-You told me to sleep.
+<font color="#ffffff">You told me to sleep.</font><font color="#ffffff"></font>
 
 35
 00:03:51,000 --> 00:03:52,320
-Have you ever heard of sarcasm?
+<font color="#ffffff">Have you ever heard of sarcasm?</font><font color="#ffffff"></font>
 
 36
 00:03:54,880 --> 00:03:56,000
-This is work hours.
+<font color="#ffffff">This is work hours.</font><font color="#ffffff"></font>
 
 37
 00:03:56,080 --> 00:03:58,120
-Why aren't you gathering more info on Tar?
+<font color="#ffffff">Why aren't you gathering more info on Tar?</font><font color="#ffffff"></font>
 
 38
 00:04:09,800 --> 00:04:11,440
-Hello, Lieutenant Pai?
+<font color="#ffffff">Hello, Lieutenant Pai?</font><font color="#ffffff"></font>
 
 39
 00:04:11,520 --> 00:04:13,480
-This is the Captain speaking.
+<font color="#ffffff">This is the Captain speaking.</font><font color="#ffffff"></font>
 
 40
 00:04:13,560 --> 00:04:16,680
-Can you look into a boy named Tar?
+<font color="#ffffff">Can you look into a boy named Tar?</font><font color="#ffffff"></font>
 
 41
 00:04:17,880 --> 00:04:19,920
-I think there's something off about him.
+<font color="#ffffff">I think there's something off about him.</font><font color="#ffffff"></font>
 
 42
 00:04:20,000 --> 00:04:22,440
-<i>Sure. Do you need anything else?</i>
+<font color="#ffffff"><i>Sure. Do you need anything else?</i></font><font color="#ffffff"></font>
 
 43
 00:04:24,440 --> 00:04:27,680
-Check with our undercover team
-about drug dealers around the area too.
+<font color="#ffffff">Check with our undercover team</font><font color="#ffffff">
+<font color="#ffffff">about drug dealers around the area too.<font color="#ffffff"></font></font></font>
 
 44
 00:04:28,920 --> 00:04:30,960
-I think these kids
-might be using something,
+<font color="#ffffff">I think these kids</font><font color="#ffffff">
+<font color="#ffffff">might be using something,<font color="#ffffff"></font></font></font>
 
 45
 00:04:31,040 --> 00:04:33,240
-but I want to know
-where they're getting it from.
+<font color="#ffffff">but I want to know</font><font color="#ffffff">
+<font color="#ffffff">where they're getting it from.<font color="#ffffff"></font></font></font>
 
 46
 00:04:34,240 --> 00:04:35,360
-<i>Understood.</i>
+<font color="#ffffff"><i>Understood.</i></font><font color="#ffffff"></font>
 
 47
 00:04:36,880 --> 00:04:37,800
-I'll leave it to you.
+<font color="#ffffff">I'll leave it to you.</font><font color="#ffffff"></font>
 
 48
 00:04:43,680 --> 00:04:45,960
-So I can go to sleep now, right?
+<font color="#ffffff">So I can go to sleep now, right?</font><font color="#ffffff"></font>
 
 49
 00:04:46,560 --> 00:04:48,120
-You command people with your mouth?
+<font color="#ffffff">You command people with your mouth?</font><font color="#ffffff"></font>
 
 50
 00:04:49,520 --> 00:04:50,880
-That's called teamwork.
+<font color="#ffffff">That's called teamwork.</font><font color="#ffffff"></font>
 
 51
 00:04:51,480 --> 00:04:53,640
-Do you know what dividing tasks is?
+<font color="#ffffff">Do you know what dividing tasks is?</font><font color="#ffffff"></font>
 
 52
 00:04:55,600 --> 00:04:58,400
-And if I want to use my mouth to work,
+<font color="#ffffff">And if I want to use my mouth to work,</font><font color="#ffffff"></font>
 
 53
 00:04:59,480 --> 00:05:00,800
-why not?
+<font color="#ffffff">why not?</font><font color="#ffffff"></font>
 
 54
 00:05:02,600 --> 00:05:04,560
-My mouth works
+<font color="#ffffff">My mouth works</font><font color="#ffffff"></font>
 
 55
 00:05:05,560 --> 00:05:06,800
-pretty well.
+<font color="#ffffff">pretty well.</font><font color="#ffffff"></font>
 
 56
 00:05:19,840 --> 00:05:21,160
-Hello?
+<font color="#ffffff">Hello?</font><font color="#ffffff"></font>
 
 57
 00:05:21,240 --> 00:05:22,440
-<i>Hello, Inspector.</i>
+<font color="#ffffff"><i>Hello, Inspector.</i></font><font color="#ffffff"></font>
 
 58
 00:05:22,520 --> 00:05:24,120
-<i>We have the autopsy results.</i>
+<font color="#ffffff"><i>We have the autopsy results.</i></font><font color="#ffffff"></font>
 
 59
 00:05:24,960 --> 00:05:26,320
-Got it. I'll be right there.
+<font color="#ffffff">Got it. I'll be right there.</font><font color="#ffffff"></font>
 
 60
 00:05:30,000 --> 00:05:32,720
-If you want to hear the results,
-you can come along.
+<font color="#ffffff">If you want to hear the results,</font><font color="#ffffff">
+<font color="#ffffff">you can come along.<font color="#ffffff"></font></font></font>
 
 61
 00:05:33,360 --> 00:05:34,680
-Or take a nap. I'm fine with that.
+<font color="#ffffff">Or take a nap. I'm fine with that.</font><font color="#ffffff"></font>
 
 62
 00:05:50,480 --> 00:05:51,720
-You told me to come with you, right?
+<font color="#ffffff">You told me to come with you, right?</font><font color="#ffffff"></font>
 
 63
 00:05:52,760 --> 00:05:54,040
-Then drive yourself.
+<font color="#ffffff">Then drive yourself.</font><font color="#ffffff"></font>
 
 64
 00:05:54,720 --> 00:05:55,800
-Don't you have a car?
+<font color="#ffffff">Don't you have a car?</font><font color="#ffffff"></font>
 
 65
 00:05:55,880 --> 00:05:57,840
-Just so you know,
+<font color="#ffffff">Just so you know,</font><font color="#ffffff"></font>
 
 66
 00:05:57,920 --> 00:05:59,840
-I'd rather die than ride with you.
+<font color="#ffffff">I'd rather die than ride with you.</font><font color="#ffffff"></font>
 
 67
 00:05:59,920 --> 00:06:01,480
-I'll drive myself.
+<font color="#ffffff">I'll drive myself.</font><font color="#ffffff"></font>
 
 68
 00:06:02,120 --> 00:06:05,400
-And who said you're riding with me?
+<font color="#ffffff">And who said you're riding with me?</font><font color="#ffffff"></font>
 
 69
 00:06:06,680 --> 00:06:13,080
-Do you know 2025
-is the hottest year on record?
+<font color="#ffffff">Do you know 2025</font><font color="#ffffff">
+<font color="#ffffff">is the hottest year on record?<font color="#ffffff"></font></font></font>
 
 70
 00:06:16,280 --> 00:06:18,600
-I'm sorry,
-but why did you even tell me that?
+<font color="#ffffff">I'm sorry,</font><font color="#ffffff">
+<font color="#ffffff">but why did you even tell me that?<font color="#ffffff"></font></font></font>
 
 71
 00:06:19,320 --> 00:06:21,080
-The more we drive,
+<font color="#ffffff">The more we drive,</font><font color="#ffffff"></font>
 
 72
 00:06:21,160 --> 00:06:22,640
-the hotter the planet gets.
+<font color="#ffffff">the hotter the planet gets.</font><font color="#ffffff"></font>
 
 73
 00:06:23,400 --> 00:06:28,400
-A good police officer should care
-about the earth, right, Inspector?
+<font color="#ffffff">A good police officer should care</font><font color="#ffffff">
+<font color="#ffffff">about the earth, right, Inspector?<font color="#ffffff"></font></font></font>
 
 74
 00:06:44,680 --> 00:06:45,840
-Hello, doctor.
+<font color="#ffffff">Hello, doctor.</font><font color="#ffffff"></font>
 
 75
 00:06:47,400 --> 00:06:48,720
-Hello.
+<font color="#ffffff">Hello.</font><font color="#ffffff"></font>
 
 76
 00:06:48,800 --> 00:06:51,720
-We're sorry for the delay, Inspector.
+<font color="#ffffff">We're sorry for the delay, Inspector.</font><font color="#ffffff"></font>
 
 77
 00:06:51,800 --> 00:06:53,760
-Our forensic department is small,
+<font color="#ffffff">Our forensic department is small,</font><font color="#ffffff"></font>
 
 78
 00:06:53,840 --> 00:06:55,240
-so we have limited doctors.
+<font color="#ffffff">so we have limited doctors.</font><font color="#ffffff"></font>
 
 79
 00:06:55,880 --> 00:06:57,280
-It's all right.
+<font color="#ffffff">It's all right.</font><font color="#ffffff"></font>
 
 80
 00:06:57,360 --> 00:06:59,160
-Doctor, what do the test results say?
+<font color="#ffffff">Doctor, what do the test results say?</font><font color="#ffffff"></font>
 
 81
 00:07:00,600 --> 00:07:03,720
-We found three substances
-in the victim's blood.
+<font color="#ffffff">We found three substances</font><font color="#ffffff">
+<font color="#ffffff">in the victim's blood.<font color="#ffffff"></font></font></font>
 
 82
 00:07:04,520 --> 00:07:06,000
-Sodium thiopental,
+<font color="#ffffff">Sodium thiopental,</font><font color="#ffffff"></font>
 
 83
 00:07:06,080 --> 00:07:07,960
-pancuronium bromide,
+<font color="#ffffff">pancuronium bromide,</font><font color="#ffffff"></font>
 
 84
 00:07:08,560 --> 00:07:09,840
-and potassium chloride.
+<font color="#ffffff">and potassium chloride.</font><font color="#ffffff"></font>
 
 85
 00:07:11,960 --> 00:07:15,200
-These three are used
-for death row inmates.
+<font color="#ffffff">These three are used</font><font color="#ffffff">
+<font color="#ffffff">for death row inmates.<font color="#ffffff"></font></font></font>
 
 86
 00:07:15,280 --> 00:07:16,120
-REPORT: THREE SUBSTANCES FOUND
+<font color="#ffffff">REPORT: THREE SUBSTANCES FOUND</font><font color="#ffffff"></font>
 
 87
 00:07:17,120 --> 00:07:21,040
-The cause of death is heart failure.
+<font color="#ffffff">The cause of death is heart failure.</font><font color="#ffffff"></font>
 
 88
 00:07:22,200 --> 00:07:23,720
-What exactly does that mean?
+<font color="#ffffff">What exactly does that mean?</font><font color="#ffffff"></font>
 
 89
 00:07:23,800 --> 00:07:27,480
-These three substances are
-medical-grade drugs
+<font color="#ffffff">These three substances are</font><font color="#ffffff">
+<font color="#ffffff">medical-grade drugs<font color="#ffffff"></font></font></font>
 
 90
 00:07:28,200 --> 00:07:31,160
-that must be controlled
-and used in precise doses.
+<font color="#ffffff">that must be controlled</font><font color="#ffffff">
+<font color="#ffffff">and used in precise doses.<font color="#ffffff"></font></font></font>
 
 91
 00:07:31,240 --> 00:07:36,320
-And here,
-there's a needle mark on her arm.
+<font color="#ffffff">And here,</font><font color="#ffffff">
+<font color="#ffffff">there's a needle mark on her arm.<font color="#ffffff"></font></font></font>
 
 92
 00:07:36,400 --> 00:07:40,040
-Judging from the mark,
-it was injected shortly before she died.
+<font color="#ffffff">Judging from the mark,</font><font color="#ffffff">
+<font color="#ffffff">it was injected shortly before she died.<font color="#ffffff"></font></font></font>
 
 93
 00:07:40,880 --> 00:07:45,760
-So the killer injected all three drugs
-into Puifai, correct?
+<font color="#ffffff">So the killer injected all three drugs</font><font color="#ffffff">
+<font color="#ffffff">into Puifai, correct?<font color="#ffffff"></font></font></font>
 
 94
 00:07:47,080 --> 00:07:47,960
-Yes.
+<font color="#ffffff">Yes.</font><font color="#ffffff"></font>
 
 95
 00:07:48,840 --> 00:07:50,480
-It was injected in an excessive dose.
+<font color="#ffffff">It was injected in an excessive dose.</font><font color="#ffffff"></font>
 
 96
 00:07:51,880 --> 00:07:54,600
-Based on the results,
-I'd consider it a murder.
+<font color="#ffffff">Based on the results,</font><font color="#ffffff">
+<font color="#ffffff">I'd consider it a murder.<font color="#ffffff"></font></font></font>
 
 97
 00:08:04,320 --> 00:08:07,160
-The time of death is 12:15 to 1:00 a.m.
+<font color="#ffffff">The time of death is 12:15 to 1:00 a.m.</font><font color="#ffffff"></font>
 
 98
 00:08:09,520 --> 00:08:10,840
-When did they make the call?
+<font color="#ffffff">When did they make the call?</font><font color="#ffffff"></font>
 
 99
 00:08:11,720 --> 00:08:12,760
-At 2:00 a.m.
+<font color="#ffffff">At 2:00 a.m.</font><font color="#ffffff"></font>
 
 100
 00:08:13,960 --> 00:08:16,000
-So they called the ambulance first.
+<font color="#ffffff">So they called the ambulance first.</font><font color="#ffffff"></font>
 
 101
 00:08:17,080 --> 00:08:18,400
-Correct.
+<font color="#ffffff">Correct.</font><font color="#ffffff"></font>
 
 102
 00:08:18,480 --> 00:08:21,320
-Once we got the call, emergency responders
-were dispatched immediately.
+<font color="#ffffff">Once we got the call, emergency responders</font><font color="#ffffff">
+<font color="#ffffff">were dispatched immediately.<font color="#ffffff"></font></font></font>
 
 103
 00:08:22,840 --> 00:08:27,200
-But aren't you a forensic doctor?
+<font color="#ffffff">But aren't you a forensic doctor?</font><font color="#ffffff"></font>
 
 104
 00:08:28,480 --> 00:08:32,200
-Yes, but we're short-staffed,
-so we help other departments too.
+<font color="#ffffff">Yes, but we're short-staffed,</font><font color="#ffffff">
+<font color="#ffffff">so we help other departments too.<font color="#ffffff"></font></font></font>
 
 105
 00:08:32,280 --> 00:08:34,480
-That night,
-when she called to report the case,
+<font color="#ffffff">That night,</font><font color="#ffffff">
+<font color="#ffffff">when she called to report the case,<font color="#ffffff"></font></font></font>
 
 106
 00:08:34,559 --> 00:08:36,080
-I personally answered it.
+<font color="#ffffff">I personally answered it.</font><font color="#ffffff"></font>
 
 107
 00:08:36,159 --> 00:08:39,679
-I think she called
-sometime after 1:00 a.m.
+<font color="#ffffff">I think she called</font><font color="#ffffff">
+<font color="#ffffff">sometime after 1:00 a.m.<font color="#ffffff"></font></font></font>
 
 108
 00:08:40,919 --> 00:08:42,200
-Hold on.
+<font color="#ffffff">Hold on.</font><font color="#ffffff"></font>
 
 109
 00:08:43,400 --> 00:08:44,520
-She?
+<font color="#ffffff">She?</font><font color="#ffffff"></font>
 
 110
 00:08:45,120 --> 00:08:47,120
-So it was a female caller?
+<font color="#ffffff">So it was a female caller?</font><font color="#ffffff"></font>
 
 111
 00:08:48,640 --> 00:08:50,920
-Yes. It was a female's voice.
+<font color="#ffffff">Yes. It was a female's voice.</font><font color="#ffffff"></font>
 
 112
 00:09:09,080 --> 00:09:11,160
-Then who actually called the ambulance?
+<font color="#ffffff">Then who actually called the ambulance?</font><font color="#ffffff"></font>
 
 113
 00:09:13,440 --> 00:09:15,640
-Cherreen said Tonkla called, didn't she?
+<font color="#ffffff">Cherreen said Tonkla called, didn't she?</font><font color="#ffffff"></font>
 
 114
 00:09:18,200 --> 00:09:21,040
-They might've just been confused
-and given wrong statements.
+<font color="#ffffff">They might've just been confused</font><font color="#ffffff">
+<font color="#ffffff">and given wrong statements.<font color="#ffffff"></font></font></font>
 
 115
 00:09:23,920 --> 00:09:27,880
-Wrong statements
-or intentionally misleading us?
+<font color="#ffffff">Wrong statements</font><font color="#ffffff">
+<font color="#ffffff">or intentionally misleading us?<font color="#ffffff"></font></font></font>
 
 116
 00:09:28,960 --> 00:09:30,040
-Which do you think?
+<font color="#ffffff">Which do you think?</font><font color="#ffffff"></font>
 
 117
 00:09:38,840 --> 00:09:42,600
-Lieutenant Pai reported
-they still can't reach Tar.
+<font color="#ffffff">Lieutenant Pai reported</font><font color="#ffffff">
+<font color="#ffffff">they still can't reach Tar.<font color="#ffffff"></font></font></font>
 
 118
 00:09:46,720 --> 00:09:49,400
-If we want to know
-whether they're messing with us,
+<font color="#ffffff">If we want to know</font><font color="#ffffff">
+<font color="#ffffff">whether they're messing with us,<font color="#ffffff"></font></font></font>
 
 119
 00:09:50,320 --> 00:09:51,960
-we'll have to put pressure on Cherreen.
+<font color="#ffffff">we'll have to put pressure on Cherreen.</font><font color="#ffffff"></font>
 
 120
 00:10:02,080 --> 00:10:03,240
-Where are you?
+<font color="#ffffff">Where are you?</font><font color="#ffffff"></font>
 
 121
 00:10:05,960 --> 00:10:10,320
-When the cops questioned you today,
-did you say anything?
+<font color="#ffffff">When the cops questioned you today,</font><font color="#ffffff">
+<font color="#ffffff">did you say anything?<font color="#ffffff"></font></font></font>
 
 122
 00:10:14,920 --> 00:10:17,600
-Let's meet this evening.
+<font color="#ffffff">Let's meet this evening.</font><font color="#ffffff"></font>
 
 123
 00:10:18,880 --> 00:10:20,520
-Same place.
+<font color="#ffffff">Same place.</font><font color="#ffffff"></font>
 
 124
 00:10:20,600 --> 00:10:21,840
-Cher!
+<font color="#ffffff">Cher!</font><font color="#ffffff"></font>
 
 125
 00:10:25,800 --> 00:10:27,240
-Why are you early?
+<font color="#ffffff">Why are you early?</font><font color="#ffffff"></font>
 
 126
 00:10:28,360 --> 00:10:29,920
-Come on, let's get something to eat.
+<font color="#ffffff">Come on, let's get something to eat.</font><font color="#ffffff"></font>
 
 127
 00:10:41,640 --> 00:10:42,960
-Champ, you asshole!
+<font color="#ffffff">Champ, you asshole!</font><font color="#ffffff"></font>
 
 128
 00:10:45,200 --> 00:10:46,560
-I'M AT THE BAR.
+<font color="#ffffff">I'M AT THE BAR.</font><font color="#ffffff"></font>
 
 129
 00:10:46,640 --> 00:10:47,720
-COME TALK TO ME, ASSHOLE.
+<font color="#ffffff">COME TALK TO ME, ASSHOLE.</font><font color="#ffffff"></font>
 
 130
 00:11:00,360 --> 00:11:01,360
-Hey, relax.
+<font color="#ffffff">Hey, relax.</font><font color="#ffffff"></font>
 
 131
 00:11:01,440 --> 00:11:04,160
-Don't stress. Chill a bit.
+<font color="#ffffff">Don't stress. Chill a bit.</font><font color="#ffffff"></font>
 
 132
 00:11:04,240 --> 00:11:06,440
-Chill? How could I?
+<font color="#ffffff">Chill? How could I?</font><font color="#ffffff"></font>
 
 133
 00:11:06,520 --> 00:11:08,960
-Unlike you, my dad is not a politician.
+<font color="#ffffff">Unlike you, my dad is not a politician.</font><font color="#ffffff"></font>
 
 134
 00:11:10,000 --> 00:11:14,120
-The police called earlier.
-They said they're coming to meet me here.
+<font color="#ffffff">The police called earlier.</font><font color="#ffffff">
+<font color="#ffffff">They said they're coming to meet me here.<font color="#ffffff"></font></font></font>
 
 135
 00:11:15,240 --> 00:11:16,320
-Why?
+<font color="#ffffff">Why?</font><font color="#ffffff"></font>
 
 136
 00:11:17,280 --> 00:11:18,440
-I don't know.
+<font color="#ffffff">I don't know.</font><font color="#ffffff"></font>
 
 137
 00:11:18,520 --> 00:11:20,920
-They just told me to stay here
-and not go anywhere.
+<font color="#ffffff">They just told me to stay here</font><font color="#ffffff">
+<font color="#ffffff">and not go anywhere.<font color="#ffffff"></font></font></font>
 
 138
 00:11:24,600 --> 00:11:29,080
-Champ, can't your dad help me?
+<font color="#ffffff">Champ, can't your dad help me?</font><font color="#ffffff"></font>
 
 139
 00:11:29,720 --> 00:11:31,120
-I'm scared.
+<font color="#ffffff">I'm scared.</font><font color="#ffffff"></font>
 
 140
 00:11:32,160 --> 00:11:33,520
-Scared of what?
+<font color="#ffffff">Scared of what?</font><font color="#ffffff"></font>
 
 141
 00:11:33,600 --> 00:11:35,080
-You didn't do anything wrong.
+<font color="#ffffff">You didn't do anything wrong.</font><font color="#ffffff"></font>
 
 142
 00:11:36,960 --> 00:11:39,640
-You know how panicky I get.
+<font color="#ffffff">You know how panicky I get.</font><font color="#ffffff"></font>
 
 143
 00:11:39,720 --> 00:11:44,200
-What if they ask something
-and I panic and say something stupid?
+<font color="#ffffff">What if they ask something</font><font color="#ffffff">
+<font color="#ffffff">and I panic and say something stupid?<font color="#ffffff"></font></font></font>
 
 144
 00:11:45,000 --> 00:11:46,040
-Please.
+<font color="#ffffff">Please.</font><font color="#ffffff"></font>
 
 145
 00:11:52,800 --> 00:11:55,440
-<i>Are you here yet, asshole?</i>
-<i>Let's get this straight.</i>
+<font color="#ffffff"><i>Are you here yet, asshole?</i></font><font color="#ffffff">
+<font color="#ffffff"><i>Let's get this straight.</i></font><font color="#ffffff"></font></font>
 
 146
 00:11:56,480 --> 00:11:57,720
-Did Tar send that?
+<font color="#ffffff">Did Tar send that?</font><font color="#ffffff"></font>
 
 147
 00:11:58,840 --> 00:12:00,280
-Yeah.
+<font color="#ffffff">Yeah.</font><font color="#ffffff"></font>
 
 148
 00:12:00,360 --> 00:12:02,720
-He called this morning,
-saying he got a letter.
+<font color="#ffffff">He called this morning,</font><font color="#ffffff">
+<font color="#ffffff">saying he got a letter.<font color="#ffffff"></font></font></font>
 
 149
 00:12:02,800 --> 00:12:05,320
-He was talking nonsense, cursing nonstop,
+<font color="#ffffff">He was talking nonsense, cursing nonstop,</font><font color="#ffffff"></font>
 
 150
 00:12:05,400 --> 00:12:07,480
-telling me to meet him at the bar.
+<font color="#ffffff">telling me to meet him at the bar.</font><font color="#ffffff"></font>
 
 151
 00:12:07,560 --> 00:12:09,120
-I don't know if he was high or what.
+<font color="#ffffff">I don't know if he was high or what.</font><font color="#ffffff"></font>
 
 152
 00:12:10,480 --> 00:12:13,360
-I have no idea
-what the hell he was talking about.
+<font color="#ffffff">I have no idea</font><font color="#ffffff">
+<font color="#ffffff">what the hell he was talking about.<font color="#ffffff"></font></font></font>
 
 153
 00:12:13,440 --> 00:12:16,720
-He kept talking about truth or dare
-over and over.
+<font color="#ffffff">He kept talking about truth or dare</font><font color="#ffffff">
+<font color="#ffffff">over and over.<font color="#ffffff"></font></font></font>
 
 154
 00:12:22,560 --> 00:12:23,880
-When are the police coming?
+<font color="#ffffff">When are the police coming?</font><font color="#ffffff"></font>
 
 155
 00:12:23,960 --> 00:12:26,920
-I don't know. I'm hungry.
+<font color="#ffffff">I don't know. I'm hungry.</font><font color="#ffffff"></font>
 
 156
 00:12:27,000 --> 00:12:29,120
-- Should we go eat something first?
-- Hello.
+<font color="#ffffff">-Should we go eat something first?</font><font color="#ffffff">
+<font color="#ffffff">-Hello.<font color="#ffffff"></font></font></font>
 
 157
 00:12:31,600 --> 00:12:33,440
-Oh, officers?
+<font color="#ffffff">Oh, officers?</font><font color="#ffffff"></font>
 
 158
 00:12:34,200 --> 00:12:36,840
-Do you have a problem with my friend?
-You told her to wait here.
+<font color="#ffffff">Do you have a problem with my friend?</font><font color="#ffffff">
+<font color="#ffffff">You told her to wait here.<font color="#ffffff"></font></font></font>
 
 159
 00:12:37,560 --> 00:12:39,600
-We're just asking for your cooperation.
+<font color="#ffffff">We're just asking for your cooperation.</font><font color="#ffffff"></font>
 
 160
 00:12:42,040 --> 00:12:43,240
-Why are you upset?
+<font color="#ffffff">Why are you upset?</font><font color="#ffffff"></font>
 
 161
 00:12:46,680 --> 00:12:47,960
-I'll ask one more time.
+<font color="#ffffff">I'll ask one more time.</font><font color="#ffffff"></font>
 
 162
 00:12:49,080 --> 00:12:51,720
-Who called the hospital
-the night of the incident?
+<font color="#ffffff">Who called the hospital</font><font color="#ffffff">
+<font color="#ffffff">the night of the incident?<font color="#ffffff"></font></font></font>
 
 163
 00:12:51,800 --> 00:12:53,000
-Well…
+<font color="#ffffff">Well…</font><font color="#ffffff"></font>
 
 164
 00:12:53,080 --> 00:12:54,120
-Tonkla did.
+<font color="#ffffff">Tonkla did.</font><font color="#ffffff"></font>
 
 165
 00:12:54,200 --> 00:12:56,280
-But the hospital said
-it was a female's voice.
+<font color="#ffffff">But the hospital said</font><font color="#ffffff">
+<font color="#ffffff">it was a female's voice.<font color="#ffffff"></font></font></font>
 
 166
 00:12:57,480 --> 00:12:59,040
-The caller had a sweet voice.
+<font color="#ffffff">The caller had a sweet voice.</font><font color="#ffffff"></font>
 
 167
 00:12:59,560 --> 00:13:01,200
-Probably a girl in her twenties.
+<font color="#ffffff">Probably a girl in her twenties.</font><font color="#ffffff"></font>
 
 168
 00:13:01,280 --> 00:13:05,120
-It sounded soft and nervous too.
+<font color="#ffffff">It sounded soft and nervous too.</font><font color="#ffffff"></font>
 
 169
 00:13:05,200 --> 00:13:08,560
-It actually sounded a lot like you.
+<font color="#ffffff">It actually sounded a lot like you.</font><font color="#ffffff"></font>
 
 170
 00:13:10,320 --> 00:13:11,600
-So who called?
+<font color="#ffffff">So who called?</font><font color="#ffffff"></font>
 
 171
 00:13:11,680 --> 00:13:14,440
-It's not hard to spot a liar.
+<font color="#ffffff">It's not hard to spot a liar.</font><font color="#ffffff"></font>
 
 172
 00:13:17,800 --> 00:13:19,600
-Maybe we just got confused.
+<font color="#ffffff">Maybe we just got confused.</font><font color="#ffffff"></font>
 
 173
 00:13:20,200 --> 00:13:22,800
-It's just about who called.
-Why are you making it a big deal?
+<font color="#ffffff">It's just about who called.</font><font color="#ffffff">
+<font color="#ffffff">Why are you making it a big deal?<font color="#ffffff"></font></font></font>
 
 174
 00:13:22,880 --> 00:13:27,040
-Whoever called,
-it was still one of my friends, right?
+<font color="#ffffff">Whoever called,</font><font color="#ffffff">
+<font color="#ffffff">it was still one of my friends, right?<font color="#ffffff"></font></font></font>
 
 175
 00:13:27,120 --> 00:13:29,080
-It's because your stories don't tally.
+<font color="#ffffff">It's because your stories don't tally.</font><font color="#ffffff"></font>
 
 176
 00:13:29,920 --> 00:13:31,480
-That's why we're finding out the truth.
+<font color="#ffffff">That's why we're finding out the truth.</font><font color="#ffffff"></font>
 
 177
 00:13:31,560 --> 00:13:34,560
-If you were confused that night,
+<font color="#ffffff">If you were confused that night,</font><font color="#ffffff"></font>
 
 178
 00:13:34,640 --> 00:13:35,960
-that's understandable.
+<font color="#ffffff">that's understandable.</font><font color="#ffffff"></font>
 
 179
 00:13:38,080 --> 00:13:39,720
-You still can't think clearly today?
+<font color="#ffffff">You still can't think clearly today?</font><font color="#ffffff"></font>
 
 180
 00:13:42,920 --> 00:13:45,280
-I… I'm sorry.
+<font color="#ffffff">I… I'm sorry.</font><font color="#ffffff"></font>
 
 181
 00:13:46,440 --> 00:13:48,840
-I was the one who called. I got mixed up.
+<font color="#ffffff">I was the one who called. I got mixed up.</font><font color="#ffffff"></font>
 
 182
 00:13:52,560 --> 00:13:55,800
-Anything else
-you haven't told the truth about?
+<font color="#ffffff">Anything else</font><font color="#ffffff">
+<font color="#ffffff">you haven't told the truth about?<font color="#ffffff"></font></font></font>
 
 183
 00:13:57,640 --> 00:13:58,760
-No.
+<font color="#ffffff">No.</font><font color="#ffffff"></font>
 
 184
 00:14:00,600 --> 00:14:03,640
-And did you two contact Tar?
+<font color="#ffffff">And did you two contact Tar?</font><font color="#ffffff"></font>
 
 185
 00:14:04,480 --> 00:14:05,600
-What about him now?
+<font color="#ffffff">What about him now?</font><font color="#ffffff"></font>
 
 186
 00:14:05,680 --> 00:14:07,480
-You have to go see him again, huh?
+<font color="#ffffff">You have to go see him again, huh?</font><font color="#ffffff"></font>
 
 187
 00:14:09,840 --> 00:14:12,720
-If I find out any of you
-are hiding evidence,
+<font color="#ffffff">If I find out any of you</font><font color="#ffffff">
+<font color="#ffffff">are hiding evidence,<font color="#ffffff"></font></font></font>
 
 188
 00:14:13,840 --> 00:14:17,800
-I will charge you
-with obstruction of justice.
+<font color="#ffffff">I will charge you</font><font color="#ffffff">
+<font color="#ffffff">with obstruction of justice.<font color="#ffffff"></font></font></font>
 
 189
 00:14:20,240 --> 00:14:21,160
-As for you,
+<font color="#ffffff">As for you,</font><font color="#ffffff"></font>
 
 190
 00:14:21,800 --> 00:14:25,360
-I don't care who your father is
-or how powerful he is.
+<font color="#ffffff">I don't care who your father is</font><font color="#ffffff">
+<font color="#ffffff">or how powerful he is.<font color="#ffffff"></font></font></font>
 
 191
 00:14:25,440 --> 00:14:29,400
-Anyone acting suspiciously
-will face charges.
+<font color="#ffffff">Anyone acting suspiciously</font><font color="#ffffff">
+<font color="#ffffff">will face charges.<font color="#ffffff"></font></font></font>
 
 192
 00:14:31,840 --> 00:14:34,080
-Today is the last day I'll go easy on you.
+<font color="#ffffff">Today is the last day I'll go easy on you.</font><font color="#ffffff"></font>
 
 193
 00:14:52,560 --> 00:14:55,680
-But I honestly don't know
-what Tar was rambling about.
+<font color="#ffffff">But I honestly don't know</font><font color="#ffffff">
+<font color="#ffffff">what Tar was rambling about.<font color="#ffffff"></font></font></font>
 
 194
 00:14:55,760 --> 00:14:58,400
-He called me saying he got a letter.
+<font color="#ffffff">He called me saying he got a letter.</font><font color="#ffffff"></font>
 
 195
 00:14:58,480 --> 00:15:00,760
-He accused me
-of sending it to mess with him.
+<font color="#ffffff">He accused me</font><font color="#ffffff">
+<font color="#ffffff">of sending it to mess with him.<font color="#ffffff"></font></font></font>
 
 196
 00:15:01,320 --> 00:15:02,600
-I didn't do anything.
+<font color="#ffffff">I didn't do anything.</font><font color="#ffffff"></font>
 
 197
 00:15:02,680 --> 00:15:03,600
-What letter?
+<font color="#ffffff">What letter?</font><font color="#ffffff"></font>
 
 198
 00:15:03,680 --> 00:15:04,520
-No idea.
+<font color="#ffffff">No idea.</font><font color="#ffffff"></font>
 
 199
 00:15:05,200 --> 00:15:08,400
-Something like a truth or dare letter.
+<font color="#ffffff">Something like a truth or dare letter.</font><font color="#ffffff"></font>
 
 200
 00:15:08,480 --> 00:15:09,880
-Explain it clearly.
+<font color="#ffffff">Explain it clearly.</font><font color="#ffffff"></font>
 
 201
 00:15:10,720 --> 00:15:12,040
-If you can't,
+<font color="#ffffff">If you can't,</font><font color="#ffffff"></font>
 
 202
 00:15:12,840 --> 00:15:14,480
-we'll bring you in for more questioning.
+<font color="#ffffff">we'll bring you in for more questioning.</font><font color="#ffffff"></font>
 
 203
 00:15:15,240 --> 00:15:17,880
-Champ, just tell them.
+<font color="#ffffff">Champ, just tell them.</font><font color="#ffffff"></font>
 
 204
 00:15:17,960 --> 00:15:19,720
-We didn't do anything anyway.
+<font color="#ffffff">We didn't do anything anyway.</font><font color="#ffffff"></font>
 
 205
 00:15:24,480 --> 00:15:26,080
-Let me be clear.
+<font color="#ffffff">Let me be clear.</font><font color="#ffffff"></font>
 
 206
 00:15:26,760 --> 00:15:28,800
-We have nothing to do with this.
+<font color="#ffffff">We have nothing to do with this.</font><font color="#ffffff"></font>
 
 207
 00:15:30,480 --> 00:15:32,160
-<i>Tar may look nerdy,</i>
+<font color="#ffffff"><i>Tar may look nerdy,</i></font><font color="#ffffff"></font>
 
 208
 00:15:32,240 --> 00:15:36,680
-<i>but he wears glasses to hide</i>
-<i>the fact that he's a womanizer.</i>
+<font color="#ffffff"><i>but he wears glasses to hide</i></font><font color="#ffffff">
+<font color="#ffffff"><i>the fact that he's a womanizer.</i></font><font color="#ffffff"></font></font>
 
 209
 00:15:38,200 --> 00:15:41,080
-<i>At first, he pretends he tutors girls.</i>
+<font color="#ffffff"><i>At first, he pretends he tutors girls.</i></font><font color="#ffffff"></font>
 
 210
 00:15:41,160 --> 00:15:42,320
-<i>After tutoring?</i>
+<font color="#ffffff"><i>After tutoring?</i></font><font color="#ffffff"></font>
 
 211
 00:15:43,560 --> 00:15:45,440
-<i>He doesn't send them home.</i>
+<font color="#ffffff"><i>He doesn't send them home.</i></font><font color="#ffffff"></font>
 
 212
 00:15:48,000 --> 00:15:49,440
-<i>He drags them to a hotel.</i>
+<font color="#ffffff"><i>He drags them to a hotel.</i></font><font color="#ffffff"></font>
 
 213
 00:16:04,120 --> 00:16:07,360
-<i>If they resist, he drugs them.</i>
+<font color="#ffffff"><i>If they resist, he drugs them.</i></font><font color="#ffffff"></font>
 
 214
 00:16:10,240 --> 00:16:12,640
-<i>He secretly records</i>
-<i>every girl he sleeps with.</i>
+<font color="#ffffff"><i>He secretly records</i></font><font color="#ffffff">
+<font color="#ffffff"><i>every girl he sleeps with.</i></font><font color="#ffffff"></font></font>
 
 215
 00:16:13,560 --> 00:16:15,800
-<i>That's why none of them dares speak up.</i>
+<font color="#ffffff"><i>That's why none of them dares speak up.</i></font><font color="#ffffff"></font>
 
 216
 00:16:17,160 --> 00:16:20,560
-<i>When he's drunk, he brags about it.</i>
+<font color="#ffffff"><i>When he's drunk, he brags about it.</i></font><font color="#ffffff"></font>
 
 217
 00:16:22,240 --> 00:16:26,040
-<i>But he looks so nerdy</i>
-<i>that no one would suspect him.</i>
+<font color="#ffffff"><i>But he looks so nerdy</i></font><font color="#ffffff">
+<font color="#ffffff"><i>that no one would suspect him.</i></font><font color="#ffffff"></font></font>
 
 218
 00:16:40,320 --> 00:16:42,480
-He told me to meet him at the bar
-to clear things up,
+<font color="#ffffff">He told me to meet him at the bar</font><font color="#ffffff">
+<font color="#ffffff">to clear things up,<font color="#ffffff"></font></font></font>
 
 219
 00:16:42,560 --> 00:16:43,840
-but I didn't go.
+<font color="#ffffff">but I didn't go.</font><font color="#ffffff"></font>
 
 220
 00:16:43,920 --> 00:16:45,000
-He's insane.
+<font color="#ffffff">He's insane.</font><font color="#ffffff"></font>
 
 221
 00:16:45,920 --> 00:16:47,640
-Who the hell has time
-to send him a letter?
+<font color="#ffffff">Who the hell has time</font><font color="#ffffff">
+<font color="#ffffff">to send him a letter?<font color="#ffffff"></font></font></font>
 
 222
 00:16:50,920 --> 00:16:52,400
-Which bar was it?
+<font color="#ffffff">Which bar was it?</font><font color="#ffffff"></font>
 
 223
 00:16:52,480 --> 00:16:54,280
-Drink Me, of course.
+<font color="#ffffff">Drink Me, of course.</font><font color="#ffffff"></font>
 
 224
 00:16:54,360 --> 00:16:56,000
-That's the Avengers' regular place.
+<font color="#ffffff">That's the Avengers' regular place.</font><font color="#ffffff"></font>
 
 225
 00:16:56,640 --> 00:16:58,160
-Hey, stop sounding weird, okay?
+<font color="#ffffff">Hey, stop sounding weird, okay?</font><font color="#ffffff"></font>
 
 226
 00:17:07,119 --> 00:17:08,520
-Hey, hold on.
+<font color="#ffffff">Hey, hold on.</font><font color="#ffffff"></font>
 
 227
 00:17:09,880 --> 00:17:12,720
-So that means Cherreen and I
-are cleared, right?
+<font color="#ffffff">So that means Cherreen and I</font><font color="#ffffff">
+<font color="#ffffff">are cleared, right?<font color="#ffffff"></font></font></font>
 
 228
 00:17:14,640 --> 00:17:16,359
-It's not that easy.
+<font color="#ffffff">It's not that easy.</font><font color="#ffffff"></font>
 
 229
 00:17:16,440 --> 00:17:17,839
-What's with you?
+<font color="#ffffff">What's with you?</font><font color="#ffffff"></font>
 
 230
 00:17:18,560 --> 00:17:20,720
-You called me in
-for an off-the-record interrogation.
+<font color="#ffffff">You called me in</font><font color="#ffffff">
+<font color="#ffffff">for an off-the-record interrogation.<font color="#ffffff"></font></font></font>
 
 231
 00:17:21,319 --> 00:17:22,720
-I told you everything.
+<font color="#ffffff">I told you everything.</font><font color="#ffffff"></font>
 
 232
 00:17:23,960 --> 00:17:25,480
-Why don't you keep your promise?
+<font color="#ffffff">Why don't you keep your promise?</font><font color="#ffffff"></font>
 
 233
 00:17:26,040 --> 00:17:27,319
-What kind of cops are you?
+<font color="#ffffff">What kind of cops are you?</font><font color="#ffffff"></font>
 
 234
 00:17:29,480 --> 00:17:32,000
-We're just collecting information today.
+<font color="#ffffff">We're just collecting information today.</font><font color="#ffffff"></font>
 
 235
 00:17:32,720 --> 00:17:33,920
-Right, Inspector?
+<font color="#ffffff">Right, Inspector?</font><font color="#ffffff"></font>
 
 236
 00:17:35,520 --> 00:17:40,920
-And no one said
-you two are off the suspect list.
+<font color="#ffffff">And no one said</font><font color="#ffffff">
+<font color="#ffffff">you two are off the suspect list.<font color="#ffffff"></font></font></font>
 
 237
 00:17:45,560 --> 00:17:47,200
-But if you didn't do anything wrong,
+<font color="#ffffff">But if you didn't do anything wrong,</font><font color="#ffffff"></font>
 
 238
 00:17:47,280 --> 00:17:50,160
-you don't need to be scared, right?
+<font color="#ffffff">you don't need to be scared, right?</font><font color="#ffffff"></font>
 
 239
 00:17:53,320 --> 00:17:55,760
-Until we find the killer,
+<font color="#ffffff">Until we find the killer,</font><font color="#ffffff"></font>
 
 240
 00:17:56,720 --> 00:18:00,240
-every one of you is still a suspect.
+<font color="#ffffff">every one of you is still a suspect.</font><font color="#ffffff"></font>
 
 241
 00:18:03,000 --> 00:18:04,120
-Let's go.
+<font color="#ffffff">Let's go.</font><font color="#ffffff"></font>
 
 242
 00:18:19,720 --> 00:18:21,000
-You saw that, right?
+<font color="#ffffff">You saw that, right?</font><font color="#ffffff"></font>
 
 243
 00:18:21,800 --> 00:18:23,360
-They were even linking arms.
+<font color="#ffffff">They were even linking arms.</font><font color="#ffffff"></font>
 
 244
 00:18:24,040 --> 00:18:25,520
-I think something's off.
+<font color="#ffffff">I think something's off.</font><font color="#ffffff"></font>
 
 245
 00:18:26,640 --> 00:18:28,800
-No wonder he doesn't even seem sad
+<font color="#ffffff">No wonder he doesn't even seem sad</font><font color="#ffffff"></font>
 
 246
 00:18:29,520 --> 00:18:30,880
-about his girlfriend's death.
+<font color="#ffffff">about his girlfriend's death.</font><font color="#ffffff"></font>
 
 247
 00:18:32,560 --> 00:18:34,880
-Didn't his politician dad
-teach him anything?
+<font color="#ffffff">Didn't his politician dad</font><font color="#ffffff">
+<font color="#ffffff">teach him anything?<font color="#ffffff"></font></font></font>
 
 248
 00:18:35,680 --> 00:18:37,560
-He should have faked some grief
+<font color="#ffffff">He should have faked some grief</font><font color="#ffffff"></font>
 
 249
 00:18:37,640 --> 00:18:39,040
-to hide his side chick.
+<font color="#ffffff">to hide his side chick.</font><font color="#ffffff"></font>
 
 250
 00:19:05,000 --> 00:19:06,520
-Damn it!
+<font color="#ffffff">Damn it!</font><font color="#ffffff"></font>
 
 251
 00:19:06,600 --> 00:19:07,880
-Dude, what's wrong?
+<font color="#ffffff">Dude, what's wrong?</font><font color="#ffffff"></font>
 
 252
 00:19:07,960 --> 00:19:09,440
-Have you been stressed lately?
+<font color="#ffffff">Have you been stressed lately?</font><font color="#ffffff"></font>
 
 253
 00:19:11,560 --> 00:19:13,320
-Thank you.
+<font color="#ffffff">Thank you.</font><font color="#ffffff"></font>
 
 254
 00:19:13,400 --> 00:19:15,600
-Hey, look at that new girl.
+<font color="#ffffff">Hey, look at that new girl.</font><font color="#ffffff"></font>
 
 255
 00:19:15,680 --> 00:19:17,000
-She's as white as snow.
+<font color="#ffffff">She's as white as snow.</font><font color="#ffffff"></font>
 
 256
 00:19:17,840 --> 00:19:19,320
-Let's take your stress off, okay?
+<font color="#ffffff">Let's take your stress off, okay?</font><font color="#ffffff"></font>
 
 257
 00:19:23,000 --> 00:19:26,920
-- Yeah, a little release might help.
-- Fine. I'll set it up.
+<font color="#ffffff">-Yeah, a little release might help.</font><font color="#ffffff">
+<font color="#ffffff">-Fine. I'll set it up.<font color="#ffffff"></font></font></font>
 
 258
 00:19:34,760 --> 00:19:37,760
-Excuse me, my friend's interested.
+<font color="#ffffff">Excuse me, my friend's interested.</font><font color="#ffffff"></font>
 
 259
 00:19:37,840 --> 00:19:39,840
-Do you do off-site work?
+<font color="#ffffff">Do you do off-site work?</font><font color="#ffffff"></font>
 
 260
 00:19:50,960 --> 00:19:53,760
-Wait. You've got a condom?
+<font color="#ffffff">Wait. You've got a condom?</font><font color="#ffffff"></font>
 
 261
 00:19:54,480 --> 00:19:56,400
-No. Who carries one around?
+<font color="#ffffff">No. Who carries one around?</font><font color="#ffffff"></font>
 
 262
 00:19:57,080 --> 00:19:58,680
-Then I won't do it.
+<font color="#ffffff">Then I won't do it.</font><font color="#ffffff"></font>
 
 263
 00:19:58,760 --> 00:20:00,880
-I already paid, so you're doing it.
+<font color="#ffffff">I already paid, so you're doing it.</font><font color="#ffffff"></font>
 
 264
 00:20:00,960 --> 00:20:02,120
-How much?
+<font color="#ffffff">How much?</font><font color="#ffffff"></font>
 
 265
 00:20:02,200 --> 00:20:03,040
-Ten thousand?
+<font color="#ffffff">Ten thousand?</font><font color="#ffffff"></font>
 
 266
 00:20:03,920 --> 00:20:06,640
-I don't want the money. I want safety.
+<font color="#ffffff">I don't want the money. I want safety.</font><font color="#ffffff"></font>
 
 267
 00:20:07,560 --> 00:20:08,520
-You look nerdy.
+<font color="#ffffff">You look nerdy.</font><font color="#ffffff"></font>
 
 268
 00:20:08,600 --> 00:20:10,480
-Don't you know what safe sex is?
+<font color="#ffffff">Don't you know what safe sex is?</font><font color="#ffffff"></font>
 
 269
 00:20:12,960 --> 00:20:13,960
-Is 30,000 enough?
+<font color="#ffffff">Is 30,000 enough?</font><font color="#ffffff"></font>
 
 270
 00:20:15,320 --> 00:20:17,080
-With this,
-you won't have to work for days.
+<font color="#ffffff">With this,</font><font color="#ffffff">
+<font color="#ffffff">you won't have to work for days.<font color="#ffffff"></font></font></font>
 
 271
 00:20:19,280 --> 00:20:22,800
-Fine. Once raw, once with a condom.
+<font color="#ffffff">Fine. Once raw, once with a condom.</font><font color="#ffffff"></font>
 
 272
 00:20:23,520 --> 00:20:24,920
-I'll go get one from my friend.
+<font color="#ffffff">I'll go get one from my friend.</font><font color="#ffffff"></font>
 
 273
 00:20:25,000 --> 00:20:27,440
-Fine. Such a hassle.
+<font color="#ffffff">Fine. Such a hassle.</font><font color="#ffffff"></font>
 
 274
 00:20:50,240 --> 00:20:51,400
-Who are you?
+<font color="#ffffff">Who are you?</font><font color="#ffffff"></font>
 
 275
 00:20:51,480 --> 00:20:52,840
-What are you doing to me?
+<font color="#ffffff">What are you doing to me?</font><font color="#ffffff"></font>
 
 276
 00:20:54,240 --> 00:20:55,400
-Don't come closer!
+<font color="#ffffff">Don't come closer!</font><font color="#ffffff"></font>
 
 277
 00:20:55,480 --> 00:20:56,760
-Help!
+<font color="#ffffff">Help!</font><font color="#ffffff"></font>
 
 278
 00:20:56,840 --> 00:20:57,960
-Asshole!
+<font color="#ffffff">Asshole!</font><font color="#ffffff"></font>
 
 279
 00:21:57,120 --> 00:21:59,520
-Truth or dare?
+<font color="#ffffff">Truth or dare?</font><font color="#ffffff"></font>
 
 280
 00:22:07,400 --> 00:22:09,360
-Truth! I'll talk now!
+<font color="#ffffff">Truth! I'll talk now!</font><font color="#ffffff"></font>
 
 281
 00:22:09,440 --> 00:22:10,720
-Truth!
+<font color="#ffffff">Truth!</font><font color="#ffffff"></font>
 
 282
 00:22:20,120 --> 00:22:23,680
-Did you rape Puifai?
+<font color="#ffffff">Did you rape Puifai?</font><font color="#ffffff"></font>
 
 283
 00:22:25,800 --> 00:22:27,440
-- I didn't!
-- Did you?
+<font color="#ffffff">-I didn't!</font><font color="#ffffff">
+<font color="#ffffff">-Did you?<font color="#ffffff"></font></font></font>
 
 284
 00:22:27,520 --> 00:22:29,200
-I said I didn't!
+<font color="#ffffff">I said I didn't!</font><font color="#ffffff"></font>
 
 285
 00:22:35,480 --> 00:22:38,080
-- Last chance!
-- Wait, okay!
+<font color="#ffffff">-Last chance!</font><font color="#ffffff">
+<font color="#ffffff">-Wait, okay!<font color="#ffffff"></font></font></font>
 
 286
 00:22:38,160 --> 00:22:39,640
-I did it!
+<font color="#ffffff">I did it!</font><font color="#ffffff"></font>
 
 287
 00:22:39,720 --> 00:22:41,160
-I raped Puifai!
+<font color="#ffffff">I raped Puifai!</font><font color="#ffffff"></font>
 
 288
 00:22:52,080 --> 00:22:53,280
-Let me go!
+<font color="#ffffff">Let me go!</font><font color="#ffffff"></font>
 
 289
 00:23:11,680 --> 00:23:13,360
-What are you going to do to me now?
+<font color="#ffffff">What are you going to do to me now?</font><font color="#ffffff"></font>
 
 290
 00:23:13,440 --> 00:23:15,520
-I already told the truth!
+<font color="#ffffff">I already told the truth!</font><font color="#ffffff"></font>
 
 291
 00:23:19,080 --> 00:23:20,240
-Let me go!
+<font color="#ffffff">Let me go!</font><font color="#ffffff"></font>
 
 292
 00:23:20,320 --> 00:23:22,280
-I already told the truth!
+<font color="#ffffff">I already told the truth!</font><font color="#ffffff"></font>
 
 293
 00:23:43,440 --> 00:23:44,280
-Hey.
+<font color="#ffffff">Hey.</font><font color="#ffffff"></font>
 
 294
 00:23:49,000 --> 00:23:52,000
-I think your suit
+<font color="#ffffff">I think your suit</font><font color="#ffffff"></font>
 
 295
 00:23:53,160 --> 00:23:54,440
-looks a bit tight today.
+<font color="#ffffff">looks a bit tight today.</font><font color="#ffffff"></font>
 
 296
 00:23:55,120 --> 00:23:57,960
-- That's none of your business.
-- At least loosen your tie.
+<font color="#ffffff">-That's none of your business.</font><font color="#ffffff">
+<font color="#ffffff">-At least loosen your tie.<font color="#ffffff"></font></font></font>
 
 297
 00:23:58,560 --> 00:24:00,120
-You've worn it all day. Let me help.
+<font color="#ffffff">You've worn it all day. Let me help.</font><font color="#ffffff"></font>
 
 298
 00:24:04,160 --> 00:24:05,760
-Just trust me a bit, okay?
+<font color="#ffffff">Just trust me a bit, okay?</font><font color="#ffffff"></font>
 
 299
 00:24:09,080 --> 00:24:10,560
-Just once.
+<font color="#ffffff">Just once.</font><font color="#ffffff"></font>
 
 300
 00:24:12,080 --> 00:24:13,400
-Let me help.
+<font color="#ffffff">Let me help.</font><font color="#ffffff"></font>
 
 301
 00:24:17,280 --> 00:24:18,280
-Here you go.
+<font color="#ffffff">Here you go.</font><font color="#ffffff"></font>
 
 302
 00:24:19,120 --> 00:24:21,120
-Isn't it uncomfortable
-wearing something so tight?
+<font color="#ffffff">Isn't it uncomfortable</font><font color="#ffffff">
+<font color="#ffffff">wearing something so tight?<font color="#ffffff"></font></font></font>
 
 303
 00:24:23,360 --> 00:24:24,520
-Just undo one button.
+<font color="#ffffff">Just undo one button.</font><font color="#ffffff"></font>
 
 304
 00:24:26,000 --> 00:24:27,120
-That's it.
+<font color="#ffffff">That's it.</font><font color="#ffffff"></font>
 
 305
 00:24:28,120 --> 00:24:29,280
-You're looking sharp.
+<font color="#ffffff">You're looking sharp.</font><font color="#ffffff"></font>
 
 306
 00:24:29,800 --> 00:24:31,240
-Are you satisfied now?
+<font color="#ffffff">Are you satisfied now?</font><font color="#ffffff"></font>
 
 307
 00:24:31,880 --> 00:24:33,920
-All right, let's go inside.
+<font color="#ffffff">All right, let's go inside.</font><font color="#ffffff"></font>
 
 308
 00:24:43,080 --> 00:24:44,040
-Hey?
+<font color="#ffffff">Hey?</font><font color="#ffffff"></font>
 
 309
 00:24:45,680 --> 00:24:46,760
-Hey!
+<font color="#ffffff">Hey!</font><font color="#ffffff"></font>
 
 310
 00:25:16,520 --> 00:25:18,000
-There's nothing here.
+<font color="#ffffff">There's nothing here.</font><font color="#ffffff"></font>
 
 311
 00:25:19,440 --> 00:25:21,160
-You're sure we didn't miss any spots?
+<font color="#ffffff">You're sure we didn't miss any spots?</font><font color="#ffffff"></font>
 
 312
 00:25:21,880 --> 00:25:24,160
-How would I know?
+<font color="#ffffff">How would I know?</font><font color="#ffffff"></font>
 
 313
 00:25:24,240 --> 00:25:25,440
-I don't own this place.
+<font color="#ffffff">I don't own this place.</font><font color="#ffffff"></font>
 
 314
 00:25:26,200 --> 00:25:27,760
-I don't know every corner here.
+<font color="#ffffff">I don't know every corner here.</font><font color="#ffffff"></font>
 
 315
 00:25:40,360 --> 00:25:42,760
-Hey, are you okay?
+<font color="#ffffff">Hey, are you okay?</font><font color="#ffffff"></font>
 
 316
 00:25:42,840 --> 00:25:43,680
-What happened?
+<font color="#ffffff">What happened?</font><font color="#ffffff"></font>
 
 317
 00:26:01,840 --> 00:26:03,160
-Shit!
+<font color="#ffffff">Shit!</font><font color="#ffffff"></font>
 
 318
 00:26:22,760 --> 00:26:24,800
-How was I supposed to know Tar would come?
+<font color="#ffffff">How was I supposed to know Tar would come?</font><font color="#ffffff"></font>
 
 319
 00:26:26,080 --> 00:26:27,560
-Didn't you arrange to meet him?
+<font color="#ffffff">Didn't you arrange to meet him?</font><font color="#ffffff"></font>
 
 320
 00:26:28,920 --> 00:26:30,160
-Then why are you here?
+<font color="#ffffff">Then why are you here?</font><font color="#ffffff"></font>
 
 321
 00:26:30,240 --> 00:26:31,960
-I just came to drink.
+<font color="#ffffff">I just came to drink.</font><font color="#ffffff"></font>
 
 322
 00:26:33,320 --> 00:26:34,880
-I have other friends too.
+<font color="#ffffff">I have other friends too.</font><font color="#ffffff"></font>
 
 323
 00:26:39,760 --> 00:26:41,800
-What do you know
-about the truth or dare letter?
+<font color="#ffffff">What do you know</font><font color="#ffffff">
+<font color="#ffffff">about the truth or dare letter?<font color="#ffffff"></font></font></font>
 
 324
 00:26:44,120 --> 00:26:45,240
-What letter?
+<font color="#ffffff">What letter?</font><font color="#ffffff"></font>
 
 325
 00:26:56,720 --> 00:26:58,600
-I told you I don't know anything!
+<font color="#ffffff">I told you I don't know anything!</font><font color="#ffffff"></font>
 
 326
 00:26:58,680 --> 00:27:00,160
-Truth or dare, my ass.
+<font color="#ffffff">Truth or dare, my ass.</font><font color="#ffffff"></font>
 
 327
 00:27:18,320 --> 00:27:19,560
-You're sure?
+<font color="#ffffff">You're sure?</font><font color="#ffffff"></font>
 
 328
 00:27:22,520 --> 00:27:25,040
-Like I said,
+<font color="#ffffff">Like I said,</font><font color="#ffffff"></font>
 
 329
 00:27:25,120 --> 00:27:26,800
-I only went out to buy condoms.
+<font color="#ffffff">I only went out to buy condoms.</font><font color="#ffffff"></font>
 
 330
 00:27:26,880 --> 00:27:30,040
-Why did it take you so long?
-You took almost 30 minutes.
+<font color="#ffffff">Why did it take you so long?</font><font color="#ffffff">
+<font color="#ffffff">You took almost 30 minutes.<font color="#ffffff"></font></font></font>
 
 331
 00:27:30,120 --> 00:27:35,720
-I went to get one from my friend first,
-but she didn't have any.
+<font color="#ffffff">I went to get one from my friend first,</font><font color="#ffffff">
+<font color="#ffffff">but she didn't have any.<font color="#ffffff"></font></font></font>
 
 332
 00:27:35,800 --> 00:27:37,200
-So I went to buy them myself.
+<font color="#ffffff">So I went to buy them myself.</font><font color="#ffffff"></font>
 
 333
 00:27:39,320 --> 00:27:41,360
-When you came back, did you see anyone?
+<font color="#ffffff">When you came back, did you see anyone?</font><font color="#ffffff"></font>
 
 334
 00:27:48,960 --> 00:27:50,080
-Okay.
+<font color="#ffffff">Okay.</font><font color="#ffffff"></font>
 
 335
 00:27:57,200 --> 00:28:01,160
-The closest convenience store
-is 800 meters away.
+<font color="#ffffff">The closest convenience store</font><font color="#ffffff">
+<font color="#ffffff">is 800 meters away.<font color="#ffffff"></font></font></font>
 
 336
 00:28:05,160 --> 00:28:08,440
-I don't think that
-the escort was lying to us.
+<font color="#ffffff">I don't think that</font><font color="#ffffff">
+<font color="#ffffff">the escort was lying to us.<font color="#ffffff"></font></font></font>
 
 337
 00:28:10,760 --> 00:28:13,280
-She might still be an accomplice.
+<font color="#ffffff">She might still be an accomplice.</font><font color="#ffffff"></font>
 
 338
 00:28:15,000 --> 00:28:16,400
-Have you checked the CCTV?
+<font color="#ffffff">Have you checked the CCTV?</font><font color="#ffffff"></font>
 
 339
 00:28:17,200 --> 00:28:21,120
-Yes, but the area where it happened
-is a blind spot.
+<font color="#ffffff">Yes, but the area where it happened</font><font color="#ffffff">
+<font color="#ffffff">is a blind spot.<font color="#ffffff"></font></font></font>
 
 340
 00:28:21,680 --> 00:28:23,440
-And the closest camera…
+<font color="#ffffff">And the closest camera…</font><font color="#ffffff"></font>
 
 341
 00:28:25,280 --> 00:28:26,720
-broke last night.
+<font color="#ffffff">broke last night.</font><font color="#ffffff"></font>
 
 342
 00:28:30,840 --> 00:28:32,640
-We need a new strategy.
+<font color="#ffffff">We need a new strategy.</font><font color="#ffffff"></font>
 
 343
 00:28:33,480 --> 00:28:36,120
-We can't let them stay
-a step ahead of us every time.
+<font color="#ffffff">We can't let them stay</font><font color="#ffffff">
+<font color="#ffffff">a step ahead of us every time.<font color="#ffffff"></font></font></font>
 
 344
 00:28:38,760 --> 00:28:39,920
-Agreed,
+<font color="#ffffff">Agreed,</font><font color="#ffffff"></font>
 
 345
 00:28:40,000 --> 00:28:41,720
-but we can't do anything else tonight.
+<font color="#ffffff">but we can't do anything else tonight.</font><font color="#ffffff"></font>
 
 346
 00:28:41,800 --> 00:28:43,680
-We must head back.
+<font color="#ffffff">We must head back.</font><font color="#ffffff"></font>
 
 347
 00:28:43,760 --> 00:28:45,160
-Come. I'll drop you off.
+<font color="#ffffff">Come. I'll drop you off.</font><font color="#ffffff"></font>
 
 348
 00:28:45,960 --> 00:28:47,600
-Drop me off at my unit.
+<font color="#ffffff">Drop me off at my unit.</font><font color="#ffffff"></font>
 
 349
 00:28:47,680 --> 00:28:48,960
-Are you crazy?
+<font color="#ffffff">Are you crazy?</font><font color="#ffffff"></font>
 
 350
 00:28:49,040 --> 00:28:51,040
-It's late.
+<font color="#ffffff">It's late.</font><font color="#ffffff"></font>
 
 351
 00:28:51,120 --> 00:28:53,280
-Not sleeping enough is a quick way to die.
+<font color="#ffffff">Not sleeping enough is a quick way to die.</font><font color="#ffffff"></font>
 
 352
 00:28:53,360 --> 00:28:57,840
-When I sleep and when I die
-are my problems.
+<font color="#ffffff">When I sleep and when I die</font><font color="#ffffff">
+<font color="#ffffff">are my problems.<font color="#ffffff"></font></font></font>
 
 353
 00:29:00,320 --> 00:29:01,200
-Give it to me.
+<font color="#ffffff">Give it to me.</font><font color="#ffffff"></font>
 
 354
 00:29:06,840 --> 00:29:08,040
-No.
+<font color="#ffffff">No.</font><font color="#ffffff"></font>
 
 355
 00:29:09,960 --> 00:29:11,920
-Hey!
+<font color="#ffffff">Hey!</font><font color="#ffffff"></font>
 
 356
 00:29:12,000 --> 00:29:13,440
-Come on, Inspector!
+<font color="#ffffff">Come on, Inspector!</font><font color="#ffffff"></font>
 
 357
 00:29:16,520 --> 00:29:17,360
-Fine.
+<font color="#ffffff">Fine.</font><font color="#ffffff"></font>
 
 358
 00:29:18,360 --> 00:29:19,800
-You want the key, right?
+<font color="#ffffff">You want the key, right?</font><font color="#ffffff"></font>
 
 359
 00:29:20,320 --> 00:29:21,200
-Here you are.
+<font color="#ffffff">Here you are.</font><font color="#ffffff"></font>
 
 360
 00:29:22,640 --> 00:29:23,480
-Just take it.
+<font color="#ffffff">Just take it.</font><font color="#ffffff"></font>
 
 361
 00:29:25,680 --> 00:29:27,360
-Hey, hold on!
+<font color="#ffffff">Hey, hold on!</font><font color="#ffffff"></font>
 
 362
 00:29:27,440 --> 00:29:28,440
-How brave you are!
+<font color="#ffffff">How brave you are!</font><font color="#ffffff"></font>
 
 363
 00:29:30,200 --> 00:29:31,520
-You're touching confiscated evidence!
+<font color="#ffffff">You're touching confiscated evidence!</font><font color="#ffffff"></font>
 
 364
 00:29:36,080 --> 00:29:37,280
-What did you just say?
+<font color="#ffffff">What did you just say?</font><font color="#ffffff"></font>
 
 365
 00:29:38,280 --> 00:29:39,920
-Don't you have any professional ethics?
+<font color="#ffffff">Don't you have any professional ethics?</font><font color="#ffffff"></font>
 
 366
 00:29:40,000 --> 00:29:43,320
-You've been tense all day.
-I just wanted to make you smile.
+<font color="#ffffff">You've been tense all day.</font><font color="#ffffff">
+<font color="#ffffff">I just wanted to make you smile.<font color="#ffffff"></font></font></font>
 
 367
 00:29:44,640 --> 00:29:46,400
-Come on, let me drive.
+<font color="#ffffff">Come on, let me drive.</font><font color="#ffffff"></font>
 
 368
 00:29:49,040 --> 00:29:50,080
-Hurry up.
+<font color="#ffffff">Hurry up.</font><font color="#ffffff"></font>
 
 369
 00:29:52,920 --> 00:29:56,480
-A handsome, generous, kind,
-and morally upright guy like me
+<font color="#ffffff">A handsome, generous, kind,</font><font color="#ffffff">
+<font color="#ffffff">and morally upright guy like me<font color="#ffffff"></font></font></font>
 
 370
 00:29:56,560 --> 00:29:58,080
-doesn't come around often.
+<font color="#ffffff">doesn't come around often.</font><font color="#ffffff"></font>
 
 371
 00:30:06,080 --> 00:30:07,200
-Oh, wow.
+<font color="#ffffff">Oh, wow.</font><font color="#ffffff"></font>
 
 372
 00:30:08,000 --> 00:30:09,200
-That actually works.
+<font color="#ffffff">That actually works.</font><font color="#ffffff"></font>
 
 373
 00:30:12,360 --> 00:30:13,880
-I changed my mind.
+<font color="#ffffff">I changed my mind.</font><font color="#ffffff"></font>
 
 374
 00:30:14,920 --> 00:30:17,080
-I'll take you to the hotel
-so you can pack your things.
+<font color="#ffffff">I'll take you to the hotel</font><font color="#ffffff">
+<font color="#ffffff">so you can pack your things.<font color="#ffffff"></font></font></font>
 
 375
 00:30:17,880 --> 00:30:18,800
-Pack? Why?
+<font color="#ffffff">Pack? Why?</font><font color="#ffffff"></font>
 
 376
 00:31:01,680 --> 00:31:03,040
-Hey, Inspector?
+<font color="#ffffff">Hey, Inspector?</font><font color="#ffffff"></font>
 
 377
 00:31:05,440 --> 00:31:06,960
-Is that all you're bringing?
+<font color="#ffffff">Is that all you're bringing?</font><font color="#ffffff"></font>
 
 378
 00:31:09,200 --> 00:31:11,240
-Well, I don't know how long I'll stay.
+<font color="#ffffff">Well, I don't know how long I'll stay.</font><font color="#ffffff"></font>
 
 379
 00:31:11,920 --> 00:31:13,120
-Should I move my whole house?
+<font color="#ffffff">Should I move my whole house?</font><font color="#ffffff"></font>
 
 380
 00:31:13,200 --> 00:31:14,840
-Come on, Inspector.
+<font color="#ffffff">Come on, Inspector.</font><font color="#ffffff"></font>
 
 381
 00:31:14,920 --> 00:31:16,680
-Do you really not trust me?
+<font color="#ffffff">Do you really not trust me?</font><font color="#ffffff"></font>
 
 382
 00:31:16,760 --> 00:31:21,040
-Even a five-star hotel
-can't help you sleep comfortably.
+<font color="#ffffff">Even a five-star hotel</font><font color="#ffffff">
+<font color="#ffffff">can't help you sleep comfortably.<font color="#ffffff"></font></font></font>
 
 383
 00:31:21,720 --> 00:31:23,520
-That's pretty bad, right?
+<font color="#ffffff">That's pretty bad, right?</font><font color="#ffffff"></font>
 
 384
 00:31:23,600 --> 00:31:25,160
-You definitely need a new place.
+<font color="#ffffff">You definitely need a new place.</font><font color="#ffffff"></font>
 
 385
 00:31:25,760 --> 00:31:28,520
-Somewhere you can feel more comfortable.
+<font color="#ffffff">Somewhere you can feel more comfortable.</font><font color="#ffffff"></font>
 
 386
 00:31:30,280 --> 00:31:32,840
-Is that new place crowded?
+<font color="#ffffff">Is that new place crowded?</font><font color="#ffffff"></font>
 
 387
 00:31:34,080 --> 00:31:35,080
-I don't like crowds.
+<font color="#ffffff">I don't like crowds.</font><font color="#ffffff"></font>
 
 388
 00:31:35,680 --> 00:31:39,200
-Inspector, I'm a local here.
+<font color="#ffffff">Inspector, I'm a local here.</font><font color="#ffffff"></font>
 
 389
 00:31:39,280 --> 00:31:42,160
-I was born and raised in Bangkok.
-Wherever I go, people know me.
+<font color="#ffffff">I was born and raised in Bangkok.</font><font color="#ffffff">
+<font color="#ffffff">Wherever I go, people know me.<font color="#ffffff"></font></font></font>
 
 390
 00:31:42,680 --> 00:31:46,040
-I guarantee the new place
-is more private than this place.
+<font color="#ffffff">I guarantee the new place</font><font color="#ffffff">
+<font color="#ffffff">is more private than this place.<font color="#ffffff"></font></font></font>
 
 391
 00:31:50,160 --> 00:31:51,320
-Let's go.
+<font color="#ffffff">Let's go.</font><font color="#ffffff"></font>
 
 392
 00:31:51,400 --> 00:31:53,040
-I'm also offering you an extra service.
+<font color="#ffffff">I'm also offering you an extra service.</font><font color="#ffffff"></font>
 
 393
 00:31:54,080 --> 00:31:55,200
-I'll carry your luggage.
+<font color="#ffffff">I'll carry your luggage.</font><font color="#ffffff"></font>
 
 394
 00:31:57,960 --> 00:31:59,360
-Follow me.
+<font color="#ffffff">Follow me.</font><font color="#ffffff"></font>
 
 395
 00:32:06,120 --> 00:32:07,640
-<i>Are you kidding?</i>
+<font color="#ffffff"><i>Are you kidding?</i></font><font color="#ffffff"></font>
 
 396
 00:32:07,720 --> 00:32:09,160
-<i>You brought me to your house?</i>
+<font color="#ffffff"><i>You brought me to your house?</i></font><font color="#ffffff"></font>
 
 397
 00:32:09,760 --> 00:32:12,360
-- No way. I'm going back to the hotel.
-- Wait, Inspector.
+<font color="#ffffff">-No way. I'm going back to the hotel.</font><font color="#ffffff">
+<font color="#ffffff">-Wait, Inspector.<font color="#ffffff"></font></font></font>
 
 398
 00:32:12,440 --> 00:32:13,960
-Just try sleeping here first.
+<font color="#ffffff">Just try sleeping here first.</font><font color="#ffffff"></font>
 
 399
 00:32:14,560 --> 00:32:16,960
-You couldn't sleep at the hotel anyway
+<font color="#ffffff">You couldn't sleep at the hotel anyway</font><font color="#ffffff"></font>
 
 400
 00:32:17,040 --> 00:32:19,640
-and it's late.
+<font color="#ffffff">and it's late.</font><font color="#ffffff"></font>
 
 401
 00:32:19,720 --> 00:32:20,880
-Don't make things harder.
+<font color="#ffffff">Don't make things harder.</font><font color="#ffffff"></font>
 
 402
 00:32:21,480 --> 00:32:22,840
-And if I still can't sleep?
+<font color="#ffffff">And if I still can't sleep?</font><font color="#ffffff"></font>
 
 403
 00:32:24,160 --> 00:32:26,600
-Then go back to the hotel tomorrow.
+<font color="#ffffff">Then go back to the hotel tomorrow.</font><font color="#ffffff"></font>
 
 404
 00:32:36,840 --> 00:32:39,400
-Welcome to Jay-Jade Guesthouse.
+<font color="#ffffff">Welcome to Jay-Jade Guesthouse.</font><font color="#ffffff"></font>
 
 405
 00:32:41,520 --> 00:32:43,240
-So you're part of this too?
+<font color="#ffffff">So you're part of this too?</font><font color="#ffffff"></font>
 
 406
 00:32:43,320 --> 00:32:45,240
-He said he'd split the rent with me.
+<font color="#ffffff">He said he'd split the rent with me.</font><font color="#ffffff"></font>
 
 407
 00:32:45,320 --> 00:32:48,240
-Your room is ready
-on the second floor, Mr. Kamin.
+<font color="#ffffff">Your room is ready</font><font color="#ffffff">
+<font color="#ffffff">on the second floor, Mr. Kamin.<font color="#ffffff"></font></font></font>
 
 408
 00:32:51,040 --> 00:32:52,640
-As for the rent,
+<font color="#ffffff">As for the rent,</font><font color="#ffffff"></font>
 
 409
 00:32:52,720 --> 00:32:55,120
-I'll charge you only half the hotel price.
+<font color="#ffffff">I'll charge you only half the hotel price.</font><font color="#ffffff"></font>
 
 410
 00:32:55,880 --> 00:32:58,120
-That's such a great deal, right?
+<font color="#ffffff">That's such a great deal, right?</font><font color="#ffffff"></font>
 
 411
 00:32:58,800 --> 00:33:01,520
-By the way, how much was the hotel room?
+<font color="#ffffff">By the way, how much was the hotel room?</font><font color="#ffffff"></font>
 
 412
 00:33:05,800 --> 00:33:07,160
-One hundred eighty thousand.
+<font color="#ffffff">One hundred eighty thousand.</font><font color="#ffffff"></font>
 
 413
 00:33:07,800 --> 00:33:08,960
-One hundred eighty thousand?
+<font color="#ffffff">One hundred eighty thousand?</font><font color="#ffffff"></font>
 
 414
 00:33:10,600 --> 00:33:13,160
-I chose a five-star hotel
-so I wouldn't have to do anything.
+<font color="#ffffff">I chose a five-star hotel</font><font color="#ffffff">
+<font color="#ffffff">so I wouldn't have to do anything.<font color="#ffffff"></font></font></font>
 
 415
 00:33:13,760 --> 00:33:15,520
-That way, I could also focus on work.
+<font color="#ffffff">That way, I could also focus on work.</font><font color="#ffffff"></font>
 
 416
 00:33:17,160 --> 00:33:19,640
-We're also offering
-a five-star service, right?
+<font color="#ffffff">We're also offering</font><font color="#ffffff">
+<font color="#ffffff">a five-star service, right?<font color="#ffffff"></font></font></font>
 
 417
 00:33:21,520 --> 00:33:25,480
-Then I'll give you a friendly price.
+<font color="#ffffff">Then I'll give you a friendly price.</font><font color="#ffffff"></font>
 
 418
 00:33:29,760 --> 00:33:30,720
-Fifty thousand.
+<font color="#ffffff">Fifty thousand.</font><font color="#ffffff"></font>
 
 419
 00:33:32,440 --> 00:33:34,440
-Forty thousand.
+<font color="#ffffff">Forty thousand.</font><font color="#ffffff"></font>
 
 420
 00:33:35,040 --> 00:33:37,240
-Pretty worth it, right?
+<font color="#ffffff">Pretty worth it, right?</font><font color="#ffffff"></font>
 
 421
 00:33:37,840 --> 00:33:40,560
-Think of it as circulating the economy.
+<font color="#ffffff">Think of it as circulating the economy.</font><font color="#ffffff"></font>
 
 422
 00:33:40,640 --> 00:33:43,440
-That's more like circulating
-from my pocket into yours.
+<font color="#ffffff">That's more like circulating</font><font color="#ffffff">
+<font color="#ffffff">from my pocket into yours.<font color="#ffffff"></font></font></font>
 
 423
 00:33:45,800 --> 00:33:48,840
-So should we bring
-the rest of your stuff tomorrow?
+<font color="#ffffff">So should we bring</font><font color="#ffffff">
+<font color="#ffffff">the rest of your stuff tomorrow?<font color="#ffffff"></font></font></font>
 
 424
 00:33:48,920 --> 00:33:50,720
-I haven't agreed to anything.
+<font color="#ffffff">I haven't agreed to anything.</font><font color="#ffffff"></font>
 
 425
 00:33:51,320 --> 00:33:55,160
-I'll stay for one trial night
-with conditions.
+<font color="#ffffff">I'll stay for one trial night</font><font color="#ffffff">
+<font color="#ffffff">with conditions.<font color="#ffffff"></font></font></font>
 
 426
 00:33:59,600 --> 00:34:01,840
-If I'm not satisfied,
-I leave whenever I want.
+<font color="#ffffff">If I'm not satisfied,</font><font color="#ffffff">
+<font color="#ffffff">I leave whenever I want.<font color="#ffffff"></font></font></font>
 
 427
 00:34:04,080 --> 00:34:07,160
-You're a tenant now, not an inspector.
+<font color="#ffffff">You're a tenant now, not an inspector.</font><font color="#ffffff"></font>
 
 428
 00:34:08,199 --> 00:34:09,639
-Don't try to boss me around.
+<font color="#ffffff">Don't try to boss me around.</font><font color="#ffffff"></font>
 
 429
 00:34:09,719 --> 00:34:14,560
-Whether it's one day or several,
-write a contract.
+<font color="#ffffff">Whether it's one day or several,</font><font color="#ffffff">
+<font color="#ffffff">write a contract.<font color="#ffffff"></font></font></font>
 
 430
 00:34:14,639 --> 00:34:17,760
-I can't trust anyone easily these days.
-There are too many scammers.
+<font color="#ffffff">I can't trust anyone easily these days.</font><font color="#ffffff">
+<font color="#ffffff">There are too many scammers.<font color="#ffffff"></font></font></font>
 
 431
 00:34:19,360 --> 00:34:21,639
-Okay. That's fair enough.
+<font color="#ffffff">Okay. That's fair enough.</font><font color="#ffffff"></font>
 
 432
 00:34:21,719 --> 00:34:25,000
-You really sound like someone
-who studied abroad.
+<font color="#ffffff">You really sound like someone</font><font color="#ffffff">
+<font color="#ffffff">who studied abroad.<font color="#ffffff"></font></font></font>
 
 433
 00:34:25,080 --> 00:34:28,440
-Then I'll start your service tonight.
+<font color="#ffffff">Then I'll start your service tonight.</font><font color="#ffffff"></font>
 
 434
 00:34:29,480 --> 00:34:31,199
-You haven't eaten yet, right?
+<font color="#ffffff">You haven't eaten yet, right?</font><font color="#ffffff"></font>
 
 435
 00:34:31,280 --> 00:34:33,280
-- Would you like anything?
-- I'm not hungry.
+<font color="#ffffff">-Would you like anything?</font><font color="#ffffff">
+<font color="#ffffff">-I'm not hungry.<font color="#ffffff"></font></font></font>
 
 436
 00:34:33,360 --> 00:34:34,760
-I'll get back to work.
+<font color="#ffffff">I'll get back to work.</font><font color="#ffffff"></font>
 
 437
 00:34:43,199 --> 00:34:46,520
-How about something simple then?
+<font color="#ffffff">How about something simple then?</font><font color="#ffffff"></font>
 
 438
 00:34:46,600 --> 00:34:47,560
-Chef Jay.
+<font color="#ffffff">Chef Jay.</font><font color="#ffffff"></font>
 
 439
 00:34:47,639 --> 00:34:48,800
-Yes?
+<font color="#ffffff">Yes?</font><font color="#ffffff"></font>
 
 440
 00:34:48,880 --> 00:34:50,639
-What's on the menu tonight?
+<font color="#ffffff">What's on the menu tonight?</font><font color="#ffffff"></font>
 
 441
 00:34:51,639 --> 00:34:55,320
-Tonight's dish features
-the main ingredients from the Thai sea,
+<font color="#ffffff">Tonight's dish features</font><font color="#ffffff">
+<font color="#ffffff">the main ingredients from the Thai sea,<font color="#ffffff"></font></font></font>
 
 442
 00:34:55,400 --> 00:34:58,120
-blended perfectly
-with every regional flavor.
+<font color="#ffffff">blended perfectly</font><font color="#ffffff">
+<font color="#ffffff">with every regional flavor.<font color="#ffffff"></font></font></font>
 
 443
 00:34:58,200 --> 00:35:03,720
-It's mackerel pasta
-with spicy anchovy sauce
+<font color="#ffffff">It's mackerel pasta</font><font color="#ffffff">
+<font color="#ffffff">with spicy anchovy sauce<font color="#ffffff"></font></font></font>
 
 444
 00:35:03,800 --> 00:35:06,040
-and seasonal vegetables.
+<font color="#ffffff">and seasonal vegetables.</font><font color="#ffffff"></font>
 
 445
 00:35:06,800 --> 00:35:07,920
-What exactly is that?
+<font color="#ffffff">What exactly is that?</font><font color="#ffffff"></font>
 
 446
 00:35:09,640 --> 00:35:10,640
-What is that?
+<font color="#ffffff">What is that?</font><font color="#ffffff"></font>
 
 447
 00:35:11,240 --> 00:35:12,800
-- Spicy fermented rice noodle salad.
-- What?
+<font color="#ffffff">-Spicy fermented rice noodle salad.</font><font color="#ffffff">
+<font color="#ffffff">-What?<font color="#ffffff"></font></font></font>
 
 448
 00:35:12,880 --> 00:35:14,520
-Spicy fermented rice noodle salad.
+<font color="#ffffff">Spicy fermented rice noodle salad.</font><font color="#ffffff"></font>
 
 449
 00:35:14,600 --> 00:35:15,920
-I'll excuse myself for now.
+<font color="#ffffff">I'll excuse myself for now.</font><font color="#ffffff"></font>
 
 450
 00:35:36,880 --> 00:35:38,640
-We prepared breakfast for you, Inspector.
+<font color="#ffffff">We prepared breakfast for you, Inspector.</font><font color="#ffffff"></font>
 
 451
 00:35:40,080 --> 00:35:42,080
-Did you sleep well last night?
+<font color="#ffffff">Did you sleep well last night?</font><font color="#ffffff"></font>
 
 452
 00:35:43,120 --> 00:35:46,200
-Well, it was fine.
+<font color="#ffffff">Well, it was fine.</font><font color="#ffffff"></font>
 
 453
 00:35:46,280 --> 00:35:50,440
-I'm sorry that
-I'm not dressed very formally.
+<font color="#ffffff">I'm sorry that</font><font color="#ffffff">
+<font color="#ffffff">I'm not dressed very formally.<font color="#ffffff"></font></font></font>
 
 454
 00:35:50,520 --> 00:35:53,680
-I had to wake up early
-to cook breakfast for you.
+<font color="#ffffff">I had to wake up early</font><font color="#ffffff">
+<font color="#ffffff">to cook breakfast for you.<font color="#ffffff"></font></font></font>
 
 455
 00:35:57,360 --> 00:35:58,640
-But…
+<font color="#ffffff">But…</font><font color="#ffffff"></font>
 
 456
 00:35:59,320 --> 00:36:00,320
-What?
+<font color="#ffffff">What?</font><font color="#ffffff"></font>
 
 457
 00:36:03,440 --> 00:36:04,800
-I'm wearing pants, you know.
+<font color="#ffffff">I'm wearing pants, you know.</font><font color="#ffffff"></font>
 
 458
 00:36:11,920 --> 00:36:13,400
-You should get used to this.
+<font color="#ffffff">You should get used to this.</font><font color="#ffffff"></font>
 
 459
 00:36:14,000 --> 00:36:15,360
-You're going to see it a lot.
+<font color="#ffffff">You're going to see it a lot.</font><font color="#ffffff"></font>
 
 460
 00:36:15,440 --> 00:36:16,800
-Captain.
+<font color="#ffffff">Captain.</font><font color="#ffffff"></font>
 
 461
 00:36:17,400 --> 00:36:18,320
-I'm moving out.
+<font color="#ffffff">I'm moving out.</font><font color="#ffffff"></font>
 
 462
 00:36:18,400 --> 00:36:19,440
-Oh no!
+<font color="#ffffff">Oh no!</font><font color="#ffffff"></font>
 
 463
 00:36:20,200 --> 00:36:21,880
-You can't order me around here.
+<font color="#ffffff">You can't order me around here.</font><font color="#ffffff"></font>
 
 464
 00:36:21,960 --> 00:36:24,560
-You haven't even signed
-the rental contract.
+<font color="#ffffff">You haven't even signed</font><font color="#ffffff">
+<font color="#ffffff">the rental contract.<font color="#ffffff"></font></font></font>
 
 465
 00:36:24,640 --> 00:36:25,880
-How can you move out?
+<font color="#ffffff">How can you move out?</font><font color="#ffffff"></font>
 
 466
 00:36:25,960 --> 00:36:27,080
-Please take a seat.
+<font color="#ffffff">Please take a seat.</font><font color="#ffffff"></font>
 
 467
 00:36:37,280 --> 00:36:38,440
-Make yourself comfortable.
+<font color="#ffffff">Make yourself comfortable.</font><font color="#ffffff"></font>
 
 468
 00:36:47,520 --> 00:36:48,920
-- Jay.
-- Yes?
+<font color="#ffffff">-Jay.</font><font color="#ffffff">
+<font color="#ffffff">-Yes?<font color="#ffffff"></font></font></font>
 
 469
 00:36:49,000 --> 00:36:50,240
-We need to talk.
+<font color="#ffffff">We need to talk.</font><font color="#ffffff"></font>
 
 470
 00:36:52,280 --> 00:36:53,480
-What?
+<font color="#ffffff">What?</font><font color="#ffffff"></font>
 
 471
 00:36:55,880 --> 00:36:57,280
-You've heard about Tar, right?
+<font color="#ffffff">You've heard about Tar, right?</font><font color="#ffffff"></font>
 
 472
 00:36:57,360 --> 00:36:58,880
-Yeah.
+<font color="#ffffff">Yeah.</font><font color="#ffffff"></font>
 
 473
 00:37:01,080 --> 00:37:03,240
-We weren't that close, actually.
+<font color="#ffffff">We weren't that close, actually.</font><font color="#ffffff"></font>
 
 474
 00:37:03,760 --> 00:37:05,400
-He was closer to Champ.
+<font color="#ffffff">He was closer to Champ.</font><font color="#ffffff"></font>
 
 475
 00:37:05,480 --> 00:37:07,520
-I still didn't expect him to die.
+<font color="#ffffff">I still didn't expect him to die.</font><font color="#ffffff"></font>
 
 476
 00:37:09,240 --> 00:37:10,440
-Let me ask you a few things.
+<font color="#ffffff">Let me ask you a few things.</font><font color="#ffffff"></font>
 
 477
 00:37:11,880 --> 00:37:15,160
-Were Tar and Tonkla close?
+<font color="#ffffff">Were Tar and Tonkla close?</font><font color="#ffffff"></font>
 
 478
 00:37:20,920 --> 00:37:22,800
-I never saw them hang out together.
+<font color="#ffffff">I never saw them hang out together.</font><font color="#ffffff"></font>
 
 479
 00:37:24,840 --> 00:37:27,680
-Not even for drinks?
+<font color="#ffffff">Not even for drinks?</font><font color="#ffffff"></font>
 
 480
 00:37:28,520 --> 00:37:30,280
-Like at Drink Me?
+<font color="#ffffff">Like at Drink Me?</font><font color="#ffffff"></font>
 
 481
 00:37:30,360 --> 00:37:32,480
-Drink Me?
+<font color="#ffffff">Drink Me?</font><font color="#ffffff"></font>
 
 482
 00:37:32,560 --> 00:37:34,800
-No way Tonkla would go there.
+<font color="#ffffff">No way Tonkla would go there.</font><font color="#ffffff"></font>
 
 483
 00:37:34,880 --> 00:37:37,560
-He said it's expensive
-and the drinks suck.
+<font color="#ffffff">He said it's expensive</font><font color="#ffffff">
+<font color="#ffffff">and the drinks suck.<font color="#ffffff"></font></font></font>
 
 484
 00:37:37,640 --> 00:37:40,720
-The only regulars there are Champ and Tar.
+<font color="#ffffff">The only regulars there are Champ and Tar.</font><font color="#ffffff"></font>
 
 485
 00:37:45,800 --> 00:37:47,320
-And it's outside work hours.
+<font color="#ffffff">And it's outside work hours.</font><font color="#ffffff"></font>
 
 486
 00:37:47,400 --> 00:37:49,720
-I'm not answering anything else.
-I'm off to class.
+<font color="#ffffff">I'm not answering anything else.</font><font color="#ffffff">
+<font color="#ffffff">I'm off to class.<font color="#ffffff"></font></font></font>
 
 487
 00:37:51,240 --> 00:37:52,560
-Goodbye.
+<font color="#ffffff">Goodbye.</font><font color="#ffffff"></font>
 
 488
 00:37:58,200 --> 00:38:00,560
-If Tonkla doesn't like going to Drink Me,
+<font color="#ffffff">If Tonkla doesn't like going to Drink Me,</font><font color="#ffffff"></font>
 
 489
 00:38:02,880 --> 00:38:04,160
-why did he show up there?
+<font color="#ffffff">why did he show up there?</font><font color="#ffffff"></font>
 
 490
 00:38:06,320 --> 00:38:07,480
-No idea.
+<font color="#ffffff">No idea.</font><font color="#ffffff"></font>
 
 491
 00:38:08,360 --> 00:38:09,920
-But for Tar's case,
+<font color="#ffffff">But for Tar's case,</font><font color="#ffffff"></font>
 
 492
 00:38:10,680 --> 00:38:12,360
-we need to start at his house.
+<font color="#ffffff">we need to start at his house.</font><font color="#ffffff"></font>
 
 493
 00:38:21,000 --> 00:38:21,840
-Guys.
+<font color="#ffffff">Guys.</font><font color="#ffffff"></font>
 
 494
 00:38:23,040 --> 00:38:24,920
-Seriously, I'm kind of scared.
+<font color="#ffffff">Seriously, I'm kind of scared.</font><font color="#ffffff"></font>
 
 495
 00:38:32,200 --> 00:38:34,120
-Did your brother tell you anything?
+<font color="#ffffff">Did your brother tell you anything?</font><font color="#ffffff"></font>
 
 496
 00:38:35,360 --> 00:38:37,960
-No. He keeps asking questions.
+<font color="#ffffff">No. He keeps asking questions.</font><font color="#ffffff"></font>
 
 497
 00:38:41,400 --> 00:38:42,960
-Did you tell him anything?
+<font color="#ffffff">Did you tell him anything?</font><font color="#ffffff"></font>
 
 498
 00:38:44,360 --> 00:38:45,560
-I didn't say a word.
+<font color="#ffffff">I didn't say a word.</font><font color="#ffffff"></font>
 
 499
 00:38:53,960 --> 00:38:55,000
-Hey.
+<font color="#ffffff">Hey.</font><font color="#ffffff"></font>
 
 500
 00:38:56,120 --> 00:38:57,760
-Did anyone get a truth or dare letter?
+<font color="#ffffff">Did anyone get a truth or dare letter?</font><font color="#ffffff"></font>
 
 501
 00:39:01,480 --> 00:39:02,760
-What the hell is that?
+<font color="#ffffff">What the hell is that?</font><font color="#ffffff"></font>
 
 502
 00:39:02,840 --> 00:39:04,200
-The cops asked me that too.
+<font color="#ffffff">The cops asked me that too.</font><font color="#ffffff"></font>
 
 503
 00:39:04,280 --> 00:39:05,760
-Cops?
+<font color="#ffffff">Cops?</font><font color="#ffffff"></font>
 
 504
 00:39:10,080 --> 00:39:11,400
-How could they ask you?
+<font color="#ffffff">How could they ask you?</font><font color="#ffffff"></font>
 
 505
 00:39:12,280 --> 00:39:14,440
-I passed by Drink Me.
+<font color="#ffffff">I passed by Drink Me.</font><font color="#ffffff"></font>
 
 506
 00:39:14,520 --> 00:39:16,200
-They recognized me and started asking.
+<font color="#ffffff">They recognized me and started asking.</font><font color="#ffffff"></font>
 
 507
 00:39:17,960 --> 00:39:19,000
-Why were you there?
+<font color="#ffffff">Why were you there?</font><font color="#ffffff"></font>
 
 508
 00:39:26,320 --> 00:39:27,560
-Where are you going?
+<font color="#ffffff">Where are you going?</font><font color="#ffffff"></font>
 
 509
 00:39:27,640 --> 00:39:29,720
-I forgot I'd taken a job.
+<font color="#ffffff">I forgot I'd taken a job.</font><font color="#ffffff"></font>
 
 510
 00:39:33,160 --> 00:39:34,040
-All right.
+<font color="#ffffff">All right.</font><font color="#ffffff"></font>
 
 511
 00:39:36,000 --> 00:39:37,600
-What the hell is wrong with him?
+<font color="#ffffff">What the hell is wrong with him?</font><font color="#ffffff"></font>
 
 512
 00:40:40,360 --> 00:40:41,200
-Jade.
+<font color="#ffffff">Jade.</font><font color="#ffffff"></font>
 
 513
 00:40:53,200 --> 00:40:54,920
-You sick piece of shit!
+<font color="#ffffff">You sick piece of shit!</font><font color="#ffffff"></font>
 
 514
 00:40:59,760 --> 00:41:04,000
-You know, sometimes
-I almost side with the killer.
+<font color="#ffffff">You know, sometimes</font><font color="#ffffff">
+<font color="#ffffff">I almost side with the killer.<font color="#ffffff"></font></font></font>
 
 515
 00:41:06,880 --> 00:41:08,720
-No matter how shitty someone is,
+<font color="#ffffff">No matter how shitty someone is,</font><font color="#ffffff"></font>
 
 516
 00:41:09,400 --> 00:41:11,320
-no one has the right to play vigilante.
+<font color="#ffffff">no one has the right to play vigilante.</font><font color="#ffffff"></font>
 
 517
 00:41:14,640 --> 00:41:16,080
-Have you found the letter yet?
+<font color="#ffffff">Have you found the letter yet?</font><font color="#ffffff"></font>
 
 518
 00:41:17,680 --> 00:41:19,480
-Tar's mom said he rushed out.
+<font color="#ffffff">Tar's mom said he rushed out.</font><font color="#ffffff"></font>
 
 519
 00:41:20,520 --> 00:41:21,760
-It has to be around here.
+<font color="#ffffff">It has to be around here.</font><font color="#ffffff"></font>
 
 520
 00:41:26,760 --> 00:41:28,120
-Filthy bastard!
+<font color="#ffffff">Filthy bastard!</font><font color="#ffffff"></font>
 
 521
 00:41:46,080 --> 00:41:47,200
-Inspector.
+<font color="#ffffff">Inspector.</font><font color="#ffffff"></font>
 
 522
 00:42:06,520 --> 00:42:08,080
-This is no longer a simple murder.
+<font color="#ffffff">This is no longer a simple murder.</font><font color="#ffffff"></font>
 
 523
 00:42:13,600 --> 00:42:17,320
-The killer's targeting this entire group.
+<font color="#ffffff">The killer's targeting this entire group.</font><font color="#ffffff"></font>
 
 524
 00:42:21,440 --> 00:42:22,680
-I think we're dealing
+<font color="#ffffff">I think we're dealing</font><font color="#ffffff"></font>
 
 525
 00:42:24,400 --> 00:42:25,680
-with a serial killer.
+<font color="#ffffff">with a serial killer.</font><font color="#ffffff"></font>
 
 526
 00:43:00,000 --> 00:43:02,800
-YOU KNEW WHAT THEY DID AND YOU DID NOTHING
-BECAUSE THEY BOUGHT YOU OFF
+<font color="#ffffff">YOU KNEW WHAT THEY DID AND YOU DID NOTHING</font><font color="#ffffff">
+<font color="#ffffff">BECAUSE THEY BOUGHT YOU OFF<font color="#ffffff"></font></font></font>
 
 527
 00:43:14,720 --> 00:43:16,600
-Answer the goddamn call, you idiot!
+<font color="#ffffff">Answer the goddamn call, you idiot!</font><font color="#ffffff"></font>
 
 528
 00:43:18,680 --> 00:43:19,920
-<i>- Hello?</i>
-- Hello.
+<font color="#ffffff"><i>-Hello?</i></font><font color="#ffffff">
+<font color="#ffffff">-Hello.<font color="#ffffff"></font></font></font>
 
 529
 00:43:20,000 --> 00:43:22,280
-Jay, did you get the letter?
+<font color="#ffffff">Jay, did you get the letter?</font><font color="#ffffff"></font>
 
 530
 00:43:22,360 --> 00:43:23,640
-Don't lie to me.
+<font color="#ffffff">Don't lie to me.</font><font color="#ffffff"></font>
 
 531
 00:43:24,240 --> 00:43:26,680
-Why are you so obsessed with the letter?
+<font color="#ffffff">Why are you so obsessed with the letter?</font><font color="#ffffff"></font>
 
 532
 00:43:27,280 --> 00:43:29,600
-Stop being a smartass and just answer.
-Did you get one?
+<font color="#ffffff">Stop being a smartass and just answer.</font><font color="#ffffff">
+<font color="#ffffff">Did you get one?<font color="#ffffff"></font></font></font>
 
 533
 00:43:29,680 --> 00:43:32,600
-<i>No. Happy now?</i>
+<font color="#ffffff"><i>No. Happy now?</i></font><font color="#ffffff"></font>
 
 534
 00:43:32,680 --> 00:43:34,440
-Did any of your friends get one?
+<font color="#ffffff">Did any of your friends get one?</font><font color="#ffffff"></font>
 
 535
 00:43:36,680 --> 00:43:37,920
-I don't know.
+<font color="#ffffff">I don't know.</font><font color="#ffffff"></font>
 
 536
 00:43:38,000 --> 00:43:39,440
-I'm hanging up.
+<font color="#ffffff">I'm hanging up.</font><font color="#ffffff"></font>
 
 537
 00:43:39,520 --> 00:43:40,640
-Jay.
+<font color="#ffffff">Jay.</font><font color="#ffffff"></font>
 
 538
 00:43:40,720 --> 00:43:41,560
-Jay?
+<font color="#ffffff">Jay?</font><font color="#ffffff"></font>
 
 539
 00:43:41,640 --> 00:43:42,880
-Hey!
+<font color="#ffffff">Hey!</font><font color="#ffffff"></font>
 
 540
 00:43:44,320 --> 00:43:45,520
-Shit!
+<font color="#ffffff">Shit!</font><font color="#ffffff"></font>
 
 541
 00:43:49,200 --> 00:43:51,160
-At least your brother isn't next.
+<font color="#ffffff">At least your brother isn't next.</font><font color="#ffffff"></font>
 
 542
 00:43:52,600 --> 00:43:55,000
-Given how dumb he is,
-he could get picked anytime.
+<font color="#ffffff">Given how dumb he is,</font><font color="#ffffff">
+<font color="#ffffff">he could get picked anytime.<font color="#ffffff"></font></font></font>
 
 543
 00:43:55,720 --> 00:43:56,720
-I'll deal with him myself.
+<font color="#ffffff">I'll deal with him myself.</font><font color="#ffffff"></font>
 
 544
 00:43:58,600 --> 00:43:59,600
-Hey.
+<font color="#ffffff">Hey.</font><font color="#ffffff"></font>
 
 545
 00:44:00,880 --> 00:44:03,080
-This is exactly what the killer wants.
+<font color="#ffffff">This is exactly what the killer wants.</font><font color="#ffffff"></font>
 
 546
 00:44:03,720 --> 00:44:06,640
-If you do that, you're playing their game.
+<font color="#ffffff">If you do that, you're playing their game.</font><font color="#ffffff"></font>
 
 547
 00:44:09,960 --> 00:44:11,880
-Don't give them what they want.
+<font color="#ffffff">Don't give them what they want.</font><font color="#ffffff"></font>
 
 548
 00:44:26,200 --> 00:44:27,720
-What matters now is
+<font color="#ffffff">What matters now is</font><font color="#ffffff"></font>
 
 549
 00:44:29,080 --> 00:44:31,320
-keeping Jay in our sight at all times.
+<font color="#ffffff">keeping Jay in our sight at all times.</font><font color="#ffffff"></font>
 
 550
 00:44:32,160 --> 00:44:33,440
-For his safety.
+<font color="#ffffff">For his safety.</font><font color="#ffffff"></font>
 
 551
 00:44:44,280 --> 00:44:45,240
-Inspector.
+<font color="#ffffff">Inspector.</font><font color="#ffffff"></font>
 
 552
 00:44:46,200 --> 00:44:47,480
-Let me be honest here.
+<font color="#ffffff">Let me be honest here.</font><font color="#ffffff"></font>
 
 553
 00:44:49,320 --> 00:44:51,440
-Do you think the two of us
-can really stop this?
+<font color="#ffffff">Do you think the two of us</font><font color="#ffffff">
+<font color="#ffffff">can really stop this?<font color="#ffffff"></font></font></font>
 
 554
 00:44:56,120 --> 00:44:57,960
-If we work together,
+<font color="#ffffff">If we work together,</font><font color="#ffffff"></font>
 
 555
 00:44:59,080 --> 00:45:00,520
-we'll catch the killer.
+<font color="#ffffff">we'll catch the killer.</font><font color="#ffffff"></font>
 
 556
 00:45:11,320 --> 00:45:13,400
-I'll stake my badge on it.
+<font color="#ffffff">I'll stake my badge on it.</font><font color="#ffffff"></font>
 
 557
 00:45:33,960 --> 00:45:34,800
-Hey.
+<font color="#ffffff">Hey.</font><font color="#ffffff"></font>
 
 558
 00:45:36,040 --> 00:45:37,640
-Where are my clothes?
+<font color="#ffffff">Where are my clothes?</font><font color="#ffffff"></font>
 
 559
 00:45:39,320 --> 00:45:40,640
-And what is this?
+<font color="#ffffff">And what is this?</font><font color="#ffffff"></font>
 
 560
 00:45:42,120 --> 00:45:43,920
-Pajamas.
+<font color="#ffffff">Pajamas.</font><font color="#ffffff"></font>
 
 561
 00:45:44,520 --> 00:45:47,320
-Everything in the closet is yours to wear.
+<font color="#ffffff">Everything in the closet is yours to wear.</font><font color="#ffffff"></font>
 
 562
 00:45:47,400 --> 00:45:48,720
-I'm generous.
+<font color="#ffffff">I'm generous.</font><font color="#ffffff"></font>
 
 563
 00:45:50,320 --> 00:45:53,680
-And I already washed your clothes for you.
+<font color="#ffffff">And I already washed your clothes for you.</font><font color="#ffffff"></font>
 
 564
 00:45:55,760 --> 00:45:57,680
-I'll wear my own clothes.
+<font color="#ffffff">I'll wear my own clothes.</font><font color="#ffffff"></font>
 
 565
 00:45:58,600 --> 00:45:59,720
-Give them back.
+<font color="#ffffff">Give them back.</font><font color="#ffffff"></font>
 
 566
 00:45:59,800 --> 00:46:00,880
-Hey.
+<font color="#ffffff">Hey.</font><font color="#ffffff"></font>
 
 567
 00:46:00,960 --> 00:46:02,720
-I'm the owner here.
+<font color="#ffffff">I'm the owner here.</font><font color="#ffffff"></font>
 
 568
 00:46:04,600 --> 00:46:06,320
-At the hotel,
+<font color="#ffffff">At the hotel,</font><font color="#ffffff"></font>
 
 569
 00:46:06,400 --> 00:46:08,200
-dry cleaning was 1,000 per piece, right?
+<font color="#ffffff">dry cleaning was 1,000 per piece, right?</font><font color="#ffffff"></font>
 
 570
 00:46:09,040 --> 00:46:10,200
-Here at my place,
+<font color="#ffffff">Here at my place,</font><font color="#ffffff"></font>
 
 571
 00:46:10,800 --> 00:46:12,760
-I'll only charge 300.
+<font color="#ffffff">I'll only charge 300.</font><font color="#ffffff"></font>
 
 572
 00:46:12,840 --> 00:46:13,880
-Deal?
+<font color="#ffffff">Deal?</font><font color="#ffffff"></font>
 
 573
 00:46:15,520 --> 00:46:17,560
-Gotcha, look at your face.
+<font color="#ffffff">Gotcha, look at your face.</font><font color="#ffffff"></font>
 
 574
 00:46:17,640 --> 00:46:19,040
-You like it, don't you?
+<font color="#ffffff">You like it, don't you?</font><font color="#ffffff"></font>
 
 575
 00:46:21,080 --> 00:46:24,400
-My clothes need to be handled with care.
+<font color="#ffffff">My clothes need to be handled with care.</font><font color="#ffffff"></font>
 
 576
 00:46:25,000 --> 00:46:26,800
-If they get damaged,
+<font color="#ffffff">If they get damaged,</font><font color="#ffffff"></font>
 
 577
 00:46:26,880 --> 00:46:28,800
-I'll charge you 10,000 per piece.
+<font color="#ffffff">I'll charge you 10,000 per piece.</font><font color="#ffffff"></font>
 
 578
 00:46:31,520 --> 00:46:32,720
-They won't get damaged.
+<font color="#ffffff">They won't get damaged.</font><font color="#ffffff"></font>
 
 579
 00:46:34,200 --> 00:46:35,760
-You can even charge me 100,000,
+<font color="#ffffff">You can even charge me 100,000,</font><font color="#ffffff"></font>
 
 580
 00:46:37,040 --> 00:46:38,360
-but…
+<font color="#ffffff">but…</font><font color="#ffffff"></font>
 
 581
 00:46:39,200 --> 00:46:41,520
-I'll pay with my body instead.
+<font color="#ffffff">I'll pay with my body instead.</font><font color="#ffffff"></font>
 
 582
 00:46:46,360 --> 00:46:47,440
-That won't be enough.
+<font color="#ffffff">That won't be enough.</font><font color="#ffffff"></font>
 
 583
 00:46:47,520 --> 00:46:48,920
-Hold on.
+<font color="#ffffff">Hold on.</font><font color="#ffffff"></font>
 
 584
 00:46:50,720 --> 00:46:51,760
-Inspector.
+<font color="#ffffff">Inspector.</font><font color="#ffffff"></font>
 
 585
 00:46:55,360 --> 00:46:57,080
-Don't worry, Inspector.
+<font color="#ffffff">Don't worry, Inspector.</font><font color="#ffffff"></font>
 
 586
 00:46:58,160 --> 00:47:00,440
-Everything of yours…
+<font color="#ffffff">Everything of yours…</font><font color="#ffffff"></font>
 
 587
 00:47:04,680 --> 00:47:06,560
-will definitely be handled with care.
+<font color="#ffffff">will definitely be handled with care.</font><font color="#ffffff"></font>
 
 588
 00:47:18,760 --> 00:47:22,120
-<i>I want to know what the killer's motive is</i>
+<font color="#ffffff"><i>I want to know what the killer's motive is</i></font><font color="#ffffff"></font>
 
 589
 00:47:22,200 --> 00:47:23,840
-<i>and who the next target will be.</i>
+<font color="#ffffff"><i>and who the next target will be.</i></font><font color="#ffffff"></font>
 
 590
 00:47:23,920 --> 00:47:27,040
-I just want to test Champ to see
-if he's hiding something.
+<font color="#ffffff">I just want to test Champ to see</font><font color="#ffffff">
+<font color="#ffffff">if he's hiding something.<font color="#ffffff"></font></font></font>
 
 591
 00:47:29,080 --> 00:47:30,480
-<i>Next time, you should be careful.</i>
+<font color="#ffffff"><i>Next time, you should be careful.</i></font><font color="#ffffff"></font>
 
 592
 00:47:30,560 --> 00:47:33,320
-<i>If something happens to you,</i>
-<i>how am I supposed to live?</i>
+<font color="#ffffff"><i>If something happens to you,</i></font><font color="#ffffff">
+<font color="#ffffff"><i>how am I supposed to live?</i></font><font color="#ffffff"></font></font>
 
 593
 00:47:33,400 --> 00:47:35,160
-<i>You're that desperate for me</i>
-<i>to stay at your place.</i>
+<font color="#ffffff"><i>You're that desperate for me</i></font><font color="#ffffff">
+<font color="#ffffff"><i>to stay at your place.</i></font><font color="#ffffff"></font></font>
 
 594
 00:47:35,240 --> 00:47:36,360
-<i>Are you lacking some warmth?</i>
+<font color="#ffffff"><i>Are you lacking some warmth?</i></font><font color="#ffffff"></font>
 
 595
 00:47:36,440 --> 00:47:38,080
-<i>So are you going to give me that warmth?</i>
+<font color="#ffffff"><i>So are you going to give me that warmth?</i></font><font color="#ffffff"></font>
