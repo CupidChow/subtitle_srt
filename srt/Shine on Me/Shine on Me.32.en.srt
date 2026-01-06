@@ -1,0 +1,4817 @@
+1
+00:00:11,660 --> 00:00:14,400
+♪You are the sun in my life♪
+
+2
+00:00:18,780 --> 00:00:21,460
+♪You're the light of my love♪
+
+3
+00:00:26,540 --> 00:00:30,400
+♪When I'm lost in the dark♪
+
+4
+00:00:33,200 --> 00:00:35,700
+♪Every shadow fades away♪
+
+5
+00:01:01,500 --> 00:01:04,200
+♪You are the sun in my life♪
+
+6
+00:01:08,680 --> 00:01:11,300
+♪You're the light of my love♪
+
+7
+00:01:16,420 --> 00:01:20,360
+♪When I'm lost in the dark♪
+
+8
+00:01:23,140 --> 00:01:25,660
+♪Every shadow fades away♪
+
+9
+00:01:25,780 --> 00:01:26,620
+[Shine On Me]
+
+10
+00:01:26,620 --> 00:01:29,960
+[Adapted from Gu Man's novel,
+Shine On Me]
+
+11
+00:01:30,010 --> 00:01:33,990
+[Episode 32]
+
+12
+00:01:38,360 --> 00:01:39,979
+Wow, there's more today.
+
+13
+00:01:40,620 --> 00:01:42,039
+Mr. Lin has been ordering us
+
+14
+00:01:42,039 --> 00:01:43,500
+snacks and milk tea
+for three days straight.
+
+15
+00:01:44,259 --> 00:01:44,580
+Is there
+
+16
+00:01:44,960 --> 00:01:46,280
+some kind of special occasion?
+
+17
+00:01:49,000 --> 00:01:50,420
+I guess so.
+
+18
+00:01:52,640 --> 00:01:54,880
+Today it's red bean cake
+
+19
+00:01:56,440 --> 00:01:57,420
+and red bean milk tea.
+
+20
+00:01:58,600 --> 00:02:00,920
+Yesterday was red bean soup
+with dried tangerine peel.
+
+21
+00:02:01,500 --> 00:02:02,160
+Xiguang,
+
+22
+00:02:03,120 --> 00:02:04,160
+is your boyfriend
+
+23
+00:02:04,620 --> 00:02:05,920
+obsessed with red beans?
+
+24
+00:02:08,060 --> 00:02:09,000
+I have no idea.
+
+25
+00:02:10,660 --> 00:02:12,580
+Maybe his family had
+a massive red bean harvest.
+
+26
+00:02:13,400 --> 00:02:14,060
+Let me ask him.
+
+27
+00:02:18,060 --> 00:02:18,680
+Hello there,
+
+28
+00:02:19,060 --> 00:02:20,000
+our generous Mr. Lin.
+
+29
+00:02:21,260 --> 00:02:22,860
+When exactly are we heading to Nanjing?
+
+30
+00:02:26,520 --> 00:02:26,940
+Thanks.
+
+31
+00:02:28,740 --> 00:02:29,100
+Take a seat.
+
+32
+00:02:29,860 --> 00:02:30,620
+It's been a long trip.
+
+33
+00:02:30,860 --> 00:02:31,320
+It's fine.
+
+34
+00:02:31,440 --> 00:02:32,860
+The drive from Suzhou to Nanjing
+doesn't take long.
+
+35
+00:02:34,380 --> 00:02:35,200
+- Here are the documents.
+- Thanks.
+
+36
+00:02:38,620 --> 00:02:39,740
+Wang asked me to come along too.
+
+37
+00:02:39,820 --> 00:02:41,060
+That's right. Take a look.
+
+38
+00:02:41,200 --> 00:02:42,220
+We could use some feedback.
+
+39
+00:02:42,320 --> 00:02:42,660
+Alright.
+
+40
+00:02:42,740 --> 00:02:43,380
+Come on, have a seat.
+
+41
+00:02:44,540 --> 00:02:45,079
+Let's get started.
+
+42
+00:02:45,079 --> 00:02:45,600
+Sure.
+
+43
+00:02:46,740 --> 00:02:47,579
+This is the result
+
+44
+00:02:47,579 --> 00:02:48,480
+of integrating
+
+45
+00:02:48,640 --> 00:02:49,960
+the PV system
+
+46
+00:02:50,280 --> 00:02:51,160
+into our original design.
+
+47
+00:02:51,680 --> 00:02:52,320
+The PV modules
+
+48
+00:02:52,360 --> 00:02:53,540
+are mainly installed on the roof
+
+49
+00:02:53,540 --> 00:02:54,260
+and the side elevations.
+
+50
+00:02:54,720 --> 00:02:55,900
+On the sides,
+
+51
+00:02:55,920 --> 00:02:57,300
+they function as sunshades.
+
+52
+00:02:57,660 --> 00:02:58,520
+Take a look
+
+53
+00:02:58,880 --> 00:02:59,480
+and give us your thoughts.
+
+54
+00:03:09,120 --> 00:03:11,560
+I think there might be an issue here.
+
+55
+00:03:13,340 --> 00:03:14,640
+If the spacing between the modules
+
+56
+00:03:14,640 --> 00:03:15,860
+on the lower part
+of the building is off,
+
+57
+00:03:16,040 --> 00:03:17,020
+it could cause
+
+58
+00:03:17,060 --> 00:03:17,720
+localized shadows
+
+59
+00:03:17,720 --> 00:03:19,260
+when the light shifts.
+
+60
+00:03:19,500 --> 00:03:20,340
+Those shaded areas
+
+61
+00:03:20,340 --> 00:03:21,780
+won't just stop working.
+
+62
+00:03:22,040 --> 00:03:23,300
+They'll actually consume power
+
+63
+00:03:23,300 --> 00:03:24,860
+from other cells and turn it into heat.
+
+64
+00:03:25,160 --> 00:03:26,560
+This leads to localized overheating,
+
+65
+00:03:26,560 --> 00:03:27,660
+triggering the "hot spot effect,"
+
+66
+00:03:28,000 --> 00:03:29,240
+which degrades the performance
+
+67
+00:03:29,300 --> 00:03:30,060
+and lifespan of the PV modules.
+
+68
+00:03:30,320 --> 00:03:31,220
+While we can use
+
+69
+00:03:31,220 --> 00:03:32,220
+bypass diodes
+
+70
+00:03:32,380 --> 00:03:33,880
+to mitigate the effect,
+
+71
+00:03:34,260 --> 00:03:34,980
+the risk
+
+72
+00:03:34,980 --> 00:03:35,680
+is still quite high.
+
+73
+00:03:38,560 --> 00:03:39,160
+I see.
+
+74
+00:03:39,960 --> 00:03:40,840
+I thought our communication
+
+75
+00:03:40,840 --> 00:03:41,720
+was thorough enough,
+
+76
+00:03:42,100 --> 00:03:42,440
+but I didn't expect
+
+77
+00:03:42,440 --> 00:03:43,740
+this kind of problem to pop up.
+
+78
+00:03:45,160 --> 00:03:46,100
+We'll have to keep refining it.
+
+79
+00:03:47,660 --> 00:03:49,079
+Should we just remove
+
+80
+00:03:49,280 --> 00:03:50,780
+the PV modules from the lower section?
+
+81
+00:03:51,680 --> 00:03:52,420
+But if we do that,
+
+82
+00:03:52,660 --> 00:03:53,480
+the total power output
+
+83
+00:03:53,480 --> 00:03:54,420
+will take a huge hit.
+
+84
+00:03:57,440 --> 00:03:57,940
+No rush.
+
+85
+00:03:59,800 --> 00:04:00,640
+We still have time.
+
+86
+00:04:13,000 --> 00:04:13,320
+Have a seat.
+
+87
+00:04:15,680 --> 00:04:16,240
+Xiguang,
+
+88
+00:04:17,019 --> 00:04:17,779
+did you have something
+
+89
+00:04:17,899 --> 00:04:19,019
+on your mind earlier?
+
+90
+00:04:20,680 --> 00:04:22,520
+I wanted to ask
+
+91
+00:04:23,040 --> 00:04:24,700
+if we're strictly limited to adding
+
+92
+00:04:24,700 --> 00:04:25,840
+PV to the original design.
+
+93
+00:04:26,260 --> 00:04:27,120
+Is it possible
+
+94
+00:04:27,120 --> 00:04:28,000
+to make some small adjustments
+
+95
+00:04:28,000 --> 00:04:29,060
+to the design itself?
+
+96
+00:04:29,840 --> 00:04:30,460
+What kind of adjustments?
+
+97
+00:04:30,640 --> 00:04:31,260
+Let's hear it.
+
+98
+00:04:31,940 --> 00:04:34,260
+How about turning the podium
+
+99
+00:04:34,280 --> 00:04:36,100
+into a wave design?
+
+100
+00:04:37,000 --> 00:04:37,540
+Waves?
+
+101
+00:04:39,740 --> 00:04:40,720
+I don't know much about architecture.
+
+102
+00:04:40,720 --> 00:04:41,640
+I'm just thinking out loud.
+
+103
+00:04:44,159 --> 00:04:45,460
+I mean,
+
+104
+00:04:45,840 --> 00:04:48,120
+the main building
+keeps the sail imagery.
+
+105
+00:04:48,200 --> 00:04:49,800
+But the part that was the hull
+
+106
+00:04:49,840 --> 00:04:51,260
+expands outward
+
+107
+00:04:51,300 --> 00:04:52,600
+in layers of curves,
+
+108
+00:04:52,600 --> 00:04:53,360
+like waves.
+
+109
+00:04:53,659 --> 00:04:55,340
+The PV panels would be spread out
+like scales.
+
+110
+00:04:55,680 --> 00:04:56,440
+When the sun hits them,
+
+111
+00:04:56,500 --> 00:04:58,000
+it would look like sunlight
+shimmering on the sea.
+
+112
+00:04:58,380 --> 00:04:59,940
+This would increase
+
+113
+00:04:59,960 --> 00:05:01,300
+the total surface area
+for the PV modules.
+
+114
+00:05:01,720 --> 00:05:03,160
+Plus, a wave design
+
+115
+00:05:03,160 --> 00:05:04,100
+makes it easier for us
+
+116
+00:05:04,100 --> 00:05:05,440
+to adjust the installation angle
+
+117
+00:05:05,480 --> 00:05:07,300
+to the optimal tilt for Suzhou.
+
+118
+00:05:10,320 --> 00:05:11,300
+Humanity's pursuit of technology
+
+119
+00:05:11,500 --> 00:05:12,240
+and the future
+
+120
+00:05:12,620 --> 00:05:14,040
+is like a small sailboat
+
+121
+00:05:14,200 --> 00:05:15,100
+on a vast,
+
+122
+00:05:15,280 --> 00:05:16,720
+directionless ocean.
+
+123
+00:05:17,860 --> 00:05:18,800
+Aunt, you said
+
+124
+00:05:18,980 --> 00:05:20,100
+Chengrui's concept
+
+125
+00:05:20,100 --> 00:05:20,860
+was "Setting Sail
+and Braving the Waves."
+
+126
+00:05:21,260 --> 00:05:22,580
+Before, it was just the "sail."
+
+127
+00:05:22,940 --> 00:05:23,820
+With this change,
+
+128
+00:05:23,900 --> 00:05:25,060
+we actually include the "waves" part.
+
+129
+00:05:25,360 --> 00:05:26,480
+It ties the whole theme
+together perfectly.
+
+130
+00:05:27,040 --> 00:05:27,380
+Yes.
+
+131
+00:05:28,980 --> 00:05:29,760
+I can see it now.
+
+132
+00:05:30,460 --> 00:05:30,780
+But
+
+133
+00:05:30,820 --> 00:05:32,860
+why didn't you bring this up
+during the meeting?
+
+134
+00:05:33,300 --> 00:05:34,940
+Well, I don't know Mr. Wang
+
+135
+00:05:34,980 --> 00:05:36,000
+that well.
+
+136
+00:05:36,400 --> 00:05:38,300
+If he felt I was overstepping my bounds,
+
+137
+00:05:38,360 --> 00:05:39,320
+it would have been awkward.
+
+138
+00:05:40,040 --> 00:05:41,180
+Not at all.
+
+139
+00:05:41,540 --> 00:05:43,240
+Wang is very straightforward
+
+140
+00:05:43,260 --> 00:05:43,659
+and doesn't care
+
+141
+00:05:43,659 --> 00:05:45,060
+about social pleasantries.
+
+142
+00:05:46,080 --> 00:05:47,880
+Still, Xiguang,
+
+143
+00:05:48,260 --> 00:05:49,380
+you're so worldly
+
+144
+00:05:49,500 --> 00:05:50,240
+and such a natural with people.
+
+145
+00:05:52,880 --> 00:05:54,040
+I wouldn't call it being worldly.
+
+146
+00:05:54,880 --> 00:05:55,780
+She's just considerate
+
+147
+00:05:55,960 --> 00:05:57,000
+and she always tries to see things
+
+148
+00:05:57,000 --> 00:05:57,700
+from other people's perspectives.
+
+149
+00:05:58,360 --> 00:05:59,600
+Isn't that exactly
+what being worldly means?
+
+150
+00:06:01,400 --> 00:06:01,880
+Still,
+
+151
+00:06:02,200 --> 00:06:03,560
+you don't have to be that considerate
+
+152
+00:06:03,700 --> 00:06:04,500
+all the time.
+
+153
+00:06:04,820 --> 00:06:05,200
+It's
+
+154
+00:06:05,600 --> 00:06:06,600
+a bit unfair to yourself.
+
+155
+00:06:06,960 --> 00:06:07,760
+I won't.
+
+156
+00:06:08,120 --> 00:06:09,000
+I'm no fool.
+
+157
+00:06:10,360 --> 00:06:10,680
+Fair enough.
+
+158
+00:06:11,300 --> 00:06:12,320
+I'll
+
+159
+00:06:12,360 --> 00:06:13,700
+pass your suggestions along
+
+160
+00:06:13,700 --> 00:06:14,440
+to Mr. Wang.
+
+161
+00:06:14,760 --> 00:06:15,040
+Okay.
+
+162
+00:06:17,940 --> 00:06:18,800
+Uncle, Aunt,
+
+163
+00:06:18,800 --> 00:06:20,140
+Yusen and I are heading back to Suzhou.
+
+164
+00:06:20,660 --> 00:06:20,920
+Alright.
+
+165
+00:06:21,220 --> 00:06:22,080
+I'll see you out.
+
+166
+00:06:22,320 --> 00:06:22,620
+Okay.
+
+167
+00:06:23,180 --> 00:06:23,480
+Let's go.
+
+168
+00:06:25,780 --> 00:06:26,040
+Let's go.
+
+169
+00:06:27,960 --> 00:06:29,140
+I didn't realize you had
+
+170
+00:06:29,260 --> 00:06:30,360
+a talent for architecture, Xiguang.
+
+171
+00:06:31,120 --> 00:06:32,340
+Oh, stop it.
+
+172
+00:06:32,440 --> 00:06:33,760
+Don't overpraise me.
+
+173
+00:06:34,020 --> 00:06:35,500
+Anyone can give an opinion
+
+174
+00:06:35,520 --> 00:06:36,880
+or have a moment of inspiration.
+
+175
+00:06:37,320 --> 00:06:38,880
+Turning it into an actual design
+
+176
+00:06:38,900 --> 00:06:40,020
+on paper
+
+177
+00:06:40,120 --> 00:06:41,320
+requires real vision
+
+178
+00:06:41,340 --> 00:06:42,300
+and a solid foundation
+
+179
+00:06:42,360 --> 00:06:43,520
+from the designers.
+
+180
+00:06:44,960 --> 00:06:45,920
+Everyone knows that.
+
+181
+00:06:46,420 --> 00:06:47,060
+But
+
+182
+00:06:47,360 --> 00:06:48,580
+can't I just praise my own girlfriend
+
+183
+00:06:48,580 --> 00:06:49,140
+in private?
+
+184
+00:06:54,120 --> 00:06:55,480
+Fine.
+
+185
+00:06:55,920 --> 00:06:58,360
+Your girlfriend
+was being a bit of a killjoy.
+
+186
+00:06:59,400 --> 00:07:00,280
+How about she treats you to dinner
+
+187
+00:07:00,280 --> 00:07:00,740
+as an apology?
+
+188
+00:07:01,580 --> 00:07:02,840
+How about
+
+189
+00:07:03,560 --> 00:07:04,080
+iron pot stews?
+
+190
+00:07:06,120 --> 00:07:06,560
+What a coincidence.
+
+191
+00:07:06,900 --> 00:07:07,960
+That's exactly what your boyfriend
+was craving.
+
+192
+00:07:13,300 --> 00:07:14,800
+[Mr. Hua]
+
+193
+00:07:21,960 --> 00:07:23,100
+Nie, I almost forgot.
+
+194
+00:07:23,640 --> 00:07:25,020
+You and Mr. Lin
+are going to Nanjing today,
+
+195
+00:07:25,020 --> 00:07:25,380
+right?
+
+196
+00:07:25,760 --> 00:07:27,100
+I've designed
+
+197
+00:07:27,120 --> 00:07:28,180
+a few PV gadgets.
+
+198
+00:07:28,480 --> 00:07:30,080
+Show them to the designers.
+
+199
+00:07:30,500 --> 00:07:31,120
+Maybe they can use them
+
+200
+00:07:31,120 --> 00:07:32,880
+as accents
+for the Intelligent Digital Center.
+
+201
+00:07:34,900 --> 00:07:35,900
+We just left.
+
+202
+00:07:36,140 --> 00:07:36,820
+I'll send them over.
+
+203
+00:07:39,220 --> 00:07:39,520
+Alright.
+
+204
+00:07:39,920 --> 00:07:40,840
+I'll get back to work then.
+
+205
+00:07:43,600 --> 00:07:45,140
+Thanks for your hard work, Mr. Hua.
+
+206
+00:07:50,260 --> 00:07:51,159
+Mr. Hua is the one
+
+207
+00:07:51,159 --> 00:07:52,680
+with the real design talent.
+
+208
+00:07:53,200 --> 00:07:54,900
+These gadgets are so cute.
+
+209
+00:07:58,500 --> 00:08:00,360
+There's so much going on
+with the project.
+
+210
+00:08:00,560 --> 00:08:01,960
+I hope it doesn't interfere
+
+211
+00:08:01,960 --> 00:08:02,740
+with Mr. Hua's R&D.
+
+212
+00:08:04,240 --> 00:08:05,620
+I'm sure he doesn't feel that way.
+
+213
+00:08:06,400 --> 00:08:07,020
+After all,
+
+214
+00:08:07,200 --> 00:08:08,500
+the ultimate goal of PV research
+
+215
+00:08:08,680 --> 00:08:09,300
+is its application.
+
+216
+00:08:09,600 --> 00:08:10,340
+They're equally important.
+
+217
+00:08:11,380 --> 00:08:12,000
+You're right.
+
+218
+00:08:13,020 --> 00:08:14,340
+I was overthinking it.
+
+219
+00:08:18,850 --> 00:08:20,440
+[Forward One by One]
+
+220
+00:08:20,440 --> 00:08:21,940
+[Uncle]
+
+221
+00:08:30,020 --> 00:08:30,640
+Uncle.
+
+222
+00:08:31,080 --> 00:08:31,780
+Nie,
+
+223
+00:08:32,340 --> 00:08:33,020
+if you guys had ideas,
+
+224
+00:08:33,020 --> 00:08:34,360
+why didn't you just tell me?
+
+225
+00:08:34,720 --> 00:08:35,760
+Your uncle couldn't explain it clearly.
+
+226
+00:08:36,159 --> 00:08:37,780
+If you're nearby, just get back here.
+
+227
+00:08:38,340 --> 00:08:39,720
+These landscape installations
+
+228
+00:08:39,720 --> 00:08:40,500
+are very interesting too.
+
+229
+00:08:40,799 --> 00:08:41,740
+Let's look into them together.
+
+230
+00:08:42,360 --> 00:08:43,260
+Will do, Mr. Wang.
+
+231
+00:08:43,559 --> 00:08:44,520
+We just started.
+
+232
+00:08:44,620 --> 00:08:45,620
+We're coming back right now.
+
+233
+00:08:56,050 --> 00:08:59,280
+[PV System Integration and Design]
+
+234
+00:09:21,220 --> 00:09:23,760
+I've been juggling so much lately,
+
+235
+00:09:24,200 --> 00:09:26,280
+just non-stop traveling
+between Nanjing and Suzhou.
+
+236
+00:09:26,580 --> 00:09:28,340
+I was finally supposed
+to get some downtime this weekend.
+
+237
+00:09:29,180 --> 00:09:30,180
+Yin Jie probably thinks
+
+238
+00:09:30,180 --> 00:09:32,160
+I'm out on some dream date,
+
+239
+00:09:32,660 --> 00:09:33,880
+but she'd never imagine
+I'm actually just cooped up at home
+
+240
+00:09:33,880 --> 00:09:35,120
+studying with my boyfriend.
+
+241
+00:09:37,420 --> 00:09:38,840
+Wasn't this your idea?
+
+242
+00:09:40,220 --> 00:09:42,180
+I suggested going
+to a nearby city for fun.
+
+243
+00:09:42,560 --> 00:09:44,320
+You said we should study at home
+
+244
+00:09:45,320 --> 00:09:47,060
+to experience what it was like
+
+245
+00:09:47,500 --> 00:09:48,480
+when lovers study together
+
+246
+00:09:48,620 --> 00:09:49,720
+back in college.
+
+247
+00:09:50,420 --> 00:09:52,940
+I was just acting.
+
+248
+00:09:52,980 --> 00:09:55,020
+Who knew
+you'd actually take it seriously?
+
+249
+00:09:59,960 --> 00:10:00,400
+This is bad.
+
+250
+00:10:01,580 --> 00:10:02,680
+My brain is turning into mush.
+
+251
+00:10:07,120 --> 00:10:08,120
+We have a fainting patient here.
+
+252
+00:10:08,940 --> 00:10:09,420
+Let me see.
+
+253
+00:10:10,580 --> 00:10:11,780
+Do not illegally practice...
+
+254
+00:10:22,290 --> 00:10:27,930
+♪I hear my heartbeat racing♪
+
+255
+00:10:30,090 --> 00:10:37,170
+♪I feel your whisper in my ear♪
+
+256
+00:10:38,090 --> 00:10:40,420
+♪I breathe carefully♪
+
+257
+00:10:40,420 --> 00:10:41,080
+What?
+
+258
+00:10:42,010 --> 00:10:45,380
+♪How I wish I could stay right here♪
+
+259
+00:10:45,380 --> 00:10:46,960
+Medicine.
+
+260
+00:10:48,330 --> 00:10:51,160
+♪With you♪
+
+261
+00:10:51,160 --> 00:10:52,440
+Well, doing this to my girlfriend
+
+262
+00:10:53,720 --> 00:10:54,620
+should be perfectly legit.
+
+263
+00:10:54,620 --> 00:10:57,380
+♪Just you and me♪
+
+264
+00:10:58,680 --> 00:11:00,760
+♪Feels like the world just slips away,
+leaving only me and you♪
+
+265
+00:11:00,760 --> 00:11:01,320
+Your head still spinning?
+
+266
+00:11:02,280 --> 00:11:03,180
+Dr. Lin.
+
+267
+00:11:04,300 --> 00:11:05,180
+Dr. Lin, PhD.
+
+268
+00:11:06,740 --> 00:11:08,160
+So, which part of med school
+
+269
+00:11:08,160 --> 00:11:08,960
+taught you
+
+270
+00:11:09,460 --> 00:11:11,160
+that a kiss cures dizziness?
+
+271
+00:11:13,340 --> 00:11:14,140
+This research
+
+272
+00:11:14,720 --> 00:11:15,560
+is still in the experimental phase.
+
+273
+00:11:16,400 --> 00:11:17,320
+It requires multiple trials
+
+274
+00:11:18,120 --> 00:11:19,260
+to reach a proper conclusion.
+
+275
+00:11:21,580 --> 00:11:23,320
+So, am I your test subject?
+
+276
+00:11:25,700 --> 00:11:26,580
+You're my research partner.
+
+277
+00:11:27,900 --> 00:11:28,980
+The kind that gets a co-author credit.
+
+278
+00:11:28,980 --> 00:11:31,900
+♪Just you and me♪
+
+279
+00:11:57,620 --> 00:11:58,860
+Don't come any closer.
+
+280
+00:11:59,640 --> 00:12:01,300
+Your research partner says
+
+281
+00:12:01,360 --> 00:12:03,340
+today's experiment is over.
+
+282
+00:12:07,480 --> 00:12:08,620
+I was just reaching for the book.
+
+283
+00:12:20,320 --> 00:12:20,700
+By the way,
+
+284
+00:12:21,580 --> 00:12:22,520
+I was thinking
+
+285
+00:12:22,520 --> 00:12:23,180
+while I was reading.
+
+286
+00:12:23,520 --> 00:12:24,580
+Should we
+
+287
+00:12:24,640 --> 00:12:26,040
+change the company's name?
+
+288
+00:12:26,780 --> 00:12:27,360
+I think
+
+289
+00:12:27,760 --> 00:12:28,960
+"Shuangyuan" is a bit plain.
+
+290
+00:12:29,400 --> 00:12:31,500
+It feels like you just smashed
+
+291
+00:12:31,500 --> 00:12:32,660
+"Yuancheng" and "Shengyuan" together.
+
+292
+00:12:35,340 --> 00:12:36,580
+Shengyuan and Yuancheng
+
+293
+00:12:36,580 --> 00:12:38,420
+are big names
+in the Yangtze River Delta.
+
+294
+00:12:39,480 --> 00:12:40,600
+There's no need
+to distance ourselves so much.
+
+295
+00:12:43,080 --> 00:12:44,220
+True.
+
+296
+00:12:46,580 --> 00:12:47,620
+It's a pity though.
+
+297
+00:12:48,200 --> 00:12:49,540
+I just had a flash of brilliance
+
+298
+00:12:49,540 --> 00:12:51,380
+and came up with a perfect name.
+
+299
+00:12:51,400 --> 00:12:52,920
+I feel like it would be super lucky.
+
+300
+00:12:56,580 --> 00:12:57,220
+What is it?
+
+301
+00:12:58,080 --> 00:12:59,000
+Guangyu.
+
+302
+00:13:00,160 --> 00:13:01,020
+I combined
+
+303
+00:13:01,020 --> 00:13:01,800
+both of our names.
+
+304
+00:13:01,800 --> 00:13:02,900
+But since it's ladies first,
+
+305
+00:13:02,900 --> 00:13:04,260
+my name goes in front.
+
+306
+00:13:04,260 --> 00:13:05,020
+I'm definitely not trying
+
+307
+00:13:05,020 --> 00:13:06,120
+to overshadow you.
+
+308
+00:13:07,120 --> 00:13:07,520
+That works.
+
+309
+00:13:07,920 --> 00:13:08,380
+Let's change it.
+
+310
+00:13:10,380 --> 00:13:11,280
+No more relying on the big names?
+
+311
+00:13:12,700 --> 00:13:13,560
+Did you change your mind
+
+312
+00:13:13,560 --> 00:13:14,320
+just because I put
+
+313
+00:13:14,320 --> 00:13:15,480
+our names together?
+
+314
+00:13:17,700 --> 00:13:18,540
+You're overthinking it.
+
+315
+00:13:19,280 --> 00:13:20,380
+It's purely because
+
+316
+00:13:20,940 --> 00:13:22,040
+the name is very fitting.
+
+317
+00:13:24,160 --> 00:13:25,140
+"Guang", meaning "light", is energy;
+
+318
+00:13:25,540 --> 00:13:26,720
+"Yu", meaning "island" is the carrier.
+
+319
+00:13:27,580 --> 00:13:28,920
+"Guangyu" can be interpreted
+
+320
+00:13:29,020 --> 00:13:30,960
+as an island that absorbs
+and stores light.
+
+321
+00:13:31,040 --> 00:13:32,820
+It's a perfect match for our industry.
+
+322
+00:13:34,500 --> 00:13:35,000
+Xiguang,
+
+323
+00:13:35,320 --> 00:13:37,480
+you have a real gift for naming things.
+
+324
+00:13:41,340 --> 00:13:43,160
+I don't know about being gifted.
+
+325
+00:13:44,920 --> 00:13:45,880
+But I do know
+
+326
+00:13:46,300 --> 00:13:47,400
+you're incredibly good
+at spinning things.
+
+327
+00:13:57,280 --> 00:13:57,760
+Grandma?
+
+328
+00:13:58,020 --> 00:13:58,940
+Guang,
+
+329
+00:13:59,360 --> 00:14:01,080
+your grandpa is driving me up the wall.
+
+330
+00:14:01,620 --> 00:14:02,360
+What's the matter?
+
+331
+00:14:02,380 --> 00:14:03,340
+What did he do now?
+
+332
+00:14:03,420 --> 00:14:04,660
+He's been dizzy for two days now.
+
+333
+00:14:04,700 --> 00:14:05,860
+I've tried to get him to the hospital,
+
+334
+00:14:05,860 --> 00:14:07,080
+but he's totally digging his heels in
+
+335
+00:14:07,260 --> 00:14:08,280
+and won't even let me touch him.
+
+336
+00:14:08,500 --> 00:14:10,340
+He claims that whenever I do,
+his head starts spinning,
+
+337
+00:14:10,380 --> 00:14:11,800
+but as long as I leave him alone,
+he feels fine.
+
+338
+00:14:13,480 --> 00:14:13,800
+Is he
+
+339
+00:14:14,540 --> 00:14:15,780
+feeling super lightheaded?
+
+340
+00:14:16,520 --> 00:14:17,620
+Has he been throwing up or anything?
+
+341
+00:14:19,040 --> 00:14:20,040
+No throwing up,
+
+342
+00:14:20,340 --> 00:14:21,740
+but this whole dizzy spell
+
+343
+00:14:21,760 --> 00:14:22,760
+just feels off.
+
+344
+00:14:22,820 --> 00:14:23,820
+I can't really put my finger on it.
+
+345
+00:14:24,400 --> 00:14:24,920
+How about this?
+
+346
+00:14:25,560 --> 00:14:26,360
+Tomorrow is Sunday.
+
+347
+00:14:26,360 --> 00:14:27,300
+I'll head back to Wuxi
+
+348
+00:14:27,300 --> 00:14:28,240
+to check on him.
+
+349
+00:14:28,540 --> 00:14:29,460
+If he's still like this by then,
+
+350
+00:14:29,580 --> 00:14:30,640
+I'll drag him to the hospital,
+whether he likes it or not.
+
+351
+00:14:31,540 --> 00:14:32,120
+That's good.
+
+352
+00:14:32,300 --> 00:14:33,160
+Since you're coming back,
+
+353
+00:14:33,480 --> 00:14:35,100
+I will braise a chicken
+
+354
+00:14:35,160 --> 00:14:36,400
+and buy some wild crucian carp
+
+355
+00:14:36,400 --> 00:14:37,840
+to stew a fresh soup for you,
+
+356
+00:14:37,860 --> 00:14:38,220
+okay?
+
+357
+00:14:38,500 --> 00:14:39,960
+Don't go to all that trouble.
+
+358
+00:14:39,960 --> 00:14:41,420
+I'll just grab something real quick.
+
+359
+00:14:41,460 --> 00:14:42,580
+Seeing Grandpa is my main priority.
+
+360
+00:14:43,260 --> 00:14:44,180
+I've been saving these chickens
+
+361
+00:14:44,200 --> 00:14:45,680
+just for you.
+
+362
+00:14:46,500 --> 00:14:47,860
+So, what time do you think
+you'll arrive?
+
+363
+00:14:50,220 --> 00:14:51,200
+Around 9:30 AM.
+
+364
+00:14:51,880 --> 00:14:53,440
+Great, we'll be waiting for you.
+
+365
+00:14:57,480 --> 00:14:58,340
+Is your grandpa sick?
+
+366
+00:14:58,920 --> 00:14:59,720
+Grandma said
+
+367
+00:14:59,720 --> 00:15:00,960
+he's been feeling dizzy for two days
+
+368
+00:15:00,960 --> 00:15:01,980
+but refuses to go to the hospital.
+
+369
+00:15:02,800 --> 00:15:03,840
+That's just how he is,
+
+370
+00:15:04,020 --> 00:15:04,820
+stubborn as a mule.
+
+371
+00:15:05,000 --> 00:15:06,080
+Back in the day, whenever he got sick,
+
+372
+00:15:06,080 --> 00:15:07,080
+he'd just find a village doctor
+
+373
+00:15:07,080 --> 00:15:08,060
+and get some meds.
+
+374
+00:15:08,800 --> 00:15:09,700
+I'm afraid
+
+375
+00:15:09,820 --> 00:15:10,820
+he won't listen to me either
+even if I go back.
+
+376
+00:15:15,200 --> 00:15:16,300
+Actually, I have a pretty good idea
+
+377
+00:15:17,600 --> 00:15:18,640
+for a situation like this.
+
+378
+00:15:19,060 --> 00:15:19,520
+What?
+
+379
+00:15:20,720 --> 00:15:22,220
+If he won't go to the hospital,
+
+380
+00:15:22,900 --> 00:15:23,660
+why don't you
+
+381
+00:15:24,100 --> 00:15:25,240
+just bring the doctor to him?
+
+382
+00:15:26,320 --> 00:15:27,180
+Since he's dealing with dizziness,
+
+383
+00:15:27,520 --> 00:15:28,600
+that's right up my alley.
+
+384
+00:15:30,240 --> 00:15:31,280
+What do you think
+about bringing me along?
+
+385
+00:15:43,740 --> 00:15:45,600
+Seriously, you've run out here
+
+386
+00:15:46,200 --> 00:15:47,940
+like six times already.
+
+387
+00:15:48,220 --> 00:15:50,060
+What are you rushing for?
+
+388
+00:15:50,880 --> 00:15:51,720
+Look who's talking.
+
+389
+00:15:51,960 --> 00:15:53,160
+You've been sitting here
+
+390
+00:15:53,180 --> 00:15:54,160
+since 8 AM.
+
+391
+00:15:54,400 --> 00:15:55,600
+And you have the nerve
+to call me impatient.
+
+392
+00:15:56,840 --> 00:15:58,820
+I'm just soaking up some sun
+
+393
+00:15:59,140 --> 00:16:01,000
+and getting
+
+394
+00:16:01,060 --> 00:16:03,640
+my vitamin A, B, C and D.
+
+395
+00:16:06,340 --> 00:16:07,600
+Yesterday, Guang
+
+396
+00:16:07,920 --> 00:16:09,020
+told me
+
+397
+00:16:09,020 --> 00:16:10,240
+she was bringing her boyfriend home.
+
+398
+00:16:10,700 --> 00:16:11,400
+She said
+
+399
+00:16:11,400 --> 00:16:12,720
+he used to be a doctor
+
+400
+00:16:12,860 --> 00:16:13,800
+and could check you out.
+
+401
+00:16:14,260 --> 00:16:16,120
+I was so excited I barely slept a wink.
+
+402
+00:16:16,660 --> 00:16:17,000
+How did she
+
+403
+00:16:17,000 --> 00:16:18,440
+suddenly end up with a boyfriend?
+
+404
+00:16:18,720 --> 00:16:20,240
+I wonder what he looks like.
+
+405
+00:16:20,720 --> 00:16:22,460
+Yesterday you were going on and on
+
+406
+00:16:22,840 --> 00:16:24,640
+about how he just needs
+to be a decent guy.
+
+407
+00:16:25,420 --> 00:16:28,440
+Today, all you care about is his looks.
+
+408
+00:16:28,720 --> 00:16:29,840
+Why are you being so annoying?
+
+409
+00:16:30,660 --> 00:16:31,480
+Don't think you're getting a free pass
+
+410
+00:16:31,520 --> 00:16:32,480
+just because you're feeling dizzy.
+
+411
+00:16:32,540 --> 00:16:34,240
+Fine.
+
+412
+00:16:36,560 --> 00:16:37,340
+A car's coming.
+
+413
+00:16:38,840 --> 00:16:39,960
+It has out-of-town plates.
+
+414
+00:16:40,080 --> 00:16:40,980
+It's definitely them.
+
+415
+00:16:54,320 --> 00:16:55,160
+Grandma.
+
+416
+00:16:55,220 --> 00:16:55,720
+Guang.
+
+417
+00:16:55,720 --> 00:16:56,460
+Grandpa.
+
+418
+00:16:58,780 --> 00:16:59,320
+Grandpa.
+
+419
+00:16:59,480 --> 00:17:00,860
+Guang.
+
+420
+00:17:02,040 --> 00:17:03,780
+Have you two been waiting in the yard
+this whole time?
+
+421
+00:17:03,860 --> 00:17:04,420
+I just got here.
+
+422
+00:17:04,599 --> 00:17:06,000
+Your grandpa's been waiting
+since early this morning.
+
+423
+00:17:08,460 --> 00:17:09,140
+Grandpa, Grandma,
+
+424
+00:17:09,760 --> 00:17:11,900
+this is my boyfriend, Lin Yusen.
+
+425
+00:17:12,119 --> 00:17:12,760
+This is my grandpa and grandma.
+
+426
+00:17:13,560 --> 00:17:14,579
+Hello.
+
+427
+00:17:14,599 --> 00:17:15,640
+Hello, Lin.
+
+428
+00:17:16,220 --> 00:17:16,660
+Hello.
+
+429
+00:17:19,119 --> 00:17:19,720
+Thank you, Grandma.
+
+430
+00:17:20,640 --> 00:17:21,260
+Grandpa,
+
+431
+00:17:21,660 --> 00:17:23,060
+are you still feeling dizzy today?
+
+432
+00:17:23,440 --> 00:17:24,240
+Yusen used to be
+
+433
+00:17:24,240 --> 00:17:25,319
+a neurosurgeon.
+
+434
+00:17:25,339 --> 00:17:26,260
+Let him take a look at you.
+
+435
+00:17:27,920 --> 00:17:28,420
+No need.
+
+436
+00:17:30,880 --> 00:17:31,300
+What's wrong?
+
+437
+00:17:32,080 --> 00:17:33,240
+What's going on?
+
+438
+00:17:33,240 --> 00:17:34,660
+You've been dizzy for days.
+
+439
+00:17:35,060 --> 00:17:35,500
+Do we need to go to the hospital
+
+440
+00:17:35,500 --> 00:17:36,340
+for a CT scan?
+
+441
+00:17:36,760 --> 00:17:37,100
+Grandpa,
+
+442
+00:17:37,860 --> 00:17:38,680
+look me in the eyes.
+
+443
+00:17:41,520 --> 00:17:43,580
+It's okay, I'm fine now.
+
+444
+00:17:43,780 --> 00:17:45,740
+I just can't move
+my head around too much
+
+445
+00:17:46,340 --> 00:17:47,900
+or keep shifting positions.
+
+446
+00:17:48,320 --> 00:17:49,480
+The moment I move, everything spins.
+
+447
+00:17:50,460 --> 00:17:51,680
+Let's go inside and sit down.
+
+448
+00:17:51,960 --> 00:17:52,460
+I'll give Grandpa
+
+449
+00:17:52,480 --> 00:17:53,300
+a quick check-up.
+
+450
+00:17:53,900 --> 00:17:54,520
+Okay,
+
+451
+00:17:54,720 --> 00:17:55,340
+come on in.
+
+452
+00:17:55,360 --> 00:17:55,700
+Alright.
+
+453
+00:17:56,400 --> 00:17:56,680
+Come on.
+
+454
+00:17:57,280 --> 00:17:57,680
+Easy.
+
+455
+00:17:58,080 --> 00:17:58,580
+- Careful.
+- Okay.
+
+456
+00:17:59,100 --> 00:17:59,840
+Take it slow.
+
+457
+00:18:02,660 --> 00:18:03,140
+Keep your head still.
+
+458
+00:18:04,040 --> 00:18:05,240
+Follow my finger with your eyes.
+
+459
+00:18:06,660 --> 00:18:07,380
+Look left.
+
+460
+00:18:09,520 --> 00:18:10,180
+Look right.
+
+461
+00:18:13,380 --> 00:18:14,020
+Look up.
+
+462
+00:18:16,980 --> 00:18:17,620
+Look down.
+
+463
+00:18:20,020 --> 00:18:20,400
+Grandpa,
+
+464
+00:18:21,500 --> 00:18:22,980
+does the dizziness
+
+465
+00:18:23,520 --> 00:18:23,920
+get worse
+
+466
+00:18:24,000 --> 00:18:25,080
+when you turn your head to the left
+
+467
+00:18:25,420 --> 00:18:26,240
+or roll onto your left side?
+
+468
+00:18:27,340 --> 00:18:28,120
+How did you know?
+
+469
+00:18:29,360 --> 00:18:30,000
+I can see it in your eye movements.
+
+470
+00:18:30,620 --> 00:18:31,960
+Does Grandpa have
+any underlying conditions?
+
+471
+00:18:32,120 --> 00:18:32,720
+Any issues with his neck?
+
+472
+00:18:33,620 --> 00:18:34,860
+His neck is fine.
+
+473
+00:18:35,140 --> 00:18:36,320
+His blood pressure is a bit high,
+
+474
+00:18:36,520 --> 00:18:37,860
+but he's been taking his meds
+
+475
+00:18:37,880 --> 00:18:38,800
+and it's well under control.
+
+476
+00:18:38,980 --> 00:18:40,140
+Based on his symptoms,
+
+477
+00:18:40,800 --> 00:18:41,660
+it looks like BPPV.
+
+478
+00:18:42,000 --> 00:18:42,940
+I'll do a few more tests
+
+479
+00:18:43,060 --> 00:18:43,720
+to figure out
+
+480
+00:18:43,860 --> 00:18:44,900
+exactly which ear crystal
+is out of place.
+
+481
+00:18:45,880 --> 00:18:46,820
+You might get a bit dizzy
+
+482
+00:18:46,920 --> 00:18:48,540
+during the exam.
+
+483
+00:18:48,980 --> 00:18:49,680
+That's fine.
+
+484
+00:18:49,960 --> 00:18:50,880
+I'm used to it by now.
+
+485
+00:18:51,280 --> 00:18:52,860
+As long as you figure out what's wrong.
+
+486
+00:18:53,700 --> 00:18:54,720
+First, sit up.
+
+487
+00:18:54,760 --> 00:18:55,060
+Alright.
+
+488
+00:19:01,000 --> 00:19:01,300
+Come.
+
+489
+00:19:03,540 --> 00:19:04,300
+At this angle,
+
+490
+00:19:04,720 --> 00:19:05,480
+does it feel like the room is spinning?
+
+491
+00:19:05,740 --> 00:19:06,160
+Not really.
+
+492
+00:19:06,360 --> 00:19:06,640
+Okay.
+
+493
+00:19:15,880 --> 00:19:16,240
+It's spinning.
+
+494
+00:19:16,760 --> 00:19:18,180
+This is the worst.
+
+495
+00:19:19,100 --> 00:19:20,420
+The whole house
+feels like it's flipping over.
+
+496
+00:19:22,400 --> 00:19:22,700
+Come on.
+
+497
+00:19:24,420 --> 00:19:25,320
+It seems like a displaced crystal
+
+498
+00:19:25,580 --> 00:19:26,720
+in the left posterior canal.
+
+499
+00:19:27,220 --> 00:19:28,340
+What does that even mean?
+
+500
+00:19:28,480 --> 00:19:29,280
+I've never heard of that.
+
+501
+00:19:29,440 --> 00:19:31,300
+Ear crystals falling out of place?
+
+502
+00:19:31,420 --> 00:19:32,540
+Me, neither.
+
+503
+00:19:32,820 --> 00:19:33,220
+Don't worry.
+
+504
+00:19:33,620 --> 00:19:34,240
+It's not a big deal.
+
+505
+00:19:35,200 --> 00:19:35,760
+Think of ear crystals
+
+506
+00:19:35,880 --> 00:19:37,000
+as tiny stones
+
+507
+00:19:37,180 --> 00:19:38,360
+in your ear.
+
+508
+00:19:38,600 --> 00:19:39,300
+When they shift,
+
+509
+00:19:39,380 --> 00:19:40,360
+they can make you feel dizzy
+
+510
+00:19:40,640 --> 00:19:41,360
+and lose your balance.
+
+511
+00:19:41,760 --> 00:19:42,860
+Let's try a repositioning maneuver
+here at home.
+
+512
+00:19:43,200 --> 00:19:43,920
+If that doesn't work,
+
+513
+00:19:44,160 --> 00:19:44,660
+we'll head to the hospital.
+
+514
+00:19:45,440 --> 00:19:45,740
+Grandpa,
+
+515
+00:19:46,340 --> 00:19:47,100
+just follow my lead
+
+516
+00:19:47,460 --> 00:19:47,940
+and don't fight the movement.
+
+517
+00:19:48,560 --> 00:19:48,840
+Okay.
+
+518
+00:19:50,400 --> 00:19:50,700
+There we go.
+
+519
+00:19:51,720 --> 00:19:52,060
+Lie down.
+
+520
+00:19:54,400 --> 00:19:54,740
+Here.
+
+521
+00:20:07,140 --> 00:20:07,480
+Come on.
+
+522
+00:20:12,820 --> 00:20:13,320
+Are you
+
+523
+00:20:13,500 --> 00:20:14,200
+still feeling dizzy?
+
+524
+00:20:20,000 --> 00:20:20,520
+It stopped.
+
+525
+00:20:21,320 --> 00:20:22,480
+So fast.
+
+526
+00:20:22,760 --> 00:20:23,520
+That's incredible.
+
+527
+00:20:24,080 --> 00:20:25,120
+The fix for BPPV
+
+528
+00:20:25,140 --> 00:20:26,000
+is usually instant.
+
+529
+00:20:27,300 --> 00:20:28,260
+But Grandpa,
+you shouldn't have just ignored it.
+
+530
+00:20:28,820 --> 00:20:29,380
+If you let it drag on,
+
+531
+00:20:29,600 --> 00:20:30,720
+it's just going to keep coming back.
+
+532
+00:20:30,860 --> 00:20:31,340
+That's not good for you.
+
+533
+00:20:32,460 --> 00:20:33,660
+Exactly, Grandpa.
+
+534
+00:20:33,820 --> 00:20:35,260
+If you'd gone to the hospital sooner
+
+535
+00:20:35,280 --> 00:20:36,180
+to get this fixed,
+
+536
+00:20:36,180 --> 00:20:36,820
+you wouldn't have had to
+
+537
+00:20:36,820 --> 00:20:37,760
+suffer so much.
+
+538
+00:20:37,960 --> 00:20:39,320
+Will it come back?
+
+539
+00:20:39,700 --> 00:20:40,120
+It might.
+
+540
+00:20:41,140 --> 00:20:41,780
+So Grandpa,
+
+541
+00:20:42,120 --> 00:20:42,880
+get plenty of rest,
+
+542
+00:20:42,940 --> 00:20:43,540
+but try to stay active.
+
+543
+00:20:43,800 --> 00:20:45,180
+Try to stay calm
+and don't get worked up.
+
+544
+00:20:45,700 --> 00:20:46,820
+If it happens again,
+
+545
+00:20:47,180 --> 00:20:47,980
+give us a call
+
+546
+00:20:48,480 --> 00:20:48,940
+or
+
+547
+00:20:49,340 --> 00:20:50,080
+just go straight to the hospital.
+
+548
+00:20:50,300 --> 00:20:51,800
+He won't go.
+
+549
+00:20:52,220 --> 00:20:54,040
+The bank gave us a free check-up,
+
+550
+00:20:54,280 --> 00:20:55,540
+and the results came back.
+
+551
+00:20:55,760 --> 00:20:56,840
+They even brought in
+
+552
+00:20:56,860 --> 00:20:58,080
+doctors from the city
+
+553
+00:20:58,240 --> 00:20:59,920
+to walk us through the report,
+
+554
+00:21:00,380 --> 00:21:01,420
+but he still wouldn't go.
+
+555
+00:21:01,920 --> 00:21:03,080
+It's nothing serious.
+
+556
+00:21:03,160 --> 00:21:05,120
+Why drag myself all the way
+to the city for that?
+
+557
+00:21:05,380 --> 00:21:07,340
+Then the check-up
+would be a total waste.
+
+558
+00:21:07,960 --> 00:21:08,540
+That won't do.
+
+559
+00:21:08,900 --> 00:21:09,500
+Get
+
+560
+00:21:09,500 --> 00:21:10,400
+the report out
+
+561
+00:21:10,400 --> 00:21:10,880
+and let me have a look.
+
+562
+00:21:20,080 --> 00:21:21,000
+Can you even read that?
+
+563
+00:21:22,720 --> 00:21:23,960
+He can.
+
+564
+00:21:27,520 --> 00:21:28,940
+Grandma, your blood vessels
+are getting a bit stiff,
+
+565
+00:21:29,880 --> 00:21:30,880
+and your total cholesterol
+is a little on the high side.
+
+566
+00:21:32,700 --> 00:21:33,960
+Your LDL is slightly elevated too.
+
+567
+00:21:34,960 --> 00:21:35,720
+Nothing serious.
+
+568
+00:21:36,280 --> 00:21:37,060
+I'll write down
+
+569
+00:21:37,060 --> 00:21:37,780
+some dietary tips for you.
+
+570
+00:21:37,960 --> 00:21:39,940
+I won't be able to read them.
+
+571
+00:21:40,380 --> 00:21:42,160
+Times were tough when I was a kid,
+
+572
+00:21:42,200 --> 00:21:43,660
+so I never went to school.
+I can't read.
+
+573
+00:21:45,300 --> 00:21:45,820
+In that case,
+
+574
+00:21:46,340 --> 00:21:47,000
+Xiguang and I
+
+575
+00:21:47,040 --> 00:21:47,840
+will record a video for you.
+
+576
+00:21:48,220 --> 00:21:49,020
+That's a great idea.
+
+577
+00:21:49,460 --> 00:21:49,920
+Nice.
+
+578
+00:21:50,760 --> 00:21:51,900
+Should you be on camera, or should I?
+
+579
+00:21:54,200 --> 00:21:55,500
+Let Lin do it.
+
+580
+00:21:57,620 --> 00:21:59,200
+Grandma.
+
+581
+00:21:59,420 --> 00:21:59,820
+Well,
+
+582
+00:22:00,060 --> 00:22:02,060
+Lin is a doctor,
+
+583
+00:22:02,260 --> 00:22:03,680
+so he's the professional here.
+
+584
+00:22:04,580 --> 00:22:05,660
+She just wants
+
+585
+00:22:05,920 --> 00:22:08,100
+to show off to her friends
+back in the village
+
+586
+00:22:08,160 --> 00:22:09,320
+when they're playing mahjong.
+
+587
+00:22:10,940 --> 00:22:12,120
+Lin, check out mine.
+
+588
+00:22:12,880 --> 00:22:13,740
+Come on, look at Grandpa's report.
+
+589
+00:22:21,320 --> 00:22:21,900
+Grandpa, Grandma,
+
+590
+00:22:22,180 --> 00:22:22,920
+you're both in great shape.
+
+591
+00:22:23,280 --> 00:22:24,320
+Grandpa is all clear, too.
+
+592
+00:22:24,620 --> 00:22:25,280
+Just take your meds on time
+
+593
+00:22:25,540 --> 00:22:26,300
+and get regular check-ups.
+
+594
+00:22:26,440 --> 00:22:28,220
+See? I told you.
+
+595
+00:22:28,700 --> 00:22:30,400
+It's so good to have a doctor
+in our family.
+
+596
+00:22:30,700 --> 00:22:32,320
+Now we can finally breathe
+a sigh of relief.
+
+597
+00:22:33,680 --> 00:22:34,180
+Lin,
+
+598
+00:22:34,200 --> 00:22:35,460
+thanks for all your help today.
+
+599
+00:22:35,740 --> 00:22:36,440
+Just stay put
+
+600
+00:22:36,540 --> 00:22:37,600
+while I get dinner started.
+
+601
+00:22:39,900 --> 00:22:41,260
+I'll help you out.
+
+602
+00:22:41,260 --> 00:22:41,600
+Grandpa,
+
+603
+00:22:41,860 --> 00:22:42,760
+you should get some rest.
+
+604
+00:22:43,040 --> 00:22:44,040
+Since we just fixed your ear,
+
+605
+00:22:44,160 --> 00:22:44,820
+we don't want it shifting again.
+
+606
+00:22:45,460 --> 00:22:47,140
+Avoid overexerting yourself
+or any sudden movements
+
+607
+00:22:47,340 --> 00:22:47,940
+for the next couple of days.
+
+608
+00:22:48,420 --> 00:22:49,340
+- Okay.
+- Yeah.
+
+609
+00:22:49,660 --> 00:22:51,460
+Grandpa, why don't you
+find a show to watch?
+
+610
+00:22:52,160 --> 00:22:52,440
+Okay.
+
+611
+00:22:52,440 --> 00:22:52,840
+Here you go.
+
+612
+00:22:53,440 --> 00:22:54,560
+I'll go help Grandma.
+
+613
+00:22:55,220 --> 00:22:56,380
+Come on, let's go get the fire started.
+
+614
+00:23:06,480 --> 00:23:07,580
+Have you ever even seen
+
+615
+00:23:07,580 --> 00:23:08,280
+a wood stove before?
+
+616
+00:23:09,560 --> 00:23:10,460
+Only on TV
+
+617
+00:23:10,940 --> 00:23:11,700
+and at those rural retreats.
+
+618
+00:23:12,720 --> 00:23:14,180
+Spoken like a true city boy.
+
+619
+00:23:15,880 --> 00:23:16,640
+Aren't you?
+
+620
+00:23:17,420 --> 00:23:18,260
+I
+
+621
+00:23:18,260 --> 00:23:19,240
+grew up
+
+622
+00:23:19,260 --> 00:23:19,800
+at my grandparents' house.
+
+623
+00:23:19,940 --> 00:23:20,960
+I didn't move back to Wuxi
+
+624
+00:23:20,960 --> 00:23:21,880
+until I started elementary school.
+
+625
+00:23:22,700 --> 00:23:25,120
+Starting fires, feeding chickens,
+herding geese.
+
+626
+00:23:25,120 --> 00:23:26,060
+I can do it all.
+
+627
+00:23:26,820 --> 00:23:27,640
+Let me show you how to start the fire.
+
+628
+00:23:29,600 --> 00:23:30,540
+First,
+
+629
+00:23:31,220 --> 00:23:33,700
+clear out the ash from the firebox.
+
+630
+00:23:34,960 --> 00:23:35,280
+There.
+
+631
+00:23:36,600 --> 00:23:37,740
+Now,
+
+632
+00:23:38,640 --> 00:23:40,360
+grab me some straw bundles.
+
+633
+00:23:42,940 --> 00:23:43,280
+Give them here.
+
+634
+00:23:44,220 --> 00:23:44,740
+You light it.
+
+635
+00:23:49,280 --> 00:23:50,080
+There we go, that's enough.
+
+636
+00:23:52,980 --> 00:23:54,020
+Now,
+
+637
+00:23:54,240 --> 00:23:55,660
+add some bean stalks.
+
+638
+00:23:56,480 --> 00:23:57,540
+Yeah, those ones.
+
+639
+00:23:59,260 --> 00:24:00,400
+Put them in like this.
+
+640
+00:24:00,480 --> 00:24:02,040
+And the firewood.
+
+641
+00:24:02,640 --> 00:24:04,740
+You have to stack it this way.
+
+642
+00:24:06,240 --> 00:24:07,600
+You need gaps in the middle
+
+643
+00:24:08,700 --> 00:24:09,900
+for the fire to catch.
+
+644
+00:24:10,400 --> 00:24:10,740
+See?
+
+645
+00:24:11,600 --> 00:24:11,900
+Like this.
+
+646
+00:24:16,240 --> 00:24:16,540
+Done.
+
+647
+00:24:17,540 --> 00:24:19,140
+Grandma, the fire's going.
+
+648
+00:24:32,560 --> 00:24:33,220
+I think
+
+649
+00:24:33,980 --> 00:24:34,680
+I've got the hang of it.
+
+650
+00:24:35,900 --> 00:24:36,240
+Here,
+
+651
+00:24:36,640 --> 00:24:37,360
+hand me the tongs.
+
+652
+00:24:48,300 --> 00:24:49,580
+I'm taking a photo
+
+653
+00:24:49,600 --> 00:24:50,700
+to send to Ms. Sheng.
+
+654
+00:24:50,800 --> 00:24:51,960
+I'll tell her
+
+655
+00:24:52,480 --> 00:24:53,780
+you're stuck here doing chores
+
+656
+00:24:53,820 --> 00:24:54,420
+at my grandma's.
+
+657
+00:24:59,340 --> 00:25:00,880
+She'll need
+
+658
+00:25:01,960 --> 00:25:03,000
+to send chocolate to bail you out.
+
+659
+00:25:04,420 --> 00:25:04,820
+Then
+
+660
+00:25:05,280 --> 00:25:06,260
+that'll be at least five jin of it.
+
+661
+00:25:06,800 --> 00:25:07,840
+I'm worth at least that much.
+
+662
+00:25:09,400 --> 00:25:10,520
+That's a bit steep, don't you think?
+
+663
+00:25:11,280 --> 00:25:12,700
+What if Ms. Sheng wakes up,
+
+664
+00:25:12,700 --> 00:25:13,720
+sees the message,
+
+665
+00:25:14,100 --> 00:25:15,280
+and says she can't afford it?
+
+666
+00:25:17,740 --> 00:25:18,220
+Then I guess
+
+667
+00:25:19,340 --> 00:25:20,440
+I'll just have to stay here
+
+668
+00:25:20,440 --> 00:25:21,400
+and tend the fire
+for the rest of my life.
+
+669
+00:25:25,680 --> 00:25:26,700
+Works for me.
+
+670
+00:25:37,100 --> 00:25:38,240
+Not here.
+
+671
+00:25:42,320 --> 00:25:43,520
+Your face is so red from the heat.
+
+672
+00:25:44,440 --> 00:25:45,440
+I just wanted to check your temperature.
+
+673
+00:25:50,840 --> 00:25:51,780
+Is it hot?
+
+674
+00:25:55,120 --> 00:25:55,840
+Get back behind me.
+
+675
+00:26:16,740 --> 00:26:18,020
+Let me feel the heat too.
+
+676
+00:26:38,100 --> 00:26:38,980
+Guang, Lin,
+
+677
+00:26:39,240 --> 00:26:39,780
+look.
+
+678
+00:26:40,020 --> 00:26:41,540
+The rice crust turned out perfect today.
+
+679
+00:26:43,760 --> 00:26:45,200
+You're amazing, Grandma.
+
+680
+00:26:49,320 --> 00:26:51,060
+It's because you two
+did such a great job with the fire.
+
+681
+00:26:51,340 --> 00:26:52,120
+Take the dishes out.
+
+682
+00:26:52,380 --> 00:26:53,080
+Lunch is ready.
+
+683
+00:26:58,620 --> 00:26:59,220
+Come here.
+
+684
+00:27:04,520 --> 00:27:04,820
+Here you go.
+
+685
+00:27:05,040 --> 00:27:05,800
+Thank you.
+
+686
+00:27:06,360 --> 00:27:07,180
+Thank you.
+
+687
+00:27:13,780 --> 00:27:15,940
+You have to try
+this wild crucian carp soup.
+
+688
+00:27:16,300 --> 00:27:17,440
+It's so fresh.
+
+689
+00:27:17,700 --> 00:27:18,820
+The stuff from the supermarket
+
+690
+00:27:18,820 --> 00:27:19,840
+doesn't even come close.
+
+691
+00:27:31,720 --> 00:27:33,160
+This really is the best I've ever had.
+
+692
+00:27:33,940 --> 00:27:35,020
+I didn't add anything to it.
+
+693
+00:27:35,040 --> 00:27:36,140
+It's all natural.
+
+694
+00:27:36,280 --> 00:27:38,080
+And try
+
+695
+00:27:38,420 --> 00:27:39,780
+these sweet and sour ribs.
+
+696
+00:27:39,780 --> 00:27:40,580
+They're Grandma's specialty.
+
+697
+00:27:42,160 --> 00:27:42,500
+Dig in.
+
+698
+00:27:45,760 --> 00:27:46,160
+Delicious.
+
+699
+00:27:46,280 --> 00:27:47,520
+She actually learned
+
+700
+00:27:47,680 --> 00:27:49,020
+how to make these from me.
+
+701
+00:27:49,280 --> 00:27:50,960
+Since I was too dizzy to cook today,
+
+702
+00:27:52,220 --> 00:27:53,580
+next time we'll each do half the dishes
+
+703
+00:27:53,640 --> 00:27:54,260
+and have a cook-off.
+
+704
+00:27:55,360 --> 00:27:56,080
+You're on.
+
+705
+00:27:56,300 --> 00:27:57,320
+That sounds great.
+
+706
+00:27:57,660 --> 00:27:58,760
+Once you guys have Yusen
+
+707
+00:27:58,760 --> 00:27:59,340
+as a judge,
+
+708
+00:27:59,380 --> 00:28:00,840
+you can finally get off my back.
+
+709
+00:28:02,680 --> 00:28:03,500
+It sounds like
+
+710
+00:28:03,900 --> 00:28:04,740
+you've been the judge for a long time.
+
+711
+00:28:05,880 --> 00:28:07,660
+Grandpa and Grandma
+are both such good cooks?
+
+712
+00:28:08,060 --> 00:28:08,920
+Of course.
+
+713
+00:28:09,440 --> 00:28:10,340
+Back in the day,
+
+714
+00:28:10,360 --> 00:28:11,280
+having weddings at hotels
+
+715
+00:28:11,280 --> 00:28:12,320
+wasn't a thing.
+
+716
+00:28:12,680 --> 00:28:13,760
+Whenever there was a celebration
+in the village,
+
+717
+00:28:13,800 --> 00:28:15,160
+everyone would ask them
+to be the head chefs.
+
+718
+00:28:15,440 --> 00:28:16,840
+I'd just tag along and feast for free.
+
+719
+00:28:18,820 --> 00:28:20,580
+Too bad I don't have
+that kind of talent.
+
+720
+00:28:20,900 --> 00:28:22,360
+Even if I use
+the same ingredients and steps,
+
+721
+00:28:22,440 --> 00:28:22,920
+it never
+
+722
+00:28:22,920 --> 00:28:24,040
+tastes the same.
+
+723
+00:28:26,200 --> 00:28:27,040
+Maybe next time I'll give it a go.
+
+724
+00:28:29,200 --> 00:28:30,060
+No more messing with the fire for me.
+
+725
+00:28:31,000 --> 00:28:31,860
+I'm moving up
+
+726
+00:28:32,460 --> 00:28:32,900
+to head chef.
+
+727
+00:28:35,260 --> 00:28:36,420
+I can't let Grandpa and Grandma's skills
+
+728
+00:28:36,860 --> 00:28:37,760
+be lost to time.
+
+729
+00:28:38,200 --> 00:28:38,640
+Alright.
+
+730
+00:28:38,640 --> 00:28:39,300
+I'll teach you everything.
+
+731
+00:28:39,340 --> 00:28:40,220
+- Yes.
+- Definitely.
+
+732
+00:28:40,220 --> 00:28:41,480
+Now, eat up.
+
+733
+00:28:41,720 --> 00:28:42,180
+Come on. Dig in.
+
+734
+00:28:43,240 --> 00:28:45,140
+Hold on, I need to take this.
+
+735
+00:28:48,560 --> 00:28:49,040
+Hello?
+
+736
+00:28:49,580 --> 00:28:50,240
+Xiuzhen,
+
+737
+00:28:50,760 --> 00:28:52,120
+I can't make it to mahjong today.
+
+738
+00:28:52,860 --> 00:28:53,380
+Yeah,
+
+739
+00:28:53,500 --> 00:28:54,480
+Guang is back.
+
+740
+00:28:55,920 --> 00:28:57,620
+And her boyfriend is here too.
+
+741
+00:28:58,540 --> 00:29:00,300
+Yeah, they just started dating.
+
+742
+00:29:00,980 --> 00:29:01,940
+He's tall
+
+743
+00:29:01,960 --> 00:29:03,160
+and so handsome.
+
+744
+00:29:03,480 --> 00:29:04,880
+Plus, he's an amazing doctor.
+
+745
+00:29:06,520 --> 00:29:07,060
+Let me tell you,
+
+746
+00:29:07,080 --> 00:29:08,220
+my husband
+
+747
+00:29:08,280 --> 00:29:09,340
+had been feeling dizzy lately
+
+748
+00:29:09,800 --> 00:29:11,760
+and he fixed him up
+in just a few minutes.
+
+749
+00:29:12,220 --> 00:29:14,380
+Why would I lie to you?
+
+750
+00:29:15,160 --> 00:29:16,080
+He even sat down
+
+751
+00:29:16,140 --> 00:29:17,140
+with our check-up reports
+
+752
+00:29:17,460 --> 00:29:18,940
+and broke everything down
+
+753
+00:29:19,060 --> 00:29:20,100
+for us,
+
+754
+00:29:20,100 --> 00:29:21,280
+point by point.
+
+755
+00:29:21,640 --> 00:29:22,920
+For real?
+
+756
+00:29:23,360 --> 00:29:24,480
+Could he take a look at mine?
+
+757
+00:29:25,020 --> 00:29:26,560
+I just had a check-up too.
+
+758
+00:29:26,580 --> 00:29:27,880
+Wu took me.
+
+759
+00:29:28,200 --> 00:29:29,380
+But after I got the report,
+
+760
+00:29:29,420 --> 00:29:30,320
+no one told me
+
+761
+00:29:30,320 --> 00:29:31,300
+what it actually meant.
+
+762
+00:29:32,280 --> 00:29:32,980
+Well,
+
+763
+00:29:33,320 --> 00:29:34,440
+I don't know
+
+764
+00:29:34,600 --> 00:29:36,700
+when they're leaving.
+
+765
+00:29:40,320 --> 00:29:41,060
+Guang,
+
+766
+00:29:41,680 --> 00:29:43,600
+Grandaunt Xiuzhen is asking
+
+767
+00:29:43,940 --> 00:29:45,560
+if Lin could help
+
+768
+00:29:45,620 --> 00:29:47,080
+look at her report.
+
+769
+00:29:47,900 --> 00:29:48,740
+I guess I talked too much.
+
+770
+00:29:49,300 --> 00:29:50,040
+Sure thing.
+
+771
+00:29:50,040 --> 00:29:51,240
+We aren't leaving until tonight anyway.
+
+772
+00:29:51,780 --> 00:29:53,060
+Grandaunt Xiuzhen has
+
+773
+00:29:53,060 --> 00:29:53,660
+the best mulberries.
+
+774
+00:29:53,760 --> 00:29:54,840
+Tell her to bring some over for me.
+
+775
+00:29:55,460 --> 00:29:56,040
+Okay.
+
+776
+00:29:57,000 --> 00:29:57,680
+Xiuzhen,
+
+777
+00:29:58,200 --> 00:29:59,540
+they aren't leaving until after dinner.
+
+778
+00:29:59,940 --> 00:30:01,260
+Bring your report over.
+
+779
+00:30:01,440 --> 00:30:02,020
+Yeah.
+
+780
+00:30:03,160 --> 00:30:03,780
+And...
+
+781
+00:30:03,800 --> 00:30:05,160
+You sold me out like that?
+
+782
+00:30:05,460 --> 00:30:07,000
+Guang wants some of your mulberries.
+
+783
+00:30:07,560 --> 00:30:08,800
+Mulberries are expensive, you know.
+
+784
+00:30:09,140 --> 00:30:10,020
+A basket costs a fortune.
+
+785
+00:30:10,020 --> 00:30:10,580
+I'll go pick some
+
+786
+00:30:10,580 --> 00:30:11,020
+and bring them over right away.
+
+787
+00:30:11,020 --> 00:30:12,400
+You didn't charge much
+
+788
+00:30:12,440 --> 00:30:13,400
+for a visit, did you?
+
+789
+00:30:13,780 --> 00:30:14,440
+How much?
+
+790
+00:30:14,940 --> 00:30:15,840
+That's way too much.
+
+791
+00:30:16,000 --> 00:30:16,780
+A standard visit
+
+792
+00:30:17,260 --> 00:30:17,920
+was 14 yuan.
+
+793
+00:30:18,040 --> 00:30:18,620
+Alright.
+
+794
+00:30:18,700 --> 00:30:19,000
+Fourteen yuan.
+
+795
+00:30:19,200 --> 00:30:19,820
+That's a win.
+
+796
+00:30:20,240 --> 00:30:21,100
+You'll even have change left over.
+
+797
+00:30:23,120 --> 00:30:23,820
+Alright.
+
+798
+00:30:33,220 --> 00:30:33,980
+It's nothing serious.
+
+799
+00:30:35,880 --> 00:30:36,820
+Lin, do you know how to read pulses?
+
+800
+00:30:39,400 --> 00:30:40,140
+I don't know how to do that.
+
+801
+00:30:41,000 --> 00:30:41,600
+Grandaunt,
+
+802
+00:30:42,420 --> 00:30:43,220
+I was trained in Western medicine.
+
+803
+00:30:44,480 --> 00:30:46,260
+Well, you'll have to work harder
+
+804
+00:30:46,580 --> 00:30:47,840
+to master both Chinese
+and Western medicine.
+
+805
+00:30:50,800 --> 00:30:51,440
+That's a new one.
+
+806
+00:30:53,540 --> 00:30:54,140
+I'll look into it when I get back.
+
+807
+00:30:59,260 --> 00:31:00,580
+Why are there so many people?
+
+808
+00:31:02,240 --> 00:31:03,200
+I just ran into them on the road
+
+809
+00:31:03,200 --> 00:31:04,460
+and chatted for a bit.
+
+810
+00:31:04,840 --> 00:31:05,480
+I didn't expect them all
+
+811
+00:31:05,560 --> 00:31:06,340
+to follow me once they heard
+
+812
+00:31:06,540 --> 00:31:08,080
+your granddaughter's boyfriend
+
+813
+00:31:08,380 --> 00:31:10,140
+is a doctor
+
+814
+00:31:11,040 --> 00:31:12,140
+who can explain the reports.
+
+815
+00:31:13,440 --> 00:31:15,140
+They even brought some veggies
+from their own fields.
+
+816
+00:31:15,340 --> 00:31:16,580
+I have plenty of my own, though.
+
+817
+00:31:17,120 --> 00:31:18,300
+The village organized
+
+818
+00:31:18,300 --> 00:31:19,220
+check-ups
+
+819
+00:31:19,240 --> 00:31:20,560
+for everyone over 70
+
+820
+00:31:20,580 --> 00:31:21,300
+last month.
+
+821
+00:31:22,040 --> 00:31:22,980
+But a lot of people
+
+822
+00:31:23,080 --> 00:31:24,580
+couldn't understand the results.
+
+823
+00:31:24,900 --> 00:31:25,900
+So they wanted to come by
+
+824
+00:31:26,360 --> 00:31:27,620
+and get some answers.
+
+825
+00:31:28,300 --> 00:31:29,140
+Don't invite anyone else.
+
+826
+00:31:30,740 --> 00:31:31,080
+I promise,
+
+827
+00:31:31,540 --> 00:31:32,360
+no more.
+
+828
+00:31:33,420 --> 00:31:34,600
+I've been taking my meds,
+
+829
+00:31:35,040 --> 00:31:36,360
+but my blood sugar still won't go down.
+
+830
+00:31:37,740 --> 00:31:38,580
+I wanted to ask
+
+831
+00:31:38,780 --> 00:31:39,480
+how I should be taking them.
+
+832
+00:31:40,060 --> 00:31:41,280
+What are you taking right now?
+
+833
+00:31:41,940 --> 00:31:42,780
+Let me show you.
+
+834
+00:31:43,900 --> 00:31:44,600
+Just these two.
+
+835
+00:31:50,620 --> 00:31:51,440
+[Gliclazide Tablets]
+Diabetes.
+
+836
+00:31:51,500 --> 00:31:52,270
+[Metformin Hydrochloride Tablets]
+I'll have to consult
+
+837
+00:31:52,270 --> 00:31:52,540
+with another doctor.
+
+838
+00:31:53,300 --> 00:31:54,140
+Granduncle, just a moment.
+
+839
+00:32:04,440 --> 00:32:05,640
+Is the doctor you're asking reliable?
+
+840
+00:32:06,460 --> 00:32:07,240
+Which hospital are they from?
+
+841
+00:32:07,660 --> 00:32:08,060
+Very reliable.
+
+842
+00:32:08,680 --> 00:32:09,340
+He's the vice chair
+
+843
+00:32:09,500 --> 00:32:10,480
+of endocrinology at Huashan Hospital.
+
+844
+00:32:10,940 --> 00:32:11,440
+Huashan?
+
+845
+00:32:12,260 --> 00:32:12,940
+Where's that?
+
+846
+00:32:13,900 --> 00:32:14,960
+It's not just some city hospital.
+
+847
+00:32:17,560 --> 00:32:18,140
+Granduncle,
+
+848
+00:32:18,840 --> 00:32:20,220
+you've seen "The Legend
+of the Condor Heroes," right?
+
+849
+00:32:21,600 --> 00:32:23,320
+They have
+the "Sword Duel on Mount Huashan."
+
+850
+00:32:24,080 --> 00:32:24,480
+I have.
+
+851
+00:32:26,040 --> 00:32:26,920
+I've seen it many times.
+
+852
+00:32:27,300 --> 00:32:28,320
+Eastern Heretic,Western Venom.
+
+853
+00:32:29,120 --> 00:32:30,100
+What else was there?
+
+854
+00:32:30,880 --> 00:32:32,140
+The five masters,
+
+855
+00:32:32,820 --> 00:32:33,720
+vying for the number one in the world.
+
+856
+00:32:34,040 --> 00:32:34,780
+Exactly.
+
+857
+00:32:35,360 --> 00:32:36,980
+So, anything with the name "Huashan"
+
+858
+00:32:36,980 --> 00:32:38,080
+is top-tier.
+
+859
+00:32:38,160 --> 00:32:39,180
+It's a major hospital in Shanghai.
+
+860
+00:32:40,340 --> 00:32:40,880
+I see.
+
+861
+00:32:41,500 --> 00:32:42,000
+That'll do.
+
+862
+00:32:42,660 --> 00:32:43,380
+What?
+
+863
+00:32:45,020 --> 00:32:45,440
+Nothing.
+
+864
+00:32:48,780 --> 00:32:49,580
+Have one.
+
+865
+00:32:50,000 --> 00:32:50,720
+You don't need to get your hands messy.
+
+866
+00:33:01,160 --> 00:33:01,760
+Hi, Dr. Chen.
+
+867
+00:33:02,520 --> 00:33:03,240
+Sorry to bother you.
+
+868
+00:33:03,660 --> 00:33:04,580
+I have a family friend here,
+
+869
+00:33:04,820 --> 00:33:05,420
+72 years old,
+
+870
+00:33:05,820 --> 00:33:07,160
+with a 25-year history of diabetes.
+
+871
+00:33:08,920 --> 00:33:09,880
+Why are more people coming?
+
+872
+00:33:10,720 --> 00:33:12,340
+I didn't tell anyone else.
+
+873
+00:33:12,940 --> 00:33:14,120
+It wasn't me.
+
+874
+00:33:14,440 --> 00:33:15,280
+I'll go check.
+
+875
+00:33:17,020 --> 00:33:17,380
+Okay.
+
+876
+00:33:20,080 --> 00:33:20,400
+Got it.
+
+877
+00:33:21,020 --> 00:33:21,540
+I've got it down.
+
+878
+00:33:22,640 --> 00:33:23,220
+Thanks, Dr. Chen.
+
+879
+00:33:25,540 --> 00:33:26,260
+What do you think you're doing?
+
+880
+00:33:26,500 --> 00:33:27,720
+We're looking for Nie Chengyuan
+
+881
+00:33:27,720 --> 00:33:28,300
+to collect a debt.
+
+882
+00:33:28,420 --> 00:33:29,580
+Don't be a coward!
+
+883
+00:33:30,020 --> 00:33:30,780
+Where is he?
+
+884
+00:33:30,860 --> 00:33:31,380
+Tell him to get out.
+
+885
+00:33:31,400 --> 00:33:31,740
+Stay back.
+
+886
+00:33:31,740 --> 00:33:32,340
+Nie Chengyuan!
+
+887
+00:33:33,780 --> 00:33:34,680
+Aren't those
+
+888
+00:33:34,680 --> 00:33:35,820
+the Wu brothers?
+
+889
+00:33:36,400 --> 00:33:38,280
+They're always hanging around
+with Qian Dashun.
+
+890
+00:33:38,380 --> 00:33:39,620
+What are they doing here today?
+
+891
+00:33:39,780 --> 00:33:40,360
+At first,
+
+892
+00:33:40,580 --> 00:33:41,680
+I thought it was just Li.
+
+893
+00:33:42,000 --> 00:33:43,040
+I never expected them
+
+894
+00:33:43,480 --> 00:33:44,320
+to just barge right in
+
+895
+00:33:44,320 --> 00:33:45,260
+the second I opened the door.
+
+896
+00:33:45,640 --> 00:33:46,320
+Qin,
+
+897
+00:33:46,620 --> 00:33:47,360
+I'm sorry,
+
+898
+00:33:48,080 --> 00:33:49,800
+but I really had no choice.
+
+899
+00:33:51,680 --> 00:33:52,460
+Who are you?
+
+900
+00:33:53,000 --> 00:33:53,800
+What are you doing here?
+
+901
+00:33:55,420 --> 00:33:56,500
+So, you're
+
+902
+00:33:56,560 --> 00:33:57,820
+Nie Chengyuan's daughter?
+
+903
+00:34:09,239 --> 00:34:09,620
+Look,
+
+904
+00:34:10,639 --> 00:34:11,860
+your dad owes us money,
+
+905
+00:34:12,340 --> 00:34:13,060
+and we're here to collect.
+
+906
+00:34:13,580 --> 00:34:14,219
+Nonsense.
+
+907
+00:34:14,620 --> 00:34:15,440
+How could Chengyuan possibly
+
+908
+00:34:15,440 --> 00:34:16,620
+owe you money?
+
+909
+00:34:16,820 --> 00:34:18,219
+Don't you come in here
+
+910
+00:34:18,280 --> 00:34:19,260
+talking trash.
+
+911
+00:34:19,520 --> 00:34:20,000
+Ma'am,
+
+912
+00:34:20,500 --> 00:34:21,500
+I have proof.
+
+913
+00:34:22,420 --> 00:34:22,780
+Look,
+
+914
+00:34:23,239 --> 00:34:23,860
+here's the IOU.
+
+915
+00:34:24,260 --> 00:34:25,320
+See for yourselves
+if you don't believe me.
+
+916
+00:34:30,040 --> 00:34:33,080
+[Borrower: Qian Dashun]
+[Guarantor: Nie Chengyuan]
+
+917
+00:34:36,520 --> 00:34:37,020
+Lin,
+
+918
+00:34:37,480 --> 00:34:38,580
+what does it say?
+
+919
+00:34:38,699 --> 00:34:39,639
+Read it to me, quick.
+
+920
+00:34:42,199 --> 00:34:43,980
+Hereby received from Wu Ergun
+an investment
+
+921
+00:34:44,040 --> 00:34:44,860
+of 350,000 yuan
+
+922
+00:34:45,159 --> 00:34:46,199
+for the Yuancheng Group
+
+923
+00:34:46,199 --> 00:34:46,900
+real estate project,
+
+924
+00:34:47,360 --> 00:34:48,080
+with a three-month term
+
+925
+00:34:48,480 --> 00:34:49,159
+and a monthly interest rate of 2%,
+
+926
+00:34:49,639 --> 00:34:50,080
+guaranteed
+
+927
+00:34:50,840 --> 00:34:51,659
+by Nie Chengyuan.
+
+928
+00:34:54,020 --> 00:34:55,040
+It says it
+
+929
+00:34:55,040 --> 00:34:56,020
+right there.
+
+930
+00:34:56,040 --> 00:34:57,340
+Qian Dashun is the one
+who took the money.
+
+931
+00:34:57,900 --> 00:34:58,520
+Why are you coming after my dad
+
+932
+00:34:58,520 --> 00:34:59,440
+instead of him?
+
+933
+00:34:59,540 --> 00:35:00,020
+And besides,
+
+934
+00:35:00,620 --> 00:35:01,360
+just because his name
+is down as a guarantor
+
+935
+00:35:01,360 --> 00:35:02,380
+doesn't make it true.
+
+936
+00:35:02,920 --> 00:35:03,560
+This isn't
+
+937
+00:35:03,560 --> 00:35:04,800
+even my dad's handwriting.
+
+938
+00:35:05,380 --> 00:35:05,780
+I don't care
+
+939
+00:35:05,780 --> 00:35:06,700
+whose handwriting it is.
+
+940
+00:35:06,840 --> 00:35:07,500
+The paper says he's responsible,
+
+941
+00:35:07,500 --> 00:35:08,020
+so he has to pay up.
+
+942
+00:35:08,240 --> 00:35:08,940
+What gives?
+
+943
+00:35:09,340 --> 00:35:10,720
+Qian Dashun is the one
+who borrowed from you,
+
+944
+00:35:10,720 --> 00:35:12,240
+so go deal with him.
+
+945
+00:35:12,340 --> 00:35:12,880
+Why are you here
+
+946
+00:35:12,880 --> 00:35:13,600
+making a scene at our house?
+
+947
+00:35:13,780 --> 00:35:14,680
+It's all one and the same.
+
+948
+00:35:15,380 --> 00:35:16,980
+Everyone in this village knows
+
+949
+00:35:16,980 --> 00:35:18,900
+Qian Fangping
+is hooked up with your son.
+
+950
+00:35:19,600 --> 00:35:21,060
+It's no secret that your son
+
+951
+00:35:21,060 --> 00:35:21,640
+and Qian Fangping
+
+952
+00:35:22,220 --> 00:35:24,060
+are pretty much an item.
+
+953
+00:35:24,480 --> 00:35:25,760
+If Qian Dashun
+
+954
+00:35:26,000 --> 00:35:27,540
+hadn't sworn
+that Mr. Nie was vouching for him,
+
+955
+00:35:27,820 --> 00:35:29,340
+nobody would've lent him a thing.
+
+956
+00:35:29,700 --> 00:35:30,620
+Now look what happened.
+
+957
+00:35:30,900 --> 00:35:32,140
+That old man got drunk
+
+958
+00:35:32,140 --> 00:35:32,660
+and blabbed
+
+959
+00:35:32,860 --> 00:35:34,120
+that all the money was gone.
+
+960
+00:35:34,360 --> 00:35:35,920
+Then he vanished the very next day
+
+961
+00:35:36,340 --> 00:35:37,460
+and is not answering his phone,
+
+962
+00:35:37,820 --> 00:35:39,140
+so we have no choice
+
+963
+00:35:39,660 --> 00:35:40,760
+but to come to Mr. Nie.
+
+964
+00:35:41,040 --> 00:35:41,760
+No matter how you look at it,
+
+965
+00:35:41,800 --> 00:35:42,800
+this has nothing to do with us.
+
+966
+00:35:43,200 --> 00:35:43,820
+If you're so sure you're right,
+
+967
+00:35:43,860 --> 00:35:44,900
+go take it up with the police.
+
+968
+00:35:44,960 --> 00:35:45,680
+Now get out.
+
+969
+00:35:45,920 --> 00:35:46,520
+- Leave!
+- Get out.
+
+970
+00:35:46,560 --> 00:35:47,360
+Qin,
+
+971
+00:35:48,080 --> 00:35:50,320
+I'm not here to force Chengyuan to pay.
+
+972
+00:35:51,780 --> 00:35:53,440
+Please, just have a little heart
+
+973
+00:35:53,440 --> 00:35:56,140
+and have Chengyuan help us find him.
+
+974
+00:35:57,320 --> 00:35:59,940
+I lent them 220,000 yuan.
+
+975
+00:36:00,240 --> 00:36:02,120
+I gave them
+
+976
+00:36:02,300 --> 00:36:03,180
+everything I saved
+
+977
+00:36:03,340 --> 00:36:03,980
+from a lifetime
+
+978
+00:36:04,440 --> 00:36:06,120
+of working the fields.
+
+979
+00:36:06,200 --> 00:36:07,760
+They've got over 100,000 of mine too.
+
+980
+00:36:08,440 --> 00:36:10,260
+That was my money
+for my medical treatments.
+
+981
+00:36:11,380 --> 00:36:12,640
+How could you guys lend anything
+
+982
+00:36:12,660 --> 00:36:13,820
+to Qian Dashun?
+
+983
+00:36:14,020 --> 00:36:14,900
+Don't you know
+
+984
+00:36:14,920 --> 00:36:16,040
+what he's like?
+
+985
+00:36:16,440 --> 00:36:17,780
+How could you buy anything
+that came out of his mouth?
+
+986
+00:36:18,080 --> 00:36:18,900
+I heard
+
+987
+00:36:19,540 --> 00:36:21,420
+Chengyuan was his guarantor.
+
+988
+00:36:22,100 --> 00:36:22,940
+We've been neighbors forever,
+
+989
+00:36:23,140 --> 00:36:24,340
+so I figured
+
+990
+00:36:24,440 --> 00:36:25,500
+he wouldn't just disappear.
+
+991
+00:36:26,300 --> 00:36:26,860
+I just wanted
+
+992
+00:36:27,280 --> 00:36:28,960
+to make a little interest.
+
+993
+00:36:29,320 --> 00:36:30,160
+My note
+
+994
+00:36:30,360 --> 00:36:31,640
+only promised 1%,
+
+995
+00:36:31,880 --> 00:36:33,400
+while theirs were all 2%.
+
+996
+00:36:33,800 --> 00:36:36,020
+I never thought Qian Dashun
+
+997
+00:36:37,220 --> 00:36:38,820
+would actually run off.
+
+998
+00:36:40,740 --> 00:36:41,180
+Guang,
+
+999
+00:36:41,660 --> 00:36:42,580
+call your dad.
+
+1000
+00:36:42,720 --> 00:36:43,240
+Tell him to get back
+
+1001
+00:36:43,240 --> 00:36:44,520
+and deal with his own mess.
+
+1002
+00:36:54,480 --> 00:36:55,040
+Dear,
+
+1003
+00:36:55,300 --> 00:36:55,860
+what's wrong?
+
+1004
+00:36:56,840 --> 00:36:57,700
+Are you feeling uncomfortable?
+
+1005
+00:36:57,920 --> 00:36:58,860
+I'm fine.
+
+1006
+00:36:59,420 --> 00:36:59,840
+Grandma,
+
+1007
+00:37:00,260 --> 00:37:01,300
+why don't you take Grandpa
+back to his room?
+
+1008
+00:37:01,320 --> 00:37:01,660
+Alright,
+
+1009
+00:37:01,880 --> 00:37:02,680
+but what about all this?
+
+1010
+00:37:03,000 --> 00:37:04,060
+Xiguang and I will take care of it.
+
+1011
+00:37:04,220 --> 00:37:04,660
+Don't worry.
+
+1012
+00:37:05,580 --> 00:37:06,200
+Thank you,
+
+1013
+00:37:06,280 --> 00:37:06,620
+Lin.
+
+1014
+00:37:07,600 --> 00:37:08,200
+Let's go.
+
+1015
+00:37:14,620 --> 00:37:15,360
+Sheng Bokai
+
+1016
+00:37:15,520 --> 00:37:16,860
+is obsessed with fast-tracking
+his son's career,
+
+1017
+00:37:17,140 --> 00:37:18,600
+and he expects us
+to do all the heavy lifting.
+
+1018
+00:37:19,180 --> 00:37:20,020
+He really hasn't thought this through.
+
+1019
+00:37:20,480 --> 00:37:21,360
+An opportunity
+
+1020
+00:37:21,540 --> 00:37:22,740
+like Intelligent Digital Center project,
+
+1021
+00:37:23,220 --> 00:37:24,380
+right here in Jiangsu,
+
+1022
+00:37:24,560 --> 00:37:25,860
+is way too big of a deal for me
+to just let it go.
+
+1023
+00:37:26,260 --> 00:37:26,900
+Exactly.
+
+1024
+00:37:27,720 --> 00:37:28,300
+He expects us
+
+1025
+00:37:28,300 --> 00:37:29,160
+to just pave the way for them?
+
+1026
+00:37:29,640 --> 00:37:30,260
+He's clearly
+
+1027
+00:37:30,320 --> 00:37:31,360
+overestimating himself.
+
+1028
+00:37:33,100 --> 00:37:33,880
+With Yuancheng's reputation
+
+1029
+00:37:34,020 --> 00:37:35,000
+here in Jiangsu,
+
+1030
+00:37:35,340 --> 00:37:36,600
+even if they bring in Durand,
+
+1031
+00:37:36,920 --> 00:37:38,440
+they still won't be able
+to compete with us.
+
+1032
+00:37:39,560 --> 00:37:40,480
+Still, we can't get complacent.
+
+1033
+00:37:40,900 --> 00:37:41,720
+The current proposal
+
+1034
+00:37:42,000 --> 00:37:42,840
+still needs a bit of polishing.
+
+1035
+00:37:43,080 --> 00:37:43,420
+Got it.
+
+1036
+00:37:49,240 --> 00:37:49,660
+Xiguang,
+
+1037
+00:37:49,980 --> 00:37:51,580
+why are you calling me today?
+
+1038
+00:37:55,080 --> 00:37:55,640
+I'll be there right away.
+
+1039
+00:37:56,640 --> 00:37:58,400
+My dad is on his way back from the city.
+
+1040
+00:37:59,020 --> 00:37:59,620
+You guys
+
+1041
+00:37:59,940 --> 00:38:00,680
+should wait outside.
+
+1042
+00:38:00,840 --> 00:38:01,120
+Wait a second.
+
+1043
+00:38:01,140 --> 00:38:01,860
+Why should we have to
+
+1044
+00:38:01,860 --> 00:38:02,700
+wait outside?
+
+1045
+00:38:03,020 --> 00:38:03,460
+What,
+
+1046
+00:38:04,100 --> 00:38:05,680
+is your yard made of gold or something?
+
+1047
+00:38:05,860 --> 00:38:06,740
+We can't even stand here?
+
+1048
+00:38:06,760 --> 00:38:07,820
+If you don't leave,
+I'm calling the police.
+
+1049
+00:38:08,540 --> 00:38:09,460
+Go ahead.
+
+1050
+00:38:09,460 --> 00:38:09,980
+Who are you trying to bluff?
+
+1051
+00:38:10,180 --> 00:38:10,900
+You think they're gonna lock us up?
+
+1052
+00:38:11,640 --> 00:38:12,140
+Besides,
+
+1053
+00:38:12,920 --> 00:38:14,160
+I'm not scared of getting hauled in.
+
+1054
+00:38:14,400 --> 00:38:15,660
+It wouldn't be my first time anyway,
+
+1055
+00:38:15,880 --> 00:38:16,320
+right?
+
+1056
+00:38:18,740 --> 00:38:19,600
+We really should call the police.
+
+1057
+00:38:21,260 --> 00:38:22,280
+Whether someone
+gets arrested is one thing,
+
+1058
+00:38:23,220 --> 00:38:24,200
+but every debt
+
+1059
+00:38:24,580 --> 00:38:25,240
+has its debtor.
+
+1060
+00:38:26,420 --> 00:38:27,500
+The one who owes you is Qian Dashun.
+
+1061
+00:38:28,160 --> 00:38:28,860
+Once the police are here,
+
+1062
+00:38:29,440 --> 00:38:30,340
+we can get this all cleared up.
+
+1063
+00:38:33,560 --> 00:38:33,960
+Fine.
+
+1064
+00:38:35,280 --> 00:38:36,380
+We'll be right outside
+
+1065
+00:38:36,380 --> 00:38:37,460
+waiting for Mr. Nie.
+
+1066
+00:38:38,440 --> 00:38:39,300
+If he doesn't show up,
+
+1067
+00:38:40,740 --> 00:38:42,420
+we aren't budging.
+
+1068
+00:38:48,720 --> 00:38:49,440
+I'm so sorry about this.
+
+1069
+00:38:57,960 --> 00:38:59,440
+You guys
+
+1070
+00:38:59,760 --> 00:39:00,920
+should head home.
+
+1071
+00:39:01,320 --> 00:39:01,940
+It's a mess here,
+
+1072
+00:39:01,940 --> 00:39:02,960
+and I don't want
+any of you getting hurt.
+
+1073
+00:39:03,480 --> 00:39:04,100
+We're staying right here
+
+1074
+00:39:04,280 --> 00:39:05,680
+with you.
+
+1075
+00:39:05,940 --> 00:39:06,480
+It's okay.
+
+1076
+00:39:07,100 --> 00:39:08,440
+I'm going to lock the gate.
+
+1077
+00:39:08,540 --> 00:39:09,320
+I won't be opening it again
+
+1078
+00:39:09,340 --> 00:39:10,360
+until my dad gets back.
+
+1079
+00:39:11,760 --> 00:39:12,860
+We'd better head out.
+
+1080
+00:39:13,320 --> 00:39:13,680
+Okay.
+
+1081
+00:39:14,660 --> 00:39:15,120
+Guang,
+
+1082
+00:39:15,500 --> 00:39:16,100
+if anything goes sideways,
+
+1083
+00:39:16,420 --> 00:39:17,400
+just give us a shout.
+
+1084
+00:39:17,860 --> 00:39:19,160
+My son's home today
+if you need an extra hand.
+
+1085
+00:39:20,400 --> 00:39:20,780
+It's fine.
+
+1086
+00:39:20,800 --> 00:39:21,420
+We're heading out.
+
+1087
+00:39:21,420 --> 00:39:22,080
+Okay, get home safe.
+
+1088
+00:39:24,040 --> 00:39:24,580
+Dr. Lin,
+
+1089
+00:39:25,580 --> 00:39:26,060
+those two
+
+1090
+00:39:26,120 --> 00:39:27,540
+who were making the biggest scene
+
+1091
+00:39:27,720 --> 00:39:29,160
+are the worst troublemakers
+in the village.
+
+1092
+00:39:29,680 --> 00:39:30,280
+We don't
+
+1093
+00:39:30,620 --> 00:39:32,160
+even talk to them.
+
+1094
+00:39:32,960 --> 00:39:34,160
+Integrity just runs in the Nie family.
+
+1095
+00:39:35,440 --> 00:39:36,920
+Old Nie and Qin
+
+1096
+00:39:37,060 --> 00:39:38,480
+are the most honest,
+
+1097
+00:39:38,740 --> 00:39:39,820
+decent people you'll ever meet.
+
+1098
+00:39:40,320 --> 00:39:41,680
+Everyone in the village has nothing
+
+1099
+00:39:41,960 --> 00:39:42,980
+but good things to say about them.
+
+1100
+00:39:43,800 --> 00:39:45,120
+They're really well-respected
+around here.
+
+1101
+00:39:47,860 --> 00:39:48,260
+Grandaunt Xiuzhen,
+
+1102
+00:39:49,080 --> 00:39:49,540
+I know.
+
+1103
+00:39:50,620 --> 00:39:51,360
+I can tell
+
+1104
+00:39:51,940 --> 00:39:52,460
+just by looking at Xiguang.
+
+1105
+00:39:53,720 --> 00:39:55,080
+Alright, I'm off.
+
+1106
+00:39:55,420 --> 00:39:56,380
+Be careful.
+
+1107
+00:40:06,780 --> 00:40:07,220
+Don't worry.
+
+1108
+00:40:19,600 --> 00:40:19,940
+Let's go.
+
+1109
+00:40:24,500 --> 00:40:25,200
+Listen up.
+
+1110
+00:40:26,140 --> 00:40:27,740
+Nie Chengyuan's daughter
+
+1111
+00:40:27,740 --> 00:40:28,820
+and her boyfriend are both here.
+
+1112
+00:40:29,440 --> 00:40:30,500
+This is a rare chance.
+
+1113
+00:40:31,380 --> 00:40:32,100
+Even if it's just to save face
+
+1114
+00:40:32,100 --> 00:40:33,680
+in front of his future son-in-law,
+
+1115
+00:40:34,100 --> 00:40:35,860
+he'll have to pay up.
+
+1116
+00:40:37,340 --> 00:40:38,040
+Usually,
+
+1117
+00:40:39,100 --> 00:40:40,400
+it's just his parents at home,
+
+1118
+00:40:41,040 --> 00:40:41,680
+which makes it hard to get our money.
+
+1119
+00:40:42,160 --> 00:40:42,780
+What if
+
+1120
+00:40:42,800 --> 00:40:43,700
+they fake a faint
+
+1121
+00:40:44,160 --> 00:40:44,920
+just to frame us?
+
+1122
+00:40:44,920 --> 00:40:45,320
+Yeah.
+
+1123
+00:40:45,320 --> 00:40:45,660
+Right?
+
+1124
+00:40:46,160 --> 00:40:47,280
+We're camping out right here
+
+1125
+00:40:47,540 --> 00:40:48,560
+and we can't let them slip away.
+
+1126
+00:40:50,040 --> 00:40:50,740
+Are we gonna
+
+1127
+00:40:51,400 --> 00:40:51,960
+scare off
+
+1128
+00:40:51,960 --> 00:40:53,700
+the girl's boyfriend?
+
+1129
+00:40:54,100 --> 00:40:54,620
+Yeah,
+
+1130
+00:40:55,280 --> 00:40:56,280
+maybe we shouldn't have blabbed
+
+1131
+00:40:56,320 --> 00:40:57,580
+about all the mess
+
+1132
+00:40:57,780 --> 00:40:58,900
+her dad got into.
+
+1133
+00:41:00,440 --> 00:41:02,520
+Your life savings are gone,
+
+1134
+00:41:03,140 --> 00:41:03,840
+and you're worried
+
+1135
+00:41:03,840 --> 00:41:05,140
+about her boyfriend?
+
+1136
+00:41:05,820 --> 00:41:07,080
+If we weren't leading the way,
+
+1137
+00:41:07,480 --> 00:41:07,900
+you wouldn't get
+
+1138
+00:41:07,900 --> 00:41:09,320
+a single penny back in your lifetime!
+
+1139
+00:41:09,520 --> 00:41:11,460
+But Qian is the one
+who actually owes us the money.
+
+1140
+00:41:12,000 --> 00:41:13,220
+It's all the same.
+
+1141
+00:41:14,980 --> 00:41:16,480
+You think Nie Chengyuan
+
+1142
+00:41:16,800 --> 00:41:17,680
+is any better?
+
+1143
+00:41:31,940 --> 00:41:32,460
+Don't worry.
+
+1144
+00:41:33,400 --> 00:41:34,660
+I just finished
+the repositioning maneuver for Grandpa.
+
+1145
+00:41:35,360 --> 00:41:36,800
+He'll be fine after he gets some sleep.
+
+1146
+00:41:48,600 --> 00:41:49,040
+Don't be scared.
+
+1147
+00:41:49,980 --> 00:41:50,540
+It's nothing serious.
+
+1148
+00:41:55,000 --> 00:41:56,040
+I'm not scared.
+
+1149
+00:41:57,560 --> 00:41:59,080
+I'm just so fed up with all this.
+
+1150
+00:42:30,980 --> 00:42:34,640
+♪A patch of heavy clouds above♪
+
+1151
+00:42:35,150 --> 00:42:37,770
+♪That winding, twisting road we walk♪
+
+1152
+00:42:38,990 --> 00:42:42,670
+♪Stopping and going countless times♪
+
+1153
+00:42:42,950 --> 00:42:46,690
+♪Love feels less rushed that way♪
+
+1154
+00:42:47,020 --> 00:42:50,720
+♪The rain from yesterday
+has finally cleared♪
+
+1155
+00:42:51,200 --> 00:42:54,380
+♪And today the sunshine
+feels so warm and bright♪
+
+1156
+00:42:55,130 --> 00:42:58,750
+♪I used to hide away in the corner♪
+
+1157
+00:42:58,880 --> 00:43:02,560
+♪But now I long
+to follow close behind you♪
+
+1158
+00:43:02,960 --> 00:43:06,640
+♪How much longer
+must I keep missing out?♪
+
+1159
+00:43:06,990 --> 00:43:11,270
+♪When it's only you
+who makes my heart race♪
+
+1160
+00:43:13,040 --> 00:43:16,200
+♪I've rushed through the endless crowd♪
+
+1161
+00:43:16,770 --> 00:43:20,830
+♪I'm holding your hand at this moment♪
+
+1162
+00:43:20,930 --> 00:43:24,630
+♪Clutching tight, with tender arms♪
+
+1163
+00:43:24,740 --> 00:43:28,460
+♪I just want to keep your gentle smile♪
+
+1164
+00:43:29,080 --> 00:43:32,840
+♪I've made it past the endless trials♪
+
+1165
+00:43:32,930 --> 00:43:36,670
+♪I'm gazing into your eyes
+at this moment♪
+
+1166
+00:43:36,930 --> 00:43:40,670
+♪No turning back
+or fear of winter's chill♪
+
+1167
+00:43:40,820 --> 00:43:43,420
+♪The sunlight shines like you♪
+
+1168
+00:43:44,050 --> 00:43:47,730
+♪And like me♪
+
+1169
+00:44:01,230 --> 00:44:04,890
+♪Dreams realized, broken and gone♪
+
+1170
+00:44:05,130 --> 00:44:08,070
+♪Nothing more than a dream all along♪
+
+1171
+00:44:08,340 --> 00:44:12,980
+♪Wake up to the bright lights
+on the streets♪
+
+1172
+00:44:13,190 --> 00:44:16,890
+♪I'm here by your side♪
+
+1173
+00:44:17,140 --> 00:44:20,820
+♪The sky dimmed, deepened and died♪
+
+1174
+00:44:21,030 --> 00:44:24,030
+♪Nothing more than some rain inside♪
+
+1175
+00:44:24,280 --> 00:44:28,920
+♪Open the window
+to boundless blue skies♪
+
+1176
+00:44:29,170 --> 00:44:33,490
+♪Side by side, just you and I♪
+
+1177
+00:44:35,130 --> 00:44:39,470
+♪Side by side, just you and I♪
