@@ -1,0 +1,531 @@
+1
+00:00:11,177 --> 00:00:13,638
+Since Hangyeol prefers coffee,
+
+2
+00:00:13,638 --> 00:00:15,265
+I'll drink this.
+
+3
+00:00:18,059 --> 00:00:20,103
+It's an Americano, right?
+
+4
+00:00:30,280 --> 00:00:33,700
+While this UI maintains familiar patterns,
+
+5
+00:00:33,700 --> 00:00:36,119
+we need to design something new.
+
+6
+00:00:36,119 --> 00:00:38,288
+This structure looks very familiar, doesn't it?
+
+7
+00:00:42,834 --> 00:00:44,627
+Relax a little.
+
+8
+00:00:44,627 --> 00:00:47,047
+You're our team's best ace.
+
+9
+00:00:51,217 --> 00:00:51,426
+Ah,
+
+10
+00:00:51,426 --> 00:00:52,135
+and,
+
+11
+00:00:52,135 --> 00:00:52,802
+in this proposal,
+
+12
+00:00:52,802 --> 00:00:55,055
+the AR fitting feature was added,
+
+13
+00:00:56,139 --> 00:00:57,348
+why did you drop it?
+
+14
+00:00:59,768 --> 00:01:02,103
+You don't need to worry about that.
+
+15
+00:01:02,812 --> 00:01:04,898
+I consulted with other developers,
+
+16
+00:01:04,898 --> 00:01:05,940
+but due to device compatibility issues,
+
+17
+00:01:05,940 --> 00:01:08,526
+I already received an answer that it's difficult.
+
+18
+00:01:12,614 --> 00:01:14,449
+I think it's possible though.
+
+19
+00:01:16,284 --> 00:01:19,579
+We can handle iOS cross-platform with WebGL fallback,
+
+20
+00:01:19,579 --> 00:01:22,123
+and just scale with Kubernetes on the server side.
+
+21
+00:01:23,458 --> 00:01:24,751
+How does that sound?
+
+22
+00:01:27,587 --> 00:01:29,464
+Okay.
+
+23
+00:01:29,464 --> 00:01:31,132
+Give it a try.
+
+24
+00:01:38,014 --> 00:01:39,974
+Shall we take a short break?
+
+25
+00:01:39,974 --> 00:01:41,684
+The meeting is overflowing with energy.
+
+26
+00:01:41,684 --> 00:01:43,436
+It's sucking the life out of me.
+
+27
+00:02:07,669 --> 00:02:09,587
+You haven't changed.
+
+28
+00:02:09,587 --> 00:02:12,590
+Just holding the cigarette without lighting it.
+
+29
+00:02:14,467 --> 00:02:16,386
+Don't follow me for no reason.
+
+30
+00:02:18,555 --> 00:02:21,099
+I'm not following you.
+
+31
+00:02:21,099 --> 00:02:22,767
+Just,
+
+32
+00:02:22,892 --> 00:02:24,310
+coincidentally, like in the old days.
+
+33
+00:02:33,194 --> 00:02:35,405
+In front of people at the company,
+
+34
+00:02:35,405 --> 00:02:37,782
+please don't act like you know me.
+
+35
+00:02:37,782 --> 00:02:41,327
+I don't want to.
+
+36
+00:02:41,327 --> 00:02:43,663
+Even if we force up past connections,
+
+37
+00:02:45,540 --> 00:02:48,126
+only uncomfortable memories will remain.
+
+38
+00:02:49,210 --> 00:02:52,213
+They aren't just memories,
+
+39
+00:02:52,213 --> 00:02:55,300
+they are cherished moments.
+
+40
+00:03:00,013 --> 00:03:02,724
+To you, am I
+
+41
+00:03:03,474 --> 00:03:05,310
+just a mediocre memory?
+
+42
+00:03:10,982 --> 00:03:15,278
+I don't even remember it well.
+
+43
+00:03:31,502 --> 00:03:32,670
+Humans,
+
+44
+00:03:32,921 --> 00:03:34,756
+need to have good memory, remember dates.
+
+45
+00:03:36,174 --> 00:03:38,343
+Wife's birthday, mother-in-law's birthday,
+
+46
+00:03:38,343 --> 00:03:41,512
+father-in-law's birthday, wedding anniversary...
+
+47
+00:03:41,512 --> 00:03:41,888
+Ah,
+
+48
+00:03:41,888 --> 00:03:42,680
+now I'm more scared of my wife
+
+49
+00:03:42,680 --> 00:03:45,308
+than my mom, seriously.
+
+50
+00:03:47,727 --> 00:03:48,478
+Hey.
+
+51
+00:03:48,478 --> 00:03:51,189
+But why have you been like that since earlier?
+
+52
+00:03:52,440 --> 00:03:54,400
+What about me...
+
+53
+00:03:54,400 --> 00:03:55,652
+No,
+
+54
+00:03:55,652 --> 00:03:59,072
+your eyes look like a dead fish at the mart.
+
+55
+00:03:59,072 --> 00:04:00,698
+Why?
+
+56
+00:04:00,698 --> 00:04:01,991
+Is work tough?
+
+57
+00:04:03,409 --> 00:04:05,453
+It's not work,
+
+58
+00:04:05,453 --> 00:04:08,957
+if I had to say, it's because of a person.
+
+59
+00:04:08,957 --> 00:04:11,125
+Hey, but you dug your own grave.
+
+60
+00:04:11,125 --> 00:04:11,584
+Your fate,
+
+61
+00:04:11,584 --> 00:04:13,336
+you twisted it yourself.
+
+62
+00:04:13,336 --> 00:04:16,422
+My headhunter friend said he'd introduce you to a better company,
+
+63
+00:04:16,422 --> 00:04:17,340
+but you said you were moving,
+
+64
+00:04:17,340 --> 00:04:20,009
+and you insisted on going to that company.
+
+65
+00:04:20,009 --> 00:04:22,095
+I guess I was possessed by something.
+
+66
+00:04:24,931 --> 00:04:26,849
+Oh! Here.
+
+67
+00:04:28,268 --> 00:04:30,144
+My friend I was supposed to meet later.
+
+68
+00:04:31,062 --> 00:04:32,438
+Ah, he said he arrived early.
+
+69
+00:04:32,438 --> 00:04:34,148
+You're okay, right?
+
+70
+00:04:34,899 --> 00:04:36,442
+See you here.
+
+71
+00:04:36,859 --> 00:04:38,069
+So soon.
+
+72
+00:04:38,069 --> 00:04:39,279
+Again.
+
+73
+00:04:41,447 --> 00:04:42,240
+What will you drink?
+
+74
+00:04:42,824 --> 00:04:44,158
+Good.
+
+75
+00:04:45,451 --> 00:04:48,204
+What is that?
+
+76
+00:04:49,414 --> 00:04:50,999
+A cocktail.
+
+77
+00:04:51,582 --> 00:04:53,209
+Blowjob.
+
+78
+00:04:53,960 --> 00:04:55,044
+Ah...
+
+79
+00:04:55,670 --> 00:04:57,255
+So that's what it is.
+
+80
+00:04:57,255 --> 00:04:58,339
+What?
+
+81
+00:04:58,339 --> 00:04:59,799
+Is this that famous?
+
+82
+00:05:00,967 --> 00:05:02,969
+I don't know about that,
+
+83
+00:05:03,761 --> 00:05:06,431
+but you know this isn't my style, right?
+
+84
+00:05:06,514 --> 00:05:07,473
+What are you talking about?
+
+85
+00:05:07,473 --> 00:05:09,600
+Speak clearly, dude.
+
+86
+00:05:09,600 --> 00:05:12,270
+There is something like that.
+
+87
+00:05:12,270 --> 00:05:14,230
+Could I get the menu, please?
+
+88
+00:05:19,110 --> 00:05:21,195
+Drink this.
+
+89
+00:05:21,195 --> 00:05:21,446
+What?
+
+90
+00:05:21,446 --> 00:05:22,947
+It was tasty.
+
+91
+00:05:31,914 --> 00:05:36,461
+You seem to know Hangyeol, don't you?
+
+92
+00:05:37,962 --> 00:05:41,716
+It doesn't seem necessary to talk about the company here.
+
+93
+00:05:42,925 --> 00:05:44,218
+Company talk?
+
+94
+00:05:46,054 --> 00:05:48,014
+I'm just talking about a person.
+
+95
+00:05:50,350 --> 00:05:52,560
+Hangyeol,
+
+96
+00:05:52,560 --> 00:05:53,311
+when you work with him,
+
+97
+00:05:53,311 --> 00:05:55,146
+he really stands out.
+
+98
+00:05:55,897 --> 00:05:57,982
+He's diligent,
+
+99
+00:05:59,192 --> 00:06:01,444
+and sometimes cute too.
+
+100
+00:06:02,779 --> 00:06:05,406
+Talking about others so carelessly,
+
+101
+00:06:06,449 --> 00:06:08,534
+isn't that rude?
+
+102
+00:06:11,662 --> 00:06:13,790
+Why?
+
+103
+00:06:14,248 --> 00:06:15,875
+Are you uncomfortable?
+
+104
+00:06:19,003 --> 00:06:20,713
+Manager Park,
+
+105
+00:06:21,839 --> 00:06:22,590
+why you become so cautious only in front of Hangyeol,
+
+106
+00:06:22,590 --> 00:06:26,427
+I'm curious.
+
+107
+00:06:28,888 --> 00:06:32,183
+Because there's a reason.
+
+108
+00:06:38,106 --> 00:06:39,190
+Hey.
+
+109
+00:06:39,190 --> 00:06:41,692
+Why is the atmosphere like this?
+
+110
+00:06:41,692 --> 00:06:42,902
+Did you guys fight?
+
+111
+00:06:42,902 --> 00:06:43,820
+No, since we're from the same company,
+
+112
+00:06:43,820 --> 00:06:45,196
+we should stick together.
+
+113
+00:06:45,196 --> 00:06:47,281
+We were just having a nice chat.
+
+114
+00:06:47,281 --> 00:06:49,659
+It didn't look like that.
+
+115
+00:06:51,911 --> 00:06:53,830
+Manager Park.
+
+116
+00:06:53,830 --> 00:06:56,582
+I have something to discuss with my friend today,
+
+117
+00:06:58,835 --> 00:07:01,087
+so I'm sorry but...
+
+118
+00:07:01,087 --> 00:07:05,091
+could you give us some space?
+
+119
+00:07:18,729 --> 00:07:19,856
+Ah, yes, Mr. Courier.
+
+120
+00:07:19,856 --> 00:07:21,482
+About the package I inquired about yesterday.
+
+121
+00:07:25,069 --> 00:07:26,195
+Ah...
+
+122
+00:07:26,195 --> 00:07:27,280
+That is my old address.
+
+123
+00:07:29,532 --> 00:07:31,492
+Ah, yes, understood.
+
+124
+00:07:36,330 --> 00:07:37,874
+Haa...
+
+125
+00:07:37,874 --> 00:07:41,586
+Where is my mind?
+
+126
+00:08:56,911 --> 00:08:59,080
+Why are you here?
+
+127
+00:09:01,958 --> 00:09:04,544
+Because I missed you...
+
+128
+00:09:10,132 --> 00:09:12,718
+This isn't my house.
+
+129
+00:09:14,845 --> 00:09:17,473
+I know.
+
+130
+00:09:25,273 --> 00:09:29,402
+Hangyeol.
+
+131
+00:09:29,402 --> 00:09:33,823
+I'll ask just once.
+
+132
+00:09:35,116 --> 00:09:39,412
+Are you okay?
+
+133
+00:09:45,668 --> 00:09:47,378
+Yes.
