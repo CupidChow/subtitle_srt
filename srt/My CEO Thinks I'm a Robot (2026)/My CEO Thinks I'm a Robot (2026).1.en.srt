@@ -1,0 +1,3808 @@
+1
+00:01:09,468 --> 00:01:10,928
+System...
+
+2
+00:01:10,928 --> 00:01:12,513
+configuration,
+
+3
+00:01:12,513 --> 00:01:13,639
+initializing.
+
+4
+00:01:14,348 --> 00:01:16,017
+Final stage:
+
+5
+00:01:16,559 --> 00:01:18,185
+Human emotions,
+
+6
+00:01:18,185 --> 00:01:19,604
+facial recognition.
+
+7
+00:01:20,055 --> 00:01:21,055
+Okay.
+
+8
+00:01:21,056 --> 00:01:22,056
+Alright.
+
+9
+00:01:22,648 --> 00:01:23,858
+Emotion number one...
+
+10
+00:01:24,400 --> 00:01:26,391
+[Laughing]
+
+11
+00:01:26,392 --> 00:01:27,560
+Emotion detected.
+
+12
+00:01:27,903 --> 00:01:28,903
+Happy.
+
+13
+00:01:29,780 --> 00:01:30,780
+Check!
+
+14
+00:01:30,787 --> 00:01:31,807
+Now, let's see.
+
+15
+00:01:31,809 --> 00:01:32,809
+Do you know this?
+
+16
+00:01:34,668 --> 00:01:35,752
+Emotion number two...
+
+17
+00:01:36,503 --> 00:01:43,385
+[Crying]
+
+18
+00:01:43,988 --> 00:01:45,281
+Emotion detected.
+
+19
+00:01:45,547 --> 00:01:46,547
+Sad.
+
+20
+00:01:47,380 --> 00:01:48,466
+Nice.
+
+21
+00:01:48,467 --> 00:01:49,635
+Perfect!
+
+22
+00:01:51,261 --> 00:01:52,261
+What else?
+
+23
+00:01:53,607 --> 00:01:54,805
+Oh, I have something.
+
+24
+00:01:55,265 --> 00:01:56,933
+Let's see if you'll get this.
+
+25
+00:01:57,934 --> 00:02:00,103
+[Gagging]
+
+26
+00:02:00,507 --> 00:02:01,675
+Disgust.
+
+27
+00:02:02,413 --> 00:02:03,581
+Very good!
+
+28
+00:02:04,374 --> 00:02:05,583
+Alright, last one.
+
+29
+00:02:09,754 --> 00:02:11,298
+Let's see if you'll get this right.
+
+30
+00:02:11,714 --> 00:02:12,775
+[Screaming]
+
+31
+00:02:12,780 --> 00:02:13,793
+You have no shame.
+
+32
+00:02:14,367 --> 00:02:15,993
+You're going to rot in hell!
+
+33
+00:02:16,577 --> 00:02:17,971
+You think you did nothing wrong...
+
+34
+00:02:17,974 --> 00:02:20,286
+but you did! You did! You did!
+
+35
+00:02:20,298 --> 00:02:21,966
+- Angry.
+- Wow!
+
+36
+00:02:22,675 --> 00:02:23,675
+Nice.
+
+37
+00:02:23,968 --> 00:02:25,136
+Perfect!
+
+38
+00:02:25,937 --> 00:02:27,355
+Alright, last one.
+
+39
+00:02:27,939 --> 00:02:29,524
+Let's see if you can get this right.
+
+40
+00:02:30,066 --> 00:02:31,150
+[Hysterical laugh]
+
+41
+00:02:32,360 --> 00:02:35,506
+[Crying]
+
+42
+00:02:35,512 --> 00:02:36,512
+Crazy.
+
+43
+00:02:37,312 --> 00:02:38,855
+Wow. Perfect!
+
+44
+00:02:39,258 --> 00:02:41,386
+You're so ready.
+
+45
+00:02:41,771 --> 00:02:44,456
+You're so good.
+
+46
+00:02:49,127 --> 00:02:51,484
+Hi, my dream CEO.
+
+47
+00:02:51,491 --> 00:02:53,038
+My ultimate crush.
+
+48
+00:02:53,045 --> 00:02:54,425
+Emotion detected.
+
+49
+00:02:54,431 --> 00:02:55,431
+Giddy.
+
+50
+00:02:58,583 --> 00:03:01,562
+Hello? Who can resist him?
+
+51
+00:03:01,563 --> 00:03:02,856
+Ernest Dimaguiba,
+
+52
+00:03:02,856 --> 00:03:04,536
+The ultimate CEO.
+
+53
+00:03:04,543 --> 00:03:05,646
+He's handsome...
+
+54
+00:03:05,652 --> 00:03:06,828
+intelligent...
+
+55
+00:03:06,838 --> 00:03:07,838
+rich.
+
+56
+00:03:07,839 --> 00:03:09,006
+He has everything!
+
+57
+00:03:10,258 --> 00:03:11,733
+I’m the only thing missing.
+
+58
+00:03:17,493 --> 00:03:18,867
+I wonder how he's doing.
+
+59
+00:03:18,884 --> 00:03:20,867
+I should be the one asking you that, Aiko.
+
+60
+00:03:20,871 --> 00:03:21,871
+Oh.
+
+61
+00:03:21,884 --> 00:03:23,495
+Engineer, you’re already here.
+
+62
+00:03:23,504 --> 00:03:25,220
+- Have you been there for long?
+- Uhuh.
+
+63
+00:03:25,957 --> 00:03:27,309
+What's the status?
+
+64
+00:03:27,324 --> 00:03:28,443
+How is the unit doing?
+
+65
+00:03:28,444 --> 00:03:29,803
+Status is completed.
+
+66
+00:03:29,810 --> 00:03:32,879
+She can recognize
+all range of human emotions.
+
+67
+00:03:33,439 --> 00:03:35,208
+I just tested her a while ago.
+
+68
+00:03:35,213 --> 00:03:37,215
+But... of course, since
+
+69
+00:03:37,215 --> 00:03:38,550
+she's a default system...
+
+70
+00:03:39,093 --> 00:03:41,226
+she cannot change facial expressions.
+
+71
+00:03:41,233 --> 00:03:43,282
+That's just how she is.
+Just a pretty face. Like this.
+
+72
+00:03:43,288 --> 00:03:44,682
+Great work!
+
+73
+00:03:44,688 --> 00:03:47,250
+That’s the first
+unit system ordered from us.
+
+74
+00:03:47,252 --> 00:03:49,647
+So I'm sure Ernest
+will be happy about this.
+
+75
+00:03:49,659 --> 00:03:52,339
+- You mean, the Ernest Dimaguiba?
+- Yep.
+
+76
+00:03:52,346 --> 00:03:55,156
+Oh my gosh, he was the one
+who ordered this unit?
+
+77
+00:03:55,156 --> 00:03:56,570
+Emotion detected.
+
+78
+00:03:56,576 --> 00:03:57,904
+Overreacting,
+
+79
+00:03:57,910 --> 00:03:58,910
+excitement,
+
+80
+00:03:58,916 --> 00:04:00,323
+in short... too extra.
+
+81
+00:04:01,476 --> 00:04:02,476
+Recommendation:
+
+82
+00:04:02,481 --> 00:04:03,481
+Needs sleep.
+
+83
+00:04:03,487 --> 00:04:04,487
+She's right.
+
+84
+00:04:04,494 --> 00:04:05,679
+But before you go to sleep...
+
+85
+00:04:05,687 --> 00:04:06,956
+go and make me a cup of coffee.
+
+86
+00:04:06,967 --> 00:04:08,214
+The one you make so well.
+
+87
+00:04:08,221 --> 00:04:09,221
+Okay?
+
+88
+00:04:09,692 --> 00:04:10,692
+Good night.
+
+89
+00:04:19,038 --> 00:04:20,766
+So let me get this straight.
+
+90
+00:04:20,772 --> 00:04:22,833
+They beat us to the deal again.
+
+91
+00:04:22,852 --> 00:04:26,165
+Aren't we supposed to be the one
+closing deals for promising inventions?
+
+92
+00:04:26,172 --> 00:04:27,172
+Sir.
+
+93
+00:04:27,178 --> 00:04:28,688
+Their roll-off was unexpected.
+
+94
+00:04:28,689 --> 00:04:31,129
+Nothing is unexpected
+if you're doing your job!
+
+95
+00:04:31,140 --> 00:04:32,826
+Sir... We can adjust.
+
+96
+00:04:32,840 --> 00:04:34,175
+We don't adjust.
+
+97
+00:04:34,814 --> 00:04:36,148
+We lead!
+
+98
+00:04:37,358 --> 00:04:39,068
+Am I now supposed to do your job for you?
+
+99
+00:04:39,568 --> 00:04:40,903
+What are you all even good for?
+
+100
+00:04:43,197 --> 00:04:44,197
+Sir Ernest.
+
+101
+00:04:44,698 --> 00:04:46,158
+Let's not burn the team.
+
+102
+00:04:47,138 --> 00:04:48,598
+We can always recalibrate.
+
+103
+00:04:48,973 --> 00:04:50,055
+It's one loss.
+
+104
+00:04:50,061 --> 00:04:51,061
+We don't lose.
+
+105
+00:04:51,064 --> 00:04:53,810
+I don't lose.
+
+106
+00:04:53,817 --> 00:04:55,360
+I don't want to lose!
+
+107
+00:04:56,069 --> 00:04:57,755
+I'm really tired, okay?
+
+108
+00:04:57,764 --> 00:04:58,882
+Is that so hard to understand?
+
+109
+00:05:04,229 --> 00:05:05,229
+Adjourned.
+
+110
+00:05:09,734 --> 00:05:11,152
+Sir, here's your coffee.
+
+111
+00:05:19,609 --> 00:05:20,609
+It's so...
+
+112
+00:05:20,616 --> 00:05:21,736
+bitter!
+
+113
+00:05:21,742 --> 00:05:23,156
+I'm sorry sir but maybe...
+
+114
+00:05:23,162 --> 00:05:24,162
+Maybe what, Manang?
+
+115
+00:05:24,169 --> 00:05:26,396
+You've been doing this for so long already.
+
+116
+00:05:26,402 --> 00:05:28,445
+That's always been how I make it.
+
+117
+00:05:30,540 --> 00:05:31,707
+Oh, maybe I'm the...
+
+118
+00:05:32,458 --> 00:05:35,293
+I'm the one who forgot
+and I'm the old one here.
+
+119
+00:05:35,294 --> 00:05:36,795
+Me? Old?
+
+120
+00:05:36,796 --> 00:05:38,005
+That's ridiculous, sir.
+
+121
+00:05:38,381 --> 00:05:39,382
+[Crying]
+
+122
+00:05:40,424 --> 00:05:41,926
+You're too sensitive, Manang.
+
+123
+00:05:43,219 --> 00:05:45,054
+You better find someone else.
+
+124
+00:05:46,347 --> 00:05:47,598
+Someone who doesn't have emotions...
+
+125
+00:05:48,099 --> 00:05:49,099
+like you!
+
+126
+00:05:58,717 --> 00:06:01,261
+Do you have something else to say?
+
+127
+00:06:02,017 --> 00:06:03,157
+Sir?
+
+128
+00:06:03,165 --> 00:06:04,500
+Aren't you going to...
+
+129
+00:06:04,896 --> 00:06:06,022
+stop me from leaving?
+
+130
+00:06:06,814 --> 00:06:07,814
+No.
+
+131
+00:06:08,758 --> 00:06:10,287
+Finally!
+
+132
+00:06:10,299 --> 00:06:12,762
+[Crying]
+
+133
+00:06:13,239 --> 00:06:17,502
+[Crying]
+
+134
+00:06:27,613 --> 00:06:29,239
+Hello Darwin, how's the unit?
+
+135
+00:06:30,580 --> 00:06:31,580
+The robot?
+
+136
+00:06:32,206 --> 00:06:33,206
+If it's ready?
+
+137
+00:06:33,694 --> 00:06:35,445
+Hey... Is she ready?
+
+138
+00:06:38,415 --> 00:06:40,692
+Of course! She's ready.
+
+139
+00:06:40,709 --> 00:06:41,960
+Define...
+
+140
+00:06:42,544 --> 00:06:43,752
+"ready."
+
+141
+00:06:43,752 --> 00:06:45,739
+She's fully functional.
+
+142
+00:06:45,745 --> 00:06:48,324
+I’ll bring it to you first thing tomorrow.
+
+143
+00:06:48,325 --> 00:06:50,631
+So we can trial test her.
+
+144
+00:06:50,638 --> 00:06:51,638
+Perfect.
+
+145
+00:06:51,645 --> 00:06:53,021
+If the unit is good
+
+146
+00:06:53,021 --> 00:06:57,459
+expect a huge amount of funds
+for production and distribution.
+
+147
+00:06:57,465 --> 00:06:59,736
+I won't fail you, my friend.
+
+148
+00:06:59,738 --> 00:07:01,379
+I'll wait for the delivery tomorrow.
+
+149
+00:07:05,925 --> 00:07:07,135
+- Aiko.
+- Yes?
+
+150
+00:07:07,145 --> 00:07:08,302
+What's her status?
+
+151
+00:07:09,145 --> 00:07:10,145
+Uh...
+
+152
+00:07:10,491 --> 00:07:11,760
+What's happening to her?
+
+153
+00:07:11,765 --> 00:07:13,058
+I didn't do anything!
+
+154
+00:07:13,058 --> 00:07:15,036
+Shut it down.
+Shut it down now!
+
+155
+00:07:15,038 --> 00:07:16,038
+Wait.
+
+156
+00:07:20,815 --> 00:07:21,815
+Aiko!
+
+157
+00:07:21,822 --> 00:07:23,949
+I can’t afford to embarrass myself
+in front of Ernest.
+
+158
+00:07:24,670 --> 00:07:26,630
+We’ll lose a big part of our funds.
+
+159
+00:07:27,283 --> 00:07:28,952
+What will we bring tomorrow?
+
+160
+00:07:30,756 --> 00:07:32,202
+We don't have anything to deliver.
+
+161
+00:07:48,564 --> 00:07:49,773
+Ernest, my friend.
+
+162
+00:07:50,231 --> 00:07:52,233
+It is with great pride
+that I introduce to you...
+
+163
+00:07:54,057 --> 00:07:55,242
+the future...
+
+164
+00:07:55,244 --> 00:07:56,637
+of personal assistance.
+
+165
+00:08:12,428 --> 00:08:14,013
+It's...
+
+166
+00:08:14,935 --> 00:08:16,353
+I Love You...
+
+167
+00:08:16,788 --> 00:08:18,373
+A-I-K-O.
+
+168
+00:08:19,499 --> 00:08:20,959
+Unit One.
+
+169
+00:08:22,502 --> 00:08:24,087
+Good morning, Boss Ernest.
+
+170
+00:08:24,586 --> 00:08:25,905
+I am Aiko.
+
+171
+00:08:25,919 --> 00:08:27,172
+Unit 0-1.
+
+172
+00:08:27,606 --> 00:08:28,899
+Aiko for short.
+
+173
+00:08:29,252 --> 00:08:30,420
+Nice to meet you.
+
+174
+00:08:32,499 --> 00:08:34,126
+New place configured.
+
+175
+00:08:34,852 --> 00:08:36,525
+Ready to be of service.
+
+176
+00:08:41,938 --> 00:08:45,400
+Oh my God, he’s even more
+handsome in person.
+
+177
+00:08:45,401 --> 00:08:48,529
+I think I’m about to faint, help!
+
+178
+00:08:58,384 --> 00:08:59,719
+She looks...
+
+179
+00:09:00,160 --> 00:09:01,480
+different.
+
+180
+00:09:01,974 --> 00:09:05,478
+This isn't what I saw from the
+updates you sent me before.
+
+181
+00:09:06,229 --> 00:09:08,090
+We made some adjustments.
+
+182
+00:09:08,106 --> 00:09:09,389
+Refined features.
+
+183
+00:09:09,396 --> 00:09:10,396
+The previous design looked better.
+
+184
+00:09:10,730 --> 00:09:12,823
+Ouch, I’m not his type.
+
+185
+00:09:13,470 --> 00:09:15,547
+My friend, my friend.
+
+186
+00:09:15,550 --> 00:09:17,146
+I guarantee you...
+
+187
+00:09:17,150 --> 00:09:18,193
+She's impressive
+
+188
+00:09:18,193 --> 00:09:20,236
+and her performance is top-tier.
+
+189
+00:09:20,242 --> 00:09:22,815
+Powered by advanced capabilities.
+
+190
+00:09:22,822 --> 00:09:26,095
+She can handle easy to complex queries.
+
+191
+00:09:26,102 --> 00:09:27,102
+Ask her something.
+
+192
+00:09:27,619 --> 00:09:28,870
+Uhm...
+
+193
+00:09:30,659 --> 00:09:33,788
+Initializing self-query demonstration.
+
+194
+00:09:34,413 --> 00:09:35,956
+What is the weather today?
+
+195
+00:09:36,248 --> 00:09:38,954
+Answer: It is partly cloudy.
+
+196
+00:09:38,959 --> 00:09:40,372
+Chance of rain...
+
+197
+00:09:40,377 --> 00:09:41,545
+Forty percent.
+
+198
+00:09:42,372 --> 00:09:44,415
+See? She knows a lot!
+
+199
+00:09:44,813 --> 00:09:47,311
+No matter what your
+questions are, my friend.
+
+200
+00:09:47,319 --> 00:09:49,780
+Even if it's about zodiac compatibilities.
+
+201
+00:09:50,906 --> 00:09:52,366
+Uh... Not impressed.
+
+202
+00:09:52,366 --> 00:09:55,452
+Those are all just...
+basic information.
+
+203
+00:09:55,452 --> 00:09:56,787
+Tell me, what more can she do?
+
+204
+00:09:57,899 --> 00:10:00,378
+You don't have to charge or plug her in.
+
+205
+00:10:00,385 --> 00:10:01,678
+She's solar powered.
+
+206
+00:10:02,312 --> 00:10:03,996
+She doesn't eat or get hungry.
+
+207
+00:10:04,005 --> 00:10:05,005
+She doesn't...
+
+208
+00:10:05,019 --> 00:10:06,020
+use the bathroom.
+
+209
+00:10:08,033 --> 00:10:09,368
+That's it?
+
+210
+00:10:09,953 --> 00:10:11,330
+She can do so much more.
+
+211
+00:10:12,013 --> 00:10:13,515
+I can do many other things.
+
+212
+00:10:13,785 --> 00:10:15,242
+I'm very talented.
+
+213
+00:10:15,246 --> 00:10:16,616
+You want me to sing?
+
+214
+00:10:16,620 --> 00:10:18,038
+Here is my sample performance:
+
+215
+00:10:18,539 --> 00:10:22,960
+Do-re-mi-fa-so-la-ti-do!
+
+216
+00:10:23,460 --> 00:10:24,896
+I can also dance.
+
+217
+00:10:24,909 --> 00:10:26,276
+Here is my sample performance:
+
+218
+00:10:27,069 --> 00:10:28,069
+Aiko, stop.
+
+219
+00:10:29,891 --> 00:10:30,892
+Really, that's it?
+
+220
+00:10:31,448 --> 00:10:33,716
+Of course, not.
+She can do a lot more.
+
+221
+00:10:34,278 --> 00:10:35,696
+Tell me, what more can you do?
+
+222
+00:10:36,036 --> 00:10:38,265
+I can also do physical activities...
+
+223
+00:10:38,267 --> 00:10:39,434
+like Karate.
+
+224
+00:10:40,060 --> 00:10:41,520
+Sparring mate detected.
+
+225
+00:10:47,475 --> 00:10:48,852
+[grunting]
+
+226
+00:10:49,548 --> 00:10:50,876
+Aiko...
+
+227
+00:10:50,882 --> 00:10:51,883
+That's enough.
+
+228
+00:10:56,248 --> 00:10:57,406
+Just go and make me some coffee.
+
+229
+00:10:57,833 --> 00:10:59,001
+Command acknowledged.
+
+230
+00:10:59,418 --> 00:11:00,502
+Initiating.
+
+231
+00:11:01,525 --> 00:11:03,443
+Alright, I'll just see if she's useful.
+
+232
+00:11:07,885 --> 00:11:09,970
+What have I gotten myself into?
+
+233
+00:11:10,596 --> 00:11:12,639
+I don’t think I can handle this.
+
+234
+00:11:14,007 --> 00:11:15,508
+Oh Aiko, you can do this.
+
+235
+00:11:15,508 --> 00:11:18,261
+For the sake of the money,
+just don't back out.
+
+236
+00:11:18,720 --> 00:11:19,888
+Don't back out.
+
+237
+00:11:21,711 --> 00:11:23,004
+Cut it out, Engineer.
+
+238
+00:11:23,641 --> 00:11:25,559
+It looks like our friend is convinced.
+
+239
+00:11:26,328 --> 00:11:27,328
+Well, go on.
+
+240
+00:11:27,334 --> 00:11:28,502
+Make his coffee.
+
+241
+00:11:28,960 --> 00:11:29,961
+Make it good, okay?
+
+242
+00:11:30,670 --> 00:11:31,796
+That's his first test.
+
+243
+00:11:32,547 --> 00:11:35,091
+Engineer, making coffee
+is nothing to me.
+
+244
+00:11:35,701 --> 00:11:38,328
+What I can't do is this
+deception we're doing.
+
+245
+00:11:38,328 --> 00:11:39,579
+Don't you feel guilty?
+
+246
+00:11:40,107 --> 00:11:41,302
+Because?
+
+247
+00:11:41,314 --> 00:11:43,036
+Because he's my crush!
+
+248
+00:11:43,041 --> 00:11:45,983
+How can I even keep it together?
+
+249
+00:11:45,992 --> 00:11:46,993
+Whatever, Engineer.
+
+250
+00:11:47,493 --> 00:11:49,137
+I almost fainted earlier,
+just so you know.
+
+251
+00:11:49,146 --> 00:11:50,146
+Wow.
+
+252
+00:11:50,532 --> 00:11:53,215
+I was the one who almost fainted with your
+gimmicks a while ago.
+
+253
+00:11:53,219 --> 00:11:54,219
+I'm sorry, okay?
+
+254
+00:11:54,226 --> 00:11:56,676
+You told me to step it up,
+so I did, didn't I?
+
+255
+00:11:56,677 --> 00:11:58,655
+Oh, didn't you also say that...
+
+256
+00:11:58,671 --> 00:11:59,672
+you need this?
+
+257
+00:12:00,340 --> 00:12:00,798
+Right?
+
+258
+00:12:00,924 --> 00:12:01,841
+Engineer.
+
+259
+00:12:02,275 --> 00:12:03,651
+Is it okay if...
+
+260
+00:12:04,432 --> 00:12:05,516
+I can ask for an advance?
+
+261
+00:12:05,516 --> 00:12:07,936
+I really need to send money to my mom.
+
+262
+00:12:07,936 --> 00:12:09,562
+It's also an emergency.
+
+263
+00:12:09,569 --> 00:12:10,987
+- I'll do anything.
+- Anything?
+
+264
+00:12:10,987 --> 00:12:12,614
+Yes, I really need it.
+
+265
+00:12:12,614 --> 00:12:13,775
+Please, just this once.
+
+266
+00:12:13,781 --> 00:12:14,781
+What...
+
+267
+00:12:14,785 --> 00:12:16,412
+are you willing to do...
+
+268
+00:12:16,412 --> 00:12:18,164
+for money?
+
+269
+00:12:19,025 --> 00:12:20,406
+Oh, Engineer, please don't.
+
+270
+00:12:20,417 --> 00:12:23,629
+I’ll do anything,
+but I won’t sell my body.
+
+271
+00:12:23,629 --> 00:12:25,995
+I'm not that kind of person.
+
+272
+00:12:26,004 --> 00:12:27,431
+- No!
+- Not even a chance.
+
+273
+00:12:27,437 --> 00:12:28,831
+It's not like that!
+
+274
+00:12:28,843 --> 00:12:30,416
+You misunderstood.
+
+275
+00:12:30,883 --> 00:12:32,009
+You're not even my type.
+
+276
+00:12:32,551 --> 00:12:33,979
+Oh.
+
+277
+00:12:34,003 --> 00:12:35,296
+You're too harsh.
+
+278
+00:12:36,223 --> 00:12:39,267
+So what exactly do you want me to do?
+
+279
+00:12:48,850 --> 00:12:49,850
+Me?
+
+280
+00:12:50,477 --> 00:12:51,603
+Robot.
+
+281
+00:12:51,936 --> 00:12:52,687
+Robot--
+
+282
+00:12:52,687 --> 00:12:55,010
+You're going to be his personal assistant.
+
+283
+00:12:55,010 --> 00:12:56,703
+You’ll do everything that...
+
+284
+00:12:56,710 --> 00:12:59,028
+needs to be done when he's there.
+
+285
+00:12:59,030 --> 00:13:00,163
+Whenever he needs you.
+
+286
+00:13:00,531 --> 00:13:03,534
+You can massage him...
+Or even talk to him...
+
+287
+00:13:03,534 --> 00:13:05,849
+- Massage him?
+- Yes!
+
+288
+00:13:05,856 --> 00:13:08,609
+What if he asks me to do
+something and I don’t know how?
+
+289
+00:13:09,521 --> 00:13:10,521
+You can do it.
+
+290
+00:13:10,534 --> 00:13:11,754
+No!
+
+291
+00:13:11,761 --> 00:13:15,640
+Never... Never! Never! Never!
+
+292
+00:13:15,641 --> 00:13:18,059
+If only I didn't need the money.
+
+293
+00:13:18,834 --> 00:13:20,520
+It's so tough being poor.
+
+294
+00:13:20,544 --> 00:13:22,504
+This is just a one month trial test.
+
+295
+00:13:23,389 --> 00:13:24,950
+While you're pretending to be a robot,
+
+296
+00:13:24,956 --> 00:13:27,140
+I'll also be fixing the real unit.
+
+297
+00:13:27,166 --> 00:13:28,724
+Then when it's good to go,
+
+298
+00:13:28,740 --> 00:13:30,029
+I'll pull you out immediately.
+
+299
+00:13:30,033 --> 00:13:32,582
+Then you can have your whole salary.
+
+300
+00:13:32,586 --> 00:13:33,849
+What's important is...
+
+301
+00:13:33,853 --> 00:13:35,845
+Ernest shouldn't find out about this.
+
+302
+00:13:35,859 --> 00:13:36,939
+That's what I'm saying, Engineer.
+
+303
+00:13:36,940 --> 00:13:38,192
+What if he finds out?
+
+304
+00:13:38,193 --> 00:13:40,836
+What if I won't know the things
+he'll ask me to do.
+
+305
+00:13:40,860 --> 00:13:42,087
+What do I do?
+
+306
+00:13:42,111 --> 00:13:43,614
+That smart watch you're wearing.
+
+307
+00:13:43,619 --> 00:13:44,619
+Use it.
+
+308
+00:13:44,906 --> 00:13:46,032
+You'll know everything.
+
+309
+00:13:46,032 --> 00:13:47,200
+You won't mess up.
+
+310
+00:13:47,575 --> 00:13:48,575
+I guess so.
+
+311
+00:13:49,160 --> 00:13:50,888
+Go on. Do it quickly!
+
+312
+00:13:50,893 --> 00:13:52,978
+- Just go. We might get caught.
+- Alright.
+
+313
+00:13:55,606 --> 00:13:56,606
+Gosh.
+
+314
+00:14:05,293 --> 00:14:07,128
+Here is your coffee, boss.
+
+315
+00:14:27,667 --> 00:14:28,993
+Why does it taste like this?
+
+316
+00:14:38,246 --> 00:14:39,246
+It's good!
+
+317
+00:14:39,580 --> 00:14:40,735
+Very good, Aiko.
+
+318
+00:14:40,739 --> 00:14:41,739
+It's like...
+
+319
+00:14:42,312 --> 00:14:44,341
+it was made by a human.
+
+320
+00:14:44,839 --> 00:14:46,966
+Thank you for the positive feedback, boss.
+
+321
+00:14:47,839 --> 00:14:50,717
+Your satisfaction is my priority.
+
+322
+00:14:55,138 --> 00:14:56,598
+Oh, I'm sorry.
+I need to take this.
+
+323
+00:15:06,635 --> 00:15:07,970
+Stay focused on your acting.
+
+324
+00:15:07,970 --> 00:15:08,970
+Perfect, I hope.
+
+325
+00:15:09,688 --> 00:15:11,565
+- Hey, stop being so giddy.
+- What?
+
+326
+00:15:12,732 --> 00:15:15,836
+What? You think I don't know
+you have a crush on Ernest?
+
+327
+00:15:15,848 --> 00:15:16,848
+Remember...
+
+328
+00:15:17,266 --> 00:15:18,476
+No emotions.
+
+329
+00:15:19,219 --> 00:15:20,512
+You're a robot, okay?
+
+330
+00:15:20,971 --> 00:15:22,055
+Fine, okay?
+
+331
+00:15:23,006 --> 00:15:24,466
+I'm sorry, Engineer.
+
+332
+00:15:25,036 --> 00:15:26,246
+He's just so handsome.
+
+333
+00:15:26,617 --> 00:15:27,954
+Can you blame me?
+
+334
+00:15:27,959 --> 00:15:29,085
+For the last time...
+
+335
+00:15:29,419 --> 00:15:30,586
+Don't ever forget
+
+336
+00:15:30,837 --> 00:15:32,505
+the tasks you need to do.
+
+337
+00:15:32,831 --> 00:15:33,831
+Copy.
+
+338
+00:15:33,851 --> 00:15:34,851
+Well, go on. Be a robot.
+
+339
+00:15:39,178 --> 00:15:42,539
+Ta-da! This is where
+you'll self-charge or whatever,
+
+340
+00:15:42,550 --> 00:15:43,609
+in this storage room.
+
+341
+00:15:45,750 --> 00:15:46,750
+Go.
+
+342
+00:15:47,073 --> 00:15:48,073
+I'll leave you to it.
+
+343
+00:16:03,322 --> 00:16:04,573
+Really, here?
+
+344
+00:16:06,883 --> 00:16:08,009
+Am I not human?
+
+345
+00:16:10,910 --> 00:16:12,036
+Right...
+
+346
+00:16:12,276 --> 00:16:14,069
+I'm not supposed to act as a human.
+
+347
+00:16:14,403 --> 00:16:15,613
+I'm a robot, aren't I?
+
+348
+00:16:17,865 --> 00:16:18,865
+That's okay.
+
+349
+00:16:19,325 --> 00:16:20,493
+It won't be like this forever.
+
+350
+00:16:21,029 --> 00:16:24,282
+Your major role for the entire
+day is a personal assistant.
+
+351
+00:16:24,533 --> 00:16:26,009
+All of Ernest's meetings
+
+352
+00:16:26,016 --> 00:16:27,035
+are held virtually.
+
+353
+00:16:27,035 --> 00:16:29,182
+He doesn't take meetings in person.
+
+354
+00:16:29,196 --> 00:16:30,549
+He only works at home.
+
+355
+00:16:30,562 --> 00:16:32,632
+It has always been
+his routine for two years.
+
+356
+00:16:32,642 --> 00:16:35,128
+No more delays in reports.
+
+357
+00:16:35,136 --> 00:16:37,580
+How many times
+do I have to tell you this?
+
+358
+00:16:38,648 --> 00:16:41,567
+I need updates constantly.
+
+359
+00:16:43,444 --> 00:16:44,444
+You're dismissed.
+
+360
+00:16:45,958 --> 00:16:46,958
+Wow.
+
+361
+00:16:47,272 --> 00:16:50,025
+Even when he's angry,
+he's still so handsome.
+
+362
+00:16:50,031 --> 00:16:51,031
+Aiko.
+
+363
+00:16:51,291 --> 00:16:52,362
+Did you take down everything?
+
+364
+00:16:52,365 --> 00:16:53,616
+Yes, boss crush.
+
+365
+00:16:54,383 --> 00:16:55,410
+What do you mean "crush"?
+
+366
+00:16:55,826 --> 00:16:56,953
+Internet crashed.
+
+367
+00:16:58,079 --> 00:16:59,079
+Fixing.
+
+368
+00:17:00,623 --> 00:17:01,832
+System restored.
+
+369
+00:17:02,398 --> 00:17:03,780
+Everything is noted, boss.
+
+370
+00:17:03,785 --> 00:17:04,785
+Okay good.
+
+371
+00:17:04,792 --> 00:17:07,277
+I also need a detailed summary
+of the meeting earlier.
+
+372
+00:17:07,294 --> 00:17:08,294
+Copy, boss.
+
+373
+00:17:12,383 --> 00:17:13,551
+It's too early for it to...
+
+374
+00:17:14,460 --> 00:17:15,570
+"crash"?
+
+375
+00:17:15,589 --> 00:17:16,589
+"Crash".
+
+376
+00:17:18,008 --> 00:17:19,008
+"Crash".
+
+377
+00:17:19,016 --> 00:17:21,099
+Control yourself, Aiko.
+
+378
+00:17:21,116 --> 00:17:24,036
+Don’t make it obvious
+or you’ll get caught.
+
+379
+00:17:24,741 --> 00:17:25,741
+Don't cry.
+
+380
+00:17:26,641 --> 00:17:27,641
+Don't cry...
+
+381
+00:17:30,414 --> 00:17:31,926
+I really can't take it...
+
+382
+00:17:36,905 --> 00:17:37,948
+How is the food preparation?
+
+383
+00:17:38,397 --> 00:17:41,853
+Food preparation is at 38.97 percent.
+
+384
+00:17:47,234 --> 00:17:48,485
+Are you malfunctioning?
+
+385
+00:17:51,405 --> 00:17:53,216
+Is there liquid in your nose?
+Colds?
+
+386
+00:17:53,221 --> 00:17:54,556
+System error.
+
+387
+00:17:55,366 --> 00:17:56,533
+Virus detected.
+
+388
+00:17:57,287 --> 00:17:59,431
+The scent of onions
+
+389
+00:17:59,443 --> 00:18:00,443
+can affect my system.
+
+390
+00:18:02,697 --> 00:18:04,657
+Darwin failed to mention that to me.
+
+391
+00:18:05,497 --> 00:18:06,915
+So those are dangerous for you?
+
+392
+00:18:10,842 --> 00:18:12,435
+To be fair...
+
+393
+00:18:12,442 --> 00:18:13,551
+he's actually kind of caring.
+
+394
+00:18:19,776 --> 00:18:20,776
+[blows nose]
+
+395
+00:18:29,400 --> 00:18:30,777
+This robot is weird.
+
+396
+00:18:31,611 --> 00:18:33,112
+System restored.
+
+397
+00:18:33,115 --> 00:18:34,922
+Resuming cooking procedure.
+
+398
+00:18:35,375 --> 00:18:37,616
+Forget that, just order me food online.
+
+399
+00:18:38,902 --> 00:18:40,589
+Command acknowledged.
+
+400
+00:18:40,595 --> 00:18:41,846
+Initiating...
+
+401
+00:18:41,846 --> 00:18:43,389
+online food delivery.
+
+402
+00:18:49,545 --> 00:18:52,774
+And whenever you need to
+do something as a human
+
+403
+00:18:52,781 --> 00:18:55,008
+do it carefully and secretly.
+
+404
+00:18:55,021 --> 00:18:57,381
+Never leave a trace behind.
+
+405
+00:18:59,128 --> 00:19:01,714
+I’m already getting constipated
+from holding it in.
+
+406
+00:19:03,674 --> 00:19:04,717
+Aiko?
+
+407
+00:19:12,304 --> 00:19:13,347
+Aiko?
+
+408
+00:19:17,217 --> 00:19:20,062
+Yes, boss?
+What can I do for you?
+
+409
+00:19:23,596 --> 00:19:25,164
+[gagging]
+What's that smell?
+
+410
+00:19:25,676 --> 00:19:27,803
+It stinks so bad!
+
+411
+00:19:29,137 --> 00:19:30,389
+Probable source:
+
+412
+00:19:31,290 --> 00:19:33,041
+Drainage system or
+
+413
+00:19:33,041 --> 00:19:34,256
+toilet bowl defect.
+
+414
+00:19:34,668 --> 00:19:36,146
+Sanitation protocol:
+
+415
+00:19:36,150 --> 00:19:37,193
+Cleaning required.
+
+416
+00:19:37,193 --> 00:19:39,529
+Drainage?
+That's from the drainage?
+
+417
+00:19:39,543 --> 00:19:41,062
+It smells rotten!
+It smells like...
+
+418
+00:19:41,063 --> 00:19:42,658
+three days--
+a dead rat--
+
+419
+00:19:42,663 --> 00:19:44,172
+[gagging]
+
+420
+00:19:45,173 --> 00:19:47,550
+It’s been a long time since
+Manang last cleaned that.
+
+421
+00:19:48,246 --> 00:19:49,246
+Just...
+
+422
+00:19:49,247 --> 00:19:50,356
+Just...
+
+423
+00:19:50,372 --> 00:19:51,582
+Just fix it okay?
+
+424
+00:19:53,092 --> 00:19:54,218
+Acknowledged.
+
+425
+00:19:55,211 --> 00:19:56,629
+Aren’t you done yet?
+
+426
+00:19:57,430 --> 00:19:58,639
+Almost complete.
+
+427
+00:19:59,445 --> 00:20:00,655
+Almost complete.
+
+428
+00:20:01,120 --> 00:20:02,120
+Almost...
+
+429
+00:20:02,365 --> 00:20:05,034
+Hold it in, don't sneeze please!
+
+430
+00:20:05,830 --> 00:20:06,830
+[sneezing]
+
+431
+00:20:26,058 --> 00:20:27,058
+Ouch.
+
+432
+00:21:29,956 --> 00:21:31,833
+May you both rest in peace.
+
+433
+00:21:35,586 --> 00:21:36,586
+Aiko.
+
+434
+00:21:41,717 --> 00:21:45,513
+Jesus Christ, I think I can die now.
+
+435
+00:21:45,972 --> 00:21:46,972
+Aiko?
+
+436
+00:21:48,584 --> 00:21:49,701
+Boss?
+
+437
+00:21:49,703 --> 00:21:51,705
+Your medications are already prepared.
+
+438
+00:21:54,834 --> 00:21:55,834
+Thank you.
+
+439
+00:21:57,378 --> 00:21:58,378
+Warning.
+
+440
+00:21:58,948 --> 00:22:00,445
+Exposure of injury
+
+441
+00:22:00,454 --> 00:22:02,373
+to water is not advisable.
+
+442
+00:22:02,706 --> 00:22:04,708
+Condition may worsen.
+
+443
+00:22:05,251 --> 00:22:08,076
+Contacting the doctor
+for medical evaluation.
+
+444
+00:22:09,191 --> 00:22:11,359
+It’s just a minor injury,
+it’ll be gone by tomorrow.
+
+445
+00:22:11,872 --> 00:22:12,914
+Assessment...
+
+446
+00:22:13,206 --> 00:22:14,308
+Not fine.
+
+447
+00:22:14,311 --> 00:22:15,855
+Aiko, please.
+
+448
+00:22:17,857 --> 00:22:19,981
+I don't want to talk to anyone.
+
+449
+00:22:19,989 --> 00:22:22,169
+I don't want to go outside.
+I don't want to see anyone.
+
+450
+00:22:22,176 --> 00:22:23,242
+So don't bother.
+
+451
+00:22:23,616 --> 00:22:24,617
+Copy, boss.
+
+452
+00:22:28,246 --> 00:22:29,414
+Just help me put this on.
+
+453
+00:22:45,325 --> 00:22:46,325
+[grunting]
+
+454
+00:22:57,055 --> 00:22:58,140
+What are you doing?
+
+455
+00:22:58,724 --> 00:22:59,724
+Uh..
+
+456
+00:23:00,475 --> 00:23:01,518
+Apologies.
+
+457
+00:23:02,227 --> 00:23:03,812
+Continuing assistance.
+
+458
+00:23:22,326 --> 00:23:23,326
+Thank you.
+
+459
+00:23:24,124 --> 00:23:26,001
+Is there anything else you need, boss?
+
+460
+00:23:26,368 --> 00:23:27,368
+That's it.
+
+461
+00:23:27,374 --> 00:23:28,374
+Copy, boss.
+
+462
+00:23:38,383 --> 00:23:39,676
+Happy Birthday, Papa!
+
+463
+00:23:39,676 --> 00:23:41,553
+- I love you, forever!
+- Thank you, my dear!
+
+464
+00:23:41,553 --> 00:23:43,597
+I love you too for ever and ever!
+
+465
+00:23:43,597 --> 00:23:45,341
+I'm sure your mom loves you
+so much too, right honey?
+
+466
+00:23:45,349 --> 00:23:47,968
+Hon watch out, there's a bus!
+
+467
+00:23:52,689 --> 00:23:54,066
+No.
+
+468
+00:23:59,154 --> 00:24:00,363
+It's my fault.
+
+469
+00:24:00,363 --> 00:24:03,867
+I couldn't save you, I'm sorry.
+
+470
+00:24:14,569 --> 00:24:15,946
+Gosh, I'm so hungry.
+
+471
+00:24:17,030 --> 00:24:19,825
+I’m going to get an ulcer from this.
+
+472
+00:24:20,575 --> 00:24:21,910
+That's what you get.
+
+473
+00:24:30,335 --> 00:24:31,335
+Aiko?
+
+474
+00:24:33,463 --> 00:24:35,424
+Boss detected.
+
+475
+00:24:39,386 --> 00:24:40,512
+What are you doing?
+
+476
+00:24:41,263 --> 00:24:42,597
+You're eating?
+
+477
+00:24:43,316 --> 00:24:44,574
+Reminder:
+
+478
+00:24:44,588 --> 00:24:45,588
+You should not...
+
+479
+00:24:46,026 --> 00:24:47,402
+waste food.
+
+480
+00:24:47,408 --> 00:24:48,493
+You should not?
+
+481
+00:24:48,910 --> 00:24:49,952
+You should not
+
+482
+00:24:49,952 --> 00:24:51,240
+waste food.
+
+483
+00:24:54,874 --> 00:24:57,418
+Wait, so if you're eating human food...
+
+484
+00:24:58,180 --> 00:24:59,598
+how are you able to digest?
+
+485
+00:24:59,598 --> 00:25:00,891
+Are you that advanced?
+
+486
+00:25:03,352 --> 00:25:04,413
+Error.
+
+487
+00:25:04,419 --> 00:25:05,605
+Error.
+
+488
+00:25:05,619 --> 00:25:07,092
+System malfunction.
+
+489
+00:25:07,613 --> 00:25:08,864
+Recalibrating.
+
+490
+00:25:09,206 --> 00:25:10,458
+Recalibrating.
+
+491
+00:25:13,305 --> 00:25:14,848
+System restored.
+
+492
+00:25:16,046 --> 00:25:17,088
+It seems that...
+
+493
+00:25:17,679 --> 00:25:18,930
+you've been glitching way too often.
+
+494
+00:25:18,930 --> 00:25:20,603
+I may need to call Darwin.
+
+495
+00:25:22,934 --> 00:25:23,934
+Query:
+
+496
+00:25:24,144 --> 00:25:25,437
+Why are you still awake, boss?
+
+497
+00:25:29,066 --> 00:25:31,109
+I just woke up and
+I can't go back to sleep.
+
+498
+00:25:31,109 --> 00:25:32,444
+I feel like having coffee.
+
+499
+00:25:32,944 --> 00:25:33,945
+Can you make me one?
+
+500
+00:25:34,488 --> 00:25:35,488
+Acknowledged.
+
+501
+00:25:35,864 --> 00:25:37,365
+Preparing coffee.
+
+502
+00:25:40,118 --> 00:25:41,453
+I'll just be outside.
+
+503
+00:25:45,829 --> 00:25:46,919
+Here, boss.
+
+504
+00:25:46,922 --> 00:25:48,049
+Thank you, Aiko.
+
+505
+00:25:48,727 --> 00:25:50,521
+Do you need something else, boss?
+
+506
+00:25:51,040 --> 00:25:53,793
+If there's nothing else,
+I'll go ahead to recharge.
+
+507
+00:25:58,069 --> 00:26:01,072
+Can you stay here for a while
+and keep me company, please?
+
+508
+00:26:07,533 --> 00:26:08,992
+Emotion detected.
+
+509
+00:26:09,660 --> 00:26:10,911
+Sad.
+
+510
+00:26:12,788 --> 00:26:13,788
+You're right.
+
+511
+00:26:16,762 --> 00:26:18,764
+Safe space mode on.
+
+512
+00:26:19,419 --> 00:26:21,088
+Feel free to talk now.
+
+513
+00:26:21,878 --> 00:26:23,588
+I'm here to listen.
+
+514
+00:26:25,509 --> 00:26:27,177
+You can trust me, boss.
+
+515
+00:26:27,511 --> 00:26:30,222
+I can secure confidential information.
+
+516
+00:26:31,223 --> 00:26:33,433
+Nobody else will ever know.
+
+517
+00:26:36,186 --> 00:26:38,522
+I keep dreaming about the accident.
+
+518
+00:26:42,633 --> 00:26:45,053
+The day I lost my wife and daughter.
+
+519
+00:26:49,408 --> 00:26:52,202
+The day I couldn’t do
+anything to save them.
+
+520
+00:26:55,828 --> 00:26:57,622
+Even now, I still can't accept it.
+
+521
+00:27:00,252 --> 00:27:02,296
+After that tragedy, it's like...
+
+522
+00:27:04,339 --> 00:27:05,924
+It's like I've changed.
+
+523
+00:27:06,633 --> 00:27:08,760
+Everything became too
+heavy for me to bear.
+
+524
+00:27:09,924 --> 00:27:12,927
+I became emotionally unstable.
+
+525
+00:27:13,406 --> 00:27:16,993
+I started terrorizing everyone around me,
+
+526
+00:27:20,647 --> 00:27:23,275
+I thought it would be best
+to isolate myself...
+
+527
+00:27:24,276 --> 00:27:26,486
+to lock myself up in this house.
+
+528
+00:27:28,270 --> 00:27:29,939
+So, I also thought to...
+
+529
+00:27:30,903 --> 00:27:32,738
+try you out because you're a robot.
+
+530
+00:27:34,912 --> 00:27:36,538
+No emotions.
+
+531
+00:27:38,165 --> 00:27:39,958
+I can't hurt you, or...
+
+532
+00:27:41,418 --> 00:27:43,378
+you won't get affected by my emotions.
+
+533
+00:27:44,588 --> 00:27:45,839
+Assessment:
+
+534
+00:27:46,298 --> 00:27:48,091
+Your decision is valid.
+
+535
+00:27:48,993 --> 00:27:49,993
+Boss.
+
+536
+00:27:50,552 --> 00:27:52,471
+As part of my services...
+
+537
+00:27:53,055 --> 00:27:56,433
+I'll help you regain
+your emotional stability.
+
+538
+00:28:06,109 --> 00:28:07,109
+How?
+
+539
+00:28:08,202 --> 00:28:09,453
+Trust me.
+
+540
+00:28:17,643 --> 00:28:20,107
+Therapeutic sessions will begin today.
+
+541
+00:28:20,110 --> 00:28:21,110
+Are you ready?
+
+542
+00:28:21,561 --> 00:28:22,604
+- Yes.
+- Inhale.
+
+543
+00:28:23,939 --> 00:28:25,065
+Exhale-- Ha!
+
+544
+00:28:25,351 --> 00:28:26,351
+Ha!
+
+545
+00:28:26,363 --> 00:28:27,363
+Inhale.
+
+546
+00:28:29,152 --> 00:28:30,403
+Exhale. Ha!
+
+547
+00:28:30,419 --> 00:28:31,419
+Ha!
+
+548
+00:28:32,113 --> 00:28:34,324
+Inhale...
+
+549
+00:28:34,532 --> 00:28:35,992
+[humming]
+
+550
+00:28:36,187 --> 00:28:38,022
+Exhale.
+
+551
+00:28:41,790 --> 00:28:42,832
+Inhale.
+
+552
+00:28:44,584 --> 00:28:45,669
+Exhale.
+
+553
+00:28:48,296 --> 00:28:50,590
+Our therapeutic session has ended.
+
+554
+00:28:53,468 --> 00:28:55,220
+Congratulations, boss.
+
+555
+00:28:56,388 --> 00:28:58,265
+Sir, here are the latest numbers.
+
+556
+00:29:16,866 --> 00:29:17,866
+Uh, boss.
+
+557
+00:29:18,159 --> 00:29:19,159
+Stress ball...
+
+558
+00:29:19,369 --> 00:29:20,369
+to calm yourself.
+
+559
+00:29:20,578 --> 00:29:22,706
+You need to control your emotions.
+
+560
+00:29:27,335 --> 00:29:28,335
+Okay.
+
+561
+00:29:28,503 --> 00:29:30,088
+Let's review that again.
+
+562
+00:29:30,338 --> 00:29:32,299
+I think we can still improve the numbers.
+
+563
+00:29:32,299 --> 00:29:33,383
+Let's focus on...
+
+564
+00:29:33,883 --> 00:29:34,883
+strategy.
+
+565
+00:29:35,427 --> 00:29:36,427
+Not only on the outside.
+
+566
+00:29:37,470 --> 00:29:40,432
+Positive behavioral adjustment detected.
+
+567
+00:29:40,432 --> 00:29:41,474
+Good job, boss.
+
+568
+00:29:42,771 --> 00:29:44,523
+Next slide, please.
+
+569
+00:29:45,061 --> 00:29:46,122
+Boss...
+
+570
+00:29:46,130 --> 00:29:47,131
+just a reminder.
+
+571
+00:29:47,896 --> 00:29:50,149
+Some fruits, like apples,
+
+572
+00:29:50,149 --> 00:29:52,109
+help support complete nutrition.
+
+573
+00:29:52,490 --> 00:29:53,843
+This is necessary
+
+574
+00:29:53,843 --> 00:29:56,304
+to regulate your body's chemical balance.
+
+575
+00:29:56,679 --> 00:29:57,763
+So you're concerned about me?
+
+576
+00:29:59,515 --> 00:30:00,558
+Of course, boss.
+
+577
+00:30:01,023 --> 00:30:02,190
+You are my employer.
+
+578
+00:30:06,939 --> 00:30:07,939
+Okay.
+
+579
+00:30:09,306 --> 00:30:10,306
+I Love You Aiko.
+
+580
+00:30:13,632 --> 00:30:14,693
+What happened?
+
+581
+00:30:14,706 --> 00:30:16,291
+No issues detected, boss.
+
+582
+00:30:16,750 --> 00:30:18,585
+I just forgot to get something.
+
+583
+00:30:25,425 --> 00:30:26,425
+Weird.
+
+584
+00:30:28,345 --> 00:30:29,345
+Okay.
+
+585
+00:30:41,047 --> 00:30:44,676
+Boss? We can reschedule
+the massage session.
+
+586
+00:30:48,263 --> 00:30:50,015
+Why do we have to reschedule?
+
+587
+00:30:50,936 --> 00:30:54,686
+Didn’t you say this was the last part
+of our relaxation program?
+
+588
+00:30:55,941 --> 00:30:58,361
+I was really looking forward to this,
+my body hurts
+
+589
+00:31:00,863 --> 00:31:02,031
+Affirmative, boss.
+
+590
+00:31:02,323 --> 00:31:03,324
+Initiating...
+
+591
+00:31:03,783 --> 00:31:05,326
+massage procedure.
+
+592
+00:31:09,455 --> 00:31:10,557
+What pressure
+
+593
+00:31:10,581 --> 00:31:11,707
+do you like boss?
+
+594
+00:31:12,655 --> 00:31:14,407
+Hard pressure, please.
+
+595
+00:31:25,852 --> 00:31:26,961
+Uhh... Harder.
+
+596
+00:31:33,176 --> 00:31:34,886
+Uh...harder.
+
+597
+00:31:34,896 --> 00:31:36,137
+Increasing pressure.
+
+598
+00:31:37,717 --> 00:31:38,802
+[grunting] Ow!
+
+599
+00:31:39,636 --> 00:31:40,636
+Ow!
+
+600
+00:31:41,221 --> 00:31:42,472
+Aiko... Ouch!
+
+601
+00:31:43,235 --> 00:31:45,535
+- Okay, that's enough.
+- Increasing massage pressure!
+
+602
+00:31:45,559 --> 00:31:46,559
+That's enough!
+
+603
+00:31:47,686 --> 00:31:48,686
+That's enough!
+
+604
+00:31:51,523 --> 00:31:53,358
+Massage session, terminated.
+
+605
+00:31:59,501 --> 00:32:00,627
+Seriously?
+
+606
+00:32:27,743 --> 00:32:28,785
+She snores?
+
+607
+00:32:31,970 --> 00:32:32,971
+Does this mean...
+
+608
+00:32:36,949 --> 00:32:38,784
+Boss Ernest...
+
+609
+00:32:40,462 --> 00:32:42,172
+I have a huge crush on you.
+
+610
+00:32:42,172 --> 00:32:44,132
+You’re so handsome!
+
+611
+00:32:45,717 --> 00:32:47,719
+Do you want a massage?
+
+612
+00:32:48,471 --> 00:32:50,389
+Light or hard?
+
+613
+00:33:15,292 --> 00:33:16,460
+Hello, Mom?
+
+614
+00:33:17,085 --> 00:33:18,378
+What is it?
+
+615
+00:33:19,414 --> 00:33:21,916
+Aiko! We already got the money you sent.
+
+616
+00:33:21,934 --> 00:33:25,253
+Thank you!
+We've already setted all the debts.
+
+617
+00:33:26,338 --> 00:33:27,526
+Good to hear that, Mom.
+
+618
+00:33:27,532 --> 00:33:29,174
+Everthing is settled, okay?
+
+619
+00:33:29,675 --> 00:33:32,559
+Is everything okay at work?
+
+620
+00:33:35,719 --> 00:33:36,720
+Everything's alright, Mom.
+
+621
+00:33:37,539 --> 00:33:39,165
+I managed to become a robot.
+
+622
+00:33:40,106 --> 00:33:41,292
+What?
+
+623
+00:33:42,599 --> 00:33:44,189
+I mean...
+
+624
+00:33:44,826 --> 00:33:46,620
+I was fixing the...
+
+625
+00:33:47,037 --> 00:33:48,747
+the robot we are working on.
+
+626
+00:33:49,897 --> 00:33:51,905
+Alright mom, I need to sleep, okay?
+
+627
+00:33:51,917 --> 00:33:53,699
+- I'm really exhausted.
+- Don't forget about yourself
+
+628
+00:33:53,701 --> 00:33:54,701
+Good night, mom!
+
+629
+00:33:54,707 --> 00:33:56,034
+- Take care always.
+- I love you.
+
+630
+00:33:56,041 --> 00:33:57,167
+- I love you.
+- I love you guys there.
+
+631
+00:33:57,174 --> 00:33:58,870
+- Alright, bye.
+- Bye.
+
+632
+00:34:13,969 --> 00:34:16,430
+I’m planning to get into
+the food business.
+
+633
+00:34:16,930 --> 00:34:17,930
+That's why...
+
+634
+00:34:18,307 --> 00:34:20,142
+I prepared three dishes.
+
+635
+00:34:21,428 --> 00:34:22,428
+Dried fish.
+
+636
+00:34:22,852 --> 00:34:24,312
+Sautéed bitter melon and...
+
+637
+00:34:25,021 --> 00:34:26,105
+Bicol Express.
+
+638
+00:34:31,948 --> 00:34:33,700
+We're out of popcorn.
+
+639
+00:34:34,322 --> 00:34:35,322
+I'll go and get some.
+
+640
+00:34:35,895 --> 00:34:37,063
+Leave it to me, boss.
+
+641
+00:34:37,063 --> 00:34:38,462
+- No, I'll get it.
+- Let me do it, boss.
+
+642
+00:34:38,475 --> 00:34:39,475
+No, let me do it.
+
+643
+00:34:39,482 --> 00:34:40,581
+Aiko...
+
+644
+00:34:40,595 --> 00:34:41,755
+Yes, boss?
+
+645
+00:34:41,759 --> 00:34:43,886
+I have some robot jokes for you.
+
+646
+00:34:45,479 --> 00:34:46,479
+Okay?
+
+647
+00:34:49,296 --> 00:34:50,296
+Warning.
+
+648
+00:34:50,306 --> 00:34:53,684
+Consuming all these food
+may result in system malfunction.
+
+649
+00:34:54,843 --> 00:34:55,843
+Have a taste!
+
+650
+00:35:13,028 --> 00:35:14,363
+It's so salty!
+
+651
+00:35:18,774 --> 00:35:19,784
+Taste registered.
+
+652
+00:35:21,110 --> 00:35:22,612
+Enough sodium content.
+
+653
+00:35:23,021 --> 00:35:24,021
+Bah!
+
+654
+00:35:25,134 --> 00:35:26,134
+Rah!
+
+655
+00:35:27,228 --> 00:35:28,228
+Wah!
+
+656
+00:35:29,272 --> 00:35:30,440
+Bah!
+
+657
+00:35:31,358 --> 00:35:32,359
+[shrieking]
+
+658
+00:35:35,342 --> 00:35:36,342
+She's good.
+
+659
+00:35:36,345 --> 00:35:37,846
+Why don't robots...
+
+660
+00:35:38,305 --> 00:35:39,994
+- take a bath?
+- Why, boss?
+
+661
+00:35:40,001 --> 00:35:41,684
+Because they might short-circuit.
+
+662
+00:35:42,012 --> 00:35:43,055
+[Chuckling]
+
+663
+00:35:47,356 --> 00:35:48,458
+How about this one?
+
+664
+00:35:48,463 --> 00:35:49,463
+Here.
+
+665
+00:35:51,563 --> 00:35:52,772
+That's the bitter melon.
+
+666
+00:36:06,175 --> 00:36:08,333
+It's too bitter.
+
+667
+00:36:08,862 --> 00:36:10,113
+How is it? Good?
+
+668
+00:36:15,909 --> 00:36:17,285
+Flavor registered.
+
+669
+00:36:18,262 --> 00:36:19,346
+It's acceptable.
+
+670
+00:36:19,762 --> 00:36:21,847
+[Imitating evil laugh]
+
+671
+00:36:30,564 --> 00:36:32,274
+What do you call...
+
+672
+00:36:32,858 --> 00:36:35,194
+a robot that always makes mistakes?
+
+673
+00:36:36,424 --> 00:36:37,424
+What is it?
+
+674
+00:36:38,551 --> 00:36:39,719
+A "dum-bot".
+
+675
+00:36:47,435 --> 00:36:48,686
+[chuckling]
+
+676
+00:36:49,020 --> 00:36:50,020
+Nothing?
+
+677
+00:36:50,785 --> 00:36:51,785
+Wow, this is hard.
+
+678
+00:36:52,917 --> 00:36:54,627
+You’re really not laughing, huh?
+
+679
+00:36:54,638 --> 00:36:55,947
+- Let me take care of it.
+- No, I'll do it.
+
+680
+00:36:56,624 --> 00:36:57,996
+Why? Are you scared?
+
+681
+00:36:58,003 --> 00:36:59,212
+Tell me the truth.
+
+682
+00:37:00,004 --> 00:37:01,261
+Negative, boss.
+
+683
+00:37:01,263 --> 00:37:02,888
+I don't get scared.
+
+684
+00:37:02,893 --> 00:37:04,420
+I'm not scared of anything.
+
+685
+00:37:04,828 --> 00:37:06,053
+How about the Bicol Express?
+
+686
+00:37:22,657 --> 00:37:25,868
+Oh my God, it's so spicy!
+
+687
+00:37:33,334 --> 00:37:34,502
+All dishes are...
+
+688
+00:37:34,858 --> 00:37:35,901
+acceptable.
+
+689
+00:37:36,902 --> 00:37:37,902
+Really?
+
+690
+00:37:38,558 --> 00:37:39,558
+Are you sure?
+
+691
+00:37:40,832 --> 00:37:41,832
+Yes, boss.
+
+692
+00:37:41,838 --> 00:37:43,594
+No issues detected.
+
+693
+00:37:44,979 --> 00:37:46,523
+Stay there and watch.
+
+694
+00:37:51,277 --> 00:37:52,277
+Wah!
+
+695
+00:38:13,007 --> 00:38:15,176
+How about if I tickle you?
+
+696
+00:38:17,247 --> 00:38:19,618
+Tickle, tickle!
+
+697
+00:38:21,460 --> 00:38:26,988
+Oh please, stop. I'm ticklish!
+
+698
+00:38:27,013 --> 00:38:28,097
+Impressive.
+
+699
+00:38:29,750 --> 00:38:31,627
+You really won't laugh, huh?
+
+700
+00:38:35,007 --> 00:38:36,007
+You're good.
+
+701
+00:38:37,382 --> 00:38:38,425
+Go, back to work.
+
+702
+00:38:48,393 --> 00:38:52,189
+What's up with him today?
+
+703
+00:39:02,866 --> 00:39:03,866
+[chuckling]
+
+704
+00:39:04,705 --> 00:39:05,705
+Taste this.
+
+705
+00:39:13,210 --> 00:39:14,210
+Dessert.
+
+706
+00:39:19,092 --> 00:39:20,400
+Are you malfunctioning?
+
+707
+00:39:20,405 --> 00:39:21,990
+No issues detected.
+
+708
+00:39:22,532 --> 00:39:23,532
+Very good.
+
+709
+00:39:28,118 --> 00:39:30,743
+I might drop dead
+from how sour this is!
+
+710
+00:39:43,235 --> 00:39:45,154
+This is a lot.
+
+711
+00:39:46,890 --> 00:39:48,350
+I can't finish all of these.
+
+712
+00:39:53,521 --> 00:39:54,521
+Aiko?
+
+713
+00:39:58,777 --> 00:39:59,777
+Yes, boss?
+
+714
+00:40:00,445 --> 00:40:01,696
+Can you deal with all of this?
+
+715
+00:40:02,414 --> 00:40:03,414
+All of it?
+
+716
+00:40:05,450 --> 00:40:06,450
+Yes!
+
+717
+00:40:06,910 --> 00:40:07,910
+All of it!
+
+718
+00:40:08,328 --> 00:40:09,371
+Affirmative, boss.
+
+719
+00:40:09,371 --> 00:40:10,371
+Really?
+
+720
+00:40:10,373 --> 00:40:12,118
+I can finish all of that.
+
+721
+00:40:12,125 --> 00:40:13,125
+Okay.
+
+722
+00:40:14,336 --> 00:40:15,837
+I need it by tonight.
+
+723
+00:40:16,442 --> 00:40:17,544
+Okay?
+
+724
+00:40:17,553 --> 00:40:19,096
+I just need to take care of other things.
+
+725
+00:40:20,264 --> 00:40:21,264
+Copy, boss.
+
+726
+00:40:21,390 --> 00:40:22,390
+Thank you!
+
+727
+00:40:28,921 --> 00:40:30,715
+I need to finish all of these?
+
+728
+00:40:31,768 --> 00:40:32,768
+Tonight?
+
+729
+00:40:41,486 --> 00:40:42,486
+Hello?
+
+730
+00:40:43,905 --> 00:40:46,240
+Oh my God, are you breaking down now?
+
+731
+00:40:47,951 --> 00:40:50,244
+Gosh, how will I finish all of these?
+
+732
+00:40:53,790 --> 00:40:54,790
+I can do this.
+
+733
+00:41:03,216 --> 00:41:04,425
+You finished all of it?
+
+734
+00:41:05,468 --> 00:41:06,844
+Affirmative, boss.
+
+735
+00:41:06,849 --> 00:41:08,513
+All tasks are complete.
+
+736
+00:41:14,060 --> 00:41:15,561
+Time for a recharge.
+
+737
+00:41:21,109 --> 00:41:22,109
+Are you okay?
+
+738
+00:41:23,108 --> 00:41:24,108
+Warning:
+
+739
+00:41:24,464 --> 00:41:25,757
+Low battery.
+
+740
+00:41:29,017 --> 00:41:30,351
+Come, sit.
+
+741
+00:41:35,707 --> 00:41:36,874
+You're burning up.
+
+742
+00:41:47,797 --> 00:41:49,006
+You scared me.
+
+743
+00:41:51,561 --> 00:41:52,937
+I hope you'll feel better.
+
+744
+00:42:58,137 --> 00:42:59,805
+Good news, Aiko.
+
+745
+00:42:59,817 --> 00:43:01,778
+The other robot unit is back online.
+
+746
+00:43:01,778 --> 00:43:03,123
+You can leave there anytime.
+
+747
+00:43:04,113 --> 00:43:05,542
+You don't have to pretend anymore.
+
+748
+00:43:06,532 --> 00:43:08,961
+I'll talk to Ernest for your replacement.
+
+749
+00:43:37,971 --> 00:43:38,971
+Query:
+
+750
+00:43:39,380 --> 00:43:40,840
+Why are we outside?
+
+751
+00:43:41,257 --> 00:43:43,259
+Where there are many people...
+
+752
+00:43:43,718 --> 00:43:44,718
+boss?
+
+753
+00:43:47,305 --> 00:43:49,015
+I feel like we just need some fresh air.
+
+754
+00:43:49,349 --> 00:43:52,310
+Maybe you've been malfunctioning
+or overheating...
+
+755
+00:43:52,894 --> 00:43:54,437
+because we don't go outside.
+
+756
+00:43:55,136 --> 00:43:56,203
+Assessment:
+
+757
+00:43:56,227 --> 00:43:57,552
+Inaccurate assumption.
+
+758
+00:43:58,040 --> 00:44:00,918
+I'm a robot and I can adapt
+to all kinds of environment.
+
+759
+00:44:03,730 --> 00:44:04,999
+Actually...
+
+760
+00:44:05,023 --> 00:44:06,191
+I don’t want to be stuck
+in the house anymore.
+
+761
+00:44:06,191 --> 00:44:07,191
+I want to...
+
+762
+00:44:08,122 --> 00:44:09,498
+See the world's beauty.
+
+763
+00:44:11,471 --> 00:44:12,847
+Bseides, wasn't that the...
+
+764
+00:44:13,189 --> 00:44:14,189
+goal?
+
+765
+00:44:14,560 --> 00:44:15,894
+To be...
+
+766
+00:44:17,067 --> 00:44:18,569
+emotionally stable?
+
+767
+00:44:20,161 --> 00:44:21,287
+Affirmative.
+
+768
+00:44:21,649 --> 00:44:23,735
+Positive progress detected.
+
+769
+00:44:26,209 --> 00:44:27,209
+Also...
+
+770
+00:44:28,213 --> 00:44:30,257
+I also want to make use of the time.
+
+771
+00:44:30,539 --> 00:44:31,629
+Where...
+
+772
+00:44:31,633 --> 00:44:32,718
+it's just the two of us.
+
+773
+00:44:34,533 --> 00:44:35,533
+Together.
+
+774
+00:44:41,040 --> 00:44:42,040
+Come on.
+
+775
+00:44:48,398 --> 00:44:52,652
+Happy Birthday to you!
+
+776
+00:44:52,665 --> 00:44:56,478
+Happy Birthday to you!
+
+777
+00:44:56,502 --> 00:45:00,948
+Happy Birthday, happy birthday!
+
+778
+00:45:00,959 --> 00:45:04,969
+Happy Birthday to you!
+
+779
+00:45:04,973 --> 00:45:06,825
+Come on, give us more energy!
+
+780
+00:45:06,833 --> 00:45:09,958
+Happy Birthday to you!
+
+781
+00:45:09,964 --> 00:45:12,877
+Happy Birthday to you!
+
+782
+00:45:12,884 --> 00:45:16,137
+Happy Birthday, happy birthday!
+
+783
+00:45:16,138 --> 00:45:19,265
+Happy Birthday to you!
+
+784
+00:45:19,974 --> 00:45:21,517
+Thank you!
+
+785
+00:45:21,517 --> 00:45:22,578
+Thank you to all of you!
+
+786
+00:45:22,587 --> 00:45:25,298
+Good job guys!
+Thank you for the cooperation!
+
+787
+00:45:25,848 --> 00:45:27,159
+- Yay!
+- Okay.
+
+788
+00:45:27,183 --> 00:45:28,392
+Here... Blow.
+
+789
+00:45:28,407 --> 00:45:29,407
+Make a wish.
+
+790
+00:45:32,313 --> 00:45:33,313
+Wait.
+
+791
+00:45:33,942 --> 00:45:34,942
+How did you know?
+
+792
+00:45:36,818 --> 00:45:38,903
+Data retrieved from your profile, boss.
+
+793
+00:45:39,362 --> 00:45:41,531
+I know this day is special for you.
+
+794
+00:45:44,436 --> 00:45:45,436
+You're right.
+
+795
+00:45:47,287 --> 00:45:50,015
+This day is indeed special,
+
+796
+00:45:50,020 --> 00:45:51,230
+but this occasion was also...
+
+797
+00:45:51,814 --> 00:45:54,066
+the most tragic day of my life.
+
+798
+00:45:55,442 --> 00:45:56,735
+For two years...
+
+799
+00:45:58,362 --> 00:46:00,531
+I didn't celebrate my birthday, because...
+
+800
+00:46:02,908 --> 00:46:05,077
+this was also the day that I lost them.
+
+801
+00:46:08,664 --> 00:46:10,082
+I couldn't do it.
+
+802
+00:46:14,666 --> 00:46:16,293
+But now, I can take it...
+
+803
+00:46:19,049 --> 00:46:20,217
+because you're here.
+
+804
+00:46:24,054 --> 00:46:25,723
+Thank you so much, Aiko, because
+
+805
+00:46:25,723 --> 00:46:27,975
+I got to know you and
+spent time with you.
+
+806
+00:46:31,020 --> 00:46:32,020
+As a robot.
+
+807
+00:46:35,065 --> 00:46:36,400
+I wish you were human instead.
+
+808
+00:46:42,543 --> 00:46:45,129
+Boss, you need to know something about me.
+
+809
+00:46:50,756 --> 00:46:52,541
+I'm not really a robot,
+
+810
+00:46:52,541 --> 00:46:53,625
+I'm a human.
+
+811
+00:46:54,853 --> 00:46:55,938
+I'm sorry.
+
+812
+00:46:56,989 --> 00:46:59,492
+I only did it because I had to.
+
+813
+00:47:01,250 --> 00:47:02,752
+My family is in need and
+
+814
+00:47:02,752 --> 00:47:03,967
+I'm the only one they've got.
+
+815
+00:47:03,991 --> 00:47:05,689
+I'm sorry, I'm so sorry.
+
+816
+00:47:05,713 --> 00:47:06,868
+Please.
+
+817
+00:47:06,892 --> 00:47:08,226
+I already talked to Darwin.
+
+818
+00:47:08,226 --> 00:47:10,729
+[stammering]
+We had an agreement
+
+819
+00:47:10,729 --> 00:47:12,165
+but we already talked about it.
+
+820
+00:47:12,189 --> 00:47:13,690
+We won’t continue the project anymore.
+
+821
+00:47:13,690 --> 00:47:15,901
+I'm so sorry.
+I'm really sorry.
+
+822
+00:47:20,194 --> 00:47:21,862
+Do you think it’s that easy?
+
+823
+00:47:27,371 --> 00:47:28,497
+You tricked me.
+
+824
+00:47:29,247 --> 00:47:30,540
+You made a fool out of me!
+
+825
+00:47:34,252 --> 00:47:36,254
+I actually think that you
+still don't want to admit it!
+
+826
+00:47:38,090 --> 00:47:39,383
+Please, believe me.
+
+827
+00:47:40,008 --> 00:47:41,861
+I never wanted to deceive you.
+
+828
+00:47:41,885 --> 00:47:43,071
+I didn't want to.
+
+829
+00:47:43,095 --> 00:47:44,513
+Nobody wants to deceive you.
+
+830
+00:47:44,513 --> 00:47:46,157
+Boss, you have to believe me.
+
+831
+00:47:46,181 --> 00:47:47,766
+My family just needed the money
+
+832
+00:47:47,766 --> 00:47:49,101
+and I'm all they have.
+
+833
+00:47:50,602 --> 00:47:51,728
+Even if you turn me in.
+
+834
+00:47:53,230 --> 00:47:54,230
+I mean, don't.
+
+835
+00:47:56,066 --> 00:47:58,544
+Even if I become your maid
+for the rest of my life!
+
+836
+00:47:58,568 --> 00:47:59,568
+Please.
+
+837
+00:48:00,028 --> 00:48:01,238
+Please, just forgive me.
+
+838
+00:48:01,238 --> 00:48:02,280
+I'm so sorry.
+
+839
+00:48:02,656 --> 00:48:03,656
+Please.
+
+840
+00:48:04,950 --> 00:48:06,243
+You're unbelievable, AIko.
+
+841
+00:48:11,998 --> 00:48:14,209
+Finally, you confessed!
+
+842
+00:48:20,173 --> 00:48:21,173
+What?
+
+843
+00:48:23,009 --> 00:48:24,009
+Yes.
+
+844
+00:48:25,267 --> 00:48:26,810
+I’ve known for a while now.
+
+845
+00:48:27,520 --> 00:48:29,230
+I was just messing with you too.
+
+846
+00:48:31,268 --> 00:48:33,895
+I’ve been trying to get
+you to admit it for so long.
+
+847
+00:48:33,895 --> 00:48:35,397
+But you’re so tough!
+
+848
+00:48:35,397 --> 00:48:37,232
+You're a great actress!
+
+849
+00:48:39,317 --> 00:48:40,317
+So...
+
+850
+00:48:40,652 --> 00:48:42,463
+You really knew all
+about it this entire time?
+
+851
+00:48:42,487 --> 00:48:44,048
+And you were just messing with me?
+
+852
+00:48:44,072 --> 00:48:45,631
+And you were also messing with me, right?
+
+853
+00:48:48,201 --> 00:48:49,911
+- Quits? Quit, quits?
+- If that's the case then
+
+854
+00:48:49,911 --> 00:48:51,246
+I might as well leave!
+
+855
+00:48:51,621 --> 00:48:52,621
+I quit!
+
+856
+00:48:53,165 --> 00:48:54,183
+Why are you quitting? Don't...
+
+857
+00:48:54,207 --> 00:48:55,417
+Don't quit, okay?
+
+858
+00:48:55,750 --> 00:48:57,169
+You can really work for me now
+
+859
+00:48:57,169 --> 00:48:58,670
+as a true...
+
+860
+00:48:59,754 --> 00:49:00,898
+personal assistant.
+
+861
+00:49:00,922 --> 00:49:03,300
+I don't want to work for
+you as my boss anymore.
+
+862
+00:49:04,323 --> 00:49:06,318
+I'd rather pay you to make it up to you.
+
+863
+00:49:06,323 --> 00:49:07,574
+I just won't be working for you.
+
+864
+00:49:07,574 --> 00:49:09,696
+No, please.
+You don't have to quit, okay?
+
+865
+00:49:09,703 --> 00:49:11,345
+You can be a real person now.
+You can--
+
+866
+00:49:11,369 --> 00:49:12,996
+You now remove this, right?
+
+867
+00:49:13,872 --> 00:49:15,457
+- I don't want to!
+- Just take it off.
+
+868
+00:49:15,957 --> 00:49:17,167
+I'm not messing with you.
+
+869
+00:49:17,501 --> 00:49:19,645
+Just take this off too.
+What is that? Is that real?
+
+870
+00:49:19,669 --> 00:49:22,209
+- Maybe this is also... fake.
+- That's a real AI watch!
+
+871
+00:49:22,214 --> 00:49:23,752
+Let's take it off, shall we?
+
+872
+00:49:25,385 --> 00:49:26,468
+You might see...
+
+873
+00:49:26,471 --> 00:49:28,386
+- See, that's better, right?
+- ...something else.
+
+874
+00:49:28,845 --> 00:49:29,888
+Human being...
+
+875
+00:49:30,347 --> 00:49:31,806
+with emotions.
+
+876
+00:49:32,721 --> 00:49:34,848
+I was just simply doing my job.
+
+877
+00:49:35,602 --> 00:49:36,602
+Are you okay, now?
+
+878
+00:49:37,312 --> 00:49:38,312
+Don't quit.
+
+879
+00:49:45,153 --> 00:49:46,153
+[chuckling]
+
+880
+00:49:46,905 --> 00:49:47,905
+Look!
+
+881
+00:49:51,451 --> 00:49:52,911
+Oh look, here we go.
+
+882
+00:50:05,423 --> 00:50:06,423
+Hi.
+
+883
+00:50:09,469 --> 00:50:10,469
+Hi.
+
+884
+00:50:12,180 --> 00:50:14,558
+We don't need to pretend anymore, Engineer.
+
+885
+00:50:15,533 --> 00:50:16,534
+We're okay now.
+
+886
+00:50:19,676 --> 00:50:21,261
+I missed that look on you.
+
+887
+00:50:23,692 --> 00:50:25,235
+- We even have matching hair.
+- AU NATURELLE
+
+888
+00:50:28,405 --> 00:50:30,156
+So you're copying me, huh?
+
+889
+00:50:31,074 --> 00:50:32,367
+You inspired me!
+
+890
+00:50:37,255 --> 00:50:38,965
+I'm gonna miss you, Engineer.
+
+891
+00:50:42,836 --> 00:50:44,045
+Thank you, Aiko.
+
+892
+00:50:46,339 --> 00:50:47,799
+Good luck on your first day.
+
+893
+00:51:37,307 --> 00:51:38,725
+Audio...
+
+894
+00:51:41,144 --> 00:51:42,270
+Video...
+
+895
+00:51:42,562 --> 00:51:43,562
+Check!
+
+896
+00:52:35,865 --> 00:52:37,176
+My outfit doesn't suit me.
+
+897
+00:52:37,200 --> 00:52:38,200
+No, boss.
+
+898
+00:52:38,493 --> 00:52:39,744
+It suits you well.
+
+899
+00:52:41,253 --> 00:52:42,253
+You look handsome.
+
+900
+00:52:43,039 --> 00:52:44,039
+Ms. Aiko...
+
+901
+00:52:44,590 --> 00:52:46,258
+You might end up falling in love with Sir.
+
+902
+00:52:46,960 --> 00:52:48,979
+Oh you really joke a lot, Manang.
+
+903
+00:52:49,003 --> 00:52:51,089
+No, I'm serious.
+You and Sir are perfect for each other.
+
+904
+00:52:53,216 --> 00:52:55,343
+Oh. Your meeting room is ready.
+
+905
+00:52:56,219 --> 00:52:58,638
+Cancel the online meeting because today...
+
+906
+00:52:59,848 --> 00:53:01,099
+We're going to have it in the office.
+
+907
+00:53:01,739 --> 00:53:04,784
+And this will be your
+first day as my legit...
+
+908
+00:53:05,353 --> 00:53:06,354
+secretary.
+
+909
+00:53:07,412 --> 00:53:08,579
+Really, boss?
+
+910
+00:53:09,023 --> 00:53:12,277
+Alright, I'll just text them that the
+meeting will be held face-to-face.
+
+911
+00:53:14,070 --> 00:53:15,070
+Thank you, Manang.
+
+912
+00:53:15,488 --> 00:53:17,073
+- Take care sir.
+- Thank you!
+
+913
+00:53:20,910 --> 00:53:21,953
+How's the coffee, boss?
+
+914
+00:53:23,913 --> 00:53:24,913
+It's good.
+
+915
+00:53:25,331 --> 00:53:26,916
+But it tastes like you made this.
+
+916
+00:53:27,959 --> 00:53:29,335
+Observation correct.
+
+917
+00:53:29,706 --> 00:53:31,040
+I taught Manang how to make it.
+
+918
+00:53:33,548 --> 00:53:34,674
+You're really something.
+
+919
+00:53:36,176 --> 00:53:37,176
+I love you, Aiko.
+
+920
+00:53:37,761 --> 00:53:39,888
+You're also something else, boss.
+You drink too much coffee.
+
+921
+00:53:41,199 --> 00:53:42,199
+Let's go?
+
+922
+00:53:42,670 --> 00:53:43,670
+Let's go.
+
+923
+00:53:48,438 --> 00:53:49,439
+You smell so good, boss.
+
+924
+00:53:49,439 --> 00:53:50,607
+Of course I have to keep up!
+
+925
+00:53:50,815 --> 00:53:52,312
+- Is that so?
+- Of course!
