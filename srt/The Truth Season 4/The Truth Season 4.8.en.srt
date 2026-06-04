@@ -1,0 +1,11927 @@
+1
+00:00:21,700 --> 00:00:26,220
+(Notice)
+Welcome to the life simulation game.
+
+2
+00:00:26,980 --> 00:00:33,140
+Welcome to the multiplayer
+social deduction game, Door of Truth.
+
+3
+00:00:33,140 --> 00:00:36,020
+You will enter dungeon worlds
+as a player
+
+4
+00:00:36,020 --> 00:00:38,740
+and begin your role journey.
+
+5
+00:00:38,960 --> 00:00:41,480
+The game includes four dungeon worlds:
+
+6
+00:00:42,120 --> 00:00:43,720
+(1, 2, 3, 4)
+In each dungeon world,
+
+7
+00:00:43,720 --> 00:00:45,800
+(Role)
+you'll take on a new role
+
+8
+00:00:45,800 --> 00:00:47,920
+and live a different life path.
+
+9
+00:00:47,920 --> 00:00:49,680
+Meet NPCs,
+
+10
+00:00:49,680 --> 00:00:51,760
+explore and interact
+
+11
+00:00:51,760 --> 00:00:54,880
+to uncover the story,
+
+12
+00:00:54,880 --> 00:00:56,000
+solve cases,
+
+13
+00:00:56,000 --> 00:00:57,480
+and find the truth.
+
+14
+00:00:57,480 --> 00:00:59,200
+(1, 2, 3, 4 Done)
+Completing all
+
+15
+00:00:59,200 --> 00:01:01,160
+four dungeon worlds
+
+16
+00:01:01,160 --> 00:01:02,800
+(Completion Reward)
+unlocks the hidden ending.
+
+17
+00:01:03,280 --> 00:01:04,480
+Each dungeon world
+
+18
+00:01:04,480 --> 00:01:05,600
+(Case 1, Case 2)
+may contain one
+
+19
+00:01:05,600 --> 00:01:07,160
+or more cases.
+
+20
+00:01:07,160 --> 00:01:08,400
+(Random, Detective, Suspect)
+After the case starts,
+
+21
+00:01:08,400 --> 00:01:10,400
+players will be randomly assigned
+
+22
+00:01:10,400 --> 00:01:11,360
+as detectives or suspects.
+
+23
+00:01:11,880 --> 00:01:14,160
+(Suspect NPC)
+The killer may be among players
+
+24
+00:01:14,160 --> 00:01:15,520
+or NPCs.
+
+25
+00:01:15,520 --> 00:01:17,400
+(Killer)
+Identify carefully.
+
+26
+00:01:17,400 --> 00:01:19,240
+The killer's goal is to stay hidden
+
+27
+00:01:19,240 --> 00:01:20,720
+and avoid being discovered by players.
+
+28
+00:01:20,720 --> 00:01:23,400
+(Killer)
+Only the killer can lie.
+
+29
+00:01:23,400 --> 00:01:24,760
+(Main task: clues, exploration, rewards)
+During the case,
+
+30
+00:01:24,760 --> 00:01:27,200
+(Skills, trial, stamina, side quests)
+players can trigger
+
+31
+00:01:27,200 --> 00:01:28,800
+different game systems
+to progress the investigation.
+
+32
+00:01:29,480 --> 00:01:30,800
+Using them wisely
+
+33
+00:01:30,800 --> 00:01:32,400
+may lead to breakthroughs.
+
+34
+00:01:33,720 --> 00:01:34,800
+(Suspect, Killer NPC)
+After each case,
+
+35
+00:01:34,800 --> 00:01:36,520
+a voting phase begins.
+
+36
+00:01:37,280 --> 00:01:38,680
+If the killer
+
+37
+00:01:38,680 --> 00:01:40,120
+is correctly identified,
+
+38
+00:01:40,120 --> 00:01:42,200
+players receive a golden key.
+
+39
+00:01:42,200 --> 00:01:43,840
+If the killer
+
+40
+00:01:43,840 --> 00:01:45,680
+(Killer, Player)
+avoids being top-voted,
+
+41
+00:01:45,680 --> 00:01:48,200
+(Killer, Vote, Player)
+they also receive a golden key.
+
+42
+00:01:48,920 --> 00:01:50,960
+(Player
+)Golden keys are counted at the end
+
+43
+00:01:50,960 --> 00:01:52,560
+of each dungeon world
+
+44
+00:01:52,560 --> 00:01:54,920
+(Skill card)
+and can be exchanged for Skill Cards.
+
+45
+00:01:55,400 --> 00:01:56,860
+(Notice)
+Please confirm.
+
+46
+00:01:56,860 --> 00:01:58,840
+(All fictional content notice)
+Game guide.
+
+47
+00:01:58,840 --> 00:02:00,650
+(All actions and scenes are simulated)
+The dungeon world is loading.
+
+48
+00:02:00,650 --> 00:02:02,690
+(All media used with consent)
+Please immerse yourself
+
+49
+00:02:02,690 --> 00:02:04,010
+(All content used includes AI)
+and start the investigation.
+
+50
+00:02:04,010 --> 00:02:04,340
+(Safety measures were taken
+during production, do not imitate)
+
+51
+00:02:04,340 --> 00:02:04,780
+(Minors should be accompanied
+by guardians)
+
+52
+00:02:04,780 --> 00:02:05,860
+(Loading)
+
+53
+00:02:10,100 --> 00:02:10,700
+(Loading)
+
+54
+00:02:10,700 --> 00:02:13,220
+(Dungeon Pass)
+
+55
+00:02:18,060 --> 00:02:19,380
+(THE TRUTH)
+
+56
+00:02:20,420 --> 00:02:24,460
+=The Truth (Season 4)=
+
+57
+00:03:14,660 --> 00:03:15,780
+(An family villa, Mar 25, 2016, 14:50)
+
+58
+00:03:15,800 --> 00:03:16,840
+Sir, Madam,
+
+59
+00:03:16,840 --> 00:03:18,040
+Young master, Young lady.
+
+60
+00:03:18,040 --> 00:03:20,680
+Today the chairman candidate
+will be announced.
+
+61
+00:03:20,680 --> 00:03:22,040
+Hurry and come down.
+
+62
+00:03:22,040 --> 00:03:22,520
+We're coming.
+
+63
+00:03:23,240 --> 00:03:25,280
+(An Ke)
+Chairman is mine.
+
+64
+00:03:28,840 --> 00:03:29,400
+Bro,
+
+65
+00:03:29,400 --> 00:03:30,320
+(Life of slipping again)
+
+66
+00:03:30,320 --> 00:03:31,280
+are you okay?
+
+67
+00:03:31,280 --> 00:03:32,360
+Make it more classy, like a rich family.
+
+68
+00:03:33,720 --> 00:03:34,720
+Just slide down the stairs.
+
+69
+00:03:36,200 --> 00:03:37,280
+Alright, come down first.
+
+70
+00:03:38,000 --> 00:03:39,880
+I can't believe this day came so fast.
+
+71
+00:03:39,880 --> 00:03:41,840
+(About to announce the heir)
+Our relationships
+
+72
+00:03:41,840 --> 00:03:43,040
+have all changed.
+
+73
+00:03:43,040 --> 00:03:45,040
+Everything is different now.
+
+74
+00:03:45,920 --> 00:03:46,760
+So you've
+
+75
+00:03:46,760 --> 00:03:48,280
+accepted it, right?
+
+76
+00:03:48,740 --> 00:03:50,280
+(Top victim in the family drama)
+
+77
+00:03:50,280 --> 00:03:51,160
+I'm...
+
+78
+00:03:51,160 --> 00:03:52,200
+(Accepting it calmly)
+
+79
+00:03:52,200 --> 00:03:53,160
+his son.
+
+80
+00:03:53,160 --> 00:03:53,960
+(Role: Elder brother)
+
+81
+00:03:53,960 --> 00:03:54,760
+(Role: Father)
+And this is my
+
+82
+00:03:54,760 --> 00:03:55,200
+good son.
+
+83
+00:03:55,760 --> 00:03:56,200
+My...
+
+84
+00:03:57,240 --> 00:03:59,040
+(Role: Mom)
+mom is now my grandma.
+
+85
+00:03:59,040 --> 00:03:59,860
+(Role: Grandma)
+
+86
+00:03:59,880 --> 00:04:01,520
+I guess I'm not his aunt anymore.
+
+87
+00:04:01,520 --> 00:04:03,440
+(Role: Brother-in-law)
+He's your uncle.
+
+88
+00:04:03,440 --> 00:04:04,920
+(Role: Uncle)
+Then I'm your Aunt-in-law.
+
+89
+00:04:04,920 --> 00:04:06,520
+(Role: Sister, Role: Aunt-in-law)
+Aunt-in-law.
+
+90
+00:04:06,520 --> 00:04:07,080
+Aunt-in-law.
+
+91
+00:04:08,360 --> 00:04:09,920
+My uncle is still my uncle.
+
+92
+00:04:10,500 --> 00:04:11,860
+(Uncle Ke)
+
+93
+00:04:12,640 --> 00:04:13,960
+He is
+
+94
+00:04:14,760 --> 00:04:15,600
+Mr. Ke.
+
+95
+00:04:16,640 --> 00:04:17,920
+(Gritting teeth)
+Mr. Ke?
+
+96
+00:04:18,020 --> 00:04:19,160
+(Role: Uncle)
+
+97
+00:04:19,160 --> 00:04:20,360
+(Role: Mr. Ke)
+Watch how you talk, kid.
+
+98
+00:04:20,460 --> 00:04:22,940
+(Satisfied)
+
+99
+00:04:24,320 --> 00:04:25,440
+I'm a very junior relative.
+
+100
+00:04:25,440 --> 00:04:26,200
+Super junior.
+
+101
+00:04:26,200 --> 00:04:27,800
+You all got promoted in seniority.
+
+102
+00:04:27,900 --> 00:04:31,460
+(An family tree)
+
+103
+00:04:31,480 --> 00:04:32,200
+What time is it?
+
+104
+00:04:32,200 --> 00:04:32,960
+Almost 3 o'clock.
+
+105
+00:04:33,400 --> 00:04:34,840
+(14:58)
+Why isn't dad coming down yet?
+
+106
+00:04:34,840 --> 00:04:35,160
+Yeah.
+
+107
+00:04:35,160 --> 00:04:36,800
+Why isn't Mr. An down yet?
+
+108
+00:04:36,800 --> 00:04:37,400
+Yeah.
+
+109
+00:04:37,400 --> 00:04:38,320
+We're
+
+110
+00:04:38,320 --> 00:04:39,320
+all waiting.
+
+111
+00:04:40,280 --> 00:04:42,160
+Has anyone seen him today?
+
+112
+00:04:42,440 --> 00:04:43,080
+No.
+
+113
+00:04:47,840 --> 00:04:49,160
+Why is there smoke?
+
+114
+00:04:52,200 --> 00:04:52,760
+Smoke?
+
+115
+00:04:57,080 --> 00:04:58,000
+What's going on?
+
+116
+00:04:59,060 --> 00:05:00,780
+(Hall, rooftop)
+
+117
+00:05:00,800 --> 00:05:01,640
+So much smoke.
+
+118
+00:05:06,700 --> 00:05:07,720
+(An Xiaowen)
+Wait.
+
+119
+00:05:07,720 --> 00:05:09,360
+Wait, what's in the fireplace?
+
+120
+00:05:10,240 --> 00:05:11,760
+What is that black thing?
+
+121
+00:05:11,760 --> 00:05:13,000
+What's burning?
+
+122
+00:05:25,200 --> 00:05:27,160
+Why is there a corpse?
+
+123
+00:05:27,580 --> 00:05:29,180
+(Charring corpse)
+
+124
+00:05:30,320 --> 00:05:31,280
+How is this happening?
+
+125
+00:05:34,200 --> 00:05:36,080
+XO.
+
+126
+00:05:38,560 --> 00:05:39,760
+What's wrong?
+
+127
+00:05:39,760 --> 00:05:40,760
+There's
+
+128
+00:05:40,760 --> 00:05:42,000
+a burnt body here.
+
+129
+00:05:43,960 --> 00:05:44,720
+This has happened again.
+
+130
+00:05:45,720 --> 00:05:46,480
+It happened again.
+
+131
+00:05:50,120 --> 00:05:50,720
+What do you mean?
+
+132
+00:05:51,640 --> 00:05:52,880
+This is our family...
+
+133
+00:05:53,760 --> 00:05:54,560
+curse.
+
+134
+00:05:57,000 --> 00:05:58,000
+A family curse?
+
+135
+00:06:02,720 --> 00:06:03,200
+I...
+
+136
+00:06:03,200 --> 00:06:03,960
+I know.
+
+137
+00:06:04,760 --> 00:06:05,280
+I've
+
+138
+00:06:05,280 --> 00:06:06,040
+heard of it.
+
+139
+00:06:06,060 --> 00:06:07,440
+(An family curse)
+
+140
+00:06:07,440 --> 00:06:09,360
+Whenever a Puppet appears,
+
+141
+00:06:09,360 --> 00:06:11,240
+someone in the An family dies.
+
+142
+00:06:11,580 --> 00:06:13,500
+(Night vision mode)
+
+143
+00:06:13,520 --> 00:06:14,600
+(Pupper mask)
+The dead
+
+144
+00:06:14,600 --> 00:06:15,640
+wear a Puppet mask.
+
+145
+00:06:15,640 --> 00:06:17,160
+Their body is burned
+
+146
+00:06:17,160 --> 00:06:18,400
+in the first-floor fireplace.
+
+147
+00:06:19,760 --> 00:06:21,360
+But this happened
+
+148
+00:06:21,360 --> 00:06:22,680
+twenty years ago.
+
+149
+00:06:22,680 --> 00:06:24,640
+(20-year curse returns)
+No one knows why it's back.
+
+150
+00:06:24,660 --> 00:06:27,580
+(Why the An curse is back)
+
+151
+00:06:27,700 --> 00:06:28,600
+(He Jiahuan)
+
+152
+00:06:28,600 --> 00:06:29,720
+There's
+
+153
+00:06:29,720 --> 00:06:31,360
+also a mysterious symbol.
+
+154
+00:06:31,360 --> 00:06:31,960
+It's...
+
+155
+00:06:32,320 --> 00:06:33,200
+this one.
+
+156
+00:06:34,720 --> 00:06:35,720
+An X and an O.
+
+157
+00:06:35,720 --> 00:06:36,120
+That's right.
+
+158
+00:06:39,560 --> 00:06:40,520
+Then who is this?
+
+159
+00:06:40,960 --> 00:06:42,400
+An unidentified body.
+
+160
+00:06:42,400 --> 00:06:42,760
+Yeah.
+
+161
+00:06:42,980 --> 00:06:44,620
+(Unidentified victim)
+
+162
+00:06:45,560 --> 00:06:46,760
+(Main quest)
+System notice.
+
+163
+00:06:46,780 --> 00:06:49,260
+(Main quest activated)
+
+164
+00:06:49,280 --> 00:06:50,040
+(Main quest)
+Players are instructed to:
+
+165
+00:06:50,040 --> 00:06:52,240
+(Goal)
+Identify body and cause of death.
+
+166
+00:06:52,800 --> 00:06:54,000
+(End core case, reveal truth)
+Restore the truth
+
+167
+00:06:54,000 --> 00:06:54,920
+(Collect clues)
+and lock suspects.
+
+168
+00:06:54,920 --> 00:06:55,460
+(Gradually identify key suspects
+and make the final accusation)
+
+169
+00:06:56,820 --> 00:07:01,260
+=Case Two: Oh No, Not the Puppet=
+
+170
+00:07:01,280 --> 00:07:02,000
+I remember.
+
+171
+00:07:02,000 --> 00:07:04,200
+Jin Xiangyu and her husband,
+
+172
+00:07:04,200 --> 00:07:04,880
+He Jiahuan
+
+173
+00:07:04,880 --> 00:07:05,960
+were always together.
+
+174
+00:07:05,960 --> 00:07:06,520
+Yes.
+
+175
+00:07:06,520 --> 00:07:07,560
+So this has nothing
+
+176
+00:07:07,560 --> 00:07:09,560
+to do with you two.
+
+177
+00:07:09,840 --> 00:07:11,280
+We're clean.
+
+178
+00:07:11,580 --> 00:07:13,160
+(Clean)
+
+179
+00:07:13,160 --> 00:07:14,760
+Well said.
+
+180
+00:07:14,760 --> 00:07:15,960
+(Jin Xiangyu)
+What curse?
+
+181
+00:07:15,960 --> 00:07:18,280
+I don't believe in nonsense.
+
+182
+00:07:20,440 --> 00:07:21,680
+Solve cases through logic.
+
+183
+00:07:21,680 --> 00:07:23,200
+Big budget savings with Tongcheng.
+
+184
+00:07:23,200 --> 00:07:24,920
+This is your investigation partner.
+
+185
+00:07:24,920 --> 00:07:25,760
+Tongcheng Travel
+
+186
+00:07:25,760 --> 00:07:27,000
+provides you with tools
+
+187
+00:07:27,000 --> 00:07:28,280
+to help organize
+
+188
+00:07:28,280 --> 00:07:30,440
+and analyze clues easily.
+
+189
+00:07:30,440 --> 00:07:31,840
+Explore the truth.
+
+190
+00:07:31,840 --> 00:07:33,400
+Let's go.
+
+191
+00:07:34,080 --> 00:07:34,320
+Great.
+
+192
+00:07:34,320 --> 00:07:34,880
+Alright.
+
+193
+00:07:36,580 --> 00:07:37,260
+(Player status upgraded)
+
+194
+00:07:37,260 --> 00:07:38,740
+(He Jiahuan and Jin Xiangyu: detectives)
+
+195
+00:07:40,020 --> 00:07:42,260
+(Styled hair, slicked-back hair,
+detective presence)
+
+196
+00:07:42,560 --> 00:07:44,120
+Even without a detective title,
+
+197
+00:07:44,120 --> 00:07:45,400
+still thinking like one.
+
+198
+00:07:46,480 --> 00:07:47,160
+Exactly.
+
+199
+00:07:47,160 --> 00:07:48,480
+(An Xiaoning)
+As the detective of this case,
+
+200
+00:07:48,480 --> 00:07:49,600
+I'll say a few words.
+
+201
+00:07:49,600 --> 00:07:51,200
+When did you become a detective?
+
+202
+00:07:51,300 --> 00:07:53,420
+(Respectfully)
+
+203
+00:07:53,440 --> 00:07:55,160
+As the detective of this case,
+
+204
+00:07:55,840 --> 00:07:56,560
+the four
+
+205
+00:07:56,560 --> 00:07:57,640
+of you...
+
+206
+00:07:57,640 --> 00:07:58,840
+(Be careful)
+
+207
+00:07:58,840 --> 00:08:01,120
+Sir, hello.
+
+208
+00:08:01,120 --> 00:08:02,360
+(Good guy)
+I'm a good guy.
+
+209
+00:08:03,360 --> 00:08:03,640
+Move aside!
+
+210
+00:08:03,640 --> 00:08:04,040
+Move now!
+
+211
+00:08:04,400 --> 00:08:05,600
+(Stop trying to get close)
+Who allowed you to stand here?
+
+212
+00:08:06,680 --> 00:08:07,840
+So this is the so-called
+
+213
+00:08:07,840 --> 00:08:09,080
+family curse?
+
+214
+00:08:09,080 --> 00:08:09,720
+Exactly.
+
+215
+00:08:09,720 --> 00:08:11,280
+I don't believe in curses.
+
+216
+00:08:11,280 --> 00:08:12,040
+I don't believe at all.
+
+217
+00:08:12,360 --> 00:08:13,360
+Total nonsense.
+
+218
+00:08:13,520 --> 00:08:14,360
+No, wait.
+
+219
+00:08:14,360 --> 00:08:15,560
+I'm telling you, it exists.
+
+220
+00:08:15,560 --> 00:08:18,480
+Every An family member knows it.
+
+221
+00:08:18,480 --> 00:08:18,720
+Yes.
+
+222
+00:08:18,720 --> 00:08:19,440
+We firmly believe it.
+
+223
+00:08:19,440 --> 00:08:20,200
+Besides,
+
+224
+00:08:20,220 --> 00:08:22,620
+(Strong conviction)
+
+225
+00:08:22,920 --> 00:08:24,520
+I'm not an An family member.
+
+226
+00:08:24,540 --> 00:08:25,580
+(Bounce back, rebuttal)
+
+227
+00:08:25,760 --> 00:08:26,400
+We
+
+228
+00:08:26,400 --> 00:08:27,680
+grew up here.
+
+229
+00:08:27,680 --> 00:08:28,920
+So to us,
+
+230
+00:08:28,920 --> 00:08:29,720
+you're an outsider.
+
+231
+00:08:29,720 --> 00:08:30,600
+What are you acting so aggressive for?
+
+232
+00:08:30,600 --> 00:08:31,120
+Yeah.
+
+233
+00:08:32,600 --> 00:08:32,790
+Who are you pointing at?
+
+234
+00:08:32,790 --> 00:08:33,400
+What do you mean?
+
+235
+00:08:33,400 --> 00:08:33,880
+Who?
+
+236
+00:08:33,880 --> 00:08:35,320
+This is my mom.
+
+237
+00:08:35,320 --> 00:08:36,030
+(Good son moment)
+
+238
+00:08:36,030 --> 00:08:37,150
+Arrest them all.
+
+239
+00:08:38,080 --> 00:08:38,480
+Lock the suspects.
+
+240
+00:08:38,480 --> 00:08:39,600
+Three-person joint crime.
+
+241
+00:08:39,600 --> 00:08:40,520
+I've already solved it.
+
+242
+00:08:40,660 --> 00:08:41,400
+(Just these three?)
+
+243
+00:08:41,400 --> 00:08:42,200
+Alright.
+
+244
+00:08:42,600 --> 00:08:43,670
+Your Honor,
+
+245
+00:08:43,670 --> 00:08:44,880
+I'm innocent.
+
+246
+00:08:44,880 --> 00:08:45,480
+Okay.
+
+247
+00:08:45,480 --> 00:08:46,700
+(I didn't even argue back)
+
+248
+00:08:46,880 --> 00:08:47,280
+Fine.
+
+249
+00:08:47,280 --> 00:08:48,040
+Then
+
+250
+00:08:48,040 --> 00:08:49,560
+should we search the crime scene first?
+
+251
+00:08:49,560 --> 00:08:50,080
+See if there's
+
+252
+00:08:50,080 --> 00:08:51,040
+(Detective push)
+any usable evidence.
+
+253
+00:08:51,040 --> 00:08:51,320
+That's right.
+
+254
+00:08:51,320 --> 00:08:51,840
+Okay.
+
+255
+00:08:51,840 --> 00:08:52,240
+Alright.
+
+256
+00:08:52,700 --> 00:08:53,540
+(Scene investigation)
+
+257
+00:08:53,540 --> 00:08:54,420
+(System notice: Investigation online)
+
+258
+00:08:54,440 --> 00:08:55,680
+(Disclaimer: plot use only)
+On the corpse...
+
+259
+00:08:55,700 --> 00:08:56,640
+I'll do it.
+
+260
+00:08:56,640 --> 00:08:57,200
+(Clue summary)
+Okay.
+
+261
+00:08:57,200 --> 00:08:58,000
+(Unknown victim)
+Take it over there.
+
+262
+00:08:58,000 --> 00:08:58,740
+(Death location: first-floor fireplace)
+
+263
+00:08:58,740 --> 00:08:59,580
+(Cause: family curse, burned)
+
+264
+00:08:59,660 --> 00:09:01,700
+(Detective begins investigation)
+
+265
+00:09:02,800 --> 00:09:04,000
+Mask.
+
+266
+00:09:04,460 --> 00:09:06,100
+(Partially burned mask)
+
+267
+00:09:06,120 --> 00:09:06,840
+Be careful,
+
+268
+00:09:06,840 --> 00:09:07,960
+there's broken glass.
+
+269
+00:09:08,020 --> 00:09:09,780
+(Sharp glass shards everywhere)
+
+270
+00:09:10,680 --> 00:09:11,120
+Look,
+
+271
+00:09:11,120 --> 00:09:12,360
+his head is covered in glass.
+
+272
+00:09:13,080 --> 00:09:14,640
+Could glass be the cause of death?
+
+273
+00:09:14,640 --> 00:09:15,320
+Maybe.
+
+274
+00:09:15,340 --> 00:09:17,180
+(Speculation: glass might be the weapon)
+
+275
+00:09:21,600 --> 00:09:22,960
+He has a wound on his left ankle.
+
+276
+00:09:24,600 --> 00:09:25,200
+A burn injury?
+
+277
+00:09:25,640 --> 00:09:26,240
+No.
+
+278
+00:09:26,640 --> 00:09:27,760
+Bone damage.
+
+279
+00:09:27,760 --> 00:09:28,240
+Red marks.
+
+280
+00:09:28,240 --> 00:09:29,780
+(Red wound)
+
+281
+00:09:30,560 --> 00:09:32,120
+Why would it be red after burning?
+
+282
+00:09:32,300 --> 00:09:35,900
+(Why is the ankle red after burning?)
+
+283
+00:09:35,920 --> 00:09:37,120
+Maybe it was
+
+284
+00:09:37,120 --> 00:09:38,880
+burned elsewhere first,
+
+285
+00:09:38,880 --> 00:09:40,360
+then moved here,
+
+286
+00:09:40,360 --> 00:09:42,880
+and the ankle
+was broken during transport,
+
+287
+00:09:42,880 --> 00:09:44,240
+exposing the bone.
+
+288
+00:09:44,540 --> 00:09:46,780
+(Speculation:
+not the original crime scene)
+
+289
+00:09:47,680 --> 00:09:49,000
+Ning's theory makes sense.
+
+290
+00:09:49,000 --> 00:09:51,200
+(Detective agrees)
+I think Ding is right too.
+
+291
+00:09:54,960 --> 00:09:56,400
+I found key evidence.
+
+292
+00:10:00,720 --> 00:10:01,680
+A leaf.
+
+293
+00:10:03,940 --> 00:10:05,900
+(Why is there a leaf in the fireplace?)
+
+294
+00:10:05,920 --> 00:10:07,760
+It might have been brought
+in from outside.
+
+295
+00:10:09,360 --> 00:10:09,760
+That could be possible.
+
+296
+00:10:10,280 --> 00:10:11,720
+This must indicate
+
+297
+00:10:11,720 --> 00:10:13,520
+where the body was burned.
+
+298
+00:10:13,520 --> 00:10:15,440
+If it burned here,
+there wouldn't be a leaf left.
+
+299
+00:10:15,440 --> 00:10:16,320
+That's right.
+
+300
+00:10:16,320 --> 00:10:17,200
+The leaf would've burned too.
+
+301
+00:10:17,200 --> 00:10:18,840
+It must have come from somewhere else.
+
+302
+00:10:18,840 --> 00:10:20,120
+So basically
+
+303
+00:10:20,120 --> 00:10:21,840
+it's definitely not
+the first crime scene.
+
+304
+00:10:21,860 --> 00:10:24,260
+(Inference: the fireplace is not
+the primary scene)
+
+305
+00:10:24,480 --> 00:10:25,240
+Yes.
+
+306
+00:10:25,860 --> 00:10:26,580
+(Case summary)
+
+307
+00:10:26,580 --> 00:10:27,380
+(Victim: unknown)
+
+308
+00:10:27,380 --> 00:10:28,140
+(Death location: unknown)
+
+309
+00:10:28,140 --> 00:10:28,980
+(Cause of death: unknown)
+
+310
+00:10:29,000 --> 00:10:30,400
+So who is it?
+
+311
+00:10:31,200 --> 00:10:32,640
+He must be from the An family.
+
+312
+00:10:33,120 --> 00:10:34,520
+Who's left in the An family now?
+
+313
+00:10:35,240 --> 00:10:35,520
+An Yi.
+
+314
+00:10:35,520 --> 00:10:37,160
+An Yi only, right?
+
+315
+00:10:37,340 --> 00:10:39,500
+(Victim is An Yi)
+
+316
+00:10:40,000 --> 00:10:40,880
+Dad's left.
+
+317
+00:10:42,120 --> 00:10:43,360
+Wait, aren't you?
+
+318
+00:10:43,880 --> 00:10:44,920
+You're An Wu, right?
+
+319
+00:10:45,500 --> 00:10:47,300
+(Silent frustration)
+
+320
+00:10:48,600 --> 00:10:48,840
+He is
+
+321
+00:10:48,840 --> 00:10:49,480
+still alive
+
+322
+00:10:49,480 --> 00:10:50,680
+so this corpse can't be him.
+
+323
+00:10:51,140 --> 00:10:51,800
+(Probability of both existing = 0)
+
+324
+00:10:51,800 --> 00:10:52,600
+We've been together
+
+325
+00:10:52,600 --> 00:10:54,160
+for two days already
+
+326
+00:10:55,040 --> 00:10:56,200
+and you still don't know who I am?
+
+327
+00:11:01,120 --> 00:11:01,480
+Fine.
+
+328
+00:11:01,480 --> 00:11:03,040
+Let's stay at the scene.
+
+329
+00:11:03,040 --> 00:11:04,560
+The glass on his head
+
+330
+00:11:05,080 --> 00:11:06,120
+can be kept for now.
+
+331
+00:11:06,120 --> 00:11:06,960
+Leave it here first.
+
+332
+00:11:06,960 --> 00:11:08,440
+(Detective working at his own pace)
+We've basically checked the scene.
+
+333
+00:11:08,440 --> 00:11:10,400
+Let's go to Dad's room and take a look.
+
+334
+00:11:10,400 --> 00:11:11,480
+Let's see if it's really him.
+
+335
+00:11:11,480 --> 00:11:12,120
+Alright.
+
+336
+00:11:12,120 --> 00:11:12,560
+Let's go.
+
+337
+00:11:13,600 --> 00:11:14,360
+God bless.
+
+338
+00:11:14,360 --> 00:11:15,840
+I hope it's not him.
+
+339
+00:11:16,880 --> 00:11:18,160
+I'm not even scared anymore.
+
+340
+00:11:18,160 --> 00:11:18,640
+Really?
+
+341
+00:11:18,640 --> 00:11:19,080
+For real.
+
+342
+00:11:19,080 --> 00:11:20,040
+Follow me.
+
+343
+00:11:20,040 --> 00:11:20,360
+Okay.
+
+344
+00:11:21,120 --> 00:11:21,720
+I have a feeling
+
+345
+00:11:21,720 --> 00:11:22,600
+we'll run into
+
+346
+00:11:22,600 --> 00:11:23,400
+that Puppet again.
+
+347
+00:11:23,640 --> 00:11:24,320
+Really?
+
+348
+00:11:24,340 --> 00:11:27,020
+(uneasy)
+
+349
+00:11:27,040 --> 00:11:27,960
+Let's go together.
+
+350
+00:11:29,760 --> 00:11:30,440
+I'll protect you.
+
+351
+00:11:30,440 --> 00:11:31,160
+I don't need it.
+
+352
+00:11:31,160 --> 00:11:31,920
+Bro, I'll protect you.
+
+353
+00:11:31,920 --> 00:11:32,240
+Come here.
+
+354
+00:11:32,240 --> 00:11:33,000
+(Calling him his bro)
+
+355
+00:11:33,000 --> 00:11:33,840
+I don't need protection.
+
+356
+00:11:36,280 --> 00:11:36,600
+Let's go.
+
+357
+00:11:36,600 --> 00:11:37,420
+(Courage swings wildly)
+
+358
+00:11:38,720 --> 00:11:39,240
+Grandpa.
+
+359
+00:11:39,720 --> 00:11:40,280
+Master.
+
+360
+00:11:40,280 --> 00:11:41,540
+(Door is open)
+
+361
+00:11:45,380 --> 00:11:48,140
+(An Yi not in room)
+
+362
+00:11:48,160 --> 00:11:48,720
+Master.
+
+363
+00:11:49,320 --> 00:11:49,800
+Where's grandpa?
+
+364
+00:11:50,160 --> 00:11:50,760
+Where's the master?
+
+365
+00:11:51,040 --> 00:11:51,960
+That makes sense
+
+366
+00:11:51,960 --> 00:11:53,640
+because the person lying there is him.
+
+367
+00:11:53,640 --> 00:11:55,740
+(Guess: victim is An Yi)
+
+368
+00:11:55,920 --> 00:11:56,960
+Let's search the master's room
+
+369
+00:11:56,960 --> 00:11:57,920
+and fine out where he went.
+
+370
+00:11:58,260 --> 00:11:59,420
+(Golden Staff)
+
+371
+00:12:01,620 --> 00:12:02,540
+(Achievement unlocked:
+obtained weapon, Golden Staff)
+
+372
+00:12:02,540 --> 00:12:03,420
+(No man can resist a straight stick)
+
+373
+00:12:03,460 --> 00:12:06,380
+(Especially a Golden Staff)
+
+374
+00:12:06,580 --> 00:12:07,780
+(Cool)
+
+375
+00:12:07,820 --> 00:12:10,140
+(I want it)
+
+376
+00:12:13,460 --> 00:12:14,780
+(Straight golf club)
+
+377
+00:12:16,000 --> 00:12:17,120
+There's some certificates here.
+
+378
+00:12:17,120 --> 00:12:18,080
+Wanna see?
+
+379
+00:12:18,820 --> 00:12:20,140
+(Walks in with a stick)
+
+380
+00:12:20,340 --> 00:12:22,300
+(Two rows of certificates)
+
+381
+00:12:22,320 --> 00:12:23,800
+An Xiaoding
+Outstanding Student
+
+382
+00:12:23,800 --> 00:12:25,600
+An Xiaowen
+"Etiquette Star"
+
+383
+00:12:25,600 --> 00:12:27,760
+An Ke
+President of the Glass Art Association
+
+384
+00:12:27,760 --> 00:12:29,720
+An Xiaoding
+"Six-Time Champ"
+
+385
+00:12:30,160 --> 00:12:31,080
+Everyone got two,
+
+386
+00:12:31,080 --> 00:12:32,200
+but Xiaoding got three.
+
+387
+00:12:32,200 --> 00:12:34,380
+(An Ke, An Xiaoning,
+An Xiaoding, An Xiaowen)
+
+388
+00:12:34,400 --> 00:12:35,680
+I'm amazing.
+
+389
+00:12:35,680 --> 00:12:37,120
+(Outstanding Xiaoding)
+
+390
+00:12:37,120 --> 00:12:38,000
+Dad, are you proud?
+
+391
+00:12:38,000 --> 00:12:39,160
+I've got three certificates.
+
+392
+00:12:39,160 --> 00:12:39,800
+Wow, that's insane.
+
+393
+00:12:39,800 --> 00:12:41,460
+(Dad's proud smile)
+
+394
+00:12:41,880 --> 00:12:43,560
+These are all suspicious.
+
+395
+00:12:43,700 --> 00:12:45,380
+(Boxes with two locks
+and combination lock)
+
+396
+00:12:46,520 --> 00:12:47,800
+Mr. An,
+
+397
+00:12:47,800 --> 00:12:49,280
+the drawings on the boxes
+
+398
+00:12:49,280 --> 00:12:51,680
+were drawn by you
+
+399
+00:12:51,680 --> 00:12:53,000
+when you tutored them
+
+400
+00:12:53,000 --> 00:12:54,320
+back then.
+
+401
+00:12:54,320 --> 00:12:56,040
+They've forgotten it now.
+
+402
+00:12:56,040 --> 00:12:58,480
+You even used them as passwords?
+
+403
+00:12:58,880 --> 00:12:59,600
+What's on here?
+
+404
+00:12:59,600 --> 00:13:00,640
+A pair of 9s?
+
+405
+00:13:00,640 --> 00:13:03,400
+It says you're all little brothers.
+
+406
+00:13:03,880 --> 00:13:04,720
+Four letters?
+
+407
+00:13:04,720 --> 00:13:06,000
+(The password is four letters)
+
+408
+00:13:06,000 --> 00:13:08,160
+Black Clubs told Red Hearts
+
+409
+00:13:08,160 --> 00:13:09,480
+that you're brothers.
+
+410
+00:13:09,480 --> 00:13:11,640
+It must be these two
+
+411
+00:13:11,640 --> 00:13:12,080
+telling them they must be brothers.
+
+412
+00:13:12,080 --> 00:13:13,200
+It must be...
+
+413
+00:13:16,520 --> 00:13:17,680
+So they're
+
+414
+00:13:17,680 --> 00:13:18,680
+(An Yi and An Er)
+An Yi and An Er
+
+415
+00:13:18,680 --> 00:13:20,880
+because they're the oldest.
+
+416
+00:13:22,440 --> 00:13:22,880
+Why?
+
+417
+00:13:22,880 --> 00:13:23,720
+They're all brothers.
+
+418
+00:13:23,720 --> 00:13:25,360
+It must be a pun on the cards, right?
+
+419
+00:13:25,360 --> 00:13:25,680
+Sure.
+
+420
+00:13:26,400 --> 00:13:27,040
+(Being nice)
+Sure.
+
+421
+00:13:27,360 --> 00:13:28,000
+What pun?
+
+422
+00:13:29,120 --> 00:13:30,800
+9 Clubs and 9 Hearts.
+
+423
+00:13:30,800 --> 00:13:32,200
+Try indulge in life.
+
+424
+00:13:32,200 --> 00:13:32,960
+Check if there's
+
+425
+00:13:32,960 --> 00:13:33,600
+a H.
+
+426
+00:13:34,560 --> 00:13:35,520
+Who would 9 tell
+
+427
+00:13:35,520 --> 00:13:36,440
+that to?
+
+428
+00:13:36,440 --> 00:13:38,240
+Use a pair of 8s, 7s, 6s.
+
+429
+00:13:39,200 --> 00:13:40,200
+Black clubs and red spades.
+
+430
+00:13:40,200 --> 00:13:41,320
+(Black clubs and red spades)
+Forever and ever.
+
+431
+00:13:41,320 --> 00:13:42,380
+(1 Rhyme)
+Call the landlord.
+
+432
+00:13:42,680 --> 00:13:43,560
+How many little brothers are there?
+
+433
+00:13:44,120 --> 00:13:45,840
+One, two, three, four, five, six.
+
+434
+00:13:45,840 --> 00:13:46,560
+Six little brothers
+
+435
+00:13:46,560 --> 00:13:46,930
+in sequence.
+
+436
+00:13:48,920 --> 00:13:49,800
+Red Clubs.
+
+437
+00:13:49,800 --> 00:13:51,600
+A pair of 9s. They're all brothers.
+
+438
+00:13:51,740 --> 00:13:53,580
+(A pair of 9s. They're all brothers.)
+
+439
+00:13:55,120 --> 00:13:56,320
+To drink and sing
+
+440
+00:13:56,940 --> 00:13:58,100
+(To drink(pair nine))
+
+441
+00:13:58,100 --> 00:13:59,080
+(and sing(elder brother))
+Yes!
+
+442
+00:13:59,800 --> 00:14:00,880
+To drink and sing.
+
+443
+00:14:02,980 --> 00:14:04,940
+(Box unlocks successfully)
+
+444
+00:14:04,960 --> 00:14:05,440
+Awesome.
+
+445
+00:14:05,440 --> 00:14:07,520
+"Pun Queen"
+
+446
+00:14:07,940 --> 00:14:08,640
+(Others are confused, but she's sharp)
+
+447
+00:14:08,640 --> 00:14:10,640
+Dad taught me well so I won't forget.
+
+448
+00:14:11,200 --> 00:14:11,880
+Wait.
+
+449
+00:14:11,880 --> 00:14:12,520
+It's not cleared.
+
+450
+00:14:12,520 --> 00:14:12,960
+There's another.
+
+451
+00:14:13,580 --> 00:14:15,380
+(Box inside a box)
+
+452
+00:14:16,520 --> 00:14:17,960
+I'm impressed.
+
+453
+00:14:17,960 --> 00:14:18,440
+Come on.
+
+454
+00:14:19,000 --> 00:14:20,240
+Next challenge for "Pun Queen".
+
+455
+00:14:20,560 --> 00:14:21,680
+Come on.
+
+456
+00:14:23,440 --> 00:14:24,840
+He's sprinkling salt on persimmon.
+
+457
+00:14:25,160 --> 00:14:25,640
+It's...
+
+458
+00:14:26,160 --> 00:14:26,600
+Salt.
+
+459
+00:14:27,560 --> 00:14:27,760
+Orange.
+
+460
+00:14:27,760 --> 00:14:28,440
+Helicopter wife.
+
+461
+00:14:28,680 --> 00:14:29,940
+(Helicopter wife, straw, salt)
+Four letters.
+
+462
+00:14:29,960 --> 00:14:30,400
+Persimmon.
+
+463
+00:14:39,040 --> 00:14:39,800
+Busybody!
+
+464
+00:14:40,500 --> 00:14:41,520
+(Busybody (persimmon))
+
+465
+00:14:41,520 --> 00:14:42,320
+Busybody.
+
+466
+00:14:45,800 --> 00:14:47,240
+Interesting.
+
+467
+00:14:47,240 --> 00:14:49,520
+Dad's lessons sticked with you.
+
+468
+00:14:49,520 --> 00:14:51,120
+We really taught you
+
+469
+00:14:51,120 --> 00:14:53,480
+puns from childhood.
+
+470
+00:14:53,800 --> 00:14:55,560
+(They picked up puns)
+We were taught puns from childhood.
+
+471
+00:14:55,560 --> 00:14:55,960
+Yeah.
+
+472
+00:14:57,020 --> 00:14:58,140
+(Box in a box in a box)
+
+473
+00:15:01,760 --> 00:15:02,800
+There's more?
+
+474
+00:15:03,480 --> 00:15:04,040
+Bring it on.
+
+475
+00:15:04,040 --> 00:15:05,080
+Pig.
+
+476
+00:15:05,080 --> 00:15:05,800
+A farting pig.
+
+477
+00:15:06,840 --> 00:15:08,640
+Now it's you four in a showdown.
+
+478
+00:15:08,640 --> 00:15:09,400
+Whoever answers first
+
+479
+00:15:09,400 --> 00:15:11,520
+becomes the third "Pun King".
+
+480
+00:15:11,520 --> 00:15:13,320
+Who's the "Pun King"?
+
+481
+00:15:14,540 --> 00:15:15,380
+(Competing to be "Pun King")
+
+482
+00:15:15,400 --> 00:15:16,320
+It must be me.
+
+483
+00:15:16,320 --> 00:15:18,200
+I must win this.
+
+484
+00:15:18,260 --> 00:15:18,720
+(Hugs tight)
+
+485
+00:15:18,720 --> 00:15:19,200
+I've been "Pun Queen"
+
+486
+00:15:19,200 --> 00:15:19,880
+since I was little.
+
+487
+00:15:19,880 --> 00:15:21,000
+I've always admired those
+
+488
+00:15:21,000 --> 00:15:22,080
+who could do puns.
+
+489
+00:15:23,020 --> 00:15:25,020
+(Indifferent to fame and fortune)
+
+490
+00:15:25,040 --> 00:15:26,000
+I can't say a single one myself.
+
+491
+00:15:26,480 --> 00:15:27,400
+He's from science stream.
+
+492
+00:15:27,400 --> 00:15:28,860
+(All that glitters is gold,
+but I'm old iron)
+
+493
+00:15:29,040 --> 00:15:30,320
+He's firing.
+
+494
+00:15:30,320 --> 00:15:31,840
+(Brainstorming)
+The gun hits the pig's butt.
+
+495
+00:15:32,560 --> 00:15:33,520
+The gun hits the pig butt.
+
+496
+00:15:33,800 --> 00:15:35,960
+(Direct interpretation)
+It hits its butt.
+
+497
+00:15:35,960 --> 00:15:37,240
+There's no Q.
+
+498
+00:15:37,240 --> 00:15:38,680
+(First letter eliminated: Q)
+
+499
+00:15:38,680 --> 00:15:39,440
+Lucky shot.
+
+500
+00:15:39,740 --> 00:15:41,000
+(Just cheering first)
+
+501
+00:15:41,000 --> 00:15:41,840
+It is related to pigs?
+
+502
+00:15:41,840 --> 00:15:42,720
+Let's guess.
+
+503
+00:15:42,720 --> 00:15:43,480
+It's probably off.
+
+504
+00:15:43,480 --> 00:15:43,960
+No W.
+
+505
+00:15:43,980 --> 00:15:45,660
+(Letters eliminated: Q, W)
+
+506
+00:15:46,000 --> 00:15:47,280
+Any idioms about pigs?
+
+507
+00:15:47,280 --> 00:15:48,680
+Everyone say an idiom related to pigs.
+
+508
+00:15:48,680 --> 00:15:49,600
+Alright.
+
+509
+00:15:50,000 --> 00:15:51,200
+(Idiom showdown)
+Beneath pigs and dogs.
+
+510
+00:15:51,220 --> 00:15:52,660
+(Beneath pigs and dogs)
+
+511
+00:15:52,660 --> 00:15:54,450
+(As sticky as glue)
+
+512
+00:15:54,450 --> 00:15:55,680
+(Butterflies in the stomach)
+
+513
+00:15:55,680 --> 00:15:57,320
+No, only pig-related.
+
+514
+00:15:57,320 --> 00:15:58,640
+Not a word chain.
+
+515
+00:15:58,640 --> 00:16:00,000
+Butterflies in the stomach.
+
+516
+00:16:01,120 --> 00:16:02,240
+Pig-related.
+
+517
+00:16:02,240 --> 00:16:04,360
+(Have worked in jewelry for years)
+Beaded curtains, jade screens.
+
+518
+00:16:04,360 --> 00:16:05,480
+A perfect pair.
+
+519
+00:16:05,480 --> 00:16:06,800
+(Knowledgeable in idioms)
+Rich and fancy.
+
+520
+00:16:06,800 --> 00:16:08,440
+Smooth as jade.
+
+521
+00:16:08,440 --> 00:16:09,320
+Main track.
+
+522
+00:16:09,880 --> 00:16:11,080
+That might be.
+
+523
+00:16:11,080 --> 00:16:12,000
+There's no Z.
+
+524
+00:16:12,000 --> 00:16:12,560
+(Letters eliminated: Q, W, Z)
+
+525
+00:16:12,560 --> 00:16:14,400
+If it's a pun, pigs won't be used.
+
+526
+00:16:14,400 --> 00:16:15,760
+Butt.
+
+527
+00:16:15,760 --> 00:16:16,440
+Pig butt.
+
+528
+00:16:16,440 --> 00:16:17,160
+(Start brainstorming... butt)
+
+529
+00:16:17,160 --> 00:16:18,520
+Tail.
+
+530
+00:16:18,520 --> 00:16:19,000
+(Pig tail)
+Tail.
+
+531
+00:16:19,000 --> 00:16:20,840
+Tail.
+
+532
+00:16:21,480 --> 00:16:22,160
+Jiawei.
+
+533
+00:16:22,660 --> 00:16:24,460
+(What about me?)
+
+534
+00:16:24,480 --> 00:16:26,040
+The gun hits Jiawei.
+
+535
+00:16:26,040 --> 00:16:26,880
+Jiawei.
+
+536
+00:16:29,240 --> 00:16:29,720
+The owner.
+
+537
+00:16:30,020 --> 00:16:31,980
+(Jiawei stays quiet to brainstorm)
+
+538
+00:16:32,440 --> 00:16:33,040
+Buttocks.
+
+539
+00:16:33,040 --> 00:16:33,720
+(Buttocks)
+Could it be?
+
+540
+00:16:33,720 --> 00:16:34,960
+We can do it.
+
+541
+00:16:35,080 --> 00:16:36,800
+We can because of the bullet?
+
+542
+00:16:36,880 --> 00:16:37,640
+There's no Z.
+
+543
+00:16:37,640 --> 00:16:39,780
+(Letters eliminated: Q, W, Z,
+has collective amnesia)
+
+544
+00:16:39,800 --> 00:16:40,680
+Let's
+
+545
+00:16:40,680 --> 00:16:41,480
+think differently.
+
+546
+00:16:41,480 --> 00:16:41,800
+Check
+
+547
+00:16:41,800 --> 00:16:43,200
+the combination lock letters.
+
+548
+00:16:43,840 --> 00:16:44,280
+It's too many.
+
+549
+00:16:44,720 --> 00:16:45,440
+It's too many.
+
+550
+00:16:45,880 --> 00:16:47,440
+(First letter options: D, B, O, L, M, J)
+There's also D, B.
+
+551
+00:16:47,720 --> 00:16:48,080
+Babe.
+
+552
+00:16:49,000 --> 00:16:49,720
+M.
+
+553
+00:16:49,720 --> 00:16:51,400
+(Options: D, B, O, L, M, J)
+
+554
+00:16:51,400 --> 00:16:52,200
+It's impossible.
+
+555
+00:16:52,560 --> 00:16:54,400
+It is.
+
+556
+00:16:54,400 --> 00:16:56,200
+It's seriously too hard.
+
+557
+00:16:56,200 --> 00:16:57,880
+I can't do it, I'm burned out.
+
+558
+00:16:59,260 --> 00:17:01,660
+(Might as well cut myself some slack)
+
+559
+00:17:01,700 --> 00:17:02,680
+(I can still push)
+
+560
+00:17:02,680 --> 00:17:03,440
+Aim.
+
+561
+00:17:03,440 --> 00:17:04,070
+(Aim)
+
+562
+00:17:04,070 --> 00:17:04,640
+Human.
+
+563
+00:17:04,740 --> 00:17:06,110
+(Human)
+
+564
+00:17:06,110 --> 00:17:07,520
+Human-pig.
+
+565
+00:17:07,540 --> 00:17:10,380
+(Human-pig)
+
+566
+00:17:10,380 --> 00:17:11,740
+(Pig god outraged)
+
+567
+00:17:11,740 --> 00:17:12,700
+(Left human, right pig)
+
+568
+00:17:13,380 --> 00:17:14,940
+Fire on the butt
+
+569
+00:17:14,940 --> 00:17:15,820
+(Panic)
+
+570
+00:17:15,820 --> 00:17:16,580
+(Nonsense)
+
+571
+00:17:16,580 --> 00:17:18,460
+(All wrong)
+
+572
+00:17:19,000 --> 00:17:20,000
+I'll raise pigs to "kill" you.
+
+573
+00:17:20,310 --> 00:17:21,310
+Eat a whole roasted pig.
+
+574
+00:17:21,310 --> 00:17:23,040
+(Love disappears, right?)
+
+575
+00:17:23,040 --> 00:17:23,960
+Pig soup?
+
+576
+00:17:23,980 --> 00:17:25,500
+(This kid's really hungry)
+
+577
+00:17:27,480 --> 00:17:28,560
+This is getting crazier.
+
+578
+00:17:28,840 --> 00:17:29,720
+I think you guys are nuts.
+
+579
+00:17:29,720 --> 00:17:30,360
+No.
+
+580
+00:17:31,460 --> 00:17:34,020
+(It gets even crazier)
+
+581
+00:17:34,040 --> 00:17:34,760
+Now, my brother,
+
+582
+00:17:34,760 --> 00:17:35,600
+if that's the case.
+
+583
+00:17:35,600 --> 00:17:36,680
+I mean, son,
+
+584
+00:17:36,680 --> 00:17:37,440
+if that's the case,
+
+585
+00:17:37,440 --> 00:17:38,840
+it'd be faster to smash it.
+
+586
+00:17:38,840 --> 00:17:39,240
+Alright.
+
+587
+00:17:39,240 --> 00:17:40,000
+It's pointless.
+
+588
+00:17:40,000 --> 00:17:41,440
+As detectives.
+
+589
+00:17:41,440 --> 00:17:41,940
+(New bonus scenes)
+
+590
+00:17:41,940 --> 00:17:42,520
+(every Sunday at noon)
+
+591
+00:17:42,520 --> 00:17:43,080
+Come on, think.
+
+592
+00:17:43,080 --> 00:17:44,400
+We can guess it.
+
+593
+00:17:44,460 --> 00:17:46,060
+(Hands and brains working)
+
+594
+00:17:49,260 --> 00:17:51,820
+(King and Queen of deep thinking)
+
+595
+00:17:52,660 --> 00:17:57,900
+(Have you ever gone all out for "pigs"?)
+
+596
+00:17:58,200 --> 00:17:59,240
+This one really stumped us.
+
+597
+00:18:00,000 --> 00:18:01,320
+Who can figure this out now?
+
+598
+00:18:01,320 --> 00:18:01,880
+Crazy.
+
+599
+00:18:01,880 --> 00:18:03,760
+It's insane.
+
+600
+00:18:03,760 --> 00:18:04,880
+Like becoming a "God" among everyone.
+
+601
+00:18:04,880 --> 00:18:05,440
+A "God" among everyone.
+
+602
+00:18:05,440 --> 00:18:05,920
+Worship him.
+
+603
+00:18:05,920 --> 00:18:07,120
+I'm gonna be a "God".
+
+604
+00:18:07,380 --> 00:18:09,180
+(Hugs tight again)
+
+605
+00:18:09,560 --> 00:18:10,720
+I bet some people in the chat
+
+606
+00:18:10,720 --> 00:18:11,640
+already guessed it.
+
+607
+00:18:11,900 --> 00:18:16,180
+(Cloud players, start deducing)
+
+608
+00:18:16,200 --> 00:18:17,440
+Can we mimic it a bit?
+
+609
+00:18:20,460 --> 00:18:21,620
+(Dad spoiling the kids)
+
+610
+00:18:24,320 --> 00:18:25,040
+What does this mean?
+
+611
+00:18:29,680 --> 00:18:31,280
+The gun hits the pig's butt.
+
+612
+00:18:31,280 --> 00:18:32,720
+Pig's butt.
+
+613
+00:18:33,720 --> 00:18:34,160
+Buttocks.
+
+614
+00:18:34,160 --> 00:18:35,280
+We can do it.
+
+615
+00:18:38,680 --> 00:18:39,200
+Destined.
+
+616
+00:18:39,520 --> 00:18:41,300
+It's fated.
+
+617
+00:18:41,300 --> 00:18:45,620
+(Hits the pig's butt)
+
+618
+00:18:45,640 --> 00:18:47,760
+"Hits the pig's butt"
+
+619
+00:18:49,400 --> 00:18:50,680
+"Hits the pig's butt"
+
+620
+00:18:50,780 --> 00:18:51,800
+(Practice makes perfect)
+
+621
+00:18:51,800 --> 00:18:53,960
+How are we stuck here?
+
+622
+00:18:54,900 --> 00:18:56,300
+(Fate where lock opens)
+
+623
+00:18:56,320 --> 00:18:57,320
+Insane.
+
+624
+00:18:58,180 --> 00:19:00,100
+(Certificate +1)
+
+625
+00:19:00,120 --> 00:19:00,920
+Keys.
+
+626
+00:19:01,200 --> 00:19:02,120
+(Two keys)
+Go!
+
+627
+00:19:03,000 --> 00:19:04,000
+The key is in the box
+
+628
+00:19:04,000 --> 00:19:04,920
+next to you.
+
+629
+00:19:06,480 --> 00:19:07,320
+Just one key?
+
+630
+00:19:07,320 --> 00:19:08,000
+Two keys.
+
+631
+00:19:08,000 --> 00:19:08,480
+(Two locks)
+Two.
+
+632
+00:19:08,480 --> 00:19:08,920
+Okay.
+
+633
+00:19:11,600 --> 00:19:12,480
+Come on brothers.
+
+634
+00:19:13,400 --> 00:19:14,360
+Who's your brother?
+
+635
+00:19:14,360 --> 00:19:15,560
+(Overstepped)
+No. Come on, Dad.
+
+636
+00:19:16,360 --> 00:19:17,160
+Uncle.
+
+637
+00:19:17,160 --> 00:19:17,880
+Elders.
+
+638
+00:19:17,880 --> 00:19:18,600
+Okay.
+
+639
+00:19:21,500 --> 00:19:23,220
+(Golf ball, phone, laptop, keys)
+
+640
+00:19:23,240 --> 00:19:24,160
+Golf ball.
+
+641
+00:19:25,780 --> 00:19:26,420
+(Bloody golf ball)
+
+642
+00:19:26,440 --> 00:19:27,800
+Why is there blood on this?
+
+643
+00:19:27,800 --> 00:19:28,480
+I'd like to know.
+
+644
+00:19:28,660 --> 00:19:30,100
+(Phone, keys)
+
+645
+00:19:30,300 --> 00:19:31,000
+(Laptop)
+
+646
+00:19:31,000 --> 00:19:32,240
+Where do we put it?
+
+647
+00:19:32,240 --> 00:19:32,960
+Put it on that table.
+
+648
+00:19:32,960 --> 00:19:34,040
+We'll sit on the couch.
+
+649
+00:19:34,040 --> 00:19:35,360
+Push the chair in a bit.
+
+650
+00:19:35,360 --> 00:19:36,080
+This table...
+
+651
+00:19:36,080 --> 00:19:37,640
+Your words sound like puns.
+
+652
+00:19:37,640 --> 00:19:39,280
+Because it's fate.
+
+653
+00:19:40,500 --> 00:19:41,940
+(Use what's at hand)
+
+654
+00:19:41,980 --> 00:19:44,700
+(Self-service)
+
+655
+00:19:44,800 --> 00:19:45,000
+Here.
+
+656
+00:19:45,000 --> 00:19:46,200
+This set of keys.
+
+657
+00:19:46,200 --> 00:19:47,400
+Check these keys first.
+
+658
+00:19:47,400 --> 00:19:48,560
+All of the family keys
+
+659
+00:19:48,560 --> 00:19:50,200
+are kept by Mr. An.
+
+660
+00:19:50,200 --> 00:19:51,120
+There's only one copy.
+
+661
+00:19:51,120 --> 00:19:52,400
+This key can enter
+
+662
+00:19:52,400 --> 00:19:53,880
+anyone's room.
+
+663
+00:19:53,880 --> 00:19:54,520
+That's point one.
+
+664
+00:19:54,520 --> 00:19:55,320
+Point two.
+
+665
+00:19:55,320 --> 00:19:56,000
+Without the keys,
+
+666
+00:19:56,000 --> 00:19:57,720
+you can't enter An Yi's room.
+
+667
+00:19:59,120 --> 00:19:59,640
+Remember he told us
+
+668
+00:19:59,640 --> 00:20:00,680
+to close the door when leaving.
+
+669
+00:20:00,680 --> 00:20:01,240
+Isn't that what it means?
+
+670
+00:20:01,240 --> 00:20:01,600
+Password.
+
+671
+00:20:02,400 --> 00:20:03,800
+When you go out, help me close the door.
+
+672
+00:20:04,120 --> 00:20:05,120
+Alright, let's go.
+
+673
+00:20:06,600 --> 00:20:07,000
+Okay.
+
+674
+00:20:07,000 --> 00:20:07,760
+Next.
+
+675
+00:20:08,160 --> 00:20:09,200
+This is his phone, right?
+
+676
+00:20:09,200 --> 00:20:09,960
+Yes.
+
+677
+00:20:10,680 --> 00:20:11,320
+An Xiaoning said...
+
+678
+00:20:11,320 --> 00:20:11,920
+An Xiaoning
+
+679
+00:20:11,920 --> 00:20:12,680
+(An Xiaoning)
+
+680
+00:20:12,680 --> 00:20:14,240
+2 March 2016.
+
+681
+00:20:14,240 --> 00:20:14,800
+Sent a message.
+
+682
+00:20:14,800 --> 00:20:15,680
+When are you coming back?
+
+683
+00:20:15,680 --> 00:20:17,240
+Let me mentor Ning.
+
+684
+00:20:17,240 --> 00:20:18,000
+I'll take care of him.
+
+685
+00:20:18,000 --> 00:20:19,720
+He'll do better than you.
+
+686
+00:20:19,720 --> 00:20:20,440
+Then I said
+
+687
+00:20:21,440 --> 00:20:22,240
+forget that thought.
+
+688
+00:20:22,240 --> 00:20:23,080
+That's impossible.
+
+689
+00:20:23,080 --> 00:20:23,920
+I'll personally mentor him
+
+690
+00:20:23,920 --> 00:20:24,960
+and give him the best of everything.
+
+691
+00:20:25,440 --> 00:20:26,600
+Okay, so An Yi sent
+
+692
+00:20:26,600 --> 00:20:27,480
+another message
+
+693
+00:20:27,480 --> 00:20:28,720
+to An Xiaowen and An Ke.
+
+694
+00:20:28,780 --> 00:20:30,500
+(An Xiaowen: Ah... no rush!)
+
+695
+00:20:30,500 --> 00:20:31,980
+(An Ke: Let's talk later)
+
+696
+00:20:32,200 --> 00:20:33,160
+What excuse do you have?
+
+697
+00:20:33,440 --> 00:20:33,960
+I don't
+
+698
+00:20:33,960 --> 00:20:34,920
+have one.
+
+699
+00:20:34,920 --> 00:20:36,400
+I already said
+
+700
+00:20:36,400 --> 00:20:37,400
+the kid's too rowdy.
+
+701
+00:20:37,400 --> 00:20:38,600
+Let's talk later.
+
+702
+00:20:38,760 --> 00:20:39,360
+Honestly, I thought
+
+703
+00:20:39,360 --> 00:20:40,520
+that the kid is still young.
+
+704
+00:20:40,520 --> 00:20:43,040
+Since I'm doing fine
+and a child can't leave his mom,
+
+705
+00:20:43,040 --> 00:20:44,280
+I want to take care of him myself.
+
+706
+00:20:44,440 --> 00:20:45,440
+How come I didn't know about this?
+
+707
+00:20:45,460 --> 00:20:47,260
+(Question from Dad)
+
+708
+00:20:48,120 --> 00:20:49,720
+When have our kid ever
+been taken care by you?
+
+709
+00:20:49,720 --> 00:20:50,680
+Aren't we always the ones raising them?
+
+710
+00:20:51,840 --> 00:20:52,440
+Exactly.
+
+711
+00:20:52,580 --> 00:20:53,940
+(Uncle confirms)
+
+712
+00:20:54,160 --> 00:20:56,200
+So the three of you separated
+
+713
+00:20:56,200 --> 00:20:57,200
+the kid from Mr. An intentionally?
+
+714
+00:20:57,200 --> 00:20:57,760
+Don't forget
+
+715
+00:20:57,760 --> 00:20:58,720
+An Xiaoding.
+
+716
+00:21:01,160 --> 00:21:02,480
+An Xiaoding lost his kid.
+
+717
+00:21:02,480 --> 00:21:03,080
+I have a kid.
+
+718
+00:21:03,080 --> 00:21:03,880
+You too?
+
+719
+00:21:03,880 --> 00:21:04,520
+I do.
+
+720
+00:21:05,320 --> 00:21:06,520
+He does.
+
+721
+00:21:07,120 --> 00:21:07,640
+You have
+
+722
+00:21:07,640 --> 00:21:08,840
+a great-grandchild already.
+
+723
+00:21:09,520 --> 00:21:11,440
+I'm a great-grandma then.
+
+724
+00:21:11,900 --> 00:21:15,540
+(Four generations under one roof)
+
+725
+00:21:15,760 --> 00:21:17,400
+(An Xiaoding)
+He said his kids shouldn't be spoiled
+
+726
+00:21:17,400 --> 00:21:18,520
+and rules should be set earlier.
+
+727
+00:21:18,520 --> 00:21:19,880
+I'll raise my grandkid.
+
+728
+00:21:19,880 --> 00:21:20,800
+Xiaoding said
+
+729
+00:21:20,800 --> 00:21:22,200
+the kid's still young.
+
+730
+00:21:22,840 --> 00:21:23,760
+I just don't want him.
+
+731
+00:21:23,760 --> 00:21:24,920
+I want a chill
+
+732
+00:21:24,920 --> 00:21:26,600
+and happy environment for the kid.
+
+733
+00:21:27,160 --> 00:21:28,200
+Then why do you think...
+
+734
+00:21:28,200 --> 00:21:30,560
+(An Yi family ranking: Dad, Grandpa)
+
+735
+00:21:30,560 --> 00:21:31,920
+(Grandpa)
+Right now you're the Grandpa.
+
+736
+00:21:33,440 --> 00:21:35,240
+Why wouldn't you give him that?
+
+737
+00:21:36,120 --> 00:21:37,560
+Then why not raise him yourself?
+
+738
+00:21:37,560 --> 00:21:38,480
+(Questioning)
+
+739
+00:21:38,480 --> 00:21:39,400
+Mind your own business.
+
+740
+00:21:39,400 --> 00:21:40,080
+What does it matter to me?
+
+741
+00:21:40,080 --> 00:21:41,360
+You dare go against me?
+
+742
+00:21:41,360 --> 00:21:42,560
+I'm asking you
+
+743
+00:21:42,560 --> 00:21:43,320
+so answer honestly.
+
+744
+00:21:44,200 --> 00:21:46,400
+I'm rebellious now
+so I don't want to answer.
+
+745
+00:21:46,400 --> 00:21:47,000
+Rebellious?
+
+746
+00:21:47,000 --> 00:21:47,360
+Fine.
+
+747
+00:21:47,720 --> 00:21:48,960
+About your
+
+748
+00:21:48,960 --> 00:21:49,640
+grandkid...
+
+749
+00:21:49,640 --> 00:21:50,960
+I'll raise him.
+
+750
+00:21:50,960 --> 00:21:52,520
+Fine.
+
+751
+00:21:52,520 --> 00:21:53,600
+Just not An Yi.
+
+752
+00:21:53,600 --> 00:21:53,960
+Alright?
+
+753
+00:21:53,960 --> 00:21:54,480
+Fine.
+
+754
+00:21:54,540 --> 00:21:56,140
+(Flexible family)
+
+755
+00:21:56,360 --> 00:21:57,600
+So you all
+
+756
+00:21:57,600 --> 00:21:58,840
+don't want your kids
+
+757
+00:21:58,840 --> 00:22:00,360
+to interact
+
+758
+00:22:00,360 --> 00:22:01,480
+with An Yi?
+
+759
+00:22:01,480 --> 00:22:02,160
+Exactly.
+
+760
+00:22:02,160 --> 00:22:03,200
+Why not?
+
+761
+00:22:03,220 --> 00:22:04,280
+(Menacing detective vibes)
+
+762
+00:22:04,280 --> 00:22:05,800
+Mind your own business, outsider.
+
+763
+00:22:07,120 --> 00:22:09,000
+I'm a detective.
+
+764
+00:22:09,020 --> 00:22:10,220
+(Detective)
+
+765
+00:22:10,320 --> 00:22:11,280
+This is our family matter.
+
+766
+00:22:11,280 --> 00:22:11,960
+Even as a detective...
+
+767
+00:22:11,960 --> 00:22:12,320
+Yes.
+
+768
+00:22:12,320 --> 00:22:13,360
+Even as a detective,
+
+769
+00:22:13,360 --> 00:22:14,960
+you have no right to ask.
+
+770
+00:22:15,800 --> 00:22:16,840
+Alright.
+
+771
+00:22:16,940 --> 00:22:18,360
+(Just wait)
+
+772
+00:22:18,360 --> 00:22:20,240
+Alright.
+
+773
+00:22:20,260 --> 00:22:23,100
+(Why doesn't anyone want
+An Yi raising the kid?)
+
+774
+00:22:23,640 --> 00:22:24,960
+He talked to security.
+
+775
+00:22:24,960 --> 00:22:25,480
+Security.
+
+776
+00:22:25,480 --> 00:22:26,600
+24 March.
+
+777
+00:22:26,600 --> 00:22:27,920
+21:50.
+
+778
+00:22:27,920 --> 00:22:28,760
+Chairman,
+
+779
+00:22:28,760 --> 00:22:30,840
+there's a strange green light in the hall.
+
+780
+00:22:30,840 --> 00:22:31,960
+Green light? What green light?
+
+781
+00:22:31,960 --> 00:22:33,880
+It's the one Xiaoding was dancing in.
+
+782
+00:22:36,880 --> 00:22:38,160
+It must be that light.
+
+783
+00:22:39,840 --> 00:22:40,320
+Green light?
+
+784
+00:22:40,320 --> 00:22:40,760
+Yes.
+
+785
+00:22:40,760 --> 00:22:42,040
+Yeah, I thought it was something else.
+
+786
+00:22:42,040 --> 00:22:43,080
+He knows you're not his wife.
+
+787
+00:22:43,360 --> 00:22:44,600
+♪A beam of light♪
+
+788
+00:22:46,400 --> 00:22:47,240
+9:51 PM.
+
+789
+00:22:47,240 --> 00:22:48,360
+I saw something strange.
+
+790
+00:22:48,360 --> 00:22:49,320
+Go check it out.
+
+791
+00:22:49,320 --> 00:22:50,680
+See if an outsider got in.
+
+792
+00:22:54,560 --> 00:22:55,040
+What?
+
+793
+00:22:55,880 --> 00:22:56,320
+A photo.
+
+794
+00:22:56,320 --> 00:22:56,720
+Puppet figure.
+
+795
+00:22:56,720 --> 00:22:57,080
+Come here.
+
+796
+00:23:00,680 --> 00:23:01,920
+This is creepy.
+
+797
+00:23:02,200 --> 00:23:03,040
+It's a person in the puppet mask.
+
+798
+00:23:03,040 --> 00:23:03,760
+Really?
+
+799
+00:23:03,760 --> 00:23:04,120
+It's the one
+
+800
+00:23:04,120 --> 00:23:05,240
+we saw in the hallway.
+
+801
+00:23:06,120 --> 00:23:07,240
+(Night Vision)
+Someone came out ahead.
+
+802
+00:23:10,840 --> 00:23:12,600
+After everyone left yesterday,
+
+803
+00:23:12,600 --> 00:23:13,280
+we thoroughly
+
+804
+00:23:13,280 --> 00:23:14,480
+check the whole house.
+
+805
+00:23:14,480 --> 00:23:15,960
+The only people left
+in the house were you,
+
+806
+00:23:15,960 --> 00:23:17,960
+Mr. Wu, Ms. Jin, Mr. He, Ms. Wen,
+
+807
+00:23:17,960 --> 00:23:18,400
+Mr. Ning,
+
+808
+00:23:18,400 --> 00:23:19,880
+Mr. Ding, and Mr. Ke. Eight in total.
+
+809
+00:23:19,880 --> 00:23:20,520
+Based on our findings,
+
+810
+00:23:20,520 --> 00:23:21,640
+when you saw the puppet,
+
+811
+00:23:21,640 --> 00:23:23,200
+the other seven were together.
+It couldn't be them.
+
+812
+00:23:23,200 --> 00:23:25,040
+Okay, so that proves one thing.
+
+813
+00:23:26,400 --> 00:23:28,280
+Someone else was in this house.
+
+814
+00:23:28,880 --> 00:23:30,280
+Someone was hiding in there
+
+815
+00:23:30,280 --> 00:23:30,800
+and watching us.
+
+816
+00:23:31,220 --> 00:23:34,580
+(Who was watching from the dark?)
+
+817
+00:23:36,200 --> 00:23:37,600
+Why did I just get chills?
+
+818
+00:23:41,160 --> 00:23:41,680
+Where is this?
+
+819
+00:23:41,680 --> 00:23:42,680
+It's the place from earlier.
+
+820
+00:23:43,320 --> 00:23:44,400
+Right outside this door.
+
+821
+00:23:44,400 --> 00:23:45,080
+Look at this floor.
+
+822
+00:23:45,080 --> 00:23:45,880
+(Same floor pattern)
+It's the angled doorway.
+
+823
+00:23:45,880 --> 00:23:46,960
+Yes. This is the glass outside.
+
+824
+00:23:46,960 --> 00:23:48,160
+The glass by the angled doorway.
+
+825
+00:23:49,240 --> 00:23:49,560
+Let's go.
+
+826
+00:23:50,140 --> 00:23:52,820
+(The glass they saw when entering)
+
+827
+00:23:53,080 --> 00:23:54,520
+This person definitely
+
+828
+00:23:54,520 --> 00:23:55,440
+isn't one of us,
+
+829
+00:23:55,440 --> 00:23:55,960
+including
+
+830
+00:23:55,960 --> 00:23:56,760
+the butler.
+
+831
+00:23:56,760 --> 00:23:57,120
+Am I right?
+
+832
+00:23:57,920 --> 00:24:00,080
+It might be the person who died today.
+
+833
+00:24:02,560 --> 00:24:03,720
+Because An Yi is missing now.
+
+834
+00:24:03,720 --> 00:24:05,040
+He may not be dead.
+
+835
+00:24:05,040 --> 00:24:05,480
+Right.
+
+836
+00:24:05,480 --> 00:24:07,320
+So the victim could be one of two people.
+
+837
+00:24:07,780 --> 00:24:08,460
+(Current Case Summary)
+
+838
+00:24:08,460 --> 00:24:09,300
+(Victim: Unknown.
+Location of Death: Unknown)
+
+839
+00:24:09,300 --> 00:24:10,020
+(Time of Death: 2016.3.24-3.25.
+Exact Time Unknown)
+
+840
+00:24:10,020 --> 00:24:10,700
+(Cause of Death: Unknown)
+
+841
+00:24:10,720 --> 00:24:12,440
+Since we found these clues
+
+842
+00:24:12,440 --> 00:24:13,480
+in this room,
+
+843
+00:24:13,480 --> 00:24:15,400
+I think we should go
+check out that glass room.
+
+844
+00:24:15,400 --> 00:24:15,920
+Alright.
+
+845
+00:24:16,300 --> 00:24:18,140
+(The glass room
+where the Puppet once hid)
+
+846
+00:24:18,160 --> 00:24:19,120
+Can I take this?
+
+847
+00:24:19,120 --> 00:24:20,560
+(Desperately needs a weapon)
+
+848
+00:24:20,560 --> 00:24:21,440
+Sure, you can take that.
+
+849
+00:24:21,440 --> 00:24:22,160
+He's scared now.
+
+850
+00:24:22,160 --> 00:24:22,840
+Wait, do you know
+
+851
+00:24:22,840 --> 00:24:23,760
+this is the murder weapon?
+
+852
+00:24:24,760 --> 00:24:26,280
+Are you trying to destroy it?
+
+853
+00:24:26,280 --> 00:24:27,640
+What are you planning to do with that?
+
+854
+00:24:27,960 --> 00:24:28,560
+It was me.
+
+855
+00:24:28,780 --> 00:24:29,920
+(Playing along)
+
+856
+00:24:29,920 --> 00:24:30,520
+Arrest me.
+
+857
+00:24:32,680 --> 00:24:34,440
+Your "silver bracelets"
+are coming right up.
+
+858
+00:24:34,440 --> 00:24:35,120
+Let's go.
+
+859
+00:24:35,120 --> 00:24:36,280
+This time, we definitely need
+
+860
+00:24:36,280 --> 00:24:36,840
+to bring some gear.
+
+861
+00:24:39,840 --> 00:24:41,600
+The glass by the angled doorway.
+
+862
+00:24:41,600 --> 00:24:42,400
+This is the room.
+
+863
+00:24:42,500 --> 00:24:43,800
+(Watch the glass. Stay safe.)
+
+864
+00:24:43,800 --> 00:24:44,920
+Watch the glass. Stay safe.
+
+865
+00:24:44,920 --> 00:24:47,700
+(The Puppet once appeared here)
+
+866
+00:24:47,800 --> 00:24:48,520
+You go.
+
+867
+00:24:48,520 --> 00:24:49,440
+Me? Really?
+
+868
+00:24:49,440 --> 00:24:49,680
+Of course.
+
+869
+00:24:49,680 --> 00:24:50,000
+No way.
+
+870
+00:24:50,720 --> 00:24:52,000
+I'll actually die.
+
+871
+00:24:52,000 --> 00:24:52,920
+You won't.
+
+872
+00:24:52,920 --> 00:24:53,240
+Fine.
+
+873
+00:24:53,240 --> 00:24:53,840
+(Humans aren't that fragile)
+
+874
+00:24:53,840 --> 00:24:54,480
+I'll do it.
+
+875
+00:24:54,480 --> 00:24:54,720
+Go.
+
+876
+00:24:56,260 --> 00:24:57,140
+(Using his hand to open it)
+
+877
+00:24:57,160 --> 00:24:57,880
+Wait.
+
+878
+00:24:58,800 --> 00:25:00,120
+I have a bad feeling that...
+
+879
+00:25:00,120 --> 00:25:00,960
+He's probably inside.
+
+880
+00:25:01,180 --> 00:25:02,160
+(Is the Puppet hiding here?)
+
+881
+00:25:02,160 --> 00:25:02,720
+No.
+
+882
+00:25:03,540 --> 00:25:04,120
+(Gripping tight)
+
+883
+00:25:04,120 --> 00:25:04,720
+This is scary.
+
+884
+00:25:04,920 --> 00:25:05,920
+We'll stay behind.
+
+885
+00:25:05,920 --> 00:25:06,940
+(Let the suspects go first)
+
+886
+00:25:07,680 --> 00:25:08,760
+My poor little heart.
+
+887
+00:25:08,760 --> 00:25:09,840
+I still need to sleep tonight.
+
+888
+00:25:09,840 --> 00:25:10,680
+And I sleep alone.
+
+889
+00:25:10,960 --> 00:25:12,760
+So does everyone.
+
+890
+00:25:14,080 --> 00:25:15,400
+Same for all of us.
+
+891
+00:25:15,400 --> 00:25:16,460
+(That excuse is too common)
+
+892
+00:25:17,740 --> 00:25:20,300
+(Singing away the fear)
+
+893
+00:25:21,920 --> 00:25:23,200
+How do we open this?
+
+894
+00:25:24,120 --> 00:25:25,680
+There's no way to open it.
+
+895
+00:25:25,740 --> 00:25:27,340
+(The glass door is shut tight)
+
+896
+00:25:29,900 --> 00:25:31,540
+(Watch the glass. Stay safe.)
+
+897
+00:25:36,820 --> 00:25:39,580
+(Watch the glass. Stay safe.)
+
+898
+00:25:41,320 --> 00:25:42,600
+This seems removable.
+
+899
+00:25:46,260 --> 00:25:46,420
+(There's something behind it)
+
+900
+00:25:46,820 --> 00:25:48,300
+(Push the door)
+
+901
+00:25:48,320 --> 00:25:49,000
+Push the door.
+
+902
+00:25:51,720 --> 00:25:52,800
+Do we need to push harder?
+
+903
+00:25:53,360 --> 00:25:54,240
+Should we push together?
+
+904
+00:25:54,920 --> 00:25:56,480
+Is this the Door of Truth?
+
+905
+00:25:56,480 --> 00:25:58,040
+Or we need to push the door?
+
+906
+00:25:58,140 --> 00:26:00,100
+(Door of Truth? Or push the door?)
+
+907
+00:26:00,240 --> 00:26:01,440
+Let's try it.
+
+908
+00:26:01,740 --> 00:26:03,620
+(Push)
+
+909
+00:26:04,040 --> 00:26:05,120
+Bro, you're brave.
+
+910
+00:26:07,220 --> 00:26:08,580
+(It won't budge)
+
+911
+00:26:11,240 --> 00:26:12,360
+Can we peel more?
+
+912
+00:26:14,900 --> 00:26:15,180
+(Push the door)
+
+913
+00:26:15,180 --> 00:26:16,480
+(Door)
+
+914
+00:26:16,480 --> 00:26:16,880
+Door.
+
+915
+00:26:18,440 --> 00:26:19,520
+Keep peeling.
+
+916
+00:26:20,000 --> 00:26:21,480
+Seems like a shackle.
+
+917
+00:26:21,480 --> 00:26:23,240
+(That door seems like a shackle)
+
+918
+00:26:23,240 --> 00:26:24,120
+That door seems
+
+919
+00:26:24,120 --> 00:26:24,760
+like a shackle.
+
+920
+00:26:24,760 --> 00:26:25,520
+A shackle.
+
+921
+00:26:25,540 --> 00:26:26,660
+(Wait)
+
+922
+00:26:27,160 --> 00:26:28,520
+Isn't this your song?
+
+923
+00:26:28,520 --> 00:26:30,000
+(Fan mode again)
+Isn't this your song, Ning?
+
+924
+00:26:30,520 --> 00:26:31,680
+Trapping...
+
+925
+00:26:31,680 --> 00:26:33,700
+("The Door" by Liu Yuning)
+
+926
+00:26:33,700 --> 00:26:35,780
+(Live mode on)
+♪Trapping me♪
+
+927
+00:26:35,800 --> 00:26:36,320
+Keep going.
+
+928
+00:26:36,320 --> 00:26:38,880
+♪I can't move♪
+
+929
+00:26:38,880 --> 00:26:44,120
+♪Lost in sorrow without you♪
+
+930
+00:26:44,120 --> 00:26:49,870
+♪So weak and helpless♪
+
+931
+00:26:49,870 --> 00:26:51,720
+(This door only opens in darkness)
+
+932
+00:26:51,720 --> 00:26:54,800
+This door only opens in darkness.
+
+933
+00:26:57,360 --> 00:26:58,080
+Turn off the lights.
+
+934
+00:26:58,080 --> 00:27:00,440
+Wen has the Lights Out Card.
+
+935
+00:27:00,440 --> 00:27:00,920
+Wen.
+
+936
+00:27:01,960 --> 00:27:03,160
+(My legs are weak)
+Can we leave them on?
+
+937
+00:27:03,160 --> 00:27:04,160
+Leave them on.
+
+938
+00:27:04,160 --> 00:27:05,120
+It's okay.
+
+939
+00:27:05,120 --> 00:27:06,480
+For once on this show,
+
+940
+00:27:06,480 --> 00:27:08,080
+we know the lights will go off.
+
+941
+00:27:08,080 --> 00:27:09,280
+So we can prepare.
+
+942
+00:27:09,900 --> 00:27:10,800
+(Just my luck)
+
+943
+00:27:10,800 --> 00:27:11,360
+I guess
+
+944
+00:27:11,360 --> 00:27:13,240
+after the lights go off,
+
+945
+00:27:13,240 --> 00:27:14,840
+something unknown awaits inside.
+
+946
+00:27:15,240 --> 00:27:16,120
+(Preparing them mentally)
+Maybe
+
+947
+00:27:16,120 --> 00:27:17,920
+the bandaged-face guy will show up.
+
+948
+00:27:17,920 --> 00:27:18,400
+Exactly.
+
+949
+00:27:18,920 --> 00:27:19,840
+I have a Soothing Card.
+
+950
+00:27:19,840 --> 00:27:21,240
+I can soothe him.
+
+951
+00:27:21,240 --> 00:27:21,840
+Use it.
+
+952
+00:27:21,840 --> 00:27:22,840
+I have a Copy Card.
+
+953
+00:27:22,840 --> 00:27:23,720
+Use it too.
+
+954
+00:27:23,720 --> 00:27:24,960
+(Not going farther?)
+Double soothing.
+
+955
+00:27:24,960 --> 00:27:25,680
+We can soothe two.
+
+956
+00:27:26,840 --> 00:27:27,520
+First, we should
+
+957
+00:27:27,520 --> 00:27:28,800
+stay really close together.
+
+958
+00:27:28,800 --> 00:27:30,560
+That way, no one can...
+
+959
+00:27:30,560 --> 00:27:31,600
+What about my back?
+
+960
+00:27:31,620 --> 00:27:32,480
+(No one's got his back)
+
+961
+00:27:32,480 --> 00:27:33,600
+Face your back inside.
+
+962
+00:27:36,480 --> 00:27:37,840
+That's even scarier.
+
+963
+00:27:38,160 --> 00:27:38,680
+How about this?
+
+964
+00:27:38,680 --> 00:27:38,920
+Come here.
+
+965
+00:27:38,920 --> 00:27:40,280
+Let's keep our backs to the inside.
+
+966
+00:27:40,280 --> 00:27:40,880
+Well then...
+
+967
+00:27:40,880 --> 00:27:42,480
+Facing front is scary too.
+
+968
+00:27:43,080 --> 00:27:44,520
+(Jump scare risk)
+Facing front is scary too.
+
+969
+00:27:44,840 --> 00:27:45,120
+Wait.
+
+970
+00:27:45,120 --> 00:27:46,400
+Listen to me.
+
+971
+00:27:46,720 --> 00:27:48,120
+You turn off the lights.
+
+972
+00:27:48,120 --> 00:27:49,280
+I'll open the door.
+
+973
+00:27:49,280 --> 00:27:51,520
+(Taking the lead)
+Then I'll check
+
+974
+00:27:51,520 --> 00:27:52,640
+if it's safe.
+
+975
+00:27:52,640 --> 00:27:53,720
+If it's safe,
+
+976
+00:27:53,720 --> 00:27:54,480
+I'll call you over.
+
+977
+00:27:54,480 --> 00:27:54,920
+Okay?
+
+978
+00:27:54,920 --> 00:27:56,400
+(He really...)
+You've grown up.
+
+979
+00:27:56,620 --> 00:27:57,700
+(Praised by Chengxin)
+
+980
+00:27:57,720 --> 00:27:59,560
+I'll clear the way for you.
+
+981
+00:27:59,560 --> 00:28:00,000
+Okay?
+
+982
+00:28:00,240 --> 00:28:02,160
+Since when did you become our shield?
+
+983
+00:28:02,160 --> 00:28:03,120
+Can this light up?
+
+984
+00:28:03,640 --> 00:28:04,880
+Bai isn't here anymore.
+
+985
+00:28:04,880 --> 00:28:06,000
+I'm scared too, actually.
+
+986
+00:28:06,000 --> 00:28:06,860
+(I grew up and became him)
+
+987
+00:28:08,600 --> 00:28:09,720
+Okay, lights off.
+
+988
+00:28:09,820 --> 00:28:12,060
+(Protection mode: on)
+
+989
+00:28:12,560 --> 00:28:13,120
+Wait.
+
+990
+00:28:13,120 --> 00:28:14,080
+You can turn them off, right?
+
+991
+00:28:14,080 --> 00:28:14,560
+Yes.
+
+992
+00:28:14,620 --> 00:28:15,940
+(Skill Card)
+
+993
+00:28:15,940 --> 00:28:17,680
+(Lights Out Card:
+Turns off the lights once)
+
+994
+00:28:17,680 --> 00:28:19,480
+Night falls. Close your eyes.
+
+995
+00:28:24,660 --> 00:28:26,260
+(Night Vision)
+
+996
+00:28:26,960 --> 00:28:27,800
+Okay. It's fine.
+
+997
+00:28:27,800 --> 00:28:28,720
+It's okay.
+
+998
+00:28:30,280 --> 00:28:31,000
+I'm opening it.
+
+999
+00:28:31,720 --> 00:28:32,600
+Alright.
+
+1000
+00:28:33,120 --> 00:28:33,760
+Wait.
+
+1001
+00:28:33,760 --> 00:28:34,920
+Someone hold me from behind.
+
+1002
+00:28:36,320 --> 00:28:36,800
+Pull it.
+
+1003
+00:28:37,360 --> 00:28:38,120
+What are you doing?
+
+1004
+00:28:38,120 --> 00:28:38,960
+(Helping with eyes shut)
+I want to pull too.
+
+1005
+00:28:38,960 --> 00:28:40,000
+Just pull it open.
+
+1006
+00:28:40,600 --> 00:28:41,560
+Pull.
+
+1007
+00:28:42,120 --> 00:28:42,760
+Pull.
+
+1008
+00:28:42,760 --> 00:28:43,440
+Stop pulling.
+
+1009
+00:28:43,440 --> 00:28:44,200
+(He really pulled)
+It's off.
+
+1010
+00:28:44,200 --> 00:28:44,520
+It's all pulled off.
+
+1011
+00:28:44,520 --> 00:28:45,920
+We really pulled it all off.
+
+1012
+00:28:46,120 --> 00:28:47,320
+I'm dying here.
+
+1013
+00:28:49,240 --> 00:28:49,520
+It's open.
+
+1014
+00:28:50,200 --> 00:28:50,720
+Okay.
+
+1015
+00:28:50,740 --> 00:28:52,020
+(Watch the glass. Stay safe.)
+
+1016
+00:28:55,620 --> 00:28:56,220
+(Night Vision)
+
+1017
+00:28:56,280 --> 00:28:57,160
+Okay, let's go in.
+
+1018
+00:28:57,160 --> 00:28:57,800
+Go in.
+
+1019
+00:29:00,160 --> 00:29:00,920
+There's light.
+
+1020
+00:29:01,360 --> 00:29:02,480
+(Lit area ahead)
+We can see now.
+
+1021
+00:29:03,000 --> 00:29:04,120
+(Night Vision)
+Open your eyes, Ding.
+
+1022
+00:29:04,120 --> 00:29:05,480
+I don't dare.
+
+1023
+00:29:05,480 --> 00:29:06,400
+(Scaring himself)
+♪I don't dare open my eyes♪
+
+1024
+00:29:06,400 --> 00:29:08,240
+♪I hope this is just in my mind♪
+
+1025
+00:29:08,960 --> 00:29:09,440
+Let's just
+
+1026
+00:29:09,440 --> 00:29:10,720
+head toward the light first,
+
+1027
+00:29:10,720 --> 00:29:11,200
+okay?
+
+1028
+00:29:12,280 --> 00:29:13,240
+This is a...
+
+1029
+00:29:13,560 --> 00:29:14,120
+study?
+
+1030
+00:29:18,600 --> 00:29:19,200
+Archive room.
+
+1031
+00:29:19,380 --> 00:29:21,820
+(New Area Unlocked: Archive Room)
+
+1032
+00:29:22,760 --> 00:29:23,680
+Okay.
+
+1033
+00:29:23,680 --> 00:29:24,680
+I'm really...
+
+1034
+00:29:24,680 --> 00:29:25,760
+I'm done.
+
+1035
+00:29:25,760 --> 00:29:26,560
+I need a moment.
+
+1036
+00:29:27,400 --> 00:29:28,120
+Look at this.
+
+1037
+00:29:29,960 --> 00:29:30,400
+A symbol.
+
+1038
+00:29:30,660 --> 00:29:31,600
+(Family curse symbol found)
+
+1039
+00:29:31,600 --> 00:29:32,160
+An X and a circle.
+
+1040
+00:29:33,680 --> 00:29:34,760
+There's an outfit here.
+
+1041
+00:29:35,920 --> 00:29:37,200
+This is that Puppet
+
+1042
+00:29:37,680 --> 00:29:38,480
+from earlier.
+
+1043
+00:29:38,480 --> 00:29:39,480
+The first time
+
+1044
+00:29:39,480 --> 00:29:40,360
+I saw him in the dark,
+
+1045
+00:29:40,360 --> 00:29:42,200
+he looked exactly like this.
+
+1046
+00:29:42,200 --> 00:29:45,860
+(Props were specially made.
+Filmed safely.)
+
+1047
+00:29:45,860 --> 00:29:47,900
+(Why is the puppet outfit
+in the archive room?)
+
+1048
+00:29:48,200 --> 00:29:50,200
+This is the Puppet-Man's hideout.
+
+1049
+00:29:50,260 --> 00:29:52,300
+(The archive room was his hideout)
+
+1050
+00:29:52,320 --> 00:29:53,400
+Why call him "Puppet-Man"?
+
+1051
+00:29:54,520 --> 00:29:55,360
+Why give him
+
+1052
+00:29:55,360 --> 00:29:56,160
+such a cool name?
+
+1053
+00:29:56,620 --> 00:29:57,720
+(Sounds heroic now)
+
+1054
+00:29:57,720 --> 00:29:58,640
+He's a curse.
+
+1055
+00:30:00,240 --> 00:30:00,760
+Let's just...
+
+1056
+00:30:01,560 --> 00:30:02,120
+look around.
+
+1057
+00:30:05,280 --> 00:30:06,160
+I can't do this.
+
+1058
+00:30:07,040 --> 00:30:07,880
+Check the drawers.
+
+1059
+00:30:11,660 --> 00:30:13,020
+(File box)
+
+1060
+00:30:15,320 --> 00:30:16,240
+There's something here.
+
+1061
+00:30:17,160 --> 00:30:17,560
+What?
+
+1062
+00:30:19,060 --> 00:30:21,140
+(Torn paper pieces)
+
+1063
+00:30:21,160 --> 00:30:21,600
+An San.
+
+1064
+00:30:21,600 --> 00:30:22,240
+An San?
+
+1065
+00:30:24,040 --> 00:30:24,760
+There are two.
+
+1066
+00:30:25,760 --> 00:30:26,840
+These are our late
+
+1067
+00:30:26,840 --> 00:30:28,800
+aunt and uncle.
+
+1068
+00:30:30,960 --> 00:30:32,400
+The cursed family victims.
+
+1069
+00:30:32,400 --> 00:30:33,540
+(An San and An Si, killed by the curse)
+
+1070
+00:30:33,920 --> 00:30:35,520
+But this happened
+
+1071
+00:30:35,520 --> 00:30:36,840
+twenty years ago.
+
+1072
+00:30:36,840 --> 00:30:38,800
+Why is it happening again?
+
+1073
+00:30:39,600 --> 00:30:42,120
+An San died
+
+1074
+00:30:42,120 --> 00:30:44,520
+on March 25, 1996.
+
+1075
+00:30:45,000 --> 00:30:45,480
+An San.
+
+1076
+00:30:45,480 --> 00:30:47,400
+Family curse. An Si.
+
+1077
+00:30:47,400 --> 00:30:48,360
+Her death
+
+1078
+00:30:48,360 --> 00:30:51,640
+was on March 25, 1978.
+
+1079
+00:30:51,820 --> 00:30:53,120
+(First Curse. Second Curse.)
+
+1080
+00:30:53,120 --> 00:30:54,000
+Who's this?
+
+1081
+00:30:54,400 --> 00:30:55,280
+There's someone there. It's creepy.
+
+1082
+00:30:55,280 --> 00:30:55,800
+There's a person.
+
+1083
+00:30:55,800 --> 00:30:56,320
+Look at the photo.
+
+1084
+00:30:57,180 --> 00:30:58,940
+(Who is the woman behind An Si?)
+
+1085
+00:30:58,960 --> 00:31:00,240
+What a terrifying photo.
+
+1086
+00:31:00,660 --> 00:31:01,820
+(Jumpscared by a paper cutout)
+
+1087
+00:31:02,360 --> 00:31:02,880
+What happened?
+
+1088
+00:31:02,880 --> 00:31:03,360
+Nothing.
+
+1089
+00:31:03,360 --> 00:31:03,760
+What happened?
+
+1090
+00:31:03,760 --> 00:31:04,840
+Nothing. Don't be scared.
+
+1091
+00:31:04,840 --> 00:31:06,520
+It's a woman with no clear face.
+
+1092
+00:31:07,360 --> 00:31:08,480
+An Si...
+
+1093
+00:31:08,480 --> 00:31:09,880
+An Si is my fourth brother.
+
+1094
+00:31:10,320 --> 00:31:10,800
+Your fourth brother?
+
+1095
+00:31:10,800 --> 00:31:11,560
+(An Si is An Ke's full brother)
+He's my brother.
+
+1096
+00:31:11,560 --> 00:31:12,520
+He's my fourth brother.
+
+1097
+00:31:12,520 --> 00:31:13,080
+She's my third sister.
+
+1098
+00:31:13,520 --> 00:31:15,480
+Then this must be An Si's mother.
+
+1099
+00:31:15,620 --> 00:31:17,700
+(An Songqiu and his first wife:
+An Yi, An Er, An San)
+
+1100
+00:31:17,700 --> 00:31:20,060
+(An Songqiu and his second wife:
+An Si, An Ke)
+
+1101
+00:31:20,060 --> 00:31:21,980
+(Family curse victims: An San and An Si)
+
+1102
+00:31:23,600 --> 00:31:24,960
+After An Si died,
+
+1103
+00:31:24,960 --> 00:31:26,400
+his mother vanished.
+
+1104
+00:31:26,880 --> 00:31:28,920
+She's An Songqiu's second wife.
+
+1105
+00:31:28,980 --> 00:31:29,680
+(An Songqiu and his first wife:
+An Yi, An Er, An San)
+
+1106
+00:31:29,680 --> 00:31:30,800
+(An Songqiu and second wife: An Si, An Ke)
+This is your mom?
+
+1107
+00:31:30,800 --> 00:31:31,120
+Not sure.
+
+1108
+00:31:31,120 --> 00:31:32,360
+(An Ke's mom vanished when he was six)
+You can't see her face.
+
+1109
+00:31:32,360 --> 00:31:33,280
+How would you know?
+
+1110
+00:31:33,280 --> 00:31:34,840
+It might not be his mom.
+
+1111
+00:31:35,380 --> 00:31:38,060
+(Who is the mystery woman?)
+
+1112
+00:31:39,280 --> 00:31:41,600
+Then why is this here?
+
+1113
+00:31:42,240 --> 00:31:43,440
+Look at this.
+
+1114
+00:31:43,500 --> 00:31:44,580
+(There's a mark on the back)
+
+1115
+00:31:45,000 --> 00:31:46,160
+The backs fit together.
+
+1116
+00:31:46,160 --> 00:31:47,000
+It's an X and a circle.
+
+1117
+00:31:50,640 --> 00:31:52,000
+The curse again.
+
+1118
+00:31:54,680 --> 00:31:56,640
+There's another X-circle here.
+
+1119
+00:31:59,000 --> 00:32:00,520
+Let's piece them together.
+
+1120
+00:32:00,520 --> 00:32:01,320
+Okay, come on.
+
+1121
+00:32:01,320 --> 00:32:01,800
+Hurry.
+
+1122
+00:32:01,800 --> 00:32:02,320
+Once we do,
+
+1123
+00:32:02,320 --> 00:32:03,560
+will it trigger something?
+
+1124
+00:32:03,560 --> 00:32:03,840
+Maybe.
+
+1125
+00:32:03,840 --> 00:32:04,120
+Yeah.
+
+1126
+00:32:04,120 --> 00:32:04,600
+It's possible.
+
+1127
+00:32:04,880 --> 00:32:05,920
+Brace yourselves.
+
+1128
+00:32:05,920 --> 00:32:06,560
+I'm ready.
+
+1129
+00:32:08,320 --> 00:32:09,280
+Will it come alive?
+
+1130
+00:32:09,280 --> 00:32:10,680
+(Nervous)
+It won't.
+
+1131
+00:32:10,680 --> 00:32:11,360
+You never know.
+
+1132
+00:32:11,360 --> 00:32:12,280
+Wait. I'll poke it.
+
+1133
+00:32:12,280 --> 00:32:12,760
+Poke it.
+
+1134
+00:32:13,560 --> 00:32:14,280
+It's fake.
+
+1135
+00:32:14,280 --> 00:32:15,480
+I already checked it.
+
+1136
+00:32:16,880 --> 00:32:17,960
+It's fine. I've got my Golden Staff.
+
+1137
+00:32:21,360 --> 00:32:22,760
+Why am I such a coward?
+
+1138
+00:32:22,760 --> 00:32:23,920
+I'm so done with myself.
+
+1139
+00:32:23,920 --> 00:32:25,040
+(So disappointed in himself)
+
+1140
+00:32:25,040 --> 00:32:26,360
+Can I act like a man?
+
+1141
+00:32:26,360 --> 00:32:27,160
+(Roasting himself hard)
+
+1142
+00:32:27,160 --> 00:32:28,720
+It's fine. Fear is physical.
+
+1143
+00:32:28,720 --> 00:32:29,440
+It has nothing
+
+1144
+00:32:29,440 --> 00:32:30,200
+to do with
+
+1145
+00:32:30,200 --> 00:32:31,000
+being a man.
+
+1146
+00:32:31,020 --> 00:32:31,840
+(Men can be scared too)
+
+1147
+00:32:31,840 --> 00:32:32,640
+Last piece, guys.
+
+1148
+00:32:39,720 --> 00:32:40,160
+Here we go.
+
+1149
+00:32:41,920 --> 00:32:43,600
+Don't do this.
+
+1150
+00:32:47,080 --> 00:32:47,600
+Red light.
+
+1151
+00:32:48,440 --> 00:32:49,000
+Wait.
+
+1152
+00:32:49,000 --> 00:32:50,640
+What did they say the laser was?
+
+1153
+00:32:50,640 --> 00:32:51,520
+This one's red.
+
+1154
+00:32:51,520 --> 00:32:52,720
+Last time, it was green.
+
+1155
+00:32:52,980 --> 00:32:55,460
+(File bag)
+
+1156
+00:32:55,760 --> 00:32:56,920
+Ding, are you okay?
+
+1157
+00:32:56,920 --> 00:32:57,520
+No.
+
+1158
+00:32:57,520 --> 00:32:58,640
+Want to hold the staff?
+
+1159
+00:32:58,640 --> 00:32:59,600
+(Helping each other)
+You can take it.
+
+1160
+00:32:59,600 --> 00:33:00,280
+Okay.
+
+1161
+00:33:07,960 --> 00:33:08,520
+The light changed.
+
+1162
+00:33:08,520 --> 00:33:10,420
+(The red light turned white)
+
+1163
+00:33:11,000 --> 00:33:11,560
+It changed.
+
+1164
+00:33:18,080 --> 00:33:18,880
+Kind of cool.
+
+1165
+00:33:22,040 --> 00:33:23,080
+White light.
+
+1166
+00:33:23,080 --> 00:33:24,120
+What color was it before?
+
+1167
+00:33:25,080 --> 00:33:26,040
+No one's coming, right?
+
+1168
+00:33:26,040 --> 00:33:26,520
+No way.
+
+1169
+00:33:28,120 --> 00:33:28,600
+It's over.
+
+1170
+00:33:32,440 --> 00:33:33,400
+What does that mean?
+
+1171
+00:33:33,400 --> 00:33:35,380
+(What just happened?)
+
+1172
+00:33:35,880 --> 00:33:36,560
+What's going on?
+
+1173
+00:33:43,560 --> 00:33:44,320
+Firecrackers.
+
+1174
+00:33:45,740 --> 00:33:47,420
+(Why are there firecrackers?)
+
+1175
+00:33:47,440 --> 00:33:48,280
+Firecrackers. Come on.
+
+1176
+00:33:48,880 --> 00:33:49,480
+Hurry, go.
+
+1177
+00:33:49,580 --> 00:33:50,720
+(Refuses to be last)
+
+1178
+00:33:50,720 --> 00:33:52,160
+Hurry.
+
+1179
+00:33:52,760 --> 00:33:53,320
+Firecrackers.
+
+1180
+00:33:55,720 --> 00:33:57,600
+My steps just sped up.
+
+1181
+00:33:57,600 --> 00:33:59,040
+I feel light on my feet now.
+
+1182
+00:34:00,640 --> 00:34:01,520
+Who are you?
+
+1183
+00:34:02,000 --> 00:34:02,480
+Hello.
+
+1184
+00:34:02,480 --> 00:34:03,840
+I'm the security guard here.
+
+1185
+00:34:04,140 --> 00:34:04,800
+(A stranger appears)
+
+1186
+00:34:04,800 --> 00:34:06,160
+I'll take you over there.
+
+1187
+00:34:06,960 --> 00:34:07,640
+Where?
+
+1188
+00:34:07,640 --> 00:34:08,480
+It's raining, everyone.
+
+1189
+00:34:08,480 --> 00:34:09,190
+I'll take you there.
+
+1190
+00:34:09,190 --> 00:34:10,040
+Grab an umbrella.
+
+1191
+00:34:12,080 --> 00:34:13,360
+Why is it dark now?
+
+1192
+00:34:13,800 --> 00:34:15,360
+Yeah. What happened?
+
+1193
+00:34:15,840 --> 00:34:16,880
+Let's go first.
+
+1194
+00:34:16,880 --> 00:34:18,880
+An Glass Factory.
+
+1195
+00:34:18,880 --> 00:34:20,860
+(An Glass Factory)
+
+1196
+00:34:20,860 --> 00:34:22,420
+(An Residence Entrance)
+
+1197
+00:34:23,480 --> 00:34:24,760
+What are we doing here?
+
+1198
+00:34:38,190 --> 00:34:39,560
+There's a show here?
+
+1199
+00:34:44,080 --> 00:34:45,190
+Who's getting married?
+
+1200
+00:34:45,190 --> 00:34:46,260
+(They've arrived at a wedding)
+
+1201
+00:34:48,020 --> 00:34:49,460
+(What is going on?)
+
+1202
+00:34:50,900 --> 00:34:52,380
+(We're here anyway. Might as well party)
+
+1203
+00:34:57,520 --> 00:34:58,480
+Hurry, get in there.
+
+1204
+00:35:10,620 --> 00:35:12,860
+(Dance moves synced)
+
+1205
+00:35:13,100 --> 00:35:14,580
+(Zero delay)
+
+1206
+00:35:19,900 --> 00:35:22,340
+(Nunchuck-style dancing)
+
+1207
+00:35:22,380 --> 00:35:24,100
+(Wiggle)
+
+1208
+00:35:24,180 --> 00:35:26,180
+(Looking around)
+
+1209
+00:35:28,260 --> 00:35:30,620
+(Clearly never took dance lessons)
+
+1210
+00:35:30,700 --> 00:35:33,020
+("Ning's Fancy Footwork")
+
+1211
+00:35:33,020 --> 00:35:34,620
+(With "Ning Family Fist")
+
+1212
+00:35:39,220 --> 00:35:42,020
+(Right in his element)
+
+1213
+00:35:48,980 --> 00:35:51,260
+(Here comes the ace)
+
+1214
+00:35:52,740 --> 00:35:54,140
+(Signature move)
+
+1215
+00:35:55,280 --> 00:35:57,000
+Floor move. Leg sweep.
+
+1216
+00:35:57,560 --> 00:35:59,280
+Nice!
+
+1217
+00:35:59,920 --> 00:36:00,840
+Good!
+
+1218
+00:36:00,840 --> 00:36:01,560
+Dance!
+
+1219
+00:36:04,380 --> 00:36:05,340
+(A little tribute)
+
+1220
+00:36:12,600 --> 00:36:13,760
+He even has an ending pose.
+
+1221
+00:36:13,760 --> 00:36:14,240
+Ending!
+
+1222
+00:36:16,780 --> 00:36:18,660
+(Facial control on point)
+
+1223
+00:36:19,000 --> 00:36:21,440
+(Extra scenes 12 PM every Sat)
+Okay, music off!
+
+1224
+00:36:21,440 --> 00:36:21,680
+Come on.
+
+1225
+00:36:21,680 --> 00:36:23,560
+(Host)
+Dancers, please head off and rest!
+
+1226
+00:36:24,000 --> 00:36:24,800
+Sir, you look like
+
+1227
+00:36:24,800 --> 00:36:27,040
+you're good with a bow.
+
+1228
+00:36:27,680 --> 00:36:29,160
+Seen my other side gigs, huh?
+
+1229
+00:36:30,760 --> 00:36:31,000
+Okay.
+
+1230
+00:36:31,000 --> 00:36:31,760
+Dear guests,
+
+1231
+00:36:31,760 --> 00:36:32,920
+please wait here.
+
+1232
+00:36:32,920 --> 00:36:33,320
+Okay.
+
+1233
+00:36:33,320 --> 00:36:33,800
+One moment.
+
+1234
+00:36:33,800 --> 00:36:34,360
+Guests?
+
+1235
+00:36:34,360 --> 00:36:35,280
+Isn't this our house?
+
+1236
+00:36:35,280 --> 00:36:36,240
+Why are we guests now?
+
+1237
+00:36:36,240 --> 00:36:37,780
+(Why are the An family now guests?)
+
+1238
+00:36:37,960 --> 00:36:39,560
+The current date
+
+1239
+00:36:39,560 --> 00:36:40,960
+is March 25,
+
+1240
+00:36:40,960 --> 00:36:42,960
+is 1996.
+
+1241
+00:36:43,700 --> 00:36:45,500
+(1996)
+
+1242
+00:36:45,760 --> 00:36:46,200
+What?
+
+1243
+00:36:55,360 --> 00:36:57,120
+The current date is...
+
+1244
+00:36:58,120 --> 00:36:59,320
+1996.
+
+1245
+00:37:32,840 --> 00:37:34,240
+(An Glass Factory)
+Guys, we time-traveled.
+
+1246
+00:37:34,580 --> 00:37:35,840
+(Why did they return to 1996?)
+
+1247
+00:37:35,840 --> 00:37:37,520
+1996 means
+
+1248
+00:37:37,520 --> 00:37:38,960
+(Wedding)
+the year An San died.
+
+1249
+00:37:40,160 --> 00:37:41,560
+What's today's date?
+
+1250
+00:37:41,560 --> 00:37:43,960
+Today is March 25.
+
+1251
+00:37:44,640 --> 00:37:46,040
+(Family curse victim: An San)
+
+1252
+00:37:46,040 --> 00:37:47,200
+on March 25.
+
+1253
+00:37:48,160 --> 00:37:49,280
+The day An San died.
+
+1254
+00:37:50,500 --> 00:37:55,900
+(Back to the day An San died)
+
+1255
+00:37:55,920 --> 00:37:59,760
+Here's the thing.
+
+1256
+00:37:59,760 --> 00:38:01,520
+needs a rehearsal soon.
+
+1257
+00:38:01,520 --> 00:38:02,360
+Bride An San
+
+1258
+00:38:02,360 --> 00:38:03,880
+is ready.
+
+1259
+00:38:03,880 --> 00:38:04,840
+An San?
+
+1260
+00:38:04,840 --> 00:38:05,760
+(An San is the bride)
+
+1261
+00:38:05,760 --> 00:38:07,080
+An San?
+
+1262
+00:38:08,680 --> 00:38:09,960
+Have you seen her today?
+
+1263
+00:38:09,960 --> 00:38:11,960
+I heard she arrived,
+
+1264
+00:38:11,960 --> 00:38:13,080
+but I haven't seen her in person.
+
+1265
+00:38:14,600 --> 00:38:16,080
+We've got a problem.
+
+1266
+00:38:16,080 --> 00:38:17,200
+We need everyone's help.
+
+1267
+00:38:18,400 --> 00:38:20,040
+The groom had an emergency.
+
+1268
+00:38:20,040 --> 00:38:21,400
+So we need to back up!
+
+1269
+00:38:21,400 --> 00:38:21,960
+No way.
+
+1270
+00:38:26,080 --> 00:38:26,800
+You guessed it.
+
+1271
+00:38:27,160 --> 00:38:28,280
+Seriously?
+
+1272
+00:38:29,320 --> 00:38:30,840
+But what about Xi Hu?
+
+1273
+00:38:30,980 --> 00:38:31,880
+(Xi Hu, let me explain)
+
+1274
+00:38:31,880 --> 00:38:33,160
+That's fine. Just standing in
+
+1275
+00:38:33,160 --> 00:38:34,800
+for the rehearsal.
+
+1276
+00:38:35,200 --> 00:38:36,840
+Who's standing in?
+
+1277
+00:38:36,840 --> 00:38:38,680
+I have four brothers here.
+
+1278
+00:38:38,680 --> 00:38:39,800
+Take your pick.
+
+1279
+00:38:42,060 --> 00:38:42,540
+(Side Quest)
+
+1280
+00:38:42,540 --> 00:38:42,980
+(Side Quest triggered)
+
+1281
+00:38:42,980 --> 00:38:43,740
+(Help the Butler complete
+the wedding rehearsal)
+
+1282
+00:38:43,740 --> 00:38:44,780
+(Choose a stand-in groom for An San)
+
+1283
+00:38:46,000 --> 00:38:46,760
+My pick?
+
+1284
+00:38:46,760 --> 00:38:47,600
+My opinion doesn't matter.
+
+1285
+00:38:47,600 --> 00:38:48,920
+(Almost got picked)
+Volunteers only.
+
+1286
+00:38:48,920 --> 00:38:49,640
+Okay?
+
+1287
+00:38:49,640 --> 00:38:51,160
+Any takers?
+
+1288
+00:38:51,160 --> 00:38:52,820
+I'm married.
+
+1289
+00:38:52,820 --> 00:38:53,520
+(Upholding his morals)
+
+1290
+00:38:53,520 --> 00:38:55,200
+(All taken men here)
+Me too.
+
+1291
+00:38:55,200 --> 00:38:55,720
+Stand in!
+
+1292
+00:38:55,720 --> 00:38:56,960
+You're not actually getting married.
+
+1293
+00:38:56,960 --> 00:38:58,760
+Youngest goes.
+
+1294
+00:38:58,760 --> 00:39:00,500
+(Thanks, but married)
+The youngest can't either.
+
+1295
+00:39:01,600 --> 00:39:02,320
+Got it.
+
+1296
+00:39:02,320 --> 00:39:03,720
+All four of you, gather up.
+
+1297
+00:39:03,720 --> 00:39:05,400
+We'll leave it to fate.
+
+1298
+00:39:05,640 --> 00:39:05,960
+Fine.
+
+1299
+00:39:05,960 --> 00:39:06,240
+Alright.
+
+1300
+00:39:06,240 --> 00:39:07,000
+(Fair and square)
+Okay then.
+
+1301
+00:39:07,000 --> 00:39:07,480
+Whatever happens, happens.
+
+1302
+00:39:07,480 --> 00:39:09,560
+This is called destiny.
+
+1303
+00:39:10,280 --> 00:39:11,680
+Destiny. Let's go.
+
+1304
+00:39:12,320 --> 00:39:13,920
+Rock paper scissors.
+
+1305
+00:39:13,920 --> 00:39:15,280
+Winner goes.
+
+1306
+00:39:15,600 --> 00:39:16,560
+Okay.
+
+1307
+00:39:16,560 --> 00:39:16,960
+Okay. Let's go.
+
+1308
+00:39:16,960 --> 00:39:18,440
+Rock paper scissors!
+
+1309
+00:39:18,940 --> 00:39:19,720
+(Fist vs paper)
+
+1310
+00:39:19,720 --> 00:39:20,160
+You lost.
+
+1311
+00:39:20,160 --> 00:39:20,760
+You're out.
+
+1312
+00:39:20,760 --> 00:39:21,680
+You three keep going.
+
+1313
+00:39:21,960 --> 00:39:22,560
+What?
+
+1314
+00:39:22,560 --> 00:39:23,280
+(Eliminated from groom contention)
+
+1315
+00:39:23,280 --> 00:39:24,080
+Rock paper scissors!
+
+1316
+00:39:24,100 --> 00:39:25,380
+(Fist vs paper)
+
+1317
+00:39:25,980 --> 00:39:26,380
+(Wait, that's wrong)
+
+1318
+00:39:26,380 --> 00:39:26,960
+(Hold on)
+You go!
+
+1319
+00:39:27,640 --> 00:39:27,960
+I won!
+
+1320
+00:39:27,960 --> 00:39:29,000
+(What exactly are they celebrating)
+
+1321
+00:39:29,000 --> 00:39:29,960
+You go!
+
+1322
+00:39:29,960 --> 00:39:30,840
+Congratulations!
+
+1323
+00:39:31,400 --> 00:39:33,640
+Congratulations!
+
+1324
+00:39:34,360 --> 00:39:36,880
+This is destiny.
+
+1325
+00:39:38,360 --> 00:39:39,120
+Honey...
+
+1326
+00:39:39,640 --> 00:39:40,960
+(I can explain)
+This isn't what I want.
+
+1327
+00:39:40,960 --> 00:39:41,960
+It's a fake wedding.
+
+1328
+00:39:41,960 --> 00:39:43,120
+Your wife is back in 2016.
+
+1329
+00:39:44,440 --> 00:39:44,720
+Hold on.
+
+1330
+00:39:44,720 --> 00:39:45,880
+I need to confirm something.
+
+1331
+00:39:45,880 --> 00:39:46,800
+Go ahead.
+
+1332
+00:39:50,760 --> 00:39:52,600
+Does the groom have
+to go anywhere alone?
+
+1333
+00:39:52,600 --> 00:39:53,040
+No.
+
+1334
+00:39:53,040 --> 00:39:54,420
+(The only thing he cared about)
+Okay.
+
+1335
+00:39:59,480 --> 00:40:00,840
+Okay.
+
+1336
+00:40:00,840 --> 00:40:02,000
+Everything stays right here.
+
+1337
+00:40:02,000 --> 00:40:02,860
+Good. Right here.
+
+1338
+00:40:02,860 --> 00:40:03,560
+(Now I can relax)
+
+1339
+00:40:03,560 --> 00:40:05,380
+(Just kidding)
+The bride might be a ghost though.
+
+1340
+00:40:05,920 --> 00:40:07,040
+(You're terrible)
+A ghost bride?
+
+1341
+00:40:07,040 --> 00:40:08,240
+She'll be wearing a veil.
+
+1342
+00:40:08,500 --> 00:40:09,320
+(So mean)
+
+1343
+00:40:09,320 --> 00:40:10,000
+It's a happy occasion!
+
+1344
+00:40:10,000 --> 00:40:11,200
+There's nothing like that.
+
+1345
+00:40:11,200 --> 00:40:11,640
+Right?
+
+1346
+00:40:11,820 --> 00:40:13,360
+(You're the one stirring things up)
+
+1347
+00:40:13,360 --> 00:40:14,920
+And the rest of you
+
+1348
+00:40:14,920 --> 00:40:16,600
+will be our groomsmen and bridesmaids.
+
+1349
+00:40:16,600 --> 00:40:17,000
+No problem.
+
+1350
+00:40:17,000 --> 00:40:18,160
+Hold on.
+
+1351
+00:40:18,160 --> 00:40:18,880
+One, two, three, four...
+
+1352
+00:40:19,480 --> 00:40:20,160
+There's a problem.
+
+1353
+00:40:20,160 --> 00:40:20,680
+Looks like
+
+1354
+00:40:20,680 --> 00:40:21,920
+the groomsmen and bridesmaids
+
+1355
+00:40:21,920 --> 00:40:23,200
+don't match up in numbers.
+
+1356
+00:40:23,640 --> 00:40:25,920
+We need one more guy
+
+1357
+00:40:25,920 --> 00:40:27,760
+to be a bridesmaid.
+
+1358
+00:40:29,880 --> 00:40:31,680
+A guy as a bridesmaid?
+
+1359
+00:40:31,920 --> 00:40:32,600
+Why?
+
+1360
+00:40:32,600 --> 00:40:33,120
+Here's the thing.
+
+1361
+00:40:33,120 --> 00:40:33,880
+Someone from their family
+
+1362
+00:40:33,880 --> 00:40:35,320
+is joining as a groomsman.
+
+1363
+00:40:35,320 --> 00:40:36,760
+So, now we need three bridesmaids.
+
+1364
+00:40:36,760 --> 00:40:37,560
+(Urgently hiring bridesmaid. Any gender)
+Still one short.
+
+1365
+00:40:37,840 --> 00:40:38,760
+So one of us
+
+1366
+00:40:38,760 --> 00:40:39,920
+needs to be a bridesmaid.
+
+1367
+00:40:40,360 --> 00:40:41,360
+Rock paper scissors. Loser goes.
+
+1368
+00:40:42,200 --> 00:40:42,720
+Let's go.
+
+1369
+00:40:42,720 --> 00:40:44,120
+(Competing for the spot)
+Rock paper scissors!
+
+1370
+00:40:44,180 --> 00:40:45,100
+(Scissors vs. fist)
+
+1371
+00:40:45,620 --> 00:40:46,720
+(The groom watches with amusement)
+
+1372
+00:40:46,720 --> 00:40:47,320
+You two.
+
+1373
+00:40:47,320 --> 00:40:47,860
+(Bridesmaid playoff)
+
+1374
+00:40:48,880 --> 00:40:49,800
+No way.
+
+1375
+00:40:49,800 --> 00:40:50,560
+Hold on.
+
+1376
+00:40:50,560 --> 00:40:50,960
+Okay.
+
+1377
+00:40:51,520 --> 00:40:52,640
+I'm not getting any younger.
+
+1378
+00:40:52,640 --> 00:40:53,040
+Come on.
+
+1379
+00:40:53,040 --> 00:40:53,360
+It's fine, Ning.
+
+1380
+00:40:53,360 --> 00:40:53,640
+Come on.
+
+1381
+00:40:53,640 --> 00:40:55,040
+Rock paper scissors!
+
+1382
+00:40:55,040 --> 00:40:55,760
+It's fine, I can go.
+
+1383
+00:40:55,760 --> 00:40:56,580
+(So gracious)
+Really, it's fine.
+
+1384
+00:40:56,720 --> 00:40:57,240
+No!
+
+1385
+00:40:57,240 --> 00:40:57,640
+Hold on!
+
+1386
+00:41:00,600 --> 00:41:01,600
+I want to go.
+
+1387
+00:41:02,040 --> 00:41:02,960
+Okay.
+
+1388
+00:41:02,960 --> 00:41:03,480
+Perfect.
+
+1389
+00:41:03,480 --> 00:41:04,440
+A deal's a deal.
+
+1390
+00:41:04,440 --> 00:41:05,840
+Destiny!
+
+1391
+00:41:06,920 --> 00:41:08,560
+So the groom is...
+
+1392
+00:41:08,560 --> 00:41:09,120
+Me.
+
+1393
+00:41:09,120 --> 00:41:09,680
+You it is.
+
+1394
+00:41:10,120 --> 00:41:11,520
+And the bridesmaid is you.
+
+1395
+00:41:11,520 --> 00:41:11,840
+Yep.
+
+1396
+00:41:11,840 --> 00:41:12,360
+Everyone else
+
+1397
+00:41:12,360 --> 00:41:13,880
+just play your actual gender.
+
+1398
+00:41:13,880 --> 00:41:14,280
+Got it.
+
+1399
+00:41:14,280 --> 00:41:15,040
+Yes.
+
+1400
+00:41:15,960 --> 00:41:16,760
+Come on, everyone check
+
+1401
+00:41:16,760 --> 00:41:18,120
+your outfits for later.
+
+1402
+00:41:20,540 --> 00:41:22,020
+(Looks like that one's yours)
+
+1403
+00:41:22,120 --> 00:41:22,720
+What?
+
+1404
+00:41:24,200 --> 00:41:25,720
+(It's got your name on it)
+That purple one is definitely yours.
+
+1405
+00:41:25,720 --> 00:41:26,940
+(Are you serious)
+
+1406
+00:41:27,220 --> 00:41:28,780
+(Vintage sequin purple gown)
+
+1407
+00:41:30,880 --> 00:41:32,280
+The purple is gorgeous. I want it.
+
+1408
+00:41:32,680 --> 00:41:34,320
+(Absolutely stunning)
+It'll really complement your skin tone.
+
+1409
+00:41:34,320 --> 00:41:35,480
+Destiny.
+
+1410
+00:41:35,480 --> 00:41:36,760
+My "Purple Butt" got this!
+
+1411
+00:41:36,760 --> 00:41:37,480
+(Own it)
+"Purple Butt."
+
+1412
+00:41:37,480 --> 00:41:38,360
+"Purple Butt" can do it.
+
+1413
+00:41:38,360 --> 00:41:39,480
+This one's mine.
+
+1414
+00:41:39,480 --> 00:41:40,080
+Alright, let's go upstairs
+
+1415
+00:41:40,080 --> 00:41:41,000
+and get changed.
+
+1416
+00:41:41,000 --> 00:41:42,680
+I'll wait right here for everyone!
+
+1417
+00:41:43,920 --> 00:41:46,240
+The length is just right!
+
+1418
+00:41:46,240 --> 00:41:48,280
+It was destiny that I'd wear this.
+
+1419
+00:41:48,280 --> 00:41:49,600
+Which room do we change in?
+
+1420
+00:41:49,600 --> 00:41:50,400
+Left side.
+
+1421
+00:41:50,400 --> 00:41:51,080
+(Bridal suite, do not enter)
+
+1422
+00:41:51,080 --> 00:41:51,520
+This way, right?
+
+1423
+00:41:51,520 --> 00:41:51,880
+Yes.
+
+1424
+00:41:52,440 --> 00:41:54,440
+(Excited)
+I can't wait!
+
+1425
+00:41:54,440 --> 00:41:55,660
+(Transformation in progress)
+
+1426
+00:41:57,220 --> 00:41:57,720
+(Rest and Recharge)
+
+1427
+00:41:57,720 --> 00:41:58,420
+(Resting resets battle fatigue.
+Recharging restores energy.)
+
+1428
+00:41:58,420 --> 00:41:58,860
+(If you want to go far in this dungeon,)
+
+1429
+00:41:58,880 --> 00:41:59,500
+(treat rest and recharge
+as passive skills.)
+
+1430
+00:42:29,520 --> 00:42:30,840
+Let's go, Purple.
+
+1431
+00:42:30,840 --> 00:42:32,720
+This looks incredible.
+
+1432
+00:42:32,720 --> 00:42:34,200
+Almost too good.
+
+1433
+00:42:34,200 --> 00:42:35,360
+Come on, everyone. Let's move.
+
+1434
+00:42:36,080 --> 00:42:36,560
+Let's go.
+
+1435
+00:42:38,340 --> 00:42:39,500
+(Shy groom)
+
+1436
+00:42:39,740 --> 00:42:41,380
+(Dominant bridesmaid)
+
+1437
+00:42:41,900 --> 00:42:45,580
+(Cool-as-ice groomsman)
+
+1438
+00:42:48,620 --> 00:42:49,980
+(Confident)
+
+1439
+00:42:52,280 --> 00:42:53,280
+What are you laughing at?
+
+1440
+00:42:53,280 --> 00:42:53,920
+Not bad, right?
+
+1441
+00:42:53,920 --> 00:42:54,440
+Not bad.
+
+1442
+00:42:54,440 --> 00:42:54,960
+Why are you...
+
+1443
+00:42:54,960 --> 00:42:55,740
+(Sudden self-doubt, but make it cute)
+
+1444
+00:42:55,880 --> 00:42:56,800
+Thank you.
+
+1445
+00:42:56,800 --> 00:42:57,760
+(Other groomsman in position)
+Groomsmen, bridesmaids,
+
+1446
+00:42:57,760 --> 00:42:58,640
+over here please.
+
+1447
+00:43:01,280 --> 00:43:01,880
+Why didn't
+
+1448
+00:43:01,880 --> 00:43:03,720
+you two greet me when you saw me?
+
+1449
+00:43:07,380 --> 00:43:09,060
+(An Er, 20-years-younger edition)
+
+1450
+00:43:09,820 --> 00:43:10,940
+(Wait, isn't that a familiar face?)
+
+1451
+00:43:11,000 --> 00:43:11,840
+You look so worn out!
+
+1452
+00:43:11,840 --> 00:43:12,820
+(One day apart feels like twenty years)
+
+1453
+00:43:13,800 --> 00:43:14,840
+Uncle.
+
+1454
+00:43:14,840 --> 00:43:15,480
+Uncle Er.
+
+1455
+00:43:16,240 --> 00:43:17,560
+Er!
+
+1456
+00:43:18,200 --> 00:43:18,880
+Brother!
+
+1457
+00:43:19,280 --> 00:43:20,040
+Uncle Er.
+
+1458
+00:43:20,040 --> 00:43:21,520
+Brother!
+
+1459
+00:43:21,800 --> 00:43:22,720
+How does he know us?
+
+1460
+00:43:24,240 --> 00:43:24,720
+Wait.
+
+1461
+00:43:24,720 --> 00:43:26,040
+How old were we in 1996?
+
+1462
+00:43:26,040 --> 00:43:26,840
+Mid-twenties.
+
+1463
+00:43:26,840 --> 00:43:27,620
+(24 years old, 3 years old)
+
+1464
+00:43:27,960 --> 00:43:28,880
+In 1996, we were
+
+1465
+00:43:29,520 --> 00:43:29,880
+five.
+
+1466
+00:43:29,880 --> 00:43:30,580
+(5 years old)
+
+1467
+00:43:30,800 --> 00:43:31,640
+You two don't recognize him?
+
+1468
+00:43:31,640 --> 00:43:32,760
+(Too young back then)
+You two weren't...
+
+1469
+00:43:32,960 --> 00:43:33,840
+Mr. Wu, hurry up!
+
+1470
+00:43:33,840 --> 00:43:35,120
+Where are the flower children?
+
+1471
+00:43:35,120 --> 00:43:36,680
+(Another familiar face)
+There's Mr. Wu also.
+
+1472
+00:43:37,200 --> 00:43:38,160
+Let me see what Mr. Wu
+
+1473
+00:43:38,160 --> 00:43:39,480
+looked like back in 1996.
+
+1474
+00:43:39,480 --> 00:43:40,480
+See if it's really him.
+
+1475
+00:43:42,440 --> 00:43:43,920
+Mr. Wu!
+
+1476
+00:43:44,840 --> 00:43:46,360
+Coming!
+
+1477
+00:43:48,200 --> 00:43:49,720
+I've been with this family twenty years.
+
+1478
+00:43:49,720 --> 00:43:50,660
+(Mr. Wu, first day on the job edition)
+
+1479
+00:43:56,680 --> 00:43:57,440
+It really is him.
+
+1480
+00:43:57,440 --> 00:43:58,840
+Isn't that you guys?
+
+1481
+00:43:59,640 --> 00:44:01,880
+Is that An Xiaowen you're holding?
+
+1482
+00:44:04,680 --> 00:44:05,960
+An Xiaoding.
+
+1483
+00:44:06,600 --> 00:44:08,520
+Miss Xiaowen.
+
+1484
+00:44:09,040 --> 00:44:09,440
+Miss Xiaowen.
+
+1485
+00:44:09,440 --> 00:44:10,640
+Xiaowen!
+
+1486
+00:44:11,800 --> 00:44:13,480
+You're so pretty.
+
+1487
+00:44:13,480 --> 00:44:15,160
+I want to be this pretty when I grow up.
+
+1488
+00:44:15,160 --> 00:44:17,240
+You want to look like me
+when you grow up?
+
+1489
+00:44:17,240 --> 00:44:19,960
+You'll be even prettier than me.
+
+1490
+00:44:19,960 --> 00:44:21,640
+Mr. He.
+
+1491
+00:44:22,680 --> 00:44:23,520
+Hello.
+
+1492
+00:44:23,520 --> 00:44:24,720
+You're so cool.
+
+1493
+00:44:24,720 --> 00:44:25,320
+You're cool too.
+
+1494
+00:44:25,320 --> 00:44:26,480
+I want to be this cool someday!
+
+1495
+00:44:27,040 --> 00:44:27,640
+You will be.
+
+1496
+00:44:27,640 --> 00:44:28,600
+Way cooler than me.
+
+1497
+00:44:28,600 --> 00:44:31,440
+Mr. Ding.
+
+1498
+00:44:31,440 --> 00:44:32,560
+Is that little Ding?
+
+1499
+00:44:33,360 --> 00:44:34,680
+Hello, Mr. Ding.
+
+1500
+00:44:34,680 --> 00:44:35,720
+Hello.
+
+1501
+00:44:35,720 --> 00:44:36,640
+Look at you as a kid.
+
+1502
+00:44:36,640 --> 00:44:37,640
+An Xiaoding.
+
+1503
+00:44:37,640 --> 00:44:38,880
+Do you know who I am?
+
+1504
+00:44:38,880 --> 00:44:39,640
+Who am I?
+
+1505
+00:44:41,120 --> 00:44:42,720
+I'm An Xiaoding too.
+
+1506
+00:44:42,720 --> 00:44:43,800
+Mr. Ding.
+
+1507
+00:44:43,800 --> 00:44:45,200
+Anything you want to say?
+
+1508
+00:44:46,480 --> 00:44:49,040
+I want to be as cool
+as you when I grow up.
+
+1509
+00:44:49,040 --> 00:44:50,280
+Can't you just aim to be as cool as me?
+
+1510
+00:44:50,280 --> 00:44:51,060
+(I'm literally your future self)
+
+1511
+00:44:52,600 --> 00:44:54,200
+You'll definitely be even cooler.
+
+1512
+00:44:54,200 --> 00:44:54,840
+Right?
+
+1513
+00:44:56,740 --> 00:44:58,020
+(Love to hear that)
+
+1514
+00:44:58,040 --> 00:44:59,680
+Come on, strike a pose.
+
+1515
+00:44:59,680 --> 00:45:00,040
+Look where?
+
+1516
+00:45:00,040 --> 00:45:00,960
+Oh, over there.
+
+1517
+00:45:00,960 --> 00:45:01,680
+This way.
+
+1518
+00:45:01,680 --> 00:45:03,580
+Perfect.
+
+1519
+00:45:05,800 --> 00:45:07,000
+Nice.
+
+1520
+00:45:08,320 --> 00:45:09,880
+Come on, strike a pose.
+
+1521
+00:45:15,320 --> 00:45:16,940
+(That's my boy)
+See that?
+
+1522
+00:45:17,960 --> 00:45:19,600
+Had it from day one.
+
+1523
+00:45:19,760 --> 00:45:21,160
+Yeah, looks more like you actually.
+
+1524
+00:45:21,160 --> 00:45:22,080
+Like me.
+
+1525
+00:45:23,520 --> 00:45:25,560
+Alright. Counting down from three.
+
+1526
+00:45:25,560 --> 00:45:26,960
+Our bride is coming.
+
+1527
+00:45:26,960 --> 00:45:27,680
+Everyone ready?
+
+1528
+00:45:27,680 --> 00:45:28,880
+Ready.
+
+1529
+00:45:28,880 --> 00:45:30,460
+(Bridesmaid standby)
+
+1530
+00:45:30,580 --> 00:45:32,500
+(Groomsmen standby)
+
+1531
+00:45:32,900 --> 00:45:34,320
+(Groom standby)
+
+1532
+00:45:34,320 --> 00:45:35,480
+Alright. Here we go.
+
+1533
+00:45:35,480 --> 00:45:35,960
+Three.
+
+1534
+00:45:36,760 --> 00:45:37,360
+Two.
+
+1535
+00:45:38,840 --> 00:45:39,200
+One.
+
+1536
+00:45:39,960 --> 00:45:41,680
+I've waited so long for this day.
+
+1537
+00:45:41,680 --> 00:45:42,640
+My bride!
+
+1538
+00:45:49,180 --> 00:45:50,180
+(An family. An San. An Songqiu.)
+
+1539
+00:46:03,360 --> 00:46:04,560
+Beautiful!
+
+1540
+00:46:19,000 --> 00:46:20,120
+Everyone can see
+
+1541
+00:46:20,120 --> 00:46:23,440
+the founder of An Glass Factory,
+
+1542
+00:46:23,440 --> 00:46:25,440
+Mr. An
+
+1543
+00:46:25,440 --> 00:46:27,680
+walking the bride down the aisle.
+
+1544
+00:46:27,680 --> 00:46:29,960
+Please now place the bride's hand
+
+1545
+00:46:29,960 --> 00:46:32,440
+into the groom's.
+
+1546
+00:46:32,440 --> 00:46:33,860
+(Fully in character)
+
+1547
+00:46:35,160 --> 00:46:36,440
+Groom.
+
+1548
+00:46:36,760 --> 00:46:38,600
+Congratulations!
+
+1549
+00:46:41,880 --> 00:46:43,120
+A round of applause for them.
+
+1550
+00:46:45,740 --> 00:46:47,140
+(My boy's all grown up)
+
+1551
+00:46:48,160 --> 00:46:49,080
+Congratulations.
+
+1552
+00:46:49,640 --> 00:46:51,440
+Please, let our founder
+
+1553
+00:46:51,440 --> 00:46:52,960
+take a seat.
+
+1554
+00:46:53,640 --> 00:46:56,120
+In this joyful moment,
+
+1555
+00:46:56,640 --> 00:46:58,640
+(Tearing up)
+our groom is moved to tears.
+
+1556
+00:46:58,640 --> 00:47:01,200
+Overwhelmed with joy.
+
+1557
+00:47:03,880 --> 00:47:04,720
+♪Waited so long♪
+
+1558
+00:47:04,720 --> 00:47:06,880
+(The moment moved him to song)
+♪Finally here today♪
+
+1559
+00:47:08,580 --> 00:47:09,940
+(Way too into it)
+
+1560
+00:47:10,120 --> 00:47:10,760
+Groom,
+
+1561
+00:47:11,200 --> 00:47:12,640
+seeing your bride today,
+
+1562
+00:47:12,640 --> 00:47:13,880
+any thoughts?
+
+1563
+00:47:20,440 --> 00:47:21,200
+Never dared imagine.
+
+1564
+00:47:24,080 --> 00:47:26,360
+Never dared imagine
+
+1565
+00:47:26,360 --> 00:47:28,560
+(A road he never envisioned)
+seeing this someday.
+
+1566
+00:47:28,560 --> 00:47:30,040
+Doesn't matter if you dared.
+
+1567
+00:47:30,040 --> 00:47:30,920
+It's not actually you anyway.
+
+1568
+00:47:30,920 --> 00:47:31,700
+(Just run through the motions)
+
+1569
+00:47:31,760 --> 00:47:32,280
+You're overthinking it.
+
+1570
+00:47:32,280 --> 00:47:32,640
+Way overthinking.
+
+1571
+00:47:32,780 --> 00:47:33,980
+(All that brain power for nothing)
+
+1572
+00:47:35,640 --> 00:47:36,640
+Looks like the bride
+
+1573
+00:47:36,640 --> 00:47:37,320
+has something to say.
+
+1574
+00:47:38,920 --> 00:47:42,240
+Today is a very important day for me.
+
+1575
+00:47:47,280 --> 00:47:49,560
+My brothers,
+
+1576
+00:47:49,860 --> 00:47:51,080
+(Ke)
+
+1577
+00:47:51,080 --> 00:47:51,760
+sisters-in-law,
+
+1578
+00:47:52,280 --> 00:47:53,520
+nieces and nephews, all here.
+
+1579
+00:47:53,520 --> 00:47:54,760
+(sister-in-law, niece, nephew)
+
+1580
+00:47:54,760 --> 00:47:56,160
+In this moment,
+
+1581
+00:47:56,160 --> 00:47:57,720
+I'm already so happy.
+
+1582
+00:48:02,440 --> 00:48:03,400
+Somehow I always knew
+
+1583
+00:48:04,400 --> 00:48:06,160
+this day was coming.
+
+1584
+00:48:08,600 --> 00:48:10,960
+And now, with all of you
+
+1585
+00:48:10,960 --> 00:48:12,240
+as my witness,
+
+1586
+00:48:14,000 --> 00:48:15,120
+I walk toward my destiny.
+
+1587
+00:48:20,640 --> 00:48:21,800
+What?
+
+1588
+00:48:22,120 --> 00:48:23,160
+That sounded
+
+1589
+00:48:23,160 --> 00:48:23,920
+a little ominous.
+
+1590
+00:48:24,100 --> 00:48:26,420
+(A sense of dread)
+
+1591
+00:48:30,320 --> 00:48:30,880
+What's happening?
+
+1592
+00:48:38,520 --> 00:48:38,840
+She's...
+
+1593
+00:48:38,840 --> 00:48:40,880
+bleeding from her mouth.
+
+1594
+00:48:41,600 --> 00:48:42,520
+She's coughing up blood.
+
+1595
+00:48:42,520 --> 00:48:43,560
+It's okay.
+
+1596
+00:48:44,740 --> 00:48:54,340
+(Special prop for narrative purposes,
+no harmful intent)
+
+1597
+00:48:54,360 --> 00:48:55,640
+She's dead.
+
+1598
+00:48:55,640 --> 00:48:56,840
+Is she dead?
+
+1599
+00:48:57,940 --> 00:49:00,820
+(Everyone witnesses the
+second curse unfold)
+
+1600
+00:49:00,820 --> 00:49:03,460
+(Special prop for narrative purposes,
+no harmful intent)
+
+1601
+00:49:03,460 --> 00:49:04,060
+(This segment contains horror content)
+
+1602
+00:49:04,060 --> 00:49:04,840
+(Viewer discretion advised for minors)
+
+1603
+00:49:04,840 --> 00:49:05,520
+Nobody move!
+
+1604
+00:49:06,000 --> 00:49:06,720
+Nobody move!
+
+1605
+00:49:07,200 --> 00:49:08,720
+Don't look.
+
+1606
+00:49:08,720 --> 00:49:09,480
+(Covering her eyes)
+I've got you.
+
+1607
+00:49:10,000 --> 00:49:11,400
+Power's out. It'll come back.
+
+1608
+00:49:11,400 --> 00:49:12,520
+It's okay.
+
+1609
+00:49:12,960 --> 00:49:14,240
+Can you protect me too?
+
+1610
+00:49:14,240 --> 00:49:14,920
+You protect me.
+
+1611
+00:49:14,920 --> 00:49:16,100
+(Wen is scared too)
+We protect each other.
+
+1612
+00:49:19,760 --> 00:49:20,920
+It's the Puppet!
+
+1613
+00:49:23,760 --> 00:49:24,880
+It's the Puppet!
+
+1614
+00:49:24,880 --> 00:49:25,680
+It's here!
+
+1615
+00:49:28,340 --> 00:49:30,180
+(Comforting)
+
+1616
+00:49:30,200 --> 00:49:30,880
+When the Puppet appears,
+
+1617
+00:49:30,880 --> 00:49:31,760
+someone dies.
+
+1618
+00:49:31,820 --> 00:49:33,740
+(The An family curse has struck)
+
+1619
+00:49:34,200 --> 00:49:35,280
+I'm going to have nightmares tonight.
+
+1620
+00:49:36,800 --> 00:49:37,680
+You all saw the Puppet...
+
+1621
+00:49:37,680 --> 00:49:38,300
+(Lights back on)
+
+1622
+00:49:44,700 --> 00:49:46,580
+(What is going on)
+
+1623
+00:49:46,960 --> 00:49:47,880
+You scared me.
+
+1624
+00:49:48,600 --> 00:49:49,240
+What happened?
+
+1625
+00:49:49,240 --> 00:49:50,440
+Why did the bridesmaid steal the groom?
+
+1626
+00:49:50,440 --> 00:49:51,120
+(Bridesmaid steals the groom)
+What's going on?
+
+1627
+00:49:51,120 --> 00:49:51,800
+It's fine.
+
+1628
+00:49:51,800 --> 00:49:52,400
+Hold on.
+
+1629
+00:49:53,600 --> 00:49:54,440
+What's happening?
+
+1630
+00:49:56,820 --> 00:49:58,020
+(Textbook form)
+
+1631
+00:49:58,520 --> 00:50:00,600
+Groom, why are you holding
+the bridesmaid's hand?
+
+1632
+00:50:01,500 --> 00:50:04,140
+(Textbook form, muscle
+memory at this point)
+
+1633
+00:50:04,140 --> 00:50:06,260
+(Peak Dad mode)
+
+1634
+00:50:06,280 --> 00:50:08,200
+It's fine.
+
+1635
+00:50:08,200 --> 00:50:09,280
+(Let's all just forget this)
+
+1636
+00:50:09,280 --> 00:50:10,800
+Hey, where did the bride go?
+
+1637
+00:50:12,620 --> 00:50:14,100
+(Bride An San has vanished)
+
+1638
+00:50:16,560 --> 00:50:17,200
+Where is she?
+
+1639
+00:50:23,840 --> 00:50:24,440
+Come on, sir.
+
+1640
+00:50:27,320 --> 00:50:28,680
+Everyone, please listen.
+
+1641
+00:50:29,520 --> 00:50:30,760
+I didn't expect
+
+1642
+00:50:30,760 --> 00:50:32,000
+something like this to happen today.
+
+1643
+00:50:32,840 --> 00:50:33,560
+Who could have known.
+
+1644
+00:50:34,960 --> 00:50:35,680
+The wedding is cancelled.
+
+1645
+00:50:37,800 --> 00:50:38,320
+Everyone,
+
+1646
+00:50:38,320 --> 00:50:39,560
+please leave.
+
+1647
+00:50:39,920 --> 00:50:40,440
+Why do we have to leave?
+
+1648
+00:50:40,440 --> 00:50:41,560
+Why?
+
+1649
+00:50:41,560 --> 00:50:42,520
+Everyone out.
+
+1650
+00:50:42,520 --> 00:50:43,120
+What's going on?
+
+1651
+00:50:43,120 --> 00:50:44,360
+The rings haven't even
+been exchanged yet.
+
+1652
+00:50:46,180 --> 00:50:47,780
+(Everyone leaves)
+
+1653
+00:50:47,800 --> 00:50:49,120
+Why do we have to leave?
+
+1654
+00:50:50,820 --> 00:50:52,580
+(An Songqiu leaves)
+
+1655
+00:50:53,040 --> 00:50:53,720
+Don't cancel it.
+
+1656
+00:50:53,720 --> 00:50:54,600
+(We haven't even eaten yet)
+
+1657
+00:50:54,600 --> 00:50:56,640
+You were only standing in to begin with.
+
+1658
+00:50:56,640 --> 00:50:57,280
+Too into it.
+
+1659
+00:50:57,340 --> 00:50:58,060
+(Fully immersed)
+
+1660
+00:50:58,540 --> 00:51:00,020
+(Ding really wanted that dinner)
+
+1661
+00:51:00,360 --> 00:51:02,000
+Alright, we need to get out of here too.
+
+1662
+00:51:03,840 --> 00:51:04,760
+Wait, don't go yet. What about us?
+
+1663
+00:51:04,760 --> 00:51:05,520
+Where do we go?
+
+1664
+00:51:05,520 --> 00:51:06,200
+I didn't expect
+
+1665
+00:51:06,200 --> 00:51:07,080
+any of this to happen.
+
+1666
+00:51:07,680 --> 00:51:08,280
+You're not leaving.
+
+1667
+00:51:08,280 --> 00:51:09,240
+(Got him)
+I can't leave?
+
+1668
+00:51:09,240 --> 00:51:10,080
+You're not leaving.
+
+1669
+00:51:10,360 --> 00:51:12,000
+Right after the bride collapsed,
+
+1670
+00:51:12,000 --> 00:51:12,640
+she just vanished.
+
+1671
+00:51:12,640 --> 00:51:13,240
+I have no idea.
+
+1672
+00:51:13,240 --> 00:51:14,800
+You're not saying I did it?
+
+1673
+00:51:15,200 --> 00:51:15,760
+Nothing to do with you.
+
+1674
+00:51:15,760 --> 00:51:16,840
+Then take this diamond ring
+
+1675
+00:51:16,840 --> 00:51:17,560
+as an apology.
+
+1676
+00:51:17,560 --> 00:51:18,420
+(At least nobody leaves empty-handed)
+
+1677
+00:51:19,200 --> 00:51:20,000
+I can't take that.
+
+1678
+00:51:20,000 --> 00:51:20,600
+(Has standards)
+I really can't.
+
+1679
+00:51:20,840 --> 00:51:22,520
+You're surprisingly principled.
+
+1680
+00:51:22,720 --> 00:51:24,560
+The wontons in Chongqing
+are amazing though.
+
+1681
+00:51:24,560 --> 00:51:24,960
+Really?
+
+1682
+00:51:24,960 --> 00:51:26,400
+(Genuinely hungry)
+I'll have to try them sometime.
+
+1683
+00:51:26,680 --> 00:51:28,040
+When these kids grow up
+
+1684
+00:51:28,040 --> 00:51:29,360
+and get married, they'll
+all come find you.
+
+1685
+00:51:30,080 --> 00:51:31,160
+Deal. You all come find me.
+
+1686
+00:51:31,160 --> 00:51:32,120
+(Quest complete)
+We'll all come find you.
+
+1687
+00:51:32,120 --> 00:51:33,200
+(Bride missing edition)
+Okay, I really need to go now.
+
+1688
+00:51:33,200 --> 00:51:33,920
+Don't lose the ring.
+
+1689
+00:51:33,920 --> 00:51:35,000
+They'll come find you for it.
+
+1690
+00:51:35,880 --> 00:51:36,800
+They'll come find me for it?
+
+1691
+00:51:38,040 --> 00:51:39,560
+Just don't lose it then.
+
+1692
+00:51:39,980 --> 00:51:40,480
+(Fearless)
+
+1693
+00:51:40,480 --> 00:51:41,640
+The bride will come find you for it.
+
+1694
+00:51:42,840 --> 00:51:44,040
+Is the ring okay to keep?
+
+1695
+00:51:44,040 --> 00:51:44,400
+Take it.
+
+1696
+00:51:44,400 --> 00:51:45,600
+(Still a little scared)
+The bride will come to you for it.
+
+1697
+00:51:45,600 --> 00:51:46,160
+Just take it.
+
+1698
+00:51:46,520 --> 00:51:47,080
+Terrifying.
+
+1699
+00:51:48,000 --> 00:51:49,040
+Please don't come find me.
+
+1700
+00:51:49,040 --> 00:51:49,880
+(Scared)
+
+1701
+00:51:49,880 --> 00:51:50,840
+Bold of you.
+
+1702
+00:51:51,160 --> 00:51:52,480
+Very bold.
+
+1703
+00:51:53,840 --> 00:51:54,480
+Hold on.
+
+1704
+00:51:54,480 --> 00:51:55,760
+Today is the 25th, right?
+
+1705
+00:51:55,760 --> 00:51:57,160
+1996,
+
+1706
+00:51:57,160 --> 00:51:58,160
+March 25th.
+
+1707
+00:51:58,160 --> 00:51:58,440
+Right.
+
+1708
+00:51:58,440 --> 00:51:59,240
+So we just
+
+1709
+00:51:59,240 --> 00:52:00,200
+witnessed her
+
+1710
+00:52:00,960 --> 00:52:01,440
+death.
+
+1711
+00:52:01,580 --> 00:52:02,880
+(Witnessed An San's death firsthand)
+
+1712
+00:52:02,880 --> 00:52:03,320
+Exactly.
+
+1713
+00:52:03,640 --> 00:52:05,120
+We just reconstructed it.
+
+1714
+00:52:05,540 --> 00:52:06,180
+(1996 case recap)
+
+1715
+00:52:06,180 --> 00:52:07,020
+(Victim: An San /
+Location: wedding venue)
+
+1716
+00:52:07,020 --> 00:52:07,740
+(Time of death: 1996.3.25 /
+Cause: coughed up blood)
+
+1717
+00:52:07,760 --> 00:52:09,430
+(An family curse investigation progress)
+What we just witnessed,
+
+1718
+00:52:09,430 --> 00:52:10,360
+(Case 2, 1996: 10%)
+was
+
+1719
+00:52:10,360 --> 00:52:11,040
+(Case 3, 2016: 20%)
+her saying,
+
+1720
+00:52:11,040 --> 00:52:12,720
+"I've finally waited for this day."
+
+1721
+00:52:13,440 --> 00:52:14,200
+Somehow I always knew
+
+1722
+00:52:15,440 --> 00:52:17,240
+this day was coming.
+
+1723
+00:52:17,240 --> 00:52:19,200
+I walk toward my destiny.
+
+1724
+00:52:19,600 --> 00:52:20,240
+And now, with all of you
+
+1725
+00:52:21,240 --> 00:52:23,280
+as my witness,
+
+1726
+00:52:25,000 --> 00:52:26,120
+I walk toward my destiny.
+
+1727
+00:52:26,760 --> 00:52:27,440
+And at that moment,
+
+1728
+00:52:28,800 --> 00:52:29,480
+she coughed up blood.
+
+1729
+00:52:30,120 --> 00:52:31,360
+And made an X with her arms.
+
+1730
+00:52:32,720 --> 00:52:33,600
+Like this.
+
+1731
+00:52:34,360 --> 00:52:35,080
+This is the X.
+
+1732
+00:52:35,320 --> 00:52:35,960
+And her face was
+
+1733
+00:52:35,960 --> 00:52:36,560
+O.
+
+1734
+00:52:38,540 --> 00:52:41,500
+(Did An San's dying message
+point to the family curse?)
+
+1735
+00:52:41,520 --> 00:52:42,600
+(An family curse investigation progress)
+And she died right in front of us,
+
+1736
+00:52:42,600 --> 00:52:43,440
+(Case 2, 1996: 10%)
+with no killer in sight.
+
+1737
+00:52:43,440 --> 00:52:45,440
+(Case 3, 2016: 20%)
+An San may have taken her own life.
+
+1738
+00:52:46,640 --> 00:52:48,160
+But then why did she suddenly vanish?
+
+1739
+00:52:51,020 --> 00:52:51,500
+(1996 case recap)
+
+1740
+00:52:51,500 --> 00:52:52,000
+(Victim: An San /
+Location: wedding venue)
+
+1741
+00:52:52,000 --> 00:52:52,620
+(Time of death: 1996.3.25 /
+Cause: suspected suicide)
+
+1742
+00:52:52,640 --> 00:52:53,060
+(Anomaly: body missing)
+
+1743
+00:52:53,080 --> 00:52:54,920
+Her body was moved?
+
+1744
+00:53:02,180 --> 00:53:03,820
+(Holding each other close)
+
+1745
+00:53:07,820 --> 00:53:09,820
+(Crying coming from somewhere)
+
+1746
+00:53:11,000 --> 00:53:12,640
+No. Don't do this.
+
+1747
+00:53:13,000 --> 00:53:13,840
+Jin.
+
+1748
+00:53:13,840 --> 00:53:14,760
+Just us two.
+
+1749
+00:53:16,180 --> 00:53:17,900
+(Moving forward bravely)
+
+1750
+00:53:19,600 --> 00:53:20,160
+Under the table.
+
+1751
+00:53:20,960 --> 00:53:21,240
+Here.
+
+1752
+00:53:24,800 --> 00:53:25,360
+What happened?
+
+1753
+00:53:26,360 --> 00:53:27,520
+There's a child.
+
+1754
+00:53:28,520 --> 00:53:29,480
+Poor thing.
+
+1755
+00:53:30,280 --> 00:53:30,760
+What's wrong?
+
+1756
+00:53:33,120 --> 00:53:34,160
+It's little Ding.
+
+1757
+00:53:35,340 --> 00:53:37,260
+(What's wrong with me)
+
+1758
+00:53:37,560 --> 00:53:37,840
+What happened?
+
+1759
+00:53:37,840 --> 00:53:38,520
+Come out.
+
+1760
+00:53:38,880 --> 00:53:39,640
+It's okay.
+
+1761
+00:53:43,480 --> 00:53:44,000
+What's wrong?
+
+1762
+00:53:44,480 --> 00:53:45,000
+Talk to me.
+
+1763
+00:53:45,000 --> 00:53:45,520
+My hand
+
+1764
+00:53:45,520 --> 00:53:46,960
+hurts here.
+
+1765
+00:53:48,040 --> 00:53:48,560
+Hurts?
+
+1766
+00:53:48,560 --> 00:53:49,360
+Here?
+
+1767
+00:53:49,360 --> 00:53:50,000
+Let me see.
+
+1768
+00:53:50,000 --> 00:53:50,840
+Pull it up.
+
+1769
+00:53:51,680 --> 00:53:52,960
+What happened?
+
+1770
+00:53:52,960 --> 00:53:53,880
+How did you get hurt?
+
+1771
+00:53:53,940 --> 00:53:55,900
+(An Xiaoding has multiple injuries)
+
+1772
+00:53:55,920 --> 00:53:57,000
+How did this happen?
+
+1773
+00:53:57,000 --> 00:53:57,840
+Who did this?
+
+1774
+00:54:01,480 --> 00:54:02,400
+I don't know.
+
+1775
+00:54:02,400 --> 00:54:03,320
+You don't know?
+
+1776
+00:54:04,960 --> 00:54:05,640
+What's wrong?
+
+1777
+00:54:06,080 --> 00:54:06,840
+What do you want to say?
+
+1778
+00:54:06,840 --> 00:54:07,240
+Go ahead.
+
+1779
+00:54:08,760 --> 00:54:09,480
+He can't say.
+
+1780
+00:54:11,880 --> 00:54:13,240
+This one's fresh.
+
+1781
+00:54:13,240 --> 00:54:14,240
+But this one's old.
+
+1782
+00:54:14,380 --> 00:54:16,860
+(Old wound / fresh wound)
+
+1783
+00:54:17,120 --> 00:54:17,760
+Which means
+
+1784
+00:54:17,760 --> 00:54:19,880
+he's been beaten regularly.
+
+1785
+00:54:19,880 --> 00:54:21,160
+Abused.
+
+1786
+00:54:21,840 --> 00:54:22,880
+Did someone use to hit you?
+
+1787
+00:54:32,080 --> 00:54:33,080
+Yes. They did.
+
+1788
+00:54:40,220 --> 00:54:42,020
+(Why was An Xiaoding beaten)
+
+1789
+00:54:42,040 --> 00:54:42,960
+Let me hold you.
+
+1790
+00:54:42,960 --> 00:54:43,960
+Okay.
+
+1791
+00:54:50,360 --> 00:54:50,720
+It's okay.
+
+1792
+00:54:50,720 --> 00:54:51,480
+Don't cry.
+
+1793
+00:54:51,480 --> 00:54:53,480
+(Young self and older self)
+
+1794
+00:54:53,480 --> 00:54:57,420
+(Holding tight through time,
+anchoring each other)
+
+1795
+00:55:01,440 --> 00:55:02,360
+It's okay. Don't cry.
+
+1796
+00:55:02,880 --> 00:55:03,280
+Bro,
+
+1797
+00:55:03,760 --> 00:55:05,120
+Aunt San has a treasure box.
+
+1798
+00:55:05,520 --> 00:55:06,600
+Whenever I was in pain,
+
+1799
+00:55:07,040 --> 00:55:08,880
+it would make the pain fly away.
+
+1800
+00:55:09,360 --> 00:55:10,080
+Bro,
+
+1801
+00:55:10,400 --> 00:55:12,400
+come with me to get it.
+
+1802
+00:55:12,400 --> 00:55:13,000
+Okay.
+
+1803
+00:55:16,880 --> 00:55:17,520
+You sure you want to bring
+
+1804
+00:55:17,520 --> 00:55:18,880
+the scaredy-cat me along?
+
+1805
+00:55:20,000 --> 00:55:20,800
+Lift this up?
+
+1806
+00:55:22,240 --> 00:55:22,680
+This one?
+
+1807
+00:55:23,780 --> 00:55:24,820
+(Aunt San's treasure box)
+
+1808
+00:55:25,320 --> 00:55:25,680
+Okay.
+
+1809
+00:55:26,160 --> 00:55:26,920
+Should we open it?
+
+1810
+00:55:31,800 --> 00:55:32,960
+So much jewelry.
+
+1811
+00:55:34,580 --> 00:55:36,580
+(First aid kit)
+
+1812
+00:55:37,320 --> 00:55:38,160
+For Ding,
+
+1813
+00:55:38,160 --> 00:55:39,640
+pain pain, fly away.
+
+1814
+00:55:40,080 --> 00:55:40,840
+In here there's
+
+1815
+00:55:40,840 --> 00:55:41,520
+medicated oil.
+
+1816
+00:55:42,160 --> 00:55:42,840
+For bruises and sprains.
+
+1817
+00:55:42,840 --> 00:55:44,360
+Bandages.
+
+1818
+00:55:44,360 --> 00:55:45,480
+And antiseptic.
+
+1819
+00:55:45,480 --> 00:55:46,240
+Antiseptic.
+
+1820
+00:55:46,800 --> 00:55:47,560
+This tells us Ding
+
+1821
+00:55:47,560 --> 00:55:49,280
+(Medicated oil)
+was being abused long-term.
+
+1822
+00:55:50,520 --> 00:55:51,040
+Yes.
+
+1823
+00:55:51,040 --> 00:55:53,400
+Because I was always getting hit.
+
+1824
+00:55:53,400 --> 00:55:54,000
+Getting
+
+1825
+00:55:54,000 --> 00:55:54,480
+abused.
+
+1826
+00:55:54,480 --> 00:55:55,000
+And
+
+1827
+00:55:55,000 --> 00:55:56,320
+Aunt San was the one warm place I had.
+
+1828
+00:55:56,320 --> 00:55:57,760
+Whenever I was in pain,
+
+1829
+00:55:58,080 --> 00:55:59,120
+she'd come comfort me.
+
+1830
+00:56:00,160 --> 00:56:01,160
+Put medicine on me.
+
+1831
+00:56:01,160 --> 00:56:01,840
+And tell me,
+
+1832
+00:56:01,840 --> 00:56:02,800
+"Pain pain, fly away."
+
+1833
+00:56:02,800 --> 00:56:04,040
+"Don't worry. Don't be scared."
+
+1834
+00:56:04,360 --> 00:56:05,520
+"Aunt San will always be here."
+
+1835
+00:56:05,920 --> 00:56:07,120
+"You're not the only one."
+
+1836
+00:56:07,120 --> 00:56:08,040
+"You're not alone."
+
+1837
+00:56:11,600 --> 00:56:12,360
+Mr. Ding!
+
+1838
+00:56:12,860 --> 00:56:15,460
+(Searching for the young Mr. Ding)
+
+1839
+00:56:15,480 --> 00:56:16,240
+Mr. Ding!
+
+1840
+00:56:16,480 --> 00:56:17,320
+You scared me!
+
+1841
+00:56:17,320 --> 00:56:18,860
+You scared me too!
+
+1842
+00:56:18,860 --> 00:56:19,740
+(Scare for a scare)
+
+1843
+00:56:20,000 --> 00:56:20,680
+Mr. Ding, come on.
+
+1844
+00:56:20,680 --> 00:56:21,080
+Alright.
+
+1845
+00:56:21,080 --> 00:56:22,080
+What are you doing here?
+
+1846
+00:56:22,080 --> 00:56:22,720
+Come on. Let's go.
+
+1847
+00:56:23,000 --> 00:56:24,840
+My whole back went cold.
+
+1848
+00:56:24,840 --> 00:56:25,640
+I've got you.
+
+1849
+00:56:27,240 --> 00:56:27,880
+Look at this first.
+
+1850
+00:56:29,240 --> 00:56:30,160
+"Ding, just remember."
+
+1851
+00:56:30,160 --> 00:56:31,120
+"Erasers are expensive."
+
+1852
+00:56:31,120 --> 00:56:32,120
+"Don't lose them."
+
+1853
+00:56:32,440 --> 00:56:33,120
+"Ding, just remember."
+
+1854
+00:56:33,120 --> 00:56:34,440
+"Clothes are expensive.
+Don't get them dirty."
+
+1855
+00:56:34,800 --> 00:56:35,640
+"Ding, just remember."
+
+1856
+00:56:36,000 --> 00:56:38,440
+"That bowl is expensive.
+Don't break it."
+
+1857
+00:56:38,960 --> 00:56:40,040
+Those are things I drew.
+
+1858
+00:56:40,040 --> 00:56:40,520
+You drew these?
+
+1859
+00:56:40,800 --> 00:56:41,880
+Things you told yourself.
+
+1860
+00:56:41,880 --> 00:56:42,400
+Yes.
+
+1861
+00:56:42,400 --> 00:56:43,920
+Drew them to remind myself.
+
+1862
+00:56:45,200 --> 00:56:46,600
+There's a children's picture book here.
+
+1863
+00:56:46,860 --> 00:56:49,060
+(The Big Bad Wolf and the Little
+White Rabbit, Children's picture book)
+
+1864
+00:56:49,080 --> 00:56:50,360
+Aunt San used to read me
+
+1865
+00:56:50,360 --> 00:56:51,200
+these storybooks.
+
+1866
+00:56:51,440 --> 00:56:52,720
+"Once there was a big bad wolf."
+
+1867
+00:56:52,720 --> 00:56:53,720
+"His surname was An."
+
+1868
+00:56:53,720 --> 00:56:54,720
+"Whenever the little rabbit"
+
+1869
+00:56:54,720 --> 00:56:55,640
+"did something wrong,"
+
+1870
+00:56:55,640 --> 00:56:57,040
+"he'd hit it with his huge paws,"
+
+1871
+00:56:57,400 --> 00:56:58,840
+"leaving it hurting all over."
+
+1872
+00:56:59,040 --> 00:56:59,880
+"Whenever the little rabbit"
+
+1873
+00:56:59,880 --> 00:57:00,720
+"wanted to go out and play,"
+
+1874
+00:57:00,720 --> 00:57:01,680
+"he'd lock the door tight"
+
+1875
+00:57:01,680 --> 00:57:02,960
+"and say the outside
+world was dangerous."
+
+1876
+00:57:03,320 --> 00:57:04,640
+"And when the little
+rabbit was sleeping,"
+
+1877
+00:57:04,640 --> 00:57:05,640
+"he'd burst in and shout,"
+
+1878
+00:57:05,640 --> 00:57:06,920
+"'Did you do something wrong again?'"
+
+1879
+00:57:07,600 --> 00:57:08,440
+Terrifying.
+
+1880
+00:57:10,600 --> 00:57:11,360
+I think that's An Yi.
+
+1881
+00:57:11,620 --> 00:57:13,100
+(An Xiaoding's "father")
+It has to be An Yi.
+
+1882
+00:57:13,180 --> 00:57:16,300
+(The Big Bad Wolf is An Yi)
+
+1883
+00:57:16,320 --> 00:57:16,480
+Yes.
+
+1884
+00:57:16,480 --> 00:57:18,440
+This picture book
+
+1885
+00:57:18,440 --> 00:57:19,760
+is basically
+
+1886
+00:57:19,760 --> 00:57:20,480
+my (former) father's
+
+1887
+00:57:20,480 --> 00:57:21,360
+idea of
+
+1888
+00:57:21,360 --> 00:57:22,320
+parenting.
+
+1889
+00:57:22,800 --> 00:57:23,240
+He always believed in
+
+1890
+00:57:23,240 --> 00:57:24,240
+spare the rod, spoil the child.
+
+1891
+00:57:24,240 --> 00:57:25,360
+He always believed that
+
+1892
+00:57:25,960 --> 00:57:26,760
+no matter
+
+1893
+00:57:26,760 --> 00:57:28,040
+how well you did,
+
+1894
+00:57:28,040 --> 00:57:28,480
+the moment
+
+1895
+00:57:28,480 --> 00:57:30,200
+you made one mistake,
+
+1896
+00:57:30,200 --> 00:57:31,200
+you were wrong.
+
+1897
+00:57:31,720 --> 00:57:32,960
+And the only answer was a beating.
+
+1898
+00:57:32,960 --> 00:57:33,800
+Because he always believed
+
+1899
+00:57:33,800 --> 00:57:35,440
+hitting you was for your own good.
+
+1900
+00:57:36,680 --> 00:57:38,200
+That it would make you grow.
+
+1901
+00:57:38,640 --> 00:57:39,600
+So growing up,
+
+1902
+00:57:39,600 --> 00:57:40,800
+I was always being hit.
+
+1903
+00:57:41,120 --> 00:57:42,520
+No matter how I tried to hide.
+
+1904
+00:57:42,520 --> 00:57:43,000
+Because
+
+1905
+00:57:43,400 --> 00:57:44,680
+there was nowhere to go.
+
+1906
+00:57:47,600 --> 00:57:48,800
+He kept all the keys
+
+1907
+00:57:48,800 --> 00:57:49,600
+firmly in his own hands.
+
+1908
+00:57:49,600 --> 00:57:50,640
+No matter where I went.
+
+1909
+00:57:50,960 --> 00:57:52,160
+Every key in the An residence
+
+1910
+00:57:52,160 --> 00:57:53,760
+was kept by An Yi, the Chairman.
+
+1911
+00:57:53,760 --> 00:57:54,640
+There's only one set.
+
+1912
+00:57:55,000 --> 00:57:56,400
+He watched my every move.
+
+1913
+00:57:56,400 --> 00:57:58,000
+I never had any freedom.
+
+1914
+00:57:58,400 --> 00:57:59,720
+No matter how I tried to
+escape, there was no way out.
+
+1915
+00:58:00,120 --> 00:58:01,120
+Outside his room,
+
+1916
+00:58:01,120 --> 00:58:02,880
+there's always a golf club
+
+1917
+00:58:02,880 --> 00:58:03,880
+and golf balls.
+
+1918
+00:58:04,120 --> 00:58:05,360
+So whenever
+
+1919
+00:58:05,360 --> 00:58:06,520
+I made a mistake,
+
+1920
+00:58:06,520 --> 00:58:08,440
+he'll hit me with the club
+
+1921
+00:58:08,440 --> 00:58:10,120
+or throw the golf balls at me.
+
+1922
+00:58:10,680 --> 00:58:11,680
+There was on time
+
+1923
+00:58:12,600 --> 00:58:13,760
+during dinner,
+
+1924
+00:58:14,040 --> 00:58:14,760
+I was eating
+
+1925
+00:58:14,760 --> 00:58:16,160
+and accidentally broke a bowl.
+
+1926
+00:58:16,800 --> 00:58:17,640
+My dad immediately
+
+1927
+00:58:18,000 --> 00:58:19,240
+grabbed his golf club.
+
+1928
+00:58:19,240 --> 00:58:19,560
+Stop.
+
+1929
+00:58:20,200 --> 00:58:20,520
+Stop.
+
+1930
+00:58:21,280 --> 00:58:21,800
+Stop right there.
+
+1931
+00:58:22,200 --> 00:58:23,280
+I told you to stop.
+
+1932
+00:58:23,280 --> 00:58:24,200
+Did you not hear me?
+
+1933
+00:58:24,560 --> 00:58:25,560
+Stand right there!
+
+1934
+00:58:25,840 --> 00:58:26,760
+I kept saying I'm sorry.
+
+1935
+00:58:26,760 --> 00:58:27,200
+I'm sorry.
+
+1936
+00:58:27,200 --> 00:58:27,880
+I'm sorry, Dad.
+
+1937
+00:58:27,880 --> 00:58:28,440
+I'm sorry.
+
+1938
+00:58:28,800 --> 00:58:29,360
+It didn't matter.
+
+1939
+00:58:33,600 --> 00:58:34,120
+And because
+
+1940
+00:58:34,760 --> 00:58:35,480
+I was still young,
+
+1941
+00:58:35,680 --> 00:58:36,240
+I thought
+
+1942
+00:58:36,680 --> 00:58:37,760
+it was all my fault.
+
+1943
+00:58:37,760 --> 00:58:39,320
+If you did something wrong,
+you'd get hit.
+
+1944
+00:58:39,840 --> 00:58:40,400
+I also thought
+
+1945
+00:58:40,400 --> 00:58:41,120
+that the bowl
+
+1946
+00:58:41,120 --> 00:58:41,800
+was expensive.
+
+1947
+00:58:41,800 --> 00:58:42,880
+I broke it after all.
+
+1948
+00:58:43,320 --> 00:58:44,400
+(He thought bowls were pricy as a kid)
+As for the other times,
+
+1949
+00:58:44,420 --> 00:58:45,480
+(Adults never needed a reason)
+I may have
+
+1950
+00:58:45,480 --> 00:58:46,880
+(to vent)
+stained my clothes
+
+1951
+00:58:47,360 --> 00:58:49,040
+or tore them, I'd get hit too.
+
+1952
+00:58:49,040 --> 00:58:49,840
+I just thought
+
+1953
+00:58:50,280 --> 00:58:51,400
+that clothes are expensive too.
+
+1954
+00:58:51,720 --> 00:58:52,440
+There was another time
+
+1955
+00:58:52,440 --> 00:58:54,040
+where I lost an erase.
+
+1956
+00:58:54,040 --> 00:58:54,520
+So I thought
+
+1957
+00:58:55,120 --> 00:58:56,160
+that were expensive too.
+
+1958
+00:58:56,160 --> 00:58:56,800
+I'd think
+
+1959
+00:58:56,800 --> 00:58:58,200
+getting hit was only fair.
+
+1960
+00:58:58,200 --> 00:58:59,280
+Over time,
+
+1961
+00:58:59,280 --> 00:59:00,440
+I became this kind of person.
+
+1962
+00:59:01,600 --> 00:59:02,880
+I thought,
+
+1963
+00:59:02,880 --> 00:59:04,120
+one day I'd make up for it
+
+1964
+00:59:04,120 --> 00:59:05,160
+and only want the expensive stuff.
+
+1965
+00:59:05,960 --> 00:59:07,280
+I only accept two things.
+
+1966
+00:59:08,240 --> 00:59:09,960
+Top-grade Italian cashmere
+
+1967
+00:59:10,480 --> 00:59:12,080
+and a spoiled life.
+
+1968
+00:59:12,080 --> 00:59:15,940
+(Trying to buy back
+the childhood he never had)
+
+1969
+00:59:16,120 --> 00:59:17,280
+That's how I still am today.
+
+1970
+00:59:19,440 --> 00:59:20,840
+I get scared every time
+
+1971
+00:59:20,840 --> 00:59:21,840
+I see a ball.
+
+1972
+00:59:22,600 --> 00:59:23,240
+A trauma response.
+
+1973
+00:59:23,840 --> 00:59:25,320
+Whenever I see something round,
+
+1974
+00:59:25,320 --> 00:59:26,160
+I'd think
+
+1975
+00:59:26,160 --> 00:59:27,400
+it was the golf ball.
+
+1976
+00:59:27,920 --> 00:59:29,080
+(Triggered by round objects)
+I'd get frightened.
+
+1977
+00:59:29,080 --> 00:59:29,760
+I'd color it black.
+
+1978
+00:59:29,760 --> 00:59:30,840
+Pitch black.
+
+1979
+00:59:31,120 --> 00:59:32,440
+He covered everything
+
+1980
+00:59:32,440 --> 00:59:33,160
+that is round.
+
+1981
+00:59:33,860 --> 00:59:35,940
+(She dreams of running
+across the grasslands)
+
+1982
+00:59:35,960 --> 00:59:37,000
+I want to forget all this,
+
+1983
+00:59:37,400 --> 00:59:38,520
+but I can't
+
+1984
+00:59:39,000 --> 00:59:39,760
+because the pain
+
+1985
+00:59:39,760 --> 00:59:41,200
+never really left me.
+
+1986
+00:59:45,840 --> 00:59:46,680
+Let's listen to it first.
+
+1987
+00:59:46,680 --> 00:59:47,280
+Okay?
+
+1988
+00:59:48,280 --> 00:59:49,960
+This little rabbit is as pitiful
+
+1989
+00:59:50,400 --> 00:59:51,600
+as Ding.
+
+1990
+00:59:51,960 --> 00:59:52,480
+Yeah.
+
+1991
+00:59:52,960 --> 00:59:54,920
+It's scared of the wolf's claws,
+
+1992
+00:59:55,280 --> 00:59:56,560
+its terrifying roars,
+
+1993
+00:59:56,880 --> 00:59:58,880
+and that it might never
+escape the house.
+
+1994
+00:59:59,560 --> 01:00:00,360
+So the little rabbit
+
+1995
+01:00:00,360 --> 01:00:02,120
+has to grow strong enough.
+
+1996
+01:00:02,880 --> 01:00:04,480
+Then it can kill the big bad wolf.
+
+1997
+01:00:04,480 --> 01:00:05,280
+Kill the big bad wolf
+
+1998
+01:00:08,320 --> 01:00:10,240
+He wants to kill the big bad wolf.
+
+1999
+01:00:10,340 --> 01:00:14,620
+(Does An Xiaoding wants to kill An Yi?)
+
+2000
+01:00:15,040 --> 01:00:16,360
+Even if the big bad wolf dies,
+
+2001
+01:00:16,840 --> 01:00:18,200
+there are still worse things.
+
+2002
+01:00:19,680 --> 01:00:20,040
+Alright.
+
+2003
+01:00:20,440 --> 01:00:21,400
+Time to sleep, Ding.
+
+2004
+01:00:25,200 --> 01:00:26,840
+What could be worse?
+
+2005
+01:00:26,980 --> 01:00:31,460
+(What is the "something worse"?)
+
+2006
+01:00:31,480 --> 01:00:33,040
+So he's so timid
+
+2007
+01:00:33,040 --> 01:00:33,920
+because he feels
+
+2008
+01:00:33,920 --> 01:00:36,080
+something even worse is coming.
+
+2009
+01:00:36,140 --> 01:00:38,340
+(His character suddenly
+makes so much more sense)
+
+2010
+01:00:38,880 --> 01:00:40,160
+So that was foreshadowing all along?
+
+2011
+01:00:43,400 --> 01:00:45,400
+I think for Third San,
+
+2012
+01:00:45,720 --> 01:00:46,880
+the something worse
+
+2013
+01:00:46,880 --> 01:00:48,120
+was probably An Songqiu.
+
+2014
+01:00:50,560 --> 01:00:50,920
+Yes.
+
+2015
+01:00:51,240 --> 01:00:51,960
+Her father.
+
+2016
+01:00:52,400 --> 01:00:53,400
+Perhaps Aunt San
+
+2017
+01:00:53,400 --> 01:00:54,360
+may have gone through
+
+2018
+01:00:54,360 --> 01:00:55,480
+something far more complicated.
+
+2019
+01:01:00,000 --> 01:01:01,400
+This book probably entails her story.
+
+2020
+01:01:01,400 --> 01:01:01,720
+Yes.
+
+2021
+01:01:01,720 --> 01:01:02,280
+This princess
+
+2022
+01:01:02,280 --> 01:01:03,360
+must be her.
+
+2023
+01:01:03,360 --> 01:01:04,460
+(Children's picture book)
+
+2024
+01:01:05,600 --> 01:01:06,520
+The King of Tui Kingdom
+
+2025
+01:01:06,520 --> 01:01:07,920
+decided the princess was grown up,
+
+2026
+01:01:07,920 --> 01:01:08,800
+and it was time for her to marry.
+
+2027
+01:01:09,080 --> 01:01:10,480
+So he chose a prince
+
+2028
+01:01:10,480 --> 01:01:12,080
+from a neighboring kingdom
+to be her groom,
+
+2029
+01:01:12,520 --> 01:01:14,560
+but she didn't like the prince.
+
+2030
+01:01:14,560 --> 01:01:16,040
+She hated being set up like this.
+
+2031
+01:01:16,360 --> 01:01:17,480
+She wanted to run away
+
+2032
+01:01:17,920 --> 01:01:19,520
+to pursue freedom and happiness.
+
+2033
+01:01:20,080 --> 01:01:21,440
+She wanted to chase the wind
+across the grasslands.
+
+2034
+01:01:22,120 --> 01:01:23,440
+She wanted to watch the moon
+over snowy fields.
+
+2035
+01:01:23,440 --> 01:01:25,040
+She wanted to do the things she loved,
+
+2036
+01:01:25,440 --> 01:01:26,600
+instead of being dictated.
+
+2037
+01:01:26,600 --> 01:01:28,040
+But she could only dream about it.
+
+2038
+01:01:28,560 --> 01:01:29,720
+In the end, she decided to go somewhere
+
+2039
+01:01:29,720 --> 01:01:30,200
+where no one
+
+2040
+01:01:30,200 --> 01:01:31,760
+could make choices for her anymore.
+
+2041
+01:01:32,120 --> 01:01:33,880
+She became a star in the sky.
+
+2042
+01:01:36,320 --> 01:01:37,600
+Just like today's wedding.
+
+2043
+01:01:37,600 --> 01:01:38,960
+If the man she was marrying
+
+2044
+01:01:38,960 --> 01:01:40,520
+was truly the man she wanted,
+
+2045
+01:01:40,520 --> 01:01:41,280
+then why would she
+
+2046
+01:01:41,280 --> 01:01:42,320
+take her own life at the wedding?
+
+2047
+01:01:42,800 --> 01:01:44,680
+So it's possible that An San
+
+2048
+01:01:44,680 --> 01:01:45,960
+was forced into the marriage.
+
+2049
+01:01:46,640 --> 01:01:47,160
+Yes.
+
+2050
+01:01:47,220 --> 01:01:49,340
+(Theory: An Songqiu forced An San
+into the marriage, causing her suicide)
+
+2051
+01:01:50,240 --> 01:01:51,440
+Let's take a look at this.
+
+2052
+01:01:52,680 --> 01:01:53,840
+The handkerchief says
+
+2053
+01:01:53,840 --> 01:01:55,560
+save her there.
+
+2054
+01:01:56,100 --> 01:01:58,420
+(Save her there!)
+
+2055
+01:01:58,920 --> 01:01:59,920
+Save her where?
+
+2056
+01:02:02,020 --> 01:02:02,900
+(Something was wrapped inside)
+
+2057
+01:02:02,920 --> 01:02:03,520
+A room card.
+
+2058
+01:02:03,700 --> 01:02:05,040
+(Third floor)
+
+2059
+01:02:05,040 --> 01:02:05,880
+Which part of the third floor?
+
+2060
+01:02:05,880 --> 01:02:06,520
+There are some
+
+2061
+01:02:06,760 --> 01:02:07,160
+Blood.
+
+2062
+01:02:07,440 --> 01:02:08,560
+bloodstains. I can't tell what it says.
+
+2063
+01:02:08,760 --> 01:02:09,160
+It's alright.
+
+2064
+01:02:09,160 --> 01:02:10,480
+Let's check out the third floor.
+
+2065
+01:02:10,800 --> 01:02:11,000
+Yeah.
+
+2066
+01:02:11,400 --> 01:02:11,720
+Let's go.
+
+2067
+01:02:13,280 --> 01:02:14,720
+I wanted to ask something.
+
+2068
+01:02:16,160 --> 01:02:17,040
+Back then,
+
+2069
+01:02:17,040 --> 01:02:18,080
+he was still your son, right?
+
+2070
+01:02:18,520 --> 01:02:19,160
+Yes.
+
+2071
+01:02:19,160 --> 01:02:20,600
+Why didn't you step in
+when his dad beat him up?
+
+2072
+01:02:21,540 --> 01:02:23,540
+(Waiting for the answer)
+
+2073
+01:02:23,560 --> 01:02:24,800
+But I didn't know.
+
+2074
+01:02:24,800 --> 01:02:25,960
+If I had known...
+
+2075
+01:02:25,960 --> 01:02:27,440
+If she had known,
+she would've beat him instead.
+
+2076
+01:02:27,540 --> 01:02:28,480
+(Not necessarily)
+
+2077
+01:02:28,480 --> 01:02:29,360
+I got beaten too.
+
+2078
+01:02:29,720 --> 01:02:31,000
+Do you think my face is chubby?
+
+2079
+01:02:31,280 --> 01:02:31,840
+It's swollen.
+
+2080
+01:02:31,840 --> 01:02:33,080
+It still hasn't gone down.
+
+2081
+01:02:34,200 --> 01:02:35,080
+I honestly never noticed.
+
+2082
+01:02:35,080 --> 01:02:37,080
+He'd cry whenever he saw me
+when he was little.
+
+2083
+01:02:37,080 --> 01:02:37,880
+I wondered why.
+
+2084
+01:02:38,280 --> 01:02:39,560
+It must be because my face is round.
+
+2085
+01:02:40,440 --> 01:02:41,960
+So you're like a golf ball, huh?
+
+2086
+01:02:42,020 --> 01:02:43,780
+(It all makes sense now)
+
+2087
+01:02:49,420 --> 01:02:50,660
+(Secret room)
+
+2088
+01:02:50,680 --> 01:02:50,880
+Here.
+
+2089
+01:02:50,880 --> 01:02:51,960
+Is this it?
+
+2090
+01:02:51,960 --> 01:02:52,760
+Probably.
+
+2091
+01:02:55,000 --> 01:02:55,920
+There's blood here.
+
+2092
+01:02:56,740 --> 01:02:58,540
+(Bloodstain similar
+to the one on the card)
+
+2093
+01:02:58,560 --> 01:02:58,960
+There's blood.
+
+2094
+01:02:58,960 --> 01:02:59,640
+Hold on, there's blood.
+
+2095
+01:02:59,700 --> 01:03:01,000
+(Hang on. Hey)
+
+2096
+01:03:01,000 --> 01:03:02,880
+Wait. Get into position first.
+
+2097
+01:03:02,880 --> 01:03:03,640
+Make a circle.
+
+2098
+01:03:03,640 --> 01:03:04,680
+(Everyone on alert)
+Defensive formation.
+
+2099
+01:03:04,700 --> 01:03:05,500
+(The room is pitch-black)
+
+2100
+01:03:05,500 --> 01:03:06,940
+(The detectives peeks in.
+Night Vision)
+
+2101
+01:03:06,960 --> 01:03:07,600
+Something's moving in there.
+
+2102
+01:03:08,720 --> 01:03:09,440
+Don't talk.
+
+2103
+01:03:09,440 --> 01:03:10,720
+Is something moving?
+
+2104
+01:03:10,720 --> 01:03:11,440
+It's fine. I'll go.
+
+2105
+01:03:11,540 --> 01:03:13,020
+(Leading the way)
+
+2106
+01:03:13,100 --> 01:03:15,460
+(Night Vision)
+
+2107
+01:03:15,460 --> 01:03:17,100
+(Fearless as ever)
+
+2108
+01:03:17,600 --> 01:03:18,800
+(Everyone files in one by one)
+Don't be the last one!
+
+2109
+01:03:18,800 --> 01:03:19,040
+Sweetie.
+
+2110
+01:03:19,040 --> 01:03:19,880
+Quick.
+
+2111
+01:03:20,900 --> 01:03:22,220
+(New area unlocked:
+Third floor secret room)
+
+2112
+01:03:22,240 --> 01:03:23,000
+Wait.
+
+2113
+01:03:23,000 --> 01:03:24,320
+No one's on the chair.
+
+2114
+01:03:26,960 --> 01:03:27,760
+It's moving on its own.
+
+2115
+01:03:28,660 --> 01:03:30,180
+(Night Vision)
+
+2116
+01:03:32,100 --> 01:03:34,140
+(Grabs on tightly)
+
+2117
+01:03:35,040 --> 01:03:36,200
+This is so scary.
+
+2118
+01:03:38,140 --> 01:03:40,460
+(Father-son tightly bound)
+
+2119
+01:03:42,000 --> 01:03:43,280
+There's nothing on it,
+
+2120
+01:03:43,280 --> 01:03:44,120
+but it's rocking.
+
+2121
+01:03:44,120 --> 01:03:45,120
+It's moving.
+
+2122
+01:03:46,520 --> 01:03:46,880
+No way.
+
+2123
+01:03:47,940 --> 01:03:48,980
+(Thriller elements ahead.
+Viewer discretion advised)
+
+2124
+01:03:49,000 --> 01:03:49,840
+Why?
+
+2125
+01:03:49,840 --> 01:03:50,680
+Open it.
+
+2126
+01:03:53,160 --> 01:03:53,800
+There's a doll.
+
+2127
+01:03:53,860 --> 01:03:54,760
+(Skeleton doll)
+
+2128
+01:03:54,760 --> 01:03:56,360
+And it's a skeleton doll.
+
+2129
+01:03:56,360 --> 01:03:58,200
+A doll?
+
+2130
+01:03:58,200 --> 01:03:59,400
+Do we have a Lights On Card?
+
+2131
+01:03:59,400 --> 01:04:00,400
+Who has a Lights On Card?
+
+2132
+01:04:02,040 --> 01:04:03,440
+Wait. Whose child is this?
+
+2133
+01:04:06,480 --> 01:04:07,960
+That's my photo.
+
+2134
+01:04:07,960 --> 01:04:09,180
+(Young An Ke)
+
+2135
+01:04:09,880 --> 01:04:10,640
+That's your photo?
+
+2136
+01:04:10,640 --> 01:04:11,160
+Yeah.
+
+2137
+01:04:13,080 --> 01:04:13,920
+Year 1976.
+
+2138
+01:04:13,920 --> 01:04:14,960
+This is you and your brother, right?
+
+2139
+01:04:14,960 --> 01:04:15,200
+Yes.
+
+2140
+01:04:16,640 --> 01:04:17,440
+That's An Si, my brother.
+
+2141
+01:04:17,440 --> 01:04:18,100
+(Mom, An Si, An Ke)
+
+2142
+01:04:18,100 --> 01:04:19,000
+(Victim of the family curse: An Si)
+
+2143
+01:04:19,000 --> 01:04:20,200
+Is this your mom?
+
+2144
+01:04:20,200 --> 01:04:20,680
+Yes.
+
+2145
+01:04:21,680 --> 01:04:22,480
+You and your...
+
+2146
+01:04:26,260 --> 01:04:27,260
+(Argh!)
+
+2147
+01:04:27,780 --> 01:04:28,700
+(Startled)
+
+2148
+01:04:28,780 --> 01:04:29,800
+(Hides)
+
+2149
+01:04:29,800 --> 01:04:31,200
+What's that?
+
+2150
+01:04:31,220 --> 01:04:33,120
+(Group huddle for protection)
+
+2151
+01:04:33,120 --> 01:04:34,440
+What is that?
+
+2152
+01:04:37,400 --> 01:04:38,240
+I'm scared too.
+
+2153
+01:04:38,380 --> 01:04:39,660
+(Comfort)
+
+2154
+01:04:40,080 --> 01:04:41,280
+It fell on my shoulder.
+
+2155
+01:04:41,460 --> 01:04:43,900
+(Argh!)
+
+2156
+01:04:45,140 --> 01:04:46,820
+(When Dad gets playful)
+
+2157
+01:04:47,620 --> 01:04:49,140
+(Stunned)
+
+2158
+01:04:49,520 --> 01:04:51,400
+You're the devil.
+
+2159
+01:04:51,620 --> 01:04:53,740
+(Fatherly exposure therapy)
+
+2160
+01:04:53,740 --> 01:04:58,980
+(Thriller elements ahead.
+Viewer discretion advised)
+
+2161
+01:04:59,000 --> 01:04:59,720
+Come here.
+
+2162
+01:05:00,240 --> 01:05:00,720
+Over here.
+
+2163
+01:05:04,100 --> 01:05:05,620
+(Hides in the corner)
+
+2164
+01:05:06,680 --> 01:05:07,320
+Who are you?
+
+2165
+01:05:11,880 --> 01:05:12,480
+This is too scary.
+
+2166
+01:05:12,480 --> 01:05:13,880
+I can't look at her.
+
+2167
+01:05:14,420 --> 01:05:17,060
+(Human shield)
+
+2168
+01:05:22,640 --> 01:05:23,680
+It's fine.
+
+2169
+01:05:24,300 --> 01:05:25,780
+(You can't see me)
+
+2170
+01:05:25,800 --> 01:05:28,440
+Soothing Card.
+
+2171
+01:05:28,440 --> 01:05:29,120
+Can we sooth her?
+
+2172
+01:05:30,260 --> 01:05:31,940
+(Skill Card)
+
+2173
+01:05:31,940 --> 01:05:32,760
+(Soothing Card.
+Soothes an NPC's emotions)
+
+2174
+01:05:32,760 --> 01:05:34,160
+Use the Soothing Card.
+
+2175
+01:05:35,640 --> 01:05:36,840
+Is it working?
+
+2176
+01:05:37,060 --> 01:05:37,940
+(Night Vision)
+
+2177
+01:05:37,960 --> 01:05:38,720
+Si.
+
+2178
+01:05:38,720 --> 01:05:40,900
+(Successfully calmed)
+
+2179
+01:05:41,360 --> 01:05:42,080
+Si.
+
+2180
+01:05:44,040 --> 01:05:45,360
+Si?
+
+2181
+01:05:45,820 --> 01:05:47,580
+(Si?)
+
+2182
+01:05:49,240 --> 01:05:51,000
+Mommy's here.
+
+2183
+01:05:51,000 --> 01:05:52,680
+I'm right by your side.
+
+2184
+01:05:53,760 --> 01:05:54,920
+My dear son.
+
+2185
+01:05:56,400 --> 01:05:56,920
+Be good.
+
+2186
+01:05:58,280 --> 01:05:58,960
+Listen.
+
+2187
+01:06:03,080 --> 01:06:03,800
+I know you.
+
+2188
+01:06:05,600 --> 01:06:06,600
+I'm Ke.
+
+2189
+01:06:08,160 --> 01:06:09,080
+I need to turn on the lights.
+
+2190
+01:06:10,240 --> 01:06:11,400
+I need to see you clearly.
+
+2191
+01:06:19,960 --> 01:06:20,640
+Ke?
+
+2192
+01:06:22,400 --> 01:06:26,440
+You've finally come back.
+
+2193
+01:06:26,440 --> 01:06:26,880
+Yes.
+
+2194
+01:06:26,880 --> 01:06:28,360
+You're finally back.
+
+2195
+01:06:28,420 --> 01:06:30,420
+(An Ke's mother)
+
+2196
+01:06:30,880 --> 01:06:31,680
+You're back.
+
+2197
+01:06:32,520 --> 01:06:33,440
+That's all that matters.
+
+2198
+01:06:34,440 --> 01:06:35,800
+Let me take a good look at you.
+
+2199
+01:06:35,800 --> 01:06:36,160
+Okay.
+
+2200
+01:06:37,120 --> 01:06:38,520
+You're all grown up.
+
+2201
+01:06:39,840 --> 01:06:40,240
+Right.
+
+2202
+01:06:41,040 --> 01:06:41,440
+This.
+
+2203
+01:06:42,640 --> 01:06:43,120
+Take this.
+
+2204
+01:06:44,160 --> 01:06:45,120
+Keep it safe.
+
+2205
+01:06:46,280 --> 01:06:47,960
+This is the last puppet
+
+2206
+01:06:47,960 --> 01:06:48,840
+Si ever carved.
+
+2207
+01:06:49,600 --> 01:06:50,400
+You must keep it safe.
+
+2208
+01:06:51,640 --> 01:06:52,440
+My dear son.
+
+2209
+01:06:52,440 --> 01:06:53,120
+Okay.
+
+2210
+01:06:57,320 --> 01:06:59,920
+I've given him the puppet. Don't worry.
+
+2211
+01:06:59,920 --> 01:07:01,240
+Then the person in that photo...
+
+2212
+01:07:05,480 --> 01:07:06,200
+Leave me alone.
+
+2213
+01:07:07,280 --> 01:07:08,720
+(Why did An Si's mother slips back)
+Leave me.
+
+2214
+01:07:08,720 --> 01:07:09,720
+(into a crazed state when questioned?)
+
+2215
+01:07:09,720 --> 01:07:11,920
+I won't tell.
+
+2216
+01:07:14,840 --> 01:07:16,560
+Didn't hit An Si.
+
+2217
+01:07:16,560 --> 01:07:17,320
+You didn't hit An Si.
+
+2218
+01:07:22,440 --> 01:07:23,200
+It's the curse.
+
+2219
+01:07:24,640 --> 01:07:25,400
+It's that puppet.
+
+2220
+01:07:26,360 --> 01:07:27,160
+That puppet?
+
+2221
+01:07:30,160 --> 01:07:31,080
+No.
+
+2222
+01:07:31,080 --> 01:07:32,560
+Don't hit me.
+
+2223
+01:07:36,280 --> 01:07:37,480
+Do you think she was beaten too?
+
+2224
+01:07:41,280 --> 01:07:42,920
+Make sure you keep that puppet safe.
+
+2225
+01:07:43,920 --> 01:07:44,440
+Alright?
+
+2226
+01:07:47,360 --> 01:07:48,440
+Take care of yourself.
+
+2227
+01:07:50,400 --> 01:07:51,560
+And don't ever come back to this house.
+
+2228
+01:07:53,240 --> 01:07:54,920
+Don't come back to this room.
+
+2229
+01:07:54,920 --> 01:07:55,400
+You need to leave.
+
+2230
+01:07:56,280 --> 01:07:58,360
+Go now.
+
+2231
+01:08:04,440 --> 01:08:06,200
+I need to put Si to bed.
+
+2232
+01:08:11,240 --> 01:08:12,360
+Si,
+
+2233
+01:08:12,360 --> 01:08:14,480
+let's go to bed.
+
+2234
+01:08:14,480 --> 01:08:16,310
+Time to sleep.
+
+2235
+01:08:16,310 --> 01:08:17,240
+Good boy.
+
+2236
+01:08:18,470 --> 01:08:19,800
+Let's go to bed.
+
+2237
+01:08:19,800 --> 01:08:21,180
+(Always protecting her)
+I'm fine.
+
+2238
+01:08:21,200 --> 01:08:24,200
+Let's get some sleep.
+
+2239
+01:08:24,200 --> 01:08:25,820
+(Returned to inner bedroom)
+
+2240
+01:08:33,040 --> 01:08:35,080
+After An Si's death,
+
+2241
+01:08:35,080 --> 01:08:36,600
+his mother disappeared.
+
+2242
+01:08:36,660 --> 01:08:37,260
+(An Family Curse Investigation Progress
+First Curse, 1978: 5%)
+
+2243
+01:08:37,260 --> 01:08:37,880
+(Second Curse, 1996: 10%
+Third Curse, 2016: 20%)
+
+2244
+01:08:37,880 --> 01:08:38,840
+(Year 1978: An Si's mother disappeared)
+But actually his mother
+
+2245
+01:08:38,840 --> 01:08:40,040
+had been hiding here.
+
+2246
+01:08:40,040 --> 01:08:41,840
+(1978-1996: Lived on the third floor)
+She's been living here for 20 years.
+
+2247
+01:08:41,840 --> 01:08:42,470
+Yes.
+
+2248
+01:08:42,470 --> 01:08:43,040
+She was actually
+
+2249
+01:08:43,040 --> 01:08:44,390
+still living here all along.
+
+2250
+01:08:44,390 --> 01:08:45,600
+In this secret room
+
+2251
+01:08:45,600 --> 01:08:46,430
+the entire time.
+
+2252
+01:08:47,470 --> 01:08:49,120
+It's possible
+she was being imprisoned here.
+
+2253
+01:08:49,340 --> 01:08:52,740
+(He Jiahuan thinks she was
+imprisoned here all those years)
+
+2254
+01:08:52,760 --> 01:08:54,080
+(First Curse, 1978: 10%)
+Let's look for more clues.
+
+2255
+01:08:54,080 --> 01:08:55,200
+(Second Curse: 50%. Third Curse: 0%)
+But now...
+
+2256
+01:08:55,200 --> 01:08:56,350
+We know too little.
+
+2257
+01:09:02,680 --> 01:09:03,470
+What's here?
+
+2258
+01:09:03,470 --> 01:09:04,080
+This...
+
+2259
+01:09:04,080 --> 01:09:05,240
+(Color filter)
+What's this for?
+
+2260
+01:09:05,240 --> 01:09:06,200
+Take it.
+
+2261
+01:09:09,300 --> 01:09:10,140
+(Ke)
+
+2262
+01:09:10,160 --> 01:09:10,760
+Ke?
+
+2263
+01:09:10,760 --> 01:09:11,260
+(A letter for Ke)
+
+2264
+01:09:12,540 --> 01:09:14,340
+(A locked box)
+
+2265
+01:09:14,540 --> 01:09:15,940
+(Another box)
+
+2266
+01:09:17,390 --> 01:09:18,120
+He.
+
+2267
+01:09:18,120 --> 01:09:18,840
+He, the key.
+
+2268
+01:09:18,840 --> 01:09:19,310
+You scared me.
+
+2269
+01:09:19,420 --> 01:09:21,460
+(He's childish side emerges)
+
+2270
+01:09:24,300 --> 01:09:26,380
+(Eager to try)
+
+2271
+01:09:26,390 --> 01:09:27,080
+Try it.
+
+2272
+01:09:27,080 --> 01:09:27,800
+I'm out of strength.
+
+2273
+01:09:27,800 --> 01:09:28,350
+Don't be scared.
+
+2274
+01:09:28,350 --> 01:09:28,920
+(Making her try)
+
+2275
+01:09:28,920 --> 01:09:29,720
+He Jiahuan,
+
+2276
+01:09:29,720 --> 01:09:30,470
+I'm tired.
+
+2277
+01:09:30,470 --> 01:09:31,880
+(It's my turn, right?)
+Let me try.
+
+2278
+01:09:31,880 --> 01:09:32,800
+I can't take it anymore.
+
+2279
+01:09:33,310 --> 01:09:34,270
+(Wish fulfilled)
+This is fun.
+
+2280
+01:09:34,880 --> 01:09:35,880
+Look for a key.
+
+2281
+01:09:35,940 --> 01:09:37,580
+(Key)
+
+2282
+01:09:40,310 --> 01:09:40,840
+It's here!
+
+2283
+01:09:41,760 --> 01:09:42,240
+This puppet.
+
+2284
+01:09:42,240 --> 01:09:43,120
+It's right here!
+
+2285
+01:09:43,120 --> 01:09:44,760
+An Si.
+
+2286
+01:09:44,760 --> 01:09:45,840
+(Key)
+It's here.
+
+2287
+01:09:45,840 --> 01:09:47,080
+Quick. Open it.
+
+2288
+01:09:47,640 --> 01:09:47,840
+It's open.
+
+2289
+01:09:47,840 --> 01:09:48,160
+Good.
+
+2290
+01:09:48,160 --> 01:09:48,270
+Alright.
+
+2291
+01:09:48,270 --> 01:09:48,760
+Okay.
+
+2292
+01:09:50,680 --> 01:09:51,390
+Notes.
+
+2293
+01:09:51,720 --> 01:09:52,920
+Ke, don't be scared.
+
+2294
+01:09:52,920 --> 01:09:53,840
+Although Dad says
+
+2295
+01:09:53,840 --> 01:09:54,960
+the big bad wolf would come
+and take you away
+
+2296
+01:09:54,960 --> 01:09:56,120
+if you didn't go to sleep,
+
+2297
+01:09:56,120 --> 01:09:57,920
+I will chase it off for you.
+
+2298
+01:09:58,720 --> 01:09:59,800
+This says, "Ke, don't be scared."
+
+2299
+01:09:59,800 --> 01:10:01,760
+Although Dad says he'll throw you out
+
+2300
+01:10:01,760 --> 01:10:03,200
+if you keep crying,
+
+2301
+01:10:03,200 --> 01:10:04,640
+I'll protect you.
+
+2302
+01:10:05,160 --> 01:10:06,280
+These were all notes
+
+2303
+01:10:06,280 --> 01:10:07,200
+my brother used to write for me
+when we were kids.
+
+2304
+01:10:07,200 --> 01:10:08,160
+They were the things he would say to me.
+
+2305
+01:10:08,160 --> 01:10:09,080
+Promises of protection.
+
+2306
+01:10:09,080 --> 01:10:09,600
+Yes.
+
+2307
+01:10:09,600 --> 01:10:11,240
+My father, An Songqiu,
+
+2308
+01:10:11,240 --> 01:10:12,240
+(An Songqiu & first wife: An Yi, An Er, An San)
+was someone
+
+2309
+01:10:12,240 --> 01:10:14,280
+(An Songqiu & second wife: An Si, An Ke)
+who believed in "cane" parenting.
+
+2310
+01:10:14,920 --> 01:10:15,640
+That was just
+
+2311
+01:10:15,640 --> 01:10:17,440
+the way he raised all of us.
+
+2312
+01:10:17,880 --> 01:10:18,600
+Understood.
+
+2313
+01:10:18,600 --> 01:10:19,920
+So An Yi also inherited that.
+
+2314
+01:10:21,000 --> 01:10:21,840
+But
+
+2315
+01:10:21,840 --> 01:10:22,720
+I...
+
+2316
+01:10:22,720 --> 01:10:23,840
+didn't get hit very often.
+
+2317
+01:10:24,600 --> 01:10:26,640
+Because I was good at pleading.
+
+2318
+01:10:26,640 --> 01:10:27,760
+I was good at backing down.
+
+2319
+01:10:27,760 --> 01:10:28,680
+I would admit fault.
+
+2320
+01:10:29,080 --> 01:10:30,680
+And that kind of submission
+
+2321
+01:10:30,680 --> 01:10:32,200
+really pleased him.
+
+2322
+01:10:32,480 --> 01:10:33,880
+But I was also always very afraid
+
+2323
+01:10:33,880 --> 01:10:36,640
+of that kind of fear-based parenting.
+
+2324
+01:10:37,360 --> 01:10:38,440
+So
+
+2325
+01:10:38,440 --> 01:10:40,000
+my brother, An Si,
+
+2326
+01:10:40,000 --> 01:10:41,720
+was always there with me.
+
+2327
+01:10:42,480 --> 01:10:43,760
+So we had a very
+
+2328
+01:10:43,760 --> 01:10:44,840
+close relationship.
+
+2329
+01:10:46,600 --> 01:10:47,520
+My brother, An Si,
+
+2330
+01:10:47,520 --> 01:10:49,080
+loved making puppets.
+
+2331
+01:10:49,880 --> 01:10:51,080
+He would give me many
+
+2332
+01:10:51,080 --> 01:10:52,560
+of the puppets he made.
+
+2333
+01:10:52,560 --> 01:10:52,880
+He said
+
+2334
+01:10:52,880 --> 01:10:55,240
+he'll stay by my side and protect me
+
+2335
+01:10:55,240 --> 01:10:56,680
+like the puppets he made.
+
+2336
+01:10:56,740 --> 01:10:57,700
+(An Si)
+
+2337
+01:11:03,320 --> 01:11:04,320
+I won't tell.
+
+2338
+01:11:04,320 --> 01:11:05,240
+It's that puppet.
+
+2339
+01:11:06,320 --> 01:11:08,000
+I have a very,
+
+2340
+01:11:08,000 --> 01:11:09,040
+very bold theory.
+
+2341
+01:11:10,800 --> 01:11:12,000
+An Si's death
+
+2342
+01:11:12,000 --> 01:11:14,600
+is actually caused by domestic violence.
+
+2343
+01:11:14,700 --> 01:11:16,740
+(He Jiahuan thinks An Si died
+from the beating)
+
+2344
+01:11:16,760 --> 01:11:17,360
+That's not it.
+
+2345
+01:11:17,360 --> 01:11:17,760
+Here's the thing.
+
+2346
+01:11:17,760 --> 01:11:19,840
+The An family has a curse.
+
+2347
+01:11:19,840 --> 01:11:20,320
+Well.
+
+2348
+01:11:20,800 --> 01:11:22,720
+Whenever that puppet appears,
+
+2349
+01:11:22,720 --> 01:11:23,840
+someone in the An family
+
+2350
+01:11:23,840 --> 01:11:24,400
+dies.
+
+2351
+01:11:25,080 --> 01:11:25,920
+My brother, An Si,
+
+2352
+01:11:25,920 --> 01:11:27,330
+(He firmly believes in the curse)
+died because of that.
+
+2353
+01:11:31,160 --> 01:11:31,880
+But I still think
+
+2354
+01:11:31,880 --> 01:11:32,800
+what was said earlier
+
+2355
+01:11:32,800 --> 01:11:33,560
+still makes sense.
+
+2356
+01:11:35,240 --> 01:11:36,400
+An Si died.
+
+2357
+01:11:36,400 --> 01:11:37,360
+He was accidentally beaten to death.
+
+2358
+01:11:37,360 --> 01:11:39,320
+I can just invent
+a curse out of thin air.
+
+2359
+01:11:39,320 --> 01:11:39,720
+That's right.
+
+2360
+01:11:39,720 --> 01:11:41,920
+The curse is just used
+to cover up my crimes.
+
+2361
+01:11:42,060 --> 01:11:45,340
+(He Jiahuan thinks the "curse" is
+to cover up the domestic violence)
+
+2362
+01:11:45,360 --> 01:11:46,280
+An San wanted to run.
+
+2363
+01:11:47,000 --> 01:11:47,960
+I didn't want her to escape.
+
+2364
+01:11:48,840 --> 01:11:49,840
+So I killed her too
+
+2365
+01:11:50,240 --> 01:11:51,440
+and used the curse
+
+2366
+01:11:51,440 --> 01:11:52,520
+to cover up my crimes.
+
+2367
+01:11:52,520 --> 01:11:52,840
+That works.
+
+2368
+01:11:52,840 --> 01:11:54,360
+(He Jiahuan thinks the same curse
+is used to hide An San's murder)
+
+2369
+01:11:54,360 --> 01:11:54,680
+Well.
+
+2370
+01:11:55,280 --> 01:11:56,560
+Out of so many days,
+
+2371
+01:11:56,560 --> 01:11:57,080
+why did she
+
+2372
+01:11:57,080 --> 01:11:58,640
+try to escape on her wedding day?
+
+2373
+01:11:58,640 --> 01:12:00,640
+And now we've already
+confirmed her death.
+
+2374
+01:12:02,760 --> 01:12:03,800
+The card An San left
+
+2375
+01:12:03,800 --> 01:12:04,840
+led us here.
+
+2376
+01:12:05,360 --> 01:12:05,840
+Could it be
+
+2377
+01:12:05,840 --> 01:12:08,080
+that An San discovered the real cause
+of An Si's death,
+
+2378
+01:12:08,080 --> 01:12:10,000
+and then used her wedding suicide
+
+2379
+01:12:10,000 --> 01:12:12,160
+to make the "X" gesture in public
+in order to draw attention
+
+2380
+01:12:12,160 --> 01:12:13,560
+and get people to investigate the truth?
+
+2381
+01:12:13,560 --> 01:12:14,460
+(He Jiahuan thinks An San
+knows An Si's cause of death)
+
+2382
+01:12:14,460 --> 01:12:15,740
+(and used her suicide
+to expose the curse)
+
+2383
+01:12:16,360 --> 01:12:16,920
+Highly possible.
+
+2384
+01:12:16,920 --> 01:12:17,920
+And there's no body.
+
+2385
+01:12:18,220 --> 01:12:19,260
+(What's the truth behind
+the first and second curses?)
+
+2386
+01:12:19,260 --> 01:12:20,220
+(An Family Curse Investigation Progress
+First Curse, 1978: 50%)
+
+2387
+01:12:20,220 --> 01:12:21,460
+(Second Curse, 1996: 50%
+Third Curse, 2016: 30%)
+
+2388
+01:12:21,480 --> 01:12:22,480
+Take a look.
+
+2389
+01:12:22,480 --> 01:12:23,200
+Ke.
+
+2390
+01:12:23,660 --> 01:12:24,940
+(Letter for Ke)
+
+2391
+01:12:25,920 --> 01:12:26,600
+What's this?
+
+2392
+01:12:26,880 --> 01:12:28,080
+The color filter.
+
+2393
+01:12:28,640 --> 01:12:29,080
+Color filter.
+
+2394
+01:12:30,600 --> 01:12:31,320
+Red filter.
+
+2395
+01:12:35,880 --> 01:12:36,160
+Uh.
+
+2396
+01:12:36,160 --> 01:12:36,560
+I don't know.
+
+2397
+01:12:36,560 --> 01:12:37,560
+Your dad
+
+2398
+01:12:37,560 --> 01:12:37,840
+Son,
+
+2399
+01:12:37,840 --> 01:12:39,240
+took your puppets
+
+2400
+01:12:39,240 --> 01:12:40,760
+to the study on the first floor.
+
+2401
+01:12:40,760 --> 01:12:42,680
+I don't know what he's up to.
+
+2402
+01:12:44,600 --> 01:12:45,680
+We can check the room out later.
+
+2403
+01:12:48,580 --> 01:12:49,620
+(Hello)
+
+2404
+01:12:49,840 --> 01:12:50,520
+Let's leave.
+
+2405
+01:12:50,520 --> 01:12:51,440
+(Uneasy)
+Yeah.
+
+2406
+01:12:51,440 --> 01:12:52,080
+Let's go.
+
+2407
+01:12:52,080 --> 01:12:52,560
+Let's leave now.
+
+2408
+01:12:53,560 --> 01:12:54,130
+=The Truth (Season 4)=
+The scariest one was
+
+2409
+01:12:54,130 --> 01:12:56,200
+the Chinese horror themes last year.
+
+2410
+01:12:56,200 --> 01:12:57,760
+Yeah. Looking for his mom.
+
+2411
+01:12:57,760 --> 01:12:58,680
+(Reminiscing "happy" memories)
+That truly was
+
+2412
+01:12:58,680 --> 01:12:59,680
+(See "The Truth (Season 3) Episode 8)
+the scariest.
+
+2413
+01:12:59,680 --> 01:13:00,600
+There were even solo missions.
+
+2414
+01:13:00,600 --> 01:13:01,480
+I can't handle that
+
+2415
+01:13:01,480 --> 01:13:02,480
+We'll have that in this season too.
+
+2416
+01:13:02,480 --> 01:13:02,920
+Don't worry.
+
+2417
+01:13:02,920 --> 01:13:03,200
+We'll have that.
+
+2418
+01:13:03,200 --> 01:13:04,440
+We'll make sure you go, bro
+
+2419
+01:13:04,440 --> 01:13:06,140
+(No, thank you)
+
+2420
+01:13:08,300 --> 01:13:09,900
+(Stops)
+
+2421
+01:13:10,640 --> 01:13:12,440
+Your dad took your puppet mask...
+
+2422
+01:13:13,080 --> 01:13:13,760
+Your dad took what?
+
+2423
+01:13:14,880 --> 01:13:15,320
+Son,
+
+2424
+01:13:15,320 --> 01:13:17,280
+your dad took your puppet mask...
+
+2425
+01:13:17,920 --> 01:13:18,160
+Yes.
+
+2426
+01:13:18,160 --> 01:13:20,240
+(Extracting key info)
+So the father was playing the puppet.
+
+2427
+01:13:21,040 --> 01:13:22,840
+So I think our guess was right.
+
+2428
+01:13:22,840 --> 01:13:23,680
+Pretty much.
+
+2429
+01:13:23,680 --> 01:13:25,280
+We're a bit ahead of ourselves.
+
+2430
+01:13:25,280 --> 01:13:26,200
+Honestly.
+
+2431
+01:13:26,480 --> 01:13:27,320
+One rule.
+
+2432
+01:13:27,320 --> 01:13:28,800
+Anything supernatural like this
+
+2433
+01:13:28,800 --> 01:13:29,760
+is always man-made.
+
+2434
+01:13:29,760 --> 01:13:31,440
+(Ultra-rational deduction)
+Of course, it's all human manipulation.
+
+2435
+01:13:31,440 --> 01:13:31,760
+Yes.
+
+2436
+01:13:32,220 --> 01:13:34,700
+(Study)
+
+2437
+01:13:37,420 --> 01:13:38,940
+(New area unlocked: The study)
+
+2438
+01:13:38,960 --> 01:13:40,080
+This...
+
+2439
+01:13:42,200 --> 01:13:42,640
+Hang on.
+
+2440
+01:13:43,680 --> 01:13:43,960
+Here.
+
+2441
+01:13:47,160 --> 01:13:48,800
+An family descendants
+
+2442
+01:13:48,800 --> 01:13:51,160
+are born as heirs of inheritance.
+
+2443
+01:13:51,160 --> 01:13:54,680
+The higher the perch,
+the thinner the margin for error.
+
+2444
+01:13:54,680 --> 01:13:58,360
+We are forged by the rod of the past
+
+2445
+01:13:58,360 --> 01:14:01,760
+and carry the weight of the family law.
+
+2446
+01:14:01,760 --> 01:14:03,360
+Pass the legacy down the generations,
+
+2447
+01:14:03,360 --> 01:14:05,720
+only then is the honor sustained.
+
+2448
+01:14:07,740 --> 01:14:09,260
+(Don't make me grab the golf club)
+
+2449
+01:14:09,640 --> 01:14:10,600
+Is this an exhibition?
+
+2450
+01:14:10,600 --> 01:14:11,520
+An Yi's golf clubs.
+
+2451
+01:14:11,940 --> 01:14:13,860
+(An Yi)
+
+2452
+01:14:13,880 --> 01:14:14,200
+And
+
+2453
+01:14:14,200 --> 01:14:16,920
+(Stained golf balls in varying damage)
+three blood-stained golf balls.
+
+2454
+01:14:19,440 --> 01:14:20,520
+What about that? What's there?
+
+2455
+01:14:21,040 --> 01:14:21,600
+An Songqiu.
+
+2456
+01:14:21,600 --> 01:14:22,200
+Take a look.
+
+2457
+01:14:24,000 --> 01:14:24,960
+He has five balls.
+
+2458
+01:14:25,260 --> 01:14:26,800
+(An Songqiu)
+
+2459
+01:14:26,800 --> 01:14:27,640
+What are the five?
+
+2460
+01:14:27,640 --> 01:14:28,640
+Does this mean
+
+2461
+01:14:28,640 --> 01:14:29,640
+he hit five people?
+
+2462
+01:14:29,640 --> 01:14:29,960
+Yes.
+
+2463
+01:14:31,440 --> 01:14:32,720
+(An Er, An San, An Si, An Ke)
+Ke wasn't beaten, see.
+
+2464
+01:14:33,080 --> 01:14:34,440
+(Clean)
+The other four have blood stains.
+
+2465
+01:14:34,760 --> 01:14:35,800
+Beaten badly.
+
+2466
+01:14:36,400 --> 01:14:37,360
+Er was also badly hurt.
+
+2467
+01:14:37,360 --> 01:14:38,720
+(An Songqiu)
+The first ball is broken.
+
+2468
+01:14:39,280 --> 01:14:40,320
+(An Yi, most damaged)
+Yi suffered the most.
+
+2469
+01:14:41,040 --> 01:14:41,520
+That's why
+
+2470
+01:14:41,520 --> 01:14:43,080
+the hero became the villain.
+
+2471
+01:14:43,080 --> 01:14:43,880
+The villain.
+
+2472
+01:14:43,880 --> 01:14:44,760
+He was beaten since young.
+
+2473
+01:14:44,760 --> 01:14:46,040
+So he beats others as an adult.
+
+2474
+01:14:46,640 --> 01:14:48,200
+Are there clues here?
+
+2475
+01:14:56,320 --> 01:14:56,880
+What's this?
+
+2476
+01:14:58,400 --> 01:14:58,840
+What is it?
+
+2477
+01:15:00,120 --> 01:15:00,840
+A notebook.
+
+2478
+01:15:00,840 --> 01:15:01,880
+There's a notebook here.
+
+2479
+01:15:03,360 --> 01:15:04,280
+Year 1978.
+
+2480
+01:15:05,120 --> 01:15:06,320
+I drank too much that night
+
+2481
+01:15:06,960 --> 01:15:08,040
+and used too much force.
+
+2482
+01:15:08,040 --> 01:15:09,200
+I didn't think
+
+2483
+01:15:09,200 --> 01:15:11,080
+I'd beat An Si to death.
+
+2484
+01:15:11,580 --> 01:15:12,740
+(Beat An Si to death by accident)
+
+2485
+01:15:13,640 --> 01:15:14,800
+An Si's dead.
+
+2486
+01:15:14,800 --> 01:15:15,840
+He was accidentally beaten to death.
+
+2487
+01:15:15,840 --> 01:15:18,040
+I can just invent a curse
+out of thin air.
+
+2488
+01:15:18,260 --> 01:15:20,420
+(Everything under control)
+
+2489
+01:15:20,840 --> 01:15:22,040
+We were right.
+
+2490
+01:15:22,660 --> 01:15:24,180
+(Confirmed An Si was killed
+by An Songqiu)
+
+2491
+01:15:24,200 --> 01:15:25,840
+I can't let people know I did it.
+
+2492
+01:15:25,840 --> 01:15:27,360
+There's a fireplace
+
+2493
+01:15:27,360 --> 01:15:28,280
+on the first floor.
+
+2494
+01:15:28,280 --> 01:15:29,960
+I can cremate the body.
+
+2495
+01:15:31,320 --> 01:15:32,680
+And everyone said
+
+2496
+01:15:32,680 --> 01:15:34,520
+An Si's puppets were creepy.
+
+2497
+01:15:34,520 --> 01:15:36,520
+Why don't I use the puppets he made
+
+2498
+01:15:36,520 --> 01:15:38,880
+to create a rumor of puppet murders
+
+2499
+01:15:38,880 --> 01:15:40,080
+to cover everything up?
+
+2500
+01:15:42,340 --> 01:15:43,510
+(An Family Curse Investigation Progress
+First Curse, 1978: 100%)
+
+2501
+01:15:43,510 --> 01:15:44,650
+(Second Curse, 1996: 50%
+Third Curse, 2016: 20%)
+
+2502
+01:15:44,670 --> 01:15:45,740
+(An Songqiu killed An Si
+and used a curse to cover it up)
+
+2503
+01:15:47,400 --> 01:15:48,920
+Can we check the surveillance footage?
+
+2504
+01:15:50,680 --> 01:15:51,080
+Come on.
+
+2505
+01:15:51,080 --> 01:15:51,960
+Let's check this out.
+
+2506
+01:15:53,200 --> 01:15:55,560
+Study room surveillance playback.
+
+2507
+01:15:57,880 --> 01:15:59,080
+It's on.
+
+2508
+01:15:59,440 --> 01:15:59,720
+Okay.
+
+2509
+01:16:00,020 --> 01:16:00,880
+(Ten minutes ago)
+
+2510
+01:16:00,880 --> 01:16:02,000
+I saw Grandpa
+
+2511
+01:16:02,000 --> 01:16:03,920
+took Aunt San's stuff.
+
+2512
+01:16:04,840 --> 01:16:07,120
+(Aunt San's belonging, Xiaoding, Ke, Xiaowen, Xiaoning)
+Wen, Ning, Uncle Ke,
+
+2513
+01:16:07,120 --> 01:16:07,880
+(Study room surveillance playback)
+
+2514
+01:16:07,880 --> 01:16:09,120
+come help me.
+
+2515
+01:16:09,260 --> 01:16:10,460
+(An Songqiu took An San's belongings)
+
+2516
+01:16:11,660 --> 01:16:13,180
+(Study room surveillance playback)
+
+2517
+01:16:13,200 --> 01:16:13,720
+What're you doing?
+
+2518
+01:16:15,640 --> 01:16:16,760
+(An Yi)
+Your mother's only gone for a minute,
+
+2519
+01:16:16,760 --> 01:16:17,600
+and you're running around already.
+
+2520
+01:16:18,120 --> 01:16:18,520
+Go back!
+
+2521
+01:16:24,700 --> 01:16:26,580
+(Everyone faints)
+
+2522
+01:16:28,280 --> 01:16:29,000
+They've been sedated.
+
+2523
+01:16:29,440 --> 01:16:30,400
+They've been sedated?
+
+2524
+01:16:30,400 --> 01:16:31,500
+(They've been sedated?)
+
+2525
+01:16:33,100 --> 01:16:34,380
+(Study room surveillance playback)
+
+2526
+01:16:34,400 --> 01:16:34,840
+Mr. An,
+
+2527
+01:16:35,400 --> 01:16:36,680
+(Voice at the door)
+The bodies are already charred
+
+2528
+01:16:36,680 --> 01:16:37,840
+and placed in the first-floor fireplace.
+
+2529
+01:16:38,760 --> 01:16:39,120
+Good.
+
+2530
+01:16:39,900 --> 01:16:41,700
+(Bodies charred?)
+
+2531
+01:16:42,120 --> 01:16:42,960
+Tell the media
+
+2532
+01:16:43,920 --> 01:16:45,400
+it's because of the puppet's curse.
+
+2533
+01:16:46,240 --> 01:16:47,520
+I found the poison too
+
+2534
+01:16:48,720 --> 01:16:49,680
+but was one step too late.
+
+2535
+01:16:49,700 --> 01:16:53,420
+(Study room surveillance playback)
+
+2536
+01:16:53,600 --> 01:16:54,600
+So useless.
+
+2537
+01:16:55,800 --> 01:16:56,840
+How could an An family child
+
+2538
+01:16:56,840 --> 01:16:58,080
+act so cowardly
+
+2539
+01:16:58,080 --> 01:16:59,120
+and take their own life?
+
+2540
+01:16:59,120 --> 01:17:01,200
+How shameful.
+
+2541
+01:17:01,260 --> 01:17:03,240
+(An Family Curse Investigation Progress
+First Curse, 1978: 100%)
+
+2542
+01:17:03,250 --> 01:17:05,620
+(Second Curse, 1996: 100%
+Third Curse, 2016: 20%)
+
+2543
+01:17:05,620 --> 01:17:07,360
+(Study room surveillance playback)
+
+2544
+01:17:07,360 --> 01:17:08,160
+What's happening?
+
+2545
+01:17:10,920 --> 01:17:11,800
+Why is he coving his nose?
+
+2546
+01:17:11,800 --> 01:17:12,920
+(Study room surveillance playback)
+
+2547
+01:17:12,920 --> 01:17:14,520
+Because he knows what that is.
+
+2548
+01:17:14,520 --> 01:17:15,920
+Otherwise, he'd get sedated too.
+
+2549
+01:17:15,920 --> 01:17:17,840
+So it seems they broke the poison.
+
+2550
+01:17:22,080 --> 01:17:22,600
+This works too.
+
+2551
+01:17:23,880 --> 01:17:24,920
+Saves me some trouble.
+
+2552
+01:17:26,600 --> 01:17:28,080
+Take these people away now.
+
+2553
+01:17:39,880 --> 01:17:40,680
+I'll leave now.
+
+2554
+01:17:47,060 --> 01:17:47,900
+(Rubbish bin)
+
+2555
+01:17:51,320 --> 01:17:52,520
+Where's the rubbish bin?
+
+2556
+01:17:52,520 --> 01:17:52,960
+Over there.
+
+2557
+01:17:55,320 --> 01:17:55,600
+Wait.
+
+2558
+01:17:55,600 --> 01:17:57,560
+(Rubbish bin)
+Then the kids aren't dead yet, right?
+
+2559
+01:17:57,960 --> 01:17:58,280
+Yeah.
+
+2560
+01:17:58,280 --> 01:17:59,560
+We're all grown up.
+
+2561
+01:17:59,580 --> 01:18:01,120
+(Naive)
+
+2562
+01:18:01,120 --> 01:18:02,280
+It was us.
+
+2563
+01:18:03,920 --> 01:18:04,400
+Wait.
+
+2564
+01:18:04,400 --> 01:18:05,280
+These are shattered
+
+2565
+01:18:05,280 --> 01:18:06,480
+glass bottles.
+
+2566
+01:18:08,760 --> 01:18:09,280
+Red Bone Poison.
+
+2567
+01:18:09,600 --> 01:18:11,280
+Anyone who inhales it at close range
+
+2568
+01:18:11,280 --> 01:18:13,640
+will lose all memories
+from the six hours
+
+2569
+01:18:13,640 --> 01:18:14,480
+prior to inhalation.
+
+2570
+01:18:14,480 --> 01:18:16,720
+That means all of you
+would forget the wedding,
+
+2571
+01:18:16,720 --> 01:18:17,720
+the aunt, and everything else.
+
+2572
+01:18:19,040 --> 01:18:21,360
+I want to walk toward
+my final destination
+
+2573
+01:18:21,360 --> 01:18:22,520
+with all of you as witnesses.
+
+2574
+01:18:22,520 --> 01:18:25,060
+(The poison made them forget
+An San died on the wedding day)
+
+2575
+01:18:25,080 --> 01:18:27,280
+Right, so none of us remembers it today.
+
+2576
+01:18:28,040 --> 01:18:29,840
+Anyone who drinks or inhales it
+
+2577
+01:18:29,840 --> 01:18:31,680
+will suffer lifelong effects.
+
+2578
+01:18:31,680 --> 01:18:34,240
+After death, dark red
+
+2579
+01:18:34,240 --> 01:18:36,120
+sediment markings
+
+2580
+01:18:36,120 --> 01:18:37,840
+will form on their bones.
+
+2581
+01:18:39,640 --> 01:18:41,080
+That burned corpse...
+
+2582
+01:18:41,080 --> 01:18:42,600
+The burned corpse
+
+2583
+01:18:42,600 --> 01:18:44,320
+had dark red markings above the ankle.
+
+2584
+01:18:44,320 --> 01:18:45,040
+The markings.
+
+2585
+01:18:45,040 --> 01:18:45,480
+Remember?
+
+2586
+01:18:45,480 --> 01:18:45,960
+I do.
+
+2587
+01:18:45,980 --> 01:18:48,140
+(Dark red markings were found
+on the corpse's bones)
+
+2588
+01:18:48,160 --> 01:18:50,080
+So that corpse
+
+2589
+01:18:50,920 --> 01:18:51,320
+was An Yi.
+
+2590
+01:18:51,640 --> 01:18:52,160
+An Yi.
+
+2591
+01:18:52,160 --> 01:18:53,160
+An Yi inhaled it.
+
+2592
+01:18:53,160 --> 01:18:53,480
+Yes.
+
+2593
+01:18:53,480 --> 01:18:54,200
+It was An Yi.
+
+2594
+01:18:54,200 --> 01:18:54,980
+(Current case summary)
+
+2595
+01:18:54,980 --> 01:18:55,540
+(Deceased: An Yi
+Place of death: Unknown)
+
+2596
+01:18:55,540 --> 01:18:56,180
+(Time of death: Unknown,
+between March 24 and March 25, 2016)
+
+2597
+01:18:56,180 --> 01:18:57,180
+(Cause of death: Unknown
+Curse ruled out)
+
+2598
+01:18:57,200 --> 01:18:58,360
+Have a seat. Sit down.
+
+2599
+01:18:58,800 --> 01:19:00,960
+That corpse must be An Yi.
+
+2600
+01:19:00,960 --> 01:19:02,160
+It has to be An Yi.
+
+2601
+01:19:05,000 --> 01:19:05,440
+Alright.
+
+2602
+01:19:05,440 --> 01:19:06,920
+Who killed An Yi?
+
+2603
+01:19:06,920 --> 01:19:08,640
+It must have been someone among us.
+
+2604
+01:19:08,640 --> 01:19:10,920
+One of these four suspects.
+
+2605
+01:19:11,920 --> 01:19:14,560
+A little white rabbit must
+grow strong enough
+
+2606
+01:19:14,560 --> 01:19:17,360
+to defeat the big bad wolf.
+
+2607
+01:19:17,360 --> 01:19:19,460
+(An Xiaoding had a motive for murder)
+
+2608
+01:19:19,880 --> 01:19:21,200
+I think all
+
+2609
+01:19:21,200 --> 01:19:22,640
+four suspects inhaled it
+
+2610
+01:19:22,640 --> 01:19:23,360
+and lost their
+
+2611
+01:19:23,360 --> 01:19:24,040
+memories, right?
+
+2612
+01:19:24,040 --> 01:19:25,480
+Perhaps one person didn't inhale it.
+
+2613
+01:19:25,960 --> 01:19:27,560
+So that person retained those memories.
+
+2614
+01:19:27,560 --> 01:19:29,840
+And waited until adulthood.
+
+2615
+01:19:29,900 --> 01:19:33,780
+(Jin Xiangyu suspects the curse
+was used to conceal a murder)
+
+2616
+01:19:34,080 --> 01:19:35,280
+There is a way to prove it.
+
+2617
+01:19:35,280 --> 01:19:36,160
+Bring me a knife.
+
+2618
+01:19:36,800 --> 01:19:37,640
+Cut it open.
+
+2619
+01:19:37,660 --> 01:19:39,540
+(To see whose bones didn't turn red)
+
+2620
+01:19:39,560 --> 01:19:41,200
+Why assume that person never inhaled it?
+
+2621
+01:19:41,200 --> 01:19:43,640
+Perhaps they only discovered
+the truth after growing up.
+
+2622
+01:19:43,640 --> 01:19:44,200
+I think
+
+2623
+01:19:44,200 --> 01:19:45,960
+someone used the curse from back then
+
+2624
+01:19:45,960 --> 01:19:47,080
+to accomplish something.
+
+2625
+01:19:47,080 --> 01:19:47,520
+Yes.
+
+2626
+01:19:47,520 --> 01:19:48,660
+(What is the truth
+behind the third curse?)
+
+2627
+01:19:48,660 --> 01:19:50,020
+(An Family Curse Investigation Progress
+First Curse, 1978: 100%)
+
+2628
+01:19:50,020 --> 01:19:51,300
+(Second Curse, 1996: 100%
+Third Curse, 2016: 40%)
+
+2629
+01:19:51,320 --> 01:19:51,720
+I want
+
+2630
+01:19:51,720 --> 01:19:53,880
+to ask who was the Puppet?
+
+2631
+01:19:54,200 --> 01:19:56,040
+Who was the Puppet in 2016?
+
+2632
+01:19:56,100 --> 01:19:58,580
+(What was the Puppet's identity?)
+
+2633
+01:19:58,700 --> 01:19:59,280
+(Who was the Puppet in 2016?)
+
+2634
+01:19:59,280 --> 01:20:00,120
+I have a theory.
+
+2635
+01:20:00,180 --> 01:20:00,920
+(Another bold theory)
+
+2636
+01:20:00,920 --> 01:20:01,760
+It was An Yi.
+
+2637
+01:20:05,800 --> 01:20:06,480
+An family's scandals
+
+2638
+01:20:06,800 --> 01:20:08,280
+could never be allowed to leak out.
+
+2639
+01:20:08,280 --> 01:20:08,680
+Yes.
+
+2640
+01:20:08,680 --> 01:20:09,560
+(The higher one's status,
+the less room there is for error)
+
+2641
+01:20:09,560 --> 01:20:10,800
+Truth of An Er's death
+
+2642
+01:20:10,800 --> 01:20:12,200
+could never become public.
+
+2643
+01:20:12,200 --> 01:20:13,900
+They couldn't reveal he
+was killed by his family.
+
+2644
+01:20:14,160 --> 01:20:16,920
+It had to appear as though
+the curse had taken him.
+
+2645
+01:20:16,920 --> 01:20:18,520
+To protect the An family's reputation,
+
+2646
+01:20:18,520 --> 01:20:20,080
+An Yi must have disguised
+himself as the Puppet
+
+2647
+01:20:20,560 --> 01:20:22,320
+and spread that story.
+
+2648
+01:20:22,340 --> 01:20:24,700
+(He Jiahuan theorizes
+that An Yi was the Puppet in 2016)
+
+2649
+01:20:24,720 --> 01:20:25,120
+However,
+
+2650
+01:20:25,720 --> 01:20:27,120
+at 9:50 PM,
+
+2651
+01:20:27,120 --> 01:20:29,000
+the Puppet could not have been An Yi.
+
+2652
+01:20:31,720 --> 01:20:33,040
+In the chat records,
+
+2653
+01:20:33,040 --> 01:20:34,480
+wasn't there a Puppet's face
+
+2654
+01:20:34,480 --> 01:20:35,880
+reflected in the glass?
+
+2655
+01:20:36,480 --> 01:20:37,560
+That means the Puppet
+
+2656
+01:20:37,560 --> 01:20:38,360
+wasn't An Yi.
+
+2657
+01:20:38,360 --> 01:20:40,280
+So there was someone else.
+
+2658
+01:20:40,340 --> 01:20:43,220
+(The Puppet wasn't An Yi)
+
+2659
+01:20:43,600 --> 01:20:44,160
+Then,
+
+2660
+01:20:44,160 --> 01:20:45,680
+if we think it through,
+
+2661
+01:20:45,680 --> 01:20:46,560
+one of the suspects
+
+2662
+01:20:46,560 --> 01:20:47,400
+among us
+
+2663
+01:20:47,800 --> 01:20:50,040
+had a personal motive
+
+2664
+01:20:50,920 --> 01:20:52,600
+for killing An Yi.
+
+2665
+01:20:52,600 --> 01:20:54,160
+That person may have known
+
+2666
+01:20:54,160 --> 01:20:55,320
+that An Yi was the Puppet.
+
+2667
+01:20:55,720 --> 01:20:56,840
+So they disguised
+
+2668
+01:20:56,840 --> 01:20:58,200
+themselves as the Puppet
+
+2669
+01:20:58,200 --> 01:20:59,880
+to lure An Yi out.
+
+2670
+01:20:59,900 --> 01:21:01,820
+(He Jiahuan suspects the 2016
+Puppet is among them)
+
+2671
+01:21:01,840 --> 01:21:02,280
+Wait.
+
+2672
+01:21:02,760 --> 01:21:03,360
+No.
+
+2673
+01:21:03,360 --> 01:21:03,990
+Here's the problem.
+
+2674
+01:21:04,240 --> 01:21:05,520
+At 21:50,
+
+2675
+01:21:05,520 --> 01:21:06,360
+we were
+
+2676
+01:21:06,360 --> 01:21:07,040
+all together.
+
+2677
+01:21:07,320 --> 01:21:07,720
+Yes.
+
+2678
+01:21:07,720 --> 01:21:08,180
+(Group activity: 21:50 - 21:57)
+
+2679
+01:21:08,180 --> 01:21:08,820
+(21:50, An Yi sees the Puppet)
+
+2680
+01:21:08,820 --> 01:21:09,380
+(21:55, Everyone arrives
+at An Yi's room)
+
+2681
+01:21:09,380 --> 01:21:10,220
+(21:57, Everyone leaves An Yi's room
+and sees the Puppet in the corridor)
+
+2682
+01:21:10,240 --> 01:21:10,800
+Right.
+
+2683
+01:21:10,800 --> 01:21:11,000
+Yes.
+
+2684
+01:21:11,000 --> 01:21:12,160
+We were all together.
+
+2685
+01:21:12,160 --> 01:21:12,680
+The Puppet
+
+2686
+01:21:12,680 --> 01:21:14,360
+was not any one of us.
+
+2687
+01:21:14,360 --> 01:21:14,800
+Correct.
+
+2688
+01:21:15,040 --> 01:21:15,680
+It was not us.
+
+2689
+01:21:15,680 --> 01:21:16,880
+It could not have been us.
+
+2690
+01:21:17,320 --> 01:21:18,880
+Then who else could the Puppet be?
+
+2691
+01:21:18,980 --> 01:21:22,700
+(The Puppet was neither An Yi
+nor anyone present)
+
+2692
+01:21:22,820 --> 01:21:25,580
+(Who exactly was the Puppet?)
+
+2693
+01:21:25,600 --> 01:21:27,200
+We have figured out
+
+2694
+01:21:27,200 --> 01:21:27,600
+the first
+
+2695
+01:21:27,600 --> 01:21:28,480
+two curses.
+
+2696
+01:21:28,480 --> 01:21:28,840
+Yes.
+
+2697
+01:21:28,840 --> 01:21:30,500
+So now we need to return to 2016.
+
+2698
+01:21:30,500 --> 01:21:31,450
+(An Family Curse Investigation
+Progress First Curse, 1978: 100%)
+
+2699
+01:21:31,450 --> 01:21:32,040
+We need to go back
+
+2700
+01:21:32,040 --> 01:21:33,200
+(Second Curse, 1996: 100%
+Third Curse, 2016: 40%)
+
+2701
+01:21:33,200 --> 01:21:33,840
+to the archive room
+
+2702
+01:21:33,840 --> 01:21:36,160
+and figure out how to return to 2016.
+
+2703
+01:21:36,640 --> 01:21:37,120
+Let's go.
+
+2704
+01:21:43,440 --> 01:21:44,800
+Let us return
+
+2705
+01:21:44,800 --> 01:21:46,080
+to 2016. Come on.
+
+2706
+01:21:46,080 --> 01:21:47,400
+Form the formation.
+
+2707
+01:21:47,460 --> 01:21:49,040
+(Investigation puzzle begins)
+
+2708
+01:21:49,040 --> 01:21:50,800
+Will assembling this really
+trigger time travel?
+
+2709
+01:21:50,800 --> 01:21:51,520
+Yes.
+
+2710
+01:21:51,840 --> 01:21:52,720
+It will trigger it.
+
+2711
+01:21:53,240 --> 01:21:53,840
+Once assembled,
+
+2712
+01:21:53,840 --> 01:21:55,200
+(Previous time-travel experience)
+it should activate something.
+
+2713
+01:21:55,200 --> 01:21:55,600
+It's here.
+
+2714
+01:21:55,660 --> 01:21:57,140
+(File bag)
+
+2715
+01:21:57,250 --> 01:21:57,950
+(Theory: Assembling the X
+and O pieces activates time travel)
+
+2716
+01:21:57,950 --> 01:21:58,560
+Match the X and O.
+
+2717
+01:21:58,560 --> 01:21:59,440
+There.
+
+2718
+01:21:59,880 --> 01:22:00,240
+Alright.
+
+2719
+01:22:00,720 --> 01:22:01,160
+Restored.
+
+2720
+01:22:01,640 --> 01:22:02,200
+It is complete.
+
+2721
+01:22:02,420 --> 01:22:06,820
+(Can they successfully return to 2016?)
+
+2722
+01:22:10,960 --> 01:22:12,120
+Nothing happened.
+
+2723
+01:22:15,080 --> 01:22:15,800
+No, wait.
+
+2724
+01:22:15,800 --> 01:22:16,840
+Is this the right position?
+
+2725
+01:22:17,520 --> 01:22:18,000
+No.
+
+2726
+01:22:18,000 --> 01:22:19,260
+(Is the posture incorrect?)
+
+2727
+01:22:21,760 --> 01:22:23,080
+An San died
+
+2728
+01:22:23,080 --> 01:22:25,160
+on March 25, 1996.
+
+2729
+01:22:27,640 --> 01:22:29,280
+And the current time
+
+2730
+01:22:29,280 --> 01:22:32,760
+is March 25, 1996.
+
+2731
+01:22:34,860 --> 01:22:36,740
+(Returned to the file's date:
+March 25, 1996)
+
+2732
+01:22:36,760 --> 01:22:37,520
+Wait a moment.
+
+2733
+01:22:37,520 --> 01:22:38,960
+Could it be related to the year?
+
+2734
+01:22:39,640 --> 01:22:41,840
+Find something connected to 2016.
+
+2735
+01:22:42,100 --> 01:22:43,440
+(An Xiaoding's theory)
+
+2736
+01:22:43,440 --> 01:22:43,950
+(Travel requires an item
+from the target year)
+
+2737
+01:22:43,950 --> 01:22:44,640
+Use a different year.
+
+2738
+01:22:45,240 --> 01:22:46,120
+This year is wrong.
+
+2739
+01:22:48,420 --> 01:22:48,980
+(Discarded paper from the archive room)
+
+2740
+01:22:49,000 --> 01:22:50,280
+Just write "2016" yourself.
+
+2741
+01:22:50,640 --> 01:22:51,120
+No.
+
+2742
+01:22:53,220 --> 01:22:54,740
+(Self-reliance is the key to success)
+
+2743
+01:22:54,960 --> 01:22:56,350
+Seriously?
+You mean we write it ourselves?
+
+2744
+01:22:56,740 --> 01:22:58,620
+(Watching closely)
+
+2745
+01:23:02,560 --> 01:23:04,080
+This is a time machine.
+
+2746
+01:23:04,720 --> 01:23:05,200
+Incredible.
+
+2747
+01:23:05,200 --> 01:23:07,040
+We can go wherever we want.
+
+2748
+01:23:07,360 --> 01:23:08,560
+I want to go to 2036.
+
+2749
+01:23:09,440 --> 01:23:10,920
+Can I go to the year 3030?
+
+2750
+01:23:10,920 --> 01:23:11,400
+No.
+
+2751
+01:23:12,040 --> 01:23:13,050
+Forget investigating this case.
+
+2752
+01:23:13,050 --> 01:23:14,120
+Let's go to the future together.
+
+2753
+01:23:14,120 --> 01:23:14,840
+Agreed.
+
+2754
+01:23:15,200 --> 01:23:16,040
+I think so too.
+
+2755
+01:23:16,760 --> 01:23:18,080
+Come on.
+
+2756
+01:23:18,080 --> 01:23:18,800
+Let's go, everyone.
+
+2757
+01:23:19,800 --> 01:23:20,840
+Can it really work?
+
+2758
+01:23:20,840 --> 01:23:21,400
+It can.
+
+2759
+01:23:21,400 --> 01:23:22,040
+I will write it.
+
+2760
+01:23:25,040 --> 01:23:25,560
+Really?
+
+2761
+01:23:38,520 --> 01:23:40,440
+Let us return to 2016.
+
+2762
+01:23:43,920 --> 01:23:44,480
+Set off.
+
+2763
+01:23:51,400 --> 01:23:52,040
+We are back.
+
+2764
+01:23:52,360 --> 01:23:53,320
+Fresh air.
+
+2765
+01:23:53,680 --> 01:23:54,600
+What do we do now?
+
+2766
+01:23:55,000 --> 01:23:56,920
+Investigate the crime scene.
+
+2767
+01:23:56,920 --> 01:23:57,720
+The crime scene?
+
+2768
+01:23:57,720 --> 01:23:58,080
+Yes.
+
+2769
+01:23:58,360 --> 01:23:59,560
+This report...
+
+2770
+01:24:01,200 --> 01:24:01,840
+He Jiahuan.
+
+2771
+01:24:01,840 --> 01:24:03,160
+You really don't care about your stuff.
+
+2772
+01:24:03,160 --> 01:24:04,080
+Let's go.
+
+2773
+01:24:04,420 --> 01:24:05,460
+(Leaves immediately)
+
+2774
+01:24:05,760 --> 01:24:07,640
+Does your detective team
+always forget things like this?
+
+2775
+01:24:10,160 --> 01:24:11,560
+Can we look at the chat records?
+
+2776
+01:24:12,040 --> 01:24:13,000
+What is that?
+
+2777
+01:24:13,000 --> 01:24:14,320
+Do not scare me. What is that thing?
+
+2778
+01:24:14,320 --> 01:24:15,000
+The janitor.
+
+2779
+01:24:15,700 --> 01:24:17,860
+(A cleaning cart)
+
+2780
+01:24:20,580 --> 01:24:21,980
+(Too afraid to touch it)
+
+2781
+01:24:22,000 --> 01:24:22,760
+It is fine. I will go
+
+2782
+01:24:23,640 --> 01:24:24,360
+It is fine. I will go.
+
+2783
+01:24:25,240 --> 01:24:26,040
+What is happening now?
+
+2784
+01:24:26,400 --> 01:24:27,320
+What happened this time?
+
+2785
+01:24:28,720 --> 01:24:29,760
+I want to find out.
+
+2786
+01:24:32,680 --> 01:24:33,760
+This trash bin.
+
+2787
+01:24:33,760 --> 01:24:34,920
+I would like to examine it.
+
+2788
+01:24:34,920 --> 01:24:36,480
+I think someone came here just now.
+
+2789
+01:24:36,480 --> 01:24:36,680
+No.
+
+2790
+01:24:36,680 --> 01:24:37,040
+Not it.
+
+2791
+01:24:37,040 --> 01:24:37,960
+When we arrived
+
+2792
+01:24:37,960 --> 01:24:38,720
+in 2016,
+
+2793
+01:24:38,720 --> 01:24:39,680
+this was not here.
+
+2794
+01:24:40,000 --> 01:24:40,720
+It suddenly appeared.
+
+2795
+01:24:41,180 --> 01:24:43,580
+(2016)
+
+2796
+01:24:43,600 --> 01:24:45,480
+Please change into your work
+uniform before entering.
+
+2797
+01:24:46,040 --> 01:24:46,960
+Change into your uniform
+
+2798
+01:24:47,400 --> 01:24:48,040
+before entering.
+
+2799
+01:24:48,040 --> 01:24:49,520
+What? Change into a work uniform?
+
+2800
+01:24:50,520 --> 01:24:51,840
+Jin Xiangyu's uniform.
+
+2801
+01:24:52,200 --> 01:24:52,960
+Don't tell me...
+
+2802
+01:24:53,320 --> 01:24:54,480
+An Xiaowen's uniform.
+
+2803
+01:24:56,080 --> 01:24:57,400
+There better not be one for An Xiaoding.
+
+2804
+01:24:58,400 --> 01:24:59,360
+There is.
+
+2805
+01:25:00,720 --> 01:25:01,520
+No uniform for me?
+
+2806
+01:25:02,200 --> 01:25:03,080
+He Jiahuan.
+
+2807
+01:25:03,080 --> 01:25:04,140
+(Cleaning Supervisor, An Xiaoning.
+Janitor, An Xiaowen, An Ke)
+
+2808
+01:25:04,140 --> 01:25:04,900
+(Housekeeper, Jin Xiangyu.
+Bodyguard, He Jiahuan)
+
+2809
+01:25:04,900 --> 01:25:05,260
+(Security Guard, An Xiaoding)
+
+2810
+01:25:05,280 --> 01:25:06,200
+What does it say?
+
+2811
+01:25:10,040 --> 01:25:11,120
+(Housekeeper, Jin Xiangyu)
+Housekeeper.
+
+2812
+01:25:11,120 --> 01:25:12,640
+(Housekeeper)
+How did I become a housekeeper?
+
+2813
+01:25:12,640 --> 01:25:13,200
+What about you?
+
+2814
+01:25:13,600 --> 01:25:14,520
+(Janitor, An Xiaowen)
+I am a janitor.
+
+2815
+01:25:14,520 --> 01:25:14,960
+And you?
+
+2816
+01:25:15,640 --> 01:25:16,910
+(Security Guard, An Xiaoding)
+I am a security guard.
+
+2817
+01:25:16,960 --> 01:25:17,960
+(Janitor, An Ke)
+I am a janitor.
+
+2818
+01:25:18,680 --> 01:25:20,200
+I am the cleaning supervisor.
+
+2819
+01:25:20,200 --> 01:25:21,280
+(Cleaning Supervisor, An Xiaoning)
+
+2820
+01:25:21,280 --> 01:25:22,280
+I am your supervisor.
+
+2821
+01:25:23,000 --> 01:25:24,240
+(Bodyguard, He Jiahuan)
+I am a bodyguard.
+
+2822
+01:25:24,800 --> 01:25:27,040
+Your rank is one level above mine.
+
+2823
+01:25:27,040 --> 01:25:28,560
+I am a bodyguard, not a security guard.
+
+2824
+01:25:29,240 --> 01:25:29,640
+A bodyguard.
+
+2825
+01:25:29,640 --> 01:25:30,800
+That identity sounds impressive.
+
+2826
+01:25:30,800 --> 01:25:32,160
+I am a personal bodyguard.
+
+2827
+01:25:32,160 --> 01:25:33,300
+(Personal bodyguard)
+
+2828
+01:25:35,640 --> 01:25:36,000
+No.
+
+2829
+01:25:36,000 --> 01:25:37,960
+The restriction on entering
+the wedding chamber
+
+2830
+01:25:37,960 --> 01:25:39,280
+was from the 1996 timeline, correct?
+
+2831
+01:25:39,280 --> 01:25:40,040
+The events of 1996.
+
+2832
+01:25:41,040 --> 01:25:42,120
+(No entry to the wedding chamber)
+It's all here, right?
+
+2833
+01:25:42,120 --> 01:25:43,280
+Which side do we change clothes on?
+
+2834
+01:25:43,280 --> 01:25:43,840
+The left side.
+
+2835
+01:25:44,440 --> 01:25:45,400
+Why are there uniforms here
+
+2836
+01:25:45,400 --> 01:25:46,120
+when we returned?
+
+2837
+01:25:46,120 --> 01:25:48,040
+How did I suddenly
+become a security guard?
+
+2838
+01:25:48,040 --> 01:25:49,680
+Why are there uniforms here?
+
+2839
+01:25:50,160 --> 01:25:51,560
+Wait a moment. Our identities...
+
+2840
+01:25:53,100 --> 01:25:58,220
+(If this is neither 2016 nor 1996,
+then what year is it?)
+
+2841
+01:25:58,300 --> 01:26:02,140
+(What year are we actually in?)
+
+2842
+01:26:02,160 --> 01:26:03,000
+(Next Episode Preview)
+I have An Yi's
+
+2843
+01:26:03,000 --> 01:26:04,440
+medical examination report.
+
+2844
+01:26:05,360 --> 01:26:06,080
+He is not dead.
+
+2845
+01:26:06,080 --> 01:26:06,960
+He is still alive.
+
+2846
+01:26:06,960 --> 01:26:08,720
+Something is becoming very wrong.
+
+2847
+01:26:08,720 --> 01:26:10,120
+Then whose corpse was it?
+
+2848
+01:26:10,120 --> 01:26:11,880
+One of the four of us.
+
+2849
+01:26:12,560 --> 01:26:13,360
+A paradox.
+
+2850
+01:26:13,520 --> 01:26:14,680
+If you burn someone,
+
+2851
+01:26:14,680 --> 01:26:15,760
+then it becomes yours.
+
+2852
+01:26:15,760 --> 01:26:16,920
+I am ready to identify the killer.
+
+2853
+01:26:16,980 --> 01:26:18,240
+(In the name of "love",
+the curse repeats itself)
+
+2854
+01:26:18,240 --> 01:26:20,480
+This is a curse that has haunted
+the An family.
+
+2855
+01:26:20,560 --> 01:26:21,480
+The child is gone.
+
+2856
+01:26:21,480 --> 01:26:23,360
+I don't want this cycle
+to continue any longer.
+
+2857
+01:26:23,360 --> 01:26:24,960
+Say goodbye to domestic violence.
+
+2858
+01:26:24,960 --> 01:26:26,280
+We must save the children.
+
+2859
+01:26:26,280 --> 01:26:27,840
+Although this method
+of education is painful,
+
+2860
+01:26:27,840 --> 01:26:29,880
+perhaps there is some
+justification behind it.
+
+2861
+01:26:29,880 --> 01:26:30,640
+Emotional abuse.
+
+2862
+01:26:30,640 --> 01:26:31,680
+Excessive psychological control.
+
+2863
+01:26:31,680 --> 01:26:33,120
+Talk back again
+and I'll beat you to death.
+
+2864
+01:26:33,120 --> 01:26:34,840
+They all think they're
+doing the right thing.
+
+2865
+01:26:34,840 --> 01:26:36,440
+Look how well I have raised my child.
+
+2866
+01:26:36,440 --> 01:26:37,880
+And yet you resorted to violence.
+
+2867
+01:26:37,880 --> 01:26:39,480
+You are a monster.
+
+2868
+01:26:39,480 --> 01:26:39,960
+Wait.
+
+2869
+01:26:40,880 --> 01:26:41,240
+It's alive.
+
+2870
+01:26:42,400 --> 01:26:43,360
+It is actually alive.
+
+2871
+01:26:45,120 --> 01:26:45,840
+That is terrifying.
+
+2872
+01:26:46,440 --> 01:26:47,840
+I love everyone.
+
+2873
+01:26:47,840 --> 01:26:49,480
+My methods may simply be different.
+
+2874
+01:26:49,480 --> 01:26:51,040
+I, too, am someone
+
+2875
+01:26:51,040 --> 01:26:52,800
+who insists on achieving my goals.
+
+2876
+01:26:52,800 --> 01:26:53,880
+You sinner.
+
+2877
+01:26:53,880 --> 01:26:55,400
+You are a selfish person.
+
+2878
+01:26:55,400 --> 01:26:58,000
+Psychologically, you are deeply
+disturbed in every respect.
+
+2879
+01:26:58,280 --> 01:26:59,120
+It was all of us together
+
+2880
+01:26:59,120 --> 01:27:00,640
+who brought about this tragedy.
+
+2881
+01:27:49,800 --> 01:27:53,800
+♪Come now, players all,
+let the game of reason start♪
+
+2882
+01:27:53,800 --> 01:27:58,240
+♪Unlock each hidden trial,
+let courage spark the dark♪
+
+2883
+01:28:00,260 --> 01:28:04,420
+♪Night falls slow, shadows grow,
+the sleuth is lost inside the maze♪
+
+2884
+01:28:04,420 --> 01:28:08,640
+♪Figures pass, lanterns sparse,
+dark currents drift without a trace♪
+
+2885
+01:28:08,640 --> 01:28:12,410
+♪Wind picks up, footsteps rush,
+cold laughter swallowed by the dark♪
+
+2886
+01:28:12,410 --> 01:28:16,520
+♪Truth concealed, the night
+stands still, and nothing leaves a mark♪
+
+2887
+01:28:16,700 --> 01:28:20,820
+♪An unsigned letter, coded words,
+the solvers gather one by one♪
+
+2888
+01:28:20,820 --> 01:28:24,930
+♪A broken game, illusion reigns,
+who's hiding what they've done?♪
+
+2889
+01:28:24,930 --> 01:28:28,570
+♪Hushed voices, nerves on edge,
+wrapped in smoke and mirrors still♪
+
+2890
+01:28:28,570 --> 01:28:30,700
+♪The next second, deeper riddles,
+or the answer to the kill♪
+
+2891
+01:28:30,700 --> 01:28:34,650
+♪Every piece of truth
+has finally come to light♪
+
+2892
+01:28:34,890 --> 01:28:38,810
+♪Unlock the mystery, turn the question,
+let's begin tonight♪
+
+2893
+01:28:39,020 --> 01:28:43,170
+♪Side by side, no holding back,
+follow every clue to find the truth♪
+
+2894
+01:28:43,170 --> 01:28:46,730
+♪The story blurs like flowers in fog,
+let's begin tonight♪
+
+2895
+01:28:46,990 --> 01:28:51,640
+♪Search for the vanished cipher,
+trace the proof, and face the sleuth♪
