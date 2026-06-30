@@ -1,0 +1,2459 @@
+1
+00:01:33,093 --> 00:01:34,094
+We need to put him on ECMO.
+
+2
+00:01:35,161 --> 00:01:35,562
+Director.
+
+3
+00:01:38,598 --> 00:01:40,133
+Severe heart failure, recurrent ventricular fibrillation.
+
+4
+00:01:40,800 --> 00:01:41,434
+We have to start
+
+5
+00:01:41,434 --> 00:01:41,868
+ECMO now.
+
+6
+00:01:41,935 --> 00:01:42,936
+You're his legal guardian.
+
+7
+00:01:42,936 --> 00:01:43,436
+Do you consent?
+
+8
+00:01:45,004 --> 00:01:45,605
+Sign here.
+
+9
+00:01:49,509 --> 00:01:49,943
+Lin Yi.
+
+10
+00:01:56,049 --> 00:01:57,117
+Sign? Where?
+
+11
+00:02:07,293 --> 00:02:07,927
+For ECMO.
+
+12
+00:02:10,530 --> 00:02:11,064
+Come with me.
+
+13
+00:02:17,370 --> 00:02:18,505
+How did it suddenly get this bad?
+
+14
+00:02:19,105 --> 00:02:19,772
+I don't know.
+
+15
+00:02:19,806 --> 00:02:21,908
+I... I got home,
+
+16
+00:02:22,475 --> 00:02:23,009
+and he was already like this.
+
+17
+00:02:24,444 --> 00:02:24,944
+This afternoon,
+
+18
+00:02:25,011 --> 00:02:26,246
+he looked fine on the monitor.
+
+19
+00:02:26,479 --> 00:02:27,413
+He took his medicine
+
+20
+00:02:27,714 --> 00:02:28,314
+every day too.
+
+21
+00:02:28,481 --> 00:02:29,115
+Lin Yi.
+
+22
+00:02:30,016 --> 00:02:30,683
+Listen to me.
+
+23
+00:02:31,151 --> 00:02:32,752
+Xiaorui's condition is very serious.
+
+24
+00:02:33,953 --> 00:02:35,255
+Even with ECMO,
+
+25
+00:02:35,922 --> 00:02:37,357
+we don't know how long it can sustain him.
+
+26
+00:02:38,291 --> 00:02:39,125
+Use a donor heart.
+
+27
+00:02:39,359 --> 00:02:40,593
+We've been on the waiting list for a long time.
+
+28
+00:02:40,827 --> 00:02:41,828
+We can use a donor heart.
+
+29
+00:02:42,829 --> 00:02:43,730
+There isn't enough time.
+
+30
+00:02:45,331 --> 00:02:46,599
+His right heart function is very poor.
+
+31
+00:02:46,633 --> 00:02:47,734
+An LVAD won't work either.
+
+32
+00:02:49,969 --> 00:02:51,271
+No. You have to save him.
+
+33
+00:02:52,105 --> 00:02:52,805
+You have to save him.
+
+34
+00:02:53,773 --> 00:02:54,307
+Please save him.
+
+35
+00:02:54,307 --> 00:02:55,308
+I'm begging you.
+
+36
+00:02:56,142 --> 00:02:56,643
+Please.
+
+37
+00:02:57,043 --> 00:02:57,710
+You have to save him.
+
+38
+00:02:58,678 --> 00:02:59,212
+He...
+
+39
+00:02:59,946 --> 00:03:01,014
+He can't end like this.
+
+40
+00:03:01,281 --> 00:03:02,282
+He can't.
+
+41
+00:03:03,016 --> 00:03:03,683
+I'm begging you.
+
+42
+00:03:03,783 --> 00:03:04,884
+Think of something.
+
+43
+00:03:04,884 --> 00:03:05,552
+Please save him.
+
+44
+00:03:07,320 --> 00:03:08,721
+The only possible option now
+
+45
+00:03:10,790 --> 00:03:11,958
+is biventricular assist support.
+
+46
+00:03:13,393 --> 00:03:14,494
+But Dongjiang can't do it.
+
+47
+00:03:15,228 --> 00:03:15,562
+Okay.
+
+48
+00:03:15,862 --> 00:03:16,829
+Biventricular support. Fine.
+
+49
+00:03:17,397 --> 00:03:18,198
+Implant the device.
+
+50
+00:03:18,598 --> 00:03:19,399
+I have money.
+
+51
+00:03:19,666 --> 00:03:20,600
+How much? How much does it cost?
+
+52
+00:03:20,733 --> 00:03:22,802
+I... I've saved a lot.
+
+53
+00:03:22,835 --> 00:03:23,670
+Any amount is fine.
+
+54
+00:03:23,670 --> 00:03:24,671
+We'll do biventricular support.
+
+55
+00:03:24,671 --> 00:03:26,005
+Please help me.
+
+56
+00:03:26,406 --> 00:03:27,040
+Please help me.
+
+57
+00:03:27,407 --> 00:03:27,907
+Help me.
+
+58
+00:03:28,308 --> 00:03:29,008
+Please.
+
+59
+00:03:32,145 --> 00:03:32,946
+I'll try.
+
+60
+00:04:16,823 --> 00:04:17,323
+Director Zhou.
+
+61
+00:04:17,890 --> 00:04:19,225
+Biventricular artificial heart support
+
+62
+00:04:19,359 --> 00:04:20,226
+has not yet been formally
+
+63
+00:04:20,226 --> 00:04:21,294
+approved for routine clinical use.
+
+64
+00:04:21,628 --> 00:04:22,362
+But several major hospitals
+
+65
+00:04:22,362 --> 00:04:23,763
+in China
+
+66
+00:04:23,763 --> 00:04:25,198
+are authorized for clinical trials.
+
+67
+00:04:25,565 --> 00:04:26,666
+I've contacted a few.
+
+68
+00:04:26,799 --> 00:04:28,234
+A hospital in Shanghai
+
+69
+00:04:28,368 --> 00:04:29,369
+is willing to accept him.
+
+70
+00:04:29,736 --> 00:04:30,436
+I don't know
+
+71
+00:04:30,436 --> 00:04:31,237
+how Xiaorui is doing now.
+
+72
+00:04:31,371 --> 00:04:32,271
+Can he be transported?
+
+73
+00:04:32,772 --> 00:04:33,439
+He's on
+
+74
+00:04:33,439 --> 00:04:33,906
+ECMO for now.
+
+75
+00:04:34,040 --> 00:04:34,974
+If he stabilizes,
+
+76
+00:04:35,041 --> 00:04:35,908
+we can find a way to transfer him.
+
+77
+00:04:36,209 --> 00:04:36,909
+I'm coming over now.
+
+78
+00:04:39,012 --> 00:04:39,612
+It's too far.
+
+79
+00:04:39,879 --> 00:04:41,047
+An ambulance won't work.
+
+80
+00:04:41,147 --> 00:04:42,148
+We need a helicopter.
+
+81
+00:04:42,482 --> 00:04:43,383
+Does Dongli Hospital
+
+82
+00:04:43,383 --> 00:04:44,283
+have any agreement
+
+83
+00:04:44,283 --> 00:04:45,051
+with general aviation services?
+
+84
+00:04:45,652 --> 00:04:46,719
+The emergency medical center
+
+85
+00:04:46,753 --> 00:04:47,687
+may be able to coordinate it.
+
+86
+00:04:47,887 --> 00:04:48,388
+Okay.
+
+87
+00:04:48,755 --> 00:04:49,689
+I'll contact them.
+
+88
+00:04:49,789 --> 00:04:50,823
+I'll also ask
+
+89
+00:04:51,024 --> 00:04:51,557
+private rescue organizations.
+
+90
+00:04:51,691 --> 00:04:52,525
+Let's split up.
+
+91
+00:04:52,759 --> 00:04:53,159
+All right.
+
+92
+00:04:56,329 --> 00:04:57,163
+The blood gas results are back.
+
+93
+00:04:58,865 --> 00:05:00,033
+The lactate is even higher.
+
+94
+00:05:01,768 --> 00:05:02,669
+It's over 25.
+
+95
+00:05:06,372 --> 00:05:07,573
+His blood pressure is falling too.
+
+96
+00:05:31,664 --> 00:05:32,365
+A hospital in Shanghai
+
+97
+00:05:32,398 --> 00:05:33,800
+will accept Xiaorui for biventricular support.
+
+98
+00:05:34,434 --> 00:05:35,668
+We're contacting a helicopter.
+
+99
+00:05:40,907 --> 00:05:41,441
+Prepare for transfer.
+
+100
+00:05:42,108 --> 00:05:42,642
+We found one.
+
+101
+00:05:43,276 --> 00:05:43,910
+Director Xiaofeng
+
+102
+00:05:44,010 --> 00:05:45,011
+arranged biventricular support.
+
+103
+00:05:45,345 --> 00:05:45,878
+We're going to Shanghai now.
+
+104
+00:05:45,878 --> 00:05:46,646
+The helicopter is already...
+
+105
+00:06:27,053 --> 00:06:28,921
+Can... can it still fly?
+
+106
+00:06:37,263 --> 00:06:37,930
+Yes.
+
+107
+00:06:42,068 --> 00:06:42,535
+Transfer him.
+
+108
+00:06:43,503 --> 00:06:43,970
+Transfer him.
+
+109
+00:06:44,203 --> 00:06:44,670
+Um...
+
+110
+00:06:44,871 --> 00:06:45,304
+Dr. Qiao.
+
+111
+00:06:45,605 --> 00:06:46,439
+Take the ECMO team
+
+112
+00:06:46,439 --> 00:06:46,973
+and equipment with you on the flight.
+
+113
+00:06:47,073 --> 00:06:47,507
+Beibei.
+
+114
+00:06:47,640 --> 00:06:49,709
+You come help too.
+
+115
+00:06:49,709 --> 00:06:50,243
+I'm transferring him.
+
+116
+00:06:50,276 --> 00:06:50,943
+Everyone, help.
+
+117
+00:06:50,943 --> 00:06:51,544
+I'm transferring him.
+
+118
+00:06:51,611 --> 00:06:52,111
+Director Lin.
+
+119
+00:06:53,513 --> 00:06:54,347
+Is there still any point
+
+120
+00:06:55,448 --> 00:06:56,382
+in flying now?
+
+121
+00:06:56,516 --> 00:06:57,383
+Of course there is.
+
+122
+00:07:00,253 --> 00:07:00,953
+He can't die.
+
+123
+00:07:06,793 --> 00:07:07,927
+Can we please not give up?
+
+124
+00:07:11,631 --> 00:07:12,565
+I'm begging you.
+
+125
+00:07:14,367 --> 00:07:15,134
+Please.
+
+126
+00:07:17,036 --> 00:07:17,603
+Help me.
+
+127
+00:07:24,143 --> 00:07:24,911
+Then we'll fly.
+
+128
+00:07:29,015 --> 00:07:29,615
+I'll go with you.
+
+129
+00:07:39,826 --> 00:07:40,426
+Director Zhou.
+
+130
+00:07:41,227 --> 00:07:41,828
+But...
+
+131
+00:07:42,328 --> 00:07:42,862
+Brother.
+
+132
+00:07:51,471 --> 00:07:52,505
+He hasn't given up.
+
+133
+00:07:56,042 --> 00:07:57,343
+We can't leave him with regret.
+
+134
+00:08:08,988 --> 00:08:09,455
+President.
+
+135
+00:08:09,755 --> 00:08:10,389
+President Wang.
+
+136
+00:08:12,692 --> 00:08:13,292
+Director Lin
+
+137
+00:08:13,526 --> 00:08:14,794
+still wants the transfer,
+
+138
+00:08:15,161 --> 00:08:15,828
+to Shanghai.
+
+139
+00:08:22,335 --> 00:08:22,969
+Give me the penlight.
+
+140
+00:08:39,852 --> 00:08:40,953
+Both pupils are fully dilated.
+
+141
+00:08:41,988 --> 00:08:43,122
+No light reflex.
+
+142
+00:08:43,890 --> 00:08:44,757
+He is likely brain-dead.
+
+143
+00:08:47,927 --> 00:08:48,728
+The transfer stretcher is here.
+
+144
+00:08:50,196 --> 00:08:50,863
+The stretcher is here.
+
+145
+00:08:58,070 --> 00:08:58,604
+Xiao Lin.
+
+146
+00:09:01,674 --> 00:09:02,275
+The patient
+
+147
+00:09:03,676 --> 00:09:04,477
+is already brain-dead.
+
+148
+00:09:06,846 --> 00:09:07,446
+If we go through all this
+
+149
+00:09:07,446 --> 00:09:09,215
+to transfer him now,
+
+150
+00:09:10,983 --> 00:09:11,984
+there's no point.
+
+151
+00:09:29,268 --> 00:09:30,570
+As his family,
+
+152
+00:09:31,904 --> 00:09:32,471
+I understand
+
+153
+00:09:36,175 --> 00:09:37,009
+how you feel.
+
+154
+00:09:39,445 --> 00:09:40,446
+But as a doctor,
+
+155
+00:09:42,315 --> 00:09:43,049
+you need to be rational.
+
+156
+00:09:43,282 --> 00:09:44,050
+Don't touch me.
+
+157
+00:09:48,387 --> 00:09:49,322
+I'm not a doctor right now.
+
+158
+00:09:50,256 --> 00:09:51,123
+And you're not my superior.
+
+159
+00:09:52,124 --> 00:09:52,625
+I'm family.
+
+160
+00:09:52,725 --> 00:09:53,359
+I'm his family.
+
+161
+00:09:53,759 --> 00:09:54,527
+I demand a transfer.
+
+162
+00:09:54,560 --> 00:09:55,561
+I demand
+
+163
+00:09:55,595 --> 00:09:56,195
+that the hospital transfer him immediately.
+
+164
+00:09:56,195 --> 00:09:57,363
+Will you cooperate or not?
+
+165
+00:10:01,934 --> 00:10:02,969
+Forget it. I'll do it myself.
+
+166
+00:10:03,336 --> 00:10:04,070
+Lin Yi.
+
+167
+00:10:04,804 --> 00:10:05,605
+Lin Yi.
+
+168
+00:10:05,705 --> 00:10:06,973
+If you won't help, I will.
+
+169
+00:10:08,040 --> 00:10:08,708
+Lin Yi.
+
+170
+00:10:09,075 --> 00:10:10,443
+This is also the choice you should make.
+
+171
+00:10:17,283 --> 00:10:18,718
+A matching donor is rare.
+
+172
+00:10:19,285 --> 00:10:20,786
+It should be reserved for your own family,
+
+173
+00:10:21,787 --> 00:10:22,922
+so your loved one can live.
+
+174
+00:10:23,322 --> 00:10:24,390
+That is also your responsibility.
+
+175
+00:10:27,193 --> 00:10:28,527
+This is the choice you should make.
+
+176
+00:10:34,233 --> 00:10:35,001
+Let him go.
+
+177
+00:11:10,469 --> 00:11:11,003
+Director Lin.
+
+178
+00:11:11,037 --> 00:11:11,904
+Director Lin! Director Lin!
+
+179
+00:11:14,373 --> 00:11:14,774
+Xiao Lin.
+
+180
+00:11:16,075 --> 00:11:16,509
+Xiao Lin.
+
+181
+00:11:16,742 --> 00:11:17,276
+Lin Yi.
+
+182
+00:11:18,411 --> 00:11:18,878
+Lin Yi.
+
+183
+00:11:19,512 --> 00:11:20,012
+Lin Yi.
+
+184
+00:12:08,527 --> 00:12:09,028
+Xiaorui.
+
+185
+00:12:16,569 --> 00:12:17,136
+Xiaorui.
+
+186
+00:12:22,975 --> 00:12:23,476
+Yi.
+
+187
+00:12:58,277 --> 00:12:58,744
+Yi.
+
+188
+00:13:01,413 --> 00:13:01,947
+Brother.
+
+189
+00:13:17,229 --> 00:13:17,997
+I'm sorry.
+
+190
+00:13:23,569 --> 00:13:25,304
+I couldn't keep my promise.
+
+191
+00:13:28,440 --> 00:13:30,142
+You've already done so well.
+
+192
+00:13:31,677 --> 00:13:32,478
+You've worked hard.
+
+193
+00:13:35,214 --> 00:13:35,948
+Do you remember
+
+194
+00:13:36,081 --> 00:13:37,216
+the book we read together?
+
+195
+00:13:41,086 --> 00:13:42,555
+When someone leaves the earth,
+
+196
+00:13:43,589 --> 00:13:45,524
+a new star appears in the sky.
+
+197
+00:13:47,693 --> 00:13:48,494
+Why do all of you
+
+198
+00:13:48,527 --> 00:13:50,095
+have to become stars?
+
+199
+00:13:55,201 --> 00:13:56,969
+Why do you have to go to the sky?
+
+200
+00:14:00,873 --> 00:14:02,808
+Why leave me behind?
+
+201
+00:14:24,263 --> 00:14:26,365
+Why did you have to leave?
+
+202
+00:14:36,208 --> 00:14:37,643
+To shine a little light
+
+203
+00:14:38,244 --> 00:14:39,211
+shed a little light
+
+204
+00:15:42,074 --> 00:15:43,309
+I want to say goodbye to him.
+
+205
+00:18:10,489 --> 00:18:10,989
+He said a butterfly
+
+206
+00:18:10,989 --> 00:18:11,957
+could create a whirlwind of love
+
+207
+00:18:12,291 --> 00:18:13,792
+with every flap of its wings.
+
+208
+00:18:14,226 --> 00:18:14,760
+But today,
+
+209
+00:18:15,928 --> 00:18:16,962
+he tied my shoelaces
+
+210
+00:18:16,962 --> 00:18:17,863
+with a surgical knot.
+
+211
+00:18:18,063 --> 00:18:19,164
+It looked awful.
+
+212
+00:18:20,199 --> 00:18:21,467
+If he can't even tie a bow,
+
+213
+00:18:21,767 --> 00:18:23,068
+how am I supposed to flap my butterfly wings?
+
+214
+00:18:23,368 --> 00:18:25,037
+Fine. Next time I'll tie you a bow.
+
+215
+00:20:06,838 --> 00:20:07,773
+I'll get your clothes.
+
+216
+00:21:21,413 --> 00:21:22,280
+Why did you dig out
+
+217
+00:21:22,314 --> 00:21:23,048
+this shirt?
+
+218
+00:21:24,116 --> 00:21:24,850
+Did Yi wash it?
+
+219
+00:21:26,918 --> 00:21:27,452
+The colors all ran.
+
+220
+00:21:27,519 --> 00:21:28,754
+I thought you'd never wear it again.
+
+221
+00:21:30,122 --> 00:21:31,490
+I'll let him off this time.
+
+222
+00:21:32,090 --> 00:21:32,991
+Because I think it looks good.
+
+223
+00:21:33,592 --> 00:21:34,826
+And everyone's colors
+
+224
+00:21:35,193 --> 00:21:35,827
+are all on it.
+
+225
+00:21:36,528 --> 00:21:37,062
+That makes it meaningful.
+
+226
+00:21:38,463 --> 00:21:38,964
+Fine.
+
+227
+00:21:39,131 --> 00:21:40,232
+It's one of a kind.
+
+228
+00:21:41,033 --> 00:21:41,833
+No one else will have the same shirt.
+
+229
+00:21:43,535 --> 00:21:44,303
+I've already decided.
+
+230
+00:21:44,970 --> 00:21:45,971
+On Dad's birthday,
+
+231
+00:21:46,271 --> 00:21:47,005
+I'll wear this
+
+232
+00:21:47,639 --> 00:21:48,573
+and take the spiriranthes to see him.
+
+233
+00:21:50,275 --> 00:21:50,676
+Okay.
+
+234
+00:21:51,176 --> 00:21:52,010
+And I'll complain to him
+
+235
+00:21:53,278 --> 00:21:55,213
+that Yi is still unreliable
+
+236
+00:21:55,747 --> 00:21:56,615
+and has gained weight again.
+
+237
+00:22:35,287 --> 00:22:36,321
+Remember to take a nap.
+
+238
+00:22:38,523 --> 00:22:39,791
+I know, you nag.
+
+239
+00:22:40,358 --> 00:22:41,360
+Bye-bye.
+
+240
+00:22:43,595 --> 00:22:45,230
+You still can't say goodbye properly.
+
+241
+00:23:17,796 --> 00:23:18,563
+Are you home?
+
+242
+00:23:23,034 --> 00:23:23,969
+Did you get everything?
+
+243
+00:24:07,112 --> 00:24:07,846
+Lin Yi.
+
+244
+00:25:47,045 --> 00:25:48,213
+As the first cold wave
+
+245
+00:25:48,413 --> 00:25:49,881
+of 2024 sweeps through,
+
+246
+00:25:50,315 --> 00:25:51,283
+powerful cold air
+
+247
+00:25:51,483 --> 00:25:53,385
+is pushing the warm, humid air southward.
+
+248
+00:25:54,052 --> 00:25:54,953
+It's only November,
+
+249
+00:25:55,320 --> 00:25:56,922
+yet Dongjiang has welcomed
+
+250
+00:25:56,988 --> 00:25:58,023
+its earliest first snow in ten years.
+
+251
+00:25:58,890 --> 00:26:00,492
+According to the Dongjiang Meteorological Center,
+
+252
+00:26:00,692 --> 00:26:01,993
+today's high
+
+253
+00:26:02,127 --> 00:26:03,194
+will be around one degree Celsius.
+
+254
+00:26:03,328 --> 00:26:04,162
+Winds will be strong,
+
+255
+00:26:04,529 --> 00:26:05,530
+with northwesterly winds at Force 5
+
+256
+00:26:05,730 --> 00:26:06,932
+and gusts at Force 6 to 7,
+
+257
+00:26:07,332 --> 00:26:08,733
+and even stronger along the coast.
+
+258
+00:26:09,868 --> 00:26:11,036
+The snow is so heavy.
+
+259
+00:26:11,603 --> 00:26:12,203
+Let's go.
+
+260
+00:26:21,546 --> 00:26:22,714
+It's snowing. Look.
+
+261
+00:27:06,224 --> 00:27:06,791
+You really didn't need
+
+262
+00:27:06,825 --> 00:27:07,993
+to come all this way.
+
+263
+00:27:09,294 --> 00:27:10,328
+I thought it would be better
+
+264
+00:27:10,362 --> 00:27:11,129
+to come in person.
+
+265
+00:27:13,565 --> 00:27:14,065
+How...
+
+266
+00:27:14,599 --> 00:27:15,200
+how are you?
+
+267
+00:27:15,467 --> 00:27:16,201
+Are you okay?
+
+268
+00:27:19,804 --> 00:27:20,605
+If there's anything
+
+269
+00:27:20,639 --> 00:27:21,640
+I can help with,
+
+270
+00:27:21,640 --> 00:27:23,208
+please tell me.
+
+271
+00:27:28,079 --> 00:27:28,947
+Director Zhou is here.
+
+272
+00:27:29,147 --> 00:27:30,215
+Sorry I wasn't there to welcome you.
+
+273
+00:27:31,783 --> 00:27:32,517
+You two talk.
+
+274
+00:27:38,556 --> 00:27:39,024
+Director Zhou.
+
+275
+00:27:39,758 --> 00:27:40,692
+Have some fruit first.
+
+276
+00:27:41,292 --> 00:27:41,793
+Here, have some water.
+
+277
+00:27:42,527 --> 00:27:43,528
+No need to be so polite, Mr. Qin.
+
+278
+00:27:44,129 --> 00:27:45,063
+I mainly came today
+
+279
+00:27:45,130 --> 00:27:45,964
+to thank you in person
+
+280
+00:27:46,264 --> 00:27:46,865
+for helping arrange
+
+281
+00:27:46,865 --> 00:27:48,066
+the helicopter.
+
+282
+00:27:48,767 --> 00:27:49,267
+Director Zhou,
+
+283
+00:27:49,401 --> 00:27:50,735
+please don't mention it.
+
+284
+00:27:51,302 --> 00:27:52,437
+I didn't manage to help in the end.
+
+285
+00:27:53,605 --> 00:27:54,773
+It still makes me feel
+
+286
+00:27:55,473 --> 00:27:56,307
+pretty awful.
+
+287
+00:27:57,242 --> 00:27:58,610
+He was so young.
+
+288
+00:27:59,911 --> 00:28:00,712
+Such a shame.
+
+289
+00:28:05,717 --> 00:28:06,951
+How much did you spend in total?
+
+290
+00:28:07,318 --> 00:28:07,919
+I'll transfer it to you.
+
+291
+00:28:08,953 --> 00:28:09,654
+I didn't spend anything.
+
+292
+00:28:09,854 --> 00:28:11,589
+The flight never happened.
+
+293
+00:28:13,725 --> 00:28:15,093
+But arranging the aircraft
+
+294
+00:28:15,160 --> 00:28:15,827
+and the personnel
+
+295
+00:28:15,927 --> 00:28:16,828
+must have cost something.
+
+296
+00:28:17,629 --> 00:28:18,363
+Honestly,
+
+297
+00:28:18,530 --> 00:28:19,130
+it really wasn't much.
+
+298
+00:28:19,831 --> 00:28:21,232
+I asked a friend for help.
+
+299
+00:28:21,633 --> 00:28:23,001
+It was a personal favor.
+
+300
+00:28:23,802 --> 00:28:24,936
+He didn't charge me.
+
+301
+00:28:25,270 --> 00:28:26,371
+If I took your money,
+
+302
+00:28:26,704 --> 00:28:27,605
+what kind of person would that make me?
+
+303
+00:28:28,473 --> 00:28:29,040
+No, but...
+
+304
+00:28:29,307 --> 00:28:29,708
+Director Zhou,
+
+305
+00:28:30,375 --> 00:28:31,176
+there has never been
+
+306
+00:28:31,409 --> 00:28:32,744
+any financial transaction between us,
+
+307
+00:28:32,744 --> 00:28:33,244
+right?
+
+308
+00:28:33,511 --> 00:28:34,112
+If you suddenly
+
+309
+00:28:34,112 --> 00:28:35,113
+transferred me money,
+
+310
+00:28:35,113 --> 00:28:36,548
+I'd have a lot of explaining to do
+
+311
+00:28:37,082 --> 00:28:38,483
+if anyone investigated later.
+
+312
+00:28:39,517 --> 00:28:39,918
+That's true.
+
+313
+00:28:40,151 --> 00:28:41,386
+Then I'll settle it directly with them.
+
+314
+00:28:42,120 --> 00:28:42,687
+Director Zhou,
+
+315
+00:28:45,723 --> 00:28:46,191
+really,
+
+316
+00:28:46,891 --> 00:28:48,526
+I deeply admire
+
+317
+00:28:49,427 --> 00:28:51,062
+the kind of person you are.
+
+318
+00:28:51,329 --> 00:28:52,163
+Even if we weren't
+
+319
+00:28:52,197 --> 00:28:53,131
+in a client-vendor relationship,
+
+320
+00:28:54,199 --> 00:28:55,166
+I'd still hope
+
+321
+00:28:55,567 --> 00:28:56,468
+to have a friend like you.
+
+322
+00:28:56,868 --> 00:28:57,368
+You did it for your brother.
+
+323
+00:28:57,602 --> 00:28:58,570
+I did it for my friend.
+
+324
+00:29:00,004 --> 00:29:01,406
+It's the same principle.
+
+325
+00:29:01,639 --> 00:29:02,874
+Having the chance
+
+326
+00:29:03,041 --> 00:29:04,409
+to do even one small thing for you
+
+327
+00:29:04,876 --> 00:29:05,543
+is an honor for me.
+
+328
+00:29:05,610 --> 00:29:06,344
+So let's not
+
+329
+00:29:08,313 --> 00:29:08,847
+stand on ceremony.
+
+330
+00:29:09,047 --> 00:29:10,048
+Come on.
+
+331
+00:29:14,319 --> 00:29:15,353
+Have some fruit.
+
+332
+00:29:17,689 --> 00:29:19,324
+Director Lin, that's enough.
+
+333
+00:29:20,091 --> 00:29:20,925
+It looks all right.
+
+334
+00:29:20,992 --> 00:29:21,493
+Has he had
+
+335
+00:29:21,493 --> 00:29:22,293
+an echocardiogram and 24-hour Holter monitoring?
+
+336
+00:29:22,627 --> 00:29:23,094
+Yes.
+
+337
+00:29:23,228 --> 00:29:23,995
+There were no major problems.
+
+338
+00:29:24,596 --> 00:29:25,864
+But genetic testing shows
+
+339
+00:29:26,030 --> 00:29:27,132
+he carries a pathogenic mutation.
+
+340
+00:29:27,532 --> 00:29:28,399
+And the probability
+
+341
+00:29:28,433 --> 00:29:29,267
+of developing the disease is unclear.
+
+342
+00:29:29,634 --> 00:29:30,401
+Actually,
+
+343
+00:29:30,435 --> 00:29:31,503
+you don't need to worry too much.
+
+344
+00:29:31,803 --> 00:29:32,570
+For now,
+
+345
+00:29:32,670 --> 00:29:34,105
+we can rule out dilated cardiomyopathy.
+
+346
+00:29:34,873 --> 00:29:35,673
+His current insomnia,
+
+347
+00:29:35,707 --> 00:29:37,308
+chest pain, and palpitations
+
+348
+00:29:37,809 --> 00:29:38,510
+are probably
+
+349
+00:29:38,610 --> 00:29:40,111
+mainly psychological.
+
+350
+00:29:43,915 --> 00:29:44,482
+But this can't
+
+351
+00:29:44,482 --> 00:29:45,450
+go on indefinitely.
+
+352
+00:29:46,251 --> 00:29:47,385
+You're right to take it seriously.
+
+353
+00:29:47,786 --> 00:29:49,454
+This kind of grief-related stress
+
+354
+00:29:49,721 --> 00:29:50,889
+is harmful even
+
+355
+00:29:50,922 --> 00:29:51,823
+to an average person.
+
+356
+00:29:52,190 --> 00:29:53,224
+Let alone someone
+
+357
+00:29:53,224 --> 00:29:54,025
+in Director Lin's condition.
+
+358
+00:29:54,592 --> 00:29:55,693
+We really can't be careless.
+
+359
+00:29:56,094 --> 00:29:57,162
+He needs regular follow-ups.
+
+360
+00:30:01,432 --> 00:30:02,066
+What's wrong?
+
+361
+00:30:04,502 --> 00:30:05,103
+Are you okay?
+
+362
+00:30:06,204 --> 00:30:07,238
+He fell asleep
+
+363
+00:30:08,973 --> 00:30:09,874
+in such a noisy place.
+
+364
+00:30:14,813 --> 00:30:15,346
+Maybe
+
+365
+00:30:15,480 --> 00:30:17,248
+he should see a psychologist.
+
+366
+00:30:23,054 --> 00:30:23,655
+Director Lin.
+
+367
+00:30:23,955 --> 00:30:25,690
+Should I schedule the next follow-up
+
+368
+00:30:25,957 --> 00:30:27,158
+for six months
+
+369
+00:30:27,492 --> 00:30:28,092
+Six months.
+
+370
+00:30:28,493 --> 00:30:29,127
+Six months, just to be safe.
+
+371
+00:30:30,328 --> 00:30:30,728
+Okay.
+
+372
+00:30:36,201 --> 00:30:37,035
+Thank you, Director Wang.
+
+373
+00:30:39,470 --> 00:30:40,405
+You don't need to be too nervous.
+
+374
+00:30:40,805 --> 00:30:41,706
+Let's get him admitted first.
+
+375
+00:30:42,006 --> 00:30:42,707
+Thank you.
+
+376
+00:30:43,107 --> 00:30:43,808
+Come with me.
+
+377
+00:30:43,875 --> 00:30:44,809
+I'll help you with the admission.
+
+378
+00:30:51,282 --> 00:30:51,883
+Are you okay?
+
+379
+00:30:56,921 --> 00:30:57,956
+You didn't sleep again last night, did you?
+
+380
+00:31:01,125 --> 00:31:01,626
+I couldn't.
+
+381
+00:31:04,362 --> 00:31:05,463
+Why don't you take annual leave
+
+382
+00:31:06,164 --> 00:31:07,031
+and get some proper rest?
+
+383
+00:31:08,032 --> 00:31:08,633
+If I stay home,
+
+384
+00:31:08,666 --> 00:31:09,667
+I won't know what to do.
+
+385
+00:31:12,804 --> 00:31:13,304
+Maybe
+
+386
+00:31:14,639 --> 00:31:16,007
+we should finish this week's appointments
+
+387
+00:31:17,008 --> 00:31:18,509
+and suspend the joint clinic for a while.
+
+388
+00:31:20,011 --> 00:31:20,812
+Zhang Zhen and Liu Dong
+
+389
+00:31:20,812 --> 00:31:22,146
+have opened their own clinics anyway.
+
+390
+00:31:30,989 --> 00:31:32,323
+The slots for the European summit
+
+391
+00:31:32,323 --> 00:31:33,391
+have all been finalized.
+
+392
+00:31:33,825 --> 00:31:34,826
+They're already
+
+393
+00:31:34,826 --> 00:31:35,994
+starting the visa applications.
+
+394
+00:31:36,828 --> 00:31:37,996
+Dr. Zhang told me
+
+395
+00:31:38,429 --> 00:31:39,964
+he never expected to get a slot.
+
+396
+00:31:40,064 --> 00:31:40,965
+He's thrilled.
+
+397
+00:31:43,368 --> 00:31:44,736
+He usually has it hard.
+
+398
+00:31:45,803 --> 00:31:47,438
+He works tirelessly and conscientiously.
+
+399
+00:31:48,673 --> 00:31:49,774
+This is a good chance
+
+400
+00:31:49,908 --> 00:31:51,476
+for him to recharge and relax.
+
+401
+00:31:51,609 --> 00:31:52,076
+That's good.
+
+402
+00:31:52,477 --> 00:31:53,544
+And this summit
+
+403
+00:31:53,544 --> 00:31:54,512
+is highly valuable.
+
+404
+00:31:55,246 --> 00:31:55,947
+It's a great opportunity
+
+405
+00:31:56,047 --> 00:31:57,248
+for him to learn and gain experience.
+
+406
+00:31:57,415 --> 00:31:58,283
+It'll help him.
+
+407
+00:32:00,752 --> 00:32:01,452
+With a director
+
+408
+00:32:01,486 --> 00:32:02,787
+as considerate as you,
+
+409
+00:32:03,521 --> 00:32:04,555
+he'd probably work himself to the bone
+
+410
+00:32:04,656 --> 00:32:05,790
+without complaint.
+
+411
+00:32:09,160 --> 00:32:09,994
+Cardiac Surgery
+
+412
+00:32:10,561 --> 00:32:11,996
+is definitely sending Director Sheng himself, right?
+
+413
+00:32:13,731 --> 00:32:14,165
+Yes.
+
+414
+00:32:15,566 --> 00:32:17,201
+See? Both are department directors,
+
+415
+00:32:17,669 --> 00:32:18,403
+but at critical moments,
+
+416
+00:32:18,903 --> 00:32:20,038
+you can tell who's better.
+
+417
+00:32:26,811 --> 00:32:27,845
+How is
+
+418
+00:32:29,714 --> 00:32:30,615
+Director Lin?
+
+419
+00:32:34,652 --> 00:32:35,320
+Not very well.
+
+420
+00:32:40,625 --> 00:32:42,093
+Maybe he doesn't want us to worry.
+
+421
+00:32:43,394 --> 00:32:44,762
+He refuses to tell us anything.
+
+422
+00:32:45,930 --> 00:32:47,031
+He keeps everything bottled up.
+
+423
+00:32:51,569 --> 00:32:52,870
+Honestly, it might be better
+
+424
+00:32:53,171 --> 00:32:54,305
+if he cried or made a scene,
+
+425
+00:32:54,439 --> 00:32:55,206
+and let it out.
+
+426
+00:32:55,873 --> 00:32:56,841
+If he keeps it all inside,
+
+427
+00:32:57,275 --> 00:32:58,943
+even if he looks calm,
+
+428
+00:32:59,243 --> 00:33:00,144
+his heart
+
+429
+00:33:00,144 --> 00:33:01,346
+may already be shattered.
+
+430
+00:33:02,046 --> 00:33:03,214
+He'll make himself sick.
+
+431
+00:33:06,484 --> 00:33:07,785
+I urged him to take some time off,
+
+432
+00:33:08,653 --> 00:33:09,487
+but he wouldn't listen.
+
+433
+00:33:12,357 --> 00:33:13,157
+How about
+
+434
+00:33:14,392 --> 00:33:15,760
+I apply for
+
+435
+00:33:15,827 --> 00:33:16,761
+a summit slot for him?
+
+436
+00:33:17,128 --> 00:33:18,830
+It could give him a change of scenery.
+
+437
+00:33:21,432 --> 00:33:22,400
+That's a good idea.
+
+438
+00:33:23,000 --> 00:33:23,468
+It is.
+
+439
+00:33:24,569 --> 00:33:25,470
+Right now, only
+
+440
+00:33:25,470 --> 00:33:26,571
+professional matters
+
+441
+00:33:26,604 --> 00:33:28,006
+can get him energized.
+
+442
+00:33:28,606 --> 00:33:29,273
+But I'm not sure
+
+443
+00:33:29,273 --> 00:33:29,974
+he'd be willing to go.
+
+444
+00:33:30,408 --> 00:33:31,542
+I'll talk to him first.
+
+445
+00:33:31,876 --> 00:33:33,644
+If that doesn't work, I'll ask Director Sheng.
+
+446
+00:33:34,278 --> 00:33:35,513
+He'll listen to Director Sheng.
+
+447
+00:33:36,414 --> 00:33:37,482
+As long as he's willing,
+
+448
+00:33:37,615 --> 00:33:38,916
+I'll do whatever it takes
+
+449
+00:33:38,916 --> 00:33:39,851
+to secure that slot.
+
+450
+00:33:44,489 --> 00:33:45,156
+You get back to work.
+
+451
+00:33:45,523 --> 00:33:46,691
+I'll ask about the slot.
+
+452
+00:33:49,927 --> 00:33:50,395
+By the way,
+
+453
+00:33:51,929 --> 00:33:52,530
+is Senlin due
+
+454
+00:33:52,530 --> 00:33:53,364
+for his checkup this month?
+
+455
+00:33:55,266 --> 00:33:56,167
+If it's convenient,
+
+456
+00:33:56,401 --> 00:33:56,968
+I'd like to arrange
+
+457
+00:33:56,968 --> 00:33:57,869
+an MRI for him
+
+458
+00:33:58,169 --> 00:33:59,037
+and review it personally.
+
+459
+00:34:02,173 --> 00:34:02,774
+That's very thoughtful.
+
+460
+00:34:03,241 --> 00:34:03,674
+Thank you.
+
+461
+00:34:05,243 --> 00:34:06,277
+No need to be so polite.
+
+462
+00:34:10,748 --> 00:34:11,182
+I'm leaving.
+
+463
+00:34:15,853 --> 00:34:16,721
+As you know,
+
+464
+00:34:16,721 --> 00:34:17,488
+the European summit slots
+
+465
+00:34:17,522 --> 00:34:18,990
+are extremely competitive this year.
+
+466
+00:34:19,323 --> 00:34:20,158
+I truly had to pull
+
+467
+00:34:20,158 --> 00:34:21,125
+every string I could
+
+468
+00:34:21,192 --> 00:34:22,393
+to get one more.
+
+469
+00:34:23,161 --> 00:34:23,895
+After all,
+
+470
+00:34:24,128 --> 00:34:25,930
+Director Lin is in a special situation.
+
+471
+00:34:26,764 --> 00:34:27,999
+For such an important summit,
+
+472
+00:34:28,232 --> 00:34:29,133
+Cardiology
+
+473
+00:34:29,267 --> 00:34:30,435
+is only sending Zhang Zhen.
+
+474
+00:34:31,102 --> 00:34:31,869
+Had I known,
+
+475
+00:34:31,969 --> 00:34:33,237
+we might as well have given this slot
+
+476
+00:34:33,237 --> 00:34:34,372
+to Lin Yi directly.
+
+477
+00:34:36,441 --> 00:34:37,108
+Had we known...
+
+478
+00:34:37,308 --> 00:34:38,376
+No one could have predicted
+
+479
+00:34:38,376 --> 00:34:39,844
+this would happen.
+
+480
+00:34:41,746 --> 00:34:42,447
+All right.
+
+481
+00:34:42,680 --> 00:34:43,915
+It may be good for him to get away.
+
+482
+00:34:44,515 --> 00:34:45,049
+I'll talk to him.
+
+483
+00:34:45,950 --> 00:34:47,185
+Thank you, Director Sheng.
+
+484
+00:34:49,120 --> 00:34:50,888
+Manager Ouyang, you really think of everything.
+
+485
+00:34:51,556 --> 00:34:52,623
+What I'm thinking is,
+
+486
+00:34:52,957 --> 00:34:54,926
+if we can help Director Lin
+
+487
+00:34:54,992 --> 00:34:55,927
+move forward sooner,
+
+488
+00:34:56,194 --> 00:34:57,595
+that also helps ease
+
+489
+00:34:57,595 --> 00:34:58,429
+your burden, doesn't it?
+
+490
+00:34:59,030 --> 00:35:00,465
+Not only mine, I imagine.
+
+491
+00:35:08,773 --> 00:35:10,007
+I'll get you another hoodie.
+
+492
+00:35:16,280 --> 00:35:17,281
+These regular medicines
+
+493
+00:35:17,281 --> 00:35:18,115
+will go in
+
+494
+00:35:18,149 --> 00:35:19,317
+this little white pouch.
+
+495
+00:35:19,784 --> 00:35:21,085
+Be careful.
+
+496
+00:35:21,119 --> 00:35:21,886
+Don't catch a chill.
+
+497
+00:35:28,993 --> 00:35:29,894
+And your toiletries—
+
+498
+00:35:29,894 --> 00:35:31,195
+I've packed them separately
+
+499
+00:35:31,496 --> 00:35:32,563
+so they're easy to take.
+
+500
+00:35:36,801 --> 00:35:37,268
+Xiaoran.
+
+501
+00:35:45,810 --> 00:35:47,078
+I want to sell the old house.
+
+502
+00:35:52,350 --> 00:35:52,884
+Okay.
+
+503
+00:35:56,754 --> 00:35:57,688
+Think about whether
+
+504
+00:35:57,688 --> 00:35:58,322
+there's anything there
+
+505
+00:35:58,322 --> 00:35:59,524
+you want to keep.
+
+506
+00:36:00,224 --> 00:36:01,025
+Tell me.
+
+507
+00:36:02,393 --> 00:36:03,794
+I'll go sort through it
+
+508
+00:36:03,828 --> 00:36:04,362
+and bring it over.
+
+509
+00:36:07,798 --> 00:36:08,432
+No need.
+
+510
+00:36:11,802 --> 00:36:12,570
+When I come back,
+
+511
+00:36:13,704 --> 00:36:14,639
+I don't want to live here either.
+
+512
+00:36:19,477 --> 00:36:20,344
+Let's move.
+
+513
+00:36:22,914 --> 00:36:23,481
+Okay.
+
+514
+00:36:25,149 --> 00:36:26,384
+We'll look for a new place.
+
+515
+00:36:43,534 --> 00:36:44,135
+This time,
+
+516
+00:36:45,636 --> 00:36:46,204
+we'll find a home
+
+517
+00:36:46,204 --> 00:36:47,071
+you like.
+
+518
+00:36:52,276 --> 00:36:52,710
+I'm leaving.
+
+519
+00:36:55,079 --> 00:36:55,646
+Wait.
+
+520
+00:36:58,015 --> 00:36:59,183
+Not one I like.
+
+521
+00:36:59,850 --> 00:37:01,118
+One we like.
+
+522
+00:37:15,132 --> 00:37:15,766
+This
+
+523
+00:37:18,769 --> 00:37:20,071
+was given to us by Xiaorui.
+
+524
+00:38:10,121 --> 00:38:11,289
+I told him his craftsmanship was bad.
+
+525
+00:38:14,191 --> 00:38:14,825
+Lin Yi.
+
+526
+00:38:16,494 --> 00:38:17,528
+Let's get married.
+
+527
+00:38:22,667 --> 00:38:24,268
+I want a wedding by the sea.
+
+528
+00:38:24,702 --> 00:38:25,569
+We don't have to wait until spring.
+
+529
+00:38:26,404 --> 00:38:27,638
+The sea is beautiful in winter too.
+
+530
+00:38:30,574 --> 00:38:31,842
+Let me be your family.
+
+531
+00:38:50,628 --> 00:38:51,962
+Xiaorui and I designed countless
+
+532
+00:38:51,996 --> 00:38:53,130
+ways to propose.
+
+533
+00:38:58,569 --> 00:38:59,770
+I just never thought it would happen like this.
+
+534
+00:39:06,010 --> 00:39:06,544
+I do.
+
+535
+00:39:12,316 --> 00:39:13,517
+Give me some time to recover.
+
+536
+00:39:28,365 --> 00:39:28,833
+I'm leaving.
+
+537
+00:40:36,801 --> 00:40:37,368
+Ouyang.
+
+538
+00:40:37,601 --> 00:40:38,102
+Mr. Qin.
+
+539
+00:40:38,369 --> 00:40:39,904
+There are five revisions.
+
+540
+00:40:40,070 --> 00:40:40,971
+I've compiled them
+
+541
+00:40:41,038 --> 00:40:41,639
+into an editable document
+
+542
+00:40:41,639 --> 00:40:42,573
+and sent it to your WeChat
+
+543
+00:40:42,640 --> 00:40:43,374
+and email.
+
+544
+00:40:44,108 --> 00:40:45,042
+Okay, okay.
+
+545
+00:40:46,644 --> 00:40:47,111
+Mr. Qin.
+
+546
+00:40:47,445 --> 00:40:49,079
+Did everything go smoothly there today?
+
+547
+00:40:49,847 --> 00:40:50,414
+Today?
+
+548
+00:40:52,483 --> 00:40:53,384
+The meeting
+
+549
+00:40:53,451 --> 00:40:54,185
+is over.
+
+550
+00:40:54,785 --> 00:40:55,386
+I just
+
+551
+00:40:55,452 --> 00:40:56,720
+talked with Sheng Nian for a while.
+
+552
+00:40:57,922 --> 00:40:59,523
+He's still somewhat unhappy
+
+553
+00:40:59,523 --> 00:41:01,125
+that you helped Zhou Xiaofeng
+
+554
+00:41:01,158 --> 00:41:02,159
+with the fourth-generation vascular plug.
+
+555
+00:41:02,793 --> 00:41:04,028
+But fortunately, I calmed him down.
+
+556
+00:41:06,630 --> 00:41:07,331
+Don't worry.
+
+557
+00:41:07,932 --> 00:41:08,465
+I know.
+
+558
+00:41:08,566 --> 00:41:10,134
+I'll keep things balanced.
+
+559
+00:41:11,469 --> 00:41:12,002
+Ouyang.
+
+560
+00:41:12,169 --> 00:41:13,070
+I get the feeling
+
+561
+00:41:13,771 --> 00:41:16,006
+Sheng Nian is determined
+
+562
+00:41:16,173 --> 00:41:17,074
+to move into transcatheter valve procedures.
+
+563
+00:41:17,408 --> 00:41:18,976
+He mentioned it at the forum today too.
+
+564
+00:41:19,910 --> 00:41:20,611
+It looks like
+
+565
+00:41:20,744 --> 00:41:22,480
+a war between Cardiology and Cardiac Surgery at Dongli
+
+566
+00:41:22,680 --> 00:41:23,814
+is about to break out.
+
+567
+00:41:25,583 --> 00:41:26,317
+Isn't that exactly
+
+568
+00:41:26,317 --> 00:41:27,518
+what you wanted to see?
+
+569
+00:41:27,985 --> 00:41:28,953
+When the snipe and clam fight,
+
+570
+00:41:29,119 --> 00:41:29,887
+the fisherman profits.
+
+571
+00:41:32,189 --> 00:41:32,790
+All right, all right.
+
+572
+00:41:33,524 --> 00:41:35,226
+The fisherman is going to dinner with them now.
+
+573
+00:41:35,426 --> 00:41:35,993
+I'm hanging up.
+
+574
+00:41:36,560 --> 00:41:37,394
+Okay, bye.
+
+575
+00:41:37,761 --> 00:41:38,395
+Bye.
+
+576
+00:41:46,237 --> 00:41:47,805
+I truly learned a lot
+
+577
+00:41:47,972 --> 00:41:49,173
+from your talk at the forum today.
+
+578
+00:41:49,240 --> 00:41:50,107
+It was extremely enlightening.
+
+579
+00:41:50,508 --> 00:41:51,208
+Mr. Qin, thank you for your hard work.
+
+580
+00:41:51,442 --> 00:41:52,443
+It's what I should do.
+
+581
+00:41:52,710 --> 00:41:53,711
+I must toast you with this glass.
+
+582
+00:41:54,111 --> 00:41:55,145
+Take it easy. I'll finish mine.
+
+583
+00:41:56,213 --> 00:41:56,714
+Thank you, Director.
+
+584
+00:41:56,914 --> 00:41:57,615
+If it doesn't work well,
+
+585
+00:41:57,681 --> 00:41:58,883
+we'll never force it.
+
+586
+00:41:59,884 --> 00:42:00,584
+Take your time using it.
+
+587
+00:42:03,120 --> 00:42:03,554
+Here.
+
+588
+00:42:05,489 --> 00:42:06,123
+Director Lin.
+
+589
+00:42:06,991 --> 00:42:07,625
+Let me pour you some wine.
+
+590
+00:42:08,158 --> 00:42:08,759
+I don't drink.
+
+591
+00:42:09,093 --> 00:42:09,693
+Just one glass.
+
+592
+00:42:09,727 --> 00:42:10,294
+I can't.
+
+593
+00:42:10,694 --> 00:42:11,161
+Mr. Qin.
+
+594
+00:42:12,029 --> 00:42:12,630
+I'll drink with you.
+
+595
+00:42:13,063 --> 00:42:14,331
+All right, all right. No pressuring anyone.
+
+596
+00:42:14,331 --> 00:42:14,832
+Drink as you like.
+
+597
+00:42:15,266 --> 00:42:15,666
+Sorry.
+
+598
+00:42:15,666 --> 00:42:16,233
+No, no, no.
+
+599
+00:42:16,600 --> 00:42:18,269
+What is it? Still jet-lagged?
+
+600
+00:42:19,970 --> 00:42:20,437
+A little.
+
+601
+00:42:21,071 --> 00:42:21,672
+Then drink less.
+
+602
+00:42:21,839 --> 00:42:23,173
+One glass is fine. It'll help you sleep.
+
+603
+00:42:24,808 --> 00:42:26,610
+Director, I barely drink.
+
+604
+00:42:28,879 --> 00:42:30,481
+Everyone knows alcohol isn't good.
+
+605
+00:42:31,115 --> 00:42:32,283
+But it can make people happy.
+
+606
+00:42:33,250 --> 00:42:35,452
+In clinical practice, I've met
+
+607
+00:42:35,753 --> 00:42:36,654
+people with congenital conditions
+
+608
+00:42:37,521 --> 00:42:38,856
+who had no idea what they had
+
+609
+00:42:39,356 --> 00:42:40,324
+and lived without restrictions,
+
+610
+00:42:40,424 --> 00:42:41,592
+yet still reached their seventies or eighties.
+
+611
+00:42:41,926 --> 00:42:42,760
+As long as there's moderation,
+
+612
+00:42:43,394 --> 00:42:44,395
+don't make life too hard on yourself.
+
+613
+00:42:53,037 --> 00:42:53,504
+That's true.
+
+614
+00:42:54,171 --> 00:42:55,639
+No amount of caution can keep every storm away.
+
+615
+00:42:55,773 --> 00:42:56,674
+A little drink won't hurt.
