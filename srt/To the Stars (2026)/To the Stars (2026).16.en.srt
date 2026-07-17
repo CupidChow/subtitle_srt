@@ -1,0 +1,2643 @@
+1
+00:01:37,759 --> 00:01:38,960
+No, we have to go down.
+
+2
+00:01:45,880 --> 00:01:46,960
+I can hold on.
+
+3
+00:01:48,800 --> 00:01:49,640
+Stop it.
+
+4
+00:01:50,520 --> 00:01:52,650
+Look at how strong the wind is outside.
+
+5
+00:01:53,039 --> 00:01:55,370
+The signal equipment might malfunction.
+
+6
+00:01:55,400 --> 00:01:57,039
+You need to keep a close eye on it.
+
+7
+00:01:57,039 --> 00:01:58,520
+Hold on, my ass!
+
+8
+00:01:59,160 --> 00:02:01,890
+Do you want to be buried in the martyrs' cemetery?
+
+9
+00:02:02,400 --> 00:02:05,840
+That way, you'd have to come pay your respects to me every year.
+
+10
+00:02:05,840 --> 00:02:07,800
+Pay my respects to you? Every year?
+
+11
+00:02:08,360 --> 00:02:09,440
+If you die on a mission,
+
+12
+00:02:09,440 --> 00:02:11,280
+you'll likely be buried in Jiuquan.
+
+13
+00:02:11,280 --> 00:02:12,740
+I don't have time for that.
+
+14
+00:02:13,280 --> 00:02:14,400
+When the time comes,
+
+15
+00:02:14,400 --> 00:02:16,120
+I'll just use you as an excuse
+
+16
+00:02:16,240 --> 00:02:18,160
+to get together with Bao and Nan.
+
+17
+00:02:18,160 --> 00:02:19,200
+We'll have a good time.
+
+18
+00:02:19,200 --> 00:02:20,800
+I won't have time to miss you.
+
+19
+00:02:21,120 --> 00:02:23,120
+Acting tough and pushing yourself
+
+20
+00:02:23,120 --> 00:02:24,200
+proves nothing.
+
+21
+00:02:24,640 --> 00:02:26,040
+It only proves that you're an idiot.
+
+22
+00:02:26,040 --> 00:02:27,600
+Okay, I'll sleep for a bit.
+
+23
+00:02:27,600 --> 00:02:29,600
+Remember to monitor the equipment.
+
+24
+00:02:30,320 --> 00:02:31,520
+Mobile TT&C Station 3
+
+25
+00:02:31,560 --> 00:02:32,620
+calling Station 1.
+
+26
+00:02:33,520 --> 00:02:34,720
+Mobile TT&C Station 3
+
+27
+00:02:34,720 --> 00:02:35,780
+calling Station 1.
+
+28
+00:02:36,160 --> 00:02:36,960
+Wait a moment.
+
+29
+00:02:37,840 --> 00:02:38,840
+Xiu, it's for you.
+
+30
+00:02:39,720 --> 00:02:40,960
+This is Station 1. Go ahead, Station 3.
+
+31
+00:02:40,960 --> 00:02:42,220
+How is Ying Ziqi doing?
+
+32
+00:02:42,440 --> 00:02:43,970
+His fever is getting worse.
+
+33
+00:02:44,079 --> 00:02:45,680
+And the wind is stronger now.
+
+34
+00:02:46,160 --> 00:02:47,840
+Can you send someone up here immediately?
+
+35
+00:02:47,840 --> 00:02:48,240
+I know.
+
+36
+00:02:48,240 --> 00:02:49,400
+The meteorology team has reported it,
+
+37
+00:02:49,400 --> 00:02:51,280
+and I've reported to the superiors as well.
+
+38
+00:02:51,280 --> 00:02:52,160
+As soon as conditions permit,
+
+39
+00:02:52,160 --> 00:02:54,890
+we will dispatch a vehicle up there immediately.
+
+40
+00:02:58,200 --> 00:02:58,930
+Understood.
+
+41
+00:03:13,840 --> 00:03:15,040
+The voltage is unstable.
+
+42
+00:03:15,040 --> 00:03:18,240
+Don't let it affect the satellite communication signal.
+
+43
+00:04:34,760 --> 00:04:36,620
+Return to your posts and stand by.
+
+44
+00:04:38,280 --> 00:04:39,210
+What's going on?
+
+45
+00:04:40,680 --> 00:04:42,320
+Orbital data parameters are abnormal.
+
+46
+00:04:42,320 --> 00:04:43,920
+All posts, report your data.
+
+47
+00:04:46,240 --> 00:04:47,560
+The satellite is still within monitoring range.
+
+48
+00:04:47,560 --> 00:04:48,600
+Parameter anomalies detected.
+
+49
+00:04:48,600 --> 00:04:50,060
+All posts, please report.
+
+50
+00:04:50,520 --> 00:04:52,450
+Report. Telemetry signal is lost.
+
+51
+00:04:52,960 --> 00:04:54,000
+What happened?
+
+52
+00:04:55,360 --> 00:04:57,360
+Contact all mobile T&C posts
+
+53
+00:04:57,600 --> 00:05:00,060
+to report satellite data and signal status.
+
+54
+00:05:01,880 --> 00:05:03,120
+Mobile T&C, attention.
+
+55
+00:05:03,120 --> 00:05:04,240
+This is Xi'an.
+
+56
+00:05:04,240 --> 00:05:05,840
+Satellite orbital data is abnormal.
+
+57
+00:05:05,840 --> 00:05:06,840
+Signal is lost.
+
+58
+00:05:07,000 --> 00:05:09,040
+All stations, please report telemetry information.
+
+59
+00:05:09,040 --> 00:05:11,000
+Send real-time flight control data.
+
+60
+00:05:11,000 --> 00:05:12,320
+Mobile T&C 1 reporting.
+
+61
+00:05:12,320 --> 00:05:13,920
+Uplink signal interrupted.
+
+62
+00:05:14,720 --> 00:05:16,400
+Mobile Station 2 telemetry abnormal.
+
+63
+00:05:16,400 --> 00:05:17,360
+Signal interrupted.
+
+64
+00:05:17,360 --> 00:05:17,840
+Reporting.
+
+65
+00:05:17,840 --> 00:05:20,640
+Signals from Station 1 and 2 are both interrupted.
+
+66
+00:05:28,120 --> 00:05:29,780
+Stations 3 and 4 have signals.
+
+67
+00:05:30,960 --> 00:05:32,200
+Mobile Station 3,
+
+68
+00:05:32,200 --> 00:05:34,060
+please report data information.
+
+69
+00:05:37,480 --> 00:05:38,680
+Mobile Station 3,
+
+70
+00:05:38,680 --> 00:05:39,680
+this is Xi'an.
+
+71
+00:05:39,680 --> 00:05:41,159
+Please report if normal.
+
+72
+00:05:42,320 --> 00:05:43,600
+Mobile Station 3,
+
+73
+00:05:43,600 --> 00:05:45,460
+please report data information.
+
+74
+00:06:06,360 --> 00:06:07,440
+Mobile Telemetry Station 3,
+
+75
+00:06:07,440 --> 00:06:08,970
+please report your status.
+
+76
+00:06:12,800 --> 00:06:13,880
+Mobile Telemetry Station 3,
+
+77
+00:06:13,880 --> 00:06:15,410
+please report your status.
+
+78
+00:06:17,520 --> 00:06:19,120
+Mobile Telemetry Station 3.
+
+79
+00:06:23,920 --> 00:06:25,980
+Calling Mobile Telemetry Station 3.
+
+80
+00:06:29,440 --> 00:06:30,560
+Mobile Telemetry Station 3,
+
+81
+00:06:30,560 --> 00:06:32,090
+please respond if you copy.
+
+82
+00:06:39,760 --> 00:06:41,820
+Calling Mobile Telemetry Station 3.
+
+83
+00:06:43,520 --> 00:06:44,560
+Mobile Telemetry Station 3,
+
+84
+00:06:44,560 --> 00:06:46,090
+please report your status.
+
+85
+00:07:29,200 --> 00:07:30,280
+Mobile TT&C 3.
+
+86
+00:07:30,280 --> 00:07:31,360
+This is Xi'an.
+
+87
+00:07:31,360 --> 00:07:33,560
+Please report if everything is normal.
+
+88
+00:07:59,400 --> 00:08:01,360
+Forget about Mobile TT&C 3 for now.
+
+89
+00:08:01,560 --> 00:08:03,200
+Mobile TT&C 4, take over.
+
+90
+00:08:35,720 --> 00:08:38,380
+Receive the satellite orbit data immediately.
+
+91
+00:08:38,799 --> 00:08:39,659
+Number 4, copy.
+
+92
+00:08:57,720 --> 00:08:58,360
+Exciting.
+
+93
+00:08:58,360 --> 00:08:59,620
+That almost killed me.
+
+94
+00:09:02,320 --> 00:09:02,920
+Wu Wei.
+
+95
+00:09:04,000 --> 00:09:04,640
+Wu Wei.
+
+96
+00:09:05,400 --> 00:09:06,120
+Wu Wei.
+
+97
+00:09:08,040 --> 00:09:08,840
+What's wrong?
+
+98
+00:09:11,520 --> 00:09:12,000
+What's wrong?
+
+99
+00:09:12,000 --> 00:09:12,920
+Calling.
+
+100
+00:09:12,920 --> 00:09:13,920
+Reply quickly.
+
+101
+00:09:14,160 --> 00:09:14,880
+Hurry up.
+
+102
+00:09:15,320 --> 00:09:16,360
+Hurry, hurry up.
+
+103
+00:09:18,880 --> 00:09:19,640
+Mobile TT&C 3,
+
+104
+00:09:19,640 --> 00:09:20,300
+reporting.
+
+105
+00:09:22,040 --> 00:09:23,080
+Mobile Telemetry 3,
+
+106
+00:09:23,080 --> 00:09:24,040
+this is Xi'an.
+
+107
+00:09:24,920 --> 00:09:26,050
+Mobile Telemetry 3,
+
+108
+00:09:26,360 --> 00:09:28,160
+why didn't you respond just now?
+
+109
+00:09:28,480 --> 00:09:30,320
+There was a circuit issue, so I went to fix it.
+
+110
+00:09:30,320 --> 00:09:30,600
+I didn't want it to affect anything.
+
+111
+00:09:30,600 --> 00:09:33,160
+Why did you leave your post without reporting first?
+
+112
+00:09:33,160 --> 00:09:34,290
+Report the data now.
+
+113
+00:09:34,600 --> 00:09:35,800
+The telemetry signal is normal.
+
+114
+00:09:35,800 --> 00:09:37,640
+Everything is normal. Please advise.
+
+115
+00:09:37,640 --> 00:09:38,700
+The follow-up work
+
+116
+00:09:38,800 --> 00:09:41,060
+will be taken over by Mobile Telemetry 4.
+
+117
+00:09:42,120 --> 00:09:42,760
+Oh no.
+
+118
+00:09:43,600 --> 00:09:44,600
+Attention, all stations.
+
+119
+00:09:44,600 --> 00:09:45,760
+This is Xi'an.
+
+120
+00:09:46,160 --> 00:09:48,090
+Please report the telemetry data.
+
+121
+00:09:51,200 --> 00:09:52,200
+Mobile Tracking 1.
+
+122
+00:09:52,200 --> 00:09:54,080
+Signal restored. Telemetry normal.
+
+123
+00:09:54,080 --> 00:09:55,720
+Downlink signal is still fluctuating.
+
+124
+00:09:55,720 --> 00:09:56,780
+Mobile Tracking 4.
+
+125
+00:09:56,960 --> 00:09:58,880
+Telemetry normal. Orbit data normal.
+
+126
+00:09:58,880 --> 00:09:59,480
+Report.
+
+127
+00:09:59,480 --> 00:10:01,120
+Satellite attitude alert cleared.
+
+128
+00:10:01,120 --> 00:10:02,780
+Attitude restored to normal.
+
+129
+00:10:02,960 --> 00:10:03,400
+Nan.
+
+130
+00:10:04,800 --> 00:10:05,560
+Wei and Qi.
+
+131
+00:10:05,560 --> 00:10:06,840
+Did something happen to them?
+
+132
+00:10:06,840 --> 00:10:08,240
+Leaving posts without permission.
+
+133
+00:10:08,240 --> 00:10:09,440
+Is it very serious?
+
+134
+00:10:17,080 --> 00:10:18,740
+Looks like we broke the rules.
+
+135
+00:10:20,400 --> 00:10:21,600
+Missed the call.
+
+136
+00:10:23,000 --> 00:10:24,930
+Left our post without permission.
+
+137
+00:10:25,240 --> 00:10:26,880
+If I didn't go for the emergency repairs,
+
+138
+00:10:26,880 --> 00:10:29,140
+we couldn't have completed the mission.
+
+139
+00:10:29,520 --> 00:10:31,380
+We should have reported it first.
+
+140
+00:10:34,120 --> 00:10:34,880
+Forget it.
+
+141
+00:10:34,880 --> 00:10:36,410
+Just take care of yourself.
+
+142
+00:10:40,240 --> 00:10:41,240
+How are you doing?
+
+143
+00:10:44,520 --> 00:10:45,520
+It's all my fault.
+
+144
+00:10:56,720 --> 00:10:57,400
+Hello.
+
+145
+00:10:57,760 --> 00:10:59,360
+How long until you get here?
+
+146
+00:11:00,680 --> 00:11:01,480
+Five minutes.
+
+147
+00:11:02,040 --> 00:11:02,600
+Okay.
+
+148
+00:11:03,120 --> 00:11:04,580
+I'll take them down first.
+
+149
+00:11:55,840 --> 00:11:58,400
+Wu Wei, Wu Wei.
+
+150
+00:12:16,600 --> 00:12:18,120
+Hold on, Ziqi.
+
+151
+00:12:18,400 --> 00:12:18,920
+Come on.
+
+152
+00:12:21,280 --> 00:12:22,000
+Wu Wei.
+
+153
+00:12:22,760 --> 00:12:24,120
+Lock the car doors first.
+
+154
+00:12:24,120 --> 00:12:25,920
+The next shift will be here soon.
+
+155
+00:12:34,600 --> 00:12:35,860
+Come on, get in the car.
+
+156
+00:12:39,360 --> 00:12:40,690
+What were you thinking?
+
+157
+00:12:41,280 --> 00:12:42,600
+This is a launch mission,
+
+158
+00:12:42,600 --> 00:12:43,480
+not a drill.
+
+159
+00:12:43,480 --> 00:12:45,140
+How could you leave your post?
+
+160
+00:12:45,360 --> 00:12:46,280
+Are you crazy?
+
+161
+00:12:47,120 --> 00:12:48,560
+There was a problem with the line voltage.
+
+162
+00:12:48,560 --> 00:12:50,360
+I wanted to fix it before the mission.
+
+163
+00:12:50,360 --> 00:12:51,160
+It was an emergency,
+
+164
+00:12:51,160 --> 00:12:52,290
+so there was no time.
+
+165
+00:12:52,880 --> 00:12:54,200
+No time?
+
+166
+00:12:54,440 --> 00:12:54,880
+No time.
+
+167
+00:12:54,880 --> 00:12:57,080
+What's the point of having these rules?
+
+168
+00:12:57,520 --> 00:12:58,450
+Fine, whatever.
+
+169
+00:12:58,720 --> 00:13:00,180
+What I say doesn't matter.
+
+170
+00:13:00,360 --> 00:13:01,960
+I just feel sorry for you.
+
+171
+00:13:01,960 --> 00:13:02,920
+To be exact,
+
+172
+00:13:03,360 --> 00:13:05,280
+I feel sorry for Ying Ziqi.
+
+173
+00:13:05,280 --> 00:13:06,120
+You know?
+
+174
+00:13:06,480 --> 00:13:07,600
+Think about it.
+
+175
+00:13:35,240 --> 00:13:36,640
+What's wrong with Wu Wei?
+
+176
+00:13:38,440 --> 00:13:40,640
+How could he make such a rookie mistake?
+
+177
+00:13:44,920 --> 00:13:45,880
+I'm sorry.
+
+178
+00:13:46,000 --> 00:13:47,130
+I let everyone down.
+
+179
+00:13:47,400 --> 00:13:48,530
+It's not your fault.
+
+180
+00:13:49,120 --> 00:13:50,380
+It's all because of me.
+
+181
+00:13:51,680 --> 00:13:53,410
+Okay, go back and get some rest.
+
+182
+00:13:53,640 --> 00:13:55,560
+Do a good job with the rest of the work.
+
+183
+00:13:55,560 --> 00:13:56,160
+By the way,
+
+184
+00:13:56,400 --> 00:13:57,600
+Lao Qin and Lao Gu
+
+185
+00:13:57,600 --> 00:13:58,930
+asked you to go see them.
+
+186
+00:14:14,560 --> 00:14:15,240
+Reporting.
+
+187
+00:14:17,640 --> 00:14:18,400
+Come in.
+
+188
+00:14:30,480 --> 00:14:31,400
+Let me ask you,
+
+189
+00:14:32,880 --> 00:14:33,680
+why?
+
+190
+00:14:35,160 --> 00:14:35,720
+I...
+
+191
+00:14:39,560 --> 00:14:41,690
+Why did you make such a rookie mistake?
+
+192
+00:14:42,200 --> 00:14:44,040
+I was rushing to check the circuits,
+
+193
+00:14:44,040 --> 00:14:46,040
+afraid of delaying the measurement.
+
+194
+00:14:46,040 --> 00:14:47,160
+In my rush, I...
+
+195
+00:14:48,680 --> 00:14:50,440
+Mr. Qin, Mr. Gu.
+
+196
+00:14:51,440 --> 00:14:52,200
+I know
+
+197
+00:14:52,760 --> 00:14:54,090
+I violated discipline.
+
+198
+00:14:54,440 --> 00:14:55,120
+But...
+
+199
+00:14:56,840 --> 00:14:58,480
+I was the one who left without permission.
+
+200
+00:14:58,480 --> 00:15:00,040
+Ying Ziqi had a fever.
+
+201
+00:15:00,320 --> 00:15:01,080
+He didn't even know.
+
+202
+00:15:01,080 --> 00:15:01,960
+And?
+
+203
+00:15:04,040 --> 00:15:04,720
+So I think
+
+204
+00:15:04,720 --> 00:15:06,240
+punishing Ying Ziqi with me
+
+205
+00:15:06,240 --> 00:15:06,960
+is unfair.
+
+206
+00:15:07,640 --> 00:15:09,280
+No, it was my fault.
+
+207
+00:15:09,280 --> 00:15:09,840
+I shouldn't have... Ying Ziqi, shut up!
+
+208
+00:15:09,840 --> 00:15:11,000
+Both of you, shut up.
+
+209
+00:15:16,120 --> 00:15:18,040
+You are a team.
+
+210
+00:15:18,400 --> 00:15:19,040
+It's a dual-post system.
+
+211
+00:15:19,040 --> 00:15:19,840
+That's the discipline.
+
+212
+00:15:19,840 --> 00:15:21,760
+If you still don't realize this,
+
+213
+00:15:21,920 --> 00:15:23,120
+why are you even here?
+
+214
+00:15:29,080 --> 00:15:30,610
+What did you tell me before?
+
+215
+00:15:34,320 --> 00:15:35,560
+Didn't you say
+
+216
+00:15:36,000 --> 00:15:36,640
+that
+
+217
+00:15:37,400 --> 00:15:39,320
+this was your promise to me?
+
+218
+00:15:39,840 --> 00:15:41,400
+Is this the result you use
+
+219
+00:15:41,400 --> 00:15:42,440
+to take over the baton?
+
+220
+00:15:42,440 --> 00:15:44,240
+Take it back. I don't want it.
+
+221
+00:15:51,080 --> 00:15:51,680
+Qin.
+
+222
+00:15:53,040 --> 00:15:54,680
+You just recovered your health.
+
+223
+00:15:54,680 --> 00:15:56,280
+Get out. All of you, get out!
+
+224
+00:15:57,400 --> 00:15:59,660
+Think it over carefully when you go back.
+
+225
+00:16:10,280 --> 00:16:11,680
+Go back and reflect on it.
+
+226
+00:16:16,160 --> 00:16:18,960
+Your health comes first right now. Don't be angry.
+
+227
+00:16:25,680 --> 00:16:26,680
+China Aerospace.
+
+228
+00:16:36,360 --> 00:16:37,820
+If it wasn't handled then,
+
+229
+00:16:38,200 --> 00:16:39,160
+our active telemetry and control stations
+
+230
+00:16:39,160 --> 00:16:40,890
+would have lost their meaning.
+
+231
+00:16:41,600 --> 00:16:43,000
+But this was my decision.
+
+232
+00:16:43,240 --> 00:16:44,840
+I will take responsibility.
+
+233
+00:16:45,480 --> 00:16:47,540
+It's me who got sick and burdened you.
+
+234
+00:16:49,080 --> 00:16:50,080
+Otherwise,
+
+235
+00:16:50,080 --> 00:16:52,140
+you wouldn't have to handle it alone.
+
+236
+00:16:52,160 --> 00:16:53,620
+Let's not talk about this.
+
+237
+00:17:08,400 --> 00:17:10,859
+Let's double-check this contingency plan.
+
+238
+00:17:15,880 --> 00:17:16,599
+How are you feeling?
+
+239
+00:17:16,599 --> 00:17:17,880
+Can you handle it?
+
+240
+00:17:20,560 --> 00:17:22,119
+You look a little nervous.
+
+241
+00:17:22,119 --> 00:17:23,680
+Stay calm.
+
+242
+00:17:24,599 --> 00:17:26,560
+Save that for yourself.
+
+243
+00:17:27,800 --> 00:17:29,060
+What, are you nervous?
+
+244
+00:17:29,760 --> 00:17:31,490
+I'm not nervous. I'm very calm.
+
+245
+00:17:32,320 --> 00:17:33,600
+I know you too well.
+
+246
+00:17:34,400 --> 00:17:37,240
+You always ask me this on purpose at times like this.
+
+247
+00:17:37,240 --> 00:17:38,770
+You're spreading anxiety,
+
+248
+00:17:39,000 --> 00:17:39,640
+you know?
+
+249
+00:17:39,880 --> 00:17:41,320
+As the saying goes,
+
+250
+00:17:42,600 --> 00:17:43,880
+by spreading anxiety,
+
+251
+00:17:43,880 --> 00:17:46,400
+you can transform it, right?
+
+252
+00:17:46,560 --> 00:17:48,160
+Transform yours.
+
+253
+00:17:48,400 --> 00:17:49,320
+I don't need it.
+
+254
+00:17:51,760 --> 00:17:53,640
+I will use all my luck in this life
+
+255
+00:17:54,240 --> 00:17:55,400
+for this moment.
+
+256
+00:18:02,000 --> 00:18:03,000
+How about putting both of our luck
+
+257
+00:18:03,000 --> 00:18:04,120
+together?
+
+258
+00:18:13,840 --> 00:18:15,040
+Everyone, get ready.
+
+259
+00:18:15,800 --> 00:18:18,200
+Do a final check for the Hao-4 mission.
+
+260
+00:18:18,640 --> 00:18:19,400
+This time,
+
+261
+00:18:19,880 --> 00:18:23,160
+the flight control team has reduced the latitude deviation of the landing point
+
+262
+00:18:23,160 --> 00:18:25,360
+to one hundred-thousandth of a degree,
+
+263
+00:18:25,400 --> 00:18:27,400
+increasing the accuracy tenfold.
+
+264
+00:18:28,400 --> 00:18:29,800
+It is unprecedented.
+
+265
+00:18:30,280 --> 00:18:32,880
+This is the most difficult precision control.
+
+266
+00:18:34,000 --> 00:18:35,600
+Thank you for your hard work.
+
+267
+00:18:41,400 --> 00:18:42,120
+Comrades,
+
+268
+00:18:44,560 --> 00:18:46,080
+since the dawn of humanity,
+
+269
+00:18:46,080 --> 00:18:47,760
+we have never seen this.
+
+270
+00:18:47,760 --> 00:18:49,320
+The far side of the moon.
+
+271
+00:18:49,720 --> 00:18:51,880
+This is the first time
+
+272
+00:18:52,200 --> 00:18:54,320
+a human creation has appeared on the far side.
+
+273
+00:18:54,320 --> 00:18:55,380
+We must understand
+
+274
+00:18:55,840 --> 00:18:57,600
+that what we are establishing today
+
+275
+00:18:57,600 --> 00:19:01,280
+is a monument in the history of human spaceflight.
+
+276
+00:19:01,680 --> 00:19:02,520
+I hope
+
+277
+00:19:04,000 --> 00:19:05,130
+we can work together
+
+278
+00:19:06,360 --> 00:19:07,690
+to take this final step.
+
+279
+00:19:26,360 --> 00:19:27,120
+Report.
+
+280
+00:19:27,480 --> 00:19:28,760
+The moon has left its orbit
+
+281
+00:19:28,760 --> 00:19:30,690
+and is going to collide with Earth.
+
+282
+00:19:31,520 --> 00:19:34,050
+It's going to collide. Is anyone responding?
+
+283
+00:19:34,200 --> 00:19:36,520
+Hello? Hello?
+
+284
+00:19:37,080 --> 00:19:38,120
+The moon has left its orbit
+
+285
+00:19:38,120 --> 00:19:40,050
+and is going to collide with Earth.
+
+286
+00:19:40,080 --> 00:19:42,610
+It's going to collide! Is anyone responding?
+
+287
+00:21:04,840 --> 00:21:07,080
+Mr. Qin, Mr. Gu.
+
+288
+00:21:08,200 --> 00:21:10,880
+This letter is not a sudden impulse.
+
+289
+00:21:12,240 --> 00:21:13,320
+Since I came back,
+
+290
+00:21:13,640 --> 00:21:14,520
+I have been thinking about
+
+291
+00:21:14,520 --> 00:21:16,240
+what you two said to me.
+
+292
+00:21:17,080 --> 00:21:19,480
+I have also been reflecting on my mistakes.
+
+293
+00:21:19,840 --> 00:21:21,100
+Thinking about it now,
+
+294
+00:21:21,840 --> 00:21:22,600
+Perhaps from the very beginning,
+
+295
+00:21:22,600 --> 00:21:24,360
+I never cared about discipline
+
+296
+00:21:25,040 --> 00:21:26,120
+or rules.
+
+297
+00:21:28,720 --> 00:21:29,880
+Since I came here,
+
+298
+00:21:30,320 --> 00:21:33,200
+from trying my best to stay in the flight control team at first
+
+299
+00:21:33,200 --> 00:21:35,800
+to desperately wanting to prove myself later.
+
+300
+00:21:35,880 --> 00:21:36,920
+Along the way,
+
+301
+00:21:37,440 --> 00:21:38,400
+many teachers
+
+302
+00:21:38,720 --> 00:21:40,520
+and friends have criticized me.
+
+303
+00:21:41,880 --> 00:21:42,680
+But actually,
+
+304
+00:21:43,680 --> 00:21:45,610
+I have never faced these problems.
+
+305
+00:21:49,280 --> 00:21:50,440
+Now I finally understand
+
+306
+00:21:50,440 --> 00:21:52,100
+how serious my mistakes were,
+
+307
+00:21:52,680 --> 00:21:53,920
+how unforgivable,
+
+308
+00:21:54,280 --> 00:21:55,610
+and how wrong they were.
+
+309
+00:21:56,720 --> 00:21:57,560
+I am sorry.
+
+310
+00:21:58,440 --> 00:21:59,600
+This time,
+
+311
+00:21:59,600 --> 00:22:00,760
+I let you down.
+
+312
+00:22:03,960 --> 00:22:06,080
+Ying Ziqi and I watched Yutu No. 2
+
+313
+00:22:06,520 --> 00:22:08,380
+succeed in its tests step by step.
+
+314
+00:22:09,520 --> 00:22:11,250
+Just like everyone else feels,
+
+315
+00:22:12,080 --> 00:22:13,760
+it's like a child to all of us.
+
+316
+00:22:21,560 --> 00:22:23,890
+I am willing to bear all the consequences.
+
+317
+00:22:24,440 --> 00:22:26,480
+I can leave the flight control center
+
+318
+00:22:26,480 --> 00:22:28,540
+or transfer to any other department.
+
+319
+00:22:29,560 --> 00:22:30,240
+But...
+
+320
+00:22:31,800 --> 00:22:33,660
+But please give Ying Ziqi a chance
+
+321
+00:22:34,440 --> 00:22:36,500
+to complete the remaining missions.
+
+322
+00:22:37,360 --> 00:22:40,120
+Please consider my request.
+
+323
+00:22:41,240 --> 00:22:41,920
+Wu Wei.
+
+324
+00:22:43,000 --> 00:22:44,880
+Are you clear on the follow-up process?
+
+325
+00:22:44,880 --> 00:22:45,960
+You must pay attention to the details.
+
+326
+00:22:45,960 --> 00:22:47,490
+Ensure nothing goes wrong.
+
+327
+00:22:56,800 --> 00:22:57,480
+Xiao Qu.
+
+328
+00:22:58,960 --> 00:22:59,690
+Understood.
+
+329
+00:23:00,600 --> 00:23:01,530
+Get back to work.
+
+330
+00:23:41,040 --> 00:23:42,840
+Packing up? Where are you going?
+
+331
+00:23:43,880 --> 00:23:46,210
+Something came up at home. I'm going back.
+
+332
+00:23:54,320 --> 00:23:55,650
+Transfer application.
+
+333
+00:23:58,520 --> 00:23:59,920
+Why are you writing this?
+
+334
+00:24:46,240 --> 00:24:46,920
+Wu Wei.
+
+335
+00:24:48,760 --> 00:24:51,960
+Have you forgotten the dream you've had since childhood?
+
+336
+00:24:53,560 --> 00:24:55,040
+The words you said to the three of us before joining,
+
+337
+00:24:55,040 --> 00:24:56,320
+have you forgotten them too?
+
+338
+00:24:56,320 --> 00:24:57,360
+The three of us are still holding on,
+
+339
+00:24:57,360 --> 00:24:58,640
+and only you have given up.
+
+340
+00:24:58,640 --> 00:25:00,120
+The way you are now
+
+341
+00:25:00,240 --> 00:25:02,040
+really makes me look down on you.
+
+342
+00:25:02,040 --> 00:25:03,200
+Are you done?
+
+343
+00:25:06,040 --> 00:25:07,300
+Do you feel better now?
+
+344
+00:25:08,320 --> 00:25:09,400
+If you do, get out.
+
+345
+00:25:40,120 --> 00:25:40,840
+Now I will
+
+346
+00:25:40,840 --> 00:25:42,570
+read out the penalty decision.
+
+347
+00:25:44,240 --> 00:25:47,170
+During the Gaoshan-2 tracking and control mission,
+
+348
+00:25:47,360 --> 00:25:49,240
+Wu Wei and Ying Ziqi
+
+349
+00:25:49,240 --> 00:25:50,840
+violated the flight control discipline
+
+350
+00:25:50,840 --> 00:25:52,000
+by leaving their posts without permission.
+
+351
+00:25:52,000 --> 00:25:54,840
+The flight control center imposes the following penalty on them:
+
+352
+00:25:54,840 --> 00:25:55,920
+Wu Wei and Ying Ziqi
+
+353
+00:25:55,920 --> 00:25:57,440
+are each given a warning,
+
+354
+00:25:58,400 --> 00:26:00,480
+transferred out of the Haoyue-4 mission,
+
+355
+00:26:00,480 --> 00:26:02,200
+and reassigned to the daily monitoring team
+
+356
+00:26:02,200 --> 00:26:04,130
+to observe their future behavior.
+
+357
+00:27:28,680 --> 00:27:30,400
+Hao-4 is about to perform an Earth-Moon orbital maneuver.
+
+358
+00:27:30,400 --> 00:27:31,930
+Let's go watch it together.
+
+359
+00:27:34,160 --> 00:27:34,960
+I'm not going.
+
+360
+00:28:03,360 --> 00:28:04,220
+Where is Wu Wei?
+
+361
+00:28:06,240 --> 00:28:08,100
+I asked him, but he wouldn't come.
+
+362
+00:28:09,440 --> 00:28:10,700
+Is Wei still like that?
+
+363
+00:28:11,840 --> 00:28:12,600
+Jia.
+
+364
+00:28:13,080 --> 00:28:14,080
+Everyone's here.
+
+365
+00:28:17,800 --> 00:28:20,080
+Here are your flight tickets to Jiuquan.
+
+366
+00:28:22,560 --> 00:28:23,960
+After the mission is over,
+
+367
+00:28:23,960 --> 00:28:25,360
+have a good talk with him.
+
+368
+00:28:27,080 --> 00:28:27,680
+Okay.
+
+369
+00:28:28,840 --> 00:28:29,800
+It's almost time.
+
+370
+00:28:29,800 --> 00:28:31,130
+You should go get ready.
+
+371
+00:28:31,520 --> 00:28:33,050
+Good luck with the mission.
+
+372
+00:28:34,160 --> 00:28:34,720
+Okay.
+
+373
+00:28:35,400 --> 00:28:36,080
+Let's go.
+
+374
+00:29:38,600 --> 00:29:39,320
+This is...
+
+375
+00:30:04,000 --> 00:30:05,480
+Sir, take a rest.
+
+376
+00:30:05,480 --> 00:30:06,680
+We'll wipe it for you.
+
+377
+00:30:06,680 --> 00:30:08,520
+I'm not tired. I'm used to it.
+
+378
+00:30:10,560 --> 00:30:12,290
+Are you aerospace workers too?
+
+379
+00:30:12,640 --> 00:30:13,240
+Yes.
+
+380
+00:30:14,280 --> 00:30:15,340
+Which department?
+
+381
+00:30:15,840 --> 00:30:17,370
+We are from flight control.
+
+382
+00:30:18,120 --> 00:30:19,520
+I'm from the launch site.
+
+383
+00:30:21,200 --> 00:30:22,520
+Have you
+
+384
+00:30:22,520 --> 00:30:23,840
+been in Jiuquan all along?
+
+385
+00:30:23,840 --> 00:30:25,240
+I retired a long time ago.
+
+386
+00:30:25,440 --> 00:30:26,920
+My roots are here.
+
+387
+00:30:27,560 --> 00:30:28,280
+So
+
+388
+00:30:28,920 --> 00:30:29,920
+I just stay here,
+
+389
+00:30:30,320 --> 00:30:32,980
+keeping my old colleagues and buddies company.
+
+390
+00:30:33,920 --> 00:30:34,600
+Young men,
+
+391
+00:30:35,360 --> 00:30:37,200
+don't you have a mission recently?
+
+392
+00:30:37,200 --> 00:30:38,440
+What brings you here?
+
+393
+00:30:39,240 --> 00:30:40,360
+We made a mistake
+
+394
+00:30:41,560 --> 00:30:42,420
+on our mission.
+
+395
+00:30:43,120 --> 00:30:43,840
+So...
+
+396
+00:30:44,560 --> 00:30:46,280
+When I was your age,
+
+397
+00:30:46,640 --> 00:30:48,170
+I had just started working.
+
+398
+00:30:48,440 --> 00:30:50,570
+I was also reckless when doing things.
+
+399
+00:30:53,920 --> 00:30:55,080
+This is Xiao Liu.
+
+400
+00:30:55,200 --> 00:30:57,840
+He came to Jiuquan in the same batch as us.
+
+401
+00:30:58,240 --> 00:30:59,760
+He was the youngest
+
+402
+00:30:59,960 --> 00:31:01,890
+and had the hardest time adapting.
+
+403
+00:31:01,920 --> 00:31:03,920
+How could those days compare to now?
+
+404
+00:31:04,120 --> 00:31:05,850
+Now there's an aerospace city,
+
+405
+00:31:06,440 --> 00:31:08,440
+and we've done so many major missions.
+
+406
+00:31:08,440 --> 00:31:10,160
+It's so well-equipped.
+
+407
+00:31:10,440 --> 00:31:11,440
+Back then,
+
+408
+00:31:12,080 --> 00:31:14,610
+we had nothing but sandstorms and blizzards.
+
+409
+00:31:15,720 --> 00:31:17,080
+But Xiao Liu liked it.
+
+410
+00:31:17,840 --> 00:31:20,200
+He liked winter, liked the snow,
+
+411
+00:31:21,560 --> 00:31:23,840
+and liked to draw in a little notebook.
+
+412
+00:31:24,440 --> 00:31:25,920
+Well, southerners
+
+413
+00:31:26,240 --> 00:31:27,370
+care about rituals.
+
+414
+00:31:28,080 --> 00:31:29,440
+He drew almost
+
+415
+00:31:29,720 --> 00:31:31,200
+all the scenery here.
+
+416
+00:31:31,760 --> 00:31:32,960
+He had planned that
+
+417
+00:31:33,920 --> 00:31:35,380
+after he left the mission,
+
+418
+00:31:37,240 --> 00:31:38,570
+and could communicate,
+
+419
+00:31:39,200 --> 00:31:40,440
+he would send this notebook
+
+420
+00:31:40,440 --> 00:31:41,920
+back home to his partner,
+
+421
+00:31:42,360 --> 00:31:45,160
+saving it for telling stories and bragging later.
+
+422
+00:31:47,560 --> 00:31:48,400
+What a pity.
+
+423
+00:31:49,040 --> 00:31:51,770
+He always carried that little notebook with him.
+
+424
+00:31:53,040 --> 00:31:54,700
+Later, there was an accident,
+
+425
+00:31:55,320 --> 00:31:56,850
+and he sacrificed himself.
+
+426
+00:31:57,120 --> 00:32:00,240
+That little notebook was gone with him.
+
+427
+00:32:01,200 --> 00:32:02,730
+The bragging he wanted to do
+
+428
+00:32:03,360 --> 00:32:04,200
+is also gone.
+
+429
+00:32:05,440 --> 00:32:07,700
+The reason I'm telling you about Xiaoliu
+
+430
+00:32:07,880 --> 00:32:10,080
+is because he also made mistakes before
+
+431
+00:32:10,320 --> 00:32:11,580
+and started from zero.
+
+432
+00:32:11,600 --> 00:32:12,640
+But in the end,
+
+433
+00:32:13,120 --> 00:32:14,800
+he also made great contributions.
+
+434
+00:32:14,800 --> 00:32:15,600
+Young man,
+
+435
+00:32:16,440 --> 00:32:17,240
+I don't know
+
+436
+00:32:17,240 --> 00:32:19,320
+what exactly happened to you guys.
+
+437
+00:32:19,800 --> 00:32:21,640
+But I think the logic
+
+438
+00:32:22,720 --> 00:32:24,380
+is like a scientific theorem.
+
+439
+00:32:24,880 --> 00:32:26,440
+If you plug in certain parameters,
+
+440
+00:32:26,440 --> 00:32:28,170
+it's universally applicable.
+
+441
+00:32:29,040 --> 00:32:29,920
+Am I right?
+
+442
+00:32:32,680 --> 00:32:34,480
+You must have been through a lot.
+
+443
+00:32:35,080 --> 00:32:36,720
+What? You want to hear a story?
+
+444
+00:32:36,720 --> 00:32:37,440
+All right.
+
+445
+00:32:38,320 --> 00:32:39,850
+Over there, my team leader,
+
+446
+00:32:39,920 --> 00:32:41,440
+my master, my apprentice,
+
+447
+00:32:41,440 --> 00:32:42,760
+they are all here.
+
+448
+00:32:43,120 --> 00:32:43,800
+Let's go.
+
+449
+00:32:43,920 --> 00:32:45,850
+I'll do some bragging for them too.
+
+450
+00:32:46,720 --> 00:32:47,250
+Let's go.
+
+451
+00:32:59,280 --> 00:33:00,440
+In 1956,
+
+452
+00:33:02,080 --> 00:33:03,440
+on October 8th,
+
+453
+00:33:04,840 --> 00:33:06,560
+the Fifth Academy of the Ministry of National Defense was established.
+
+454
+00:33:06,560 --> 00:33:09,290
+This is the starting point of China's aerospace.
+
+455
+00:33:13,320 --> 00:33:15,380
+Do you know what my starting point is?
+
+456
+00:33:27,920 --> 00:33:30,180
+Ever since you told me when we were little
+
+457
+00:33:30,720 --> 00:33:32,520
+that you sent a signal to aliens,
+
+458
+00:33:36,080 --> 00:33:37,240
+I've always felt
+
+459
+00:33:38,280 --> 00:33:39,200
+that maybe one day
+
+460
+00:33:39,200 --> 00:33:41,260
+we'll actually receive their reply.
+
+461
+00:33:44,160 --> 00:33:45,690
+This broken radio of yours,
+
+462
+00:33:46,800 --> 00:33:50,060
+I don't know how many times I've repaired it over the years.
+
+463
+00:34:00,920 --> 00:34:02,250
+Do you still believe it?
+
+464
+00:34:05,840 --> 00:34:06,570
+I believe it.
+
+465
+00:34:07,640 --> 00:34:08,639
+Of course I do.
+
+466
+00:34:09,280 --> 00:34:11,340
+They are right there, waiting for us.
+
+467
+00:34:12,400 --> 00:34:13,400
+Sooner or later,
+
+468
+00:34:13,400 --> 00:34:15,080
+we will go to their planet.
+
+469
+00:34:16,159 --> 00:34:17,120
+So,
+
+470
+00:34:17,639 --> 00:34:19,040
+if you hadn't tricked me
+
+471
+00:34:19,040 --> 00:34:21,600
+into entering that rocket competition when we were kids,
+
+472
+00:34:21,600 --> 00:34:22,679
+in my whole life,
+
+473
+00:34:22,679 --> 00:34:25,120
+I would never have crossed paths with aerospace.
+
+474
+00:34:25,120 --> 00:34:26,980
+I wouldn't even look up at the sky.
+
+475
+00:34:29,560 --> 00:34:31,219
+When my mom first passed away,
+
+476
+00:34:33,920 --> 00:34:35,360
+I researched every day.
+
+477
+00:34:37,679 --> 00:34:39,540
+I wanted to invent a time machine.
+
+478
+00:34:40,880 --> 00:34:42,080
+I wanted
+
+479
+00:34:42,080 --> 00:34:43,760
+to rewrite the timeline.
+
+480
+00:34:45,800 --> 00:34:48,000
+Later, when I went to junior high school
+
+481
+00:34:48,280 --> 00:34:51,840
+and learned the law of conservation of energy and the laws of thermodynamics,
+
+482
+00:34:51,840 --> 00:34:52,719
+I knew
+
+483
+00:34:53,920 --> 00:34:55,199
+it was all in vain.
+
+484
+00:34:57,600 --> 00:34:58,400
+Our universe
+
+485
+00:34:58,400 --> 00:35:00,460
+is an entropy-increasing universe.
+
+486
+00:35:01,120 --> 00:35:03,720
+It determines the irreversible arrow of time.
+
+487
+00:35:04,400 --> 00:35:05,440
+So I believe
+
+488
+00:35:06,920 --> 00:35:08,560
+that all unfulfilled wishes
+
+489
+00:35:09,680 --> 00:35:12,340
+are alternative arrangements of the timeline.
+
+490
+00:35:20,040 --> 00:35:20,680
+Right.
+
+491
+00:35:23,240 --> 00:35:24,770
+The past cannot be changed.
+
+492
+00:35:25,880 --> 00:35:27,280
+We can only move forward.
+
+493
+00:35:28,920 --> 00:35:30,960
+I believe this is the ultimate driving force for humanity
+
+494
+00:35:30,960 --> 00:35:32,960
+to seek answers about the universe.
+
+495
+00:35:37,920 --> 00:35:38,640
+Wu Wei.
+
+496
+00:35:40,240 --> 00:35:42,040
+You used to pull us forward
+
+497
+00:35:42,440 --> 00:35:43,440
+and encourage us.
+
+498
+00:35:44,640 --> 00:35:47,170
+You can't be the first one to give up this time.
+
+499
+00:35:50,200 --> 00:35:51,040
+I understand.
+
+500
+00:35:52,600 --> 00:35:55,920
+Generations of predecessors' efforts and sacrifices
+
+501
+00:35:56,720 --> 00:35:59,250
+have made China's aerospace what it is today.
+
+502
+00:35:59,440 --> 00:36:01,120
+None of them gave up easily.
+
+503
+00:36:02,080 --> 00:36:03,740
+What right do I have to give up?
+
+504
+00:36:05,960 --> 00:36:06,960
+After I go back,
+
+505
+00:36:08,240 --> 00:36:09,500
+I'll delete my account
+
+506
+00:36:10,280 --> 00:36:11,680
+and start all over again.
+
+507
+00:36:12,680 --> 00:36:13,840
+Keep your word.
+
+508
+00:36:14,680 --> 00:36:15,320
+I will.
+
+509
+00:36:20,280 --> 00:36:21,960
+The lunar landing is about to begin.
+
+510
+00:36:21,960 --> 00:36:22,960
+Trust the rabbit.
+
+511
+00:36:33,000 --> 00:36:34,960
+Haoyue 4 has navigated to
+
+512
+00:36:34,960 --> 00:36:37,720
+the perilune 15 kilometers above the far side of the moon.
+
+513
+00:36:37,720 --> 00:36:39,450
+7,500-newton engine started.
+
+514
+00:36:39,800 --> 00:36:41,200
+Powered descent begins.
+
+515
+00:36:48,080 --> 00:36:49,560
+Hope it lands safely.
+
+516
+00:36:53,440 --> 00:36:54,960
+Entering the main deceleration phase.
+
+517
+00:36:54,960 --> 00:36:56,220
+Everything is normal.
+
+518
+00:37:03,280 --> 00:37:06,010
+Fast adjustment phase entering approach phase.
+
+519
+00:37:06,840 --> 00:37:08,080
+Everything is normal.
+
+520
+00:37:08,080 --> 00:37:10,610
+Optical sensor data transmission is normal.
+
+521
+00:37:15,800 --> 00:37:17,560
+The terrain near the landing site is flat.
+
+522
+00:37:17,560 --> 00:37:18,720
+Obstacle avoidance sensor is working normally.
+
+523
+00:37:18,720 --> 00:37:19,360
+Copy.
+
+524
+00:37:19,840 --> 00:37:21,520
+Entering hover obstacle avoidance phase.
+
+525
+00:37:21,520 --> 00:37:22,780
+Everything is normal.
+
+526
+00:37:48,640 --> 00:37:50,040
+Confirm landing status.
+
+527
+00:37:56,320 --> 00:37:58,720
+The lander's lunar landing attitude is normal.
+
+528
+00:37:58,720 --> 00:38:00,440
+Solar arrays deployed normally.
+
+529
+00:38:00,440 --> 00:38:02,440
+Lander optical imaging is normal.
+
+530
+00:38:02,440 --> 00:38:04,000
+Charging baseline is normal.
+
+531
+00:38:04,000 --> 00:38:06,060
+Orbit control accurately shut down.
+
+532
+00:38:06,400 --> 00:38:09,040
+Attitude control engine accurately shut down.
+
+533
+00:38:09,040 --> 00:38:10,320
+Report lunar landing coordinates.
+
+534
+00:38:10,320 --> 00:38:12,600
+Based on the analysis of the returned high-compression ratio images,
+
+535
+00:38:12,600 --> 00:38:14,120
+the Haoyue-4 lander's
+
+536
+00:38:14,320 --> 00:38:15,840
+preliminary landing position
+
+537
+00:38:15,840 --> 00:38:16,770
+coordinates are
+
+538
+00:38:16,800 --> 00:38:19,040
+177°60' East Longitude,
+
+539
+00:38:19,320 --> 00:38:21,600
+45°44' South Latitude.
+
+540
+00:38:22,600 --> 00:38:23,530
+Ideal position.
+
+541
+00:38:24,880 --> 00:38:25,560
+Copy.
+
+542
+00:38:39,320 --> 00:38:40,280
+It's too quiet.
+
+543
+00:38:41,200 --> 00:38:42,240
+You can cheer now.
+
+544
+00:38:42,240 --> 00:38:43,100
+It's a success.
+
+545
+00:39:13,640 --> 00:39:16,040
+We didn't eat the herbal jelly for nothing.
+
+546
+00:39:16,040 --> 00:39:17,800
+And we didn't argue for nothing.
+
+547
+00:39:17,800 --> 00:39:19,400
+Alright, you idiot.
+
+548
+00:39:19,760 --> 00:39:21,020
+Sister Nan, thank you.
+
+549
+00:39:21,400 --> 00:39:23,080
+Come on, don't be cheesy.
+
+550
+00:39:23,080 --> 00:39:24,120
+I'm not.
+
+551
+00:39:24,600 --> 00:39:26,600
+I... I really mean it.
+
+552
+00:39:27,080 --> 00:39:28,400
+Thank you for scolding me, pushing me,
+
+553
+00:39:28,400 --> 00:39:29,730
+and pulling me forward.
+
+554
+00:39:29,800 --> 00:39:31,120
+It's all worth it now.
+
+555
+00:39:31,640 --> 00:39:33,240
+With this landing precision,
+
+556
+00:39:33,240 --> 00:39:34,840
+and the control technology.
+
+557
+00:39:34,920 --> 00:39:37,180
+China's aerospace crushes everything.
+
+558
+00:39:37,520 --> 00:39:38,160
+Alright.
+
+559
+00:39:45,240 --> 00:39:46,240
+Latest news.
+
+560
+00:39:46,240 --> 00:39:47,760
+The Haoyue-4 probe
+
+561
+00:39:47,760 --> 00:39:49,960
+has successfully landed on the far side of the moon.
+
+562
+00:39:49,960 --> 00:39:52,480
+This mission marks the realization of a human probe.
+
+563
+00:39:52,480 --> 00:39:54,080
+Landing on the moon is just the first step.
+
+564
+00:39:54,080 --> 00:39:55,600
+Whether the rabbit can come out smoothly
+
+565
+00:39:55,600 --> 00:39:57,200
+is the most important thing.
+
+566
+00:39:57,880 --> 00:39:58,560
+Yes.
+
+567
+00:39:59,320 --> 00:40:00,920
+But judging from the images,
+
+568
+00:40:01,040 --> 00:40:02,280
+the place where the rabbit got off,
+
+569
+00:40:02,280 --> 00:40:04,680
+the terrain and geomorphology are relatively flat.
+
+570
+00:40:04,680 --> 00:40:05,320
+Next,
+
+571
+00:40:05,320 --> 00:40:08,280
+we will just wait for the results of the terrain data processing.
+
+572
+00:40:08,280 --> 00:40:09,200
+Each subsystem,
+
+573
+00:40:09,200 --> 00:40:11,000
+we have also repeatedly tested.
+
+574
+00:40:11,040 --> 00:40:13,000
+Even if the situation on the far side of the moon is more complex,
+
+575
+00:40:13,000 --> 00:40:14,520
+the rabbit can handle it.
+
+576
+00:40:15,560 --> 00:40:16,680
+It's up to Xu Xu.
+
+577
+00:40:27,360 --> 00:40:28,890
+Why are they sleeping here?
+
+578
+00:40:33,080 --> 00:40:34,320
+Aren't they afraid of catching a cold?
+
+579
+00:40:34,320 --> 00:40:35,440
+Let them sleep.
+
+580
+00:40:36,160 --> 00:40:38,000
+They haven't closed their eyes for days.
+
+581
+00:40:38,000 --> 00:40:39,600
+They'll be busy again later.
+
+582
+00:40:40,080 --> 00:40:41,560
+Look at Caibao's pose.
+
+583
+00:40:41,800 --> 00:40:43,260
+How can he sleep like that?
+
+584
+00:40:57,880 --> 00:40:59,140
+Everyone, take a break
+
+585
+00:40:59,600 --> 00:41:00,400
+and get ready.
+
+586
+00:41:00,760 --> 00:41:01,320
+Yes.
+
+587
+00:41:04,320 --> 00:41:06,120
+It's up to you next.
+
+588
+00:41:08,440 --> 00:41:09,560
+I am ready.
+
+589
+00:41:15,560 --> 00:41:17,620
+Report the status of all subsystems.
+
+590
+00:41:26,520 --> 00:41:28,080
+Relay link is normal.
+
+591
+00:41:28,280 --> 00:41:30,160
+TT&C and data transmission are normal.
+
+592
+00:41:30,160 --> 00:41:32,640
+Begin rover transfer.
+
+593
+00:41:35,880 --> 00:41:37,680
+Rover deploying solar panels
+
+594
+00:41:37,840 --> 00:41:39,040
+and raising the mast.
+
+595
+00:41:42,280 --> 00:41:43,240
+Prepare to execute
+
+596
+00:41:43,240 --> 00:41:46,240
+the subsequent procedures for Yutu's lunar release.
+
+597
+00:41:48,080 --> 00:41:50,340
+Transfer mechanism unlocked normally.
+
+598
+00:41:53,280 --> 00:41:54,340
+Transfer started.
+
+599
+00:42:03,600 --> 00:42:06,000
+Report the current status of all stations.
+
+600
+00:42:06,120 --> 00:42:07,920
+Rover transferred in position.
+
+601
+00:42:08,480 --> 00:42:09,740
+Yutu status is normal.
+
+602
+00:42:25,760 --> 00:42:27,960
+The last leg of a journey is the hardest.
+
+603
+00:42:30,640 --> 00:42:31,560
+I'm just worried.
+
+604
+00:42:31,560 --> 00:42:33,240
+The situation on the far side of the moon is complex.
+
+605
+00:42:33,240 --> 00:42:34,240
+After all,
+
+606
+00:42:35,040 --> 00:42:36,440
+none of us have ever been there.
+
+607
+00:42:36,440 --> 00:42:37,770
+Driving the Yutu rover.
+
+608
+00:42:38,880 --> 00:42:40,720
+Communication with the relay satellite
+
+609
+00:42:40,720 --> 00:42:42,050
+is extremely critical.
+
+610
+00:42:43,800 --> 00:42:46,400
+Hopefully, our preparations are sufficient.
+
+611
+00:42:47,680 --> 00:42:48,880
+We should trust them.
+
+612
+00:43:00,760 --> 00:43:03,640
+The spacecraft names and related missions in this drama are fictionalized.
+
+613
+00:43:03,640 --> 00:43:03,900
+Xu Xu
+
+614
+00:43:05,240 --> 00:43:05,480
+Ying Deqian, He Qiang
+
+615
+00:43:05,480 --> 00:43:06,010
+Chen Bing
+
+616
+00:43:07,440 --> 00:43:07,800
+Zhao Qiangjun
+
+617
+00:43:07,800 --> 00:43:08,400
+Wu Jianguo
+
+618
+00:43:09,640 --> 00:43:10,100
+Xiaobai
+
+619
+00:43:18,680 --> 00:43:19,000
+Li Jiaming, Liu Zhenguo, Wang Caimao, Liu Tiancheng, Liu Lan, Zhao Shufeng, Bai Yuqin, An Chengzhi
+
+620
+00:43:19,000 --> 00:43:19,320
+Wang Yiqi, Feng Shuaige, Tang Zixuan, Fu Jingyun, Wang Zhenglin, Qin Dehang, Zhang Haoming, Wang Zihan
+
+621
+00:43:19,320 --> 00:43:24,120
+Zhu Zimo, Liu Hao, Wang Jinxi, Bao Chuhan, Wu Yuze, Wang Xiu, Duan Yakun, Wang Zhenggang
+
+622
+00:43:24,120 --> 00:43:25,050
+Production Team
+
+623
+00:43:25,680 --> 00:43:27,210
+Line Producer Zhao Xuguang
+
+624
+00:43:34,960 --> 00:43:35,240
+Lighting Team
+
+625
+00:43:35,240 --> 00:43:36,300
+Lighting Designer
+
+626
+00:43:37,560 --> 00:43:38,490
+Sound Recordist
+
+627
+00:43:50,040 --> 00:43:50,500
+Painter
+
+628
+00:43:54,800 --> 00:43:56,000
+Production Designer
+
+629
+00:43:59,000 --> 00:44:00,130
+Hair and Makeup Team
+
+630
+00:44:04,720 --> 00:44:07,180
+Data Management Li Peiyuan, Tong Zhenzhong
+
+631
+00:44:07,600 --> 00:44:08,200
+Legal Team
+
+632
+00:44:13,360 --> 00:44:13,720
+Equipment Support
+
+633
+00:44:13,720 --> 00:44:17,050
+Beijing Liushun Huihuang Film & Television Media Co., Ltd.
+
+634
+00:44:18,520 --> 00:44:20,440
+Beijing Chuangxiang Xinshijie Film & Television Culture Co., Ltd.
+
+635
+00:44:20,440 --> 00:44:20,970
+Colorist
+
+636
+00:44:21,040 --> 00:44:21,400
+Visual Effects Production Company
+
+637
+00:44:21,400 --> 00:44:21,720
+Beijing Ziyou Xunhuan Digital Technology Co., Ltd.
+
+638
+00:44:21,720 --> 00:44:22,360
+VFX Supervisor Zhang Zheng
+
+639
+00:44:22,360 --> 00:44:22,820
+Modeler
+
+640
+00:44:24,560 --> 00:44:26,520
+Beijing Moying Dongli Culture Media Co., Ltd.
+
+641
+00:44:26,520 --> 00:44:26,840
+Motion Graphic Designer
+
+642
+00:44:26,840 --> 00:44:27,500
+Compositor
+
+643
+00:44:29,400 --> 00:44:30,060
+Compositor
+
+644
+00:44:34,840 --> 00:44:35,160
+Voice Dubbing Team
+
+645
+00:44:35,160 --> 00:44:36,160
+Bianjiang Studio
+
+646
+00:44:37,720 --> 00:44:38,980
+Music Production Team
+
+647
+00:44:40,280 --> 00:44:40,600
+Theme Song 'Mu Xing'
+
+648
+00:44:40,600 --> 00:44:40,840
+Singer
+
+649
+00:44:40,840 --> 00:44:41,370
+Lyricist
+
+650
+00:44:54,360 --> 00:44:55,420
+Poster Design Team
+
+651
+00:45:00,440 --> 00:45:01,080
+Special Thanks
+
+652
+00:45:01,080 --> 00:45:01,400
+Tianjin Xingye Real Estate Group Co., Ltd.
+
+653
+00:45:01,400 --> 00:45:03,730
+Tianjin Jingmao Metal Products Co., Ltd.
+
+654
+00:45:03,960 --> 00:45:04,240
+Publicity Department of the CPC Tianjin Nankai District Committee
+
+655
+00:45:04,240 --> 00:45:06,160
+Publicity Department of the CPC Tianjin Jinghai District Committee
+
+656
+00:45:06,160 --> 00:45:06,480
+Jingwumen Zhonghua Wulin Park
+
+657
+00:45:06,480 --> 00:45:08,210
+Jizhou Cheshenjia Scenic Area
+
+658
+00:45:08,400 --> 00:45:08,720
+Guiding Organization
+
+659
+00:45:08,720 --> 00:45:11,960
+News and Publicity Center of China National Space Administration
+
+660
+00:45:11,960 --> 00:45:12,240
+Zhengzhou Xinliliang Film Co., Ltd.
+
+661
+00:45:12,240 --> 00:45:12,360
+Horgos Xinliliang Film and Television Culture Co., Ltd.
