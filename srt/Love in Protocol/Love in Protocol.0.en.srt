@@ -1,0 +1,1602 @@
+1
+00:00:23,273 --> 00:00:25,275
+(Arthur Aron's 36 Questions Experiment)
+
+2
+00:00:32,323 --> 00:00:33,158
+Hello.
+
+3
+00:00:33,645 --> 00:00:35,146
+You're Jung-yeon, right?
+
+4
+00:00:35,171 --> 00:00:36,464
+Hello.
+
+5
+00:00:36,567 --> 00:00:37,203
+Come in.
+
+6
+00:00:37,203 --> 00:00:37,829
+Yes.
+
+7
+00:00:42,083 --> 00:00:46,212
+(Center for Cognitive
+and Emotional Pattern Analysis)
+
+8
+00:00:46,744 --> 00:00:49,558
+If you come in this way,
+this is our office.
+
+9
+00:00:55,644 --> 00:00:56,603
+Teacher…
+
+10
+00:00:56,628 --> 00:00:57,546
+Yes?
+
+11
+00:01:35,284 --> 00:01:38,480
+But why are you calling him "teacher"?
+
+12
+00:01:40,172 --> 00:01:43,503
+Oh, he was my private tutor in high school.
+
+13
+00:01:44,382 --> 00:01:45,464
+Ah.
+
+14
+00:01:45,609 --> 00:01:47,675
+Ha Yu-geon did graduate top
+of his department.
+
+15
+00:01:50,276 --> 00:01:52,613
+But was he like this back then too?
+
+16
+00:01:53,011 --> 00:01:54,470
+Like what?
+
+17
+00:01:54,495 --> 00:01:55,747
+I mean…
+
+18
+00:01:58,524 --> 00:01:59,817
+Was he kind of a jerk?
+
+19
+00:02:14,717 --> 00:02:18,888
+(7 Years Earlier)
+
+20
+00:02:18,888 --> 00:02:19,806
+You've been well, right?
+
+21
+00:02:19,806 --> 00:02:20,974
+Yes.
+
+22
+00:02:31,458 --> 00:02:32,667
+Sigh.
+
+23
+00:02:34,793 --> 00:02:35,613
+Say hello.
+
+24
+00:02:36,072 --> 00:02:37,574
+Professor Park's student.
+
+25
+00:02:37,913 --> 00:02:39,722
+He'll be staying here a few months,
+
+26
+00:02:39,747 --> 00:02:42,917
+and he goes to Hanguk University
+on a scholarship,
+
+27
+00:02:42,942 --> 00:02:45,238
+so ask him about studying or…
+
+28
+00:02:49,207 --> 00:02:51,941
+No, forget it.
+
+29
+00:02:55,472 --> 00:02:57,043
+Ugh, this little—
+
+30
+00:03:04,840 --> 00:03:06,949
+My son, Min Jung-yeon.
+
+31
+00:03:08,406 --> 00:03:11,261
+He takes after his dad—no manners at all.
+
+32
+00:03:13,234 --> 00:03:14,418
+Want some coffee?
+
+33
+00:03:28,356 --> 00:03:30,399
+Like you saw in the email I sent,
+
+34
+00:03:30,424 --> 00:03:34,761
+the headquarter is developing a dating app,
+and we're gathering the data it needs.
+
+35
+00:03:35,548 --> 00:03:37,383
+When you have someone you like,
+
+36
+00:03:37,383 --> 00:03:42,305
+we'll use VR, cameras,
+and biosensors to capture
+
+37
+00:03:42,305 --> 00:03:44,011
+and analyze your facial expressions
+and behavior patterns.
+
+38
+00:03:45,761 --> 00:03:47,418
+Ah… yes.
+
+39
+00:03:48,425 --> 00:03:49,722
+Jung-yeon,
+
+40
+00:03:49,854 --> 00:03:51,814
+you'll convert the collected data
+into numbers
+
+41
+00:03:51,814 --> 00:03:53,399
+and archive it.
+
+42
+00:03:54,421 --> 00:03:55,755
+As you know,
+
+43
+00:03:56,569 --> 00:03:58,644
+it's hard to find test subjects,
+
+44
+00:03:59,224 --> 00:04:01,226
+so you'll need to participate in
+the experiments too.
+
+45
+00:04:01,496 --> 00:04:06,144
+Hey now—aren't you being a bit cold
+to your old student?
+
+46
+00:04:10,929 --> 00:04:12,980
+Man, he never lets that attitude slide.
+
+47
+00:04:13,573 --> 00:04:15,992
+Hey, I'm heading to HQ,
+then I'm going straight home, okay?
+
+48
+00:04:17,621 --> 00:04:18,664
+See you, Jung-yeon.
+
+49
+00:04:18,689 --> 00:04:20,149
+Yes, see you.
+
+50
+00:04:48,204 --> 00:04:49,386
+Researcher…
+
+51
+00:04:49,637 --> 00:04:51,764
+I finished everything you asked earlier.
+
+52
+00:04:52,962 --> 00:04:53,754
+Yeah.
+
+53
+00:04:55,920 --> 00:04:57,433
+Thanks, Jung-yeon.
+
+54
+00:05:03,803 --> 00:05:05,144
+Teacher…
+
+55
+00:05:05,920 --> 00:05:07,300
+I missed you.
+
+56
+00:05:09,029 --> 00:05:10,120
+Me too.
+
+57
+00:05:16,370 --> 00:05:18,175
+You've grown up nicely—pretty, huh?
+
+58
+00:05:29,568 --> 00:05:32,972
+I don't even know why he's like that.
+
+59
+00:05:33,762 --> 00:05:37,082
+He used to study a bit in middle school.
+
+60
+00:05:39,922 --> 00:05:41,214
+Could it be…
+
+61
+00:05:41,758 --> 00:05:44,527
+that he fell in with a bad crowd?
+
+62
+00:05:46,637 --> 00:05:49,074
+You think he got corrupted by bad friends?
+
+63
+00:05:50,933 --> 00:05:52,566
+What bad friends?
+
+64
+00:05:52,891 --> 00:05:55,811
+If he's doing bad things, he's the bad one.
+
+65
+00:05:59,525 --> 00:06:01,160
+Ever since he started
+
+66
+00:06:01,624 --> 00:06:06,894
+living separately from his dad,
+he's been like that… maybe.
+
+67
+00:06:12,665 --> 00:06:14,089
+If it's okay with you…
+
+68
+00:06:15,304 --> 00:06:19,168
+would you mind if I tutored Jung-yeon?
+
+69
+00:06:19,326 --> 00:06:24,456
+Oh my—really? That would be wonderful.
+
+70
+00:06:27,425 --> 00:06:32,941
+But if he won't listen,
+don't push yourself too hard.
+
+71
+00:06:35,277 --> 00:06:37,089
+I'll try to talk to him.
+
+72
+00:06:38,437 --> 00:06:39,574
+Will you?
+
+73
+00:06:39,870 --> 00:06:41,699
+I'd really appreciate it.
+
+74
+00:06:59,976 --> 00:07:01,105
+What is it?
+
+75
+00:07:08,094 --> 00:07:09,691
+I'm here to tutor you.
+
+76
+00:07:13,555 --> 00:07:18,089
+Yeah, go work hard by yourself.
+
+77
+00:08:40,686 --> 00:08:41,988
+You got hurt again?
+
+78
+00:08:54,275 --> 00:08:55,371
+Hey.
+
+79
+00:08:57,703 --> 00:09:00,332
+I'll tell Mom
+I'm getting tutoring just fine,
+
+80
+00:09:01,495 --> 00:09:04,121
+so just take your money
+and mind your own business.
+
+81
+00:09:04,520 --> 00:09:05,562
+Huh?
+
+82
+00:09:25,111 --> 00:09:26,261
+Jung-yeon,
+
+83
+00:09:27,298 --> 00:09:29,003
+I want to help you.
+
+84
+00:09:33,155 --> 00:09:36,332
+Worry about your perfect little life.
+
+85
+00:09:39,453 --> 00:09:40,496
+Is someone bullying you?
+
+86
+00:09:40,496 --> 00:09:41,652
+Ah shit.
+
+87
+00:09:41,812 --> 00:09:43,097
+You're crossing a line.
+
+88
+00:09:45,126 --> 00:09:46,785
+Go study.
+
+89
+00:09:47,209 --> 00:09:48,308
+Or what,
+
+90
+00:09:48,671 --> 00:09:50,918
+go flirt with girls with that pretty face.
+
+91
+00:10:05,438 --> 00:10:06,527
+Shi..
+
+92
+00:10:08,316 --> 00:10:09,150
+Hey.
+
+93
+00:10:14,451 --> 00:10:15,661
+You wanna die?
+
+94
+00:10:24,554 --> 00:10:26,847
+I'm going to ask you a few questions now.
+
+95
+00:10:27,066 --> 00:10:31,433
+Just put on the VR headset
+in front of you and answer comfortably.
+
+96
+00:11:00,724 --> 00:11:01,850
+Whoa.
+
+97
+00:11:03,209 --> 00:11:05,128
+You see the test app on the screen?
+
+98
+00:11:05,998 --> 00:11:07,503
+Can you tap that and go in?
+
+99
+00:11:08,659 --> 00:11:10,168
+Yeah, I'm in.
+
+100
+00:11:11,170 --> 00:11:14,757
+I'll be recording your eye movements
+and facial expressions.
+
+101
+00:11:15,390 --> 00:11:16,182
+Huh?
+
+102
+00:11:17,082 --> 00:11:18,875
+I can't see anything now.
+
+103
+00:11:19,804 --> 00:11:21,222
+Then let's begin.
+
+104
+00:11:23,391 --> 00:11:24,355
+Okay.
+
+105
+00:11:26,639 --> 00:11:29,975
+Test subject, Case-Delphi,
+starting questionnaire.
+
+106
+00:11:30,022 --> 00:11:32,983
+This experiment is to measure
+emotional responses.
+
+107
+00:11:32,983 --> 00:11:34,941
+All answers will be recorded
+via the VR device.
+
+108
+00:11:35,444 --> 00:11:37,697
+A variety of questions will be presented.
+
+109
+00:11:37,697 --> 00:11:40,003
+Please let me know
+if you feel uncomfortable at any point.
+
+110
+00:11:40,094 --> 00:11:41,378
+Got it.
+
+111
+00:11:42,819 --> 00:11:44,654
+How are you feeling right now?
+
+112
+00:11:45,340 --> 00:11:47,050
+A little nervous.
+
+113
+00:11:48,128 --> 00:11:50,172
+Alright, we'll proceed.
+
+114
+00:11:50,707 --> 00:11:52,542
+Are you currently seeing anyone?
+
+115
+00:11:52,683 --> 00:11:53,768
+No.
+
+116
+00:11:54,296 --> 00:11:55,172
+Hmm…
+
+117
+00:11:56,006 --> 00:11:57,824
+Then is there someone you like?
+
+118
+00:11:59,950 --> 00:12:01,118
+Yes.
+
+119
+00:12:05,336 --> 00:12:09,902
+Can you name three things you have
+in common with that person?
+
+120
+00:12:11,217 --> 00:12:12,558
+Uh…
+
+121
+00:12:13,672 --> 00:12:14,980
+Good at studying.
+
+122
+00:12:15,489 --> 00:12:16,832
+Kind.
+
+123
+00:12:17,909 --> 00:12:20,495
+And if you really get to know them…
+kind of scary?
+
+124
+00:12:24,222 --> 00:12:25,582
+Those are common traits, right?
+
+125
+00:12:26,470 --> 00:12:28,363
+Yes, they are.
+
+126
+00:12:29,344 --> 00:12:32,613
+What are you most grateful for
+in your life?
+
+127
+00:12:34,295 --> 00:12:35,261
+I…
+
+128
+00:12:36,172 --> 00:12:38,574
+I used to be really off track.
+
+129
+00:12:39,506 --> 00:12:42,675
+I didn't listen to my parents,
+gave up on studying…
+
+130
+00:12:44,513 --> 00:12:45,473
+But…
+
+131
+00:12:45,977 --> 00:12:47,878
+someone held onto me back then.
+
+132
+00:12:48,956 --> 00:12:51,441
+Even when I was hopeless,
+they didn't let go.
+
+133
+00:12:58,175 --> 00:13:00,652
+If you could change one thing
+about your childhood,
+
+134
+00:13:02,643 --> 00:13:04,425
+what would it be?
+
+135
+00:13:13,746 --> 00:13:17,714
+I wish I hadn't confessed to
+that person so recklessly.
+
+136
+00:13:32,232 --> 00:13:33,292
+Hyung—
+
+137
+00:13:33,466 --> 00:13:34,964
+I mean… teacher—
+
+138
+00:13:35,979 --> 00:13:38,652
+Do you have a girlfriend?
+
+139
+00:13:39,944 --> 00:13:41,746
+Focus on studying.
+
+140
+00:13:43,547 --> 00:13:45,464
+If you tell me, I will.
+
+141
+00:13:48,569 --> 00:13:49,987
+What do you think?
+
+142
+00:13:51,872 --> 00:13:52,949
+Probably yes.
+
+143
+00:13:53,679 --> 00:13:57,105
+You go to a good school,
+you're tall, handsome…
+
+144
+00:13:57,833 --> 00:13:59,285
+No, I don't.
+
+145
+00:13:59,950 --> 00:14:01,574
+Do you like someone?
+
+146
+00:14:03,980 --> 00:14:05,190
+Uh…
+
+147
+00:14:06,220 --> 00:14:07,628
+I think so.
+
+148
+00:14:09,028 --> 00:14:12,035
+What do you mean “think so”?
+You're not sure?
+
+149
+00:14:15,606 --> 00:14:18,160
+You're pretty, everyone probably likes you.
+
+150
+00:14:31,550 --> 00:14:33,285
+If you had a chance
+
+151
+00:14:33,448 --> 00:14:36,918
+to have dinner with just one person
+in the world,
+
+152
+00:14:40,212 --> 00:14:41,824
+who would you choose?
+
+153
+00:14:55,060 --> 00:14:56,793
+Do you want to have dinner with me today?
+
+154
+00:14:59,398 --> 00:15:00,519
+What should I do?
+
+155
+00:15:00,774 --> 00:15:02,472
+I have things to do at home tonight.
+
+156
+00:15:05,237 --> 00:15:06,238
+Ah…
+
+157
+00:15:08,490 --> 00:15:10,576
+I retook the exam because of you.
+
+158
+00:15:12,048 --> 00:15:14,342
+Why are you bringing that up now?
+
+159
+00:15:14,997 --> 00:15:16,040
+And—
+
+160
+00:15:16,040 --> 00:15:18,003
+You chose to retake it.
+
+161
+00:15:25,419 --> 00:15:26,293
+Then…
+
+162
+00:15:26,800 --> 00:15:28,218
+Do you want to eat at my place?
+
+163
+00:15:37,563 --> 00:15:38,480
+Let's go, hurry.
+
+164
+00:15:38,520 --> 00:15:39,396
+Huh?
+
+165
+00:15:39,396 --> 00:15:41,503
+Wait, I need to tidy this up.
+
+166
+00:15:41,774 --> 00:15:43,519
+Ah, I'll do it tomorrow.
+
+167
+00:15:43,984 --> 00:15:45,110
+Let's go.
+
+168
+00:15:47,738 --> 00:15:48,906
+Come on, hurry.
+
+169
+00:15:48,906 --> 00:15:50,449
+I need to finish this.
+
+170
+00:15:50,449 --> 00:15:53,363
+You said you'd buy me dinner, come on.
+
+171
+00:16:18,766 --> 00:16:20,847
+You remember the day I confessed before?
+
+172
+00:16:24,965 --> 00:16:26,308
+Do you remember?
+
+173
+00:16:28,839 --> 00:16:30,621
+You were cute back then.
+
+174
+00:16:33,075 --> 00:16:35,160
+I was pretty young.
+
+175
+00:16:36,958 --> 00:16:38,449
+You're still cute.
+
+176
+00:16:39,540 --> 00:16:41,933
+Do I still look like a kid to you?
+
+177
+00:16:46,755 --> 00:16:48,507
+Hmm…
+
+178
+00:16:53,762 --> 00:16:55,636
+You still feel like a high schooler.
+
+179
+00:17:31,247 --> 00:17:32,582
+Do you still like me?
+
+180
+00:17:40,053 --> 00:17:43,910
+Back then, you were emotionally unstable,
+
+181
+00:17:45,383 --> 00:17:48,449
+and I was older than you,
+so I probably seemed impressive.
+
+182
+00:17:50,444 --> 00:17:52,230
+First love at that age
+
+183
+00:17:53,251 --> 00:17:55,496
+tends to get romanticized as time passes.
+
+184
+00:17:59,286 --> 00:18:00,589
+So—
+
+185
+00:18:02,169 --> 00:18:03,337
+Yeah?
+
+186
+00:18:04,666 --> 00:18:05,824
+So what?
+
+187
+00:18:06,527 --> 00:18:08,529
+We've only had a few glasses of wine,
+
+188
+00:18:09,623 --> 00:18:11,652
+and just because I idealized things from
+when I was young,
+
+189
+00:18:11,847 --> 00:18:14,035
+kissing a grown adult man
+
+190
+00:18:14,811 --> 00:18:16,402
+is supposed to be normal?
+
+191
+00:18:19,389 --> 00:18:20,535
+That's not what I meant.
+
+192
+00:18:24,103 --> 00:18:26,386
+I'll decide my feelings myself, teacher.
+
+193
+00:18:32,910 --> 00:18:34,457
+Think about it.
+
+194
+00:19:03,365 --> 00:19:05,200
+I like you, teacher.
+
+195
+00:19:06,804 --> 00:19:08,269
+You did well on this.
+
+196
+00:19:12,927 --> 00:19:14,303
+Please grant me one wish.
+
+197
+00:19:15,466 --> 00:19:16,785
+A wish?
+
+198
+00:19:17,734 --> 00:19:19,569
+Did we ever make that kind of promise?
+
+199
+00:19:21,811 --> 00:19:23,646
+Am I not pretty?
+
+200
+00:19:26,563 --> 00:19:28,066
+What should I do...
+
+201
+00:19:28,854 --> 00:19:30,863
+I like smart people.
+
+202
+00:19:32,464 --> 00:19:35,019
+With these grades,
+you wouldn't even get near our school.
+
+203
+00:19:46,443 --> 00:19:47,569
+Ah.
+
+204
+00:19:48,426 --> 00:19:50,553
+I really like you, teacher.
+
+205
+00:19:50,578 --> 00:19:51,714
+You even show up
+
+206
+00:19:52,269 --> 00:19:53,687
+in my dreams.
+
+207
+00:19:59,615 --> 00:20:00,839
+Geez.
+
+208
+00:20:01,707 --> 00:20:03,035
+You're such a kid.
+
+209
+00:20:17,916 --> 00:20:19,250
+Why isn't Jung-yeon here?
+
+210
+00:20:29,436 --> 00:20:30,808
+Is he sick or something?
+
+211
+00:20:43,617 --> 00:20:44,941
+Sorry I'm late.
+
+212
+00:20:48,325 --> 00:20:50,886
+Whoa—did you get into a fight?
+
+213
+00:20:51,173 --> 00:20:53,652
+Do you need a lawyer? I know someone.
+
+214
+00:20:53,677 --> 00:20:56,871
+No, it's nothing. I'm fine.
+
+215
+00:20:58,697 --> 00:21:00,285
+If it's nothing serious,
+
+216
+00:21:00,615 --> 00:21:03,144
+let's start the experiment for HQ first.
+
+217
+00:21:03,535 --> 00:21:06,037
+Wow, that's cold.
+
+218
+00:21:06,062 --> 00:21:07,689
+Are you insane about work?
+
+219
+00:21:07,714 --> 00:21:08,496
+Hey.
+
+220
+00:21:08,696 --> 00:21:10,441
+Do you get paid more than me?
+
+221
+00:21:10,686 --> 00:21:12,020
+What are you talking about?
+
+222
+00:21:16,269 --> 00:21:17,589
+Jung-yeon.
+
+223
+00:21:19,186 --> 00:21:20,479
+Come over here.
+
+224
+00:22:47,699 --> 00:22:49,199
+I'll skip the explanation.
+
+225
+00:22:49,534 --> 00:22:52,277
+This is Case Delphi, trial six.
+
+226
+00:22:53,192 --> 00:22:56,136
+What's the most precious memory
+of your life?
+
+227
+00:22:57,918 --> 00:22:58,917
+Um...
+
+228
+00:22:59,351 --> 00:23:02,058
+I used to spend a lot of time
+with my first love.
+
+229
+00:23:02,747 --> 00:23:06,441
+Every single day back then
+was precious to me.
+
+230
+00:23:08,063 --> 00:23:10,034
+And the worst memory?
+
+231
+00:23:12,641 --> 00:23:14,675
+I confessed, we even kissed.
+
+232
+00:23:16,269 --> 00:23:19,183
+And then he patted my head
+
+233
+00:23:20,354 --> 00:23:23,316
+and said it was “just a momentary feeling.”
+
+234
+00:23:23,341 --> 00:23:25,574
+Wow. What a jerk.
+
+235
+00:23:26,063 --> 00:23:28,605
+Right? Pretty awful.
+
+236
+00:23:30,429 --> 00:23:31,722
+Jung-yeon.
+
+237
+00:23:34,928 --> 00:23:36,417
+Shall we step outside and talk?
+
+238
+00:24:03,459 --> 00:24:05,792
+Are you rebelling again, now of all times?
+
+239
+00:24:09,543 --> 00:24:11,425
+Oh, this?
+
+240
+00:24:16,689 --> 00:24:19,769
+I thought you might care
+if I looked beaten up. Like before.
+
+241
+00:24:24,853 --> 00:24:26,300
+Then what about your hand?
+
+242
+00:24:37,009 --> 00:24:38,488
+You're still a kid.
+
+243
+00:24:41,211 --> 00:24:43,183
+I'm grown up now, you know?
+
+244
+00:24:44,126 --> 00:24:46,808
+You don't need to feel guilty anymore.
+
+245
+00:24:47,899 --> 00:24:50,485
+If you want to sleep with me, you can.
+
+246
+00:24:51,432 --> 00:24:53,517
+You've got some nerve for someone so small.
+
+247
+00:24:58,946 --> 00:25:00,659
+You're not my type.
+
+248
+00:25:02,003 --> 00:25:03,792
+Yeah, right.
+
+249
+00:25:07,576 --> 00:25:09,286
+Why do you think that?
+
+250
+00:25:10,716 --> 00:25:13,050
+You like pretty types like me.
+
+251
+00:25:15,630 --> 00:25:17,006
+I saw everything.
+
+252
+00:25:20,698 --> 00:25:21,991
+Saw what?
+
+253
+00:25:24,548 --> 00:25:28,495
+My observation notes when I was in high school.
+
+254
+00:25:58,979 --> 00:26:03,066
+(Emotional Attachment Formation and Correction
+Experiment in At-Risk Adolescents)
+
+255
+00:26:31,131 --> 00:26:34,558
+(It was all written there. About me.)
+
+256
+00:26:35,870 --> 00:26:38,644
+(He shows a strong interest in appearance.)
+
+257
+00:26:39,389 --> 00:26:42,730
+(Especially when called “pretty,”
+he blushes.)
+
+258
+00:26:43,867 --> 00:26:45,808
+(Jung-yeon is pretty.)
+
+259
+00:26:56,239 --> 00:26:57,878
+Back then, you were young.
+
+260
+00:26:59,284 --> 00:27:01,386
+You were perfect as an experiment subject.
+
+261
+00:27:05,469 --> 00:27:07,003
+Was that really all it was?
+
+262
+00:27:09,513 --> 00:27:10,863
+And...
+
+263
+00:27:14,187 --> 00:27:15,480
+Just...
+
+264
+00:27:17,552 --> 00:27:19,402
+a cute student.
+
+265
+00:27:49,487 --> 00:27:54,815
+(ECG Pattern: Abnormal conduction detected)
+(Status: Emotional response baseline (Exceeded))
+
+266
+00:28:08,026 --> 00:28:09,324
+Teacher.
+
+267
+00:28:13,274 --> 00:28:15,136
+Can't you just live at our place?
+
+268
+00:28:18,655 --> 00:28:19,902
+I really…
+
+269
+00:28:20,896 --> 00:28:22,964
+I think I'd be fine as long as I have you.
+
+270
+00:29:00,105 --> 00:29:03,400
+Hey, what's going on between you two?
+
+271
+00:29:05,788 --> 00:29:07,807
+You're seriously suffocating me.
+
+272
+00:29:09,549 --> 00:29:11,369
+I'll go to the restroom.
+
+273
+00:29:30,408 --> 00:29:33,057
+Hey, did you do something to Jung-yeon?
+
+274
+00:29:35,416 --> 00:29:36,549
+No?
+
+275
+00:29:38,224 --> 00:29:39,268
+Really?
+
+276
+00:29:41,878 --> 00:29:45,423
+But hey, Jung-yeon's experiment results—
+
+277
+00:29:45,448 --> 00:29:47,117
+don't you think they're off?
+
+278
+00:29:47,142 --> 00:29:49,158
+How do you even get a 99?
+
+279
+00:29:50,814 --> 00:29:52,149
+That makes no sense.
+
+280
+00:29:52,174 --> 00:29:53,104
+Look.
+
+281
+00:29:54,485 --> 00:29:56,541
+I'm telling you,
+this is my first time seeing this.
+
+282
+00:30:03,783 --> 00:30:05,065
+I'll head out first.
+
+283
+00:30:05,336 --> 00:30:06,463
+I'm leaving.
+
+284
+00:30:06,846 --> 00:30:09,432
+Text me. Text me.
+
+285
+00:30:10,078 --> 00:30:13,498
+(Myung-jin: Looking at the results, it's 100%—
+he's got someone he likes right now.)
+
+286
+00:30:13,523 --> 00:30:14,932
+(Myung-jin: Ask who it is.)
+
+287
+00:30:25,435 --> 00:30:28,455
+Please call that person "Teacher".
+
+288
+00:30:34,128 --> 00:30:37,854
+That experiment you said
+you saw seven years ago—
+
+289
+00:30:45,267 --> 00:30:47,877
+you're right. I used you.
+
+290
+00:30:50,895 --> 00:30:53,479
+A rich kid hanging out with bad friends—
+
+291
+00:30:54,269 --> 00:30:55,588
+it's a cliché.
+
+292
+00:31:00,232 --> 00:31:01,369
+So what?
+
+293
+00:31:04,328 --> 00:31:06,748
+Because of that, I got my act together.
+
+294
+00:31:07,354 --> 00:31:10,149
+Sure, I repeated a year, but—
+
+295
+00:31:10,174 --> 00:31:12,768
+I got into a good university.
+That means it worked, right?
+
+296
+00:31:20,177 --> 00:31:22,689
+For you, and for me.
+
+297
+00:31:24,144 --> 00:31:25,502
+Jung-yeon…
+
+298
+00:31:29,762 --> 00:31:31,768
+It's just that I feel guilty.
+
+299
+00:31:44,019 --> 00:31:45,353
+So—
+
+300
+00:31:46,897 --> 00:31:48,950
+that's why I came back, all grown up.
+
+301
+00:32:16,768 --> 00:32:18,130
+Put that on.
+
+302
+00:32:19,853 --> 00:32:21,669
+Let's run the final experiment.
+
+303
+00:32:31,532 --> 00:32:35,782
+Case-Delphi.
+We will proceed with the next question.
+
+304
+00:32:37,611 --> 00:32:39,282
+About the other person—
+
+305
+00:32:40,259 --> 00:32:43,000
+tell me what you've already come to like.
+
+306
+00:32:46,464 --> 00:32:48,466
+At first,
+
+307
+00:32:48,466 --> 00:32:51,177
+I liked him because he was handsome.
+
+308
+00:32:51,177 --> 00:32:53,721
+And because he was kind.
+
+309
+00:32:56,391 --> 00:32:59,315
+I liked how cold he could be,
+almost frighteningly so, when he was firm.
+
+310
+00:33:00,652 --> 00:33:03,321
+I liked that he tried to keep boundaries.
+
+311
+00:33:08,496 --> 00:33:10,003
+But the best part—
+
+312
+00:33:12,092 --> 00:33:16,523
+was finding out he'd been watching over me
+this whole time.
+
+313
+00:33:16,548 --> 00:33:19,085
+I liked that more than I could bear.
+
+314
+00:33:34,345 --> 00:33:35,789
+Is there—
+
+315
+00:33:38,516 --> 00:33:40,132
+even as a joke—
+
+316
+00:33:42,020 --> 00:33:46,607
+something you should never say?
+
+317
+00:33:47,934 --> 00:33:49,590
+Actually, it was all a lie.
+
+318
+00:33:51,154 --> 00:33:52,879
+I never liked you.
+
+319
+00:33:54,965 --> 00:33:56,527
+If tonight—
+
+320
+00:33:58,628 --> 00:34:03,113
+you were to die without contacting anyone—
+
+321
+00:34:06,517 --> 00:34:08,582
+of all the things you didn't get to say,
+
+322
+00:34:09,687 --> 00:34:12,379
+what would you regret the most?
+
+323
+00:34:16,765 --> 00:34:17,975
+And—
+
+324
+00:34:19,997 --> 00:34:24,527
+who would you want to say it to?
+
+325
+00:34:26,680 --> 00:34:28,059
+I like you.
+
+326
+00:34:28,542 --> 00:34:29,684
+Hyung.
+
+327
+00:34:42,003 --> 00:34:43,832
+This is the final question.
+
+328
+00:34:49,378 --> 00:34:51,762
+Open up about your condition,
+
+329
+00:34:52,590 --> 00:34:54,738
+and ask the other person for advice.
+
+330
+00:34:57,495 --> 00:34:58,871
+Before—
+
+331
+00:35:00,715 --> 00:35:03,152
+when I found that experiment notebook—
+
+332
+00:35:04,725 --> 00:35:07,902
+I was angry, thinking you had deceived me.
+
+333
+00:35:15,177 --> 00:35:16,220
+But—
+
+334
+00:35:21,728 --> 00:35:25,107
+when I thought about how you'd been
+watching me all this time,
+
+335
+00:35:29,252 --> 00:35:30,832
+I liked that, too.
+
+336
+00:35:38,784 --> 00:35:40,449
+I'm kind of strange, right?
+
+337
+00:35:41,759 --> 00:35:43,324
+I still am.
+
+338
+00:35:44,938 --> 00:35:47,121
+I don't mind if I'm just a test subject.
+
+339
+00:35:48,664 --> 00:35:50,520
+I don't mind if you use me.
+
+340
+00:35:53,859 --> 00:35:57,660
+I just want you to like me.
+
+341
+00:36:00,006 --> 00:36:01,543
+I really—
+
+342
+00:36:03,176 --> 00:36:04,504
+I like you so, so much.
+
+343
+00:36:24,223 --> 00:36:25,324
+<i>Finally</i>
+
+344
+00:36:28,284 --> 00:36:29,949
+<i>the experiment is over.</i>
+
+345
+00:36:37,476 --> 00:36:40,354
+<i>Hey, but that experiment
+you're doing with Jung-yeon—</i>
+
+346
+00:36:40,379 --> 00:36:42,234
+<i>are you even reporting it to the company?</i>
+
+347
+00:36:42,598 --> 00:36:44,726
+<i>That's the experiment
+we did back in undergrad.</i>
+
+348
+00:36:45,445 --> 00:36:49,348
+(How do you even get a 99 for Jeong-yeon's results?
+That makes no sense.)
+
+349
+00:36:49,373 --> 00:36:50,708
+(Are you seeing someone right now?)
+
+350
+00:36:50,708 --> 00:36:53,046
+<i>As you exchange questions back and forth,</i>
+
+351
+00:36:53,544 --> 00:36:55,046
+(It was my most precious memory.)
+
+352
+00:36:55,046 --> 00:36:57,788
+<i>at some point, you end up confessing
+even your real feelings,</i>
+
+353
+00:36:58,797 --> 00:37:01,226
+<i>and by the time
+you get to the last question—</i>
+
+354
+00:37:01,251 --> 00:37:02,753
+(Do you still like me?)
+
+355
+00:37:02,778 --> 00:37:04,843
+<i>you fall in love with each other.</i>
+
+356
+00:37:06,119 --> 00:37:09,330
+<i>Arthur Aron's 36 Questions Experiment.</i>
+
+357
+00:37:09,355 --> 00:37:11,359
+<i>That's it, right?</i>
+
+358
+00:37:11,694 --> 00:37:14,101
+Yes, Professor. How have you been?
+
+359
+00:37:14,370 --> 00:37:16,015
+I'm calling because—
+
+360
+00:37:16,040 --> 00:37:17,543
+about that assistant researcher
+
+361
+00:37:17,568 --> 00:37:19,562
+I mentioned last time—
+
+362
+00:37:19,780 --> 00:37:24,382
+I found someone who wrote their thesis
+on the self-control of at-risk youth.
+
+363
+00:37:25,618 --> 00:37:27,202
+What do you think about that person?
+
+364
+00:37:28,499 --> 00:37:29,624
+Yes.
+
+365
+00:37:30,221 --> 00:37:31,554
+Thank you.
+
+366
+00:38:01,776 --> 00:38:03,447
+(Jung-yeon… you…)
+
+367
+00:38:07,097 --> 00:38:09,541
+(you've become perfectly mine.)
+
+368
+00:38:57,418 --> 00:39:00,871
+Name three things you have in common
+with the other person.
+
+369
+00:39:01,979 --> 00:39:03,564
+Hmm…
+
+370
+00:39:03,589 --> 00:39:05,082
+Good at studying?
+
+371
+00:39:06,103 --> 00:39:07,771
+Only think about one person,
+
+372
+00:39:09,044 --> 00:39:10,652
+and… can't help but caring about him?
+
+373
+00:39:11,732 --> 00:39:14,207
+What is your most precious memory?
+
+374
+00:39:16,359 --> 00:39:18,652
+The day I first met him.
+
+375
+00:39:19,444 --> 00:39:23,615
+Back then, he was just a sweet kid
+who looked like he needed help.
+
+376
+00:39:27,471 --> 00:39:31,394
+My experiment was meant to help
+someone like that.
+
+377
+00:39:38,774 --> 00:39:41,603
+But when I saw him come back all grown up—
+
+378
+00:39:43,484 --> 00:39:45,744
+the results of the experiment
+no longer mattered.
+
+379
+00:39:47,051 --> 00:39:49,884
+What does a “perfect” day look like to you?
+
+380
+00:39:52,344 --> 00:39:53,931
+The day—
+
+381
+00:39:55,229 --> 00:39:57,595
+The day Jung-yeon is entirely in my arms.
+
+382
+00:40:09,263 --> 00:40:10,861
+(I…)
+
+383
+00:40:11,351 --> 00:40:14,494
+(I knew everything, teacher.)
+
+384
+00:40:21,400 --> 00:40:22,901
+Me too.
+
+385
+00:40:24,912 --> 00:40:27,189
+I like you too, Jung-yeon.
+
+386
+00:40:30,466 --> 00:40:31,717
+Me too, hyung.
