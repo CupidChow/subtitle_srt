@@ -1,0 +1,12316 @@
+1
+00:00:21,700 --> 00:00:26,220
+(Game Guide) Welcome to a large-scale
+life simulation game.
+
+2
+00:00:26,980 --> 00:00:33,140
+Welcome to The Truth, a large-scale
+open-world social deduction game.
+
+3
+00:00:33,140 --> 00:00:36,020
+As a player, you will enter
+different dungeon worlds
+
+4
+00:00:36,020 --> 00:00:38,740
+and embark on your own adventure.
+
+5
+00:00:38,960 --> 00:00:41,480
+This game features four dungeon worlds.
+
+6
+00:00:42,120 --> 00:00:43,720
+(Dungeon 1, 2, 3, 4)
+In each dungeon,
+
+7
+00:00:43,720 --> 00:00:45,800
+(Role)
+you will unlock a new identity,
+
+8
+00:00:45,800 --> 00:00:47,920
+experience a different life,
+
+9
+00:00:47,920 --> 00:00:49,680
+meet the NPCs within,
+
+10
+00:00:49,680 --> 00:00:51,760
+explore and interact
+
+11
+00:00:51,760 --> 00:00:54,880
+with each dungeon's unique story,
+
+12
+00:00:54,880 --> 00:00:56,000
+solve its mysteries,
+
+13
+00:00:56,000 --> 00:00:57,480
+and expose the true culprit.
+
+14
+00:00:57,480 --> 00:00:59,200
+(Dungeon 1, 2, 3, 4 Cleared)
+Clear all four dungeons
+
+15
+00:00:59,200 --> 00:01:01,160
+to earn the completion achievement
+
+16
+00:01:01,160 --> 00:01:02,800
+(Completion Achievement)
+and unlock the hidden ending.
+
+17
+00:01:03,280 --> 00:01:04,480
+Each dungeon
+
+18
+00:01:04,480 --> 00:01:05,600
+(Case 1, Case 2)
+may contain
+
+19
+00:01:05,600 --> 00:01:07,160
+one or more cases.
+
+20
+00:01:07,160 --> 00:01:08,400
+(Random, Detectives, Suspects)
+When a case begins,
+
+21
+00:01:08,400 --> 00:01:10,400
+players will be randomly assigned
+
+22
+00:01:10,400 --> 00:01:11,360
+as either detectives or suspects.
+
+23
+00:01:11,880 --> 00:01:14,160
+(Suspects, NPC)
+The true culprit could be hiding
+
+24
+00:01:14,160 --> 00:01:15,520
+among the suspect players or the NPCs.
+
+25
+00:01:15,520 --> 00:01:17,400
+(True Culprit)
+Look carefully.
+
+26
+00:01:17,400 --> 00:01:19,240
+The true culprit's objective
+
+27
+00:01:19,240 --> 00:01:20,720
+is to stay hidden.
+
+28
+00:01:20,720 --> 00:01:23,400
+(True Culprit)
+Only the true culprit is allowed to lie.
+
+29
+00:01:23,400 --> 00:01:24,760
+(Main Quest, Investigation, Exploration, Rewards)
+As a case unfolds,
+
+30
+00:01:24,760 --> 00:01:27,200
+(Skill Cards, Trial, Stamina Points, Side Quests)
+players can
+
+31
+00:01:27,200 --> 00:01:28,800
+use game mechanics
+to advance the investigation.
+
+32
+00:01:29,480 --> 00:01:30,800
+Use them wisely,
+
+33
+00:01:30,800 --> 00:01:32,400
+and you may uncover
+an unexpected breakthrough.
+
+34
+00:01:33,720 --> 00:01:34,800
+(Suspects, True Culprit, NPCs)
+When the case ends,
+
+35
+00:01:34,800 --> 00:01:36,520
+it'll be time to vote
+for the true culprit.
+
+36
+00:01:37,280 --> 00:01:38,680
+If the culprit is identified,
+
+37
+00:01:38,680 --> 00:01:40,120
+(Correct Vote, True Culprit)
+players who voted correctly
+
+38
+00:01:40,120 --> 00:01:42,200
+will receive a Golden Key.
+
+39
+00:01:42,200 --> 00:01:43,840
+If the true culprit
+
+40
+00:01:43,840 --> 00:01:45,680
+(True Culprit, Player)
+receives fewer votes than the others,
+
+41
+00:01:45,680 --> 00:01:48,200
+(True Culprit, Votes, Player)
+he will also earn a Golden Key.
+
+42
+00:01:48,920 --> 00:01:50,960
+(Player)
+Golden Keys will be tallied
+
+43
+00:01:50,960 --> 00:01:52,560
+at the end and exchanged
+
+44
+00:01:52,560 --> 00:01:54,920
+(Skill Cards) for Skill Cards.
+
+45
+00:01:55,400 --> 00:01:56,860
+(Gentle Reminder)
+Please note:
+
+46
+00:01:56,860 --> 00:01:58,840
+(All characters and details are fictional)
+The Game Guide
+
+47
+00:01:58,840 --> 00:02:00,650
+(All acts and scenes are fictional)
+is loading.
+
+48
+00:02:00,650 --> 00:02:02,690
+(All content used in this program)
+Immerse yourselves in the experience.
+
+49
+00:02:02,690 --> 00:02:04,010
+(has had consent given)
+Begin the investigation!
+
+50
+00:02:04,010 --> 00:02:04,340
+(Appropriate safety measures were taken
+Please do not imitate)
+
+51
+00:02:04,340 --> 00:02:04,780
+(Minors should watch
+under adult supervision)
+
+52
+00:02:04,780 --> 00:02:05,860
+(LOADING...)
+
+53
+00:02:10,420 --> 00:02:12,940
+(Dungeon Pass)
+
+54
+00:02:18,020 --> 00:02:19,380
+(THE TRUTH)
+
+55
+00:02:19,980 --> 00:02:24,460
+=The Truth=
+
+56
+00:02:25,000 --> 00:02:26,400
+(Previously)
+Dungeon Three detected an anomaly.
+
+57
+00:02:26,400 --> 00:02:28,080
+Skill Card transmission failed.
+
+58
+00:02:28,080 --> 00:02:31,160
+(Skill Card transmission failed?)
+To prevent players
+
+59
+00:02:31,160 --> 00:02:32,920
+from being placed in danger,
+the system will
+
+60
+00:02:32,920 --> 00:02:34,760
+urgently transfer all players
+to Dungeon Four.
+
+61
+00:02:34,760 --> 00:02:36,380
+(Transit portal opening...)
+
+62
+00:02:36,760 --> 00:02:37,920
+Limited-time player
+
+63
+00:02:37,920 --> 00:02:38,680
+(Zhang Ruonan)
+Zhang Ruonan
+
+64
+00:02:38,680 --> 00:02:39,360
+(Dungeon Four's limited-time player)
+Match successful.
+
+65
+00:02:40,200 --> 00:02:42,160
+(Summon Card)
+The Skill Card
+
+66
+00:02:42,160 --> 00:02:43,440
+for this limited-time player
+was selected by online voters on Weibo.
+
+67
+00:02:43,440 --> 00:02:44,840
+(Summon an item from outside the dungeon world)
+
+68
+00:02:44,840 --> 00:02:47,040
+Please claim your Skill Card.
+
+69
+00:02:47,640 --> 00:02:49,280
+Thank you to everyone on Weibo.
+
+70
+00:02:49,280 --> 00:02:50,120
+(Dungeon Four loading...)
+
+71
+00:02:50,120 --> 00:02:51,440
+Entering dungeon.
+
+72
+00:02:54,860 --> 00:02:56,340
+(Player Liu Yuning has
+received identity: Ning Watcha)
+
+73
+00:02:59,780 --> 00:03:01,540
+(Player Jin Jing has
+received identity: Jin Goofy)
+
+74
+00:03:04,180 --> 00:03:05,380
+(Player Zhang Linghe has
+received identity: He Struggle)
+
+75
+00:03:07,380 --> 00:03:09,660
+(Player Ding Chengxin has
+received identity: Ding Staring)
+
+76
+00:03:11,860 --> 00:03:13,820
+(Player Zhou Keyu has
+received identity: Ke Uh-Oh)
+
+77
+00:03:15,500 --> 00:03:17,500
+(Limited-time player Zhang Ruonan has
+received identity: Nan Shy)
+
+78
+00:03:17,740 --> 00:03:19,580
+(Dungeon Four: Crazy Animal Theme Party)
+
+79
+00:03:19,580 --> 00:03:21,420
+(Ding Staring, Ning Watcha, Jin Goofy)
+
+80
+00:03:21,420 --> 00:03:23,260
+(Nan Shy, He Struggle, Ke Uh-Oh)
+
+81
+00:03:31,940 --> 00:03:35,980
+(Story setting:
+Contains fictional horror elements)
+
+82
+00:03:35,980 --> 00:03:36,340
+(Crazy Animal Theme Day)
+
+83
+00:03:37,140 --> 00:03:42,300
+(Talent Hub)
+
+84
+00:03:43,320 --> 00:03:44,780
+Every city
+
+85
+00:03:44,780 --> 00:03:46,020
+has its own secrets.
+
+86
+00:03:46,610 --> 00:03:48,680
+Our company, Tui Games Company,
+
+87
+00:03:49,300 --> 00:03:50,550
+has two urban legends.
+
+88
+00:03:52,120 --> 00:03:53,480
+The first one
+
+89
+00:03:53,480 --> 00:03:55,480
+is called "Under the Skin".
+
+90
+00:03:56,140 --> 00:04:00,780
+(Tui Games Company Urban Legends
+Urban Legend One: Under the Skin)
+
+91
+00:04:00,820 --> 00:04:08,520
+(Story setting:
+Contains fictional horror elements)
+
+92
+00:04:08,520 --> 00:04:10,040
+Legend says the employees here
+
+93
+00:04:10,040 --> 00:04:11,400
+will shed their human skin
+
+94
+00:04:11,780 --> 00:04:13,420
+and turn into flesh-eating
+
+95
+00:04:13,420 --> 00:04:14,890
+and blood-drinking monsters
+
+96
+00:04:14,890 --> 00:04:16,590
+at midnight.
+
+97
+00:04:30,300 --> 00:04:32,340
+(Huh?)
+
+98
+00:04:32,360 --> 00:04:34,560
+It's okay.
+
+99
+00:04:34,560 --> 00:04:35,800
+What are you doing?
+
+100
+00:04:38,480 --> 00:04:39,280
+(Consoling)
+It's fine.
+
+101
+00:04:39,920 --> 00:04:41,280
+Like this...
+
+102
+00:04:41,280 --> 00:04:42,080
+(Still recovering)
+It's okay.
+
+103
+00:04:42,080 --> 00:04:44,040
+(Back to work mode)
+They wander around the office at night.
+
+104
+00:04:45,000 --> 00:04:47,160
+When we first joined the company,
+we were all normal humans.
+
+105
+00:04:47,960 --> 00:04:50,200
+But after working here,
+
+106
+00:04:51,240 --> 00:04:53,080
+we slowly developed animal traits.
+
+107
+00:04:56,140 --> 00:04:56,700
+(Work mode)
+
+108
+00:04:56,700 --> 00:04:57,600
+(Scared mode)
+
+109
+00:04:57,600 --> 00:04:58,680
+For example,
+
+110
+00:04:58,680 --> 00:04:59,720
+there is a type of employee
+
+111
+00:04:59,720 --> 00:05:02,060
+known as the symbol
+of workplace relaxation,
+
+112
+00:05:02,480 --> 00:05:04,590
+the "capybara-type employee".
+
+113
+00:05:05,240 --> 00:05:07,040
+The "capybara-type employee"?
+
+114
+00:05:09,040 --> 00:05:09,600
+Who is it?
+
+115
+00:05:10,320 --> 00:05:11,560
+Who is it?
+
+116
+00:05:12,120 --> 00:05:13,840
+It's me.
+
+117
+00:05:16,200 --> 00:05:17,960
+My workplace survival rule is
+
+118
+00:05:18,680 --> 00:05:19,960
+"I know you're in a hurry
+
+119
+00:05:19,960 --> 00:05:20,920
+but don't panic yet."
+
+120
+00:05:21,600 --> 00:05:23,640
+Take it slow.
+
+121
+00:05:24,480 --> 00:05:25,760
+Things will go wrong anyway.
+
+122
+00:05:26,880 --> 00:05:27,520
+Don't take things too seriously.
+
+123
+00:05:27,520 --> 00:05:28,480
+Don't overthink.
+
+124
+00:05:28,480 --> 00:05:29,200
+Don't put your heart into it.
+
+125
+00:05:31,620 --> 00:05:32,660
+(Tui Games Company, He Struggle,
+Famous Motion Capture Artist)
+
+126
+00:05:32,660 --> 00:05:33,740
+(Capybara-type employee
+workplace survival rule)
+
+127
+00:05:33,740 --> 00:05:34,900
+("I know you're in a hurry,
+but don't panic yet.")
+
+128
+00:05:35,240 --> 00:05:36,520
+Where are your ears?
+
+129
+00:05:36,700 --> 00:05:38,580
+(Curious)
+
+130
+00:05:39,000 --> 00:05:40,800
+My ears?
+
+131
+00:05:40,800 --> 00:05:42,640
+I ate them.
+
+132
+00:05:45,360 --> 00:05:46,280
+His ears?
+
+133
+00:05:47,320 --> 00:05:48,240
+Also known
+
+134
+00:05:48,640 --> 00:05:49,400
+as another type,
+
+135
+00:05:49,400 --> 00:05:51,720
+the symbol of workplace obedience,
+
+136
+00:05:51,980 --> 00:05:53,860
+the "puppy-type employee".
+
+137
+00:05:54,560 --> 00:05:57,560
+The "puppy-type employee" is me.
+
+138
+00:05:57,840 --> 00:06:00,480
+My workplace survival rule is
+
+139
+00:06:01,000 --> 00:06:03,160
+"Yes, boss",
+
+140
+00:06:03,160 --> 00:06:04,160
+"You're right, boss",
+
+141
+00:06:04,160 --> 00:06:05,680
+and "That's amazing, boss".
+
+142
+00:06:05,680 --> 00:06:06,640
+The main point is
+
+143
+00:06:06,640 --> 00:06:07,480
+having a great attitude
+
+144
+00:06:07,480 --> 00:06:08,880
+at work so that
+
+145
+00:06:08,880 --> 00:06:10,600
+I'm stress-free.
+
+146
+00:06:11,300 --> 00:06:12,380
+(Tui Games Company, Ke Uh-Oh,
+Official Coser & Sales)
+
+147
+00:06:12,380 --> 00:06:13,500
+(Puppy-type employee
+workplace survival rule)
+
+148
+00:06:13,500 --> 00:06:14,580
+("Yes, boss." "You're right, boss."
+"That's amazing, boss.")
+
+149
+00:06:14,920 --> 00:06:15,800
+There's also...
+
+150
+00:06:16,220 --> 00:06:18,300
+(Witnessing the entire scary incident)
+
+151
+00:06:21,480 --> 00:06:22,560
+What's wrong?
+
+152
+00:06:22,560 --> 00:06:23,520
+Nothing.
+
+153
+00:06:23,520 --> 00:06:25,040
+Let's continue with the urban legend.
+
+154
+00:06:25,040 --> 00:06:26,300
+(It's okay, it's okay.)
+
+155
+00:06:27,200 --> 00:06:28,000
+There's also
+
+156
+00:06:29,440 --> 00:06:30,400
+another type
+
+157
+00:06:30,400 --> 00:06:32,260
+known as
+
+158
+00:06:32,880 --> 00:06:34,750
+the "mermaid-type employee."
+
+159
+00:06:35,400 --> 00:06:37,960
+My workplace survival rule is
+
+160
+00:06:38,240 --> 00:06:40,320
+"I don't know."
+
+161
+00:06:40,560 --> 00:06:42,800
+"I'm not doing this."
+
+162
+00:06:43,080 --> 00:06:45,240
+"When trouble comes, I'll avoid it."
+
+163
+00:06:45,680 --> 00:06:47,680
+"When I see problems,"
+
+164
+00:06:48,600 --> 00:06:49,720
+"I'll run."
+
+165
+00:06:53,540 --> 00:06:54,700
+(Tui Games Company,
+Jin Goofy, HR Manager)
+
+166
+00:06:54,700 --> 00:06:55,740
+(Mermaid-type employee
+workplace survival rule)
+
+167
+00:06:55,740 --> 00:06:56,820
+("I don't know." "I'm not doing this."
+"When I see problems, I'll run.")
+
+168
+00:06:57,160 --> 00:06:58,280
+I'm slippery
+
+169
+00:06:58,280 --> 00:07:00,400
+so you'll never catch me.
+
+170
+00:07:05,960 --> 00:07:06,440
+Alright.
+
+171
+00:07:06,440 --> 00:07:08,400
+Your ears are starting to stand up.
+
+172
+00:07:09,200 --> 00:07:10,760
+There's another one.
+
+173
+00:07:12,480 --> 00:07:13,880
+The bottom of the food chain.
+Everyone wants to bully her.
+
+174
+00:07:14,200 --> 00:07:17,320
+(The lowest level in the workplace,
+bunny-type employee)
+
+175
+00:07:17,880 --> 00:07:19,320
+That's me.
+
+176
+00:07:19,320 --> 00:07:22,040
+My workplace survival rule is
+
+177
+00:07:22,480 --> 00:07:23,920
+"I'll do all the work".
+
+178
+00:07:23,920 --> 00:07:25,240
+"I'll endure all hardships".
+
+179
+00:07:25,240 --> 00:07:26,320
+"I'll take the blame".
+
+180
+00:07:26,320 --> 00:07:28,200
+The concept is
+
+181
+00:07:28,760 --> 00:07:29,640
+being honest and hardworking.
+
+182
+00:07:30,740 --> 00:07:31,820
+(Tui Games Company, Nan Shy,
+Game Designer)
+
+183
+00:07:31,820 --> 00:07:32,900
+(Bunny-type employee
+workplace survival rule)
+
+184
+00:07:32,900 --> 00:07:34,020
+("I'll do all the work." "I'll endure
+all hardships." "I'll take the blame.")
+
+185
+00:07:34,560 --> 00:07:36,480
+So obedient.
+
+186
+00:07:36,480 --> 00:07:38,640
+I like her.
+
+187
+00:07:39,480 --> 00:07:41,080
+Aren't you the mermaid?
+
+188
+00:07:41,360 --> 00:07:41,600
+Yeah.
+
+189
+00:07:41,600 --> 00:07:42,520
+Why did you turn into an old witch?
+
+190
+00:07:43,320 --> 00:07:44,600
+You do this every episode.
+
+191
+00:07:47,000 --> 00:07:48,360
+Can't you try a different style?
+
+192
+00:07:48,840 --> 00:07:49,280
+Exactly.
+
+193
+00:07:49,280 --> 00:07:50,800
+Everyone's tired of seeing this.
+
+194
+00:07:50,800 --> 00:07:51,920
+I'll think about it.
+
+195
+00:07:51,920 --> 00:07:53,430
+Maybe be cold and elegant.
+
+196
+00:07:53,430 --> 00:07:55,230
+(Trying a delicate innocent girl style)
+How about a delicate innocent girl?
+
+197
+00:07:55,490 --> 00:07:56,880
+Something more classy.
+
+198
+00:07:56,880 --> 00:07:58,080
+Cool and distant?
+
+199
+00:07:58,280 --> 00:07:59,760
+You just want me to shut up, right?
+
+200
+00:08:01,400 --> 00:08:02,120
+No.
+
+201
+00:08:02,120 --> 00:08:02,920
+Not at all.
+
+202
+00:08:03,320 --> 00:08:04,040
+So,
+
+203
+00:08:04,280 --> 00:08:06,520
+in the workplace,
+
+204
+00:08:06,520 --> 00:08:08,280
+there's always that person
+
+205
+00:08:08,760 --> 00:08:11,520
+who has connections and acts powerful.
+
+206
+00:08:13,000 --> 00:08:15,920
+This fox looks fearless.
+
+207
+00:08:16,440 --> 00:08:18,680
+My workplace survival rule is
+
+208
+00:08:19,320 --> 00:08:21,560
+"Skills can be developed,
+
+209
+00:08:22,160 --> 00:08:24,160
+but you must
+
+210
+00:08:24,160 --> 00:08:25,920
+choose your side wisely."
+
+211
+00:08:26,840 --> 00:08:28,640
+The key is
+
+212
+00:08:30,040 --> 00:08:32,000
+judging a book based on its cover.
+
+213
+00:08:33,060 --> 00:08:33,900
+(Tui Games Company, Ding Staring,
+Security Guard)
+
+214
+00:08:33,900 --> 00:08:34,740
+(Fox-type employee
+workplace survival rule)
+
+215
+00:08:34,740 --> 00:08:35,740
+("Skills can be developed,
+but you must choose your side wisely.")
+
+216
+00:08:35,760 --> 00:08:37,120
+So who's the strong one?
+
+217
+00:08:37,120 --> 00:08:37,440
+Who?
+
+218
+00:08:37,440 --> 00:08:38,760
+And who's
+
+219
+00:08:38,760 --> 00:08:40,080
+the weak one?
+
+220
+00:08:40,920 --> 00:08:42,240
+I'm the weak one.
+
+221
+00:08:42,260 --> 00:08:43,740
+(Honest and simple-minded)
+
+222
+00:08:45,440 --> 00:08:47,040
+No wonder you're the newcomer.
+
+223
+00:08:48,440 --> 00:08:49,440
+And finally the last one,
+
+224
+00:08:50,000 --> 00:08:51,040
+the KPI hunter
+
+225
+00:08:51,040 --> 00:08:52,510
+of the workplace.
+
+226
+00:08:53,280 --> 00:08:54,560
+(Wolf-type employee)
+The strongest fighter.
+
+227
+00:08:58,880 --> 00:09:00,240
+That's right.
+
+228
+00:09:00,240 --> 00:09:02,520
+My workplace survival rule is
+
+229
+00:09:02,920 --> 00:09:04,360
+"I want to eat meat
+
+230
+00:09:04,360 --> 00:09:05,480
+and soup,
+
+231
+00:09:06,200 --> 00:09:08,880
+and become the company's alpha wolf."
+
+232
+00:09:09,580 --> 00:09:10,620
+(Tui Games Company, Ning Watcha,
+Cleaner)
+
+233
+00:09:10,620 --> 00:09:11,660
+(Wolf-type employee
+workplace survival rule)
+
+234
+00:09:11,660 --> 00:09:12,860
+("I want to eat meat and soup,
+and become the company's alpha wolf.")
+
+235
+00:09:13,410 --> 00:09:14,750
+Oh my goodness.
+
+236
+00:09:15,170 --> 00:09:16,360
+So scary.
+
+237
+00:09:16,480 --> 00:09:17,920
+Such strong energy.
+
+238
+00:09:17,920 --> 00:09:19,360
+So charming.
+
+239
+00:09:19,360 --> 00:09:20,280
+Oh my goodness.
+
+240
+00:09:20,280 --> 00:09:23,080
+(Some past-life memories)
+Longdong Army.
+
+241
+00:09:23,140 --> 00:09:24,640
+(Hold on)
+
+242
+00:09:24,640 --> 00:09:26,640
+And remember,
+this is only the first legend.
+
+243
+00:09:27,360 --> 00:09:29,360
+Our company has a second legend too.
+
+244
+00:09:32,640 --> 00:09:33,200
+Who...
+
+245
+00:09:34,520 --> 00:09:35,600
+can help me?
+
+246
+00:09:37,020 --> 00:09:41,660
+(Tui Games Company Urban Legends
+Urban Legend Two: Who Can Help Me?)
+
+247
+00:09:41,700 --> 00:09:42,140
+(Story setting:
+Contains fictional horror elements)
+
+248
+00:09:44,280 --> 00:09:45,480
+It is said that
+
+249
+00:09:45,910 --> 00:09:47,560
+after the company closes at night,
+
+250
+00:09:48,000 --> 00:09:49,670
+hands,
+
+251
+00:09:49,670 --> 00:09:50,710
+feet,
+
+252
+00:09:50,710 --> 00:09:51,950
+and heads
+
+253
+00:09:52,390 --> 00:09:54,020
+will crawl out from everywhere.
+
+254
+00:09:54,420 --> 00:09:56,860
+(Story setting:
+Contains fictional horror elements)
+
+255
+00:09:57,080 --> 00:09:57,760
+Then you'd be so happy.
+
+256
+00:09:57,760 --> 00:09:58,360
+You can eat them.
+
+257
+00:09:58,360 --> 00:09:59,880
+Yeah. Then you'll have food.
+
+258
+00:09:59,880 --> 00:10:01,280
+But those heads,
+
+259
+00:10:02,040 --> 00:10:03,080
+hands, and feet
+
+260
+00:10:03,080 --> 00:10:03,920
+will come looking for you,
+
+261
+00:10:03,920 --> 00:10:05,520
+you, and you too.
+
+262
+00:10:07,280 --> 00:10:08,280
+I'll pass.
+
+263
+00:10:09,360 --> 00:10:10,280
+(Story setting:
+Contains fictional horror elements)
+
+264
+00:10:11,720 --> 00:10:13,320
+They will chase after you and beg you:
+
+265
+00:10:14,520 --> 00:10:15,600
+"Help me find my hands."
+
+266
+00:10:16,840 --> 00:10:17,680
+"Where is my head?"
+
+267
+00:10:18,280 --> 00:10:19,160
+"Where is my foot?"
+
+268
+00:10:19,160 --> 00:10:20,000
+"Where is my body?"
+
+269
+00:10:23,480 --> 00:10:25,520
+If you fail to help them
+find everything,
+
+270
+00:10:25,720 --> 00:10:27,360
+they will take your body away
+
+271
+00:10:28,360 --> 00:10:30,920
+piece
+
+272
+00:10:30,920 --> 00:10:33,000
+by piece.
+
+273
+00:10:35,580 --> 00:10:37,180
+(Night vision mode)
+
+274
+00:10:37,420 --> 00:10:39,000
+(Too scared to open my eyes.
+Please let this be my imagination.)
+
+275
+00:10:39,000 --> 00:10:39,600
+It's okay.
+
+276
+00:10:39,600 --> 00:10:41,400
+You're always the scariest one
+when this happens.
+
+277
+00:10:50,940 --> 00:10:51,780
+(Unknown object appears)
+
+278
+00:10:52,320 --> 00:10:53,080
+Wait.
+
+279
+00:10:53,520 --> 00:10:54,440
+A foot?
+
+280
+00:10:54,440 --> 00:10:55,000
+What happened?
+
+281
+00:10:55,400 --> 00:10:56,040
+What is this?
+
+282
+00:10:57,040 --> 00:10:57,960
+A foot.
+
+283
+00:10:57,960 --> 00:10:59,000
+Should we pick it up?
+
+284
+00:10:59,000 --> 00:11:01,220
+(Brave)
+
+285
+00:11:01,480 --> 00:11:02,480
+(Scared)
+It's soft!
+
+286
+00:11:04,940 --> 00:11:06,560
+(Scared)
+
+287
+00:11:06,560 --> 00:11:07,240
+Yes,
+
+288
+00:11:07,240 --> 00:11:08,400
+it's soft.
+
+289
+00:11:08,400 --> 00:11:09,180
+(Terrible texture)
+
+290
+00:11:09,180 --> 00:11:10,160
+(Brave)
+
+291
+00:11:10,160 --> 00:11:11,200
+Just go there to look.
+
+292
+00:11:11,760 --> 00:11:12,840
+No need to bring it here.
+
+293
+00:11:13,860 --> 00:11:16,220
+(Super brave bunny)
+
+294
+00:11:16,220 --> 00:11:18,300
+(Revenge)
+
+295
+00:11:19,440 --> 00:11:20,000
+What is this?
+
+296
+00:11:21,000 --> 00:11:21,640
+There's writing on it.
+
+297
+00:11:22,360 --> 00:11:27,620
+Revenge.
+
+298
+00:11:27,640 --> 00:11:29,360
+Who can help me
+
+299
+00:11:29,600 --> 00:11:31,240
+find my body?
+
+300
+00:11:31,640 --> 00:11:34,000
+Find... my... body.
+
+301
+00:11:34,000 --> 00:11:34,680
+What?
+
+302
+00:11:34,680 --> 00:11:35,360
+Find the body.
+
+303
+00:11:37,440 --> 00:11:39,800
+Who can help me? Help me find my body.
+
+304
+00:11:40,000 --> 00:11:41,280
+Are you a dog?
+
+305
+00:11:41,280 --> 00:11:41,760
+Yes.
+
+306
+00:11:41,760 --> 00:11:42,840
+Sniff.
+
+307
+00:11:42,840 --> 00:11:44,200
+Sniff this out.
+
+308
+00:11:44,800 --> 00:11:46,560
+Good. Now go.
+
+309
+00:11:46,560 --> 00:11:47,280
+Where is he?
+
+310
+00:11:50,480 --> 00:11:51,600
+I don't have that skill.
+
+311
+00:11:51,920 --> 00:11:52,720
+Sorry.
+
+312
+00:11:52,720 --> 00:11:53,380
+(Surprisingly polite)
+
+313
+00:11:53,400 --> 00:11:55,720
+No. This proves one thing.
+
+314
+00:11:56,120 --> 00:11:59,560
+The company urban legends
+we talked about are real.
+
+315
+00:12:00,040 --> 00:12:01,840
+(Story setting:
+Contains fictional horror elements)
+
+316
+00:12:02,760 --> 00:12:04,240
+They will beg you:
+"Help me find my hands."
+
+317
+00:12:04,440 --> 00:12:06,280
+If you don't help them,
+
+318
+00:12:07,280 --> 00:12:08,880
+they will take your body away
+
+319
+00:12:09,920 --> 00:12:12,520
+piece
+
+320
+00:12:12,520 --> 00:12:14,560
+by piece.
+
+321
+00:12:15,420 --> 00:12:16,250
+(Are the company urban legends real?)
+
+322
+00:12:16,250 --> 00:12:17,140
+Oh my god.
+
+323
+00:12:17,920 --> 00:12:19,000
+Why is it so dark?
+
+324
+00:12:20,440 --> 00:12:21,040
+I'll turn on the lights.
+
+325
+00:12:27,600 --> 00:12:28,240
+Wait.
+
+326
+00:12:28,880 --> 00:12:29,640
+Why are so many people gathered here?
+
+327
+00:12:29,640 --> 00:12:30,800
+What is going on?
+
+328
+00:12:32,400 --> 00:12:33,200
+(Tui Games Company, Secretary Bu Kakao,
+played by Li Bangbang)
+
+329
+00:12:33,200 --> 00:12:34,920
+Sir, these are all employees
+from our company.
+
+330
+00:12:35,400 --> 00:12:37,640
+Today is our monthly
+
+331
+00:12:37,640 --> 00:12:39,320
+Crazy Animal Theme Party.
+
+332
+00:12:39,320 --> 00:12:40,840
+(Crazy Animal Theme Party)
+
+333
+00:12:40,840 --> 00:12:42,520
+Everyone will dress up
+
+334
+00:12:42,520 --> 00:12:44,280
+as the animal our boss loves most.
+
+335
+00:12:45,000 --> 00:12:46,760
+Thank you all for coming
+to the Crazy Animal Theme Party.
+
+336
+00:12:46,760 --> 00:12:48,280
+(Tui Games Company Boss, Tui Haowan,
+Played by Lanlan)
+
+337
+00:12:48,520 --> 00:12:51,480
+Our first exciting event, the urban
+legend sharing session, begins now.
+
+338
+00:12:51,480 --> 00:12:54,560
+(Crazy Animal Theme Party "Let's Party
+Like This" 2:30PM Officially Starts)
+
+339
+00:12:54,560 --> 00:12:55,160
+(2:30PM Mr. Tui Haowan's Speech)
+
+340
+00:12:55,160 --> 00:12:56,320
+After the boss finished his speech,
+
+341
+00:12:56,320 --> 00:12:58,360
+they started sharing urban legends.
+
+342
+00:12:58,360 --> 00:12:59,680
+They say that at night,
+
+343
+00:12:59,680 --> 00:13:01,840
+everyone will shed their human skin.
+
+344
+00:13:02,280 --> 00:13:03,280
+So today,
+
+345
+00:13:03,280 --> 00:13:05,000
+we specially invited you here,
+
+346
+00:13:05,000 --> 00:13:06,200
+our valued client!
+
+347
+00:13:08,740 --> 00:13:11,780
+(Shocked)
+
+348
+00:13:12,000 --> 00:13:12,720
+You're too cool,
+
+349
+00:13:12,720 --> 00:13:13,840
+Mr. Tai.
+
+350
+00:13:13,840 --> 00:13:14,680
+Why don't you join us?
+
+351
+00:13:14,700 --> 00:13:15,540
+(Tui Games Company VIP Client, Tai Kule,
+Played by Tai Wei)
+
+352
+00:13:15,560 --> 00:13:17,200
+So you still remember
+that I'm your VIP client?
+
+353
+00:13:19,280 --> 00:13:21,000
+Then whose severed limb is this?
+
+354
+00:13:21,160 --> 00:13:21,320
+This...
+
+355
+00:13:22,080 --> 00:13:22,680
+Wait.
+
+356
+00:13:25,600 --> 00:13:26,880
+It has a scar.
+
+357
+00:13:27,220 --> 00:13:30,000
+(Story setting:
+Contains fictional horror elements)
+
+358
+00:13:30,000 --> 00:13:31,280
+I remember now.
+
+359
+00:13:31,280 --> 00:13:32,680
+Yesterday afternoon,
+
+360
+00:13:33,400 --> 00:13:34,400
+I was burning mosquito coils.
+
+361
+00:13:34,880 --> 00:13:36,720
+(Nan Shy by Zhang Ruonan)
+Suddenly, the boss walked over.
+
+362
+00:13:36,720 --> 00:13:37,800
+I bumped into his leg,
+
+363
+00:13:37,800 --> 00:13:39,440
+and the mosquito coil
+
+364
+00:13:39,440 --> 00:13:40,440
+left this scar.
+
+365
+00:13:40,440 --> 00:13:41,400
+This is the boss's leg.
+
+366
+00:13:41,460 --> 00:13:43,300
+(The severed limb belongs to Mr. Tui?)
+
+367
+00:13:45,000 --> 00:13:45,720
+You killed him.
+
+368
+00:13:45,720 --> 00:13:46,280
+(Ignoring him)
+You killed him.
+
+369
+00:13:46,280 --> 00:13:47,080
+(Why wait?)
+You killed him.
+
+370
+00:13:47,320 --> 00:13:47,720
+No.
+
+371
+00:13:47,740 --> 00:13:48,780
+(Innocent)
+
+372
+00:13:50,280 --> 00:13:51,160
+Ning Watcha knows the truth.
+
+373
+00:13:51,160 --> 00:13:52,400
+Is this the boss's leg?
+
+374
+00:13:52,400 --> 00:13:53,680
+That's right.
+
+375
+00:13:53,680 --> 00:13:54,520
+This square-shaped scar
+
+376
+00:13:54,520 --> 00:13:56,160
+is the burn mark he gave him yesterday.
+
+377
+00:13:56,160 --> 00:13:57,200
+I saw it happen.
+
+378
+00:13:57,200 --> 00:13:58,760
+(Saw it clearly)
+This is the boss's leg.
+
+379
+00:13:59,440 --> 00:14:00,600
+Then that means you two
+
+380
+00:14:00,600 --> 00:14:01,840
+killed him together.
+
+381
+00:14:01,840 --> 00:14:02,920
+(Jin Goofy by Jin Jing)
+Because you burned the boss,
+
+382
+00:14:02,920 --> 00:14:04,040
+he said, "You troublemakers,"
+
+383
+00:14:04,040 --> 00:14:05,640
+so you teamed up to murder him
+
+384
+00:14:05,640 --> 00:14:06,920
+and cut off his leg.
+
+385
+00:14:07,920 --> 00:14:09,520
+The suspects are confirmed.
+
+386
+00:14:09,520 --> 00:14:11,580
+(Jin Holmes' shining moment)
+
+387
+00:14:11,620 --> 00:14:12,560
+(Brain cells disappearing)
+
+388
+00:14:12,560 --> 00:14:13,560
+Absolutely not.
+
+389
+00:14:14,000 --> 00:14:15,840
+After we burned him...
+
+390
+00:14:15,840 --> 00:14:16,840
+Alright. Let's vote.
+
+391
+00:14:16,840 --> 00:14:18,480
+The boss invited us
+to join this urban legend event too.
+
+392
+00:14:18,540 --> 00:14:20,860
+(This theory completely failed)
+
+393
+00:14:20,880 --> 00:14:22,080
+But the two of us
+
+394
+00:14:22,080 --> 00:14:23,520
+can prove each other's innocence.
+
+395
+00:14:23,520 --> 00:14:26,440
+(They have mutual alibis)
+
+396
+00:14:26,440 --> 00:14:27,200
+Because after the boss
+assigned us tasks, we both stayed
+
+397
+00:14:27,200 --> 00:14:28,760
+in our employee dorms
+and had diarrhea the whole morning.
+
+398
+00:14:28,760 --> 00:14:31,160
+(A very "touching" friendship)
+
+399
+00:14:31,160 --> 00:14:32,280
+Our stomachs were really upset.
+
+400
+00:14:32,280 --> 00:14:34,040
+Probably because the company food
+was contaminated.
+
+401
+00:14:34,100 --> 00:14:35,860
+(Ridiculous)
+
+402
+00:14:36,160 --> 00:14:38,560
+If that's what you two are saying,
+
+403
+00:14:39,920 --> 00:14:40,520
+I get it.
+
+404
+00:14:44,040 --> 00:14:45,200
+Breaking mysteries with smart deduction
+
+405
+00:14:45,200 --> 00:14:46,480
+and Tongcheng Travel.
+
+406
+00:14:46,480 --> 00:14:47,840
+This is your detective companion.
+
+407
+00:14:47,840 --> 00:14:49,640
+Tongcheng Travel has prepared
+an investigation tool
+
+408
+00:14:49,640 --> 00:14:51,080
+to help you organize clues
+
+409
+00:14:51,080 --> 00:14:53,520
+and analyze logic easily.
+
+410
+00:14:53,520 --> 00:14:56,160
+When searching for the truth,
+use Tongcheng.
+
+411
+00:14:56,680 --> 00:14:57,840
+Alright.
+
+412
+00:14:57,840 --> 00:14:59,680
+Since you two have an alibi,
+
+413
+00:14:59,680 --> 00:15:00,920
+I'll leave it to you.
+
+414
+00:15:00,920 --> 00:15:01,320
+Okay.
+
+415
+00:15:01,320 --> 00:15:02,080
+Give it to everyone.
+
+416
+00:15:02,080 --> 00:15:02,720
+No problem.
+
+417
+00:15:04,940 --> 00:15:06,980
+(Player Rank Up:
+Ning Watcha, Ding Staring, Detectives)
+
+418
+00:15:06,980 --> 00:15:07,800
+(This fictional story
+contains horror elements)
+
+419
+00:15:07,800 --> 00:15:09,080
+(Main Quest)
+The Truth Online's reminder.
+
+420
+00:15:09,580 --> 00:15:11,010
+(Investigate the severed limb)
+Main Quest activated.
+
+421
+00:15:11,280 --> 00:15:13,200
+(Reveal the truth)
+Investigate the severed limb.
+
+422
+00:15:13,200 --> 00:15:14,400
+(Search, deduce, and connect the clues)
+Reveal the truth.
+
+423
+00:15:14,720 --> 00:15:15,880
+(Identify the real suspect)
+Find the culprit.
+
+424
+00:15:17,940 --> 00:15:21,620
+Case 8: Revenge in Animal City)
+
+425
+00:15:21,640 --> 00:15:25,680
+I'll go take care of our VIP,
+
+426
+00:15:26,600 --> 00:15:28,720
+Mr. Tai, to get some rest.
+
+427
+00:15:28,720 --> 00:15:30,280
+Good luck, everyone.
+
+428
+00:15:30,280 --> 00:15:31,040
+(He Struggle, played by Zhang Linghe)
+
+429
+00:15:31,040 --> 00:15:33,480
+Take care.
+
+430
+00:15:33,480 --> 00:15:34,120
+See you later.
+
+431
+00:15:35,000 --> 00:15:36,840
+So you two are detectives.
+
+432
+00:15:36,840 --> 00:15:39,120
+(Respectfully)
+My apologies.
+
+433
+00:15:39,120 --> 00:15:40,640
+You just found out?
+
+434
+00:15:42,520 --> 00:15:44,160
+No, I was confused.
+
+435
+00:15:44,160 --> 00:15:45,920
+Better late than never.
+
+436
+00:15:47,580 --> 00:15:49,220
+(Trying not to laugh)
+
+437
+00:15:51,560 --> 00:15:52,560
+(Suddenly serious)
+Who just said
+
+438
+00:15:52,560 --> 00:15:53,720
+we were the killers?
+
+439
+00:15:53,720 --> 00:15:54,600
+Who wanted to catch us?
+
+440
+00:15:54,600 --> 00:15:55,560
+Who?
+
+441
+00:15:55,560 --> 00:15:56,280
+(It was him)
+He said it.
+
+442
+00:15:56,280 --> 00:15:58,000
+(Him)
+I have no idea what you're saying.
+
+443
+00:15:58,200 --> 00:15:59,520
+(Ke Uh-Oh, played by Zhou Keyu)
+No way that happened.
+
+444
+00:15:59,520 --> 00:16:01,400
+I don't remember that at all.
+
+445
+00:16:01,400 --> 00:16:02,800
+But I trust this employee
+
+446
+00:16:02,800 --> 00:16:05,880
+who looks like a puppy.
+
+447
+00:16:06,240 --> 00:16:07,480
+Because
+
+448
+00:16:07,480 --> 00:16:08,240
+he's very loyal.
+
+449
+00:16:08,240 --> 00:16:08,720
+Loyal.
+
+450
+00:16:08,720 --> 00:16:09,120
+Yeah, loyal.
+
+451
+00:16:10,960 --> 00:16:13,240
+Time to investigate.
+
+452
+00:16:13,240 --> 00:16:14,040
+No problem.
+
+453
+00:16:14,040 --> 00:16:15,720
+(The Truth Online's reminder)
+Let's search the room.
+
+454
+00:16:15,720 --> 00:16:16,760
+(Dramatic use only)
+Check out this foot.
+
+455
+00:16:17,200 --> 00:16:18,360
+(Do not imitate)
+Wear gloves before touching it.
+
+456
+00:16:18,360 --> 00:16:20,200
+Or you might get athlete's foot.
+
+457
+00:16:20,200 --> 00:16:21,720
+Too late. We already touched it.
+
+458
+00:16:21,720 --> 00:16:22,440
+(Bad example)
+
+459
+00:16:22,440 --> 00:16:23,080
+Don't touch me later.
+
+460
+00:16:23,080 --> 00:16:23,360
+Well.
+
+461
+00:16:25,960 --> 00:16:28,200
+We've already confirmed
+
+462
+00:16:28,200 --> 00:16:30,960
+this is our boss's right leg.
+
+463
+00:16:30,960 --> 00:16:33,140
+(Revenge)
+
+464
+00:16:34,440 --> 00:16:35,680
+So next,
+
+465
+00:16:35,680 --> 00:16:38,440
+search this lobby carefully.
+
+466
+00:16:38,440 --> 00:16:39,320
+Look everywhere.
+
+467
+00:16:39,320 --> 00:16:41,680
+(Ning Watcha, played by Liu Yuning)
+See what evidence you can find.
+
+468
+00:16:41,680 --> 00:16:42,240
+Okay.
+
+469
+00:16:42,340 --> 00:16:44,740
+(The search team sets off)
+
+470
+00:16:50,840 --> 00:16:52,640
+Come on everyone,
+let's check this first.
+
+471
+00:16:52,640 --> 00:16:53,640
+What is it?
+
+472
+00:16:54,160 --> 00:16:55,640
+Six sticky notes.
+
+473
+00:16:55,640 --> 00:16:58,120
+They're all praising Tui Games Company.
+
+474
+00:16:59,480 --> 00:17:00,200
+For example.
+
+475
+00:17:00,360 --> 00:17:02,440
+Tui Games makes such amazing games.
+
+476
+00:17:02,440 --> 00:17:04,320
+How can anyone compete?
+
+477
+00:17:05,000 --> 00:17:06,360
+But on the back it says,
+
+478
+00:17:09,600 --> 00:17:12,880
+"Why do we have to perform at work?"
+
+479
+00:17:13,160 --> 00:17:13,880
+Here's another one.
+
+480
+00:17:13,880 --> 00:17:15,200
+Tui Games Company.
+
+481
+00:17:15,480 --> 00:17:17,440
+Every Tui game is a masterpiece.
+
+482
+00:17:17,440 --> 00:17:19,480
+I'm sick of saying that.
+
+483
+00:17:19,480 --> 00:17:20,960
+The back says,
+
+484
+00:17:20,960 --> 00:17:22,600
+"At this company,
+
+485
+00:17:22,600 --> 00:17:25,600
+the best actor gets rewarded."
+
+486
+00:17:25,800 --> 00:17:28,120
+So who acted best just now?
+
+487
+00:17:28,440 --> 00:17:29,080
+You.
+
+488
+00:17:29,840 --> 00:17:30,560
+You've been acting all along.
+
+489
+00:17:31,320 --> 00:17:31,880
+The killer.
+
+490
+00:17:31,880 --> 00:17:32,600
+Exactly.
+
+491
+00:17:32,840 --> 00:17:34,560
+You think I'm acting?
+
+492
+00:17:34,840 --> 00:17:36,280
+(Mermaid's temptation)
+I'm always like this.
+
+493
+00:17:39,080 --> 00:17:41,840
+Why do you always talk like that?
+
+494
+00:17:43,680 --> 00:17:44,960
+Tui Games Company,
+
+495
+00:17:44,960 --> 00:17:47,120
+hit game factory.
+
+496
+00:17:47,120 --> 00:17:47,680
+What's on the back?
+
+497
+00:17:47,680 --> 00:17:49,360
+Never attend the monthly
+
+498
+00:17:49,360 --> 00:17:50,400
+Crazy Animal Theme Party.
+
+499
+00:17:50,400 --> 00:17:52,920
+Everyone who went disappeared.
+
+500
+00:17:52,940 --> 00:17:54,680
+(Everyone who attended disappeared?)
+
+501
+00:17:54,680 --> 00:17:55,600
+Everyone who went...
+
+502
+00:17:56,360 --> 00:17:58,480
+I even saw several employees' bodies.
+
+503
+00:17:59,080 --> 00:18:02,520
+The Tui City urban legend is real.
+
+504
+00:18:02,520 --> 00:18:03,920
+It's real.
+
+505
+00:18:06,320 --> 00:18:09,120
+The urban legend is true.
+
+506
+00:18:09,380 --> 00:18:12,220
+(What secret
+is Tui Games Company hiding?)
+
+507
+00:18:15,560 --> 00:18:16,360
+Take it.
+
+508
+00:18:16,360 --> 00:18:17,280
+Nan Shy, take it.
+
+509
+00:18:18,220 --> 00:18:19,040
+(How to break
+the urban legend "Who Can Help Me?")
+
+510
+00:18:19,040 --> 00:18:21,120
+Here, Nan Shy just found this.
+
+511
+00:18:21,120 --> 00:18:22,280
+How to break
+
+512
+00:18:22,280 --> 00:18:25,840
+the urban legend "Who Can Help Me?"
+
+513
+00:18:25,840 --> 00:18:28,200
+If you fail the dead person's request,
+
+514
+00:18:28,200 --> 00:18:30,400
+a countdown will begin.
+
+515
+00:18:30,600 --> 00:18:31,640
+When time runs out,
+
+516
+00:18:31,640 --> 00:18:35,160
+your body will be taken apart
+piece by piece.
+
+517
+00:18:35,360 --> 00:18:36,280
+If there's a cabinet nearby,
+
+518
+00:18:36,280 --> 00:18:39,680
+(Cabinet marked with leaves)
+with this leaf symbol,
+
+519
+00:18:39,680 --> 00:18:41,200
+hide inside by yourself.
+
+520
+00:18:41,200 --> 00:18:43,280
+You'll escape for a while.
+
+521
+00:18:43,600 --> 00:18:44,360
+This is the cabinet.
+
+522
+00:18:45,600 --> 00:18:47,160
+Look, it's marked with leaves.
+
+523
+00:18:47,160 --> 00:18:48,720
+Look, that one has it too.
+
+524
+00:18:48,720 --> 00:18:50,050
+(1, 2, 3)
+One, two, three,
+
+525
+00:18:50,050 --> 00:18:51,230
+(4, 5, 6)
+four, five, six.
+
+526
+00:18:51,400 --> 00:18:52,440
+Exactly six lockers.
+
+527
+00:18:52,680 --> 00:18:54,520
+Each of us takes one.
+
+528
+00:18:55,020 --> 00:18:57,120
+(Curious little rabbit)
+
+529
+00:18:57,120 --> 00:18:57,840
+So we can't look yet?
+
+530
+00:18:59,040 --> 00:18:59,920
+Is this little rabbit?
+
+531
+00:19:00,640 --> 00:19:02,360
+She's really curious.
+
+532
+00:19:02,380 --> 00:19:03,640
+(Curious little rabbit
+scouts an escape route)
+
+533
+00:19:03,640 --> 00:19:05,320
+Better check first,
+so we can hide later.
+
+534
+00:19:06,760 --> 00:19:07,920
+Did you find my hand?
+
+535
+00:19:09,000 --> 00:19:10,640
+If not,
+
+536
+00:19:10,640 --> 00:19:12,320
+I'll take yours.
+
+537
+00:19:12,320 --> 00:19:13,920
+I'm coming to find you.
+
+538
+00:19:13,920 --> 00:19:14,720
+It's okay.
+
+539
+00:19:16,120 --> 00:19:17,000
+What does that mean?
+
+540
+00:19:17,020 --> 00:19:18,180
+(Night vision mode)
+
+541
+00:19:18,180 --> 00:19:19,980
+(Punching the air. Bring it on!)
+
+542
+00:19:20,320 --> 00:19:22,360
+So we can't find the body?
+
+543
+00:19:22,360 --> 00:19:23,080
+Of course not.
+
+544
+00:19:23,080 --> 00:19:24,440
+We have to give it our hands.
+
+545
+00:19:24,460 --> 00:19:26,000
+(That's generous)
+
+546
+00:19:26,000 --> 00:19:27,080
+But if we hide inside,
+
+547
+00:19:27,080 --> 00:19:28,560
+we'll be safe.
+
+548
+00:19:29,200 --> 00:19:30,480
+Everyone takes one.
+
+549
+00:19:31,560 --> 00:19:34,000
+I'm coming to find you now.
+
+550
+00:19:34,000 --> 00:19:34,820
+Ten,
+
+551
+00:19:35,450 --> 00:19:36,300
+nine.
+
+552
+00:19:36,800 --> 00:19:37,360
+Countdown.
+
+553
+00:19:37,360 --> 00:19:38,760
+Hurry!
+
+554
+00:19:38,760 --> 00:19:39,840
+How do we open this?
+
+555
+00:19:39,840 --> 00:19:40,520
+(Warning)
+
+556
+00:19:40,520 --> 00:19:41,840
+(Brave)
+Don't be scared.
+
+557
+00:19:42,280 --> 00:19:43,120
+What?
+
+558
+00:19:45,040 --> 00:19:46,160
+Where's the door handle?
+
+559
+00:19:47,480 --> 00:19:48,120
+Six.
+
+560
+00:19:48,960 --> 00:19:50,960
+(He Struggle enters the safe zone)
+There's a handle!
+
+561
+00:19:51,160 --> 00:19:52,280
+Here's the handle!
+
+562
+00:19:52,280 --> 00:19:53,600
+(Nan Shy helps Jin Goofy)
+You first!
+
+563
+00:19:53,600 --> 00:19:54,800
+This one's not open yet.
+
+564
+00:19:54,800 --> 00:19:55,640
+Who's still outside?
+
+565
+00:19:56,400 --> 00:19:57,480
+You go! Go!
+
+566
+00:19:57,480 --> 00:19:58,560
+I'm going!
+
+567
+00:19:58,560 --> 00:19:59,760
+Where's the handle?
+
+568
+00:20:01,340 --> 00:20:02,740
+(Warning)
+
+569
+00:20:03,280 --> 00:20:05,040
+Come here! Take this one!
+
+570
+00:20:05,040 --> 00:20:06,440
+I got it!
+
+571
+00:20:06,440 --> 00:20:07,560
+Four, three, two, one.
+
+572
+00:20:07,560 --> 00:20:08,320
+Made it!
+
+573
+00:20:08,320 --> 00:20:08,860
+(Nan Shy enters the safe zone)
+
+574
+00:20:08,900 --> 00:20:10,300
+(Ke Uh-Oh enters the safe zone)
+
+575
+00:20:10,380 --> 00:20:12,060
+(Ning Watcha enters the safe zone)
+
+576
+00:20:13,180 --> 00:20:14,380
+(Ding Staring enters the safe zone)
+
+577
+00:20:14,540 --> 00:20:15,220
+(Jin Goofy, Ding Staring, Ke Uh-Oh)
+
+578
+00:20:15,220 --> 00:20:16,180
+(He Struggle, Nan Shy, Ning Watcha)
+
+579
+00:20:16,180 --> 00:20:17,140
+(Everyone enters the safe zone)
+
+580
+00:20:17,160 --> 00:20:19,280
+Oh my God.
+
+581
+00:20:19,680 --> 00:20:20,560
+It's locked.
+
+582
+00:20:21,040 --> 00:20:22,680
+(Compartment locked)
+Oh my God!
+
+583
+00:20:22,680 --> 00:20:24,400
+The door's locked, guys.
+
+584
+00:20:25,460 --> 00:20:26,620
+(Everyone's locked in?)
+
+585
+00:20:26,640 --> 00:20:28,040
+The door's locked.
+
+586
+00:20:35,660 --> 00:20:38,340
+(Clenches fist)
+
+587
+00:20:38,380 --> 00:20:41,180
+(Self soundproof mode)
+
+588
+00:20:41,320 --> 00:20:42,680
+I can't hear. I can't see.
+
+589
+00:20:42,680 --> 00:20:44,040
+Don't scare me.
+
+590
+00:20:45,200 --> 00:20:46,560
+I can't hear. I can't see.
+
+591
+00:20:50,150 --> 00:20:50,730
+Hi.
+
+592
+00:20:50,730 --> 00:20:52,300
+(Calm little rabbit)
+
+593
+00:20:52,600 --> 00:20:54,120
+He won't scare me, right?
+
+594
+00:20:55,380 --> 00:20:57,100
+(Excited)
+
+595
+00:20:57,680 --> 00:20:59,480
+Ning Watcha, are you there?
+
+596
+00:20:59,480 --> 00:21:00,080
+Yeah.
+
+597
+00:21:01,040 --> 00:21:02,360
+He Struggle, are you there?
+
+598
+00:21:05,080 --> 00:21:06,280
+He Struggle?
+
+599
+00:21:06,440 --> 00:21:07,360
+We're done for.
+
+600
+00:21:08,120 --> 00:21:09,040
+He Struggle?
+
+601
+00:21:09,520 --> 00:21:10,680
+Capybara!
+
+602
+00:21:17,080 --> 00:21:18,640
+I'm here.
+
+603
+00:21:18,640 --> 00:21:21,200
+Where are you guys?
+
+604
+00:21:21,200 --> 00:21:25,860
+(This fictional story
+contains horror elements)
+
+605
+00:21:25,860 --> 00:21:27,860
+(Stay calm and crouch down)
+
+606
+00:21:28,820 --> 00:21:30,980
+(Let the capybara sleep)
+
+607
+00:21:33,300 --> 00:21:33,940
+Oh my God.
+
+608
+00:21:35,540 --> 00:21:36,140
+Oh my.
+
+609
+00:21:36,480 --> 00:21:38,080
+That must've hurt.
+
+610
+00:21:38,080 --> 00:21:39,620
+(Hardcore cute little rabbit)
+
+611
+00:21:39,620 --> 00:21:56,040
+(This fictional story
+contains horror elements)
+
+612
+00:21:56,040 --> 00:21:57,640
+No, don't...
+
+613
+00:22:13,780 --> 00:22:15,920
+(Amused)
+
+614
+00:22:15,920 --> 00:22:17,200
+Are you guys okay?
+
+615
+00:22:17,880 --> 00:22:19,280
+Don't come over.
+
+616
+00:22:19,280 --> 00:22:20,760
+Don't talk.
+
+617
+00:22:21,460 --> 00:22:22,820
+Ah!
+
+618
+00:22:23,720 --> 00:22:24,760
+Don't come over.
+
+619
+00:22:29,380 --> 00:22:32,220
+(Curious capybara)
+
+620
+00:22:32,240 --> 00:22:33,920
+Go find Ning first.
+
+621
+00:22:34,480 --> 00:22:35,400
+Ning.
+
+622
+00:22:39,320 --> 00:22:41,160
+Do you want me to spare you?
+
+623
+00:22:41,960 --> 00:22:45,560
+Then find the rest of my body.
+
+624
+00:22:45,560 --> 00:22:46,720
+Now!
+
+625
+00:22:48,080 --> 00:22:48,760
+Okay, got it.
+
+626
+00:22:48,760 --> 00:22:50,000
+We'll split up.
+
+627
+00:22:50,000 --> 00:22:51,080
+Leave it to us.
+
+628
+00:22:51,760 --> 00:22:52,600
+Where do we look?
+
+629
+00:22:52,600 --> 00:22:53,440
+We can't get out.
+
+630
+00:22:54,520 --> 00:22:56,120
+Main power has been out
+
+631
+00:22:56,120 --> 00:22:57,960
+for over 15 minutes.
+
+632
+00:22:57,960 --> 00:22:59,480
+(All six have spent 15 minutes inside)
+Switching to backup power.
+
+633
+00:23:00,180 --> 00:23:02,100
+(Talent Hub)
+
+634
+00:23:02,100 --> 00:23:02,800
+(This fictional story
+contains horror elements)
+
+635
+00:23:02,800 --> 00:23:03,640
+We can come out now.
+
+636
+00:23:03,640 --> 00:23:04,400
+You okay?
+
+637
+00:23:05,560 --> 00:23:06,120
+Are you okay?
+
+638
+00:23:06,460 --> 00:23:09,100
+(I'm not okay)
+
+639
+00:23:09,680 --> 00:23:11,160
+Did anyone come in from behind?
+
+640
+00:23:11,360 --> 00:23:12,040
+Yeah.
+
+641
+00:23:12,040 --> 00:23:12,520
+Anyone?
+
+642
+00:23:12,520 --> 00:23:13,200
+No.
+
+643
+00:23:13,200 --> 00:23:13,760
+Yes.
+
+644
+00:23:14,400 --> 00:23:15,560
+Someone came into my room.
+
+645
+00:23:15,560 --> 00:23:17,080
+(Two unlucky guys)
+He opened my door.
+
+646
+00:23:17,080 --> 00:23:18,120
+He came into my room.
+
+647
+00:23:18,520 --> 00:23:19,440
+Seriously?
+
+648
+00:23:20,240 --> 00:23:21,720
+That scared me.
+
+649
+00:23:21,720 --> 00:23:22,640
+I'm really...
+
+650
+00:23:22,860 --> 00:23:24,500
+(What a terrifying scare)
+
+651
+00:23:24,680 --> 00:23:25,480
+Here's what happened.
+
+652
+00:23:25,640 --> 00:23:26,480
+He said
+
+653
+00:23:26,480 --> 00:23:28,360
+if we want to live,
+
+654
+00:23:28,360 --> 00:23:30,760
+we have to find the rest of his body.
+
+655
+00:23:30,760 --> 00:23:31,520
+The rest of the body.
+
+656
+00:23:32,920 --> 00:23:34,320
+Is this his hand?
+
+657
+00:23:36,920 --> 00:23:37,640
+Over here.
+
+658
+00:23:37,640 --> 00:23:38,640
+Here's a bowl of hands.
+
+659
+00:23:40,240 --> 00:23:41,000
+What's this?
+
+660
+00:23:41,000 --> 00:23:42,220
+(Just a decoration)
+
+661
+00:23:44,200 --> 00:23:44,960
+Well.
+
+662
+00:23:44,960 --> 00:23:46,520
+(Detectives take charge)
+Let's check the next room.
+
+663
+00:23:46,520 --> 00:23:47,280
+Where to?
+
+664
+00:23:48,080 --> 00:23:48,840
+What's your job?
+
+665
+00:23:48,840 --> 00:23:50,360
+I'm with HR.
+
+666
+00:23:50,640 --> 00:23:52,680
+Okay, let's check
+
+667
+00:23:52,680 --> 00:23:53,680
+(Search starts now)
+your work area first.
+
+668
+00:23:53,680 --> 00:23:53,920
+Okay.
+
+669
+00:23:54,080 --> 00:23:55,120
+Sure.
+
+670
+00:23:57,100 --> 00:24:00,820
+(Playful capybara)
+
+671
+00:24:03,080 --> 00:24:04,040
+Lay down your weapon.
+
+672
+00:24:04,040 --> 00:24:05,120
+Choose peace.
+
+673
+00:24:05,840 --> 00:24:06,720
+Let me use love
+
+674
+00:24:06,720 --> 00:24:08,240
+to bring out the good in you.
+
+675
+00:24:08,560 --> 00:24:09,160
+(No thanks)
+Let's go.
+
+676
+00:24:09,720 --> 00:24:10,520
+(Weapon dropped)
+Go, go, go.
+
+677
+00:24:11,280 --> 00:24:12,040
+(Company Lobby, Conference Room)
+The rain stopped.
+
+678
+00:24:12,480 --> 00:24:13,720
+The rain's over. I'm back in the game.
+
+679
+00:24:13,940 --> 00:24:15,020
+=The Truth (Season 4)=
+
+680
+00:24:15,380 --> 00:24:16,120
+(Loading)
+
+681
+00:24:16,120 --> 00:24:17,360
+HR Department.
+
+682
+00:24:17,740 --> 00:24:19,420
+(Through the break room
+to the HR office)
+
+683
+00:24:19,720 --> 00:24:21,720
+Let's check this place out.
+
+684
+00:24:22,600 --> 00:24:23,120
+Found it.
+
+685
+00:24:23,960 --> 00:24:24,840
+(This fictional story contains horror elements)
+Another part.
+
+686
+00:24:24,840 --> 00:24:25,760
+Oh my god.
+
+687
+00:24:25,760 --> 00:24:27,080
+Which body part is this?
+
+688
+00:24:27,080 --> 00:24:28,840
+(Found the second body part)
+
+689
+00:24:28,840 --> 00:24:29,880
+(A)
+Is this a leg?
+
+690
+00:24:30,040 --> 00:24:31,000
+This.
+
+691
+00:24:31,400 --> 00:24:32,200
+It's the right arm.
+
+692
+00:24:32,200 --> 00:24:33,400
+Right shoulder.
+
+693
+00:24:33,680 --> 00:24:34,280
+Shoulder.
+
+694
+00:24:34,760 --> 00:24:35,720
+A.
+
+695
+00:24:35,720 --> 00:24:36,520
+A...
+
+696
+00:24:37,200 --> 00:24:38,240
+A revenge.
+
+697
+00:24:38,500 --> 00:24:40,240
+(The words on the body parts
+form a sentence: A Revenge)
+
+698
+00:24:40,240 --> 00:24:41,680
+This is your desk.
+
+699
+00:24:43,920 --> 00:24:44,840
+What's that?
+
+700
+00:24:45,180 --> 00:24:47,620
+(Unlocked New Area:
+HR Office, Jin Goofy's Desk)
+
+701
+00:24:49,260 --> 00:24:51,420
+(Missing You)
+
+702
+00:24:51,440 --> 00:24:53,360
+The posters have such a vibe.
+
+703
+00:24:53,360 --> 00:24:53,880
+Seriously.
+
+704
+00:24:54,320 --> 00:24:56,440
+You look like that female lead.
+
+705
+00:24:56,440 --> 00:24:57,480
+Seriously.
+
+706
+00:24:57,480 --> 00:24:59,320
+Both actresses are gorgeous.
+
+707
+00:25:00,720 --> 00:25:02,480
+How would you describe this?
+
+708
+00:25:02,480 --> 00:25:03,240
+Me?
+
+709
+00:25:03,240 --> 00:25:03,920
+How do you read this?
+
+710
+00:25:03,920 --> 00:25:04,840
+Absolutely stunning.
+
+711
+00:25:06,200 --> 00:25:07,560
+Breathtakingly beautiful.
+
+712
+00:25:09,040 --> 00:25:09,560
+Say something.
+
+713
+00:25:10,940 --> 00:25:12,720
+(Give me a satisfying answer)
+
+714
+00:25:12,720 --> 00:25:13,520
+Don't stay silent.
+
+715
+00:25:13,520 --> 00:25:14,120
+Same.
+
+716
+00:25:14,120 --> 00:25:16,140
+(Absolutely stunning.
+Breathtakingly beautiful. Same here.)
+
+717
+00:25:16,160 --> 00:25:16,800
+Same.
+
+718
+00:25:16,800 --> 00:25:17,640
+Yeah, same.
+
+719
+00:25:17,640 --> 00:25:18,440
+Same here.
+
+720
+00:25:18,440 --> 00:25:18,840
+Yep.
+
+721
+00:25:19,440 --> 00:25:20,040
+What's this?
+
+722
+00:25:20,040 --> 00:25:21,000
+This is a...
+
+723
+00:25:21,380 --> 00:25:22,620
+(A strange button.
+Don't press me. Don't.)
+
+724
+00:25:22,880 --> 00:25:23,760
+Don't.
+
+725
+00:25:23,760 --> 00:25:24,560
+Don't press me.
+
+726
+00:25:27,080 --> 00:25:28,960
+Don't press me? Why?
+
+727
+00:25:28,960 --> 00:25:30,680
+Workplace Motivation Exercise Set 88.
+
+728
+00:25:30,680 --> 00:25:31,640
+Starting now.
+
+729
+00:25:31,640 --> 00:25:32,680
+(Workplace motivation exercise?)
+
+730
+00:25:32,680 --> 00:25:33,200
+What exercise?
+
+731
+00:25:33,200 --> 00:25:33,600
+What?
+
+732
+00:25:33,600 --> 00:25:35,240
+Workplace Motivation Exercise Set 88.
+
+733
+00:25:35,240 --> 00:25:37,940
+(Instant start)
+
+734
+00:25:38,320 --> 00:25:39,160
+Do I have to dance?
+
+735
+00:25:39,160 --> 00:25:40,160
+We're all dancing.
+
+736
+00:25:40,160 --> 00:25:40,920
+Go on, you guys.
+
+737
+00:25:40,980 --> 00:25:43,780
+(Stunned)
+
+738
+00:25:44,860 --> 00:25:47,420
+(What's going on?)
+
+739
+00:25:48,020 --> 00:25:49,900
+(Absolute obedience)
+
+740
+00:25:49,920 --> 00:25:51,080
+Everyone, follow me.
+
+741
+00:25:51,500 --> 00:25:52,440
+(Why is Jin Goofy dancing
+in this tiny office?)
+
+742
+00:25:52,440 --> 00:25:53,760
+You'll lead from the front.
+
+743
+00:25:53,760 --> 00:25:54,520
+Okay.
+
+744
+00:25:54,520 --> 00:25:57,160
+This is an obedience test.
+
+745
+00:25:57,560 --> 00:25:59,120
+(Instant obedience)
+♪My favorite thing to do♪
+
+746
+00:25:59,120 --> 00:26:01,840
+(We're good)
+♪Is partying at my office desk♪
+
+747
+00:26:02,120 --> 00:26:05,080
+♪Partying at my office desk♪
+
+748
+00:26:05,080 --> 00:26:05,720
+(The Wolf King can sing and dance)
+
+749
+00:26:05,720 --> 00:26:06,240
+Come on.
+
+750
+00:26:06,240 --> 00:26:08,160
+(Everyone's ready. Flowers. Spectators.)
+Ready, go!
+
+751
+00:26:08,160 --> 00:26:09,560
+♪The thing I want most♪
+
+752
+00:26:09,560 --> 00:26:11,520
+(Combo Perfect)
+♪Is being at my office desk♪
+
+753
+00:26:11,520 --> 00:26:14,880
+♪Partying at my office desk♪
+
+754
+00:26:15,720 --> 00:26:16,800
+♪The thing I want most♪
+
+755
+00:26:16,800 --> 00:26:19,280
+♪Is being at my office desk♪
+
+756
+00:26:19,280 --> 00:26:21,160
+♪Is telling my boss goodbye♪
+
+757
+00:26:21,160 --> 00:26:22,720
+♪Telling my boss goodbye♪
+
+758
+00:26:22,720 --> 00:26:23,160
+Ending.
+
+759
+00:26:31,840 --> 00:26:32,640
+I think
+
+760
+00:26:32,640 --> 00:26:33,560
+I've been contaminated.
+
+761
+00:26:33,700 --> 00:26:35,900
+(Ants are crawling all over me.)
+
+762
+00:26:36,360 --> 00:26:38,040
+This is obedience test.
+
+763
+00:26:38,040 --> 00:26:38,840
+I can't...
+
+764
+00:26:38,840 --> 00:26:40,900
+(Why did Jin Goofy have
+to do the motivation dance?)
+
+765
+00:26:41,720 --> 00:26:43,280
+What's going on?
+
+766
+00:26:43,280 --> 00:26:44,080
+This is...
+
+767
+00:26:45,120 --> 00:26:45,880
+Why?
+
+768
+00:26:45,880 --> 00:26:47,360
+Why is there synchronized swimming?
+
+769
+00:26:48,000 --> 00:26:49,720
+Because I can do everything.
+
+770
+00:26:49,720 --> 00:26:50,880
+You're ripped.
+
+771
+00:26:51,080 --> 00:26:52,400
+(Well-built muscles)
+Yeah, I trained hard.
+
+772
+00:26:52,400 --> 00:26:53,680
+Because every day I have to do
+
+773
+00:26:53,680 --> 00:26:55,000
+tons of performances.
+
+774
+00:26:55,000 --> 00:26:56,800
+You have no idea
+
+775
+00:26:56,800 --> 00:26:59,240
+what I've been put through
+at this company.
+
+776
+00:26:59,680 --> 00:27:01,000
+When I first joined,
+
+777
+00:27:01,000 --> 00:27:03,760
+the boss said, "You're our energy girl."
+
+778
+00:27:03,760 --> 00:27:06,160
+(Empty promises)
+"You lift everyone's spirits."
+
+779
+00:27:06,160 --> 00:27:08,520
+(Empty promises)
+"You have to hype everyone up."
+
+780
+00:27:08,520 --> 00:27:09,680
+That became my job.
+
+781
+00:27:09,680 --> 00:27:11,800
+(Jin Goofy's daily tasks)
+But the job kept getting worse.
+
+782
+00:27:11,800 --> 00:27:13,640
+(Let things happen, but not all the time)
+At first I just danced
+
+783
+00:27:13,640 --> 00:27:14,600
+(More work, same pay)
+and shouted slogans.
+
+784
+00:27:14,600 --> 00:27:18,240
+Then I had to get in the water
+and play water games.
+
+785
+00:27:18,240 --> 00:27:19,680
+Dance ballet.
+
+786
+00:27:19,840 --> 00:27:21,520
+It just kept getting worse.
+
+787
+00:27:21,520 --> 00:27:23,760
+So that sticky note was yours.
+
+788
+00:27:23,760 --> 00:27:24,680
+You wrote it.
+
+789
+00:27:24,680 --> 00:27:25,600
+Perform.
+
+790
+00:27:25,600 --> 00:27:26,920
+Put on a performance.
+
+791
+00:27:27,460 --> 00:27:29,380
+(Did Jin Goofy
+expose the company's dark side?)
+
+792
+00:27:29,760 --> 00:27:32,800
+Why do we have to perform at work?
+
+793
+00:27:33,600 --> 00:27:35,480
+Yeah, I couldn't take it anymore.
+
+794
+00:27:35,480 --> 00:27:36,240
+I'm exhausted.
+
+795
+00:27:37,320 --> 00:27:38,520
+I want to quit.
+
+796
+00:27:41,120 --> 00:27:42,640
+So you killed Mr. Tui?
+
+797
+00:27:42,920 --> 00:27:44,000
+He wouldn't let you leave.
+
+798
+00:27:44,360 --> 00:27:45,560
+Somehow
+
+799
+00:27:45,560 --> 00:27:46,840
+he trapped you in this office,
+
+800
+00:27:46,840 --> 00:27:48,680
+making you dance and perform every day.
+
+801
+00:27:49,120 --> 00:27:50,800
+I'm fine with you questioning me.
+
+802
+00:27:50,800 --> 00:27:51,800
+But I won't accept you
+
+803
+00:27:51,800 --> 00:27:53,760
+pointing at me like that.
+
+804
+00:27:56,600 --> 00:27:57,280
+Thank you.
+
+805
+00:27:59,100 --> 00:28:01,900
+(Jin Goofy's tablet)
+
+806
+00:28:06,280 --> 00:28:07,000
+That's right.
+
+807
+00:28:07,000 --> 00:28:08,440
+Everything she said is true.
+
+808
+00:28:08,440 --> 00:28:10,360
+First, in 2026,
+
+809
+00:28:10,360 --> 00:28:11,720
+which is this year,
+
+810
+00:28:11,720 --> 00:28:13,240
+they gave her all kinds of performances.
+
+811
+00:28:13,240 --> 00:28:14,040
+I'm happy.
+
+812
+00:28:14,040 --> 00:28:15,560
+Jin Goofy, do a finger-heart.
+
+813
+00:28:16,040 --> 00:28:17,080
+I'm sad.
+
+814
+00:28:17,080 --> 00:28:20,080
+Jin Goofy, perform with a ball.
+
+815
+00:28:20,080 --> 00:28:21,080
+I'm mad.
+
+816
+00:28:21,080 --> 00:28:22,640
+Jin Goofy, do a hula hoop routine.
+
+817
+00:28:22,640 --> 00:28:23,400
+I'm bored.
+
+818
+00:28:23,400 --> 00:28:24,240
+Jin Goofy, perform
+
+819
+00:28:24,240 --> 00:28:25,280
+three-day confinement challenge.
+
+820
+00:28:25,280 --> 00:28:26,200
+I'm tired.
+
+821
+00:28:26,200 --> 00:28:28,600
+Jin Goofy, do an underwater escape act.
+
+822
+00:28:29,240 --> 00:28:30,040
+You're really busy.
+
+823
+00:28:30,040 --> 00:28:30,520
+That's awful.
+
+824
+00:28:30,520 --> 00:28:32,180
+(Every office worker feels this)
+
+825
+00:28:32,480 --> 00:28:33,800
+This one, he said...
+
+826
+00:28:33,800 --> 00:28:34,760
+(Ke Uh-Oh)
+This... this is...
+
+827
+00:28:34,760 --> 00:28:35,680
+Who's Ke Uh-Oh?
+
+828
+00:28:36,040 --> 00:28:37,480
+I'm Ke Uh-Oh.
+
+829
+00:28:38,740 --> 00:28:40,420
+(Curious)
+
+830
+00:28:40,440 --> 00:28:41,280
+Jin,
+
+831
+00:28:41,760 --> 00:28:44,840
+you've never done
+a dance like that for me.
+
+832
+00:28:44,840 --> 00:28:46,440
+What's your relationship?
+
+833
+00:28:47,800 --> 00:28:49,200
+Ke Uh-Oh!
+
+834
+00:28:49,200 --> 00:28:50,340
+(The older mermaid)
+
+835
+00:28:50,980 --> 00:28:52,780
+(and the younger puppy)
+
+836
+00:28:54,800 --> 00:28:57,200
+Can you calm down?
+
+837
+00:28:57,200 --> 00:28:58,760
+Explain it yourself. Go on.
+
+838
+00:28:58,760 --> 00:28:59,600
+You tell me.
+
+839
+00:29:00,240 --> 00:29:01,400
+Read it, Ning.
+
+840
+00:29:01,400 --> 00:29:02,800
+(I'm shy)
+Put more feeling into it.
+
+841
+00:29:02,800 --> 00:29:03,120
+No.
+
+842
+00:29:03,120 --> 00:29:03,440
+Yeah.
+
+843
+00:29:03,440 --> 00:29:04,200
+I only want you.
+
+844
+00:29:04,200 --> 00:29:06,480
+Give me that cute puppy energy.
+
+845
+00:29:06,480 --> 00:29:07,040
+Come on, you do it.
+
+846
+00:29:07,040 --> 00:29:08,600
+I'll dance for him here.
+
+847
+00:29:08,600 --> 00:29:08,840
+Right?
+
+848
+00:29:08,840 --> 00:29:10,320
+Then you run out and say.
+
+849
+00:29:11,560 --> 00:29:12,840
+Wait.
+
+850
+00:29:12,840 --> 00:29:13,320
+Wait for what?
+
+851
+00:29:13,320 --> 00:29:14,080
+What are you waiting for?
+
+852
+00:29:14,080 --> 00:29:14,960
+(Jin's attitude activated)
+Come on.
+
+853
+00:29:14,960 --> 00:29:15,920
+Three, two, one, action.
+
+854
+00:29:16,980 --> 00:29:18,340
+(Cute Puppy Fiercely Protecting His Love)
+
+855
+00:29:18,340 --> 00:29:19,580
+(His Favoritism for Jin)
+
+856
+00:29:19,920 --> 00:29:20,520
+Action.
+
+857
+00:29:21,480 --> 00:29:24,560
+♪Partying at my office desk♪
+
+858
+00:29:26,300 --> 00:29:26,900
+(Ning's fully immersed)
+
+859
+00:29:26,920 --> 00:29:28,200
+Jin,
+
+860
+00:29:28,200 --> 00:29:30,920
+you've never done
+a dance like that for me.
+
+861
+00:29:31,020 --> 00:29:32,820
+(Loves watching)
+
+862
+00:29:32,940 --> 00:29:34,580
+(Trying hard to hold it in)
+
+863
+00:29:34,660 --> 00:29:37,140
+(But who can actually hold it in?)
+
+864
+00:29:38,120 --> 00:29:39,040
+So you want to watch?
+
+865
+00:29:39,040 --> 00:29:39,760
+You should've said so.
+
+866
+00:29:39,760 --> 00:29:40,920
+These aren't your lines.
+
+867
+00:29:41,920 --> 00:29:42,960
+You're this one.
+
+868
+00:29:43,160 --> 00:29:43,920
+Read along
+
+869
+00:29:43,920 --> 00:29:44,880
+(Caught up in the drama)
+and act this scene out.
+
+870
+00:29:48,880 --> 00:29:49,280
+Wait.
+
+871
+00:29:49,960 --> 00:29:51,200
+What other private performance?
+
+872
+00:29:51,720 --> 00:29:52,640
+Don't...
+
+873
+00:29:52,640 --> 00:29:53,720
+Don't worry about these.
+
+874
+00:29:55,400 --> 00:29:57,160
+Jin, if you're being threatened,
+
+875
+00:29:57,760 --> 00:29:58,560
+just blink.
+
+876
+00:30:00,220 --> 00:30:00,980
+(Do you dare look me in the eye?)
+
+877
+00:30:01,000 --> 00:30:02,040
+I did this willingly.
+
+878
+00:30:08,900 --> 00:30:09,740
+(Amazing)
+
+879
+00:30:09,760 --> 00:30:10,720
+Okay.
+
+880
+00:30:10,720 --> 00:30:11,600
+No.
+
+881
+00:30:11,760 --> 00:30:12,920
+Stop overthinking.
+
+882
+00:30:12,920 --> 00:30:14,280
+This is just a normal cheer exercise.
+
+883
+00:30:14,280 --> 00:30:17,320
+My dance moves
+are just naturally graceful.
+
+884
+00:30:17,320 --> 00:30:18,360
+No.
+
+885
+00:30:19,200 --> 00:30:19,800
+Jin,
+
+886
+00:30:19,800 --> 00:30:20,920
+this isn't what this job
+is supposed to be.
+
+887
+00:30:20,920 --> 00:30:21,600
+I'll take you away.
+
+888
+00:30:24,720 --> 00:30:26,080
+Don't, Zhou.
+
+889
+00:30:26,600 --> 00:30:27,920
+The penalty is too expensive.
+
+890
+00:30:27,920 --> 00:30:29,400
+Just wait until I save more money.
+
+891
+00:30:30,400 --> 00:30:32,120
+Okay Jin, wait for me.
+
+892
+00:30:32,560 --> 00:30:33,560
+I'll find a way out.
+
+893
+00:30:34,060 --> 00:30:35,940
+(An older mermaid and a younger puppy
+saving each other)
+
+894
+00:30:38,080 --> 00:30:39,440
+Hurry, finding a way out is so hard.
+
+895
+00:30:40,620 --> 00:30:42,340
+(I will step in and stop this romance)
+
+896
+00:30:42,480 --> 00:30:44,400
+So now the question is,
+
+897
+00:30:44,600 --> 00:30:45,240
+if you don't want to do it anymore
+
+898
+00:30:45,240 --> 00:30:46,320
+why are you still here?
+
+899
+00:30:46,520 --> 00:30:48,040
+Because when I joined
+
+900
+00:30:48,040 --> 00:30:49,680
+this company,
+
+901
+00:30:49,680 --> 00:30:50,400
+the boss said
+
+902
+00:30:50,520 --> 00:30:53,080
+I had to sign a 30-year contract.
+
+903
+00:30:53,080 --> 00:30:54,800
+I thought 30 years was no big deal.
+
+904
+00:30:54,800 --> 00:30:56,720
+I'd just treat it as a secure job.
+
+905
+00:30:56,720 --> 00:30:58,400
+Isn't it expiring in a year?
+
+906
+00:30:58,640 --> 00:30:59,840
+There are still over 20 years left.
+
+907
+00:30:59,840 --> 00:31:01,440
+(A worker's world has collapsed)
+
+908
+00:31:01,440 --> 00:31:02,400
+Her motive
+
+909
+00:31:02,400 --> 00:31:03,400
+is basically this.
+
+910
+00:31:03,560 --> 00:31:04,600
+She couldn't take it anymore
+and wanted to leave,
+
+911
+00:31:04,600 --> 00:31:05,560
+but the boss wouldn't let her go.
+
+912
+00:31:05,560 --> 00:31:06,680
+So she had
+
+913
+00:31:06,680 --> 00:31:07,280
+to kill the boss.
+
+914
+00:31:07,280 --> 00:31:08,500
+(Jin Goofy's motive:
+Overwhelmed by work pressure,)
+
+915
+00:31:08,500 --> 00:31:09,580
+(but trapped by the penalty,
+so she plans to kill Tui Haowan)
+
+916
+00:31:09,600 --> 00:31:10,880
+But from this tablet
+
+917
+00:31:10,880 --> 00:31:12,320
+we learned that Ke Uh-Oh
+
+918
+00:31:12,320 --> 00:31:13,680
+may have some special feelings
+
+919
+00:31:13,680 --> 00:31:15,160
+toward Jin.
+
+920
+00:31:15,320 --> 00:31:16,160
+Romantic feelings.
+
+921
+00:31:16,580 --> 00:31:18,260
+(Ke Uh-Oh and Jin Goofy
+have feelings for each other?)
+
+922
+00:31:18,280 --> 00:31:19,960
+He even helps you find a solution.
+
+923
+00:31:19,960 --> 00:31:20,640
+Right.
+
+924
+00:31:20,640 --> 00:31:22,540
+(Ke Uh-Oh's motive:
+To take Jin away from the company)
+
+925
+00:31:22,720 --> 00:31:24,320
+You can see it this way.
+
+926
+00:31:24,320 --> 00:31:25,520
+But as
+
+927
+00:31:25,520 --> 00:31:27,200
+a loyal employee,
+
+928
+00:31:27,200 --> 00:31:28,840
+I would never do something like that.
+
+929
+00:31:28,840 --> 00:31:29,440
+Why?
+
+930
+00:31:30,080 --> 00:31:30,600
+Loyalty.
+
+931
+00:31:30,920 --> 00:31:31,280
+Right.
+
+932
+00:31:31,280 --> 00:31:32,080
+(Loyalty)
+
+933
+00:31:32,080 --> 00:31:33,520
+But you could do it for Jin.
+
+934
+00:31:34,200 --> 00:31:34,960
+No, guys.
+
+935
+00:31:34,960 --> 00:31:36,840
+I really don't understand you people.
+
+936
+00:31:36,840 --> 00:31:37,480
+In this world,
+
+937
+00:31:37,960 --> 00:31:40,000
+there are so many ways
+
+938
+00:31:40,000 --> 00:31:40,640
+to solve problems.
+
+939
+00:31:40,640 --> 00:31:42,360
+Why do you have to kill someone?
+
+940
+00:31:42,440 --> 00:31:44,640
+Can't I just work a few more jobs?
+
+941
+00:31:44,800 --> 00:31:46,200
+Can't I earn more money?
+
+942
+00:31:46,640 --> 00:31:48,480
+(I'm a law-abiding man)
+Why is your first idea always
+
+943
+00:31:48,480 --> 00:31:49,640
+murder?
+
+944
+00:31:49,640 --> 00:31:51,800
+But you do have injuries.
+
+945
+00:31:52,600 --> 00:31:53,240
+On your neck.
+
+946
+00:31:53,820 --> 00:31:55,540
+(His injuries remain unexplained)
+
+947
+00:31:55,680 --> 00:31:57,480
+Looks like you got hurt
+
+948
+00:31:57,480 --> 00:31:58,640
+while dismembering.
+
+949
+00:31:59,040 --> 00:32:00,320
+It's not your turn
+to defend yourself yet.
+
+950
+00:32:00,320 --> 00:32:02,120
+Why are you framing me?
+
+951
+00:32:02,840 --> 00:32:04,000
+Let's look at this area.
+
+952
+00:32:04,000 --> 00:32:04,880
+What else is here?
+
+953
+00:32:06,900 --> 00:32:07,780
+(Locked cabinet)
+
+954
+00:32:07,800 --> 00:32:08,560
+Can you open it?
+
+955
+00:32:09,160 --> 00:32:10,640
+Let's see what else there is.
+
+956
+00:32:10,640 --> 00:32:12,040
+It's afternoon performance time.
+
+957
+00:32:13,040 --> 00:32:13,320
+What?
+
+958
+00:32:14,040 --> 00:32:15,960
+Afternoon performance time.
+
+959
+00:32:15,960 --> 00:32:17,240
+I have to do a huge number
+
+960
+00:32:17,240 --> 00:32:18,600
+of performances every day.
+
+961
+00:32:18,780 --> 00:32:20,660
+(14 performances daily, the 7th,
+Jin Goofy's high-intensity performance)
+
+962
+00:32:20,660 --> 00:32:22,460
+(What will the next performance be?)
+
+963
+00:32:22,460 --> 00:32:23,580
+(The ceiling starts lowering)
+
+964
+00:32:23,580 --> 00:32:25,600
+(Safety measures were taken)
+
+965
+00:32:25,600 --> 00:32:26,160
+(Ceiling lowering)
+What's going on?
+
+966
+00:32:26,160 --> 00:32:27,600
+It's okay. The tall one will hold it up.
+
+967
+00:32:27,600 --> 00:32:28,320
+(Already at the limit)
+
+968
+00:32:28,320 --> 00:32:28,800
+No.
+
+969
+00:32:28,800 --> 00:32:29,200
+Wait.
+
+970
+00:32:29,200 --> 00:32:29,720
+What's going on?
+
+971
+00:32:30,960 --> 00:32:31,480
+What's wrong?
+
+972
+00:32:31,480 --> 00:32:33,120
+(Can't hold it anymore)
+Get down, crouch down.
+
+973
+00:32:33,560 --> 00:32:34,200
+Quick, crouch.
+
+974
+00:32:34,200 --> 00:32:35,900
+(No longer enough space to stand)
+
+975
+00:32:36,360 --> 00:32:36,800
+No.
+
+976
+00:32:36,800 --> 00:32:37,440
+(What kind of performance is this?)
+
+977
+00:32:37,440 --> 00:32:38,480
+Seriously?
+
+978
+00:32:38,480 --> 00:32:38,800
+Wait.
+
+979
+00:32:38,800 --> 00:32:39,480
+Come down, get down first.
+
+980
+00:32:39,480 --> 00:32:41,480
+It's dangerous.
+
+981
+00:32:44,720 --> 00:32:46,120
+(Everyone can only lie down)
+This is suffocating.
+
+982
+00:32:46,120 --> 00:32:49,200
+(Why perform in such a cramped space?)
+
+983
+00:32:49,200 --> 00:32:49,880
+Help!
+
+984
+00:32:49,880 --> 00:32:50,760
+Help us!
+
+985
+00:32:51,240 --> 00:32:53,200
+(7th performance)
+Please face the six circular glass holes
+
+986
+00:32:53,200 --> 00:32:55,960
+and make an expression
+based on your name.
+
+987
+00:32:55,960 --> 00:32:58,520
+The kind everyone at work would share.
+
+988
+00:32:59,040 --> 00:33:00,040
+(Extra scenes)
+I've got one here.
+
+989
+00:33:00,040 --> 00:33:01,140
+(every Sat at noon)
+
+990
+00:33:01,480 --> 00:33:02,400
+I've got one here.
+
+991
+00:33:08,720 --> 00:33:09,560
+What expression?
+
+992
+00:33:09,560 --> 00:33:10,080
+Come on, guys.
+
+993
+00:33:10,080 --> 00:33:11,800
+(Detectives taking charge)
+Let's do the rabbit's expression.
+
+994
+00:33:11,800 --> 00:33:12,120
+Come on.
+
+995
+00:33:12,320 --> 00:33:14,040
+(Correction: It's a name, not a species)
+Nan Shy.
+
+996
+00:33:14,640 --> 00:33:15,760
+What the heck?
+
+997
+00:33:15,760 --> 00:33:17,080
+(Embarrassed)
+
+998
+00:33:17,080 --> 00:33:17,640
+Come on.
+
+999
+00:33:17,800 --> 00:33:18,800
+Three, two, one.
+
+1000
+00:33:40,620 --> 00:33:42,620
+(Totally embarrassed)
+
+1001
+00:33:42,760 --> 00:33:43,920
+Ding Staring.
+
+1002
+00:33:44,520 --> 00:33:45,600
+Come on. Three, two, one.
+
+1003
+00:33:45,600 --> 00:33:50,560
+(Ding staring at you)
+
+1004
+00:33:50,560 --> 00:33:51,600
+Ding Staring.
+
+1005
+00:33:51,600 --> 00:33:52,360
+Okay.
+
+1006
+00:33:56,520 --> 00:33:57,200
+Ding Staring.
+
+1007
+00:33:58,780 --> 00:34:00,660
+(You owe me $200 million.JPG)
+
+1008
+00:34:00,660 --> 00:34:02,980
+(Ding staring at you)
+
+1009
+00:34:02,980 --> 00:34:04,860
+(Caught you.JPG)
+
+1010
+00:34:04,860 --> 00:34:06,780
+(Ding staring at you)
+
+1011
+00:34:06,780 --> 00:34:08,380
+(I'll keep watching you.JPG)
+
+1012
+00:34:08,380 --> 00:34:10,740
+(Ding staring at you)
+
+1013
+00:34:10,780 --> 00:34:12,440
+(Monitoring you 24 hours.JPG)
+
+1014
+00:34:12,440 --> 00:34:13,240
+Okay.
+
+1015
+00:34:13,240 --> 00:34:13,880
+Ning Watcha.
+
+1016
+00:34:14,220 --> 00:34:15,940
+(What are you looking at?)
+
+1017
+00:34:16,480 --> 00:34:18,400
+(Ning Watcha CTRL+C.JPG, Ding Staring CTRL+V.JPG)
+The key is not taking anything seriously
+
+1018
+00:34:18,400 --> 00:34:19,160
+(He Struggle CTRL+C.JPG, Ke Uh-Oh CTRL+V.JPG)
+No overthinking.
+
+1019
+00:34:19,160 --> 00:34:19,760
+(Listen to me, but no solution)
+No emotional investment.
+
+1020
+00:34:19,760 --> 00:34:20,900
+(Capybara-style slacking)
+
+1021
+00:34:20,980 --> 00:34:22,820
+(Perfectly in sync)
+
+1022
+00:34:22,820 --> 00:34:23,300
+(What?)
+
+1023
+00:34:23,300 --> 00:34:23,820
+(Whoever gets pointed at gets rich.
+Let's see)
+
+1024
+00:34:23,820 --> 00:34:24,300
+(Can you not make it difficult?
+That's it)
+
+1025
+00:34:24,300 --> 00:34:25,900
+(So what? Never seen a scene like this)
+
+1026
+00:34:27,940 --> 00:34:34,140
+(Bad influence friends 02LINE)
+
+1027
+00:34:35,100 --> 00:34:36,540
+(Do I really have to work this shift?)
+
+1028
+00:34:37,340 --> 00:34:38,060
+(A huge shock)
+
+1029
+00:34:38,060 --> 00:34:38,780
+(Come at me)
+
+1030
+00:34:38,780 --> 00:34:39,900
+(What was my job again?)
+
+1031
+00:34:40,040 --> 00:34:43,240
+Auto detection complete.
+Expression package approved.
+
+1032
+00:34:44,480 --> 00:34:45,640
+(Tui Games Company)
+Expression packages collected.
+
+1033
+00:34:46,280 --> 00:34:48,720
+The afternoon performance is complete.
+
+1034
+00:34:48,820 --> 00:34:51,840
+(14 performances,
+7th: Summer expression completed)
+
+1035
+00:34:51,840 --> 00:34:53,200
+We
+
+1036
+00:34:53,200 --> 00:34:54,120
+are free.
+
+1037
+00:34:55,020 --> 00:34:56,080
+(Why do these performances?)
+
+1038
+00:34:56,080 --> 00:34:56,960
+Great.
+
+1039
+00:34:57,080 --> 00:34:57,960
+Come on, stand up.
+
+1040
+00:34:59,080 --> 00:35:00,360
+Little puppy, stop lying on the floor.
+
+1041
+00:35:00,360 --> 00:35:01,000
+Little puppy.
+
+1042
+00:35:01,400 --> 00:35:02,640
+Capybara, stop slacking.
+
+1043
+00:35:02,860 --> 00:35:05,100
+(Capybara with built-in slow motion)
+
+1044
+00:35:05,120 --> 00:35:06,200
+It's okay.
+
+1045
+00:35:06,200 --> 00:35:07,900
+(Take your time, no rush)
+
+1046
+00:35:07,920 --> 00:35:09,280
+What else is in your room?
+
+1047
+00:35:11,040 --> 00:35:11,760
+What was that sound?
+
+1048
+00:35:12,960 --> 00:35:13,280
+Cabinet.
+
+1049
+00:35:13,280 --> 00:35:14,160
+(Detail-focused little rabbit)
+This cabinet popped open.
+
+1050
+00:35:14,160 --> 00:35:14,360
+This one.
+
+1051
+00:35:14,420 --> 00:35:15,400
+(Drawer popped open after performance)
+
+1052
+00:35:15,400 --> 00:35:16,840
+It couldn't be opened just now.
+
+1053
+00:35:18,320 --> 00:35:19,320
+(Phone, Medical report)
+Medical report.
+
+1054
+00:35:19,320 --> 00:35:20,000
+(Pre-employment checkup)
+
+1055
+00:35:20,000 --> 00:35:21,000
+Pre-employment checkup.
+
+1056
+00:35:21,000 --> 00:35:22,360
+Let's look at her medical report.
+
+1057
+00:35:22,380 --> 00:35:23,060
+(Pre-employment checkup)
+
+1058
+00:35:23,700 --> 00:35:24,740
+(Tui City Medical Center Health,
+Summary)
+
+1059
+00:35:24,740 --> 00:35:26,860
+(Patient: Ke Uh-Oh, Age: 22)
+
+1060
+00:35:27,000 --> 00:35:28,320
+Patient Ke Uh-Oh.
+
+1061
+00:35:28,320 --> 00:35:29,680
+Ke Uh-Oh's report is with you.
+
+1062
+00:35:30,520 --> 00:35:31,240
+After examination,
+
+1063
+00:35:31,240 --> 00:35:33,640
+the patient has severe social anxiety,
+
+1064
+00:35:33,640 --> 00:35:35,080
+camera anxiety.
+
+1065
+00:35:35,080 --> 00:35:37,560
+The patient should avoid
+high-intensity social work.
+
+1066
+00:35:38,000 --> 00:35:38,920
+There are photos too.
+
+1067
+00:35:40,080 --> 00:35:40,960
+What's the first one?
+
+1068
+00:35:42,080 --> 00:35:43,000
+Who is this?
+
+1069
+00:35:43,000 --> 00:35:43,920
+That's you, right?
+
+1070
+00:35:43,920 --> 00:35:44,360
+Let me see.
+
+1071
+00:35:44,360 --> 00:35:47,280
+You even pole danced
+on this round table.
+
+1072
+00:35:47,280 --> 00:35:48,280
+What do you have to say?
+
+1073
+00:35:48,280 --> 00:35:50,120
+How can you prove this is me?
+
+1074
+00:35:50,120 --> 00:35:51,400
+It's me. I took the photo.
+
+1075
+00:35:51,400 --> 00:35:53,640
+I know everything you've done outside.
+
+1076
+00:35:54,060 --> 00:35:55,940
+(What did Ke Uh-Oh do?)
+
+1077
+00:35:56,480 --> 00:35:57,240
+What's the second one?
+
+1078
+00:35:58,180 --> 00:35:58,840
+(Ke Uh-Oh gaming livestream)
+
+1079
+00:35:58,840 --> 00:36:00,040
+The livestream.
+
+1080
+00:36:00,520 --> 00:36:01,960
+Ke Uh-Oh's gaming livestream.
+
+1081
+00:36:01,960 --> 00:36:02,640
+And then?
+
+1082
+00:36:03,320 --> 00:36:03,680
+This is...
+
+1083
+00:36:03,680 --> 00:36:04,320
+Over 100,000 viewers online.
+
+1084
+00:36:04,320 --> 00:36:06,640
+... the boss standing behind,
+pulling his hair.
+
+1085
+00:36:06,640 --> 00:36:07,440
+Pulling his hair?
+
+1086
+00:36:07,440 --> 00:36:09,400
+Jin Goofy said, "Don't wear yourself out.
+
+1087
+00:36:09,400 --> 00:36:11,120
+I'll give you all the money I make."
+
+1088
+00:36:11,120 --> 00:36:12,200
+Tui Yi said,
+
+1089
+00:36:12,200 --> 00:36:13,320
+"Ke Uh-Oh is so handsome.
+
+1090
+00:36:13,320 --> 00:36:14,560
+I want a gaming partner like this too."
+
+1091
+00:36:14,560 --> 00:36:15,360
+You're a gaming companion.
+
+1092
+00:36:15,360 --> 00:36:16,200
+Okay.
+
+1093
+00:36:16,200 --> 00:36:18,040
+Can you make Ke Uh-Oh
+
+1094
+00:36:18,040 --> 00:36:19,520
+do eight cute poses?
+
+1095
+00:36:20,000 --> 00:36:20,400
+So he
+
+1096
+00:36:20,400 --> 00:36:21,960
+is a gaming streamer.
+
+1097
+00:36:21,960 --> 00:36:22,280
+Right.
+
+1098
+00:36:22,280 --> 00:36:24,180
+(How did a socially anxious Ke Uh-Oh
+become a streamer?)
+
+1099
+00:36:24,400 --> 00:36:25,120
+There's another one.
+
+1100
+00:36:25,120 --> 00:36:26,200
+Guys, this one is important.
+
+1101
+00:36:26,760 --> 00:36:29,320
+Is he going to do something
+with the boss?
+
+1102
+00:36:32,040 --> 00:36:35,320
+I filmed this with my cameras.
+
+1103
+00:36:35,720 --> 00:36:37,200
+You went out with the boss.
+
+1104
+00:36:37,200 --> 00:36:38,800
+You got into a business van.
+
+1105
+00:36:42,160 --> 00:36:43,720
+I'll confess to everyone.
+
+1106
+00:36:43,720 --> 00:36:45,360
+Ke Uh-Oh
+
+1107
+00:36:45,360 --> 00:36:46,480
+is my younger brother.
+
+1108
+00:36:48,540 --> 00:36:49,460
+(Turns out they're siblings)
+
+1109
+00:36:49,480 --> 00:36:51,560
+Back then, when I joined this company,
+
+1110
+00:36:51,560 --> 00:36:53,960
+the benefits were just too good.
+
+1111
+00:36:53,960 --> 00:36:55,040
+I thought,
+
+1112
+00:36:55,040 --> 00:36:56,680
+using my HR privileges,
+
+1113
+00:36:56,680 --> 00:36:58,200
+I could get my brother in too.
+
+1114
+00:36:58,440 --> 00:37:01,400
+(Better write it down)
+But I never expected after Zhou joined,
+
+1115
+00:37:01,400 --> 00:37:03,600
+the boss would force him
+to do this kind of work.
+
+1116
+00:37:04,040 --> 00:37:06,200
+(Examining)
+But during the pre-employment checkup,
+
+1117
+00:37:06,640 --> 00:37:07,760
+he was diagnosed
+
+1118
+00:37:07,760 --> 00:37:10,200
+with severe camera anxiety
+
+1119
+00:37:10,200 --> 00:37:12,000
+and social anxiety.
+
+1120
+00:37:12,000 --> 00:37:13,680
+Yet his job turned out
+
+1121
+00:37:13,680 --> 00:37:15,640
+to be cosplaying
+and being a gaming companion.
+
+1122
+00:37:16,280 --> 00:37:17,240
+You can torment me,
+
+1123
+00:37:17,520 --> 00:37:18,760
+but torment my brother?
+
+1124
+00:37:18,760 --> 00:37:20,280
+I won't allow it.
+
+1125
+00:37:20,740 --> 00:37:23,460
+(What exactly did Ke Uh-Oh go through?)
+
+1126
+00:37:24,400 --> 00:37:25,680
+So you're really his sister.
+
+1127
+00:37:25,680 --> 00:37:26,560
+(Ke Uh-Oh and Jin Goofy are siblings)
+I'm his real sister.
+
+1128
+00:37:26,560 --> 00:37:27,640
+Not that kind of "sister."
+
+1129
+00:37:27,640 --> 00:37:29,480
+You all misunderstood.
+
+1130
+00:37:29,480 --> 00:37:30,320
+No misunderstanding.
+
+1131
+00:37:31,660 --> 00:37:33,820
+(Nodding vigorously)
+
+1132
+00:37:34,240 --> 00:37:36,040
+So just because
+
+1133
+00:37:36,040 --> 00:37:38,240
+he abused your beloved brother,
+
+1134
+00:37:38,880 --> 00:37:41,440
+you wanted to take down the boss.
+
+1135
+00:37:41,440 --> 00:37:43,980
+(Jin Goofy has a new motive)
+
+1136
+00:37:44,000 --> 00:37:46,320
+She now has two motives for murder.
+
+1137
+00:37:46,800 --> 00:37:47,360
+Yes.
+
+1138
+00:37:47,880 --> 00:37:48,640
+So her motives are,
+
+1139
+00:37:48,640 --> 00:37:49,440
+first, to save her brother,
+
+1140
+00:37:49,440 --> 00:37:51,040
+second, she was forced into doing this.
+
+1141
+00:37:51,040 --> 00:37:51,600
+(Jin Goofy's motives for murder)
+Yes.
+
+1142
+00:37:51,600 --> 00:37:52,380
+(1. She couldn't handle the pressure
+but couldn't quit due to the penalty)
+
+1143
+00:37:52,380 --> 00:37:53,100
+(2. She wanted to save her brother
+from forced livestreaming)
+
+1144
+00:37:53,440 --> 00:37:54,240
+Then it's all clear.
+
+1145
+00:37:54,240 --> 00:37:55,040
+Anything else on the phone?
+
+1146
+00:37:55,040 --> 00:37:55,720
+There's nothing on the phone.
+
+1147
+00:37:55,720 --> 00:37:57,400
+Let's go. Next room.
+
+1148
+00:37:57,400 --> 00:37:58,480
+(Leave now,
+or we'll have to perform again)
+
+1149
+00:37:58,480 --> 00:37:59,590
+(Dark green, indigo, lotus root purple,)
+Next, we're going to
+
+1150
+00:37:59,590 --> 00:38:01,120
+(tulip, grass green, vermilion, jade, plum red,)
+He's work area.
+
+1151
+00:38:01,120 --> 00:38:01,800
+(dark red, black,
+crow blue, concubine pink)
+
+1152
+00:38:01,800 --> 00:38:03,040
+Where is He's?
+
+1153
+00:38:03,040 --> 00:38:03,560
+Here.
+
+1154
+00:38:03,560 --> 00:38:04,160
+Go upstairs.
+
+1155
+00:38:04,760 --> 00:38:05,240
+Let's go.
+
+1156
+00:38:05,240 --> 00:38:06,240
+(Leading the way)
+
+1157
+00:38:06,240 --> 00:38:07,360
+She's really brave.
+
+1158
+00:38:07,360 --> 00:38:07,800
+Wait.
+
+1159
+00:38:07,800 --> 00:38:09,120
+I want to take another look
+
+1160
+00:38:09,120 --> 00:38:10,440
+to see if there's any key evidence.
+
+1161
+00:38:13,240 --> 00:38:13,960
+Nothing.
+
+1162
+00:38:13,960 --> 00:38:14,400
+No.
+
+1163
+00:38:14,400 --> 00:38:15,400
+Let me tell you.
+
+1164
+00:38:15,880 --> 00:38:17,400
+You should just give up
+
+1165
+00:38:17,400 --> 00:38:19,240
+finding this so-called key evidence.
+
+1166
+00:38:19,240 --> 00:38:20,960
+That's impossible.
+
+1167
+00:38:20,960 --> 00:38:23,560
+♪Why give up♪
+
+1168
+00:38:23,560 --> 00:38:26,280
+(Wolf King starts singing)
+♪And say we should stay together♪
+
+1169
+00:38:26,480 --> 00:38:27,120
+Push.
+
+1170
+00:38:28,520 --> 00:38:29,160
+Push it.
+
+1171
+00:38:31,500 --> 00:38:34,580
+(New scene:
+motion capture area and design room)
+
+1172
+00:38:35,520 --> 00:38:36,680
+This place is kind of...
+
+1173
+00:38:36,680 --> 00:38:40,000
+This place is interesting.
+
+1174
+00:38:40,240 --> 00:38:40,920
+Well,
+
+1175
+00:38:40,920 --> 00:38:42,440
+this is my work environment
+
+1176
+00:38:44,760 --> 00:38:45,400
+Wait.
+
+1177
+00:38:45,400 --> 00:38:46,320
+There's a hand here.
+
+1178
+00:38:46,340 --> 00:38:48,580
+(Found the third body part)
+
+1179
+00:38:48,580 --> 00:38:50,460
+(This fictional story
+contains horror elements. This is)
+
+1180
+00:38:50,840 --> 00:38:52,880
+It says on the hand, "This is."
+
+1181
+00:38:52,880 --> 00:38:54,420
+(Third body part's writing: This is)
+
+1182
+00:38:54,420 --> 00:38:56,900
+(This is a revenge)
+
+1183
+00:38:56,920 --> 00:38:57,680
+This is.
+
+1184
+00:38:57,680 --> 00:38:59,080
+This is a...
+
+1185
+00:38:59,080 --> 00:39:00,320
+Revenge.
+
+1186
+00:39:01,640 --> 00:39:03,120
+He Struggle,
+
+1187
+00:39:03,880 --> 00:39:06,480
+why would you do something like this?
+
+1188
+00:39:06,960 --> 00:39:08,320
+(Detective writing furiously)
+Make a guess.
+
+1189
+00:39:08,320 --> 00:39:08,960
+This cage...
+
+1190
+00:39:08,960 --> 00:39:10,760
+Detected employee entry.
+
+1191
+00:39:10,760 --> 00:39:12,480
+Activating today's battle mode.
+
+1192
+00:39:12,800 --> 00:39:13,560
+What does that mean?
+
+1193
+00:39:17,020 --> 00:39:17,660
+(Motion capture area
+work mode activated)
+
+1194
+00:39:17,680 --> 00:39:20,400
+Please select three employees
+to enter the octagonal cage.
+
+1195
+00:39:20,800 --> 00:39:21,840
+Quick, you three.
+
+1196
+00:39:22,160 --> 00:39:22,400
+No, no, no.
+
+1197
+00:39:22,600 --> 00:39:23,560
+No.
+
+1198
+00:39:23,560 --> 00:39:24,000
+Look,
+
+1199
+00:39:24,520 --> 00:39:25,560
+since this is my workstation,
+
+1200
+00:39:25,880 --> 00:39:28,120
+(My workstation, my rules)
+I'll choose three suitable candidates.
+
+1201
+00:39:28,800 --> 00:39:30,120
+I choose you three.
+
+1202
+00:39:30,980 --> 00:39:32,180
+Who are you?
+
+1203
+00:39:32,200 --> 00:39:33,480
+You don't get to choose.
+
+1204
+00:39:33,960 --> 00:39:35,520
+(VIP viewing area)
+I'll give you an idea.
+
+1205
+00:39:35,880 --> 00:39:37,840
+Say something nice.
+
+1206
+00:39:38,160 --> 00:39:41,200
+♪Capybara, my favorite♪
+
+1207
+00:39:42,900 --> 00:39:44,180
+(A hint of a smile appears)
+
+1208
+00:39:45,960 --> 00:39:47,840
+My job is special.
+
+1209
+00:39:47,840 --> 00:39:49,480
+It requires some movement.
+
+1210
+00:39:49,480 --> 00:39:50,200
+Guys, come on.
+
+1211
+00:39:50,680 --> 00:39:51,120
+Okay.
+
+1212
+00:39:51,120 --> 00:39:51,940
+(Good obedient puppy)
+
+1213
+00:39:52,080 --> 00:39:52,240
+Come on.
+
+1214
+00:39:52,240 --> 00:39:52,800
+Let's battle.
+
+1215
+00:39:52,800 --> 00:39:53,680
+(Little fox volunteers for battle)
+
+1216
+00:39:53,680 --> 00:39:54,680
+But his hand is still...
+
+1217
+00:39:58,120 --> 00:39:58,640
+I forgot.
+
+1218
+00:39:59,680 --> 00:40:00,760
+I'll fight for my little fox.
+
+1219
+00:40:01,400 --> 00:40:01,800
+Come on.
+
+1220
+00:40:02,020 --> 00:40:03,340
+(True brotherhood)
+
+1221
+00:40:03,840 --> 00:40:06,360
+(Center preparation area)
+Please stand in the center.
+
+1222
+00:40:06,360 --> 00:40:09,200
+The employees cannot leave the area
+before the battle begins.
+
+1223
+00:40:09,560 --> 00:40:10,360
+This is going to be fun.
+
+1224
+00:40:10,360 --> 00:40:11,800
+(Viewing area)
+
+1225
+00:40:11,800 --> 00:40:12,720
+Three 6-foot guys
+
+1226
+00:40:12,720 --> 00:40:13,720
+are going to put on a good show for us.
+
+1227
+00:40:15,240 --> 00:40:15,800
+What does that mean?
+
+1228
+00:40:15,800 --> 00:40:16,640
+(What does that mean?)
+What does that mean?
+
+1229
+00:40:16,880 --> 00:40:17,880
+(Pre-battle energy replenishing)
+Stand steady first.
+
+1230
+00:40:17,880 --> 00:40:19,320
+I'm afraid it might start shaking.
+
+1231
+00:40:19,840 --> 00:40:20,960
+It's not that high-tech, right?
+
+1232
+00:40:21,720 --> 00:40:22,320
+I think someone
+
+1233
+00:40:22,320 --> 00:40:23,840
+could finish the bread
+in his mouth first.
+
+1234
+00:40:26,300 --> 00:40:27,540
+(What did they see?)
+
+1235
+00:40:33,440 --> 00:40:34,080
+Bumper balls.
+
+1236
+00:40:34,080 --> 00:40:34,640
+Come here.
+
+1237
+00:40:34,640 --> 00:40:34,920
+They're here.
+
+1238
+00:40:35,200 --> 00:40:36,000
+What are you trying to do?
+
+1239
+00:40:36,700 --> 00:40:37,500
+(Defense mode activated)
+
+1240
+00:40:37,680 --> 00:40:38,080
+What's going on?
+
+1241
+00:40:38,600 --> 00:40:39,480
+What's wrong?
+
+1242
+00:40:39,480 --> 00:40:40,040
+What is this for?
+
+1243
+00:40:40,760 --> 00:40:41,000
+Quick.
+
+1244
+00:40:41,000 --> 00:40:42,720
+Back to back.
+
+1245
+00:40:42,720 --> 00:40:43,280
+Come on.
+
+1246
+00:40:43,280 --> 00:40:44,120
+Give me your arms.
+
+1247
+00:40:44,560 --> 00:40:45,600
+Stop eating.
+
+1248
+00:40:45,600 --> 00:40:46,440
+(Already finished eating)
+I'm not.
+
+1249
+00:40:46,440 --> 00:40:47,640
+Please hold on
+
+1250
+00:40:47,640 --> 00:40:49,360
+for three minutes.
+
+1251
+00:40:49,980 --> 00:40:50,940
+(Battle begins)
+
+1252
+00:40:52,880 --> 00:40:53,680
+That's too easy.
+
+1253
+00:40:53,680 --> 00:40:55,400
+Don't do this.
+
+1254
+00:40:55,400 --> 00:40:56,680
+Then let go.
+
+1255
+00:40:56,680 --> 00:40:57,920
+We'll let go.
+
+1256
+00:40:59,580 --> 00:41:00,620
+(Agile)
+
+1257
+00:41:01,500 --> 00:41:03,100
+(Break out of the encirclement)
+
+1258
+00:41:03,100 --> 00:41:04,700
+(Stay still and counter)
+
+1259
+00:41:04,980 --> 00:41:05,900
+(Move flexibly)
+
+1260
+00:41:06,280 --> 00:41:08,120
+There's no way I can get out, guys.
+
+1261
+00:41:08,120 --> 00:41:08,900
+(This round is secured)
+
+1262
+00:41:09,700 --> 00:41:12,060
+(Sudden escape)
+
+1263
+00:41:12,320 --> 00:41:13,880
+How did they get out by themselves?
+
+1264
+00:41:16,940 --> 00:41:18,420
+(Weak and helpless)
+
+1265
+00:41:18,440 --> 00:41:19,720
+Battle failed.
+
+1266
+00:41:20,600 --> 00:41:21,120
+Why?
+
+1267
+00:41:22,600 --> 00:41:23,920
+You have to stand in the middle.
+
+1268
+00:41:24,280 --> 00:41:25,720
+Stand here, right?
+
+1269
+00:41:25,720 --> 00:41:27,140
+(Must not leave the center capture zone)
+
+1270
+00:41:29,000 --> 00:41:30,320
+We underestimated them.
+
+1271
+00:41:30,320 --> 00:41:31,380
+(Got careless)
+
+1272
+00:41:31,680 --> 00:41:32,320
+Wait.
+
+1273
+00:41:32,320 --> 00:41:33,720
+Can we stop them?
+
+1274
+00:41:34,440 --> 00:41:35,240
+Let's see if there's anything
+
+1275
+00:41:35,240 --> 00:41:36,520
+we can use to stop them.
+
+1276
+00:41:37,880 --> 00:41:38,600
+Wait.
+
+1277
+00:41:38,600 --> 00:41:39,880
+I just saw this.
+
+1278
+00:41:39,880 --> 00:41:40,120
+This is...
+
+1279
+00:41:41,480 --> 00:41:41,960
+It says
+
+1280
+00:41:41,960 --> 00:41:43,880
+the company introduced
+a batch of new robots.
+
+1281
+00:41:43,880 --> 00:41:44,520
+Enter the ID number
+
+1282
+00:41:44,520 --> 00:41:46,000
+to shut down the corresponding robot.
+
+1283
+00:41:46,020 --> 00:41:47,440
+(Octagon cage battle robots
+can be shut down)
+
+1284
+00:41:47,440 --> 00:41:49,200
+The robot ID is an invisible mark.
+
+1285
+00:41:49,200 --> 00:41:51,120
+Only readable with a special light.
+
+1286
+00:41:51,320 --> 00:41:52,000
+Is it...
+
+1287
+00:41:52,000 --> 00:41:52,480
+Oh, here.
+
+1288
+00:41:53,500 --> 00:41:54,820
+(Special light)
+
+1289
+00:41:55,040 --> 00:41:57,240
+We can find something on them.
+
+1290
+00:41:57,240 --> 00:41:58,600
+Find their numbers.
+
+1291
+00:42:00,520 --> 00:42:01,480
+That's easy.
+
+1292
+00:42:01,480 --> 00:42:02,360
+He can look for them.
+
+1293
+00:42:02,360 --> 00:42:03,280
+Ding stays here to press.
+
+1294
+00:42:03,340 --> 00:42:04,520
+(Battle damage team searches
+and shuts down robot IDs)
+
+1295
+00:42:04,520 --> 00:42:05,400
+Her skirt makes it inconvenient.
+
+1296
+00:42:05,400 --> 00:42:05,920
+Okay.
+
+1297
+00:42:06,280 --> 00:42:06,680
+Come on.
+
+1298
+00:42:06,680 --> 00:42:07,920
+(Ning Watcha, Jin Goofy, Ke Uh-Oh)
+Ke.
+
+1299
+00:42:07,920 --> 00:42:08,440
+Easy.
+
+1300
+00:42:08,760 --> 00:42:10,080
+(Dominant Wolf King)
+We weren't even trying to play
+
+1301
+00:42:10,080 --> 00:42:10,560
+with them earlier.
+
+1302
+00:42:10,560 --> 00:42:11,960
+Yeah, we weren't serious earlier.
+
+1303
+00:42:11,960 --> 00:42:13,100
+(Entering battle mode)
+
+1304
+00:42:13,100 --> 00:42:14,260
+(Number finding team ready)
+
+1305
+00:42:18,280 --> 00:42:19,000
+On their legs.
+
+1306
+00:42:19,280 --> 00:42:20,840
+They have something tied to their legs.
+
+1307
+00:42:20,840 --> 00:42:21,900
+(IDs are attached to their legs)
+
+1308
+00:42:22,120 --> 00:42:23,680
+Battle mode is about to begin.
+
+1309
+00:42:23,790 --> 00:42:24,570
+Five,
+
+1310
+00:42:24,720 --> 00:42:25,540
+(Searching robot ID)
+four,
+
+1311
+00:42:25,740 --> 00:42:26,540
+(Searching robot ID)
+three,
+
+1312
+00:42:26,740 --> 00:42:27,530
+(Shutting down robot)
+two,
+
+1313
+00:42:27,740 --> 00:42:28,770
+one.
+
+1314
+00:42:29,060 --> 00:42:30,620
+(Battle begins)
+
+1315
+00:42:33,840 --> 00:42:34,760
+Search that one first.
+
+1316
+00:42:34,760 --> 00:42:35,840
+It's facing us.
+
+1317
+00:42:36,000 --> 00:42:37,600
+Three... three, seven?
+
+1318
+00:42:40,000 --> 00:42:41,600
+Two. Two, three.
+
+1319
+00:42:42,400 --> 00:42:44,720
+Two, three... two, three, and seven.
+
+1320
+00:42:44,720 --> 00:42:45,480
+Two, one, three, seven.
+
+1321
+00:42:47,080 --> 00:42:47,480
+Done.
+
+1322
+00:42:47,920 --> 00:42:50,160
+Robot 2137 has been shut down.
+
+1323
+00:42:50,160 --> 00:42:50,620
+(2137 leaves)
+
+1324
+00:42:50,900 --> 00:42:52,300
+Ah! Ah! Ah!
+
+1325
+00:42:53,420 --> 00:42:54,780
+(Wolf leader roar)
+
+1326
+00:42:55,180 --> 00:42:56,540
+(Claw strike attack)
+
+1327
+00:43:00,040 --> 00:43:00,800
+It's okay.
+
+1328
+00:43:00,800 --> 00:43:01,440
+Stay close to me.
+
+1329
+00:43:01,440 --> 00:43:02,460
+(Human shield wall)
+
+1330
+00:43:03,360 --> 00:43:04,200
+Five, nine.
+
+1331
+00:43:05,480 --> 00:43:06,440
+We can retreat.
+
+1332
+00:43:06,440 --> 00:43:08,720
+(8859 leaves)
+Robot 8859 has been shut down.
+
+1333
+00:43:09,240 --> 00:43:10,640
+(Taking initiative)
+Come on, hug up.
+
+1334
+00:43:10,640 --> 00:43:12,520
+Hug up.
+
+1335
+00:43:13,000 --> 00:43:13,840
+40 seconds left.
+
+1336
+00:43:14,360 --> 00:43:15,720
+We're going to win, guys.
+
+1337
+00:43:18,200 --> 00:43:19,040
+Yes.
+
+1338
+00:43:19,040 --> 00:43:19,480
+One, six.
+
+1339
+00:43:19,480 --> 00:43:20,480
+Scan this one.
+
+1340
+00:43:21,600 --> 00:43:22,400
+Two, five, one, six.
+
+1341
+00:43:22,400 --> 00:43:22,840
+It's two, five, one, six.
+
+1342
+00:43:23,960 --> 00:43:25,920
+Robot 2516 has been shut down.
+
+1343
+00:43:25,920 --> 00:43:27,420
+(2516 leaves)
+
+1344
+00:43:27,520 --> 00:43:31,320
+(Final assault)
+Five, four, three, two, one.
+
+1345
+00:43:31,320 --> 00:43:32,320
+Get up.
+
+1346
+00:43:32,320 --> 00:43:33,040
+Time's up.
+
+1347
+00:43:33,040 --> 00:43:34,280
+Battle successful.
+
+1348
+00:43:34,280 --> 00:43:35,820
+(Challenge successful)
+
+1349
+00:43:37,950 --> 00:43:38,690
+Oh my god.
+
+1350
+00:43:39,090 --> 00:43:39,900
+My god.
+
+1351
+00:43:42,080 --> 00:43:43,560
+Thanks for your hard work,
+
+1352
+00:43:43,560 --> 00:43:44,640
+Jin Goofy.
+
+1353
+00:43:44,640 --> 00:43:45,120
+My...
+
+1354
+00:43:45,680 --> 00:43:47,800
+my mouth is full of Wolf King's fur.
+
+1355
+00:43:50,920 --> 00:43:51,440
+You're hungry.
+
+1356
+00:43:52,040 --> 00:43:52,960
+So you ate the fur.
+
+1357
+00:43:54,880 --> 00:43:55,840
+Thanks for your hard work.
+
+1358
+00:43:56,780 --> 00:43:57,740
+Awoo.
+
+1359
+00:43:58,300 --> 00:43:58,940
+Woof.
+
+1360
+00:44:00,380 --> 00:44:01,740
+(Wolf King howling)
+
+1361
+00:44:01,760 --> 00:44:03,240
+Have some water.
+
+1362
+00:44:03,960 --> 00:44:04,800
+Let me help.
+
+1363
+00:44:04,800 --> 00:44:05,800
+(Thoughtful rabbit)
+Your hand isn't convenient. Let me help.
+
+1364
+00:44:08,880 --> 00:44:09,400
+Here.
+
+1365
+00:44:09,920 --> 00:44:10,360
+There's more here, take it.
+
+1366
+00:44:10,360 --> 00:44:10,680
+Thanks.
+
+1367
+00:44:10,680 --> 00:44:11,240
+There's more.
+
+1368
+00:44:11,400 --> 00:44:12,040
+I'll leave it here.
+
+1369
+00:44:12,040 --> 00:44:12,800
+Thanks.
+
+1370
+00:44:14,080 --> 00:44:14,960
+He Struggle,
+
+1371
+00:44:14,960 --> 00:44:16,120
+why does this octagonal cage
+
+1372
+00:44:16,120 --> 00:44:17,040
+have this mode?
+
+1373
+00:44:17,040 --> 00:44:18,440
+(Why does the cage have a battle mode?)
+Confess everything.
+
+1374
+00:44:18,440 --> 00:44:19,240
+Did you make it yourself?
+
+1375
+00:44:19,520 --> 00:44:19,920
+Explain yourself.
+
+1376
+00:44:19,920 --> 00:44:21,520
+This is my workspace.
+
+1377
+00:44:21,520 --> 00:44:23,480
+My daily job
+
+1378
+00:44:23,480 --> 00:44:25,400
+is motion capture.
+
+1379
+00:44:25,400 --> 00:44:26,120
+A motion capture artist.
+
+1380
+00:44:26,120 --> 00:44:26,900
+(Professional motion capture artist)
+
+1381
+00:44:26,900 --> 00:44:28,860
+(The octagonal cage
+is used for motion capture)
+
+1382
+00:44:31,040 --> 00:44:31,440
+Wait.
+
+1383
+00:44:32,440 --> 00:44:33,240
+There's something here.
+
+1384
+00:44:33,460 --> 00:44:36,060
+(Task completed. Cabinet opens)
+
+1385
+00:44:36,060 --> 00:44:38,420
+(iPad, metal box)
+
+1386
+00:44:38,600 --> 00:44:39,880
+Come, let's sit down and look.
+
+1387
+00:44:41,840 --> 00:44:45,200
+Wolf King needs to fix his tail
+before sitting down.
+
+1388
+00:44:46,240 --> 00:44:46,920
+Wolf King is confused.
+
+1389
+00:44:47,720 --> 00:44:48,000
+Come on.
+
+1390
+00:44:49,520 --> 00:44:50,240
+Wait.
+
+1391
+00:44:50,240 --> 00:44:50,960
+Hold on.
+
+1392
+00:44:51,160 --> 00:44:53,520
+Why is there
+
+1393
+00:44:53,520 --> 00:44:55,840
+a beautiful woman's photo on this box?
+
+1394
+00:44:56,660 --> 00:44:58,380
+(Was this box a gift
+from Nan Shy to He Struggle?)
+
+1395
+00:44:58,880 --> 00:44:59,960
+Turns out it's me.
+
+1396
+00:45:00,200 --> 00:45:01,720
+What is the relationship
+
+1397
+00:45:01,720 --> 00:45:03,520
+between you two?
+
+1398
+00:45:03,520 --> 00:45:06,860
+(What is the relationship
+between Nan Shy and He Struggle?)
+
+1399
+00:45:07,520 --> 00:45:07,840
+Wait.
+
+1400
+00:45:09,920 --> 00:45:10,520
+Nails.
+
+1401
+00:45:12,480 --> 00:45:14,680
+This clip says "custom-made."
+
+1402
+00:45:14,680 --> 00:45:15,320
+(Custom-made)
+Inside
+
+1403
+00:45:15,320 --> 00:45:17,160
+are people's pulled-out fingernails
+
+1404
+00:45:17,480 --> 00:45:18,040
+and teeth.
+
+1405
+00:45:18,040 --> 00:45:18,620
+(Why are there bloody nails and teeth?)
+
+1406
+00:45:18,840 --> 00:45:19,720
+Who is this?
+
+1407
+00:45:19,720 --> 00:45:21,040
+She gave these to He.
+
+1408
+00:45:21,040 --> 00:45:22,660
+(Why did Nan Shy
+give these to He Struggle?)
+
+1409
+00:45:22,800 --> 00:45:24,120
+This is a setup.
+
+1410
+00:45:24,560 --> 00:45:26,160
+This is framing.
+
+1411
+00:45:26,160 --> 00:45:27,200
+Who's framing me?
+
+1412
+00:45:27,680 --> 00:45:28,600
+Definitely not me.
+
+1413
+00:45:28,760 --> 00:45:30,920
+Stop.
+
+1414
+00:45:30,920 --> 00:45:33,120
+Why are you all being so sarcastic?
+
+1415
+00:45:33,120 --> 00:45:34,800
+Stop making conspiracy theories.
+
+1416
+00:45:38,040 --> 00:45:39,280
+I've already taken
+
+1417
+00:45:39,280 --> 00:45:40,720
+off my capybara costume.
+
+1418
+00:45:40,720 --> 00:45:41,480
+Let me tell you.
+
+1419
+00:45:41,480 --> 00:45:42,920
+Show me some respect.
+
+1420
+00:45:42,920 --> 00:45:44,040
+Who are you now?
+
+1421
+00:45:44,600 --> 00:45:45,880
+I am now...
+
+1422
+00:45:47,680 --> 00:45:49,160
+He Ha.
+
+1423
+00:45:49,160 --> 00:45:51,620
+(He Ha, the Crown Prince is here)
+
+1424
+00:45:52,080 --> 00:45:53,160
+He Ha.
+
+1425
+00:45:53,360 --> 00:45:54,880
+There's no framing or anything.
+
+1426
+00:45:54,880 --> 00:45:55,840
+(All clues recorded)
+My relationship with her
+
+1427
+00:45:55,840 --> 00:45:57,360
+is exactly like the portrait
+
+1428
+00:45:57,360 --> 00:45:58,440
+on the metal box.
+
+1429
+00:45:58,440 --> 00:46:00,300
+(To He)
+
+1430
+00:46:00,520 --> 00:46:01,880
+We're very sweet and loving.
+
+1431
+00:46:02,120 --> 00:46:04,120
+We're a couple.
+
+1432
+00:46:07,860 --> 00:46:09,980
+(Nan Shy and He Struggle are a couple)
+
+1433
+00:46:12,480 --> 00:46:13,480
+You're a couple.
+
+1434
+00:46:13,780 --> 00:46:15,580
+You just love watching them flirt.
+
+1435
+00:46:15,800 --> 00:46:17,000
+Move aside.
+
+1436
+00:46:17,000 --> 00:46:18,480
+Don't stand between us.
+
+1437
+00:46:19,120 --> 00:46:20,320
+Am I the third wheel?
+
+1438
+00:46:21,040 --> 00:46:21,360
+Yes.
+
+1439
+00:46:21,640 --> 00:46:22,520
+Fine, I'm leaving.
+
+1440
+00:46:22,520 --> 00:46:23,680
+(I'll get out of your way.)
+You two
+
+1441
+00:46:23,680 --> 00:46:24,360
+sit here.
+
+1442
+00:46:24,600 --> 00:46:25,840
+We're...
+
+1443
+00:46:26,440 --> 00:46:27,320
+a couple.
+
+1444
+00:46:27,440 --> 00:46:28,640
+Alright, no need to repeat it.
+
+1445
+00:46:28,640 --> 00:46:30,000
+(We know you're lovey-dovey.)
+Got it.
+
+1446
+00:46:31,720 --> 00:46:32,120
+Anyway,
+
+1447
+00:46:32,120 --> 00:46:33,440
+we both work here.
+
+1448
+00:46:33,440 --> 00:46:33,840
+That's right.
+
+1449
+00:46:34,320 --> 00:46:36,920
+To me,
+
+1450
+00:46:36,920 --> 00:46:37,720
+she's like a little bunny.
+
+1451
+00:46:37,720 --> 00:46:38,560
+Hold on.
+
+1452
+00:46:38,560 --> 00:46:39,760
+I'm from HR.
+
+1453
+00:46:39,760 --> 00:46:42,680
+(Office romance is forbidden.)
+Company policy prohibits workplace dating.
+
+1454
+00:46:43,040 --> 00:46:44,440
+Did you get my approval?
+
+1455
+00:46:44,440 --> 00:46:47,760
+(Did you file for approval?)
+I'll fire your little bunny.
+
+1456
+00:46:48,080 --> 00:46:50,080
+Don't bring your personal feelings
+
+1457
+00:46:50,080 --> 00:46:51,040
+into work.
+
+1458
+00:46:51,400 --> 00:46:52,520
+Personal feelings? Me?
+
+1459
+00:46:52,640 --> 00:46:53,600
+Did I strike a nerve?
+
+1460
+00:46:53,800 --> 00:46:54,320
+Not at all.
+
+1461
+00:46:54,320 --> 00:46:54,760
+Nope.
+
+1462
+00:46:54,760 --> 00:46:56,120
+(Wolf King refuses to eat your PDA.)
+I'm just being fair.
+
+1463
+00:46:57,400 --> 00:46:58,400
+Alright.
+
+1464
+00:46:58,630 --> 00:46:59,520
+Alright.
+
+1465
+00:47:00,400 --> 00:47:00,720
+Wait,
+
+1466
+00:47:00,720 --> 00:47:02,080
+let me finish checking these two first.
+
+1467
+00:47:02,080 --> 00:47:03,000
+There's also a tablet.
+
+1468
+00:47:03,000 --> 00:47:04,880
+There's a video on it.
+
+1469
+00:47:04,880 --> 00:47:05,760
+Let's take a look.
+
+1470
+00:47:07,190 --> 00:47:08,770
+♪Happy Capybara♪
+
+1471
+00:47:09,320 --> 00:47:10,560
+♪Happy Capybara♪
+
+1472
+00:47:10,560 --> 00:47:17,160
+Happy Capybara.
+
+1473
+00:47:17,160 --> 00:47:19,970
+♪Easygoing capybara,
+using a pile of big guys as a massage♪
+
+1474
+00:47:19,970 --> 00:47:21,910
+♪Showered by splashing water♪
+
+1475
+00:47:21,910 --> 00:47:24,300
+♪Even getting bitten, still smiling♪
+
+1476
+00:47:24,300 --> 00:47:25,530
+♪Happy Capybara♪
+
+1477
+00:47:25,530 --> 00:47:26,200
+♪Whatever, Capybara♪
+
+1478
+00:47:26,200 --> 00:47:27,070
+♪Time to sleep, Capybara♪
+
+1479
+00:47:27,070 --> 00:47:27,590
+(Showing off)
+♪Hehe♪
+
+1480
+00:47:27,590 --> 00:47:28,370
+♪Silly Capybara♪
+
+1481
+00:47:28,510 --> 00:47:30,520
+♪Woo-ah♪
+
+1482
+00:47:30,520 --> 00:47:31,260
+♪Time to sleep, Capybara♪
+
+1483
+00:47:36,380 --> 00:47:37,020
+(PDA overload.)
+
+1484
+00:47:37,040 --> 00:47:39,400
+You're always balancing
+a bunch of stuff on your head.
+
+1485
+00:47:39,400 --> 00:47:41,120
+Is that your special talent?
+
+1486
+00:47:41,840 --> 00:47:43,440
+He's been put through a lot.
+
+1487
+00:47:43,440 --> 00:47:44,440
+Like being made to dance
+
+1488
+00:47:44,440 --> 00:47:45,520
+or perform stunts.
+
+1489
+00:47:47,480 --> 00:47:48,040
+That's right.
+
+1490
+00:47:48,480 --> 00:47:50,440
+I'm a professional motion
+capture performer,
+
+1491
+00:47:50,440 --> 00:47:53,640
+but I also work as a stunt performer.
+
+1492
+00:47:53,640 --> 00:47:56,400
+I take on some of their toughest jobs.
+
+1493
+00:47:56,400 --> 00:47:57,240
+Got it.
+
+1494
+00:47:57,240 --> 00:47:59,400
+It can be mentally
+and physically uncomfortable.
+
+1495
+00:47:59,400 --> 00:48:01,280
+My body takes a lot of strain.
+
+1496
+00:48:01,280 --> 00:48:02,280
+But personality-wise,
+
+1497
+00:48:02,280 --> 00:48:03,360
+I'm a capybara.
+
+1498
+00:48:03,360 --> 00:48:04,520
+So when I think about it,
+
+1499
+00:48:04,520 --> 00:48:05,120
+it's no big deal.
+
+1500
+00:48:05,680 --> 00:48:06,680
+I just laugh it off.
+
+1501
+00:48:07,080 --> 00:48:08,120
+No murderous thoughts?
+
+1502
+00:48:08,640 --> 00:48:10,280
+I really
+
+1503
+00:48:11,120 --> 00:48:12,120
+enjoy my job.
+
+1504
+00:48:13,000 --> 00:48:14,280
+Why's that?
+
+1505
+00:48:16,480 --> 00:48:17,840
+Because my girlfriend and I
+
+1506
+00:48:17,840 --> 00:48:18,760
+work in the same office.
+
+1507
+00:48:19,240 --> 00:48:19,840
+True.
+
+1508
+00:48:20,520 --> 00:48:23,320
+I get it. Your girlfriend
+must be the motive.
+
+1509
+00:48:23,320 --> 00:48:24,840
+Now, what's with this box?
+
+1510
+00:48:27,200 --> 00:48:27,960
+What's going on here?
+
+1511
+00:48:28,720 --> 00:48:30,240
+This happened to your girlfriend, right?
+
+1512
+00:48:30,240 --> 00:48:31,480
+Are your front teeth fake?
+
+1513
+00:48:32,080 --> 00:48:32,600
+Veneers?
+
+1514
+00:48:33,000 --> 00:48:33,600
+Right?
+
+1515
+00:48:35,800 --> 00:48:37,040
+These are her teeth, right?
+
+1516
+00:48:37,120 --> 00:48:38,520
+(Why the bucktooth and broken nails?)
+First, this box
+
+1517
+00:48:39,280 --> 00:48:40,240
+means a lot
+
+1518
+00:48:40,240 --> 00:48:41,360
+to me.
+
+1519
+00:48:41,360 --> 00:48:41,920
+Why?
+
+1520
+00:48:41,920 --> 00:48:43,080
+Because my girlfriend
+
+1521
+00:48:43,720 --> 00:48:45,280
+gave me a box of chocolates.
+
+1522
+00:48:45,280 --> 00:48:46,180
+(A gift from Nan Shy)
+
+1523
+00:48:47,920 --> 00:48:49,760
+These are chocolate nails.
+
+1524
+00:48:51,040 --> 00:48:52,080
+The chocolate box.
+
+1525
+00:48:52,360 --> 00:48:53,600
+I finished the chocolates,
+
+1526
+00:48:53,600 --> 00:48:54,800
+but I kept the box.
+
+1527
+00:48:56,740 --> 00:48:58,220
+(Okay)
+
+1528
+00:48:58,440 --> 00:48:59,920
+What about the things inside?
+
+1529
+00:49:00,520 --> 00:49:02,000
+What's in the box?
+
+1530
+00:49:02,680 --> 00:49:03,560
+My girlfriend has
+
+1531
+00:49:03,560 --> 00:49:04,920
+a total rabbit personality.
+
+1532
+00:49:04,920 --> 00:49:05,840
+She's an introvert.
+
+1533
+00:49:05,840 --> 00:49:07,080
+But one time,
+
+1534
+00:49:07,080 --> 00:49:08,840
+I heard her crying on the phone.
+
+1535
+00:49:08,840 --> 00:49:09,600
+She sounded devastated.
+
+1536
+00:49:09,600 --> 00:49:10,480
+I really wanted to know
+
+1537
+00:49:10,480 --> 00:49:11,480
+what had happened.
+
+1538
+00:49:12,120 --> 00:49:13,760
+The day before yesterday,
+I entered her dorm.
+
+1539
+00:49:13,760 --> 00:49:15,720
+Under her bed,
+
+1540
+00:49:15,720 --> 00:49:19,160
+I found teeth and broken fingernails.
+
+1541
+00:49:20,000 --> 00:49:21,240
+I also found
+
+1542
+00:49:21,240 --> 00:49:22,400
+a pair of bloody pliers.
+
+1543
+00:49:23,900 --> 00:49:27,140
+(Who pulled out Nan Shy's
+teeth and nails?)
+
+1544
+00:49:27,160 --> 00:49:27,680
+I realized
+
+1545
+00:49:27,680 --> 00:49:29,840
+Mr. Tui was behind it all.
+
+1546
+00:49:30,320 --> 00:49:32,120
+He was abusing my girlfriend.
+
+1547
+00:49:32,520 --> 00:49:33,160
+Abusing her?
+
+1548
+00:49:33,160 --> 00:49:35,900
+(Did Tui Haowan pull out
+Nan Shy's teeth and nails?)
+
+1549
+00:49:36,200 --> 00:49:37,880
+I stormed into the office
+
+1550
+00:49:37,880 --> 00:49:38,840
+and confronted Mr. Tui.
+
+1551
+00:49:38,840 --> 00:49:40,600
+He actually said,
+
+1552
+00:49:40,600 --> 00:49:41,680
+"So what if I abused her"?
+
+1553
+00:49:41,680 --> 00:49:42,880
+"What can you do about it"?
+
+1554
+00:49:46,120 --> 00:49:47,280
+"You're my employees".
+
+1555
+00:49:47,280 --> 00:49:48,640
+"I can toy with you however I want".
+
+1556
+00:49:48,740 --> 00:49:50,900
+(Tui Haowan admits
+to abusing his employees?)
+
+1557
+00:49:51,080 --> 00:49:52,880
+So you wanted to kill him?
+
+1558
+00:49:52,880 --> 00:49:54,100
+(Did the boss' abuse of his girlfriend
+drive him to murder?)
+
+1559
+00:49:54,240 --> 00:49:55,920
+So I said, "Fine".
+
+1560
+00:49:55,920 --> 00:49:56,440
+Then I left.
+
+1561
+00:49:59,520 --> 00:50:00,280
+No way.
+
+1562
+00:50:00,280 --> 00:50:01,000
+That's definitely not what happened.
+
+1563
+00:50:01,440 --> 00:50:02,240
+He's
+
+1564
+00:50:02,240 --> 00:50:04,080
+a very chill capybara.
+
+1565
+00:50:04,240 --> 00:50:05,680
+Right. He just walked off
+with grass in his mouth.
+
+1566
+00:50:09,880 --> 00:50:10,600
+I thought,
+
+1567
+00:50:10,600 --> 00:50:12,160
+"I can't beat him".
+
+1568
+00:50:12,160 --> 00:50:12,760
+"I can't out-argue him either".
+
+1569
+00:50:12,760 --> 00:50:14,240
+"I'll just take
+my girlfriend and leave".
+
+1570
+00:50:14,440 --> 00:50:15,400
+Could you leave?
+
+1571
+00:50:16,680 --> 00:50:18,960
+The moment we stepped outside,
+
+1572
+00:50:18,960 --> 00:50:21,160
+we suddenly felt dizzy.
+
+1573
+00:50:21,160 --> 00:50:22,800
+Then we were teleported back
+into the office.
+
+1574
+00:50:22,800 --> 00:50:23,600
+Teleported?
+
+1575
+00:50:24,040 --> 00:50:24,800
+Teleported?
+
+1576
+00:50:26,320 --> 00:50:26,960
+Yes.
+
+1577
+00:50:27,080 --> 00:50:29,280
+The building had
+become impossible to escape.
+
+1578
+00:50:31,960 --> 00:50:32,800
+I see.
+
+1579
+00:50:32,800 --> 00:50:34,600
+So there's another rule.
+
+1580
+00:50:34,600 --> 00:50:36,320
+None of us can leave the company.
+
+1581
+00:50:37,860 --> 00:50:39,980
+(The employees can't leave the company)
+
+1582
+00:50:40,200 --> 00:50:41,000
+Then what?
+
+1583
+00:50:41,640 --> 00:50:43,800
+So he had to kill the boss to escape.
+
+1584
+00:50:44,680 --> 00:50:45,560
+Got it.
+
+1585
+00:50:46,300 --> 00:50:47,420
+(He Struggle's motive: He discovered
+Mr. Tui was abusing his girlfriend)
+
+1586
+00:50:47,420 --> 00:50:48,780
+(After failing to escape with her,
+he planned to kill Mr. Tui and leave)
+
+1587
+00:50:49,320 --> 00:50:50,640
+Take a look
+
+1588
+00:50:51,040 --> 00:50:52,200
+at this workstation.
+
+1589
+00:50:57,600 --> 00:50:58,360
+Look.
+
+1590
+00:50:58,880 --> 00:51:00,120
+In every photo,
+
+1591
+00:51:00,120 --> 00:51:02,240
+she has a bucktooth.
+
+1592
+00:51:02,240 --> 00:51:05,660
+(Nan Shy used to have a bucktooth)
+
+1593
+00:51:05,660 --> 00:51:07,660
+(The bucktooth that was pulled out)
+
+1594
+00:51:08,960 --> 00:51:11,040
+Why are all these pens chewed up?
+
+1595
+00:51:11,140 --> 00:51:13,020
+(Bite marks on every pen)
+
+1596
+00:51:13,040 --> 00:51:14,680
+I get really stressed,
+
+1597
+00:51:14,680 --> 00:51:16,560
+so I like chewing on pens.
+
+1598
+00:51:16,620 --> 00:51:18,180
+(Does Nan Shy chew pens
+to relieve stress?)
+
+1599
+00:51:18,800 --> 00:51:19,400
+Wait.
+
+1600
+00:51:19,840 --> 00:51:21,200
+My boyfriend
+
+1601
+00:51:21,200 --> 00:51:22,720
+gave me these stress-relief
+
+1602
+00:51:23,800 --> 00:51:24,640
+toys.
+
+1603
+00:51:25,240 --> 00:51:26,360
+See how sweet we are?
+
+1604
+00:51:26,420 --> 00:51:27,860
+(Feels great too)
+
+1605
+00:51:28,240 --> 00:51:28,920
+Did you draw this?
+
+1606
+00:51:28,920 --> 00:51:30,080
+Are you an animator?
+
+1607
+00:51:30,080 --> 00:51:31,640
+I'm a game designer.
+
+1608
+00:51:31,840 --> 00:51:33,840
+(Nan Shy is a game designer)
+She designs games. I do motion capture.
+
+1609
+00:51:33,840 --> 00:51:35,560
+We're the perfect team.
+
+1610
+00:51:36,200 --> 00:51:37,160
+A perfect match.
+
+1611
+00:51:37,460 --> 00:51:39,040
+(We're full, thanks)
+
+1612
+00:51:39,040 --> 00:51:40,480
+How long have you been together?
+
+1613
+00:51:40,760 --> 00:51:41,560
+A long time.
+
+1614
+00:51:41,880 --> 00:51:43,160
+Longer than you'd think.
+
+1615
+00:51:43,160 --> 00:51:44,140
+(So sweet)
+
+1616
+00:51:44,800 --> 00:51:46,640
+You have to keep saying it, huh?
+
+1617
+00:51:47,000 --> 00:51:48,240
+Because you keep asking.
+
+1618
+00:51:48,240 --> 00:51:49,100
+(Pretty in pink, savage with words)
+
+1619
+00:51:52,280 --> 00:51:53,360
+Let's find some evidence.
+
+1620
+00:51:53,360 --> 00:51:54,460
+(Career-driven pup)
+
+1621
+00:51:54,960 --> 00:51:56,440
+♪Capybara♪
+
+1622
+00:51:56,960 --> 00:52:01,360
+♪Capybara♪
+
+1623
+00:52:05,040 --> 00:52:06,040
+Did you notice?
+
+1624
+00:52:06,040 --> 00:52:07,920
+It's electrified.
+
+1625
+00:52:08,180 --> 00:52:10,620
+(Why is Nan Shy's locker electrified?)
+
+1626
+00:52:10,800 --> 00:52:11,720
+Grab something.
+
+1627
+00:52:11,720 --> 00:52:12,240
+Get a tool.
+
+1628
+00:52:12,920 --> 00:52:13,920
+Use a pen.
+
+1629
+00:52:13,920 --> 00:52:14,820
+(Physics-savvy Capybara)
+
+1630
+00:52:16,880 --> 00:52:17,880
+(Won't open)
+None of them work?
+
+1631
+00:52:23,160 --> 00:52:24,160
+This one works.
+
+1632
+00:52:25,920 --> 00:52:26,600
+There's a hand here!
+
+1633
+00:52:26,600 --> 00:52:27,240
+What?
+
+1634
+00:52:28,320 --> 00:52:28,990
+(This fictional story contains)
+Man.
+
+1635
+00:52:28,990 --> 00:52:29,280
+(horror elements)
+Man.
+
+1636
+00:52:29,280 --> 00:52:30,840
+This should connect
+
+1637
+00:52:30,840 --> 00:52:31,720
+with Jin's clue.
+
+1638
+00:52:33,380 --> 00:52:35,460
+(This is a revenge ?? man)
+
+1639
+00:52:35,800 --> 00:52:37,400
+What kind of revenge?
+
+1640
+00:52:37,880 --> 00:52:38,720
+An animal's.
+
+1641
+00:52:39,480 --> 00:52:39,920
+Animal?
+
+1642
+00:52:40,480 --> 00:52:40,720
+Right.
+
+1643
+00:52:40,720 --> 00:52:41,240
+Maybe.
+
+1644
+00:52:41,240 --> 00:52:43,460
+(Is this an animal's revenge?)
+
+1645
+00:52:43,500 --> 00:52:44,920
+(The search continues)
+
+1646
+00:52:44,920 --> 00:52:45,640
+It's open.
+
+1647
+00:52:45,980 --> 00:52:47,540
+(Game concept: Fridge-Raiding Rabbit)
+
+1648
+00:52:47,880 --> 00:52:48,760
+What's this?
+
+1649
+00:52:48,920 --> 00:52:50,080
+These are my designs.
+
+1650
+00:52:50,080 --> 00:52:50,920
+I design normal
+
+1651
+00:52:50,920 --> 00:52:51,560
+games,
+
+1652
+00:52:51,560 --> 00:52:53,240
+but my boss makes me
+
+1653
+00:52:53,240 --> 00:52:55,000
+(Turbo Toilet Bike)
+make them more ridiculous.
+
+1654
+00:52:55,000 --> 00:52:55,720
+What about this?
+
+1655
+00:52:55,720 --> 00:52:56,680
+And this?
+
+1656
+00:52:56,680 --> 00:52:59,200
+In this game, you spend less
+
+1657
+00:52:59,200 --> 00:53:00,680
+(Rabbit Monopoly)
+and travel farther to win.
+
+1658
+00:53:00,680 --> 00:53:02,600
+Getting these money-saving cards
+
+1659
+00:53:02,600 --> 00:53:04,000
+is the key.
+
+1660
+00:53:04,000 --> 00:53:05,680
+Nice. You got it right away.
+
+1661
+00:53:05,920 --> 00:53:07,960
+And doesn't this look just like
+
+1662
+00:53:07,960 --> 00:53:09,720
+the Tongcheng Travel app?
+
+1663
+00:53:09,720 --> 00:53:12,440
+Search "Super Hotel Savings" in the app.
+
+1664
+00:53:12,440 --> 00:53:14,920
+Win red envelopes worth up to 300 yuan.
+
+1665
+00:53:14,920 --> 00:53:16,480
+Stay four weekend nights
+and get one free.
+
+1666
+00:53:16,960 --> 00:53:18,240
+That saves a lot.
+
+1667
+00:53:18,240 --> 00:53:19,320
+Isn't that the game's
+
+1668
+00:53:19,320 --> 00:53:20,720
+Super Discount Card?
+
+1669
+00:53:21,440 --> 00:53:22,960
+Fine, you get the "spend less" part.
+
+1670
+00:53:22,960 --> 00:53:24,520
+What about "travel farther"?
+
+1671
+00:53:24,880 --> 00:53:27,320
+Whether you're traveling
+at home or abroad,
+
+1672
+00:53:27,560 --> 00:53:28,680
+book hotels and flights
+
+1673
+00:53:28,680 --> 00:53:30,640
+all in one place with Tongcheng Travel.
+
+1674
+00:53:30,640 --> 00:53:32,400
+I also found a hidden perk.
+
+1675
+00:53:32,840 --> 00:53:33,720
+What?
+
+1676
+00:53:33,720 --> 00:53:34,840
+On Tongcheng Travel,
+
+1677
+00:53:34,840 --> 00:53:36,800
+you can get cashback on every booking.
+
+1678
+00:53:36,800 --> 00:53:38,760
+Isn't that a Super Cashback Card?
+
+1679
+00:53:39,640 --> 00:53:40,560
+I found a way
+
+1680
+00:53:40,560 --> 00:53:43,040
+to put all Tongcheng Travel's
+savings tricks
+
+1681
+00:53:43,040 --> 00:53:43,920
+into the game.
+
+1682
+00:53:43,920 --> 00:53:45,000
+Finally, someone gets me.
+
+1683
+00:53:45,560 --> 00:53:47,360
+Nice.
+
+1684
+00:53:49,900 --> 00:53:51,340
+(Box)
+
+1685
+00:53:55,880 --> 00:53:56,840
+But what's this?
+
+1686
+00:53:56,840 --> 00:53:57,680
+What's with these photos?
+
+1687
+00:53:57,680 --> 00:53:58,760
+They're all...
+
+1688
+00:53:58,920 --> 00:54:00,840
+Photos of you being tormented.
+
+1689
+00:54:02,560 --> 00:54:05,480
+He's been getting beaten to a pulp.
+
+1690
+00:54:05,540 --> 00:54:07,140
+(Did Tui Haowan beat He Struggle
+during motion capture training?)
+
+1691
+00:54:07,160 --> 00:54:08,200
+I'd ask if it hurt,
+
+1692
+00:54:08,200 --> 00:54:09,520
+and he'd always say no.
+
+1693
+00:54:09,520 --> 00:54:11,480
+But I don't think he was acting.
+
+1694
+00:54:11,480 --> 00:54:13,300
+(Can't he feel pain when he's beaten?)
+
+1695
+00:54:13,320 --> 00:54:14,600
+I thought that was strange,
+
+1696
+00:54:14,600 --> 00:54:16,120
+so I made a journal.
+
+1697
+00:54:16,140 --> 00:54:17,320
+(Nan Shy's journal)
+
+1698
+00:54:17,320 --> 00:54:18,400
+Ultimate capybara.
+
+1699
+00:54:18,640 --> 00:54:19,680
+Thick-skinned and tough.
+
+1700
+00:54:19,680 --> 00:54:20,120
+And then?
+
+1701
+00:54:20,120 --> 00:54:21,520
+Is this the grass he eats?
+
+1702
+00:54:21,520 --> 00:54:22,440
+His fur.
+
+1703
+00:54:22,920 --> 00:54:24,080
+Because his legs...
+
+1704
+00:54:24,080 --> 00:54:25,280
+One day, while we were eating,
+
+1705
+00:54:25,280 --> 00:54:26,360
+I noticed his legs had lots
+
+1706
+00:54:26,360 --> 00:54:27,400
+of capybara fur.
+
+1707
+00:54:27,640 --> 00:54:29,280
+Capybara fur?
+
+1708
+00:54:29,340 --> 00:54:31,140
+(He Struggle is growing
+capybara fur on his legs?)
+
+1709
+00:54:31,680 --> 00:54:32,640
+No, it
+
+1710
+00:54:32,640 --> 00:54:33,960
+grew there naturally.
+
+1711
+00:54:34,480 --> 00:54:35,440
+(Premium long fur)
+Yeah, it's leg hair.
+
+1712
+00:54:37,040 --> 00:54:37,800
+Right.
+
+1713
+00:54:38,480 --> 00:54:40,400
+He's just a furry animal.
+
+1714
+00:54:40,400 --> 00:54:42,680
+Yeah, I'm very hairy.
+
+1715
+00:54:42,680 --> 00:54:44,080
+You're turning into a capybara?
+
+1716
+00:54:44,080 --> 00:54:45,080
+A capybara?
+
+1717
+00:54:46,920 --> 00:54:47,960
+But I didn't know.
+
+1718
+00:54:48,680 --> 00:54:49,880
+You didn't know about this?
+
+1719
+00:54:49,880 --> 00:54:51,520
+You didn't tell him,
+
+1720
+00:54:51,520 --> 00:54:52,240
+Nan Shy?
+
+1721
+00:54:53,800 --> 00:54:55,000
+I didn't want to hurt his pride.
+
+1722
+00:54:55,000 --> 00:54:55,480
+What else is in the box?
+
+1723
+00:54:55,640 --> 00:54:56,720
+Look how sweet she is.
+
+1724
+00:54:57,140 --> 00:54:58,340
+(Still showing off)
+
+1725
+00:54:58,560 --> 00:55:01,320
+I also bought a bunch
+of that hair removal...
+
+1726
+00:55:01,320 --> 00:55:02,240
+Hair removal cream.
+
+1727
+00:55:02,240 --> 00:55:03,560
+I mixed it into your body wash,
+
+1728
+00:55:03,560 --> 00:55:04,680
+hoping no one would notice
+
+1729
+00:55:04,680 --> 00:55:05,600
+you were becoming a capybara.
+
+1730
+00:55:05,760 --> 00:55:07,280
+Turns out it was shampoo.
+
+1731
+00:55:07,460 --> 00:55:09,060
+(Hair in danger)
+
+1732
+00:55:11,160 --> 00:55:13,000
+(Farm animal)
+Easygoing, eats grass, no meat.
+
+1733
+00:55:13,000 --> 00:55:13,560
+That's not true.
+
+1734
+00:55:13,560 --> 00:55:15,200
+He just ate several crispy beef bites.
+
+1735
+00:55:17,080 --> 00:55:17,880
+He's still human.
+
+1736
+00:55:17,920 --> 00:55:18,800
+He's still human.
+
+1737
+00:55:18,820 --> 00:55:20,220
+(Work in progress)
+
+1738
+00:55:20,480 --> 00:55:22,040
+Spends most of his time eating.
+
+1739
+00:55:22,040 --> 00:55:22,840
+That does sound like him.
+
+1740
+00:55:22,840 --> 00:55:23,840
+He's giving that vibe now.
+
+1741
+00:55:23,840 --> 00:55:24,520
+Yeah.
+
+1742
+00:55:24,580 --> 00:55:36,300
+(Still eating)
+
+1743
+00:55:36,680 --> 00:55:37,760
+Definitely that vibe.
+
+1744
+00:55:37,760 --> 00:55:38,920
+He just keeps eating.
+
+1745
+00:55:38,920 --> 00:55:41,560
+Their calls include barking,
+squealing, and whistling.
+
+1746
+00:55:41,560 --> 00:55:43,440
+Lately, he's started whistling
+
+1747
+00:55:43,840 --> 00:55:44,280
+to me.
+
+1748
+00:55:48,960 --> 00:55:49,720
+Just like that.
+
+1749
+00:55:50,960 --> 00:55:51,840
+I get it now.
+
+1750
+00:55:51,840 --> 00:55:54,640
+So when he turns into an animal,
+
+1751
+00:55:54,640 --> 00:55:56,440
+another personality comes out.
+
+1752
+00:55:57,920 --> 00:55:59,080
+Not a personality. His habits.
+
+1753
+00:55:59,080 --> 00:55:59,880
+His habits.
+
+1754
+00:55:59,880 --> 00:56:01,200
+(His habits become more capybara-like)
+Even his diet will change.
+
+1755
+00:56:01,200 --> 00:56:01,840
+And his...
+
+1756
+00:56:01,840 --> 00:56:03,720
+Even his physical features will change.
+
+1757
+00:56:04,040 --> 00:56:04,640
+And he'll...
+
+1758
+00:56:04,640 --> 00:56:05,760
+Look at this.
+
+1759
+00:56:05,760 --> 00:56:06,840
+He's this tall now.
+
+1760
+00:56:06,840 --> 00:56:07,800
+He'll slowly become...
+
+1761
+00:56:08,060 --> 00:56:08,860
+(Mini version)
+
+1762
+00:56:09,160 --> 00:56:10,120
+He'll shrink.
+
+1763
+00:56:11,040 --> 00:56:12,360
+I don't want that!
+
+1764
+00:56:12,680 --> 00:56:13,160
+Wait.
+
+1765
+00:56:13,160 --> 00:56:14,760
+You wouldn't love him like this?
+
+1766
+00:56:14,920 --> 00:56:15,840
+What she's asking is,
+
+1767
+00:56:15,840 --> 00:56:17,600
+"is interspecies romance okay"?
+
+1768
+00:56:17,600 --> 00:56:20,880
+"Even if he's a "super hot" capybara"?
+
+1769
+00:56:21,000 --> 00:56:22,000
+You hesitated?
+
+1770
+00:56:22,000 --> 00:56:22,960
+I hesitated.
+
+1771
+00:56:23,320 --> 00:56:24,280
+Even if she doesn't love me,
+
+1772
+00:56:24,280 --> 00:56:25,520
+I can still stay by her side.
+
+1773
+00:56:27,240 --> 00:56:29,000
+No, she doesn't want or keep you.
+
+1774
+00:56:29,000 --> 00:56:29,920
+(Clear-headed wolf king)
+Once you become an animal,
+
+1775
+00:56:29,920 --> 00:56:31,440
+she'll put you in a cage as a pet.
+
+1776
+00:56:31,440 --> 00:56:32,720
+She'll feed you some grass every day.
+
+1777
+00:56:32,720 --> 00:56:34,040
+That's still companionship.
+
+1778
+00:56:34,040 --> 00:56:35,180
+(Don't bother, he's hopelessly in love)
+
+1779
+00:56:36,680 --> 00:56:38,040
+No, I wanted to take him outside.
+
+1780
+00:56:38,040 --> 00:56:39,400
+Then we realized neither
+of us could leave.
+
+1781
+00:56:40,360 --> 00:56:41,600
+I felt miserable.
+
+1782
+00:56:41,600 --> 00:56:42,880
+My boss keeps exploiting me
+
+1783
+00:56:42,880 --> 00:56:43,960
+and my boyfriend.
+
+1784
+00:56:43,960 --> 00:56:44,760
+I just felt so...
+
+1785
+00:56:44,760 --> 00:56:45,480
+I wanted to escape,
+
+1786
+00:56:45,480 --> 00:56:46,400
+but I couldn't.
+
+1787
+00:56:46,560 --> 00:56:48,480
+So you wanted to kill someone?
+
+1788
+00:56:49,800 --> 00:56:50,920
+No.
+
+1789
+00:56:51,160 --> 00:56:51,920
+I won't accept
+
+1790
+00:56:51,920 --> 00:56:53,840
+that accusation from you,
+you wicked woman.
+
+1791
+00:56:54,280 --> 00:56:55,720
+Point at me again.
+
+1792
+00:56:56,840 --> 00:56:59,400
+(Then I'll point at myself)
+Even though we both
+
+1793
+00:56:59,400 --> 00:57:01,120
+hold a massive grudge,
+
+1794
+00:57:01,120 --> 00:57:02,720
+remember what we're like.
+
+1795
+00:57:02,720 --> 00:57:03,160
+Right.
+
+1796
+00:57:03,160 --> 00:57:03,840
+One's a capybara,
+
+1797
+00:57:03,840 --> 00:57:04,720
+and one's an introvert.
+
+1798
+00:57:04,720 --> 00:57:05,400
+Right.
+
+1799
+00:57:05,400 --> 00:57:06,880
+(Perfect setup)
+We won't...
+
+1800
+00:57:06,880 --> 00:57:08,240
+(Perfect follow-up)
+We just take it lying down.
+
+1801
+00:57:08,240 --> 00:57:08,920
+Exactly.
+
+1802
+00:57:08,940 --> 00:57:10,980
+(He Struggle and Nan Shy won't
+kill because of their personalities?)
+
+1803
+00:57:11,000 --> 00:57:12,360
+Anything else, guys?
+
+1804
+00:57:13,520 --> 00:57:14,640
+This.
+
+1805
+00:57:14,860 --> 00:57:15,640
+(Toy bunny)
+
+1806
+00:57:15,640 --> 00:57:17,080
+This is my bunny.
+
+1807
+00:57:17,560 --> 00:57:18,080
+Press me.
+
+1808
+00:57:19,560 --> 00:57:20,600
+Almost there.
+
+1809
+00:57:21,240 --> 00:57:22,360
+Judging by how he looks,
+
+1810
+00:57:22,360 --> 00:57:24,760
+(Case-solving little fox)
+he's almost a full-on capybara.
+
+1811
+00:57:25,560 --> 00:57:28,240
+Tomorrow, I'll send someone
+tougher to fight him.
+
+1812
+00:57:28,600 --> 00:57:30,240
+Let's see how long he lasts!
+
+1813
+00:57:30,560 --> 00:57:31,080
+What?
+
+1814
+00:57:32,120 --> 00:57:34,120
+You're not using
+your boyfriend, are you?
+
+1815
+00:57:34,680 --> 00:57:35,280
+What?
+
+1816
+00:57:36,280 --> 00:57:36,880
+That wasn't me.
+
+1817
+00:57:36,880 --> 00:57:37,360
+Say that again.
+
+1818
+00:57:37,480 --> 00:57:39,120
+Don't ruin our relationship.
+
+1819
+00:57:39,120 --> 00:57:40,080
+Keep listening.
+
+1820
+00:57:40,080 --> 00:57:41,000
+There's more.
+
+1821
+00:57:41,240 --> 00:57:43,160
+Animals are just beasts.
+
+1822
+00:57:43,160 --> 00:57:45,080
+Making us humans happy
+
+1823
+00:57:45,080 --> 00:57:47,480
+is the greatest purpose they have.
+
+1824
+00:57:47,720 --> 00:57:49,520
+They keep us happy every day?
+
+1825
+00:57:49,520 --> 00:57:50,600
+One day,
+
+1826
+00:57:50,600 --> 00:57:51,760
+I
+
+1827
+00:57:51,760 --> 00:57:52,560
+forgot something,
+
+1828
+00:57:52,560 --> 00:57:53,840
+so I came back.
+
+1829
+00:57:53,840 --> 00:57:55,200
+When I came in to get it,
+
+1830
+00:57:55,200 --> 00:57:56,840
+I suddenly heard the boss talking.
+
+1831
+00:57:56,840 --> 00:57:58,080
+He was on the phone.
+
+1832
+00:57:58,600 --> 00:58:00,920
+(Recording from the toy bunny)
+The boss knew all along
+
+1833
+00:58:00,920 --> 00:58:02,240
+(Recorded during Tui Haowan's call)
+that you'd become a capybara.
+
+1834
+00:58:02,480 --> 00:58:04,600
+I'm becoming a capybara
+because of the boss?
+
+1835
+00:58:04,600 --> 00:58:04,960
+Yes.
+
+1836
+00:58:04,960 --> 00:58:06,960
+(Did Tui Haowan orchestrate
+He Struggle's transformation?)
+
+1837
+00:58:06,960 --> 00:58:09,320
+So it really is revenge against humans.
+
+1838
+00:58:09,320 --> 00:58:10,640
+Animals taking revenge on humans.
+
+1839
+00:58:10,980 --> 00:58:11,900
+(This is revenge by what species?)
+
+1840
+00:58:11,900 --> 00:58:13,340
+(Are animals taking revenge on humans?)
+
+1841
+00:58:13,560 --> 00:58:15,080
+But these animals
+
+1842
+00:58:15,080 --> 00:58:16,280
+were abused by humans.
+
+1843
+00:58:16,800 --> 00:58:18,160
+Right, just like me.
+
+1844
+00:58:18,160 --> 00:58:19,360
+(Theory: The killer is an animal)
+Because you became an animal,
+
+1845
+00:58:19,360 --> 00:58:20,040
+(It killed Tui after being abused)
+they think
+
+1846
+00:58:20,040 --> 00:58:21,440
+you're meant to be abused
+
+1847
+00:58:21,440 --> 00:58:22,400
+and put on display.
+
+1848
+00:58:22,400 --> 00:58:24,960
+Or maybe you were an animal all along.
+
+1849
+00:58:26,120 --> 00:58:26,880
+Here's the thing.
+
+1850
+00:58:26,880 --> 00:58:27,720
+There are two possibilities.
+
+1851
+00:58:27,720 --> 00:58:28,600
+The first
+
+1852
+00:58:28,600 --> 00:58:31,000
+is that we were animals to begin with.
+
+1853
+00:58:31,000 --> 00:58:31,600
+(Theory: 1. Everyone
+was originally an animal)
+
+1854
+00:58:31,600 --> 00:58:31,880
+Right?
+
+1855
+00:58:31,880 --> 00:58:32,480
+You became human,
+
+1856
+00:58:32,480 --> 00:58:33,560
+but they still abuse you
+
+1857
+00:58:33,560 --> 00:58:34,320
+like it's perfectly normal,
+
+1858
+00:58:34,320 --> 00:58:35,640
+because that's supposedly your purpose.
+
+1859
+00:58:35,960 --> 00:58:36,880
+Right.
+
+1860
+00:58:36,880 --> 00:58:37,640
+The second possibility
+
+1861
+00:58:37,640 --> 00:58:39,200
+is that this company
+
+1862
+00:58:39,200 --> 00:58:41,680
+is some kind of alternate dimension.
+
+1863
+00:58:41,680 --> 00:58:44,280
+(1. Everyone was originally an animal)
+It turns people like us into animals.
+
+1864
+00:58:44,280 --> 00:58:45,440
+(2. Company turns people into animals)
+Once we're animals,
+
+1865
+00:58:45,440 --> 00:58:46,720
+abusing us seems justified.
+
+1866
+00:58:47,120 --> 00:58:47,960
+Yes.
+
+1867
+00:58:47,960 --> 00:58:49,000
+There's one more possibility.
+
+1868
+00:58:49,000 --> 00:58:50,040
+We're actually animals.
+
+1869
+00:58:50,040 --> 00:58:51,600
+We just think we're human.
+
+1870
+00:58:51,700 --> 00:58:52,560
+(3. Everyone was originally
+an animal but thinks they're human)
+
+1871
+00:58:52,560 --> 00:58:53,120
+Really?
+
+1872
+00:58:53,120 --> 00:58:53,280
+Yes.
+
+1873
+00:58:55,200 --> 00:58:55,920
+You're a fish.
+
+1874
+00:58:55,920 --> 00:58:57,400
+How'd you suddenly become a pig?
+
+1875
+00:58:58,620 --> 00:59:00,860
+(Mermaid transformed into a mini pig)
+
+1876
+00:59:01,040 --> 00:59:02,400
+Now we have a motive too.
+
+1877
+00:59:02,400 --> 00:59:02,760
+Right.
+
+1878
+00:59:02,760 --> 00:59:04,280
+Her motive was
+
+1879
+00:59:04,280 --> 00:59:05,400
+the boss abusing him.
+
+1880
+00:59:05,400 --> 00:59:06,080
+(Nan Shy's motive:)
+What's the second one?
+
+1881
+00:59:06,080 --> 00:59:07,360
+(1. He Struggle was abused by Tui)
+She wanted to escape the company.
+
+1882
+00:59:07,380 --> 00:59:09,080
+(2. She failed to escape with He
+and wanted to kill Tui before leaving)
+
+1883
+00:59:09,080 --> 00:59:09,440
+Alright.
+
+1884
+00:59:09,640 --> 00:59:10,840
+Let's head to Ke's place.
+
+1885
+00:59:10,840 --> 00:59:12,680
+The one next to his sister earlier.
+
+1886
+00:59:13,160 --> 00:59:14,160
+I have a question.
+
+1887
+00:59:14,160 --> 00:59:15,360
+Those words
+
+1888
+00:59:15,360 --> 00:59:16,520
+written on the severed limbs,
+
+1889
+00:59:16,520 --> 00:59:17,240
+have we...
+
+1890
+00:59:17,240 --> 00:59:18,320
+(Concerned suspect)
+We wrote them all down.
+
+1891
+00:59:18,440 --> 00:59:20,160
+Ding wrote them down.
+
+1892
+00:59:20,160 --> 00:59:21,000
+I wrote them down.
+
+1893
+00:59:21,280 --> 00:59:21,560
+Let's go.
+
+1894
+00:59:23,380 --> 00:59:24,100
+(Returning)
+
+1895
+00:59:24,120 --> 00:59:25,560
+Is there any key evidence here?
+
+1896
+00:59:25,720 --> 00:59:26,680
+Key evidence?
+
+1897
+00:59:27,560 --> 00:59:28,760
+I've been watching closely
+
+1898
+00:59:28,760 --> 00:59:29,680
+(Unlock the team's best moments early)
+to see whether any of them
+
+1899
+00:59:29,680 --> 00:59:31,680
+(Every Tuesday noon, Dungeon Unlocking)
+has a red marker.
+
+1900
+00:59:31,760 --> 00:59:32,600
+Why?
+
+1901
+00:59:32,880 --> 00:59:33,560
+Because of this.
+
+1902
+00:59:33,920 --> 00:59:35,120
+The writing on that, right?
+
+1903
+00:59:35,120 --> 00:59:35,760
+Did you find one?
+
+1904
+00:59:35,840 --> 00:59:36,680
+No.
+
+1905
+00:59:37,240 --> 00:59:38,000
+Then no one has one.
+
+1906
+00:59:39,660 --> 00:59:41,740
+(Break room)
+
+1907
+00:59:46,380 --> 00:59:48,340
+(New area unlocked: Break room)
+
+1908
+00:59:54,680 --> 00:59:55,880
+Look at your tiny bones.
+
+1909
+00:59:55,980 --> 00:59:57,300
+(Doesn't budge)
+
+1910
+00:59:57,520 --> 00:59:58,920
+I'm scared to touch any handles now.
+
+1911
+00:59:58,920 --> 00:59:59,780
+(Post-shock trauma)
+
+1912
+01:00:00,600 --> 01:00:01,600
+Where's my meal card?
+
+1913
+01:00:01,760 --> 01:00:02,840
+Where's my meal card?
+
+1914
+01:00:02,860 --> 01:00:04,040
+(Truth Supply Station drops randomly.
+Stay tuned for food and chats!)
+
+1915
+01:00:04,040 --> 01:00:04,760
+(Ning Watcha: +100 stamina)
+Okay, check-in complete.
+
+1916
+01:00:05,660 --> 01:00:06,980
+(A step too late)
+
+1917
+01:00:07,200 --> 01:00:07,600
+You don't have to.
+
+1918
+01:00:07,600 --> 01:00:08,080
+You don't have to fight for it.
+
+1919
+01:00:08,080 --> 01:00:09,640
+You've definitely
+got enough money today.
+
+1920
+01:00:09,640 --> 01:00:10,800
+(Plenty of savings)
+Our savings from last time.
+
+1921
+01:00:12,920 --> 01:00:13,440
+Humans.
+
+1922
+01:00:13,440 --> 01:00:15,460
+(This fictional story
+contains horror elements)
+
+1923
+01:00:15,480 --> 01:00:16,240
+You were absolutely right.
+
+1924
+01:00:16,240 --> 01:00:17,160
+It's about humans.
+
+1925
+01:00:17,720 --> 01:00:18,880
+This is
+
+1926
+01:00:19,640 --> 01:00:22,400
+revenge against humanity.
+
+1927
+01:00:23,580 --> 01:00:27,380
+(This is revenge against humanity)
+
+1928
+01:00:28,080 --> 01:00:29,040
+I think this thing moves.
+
+1929
+01:00:31,880 --> 01:00:32,760
+It definitely moves.
+
+1930
+01:00:32,760 --> 01:00:33,280
+Press it.
+
+1931
+01:00:33,280 --> 01:00:33,800
+(Taking it apart)
+
+1932
+01:00:33,800 --> 01:00:34,280
+Don't!
+
+1933
+01:00:34,280 --> 01:00:36,000
+Why do you always pull things out,
+
+1934
+01:00:36,000 --> 01:00:36,640
+He?
+
+1935
+01:00:36,640 --> 01:00:37,320
+You're supposed to push it in.
+
+1936
+01:00:41,580 --> 01:00:42,740
+(Sudden water spray)
+
+1937
+01:00:43,000 --> 01:00:44,920
+That's rude. Who are you yelling at?
+
+1938
+01:00:48,700 --> 01:00:50,740
+(Enjoying the show from the back)
+
+1939
+01:00:54,800 --> 01:00:55,760
+Okay, let's do this.
+
+1940
+01:00:55,760 --> 01:00:56,440
+Go home first. Come on.
+
+1941
+01:00:56,440 --> 01:00:56,960
+Go home.
+
+1942
+01:00:57,320 --> 01:00:58,160
+Shake.
+
+1943
+01:01:00,000 --> 01:01:01,280
+Then, love you.
+
+1944
+01:01:03,820 --> 01:01:04,580
+(Secret door opens)
+
+1945
+01:01:04,760 --> 01:01:05,760
+It's open!
+
+1946
+01:01:07,000 --> 01:01:08,480
+That's our Wolf King.
+
+1947
+01:01:10,120 --> 01:01:11,080
+There's something inside.
+
+1948
+01:01:11,080 --> 01:01:12,160
+Reach inside.
+
+1949
+01:01:12,640 --> 01:01:13,640
+Reach in.
+
+1950
+01:01:13,640 --> 01:01:14,560
+You do it.
+
+1951
+01:01:14,760 --> 01:01:16,000
+No. I'll hold this for him.
+
+1952
+01:01:16,280 --> 01:01:17,200
+("Being polite")
+I'll do it. Hold this.
+
+1953
+01:01:18,440 --> 01:01:18,880
+It's fine.
+
+1954
+01:01:18,960 --> 01:01:20,400
+(Stop fighting, you guys!)
+I'll do it!
+
+1955
+01:01:20,420 --> 01:01:21,860
+(Perfectly calm)
+
+1956
+01:01:21,900 --> 01:01:23,980
+(Ding isn't scared during the day)
+
+1957
+01:01:24,920 --> 01:01:25,640
+There really is a hand.
+
+1958
+01:01:26,640 --> 01:01:27,040
+And...
+
+1959
+01:01:28,400 --> 01:01:29,600
+What's that supposed to mean?
+
+1960
+01:01:29,600 --> 01:01:29,920
+Wait.
+
+1961
+01:01:30,520 --> 01:01:32,120
+Why does it keep holding my hand?
+
+1962
+01:01:33,360 --> 01:01:35,200
+Why is it trimming my nails?
+
+1963
+01:01:35,260 --> 01:01:37,300
+(Why does it trim your nails
+when you reach inside?)
+
+1964
+01:01:40,560 --> 01:01:41,240
+Give me a bone.
+
+1965
+01:01:42,300 --> 01:01:43,940
+(Why does trimming your nails
+give you a bone?)
+
+1966
+01:01:43,960 --> 01:01:44,880
+Press it again.
+
+1967
+01:01:44,880 --> 01:01:45,760
+Press this first.
+
+1968
+01:01:47,240 --> 01:01:47,960
+Then it needs food.
+
+1969
+01:01:47,960 --> 01:01:48,400
+Food.
+
+1970
+01:01:50,280 --> 01:01:50,760
+This.
+
+1971
+01:01:55,480 --> 01:01:56,440
+That opened too.
+
+1972
+01:01:56,440 --> 01:01:57,080
+(He sees the big picture)
+
+1973
+01:01:57,080 --> 01:01:57,560
+There's one here too.
+
+1974
+01:01:59,200 --> 01:01:59,920
+There are so many
+
+1975
+01:02:00,360 --> 01:02:01,440
+snacks here.
+
+1976
+01:02:01,440 --> 01:02:02,640
+(Bones)
+
+1977
+01:02:02,640 --> 01:02:03,720
+Right.
+
+1978
+01:02:03,720 --> 01:02:04,080
+Yeah.
+
+1979
+01:02:04,520 --> 01:02:05,280
+It's a dental chew.
+
+1980
+01:02:05,280 --> 01:02:06,660
+(Another bone?)
+
+1981
+01:02:07,280 --> 01:02:08,120
+There's one more.
+
+1982
+01:02:08,720 --> 01:02:09,480
+There's still one more.
+
+1983
+01:02:09,480 --> 01:02:10,400
+Who's going?
+
+1984
+01:02:11,080 --> 01:02:11,680
+Bro.
+
+1985
+01:02:11,920 --> 01:02:12,760
+Who can even reach that?
+
+1986
+01:02:15,440 --> 01:02:16,280
+Press it again.
+
+1987
+01:02:16,920 --> 01:02:17,680
+Press it again.
+
+1988
+01:02:17,680 --> 01:02:18,800
+Go home.
+
+1989
+01:02:18,840 --> 01:02:19,520
+Play ball.
+
+1990
+01:02:23,960 --> 01:02:24,920
+Frisbee.
+
+1991
+01:02:25,360 --> 01:02:25,680
+Sorry.
+
+1992
+01:02:25,680 --> 01:02:26,480
+One more time.
+
+1993
+01:02:26,480 --> 01:02:27,560
+(This pup's super competitive)
+One more time.
+
+1994
+01:02:27,560 --> 01:02:28,640
+You're really gonna catch it?
+
+1995
+01:02:35,420 --> 01:02:37,260
+(The pup never misses)
+
+1996
+01:02:39,780 --> 01:02:42,020
+(I'm the best dog in the world)
+
+1997
+01:02:43,260 --> 01:02:43,980
+(Let me play too)
+
+1998
+01:02:44,020 --> 01:02:44,740
+(Here comes the little Frisbee)
+
+1999
+01:02:45,860 --> 01:02:47,180
+(Easy catch)
+
+2000
+01:02:47,600 --> 01:02:48,160
+Watch.
+
+2001
+01:02:48,160 --> 01:02:48,540
+(Watch closely)
+
+2002
+01:02:50,500 --> 01:02:53,940
+(Check out the team's daily routine
+at 12PM every Fri)
+
+2003
+01:02:53,960 --> 01:02:54,720
+He Yiwei.
+
+2004
+01:02:58,500 --> 01:03:00,180
+(Another bone?)
+
+2005
+01:03:00,560 --> 01:03:02,800
+Here's what happened, guys.
+
+2006
+01:03:03,000 --> 01:03:04,200
+I also
+
+2007
+01:03:04,200 --> 01:03:05,400
+joined the company
+
+2008
+01:03:05,400 --> 01:03:07,040
+(Also joined this year)
+this year.
+
+2009
+01:03:07,640 --> 01:03:09,720
+When I first joined the company,
+
+2010
+01:03:09,720 --> 01:03:11,200
+I also worked part-time
+
+2011
+01:03:11,520 --> 01:03:12,320
+(Official cosplayer and salesperson)
+in marketing
+
+2012
+01:03:12,320 --> 01:03:14,280
+and sales.
+
+2013
+01:03:14,760 --> 01:03:16,320
+After I joined,
+
+2014
+01:03:16,320 --> 01:03:18,640
+the first interesting thing I noticed
+
+2015
+01:03:18,640 --> 01:03:20,560
+was the buttons in the break room.
+
+2016
+01:03:20,560 --> 01:03:22,360
+When I pressed them in order,
+
+2017
+01:03:22,360 --> 01:03:23,640
+they first gave me
+
+2018
+01:03:23,640 --> 01:03:24,880
+some of my favorite foods.
+
+2019
+01:03:24,880 --> 01:03:26,000
+Like
+
+2020
+01:03:26,000 --> 01:03:27,120
+instant noodles.
+
+2021
+01:03:27,120 --> 01:03:29,000
+Yeah, spicy snacks.
+
+2022
+01:03:29,000 --> 01:03:30,200
+Stuff like that.
+
+2023
+01:03:30,200 --> 01:03:31,640
+So I kept pressing the button
+
+2024
+01:03:31,640 --> 01:03:32,720
+to get snacks.
+
+2025
+01:03:32,720 --> 01:03:34,280
+Then one day, I noticed
+
+2026
+01:03:34,280 --> 01:03:35,200
+that sometimes,
+
+2027
+01:03:35,200 --> 01:03:37,240
+when I reached into the hole,
+
+2028
+01:03:37,240 --> 01:03:38,960
+there'd be a hand inside
+
+2029
+01:03:38,960 --> 01:03:40,720
+that brushed across mine.
+
+2030
+01:03:40,880 --> 01:03:42,800
+Starting that night,
+
+2031
+01:03:42,800 --> 01:03:45,640
+I really wanted to chew bones.
+
+2032
+01:03:45,780 --> 01:03:46,960
+(He started craving bones?)
+
+2033
+01:03:46,960 --> 01:03:48,080
+Later, I met
+
+2034
+01:03:48,080 --> 01:03:49,320
+the company's boss,
+
+2035
+01:03:49,320 --> 01:03:50,680
+Tui Haowan.
+
+2036
+01:03:50,680 --> 01:03:52,600
+He started making me
+
+2037
+01:03:52,600 --> 01:03:53,400
+sometimes
+
+2038
+01:03:53,400 --> 01:03:55,640
+livestream after work.
+
+2039
+01:03:55,640 --> 01:03:56,320
+Gaming streams.
+
+2040
+01:03:56,320 --> 01:03:58,160
+Yeah, gaming streams and stuff.
+
+2041
+01:03:58,160 --> 01:03:59,240
+He made me do all that.
+
+2042
+01:03:59,240 --> 01:04:00,800
+But since I was little,
+
+2043
+01:04:00,800 --> 01:04:02,600
+I've always been scared of cameras.
+
+2044
+01:04:02,600 --> 01:04:03,920
+Let's examine Ke Uh-Oh.
+
+2045
+01:04:03,920 --> 01:04:04,800
+The results show
+
+2046
+01:04:04,800 --> 01:04:07,280
+the patient has severe social anxiety
+
+2047
+01:04:07,280 --> 01:04:08,640
+and a fear of cameras.
+
+2048
+01:04:08,880 --> 01:04:10,400
+But he forced me to do it.
+
+2049
+01:04:10,590 --> 01:04:11,470
+(Tui forces Ke to livestream overtime)
+Got it.
+
+2050
+01:04:11,760 --> 01:04:13,560
+The boss introduced me by saying,
+
+2051
+01:04:13,560 --> 01:04:15,440
+"Ke Uh-Oh has a special talent".
+
+2052
+01:04:15,440 --> 01:04:16,560
+"He can catch"
+
+2053
+01:04:16,560 --> 01:04:18,560
+"every flying disc".
+
+2054
+01:04:18,560 --> 01:04:19,320
+I told him,
+
+2055
+01:04:19,320 --> 01:04:20,040
+"How's that possible"?
+
+2056
+01:04:20,040 --> 01:04:21,400
+"I've never done that before".
+
+2057
+01:04:21,400 --> 01:04:22,720
+After saying that,
+
+2058
+01:04:23,160 --> 01:04:24,200
+he said, "Don't believe me? Watch".
+
+2059
+01:04:24,200 --> 01:04:25,960
+Then a disc flew out.
+
+2060
+01:04:25,960 --> 01:04:26,360
+And somehow,
+
+2061
+01:04:26,920 --> 01:04:28,400
+I caught it
+
+2062
+01:04:28,400 --> 01:04:29,920
+every single time. Yeah.
+
+2063
+01:04:30,360 --> 01:04:33,280
+You even pole-danced
+on this round table.
+
+2064
+01:04:33,280 --> 01:04:34,280
+What do you have to say?
+
+2065
+01:04:34,340 --> 01:04:36,260
+(So Ke Uh-Oh performed his perfect
+disc-catching trick on the dining table)
+
+2066
+01:04:36,300 --> 01:04:40,580
+(Why does Ke Uh-Oh have ]
+a skill he didn't even know about?)
+
+2067
+01:04:41,600 --> 01:04:42,440
+You're...
+
+2068
+01:04:42,440 --> 01:04:42,880
+I get it.
+
+2069
+01:04:42,880 --> 01:04:44,040
+It happened to him too.
+
+2070
+01:04:44,440 --> 01:04:45,280
+You're already a dog.
+
+2071
+01:04:45,960 --> 01:04:46,800
+He's a dog now.
+
+2072
+01:04:46,800 --> 01:04:47,480
+(Did Ke Uh-Oh turn into an animal too?)
+
+2073
+01:04:47,480 --> 01:04:49,080
+Because he wanted food.
+
+2074
+01:04:49,080 --> 01:04:50,040
+What did he say last?
+
+2075
+01:04:50,040 --> 01:04:51,120
+"I want food, " right?
+
+2076
+01:04:51,120 --> 01:04:52,440
+Right. There's an order.
+
+2077
+01:04:52,440 --> 01:04:54,000
+(The buttons must be pressed in order)
+Like, what do you do after coming home?
+
+2078
+01:04:54,000 --> 01:04:54,800
+(To receive food or toys)
+Those are the rules.
+
+2079
+01:04:54,800 --> 01:04:55,480
+That's the first clue.
+
+2080
+01:04:55,480 --> 01:04:57,320
+Second, when he reaches in,
+
+2081
+01:04:57,320 --> 01:04:58,440
+someone trims his nails.
+
+2082
+01:04:58,440 --> 01:04:59,800
+That means
+
+2083
+01:04:59,800 --> 01:05:01,240
+he's acting like a dog.
+
+2084
+01:05:01,880 --> 01:05:03,320
+(Theory: Ke has turned into an animal)
+And there are dental chews.
+
+2085
+01:05:03,320 --> 01:05:04,000
+Take a bite. Let's see.
+
+2086
+01:05:06,880 --> 01:05:08,400
+Don't say "Okay, okay, okay" anymore.
+
+2087
+01:05:08,400 --> 01:05:09,560
+Say "Woof, woof, woof".
+
+2088
+01:05:11,620 --> 01:05:12,380
+(Hehe)
+
+2089
+01:05:12,640 --> 01:05:13,600
+Keep looking.
+
+2090
+01:05:14,560 --> 01:05:16,120
+This cabinet opens, right?
+
+2091
+01:05:16,440 --> 01:05:17,600
+The cabinet with three bones.
+
+2092
+01:05:18,160 --> 01:05:18,800
+What does that mean?
+
+2093
+01:05:18,800 --> 01:05:19,340
+(How do they open the cabinet?)
+
+2094
+01:05:20,120 --> 01:05:20,680
+Here.
+
+2095
+01:05:21,120 --> 01:05:21,960
+This bone.
+
+2096
+01:05:21,960 --> 01:05:23,120
+Put the three bones here.
+
+2097
+01:05:23,960 --> 01:05:24,560
+Right here.
+
+2098
+01:05:26,000 --> 01:05:26,920
+It opened.
+
+2099
+01:05:27,540 --> 01:05:28,740
+(Phone and notebook)
+
+2100
+01:05:28,760 --> 01:05:29,760
+That's six bones.
+
+2101
+01:05:30,480 --> 01:05:32,240
+Okay.
+
+2102
+01:05:32,240 --> 01:05:35,720
+(The detectives are getting serious)
+Let me uncover the final secret.
+
+2103
+01:05:38,180 --> 01:05:41,380
+(Searching hard for the ultimate clue)
+
+2104
+01:05:41,520 --> 01:05:43,200
+What's the password?
+
+2105
+01:05:43,200 --> 01:05:43,640
+Tell me!
+
+2106
+01:05:43,880 --> 01:05:46,560
+It'd better be my birthday.
+
+2107
+01:05:46,560 --> 01:05:47,560
+If it isn't,
+
+2108
+01:05:47,560 --> 01:05:48,800
+I'm seriously ignoring you.
+
+2109
+01:05:48,800 --> 01:05:49,640
+(Not easy to win over)
+
+2110
+01:05:49,640 --> 01:05:50,720
+The password is "capybara".
+
+2111
+01:05:51,780 --> 01:05:54,060
+(The capybara's involved too?)
+
+2112
+01:05:54,360 --> 01:05:54,800
+Wait.
+
+2113
+01:05:54,800 --> 01:05:55,800
+Let me check this first.
+
+2114
+01:05:55,800 --> 01:05:56,560
+Let's read the notebook.
+
+2115
+01:05:57,000 --> 01:05:59,520
+He joined Tui Games Company
+
+2116
+01:05:59,520 --> 01:06:01,400
+on May 5, 2026.
+
+2117
+01:06:01,800 --> 01:06:02,480
+May 10,
+
+2118
+01:06:02,480 --> 01:06:05,320
+the boss made me
+perform a cheer routine.
+
+2119
+01:06:05,320 --> 01:06:06,640
+I'd only get a bonus if I did it well.
+
+2120
+01:06:07,360 --> 01:06:08,240
+May 11,
+
+2121
+01:06:08,240 --> 01:06:10,600
+the boss privately asked me to perform
+
+2122
+01:06:10,600 --> 01:06:11,360
+the cheer routine for him.
+
+2123
+01:06:11,360 --> 01:06:12,120
+I refused.
+
+2124
+01:06:12,640 --> 01:06:14,480
+May 13, 2026,
+
+2125
+01:06:14,480 --> 01:06:16,360
+my memory's been getting worse so fast.
+
+2126
+01:06:16,360 --> 01:06:18,080
+I think of something I need to do,
+
+2127
+01:06:18,080 --> 01:06:19,240
+then forget it seconds later.
+
+2128
+01:06:19,480 --> 01:06:20,800
+On the 15th, it says,
+
+2129
+01:06:20,800 --> 01:06:23,040
+Why do my ears keep ringing?
+Why am I dizzy
+
+2130
+01:06:23,040 --> 01:06:23,920
+and achy all over?
+
+2131
+01:06:24,200 --> 01:06:26,160
+Probably from doing
+too many pep routines.
+
+2132
+01:06:27,320 --> 01:06:28,360
+I just work too hard.
+
+2133
+01:06:28,520 --> 01:06:29,400
+How is this me?
+
+2134
+01:06:29,420 --> 01:06:30,660
+(Is this Jin Goofy's journal?)
+
+2135
+01:06:30,840 --> 01:06:31,600
+Jin,
+
+2136
+01:06:31,600 --> 01:06:32,840
+you're not human!
+
+2137
+01:06:35,680 --> 01:06:37,160
+This rash just won't go away.
+
+2138
+01:06:37,160 --> 01:06:37,760
+It's driving me crazy.
+
+2139
+01:06:37,760 --> 01:06:38,960
+I'm perfectly fine when I'm off work.
+
+2140
+01:06:38,960 --> 01:06:40,320
+The second I work, I get every illness.
+
+2141
+01:06:40,320 --> 01:06:41,160
+When is this life
+
+2142
+01:06:41,160 --> 01:06:42,280
+ever gonna end?
+
+2143
+01:06:42,280 --> 01:06:43,120
+Jin,
+
+2144
+01:06:43,120 --> 01:06:44,120
+I'm getting you out!
+
+2145
+01:06:45,240 --> 01:06:46,520
+Didn't he just say Jin isn't human?
+
+2146
+01:06:46,520 --> 01:06:47,440
+Now he wants to take her away.
+
+2147
+01:06:47,440 --> 01:06:47,960
+Yeah.
+
+2148
+01:06:48,400 --> 01:06:49,200
+What's that supposed to mean?
+
+2149
+01:06:49,320 --> 01:06:50,080
+"Jin isn't human"
+
+2150
+01:06:50,080 --> 01:06:51,240
+wasn't meant as an insult,
+
+2151
+01:06:51,240 --> 01:06:51,560
+guys.
+
+2152
+01:06:51,720 --> 01:06:53,080
+It still sounded pretty bad to me.
+
+2153
+01:06:53,380 --> 01:06:54,220
+(Explain yourself)
+
+2154
+01:06:54,440 --> 01:06:55,200
+That's not what I meant, Jin.
+
+2155
+01:06:55,200 --> 01:06:56,080
+That's not it.
+
+2156
+01:06:56,200 --> 01:06:58,520
+This journal
+
+2157
+01:06:58,520 --> 01:06:59,320
+dates back to
+
+2158
+01:06:59,320 --> 01:07:00,720
+when I first joined the company.
+
+2159
+01:07:00,720 --> 01:07:02,080
+Back then, Jin was always
+
+2160
+01:07:02,080 --> 01:07:03,240
+full of energy.
+
+2161
+01:07:03,240 --> 01:07:06,480
+She'd dance all the time.
+
+2162
+01:07:06,480 --> 01:07:07,800
+But later, I realized
+
+2163
+01:07:07,800 --> 01:07:08,920
+something was off.
+
+2164
+01:07:08,920 --> 01:07:11,560
+She was dancing way too often.
+
+2165
+01:07:11,800 --> 01:07:14,680
+That's when I found the program.
+
+2166
+01:07:14,680 --> 01:07:16,080
+(Private performance schedule)
+After finding it,
+
+2167
+01:07:16,080 --> 01:07:16,960
+I realized
+
+2168
+01:07:16,960 --> 01:07:20,760
+she had to do tons
+of performances like these.
+
+2169
+01:07:20,760 --> 01:07:22,320
+I wanted to help her escape.
+
+2170
+01:07:22,320 --> 01:07:23,480
+Get her out of here.
+
+2171
+01:07:23,480 --> 01:07:25,600
+So I tried running out of the company.
+
+2172
+01:07:25,840 --> 01:07:28,520
+(Tried escaping to save his sister)
+But like you guys,
+
+2173
+01:07:28,520 --> 01:07:31,160
+I suddenly got dizzy too.
+
+2174
+01:07:31,160 --> 01:07:33,040
+Then I'd forget what happened
+
+2175
+01:07:33,040 --> 01:07:34,560
+and end up back inside the company.
+
+2176
+01:07:35,040 --> 01:07:36,720
+Then I found her journal.
+
+2177
+01:07:37,280 --> 01:07:39,360
+(The journal belongs to Jin Goofy)
+So I kept it with me.
+
+2178
+01:07:39,360 --> 01:07:41,360
+Later, I investigated
+what was happening.
+
+2179
+01:07:41,360 --> 01:07:43,000
+That's when I found her
+
+2180
+01:07:43,480 --> 01:07:45,520
+burning up with a fever.
+
+2181
+01:07:46,000 --> 01:07:48,320
+Worse, her whole body
+started turning white.
+
+2182
+01:07:48,720 --> 01:07:50,080
+When I leaned in for a closer look,
+
+2183
+01:07:50,080 --> 01:07:51,040
+it scared the heck out of me.
+
+2184
+01:07:51,040 --> 01:07:52,520
+My investigation showed
+
+2185
+01:07:52,520 --> 01:07:54,560
+these symptoms matched an animal.
+
+2186
+01:07:54,560 --> 01:07:55,280
+A beluga.
+
+2187
+01:07:55,280 --> 01:07:56,720
+(Jin is a beluga)
+That's how I figured it out.
+
+2188
+01:07:56,720 --> 01:07:58,720
+So in the journal,
+
+2189
+01:07:58,720 --> 01:08:00,600
+on the very last line of the last page,
+
+2190
+01:08:00,600 --> 01:08:01,840
+I wrote,
+
+2191
+01:08:01,840 --> 01:08:02,920
+"Jin, you're not human".
+
+2192
+01:08:03,920 --> 01:08:04,800
+I'm a beluga.
+
+2193
+01:08:04,800 --> 01:08:05,520
+She's a golden beluga.
+
+2194
+01:08:05,640 --> 01:08:06,760
+I'm a platinum beluga.
+
+2195
+01:08:08,640 --> 01:08:09,040
+Right.
+
+2196
+01:08:10,320 --> 01:08:11,000
+Can I ask
+
+2197
+01:08:11,000 --> 01:08:13,040
+if you've noticed you're
+"turning into a dog"?
+
+2198
+01:08:13,560 --> 01:08:14,320
+I have.
+
+2199
+01:08:14,320 --> 01:08:15,120
+(Answering seriously)
+
+2200
+01:08:15,120 --> 01:08:16,320
+So you've noticed it.
+
+2201
+01:08:16,320 --> 01:08:16,720
+Like, you think,
+
+2202
+01:08:16,720 --> 01:08:17,680
+"Why have I been so dog-like lately"?
+
+2203
+01:08:22,200 --> 01:08:23,200
+Do you ever feel that way?
+
+2204
+01:08:23,680 --> 01:08:24,760
+(Seriously)
+I just feel like
+
+2205
+01:08:24,760 --> 01:08:26,920
+yeah, some things I do...
+
+2206
+01:08:29,080 --> 01:08:30,440
+What's this password?
+
+2207
+01:08:32,160 --> 01:08:33,000
+It has to do with Jin.
+
+2208
+01:08:33,000 --> 01:08:33,800
+Beluga.
+
+2209
+01:08:34,840 --> 01:08:35,200
+It opened.
+
+2210
+01:08:36,820 --> 01:08:37,940
+(Tui City Zoo)
+
+2211
+01:08:37,960 --> 01:08:39,080
+One day, I was walking past
+
+2212
+01:08:39,080 --> 01:08:39,960
+Tui Haowan's office,
+
+2213
+01:08:39,960 --> 01:08:41,960
+our boss' office.
+
+2214
+01:08:42,600 --> 01:08:43,200
+That's when I saw
+
+2215
+01:08:43,200 --> 01:08:44,440
+him sitting inside,
+
+2216
+01:08:44,720 --> 01:08:45,960
+creepily staring at
+
+2217
+01:08:45,960 --> 01:08:47,440
+this photo.
+
+2218
+01:08:47,440 --> 01:08:49,440
+He looked like a total creep.
+
+2219
+01:08:49,440 --> 01:08:51,360
+Like he was staring at his own toys.
+
+2220
+01:08:51,640 --> 01:08:52,640
+(Ke found this photo in Tui's office)
+This was the photo.
+
+2221
+01:08:53,720 --> 01:08:55,160
+Tui City Zoo.
+
+2222
+01:08:55,360 --> 01:08:57,160
+(Tui City Animal Stars)
+The fox up top is called "Foxy".
+
+2223
+01:08:57,800 --> 01:08:59,760
+"Wolfie, " "Woofy, "
+
+2224
+01:08:59,760 --> 01:09:00,920
+"Whaley, "
+
+2225
+01:09:00,920 --> 01:09:02,760
+"Capy, " and "Bunbun".
+
+2226
+01:09:03,120 --> 01:09:04,600
+That's the six of us.
+
+2227
+01:09:04,960 --> 01:09:05,440
+Exactly.
+
+2228
+01:09:05,440 --> 01:09:06,440
+(Theory: The six people match
+the animals on the poster)
+
+2229
+01:09:06,440 --> 01:09:08,280
+(Ding: Foxy; Ning: Wolfey; Nan: Bunbun)
+We were animals to begin with.
+
+2230
+01:09:08,280 --> 01:09:08,680
+Right.
+
+2231
+01:09:09,280 --> 01:09:10,520
+(Ke: Woofy; Jin: Whaley; He: Capy)
+Then, little by little,
+
+2232
+01:09:10,680 --> 01:09:11,960
+we started acting human.
+
+2233
+01:09:12,560 --> 01:09:12,880
+No.
+
+2234
+01:09:12,880 --> 01:09:14,440
+They were turned into humans.
+
+2235
+01:09:14,440 --> 01:09:15,160
+I think.
+
+2236
+01:09:15,160 --> 01:09:15,800
+But why
+
+2237
+01:09:15,800 --> 01:09:17,920
+are we changing back again?
+
+2238
+01:09:18,480 --> 01:09:20,520
+(Are the employees animals or humans?)
+We changed once, then changed back.
+
+2239
+01:09:20,760 --> 01:09:21,840
+I don't know.
+
+2240
+01:09:22,240 --> 01:09:23,400
+Think about it.
+
+2241
+01:09:23,400 --> 01:09:25,320
+The boss died today, right?
+
+2242
+01:09:25,320 --> 01:09:25,600
+Right?
+
+2243
+01:09:26,120 --> 01:09:27,720
+So the killer's one of us.
+
+2244
+01:09:27,720 --> 01:09:28,240
+Right.
+
+2245
+01:09:28,240 --> 01:09:28,960
+But he wrote,
+
+2246
+01:09:28,960 --> 01:09:31,360
+"This is revenge against humanity".
+
+2247
+01:09:31,680 --> 01:09:33,560
+(Fictional plot with horror elements)
+This is
+
+2248
+01:09:33,560 --> 01:09:36,360
+revenge against humanity.
+
+2249
+01:09:36,840 --> 01:09:38,520
+(Tui City Zoo)
+That means the six of us.
+
+2250
+01:09:38,600 --> 01:09:40,440
+So we're not human.
+
+2251
+01:09:40,500 --> 01:09:43,700
+(Theory: They were originally animals)
+
+2252
+01:09:44,440 --> 01:09:45,880
+Let's check the courtyard.
+
+2253
+01:09:46,520 --> 01:09:47,120
+Over here.
+
+2254
+01:09:47,120 --> 01:09:47,960
+There's a door.
+
+2255
+01:09:47,960 --> 01:09:48,640
+Here.
+
+2256
+01:09:52,120 --> 01:09:53,880
+Another leg.
+
+2257
+01:09:54,060 --> 01:09:55,740
+(New area unlocked: Courtyard)
+
+2258
+01:09:55,740 --> 01:09:58,740
+(Severed left leg)
+
+2259
+01:09:59,200 --> 01:10:00,280
+Wait.
+
+2260
+01:10:00,280 --> 01:10:01,600
+There's something on this foot.
+
+2261
+01:10:02,000 --> 01:10:02,880
+A paw print.
+
+2262
+01:10:04,800 --> 01:10:06,160
+That's an animal print, right?
+
+2263
+01:10:06,160 --> 01:10:06,640
+Right.
+
+2264
+01:10:07,060 --> 01:10:09,620
+(Why is there a paw print on the limb?)
+
+2265
+01:10:10,520 --> 01:10:12,040
+Electrical box.
+
+2266
+01:10:12,040 --> 01:10:13,800
+(Electrical box)
+
+2267
+01:10:13,800 --> 01:10:14,920
+It's locked.
+
+2268
+01:10:15,440 --> 01:10:16,720
+(The electrical box is locked)
+Could this be the key?
+
+2269
+01:10:17,220 --> 01:10:18,320
+(Earlier, in the break room)
+
+2270
+01:10:18,320 --> 01:10:19,800
+We found this key.
+
+2271
+01:10:20,920 --> 01:10:22,160
+Why is there a key here?
+
+2272
+01:10:22,900 --> 01:10:23,720
+(Fictional plot. Do not imitate)
+
+2273
+01:10:23,720 --> 01:10:24,520
+The key.
+
+2274
+01:10:25,080 --> 01:10:25,880
+Okay, let's try it.
+
+2275
+01:10:25,880 --> 01:10:26,820
+(Will this key open the electrical box?)
+
+2276
+01:10:27,680 --> 01:10:28,920
+It's the wrong key.
+
+2277
+01:10:28,940 --> 01:10:30,620
+(Is there another key?)
+
+2278
+01:10:31,440 --> 01:10:32,000
+There's...
+
+2279
+01:10:32,760 --> 01:10:33,960
+There's a head too!
+
+2280
+01:10:33,960 --> 01:10:39,920
+(This fictional story contains
+horror elements)
+
+2281
+01:10:39,920 --> 01:10:40,840
+That's Tui Haowan's face.
+
+2282
+01:10:41,160 --> 01:10:42,120
+It's the boss' head.
+
+2283
+01:10:42,420 --> 01:10:44,260
+(Taking a closer look)
+
+2284
+01:10:44,300 --> 01:10:46,020
+(Brave bunny steps up)
+
+2285
+01:10:46,400 --> 01:10:48,280
+Why's he wearing false eyelashes?
+
+2286
+01:10:49,120 --> 01:10:50,480
+Can you move the head over there?
+
+2287
+01:10:51,180 --> 01:10:53,340
+(Move Tui Haowan's head over there?)
+
+2288
+01:10:53,740 --> 01:10:54,660
+(Order received)
+
+2289
+01:10:54,700 --> 01:10:57,300
+(Obedient doggo)
+
+2290
+01:10:58,720 --> 01:11:00,160
+The way this feels is really...
+
+2291
+01:11:02,180 --> 01:11:05,020
+(Frozen)
+
+2292
+01:11:05,800 --> 01:11:06,360
+Wash my hands.
+
+2293
+01:11:07,780 --> 01:11:10,420
+(Using water on the spot)
+
+2294
+01:11:10,960 --> 01:11:11,560
+Wait!
+
+2295
+01:11:12,800 --> 01:11:14,160
+Could there be something in here?
+
+2296
+01:11:15,080 --> 01:11:17,000
+(Why was the victim's head on the tank?)
+I think there's something inside.
+
+2297
+01:11:17,520 --> 01:11:18,680
+Bloody water?
+
+2298
+01:11:18,820 --> 01:11:20,340
+(A tank full of bloody water)
+
+2299
+01:11:20,640 --> 01:11:22,800
+There's key evidence in this tank.
+
+2300
+01:11:22,820 --> 01:11:24,780
+(Now you've got my attention)
+
+2301
+01:11:24,820 --> 01:11:27,180
+(Found a net)
+
+2302
+01:11:27,200 --> 01:11:28,800
+Use this.
+
+2303
+01:11:30,680 --> 01:11:31,400
+Nothing.
+
+2304
+01:11:31,760 --> 01:11:31,960
+Nope.
+
+2305
+01:11:31,960 --> 01:11:32,680
+Didn't find anything.
+
+2306
+01:11:33,240 --> 01:11:34,200
+(Accent slipping)
+What did I just touch?
+
+2307
+01:11:34,200 --> 01:11:34,760
+I'll do it.
+
+2308
+01:11:34,760 --> 01:11:35,720
+Let me try.
+
+2309
+01:11:37,600 --> 01:11:38,560
+There's a key.
+
+2310
+01:11:38,560 --> 01:11:39,700
+(Obtained a key)
+
+2311
+01:11:39,880 --> 01:11:41,400
+It's a key, guys.
+
+2312
+01:11:41,400 --> 01:11:42,560
+It should open the electrical box.
+
+2313
+01:11:43,400 --> 01:11:45,080
+There should be something
+in these bottles.
+
+2314
+01:11:45,340 --> 01:11:47,940
+(Why are so many bottles
+scattered around?)
+
+2315
+01:11:52,280 --> 01:11:53,480
+Here.
+
+2316
+01:11:53,960 --> 01:11:54,280
+What?
+
+2317
+01:11:54,280 --> 01:11:54,880
+(Found a jar)
+
+2318
+01:11:54,880 --> 01:11:55,640
+Put it aside for now.
+
+2319
+01:11:57,320 --> 01:11:59,040
+There's a lot in the trash can.
+
+2320
+01:11:59,840 --> 01:12:00,320
+Take it over there.
+
+2321
+01:12:00,800 --> 01:12:02,080
+Give it to me.
+
+2322
+01:12:02,360 --> 01:12:03,840
+That tank earlier
+
+2323
+01:12:03,840 --> 01:12:05,120
+was full of bloody water.
+
+2324
+01:12:05,120 --> 01:12:05,600
+Why?
+
+2325
+01:12:05,600 --> 01:12:07,720
+Because this is called "Melt-Away".
+
+2326
+01:12:08,080 --> 01:12:10,520
+(Jar by the tank)
+Fast-acting corrosive liquid.
+
+2327
+01:12:10,760 --> 01:12:13,280
+(Melt-Away)
+Used to dissolve bones and flesh,
+
+2328
+01:12:13,280 --> 01:12:14,720
+clothing fibers, and other materials.
+
+2329
+01:12:15,800 --> 01:12:18,240
+So his entire body was dissolved
+
+2330
+01:12:18,240 --> 01:12:18,800
+in that water.
+
+2331
+01:12:18,800 --> 01:12:19,240
+Right.
+
+2332
+01:12:19,240 --> 01:12:21,000
+Then these limbs aren't his.
+
+2333
+01:12:22,640 --> 01:12:23,840
+They cut them off first,
+
+2334
+01:12:24,680 --> 01:12:26,360
+then put the rest of his body inside.
+
+2335
+01:12:26,680 --> 01:12:27,800
+His torso's in there.
+
+2336
+01:12:27,900 --> 01:12:31,220
+(Why did the killer leave
+only the victim's head and limbs?)
+
+2337
+01:12:31,240 --> 01:12:32,880
+Pour this out.
+
+2338
+01:12:32,880 --> 01:12:34,940
+(This fictional story
+contains horror elements)
+
+2339
+01:12:38,400 --> 01:12:40,400
+(Animal blocks and four badges)
+Animal pieces and badges.
+
+2340
+01:12:40,920 --> 01:12:41,800
+What does this mean?
+
+2341
+01:12:43,400 --> 01:12:44,200
+Let's find
+
+2342
+01:12:44,200 --> 01:12:45,960
+the animals connected to us.
+
+2343
+01:12:46,320 --> 01:12:47,440
+(Theory: Animals represent the group)
+There's a capybara.
+
+2344
+01:12:47,440 --> 01:12:48,480
+And a beluga, right?
+
+2345
+01:12:49,080 --> 01:12:51,040
+You two detectives aren't here, right?
+
+2346
+01:12:51,040 --> 01:12:52,000
+We're really not.
+
+2347
+01:12:52,420 --> 01:12:55,740
+(Why were the four badges
+and animal blocks in the trash?)
+
+2348
+01:12:56,120 --> 01:12:57,600
+Let's open the breaker box first.
+
+2349
+01:12:57,600 --> 01:12:59,040
+The boss had one of these on him.
+
+2350
+01:12:59,040 --> 01:13:01,020
+(Fictional scenario. Do not imitate)
+
+2351
+01:13:01,020 --> 01:13:03,140
+(Successfully unlocked)
+
+2352
+01:13:07,320 --> 01:13:08,880
+Two breakers were pulled down.
+
+2353
+01:13:09,180 --> 01:13:10,040
+(Two breakers have tripped)
+
+2354
+01:13:10,040 --> 01:13:11,320
+And one burned out.
+
+2355
+01:13:11,320 --> 01:13:11,800
+(Burn marks)
+
+2356
+01:13:11,800 --> 01:13:12,800
+This one's scorched.
+
+2357
+01:13:12,800 --> 01:13:15,080
+So pulling it caused a short circuit.
+
+2358
+01:13:15,100 --> 01:13:17,500
+(Theory: A short circuit
+scorched the breaker)
+
+2359
+01:13:17,880 --> 01:13:19,080
+What does this breaker control?
+
+2360
+01:13:19,140 --> 01:13:20,480
+(What area does the breaker control?)
+
+2361
+01:13:20,480 --> 01:13:21,720
+When the power went out,
+
+2362
+01:13:21,720 --> 01:13:23,520
+this is the switch he pulled, right?
+
+2363
+01:13:24,740 --> 01:13:25,360
+(Night vision mode)
+
+2364
+01:13:25,360 --> 01:13:27,000
+Main breaker trip detected.
+
+2365
+01:13:27,000 --> 01:13:28,640
+It's been over 15 minutes.
+
+2366
+01:13:28,640 --> 01:13:30,160
+Activating backup power.
+
+2367
+01:13:31,120 --> 01:13:32,160
+The outage lasted over 15 minutes.
+
+2368
+01:13:32,160 --> 01:13:33,240
+Backup power was activated.
+
+2369
+01:13:33,600 --> 01:13:35,200
+(Super-memory doggo)
+This must be the switch he pulled.
+
+2370
+01:13:35,640 --> 01:13:36,640
+That means
+
+2371
+01:13:36,880 --> 01:13:38,040
+this is the switch
+
+2372
+01:13:38,040 --> 01:13:39,480
+the killer pulled during the crime.
+
+2373
+01:13:39,480 --> 01:13:40,440
+But how?
+
+2374
+01:13:40,440 --> 01:13:41,320
+We were all there.
+
+2375
+01:13:41,780 --> 01:13:44,980
+(All six employees were together
+during the outage)
+
+2376
+01:13:45,020 --> 01:13:46,060
+(Current mysteries)
+
+2377
+01:13:46,060 --> 01:13:47,100
+(1. Why were the four badges
+and animal blocks in the trash?)
+
+2378
+01:13:47,100 --> 01:13:48,060
+(2. Who pulled the breaker
+during the outage?)
+
+2379
+01:13:48,080 --> 01:13:49,480
+(3. What does the pantry key unlock?)
+Okay, let's go back to the...
+
+2380
+01:13:49,480 --> 01:13:49,920
+Lobby.
+
+2381
+01:13:58,400 --> 01:13:58,800
+Wait.
+
+2382
+01:13:59,360 --> 01:14:00,200
+(Tui City Hospital autopsy report)
+The autopsy report's here.
+
+2383
+01:14:01,720 --> 01:14:03,280
+(Results from Tui Huicha Autopsy Lab)
+Testing confirms
+
+2384
+01:14:03,280 --> 01:14:05,360
+the severed limb tissue
+
+2385
+01:14:05,360 --> 01:14:07,960
+is a complete DNA match with the head.
+
+2386
+01:14:07,960 --> 01:14:11,800
+Both the severed limb
+and head belong to Tui Haowan.
+
+2387
+01:14:11,800 --> 01:14:12,640
+That's right.
+
+2388
+01:14:13,200 --> 01:14:15,400
+(Victim confirmed as Tui Haowan)
+So all these parts
+
+2389
+01:14:15,400 --> 01:14:16,040
+belong to him.
+
+2390
+01:14:16,040 --> 01:14:16,480
+They're his.
+
+2391
+01:14:17,640 --> 01:14:19,040
+This killer's terrifying.
+
+2392
+01:14:19,560 --> 01:14:21,600
+They cut off all four limbs,
+
+2393
+01:14:21,600 --> 01:14:22,880
+put one in each person's area,
+
+2394
+01:14:22,880 --> 01:14:24,080
+and dissolved him too.
+
+2395
+01:14:24,880 --> 01:14:25,720
+That's right.
+
+2396
+01:14:25,720 --> 01:14:26,600
+It was me.
+
+2397
+01:14:29,360 --> 01:14:30,800
+Don't say that. I'll believe you.
+
+2398
+01:14:30,800 --> 01:14:32,040
+An innocent person wouldn't say that.
+
+2399
+01:14:32,300 --> 01:14:33,700
+(That backfired)
+
+2400
+01:14:36,520 --> 01:14:37,960
+Wait. Is this "Duo Ge"?
+
+2401
+01:14:37,960 --> 01:14:39,320
+It says up here,
+
+2402
+01:14:39,320 --> 01:14:40,920
+"Tui Games Company, Duo Ge".
+
+2403
+01:14:41,440 --> 01:14:42,240
+Duo Ge?
+
+2404
+01:14:42,240 --> 01:14:43,220
+(New person discovered: Duo Ge)
+
+2405
+01:14:43,560 --> 01:14:45,000
+This is Duo Ge's computer too.
+
+2406
+01:14:45,000 --> 01:14:46,560
+(The computer requires a password)
+Who's Duo Ge? The receptionist?
+
+2407
+01:14:46,560 --> 01:14:47,000
+No idea.
+
+2408
+01:14:48,040 --> 01:14:48,440
+Wait.
+
+2409
+01:14:48,960 --> 01:14:50,120
+The key.
+
+2410
+01:14:50,260 --> 01:14:52,420
+(The key found in the pantry)
+
+2411
+01:14:55,960 --> 01:14:59,360
+(Duo Ge's name badge)
+Start date: April 1, 2026.
+
+2412
+01:14:59,640 --> 01:15:01,960
+Try 2026401.
+
+2413
+01:15:01,960 --> 01:15:02,720
+This is his computer.
+
+2414
+01:15:02,720 --> 01:15:04,040
+Let's see what's on it.
+
+2415
+01:15:04,720 --> 01:15:08,240
+20260401.
+
+2416
+01:15:08,240 --> 01:15:08,720
+Here goes.
+
+2417
+01:15:09,460 --> 01:15:10,980
+(Computer successfully unlocked)
+
+2418
+01:15:11,400 --> 01:15:13,840
+Duo Ge wrote,
+
+2419
+01:15:14,440 --> 01:15:16,400
+"Two weeks into the job, "
+
+2420
+01:15:16,400 --> 01:15:18,800
+"something's wrong with my body".
+
+2421
+01:15:18,800 --> 01:15:21,040
+"I'm actually growing fur".
+
+2422
+01:15:21,100 --> 01:15:22,280
+(Duo Ge started growing fur
+after joining?)
+
+2423
+01:15:22,280 --> 01:15:24,680
+"Even the heart-shaped
+birthmark on my palm"
+
+2424
+01:15:24,680 --> 01:15:25,560
+"is growing hair".
+
+2425
+01:15:25,920 --> 01:15:27,760
+"I can't stop myself from barking".
+
+2426
+01:15:27,960 --> 01:15:30,800
+"Could the legend
+of Under the Skin be true"?
+
+2427
+01:15:31,040 --> 01:15:32,440
+(Tui Games Company urban legend)
+"I'm a spirit creature too".
+
+2428
+01:15:32,440 --> 01:15:33,080
+(Legend 1: Under the Skin)
+
+2429
+01:15:33,080 --> 01:15:35,240
+"Why are they doing this to me at work"?
+
+2430
+01:15:35,240 --> 01:15:37,320
+"I really hate Tui Haowan".
+
+2431
+01:15:37,320 --> 01:15:38,280
+April 21.
+
+2432
+01:15:39,000 --> 01:15:40,640
+I hadn't started yet on April 21.
+
+2433
+01:15:41,760 --> 01:15:43,600
+Right. I've only worked here a month.
+
+2434
+01:15:43,960 --> 01:15:46,000
+Quick to clear yourself.
+
+2435
+01:15:46,000 --> 01:15:47,480
+A little too eager.
+
+2436
+01:15:47,880 --> 01:15:49,520
+Doesn't seem like your first time.
+
+2437
+01:15:49,980 --> 01:15:52,140
+(Innocent)
+
+2438
+01:15:52,640 --> 01:15:54,600
+So Tui Haowan had some way
+
+2439
+01:15:54,600 --> 01:15:56,520
+to turn people into animals,
+
+2440
+01:15:57,040 --> 01:15:59,160
+or animals into people.
+
+2441
+01:15:59,220 --> 01:16:02,140
+(Theory: Tui Haowan could turn people
+into animals or animals into people?)
+
+2442
+01:16:02,160 --> 01:16:03,320
+Let's keep looking.
+
+2443
+01:16:06,040 --> 01:16:06,720
+Wait.
+
+2444
+01:16:06,720 --> 01:16:08,000
+Where the badge was up there.
+
+2445
+01:16:08,400 --> 01:16:08,840
+On top.
+
+2446
+01:16:09,760 --> 01:16:10,520
+On top.
+
+2447
+01:16:11,000 --> 01:16:11,920
+Boss' locker.
+
+2448
+01:16:13,880 --> 01:16:15,040
+Put your name badges here,
+
+2449
+01:16:15,040 --> 01:16:16,320
+then add your animals.
+
+2450
+01:16:17,600 --> 01:16:19,120
+The animal symbols we found earlier.
+
+2451
+01:16:20,680 --> 01:16:21,640
+These are different animals
+
+2452
+01:16:21,640 --> 01:16:22,600
+and name badges.
+
+2453
+01:16:27,300 --> 01:16:28,500
+(A mysterious force)
+
+2454
+01:16:29,720 --> 01:16:30,880
+Leave me alone.
+
+2455
+01:16:31,480 --> 01:16:32,480
+I didn't even move.
+
+2456
+01:16:33,840 --> 01:16:34,520
+Stick on the rabbit.
+
+2457
+01:16:35,080 --> 01:16:36,600
+What about Woofy Ke?
+
+2458
+01:16:36,600 --> 01:16:37,040
+So cute.
+
+2459
+01:16:37,400 --> 01:16:37,800
+Beluga.
+
+2460
+01:16:38,560 --> 01:16:38,880
+Okay.
+
+2461
+01:16:38,880 --> 01:16:39,740
+(Badges and animal blocks matched)
+
+2462
+01:16:40,160 --> 01:16:41,800
+Boss' locker, open.
+
+2463
+01:16:44,520 --> 01:16:45,280
+A megaphone.
+
+2464
+01:16:45,660 --> 01:16:47,860
+(Boss' locker: A megaphone
+and several documents)
+
+2465
+01:16:48,240 --> 01:16:48,680
+Play it.
+
+2466
+01:16:50,440 --> 01:16:51,040
+To the public,
+
+2467
+01:16:51,040 --> 01:16:52,760
+we must promote these six cash cows
+
+2468
+01:16:52,760 --> 01:16:53,480
+as family
+
+2469
+01:16:53,800 --> 01:16:56,080
+(Fictional story with horror elements)
+so customers think we care.
+
+2470
+01:16:56,080 --> 01:16:57,360
+But behind closed doors, remember this.
+
+2471
+01:16:58,160 --> 01:16:59,640
+Animals are just animals.
+
+2472
+01:17:00,720 --> 01:17:01,560
+Lock them up when needed.
+
+2473
+01:17:01,560 --> 01:17:02,400
+Train them when needed.
+
+2474
+01:17:02,400 --> 01:17:03,280
+Beat them when needed.
+
+2475
+01:17:03,880 --> 01:17:05,000
+It's for their own good.
+
+2476
+01:17:05,000 --> 01:17:05,760
+(The recording points to animal abuse)
+
+2477
+01:17:05,760 --> 01:17:07,560
+Once they can't perform,
+
+2478
+01:17:07,560 --> 01:17:08,640
+can't reproduce,
+
+2479
+01:17:08,640 --> 01:17:09,880
+or stop entertaining people,
+
+2480
+01:17:10,280 --> 01:17:12,080
+then it's their "time to die".
+
+2481
+01:17:12,320 --> 01:17:14,040
+Then they "deserve to die".
+
+2482
+01:17:14,760 --> 01:17:17,160
+Making humans happy
+
+2483
+01:17:17,160 --> 01:17:19,320
+is the greatest value
+these animals have.
+
+2484
+01:17:20,500 --> 01:17:23,540
+(Animals are killed once
+they're no longer useful)
+
+2485
+01:17:23,580 --> 01:17:28,820
+(Are animals here nothing
+but products with no dignity?)
+
+2486
+01:17:29,120 --> 01:17:32,680
+Maybe someone realized
+the boss planned to discard them
+
+2487
+01:17:32,680 --> 01:17:34,240
+and kill them.
+
+2488
+01:17:34,240 --> 01:17:36,200
+Once he'd squeezed out all their value,
+
+2489
+01:17:36,200 --> 01:17:38,280
+he'd have them killed.
+
+2490
+01:17:38,540 --> 01:17:41,740
+(Theory: Someone heard the recording
+and killed him in self-defense)
+
+2491
+01:17:42,040 --> 01:17:42,920
+Have a seat.
+
+2492
+01:17:43,280 --> 01:17:44,360
+Sit down. Go ahead.
+
+2493
+01:17:45,760 --> 01:17:47,160
+We just found
+
+2494
+01:17:47,440 --> 01:17:48,520
+that recording.
+
+2495
+01:17:48,920 --> 01:17:50,560
+It said animals should be abused
+
+2496
+01:17:50,560 --> 01:17:52,000
+because they're beasts, right?
+
+2497
+01:17:52,000 --> 01:17:52,560
+Yes.
+
+2498
+01:17:52,560 --> 01:17:54,000
+It also matches what Nan Shy
+
+2499
+01:17:54,480 --> 01:17:56,040
+heard earlier.
+
+2500
+01:17:56,480 --> 01:17:58,200
+(Toy bunny)
+I heard something while grabbing it.
+
+2501
+01:17:58,200 --> 01:17:59,280
+The boss was on the phone.
+
+2502
+01:18:00,600 --> 01:18:01,600
+Judging by how he looks,
+
+2503
+01:18:01,600 --> 01:18:04,120
+he's almost a full-on capybara.
+
+2504
+01:18:04,120 --> 01:18:07,120
+Tomorrow, I'll send someone
+tougher to fight him.
+
+2505
+01:18:07,120 --> 01:18:08,640
+Let's see how long he lasts!
+
+2506
+01:18:09,960 --> 01:18:11,680
+Those animals are just beasts.
+
+2507
+01:18:11,680 --> 01:18:13,760
+Making us humans happy
+
+2508
+01:18:13,760 --> 01:18:16,560
+is the greatest value they'll ever have.
+
+2509
+01:18:16,980 --> 01:18:20,780
+(Both recordings point to animal abuse)
+
+2510
+01:18:21,240 --> 01:18:22,240
+Okay, there are two more things.
+
+2511
+01:18:22,240 --> 01:18:23,240
+What's the first one?
+
+2512
+01:18:23,240 --> 01:18:24,560
+It's the Tui City Zoo
+
+2513
+01:18:24,560 --> 01:18:26,120
+Operating Rules.
+
+2514
+01:18:26,400 --> 01:18:28,360
+Star Animal Management Guidelines.
+
+2515
+01:18:28,360 --> 01:18:30,480
+All animal handlers must follow them
+
+2516
+01:18:30,480 --> 01:18:32,520
+to meet their assigned targets.
+
+2517
+01:18:32,800 --> 01:18:34,560
+The face of the zoo
+
+2518
+01:18:34,560 --> 01:18:36,800
+is Woofy, the celebrity dog.
+
+2519
+01:18:37,680 --> 01:18:39,640
+(The face of the zoo)
+As Tui City Zoo's biggest attraction,
+
+2520
+01:18:39,640 --> 01:18:41,240
+Woofy must always maintain
+
+2521
+01:18:41,240 --> 01:18:42,800
+a perfect public image.
+
+2522
+01:18:43,200 --> 01:18:44,280
+Every day, he must complete
+
+2523
+01:18:44,280 --> 01:18:46,320
+20 hours of livestream interaction.
+
+2524
+01:18:46,340 --> 01:18:49,700
+(Woofy works 20 hours a day)
+
+2525
+01:18:49,880 --> 01:18:53,000
+The aquarium's star beluga, Whaley.
+
+2526
+01:18:53,320 --> 01:18:54,200
+(The aquarium's star)
+Whaley.
+
+2527
+01:18:54,200 --> 01:18:56,880
+She must perform ten water shows a day.
+
+2528
+01:18:57,560 --> 01:19:00,280
+Every time she jumps from the water,
+
+2529
+01:19:00,280 --> 01:19:02,120
+she must look graceful.
+
+2530
+01:19:02,560 --> 01:19:05,760
+(Whaley performs in a cramped space)
+Every move must be flawless.
+
+2531
+01:19:06,120 --> 01:19:07,280
+Even if she's unwell,
+
+2532
+01:19:07,280 --> 01:19:09,760
+she's never allowed to refuse.
+
+2533
+01:19:09,980 --> 01:19:11,780
+(Whaley faces harsh conditions
+and can't rest when sick)
+
+2534
+01:19:12,240 --> 01:19:13,880
+Capy the capybara.
+
+2535
+01:19:14,120 --> 01:19:17,560
+(Teasing room)
+He stays calm with visitors.
+
+2536
+01:19:18,440 --> 01:19:21,440
+Visitors can play any prank on Capy
+
+2537
+01:19:21,440 --> 01:19:22,080
+or tease him
+
+2538
+01:19:22,480 --> 01:19:23,800
+to prove
+
+2539
+01:19:23,800 --> 01:19:25,760
+he'll never get angry.
+
+2540
+01:19:26,080 --> 01:19:27,920
+That's basically an obedience test.
+
+2541
+01:19:27,980 --> 01:19:28,720
+(Capy is bullied by visitors
+and can't fight back)
+
+2542
+01:19:28,720 --> 01:19:29,800
+I feel bad for you.
+
+2543
+01:19:31,600 --> 01:19:33,200
+Bunbun the rabbit.
+
+2544
+01:19:33,200 --> 01:19:36,840
+(Pet interaction zone)
+She poses, shakes hands, and takes food.
+
+2545
+01:19:36,840 --> 01:19:39,920
+If the rabbit becomes aggressive,
+
+2546
+01:19:39,920 --> 01:19:42,720
+use electric shocks immediately.
+
+2547
+01:19:44,320 --> 01:19:47,120
+If she scratches a visitor
+out of instinctive fear,
+
+2548
+01:19:47,120 --> 01:19:49,520
+(Fictional story with horror elements)
+her claws must be forcibly filed down
+
+2549
+01:19:49,520 --> 01:19:52,080
+without anesthesia.
+
+2550
+01:19:53,840 --> 01:19:55,360
+So those claws are...
+
+2551
+01:19:55,780 --> 01:19:57,220
+(Bunbun is shocked and has her claws
+removed if she hurts someone)
+
+2552
+01:19:57,220 --> 01:19:58,580
+(But her claws grow quickly,
+so she wouldn't notice easily)
+
+2553
+01:19:59,040 --> 01:20:00,440
+What about the other animals?
+
+2554
+01:20:00,840 --> 01:20:02,360
+The wolf and fox exhibits.
+
+2555
+01:20:02,640 --> 01:20:03,320
+You and I.
+
+2556
+01:20:03,320 --> 01:20:04,400
+Ours too.
+
+2557
+01:20:04,400 --> 01:20:07,120
+(Other animal areas)
+For better visitor experience,
+
+2558
+01:20:07,120 --> 01:20:10,560
+animals may be fed
+human food by visitors.
+
+2559
+01:20:10,560 --> 01:20:11,760
+If animals suffer from diarrhoea,
+
+2560
+01:20:11,760 --> 01:20:13,560
+it is considered a minor issue
+
+2561
+01:20:13,560 --> 01:20:14,560
+and there is no need
+for excessive concern.
+
+2562
+01:20:15,200 --> 01:20:16,720
+(Wolves and foxes may be freely fed)
+We had diarrhoea all day yesterday.
+
+2563
+01:20:17,000 --> 01:20:18,400
+(Diarrhoea is ignored)
+So we just ate too much.
+
+2564
+01:20:19,280 --> 01:20:20,560
+No, it was because of what
+the visitors threw at us.
+
+2565
+01:20:20,560 --> 01:20:22,000
+Most of those things
+aren't suitable for us to eat.
+
+2566
+01:20:22,000 --> 01:20:23,280
+For example, they gave us...
+
+2567
+01:20:24,000 --> 01:20:24,800
+hot and sour vermicelli,
+
+2568
+01:20:24,820 --> 01:20:26,580
+(You were really hungry, huh?)
+
+2569
+01:20:27,000 --> 01:20:27,920
+Stinky rice noodles.
+
+2570
+01:20:28,160 --> 01:20:28,960
+Stinky tofu
+
+2571
+01:20:28,960 --> 01:20:30,760
+or even hotpot soup base.
+
+2572
+01:20:31,040 --> 01:20:31,880
+You two ate all of that?
+
+2573
+01:20:32,320 --> 01:20:33,600
+(Two greedy little animals)
+Don't you know what you can
+
+2574
+01:20:33,600 --> 01:20:34,600
+and cannot eat?
+
+2575
+01:20:34,600 --> 01:20:36,560
+Because it was given by visitors,
+
+2576
+01:20:36,560 --> 01:20:37,440
+it made them feel good,
+
+2577
+01:20:37,440 --> 01:20:38,680
+so we had to eat it.
+
+2578
+01:20:39,240 --> 01:20:40,840
+(Customer comes first)
+And we ended up with diarrhoea.
+
+2579
+01:20:41,860 --> 01:20:44,260
+(Still too heavy and spicy)
+
+2580
+01:20:45,000 --> 01:20:47,080
+So we're actually in a zoo?
+
+2581
+01:20:49,420 --> 01:20:50,140
+(Caring talent park)
+
+2582
+01:20:50,140 --> 01:20:51,780
+(Is the game area actually a zoo?)
+
+2583
+01:20:52,000 --> 01:20:53,320
+Yes, it's a zoo.
+
+2584
+01:20:53,320 --> 01:20:54,800
+We're star animals.
+
+2585
+01:20:55,180 --> 01:20:58,500
+(The six employees
+are animals in the zoo?)
+
+2586
+01:20:58,800 --> 01:21:00,120
+We thought we were humans, right?
+
+2587
+01:21:00,120 --> 01:21:01,440
+We thought we were stars.
+
+2588
+01:21:01,440 --> 01:21:03,480
+Turns out we're star animals.
+
+2589
+01:21:05,240 --> 01:21:06,840
+Wait, look.
+
+2590
+01:21:08,240 --> 01:21:10,240
+Does this look like my sister?
+
+2591
+01:21:11,700 --> 01:21:12,620
+(Beluga whale)
+
+2592
+01:21:12,640 --> 01:21:14,080
+They're identical.
+
+2593
+01:21:14,080 --> 01:21:15,320
+Way too similar.
+
+2594
+01:21:16,240 --> 01:21:16,800
+Yes.
+
+2595
+01:21:17,480 --> 01:21:18,320
+Isn't it pretty?
+
+2596
+01:21:19,200 --> 01:21:20,360
+Isn't it fair-skinned?
+
+2597
+01:21:20,500 --> 01:21:22,260
+(No way to argue)
+
+2598
+01:21:23,600 --> 01:21:24,520
+Anyway,
+
+2599
+01:21:24,520 --> 01:21:25,760
+these six animals
+
+2600
+01:21:25,760 --> 01:21:27,440
+represent the six of us.
+
+2601
+01:21:27,440 --> 01:21:28,080
+Exactly.
+
+2602
+01:21:28,360 --> 01:21:29,960
+Are we humans or animals?
+
+2603
+01:21:30,100 --> 01:21:31,660
+(Are the six employees
+humans or animals?)
+
+2604
+01:21:32,120 --> 01:21:32,480
+No.
+
+2605
+01:21:33,200 --> 01:21:33,760
+No,
+
+2606
+01:21:33,760 --> 01:21:34,840
+humans are animals too.
+
+2607
+01:21:34,900 --> 01:21:37,260
+(Humans are animals too,
+Ke: I'm under too much pressure)
+
+2608
+01:21:37,280 --> 01:21:38,240
+Uh,
+
+2609
+01:21:38,240 --> 01:21:39,640
+they're playing with our minds now.
+
+2610
+01:21:40,060 --> 01:21:42,820
+(Philosophical doggo)
+
+2611
+01:21:42,840 --> 01:21:44,120
+We must be animals.
+
+2612
+01:21:44,360 --> 01:21:45,520
+Why?
+
+2613
+01:21:45,520 --> 01:21:48,040
+Because the words on our arms say
+
+2614
+01:21:48,040 --> 01:21:49,960
+"revenge against humans."
+
+2615
+01:21:50,240 --> 01:21:50,720
+It can't be humans
+
+2616
+01:21:50,720 --> 01:21:52,640
+taking revenge on humans.
+
+2617
+01:21:52,640 --> 01:21:54,240
+It must be animals
+
+2618
+01:21:54,240 --> 01:21:54,800
+taking revenge on humans.
+
+2619
+01:21:54,800 --> 01:21:55,880
+So maybe our minds,
+
+2620
+01:21:55,880 --> 01:21:56,760
+or even
+
+2621
+01:21:56,760 --> 01:21:57,960
+our true selves,
+
+2622
+01:21:57,960 --> 01:21:58,800
+are actually animals.
+
+2623
+01:21:59,560 --> 01:21:59,960
+Exactly.
+
+2624
+01:21:59,960 --> 01:22:03,900
+(The theory: They were animals who
+slowly gained human consciousness.)
+
+2625
+01:22:04,240 --> 01:22:05,440
+There's a question we
+need to solve today.
+
+2626
+01:22:05,440 --> 01:22:07,480
+We need to figure out
+
+2627
+01:22:07,480 --> 01:22:09,120
+the motives of the four suspects.
+
+2628
+01:22:09,180 --> 01:22:10,940
+(Crime motive)
+
+2629
+01:22:11,600 --> 01:22:13,120
+I don't have any motive.
+
+2630
+01:22:13,180 --> 01:22:14,300
+(Motive completely denied?)
+
+2631
+01:22:14,600 --> 01:22:16,280
+Too quick, bro.
+
+2632
+01:22:16,480 --> 01:22:18,200
+(Does the detective think I'm harmless?)
+You don't have a motive?
+
+2633
+01:22:18,800 --> 01:22:19,480
+Sorry, just kidding.
+
+2634
+01:22:19,480 --> 01:22:20,040
+I was joking.
+
+2635
+01:22:20,040 --> 01:22:20,880
+Sorry.
+
+2636
+01:22:21,240 --> 01:22:22,880
+(I for introvert, socially anxious)
+Because you're introverted.
+
+2637
+01:22:22,880 --> 01:22:24,080
+(Forced to livestream)
+Then he forced you to livestream,
+
+2638
+01:22:24,080 --> 01:22:25,560
+(Miserable)
+making you suffer even more.
+
+2639
+01:22:25,580 --> 01:22:26,440
+(All motives found)
+
+2640
+01:22:26,440 --> 01:22:26,880
+Alright.
+
+2641
+01:22:27,200 --> 01:22:29,440
+We remember everything clearly.
+
+2642
+01:22:30,080 --> 01:22:32,240
+There's someone
+smart sitting beside him.
+
+2643
+01:22:32,240 --> 01:22:33,800
+You're done for, I'm telling you.
+
+2644
+01:22:33,900 --> 01:22:35,940
+(Rabbit with internet memory)
+
+2645
+01:22:38,740 --> 01:22:41,700
+(No way to defend himself)
+
+2646
+01:22:42,160 --> 01:22:44,080
+(Unable to defend himself)
+
+2647
+01:22:44,840 --> 01:22:45,240
+He can't explain himself anymore.
+
+2648
+01:22:45,240 --> 01:22:47,580
+Alright.
+
+2649
+01:22:47,880 --> 01:22:50,040
+(System crashed)
+
+2650
+01:22:50,040 --> 01:22:53,000
+(Ke‘s motive: 1. Forced to livestream)
+First, he forced you to livestream.
+
+2651
+01:22:53,000 --> 01:22:54,520
+Second, because your sister
+kept performing,
+
+2652
+01:22:54,520 --> 01:22:55,200
+you wanted to take her away
+
+2653
+01:22:55,200 --> 01:22:57,000
+and escape from here.
+
+2654
+01:22:57,000 --> 01:22:57,360
+(2. Failed escape with Jin Goofy)
+But you failed to escape.
+
+2655
+01:22:57,380 --> 01:22:58,420
+Right?
+
+2656
+01:22:58,420 --> 01:22:59,460
+(Ke Uh-Oh's motive summary:
+1. Forced to livestream)
+
+2657
+01:22:59,480 --> 01:23:01,200
+(2. Wanted to escape
+the park with Jin Goofy)
+
+2658
+01:23:01,920 --> 01:23:04,920
+What about you, Little Fish?
+
+2659
+01:23:04,920 --> 01:23:06,440
+I think first,
+he made me feel exhausted.
+
+2660
+01:23:06,440 --> 01:23:07,480
+He kept forcing me to perform.
+
+2661
+01:23:07,480 --> 01:23:09,520
+(Jin Goofy's motive summary:)
+I truly started wanting to kill him
+
+2662
+01:23:09,520 --> 01:23:11,580
+(1. Forced to perform)
+when he hurt my brother.
+
+2663
+01:23:11,600 --> 01:23:13,520
+(2. Found his brother was abused)
+So I had
+
+2664
+01:23:13,520 --> 01:23:15,400
+to save him at all costs.
+
+2665
+01:23:15,800 --> 01:23:17,640
+Your new movie
+is coming out soon, right?
+
+2666
+01:23:17,640 --> 01:23:18,520
+No.
+
+2667
+01:23:18,880 --> 01:23:20,560
+Before that, I had to eliminate
+
+2668
+01:23:20,560 --> 01:23:21,640
+everyone controlling you.
+
+2669
+01:23:21,640 --> 01:23:23,120
+(Big motive)
+Right. I had to leave for promotions.
+
+2670
+01:23:23,600 --> 01:23:25,000
+So you killed him?
+
+2671
+01:23:25,200 --> 01:23:25,720
+Yes, I had no time.
+
+2672
+01:23:25,720 --> 01:23:26,640
+I had to escape.
+
+2673
+01:23:28,080 --> 01:23:29,920
+Alright,
+what about Little Bunny's motive?
+
+2674
+01:23:30,160 --> 01:23:30,640
+My motive?
+
+2675
+01:23:30,640 --> 01:23:31,520
+I don't have one.
+
+2676
+01:23:31,980 --> 01:23:33,020
+(No way)
+Hmph.
+
+2677
+01:23:33,430 --> 01:23:34,260
+Hmph.
+
+2678
+01:23:34,520 --> 01:23:35,920
+You're learning fast, baby.
+
+2679
+01:23:36,460 --> 01:23:38,100
+(Just adapting)
+
+2680
+01:23:38,200 --> 01:23:38,960
+No motive.
+
+2681
+01:23:40,040 --> 01:23:41,800
+(Let the family help)
+Come on, let your boyfriend accuse her.
+
+2682
+01:23:41,800 --> 01:23:42,920
+What was her motive?
+
+2683
+01:23:42,920 --> 01:23:43,400
+Right.
+
+2684
+01:23:44,060 --> 01:23:45,900
+(I won't speak until my partner does)
+
+2685
+01:23:46,280 --> 01:23:47,880
+We have no motive at all.
+
+2686
+01:23:47,880 --> 01:23:49,400
+(Defending together)
+We're just kind-hearted
+
+2687
+01:23:49,400 --> 01:23:50,800
+and easygoing.
+
+2688
+01:23:50,800 --> 01:23:52,160
+(You can't fool this detective)
+Because you were too nice
+
+2689
+01:23:52,160 --> 01:23:53,120
+and finally snapped.
+
+2690
+01:23:53,120 --> 01:23:53,840
+Yes.
+
+2691
+01:23:54,440 --> 01:23:56,160
+(Detective takes control)
+What is Nan's motive?
+
+2692
+01:23:56,640 --> 01:23:57,640
+Nan's first motive is...
+
+2693
+01:23:58,040 --> 01:23:59,080
+Pulling out her nails.
+
+2694
+01:23:59,320 --> 01:24:01,080
+(Nan's motive summary:)
+Nail removal and electric shocks, right?
+
+2695
+01:24:01,080 --> 01:24:02,160
+(1. Abused by the boss)
+She was truly being abused.
+
+2696
+01:24:02,160 --> 01:24:02,400
+Yes,
+
+2697
+01:24:02,400 --> 01:24:02,760
+abuse.
+
+2698
+01:24:02,760 --> 01:24:03,360
+It was abuse.
+
+2699
+01:24:03,360 --> 01:24:03,680
+Yeah.
+
+2700
+01:24:03,680 --> 01:24:05,840
+And she also noticed
+her boyfriend was slowly...
+
+2701
+01:24:05,840 --> 01:24:06,760
+Getting worse.
+
+2702
+01:24:07,060 --> 01:24:07,800
+(Did I say that right?)
+
+2703
+01:24:07,800 --> 01:24:09,520
+Turning into a capybara.
+
+2704
+01:24:09,520 --> 01:24:11,080
+Her boyfriend was in danger.
+
+2705
+01:24:11,100 --> 01:24:11,760
+(Nan's motive summary:)
+
+2706
+01:24:11,760 --> 01:24:12,200
+(1. Abused by the boss)
+Alright.
+
+2707
+01:24:12,200 --> 01:24:12,960
+(2. Realized He Struggle was in danger)
+
+2708
+01:24:12,960 --> 01:24:14,640
+So her motive is valid.
+
+2709
+01:24:14,640 --> 01:24:15,080
+Valid.
+
+2710
+01:24:15,560 --> 01:24:18,000
+You're quick to push this onto me.
+
+2711
+01:24:19,040 --> 01:24:20,320
+No, I'm not.
+
+2712
+01:24:20,800 --> 01:24:22,480
+Alright, what about him?
+
+2713
+01:24:22,480 --> 01:24:23,600
+What about Little Ka?
+
+2714
+01:24:23,800 --> 01:24:25,200
+My emotional logic is this:
+
+2715
+01:24:25,200 --> 01:24:26,800
+I was constantly being abused,
+
+2716
+01:24:26,800 --> 01:24:27,760
+but my personality
+
+2717
+01:24:27,760 --> 01:24:28,880
+wouldn't let me
+
+2718
+01:24:28,880 --> 01:24:30,120
+feel extremely wronged.
+
+2719
+01:24:30,120 --> 01:24:31,360
+A giant in spirit,
+
+2720
+01:24:31,360 --> 01:24:32,620
+but weak in action.
+
+2721
+01:24:33,320 --> 01:24:35,560
+But what really affected me
+
+2722
+01:24:35,560 --> 01:24:37,000
+was seeing my partner
+
+2723
+01:24:37,480 --> 01:24:38,480
+feel sorry for what I was going through.
+
+2724
+01:24:38,480 --> 01:24:40,000
+Seeing how heartbroken
+
+2725
+01:24:40,000 --> 01:24:41,920
+she was because she cared about me.
+
+2726
+01:24:41,920 --> 01:24:44,160
+I ended up feeling sorry
+for both her and myself.
+
+2727
+01:24:44,920 --> 01:24:48,520
+(Love excuse, two birds with one stone)
+He really said everything possible.
+
+2728
+01:24:48,840 --> 01:24:50,520
+You said it all.
+
+2729
+01:24:50,620 --> 01:24:52,240
+(Rambling)
+
+2730
+01:24:52,240 --> 01:24:53,840
+(Singles can't handle this)
+I get it. You don't need to continue.
+
+2731
+01:24:53,840 --> 01:24:54,920
+I feel sorry for your partner.
+
+2732
+01:24:57,040 --> 01:24:59,440
+My capybara personality
+
+2733
+01:24:59,440 --> 01:25:01,160
+is naturally harmless.
+
+2734
+01:25:01,160 --> 01:25:02,080
+(Emotionally stable)
+I could never do anything
+
+2735
+01:25:02,080 --> 01:25:03,480
+(Harmless to humans)
+to hurt people.
+
+2736
+01:25:03,480 --> 01:25:03,960
+(Super kind Little Ka)
+Exactly.
+
+2737
+01:25:03,960 --> 01:25:04,360
+Makes sense.
+
+2738
+01:25:04,360 --> 01:25:05,600
+But even so,
+
+2739
+01:25:05,600 --> 01:25:07,840
+seeing someone who cares
+about me being hurt
+
+2740
+01:25:07,840 --> 01:25:09,360
+(Bold deduction!)
+makes me feel...
+
+2741
+01:25:09,680 --> 01:25:10,800
+Feel upset.
+
+2742
+01:25:11,080 --> 01:25:12,760
+You can leave now, friend.
+
+2743
+01:25:13,280 --> 01:25:14,240
+That's just who I am.
+
+2744
+01:25:16,680 --> 01:25:17,720
+And then you saw
+
+2745
+01:25:17,720 --> 01:25:19,760
+the person you love being hurt...
+
+2746
+01:25:19,760 --> 01:25:21,000
+Being abused.
+
+2747
+01:25:21,000 --> 01:25:22,240
+Did you want to kill the boss?
+
+2748
+01:25:23,000 --> 01:25:24,200
+I wanted to.
+
+2749
+01:25:24,200 --> 01:25:25,240
+But I didn't dare.
+
+2750
+01:25:25,600 --> 01:25:27,040
+Do I look like someone who could?
+
+2751
+01:25:27,060 --> 01:25:28,220
+(Coward! Got it?)
+
+2752
+01:25:28,520 --> 01:25:28,880
+Yes.
+
+2753
+01:25:30,760 --> 01:25:32,360
+(Wolf King reenactment)
+Would I dare?
+
+2754
+01:25:36,580 --> 01:25:39,620
+(He Struggle's motive analysis:
+Girlfriend abused by her boss)
+
+2755
+01:25:40,120 --> 01:25:41,600
+So based on this,
+
+2756
+01:25:41,600 --> 01:25:42,640
+your motive for murder
+
+2757
+01:25:42,640 --> 01:25:43,480
+is clear.
+
+2758
+01:25:43,800 --> 01:25:44,680
+But now we face
+
+2759
+01:25:44,680 --> 01:25:46,920
+a terrifying problem.
+
+2760
+01:25:47,520 --> 01:25:48,000
+What is it?
+
+2761
+01:25:51,080 --> 01:25:52,560
+The time of death.
+
+2762
+01:25:53,240 --> 01:25:54,400
+We simply can't determine it.
+
+2763
+01:25:55,240 --> 01:25:55,800
+Yeah.
+
+2764
+01:25:55,800 --> 01:25:56,200
+Exactly.
+
+2765
+01:25:56,200 --> 01:25:59,140
+(Unable to determine the key point,
+time of death)
+
+2766
+01:25:59,160 --> 01:25:59,920
+Think about it.
+
+2767
+01:25:59,920 --> 01:26:00,840
+Before the meeting,
+
+2768
+01:26:00,840 --> 01:26:02,880
+the boss came out to give a speech.
+
+2769
+01:26:03,200 --> 01:26:03,680
+He sat down,
+
+2770
+01:26:03,680 --> 01:26:05,120
+and just as everyone
+was preparing to start the party...
+
+2771
+01:26:05,480 --> 01:26:06,240
+(Boss starts the ghost story session)
+Thanks for coming.
+
+2772
+01:26:06,240 --> 01:26:08,640
+our crazy animal theme party.
+
+2773
+01:26:09,000 --> 01:26:12,120
+Our first thrilling segment,
+
+2774
+01:26:12,120 --> 01:26:13,960
+the City Ghost Story Sharing Session,
+
+2775
+01:26:13,960 --> 01:26:15,040
+begins now.
+
+2776
+01:26:15,840 --> 01:26:16,840
+After he finished speaking and left,
+
+2777
+01:26:16,840 --> 01:26:18,160
+we continued with the party.
+
+2778
+01:26:18,600 --> 01:26:19,600
+Suddenly, the power went out.
+
+2779
+01:26:19,600 --> 01:26:21,720
+And the boss's body appeared.
+
+2780
+01:26:21,880 --> 01:26:24,080
+(Timeline analysis)
+Actually, we do know the time of death.
+
+2781
+01:26:24,560 --> 01:26:25,760
+(2:30PM, Boss's speech)
+So from the moment he left.
+
+2782
+01:26:26,280 --> 01:26:28,120
+(Animals' sharing session)
+until his leg fell.
+
+2783
+01:26:28,720 --> 01:26:30,800
+(Boss's body discovered)
+Before we entered the lockers,
+
+2784
+01:26:30,800 --> 01:26:32,400
+(Time of death: 2:30PM to ?)
+his torso had already appeared.
+
+2785
+01:26:32,800 --> 01:26:34,560
+(The six animals enter the lockers)
+So all of us had...
+
+2786
+01:26:34,560 --> 01:26:35,360
+(The boss died before
+anyone could act alone)
+
+2787
+01:26:35,360 --> 01:26:36,520
+An alibi.
+
+2788
+01:26:36,520 --> 01:26:38,000
+Right, an alibi.
+
+2789
+01:26:38,020 --> 01:26:42,500
+(Everyone has an alibi?)
+
+2790
+01:26:42,520 --> 01:26:45,040
+How could he do it
+
+2791
+01:26:45,040 --> 01:26:46,400
+while staying with us the whole time?
+
+2792
+01:26:46,400 --> 01:26:48,360
+And even leave the leg at the scene?
+
+2793
+01:26:48,380 --> 01:26:52,100
+(How was the boss killed
+and dismembered in plain sight?)
+
+2794
+01:26:52,680 --> 01:26:54,720
+I think there's one possibility,
+an accomplice.
+
+2795
+01:26:54,720 --> 01:26:55,080
+Right?
+
+2796
+01:26:55,080 --> 01:26:57,180
+(Could the killer
+have had an accomplice?)
+
+2797
+01:26:57,200 --> 01:26:59,360
+Exactly, there had to be a third person.
+
+2798
+01:26:59,360 --> 01:27:00,840
+Secretary Tui.
+
+2799
+01:27:01,360 --> 01:27:03,200
+(Secretary: Bu Kakao by Li Bangbang)
+They're all company employees.
+
+2800
+01:27:03,520 --> 01:27:05,360
+(VIP Client: Tai Kule by Tai Wei)
+So you do know I'm your top client.
+
+2801
+01:27:05,360 --> 01:27:06,480
+The computer belongs to Duo Ge too.
+
+2802
+01:27:06,760 --> 01:27:08,240
+Who's Duo Ge? The receptionist?
+
+2803
+01:27:08,240 --> 01:27:09,040
+No idea.
+
+2804
+01:27:09,100 --> 01:27:10,340
+(Tui Games Company: Duo Ge)
+
+2805
+01:27:10,340 --> 01:27:12,140
+(Could one of them be the accomplice?)
+
+2806
+01:27:12,160 --> 01:27:14,160
+The method of murder is something
+we still have no idea about.
+
+2807
+01:27:14,880 --> 01:27:15,720
+Absolutely no idea.
+
+2808
+01:27:15,880 --> 01:27:17,960
+Then what was the cause of his death?
+
+2809
+01:27:18,020 --> 01:27:19,400
+(Starting from the cause of death)
+
+2810
+01:27:19,400 --> 01:27:20,480
+As for the cause of his death,
+
+2811
+01:27:20,480 --> 01:27:22,160
+I think it is very likely
+
+2812
+01:27:22,160 --> 01:27:23,520
+that he had already lost consciousness
+
+2813
+01:27:23,520 --> 01:27:25,360
+before he died.
+
+2814
+01:27:25,800 --> 01:27:27,400
+(Victim unconscious before death)
+He couldn't stay conscious.
+
+2815
+01:27:27,400 --> 01:27:29,000
+and endure the pain
+of being dismembered,
+
+2816
+01:27:29,000 --> 01:27:30,520
+while their body was left to rot
+
+2817
+01:27:30,520 --> 01:27:32,120
+inside water.
+
+2818
+01:27:32,360 --> 01:27:33,680
+But the problem is,
+
+2819
+01:27:33,680 --> 01:27:35,120
+we only found one poison.
+
+2820
+01:27:35,120 --> 01:27:36,840
+(Melt-Away, corrosive dissolving liquid)
+It's called Melt-Away.
+
+2821
+01:27:36,840 --> 01:27:38,000
+This only has
+
+2822
+01:27:38,000 --> 01:27:38,920
+a dissolving effect.
+
+2823
+01:27:38,920 --> 01:27:39,720
+It doesn't have any effect
+
+2824
+01:27:39,720 --> 01:27:41,080
+that causes someone
+to lose consciousness.
+
+2825
+01:27:41,080 --> 01:27:42,840
+(How did the victim lose consciousness
+before being dismembered?)
+
+2826
+01:27:42,840 --> 01:27:44,600
+We know the time of death.
+
+2827
+01:27:44,600 --> 01:27:45,760
+It was between the moment he left
+
+2828
+01:27:45,760 --> 01:27:47,520
+and the moment his leg fell down.
+
+2829
+01:27:47,520 --> 01:27:48,880
+When he died,
+
+2830
+01:27:48,880 --> 01:27:50,680
+he must have already been unconscious.
+
+2831
+01:27:52,520 --> 01:27:54,400
+Did you notice his head earlier?
+
+2832
+01:27:54,960 --> 01:27:56,120
+(The victim's head?)
+What happened to his head?
+
+2833
+01:27:56,120 --> 01:27:58,120
+His head actually doesn't look like...
+
+2834
+01:27:58,960 --> 01:27:59,600
+Doesn't look like what?
+
+2835
+01:28:02,920 --> 01:28:04,320
+Like he was electrocuted.
+
+2836
+01:28:04,320 --> 01:28:06,000
+Like he was electrocuted?
+
+2837
+01:28:07,880 --> 01:28:08,960
+Where did you see that?
+
+2838
+01:28:09,460 --> 01:28:10,280
+(Story setting:
+Contains fictional horror elements)
+
+2839
+01:28:10,280 --> 01:28:11,280
+This is the boss's head.
+
+2840
+01:28:14,100 --> 01:28:16,060
+(Burn marks)
+
+2841
+01:28:16,360 --> 01:28:17,840
+It had burn marks and blackened areas.
+
+2842
+01:28:18,240 --> 01:28:18,600
+Where?
+
+2843
+01:28:19,080 --> 01:28:19,920
+On his face.
+
+2844
+01:28:20,500 --> 01:28:23,460
+(Ding Staring Speculation: Victim lost
+consciousness from electrocution)
+
+2845
+01:28:23,480 --> 01:28:25,640
+I noticed there were no marks
+on his hands.
+
+2846
+01:28:25,800 --> 01:28:26,440
+None on his hands?
+
+2847
+01:28:26,440 --> 01:28:27,080
+Right.
+
+2848
+01:28:27,140 --> 01:28:28,220
+(Clue: Why are there burns
+on the head but not the limbs?)
+
+2849
+01:28:28,220 --> 01:28:30,140
+(Story setting:
+Contains fictional horror elements)
+
+2850
+01:28:30,720 --> 01:28:31,920
+I think we should consider
+
+2851
+01:28:31,920 --> 01:28:34,080
+why did he use Melt-Away?
+
+2852
+01:28:34,480 --> 01:28:34,960
+Yeah, why?
+
+2853
+01:28:34,960 --> 01:28:35,280
+Exactly.
+
+2854
+01:28:35,280 --> 01:28:38,100
+(Speculation: Why did the killer
+use Melt-Away to destroy the body?)
+
+2855
+01:28:38,400 --> 01:28:40,240
+I think he wanted to destroy something.
+
+2856
+01:28:41,040 --> 01:28:41,480
+Right.
+
+2857
+01:28:41,480 --> 01:28:42,160
+The question is,
+
+2858
+01:28:42,160 --> 01:28:43,880
+why did he only dissolve...
+
+2859
+01:28:44,160 --> 01:28:44,800
+The torso.
+
+2860
+01:28:44,800 --> 01:28:45,880
+Right. The hands and other...
+
+2861
+01:28:45,880 --> 01:28:46,680
+Other limbs.
+
+2862
+01:28:46,680 --> 01:28:47,720
+Yes, why leave the hands
+and limbs behind?
+
+2863
+01:28:48,060 --> 01:28:51,700
+(Speculation: Why did the killer
+only dissolve the victim's torso?)
+
+2864
+01:28:51,700 --> 01:28:54,860
+(Story setting:
+Contains fictional horror elements)
+
+2865
+01:29:12,620 --> 01:29:14,020
+(Next Episode Preview:
+Trading Places, Blood for Blood)
+
+2866
+01:29:17,240 --> 01:29:18,360
+What kind of place is this?
+
+2867
+01:29:18,680 --> 01:29:20,280
+They claim to love us,
+
+2868
+01:29:20,280 --> 01:29:22,920
+yet use that love to imprison us.
+
+2869
+01:29:22,920 --> 01:29:23,640
+And some humans
+
+2870
+01:29:23,640 --> 01:29:25,920
+even hurt
+
+2871
+01:29:25,920 --> 01:29:27,920
+and abuse our kind.
+
+2872
+01:29:27,920 --> 01:29:28,680
+I'll kill him.
+
+2873
+01:29:28,680 --> 01:29:31,440
+I'll make you villains
+feel the same pain.
+
+2874
+01:29:31,440 --> 01:29:33,480
+Revenge.
+
+2875
+01:29:33,480 --> 01:29:34,440
+Kill him.
+
+2876
+01:29:34,440 --> 01:29:34,960
+Kill him!
+
+2877
+01:29:36,480 --> 01:29:37,400
+We were injected with
+
+2878
+01:29:37,400 --> 01:29:38,520
+a human transformation serum.
+
+2879
+01:29:38,520 --> 01:29:40,040
+They turned us into them.
+
+2880
+01:29:40,040 --> 01:29:41,280
+So we could experience their suffering.
+
+2881
+01:29:41,280 --> 01:29:43,080
+We've already lost our human dignity.
+
+2882
+01:29:45,180 --> 01:29:45,900
+(Little Ka)
+
+2883
+01:29:45,920 --> 01:29:46,880
+Animal gravestones.
+
+2884
+01:29:46,880 --> 01:29:48,280
+Are we already dead?
+
+2885
+01:29:48,280 --> 01:29:49,640
+Then what are we now?
+
+2886
+01:29:49,640 --> 01:29:50,800
+(The Sin of Hypocrisy Revealed)
+
+2887
+01:29:50,800 --> 01:29:52,960
+They say rabbits can endure pain well.
+
+2888
+01:29:53,680 --> 01:29:54,880
+I can't watch this anymore.
+
+2889
+01:29:54,880 --> 01:29:55,480
+It's so cruel.
+
+2890
+01:29:55,480 --> 01:29:56,640
+They turned us into this
+
+2891
+01:29:56,640 --> 01:29:58,040
+and abused us again.
+
+2892
+01:30:00,680 --> 01:30:02,280
+He wants revenge for these animals.
+
+2893
+01:30:02,280 --> 01:30:05,600
+But what right does he
+have to kill Tui Haowan?
+
+2894
+01:30:05,600 --> 01:30:06,280
+(Beneath the Masks,
+Humans Devouring Each Other)
+
+2895
+01:30:06,280 --> 01:30:07,680
+The most exciting part is here.
+
+2896
+01:30:07,680 --> 01:30:09,480
+We can tear each other apart now.
+
+2897
+01:30:09,480 --> 01:30:10,680
+You seem like the killer.
+
+2898
+01:30:10,680 --> 01:30:12,920
+I'm only at home in water.
+
+2899
+01:30:12,920 --> 01:30:14,480
+That's a stretch.
+
+2900
+01:30:14,480 --> 01:30:15,840
+You're more like the boss.
+
+2901
+01:30:15,840 --> 01:30:16,760
+Rabbit family.
+
+2902
+01:30:16,760 --> 01:30:18,160
+(Rabbit Family)
+They have excellent night vision.
+
+2903
+01:30:18,160 --> 01:30:18,840
+You don't believe me?
+
+2904
+01:30:18,840 --> 01:30:19,840
+There's no room for sympathy here.
+
+2905
+01:30:19,840 --> 01:30:20,960
+I believe my younger brother
+
+2906
+01:30:20,960 --> 01:30:22,600
+is just a little puppy.
+
+2907
+01:30:22,600 --> 01:30:23,400
+That's different.
+
+2908
+01:30:23,400 --> 01:30:24,280
+You can't eliminate someone
+
+2909
+01:30:24,280 --> 01:30:25,680
+and then frame them.
+
+2910
+01:30:25,680 --> 01:30:26,360
+So what now?
+
+2911
+01:30:26,360 --> 01:30:27,400
+Still pretending?
+
+2912
+01:30:27,400 --> 01:30:28,240
+Vote for me?
+
+2913
+01:30:28,240 --> 01:30:29,320
+Here we go again.
+
+2914
+01:30:29,320 --> 01:30:30,200
+Then this round,
+
+2915
+01:30:30,200 --> 01:30:31,920
+I'll leave it to you all.
+
+2916
+01:30:31,920 --> 01:30:32,960
+It's up to you to decide.
+
+2917
+01:30:32,960 --> 01:30:35,080
+The difference between a god
+and a demon is just one thought.
+
+2918
+01:31:12,920 --> 01:31:14,320
+A brand-new evidence-hunting
+game is now available.
+
+2919
+01:31:14,320 --> 01:31:15,960
+Evidence Hunt Squad is live!
+
+2920
+01:31:15,960 --> 01:31:16,960
+Watch and play at the same time.
+
+2921
+01:31:16,960 --> 01:31:18,600
+Search for clues alongside players.
+
+2922
+01:31:18,600 --> 01:31:20,920
+Immerse yourself in uncovering
+the hidden clues of the case.
+
+2923
+01:31:20,920 --> 01:31:22,840
+Unlock cute character skins.
+
+2924
+01:31:22,840 --> 01:31:24,040
+Go to The Truth Season 4
+
+2925
+01:31:24,040 --> 01:31:26,120
+on WeTV.
+
+2926
+01:31:26,120 --> 01:31:28,080
+Tap "Play Together" below the player.
+
+2927
+01:31:28,080 --> 01:31:29,600
+And start your investigation!
+
+2928
+01:31:29,600 --> 01:31:30,640
+Go to The Truth Season 4
+
+2929
+01:31:30,640 --> 01:31:32,680
+on WeTV.
+
+2930
+01:31:32,680 --> 01:31:34,600
+(Case 01: Voting Now)
+Tap "Play Together" below the player.
+
+2931
+01:31:34,600 --> 01:31:36,640
+(01: My Family Is a Total Mess)
+Join the online hunt.
+
+2932
+01:31:36,640 --> 01:31:37,920
+(New case every Wednesday at noon)
+Become a detective.
+
+2933
+01:31:37,920 --> 01:31:39,480
+(Results every Thursday at 6PM)
+Solve it with the detectives.
+
+2934
+01:31:39,480 --> 01:31:41,040
+(Enter the Lock-In Challenge)
+Win Golden Keys.
+
+2935
+01:32:04,670 --> 01:32:08,670
+♪Come now, players all,
+let the game of reason start♪
+
+2936
+01:32:08,670 --> 01:32:13,110
+♪Unlock each hidden trial,
+let courage spark the dark♪
+
+2937
+01:32:15,130 --> 01:32:19,290
+♪Night falls slow, shadows grow,
+the sleuth is lost inside the maze♪
+
+2938
+01:32:19,290 --> 01:32:23,510
+♪Figures pass, lanterns sparse,
+dark currents drift without a trace♪
+
+2939
+01:32:23,510 --> 01:32:27,280
+♪Wind picks up, footsteps rush,
+cold laughter swallowed by the dark♪
+
+2940
+01:32:27,280 --> 01:32:31,390
+♪Truth concealed, the night
+stands still, and nothing leaves a mark♪
+
+2941
+01:32:31,570 --> 01:32:35,690
+♪An unsigned letter, coded words,
+the solvers gather one by one♪
+
+2942
+01:32:35,690 --> 01:32:39,800
+♪A broken game, illusion reigns,
+who's hiding what they've done?♪
+
+2943
+01:32:39,800 --> 01:32:43,440
+♪Hushed voices, nerves on edge,
+wrapped in smoke and mirrors still♪
+
+2944
+01:32:43,440 --> 01:32:45,570
+♪The next second, deeper riddles,
+or the answer to the kill♪
+
+2945
+01:32:45,570 --> 01:32:49,520
+♪Every piece of truth
+has finally come to light♪
+
+2946
+01:32:49,760 --> 01:32:53,680
+♪Unlock the mystery, turn the question,
+let's begin tonight♪
+
+2947
+01:32:53,890 --> 01:32:58,040
+♪Side by side, no holding back,
+follow every clue to find the truth♪
+
+2948
+01:32:58,040 --> 01:33:01,600
+♪The story blurs like flowers in fog,
+let's begin tonight♪
+
+2949
+01:33:01,860 --> 01:33:06,510
+♪Search for the vanished cipher,
+trace the proof, and face the sleuth♪
