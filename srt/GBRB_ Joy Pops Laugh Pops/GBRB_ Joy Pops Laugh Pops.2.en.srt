@@ -120,7 +120,7 @@ please make a simple note...
 
 31
 00:01:25,470 --> 00:01:27,409
-- on what the item is.
+- on what the item is.
 - Okay.
 
 32
@@ -129,7 +129,7 @@ Please collect all receipts.
 
 33
 00:01:29,210 --> 00:01:30,440
-- And...
+- And...
 - Hold on. I'll write it down.
 
 34
@@ -178,7 +178,7 @@ If you use cash, please receive a receipt.
 
 45
 00:01:50,100 --> 00:01:52,170
-- Lastly, the third one.
+- Lastly, the third one.
 - Okay.
 
 46
@@ -207,7 +207,7 @@ Can't we hold on to them...
 
 52
 00:02:07,780 --> 00:02:09,620
-- until the last day?
+- until the last day?
 - Until the last day?
 
 53
@@ -220,12 +220,12 @@ you can hand them in on the last day.
 
 55
 00:02:14,960 --> 00:02:16,819
-- But usually...
+- But usually...
 - The thing is,
 
 56
 00:02:16,820 --> 00:02:18,359
-- we have our own schedule.
+- we have our own schedule.
 - Yes.
 
 57
@@ -318,17 +318,17 @@ What will you do if you exceed that?
 
 79
 00:03:11,010 --> 00:03:12,310
-- If we exceed that?
+- If we exceed that?
 - Yes.
 
 80
 00:03:12,450 --> 00:03:14,279
-- You can use your own money.
+- You can use your own money.
 - You can use your own money.
 
 81
 00:03:14,280 --> 00:03:15,920
-- My own money?
+- My own money?
 - Yes.
 
 82
@@ -457,7 +457,7 @@ Five.
 
 113
 00:04:43,370 --> 00:04:45,240
-- Six times five.
+- Six times five.
 - Thirty isn't half bad.
 
 114
@@ -510,7 +510,7 @@ I'll room alone.
 
 126
 00:05:09,530 --> 00:05:10,729
-- Kwang Soo.
+- Kwang Soo.
 - Yes?
 
 127
@@ -523,7 +523,7 @@ the restaurant we'll go to right now...
 
 129
 00:05:14,500 --> 00:05:16,739
-- before we wash up or rest.
+- before we wash up or rest.
 - Okay.
 
 130
@@ -536,7 +536,7 @@ What do you want to eat?
 
 132
 00:05:20,070 --> 00:05:21,439
-- It has 1 star.
+- It has 1 star.
 - It has 1 star.
 
 133
@@ -573,7 +573,7 @@ The restaurant received a star despite being quite old.
 
 141
 00:05:35,690 --> 00:05:37,489
-- It must be very tasty.
+- It must be very tasty.
 - It's impressive.
 
 142
@@ -622,7 +622,7 @@ Shall we go to a place that's nearby today?
 
 153
 00:05:58,980 --> 00:06:00,049
-- Let's do that.
+- Let's do that.
 - Okay.
 
 154
@@ -655,7 +655,7 @@ The reviews are good.
 
 161
 00:06:15,530 --> 00:06:16,599
-- It's Western food.
+- It's Western food.
 - Shall we go there?
 
 162
@@ -672,7 +672,7 @@ Is it expensive?
 
 165
 00:06:22,470 --> 00:06:24,510
-- No, not at all.
+- No, not at all.
 - Thank you.
 
 166
@@ -681,12 +681,12 @@ We're going to try it tonight.
 
 167
 00:06:26,270 --> 00:06:27,569
-- Thank you.
+- Thank you.
 - Great.
 
 168
 00:06:27,570 --> 00:06:28,939
-- Thank you.
+- Thank you.
 - Enjoy it.
 
 169
@@ -695,7 +695,7 @@ Thank you.
 
 170
 00:06:30,610 --> 00:06:33,010
-- That place looks legit.
+- That place looks legit.
 - It was a great plan.
 
 171
@@ -704,7 +704,7 @@ It has to be tasty.
 
 172
 00:06:36,520 --> 00:06:38,189
-- Can we walk there?
+- Can we walk there?
 - Yes.
 
 173
@@ -721,12 +721,12 @@ The menu.
 
 176
 00:06:42,760 --> 00:06:44,830
-- They have this and that.
+- They have this and that.
 - "This and that."
 
 177
 00:06:45,090 --> 00:06:46,759
-- They serve Western food.
+- They serve Western food.
 - There's a variety.
 
 178
@@ -763,7 +763,7 @@ It must be an old tree.
 
 186
 00:07:03,010 --> 00:07:04,810
-- It must be an old tree.
+- It must be an old tree.
 - Yes.
 
 187
@@ -844,7 +844,7 @@ at the photos?
 
 206
 00:07:48,590 --> 00:07:50,520
-- Shall we try this?
+- Shall we try this?
 - Okay.
 
 207
@@ -881,7 +881,7 @@ four, five. Let's order five.
 
 215
 00:08:06,610 --> 00:08:07,910
-- Okay. Don't order more.
+- Okay. Don't order more.
 - Okay.
 
 216
@@ -898,7 +898,7 @@ Seriously.
 
 219
 00:08:12,880 --> 00:08:15,680
-- Even the temperature is perfect.
+- Even the temperature is perfect.
 - I agree.
 
 220
@@ -911,7 +911,7 @@ We can wear either long sleeves or short sleeves.
 
 222
 00:08:18,420 --> 00:08:19,989
-- Seriously.
+- Seriously.
 - It feels nice.
 
 223
@@ -940,7 +940,7 @@ Two glasses?
 
 229
 00:08:29,600 --> 00:08:31,159
-- One glass?
+- One glass?
 - Thank you.
 
 230
@@ -1033,7 +1033,7 @@ Por esta comida.
 
 252
 00:09:47,070 --> 00:09:48,780
-- What does that mean?
+- What does that mean?
 - Thank you for the food.
 
 253
@@ -1082,7 +1082,7 @@ It tastes sour.
 
 264
 00:10:36,560 --> 00:10:37,990
-- It's unusual.
+- It's unusual.
 - Right?
 
 265
@@ -1175,7 +1175,7 @@ This is it.
 
 287
 00:11:36,850 --> 00:11:39,489
-- Gosh, it smells like garlic bread.
+- Gosh, it smells like garlic bread.
 - Is it the same bread?
 
 288
@@ -1212,7 +1212,7 @@ as if it's water.
 
 296
 00:12:12,750 --> 00:12:14,859
-- I wanted to feel the fizz.
+- I wanted to feel the fizz.
 - Seriously.
 
 297
@@ -1313,22 +1313,22 @@ grilled cheese...
 
 321
 00:13:16,350 --> 00:13:19,120
-- Grilled cheese...
+- Grilled cheese...
 - What's Blizzard? Wine?
 
 322
 00:13:19,720 --> 00:13:21,660
-- Yes.
+- Yes.
 - Did you order wine?
 
 323
 00:13:23,320 --> 00:13:24,989
-- Finish it.
+- Finish it.
 - Kyung Soo.
 
 324
 00:13:24,990 --> 00:13:26,830
-- Kyung Soo, finish it.
+- Kyung Soo, finish it.
 - Hey.
 
 325
@@ -1349,7 +1349,7 @@ so...
 
 329
 00:13:36,940 --> 00:13:39,110
-- It was an experience.
+- It was an experience.
 - It was an experience.
 
 330
@@ -1370,7 +1370,7 @@ Let's drink a glass of milk before going to the restaurant.
 
 334
 00:13:55,160 --> 00:13:57,259
-- We brought the chicken juice.
+- We brought the chicken juice.
 - That's right.
 
 335
@@ -1387,7 +1387,7 @@ If we drink the chicken juice first,
 
 338
 00:14:04,130 --> 00:14:06,670
-- we'll be more cool-headed.
+- we'll be more cool-headed.
 - Okay. Let's do that.
 
 339
@@ -1408,7 +1408,7 @@ like stir-fried anchovies.
 
 343
 00:14:16,410 --> 00:14:17,710
-- Shredded squid?
+- Shredded squid?
 - Yes.
 
 344
@@ -1441,7 +1441,7 @@ If I drink everything, I'll fall asleep.
 
 351
 00:14:37,860 --> 00:14:39,930
-- Woo Bin, it's here.
+- Woo Bin, it's here.
 - Is it there?
 
 352
@@ -1454,12 +1454,12 @@ Just one?
 
 354
 00:14:44,470 --> 00:14:46,039
-- I want the whole one.
+- I want the whole one.
 - Two.
 
 355
 00:14:46,040 --> 00:14:47,369
-- Let's share.
+- Let's share.
 - We'll share.
 
 356
@@ -1488,7 +1488,7 @@ How about this one?
 
 362
 00:14:58,750 --> 00:15:00,790
-- Let's buy one.
+- Let's buy one.
 - You'll get thirsty again.
 
 363
@@ -1521,7 +1521,7 @@ Monster is so expensive.
 
 370
 00:15:21,710 --> 00:15:23,710
-- How much is it?
+- How much is it?
 - It's four dollars.
 
 371
@@ -1570,7 +1570,7 @@ It's two sips per person.
 
 382
 00:15:50,570 --> 00:15:52,209
-- You took three sips.
+- You took three sips.
 - Okay.
 
 383
@@ -1583,7 +1583,7 @@ Do we really need to travel like this?
 
 385
 00:15:58,510 --> 00:15:59,809
-- What?
+- What?
 - Seriously.
 
 386
@@ -1608,7 +1608,7 @@ How about that place?
 
 391
 00:16:13,630 --> 00:16:14,890
-- That place.
+- That place.
 - Let's go.
 
 392
@@ -1629,7 +1629,7 @@ A street stall.
 
 396
 00:16:24,640 --> 00:16:26,409
-- Should we choose from here?
+- Should we choose from here?
 - There are more.
 
 397
@@ -1642,7 +1642,7 @@ A street stall.
 
 399
 00:16:30,880 --> 00:16:32,480
-- What's this?
+- What's this?
 - Asado.
 
 400
@@ -1663,7 +1663,7 @@ Those are tacos.
 
 404
 00:16:43,790 --> 00:16:46,090
-- You're right.
+- You're right.
 - But there are no customers.
 
 405
@@ -1688,7 +1688,7 @@ Shall we go a bit further?
 
 410
 00:17:00,040 --> 00:17:02,539
-- Shall we go a bit further?
+- Shall we go a bit further?
 - Let's go a bit further.
 
 411
@@ -1733,7 +1733,7 @@ There are more stalls.
 
 421
 00:17:26,470 --> 00:17:28,499
-- The entire place has stalls.
+- The entire place has stalls.
 - Let's go.
 
 422
@@ -1742,7 +1742,7 @@ There are more stalls.
 
 423
 00:17:30,370 --> 00:17:32,340
-- Here.
+- Here.
 - Why are there so many people?
 
 424
@@ -1767,7 +1767,7 @@ Everyone is enjoying the food.
 
 429
 00:17:45,850 --> 00:17:48,089
-- That one looks delicious.
+- That one looks delicious.
 - The red one.
 
 430
@@ -1796,7 +1796,7 @@ One, please.
 
 436
 00:18:03,000 --> 00:18:04,470
-- This will be two.
+- This will be two.
 - Give me one.
 
 437
@@ -1841,7 +1841,7 @@ Everyone is having this one?
 
 447
 00:18:36,970 --> 00:18:38,200
-- No.
+- No.
 - Even him.
 
 448
@@ -1862,22 +1862,22 @@ This is cheese.
 
 452
 00:18:46,350 --> 00:18:47,609
-- Sacheese?
+- Sacheese?
 - Cheese.
 
 453
 00:18:47,610 --> 00:18:48,750
-- Cheese?
+- Cheese?
 - Cheese.
 
 454
 00:18:49,780 --> 00:18:51,120
-- Good?
+- Good?
 - Good.
 
 455
 00:18:51,680 --> 00:18:52,820
-- Thank you.
+- Thank you.
 - That's my favorite.
 
 456
@@ -1978,17 +1978,17 @@ It is tasty, though.
 
 480
 00:20:08,760 --> 00:20:10,299
-- It's tasty.
+- It's tasty.
 - It's tasty, but...
 
 481
 00:20:10,300 --> 00:20:12,529
-- Everything we had so far was good.
+- Everything we had so far was good.
 - Yes.
 
 482
 00:20:12,530 --> 00:20:13,900
-- It's good, but...
+- It's good, but...
 - But...
 
 483
@@ -2077,7 +2077,7 @@ Let's go to the wrestling match.
 
 504
 00:21:09,060 --> 00:21:10,690
-- Let's go.
+- Let's go.
 - Let's go.
 
 505
@@ -2086,7 +2086,7 @@ How far away is the stadium?
 
 506
 00:21:15,130 --> 00:21:16,960
-- It takes 16 minutes.
+- It takes 16 minutes.
 - It's 16 minutes?
 
 507
@@ -2131,7 +2131,7 @@ Three buses are connected.
 
 517
 00:21:40,290 --> 00:21:41,450
-- You're right.
+- You're right.
 - Gosh.
 
 518
@@ -2144,7 +2144,7 @@ That must be why they have lots of rotaries here.
 
 520
 00:21:48,760 --> 00:21:50,359
-- You're right.
+- You're right.
 - You're right.
 
 521
@@ -2181,7 +2181,7 @@ Yes, it's true.
 
 529
 00:22:08,720 --> 00:22:09,919
-- Is that so?
+- Is that so?
 - Is it because you're full?
 
 530
@@ -2218,7 +2218,7 @@ Are you quite disappointed?
 
 538
 00:22:30,100 --> 00:22:31,499
-- What?
+- What?
 - Are you quite disappointed?
 
 539
@@ -2259,7 +2259,7 @@ But there's still a lot...
 
 548
 00:22:51,490 --> 00:22:53,890
-- ahead of us.
+- ahead of us.
 - Right.
 
 549
@@ -2292,7 +2292,7 @@ I know.
 
 556
 00:23:10,910 --> 00:23:12,679
-- I hope it's roaring with screams.
+- I hope it's roaring with screams.
 - Yes.
 
 557
@@ -2321,7 +2321,7 @@ But the people will be gathered there.
 
 563
 00:23:29,730 --> 00:23:31,860
-- They're all there?
+- They're all there?
 - They say it's a festival.
 
 564
@@ -2330,7 +2330,7 @@ Moon to the music
 
 565
 00:23:34,970 --> 00:23:37,069
-- Yes, that.
+- Yes, that.
 - Dance to the music
 
 566
@@ -2343,7 +2343,7 @@ It must be over there.
 
 568
 00:23:41,710 --> 00:23:43,710
-- There are a lot of people here.
+- There are a lot of people here.
 - Something's going on here.
 
 569
@@ -2356,7 +2356,7 @@ They're here on that...
 
 571
 00:23:49,580 --> 00:23:51,350
-- Package tours.
+- Package tours.
 - They're here with tour guides...
 
 572
@@ -2365,7 +2365,7 @@ and going to watch the match.
 
 573
 00:23:53,820 --> 00:23:55,020
-- Yes.
+- Yes.
 - That must be it.
 
 574
@@ -2378,7 +2378,7 @@ It's a festival here.
 
 576
 00:24:02,330 --> 00:24:03,660
-- It's over there.
+- It's over there.
 - Do you hear the sound?
 
 577
@@ -2407,7 +2407,7 @@ He must have used a move.
 
 583
 00:24:14,670 --> 00:24:16,640
-- Yes!
+- Yes!
 - It's like the World Cup.
 
 584
@@ -2416,7 +2416,7 @@ Let's choose a team...
 
 585
 00:24:18,950 --> 00:24:20,209
-- and cheer for them.
+- and cheer for them.
 - Let's do that.
 
 586
@@ -2429,7 +2429,7 @@ Really?
 
 588
 00:24:23,520 --> 00:24:25,380
-- There's a villain?
+- There's a villain?
 - Yes.
 
 589
@@ -2438,7 +2438,7 @@ That's fun.
 
 590
 00:24:27,090 --> 00:24:29,190
-- Gosh.
+- Gosh.
 - The shouting is so loud.
 
 591
@@ -2487,7 +2487,7 @@ only this place is packed.
 
 602
 00:24:54,850 --> 00:24:56,919
-- We need to buy masks.
+- We need to buy masks.
 - Forget it, just go.
 
 603
@@ -2528,7 +2528,7 @@ Let's get him one if he will wear it until we get to the hotel.
 
 612
 00:25:12,270 --> 00:25:13,470
-- What do you say?
+- What do you say?
 - Sure.
 
 613
@@ -2569,12 +2569,12 @@ It's a professional one. It's 700.
 
 622
 00:25:34,720 --> 00:25:36,660
-- Is it 300?
+- Is it 300?
 - Yes, it's 700.
 
 623
 00:25:36,860 --> 00:25:37,989
-- How much is that?
+- How much is that?
 - Let's go.
 
 624
@@ -2591,7 +2591,7 @@ It's 24 dollars or 25 dollars.
 
 627
 00:25:42,090 --> 00:25:43,530
-- Is it 25 dollars?
+- Is it 25 dollars?
 - Yes.
 
 628
@@ -2612,7 +2612,7 @@ But this is...
 
 632
 00:25:50,200 --> 00:25:52,409
-- Can't we spend 25 dollars?
+- Can't we spend 25 dollars?
 - Kwang Soo.
 
 633
@@ -2685,7 +2685,7 @@ It's 450 pesos.
 
 650
 00:26:34,480 --> 00:26:36,150
-- Is it 4?
+- Is it 4?
 - It's 450 pesos.
 
 651
@@ -2694,7 +2694,7 @@ Four...
 
 652
 00:26:38,350 --> 00:26:40,219
-- Did you say 450?
+- Did you say 450?
 - It's 450.
 
 653
@@ -2719,7 +2719,7 @@ Let's buy this one.
 
 658
 00:26:48,660 --> 00:26:50,160
-- It's 33 dollars.
+- It's 33 dollars.
 - Let's get this one.
 
 659
@@ -2736,7 +2736,7 @@ Let's buy that one.
 
 662
 00:26:56,440 --> 00:26:57,499
-- Kwang Soo.
+- Kwang Soo.
 - Yes?
 
 663
@@ -2781,7 +2781,7 @@ it ends and we miss it.
 
 673
 00:27:20,460 --> 00:27:21,859
-- While he's shopping?
+- While he's shopping?
 - Yes.
 
 674
@@ -2790,12 +2790,12 @@ it ends and we miss it.
 
 675
 00:27:22,960 --> 00:27:25,330
-- Seriously.
+- Seriously.
 - You seem quite upset.
 
 676
 00:27:27,300 --> 00:27:28,770
-- My friend.
+- My friend.
 - Hi.
 
 677
@@ -2804,7 +2804,7 @@ Could you please give me a discount?
 
 678
 00:27:31,040 --> 00:27:32,970
-- Gosh, you know how to haggle?
+- Gosh, you know how to haggle?
 - Yes.
 
 679
@@ -2813,12 +2813,12 @@ It's 750.
 
 680
 00:27:34,610 --> 00:27:36,280
-- Sorry?
+- Sorry?
 - It's 750.
 
 681
 00:27:36,880 --> 00:27:38,780
-- Is it 750?
+- Is it 750?
 - It's 750 pesos.
 
 682
@@ -2827,7 +2827,7 @@ It's 750.
 
 683
 00:27:40,210 --> 00:27:41,650
-- This?
+- This?
 - No.
 
 684
@@ -2840,7 +2840,7 @@ No. Too expensive.
 
 686
 00:27:46,090 --> 00:27:47,219
-- How much is it?
+- How much is it?
 - It's 650 pesos.
 
 687
@@ -2873,12 +2873,12 @@ Is it 100?
 
 694
 00:28:01,100 --> 00:28:02,439
-- This is 50 and 100.
+- This is 50 and 100.
 - It's 50.
 
 695
 00:28:02,440 --> 00:28:04,869
-- Hey.
+- Hey.
 - Choose from the 50 ones.
 
 696
@@ -2895,17 +2895,17 @@ Kwang Soo!
 
 699
 00:28:13,680 --> 00:28:15,610
-- The quality is different.
+- The quality is different.
 - You just need the basic one.
 
 700
 00:28:16,320 --> 00:28:17,979
-- This is a monkey.
+- This is a monkey.
 - Two minutes left.
 
 701
 00:28:17,980 --> 00:28:19,519
-- Kyung Soo.
+- Kyung Soo.
 - We have only two minutes left.
 
 702
@@ -2958,7 +2958,7 @@ It's not two minutes.
 
 714
 00:28:50,320 --> 00:28:53,149
-- Okay. Thank you.
+- Okay. Thank you.
 - You're welcome.
 
 715
@@ -2979,7 +2979,7 @@ No, get this one. This is it.
 
 719
 00:28:59,930 --> 00:29:02,030
-- This is...
+- This is...
 - Thank you.
 
 720
@@ -3016,7 +3016,7 @@ Why did you get the monkey mask?
 
 728
 00:29:27,790 --> 00:29:30,920
-- You asked for it.
+- You asked for it.
 - It looks like origami paper.
 
 729
@@ -3025,12 +3025,12 @@ Why did you get the monkey mask?
 
 730
 00:29:34,290 --> 00:29:36,529
-- Hurry up and put it on.
+- Hurry up and put it on.
 - This is 100 pesos.
 
 731
 00:29:36,530 --> 00:29:38,330
-- Put it on before you enter.
+- Put it on before you enter.
 - Seven dollars.
 
 732
@@ -3047,7 +3047,7 @@ This is for little girls.
 
 735
 00:29:48,710 --> 00:29:50,879
-- You need to...
+- You need to...
 - This is for little girls.
 
 736
@@ -3068,7 +3068,7 @@ There you go.
 
 740
 00:30:01,850 --> 00:30:03,289
-- There you go.
+- There you go.
 - I can't breathe.
 
 741
@@ -3149,7 +3149,7 @@ What's going on?
 
 760
 00:31:11,820 --> 00:31:13,760
-- What did they say?
+- What did they say?
 - This is...
 
 761
@@ -3162,7 +3162,7 @@ and a 31-dollar seat.
 
 763
 00:31:20,900 --> 00:31:22,569
-- I can't breathe.
+- I can't breathe.
 - I'll get the 23-dollar seat.
 
 764
@@ -3171,7 +3171,7 @@ The cheap one.
 
 765
 00:31:23,600 --> 00:31:24,769
-- Okay.
+- Okay.
 - Let's get the expensive one.
 
 766
@@ -3200,7 +3200,7 @@ I have the biggest share, so get me the expensive seat.
 
 772
 00:31:37,120 --> 00:31:38,919
-- I can't see if it's too far.
+- I can't see if it's too far.
 - This is also the front row.
 
 773
@@ -3229,7 +3229,7 @@ We're 3 people. We will take the 27-dollar seats.
 
 779
 00:31:50,460 --> 00:31:51,530
-- Okay?
+- Okay?
 - Yes.
 
 780
@@ -3262,12 +3262,12 @@ Thank you.
 
 787
 00:32:07,980 --> 00:32:09,010
-- Tickets?
+- Tickets?
 - Here.
 
 788
 00:32:09,520 --> 00:32:10,980
-- We are three.
+- We are three.
 - Okay.
 
 789
@@ -3296,12 +3296,12 @@ This is going to be so much fun.
 
 795
 00:32:22,730 --> 00:32:24,299
-- We need to hurry.
+- We need to hurry.
 - If someone on your side...
 
 796
 00:32:24,300 --> 00:32:25,529
-- If one person...
+- If one person...
 - They're coming out.
 
 797
@@ -3334,12 +3334,12 @@ That's what makes you special.
 
 804
 00:32:44,280 --> 00:32:45,849
-- Gosh, there are so many people.
+- Gosh, there are so many people.
 - Gosh.
 
 805
 00:32:45,850 --> 00:32:48,419
-- My goodness.
+- My goodness.
 - Gosh, that's amazing.
 
 806
@@ -3348,12 +3348,12 @@ That's what makes you special.
 
 807
 00:32:51,190 --> 00:32:52,589
-- Gosh, there are so many people.
+- Gosh, there are so many people.
 - Gosh.
 
 808
 00:32:52,590 --> 00:32:55,359
-- My goodness.
+- My goodness.
 - Gosh, that's amazing.
 
 809
@@ -3442,7 +3442,7 @@ and that team must be...
 
 830
 00:34:09,700 --> 00:34:12,770
-- They must be tagging.
+- They must be tagging.
 - Yes, they tag.
 
 831
@@ -3487,7 +3487,7 @@ Iron Man!
 
 841
 00:34:41,700 --> 00:34:43,640
-- That's a foul.
+- That's a foul.
 - That's a foul.
 
 842
@@ -3536,7 +3536,7 @@ it looks so real.
 
 853
 00:35:14,330 --> 00:35:16,569
-- What?
+- What?
 - It looks so real.
 
 854
@@ -3549,7 +3549,7 @@ This is a must, for sure.
 
 856
 00:35:20,970 --> 00:35:23,310
-- It makes your hands sweaty.
+- It makes your hands sweaty.
 - This is amazing.
 
 857
@@ -3562,7 +3562,7 @@ And it's not a big difference, so get the best seats.
 
 859
 00:35:30,350 --> 00:35:31,749
-- Yes.
+- Yes.
 - Yes.
 
 860
@@ -3579,7 +3579,7 @@ And the mask is like your class.
 
 863
 00:35:41,460 --> 00:35:43,100
-- You need to get the good masks.
+- You need to get the good masks.
 - Yes.
 
 864
@@ -3612,7 +3612,7 @@ Gosh, amazing.
 
 871
 00:36:22,800 --> 00:36:24,339
-- Chop.
+- Chop.
 - Is that a chop?
 
 872
@@ -3621,7 +3621,7 @@ Gosh, amazing.
 
 873
 00:36:25,940 --> 00:36:27,710
-- What?
+- What?
 - What? On the rope?
 
 874
@@ -3642,7 +3642,7 @@ The neck...
 
 878
 00:36:41,090 --> 00:36:42,720
-- Gosh.
+- Gosh.
 - Oh, no.
 
 879
@@ -3687,12 +3687,12 @@ Gosh, this is amazing.
 
 889
 00:37:13,990 --> 00:37:15,889
-- Gosh, no way.
+- Gosh, no way.
 - No!
 
 890
 00:37:15,890 --> 00:37:18,020
-- No!
+- No!
 - No!
 
 891
@@ -3765,7 +3765,7 @@ No!
 
 908
 00:38:20,820 --> 00:38:22,720
-- Gosh.
+- Gosh.
 - One, two, three!
 
 909
@@ -4010,12 +4010,12 @@ That was the best thing we saw all day.
 
 969
 00:42:03,910 --> 00:42:05,139
-- It was fun.
+- It was fun.
 - That was...
 
 970
 00:42:05,140 --> 00:42:07,550
-- That was the best thing ever.
+- That was the best thing ever.
 - It was the best.
 
 971
@@ -4204,7 +4204,7 @@ Where is it? The ziplock bag...
 
 1017
 00:44:06,560 --> 00:44:07,999
-- with all the receipts?
+- with all the receipts?
 - Gosh.
 
 1018
@@ -4285,7 +4285,7 @@ I found it.
 
 1037
 00:45:07,760 --> 00:45:09,259
-- Where was it?
+- Where was it?
 - In the pocket...
 
 1038
@@ -4342,7 +4342,7 @@ How would we get there?
 
 1051
 00:45:46,130 --> 00:45:47,470
-- What?
+- What?
 - The Chapultepec Castle.
 
 1052
@@ -4403,7 +4403,7 @@ Wear it down tomorrow?
 
 1066
 00:46:21,570 --> 00:46:23,400
-- You look good with your hair down.
+- You look good with your hair down.
 - You think so?
 
 1067
@@ -4412,12 +4412,12 @@ Do you think so too, Kyung Soo?
 
 1068
 00:46:28,240 --> 00:46:30,180
-- What?
+- What?
 - Do you think so too?
 
 1069
 00:46:31,210 --> 00:46:33,439
-- Your hair for tomorrow?
+- Your hair for tomorrow?
 - Which is better?
 
 1070
@@ -4478,7 +4478,7 @@ Let's do that then.
 
 1084
 00:47:04,340 --> 00:47:06,310
-- The things you brought.
+- The things you brought.
 - Yes, let's use that.
 
 1085
@@ -4531,12 +4531,12 @@ It's 3 and 5. So it's 15.
 
 1097
 00:47:35,870 --> 00:47:37,640
-- It's five.
+- It's five.
 - Please.
 
 1098
 00:47:38,080 --> 00:47:39,680
-- Okay. You pick one.
+- Okay. You pick one.
 - It's eight.
 
 1099
@@ -4557,12 +4557,12 @@ We're throwing them at the same time.
 
 1103
 00:47:49,190 --> 00:47:50,660
-- All three at the same time?
+- All three at the same time?
 - Yes.
 
 1104
 00:47:51,060 --> 00:47:53,860
-- Wait.
+- Wait.
 - So once these are thrown,
 
 1105
@@ -4579,7 +4579,7 @@ You've had practice, though.
 
 1108
 00:48:00,730 --> 00:48:01,799
-- You too.
+- You too.
 - No, I haven't.
 
 1109
@@ -4592,7 +4592,7 @@ Me too.
 
 1111
 00:48:04,370 --> 00:48:05,539
-- You threw it earlier.
+- You threw it earlier.
 - This is new.
 
 1112
@@ -4601,7 +4601,7 @@ When did I do that?
 
 1113
 00:48:07,170 --> 00:48:08,439
-- This is new.
+- This is new.
 - Kyung Soo, I saw you throw one.
 
 1114
@@ -4622,12 +4622,12 @@ Why did you throw it? Why are you lying about it?
 
 1118
 00:48:15,080 --> 00:48:16,879
-- No, I just stuck it on the wall.
+- No, I just stuck it on the wall.
 - Why did you lie?
 
 1119
 00:48:16,880 --> 00:48:18,679
-- We'll each do it once.
+- We'll each do it once.
 - Tell the camera.
 
 1120
@@ -4644,7 +4644,7 @@ I really didn't throw it.
 
 1123
 00:48:24,020 --> 00:48:25,160
-- Really?
+- Really?
 - Really.
 
 1124
@@ -4669,7 +4669,7 @@ Let me try it too then.
 
 1129
 00:48:34,870 --> 00:48:36,729
-- Sticking it on the wall is fine.
+- Sticking it on the wall is fine.
 - I'll stick it on the wall too.
 
 1130
@@ -4678,17 +4678,17 @@ I'll stick it on the wall too.
 
 1131
 00:48:40,000 --> 00:48:41,209
-- What?
+- What?
 - Your hand.
 
 1132
 00:48:41,210 --> 00:48:42,869
-- You have to let go.
+- You have to let go.
 - Like this?
 
 1133
 00:48:42,870 --> 00:48:44,240
-- Yes.
+- Yes.
 - What?
 
 1134
@@ -4705,27 +4705,27 @@ It's not even sticky.
 
 1137
 00:48:50,210 --> 00:48:51,849
-- How did you stick it to the wall?
+- How did you stick it to the wall?
 - Just try it.
 
 1138
 00:48:51,850 --> 00:48:53,519
-- It sticks.
+- It sticks.
 - It's not sticking.
 
 1139
 00:48:53,520 --> 00:48:55,349
-- Just throw it then.
+- Just throw it then.
 - You have to do this.
 
 1140
 00:48:55,350 --> 00:48:57,560
-- Do what?
+- Do what?
 - Like this.
 
 1141
 00:48:57,890 --> 00:48:59,389
-- You brat...
+- You brat...
 - Try this.
 
 1142
@@ -4746,17 +4746,17 @@ There's nothing you can do about it.
 
 1146
 00:49:05,200 --> 00:49:06,600
-- What?
+- What?
 - It's your fate.
 
 1147
 00:49:07,030 --> 00:49:09,169
-- All right, let go. One...
+- All right, let go. One...
 - This isn't...
 
 1148
 00:49:09,170 --> 00:49:11,299
-- This isn't designed to work.
+- This isn't designed to work.
 - See? It's stuck.
 
 1149
@@ -4765,17 +4765,17 @@ There's nothing you can do about it.
 
 1150
 00:49:12,840 --> 00:49:14,539
-- That's how it works.
+- That's how it works.
 - Right. It's actually lasting long.
 
 1151
 00:49:14,540 --> 00:49:16,139
-- You're still safe.
+- You're still safe.
 - I'm still safe.
 
 1152
 00:49:16,140 --> 00:49:18,539
-- It didn't land on the floor.
+- It didn't land on the floor.
 - You're still safe.
 
 1153
@@ -4804,7 +4804,7 @@ Okay.
 
 1159
 00:49:33,590 --> 00:49:35,329
-- I know you threw it.
+- I know you threw it.
 - If you don't play...
 
 1160
@@ -4813,12 +4813,12 @@ If you don't play, you lose. Rock, paper, scissors.
 
 1161
 00:49:37,760 --> 00:49:38,960
-- Rock, paper, scissors.
+- Rock, paper, scissors.
 - What's that?
 
 1162
 00:49:39,760 --> 00:49:41,630
-- Rock, paper, scissors.
+- Rock, paper, scissors.
 - I played.
 
 1163
@@ -4827,12 +4827,12 @@ If you don't play, you lose. Rock, paper, scissors.
 
 1164
 00:49:45,300 --> 00:49:47,169
-- What?
+- What?
 - You're such a scammer.
 
 1165
 00:49:47,170 --> 00:49:49,110
-- You're such a scammer.
+- You're such a scammer.
 - What? What's this then?
 
 1166
@@ -4845,7 +4845,7 @@ Why would you say that now?
 
 1168
 00:49:53,010 --> 00:49:55,179
-- I told you earlier too.
+- I told you earlier too.
 - Then do we sit here and throw?
 
 1169
@@ -4854,12 +4854,12 @@ No. Stand next to the bed.
 
 1170
 00:49:57,250 --> 00:49:58,250
-- Throw it from here?
+- Throw it from here?
 - Yes.
 
 1171
 00:49:58,251 --> 00:50:00,489
-- That's so unfair.
+- That's so unfair.
 - It won't even stick.
 
 1172
@@ -4880,12 +4880,12 @@ There's nothing we can do about that.
 
 1176
 00:50:08,160 --> 00:50:10,630
-- Where am I supposed to stand?
+- Where am I supposed to stand?
 - Here.
 
 1177
 00:50:11,200 --> 00:50:12,659
-- By the bag.
+- By the bag.
 - Stand on one foot.
 
 1178
@@ -4910,7 +4910,7 @@ There's nowhere for me to stand here.
 
 1183
 00:50:22,240 --> 00:50:24,339
-- Look.
+- Look.
 - Don't step on my things.
 
 1184
@@ -4923,7 +4923,7 @@ Then I'll stand over there, since I'm second.
 
 1186
 00:50:28,810 --> 00:50:30,519
-- That's fine.
+- That's fine.
 - You stand over here, Kwang Soo.
 
 1187
@@ -4948,7 +4948,7 @@ No, we didn't. He did.
 
 1192
 00:50:44,130 --> 00:50:45,900
-- We'll count to three and throw.
+- We'll count to three and throw.
 - Wait.
 
 1193
@@ -4969,7 +4969,7 @@ What happened?
 
 1197
 00:50:54,310 --> 00:50:56,740
-- Move it.
+- Move it.
 - Move it.
 
 1198
@@ -4978,7 +4978,7 @@ What happened?
 
 1199
 00:51:00,010 --> 00:51:02,609
-- What if none of them fall?
+- What if none of them fall?
 - If they stay stuck like this...
 
 1200
@@ -4987,12 +4987,12 @@ If they stay stuck like this, whoever's lowest loses.
 
 1201
 00:51:05,320 --> 00:51:07,649
-- No. Why are you suddenly...
+- No. Why are you suddenly...
 - Why not?
 
 1202
 00:51:07,650 --> 00:51:09,790
-- Why are you making up rules?
+- Why are you making up rules?
 - That's obvious, though.
 
 1203
@@ -5021,7 +5021,7 @@ I don't think we should do this here.
 
 1209
 00:51:21,130 --> 00:51:22,330
-- This is...
+- This is...
 - Let's do a rematch.
 
 1210
@@ -5042,7 +5042,7 @@ Okay.
 
 1214
 00:51:36,110 --> 00:51:37,249
-- Last place.
+- Last place.
 - Last place.
 
 1215
@@ -5055,12 +5055,12 @@ Okay.
 
 1217
 00:51:40,850 --> 00:51:42,619
-- This is invalid.
+- This is invalid.
 - They probably won't separate.
 
 1218
 00:51:42,620 --> 00:51:44,789
-- It's invalid.
+- It's invalid.
 - But this one's last place anyway.
 
 1219
@@ -5089,7 +5089,7 @@ This is so upsetting.
 
 1225
 00:51:54,300 --> 00:51:55,529
-- What?
+- What?
 - What are you doing?
 
 1226
@@ -5106,12 +5106,12 @@ This arm is stretched out.
 
 1229
 00:52:03,140 --> 00:52:05,640
-- Mine is cut off.
+- Mine is cut off.
 - Mine broke in the middle.
 
 1230
 00:52:06,340 --> 00:52:08,749
-- Why is mine...
+- Why is mine...
 - What happened to the middle?
 
 1231
@@ -5132,7 +5132,7 @@ We have to do the rematch now.
 
 1235
 00:52:15,190 --> 00:52:16,519
-- What am I going to do about this?
+- What am I going to do about this?
 - We have to do the rematch.
 
 1236
@@ -5145,7 +5145,7 @@ All right. One, two, three.
 
 1238
 00:52:23,030 --> 00:52:24,660
-- Please.
+- Please.
 - Okay.
 
 1239
@@ -5162,12 +5162,12 @@ What was that?
 
 1242
 00:52:30,570 --> 00:52:32,700
-- It came to me.
+- It came to me.
 - How did you do that?
 
 1243
 00:52:32,870 --> 00:52:35,210
-- How did you do that?
+- How did you do that?
 - It's so scary.
 
 1244
@@ -5180,7 +5180,7 @@ How did you do that?
 
 1246
 00:52:38,740 --> 00:52:40,979
-- Do you know this scene?
+- Do you know this scene?
 - How did it go from here to...
 
 1247
@@ -5193,7 +5193,7 @@ It took a lap and ended up here.
 
 1249
 00:52:45,780 --> 00:52:47,550
-- I was so startled.
+- I was so startled.
 - How did it end up here?
 
 1250
@@ -5226,12 +5226,12 @@ I'm serious. That's how long it takes for me to get ready.
 
 1257
 00:53:02,570 --> 00:53:03,869
-- How does that make sense?
+- How does that make sense?
 - I can...
 
 1258
 00:53:03,870 --> 00:53:05,770
-- wake up at 9:40am.
+- wake up at 9:40am.
 - Are you serious?
 
 1259
@@ -5240,7 +5240,7 @@ Have some manners.
 
 1260
 00:53:07,440 --> 00:53:08,909
-- No, I'll...
+- No, I'll...
 - Do you think that's okay?
 
 1261
@@ -5261,7 +5261,7 @@ I'm the first and you're also the first.
 
 1265
 00:53:17,520 --> 00:53:18,920
-- And Woo Bin is last?
+- And Woo Bin is last?
 - Yes.
 
 1266
@@ -5274,7 +5274,7 @@ There are two bathrooms anyway.
 
 1268
 00:53:24,760 --> 00:53:26,720
-- You have to wake up when I do.
+- You have to wake up when I do.
 - Right.
 
 1269
@@ -5303,7 +5303,7 @@ No, Kwang Soo. I need an hour.
 
 1275
 00:53:36,270 --> 00:53:37,469
-- To get ready?
+- To get ready?
 - So you have to...
 
 1276
@@ -5312,17 +5312,17 @@ wake up an hour and a half earlier.
 
 1277
 00:53:40,070 --> 00:53:42,409
-- But we're...
+- But we're...
 - Okay. We'll get ready and leave,
 
 1278
 00:53:42,410 --> 00:53:44,240
-- Yes.
+- Yes.
 - and you join us once you're done.
 
 1279
 00:53:45,380 --> 00:53:48,049
-- What?
+- What?
 - What do you mean?
 
 1280
@@ -5351,7 +5351,7 @@ but you should give me an hour.
 
 1286
 00:53:57,320 --> 00:53:58,959
-- Right.
+- Right.
 - So you wake up an hour earlier...
 
 1287
@@ -5396,7 +5396,7 @@ We can space them out.
 
 1297
 00:54:21,650 --> 00:54:23,350
-- What?
+- What?
 - We can space them out.
 
 1298
@@ -5449,7 +5449,7 @@ No matter how good something is...
 
 1310
 00:54:48,610 --> 00:54:50,540
-- What do you want to eat, then?
+- What do you want to eat, then?
 - Let's go eat that.
 
 1311
@@ -5506,7 +5506,7 @@ I'm going to sleep.
 
 1324
 00:55:20,000 --> 00:55:21,040
-- Goodnight.
+- Goodnight.
 - Goodnight.
 
 1325
@@ -5539,7 +5539,7 @@ For a second, I thought I was in the car.
 
 1332
 00:55:43,660 --> 00:55:46,129
-- Good job, today.
+- Good job, today.
 - Good job, today.
 
 1333
@@ -5764,7 +5764,7 @@ that only Mexicans go to.
 
 1388
 00:58:00,700 --> 00:58:02,699
-- I hear there's a line.
+- I hear there's a line.
 - Really?
 
 1389
@@ -5781,7 +5781,7 @@ When I showed her, she was like...
 
 1392
 00:58:08,010 --> 00:58:09,710
-- It's here.
+- It's here.
 - The taxi is here.
 
 1393
@@ -5790,17 +5790,17 @@ It's nice...
 
 1394
 00:58:10,841 --> 00:58:12,909
-- to start a day with breakfast.
+- to start a day with breakfast.
 - It's nice.
 
 1395
 00:58:12,910 --> 00:58:14,710
-- It's nice to start the day early.
+- It's nice to start the day early.
 - Yes.
 
 1396
 00:58:15,310 --> 00:58:17,749
-- I hope the line isn't long.
+- I hope the line isn't long.
 - Right.
 
 1397
@@ -5813,7 +5813,7 @@ It only opens until noon.
 
 1399
 00:58:20,320 --> 00:58:22,620
-- We can only eat this now.
+- We can only eat this now.
 - Yes.
 
 1400
@@ -5834,7 +5834,7 @@ Nice.
 
 1404
 00:58:29,990 --> 00:58:32,529
-- Do they sell coffee?
+- Do they sell coffee?
 - They have coffee.
 
 1405
@@ -5843,7 +5843,7 @@ I hear their hot chocolate is famous.
 
 1406
 00:58:34,470 --> 00:58:36,469
-- That's what Kwang Soo likes.
+- That's what Kwang Soo likes.
 - That sounds tasty.
 
 1407
@@ -5864,12 +5864,12 @@ Let's go back to the old days...
 
 1411
 00:58:44,610 --> 00:58:46,479
-- and get friendship bracelets.
+- and get friendship bracelets.
 - Good idea.
 
 1412
 00:58:46,480 --> 00:58:48,310
-- I like that idea.
+- I like that idea.
 - Right?
 
 1413
@@ -5882,7 +5882,7 @@ All the same bracelets.
 
 1415
 00:58:53,580 --> 00:58:54,919
-- It's here.
+- It's here.
 - Thank you.
 
 1416
@@ -5899,7 +5899,7 @@ Even at this hour?
 
 1419
 00:59:05,100 --> 00:59:06,799
-- It's full of locals.
+- It's full of locals.
 - Yes.
 
 1420
@@ -5916,7 +5916,7 @@ It must be popular.
 
 1423
 00:59:12,840 --> 00:59:14,469
-- What do you think?
+- What do you think?
 - I like it.
 
 1424
@@ -5953,12 +5953,12 @@ Hi. Thank you.
 
 1432
 00:59:41,730 --> 00:59:43,270
-- Hello.
+- Hello.
 - Hello.
 
 1433
 00:59:43,300 --> 00:59:44,840
-- Two?
+- Two?
 - Two.
 
 1434
@@ -5995,7 +5995,7 @@ She'd give it to me? Really?
 
 1442
 01:00:06,520 --> 01:00:08,359
-- It's the Mexican meat croquette.
+- It's the Mexican meat croquette.
 - Thank you.
 
 1443
@@ -6012,7 +6012,7 @@ Thank you.
 
 1446
 01:00:16,230 --> 01:00:17,530
-- Is it good?
+- Is it good?
 - Yes.
 
 1447
@@ -6021,47 +6021,47 @@ Thank you.
 
 1448
 01:00:18,771 --> 01:00:20,069
-- Is it good? Order it?
+- Is it good? Order it?
 - It's good.
 
 1449
 01:00:20,070 --> 01:00:21,340
-- It's good.
+- It's good.
 - Thank you.
 
 1450
 01:00:22,440 --> 01:00:23,770
-- Get that too?
+- Get that too?
 - Yes.
 
 1451
 01:00:24,310 --> 01:00:27,009
-- Churros.
+- Churros.
 - Churros.
 
 1452
 01:00:27,010 --> 01:00:28,809
-- No, one.
+- No, one.
 - One.
 
 1453
 01:00:28,810 --> 01:00:30,510
-- One.
+- One.
 - I can eat two.
 
 1454
 01:00:30,610 --> 01:00:32,419
-- I can eat two...
+- I can eat two...
 - One, please.
 
 1455
 01:00:32,420 --> 01:00:33,449
-- Please.
+- Please.
 - No.
 
 1456
 01:00:33,450 --> 01:00:35,319
-- We agreed.
+- We agreed.
 - Yes.
 
 1457
@@ -6074,7 +6074,7 @@ But I don't get to order anything I want.
 
 1459
 01:00:39,790 --> 01:00:40,919
-- Why do you stop me?
+- Why do you stop me?
 - We agreed...
 
 1460
@@ -6091,7 +6091,7 @@ Their churros are guaranteed to be good. Look at them.
 
 1463
 01:00:45,860 --> 01:00:47,400
-- We should try them.
+- We should try them.
 - That's it.
 
 1464
@@ -6116,12 +6116,12 @@ that black...
 
 1469
 01:00:55,270 --> 01:00:57,170
-- I ordered that too.
+- I ordered that too.
 - We ordered it.
 
 1470
 01:00:57,670 --> 01:00:59,439
-- That black...
+- That black...
 - I can't even guess.
 
 1471
@@ -6130,12 +6130,12 @@ That doesn't look like it's for dinner.
 
 1472
 01:01:01,180 --> 01:01:02,279
-- I don't know what it is.
+- I don't know what it is.
 - But...
 
 1473
 01:01:02,280 --> 01:01:04,680
-- every table has it.
+- every table has it.
 - That dish?
 
 1474
@@ -6172,12 +6172,12 @@ Why are you doing that?
 
 1482
 01:01:28,340 --> 01:01:30,270
-- I wasn't asking for her to share.
+- I wasn't asking for her to share.
 - We'll get it too.
 
 1483
 01:01:30,370 --> 01:01:31,939
-- Thank you.
+- Thank you.
 - She's sharing.
 
 1484
@@ -6198,7 +6198,7 @@ Oh, good.
 
 1488
 01:01:45,090 --> 01:01:46,920
-- I know this flavor.
+- I know this flavor.
 - It's like visiting a marketplace.
 
 1489
@@ -6211,7 +6211,7 @@ It's not sweet.
 
 1491
 01:01:50,690 --> 01:01:52,430
-- Thank you.
+- Thank you.
 - Thank you.
 
 1492
@@ -6220,12 +6220,12 @@ She never stopped smiling when she was getting our order.
 
 1493
 01:01:55,570 --> 01:01:57,699
-- She's kind.
+- She's kind.
 - That's what makes me happy.
 
 1494
 01:01:57,700 --> 01:01:58,769
-- Right.
+- Right.
 - Her kindness.
 
 1495
@@ -6242,7 +6242,7 @@ told us that this table was available.
 
 1498
 01:02:03,410 --> 01:02:05,140
-- It's here.
+- It's here.
 - This is good.
 
 1499
@@ -6299,7 +6299,7 @@ Like this.
 
 1512
 01:02:29,570 --> 01:02:30,829
-- The tortilla...
+- The tortilla...
 - It's crispy.
 
 1513
@@ -6312,7 +6312,7 @@ I guess you dip it in the salsa.
 
 1515
 01:02:34,000 --> 01:02:35,939
-- It's soft-boiled.
+- It's soft-boiled.
 - Doesn't it look good?
 
 1516
@@ -6329,7 +6329,7 @@ I'll try it.
 
 1519
 01:02:42,280 --> 01:02:43,579
-- Oh, please.
+- Oh, please.
 - Are you nervous?
 
 1520
@@ -6346,7 +6346,7 @@ I'll try it.
 
 1523
 01:02:50,620 --> 01:02:52,019
-- Oh, please.
+- Oh, please.
 - Are you nervous?
 
 1524
@@ -6367,7 +6367,7 @@ Yes, you should grab the egg too.
 
 1528
 01:02:58,800 --> 01:03:00,300
-- The egg smells so good.
+- The egg smells so good.
 - It...
 
 1529
@@ -6388,12 +6388,12 @@ I love it.
 
 1533
 01:03:18,251 --> 01:03:19,550
-- Me too.
+- Me too.
 - This is good.
 
 1534
 01:03:20,250 --> 01:03:21,549
-- Really?
+- Really?
 - It's really good.
 
 1535
@@ -6406,7 +6406,7 @@ You're saying something's good for the first time.
 
 1537
 01:03:24,050 --> 01:03:25,220
-- This is really good.
+- This is really good.
 - But...
 
 1538
@@ -6415,7 +6415,7 @@ it's unique.
 
 1539
 01:03:28,430 --> 01:03:29,959
-- This is really good.
+- This is really good.
 - It's unique, but...
 
 1540
@@ -6468,7 +6468,7 @@ This is highly recommended.
 
 1552
 01:03:56,090 --> 01:03:58,189
-- I love the texture.
+- I love the texture.
 - This is good.
 
 1553
@@ -6477,7 +6477,7 @@ It's crispy.
 
 1554
 01:04:01,120 --> 01:04:03,060
-- One...
+- One...
 - Anyone would...
 
 1555
@@ -6490,7 +6490,7 @@ That must be why everyone has it for breakfast.
 
 1557
 01:04:09,900 --> 01:04:11,540
-- This is really good.
+- This is really good.
 - Yes.
 
 1558
@@ -6531,12 +6531,12 @@ Seriously.
 
 1567
 01:04:29,550 --> 01:04:31,150
-- I'll cut this.
+- I'll cut this.
 - It's already been cut.
 
 1568
 01:04:31,260 --> 01:04:32,260
-- Really?
+- Really?
 - Yes.
 
 1569
@@ -6597,7 +6597,7 @@ but I can't describe the flavor.
 
 1583
 01:05:00,920 --> 01:05:02,219
-- Why not?
+- Why not?
 - This is really good.
 
 1584
@@ -6606,7 +6606,7 @@ This is soup.
 
 1585
 01:05:03,820 --> 01:05:05,019
-- Soup?
+- Soup?
 - It's stew.
 
 1586
@@ -6615,7 +6615,7 @@ We have this in Korea.
 
 1587
 01:05:07,560 --> 01:05:09,460
-- Yes, it tastes like Korean.
+- Yes, it tastes like Korean.
 - We have it.
 
 1588
@@ -6624,7 +6624,7 @@ We have it in Korea?
 
 1589
 01:05:12,300 --> 01:05:14,060
-- Right?
+- Right?
 - Hey, this is jjigae.
 
 1590
@@ -6649,7 +6649,7 @@ It's the meat broth.
 
 1595
 01:05:24,070 --> 01:05:26,540
-- It...
+- It...
 - It tastes like tomato egg soup.
 
 1596
@@ -6666,7 +6666,7 @@ Because of the sour taste.
 
 1599
 01:05:30,810 --> 01:05:33,380
-- Hey, this is strangely good.
+- Hey, this is strangely good.
 - It's good.
 
 1600
@@ -6691,7 +6691,7 @@ My grandma likes rice cake,
 
 1605
 01:05:42,360 --> 01:05:45,130
-- but she can't digest it easily.
+- but she can't digest it easily.
 - Her teeth...
 
 1606
@@ -6732,7 +6732,7 @@ Is it like black sesame dough?
 
 1615
 01:06:03,450 --> 01:06:04,920
-- One, two, three.
+- One, two, three.
 - It smells like rice cake.
 
 1616
@@ -6741,17 +6741,17 @@ It tastes familiar.
 
 1617
 01:06:14,560 --> 01:06:16,389
-- Sirutteok.
+- Sirutteok.
 - Yes.
 
 1618
 01:06:16,390 --> 01:06:17,830
-- It even looks like...
+- It even looks like...
 - It's sirutteok.
 
 1619
 01:06:18,460 --> 01:06:20,100
-- Exactly.
+- Exactly.
 - It's sirutteok.
 
 1620
@@ -6788,17 +6788,17 @@ Thank you.
 
 1628
 01:06:40,450 --> 01:06:42,089
-- Is she giving it to us?
+- Is she giving it to us?
 - Mom. Yes.
 
 1629
 01:06:42,090 --> 01:06:44,120
-- Really?
+- Really?
 - To try the churros.
 
 1630
 01:06:44,550 --> 01:06:46,520
-- Thank you.
+- Thank you.
 - Thank you.
 
 1631
@@ -6831,22 +6831,22 @@ Finish?
 
 1638
 01:07:01,710 --> 01:07:03,839
-- She can take this too.
+- She can take this too.
 - Let's keep that.
 
 1639
 01:07:03,840 --> 01:07:05,310
-- No.
+- No.
 - No? Okay.
 
 1640
 01:07:05,810 --> 01:07:08,039
-- This is so good.
+- This is so good.
 - We don't know how we'd mix it.
 
 1641
 01:07:08,040 --> 01:07:09,150
-- Exactly.
+- Exactly.
 - For dipping...
 
 1642
@@ -6939,7 +6939,7 @@ Thank you so much for your time.
 
 1664
 01:08:06,140 --> 01:08:08,100
-- Thank you.
+- Thank you.
 - Thank you.
 
 1665
@@ -6952,17 +6952,17 @@ Eat. You need to eat.
 
 1667
 01:08:14,810 --> 01:08:17,179
-- Bye.
+- Bye.
 - Enjoy the food.
 
 1668
 01:08:17,180 --> 01:08:19,619
-- See you. Thank you.
+- See you. Thank you.
 - Thank you.
 
 1669
 01:08:19,620 --> 01:08:20,720
-- Thank you.
+- Thank you.
 - Thank you.
 
 1670
@@ -6971,12 +6971,12 @@ Eat. You need to eat.
 
 1671
 01:08:28,730 --> 01:08:29,760
-- Thank you.
+- Thank you.
 - Thank you.
 
 1672
 01:08:30,730 --> 01:08:32,630
-- This is so heartwarming.
+- This is so heartwarming.
 - I know.
 
 1673
@@ -6985,12 +6985,12 @@ She looks nice too.
 
 1674
 01:08:34,930 --> 01:08:36,699
-- Thank you.
+- Thank you.
 - Bye.
 
 1675
 01:08:36,700 --> 01:08:38,340
-- Bye.
+- Bye.
 - Bye.
 
 1676
@@ -6999,7 +6999,7 @@ Safe trip back to Korea.
 
 1677
 01:08:42,110 --> 01:08:43,409
-- Thank you.
+- Thank you.
 - Thank you.
 
 1678
@@ -7016,7 +7016,7 @@ It's coming. That's ours.
 
 1681
 01:08:54,050 --> 01:08:55,819
-- Thank you.
+- Thank you.
 - Thank you.
 
 1682
@@ -7029,7 +7029,7 @@ This is not meat. It's eggs.
 
 1684
 01:08:59,420 --> 01:09:01,019
-- It's egg.
+- It's egg.
 - I thought it was meat.
 
 1685
@@ -7042,7 +7042,7 @@ It'd be good if we dip the tortilla here.
 
 1687
 01:09:04,900 --> 01:09:06,359
-- Let's get tortillas.
+- Let's get tortillas.
 - Shall we get one?
 
 1688
@@ -7067,22 +7067,22 @@ Huevos en pasilla?
 
 1693
 01:09:15,070 --> 01:09:16,339
-- Thank you.
+- Thank you.
 - Thank you.
 
 1694
 01:09:16,340 --> 01:09:18,479
-- So accurate.
+- So accurate.
 - I knew it.
 
 1695
 01:09:18,480 --> 01:09:20,110
-- She knew what we were thinking.
+- She knew what we were thinking.
 - Yes.
 
 1696
 01:09:20,610 --> 01:09:22,610
-- It's still hot.
+- It's still hot.
 - Yes.
 
 1697
@@ -7095,12 +7095,12 @@ That's a good idea.
 
 1699
 01:09:28,320 --> 01:09:29,919
-- Let's try this by itself first.
+- Let's try this by itself first.
 - Yes, let's do that.
 
 1700
 01:09:29,920 --> 01:09:31,220
-- Let's try this first.
+- Let's try this first.
 - Like this?
 
 1701
@@ -7113,12 +7113,12 @@ How can I describe this flavor?
 
 1703
 01:09:39,960 --> 01:09:42,470
-- This is...
+- This is...
 - It's a mix of many flavors.
 
 1704
 01:09:44,030 --> 01:09:46,000
-- It's good.
+- It's good.
 - Is it?
 
 1705
@@ -7131,7 +7131,7 @@ It's kind of bitter, but it's good.
 
 1707
 01:09:49,110 --> 01:09:50,170
-- Yes.
+- Yes.
 - It's good.
 
 1708
@@ -7184,7 +7184,7 @@ It'll be good if you mix rice with it.
 
 1720
 01:10:21,070 --> 01:10:22,910
-- Oh, that'd be perfect.
+- Oh, that'd be perfect.
 - Right? With white rice.
 
 1721
@@ -7193,7 +7193,7 @@ If they had a bowl of rice, I would've ordered it right away.
 
 1722
 01:10:28,480 --> 01:10:30,450
-- I'm full now.
+- I'm full now.
 - Me too.
 
 1723
@@ -7226,7 +7226,7 @@ It's perfect because it's cheap.
 
 1730
 01:10:50,400 --> 01:10:51,840
-- Yes.
+- Yes.
 - It's no pressure.
 
 1731
@@ -7355,7 +7355,7 @@ Is KKPP Foods treating us?
 
 1762
 01:12:19,790 --> 01:12:21,590
-- You need to pay them the interest.
+- You need to pay them the interest.
 - Are we?
 
 1763
@@ -7380,7 +7380,7 @@ Because we all listened to his songs together.
 
 1768
 01:12:34,900 --> 01:12:36,270
-- Shall we leave for the churros?
+- Shall we leave for the churros?
 - Let's go.
 
 1769
@@ -7389,7 +7389,7 @@ The churros here were so good.
 
 1770
 01:12:39,140 --> 01:12:40,679
-- Yes.
+- Yes.
 - It was nothing like I had before.
 
 1771
@@ -7402,7 +7402,7 @@ The churros here were so good.
 
 1773
 01:12:46,150 --> 01:12:49,020
-- Good food makes you happy, right?
+- Good food makes you happy, right?
 - Yes.
 
 1774
@@ -7431,12 +7431,12 @@ About 80 or 90.
 
 1780
 01:13:01,230 --> 01:13:02,370
-- About 80 or 90?
+- About 80 or 90?
 - Yes.
 
 1781
 01:13:02,600 --> 01:13:04,230
-- Doesn't it take up a lot for you?
+- Doesn't it take up a lot for you?
 - It does.
 
 1782
@@ -7445,7 +7445,7 @@ Normally, it's about 20 percent for me.
 
 1783
 01:13:06,900 --> 01:13:08,070
-- Only 20?
+- Only 20?
 - Yes.
 
 1784
@@ -7458,12 +7458,12 @@ health takes up 60 percent.
 
 1786
 01:13:12,410 --> 01:13:14,180
-- No.
+- No.
 - Like air.
 
 1787
 01:13:14,310 --> 01:13:16,049
-- The ingredients or...
+- The ingredients or...
 - Nature.
 
 1788
@@ -7512,12 +7512,12 @@ but I never did that before.
 
 1799
 01:13:39,400 --> 01:13:40,940
-- Really?
+- Really?
 - I guess I am happy.
 
 1800
 01:13:42,810 --> 01:13:44,270
-- Hello.
+- Hello.
 - Hello.
 
 1801
@@ -7530,7 +7530,7 @@ Hello.
 
 1803
 01:13:47,940 --> 01:13:49,909
-- You are happy.
+- You are happy.
 - You're happy.
 
 1804
@@ -7543,7 +7543,7 @@ Hello.
 
 1806
 01:13:54,320 --> 01:13:55,550
-- There?
+- There?
 - Yes.
 
 1807
@@ -7556,7 +7556,7 @@ It's a really old churro place.
 
 1809
 01:14:01,490 --> 01:14:03,130
-- Should we place an order first?
+- Should we place an order first?
 - Let's do that.
 
 1810
@@ -7573,7 +7573,7 @@ Eat four?
 
 1813
 01:14:15,140 --> 01:14:17,270
-- Hello.
+- Hello.
 - Hello. Good afternoon.
 
 1814
@@ -7610,7 +7610,7 @@ Wait. They have horchata.
 
 1822
 01:14:37,460 --> 01:14:38,799
-- I'm sorry, but...
+- I'm sorry, but...
 - Yes?
 
 1823
@@ -7631,7 +7631,7 @@ One horchata.
 
 1827
 01:14:43,870 --> 01:14:45,030
-- Horchata.
+- Horchata.
 - Okay.
 
 1828
@@ -7648,7 +7648,7 @@ Cash or card?
 
 1831
 01:14:51,340 --> 01:14:53,479
-- Card?
+- Card?
 - I think she asked...
 
 1832
@@ -7681,7 +7681,7 @@ The weather is good.
 
 1839
 01:15:08,760 --> 01:15:09,989
-- The weather is good.
+- The weather is good.
 - I don't think...
 
 1840
@@ -7702,7 +7702,7 @@ The weather...
 
 1844
 01:15:18,200 --> 01:15:19,440
-- The weather is nice.
+- The weather is nice.
 - The weather is nice.
 
 1845
@@ -7755,7 +7755,7 @@ It's here.
 
 1857
 01:15:53,670 --> 01:15:55,540
-- Thank you.
+- Thank you.
 - Thank you.
 
 1858
@@ -7824,7 +7824,7 @@ we get in Korea.
 
 1874
 01:16:36,480 --> 01:16:38,210
-- What was it? The pie crust?
+- What was it? The pie crust?
 - The pie crust.
 
 1875
@@ -7893,7 +7893,7 @@ The cocoa sauce is tasty.
 
 1891
 01:17:15,280 --> 01:17:16,750
-- Isn't it unusual?
+- Isn't it unusual?
 - Yes.
 
 1892
@@ -7906,7 +7906,7 @@ We're familiar with these two,
 
 1894
 01:17:20,020 --> 01:17:21,890
-- but this one...
+- but this one...
 - They go well with the sauces.
 
 1895
@@ -7959,7 +7959,7 @@ It's hot chocolate, but there's a hint of cinnamon.
 
 1907
 01:17:44,650 --> 01:17:46,350
-- You smell cinnamon.
+- You smell cinnamon.
 - They go very well together.
 
 1908
@@ -7972,12 +7972,12 @@ I strongly recommend hot chocolate.
 
 1910
 01:17:50,850 --> 01:17:51,990
-- It's good.
+- It's good.
 - Yes.
 
 1911
 01:17:53,020 --> 01:17:54,889
-- It makes you smile.
+- It makes you smile.
 - It's a luxurious hot chocolate.
 
 1912
@@ -8010,7 +8010,7 @@ Is that horchata?
 
 1919
 01:18:12,740 --> 01:18:13,939
-- It looks good.
+- It looks good.
 - Horchata.
 
 1920
@@ -8075,7 +8075,7 @@ When a bit of it goes into your mouth...
 
 1935
 01:19:01,960 --> 01:19:03,890
-- Yes.
+- Yes.
 - Right? That's the taste.
 
 1936
@@ -8092,7 +8092,7 @@ to process this taste.
 
 1939
 01:19:09,270 --> 01:19:11,000
-- What is it?
+- What is it?
 - Try it.
 
 1940
@@ -8101,7 +8101,7 @@ Enjoy it.
 
 1941
 01:19:13,100 --> 01:19:14,300
-- This one?
+- This one?
 - Try it.
 
 1942
@@ -8114,7 +8114,7 @@ Cafe de olla.
 
 1944
 01:19:16,870 --> 01:19:19,210
-- Cafe de olla.
+- Cafe de olla.
 - It's Mexican coffee.
 
 1945
@@ -8123,7 +8123,7 @@ It smells like cinnamon too.
 
 1946
 01:19:29,490 --> 01:19:30,750
-- Is it good?
+- Is it good?
 - It's good.
 
 1947
@@ -8132,7 +8132,7 @@ It's so unusual.
 
 1948
 01:19:33,520 --> 01:19:35,020
-- It smells a bit like ssanghwacha.
+- It smells a bit like ssanghwacha.
 - Right?
 
 1949
@@ -8177,17 +8177,17 @@ Woo Bin would like the taste.
 
 1959
 01:19:57,550 --> 01:19:58,610
-- It's good, right?
+- It's good, right?
 - Yes.
 
 1960
 01:19:59,320 --> 01:20:00,849
-- It's like herbal medicine.
+- It's like herbal medicine.
 - He likes it.
 
 1961
 01:20:00,850 --> 01:20:02,050
-- He likes such flavors.
+- He likes such flavors.
 - Herbal medicine.
 
 1962
@@ -8208,7 +8208,7 @@ In Chinese cuisine...
 
 1966
 01:20:09,930 --> 01:20:11,530
-- A pork dish. Dongpo pork.
+- A pork dish. Dongpo pork.
 - Dongpo pork.
 
 1967
@@ -8225,7 +8225,7 @@ It smells like dongpo pork.
 
 1970
 01:20:18,170 --> 01:20:19,739
-- It's tasty.
+- It's tasty.
 - If we boil pork...
 
 1971
@@ -8290,7 +8290,7 @@ Hot-air balloon.
 
 1986
 01:20:45,960 --> 01:20:47,560
-- Did you send me the link?
+- Did you send me the link?
 - Yes.
 
 1987
@@ -8335,7 +8335,7 @@ the pickup begins.
 
 1997
 01:21:12,260 --> 01:21:14,319
-- In the morning?
+- In the morning?
 - Can't we watch the sunset?
 
 1998
@@ -8448,7 +8448,7 @@ We've gotten used to...
 
 2025
 01:22:23,160 --> 01:22:24,690
-- taking the subway.
+- taking the subway.
 - That's right.
 
 2026
@@ -8469,7 +8469,7 @@ It's about 40 cents.
 
 2030
 01:22:37,710 --> 01:22:39,640
-- We're here.
+- We're here.
 - Are we here already?
 
 2031
@@ -8510,12 +8510,12 @@ Really?
 
 2040
 01:22:58,290 --> 01:23:00,130
-- Thank you.
+- Thank you.
 - You can wear them.
 
 2041
 01:23:01,660 --> 01:23:02,829
-- It'll be fun.
+- It'll be fun.
 - In that case,
 
 2042
@@ -8524,7 +8524,7 @@ let's go to an expensive store.
 
 2043
 01:23:05,430 --> 01:23:06,969
-- The most expensive store...
+- The most expensive store...
 - Yes.
 
 2044
@@ -8537,7 +8537,7 @@ This is...
 
 2046
 01:23:11,070 --> 01:23:13,310
-- What's this?
+- What's this?
 - There are so many things to buy.
 
 2047
@@ -8558,7 +8558,7 @@ There is street food as well.
 
 2051
 01:23:23,920 --> 01:23:25,490
-- DVDs?
+- DVDs?
 - There's something inside.
 
 2052
@@ -8571,7 +8571,7 @@ A market where you can buy...
 
 2054
 01:23:31,130 --> 01:23:33,460
-- cute and pretty items.
+- cute and pretty items.
 - There are so many things to buy.
 
 2055
@@ -8612,7 +8612,7 @@ they follow me when they want.
 
 2064
 01:23:52,480 --> 01:23:54,120
-- Kyung Soo, stand there.
+- Kyung Soo, stand there.
 - We need to walk some more.
 
 2065
@@ -8645,7 +8645,7 @@ It came out well.
 
 2072
 01:24:09,170 --> 01:24:10,870
-- It's cute.
+- It's cute.
 - Make it a poster.
 
 2073
@@ -8658,7 +8658,7 @@ It's cute.
 
 2075
 01:24:14,470 --> 01:24:16,210
-- Really?
+- Really?
 - It came out well.
 
 2076
@@ -8667,7 +8667,7 @@ If I say no to the photos,
 
 2077
 01:24:17,710 --> 01:24:19,180
-- they keep complaining.
+- they keep complaining.
 - Kyung Soo.
 
 2078
@@ -8684,12 +8684,12 @@ No.
 
 2081
 01:24:26,250 --> 01:24:27,650
-- It's good.
+- It's good.
 - Is this about the tacos?
 
 2082
 01:24:27,680 --> 01:24:29,519
-- What?
+- What?
 - Is this about the tacos?
 
 2083
@@ -8702,7 +8702,7 @@ No.
 
 2085
 01:24:33,320 --> 01:24:34,459
-- Kyung Soo.
+- Kyung Soo.
 - Yes?
 
 2086
@@ -8711,12 +8711,12 @@ Between 4:30am and 5am,
 
 2087
 01:24:36,260 --> 01:24:37,989
-- they'll pick us up.
+- they'll pick us up.
 - The hot-air balloon tour?
 
 2088
 01:24:37,990 --> 01:24:40,029
-- I'll go ahead and book it.
+- I'll go ahead and book it.
 - That sounds good.
 
 2089
@@ -8833,7 +8833,7 @@ We'll pay for the total and receive the money later.
 
 2117
 01:25:41,290 --> 01:25:43,030
-- The cost for the other three.
+- The cost for the other three.
 - Yes.
 
 2118
@@ -8898,7 +8898,7 @@ Shall we check out the bracelets?
 
 2133
 01:26:14,560 --> 01:26:16,730
-- Let's do that.
+- Let's do that.
 - Let's check them out.
 
 2134
@@ -8923,7 +8923,7 @@ It'll be fun.
 
 2139
 01:26:24,400 --> 01:26:25,730
-- Gosh.
+- Gosh.
 - My goodness.
 
 2140
@@ -8948,7 +8948,7 @@ so many things.
 
 2145
 01:26:38,280 --> 01:26:40,249
-- Seriously.
+- Seriously.
 - They sell ukuleles.
 
 2146
@@ -8989,7 +8989,7 @@ Isn't that the artist?
 
 2155
 01:27:05,110 --> 01:27:06,339
-- This one.
+- This one.
 - That's right. Frida Kahlo.
 
 2156
@@ -9014,7 +9014,7 @@ Kwang Soo.
 
 2161
 01:27:14,650 --> 01:27:16,190
-- It's the hat you talked about.
+- It's the hat you talked about.
 - Seriously.
 
 2162
@@ -9027,7 +9027,7 @@ Kwang Soo.
 
 2164
 01:27:23,090 --> 01:27:24,430
-- It suits you.
+- It suits you.
 - It suits you.
 
 2165
@@ -9064,7 +9064,7 @@ You should buy it.
 
 2173
 01:27:42,910 --> 01:27:44,550
-- It looks good on you.
+- It looks good on you.
 - Really?
 
 2174
@@ -9109,12 +9109,12 @@ It's 22 dollars.
 
 2184
 01:28:04,870 --> 01:28:06,599
-- Is it 22 dollars?
+- Is it 22 dollars?
 - Not bad.
 
 2185
 01:28:06,600 --> 01:28:08,499
-- It's cheaper than I thought.
+- It's cheaper than I thought.
 - It has been made with care,
 
 2186
@@ -9127,7 +9127,7 @@ The red one suits you the most.
 
 2188
 01:28:14,140 --> 01:28:16,110
-- It suits you.
+- It suits you.
 - It suits you.
 
 2189
@@ -9212,12 +9212,12 @@ These are earrings. Kwang Soo, you need to wear them.
 
 2209
 01:28:58,220 --> 01:28:59,690
-- What?
+- What?
 - These are earrings.
 
 2210
 01:29:00,160 --> 01:29:01,720
-- They're perfect.
+- They're perfect.
 - They're jalapenos.
 
 2211
@@ -9230,7 +9230,7 @@ Jalapenos.
 
 2213
 01:29:04,430 --> 01:29:06,660
-- While they're cute...
+- While they're cute...
 - They're so cute.
 
 2214
@@ -9279,7 +9279,7 @@ Really?
 
 2225
 01:29:30,690 --> 01:29:32,649
-- Let's look around.
+- Let's look around.
 - Okay.
 
 2226
@@ -9300,12 +9300,12 @@ There must be other items.
 
 2230
 01:29:41,200 --> 01:29:42,969
-- Why are you...
+- Why are you...
 - I'm just putting it against you.
 
 2231
 01:29:42,970 --> 01:29:44,930
-- I don't think it'll look bad.
+- I don't think it'll look bad.
 - Don't be ridiculous.
 
 2232
@@ -9318,7 +9318,7 @@ Not nacho libre.
 
 2234
 01:29:49,540 --> 01:29:50,670
-- Lucha libre.
+- Lucha libre.
 - Lucha libre.
 
 2235
@@ -9327,12 +9327,12 @@ Lucha?
 
 2236
 01:29:52,940 --> 01:29:54,610
-- They look nice.
+- They look nice.
 - What?
 
 2237
 01:29:54,940 --> 01:29:56,009
-- The hats?
+- The hats?
 - Yes.
 
 2238
@@ -9353,12 +9353,12 @@ Don't you want to feel the power?
 
 2242
 01:30:07,220 --> 01:30:08,220
-- It's big.
+- It's big.
 - It's a T-shirt.
 
 2243
 01:30:08,221 --> 01:30:10,989
-- You're right.
+- You're right.
 - On the back, there's a mask.
 
 2244
@@ -9399,7 +9399,7 @@ How much is it?
 
 2253
 01:30:24,940 --> 01:30:26,610
-- It's 14 dollars.
+- It's 14 dollars.
 - Is it 14 dollars?
 
 2254
@@ -9428,7 +9428,7 @@ No, I can't.
 
 2260
 01:30:38,320 --> 01:30:39,960
-- Twelve.
+- Twelve.
 - Thirteen.
 
 2261
@@ -9465,7 +9465,7 @@ They're having a meeting.
 
 2269
 01:30:58,310 --> 01:30:59,469
-- Yes?
+- Yes?
 - Okay.
 
 2270
@@ -9486,7 +9486,7 @@ Sometimes, it doesn't matter.
 
 2274
 01:31:10,220 --> 01:31:13,189
-- It doesn't matter?
+- It doesn't matter?
 - Even if the profits are small,
 
 2275
@@ -9523,7 +9523,7 @@ The first Spanish phrase I learned was, "Please give me a discount."
 
 2283
 01:31:39,280 --> 01:31:40,679
-- Please.
+- Please.
 - How do you say it?
 
 2284
