@@ -1,447 +1,3465 @@
 1
-00:00:59,000 --> 00:00:59,833
-Amur
+00:00:58,937 --> 00:00:59,770
+Amur.
 
 2
-00:01:01,625 --> 00:01:02,416
-Amur
+00:01:01,625 --> 00:01:02,796
+Amur.
 
 3
-00:01:07,416 --> 00:01:08,208
-Hey
+00:01:07,353 --> 00:01:08,233
+Hey.
 
 4
-00:01:11,708 --> 00:01:12,500
-Amur
+00:01:11,770 --> 00:01:12,562
+Amur.
 
 5
-00:01:13,333 --> 00:01:14,125
-Amur
+00:01:13,238 --> 00:01:14,217
+Amur.
 
 6
-00:01:27,708 --> 00:01:28,500
-Amur
+00:01:27,593 --> 00:01:28,500
+Amur.
 
 7
-00:01:29,041 --> 00:01:30,916
-Ha ha ha ha
+00:01:28,697 --> 00:01:30,572
+Ha ha ha ha.
 
 8
-00:01:31,791 --> 00:01:32,333
-Hey
+00:01:32,333 --> 00:01:35,875
+Oh, I just knew you'd be by the lake again.
 
 9
-00:01:32,333 --> 00:01:35,875
-Oh, I just knew you'd be by the lake again
+00:01:35,875 --> 00:01:36,541
+Hey.
 
 10
-00:01:35,875 --> 00:01:36,541
-Hey
+00:01:36,750 --> 00:01:37,625
+This month's meat,
 
 11
-00:01:36,750 --> 00:01:37,625
-This month's meat
+00:01:37,625 --> 00:01:39,750
+vegetables and daily supplies
+are all on the counter.
 
 12
-00:01:37,625 --> 00:01:39,750
-Vegetables and daily supplies are all on the counter
+00:01:39,750 --> 00:01:40,541
+Mm.
 
 13
-00:01:39,750 --> 00:01:40,541
-Mm
+00:01:41,166 --> 00:01:42,958
+Alright, Mongke.
 
 14
-00:01:41,166 --> 00:01:42,958
-Alright, Mongke
+00:01:43,250 --> 00:01:44,166
+Put it on my tab.
 
 15
-00:01:43,250 --> 00:01:44,166
-Put it on my tab
+00:01:45,239 --> 00:01:46,031
+Hey.
 
 16
-00:01:45,333 --> 00:01:46,125
-Yeah
+00:01:46,666 --> 00:01:49,375
+Your tab, y'know...
+it's been over half a year.
 
 17
-00:01:46,666 --> 00:01:49,375
-Your tab, y'know... it's been over half a year
-
-18
 00:01:50,958 --> 00:01:52,250
 How's business lately?
 
-19
+18
 00:01:52,500 --> 00:01:54,791
 Why don't you settle up last quarter first?
 
-20
-00:01:55,333 --> 00:01:56,250
+19
+00:01:55,333 --> 00:01:56,562
 Business?
 
-21
+20
 00:01:57,500 --> 00:01:58,500
-Same as always
+Same as always.
+
+21
+00:01:58,868 --> 00:02:00,101
+Hit or miss.
 
 22
-00:01:58,916 --> 00:01:59,875
-Hit or miss
+00:02:01,155 --> 00:02:03,183
+Hey, if business ain't good, get out there.
 
 23
-00:02:01,291 --> 00:02:03,208
-Hey, if business ain't good, get out there
+00:02:03,208 --> 00:02:04,585
+Hand out some flyers, y'know.
 
 24
-00:02:03,208 --> 00:02:04,750
-Hand out some flyers, y'know
+00:02:04,938 --> 00:02:05,992
+Oh right.
 
 25
-00:02:05,000 --> 00:02:06,166
-Oh right
+00:02:06,812 --> 00:02:07,906
+Where's Xiaohei?
 
 26
-00:02:06,875 --> 00:02:09,875
-Where's Xiaohei? How come he's not back yet?
+00:02:08,289 --> 00:02:09,844
+How come he's not back yet?
 
 27
 00:02:10,875 --> 00:02:12,625
-I can't hear him barking
+I can't hear him barking.
 
 28
-00:02:13,000 --> 00:02:14,416
-Feels kinda strange, hey
+00:02:12,906 --> 00:02:14,322
+Feels kinda strange.
 
 29
-00:02:18,291 --> 00:02:19,083
-Xiaohei
+00:02:18,179 --> 00:02:19,083
+Xiaohei...
 
 30
-00:02:20,500 --> 00:02:21,916
-Don't know where he went
+00:02:20,422 --> 00:02:21,838
+don't know where he went.
 
 31
-00:02:23,208 --> 00:02:24,708
-Went out looking but couldn't find him
+00:02:23,145 --> 00:02:24,645
+Went out looking but couldn't find him.
 
 32
-00:02:26,625 --> 00:02:27,708
-Let's wait a bit more
+00:02:26,601 --> 00:02:27,684
+Let's wait a bit more.
 
 33
-00:02:28,250 --> 00:02:31,416
-Maybe if we wait, he'll come back on his own
+00:02:28,250 --> 00:02:31,070
+Maybe if we wait,
+he'll come back on his own.
 
 34
-00:02:32,708 --> 00:02:34,666
-Without Xiaohei to help out
+00:02:32,583 --> 00:02:34,541
+Without Xiaohei to help out,
 
 35
-00:02:34,666 --> 00:02:36,708
-It's really been a lot of trouble, y'know
+00:02:34,566 --> 00:02:36,608
+it's really been a lot of trouble, y'know.
 
 36
-00:02:36,708 --> 00:02:38,458
-Before, whenever you ordered stuff
+00:02:36,633 --> 00:02:38,383
+Before, whenever you ordered stuff,
 
 37
-00:02:38,666 --> 00:02:40,916
-Xiaohei would carry it over himself
+00:02:38,579 --> 00:02:40,829
+Xiaohei would carry it over himself.
 
 38
 00:02:41,583 --> 00:02:42,416
-Yeah
+Hey.
 
 39
-00:02:43,750 --> 00:02:46,791
-You don't think Xiaohei got eaten by wolves on the way?
+00:02:43,507 --> 00:02:46,548
+You don't think Xiaohei got eaten
+by wolves on the way?
 
 40
-00:02:46,791 --> 00:02:47,833
-Oh, go on, get outta here
+00:02:46,581 --> 00:02:47,623
+Oh, go on, get outta here.
 
 41
-00:02:47,875 --> 00:02:49,791
-You're the one who'd get eaten by wolves
+00:02:48,077 --> 00:02:49,710
+You're the one who'd get eaten by wolves.
 
 42
-00:02:50,208 --> 00:02:51,708
-Hey, it's getting dark, head home
+00:02:50,208 --> 00:02:51,601
+Hey, it's getting dark, head home.
 
 43
-00:02:51,708 --> 00:02:52,916
-Any later and there really might be wolves
+00:02:51,626 --> 00:02:52,914
+Any later and there really might be wolves.
 
 44
-00:02:52,916 --> 00:02:53,708
-Yeah
+00:02:54,625 --> 00:02:56,000
+I ain't scared of no wolves.
 
 45
-00:02:54,708 --> 00:02:56,000
-Heh, I ain't scared of no wolves
+00:02:56,000 --> 00:02:57,554
+You study hard now.
 
 46
-00:02:56,000 --> 00:02:57,750
-You study hard now
+00:02:58,958 --> 00:03:00,164
+Do well on your exam.
 
 47
-00:02:58,958 --> 00:03:00,458
-Do well on your exam, hey
+00:03:01,156 --> 00:03:02,851
+You're so long-winded.
 
 48
-00:03:00,666 --> 00:03:02,958
-Heh, you're so long-winded
-
-49
-00:03:03,041 --> 00:03:03,916
+00:03:03,015 --> 00:03:03,916
 I'm already studying, aren't I?
 
-50
+49
 00:03:03,916 --> 00:03:05,375
-Yeah yeah, alright alright
+Yeah yeah, alright alright.
+
+50
+00:03:05,416 --> 00:03:06,734
+I'm off, I'm off.
 
 51
-00:03:05,416 --> 00:03:06,875
-I'm off, I'm off
+00:03:42,447 --> 00:03:43,572
+Let's go, Xiaohei.
 
 52
-00:03:42,541 --> 00:03:43,666
-Let's go, Xiaohei
+00:03:45,791 --> 00:03:46,666
+Woof woof.
 
 53
-00:03:45,791 --> 00:03:46,666
-Woof woof
+00:03:47,916 --> 00:03:49,062
+Xiaohei's hungry?
 
 54
-00:03:47,916 --> 00:03:49,291
-Xiaohei's hungry
+00:03:49,668 --> 00:03:51,273
+Woof woof woof woof woof woof woof woof.
 
 55
-00:03:49,833 --> 00:03:51,208
-Woof woof woof woof woof woof woof woof
+00:03:52,041 --> 00:03:53,267
+Xiaohei's really hungry?
 
 56
-00:03:52,041 --> 00:03:53,500
-Xiaohei's really hungry
+00:03:53,955 --> 00:03:55,414
+Woof woof woof woof woof.
 
 57
-00:03:54,041 --> 00:03:55,500
-Woof woof woof woof woof
+00:03:56,500 --> 00:03:57,916
+Then let's get you something tasty?
 
 58
-00:03:56,500 --> 00:03:57,916
-Then let's get you something tasty
+00:03:57,957 --> 00:03:58,749
+Woof woof woof.
 
 59
-00:03:58,083 --> 00:03:58,875
-Woof woof woof
+00:03:59,416 --> 00:04:00,208
+Come on!
 
 60
-00:03:59,416 --> 00:04:00,208
-Come on
+00:04:13,124 --> 00:04:15,509
+I'm from Singapore.
 
 61
-00:04:13,250 --> 00:04:15,458
-I'm from Singapore
-
-62
-00:04:17,083 --> 00:04:18,916
+00:04:16,957 --> 00:04:18,939
 Before my father passed, he said
 
-63
+62
 00:04:19,958 --> 00:04:23,041
-A person should see the great grasslands
+"A person should see the great grasslands"
+
+63
+00:04:24,353 --> 00:04:25,666
+That way, when you go,
 
 64
-00:04:24,416 --> 00:04:25,666
-That way, when you go
+00:04:26,023 --> 00:04:27,606
+you won't have any regrets.
 
 65
-00:04:26,125 --> 00:04:27,708
-You won't have any regrets
+00:04:29,177 --> 00:04:32,510
+I came to the grasslands
+with my own willfulness.
 
 66
-00:04:29,333 --> 00:04:32,666
-I came to the grasslands with my own willfulness
-
-67
 00:04:33,958 --> 00:04:35,291
 I never expected
 
+67
+00:04:35,874 --> 00:04:38,033
+to encounter a pack of wolves.
+
 68
-00:04:36,000 --> 00:04:38,083
-To encounter a pack of wolves
+00:04:39,255 --> 00:04:40,463
+Fortunately,
 
 69
-00:04:39,333 --> 00:04:40,541
-Fortunately
+00:04:41,223 --> 00:04:43,056
+a black dog saved me
 
 70
-00:04:41,333 --> 00:04:43,166
-A black dog saved me
+00:04:43,541 --> 00:04:44,875
+and brought me here.
 
 71
-00:04:43,541 --> 00:04:44,875
-And brought me here
+00:04:44,875 --> 00:04:45,458
+Hey.
 
 72
-00:04:44,875 --> 00:04:45,458
-Hey
+00:04:45,458 --> 00:04:46,791
+Where I met him.
 
 73
-00:04:45,458 --> 00:04:46,791
-Where I met him
+00:04:51,791 --> 00:04:52,583
+Hey.
 
 74
-00:04:51,791 --> 00:04:52,583
-Hey
-
-75
-00:04:54,458 --> 00:04:55,500
+00:04:54,395 --> 00:04:55,437
 Who are you?
 
-76
-00:04:55,500 --> 00:04:56,125
-Hey
+75
+00:04:55,462 --> 00:04:56,087
+Hey.
 
-77
-00:04:56,166 --> 00:04:57,416
+76
+00:04:56,112 --> 00:04:57,236
 What happened to you?
 
-78
-00:06:24,208 --> 00:06:25,458
+77
+00:06:24,012 --> 00:06:25,153
 You're...
 
+78
+00:06:26,072 --> 00:06:26,906
+Ah.
+
 79
-00:06:26,166 --> 00:06:27,000
-Ah
+00:06:27,270 --> 00:06:28,489
+You're awake.
 
 80
-00:06:27,583 --> 00:06:28,291
-Oh, you're awake
+00:06:28,879 --> 00:06:30,489
+Here, let me take a look.
 
 81
-00:06:29,083 --> 00:06:30,833
-Here, let me take a look
+00:06:32,716 --> 00:06:34,034
+(Symptoms in the Pharmacy: A Guide to
+the Management of Common Illnesses)
 
 82
-00:06:31,458 --> 00:06:32,416
-Hey
+00:06:34,059 --> 00:06:35,041
+I'm a doctor.
 
 83
-00:06:34,166 --> 00:06:35,041
-I'm a doctor
+00:06:35,227 --> 00:06:36,768
+Stay still, don't move.
 
 84
-00:06:35,375 --> 00:06:36,916
-Stay still, don't move
+00:06:43,971 --> 00:06:45,180
+The low fever has passed.
 
 85
-00:06:44,041 --> 00:06:45,250
-The low fever has passed
-
-86
-00:06:51,208 --> 00:06:52,291
+00:06:51,098 --> 00:06:52,181
 Hungry?
 
+86
+00:06:52,206 --> 00:06:54,040
+Here, let me get you a bowl of meat.
+
 87
-00:06:52,291 --> 00:06:54,125
-Here, let me get you a bowl of meat
+00:07:00,181 --> 00:07:01,239
+Um...
 
 88
-00:07:00,291 --> 00:07:01,125
-Um
-
-89
-00:07:02,083 --> 00:07:03,500
+00:07:02,098 --> 00:07:03,340
 Where are my clothes?
 
+89
+00:07:03,875 --> 00:07:06,333
+You were soaking wet when you arrived.
+
 90
-00:07:03,875 --> 00:07:06,375
-You were soaking wet when you arrived
+00:07:06,358 --> 00:07:08,090
+I washed them and hung them out to dry.
 
 91
-00:07:06,375 --> 00:07:08,375
-I washed them and hung them out to dry
-
-92
-00:07:09,208 --> 00:07:11,541
+00:07:09,122 --> 00:07:11,262
 So I'm naked?
 
+92
+00:07:13,645 --> 00:07:14,437
+Oh.
+
 93
-00:07:13,708 --> 00:07:14,500
-Oh
+00:07:15,236 --> 00:07:16,361
+Wait just a moment.
 
 94
-00:07:15,291 --> 00:07:16,416
-Wait just a moment
+00:07:24,799 --> 00:07:26,387
+Here, they're dry now.
 
 95
-00:07:24,916 --> 00:07:26,375
-Here, they're dry now
+00:07:27,208 --> 00:07:28,520
+Oh, good.
 
 96
-00:07:27,208 --> 00:07:28,583
-Oh, good
+00:07:28,833 --> 00:07:30,176
+Let me pour you some milk tea.
 
 97
-00:07:28,833 --> 00:07:30,083
-Let me pour you some milk tea
+00:07:33,333 --> 00:07:34,864
+Um, sorry.
 
 98
-00:07:33,458 --> 00:07:34,958
-Um, sorry
+00:07:35,499 --> 00:07:36,332
+Could you...
 
 99
-00:07:35,625 --> 00:07:36,458
-Could you
+00:07:37,566 --> 00:07:39,149
+could you step out for a moment?
 
 100
-00:07:37,583 --> 00:07:39,166
-Could you step out for a moment?
+00:07:40,028 --> 00:07:40,861
+Oh.
 
 101
-00:07:40,083 --> 00:07:40,916
-Oh
+00:07:41,583 --> 00:07:42,500
+Sure.
 
 102
-00:07:41,583 --> 00:07:42,500
-Sure
-
-103
-00:07:53,458 --> 00:07:55,375
+00:07:53,255 --> 00:07:55,340
 Eat up. Weren't you just hungry?
 
-104
-00:07:56,458 --> 00:07:57,625
+103
+00:07:56,285 --> 00:07:57,489
 Let me tell you
 
+104
+00:07:57,514 --> 00:07:59,016
+I stewed this meat for a long time.
+
 105
-00:07:57,625 --> 00:07:59,041
-I stewed this meat for a long time
+00:07:59,041 --> 00:08:02,750
+I put in sea buckthorn, cistanche,
+and more. Here.
 
 106
-00:07:59,041 --> 00:08:02,750
-I put in sea buckthorn, cistanche, and more. Here
+00:08:04,851 --> 00:08:06,059
+Hey, eat up.
 
 107
-00:08:05,000 --> 00:08:06,208
-Hey, eat up
+00:08:09,746 --> 00:08:11,590
+Oh right, and this piece too.
 
 108
-00:08:10,083 --> 00:08:11,791
-Oh right, and this piece too
+00:08:12,208 --> 00:08:13,000
+Here.
 
 109
-00:08:12,208 --> 00:08:13,000
-Here
+00:08:14,000 --> 00:08:15,666
+Bring your bowl over, quick.
 
 110
-00:08:14,000 --> 00:08:15,666
-Bring your bowl over, quick
+00:08:24,184 --> 00:08:25,387
+Dip it in this, it's good.
 
 111
-00:08:24,333 --> 00:08:25,250
-Dip it in this, it's good
+00:08:28,208 --> 00:08:29,075
+Here.
 
 112
-00:08:28,208 --> 00:08:28,708
-Here
+00:09:27,020 --> 00:09:29,812
+How come you're not asking where I'm from?
+
+113
+00:09:30,666 --> 00:09:31,583
+No need to ask.
+
+114
+00:09:32,064 --> 00:09:33,689
+When you want to tell me, you will.
+
+115
+00:09:36,166 --> 00:09:38,083
+Are you preparing for med school?
+
+116
+00:09:39,017 --> 00:09:40,422
+It's a medical license exam.
+
+117
+00:09:44,375 --> 00:09:45,666
+Thank you for saving my life.
+
+118
+00:09:45,903 --> 00:09:48,278
+You'll definitely become
+a really good doctor.
+
+119
+00:09:49,039 --> 00:09:50,039
+Saving you?
+
+120
+00:09:50,715 --> 00:09:51,882
+That's an exaggeration.
+
+121
+00:09:52,462 --> 00:09:53,796
+At most, I just helped out.
+
+122
+00:09:55,376 --> 00:09:56,710
+That was still a big help.
+
+123
+00:09:57,041 --> 00:09:59,063
+Otherwise I really might have died.
+
+124
+00:10:01,008 --> 00:10:02,041
+On the grasslands,
+
+125
+00:10:02,512 --> 00:10:04,399
+We're all children of the Eternal Sky.
+
+126
+00:10:04,958 --> 00:10:06,625
+We should help each other.
+
+127
+00:10:08,702 --> 00:10:09,702
+You're right.
+
+128
+00:10:10,000 --> 00:10:12,958
+Hello, my name is Lei Zexin,
+from Singapore.
+
+129
+00:10:12,958 --> 00:10:13,875
+That far away!
+
+130
+00:10:13,875 --> 00:10:14,625
+Yes.
+
+131
+00:10:16,375 --> 00:10:17,458
+Here for sightseeing?
+
+132
+00:10:18,307 --> 00:10:19,391
+Backpacking trip.
+
+133
+00:10:21,541 --> 00:10:23,125
+Lei Zexin.
+
+134
+00:10:24,181 --> 00:10:25,431
+Your Mandarin is quite good.
+
+135
+00:10:26,208 --> 00:10:29,547
+Yes, my father was from mainland China.
+
+136
+00:10:31,250 --> 00:10:33,208
+Then how'd you end up
+in such a mess on a trip?
+
+137
+00:10:33,541 --> 00:10:34,583
+And hurt too.
+
+138
+00:10:36,041 --> 00:10:37,141
+I got lost.
+
+139
+00:10:38,291 --> 00:10:39,500
+Looking at your wound,
+
+140
+00:10:40,041 --> 00:10:41,458
+something bit you, didn't it?
+
+141
+00:10:42,541 --> 00:10:43,791
+I'm embarrassed to say
+
+142
+00:10:44,853 --> 00:10:46,812
+I encountered wolves on the way.
+
+143
+00:10:53,700 --> 00:10:55,266
+Well, you're lucky to be alive.
+
+144
+00:10:56,041 --> 00:10:57,583
+Please don't make fun of me.
+
+145
+00:10:58,541 --> 00:11:00,541
+Do you live here all by yourself?
+
+146
+00:11:02,458 --> 00:11:03,250
+Yes.
+
+147
+00:11:04,583 --> 00:11:05,708
+Just me.
+
+148
+00:11:06,508 --> 00:11:07,789
+Running this guesthouse.
+
+149
+00:11:11,726 --> 00:11:13,809
+What does this symbol mean?
+
+150
+00:11:14,883 --> 00:11:15,716
+Amur.
+
+151
+00:11:16,575 --> 00:11:17,867
+That's my name.
+
+152
+00:11:18,054 --> 00:11:20,262
+You're the first patient I've treated.
+
+153
+00:11:20,287 --> 00:11:22,454
+I'm leaving a signature as a memento.
+
+154
+00:11:23,031 --> 00:11:24,489
+You don't mind, do you?
+
+155
+00:11:24,930 --> 00:11:25,805
+Not at all.
+
+156
+00:11:26,041 --> 00:11:27,375
+I think it's cute.
+
+157
+00:11:37,791 --> 00:11:40,243
+Tomorrow I'll have Mongke
+take you to the station.
+
+158
+00:11:41,000 --> 00:11:42,250
+It's hard to catch a ride around here.
+
+159
+00:11:42,250 --> 00:11:43,041
+Station?
+
+160
+00:11:43,041 --> 00:11:43,791
+Yes.
+
+161
+00:11:43,816 --> 00:11:44,733
+To go where?
+
+162
+00:11:45,583 --> 00:11:47,024
+Aren't you here for sightseeing?
+
+163
+00:11:47,353 --> 00:11:48,696
+Nowhere you want to go?
+
+164
+00:11:51,643 --> 00:11:53,018
+I don't know where to go.
+
+165
+00:11:53,833 --> 00:11:54,958
+That's perfect then.
+
+166
+00:11:54,983 --> 00:11:56,274
+Why don't you stay here?
+
+167
+00:11:56,723 --> 00:11:57,890
+Stay here?
+
+168
+00:11:57,915 --> 00:11:58,790
+Yeah.
+
+169
+00:11:58,815 --> 00:12:00,398
+I'm the owner of this guesthouse.
+
+170
+00:12:00,423 --> 00:12:02,048
+You can stay as long as you want.
+
+171
+00:12:02,083 --> 00:12:03,416
+If you stay long enough,
+
+172
+00:12:03,416 --> 00:12:04,766
+I can even give you a discount.
+
+173
+00:12:09,556 --> 00:12:10,848
+This is all the cash I have.
+
+174
+00:12:11,333 --> 00:12:12,333
+It's all yours.
+
+175
+00:12:13,465 --> 00:12:14,257
+Wow.
+
+176
+00:12:15,088 --> 00:12:17,797
+Welcome to Amur's Guesthouse!
+
+177
+00:12:17,822 --> 00:12:18,947
+The grasslands are your home.
+
+178
+00:12:18,972 --> 00:12:20,739
+Stay as long as you like!
+
+179
+00:12:20,785 --> 00:12:21,541
+I'll hold onto this
+
+180
+00:12:21,541 --> 00:12:23,121
+and refund any extra later.
+
+181
+00:12:38,041 --> 00:12:39,625
+What's this dog's name?
+
+182
+00:12:43,250 --> 00:12:44,166
+He...
+
+183
+00:12:45,337 --> 00:12:46,308
+His name is Xiaohei.
+
+184
+00:12:46,333 --> 00:12:48,458
+The best sheepdog on this grassland.
+
+185
+00:12:49,507 --> 00:12:50,401
+Xiaohei,
+
+186
+00:12:51,861 --> 00:12:53,070
+where did he go?
+
+187
+00:12:54,267 --> 00:12:55,375
+He...
+
+188
+00:12:55,625 --> 00:12:56,833
+probably off playing somewhere.
+
+189
+00:12:56,833 --> 00:12:58,562
+Maybe he'll come back in a few days.
+
+190
+00:13:00,668 --> 00:13:02,418
+Finally, a guest!
+
+191
+00:13:02,583 --> 00:13:03,375
+Hey.
+
+192
+00:13:04,203 --> 00:13:06,041
+I'll prepare your room right now.
+
+193
+00:13:06,041 --> 00:13:07,000
+The best room.
+
+194
+00:13:07,000 --> 00:13:08,916
+I guarantee you'll feel right at home.
+
+195
+00:13:10,083 --> 00:13:11,083
+Okay.
+
+196
+00:14:20,858 --> 00:14:21,691
+You're awake.
+
+197
+00:14:24,398 --> 00:14:25,231
+Come on!
+
+198
+00:14:39,416 --> 00:14:40,958
+Slow down, there's more.
+
+199
+00:14:53,375 --> 00:14:54,375
+Amur.
+
+200
+00:14:54,375 --> 00:14:55,041
+Mm.
+
+201
+00:14:55,041 --> 00:14:56,250
+This room of yours...
+
+202
+00:14:56,825 --> 00:14:58,283
+is the best.
+
+203
+00:15:00,208 --> 00:15:03,101
+The best room, of course,
+goes to the best guest.
+
+204
+00:15:08,455 --> 00:15:10,580
+Where would you like to go
+these next few days?
+
+205
+00:15:10,833 --> 00:15:12,125
+I can be your guide.
+
+206
+00:15:13,833 --> 00:15:15,333
+Nowhere I want to go anymore.
+
+207
+00:15:15,358 --> 00:15:17,515
+It's nice right here.
+
+208
+00:15:19,666 --> 00:15:20,875
+Not going to look around?
+
+209
+00:15:21,278 --> 00:15:22,778
+I'm worried you'll get bored
+if you stay too long.
+
+210
+00:15:24,379 --> 00:15:25,587
+Staying here
+
+211
+00:15:25,791 --> 00:15:28,015
+might just be the place
+
+212
+00:15:28,429 --> 00:15:30,304
+I've traveled so far to find.
+
+213
+00:15:35,161 --> 00:15:35,953
+Alright.
+
+214
+00:15:36,708 --> 00:15:38,812
+Stay as long as you like.
+
+215
+00:15:39,208 --> 00:15:41,000
+Who told you to pay so much anyway.
+
+216
+00:15:43,187 --> 00:15:44,437
+There you go again.
+
+217
+00:15:55,916 --> 00:15:56,791
+Hey.
+
+218
+00:16:00,125 --> 00:16:01,000
+Here?
+
+219
+00:16:06,387 --> 00:16:07,460
+This is the spot.
+
+220
+00:16:20,598 --> 00:16:21,556
+Oh right, Amur.
+
+221
+00:16:22,291 --> 00:16:24,578
+If you pass the medical license exam,
+
+222
+00:16:25,348 --> 00:16:26,681
+where do you plan to work?
+
+223
+00:16:30,416 --> 00:16:31,500
+A pet clinic.
+
+224
+00:16:31,525 --> 00:16:32,858
+A pet clinic?
+
+225
+00:16:32,890 --> 00:16:35,600
+Yes, I'm taking
+the veterinary license exam.
+
+226
+00:16:36,173 --> 00:16:37,298
+What?
+
+227
+00:16:38,168 --> 00:16:40,501
+And you went treating me like that?
+
+228
+00:16:40,679 --> 00:16:42,671
+Hey, you got better, didn't you?
+
+229
+00:16:44,554 --> 00:16:45,933
+Let me tell you
+
+230
+00:16:45,958 --> 00:16:48,083
+humans and animals are the same in the end.
+
+231
+00:16:48,083 --> 00:16:50,166
+The medical theory is identical.
+
+232
+00:16:52,083 --> 00:16:53,666
+I really can't with you.
+
+233
+00:16:53,906 --> 00:16:56,364
+Actually, I should thank you instead.
+
+234
+00:16:56,708 --> 00:16:58,406
+For letting me get some good practice.
+
+235
+00:16:58,625 --> 00:17:02,007
+Hey, how about you become
+a partner in my pet clinic?
+
+236
+00:17:03,708 --> 00:17:04,666
+Partner?
+
+237
+00:17:04,691 --> 00:17:05,525
+Yes.
+
+238
+00:17:06,291 --> 00:17:08,875
+Are you asking me to invest in you?
+
+239
+00:17:08,900 --> 00:17:11,218
+Hey, don't worry.
+
+240
+00:17:11,554 --> 00:17:14,429
+If I'm going to rip off customers,
+I won't target just one.
+
+241
+00:17:15,125 --> 00:17:16,625
+You say that so righteously.
+
+242
+00:17:17,906 --> 00:17:21,039
+Then how about you invest your skills
+in the pet clinic?
+
+243
+00:17:25,742 --> 00:17:26,742
+Speaking of which,
+
+244
+00:17:28,041 --> 00:17:29,583
+what about this guesthouse?
+
+245
+00:17:29,608 --> 00:17:30,515
+Will you still run it?
+
+246
+00:17:30,836 --> 00:17:31,578
+And also
+
+247
+00:17:32,041 --> 00:17:33,541
+your pet clinic...
+
+248
+00:17:33,958 --> 00:17:36,375
+where would it be? In the city?
+
+249
+00:17:39,083 --> 00:17:40,375
+The pet clinic...
+
+250
+00:17:40,820 --> 00:17:43,208
+Actually, it'd be more
+of an animal hospital.
+
+251
+00:17:43,875 --> 00:17:44,833
+Right here.
+
+252
+00:17:45,583 --> 00:17:48,750
+To treat all the injured animals.
+
+253
+00:17:49,226 --> 00:17:52,208
+Like when someone's horse gets hurt
+
+254
+00:17:52,208 --> 00:17:54,625
+or someone's sheep rolls down a hillside
+
+255
+00:17:54,625 --> 00:17:56,083
+and people's dogs...
+
+256
+00:17:56,083 --> 00:17:59,000
+Auntie Wang's, Auntie Li's, and so on.
+
+257
+00:17:59,166 --> 00:18:00,416
+I'll heal them all.
+
+258
+00:18:02,382 --> 00:18:03,257
+Amur.
+
+259
+00:18:03,958 --> 00:18:05,458
+That's a great plan.
+
+260
+00:18:05,458 --> 00:18:07,625
+I'm in.
+
+261
+00:18:37,891 --> 00:18:39,391
+It might leave a scar.
+
+262
+00:18:39,679 --> 00:18:41,054
+If you mind,
+
+263
+00:18:41,079 --> 00:18:42,579
+I could get a cosmetology license too.
+
+264
+00:18:42,604 --> 00:18:44,187
+Oh, please don't.
+
+265
+00:18:44,333 --> 00:18:46,333
+Don't use me as your test subject, okay?
+
+266
+00:18:47,375 --> 00:18:48,750
+I'm just teasing.
+
+267
+00:18:49,791 --> 00:18:52,375
+Actually, a scar isn't so bad.
+
+268
+00:18:52,976 --> 00:18:54,309
+It'll be a memento.
+
+269
+00:18:55,142 --> 00:18:56,809
+A memento of escaping from wolves?
+
+270
+00:18:58,554 --> 00:18:59,512
+A memento
+
+271
+00:19:00,570 --> 00:19:01,778
+of you saving me.
+
+272
+00:19:05,947 --> 00:19:07,114
+Sweet talker.
+
+273
+00:19:08,041 --> 00:19:09,041
+Really.
+
+274
+00:19:09,041 --> 00:19:11,289
+If I hadn't been hurt,
+I wouldn't have met you.
+
+275
+00:19:13,625 --> 00:19:15,000
+And I wouldn't have gotten to enjoy
+
+276
+00:19:15,424 --> 00:19:17,091
+breakfast bathed in morning light.
+
+277
+00:19:19,499 --> 00:19:20,462
+Then
+
+278
+00:19:21,375 --> 00:19:23,166
+am I more important
+
+279
+00:19:23,191 --> 00:19:24,649
+or the morning light
+
+280
+00:19:24,835 --> 00:19:26,085
+or the breakfast?
+
+281
+00:19:26,110 --> 00:19:27,568
+You're the most important, of course.
+
+282
+00:19:28,041 --> 00:19:30,078
+But the morning light matters too
+
+283
+00:19:30,501 --> 00:19:32,835
+and so does breakfast.
+
+284
+00:19:43,447 --> 00:19:44,697
+More importantly,
+
+285
+00:19:45,000 --> 00:19:45,958
+you
+
+286
+00:19:46,879 --> 00:19:48,087
+are my breakfast.
+
+287
+00:19:57,468 --> 00:19:58,416
+Hey.
+
+288
+00:20:00,958 --> 00:20:02,166
+Let me clean up.
+
+289
+00:20:48,447 --> 00:20:49,489
+Thank you.
+
+290
+00:20:55,606 --> 00:20:56,648
+What are you looking at?
+
+291
+00:20:58,666 --> 00:20:59,458
+The clouds.
+
+292
+00:21:00,791 --> 00:21:01,958
+The clouds are flowing.
+
+293
+00:21:01,983 --> 00:21:04,585
+It's like they're swirling around us.
+
+294
+00:21:10,671 --> 00:21:12,250
+Standing here.
+
+295
+00:21:12,833 --> 00:21:15,291
+It's as if I'm standing
+at the center of the world.
+
+296
+00:21:17,624 --> 00:21:18,415
+Amur.
+
+297
+00:21:19,478 --> 00:21:20,353
+Have you
+
+298
+00:21:20,955 --> 00:21:22,497
+ever felt that way?
+
+299
+00:21:26,255 --> 00:21:27,172
+Sorry.
+
+300
+00:21:27,416 --> 00:21:28,625
+Mr. Lei Zexin.
+
+301
+00:21:29,250 --> 00:21:30,458
+Your feeling
+
+302
+00:21:30,731 --> 00:21:31,981
+might be wrong.
+
+303
+00:21:32,671 --> 00:21:33,504
+Wrong?
+
+304
+00:21:39,640 --> 00:21:42,306
+THAT is where the center of the world is.
+
+305
+00:21:42,931 --> 00:21:44,390
+The center of the world
+
+306
+00:21:45,142 --> 00:21:46,309
+is over there.
+
+307
+00:21:47,088 --> 00:21:47,755
+Yes.
+
+308
+00:22:15,434 --> 00:22:16,767
+Can you feel it?
+
+309
+00:22:18,625 --> 00:22:19,833
+Feel what?
+
+310
+00:22:21,416 --> 00:22:22,945
+Try feeling it again.
+
+311
+00:22:26,210 --> 00:22:28,710
+Whoa, I can feel it.
+
+312
+00:22:29,791 --> 00:22:30,916
+I feel it.
+
+313
+00:22:32,125 --> 00:22:33,171
+You're very alluring.
+
+314
+00:22:33,562 --> 00:22:34,437
+Hey.
+
+315
+00:22:34,952 --> 00:22:36,202
+Be serious.
+
+316
+00:22:39,523 --> 00:22:40,856
+I am being serious.
+
+317
+00:22:41,348 --> 00:22:42,765
+Very seriously
+
+318
+00:22:43,414 --> 00:22:44,455
+admiring you.
+
+319
+00:22:45,208 --> 00:22:46,791
+Oh come on.
+
+320
+00:22:47,166 --> 00:22:48,554
+That's not what I meant.
+
+321
+00:22:49,996 --> 00:22:51,367
+Then what did you mean?
+
+322
+00:22:54,083 --> 00:22:55,416
+Listen,
+
+323
+00:22:56,095 --> 00:22:57,984
+when I was very young,
+
+324
+00:22:58,416 --> 00:23:00,367
+a meteorite once fell here.
+
+325
+00:23:00,879 --> 00:23:04,023
+We're lying on top
+of that meteorite right now.
+
+326
+00:23:08,207 --> 00:23:10,457
+Are you serious?
+
+327
+00:23:10,911 --> 00:23:12,536
+Of course I'm serious.
+
+328
+00:23:12,561 --> 00:23:13,728
+Pretty cool, right?
+
+329
+00:23:14,664 --> 00:23:15,734
+Think about it.
+
+330
+00:23:16,166 --> 00:23:20,070
+A meteorite drifting
+through the infinite cosmos.
+
+331
+00:23:20,504 --> 00:23:23,367
+One day, with a one-in-a-billion chance,
+it lands on Earth.
+
+332
+00:23:23,392 --> 00:23:24,320
+Boom.
+
+333
+00:23:24,812 --> 00:23:26,166
+Right here.
+
+334
+00:23:26,166 --> 00:23:27,500
+A direct hit.
+
+335
+00:23:27,791 --> 00:23:29,687
+Doesn't that make this
+the center of the world?
+
+336
+00:23:30,046 --> 00:23:31,421
+A direct hit.
+
+337
+00:23:32,000 --> 00:23:33,546
+It sounds like you're saying
+
+338
+00:23:33,571 --> 00:23:35,671
+the meteorite chose where to land.
+
+339
+00:23:36,250 --> 00:23:37,500
+Why couldn't it have?
+
+340
+00:23:39,192 --> 00:23:42,150
+All coincidences in this world
+
+341
+00:23:42,405 --> 00:23:43,821
+are actually choices.
+
+342
+00:23:44,541 --> 00:23:46,952
+Think about it, the grasslands are so vast.
+
+343
+00:23:46,977 --> 00:23:48,183
+Even if you got lost,
+
+344
+00:23:48,208 --> 00:23:49,648
+why did you end up here, of all places?
+
+345
+00:23:51,000 --> 00:23:53,469
+Wasn't that your own choice?
+
+346
+00:23:56,890 --> 00:23:59,806
+Would you say this is the center
+of the world?
+
+347
+00:24:01,833 --> 00:24:03,125
+Mm...
+
+348
+00:24:04,056 --> 00:24:05,301
+Yeah?
+
+349
+00:24:06,246 --> 00:24:08,454
+See? Then how about I sell this to you?
+
+350
+00:24:08,479 --> 00:24:11,313
+Just a thousand yuan
+and the center of the world is all yours.
+
+351
+00:24:12,203 --> 00:24:14,475
+Oh come on, think about it.
+
+352
+00:24:14,500 --> 00:24:16,166
+If you're interested,
+I'll give you a discount.
+
+353
+00:24:16,166 --> 00:24:17,754
+Totally worth it.
+
+354
+00:24:18,114 --> 00:24:20,739
+Hey hey hey hey, don't go.
+
+355
+00:24:23,609 --> 00:24:24,652
+Hey.
+
+356
+00:24:26,250 --> 00:24:27,250
+Well then
+
+357
+00:24:28,291 --> 00:24:29,708
+sell yourself to me too.
+
+358
+00:24:31,125 --> 00:24:33,541
+That might be very expensive.
+
+359
+00:24:34,402 --> 00:24:35,958
+Name your price.
+
+360
+00:24:35,958 --> 00:24:38,375
+Oh no no no.
+
+361
+00:24:41,066 --> 00:24:42,250
+How expensive exactly?
+
+362
+00:24:42,496 --> 00:24:43,829
+Name your price.
+
+363
+00:24:44,314 --> 00:24:45,106
+Priceless.
+
+364
+00:24:45,906 --> 00:24:46,822
+Priceless?
+
+365
+00:24:47,621 --> 00:24:48,666
+Priceless.
+
+366
+00:24:49,208 --> 00:24:50,223
+So it's free then.
+
+367
+00:24:50,248 --> 00:24:52,998
+No no, no.
+
+368
+00:24:53,125 --> 00:24:55,449
+Priceless means it's very expensive.
+
+369
+00:24:55,750 --> 00:24:56,666
+Expensive.
+
+370
+00:24:56,666 --> 00:24:57,833
+Expensive?
+
+371
+00:24:57,833 --> 00:24:58,500
+Yes.
+
+372
+00:24:58,625 --> 00:24:59,958
+No matter how expensive,
+
+373
+00:25:00,577 --> 00:25:03,941
+I'll owe you the difference
+and pay it off slowly.
+
+374
+00:25:06,181 --> 00:25:09,890
+Didn't you say
+this is the center of the world?
+
+375
+00:25:11,625 --> 00:25:14,262
+What do you want to do
+at the center of the world?
+
+376
+00:25:15,173 --> 00:25:17,382
+At the center of this world, I want to
+
+377
+00:25:18,458 --> 00:25:19,500
+hold you.
+
+378
+00:25:20,000 --> 00:25:20,916
+Love you.
+
+379
+00:25:21,791 --> 00:25:22,791
+Be by your side.
+
+380
+00:25:24,291 --> 00:25:25,375
+Until...
+
+381
+00:25:26,130 --> 00:25:28,082
+the last day of my life.
+
+382
+00:25:30,544 --> 00:25:31,669
+Really?
+
+383
+00:27:47,668 --> 00:27:48,500
+Amur.
+
+384
+00:27:48,792 --> 00:27:49,583
+Mongke.
+
+385
+00:27:50,066 --> 00:27:51,375
+Ha ha ha ha.
+
+386
+00:27:51,375 --> 00:27:52,792
+Oh, my friend!
+
+387
+00:27:53,792 --> 00:27:54,434
+Come.
+
+388
+00:27:54,833 --> 00:27:55,543
+Huh?
+
+389
+00:27:55,958 --> 00:27:57,723
+Is this a new guest?
+
+390
+00:27:58,000 --> 00:27:59,848
+Yes, his name is Lei Zexin.
+
+391
+00:28:00,676 --> 00:28:01,519
+This is Mongke.
+
+392
+00:28:01,667 --> 00:28:02,833
+He delivers supplies regularly.
+
+393
+00:28:02,833 --> 00:28:03,143
+Oh.
+
+394
+00:28:03,168 --> 00:28:03,583
+Right.
+
+395
+00:28:03,583 --> 00:28:04,958
+Mongke, hello, thanks for your hard work.
+
+396
+00:28:04,958 --> 00:28:07,375
+Oh hey, hello hello hello hello.
+
+397
+00:28:07,375 --> 00:28:09,083
+Amur here's my best friend.
+
+398
+00:28:09,083 --> 00:28:10,667
+If you're his guest,
+
+399
+00:28:10,667 --> 00:28:13,708
+Then you're definitely my guest too.
+
+400
+00:28:16,207 --> 00:28:17,473
+How d'ya like the grasslands?
+
+401
+00:28:17,708 --> 00:28:18,696
+Good good good, thanks.
+
+402
+00:28:18,721 --> 00:28:20,402
+Come come come, sit sit sit.
+
+403
+00:28:21,333 --> 00:28:22,917
+And the food? Food good?
+
+404
+00:28:22,917 --> 00:28:23,542
+Very good.
+
+405
+00:28:23,542 --> 00:28:25,167
+Hey, that's good then.
+
+406
+00:28:25,167 --> 00:28:26,250
+Have some watermelon.
+
+407
+00:28:26,250 --> 00:28:27,792
+Oh, the meat'll be here soon.
+
+408
+00:28:27,792 --> 00:28:28,583
+No rush.
+
+409
+00:28:28,583 --> 00:28:29,375
+Yeah.
+
+410
+00:28:33,926 --> 00:28:34,958
+What're you laughing at?
+
+411
+00:28:35,917 --> 00:28:38,458
+Mongke's just like this,
+so warm you can't refuse him.
+
+412
+00:28:39,604 --> 00:28:42,104
+Hey, the meat's here!
+
+413
+00:28:42,593 --> 00:28:43,635
+Sorry for the wait.
+
+414
+00:28:43,833 --> 00:28:45,058
+Wow.
+
+415
+00:28:45,083 --> 00:28:46,583
+No worries, perfect timing.
+
+416
+00:28:46,917 --> 00:28:49,375
+You're the luckiest guest, y'know.
+
+417
+00:28:49,375 --> 00:28:53,333
+This mutton and pork buns
+were all made fresh today.
+
+418
+00:28:53,333 --> 00:28:54,333
+Try some, try some.
+
+419
+00:28:54,333 --> 00:28:55,000
+Try some.
+
+420
+00:28:55,000 --> 00:28:55,762
+Yeah.
+
+421
+00:28:57,083 --> 00:28:58,208
+Know what this is?
+
+422
+00:28:59,996 --> 00:29:00,917
+What is it?
+
+423
+00:29:00,917 --> 00:29:02,958
+Ha ha ha.
+
+424
+00:29:02,958 --> 00:29:04,667
+This here's mare's milk wine.
+
+425
+00:29:05,167 --> 00:29:06,042
+Mare's milk wine?
+
+426
+00:29:06,042 --> 00:29:09,292
+Mare's milk wine's our grassland liquor.
+
+427
+00:29:09,750 --> 00:29:12,043
+Give it a taste, my friend.
+
+428
+00:29:12,586 --> 00:29:14,586
+Hey, this is good stuff.
+
+429
+00:29:15,583 --> 00:29:16,542
+Here.
+
+430
+00:29:20,625 --> 00:29:21,750
+Come come come come.
+
+431
+00:29:21,750 --> 00:29:23,333
+Let's all drink one together first.
+
+432
+00:29:23,333 --> 00:29:23,875
+Here.
+
+433
+00:29:23,875 --> 00:29:24,475
+Cheers.
+
+434
+00:29:24,500 --> 00:29:25,292
+Cheers.
+
+435
+00:29:29,750 --> 00:29:30,583
+Mm.
+
+436
+00:29:31,667 --> 00:29:33,208
+Hey, that's it.
+
+437
+00:29:33,208 --> 00:29:34,074
+Please, have some meat.
+
+438
+00:29:37,333 --> 00:29:38,167
+Here.
+
+439
+00:29:41,583 --> 00:29:43,333
+This is grassland custom.
+
+440
+00:29:43,358 --> 00:29:45,483
+Eating it shows respect.
+
+441
+00:29:45,833 --> 00:29:47,292
+Right, eat up, please eat.
+
+442
+00:29:47,921 --> 00:29:49,254
+Ha ha ha ha.
+
+443
+00:29:49,917 --> 00:29:50,708
+How is it?
+
+444
+00:29:51,250 --> 00:29:52,458
+Come come come come.
+
+445
+00:29:52,458 --> 00:29:53,458
+Please, have some more.
+
+446
+00:29:53,458 --> 00:29:53,875
+Mm.
+
+447
+00:29:53,875 --> 00:29:54,375
+Delicious.
+
+448
+00:29:54,375 --> 00:29:55,292
+Ha ha ha.
+
+449
+00:29:55,333 --> 00:29:56,250
+So good.
+
+450
+00:29:56,250 --> 00:29:58,208
+If it's good, drink some more.
+
+451
+00:29:58,208 --> 00:30:00,059
+Here, this bowl.
+
+452
+00:30:00,292 --> 00:30:03,600
+We're gonna welcome you
+to our beautiful grasslands.
+
+453
+00:30:03,625 --> 00:30:04,792
+Welcome!
+
+454
+00:30:04,792 --> 00:30:05,750
+Always welcome.
+
+455
+00:30:05,750 --> 00:30:06,208
+Great.
+
+456
+00:30:06,208 --> 00:30:07,542
+Hey, my friend.
+
+457
+00:30:10,167 --> 00:30:11,527
+Hey, mm.
+
+458
+00:30:12,917 --> 00:30:13,792
+Mm.
+
+459
+00:30:14,398 --> 00:30:15,613
+Easy there,
+
+460
+00:30:16,114 --> 00:30:17,715
+don't get drunk and crash
+at my place again.
+
+461
+00:30:17,750 --> 00:30:19,667
+Hey, at such a happy time,
+
+462
+00:30:19,917 --> 00:30:21,965
+Don't say such buzzkill stuff.
+
+463
+00:30:23,500 --> 00:30:24,667
+Hey, just this once.
+
+464
+00:30:24,942 --> 00:30:26,651
+I'm too happy today.
+
+465
+00:30:26,708 --> 00:30:29,625
+My good friend, Lei Zexin,
+I'll remember that!
+
+466
+00:30:29,625 --> 00:30:30,500
+Lei Zexin.
+
+467
+00:30:31,583 --> 00:30:33,750
+This bowl,
+let's just the two of us have a drink.
+
+468
+00:30:33,750 --> 00:30:34,375
+Cheers.
+
+469
+00:30:34,958 --> 00:30:35,833
+Uh...
+
+470
+00:30:36,551 --> 00:30:37,875
+your way of drinking...
+
+471
+00:30:37,958 --> 00:30:40,309
+Such big bowls all in one gulp?
+
+472
+00:30:41,848 --> 00:30:44,129
+Huh? What's wrong with that?
+
+473
+00:30:44,950 --> 00:30:48,075
+In... in bowls this big, where I'm from,
+
+474
+00:30:48,333 --> 00:30:49,542
+we sip bit by bit.
+
+475
+00:30:49,542 --> 00:30:50,333
+Ha ha.
+
+476
+00:30:50,333 --> 00:30:51,708
+Sip bit by bit?
+
+477
+00:30:51,708 --> 00:30:52,667
+Yeah.
+
+478
+00:30:52,846 --> 00:30:54,762
+Then how many sips for one bowl?
+
+479
+00:30:55,831 --> 00:30:57,539
+A bowl this big
+
+480
+00:30:58,261 --> 00:30:59,302
+about six to eight.
+
+481
+00:30:59,333 --> 00:31:01,125
+Ha ha ha ha ha.
+
+482
+00:31:01,125 --> 00:31:02,000
+Hey.
+
+483
+00:31:02,708 --> 00:31:04,660
+Then this whole jug,
+
+484
+00:31:05,343 --> 00:31:07,468
+you couldn't finish it even by dawn.
+
+485
+00:31:07,583 --> 00:31:09,208
+Ha ha ha ha ha.
+
+486
+00:31:09,208 --> 00:31:10,292
+Hey, listen,
+
+487
+00:31:10,292 --> 00:31:13,057
+since you've come to
+our beautiful grasslands,
+
+488
+00:31:13,082 --> 00:31:15,125
+you gotta follow our grassland rules.
+
+489
+00:31:15,512 --> 00:31:17,958
+Fill it up, drink it down, okay?
+
+490
+00:31:17,958 --> 00:31:18,542
+Okay.
+
+491
+00:31:18,542 --> 00:31:19,208
+Yeah?
+
+492
+00:31:19,208 --> 00:31:20,955
+Yes, come come come, bottoms up.
+
+493
+00:31:20,980 --> 00:31:21,458
+Bottoms up.
+
+494
+00:31:21,458 --> 00:31:22,371
+Drink drink.
+
+495
+00:31:22,396 --> 00:31:25,098
+Hey! Ha ha ha ha.
+
+496
+00:31:25,750 --> 00:31:28,902
+I'll sing you a song.
+
+497
+00:31:29,125 --> 00:31:31,059
+My good friend.
+
+498
+00:31:31,667 --> 00:31:33,083
+Ha ha ha.
+
+499
+00:31:33,792 --> 00:31:34,667
+My good...
+
+500
+00:31:34,708 --> 00:31:35,792
+Good friend friend.
+
+501
+00:31:35,792 --> 00:31:36,965
+Good friend.
+
+502
+00:31:38,066 --> 00:31:39,042
+Hey.
+
+503
+00:31:40,911 --> 00:31:42,394
+Ha ha ha ha.
+
+504
+00:31:42,941 --> 00:31:44,708
+Go to sleep now, sleep.
+
+505
+00:31:47,208 --> 00:31:48,191
+Sleep.
+
+506
+00:31:49,958 --> 00:31:50,708
+Friend.
+
+507
+00:31:50,708 --> 00:31:51,333
+Friend, friend, friend.
+
+508
+00:31:51,333 --> 00:31:52,183
+Dance.
+
+509
+00:31:52,208 --> 00:31:53,750
+No more dancing, time to sleep.
+
+510
+00:31:53,750 --> 00:31:56,066
+Hey friend.
+
+511
+00:31:58,831 --> 00:32:01,247
+Mongke is really special.
+
+512
+00:32:02,542 --> 00:32:03,958
+He sure is.
+
+513
+00:32:04,667 --> 00:32:05,917
+With his snoring,
+
+514
+00:32:06,167 --> 00:32:07,542
+even wolves wouldn't dare come near.
+
+515
+00:32:09,542 --> 00:32:10,863
+I really envy you all.
+
+516
+00:32:12,414 --> 00:32:13,747
+Envy what?
+
+517
+00:32:14,958 --> 00:32:17,458
+I envy that you have the grasslands,
+
+518
+00:32:17,917 --> 00:32:20,519
+friends, and also the delicious...
+
+519
+00:32:21,682 --> 00:32:22,723
+Mare's milk wine.
+
+520
+00:32:40,292 --> 00:32:41,167
+Seriously though,
+
+521
+00:32:42,125 --> 00:32:43,417
+You've been away for so long.
+
+522
+00:32:43,458 --> 00:32:44,792
+Don't you miss seeing your parents?
+
+523
+00:32:50,375 --> 00:32:53,049
+My father passed away ten years ago.
+
+524
+00:32:53,875 --> 00:32:55,541
+My mother was so grief-stricken,
+
+525
+00:32:55,750 --> 00:32:57,000
+that seven years ago
+
+526
+00:32:58,000 --> 00:32:59,208
+she followed him.
+
+527
+00:33:24,375 --> 00:33:25,417
+I'm sorry.
+
+528
+00:33:25,875 --> 00:33:27,208
+I shouldn't have asked.
+
+529
+00:33:28,875 --> 00:33:29,917
+It's alright.
+
+530
+00:33:31,458 --> 00:33:32,729
+It's been so long.
+
+531
+00:33:33,458 --> 00:33:34,875
+I've moved past it.
+
+532
+00:33:39,250 --> 00:33:40,208
+Then
+
+533
+00:33:41,125 --> 00:33:42,667
+why did you want to come to
+the grasslands alone?
+
+534
+00:33:46,167 --> 00:33:47,500
+After going through so much,
+
+535
+00:33:48,250 --> 00:33:51,167
+I often feel that life in the city
+
+536
+00:33:51,875 --> 00:33:53,125
+has no meaning.
+
+537
+00:33:55,705 --> 00:33:56,913
+Especially lately.
+
+538
+00:33:58,000 --> 00:33:59,667
+I've been wanting to go somewhere by myself
+
+539
+00:34:00,167 --> 00:34:01,542
+to search for...
+
+540
+00:34:02,030 --> 00:34:03,238
+the meaning of life.
+
+541
+00:34:05,708 --> 00:34:08,708
+Have you found the meaning of life?
+
+542
+00:34:10,533 --> 00:34:12,417
+Lately I seem to have found something.
+
+543
+00:34:12,417 --> 00:34:13,583
+Hard to explain.
+
+544
+00:34:14,375 --> 00:34:16,002
+Can't quite put it into words.
+
+545
+00:34:23,625 --> 00:34:26,875
+Here's to those things
+we can't quite explain.
+
+546
+00:34:47,208 --> 00:34:47,542
+I'm off.
+
+547
+00:34:47,542 --> 00:34:48,042
+Stay safe.
+
+548
+00:34:48,042 --> 00:34:48,667
+Take it slow.
+
+549
+00:34:58,840 --> 00:34:59,632
+Beautiful?
+
+550
+00:35:05,383 --> 00:35:06,175
+Beautiful.
+
+551
+00:35:10,323 --> 00:35:11,531
+What are you looking at?
+
+552
+00:35:11,875 --> 00:35:13,119
+I was talking about the scenery.
+
+553
+00:35:15,698 --> 00:35:16,698
+The scenery is beautiful too.
+
+554
+00:35:17,073 --> 00:35:18,073
+But you...
+
+555
+00:35:22,708 --> 00:35:23,708
+are even more beautiful.
+
+556
+00:35:26,539 --> 00:35:28,218
+Such a smooth talker.
+
+557
+00:35:33,788 --> 00:35:36,705
+I never knew why I came to the grasslands
+
+558
+00:35:37,958 --> 00:35:39,125
+and ended up here.
+
+559
+00:35:39,708 --> 00:35:40,708
+Today
+
+560
+00:35:41,542 --> 00:35:42,917
+I think I have an answer.
+
+561
+00:35:45,921 --> 00:35:46,875
+What?
+
+562
+00:35:49,167 --> 00:35:52,083
+These past few years,
+I've often thought about a question.
+
+563
+00:35:53,125 --> 00:35:54,333
+If life
+
+564
+00:35:54,827 --> 00:35:56,160
+had only one day left,
+
+565
+00:35:57,125 --> 00:35:58,417
+how would I spend it?
+
+566
+00:36:06,125 --> 00:36:07,250
+You have an answer now?
+
+567
+00:36:08,833 --> 00:36:09,500
+Yes.
+
+568
+00:36:13,744 --> 00:36:14,702
+Just like
+
+569
+00:36:15,405 --> 00:36:16,809
+how I'm spending it right now.
+
+570
+00:37:41,417 --> 00:37:42,417
+Lei Zexin.
+
+571
+00:37:43,208 --> 00:37:44,583
+If you don't know where to go,
+
+572
+00:37:45,417 --> 00:37:46,807
+just stay here.
+
+573
+00:38:01,625 --> 00:38:03,292
+You've already sensed it, haven't you?
+
+574
+00:38:11,510 --> 00:38:12,885
+I've already sensed
+
+575
+00:38:14,458 --> 00:38:15,833
+that you're going to leave.
+
+576
+00:38:21,917 --> 00:38:22,708
+Lei Zexin.
+
+577
+00:38:23,667 --> 00:38:24,917
+As long as you don't leave,
+
+578
+00:38:25,125 --> 00:38:26,708
+we'll be together forever.
+
+579
+00:38:32,738 --> 00:38:34,988
+I really wish time could stop at this day.
+
+580
+00:38:35,917 --> 00:38:36,917
+That way,
+
+581
+00:38:38,000 --> 00:38:40,083
+we'd never have to be apart.
+
+582
+00:38:40,869 --> 00:38:43,252
+What the grasslands have most of is time.
+
+583
+00:38:43,864 --> 00:38:45,823
+I can take you to do so many things.
+
+584
+00:38:46,333 --> 00:38:47,500
+Go horseback riding,
+
+585
+00:38:48,167 --> 00:38:49,083
+herd sheep
+
+586
+00:38:50,000 --> 00:38:52,250
+and we can visit Mongke's farm.
+
+587
+00:38:53,503 --> 00:38:54,794
+There's so much to do.
+
+588
+00:38:55,292 --> 00:38:56,458
+How could one day be enough?
+
+589
+00:38:58,270 --> 00:38:59,104
+Amur.
+
+590
+00:39:00,292 --> 00:39:01,583
+There's something
+
+591
+00:39:02,208 --> 00:39:03,542
+I want to tell you.
+
+592
+00:39:05,406 --> 00:39:06,606
+Tell me.
+
+593
+00:39:09,766 --> 00:39:10,926
+Actually
+
+594
+00:39:11,750 --> 00:39:13,000
+I've met Xiaohei.
+
+595
+00:39:29,739 --> 00:39:30,864
+I knew it.
+
+596
+00:39:32,986 --> 00:39:34,486
+After all this time,
+
+597
+00:39:37,535 --> 00:39:38,994
+he's not coming back.
+
+598
+00:39:58,332 --> 00:40:00,371
+(Xiaohei)
+
+599
+00:40:18,773 --> 00:40:21,440
+Tell me, what happened to Xiaohei?
+
+600
+00:40:24,333 --> 00:40:25,167
+Amur.
+
+601
+00:40:25,625 --> 00:40:27,667
+I never intended to deceive you.
+
+602
+00:40:28,125 --> 00:40:29,375
+It's just...
+
+603
+00:40:29,862 --> 00:40:31,945
+I never knew how to tell you.
+
+604
+00:40:34,750 --> 00:40:35,667
+So
+
+605
+00:40:37,245 --> 00:40:39,495
+you mean it wasn't a wolf that bit you,
+
+606
+00:40:41,375 --> 00:40:42,667
+it was Xiaohei, wasn't it?
+
+607
+00:40:43,167 --> 00:40:46,083
+Amur, is that what you think?
+
+608
+00:40:46,108 --> 00:40:48,483
+What kind of misunderstanding happened
+between you two?
+
+609
+00:40:48,750 --> 00:40:50,863
+Xiaohei wouldn't normally bite people.
+
+610
+00:40:51,500 --> 00:40:52,875
+This is what happened.
+
+611
+00:40:53,167 --> 00:40:54,167
+That day
+
+612
+00:40:54,731 --> 00:40:56,190
+I was hiking on the grasslands
+
+613
+00:40:56,708 --> 00:40:58,105
+planning to camp by the lake
+
+614
+00:40:58,708 --> 00:41:00,019
+but unexpectedly
+
+615
+00:41:01,000 --> 00:41:02,375
+I encountered a pack of wolves.
+
+616
+00:41:03,792 --> 00:41:05,926
+I tried to scare them off.
+
+617
+00:41:06,208 --> 00:41:08,000
+But the alpha caught me off guard
+
+618
+00:41:08,000 --> 00:41:09,910
+and charged at me, biting my hand.
+
+619
+00:41:10,870 --> 00:41:12,536
+Just when I had given up hope,
+
+620
+00:41:12,561 --> 00:41:14,793
+Xiaohei rushed out and saved me.
+
+621
+00:41:15,500 --> 00:41:16,785
+It was Xiaohei.
+
+622
+00:41:17,458 --> 00:41:19,333
+He fought with those wolves.
+
+623
+00:41:20,730 --> 00:41:21,750
+After that,
+
+624
+00:41:23,208 --> 00:41:24,761
+some herders arrived too.
+
+625
+00:41:25,292 --> 00:41:26,417
+But
+
+626
+00:41:27,667 --> 00:41:30,660
+I saw with my own eyes
+as those wolves dragged Xiaohei away.
+
+627
+00:41:35,000 --> 00:41:36,976
+Only this dog tag was left behind.
+
+628
+00:41:49,958 --> 00:41:50,875
+So...
+
+629
+00:41:52,496 --> 00:41:54,496
+you didn't come here because you were lost.
+
+630
+00:41:55,945 --> 00:41:56,820
+Right.
+
+631
+00:41:57,632 --> 00:41:58,667
+I wasn't lost.
+
+632
+00:42:02,445 --> 00:42:05,000
+Then what was all of this? You coming here?
+
+633
+00:42:05,083 --> 00:42:06,083
+To compensate me?
+
+634
+00:42:06,083 --> 00:42:06,906
+Amur.
+
+635
+00:42:08,208 --> 00:42:10,000
+I did come because of Xiaohei
+
+636
+00:42:10,000 --> 00:42:12,875
+but now I truly love it here.
+
+637
+00:42:12,875 --> 00:42:14,625
+I could even take Xiaohei's place
+and stay with you.
+
+638
+00:42:14,625 --> 00:42:15,792
+Let go.
+
+639
+00:42:15,917 --> 00:42:17,333
+You could never replace him.
+
+640
+00:42:19,617 --> 00:42:20,542
+Lei Zexin,
+
+641
+00:42:21,250 --> 00:42:22,542
+in this world,
+
+642
+00:42:23,667 --> 00:42:25,625
+no one can stay with anyone forever.
+
+643
+00:42:27,000 --> 00:42:29,343
+I can, I can stay with you forever.
+
+644
+00:42:29,958 --> 00:42:31,600
+If I die,
+
+645
+00:42:31,625 --> 00:42:33,500
+then bury me next to that meteorite.
+
+646
+00:42:33,828 --> 00:42:35,245
+To stay with you forever.
+
+647
+00:42:43,921 --> 00:42:44,960
+Just leave.
+
+648
+00:42:47,515 --> 00:42:49,007
+You've wanted to leave for a while now.
+
+649
+00:42:51,023 --> 00:42:53,148
+Now that you've said everything
+you needed to.
+
+650
+00:42:55,393 --> 00:42:57,101
+You can leave with no regrets.
+
+651
+00:43:00,667 --> 00:43:01,720
+That's not what I meant.
+
+652
+00:43:01,745 --> 00:43:03,245
+Don't say any more, Lei Zexin.
+
+653
+00:43:04,667 --> 00:43:05,917
+Whether it was to repay a debt
+
+654
+00:43:06,750 --> 00:43:08,000
+or to atone,
+
+655
+00:43:09,542 --> 00:43:12,542
+you've done what you needed to do.
+
+656
+00:43:13,333 --> 00:43:14,333
+Now
+
+657
+00:43:15,542 --> 00:43:17,125
+it's time for you to leave.
+
+658
+00:43:53,417 --> 00:43:54,401
+Amur.
+
+659
+00:43:58,000 --> 00:43:58,610
+Mongke.
+
+660
+00:43:58,635 --> 00:43:59,333
+Amur.
+
+661
+00:43:59,333 --> 00:44:01,225
+Here, perfect timing.
+
+662
+00:44:01,250 --> 00:44:02,208
+Have some morning tea.
+
+663
+00:44:02,208 --> 00:44:03,667
+Oh, thanks.
+
+664
+00:44:03,792 --> 00:44:05,625
+Hey, your invitation.
+
+665
+00:44:10,542 --> 00:44:13,458
+(Wedding Invitation)
+
+666
+00:44:20,101 --> 00:44:22,089
+She really can't stand being alone.
+
+667
+00:44:23,401 --> 00:44:24,901
+Do you want to go or not?
+
+668
+00:44:25,250 --> 00:44:27,320
+Hey, if you don't wanna go, just tell me.
+
+669
+00:44:27,625 --> 00:44:29,792
+I'll let Auntie Yalin know.
+
+670
+00:44:31,542 --> 00:44:32,333
+Mongke.
+
+671
+00:44:33,167 --> 00:44:33,875
+Who's getting married?
+
+672
+00:44:33,875 --> 00:44:36,000
+Hey, c'mon over, sit sit sit.
+
+673
+00:44:36,000 --> 00:44:37,226
+Sit sit sit.
+
+674
+00:44:39,917 --> 00:44:41,171
+Amur's mom.
+
+675
+00:44:41,840 --> 00:44:43,590
+And his fourth stepdad.
+
+676
+00:44:45,089 --> 00:44:48,499
+Oh, so he does have family.
+
+677
+00:44:49,878 --> 00:44:50,742
+Yeah.
+
+678
+00:44:50,945 --> 00:44:52,083
+See this guesthouse?
+
+679
+00:44:52,792 --> 00:44:54,377
+His mom left it to him.
+
+680
+00:44:55,250 --> 00:44:56,708
+But y'know
+
+681
+00:44:56,708 --> 00:44:58,750
+she hasn't been back for many years.
+
+682
+00:45:00,375 --> 00:45:01,432
+You should go now.
+
+683
+00:45:03,333 --> 00:45:04,167
+Hey.
+
+684
+00:45:04,755 --> 00:45:07,464
+I haven't even finished peeling this egg
+and you're kicking me out?
+
+685
+00:45:09,458 --> 00:45:10,833
+I was talking to Lei Zexin.
+
+686
+00:45:12,667 --> 00:45:15,167
+After breakfast,
+take the motorcycle out front and go.
+
+687
+00:45:17,987 --> 00:45:18,917
+Amur.
+
+688
+00:45:19,417 --> 00:45:20,708
+Why're you being like this?
+
+689
+00:45:20,917 --> 00:45:23,375
+Hey, Lei Zexin's your most important guest.
+
+690
+00:45:23,625 --> 00:45:25,588
+If he leaves, I'll be real sad, y'know.
+
+691
+00:45:33,791 --> 00:45:34,708
+Amur.
+
+692
+00:45:41,260 --> 00:45:42,083
+Mongke.
+
+693
+00:45:42,333 --> 00:45:45,208
+Is Amur really not going to
+his mom's wedding?
+
+694
+00:45:45,208 --> 00:45:46,875
+Can you try to convince him?
+
+695
+00:45:47,292 --> 00:45:48,917
+Nah, no point.
+
+696
+00:45:49,437 --> 00:45:53,187
+He's just as stubborn as his mom.
+
+697
+00:45:53,489 --> 00:45:56,558
+Hey, remember to send me a message
+when you arrive.
+
+698
+00:45:56,583 --> 00:45:58,167
+Don't make us worry.
+
+699
+00:45:58,167 --> 00:45:58,792
+Okay.
+
+700
+00:45:58,792 --> 00:46:00,875
+No problem, I will.
+
+701
+00:47:19,948 --> 00:47:20,958
+<i>Amur.</i>
+
+702
+00:47:22,525 --> 00:47:23,760
+I'm leaving.
+
+703
+00:47:24,112 --> 00:47:25,820
+This journey to the grasslands
+
+704
+00:47:26,292 --> 00:47:27,667
+has been complete.
+
+705
+00:47:29,058 --> 00:47:32,016
+All that's left is to consider
+a final resting place.
+
+706
+00:47:33,125 --> 00:47:35,917
+Maybe back to Singapore.
+
+707
+00:47:37,458 --> 00:47:40,750
+Amur, go see your mom.
+
+708
+00:47:41,458 --> 00:47:43,500
+I've been praying to the Eternal Sky.
+
+709
+00:47:44,083 --> 00:47:48,167
+Hoping that somewhere in this world
+there would be someone who
+
+710
+00:47:48,502 --> 00:47:49,877
+loves you more than I do.
+
+711
+00:47:51,749 --> 00:47:53,207
+I think that person
+
+712
+00:47:53,833 --> 00:47:55,784
+can only be her.
+
+713
+00:47:57,698 --> 00:47:58,708
+Amur.
+
+714
+00:48:00,583 --> 00:48:01,792
+Goodbye.
+
+715
+00:48:02,708 --> 00:48:04,500
+Now I finally believe
+
+716
+00:48:05,083 --> 00:48:08,049
+that meteorite traveling billions
+of miles to reach this place.
+
+717
+00:48:09,453 --> 00:48:10,995
+It was always
+
+718
+00:48:11,625 --> 00:48:13,042
+its own choice.
+
+719
+00:49:20,583 --> 00:49:21,682
+Amur.
+
+720
+00:49:31,890 --> 00:49:33,098
+Are you alright?
+
+721
+00:49:34,708 --> 00:49:35,875
+I...
+
+722
+00:49:37,458 --> 00:49:40,000
+Son, don't be angry
+with your mother anymore.
+
+723
+00:49:50,250 --> 00:49:51,542
+My son.
+
+724
+00:49:52,432 --> 00:49:53,862
+You've been through so much.
+
+725
+00:49:56,083 --> 00:49:57,292
+It's... it's Mom's fault.
+
+726
+00:49:57,292 --> 00:49:58,909
+Let Mom apologize to you, okay?
+
+727
+00:50:01,877 --> 00:50:02,833
+You don't have to.
+
+728
+00:50:05,104 --> 00:50:08,000
+Mongke said you're going to find someone
+very important.
+
+729
+00:50:08,000 --> 00:50:09,833
+Somewhere very far away?
+
+730
+00:50:13,120 --> 00:50:13,953
+Singapore.
+
+731
+00:50:15,387 --> 00:50:17,846
+Alright, go find him.
+
+732
+00:50:18,792 --> 00:50:19,750
+If you have any difficulties...
+
+733
+00:50:19,750 --> 00:50:21,268
+Don't worry, Mom.
+
+734
+00:50:23,208 --> 00:50:24,823
+Passport and visa are all ready.
+
+735
+00:50:25,239 --> 00:50:26,239
+I have everything I need.
+
+736
+00:50:30,140 --> 00:50:32,057
+It's been so many years
+since you called me Mom.
+
+737
+00:50:34,167 --> 00:50:35,125
+Son.
+
+738
+00:50:35,792 --> 00:50:37,000
+You've grown up.
+
+739
+00:50:37,641 --> 00:50:39,724
+Go find the person you're looking for.
+
+740
+00:50:39,968 --> 00:50:42,502
+No matter how far,
+your mother supports you.
+
+741
+00:50:43,286 --> 00:50:44,203
+Mom.
+
+742
+00:50:45,208 --> 00:50:46,250
+I'm...
+
+743
+00:50:47,500 --> 00:50:50,042
+sorry I couldn't make it
+to your wedding.
+
+744
+00:50:50,042 --> 00:50:52,893
+It's okay, it's okay, son,
+Mom doesn't blame you.
+
+745
+00:50:53,833 --> 00:50:55,666
+Mom, don't cry.
+
+746
+00:50:58,125 --> 00:50:59,517
+It's nothing.
+
+747
+00:50:59,542 --> 00:51:02,917
+These are tears of happiness.
+
+748
+00:51:11,393 --> 00:51:12,333
+Amur.
+
+749
+00:51:13,083 --> 00:51:14,401
+Ha ha ha ha ha.
+
+750
+00:51:15,812 --> 00:51:19,437
+Oh man, you're finally gonna leave
+the grasslands in your life!
+
+751
+00:51:19,462 --> 00:51:20,754
+As your friend,
+
+752
+00:51:21,292 --> 00:51:22,625
+I'm happy for ya.
+
+753
+00:51:22,922 --> 00:51:23,714
+Remember.
+
+754
+00:51:24,667 --> 00:51:25,958
+You gotta find Lei Zexin.
+
+755
+00:51:27,875 --> 00:51:29,250
+How did you know
+
+756
+00:51:29,833 --> 00:51:31,333
+I'd definitely go find Lei Zexin?
+
+757
+00:51:31,333 --> 00:51:32,708
+Ha ha ha.
+
+758
+00:51:33,708 --> 00:51:35,375
+Hey, between friends,
+
+759
+00:51:35,375 --> 00:51:36,885
+there ain't no secrets.
+
+760
+00:51:39,713 --> 00:51:40,542
+Mongke.
+
+761
+00:51:40,542 --> 00:51:41,333
+Mm?
+
+762
+00:51:42,333 --> 00:51:43,625
+I'll be back.
+
+763
+00:51:44,625 --> 00:51:45,958
+I know that, of course.
+
+764
+00:51:45,958 --> 00:51:48,000
+The person who can make you
+leave the grasslands
+
+765
+00:51:48,000 --> 00:51:49,667
+will definitely bring you back too.
+
+766
+00:51:55,833 --> 00:51:56,625
+I'm going.
+
+767
+00:51:57,083 --> 00:51:57,875
+Go on.
+
+768
+00:51:59,473 --> 00:52:00,307
+Good luck.
+
+769
+00:52:25,401 --> 00:52:27,682
+(Xiaohei)
+
+770
+00:52:39,192 --> 00:52:40,026
+Hello?
+
+771
+00:52:40,824 --> 00:52:42,455
+<i>Is this Mr. Amur?</i>
+
+772
+00:52:43,835 --> 00:52:45,252
+Oh, yes it is.
+
+773
+00:52:45,554 --> 00:52:46,512
+Who is this?
+
+774
+00:52:47,190 --> 00:52:48,333
+<i>My name is Du Bianyi.</i>
+
+775
+00:52:48,333 --> 00:52:50,182
+<i>I'm Lei Zexin's attending physician.</i>
+
+776
+00:52:51,247 --> 00:52:53,081
+What happened to Lei Zexin?
+
+777
+00:52:53,106 --> 00:52:55,606
+<i>He left the hospital a week ago.</i>
+
+778
+00:52:55,958 --> 00:52:58,167
+<i>He has no family members on record.</i>
+
+779
+00:52:58,167 --> 00:53:01,042
+<i>So in his file, he only listed
+your name and phone number.</i>
+
+780
+00:53:03,195 --> 00:53:04,320
+What's his condition?
+
+781
+00:53:04,345 --> 00:53:07,096
+<i>He has Cerebral Vascular Malformation.</i>
+
+782
+00:53:07,584 --> 00:53:09,667
+<i>Commonly known as a brain aneurysm.</i>
+
+783
+00:53:10,333 --> 00:53:12,750
+<i>He really should have surgery immediately.</i>
+
+784
+00:53:13,167 --> 00:53:15,208
+<i>Of course, surgery has its risks</i>
+
+785
+00:53:15,208 --> 00:53:17,500
+<i>and the patient could have a brain
+hemorrhage at any time.</i>
+
+786
+00:53:17,729 --> 00:53:20,291
+<i>So the operation is highly risky.</i>
+
+787
+00:53:23,402 --> 00:53:25,861
+<i>I first admitted Lei Zexin
+a year and a half ago</i>
+
+788
+00:53:25,886 --> 00:53:28,177
+<i>but he only left a note in his room</i>
+
+789
+00:53:29,208 --> 00:53:32,750
+<i>saying "I want to spend the rest
+of my life on natural time"</i>
+
+790
+00:53:32,792 --> 00:53:34,083
+<i>and then he disappeared.</i>
+
+791
+00:53:35,122 --> 00:53:36,747
+Driver, driver!
+
+792
+00:53:36,919 --> 00:53:37,791
+Stop the car.
+
+793
+00:53:37,987 --> 00:53:39,667
+<i>Recently he came back once.</i>
+
+794
+00:53:39,708 --> 00:53:41,125
+<i>We insisted he have surgery</i>
+
+795
+00:53:41,125 --> 00:53:42,850
+<i>but he left the hospital again.</i>
+
+796
+00:53:42,875 --> 00:53:46,667
+<i>So we're hoping to find him through you.</i>
+
+797
+00:53:52,315 --> 00:53:53,648
+Standing here...
+
+798
+00:53:54,203 --> 00:53:56,786
+It's as if I'm standing
+at the center of the world.
+
+799
+00:53:59,167 --> 00:54:00,125
+Amur.
+
+800
+00:54:01,125 --> 00:54:01,958
+Have you
+
+801
+00:54:02,625 --> 00:54:04,083
+ever felt that way?
+
+802
+00:54:11,831 --> 00:54:12,997
+If life...
+
+803
+00:54:13,542 --> 00:54:14,833
+had only one day left,
+
+804
+00:54:15,750 --> 00:54:17,083
+how would I spend it?
+
+805
+00:54:20,417 --> 00:54:21,500
+Just like
+
+806
+00:54:22,208 --> 00:54:23,542
+how I'm spending it right now.
+
+807
+00:54:35,104 --> 00:54:36,088
+Lei Zexin.
+
+808
+00:54:45,786 --> 00:54:46,578
+Lei Zexin.
+
+809
+00:54:52,215 --> 00:54:53,125
+Lei Zexin.
+
+810
+00:54:58,778 --> 00:54:59,737
+Lei Zexin.
+
+811
+00:55:00,000 --> 00:55:01,489
+Lei Zexin.
+
+812
+00:55:02,917 --> 00:55:04,426
+Lei Zexin.
+
+813
+00:55:05,167 --> 00:55:06,309
+Lei Zexin.
+
+814
+00:55:09,417 --> 00:55:10,692
+Lei Zexin.
+
+815
+00:55:13,526 --> 00:55:14,317
+Amur.
+
+816
+00:55:16,208 --> 00:55:17,167
+You think,
+
+817
+00:55:17,917 --> 00:55:19,667
+maybe he never even came here?
+
+818
+00:55:20,927 --> 00:55:22,927
+With his body in such bad shape,
+
+819
+00:55:22,952 --> 00:55:24,786
+he might not have even made it here.
+
+820
+00:55:26,125 --> 00:55:28,583
+Ah, why'd I have to say that.
+
+821
+00:55:31,339 --> 00:55:32,997
+He will come back here.
+
+822
+00:55:57,013 --> 00:55:58,763
+I saw a marker over there.
+
+823
+00:55:59,875 --> 00:56:01,833
+Looks like it was set up for Xiaohei.
+
+824
+00:56:08,085 --> 00:56:08,877
+Look.
+
+825
+00:56:10,781 --> 00:56:13,804
+(Amur's guest)
+
+826
+00:56:13,879 --> 00:56:14,879
+It's him.
+
+827
+00:56:16,526 --> 00:56:17,609
+He came back.
+
+828
+00:56:20,500 --> 00:56:22,824
+He must be the one
+who put this up for Xiaohei.
+
+829
+00:56:29,750 --> 00:56:30,875
+Hey Amur.
+
+830
+00:56:30,900 --> 00:56:32,150
+Amur, don't do that.
+
+831
+00:56:32,175 --> 00:56:33,892
+You'll hurt your hands, Amur.
+
+832
+00:56:33,917 --> 00:56:34,833
+He's right here.
+
+833
+00:56:34,833 --> 00:56:35,458
+Amur.
+
+834
+00:56:35,458 --> 00:56:36,708
+He must have come back..
+
+835
+00:56:36,875 --> 00:56:37,583
+It must be him.
+
+836
+00:56:37,583 --> 00:56:38,058
+Amur.
+
+837
+00:56:38,083 --> 00:56:39,125
+He's right here.
+
+838
+00:56:39,125 --> 00:56:40,292
+Stop it, Amur.
+
+839
+00:56:40,542 --> 00:56:42,660
+Oh, Amur.
+
+840
+00:56:44,505 --> 00:56:46,464
+He might not have come at all.
+
+841
+00:56:48,854 --> 00:56:50,854
+What are you doing? Why are you like this?
+
+842
+00:56:54,624 --> 00:56:55,541
+He wouldn't.
+
+843
+00:56:56,464 --> 00:56:58,381
+Xiaohei gave his life to save him.
+
+844
+00:56:58,406 --> 00:56:59,869
+He'll come back for me.
+
+845
+00:57:23,583 --> 00:57:24,458
+Amur.
+
+846
+00:57:33,292 --> 00:57:34,125
+Amur.
+
+847
+00:57:46,820 --> 00:57:48,862
+I still want to spend the rest of my life
+
+848
+00:57:49,669 --> 00:57:51,211
+on natural time...
+
+849
+00:57:52,417 --> 00:57:53,750
+but, Amur,
+
+850
+00:57:55,417 --> 00:57:57,273
+I need to be with you.
