@@ -777,11 +777,11 @@ tea plantations and shops.
 touched by frost's glee ♪
 
 191
-00:11:23,330 --> 00:11:24,480
+00:11:23,330 --> 00:11:25,220
 ♪ Hatred stretches far and wide ♪
 
 192
-00:11:24,480 --> 00:11:25,250
+00:11:24,480 --> 00:11:25,390
 I've made my choice.
 
 193
@@ -831,7 +831,7 @@ Help me lift this.
 Alright.
 
 204
-00:11:57,380 --> 00:11:57,600
+00:11:57,380 --> 00:12:00,340
 [Rong's Ancestral Temple]
 
 205
@@ -912,7 +912,7 @@ They're...
 preparing for a wedding.
 
 224
-00:13:01,710 --> 00:13:02,210
+00:13:01,710 --> 00:13:06,640
 ♪ Who tears a strand
 of light from the dark night? ♪
 
@@ -950,7 +950,7 @@ for the beauty's fleeting years ♪
 it fades into twilight ♪
 
 232
-00:13:33,880 --> 00:13:35,510
+00:13:33,880 --> 00:13:39,910
 ♪ Grass sprouts, orioles sing,
 longevity slips away ♪
 
@@ -1028,7 +1028,7 @@ the moon swells and shrinks ♪
 ♪ I see through, yet hold my tongue ♪
 
 250
-00:14:40,290 --> 00:14:46,320
+00:14:40,290 --> 00:14:46,560
 ♪ Too fragile to be put into words ♪
 
 251
@@ -1036,7 +1036,7 @@ the moon swells and shrinks ♪
 Lady Shanbao,
 
 252
-00:14:46,990 --> 00:14:47,360
+00:14:46,990 --> 00:14:53,260
 ♪ Too fragile to be put into words ♪
 
 253
@@ -1340,7 +1340,7 @@ I told you to let go!
 ♪ It's tormenting itself all alone ♪
 
 326
-00:17:37,610 --> 00:17:38,070
+00:17:37,610 --> 00:17:41,710
 ♪ Unable to find any peers
 for a get-together ♪
 
@@ -1353,7 +1353,7 @@ You want reasons?
 Fine, I'll tell you.
 
 329
-00:17:42,060 --> 00:17:42,310
+00:17:42,060 --> 00:17:46,220
 ♪ Wait for a perfectly full moon ♪
 
 330
@@ -1365,11 +1365,11 @@ Men in the Rong family
 are all gentle and obedient.
 
 332
-00:17:45,350 --> 00:17:46,230
+00:17:45,350 --> 00:17:46,480
 I've never seen anyone like you,
 
 333
-00:17:46,230 --> 00:17:46,480
+00:17:46,230 --> 00:17:50,530
 ♪ Yet every slice of it seems incomplete ♪
 
 334
@@ -1381,11 +1381,11 @@ so defiant and calculating.
 What the Rong women fear most
 
 336
-00:17:50,510 --> 00:17:50,560
+00:17:50,510 --> 00:17:51,720
 are ambitious men.
 
 337
-00:17:50,560 --> 00:17:52,200
+00:17:50,560 --> 00:17:54,530
 ♪ Is it because my prayers
 are too presumptuous? ♪
 
@@ -1394,11 +1394,11 @@ are too presumptuous? ♪
 The heir especially cannot
 
 339
-00:17:53,830 --> 00:17:54,770
+00:17:53,830 --> 00:17:54,880
 be easily influenced by men.
 
 340
-00:17:54,770 --> 00:17:55,310
+00:17:54,770 --> 00:17:59,540
 ♪ Or do I lack a bit
 of the sacrificial blood? ♪
 
@@ -1420,7 +1420,7 @@ would not only
 be disapproved by Grandmother
 
 345
-00:18:02,440 --> 00:18:02,750
+00:18:02,440 --> 00:18:06,950
 ♪ The biting cold wind
 makes me stumble as I run ♪
 
@@ -1434,11 +1434,11 @@ to the Rong ancestors.
 You're about to marry someone else
 
 348
-00:18:06,640 --> 00:18:06,970
+00:18:06,640 --> 00:18:07,920
 and you still expect me to obey you?
 
 349
-00:18:06,970 --> 00:18:08,720
+00:18:06,970 --> 00:18:11,370
 ♪ Laughing innocently,
 I find my spirit broken ♪
 
@@ -1447,11 +1447,11 @@ I find my spirit broken ♪
 Rong Shanbao, I'm telling you.
 
 351
-00:18:10,880 --> 00:18:11,630
+00:18:10,880 --> 00:18:12,480
 If you truly dare to break your word
 
 352
-00:18:11,630 --> 00:18:12,480
+00:18:11,630 --> 00:18:14,040
 ♪ Just like this,
 I'm drunk in a spring night ♪
 
@@ -1460,11 +1460,11 @@ I'm drunk in a spring night ♪
 and marry that Yan Bailou,
 
 354
-00:18:13,640 --> 00:18:14,080
+00:18:13,640 --> 00:18:14,590
 I'll make you taste
 
 355
-00:18:14,080 --> 00:18:15,110
+00:18:14,080 --> 00:18:16,720
 ♪ Just like this,
 I'm lost in enduring hardships ♪
 
@@ -1473,7 +1473,7 @@ I'm lost in enduring hardships ♪
 what real defiance is.
 
 357
-00:18:16,930 --> 00:18:17,110
+00:18:16,930 --> 00:18:19,500
 ♪ Intertwined with you ♪
 
 358
@@ -1485,7 +1485,7 @@ What you care about most
 is your tea plantation, isn't it?
 
 360
-00:18:19,520 --> 00:18:19,550
+00:18:19,520 --> 00:18:23,780
 ♪ No longer fret over who loves more ♪
 
 361
@@ -1502,11 +1502,11 @@ and prevent your tea caravan
 from leaving Linji!
 
 364
-00:18:23,440 --> 00:18:23,800
+00:18:23,440 --> 00:18:24,590
 Since you know well I'm not
 
 365
-00:18:23,800 --> 00:18:24,590
+00:18:23,800 --> 00:18:28,370
 ♪ Gradually rid myself
 of the snakes and scorpions in my heart ♪
 
@@ -1523,11 +1523,11 @@ you should understand:
 I, Lu Jianglai,
 
 369
-00:18:28,400 --> 00:18:29,130
+00:18:28,400 --> 00:18:29,640
 will never give away my lover
 
 370
-00:18:29,130 --> 00:18:29,640
+00:18:29,130 --> 00:18:32,330
 ♪ Drink a cup
 filled with bold passion ♪
 
@@ -1536,11 +1536,11 @@ filled with bold passion ♪
 I won with my life to anyone else!
 
 372
-00:18:31,400 --> 00:18:32,360
+00:18:31,400 --> 00:18:32,550
 Whoever dares to take you from me
 
 373
-00:18:32,360 --> 00:18:32,880
+00:18:32,360 --> 00:18:36,180
 ♪ Sing a line
 about lovebirds and butterflies ♪
 
@@ -1553,7 +1553,7 @@ becomes my enemy!
 Let him try!
 
 376
-00:18:36,620 --> 00:18:37,070
+00:18:36,620 --> 00:18:40,180
 ♪ Put an end to all karmic ties and sins ♪
 
 377
