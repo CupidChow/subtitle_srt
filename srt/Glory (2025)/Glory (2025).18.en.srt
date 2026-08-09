@@ -567,7 +567,7 @@ You...
 Aren't you going up the mountains?
 
 136
-00:08:07,590 --> 00:08:07,720
+00:08:07,590 --> 00:08:12,580
 ♪ It jolts my already silent heart
 awake ♪
 
@@ -581,11 +581,11 @@ Come up now!
 as breezes dance among stars ♪
 
 139
-00:08:19,310 --> 00:08:19,710
+00:08:19,310 --> 00:08:20,160
 You shouldn't have come.
 
 140
-00:08:19,710 --> 00:08:21,310
+00:08:19,710 --> 00:08:25,530
 ♪ Hear the sighs
 for the beauty's fleeting years ♪
 
@@ -604,7 +604,7 @@ But someone
 has insisted on going up the mountains.
 
 144
-00:08:26,410 --> 00:08:26,750
+00:08:26,410 --> 00:08:32,450
 ♪ Lost in the mortal world,
 it fades into twilight ♪
 
@@ -622,7 +622,7 @@ At worst, from now on, wherever you go,
 I'll go with you.
 
 148
-00:08:32,960 --> 00:08:34,120
+00:08:32,960 --> 00:08:39,000
 ♪ Grass sprouts, orioles sing,
 longevity slips away ♪
 
@@ -636,11 +636,11 @@ I'll carry you on my back
 and move forward.
 
 151
-00:08:38,970 --> 00:08:39,669
+00:08:38,970 --> 00:08:40,419
 Hold tight. If you fall,
 
 152
-00:08:39,669 --> 00:08:40,919
+00:08:39,669 --> 00:08:45,590
 ♪ Love comes in scattered pairs,
 yet thoughts linger on ♪
 
@@ -696,7 +696,7 @@ the sun climbs and falls ♪
 ♪ True feelings are like drifting mist ♪
 
 165
-00:09:36,350 --> 00:09:37,390
+00:09:36,350 --> 00:09:38,600
 ♪ People only know loneliness ♪
 
 166
@@ -708,7 +708,7 @@ You're awake.
 ♪ Who cares about karma's twist? ♪
 
 168
-00:09:42,880 --> 00:09:45,200
+00:09:42,880 --> 00:09:46,450
 ♪ Tides ebb and flow,
 the moon swells and shrinks ♪
 
@@ -717,7 +717,7 @@ the moon swells and shrinks ♪
 You kept shivering just now.
 
 170
-00:09:46,480 --> 00:09:47,200
+00:09:46,480 --> 00:09:49,500
 ♪ I see through, yet hold my tongue ♪
 
 171
@@ -729,12 +729,12 @@ The rain has stopped.
 I've told them
 
 173
-00:09:49,030 --> 00:09:49,560
+00:09:49,030 --> 00:09:50,080
 to dry our clothes over the fire
 before we leave.
 
 174
-00:09:49,560 --> 00:09:52,270
+00:09:49,560 --> 00:09:55,840
 ♪ Too fragile to be put into words ♪
 
 175
@@ -751,7 +751,7 @@ It's time to set off.
 ♪ Too fragile to be put into words ♪
 
 178
-00:10:08,510 --> 00:10:10,640
+00:10:08,510 --> 00:10:10,910
 [Rong's Tea Plantation]
 
 179
@@ -3471,7 +3471,7 @@ Fragrance pouches and sachets!
 Fragrance pouches and sachets!
 
 820
-00:38:43,240 --> 00:38:44,590
+00:38:43,240 --> 00:38:45,200
 [Baozhi Pharmacy]
 
 821
