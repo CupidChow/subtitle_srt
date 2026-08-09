@@ -733,7 +733,7 @@ can't trace anything back to us.
 Is it reliable?
 
 180
-00:08:22,800 --> 00:08:22,980
+00:08:22,800 --> 00:08:24,690
 Scent pouches! Fragrant sachets!
 
 181
@@ -3372,7 +3372,7 @@ If it gets chipped,
 it won't sell for much.
 
 817
-00:45:42,080 --> 00:45:42,440
+00:45:42,080 --> 00:45:46,140
 [Tea brick;
 Dense structure; Improves with age]
 
