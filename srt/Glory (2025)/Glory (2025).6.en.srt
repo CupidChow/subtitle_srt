@@ -3440,7 +3440,7 @@ The length of the bud head must
 exceed the leaf length.
 
 824
-00:47:14,900 --> 00:47:15,100
+00:47:14,900 --> 00:47:15,860
 The bud must be longer than the leaf.
 
 825
@@ -3463,7 +3463,7 @@ it mainly consists of one bud
 with one or two newly unfurled leaves.
 
 829
-00:47:21,620 --> 00:47:21,840
+00:47:21,620 --> 00:47:22,910
 The bud must be as long as the leaf.
 
 830
@@ -3481,12 +3481,12 @@ The classic top-quality grade]
 high-class green tea, yellow tea, etc.]
 
 833
-00:47:23,230 --> 00:47:23,400
+00:47:23,230 --> 00:47:23,700
 [One Bud and Two Leaves:
 The taste is usually mellower.]
 
 834
-00:47:23,400 --> 00:47:23,750
+00:47:23,400 --> 00:47:25,120
 There are strict requirements
 for the appearance, too.
 
