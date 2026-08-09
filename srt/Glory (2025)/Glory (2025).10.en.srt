@@ -371,7 +371,7 @@ Lady Shanbao, you truly spare no expense.
 But it is not enough.
 
 88
-00:05:09,440 --> 00:05:09,560
+00:05:09,440 --> 00:05:10,790
 [Land Deed]
 
 89
@@ -429,7 +429,7 @@ Lady Shanbao, this is your chamber.
 Get out!
 
 102
-00:06:14,930 --> 00:06:15,740
+00:06:14,930 --> 00:06:19,590
 ♪ Get caught in a heavy, wild snowfall ♪
 
 103
@@ -441,7 +441,7 @@ Lady Shanbao.
 ♪ Watch magpies fluttering past my eyes ♪
 
 105
-00:06:23,600 --> 00:06:24,190
+00:06:23,600 --> 00:06:27,760
 ♪ It's tormenting itself all alone ♪
 
 106
@@ -453,11 +453,11 @@ Every word I spoke
 was from the bottom of my heart.
 
 108
-00:06:27,160 --> 00:06:27,980
+00:06:27,160 --> 00:06:28,600
 Lady Shanbao, please forgive my boldness
 
 109
-00:06:27,980 --> 00:06:28,950
+00:06:27,980 --> 00:06:32,080
 ♪ Unable to find any peers
 for a get-together ♪
 
@@ -471,7 +471,7 @@ I shall never forget your kindness
 in saving my life.
 
 112
-00:06:32,430 --> 00:06:32,750
+00:06:32,430 --> 00:06:36,590
 ♪ Wait for a perfectly full moon ♪
 
 113
@@ -493,7 +493,7 @@ I will always serve you.
 are too presumptuous? ♪
 
 117
-00:06:45,140 --> 00:06:48,560
+00:06:45,140 --> 00:06:49,909
 ♪ Or do I lack a bit
 of the sacrificial blood? ♪
 
@@ -992,7 +992,7 @@ the sun climbs and falls ♪
 ♪ Who cares about karma's twist? ♪
 
 233
-00:15:21,240 --> 00:15:21,640
+00:15:21,240 --> 00:15:24,810
 ♪ Tides ebb and flow,
 the moon swells and shrinks ♪
 
@@ -1005,7 +1005,7 @@ Young Master.
 This...
 
 236
-00:15:24,830 --> 00:15:25,510
+00:15:24,830 --> 00:15:27,850
 ♪ I see through, yet hold my tongue ♪
 
 237
@@ -1013,7 +1013,7 @@ This...
 The servants are too slack and lazy.
 
 238
-00:15:27,920 --> 00:15:28,790
+00:15:27,920 --> 00:15:34,190
 ♪ Too fragile to be put into words ♪
 
 239
@@ -1029,7 +1029,7 @@ I'll fetch another pot of tea right away.
 Rong Shanbao.
 
 242
-00:15:44,660 --> 00:15:45,080
+00:15:44,660 --> 00:15:48,020
 ♪ Tides ebb and flow,
 the moon swells and shrinks ♪
 
@@ -1039,15 +1039,15 @@ It was you
 who personally promised me this.
 
 244
-00:15:48,040 --> 00:15:50,390
+00:15:48,040 --> 00:15:51,270
 ♪ I see through, yet hold my tongue ♪
 
 245
-00:15:50,390 --> 00:15:51,290
+00:15:50,390 --> 00:15:51,480
 Since you've promised me,
 
 246
-00:15:51,290 --> 00:15:54,810
+00:15:51,290 --> 00:15:57,340
 ♪ Too fragile to be put into words ♪
 
 247
@@ -1788,7 +1788,7 @@ People come and go
 in this garden every day,
 
 424
-00:24:34,300 --> 00:24:35,640
+00:24:34,300 --> 00:24:39,800
 ♪ I lift my head and see the faint trace
 of spring snow on your brow ♪
 
@@ -1798,7 +1798,7 @@ but you're the first
 who has ever noticed it.
 
 426
-00:24:41,660 --> 00:24:42,240
+00:24:41,660 --> 00:24:47,060
 ♪ Years of being buried
 in paperwork and official business ♪
 
@@ -1815,12 +1815,12 @@ of magnolia, pine and osmanthus
 reflect your wisdom,
 
 430
-00:24:48,880 --> 00:24:49,440
+00:24:48,880 --> 00:24:50,000
 which is beyond the grasp
 of average people.
 
 431
-00:24:49,440 --> 00:24:51,270
+00:24:49,440 --> 00:24:54,810
 ♪ Who makes the kite snap its string? ♪
 
 432
@@ -1836,7 +1836,7 @@ with tea bushes in the middle.
 If we plant
 
 435
-00:24:56,520 --> 00:24:57,000
+00:24:56,520 --> 00:25:01,970
 ♪ Fate must intend for us
 to be bound together ♪
 
@@ -1850,7 +1850,7 @@ and orchids on the ground,
 it will enhance the tea's fragrance
 
 438
-00:25:03,480 --> 00:25:03,550
+00:25:03,480 --> 00:25:04,590
 and also prevent weeds from growing.
 
 439
@@ -1867,7 +1867,7 @@ and also prevent weeds from growing.
 and enchanting smiling face ♪
 
 442
-00:25:24,430 --> 00:25:24,520
+00:25:24,430 --> 00:25:25,390
 Don't you have anything to ask me?
 
 443
@@ -1886,7 +1886,7 @@ streaming down, yet unable to speak ♪
 frightening away the pair of swallows ♪
 
 446
-00:25:46,020 --> 00:25:51,770
+00:25:46,020 --> 00:25:53,050
 ♪ Can we, in this lifetime,
 share the moon's beauty from afar? ♪
 
@@ -1895,7 +1895,7 @@ share the moon's beauty from afar? ♪
 Lady Shanbao, whatever you want to do,
 
 448
-00:25:53,510 --> 00:25:53,880
+00:25:53,510 --> 00:26:00,580
 ♪ The myriad stars in the sky
 can't fully convey our endless affection ♪
 
@@ -1912,7 +1912,7 @@ Anything that troubles you so much
 must be no trivial challenge.
 
 452
-00:26:00,730 --> 00:26:02,000
+00:26:00,730 --> 00:26:08,090
 ♪ The wind wafts
 in countless thoughts of longing ♪
 
@@ -1930,7 +1930,7 @@ and become a nuisance.
 Who says it couldn't be fully achieved? ♪
 
 456
-00:26:15,330 --> 00:26:18,970
+00:26:15,330 --> 00:26:21,950
 ♪ Every single day with you
 feels like our very first encounter ♪
 
@@ -3602,7 +3602,7 @@ The servants are too slack and lazy.
 The teapot is completely empty.
 
 859
-00:46:31,360 --> 00:46:31,560
+00:46:31,360 --> 00:46:32,790
 I'll fetch another pot of tea right away.
 
 860
