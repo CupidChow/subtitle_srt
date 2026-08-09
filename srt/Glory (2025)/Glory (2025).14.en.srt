@@ -4461,11 +4461,11 @@ Open it! Hurry!
 [Purple Clay Teapot]
 
 1085
-00:46:35,030 --> 00:46:35,550
+00:46:35,030 --> 00:46:36,840
 Purple Clay Teapots are a unique form
 
 1086
-00:46:35,550 --> 00:46:36,840
+00:46:35,550 --> 00:46:38,400
 [This pot before us
 also holds key insights.]
 
