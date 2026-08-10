@@ -1,0 +1,3031 @@
+1
+00:02:40,440 --> 00:02:42,240
+<c.bg_transparent><c.white>PREVIOUSLY</c.white></c.bg_transparent>
+
+2
+00:02:44,560 --> 00:02:46,440
+<c.bg_transparent><c.white>You idiot!</c.white></c.bg_transparent>
+
+3
+00:02:50,200 --> 00:02:51,200
+<c.bg_transparent><c.white>What the…</c.white></c.bg_transparent>
+
+4
+00:02:51,280 --> 00:02:53,960
+<c.bg_transparent><c.white>May we invite you</c.white></c.bg_transparent>
+
+5
+00:02:54,040 --> 00:02:56,840
+<c.bg_transparent><c.white>to perform a ritual</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to drive away a gut-eating ghost?</c.white></c.bg_transparent>
+
+6
+00:02:58,120 --> 00:02:59,840
+<c.bg_transparent><c.white>The villagers saw a gut-eating ghost.</c.white></c.bg_transparent>
+
+7
+00:02:59,920 --> 00:03:02,000
+<c.bg_transparent><c.white>It comes out hunting at night.</c.white></c.bg_transparent>
+
+8
+00:03:02,080 --> 00:03:06,320
+<c.white><c.bg_transparent><i>So we called a shaman</i></c.bg_transparent></c.white>
+<c.white><c.bg_transparent><i>from another village to help find it.</i></c.bg_transparent></c.white>
+
+9
+00:03:06,400 --> 00:03:08,200
+<c.bg_transparent><c.white>The two who stole it…</c.white></c.bg_transparent>
+
+10
+00:03:08,280 --> 00:03:11,280
+<c.bg_transparent><c.white>I think they were sent to infiltrate us</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and steal the diamond.</c.white></c.bg_transparent>
+
+11
+00:03:11,360 --> 00:03:13,840
+<c.bg_transparent><c.white>The only people who knew Paul</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>was going to steal my diamond</c.white></c.bg_transparent>
+
+12
+00:03:13,920 --> 00:03:15,080
+<c.bg_transparent><c.white>were me…</c.white></c.bg_transparent>
+
+13
+00:03:15,160 --> 00:03:16,360
+<c.bg_transparent><c.white>and you.</c.white></c.bg_transparent>
+
+14
+00:03:16,440 --> 00:03:17,720
+<c.bg_transparent><c.white>Come on, Luang Pho!</c.white></c.bg_transparent>
+
+15
+00:03:17,800 --> 00:03:18,640
+<c.bg_transparent><c.white>Run!</c.white></c.bg_transparent>
+
+16
+00:03:18,720 --> 00:03:20,160
+<c.bg_transparent><c.white>Where did that gunshot come from?</c.white></c.bg_transparent>
+
+17
+00:03:20,240 --> 00:03:22,400
+<c.bg_transparent><c.white>Some lunatic started shooting at me.</c.white></c.bg_transparent>
+
+18
+00:03:22,480 --> 00:03:24,640
+<c.bg_transparent><c.white>This guy looks like that couple</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>from yesterday.</c.white></c.bg_transparent>
+
+19
+00:03:24,720 --> 00:03:26,040
+<c.bg_transparent><c.white>Where did you see them?</c.white></c.bg_transparent>
+
+20
+00:03:26,120 --> 00:03:27,240
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+21
+00:03:29,120 --> 00:03:30,000
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+22
+00:03:31,760 --> 00:03:33,120
+<c.bg_transparent><c.white>Granny, where are you?</c.white></c.bg_transparent>
+
+23
+00:03:35,240 --> 00:03:36,280
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+24
+00:03:38,880 --> 00:03:39,840
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+25
+00:03:41,840 --> 00:03:43,080
+<c.bg_transparent><c.white>Granny, where are you?</c.white></c.bg_transparent>
+
+26
+00:03:46,120 --> 00:03:47,400
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+27
+00:03:50,600 --> 00:03:51,480
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+28
+00:03:55,920 --> 00:03:56,920
+<c.bg_transparent><c.white>Granny?</c.white></c.bg_transparent>
+
+29
+00:03:57,000 --> 00:03:58,320
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+
+30
+00:04:04,280 --> 00:04:06,240
+<c.bg_transparent><c.white>-What is it?</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Where's my diamond?</c.white></c.bg_transparent>
+
+31
+00:04:10,280 --> 00:04:11,480
+<c.bg_transparent><c.white>The diamond again?</c.white></c.bg_transparent>
+
+32
+00:04:11,560 --> 00:04:13,520
+<c.bg_transparent><c.white>What diamond?</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>I really don't know anything.</c.white></c.bg_transparent>
+
+33
+00:04:13,600 --> 00:04:15,560
+<c.bg_transparent><c.white>The diamond you bastards</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>stole from my father!</c.white></c.bg_transparent>
+
+34
+00:04:16,160 --> 00:04:18,480
+<c.bg_transparent><c.white>I really don't know.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Search me if you don't believe me.</c.white></c.bg_transparent>
+
+35
+00:04:20,279 --> 00:04:21,440
+<c.bg_transparent><c.white>Oh, I will.</c.white></c.bg_transparent>
+
+36
+00:04:21,519 --> 00:04:24,240
+<c.bg_transparent><c.white>You two, beat him until he talks.</c.white></c.bg_transparent>
+
+37
+00:04:24,320 --> 00:04:26,000
+<c.bg_transparent><c.white>-Go.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Wait!</c.white></c.bg_transparent>
+
+38
+00:04:26,080 --> 00:04:27,280
+<c.bg_transparent><c.white>Whoa! Back off!</c.white></c.bg_transparent>
+
+39
+00:04:27,360 --> 00:04:29,880
+<c.bg_transparent><c.white>Hey! Wait! Get off me!</c.white></c.bg_transparent>
+
+40
+00:04:29,960 --> 00:04:31,680
+<c.bg_transparent><c.white>Wait! I really don't know anything!</c.white></c.bg_transparent>
+
+41
+00:04:31,760 --> 00:04:33,880
+<c.bg_transparent><c.white>Beat me all you want,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>I still won't know where the diamond is.</c.white></c.bg_transparent>
+
+42
+00:04:33,960 --> 00:04:34,960
+<c.bg_transparent><c.white>Stop it!</c.white></c.bg_transparent>
+
+43
+00:04:39,320 --> 00:04:41,440
+<c.bg_transparent><c.white>You can't beat people up like this!</c.white></c.bg_transparent>
+
+44
+00:04:41,520 --> 00:04:43,200
+<c.bg_transparent><c.white>And who might this pretty lady be?</c.white></c.bg_transparent>
+
+45
+00:04:43,280 --> 00:04:45,960
+<c.bg_transparent><c.white>Aren't you the one who ran away</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>from me the other day?</c.white></c.bg_transparent>
+
+46
+00:04:46,040 --> 00:04:47,320
+<c.bg_transparent><c.white>Who are you people?</c.white></c.bg_transparent>
+
+47
+00:04:48,280 --> 00:04:50,400
+<c.bg_transparent><c.white>-Hold this.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+
+48
+00:04:50,480 --> 00:04:51,320
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+49
+00:04:51,920 --> 00:04:54,040
+<c.bg_transparent><c.white>He stole from my father,</c.white></c.bg_transparent>
+
+50
+00:04:54,120 --> 00:04:55,640
+<c.bg_transparent><c.white>so I came to take it back.</c.white></c.bg_transparent>
+
+51
+00:04:56,520 --> 00:04:59,600
+<c.bg_transparent><c.white>My father is Kamnan Sawaeng.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>You should know him well.</c.white></c.bg_transparent>
+
+52
+00:05:00,400 --> 00:05:01,840
+<c.bg_transparent><c.white>I don't care who your father is.</c.white></c.bg_transparent>
+
+53
+00:05:01,920 --> 00:05:04,760
+<c.bg_transparent><c.white>We have laws.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Take it to the police station.</c.white></c.bg_transparent>
+
+54
+00:05:06,240 --> 00:05:07,520
+<c.bg_transparent><c.white>She's probably his wife, boss.</c.white></c.bg_transparent>
+
+55
+00:05:09,320 --> 00:05:11,840
+<c.bg_transparent><c.white>Then from now on,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>you can be my wife instead.</c.white></c.bg_transparent>
+
+56
+00:05:12,400 --> 00:05:14,160
+<c.bg_transparent><c.white>Hey, grab that bitch!</c.white></c.bg_transparent>
+
+57
+00:05:20,480 --> 00:05:21,680
+<c.bg_transparent><c.white>You were incredible!</c.white></c.bg_transparent>
+
+58
+00:05:24,680 --> 00:05:25,520
+<c.bg_transparent><c.white>Get them!</c.white></c.bg_transparent>
+
+59
+00:05:27,080 --> 00:05:28,200
+<c.bg_transparent><c.white>Back off!</c.white></c.bg_transparent>
+
+60
+00:05:31,600 --> 00:05:32,440
+<c.bg_transparent><c.white>Come on, run!</c.white></c.bg_transparent>
+
+61
+00:05:32,520 --> 00:05:33,640
+<c.bg_transparent><c.white>After them!</c.white></c.bg_transparent>
+
+62
+00:05:42,360 --> 00:05:43,440
+<c.bg_transparent><c.white>Where's that gut-eating ghost?</c.white></c.bg_transparent>
+
+63
+00:05:43,520 --> 00:05:44,600
+<c.bg_transparent><c.white>Whoa!</c.white></c.bg_transparent>
+
+64
+00:05:46,360 --> 00:05:49,200
+<c.bg_transparent><c.white>Ancestors, help me track it down.</c.white></c.bg_transparent>
+
+65
+00:05:54,800 --> 00:05:56,200
+<c.bg_transparent><c.white>It's that way.</c.white></c.bg_transparent>
+
+66
+00:06:06,640 --> 00:06:08,360
+<c.bg_transparent><c.white>This looks fun.</c.white></c.bg_transparent>
+
+67
+00:06:15,360 --> 00:06:16,600
+<c.bg_transparent><c.white>A gut-eating ghost!</c.white></c.bg_transparent>
+
+68
+00:06:38,920 --> 00:06:39,920
+<c.bg_transparent><c.white>Hurry!</c.white></c.bg_transparent>
+
+69
+00:06:46,760 --> 00:06:47,600
+<c.bg_transparent><c.white>Don't shoot!</c.white></c.bg_transparent>
+
+70
+00:06:48,600 --> 00:06:49,880
+<c.bg_transparent><c.white>This way.</c.white></c.bg_transparent>
+
+71
+00:06:49,960 --> 00:06:51,360
+<c.bg_transparent><c.white>Why did you stop me?</c.white></c.bg_transparent>
+
+72
+00:06:51,440 --> 00:06:53,720
+<c.bg_transparent><c.white>If he dies, we'll never find the diamond.</c.white></c.bg_transparent>
+
+73
+00:06:55,800 --> 00:06:56,640
+<c.bg_transparent><c.white>Then follow them.</c.white></c.bg_transparent>
+
+74
+00:07:15,920 --> 00:07:17,800
+<c.bg_transparent><c.white>-Luang Pho!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Boonrod.</c.white></c.bg_transparent>
+
+75
+00:07:22,960 --> 00:07:24,440
+<c.bg_transparent><c.white>There's a gut-eating ghost!</c.white></c.bg_transparent>
+
+76
+00:07:24,520 --> 00:07:26,080
+<c.bg_transparent><c.white>Catch it!</c.white></c.bg_transparent>
+
+77
+00:07:26,160 --> 00:07:27,520
+<c.bg_transparent><c.white>Hey! Don't come any closer!</c.white></c.bg_transparent>
+
+78
+00:07:30,040 --> 00:07:31,600
+<c.bg_transparent><c.white>The ghost has a gun!</c.white></c.bg_transparent>
+
+79
+00:07:33,160 --> 00:07:34,280
+<c.bg_transparent><c.white>What now, boss?</c.white></c.bg_transparent>
+
+80
+00:07:35,320 --> 00:07:37,920
+<c.bg_transparent><c.white>They're just hillfolk.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>What the hell are you afraid of?</c.white></c.bg_transparent>
+
+81
+00:07:38,480 --> 00:07:41,040
+<c.bg_transparent><c.white>But they're armed,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and there are too many of them!</c.white></c.bg_transparent>
+
+82
+00:07:42,880 --> 00:07:44,880
+<c.bg_transparent><c.white>Everyone, listen to me.</c.white></c.bg_transparent>
+
+83
+00:07:45,520 --> 00:07:47,560
+<c.bg_transparent><c.white>These people are not ghosts.</c.white></c.bg_transparent>
+
+84
+00:07:48,200 --> 00:07:51,960
+<c.bg_transparent><c.white>That's right.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>They're not ghosts. They're robbers.</c.white></c.bg_transparent>
+
+85
+00:07:52,640 --> 00:07:54,560
+<c.bg_transparent><c.white>Do you know who my father is?</c.white></c.bg_transparent>
+
+86
+00:07:55,400 --> 00:07:58,800
+<c.bg_transparent><c.white>Even ghosts don't call</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>for their parents like this.</c.white></c.bg_transparent>
+
+87
+00:07:58,880 --> 00:08:01,720
+<c.bg_transparent><c.white>Stay in your own world, ghosts!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Why come into our village?</c.white></c.bg_transparent>
+
+88
+00:08:01,800 --> 00:08:03,840
+<c.bg_transparent><c.white>-Yeah, that's true.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Right, right.</c.white></c.bg_transparent>
+
+89
+00:08:03,920 --> 00:08:06,000
+<c.bg_transparent><c.white>Looks like they're serious, boss.</c.white></c.bg_transparent>
+
+90
+00:08:06,720 --> 00:08:08,480
+<c.bg_transparent><c.white>I'm Kamnan Sawaeng's son!</c.white></c.bg_transparent>
+
+91
+00:08:09,080 --> 00:08:11,520
+<c.bg_transparent><c.white>Back off if you don't want trouble.</c.white></c.bg_transparent>
+
+92
+00:08:11,600 --> 00:08:13,240
+<c.bg_transparent><c.white>Don't use his name to scare us.</c.white></c.bg_transparent>
+
+93
+00:08:13,320 --> 00:08:15,240
+<c.bg_transparent><c.white>Even if you are Kamnan Sawaeng's son,</c.white></c.bg_transparent>
+
+94
+00:08:15,320 --> 00:08:16,960
+<c.bg_transparent><c.white>my staff is pointing at you,</c.white></c.bg_transparent>
+
+95
+00:08:17,040 --> 00:08:20,800
+<c.bg_transparent><c.white>so that means a gut-eating ghost</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>is possessing you.</c.white></c.bg_transparent>
+
+96
+00:08:20,880 --> 00:08:22,720
+<c.bg_transparent><c.white>-Yes, yes.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-He's right.</c.white></c.bg_transparent>
+
+97
+00:08:24,240 --> 00:08:25,800
+<c.bg_transparent><c.white>Let's get out of here, boss.</c.white></c.bg_transparent>
+
+98
+00:08:26,360 --> 00:08:28,600
+<c.bg_transparent><c.white>-Go catch them!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Everyone, stop!</c.white></c.bg_transparent>
+
+99
+00:08:30,240 --> 00:08:31,560
+<c.bg_transparent><c.white>I beg you.</c.white></c.bg_transparent>
+
+100
+00:08:34,080 --> 00:08:36,480
+<c.bg_transparent><c.white>-Get out of here, man.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-This isn't over.</c.white></c.bg_transparent>
+
+101
+00:08:36,559 --> 00:08:38,880
+<c.bg_transparent><c.white>-I'll be back for revenge.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-We've got to move, man!</c.white></c.bg_transparent>
+
+102
+00:08:39,840 --> 00:08:41,840
+<c.bg_transparent><c.white>They ran away! See, Luang Pho?</c.white></c.bg_transparent>
+
+103
+00:08:43,799 --> 00:08:47,360
+<c.bg_transparent><c.white>Everyone, stay mindful and calm down.</c.white></c.bg_transparent>
+
+104
+00:08:48,000 --> 00:08:51,000
+<c.bg_transparent><c.white>Please consider this</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>a monk's humble request.</c.white></c.bg_transparent>
+
+105
+00:08:54,960 --> 00:08:58,480
+<c.bg_transparent><c.white>Village Head, Deputy Head,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>won't you say something?</c.white></c.bg_transparent>
+
+106
+00:08:59,320 --> 00:09:00,840
+<c.bg_transparent><c.white>We agree with you, sir.</c.white></c.bg_transparent>
+
+107
+00:09:01,600 --> 00:09:02,760
+<c.bg_transparent><c.white>That's right.</c.white></c.bg_transparent>
+
+108
+00:09:10,720 --> 00:09:14,960
+<c.bg_transparent><c.white>Honestly, I don't want to let them go,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>but I side with Luang Pho.</c.white></c.bg_transparent>
+
+109
+00:09:16,240 --> 00:09:18,840
+<c.bg_transparent><c.white>That guy is possessed</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>by a gut-eating ghost.</c.white></c.bg_transparent>
+
+110
+00:09:18,920 --> 00:09:20,200
+<c.bg_transparent><c.white>That's true.</c.white></c.bg_transparent>
+
+111
+00:09:20,280 --> 00:09:23,200
+<c.bg_transparent><c.white>That thing sneaks in</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and eats our chickens every night.</c.white></c.bg_transparent>
+
+112
+00:09:25,680 --> 00:09:28,640
+<c.bg_transparent><c.white>Everyone, listen to me.</c.white></c.bg_transparent>
+
+113
+00:09:28,720 --> 00:09:31,240
+<c.bg_transparent><c.white>Let me ask you.</c.white></c.bg_transparent>
+
+114
+00:09:31,320 --> 00:09:34,400
+<c.bg_transparent><c.white>Has anyone actually seen</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>a gut-eating ghost?</c.white></c.bg_transparent>
+
+115
+00:09:34,480 --> 00:09:37,720
+<c.bg_transparent><c.white>Does anyone know</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>what it really looks like?</c.white></c.bg_transparent>
+
+116
+00:09:40,680 --> 00:09:45,240
+<c.bg_transparent><c.white>Someone just points a staff at people…</c.white></c.bg_transparent>
+
+117
+00:09:45,320 --> 00:09:47,480
+<c.bg_transparent><c.white>and calls them ghosts.</c.white></c.bg_transparent>
+
+118
+00:09:48,080 --> 00:09:50,560
+<c.bg_transparent><c.white>Is that alone enough</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>for you to believe it?</c.white></c.bg_transparent>
+
+119
+00:09:51,280 --> 00:09:52,920
+<c.bg_transparent><c.white>Luang Pho is right.</c.white></c.bg_transparent>
+
+120
+00:09:53,520 --> 00:09:57,080
+<c.bg_transparent><c.white>Exactly. Luang Pho is right.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Those men are robbers.</c.white></c.bg_transparent>
+
+121
+00:09:57,680 --> 00:10:00,360
+<c.bg_transparent><c.white>If they come back,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>you'll be in worse trouble</c.white></c.bg_transparent>
+
+122
+00:10:00,440 --> 00:10:02,320
+<c.bg_transparent><c.white>than with any ghost.</c.white></c.bg_transparent>
+
+123
+00:10:02,400 --> 00:10:04,720
+<c.bg_transparent><c.white>So calm down. Stay mindful, everyone.</c.white></c.bg_transparent>
+
+124
+00:10:04,800 --> 00:10:07,200
+<c.bg_transparent><c.white>Calm down and trust Luang Pho.</c.white></c.bg_transparent>
+
+125
+00:10:10,120 --> 00:10:13,640
+<c.bg_transparent><c.white>Stick to being a monk.</c.white></c.bg_transparent>
+
+126
+00:10:13,720 --> 00:10:16,760
+<c.bg_transparent><c.white>If you don't know anything</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>about the real world, keep quiet.</c.white></c.bg_transparent>
+
+127
+00:10:17,280 --> 00:10:18,480
+<c.bg_transparent><c.white>Look.</c.white></c.bg_transparent>
+
+128
+00:10:19,520 --> 00:10:22,840
+<c.bg_transparent><c.white>This village has its own shaman,</c.white></c.bg_transparent>
+
+129
+00:10:22,920 --> 00:10:26,680
+<c.bg_transparent><c.white>yet a different ghost shows up every day.</c.white></c.bg_transparent>
+
+130
+00:10:26,760 --> 00:10:31,120
+<c.bg_transparent><c.white>What's the point</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>of having a village shaman?</c.white></c.bg_transparent>
+
+131
+00:10:38,680 --> 00:10:40,160
+<c.bg_transparent><c.white>There's another ghost over there!</c.white></c.bg_transparent>
+
+132
+00:10:46,200 --> 00:10:47,280
+<c.bg_transparent><c.white>These people</c.white></c.bg_transparent>
+
+133
+00:10:47,960 --> 00:10:49,800
+<c.bg_transparent><c.white>are beyond reason.</c.white></c.bg_transparent>
+
+134
+00:10:49,880 --> 00:10:51,840
+<c.bg_transparent><c.white>They won't be easy to talk to.</c.white></c.bg_transparent>
+
+135
+00:10:52,760 --> 00:10:54,320
+<c.bg_transparent><c.white>But I think</c.white></c.bg_transparent>
+
+136
+00:10:55,080 --> 00:10:56,760
+<c.bg_transparent><c.white>we should go check on them anyway.</c.white></c.bg_transparent>
+
+137
+00:10:56,840 --> 00:10:58,000
+<c.bg_transparent><c.white>What?</c.white></c.bg_transparent>
+
+138
+00:10:59,000 --> 00:10:59,960
+<c.bg_transparent><c.white>Luang Pho!</c.white></c.bg_transparent>
+
+139
+00:11:00,520 --> 00:11:01,720
+<c.bg_transparent><c.white>Luang Pho!</c.white></c.bg_transparent>
+
+140
+00:11:01,800 --> 00:11:03,680
+<c.bg_transparent><c.white>Are we really going after them?</c.white></c.bg_transparent>
+
+141
+00:11:07,000 --> 00:11:07,920
+<c.bg_transparent><c.white>There it is!</c.white></c.bg_transparent>
+
+142
+00:11:08,000 --> 00:11:09,040
+<c.bg_transparent><c.white>The gut-eating ghost!</c.white></c.bg_transparent>
+
+143
+00:11:12,720 --> 00:11:14,440
+<c.bg_transparent><c.white>So it was this old woman.</c.white></c.bg_transparent>
+
+144
+00:11:14,520 --> 00:11:17,760
+<c.bg_transparent><c.white>She's been wandering</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>around these woods for years.</c.white></c.bg_transparent>
+
+145
+00:11:18,280 --> 00:11:21,400
+<c.bg_transparent><c.white>We thought she was crazy,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>but she's the gut-eating ghost.</c.white></c.bg_transparent>
+
+146
+00:11:21,960 --> 00:11:24,760
+<c.bg_transparent><c.white>-Get out!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Get out!</c.white></c.bg_transparent>
+
+147
+00:11:24,840 --> 00:11:27,000
+<c.bg_transparent><c.white>-Wait, everyone!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Get out!</c.white></c.bg_transparent>
+
+148
+00:11:32,320 --> 00:11:33,440
+<c.bg_transparent><c.white>Don't go near her!</c.white></c.bg_transparent>
+
+149
+00:11:51,560 --> 00:11:54,520
+<c.bg_transparent><c.white>This old lady is the gut-eating ghost?</c.white></c.bg_transparent>
+
+150
+00:11:59,040 --> 00:12:01,360
+<c.bg_transparent><c.white>She doesn't have a single tooth left.</c.white></c.bg_transparent>
+
+151
+00:12:01,960 --> 00:12:04,800
+<c.bg_transparent><c.white>How could she be eating</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>your ducks and chickens?</c.white></c.bg_transparent>
+
+152
+00:12:08,080 --> 00:12:11,440
+<c.bg_transparent><c.white>If she's possessed, she can do anything.</c.white></c.bg_transparent>
+
+153
+00:12:13,320 --> 00:12:14,720
+<c.bg_transparent><c.white>You people are strange.</c.white></c.bg_transparent>
+
+154
+00:12:15,320 --> 00:12:19,000
+<c.bg_transparent><c.white>You all seem like good-hearted people,</c.white></c.bg_transparent>
+
+155
+00:12:19,640 --> 00:12:22,080
+<c.bg_transparent><c.white>yet you show no compassion</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>for another human being.</c.white></c.bg_transparent>
+
+156
+00:12:22,160 --> 00:12:24,920
+<c.bg_transparent><c.white>But our ducks and chickens</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>really are missing.</c.white></c.bg_transparent>
+
+157
+00:12:26,680 --> 00:12:28,520
+<c.bg_transparent><c.white>She's not human anymore.</c.white></c.bg_transparent>
+
+158
+00:12:28,600 --> 00:12:31,880
+<c.bg_transparent><c.white>The gut-eating ghost</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>has devoured all her organs.</c.white></c.bg_transparent>
+
+159
+00:12:31,960 --> 00:12:33,360
+<c.bg_transparent><c.white>The Village Head knows it too.</c.white></c.bg_transparent>
+
+160
+00:12:39,040 --> 00:12:41,440
+<c.bg_transparent><c.white>Everyone, listen to me.</c.white></c.bg_transparent>
+
+161
+00:12:41,520 --> 00:12:44,600
+<c.bg_transparent><c.white>If this old woman is really a ghost,</c.white></c.bg_transparent>
+
+162
+00:12:44,680 --> 00:12:47,520
+<c.bg_transparent><c.white>why isn't she afraid of a monk like me?</c.white></c.bg_transparent>
+
+163
+00:12:48,120 --> 00:12:50,400
+<c.bg_transparent><c.white>That's true.</c.white></c.bg_transparent>
+
+164
+00:12:50,480 --> 00:12:52,760
+<c.bg_transparent><c.white>Is she the one</c.white></c.bg_transparent>
+
+165
+00:12:52,840 --> 00:12:54,640
+<c.bg_transparent><c.white>you asked me to bring food to?</c.white></c.bg_transparent>
+
+166
+00:12:57,120 --> 00:13:01,400
+<c.bg_transparent><c.white>Please drive the ghost away.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>I'm out of here!</c.white></c.bg_transparent>
+
+167
+00:13:01,480 --> 00:13:03,000
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+168
+00:13:05,400 --> 00:13:06,480
+<c.bg_transparent><c.white>What's that?</c.white></c.bg_transparent>
+
+169
+00:13:08,640 --> 00:13:10,000
+<c.bg_transparent><c.white>Hey.</c.white></c.bg_transparent>
+
+170
+00:13:22,960 --> 00:13:24,040
+<c.bg_transparent><c.white>Here.</c.white></c.bg_transparent>
+
+171
+00:13:25,000 --> 00:13:26,280
+<c.bg_transparent><c.white>Take this.</c.white></c.bg_transparent>
+
+172
+00:13:26,360 --> 00:13:28,680
+<c.bg_transparent><c.white>Hey, you.</c.white></c.bg_transparent>
+
+173
+00:13:30,280 --> 00:13:31,840
+<c.bg_transparent><c.white>Where are you from?</c.white></c.bg_transparent>
+
+174
+00:13:34,520 --> 00:13:36,200
+<c.bg_transparent><c.white>I came from way over there.</c.white></c.bg_transparent>
+
+175
+00:13:39,320 --> 00:13:40,840
+<c.bg_transparent><c.white>Do you live here?</c.white></c.bg_transparent>
+
+176
+00:13:42,040 --> 00:13:43,760
+<c.bg_transparent><c.white>Take this and eat.</c.white></c.bg_transparent>
+
+177
+00:13:43,840 --> 00:13:45,360
+<c.bg_transparent><c.white>Eat as much as you need.</c.white></c.bg_transparent>
+
+178
+00:13:45,440 --> 00:13:47,000
+<c.bg_transparent><c.white>I'm giving it to you.</c.white></c.bg_transparent>
+
+179
+00:13:50,680 --> 00:13:52,840
+<c.bg_transparent><c.white>People are strange.</c.white></c.bg_transparent>
+
+180
+00:13:53,480 --> 00:13:55,560
+<c.bg_transparent><c.white>Within one person</c.white></c.bg_transparent>
+
+181
+00:13:55,640 --> 00:13:58,400
+<c.bg_transparent><c.white>lies the capacity for both merit and sin.</c.white></c.bg_transparent>
+
+182
+00:13:59,000 --> 00:14:02,040
+<c.bg_transparent><c.white>They may gather to do good,</c.white></c.bg_transparent>
+
+183
+00:14:02,120 --> 00:14:05,880
+<c.bg_transparent><c.white>yet at the same time,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>they can turn into monsters,</c.white></c.bg_transparent>
+
+184
+00:14:05,960 --> 00:14:10,640
+<c.bg_transparent><c.white>taking justice into their own hands</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>without thinking.</c.white></c.bg_transparent>
+
+185
+00:14:10,720 --> 00:14:13,520
+<c.bg_transparent><c.white>But our ducks and chickens</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>are truly missing.</c.white></c.bg_transparent>
+
+186
+00:14:16,960 --> 00:14:18,240
+<c.bg_transparent><c.white>Why are you bathing now?</c.white></c.bg_transparent>
+
+187
+00:14:18,320 --> 00:14:21,240
+<c.bg_transparent><c.white>Get inside,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>or the gut-eating ghost will get you.</c.white></c.bg_transparent>
+
+188
+00:14:25,920 --> 00:14:27,480
+<c.bg_transparent><c.white>The person from last night</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>hasn't shown up.</c.white></c.bg_transparent>
+
+189
+00:14:29,880 --> 00:14:31,120
+<c.bg_transparent><c.white>Village Head,</c.white></c.bg_transparent>
+
+190
+00:14:31,720 --> 00:14:33,680
+<c.bg_transparent><c.white>about the dead ducks and chickens,</c.white></c.bg_transparent>
+
+191
+00:14:33,760 --> 00:14:35,760
+<c.bg_transparent><c.white>there's someone I suspect.</c.white></c.bg_transparent>
+
+192
+00:14:35,840 --> 00:14:37,000
+<c.bg_transparent><c.white>Who?</c.white></c.bg_transparent>
+
+193
+00:14:38,320 --> 00:14:42,440
+<c.bg_transparent><c.white>The man who comes out at night</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>with a purple satchel.</c.white></c.bg_transparent>
+
+194
+00:14:43,760 --> 00:14:46,640
+<c.bg_transparent><c.white>No one in the village</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>dares go out at night.</c.white></c.bg_transparent>
+
+195
+00:14:46,720 --> 00:14:47,880
+<c.bg_transparent><c.white>Hold on.</c.white></c.bg_transparent>
+
+196
+00:14:47,960 --> 00:14:51,720
+<c.bg_transparent><c.white>We saw someone with a purple satchel</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>when we went to bathe.</c.white></c.bg_transparent>
+
+197
+00:14:53,040 --> 00:14:54,920
+<c.bg_transparent><c.white>A purple satchel?</c.white></c.bg_transparent>
+
+198
+00:14:55,680 --> 00:14:58,560
+<c.bg_transparent><c.white>Oh, you mean Noi?</c.white></c.bg_transparent>
+
+199
+00:14:58,640 --> 00:14:59,920
+<c.bg_transparent><c.white>Yeah, that's him.</c.white></c.bg_transparent>
+
+200
+00:15:00,000 --> 00:15:03,200
+<c.bg_transparent><c.white>-Yes, yes.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-That really is him.</c.white></c.bg_transparent>
+
+201
+00:15:03,280 --> 00:15:04,960
+<c.bg_transparent><c.white>He really didn't come.</c.white></c.bg_transparent>
+
+202
+00:15:06,840 --> 00:15:08,560
+<c.bg_transparent><c.white>Today, it was duck.</c.white></c.bg_transparent>
+
+203
+00:15:08,640 --> 00:15:11,000
+<c.bg_transparent><c.white>Tomorrow, it will be chicken.</c.white></c.bg_transparent>
+
+204
+00:15:11,080 --> 00:15:12,840
+<c.bg_transparent><c.white>Finding drinking snacks is easy.</c.white></c.bg_transparent>
+
+205
+00:15:14,680 --> 00:15:15,840
+<c.bg_transparent><c.white>Cheers!</c.white></c.bg_transparent>
+
+206
+00:15:15,920 --> 00:15:18,120
+<c.bg_transparent><c.white>-Yeah!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Drink up!</c.white></c.bg_transparent>
+
+207
+00:15:18,200 --> 00:15:19,200
+<c.bg_transparent><c.white>Noi!</c.white></c.bg_transparent>
+
+208
+00:15:27,640 --> 00:15:28,720
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+209
+00:15:29,600 --> 00:15:31,840
+<c.bg_transparent><c.white>That's my duck's collar!</c.white></c.bg_transparent>
+
+210
+00:15:31,920 --> 00:15:33,160
+<c.bg_transparent><c.white>You scumbags!</c.white></c.bg_transparent>
+
+211
+00:15:33,720 --> 00:15:36,480
+<c.bg_transparent><c.white>The gut-eating ghost</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>must be here, Luang Pho.</c.white></c.bg_transparent>
+
+212
+00:15:39,680 --> 00:15:41,440
+<c.bg_transparent><c.white>Take them to the police.</c.white></c.bg_transparent>
+
+213
+00:15:44,120 --> 00:15:45,920
+<c.bg_transparent><c.white>-Take that!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Serves you right!</c.white></c.bg_transparent>
+
+214
+00:15:46,000 --> 00:15:50,560
+<c.bg_transparent><c.white>-This whole mess is because of you!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Get up. Move!</c.white></c.bg_transparent>
+
+215
+00:15:50,640 --> 00:15:54,320
+<c.bg_transparent><c.white>-Walk! You're getting on my nerves. Go!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Ouch!</c.white></c.bg_transparent>
+
+216
+00:15:54,400 --> 00:15:56,760
+<c.bg_transparent><c.white>Village Head, stop the villagers.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>They might kill him.</c.white></c.bg_transparent>
+
+217
+00:15:57,680 --> 00:16:00,440
+<c.bg_transparent><c.white>All right, enough!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>They'll die at this rate.</c.white></c.bg_transparent>
+
+218
+00:16:00,520 --> 00:16:01,920
+<c.bg_transparent><c.white>Just take them to the police.</c.white></c.bg_transparent>
+
+219
+00:16:13,400 --> 00:16:14,640
+<c.bg_transparent><c.white>Where is Boonrod?</c.white></c.bg_transparent>
+
+220
+00:16:22,120 --> 00:16:23,640
+<c.bg_transparent><c.white>I'd better run.</c.white></c.bg_transparent>
+
+221
+00:16:23,720 --> 00:16:26,560
+<c.bg_transparent><c.white>They're ready to kill over that diamond.</c.white></c.bg_transparent>
+
+222
+00:16:26,640 --> 00:16:28,600
+<c.bg_transparent><c.white>Is it really that serious?</c.white></c.bg_transparent>
+
+223
+00:16:29,400 --> 00:16:33,240
+<c.bg_transparent><c.white>Hey! Wait. What the…</c.white></c.bg_transparent>
+
+224
+00:16:33,320 --> 00:16:34,400
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+225
+00:16:34,480 --> 00:16:37,560
+<c.bg_transparent><c.white>Stop pretending. You're the diamond thief.</c.white></c.bg_transparent>
+
+226
+00:16:37,640 --> 00:16:39,440
+<c.bg_transparent><c.white>You're accusing me too?</c.white></c.bg_transparent>
+
+227
+00:16:39,520 --> 00:16:41,320
+<c.bg_transparent><c.white>I'm taking you to the police.</c.white></c.bg_transparent>
+
+228
+00:16:41,920 --> 00:16:44,080
+<c.bg_transparent><c.white>I don't know anything. Let me go!</c.white></c.bg_transparent>
+
+229
+00:16:45,240 --> 00:16:46,880
+<c.bg_transparent><c.white>-What?</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Let go!</c.white></c.bg_transparent>
+
+230
+00:16:46,960 --> 00:16:48,960
+<c.bg_transparent><c.white>What's going on here?</c.white></c.bg_transparent>
+
+231
+00:16:49,880 --> 00:16:51,160
+<c.bg_transparent><c.white>What is this all about?</c.white></c.bg_transparent>
+
+232
+00:16:53,000 --> 00:16:54,840
+<c.bg_transparent><c.white>He's the diamond thief.</c.white></c.bg_transparent>
+
+233
+00:16:54,920 --> 00:16:57,480
+<c.bg_transparent><c.white>People came looking for the diamond</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>from him twice,</c.white></c.bg_transparent>
+
+234
+00:16:58,080 --> 00:16:59,520
+<c.bg_transparent><c.white>even Kamnan Sawaeng's son.</c.white></c.bg_transparent>
+
+235
+00:17:00,280 --> 00:17:01,640
+<c.bg_transparent><c.white>So you believe them?</c.white></c.bg_transparent>
+
+236
+00:17:01,720 --> 00:17:04,560
+<c.bg_transparent><c.white>They chased me</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and said I stole the diamond,</c.white></c.bg_transparent>
+
+237
+00:17:04,640 --> 00:17:05,920
+<c.bg_transparent><c.white>and you just believed it?</c.white></c.bg_transparent>
+
+238
+00:17:06,680 --> 00:17:08,440
+<c.bg_transparent><c.white>Put yourself in my shoes, okay?</c.white></c.bg_transparent>
+
+239
+00:17:08,520 --> 00:17:10,000
+<c.bg_transparent><c.white>-Come on.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Well…</c.white></c.bg_transparent>
+
+240
+00:17:10,720 --> 00:17:13,280
+<c.bg_transparent><c.white>Please calm down.</c.white></c.bg_transparent>
+
+241
+00:17:13,359 --> 00:17:15,920
+<c.bg_transparent><c.white>He's not pretending to be crazy.</c.white></c.bg_transparent>
+
+242
+00:17:17,040 --> 00:17:19,079
+<c.bg_transparent><c.white>Why do you trust him?</c.white></c.bg_transparent>
+
+243
+00:17:19,160 --> 00:17:20,560
+<c.bg_transparent><c.white>Have you known him before?</c.white></c.bg_transparent>
+
+244
+00:17:21,960 --> 00:17:23,359
+<c.bg_transparent><c.white>Once we get to town,</c.white></c.bg_transparent>
+
+245
+00:17:23,960 --> 00:17:27,960
+<c.bg_transparent><c.white>I'm taking him to the cops.</c.white></c.bg_transparent>
+
+246
+00:17:28,040 --> 00:17:30,680
+<c.bg_transparent><c.white>I'll have them look for his relatives.</c.white></c.bg_transparent>
+
+247
+00:17:33,760 --> 00:17:35,480
+<c.bg_transparent><c.white>But he was trying to escape just now.</c.white></c.bg_transparent>
+
+248
+00:17:38,520 --> 00:17:42,240
+<c.bg_transparent><c.white>I was running with all of you!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Don't you understand?</c.white></c.bg_transparent>
+
+249
+00:17:42,840 --> 00:17:43,760
+<c.bg_transparent><c.white>Listen.</c.white></c.bg_transparent>
+
+250
+00:17:43,840 --> 00:17:45,760
+<c.bg_transparent><c.white>Once the police have him,</c.white></c.bg_transparent>
+
+251
+00:17:45,840 --> 00:17:47,880
+<c.bg_transparent><c.white>they can investigate him,</c.white></c.bg_transparent>
+
+252
+00:17:47,960 --> 00:17:51,680
+<c.bg_transparent><c.white>and we'll know who he really is.</c.white></c.bg_transparent>
+
+253
+00:17:56,160 --> 00:17:59,920
+<c.bg_transparent><c.white>But if you really are the diamond thief,</c.white></c.bg_transparent>
+
+254
+00:18:00,680 --> 00:18:03,760
+<c.bg_transparent><c.white>you must face</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>the consequences of your actions.</c.white></c.bg_transparent>
+
+255
+00:18:05,840 --> 00:18:06,800
+<c.bg_transparent><c.white>Yes, sir.</c.white></c.bg_transparent>
+
+256
+00:18:10,880 --> 00:18:11,920
+<c.bg_transparent><c.white>Noona.</c.white></c.bg_transparent>
+
+257
+00:18:12,520 --> 00:18:15,840
+<c.bg_transparent><c.white>Do you still doubt me?</c.white></c.bg_transparent>
+
+258
+00:18:15,920 --> 00:18:20,240
+<c.bg_transparent><c.white>Do you think I'm in cahoots with Boonrod?</c.white></c.bg_transparent>
+
+259
+00:18:27,040 --> 00:18:29,880
+<c.bg_transparent><c.white>If there's nothing else,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>we should get going.</c.white></c.bg_transparent>
+
+260
+00:18:38,880 --> 00:18:40,960
+<c.bg_transparent><c.white>Can't you stay a little longer, Luang Pho?</c.white></c.bg_transparent>
+
+261
+00:18:41,560 --> 00:18:43,520
+<c.bg_transparent><c.white>You've only been here one night,</c.white></c.bg_transparent>
+
+262
+00:18:43,600 --> 00:18:46,440
+<c.bg_transparent><c.white>and we've already learned so much</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>from your teachings.</c.white></c.bg_transparent>
+
+263
+00:18:46,520 --> 00:18:48,480
+<c.bg_transparent><c.white>Thank you very much.</c.white></c.bg_transparent>
+
+264
+00:18:49,360 --> 00:18:53,920
+<c.bg_transparent><c.white>But I wander as a monk</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to seek solitude and peace.</c.white></c.bg_transparent>
+
+265
+00:18:55,000 --> 00:18:58,840
+<c.bg_transparent><c.white>I do not cling to any place.</c.white></c.bg_transparent>
+
+266
+00:18:59,520 --> 00:19:01,200
+<c.bg_transparent><c.white>In life,</c.white></c.bg_transparent>
+
+267
+00:19:01,760 --> 00:19:05,120
+<c.bg_transparent><c.white>every meeting comes with parting.</c.white></c.bg_transparent>
+
+268
+00:19:06,080 --> 00:19:07,480
+<c.bg_transparent><c.white>What matters is not me,</c.white></c.bg_transparent>
+
+269
+00:19:07,560 --> 00:19:12,080
+<c.bg_transparent><c.white>but the Buddha's teachings,</c.white></c.bg_transparent>
+
+270
+00:19:12,160 --> 00:19:14,520
+<c.bg_transparent><c.white>which I leave with you</c.white></c.bg_transparent>
+
+271
+00:19:14,600 --> 00:19:19,000
+<c.bg_transparent><c.white>to hold in your hearts for life.</c.white></c.bg_transparent>
+
+272
+00:19:19,600 --> 00:19:23,080
+<c.bg_transparent><c.white>If I pass this way again, I will visit.</c.white></c.bg_transparent>
+
+273
+00:19:23,160 --> 00:19:25,320
+<c.white><c.bg_transparent><i>-Sadhu.</i></c.bg_transparent></c.white>
+<c.white><c.bg_transparent><i>-Sadhu.</i></c.bg_transparent></c.white>
+
+274
+00:19:27,920 --> 00:19:29,400
+<c.bg_transparent><c.white>I shall take my leave now.</c.white></c.bg_transparent>
+
+275
+00:19:46,360 --> 00:19:47,400
+<c.bg_transparent><c.white>We're here, Luang Pho!</c.white></c.bg_transparent>
+
+276
+00:19:48,640 --> 00:19:50,040
+<c.bg_transparent><c.white>We're saved!</c.white></c.bg_transparent>
+
+277
+00:19:52,000 --> 00:19:52,960
+<c.bg_transparent><c.white>Let's get going.</c.white></c.bg_transparent>
+
+278
+00:19:53,040 --> 00:19:54,240
+<c.bg_transparent><c.white>Wait.</c.white></c.bg_transparent>
+
+279
+00:19:55,000 --> 00:19:58,960
+<c.bg_transparent><c.white>If we go there, we must be careful.</c.white></c.bg_transparent>
+
+280
+00:19:59,040 --> 00:20:00,280
+<c.bg_transparent><c.white>We're out in the open,</c.white></c.bg_transparent>
+
+281
+00:20:00,360 --> 00:20:05,280
+<c.bg_transparent><c.white>and we don't know</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>where Boonrod's pursuers are.</c.white></c.bg_transparent>
+
+282
+00:20:06,000 --> 00:20:09,560
+<c.bg_transparent><c.white>You're right.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>I forgot because I was too excited.</c.white></c.bg_transparent>
+
+283
+00:20:10,760 --> 00:20:11,880
+<c.bg_transparent><c.white>Let's go.</c.white></c.bg_transparent>
+
+284
+00:20:13,880 --> 00:20:15,000
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+285
+00:20:15,640 --> 00:20:17,920
+<c.bg_transparent><c.white>-Chan!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Speak of the devil.</c.white></c.bg_transparent>
+
+286
+00:20:18,000 --> 00:20:19,320
+<c.bg_transparent><c.white>Give me the diamond.</c.white></c.bg_transparent>
+
+287
+00:20:21,560 --> 00:20:24,400
+<c.bg_transparent><c.white>What diamond?</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Why the hell won't you believe me?</c.white></c.bg_transparent>
+
+288
+00:20:24,480 --> 00:20:27,120
+<c.bg_transparent><c.white>If you won't give it to me,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>then you will all die here.</c.white></c.bg_transparent>
+
+289
+00:20:28,320 --> 00:20:29,480
+<c.bg_transparent><c.white>Who dies first?</c.white></c.bg_transparent>
+
+290
+00:20:32,120 --> 00:20:34,440
+<c.bg_transparent><c.white>-Then I'll start with her.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-No, don't!</c.white></c.bg_transparent>
+
+291
+00:20:34,520 --> 00:20:36,560
+<c.bg_transparent><c.white>Don't. If you're going to shoot,</c.white></c.bg_transparent>
+
+292
+00:20:36,640 --> 00:20:37,600
+<c.bg_transparent><c.white>shoot me!</c.white></c.bg_transparent>
+
+293
+00:20:42,360 --> 00:20:44,440
+<c.bg_transparent><c.white>Chan! Give me the diamond!</c.white></c.bg_transparent>
+
+294
+00:20:45,680 --> 00:20:47,840
+<c.bg_transparent><c.white>You lunatic!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>I told you I don't know anything!</c.white></c.bg_transparent>
+
+295
+00:20:47,920 --> 00:20:50,040
+<c.bg_transparent><c.white>Don't play dumb.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Give me the diamond right now.</c.white></c.bg_transparent>
+
+296
+00:20:51,640 --> 00:20:53,000
+<c.bg_transparent><c.white>I don't know anything!</c.white></c.bg_transparent>
+
+297
+00:20:53,080 --> 00:20:54,720
+<c.bg_transparent><c.white>-Bastard!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+
+298
+00:20:54,800 --> 00:20:57,160
+<c.bg_transparent><c.white>Both of you are here, you bastards.</c.white></c.bg_transparent>
+
+299
+00:20:58,560 --> 00:21:00,160
+<c.bg_transparent><c.white>Chan. Sakon.</c.white></c.bg_transparent>
+
+300
+00:21:00,240 --> 00:21:02,400
+<c.bg_transparent><c.white>You bastards betrayed my father.</c.white></c.bg_transparent>
+
+301
+00:21:03,760 --> 00:21:04,680
+<c.bg_transparent><c.white>Give me the diamond.</c.white></c.bg_transparent>
+
+302
+00:21:06,120 --> 00:21:07,720
+<c.bg_transparent><c.white>It belongs to my father, so hand it over!</c.white></c.bg_transparent>
+
+303
+00:21:10,400 --> 00:21:13,560
+<c.bg_transparent><c.white>So you must be one of Paul's men,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>sent to infiltrate us, right?</c.white></c.bg_transparent>
+
+304
+00:21:15,800 --> 00:21:17,960
+<c.bg_transparent><c.white>And you, Chan?</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Who the hell are you working for?</c.white></c.bg_transparent>
+
+305
+00:21:20,840 --> 00:21:22,160
+<c.bg_transparent><c.white>He's a police informant.</c.white></c.bg_transparent>
+
+306
+00:21:23,800 --> 00:21:26,440
+<c.bg_transparent><c.white>But now it seems he isn't anymore.</c.white></c.bg_transparent>
+
+307
+00:21:27,000 --> 00:21:29,040
+<c.bg_transparent><c.white>Now he's probably</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>selling the diamond with his men.</c.white></c.bg_transparent>
+
+308
+00:21:29,120 --> 00:21:30,960
+<c.bg_transparent><c.white>Wait, wait.</c.white></c.bg_transparent>
+
+309
+00:21:31,040 --> 00:21:32,160
+<c.bg_transparent><c.white>Hold on, guys.</c.white></c.bg_transparent>
+
+310
+00:21:32,240 --> 00:21:34,080
+<c.bg_transparent><c.white>You've both got it wrong.</c.white></c.bg_transparent>
+
+311
+00:21:34,960 --> 00:21:36,440
+<c.bg_transparent><c.white>I'm Boonrod.</c.white></c.bg_transparent>
+
+312
+00:21:36,520 --> 00:21:37,680
+<c.bg_transparent><c.white>I'm not with anyone.</c.white></c.bg_transparent>
+
+313
+00:21:38,200 --> 00:21:39,280
+<c.bg_transparent><c.white>I'm Luang Pho's disciple.</c.white></c.bg_transparent>
+
+314
+00:21:40,840 --> 00:21:41,760
+<c.bg_transparent><c.white>Got it?</c.white></c.bg_transparent>
+
+315
+00:21:45,240 --> 00:21:46,280
+<c.bg_transparent><c.white>Everyone,</c.white></c.bg_transparent>
+
+316
+00:21:47,040 --> 00:21:48,560
+<c.bg_transparent><c.white>listen to me.</c.white></c.bg_transparent>
+
+317
+00:21:48,640 --> 00:21:52,880
+<c.bg_transparent><c.white>Boonrod is confused right now.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>He doesn't remember anything.</c.white></c.bg_transparent>
+
+318
+00:21:53,480 --> 00:21:57,800
+<c.bg_transparent><c.white>I'm taking him to the police in town.</c.white></c.bg_transparent>
+
+319
+00:21:58,360 --> 00:21:59,360
+<c.bg_transparent><c.white>How about this?</c.white></c.bg_transparent>
+
+320
+00:21:59,440 --> 00:22:04,280
+<c.bg_transparent><c.white>Why don't both sides settle this</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>at the station?</c.white></c.bg_transparent>
+
+321
+00:22:04,360 --> 00:22:06,440
+<c.bg_transparent><c.white>Go fool an idiot, you fake monk.</c.white></c.bg_transparent>
+
+322
+00:22:07,160 --> 00:22:09,000
+<c.bg_transparent><c.white>Hell will swallow you for saying that!</c.white></c.bg_transparent>
+
+323
+00:22:09,560 --> 00:22:10,400
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+324
+00:22:10,480 --> 00:22:14,200
+<c.bg_transparent><c.white>You can insult me,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>but don't disrespect Luang Pho. Got it?</c.white></c.bg_transparent>
+
+325
+00:22:17,560 --> 00:22:19,720
+<c.bg_transparent><c.white>I'll say this one last time.</c.white></c.bg_transparent>
+
+326
+00:22:20,640 --> 00:22:23,680
+<c.bg_transparent><c.white>Hand over the diamond,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>or I'll kill you all.</c.white></c.bg_transparent>
+
+327
+00:22:24,400 --> 00:22:25,360
+<c.bg_transparent><c.white>Give it to me!</c.white></c.bg_transparent>
+
+328
+00:22:26,560 --> 00:22:29,600
+<c.bg_transparent><c.white>If I give the diamond to either side,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>we're dead either way, right?</c.white></c.bg_transparent>
+
+329
+00:22:29,680 --> 00:22:33,240
+<c.bg_transparent><c.white>So you admit it.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>You have the diamond, don't you?</c.white></c.bg_transparent>
+
+330
+00:22:34,880 --> 00:22:36,400
+<c.bg_transparent><c.white>Is that really a good idea?</c.white></c.bg_transparent>
+
+331
+00:22:37,960 --> 00:22:40,640
+<c.bg_transparent><c.white>It's just a thing.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>If we're alive, we can replace it.</c.white></c.bg_transparent>
+
+332
+00:22:40,720 --> 00:22:42,160
+<c.bg_transparent><c.white>Hey, hand it over to me!</c.white></c.bg_transparent>
+
+333
+00:22:42,240 --> 00:22:43,960
+<c.bg_transparent><c.white>Hand it over, now!</c.white></c.bg_transparent>
+
+334
+00:22:45,560 --> 00:22:48,480
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Go ahead. Fight over it yourselves.</c.white></c.bg_transparent>
+
+335
+00:22:49,160 --> 00:22:51,680
+<c.bg_transparent><c.white>Run! Let's go!</c.white></c.bg_transparent>
+
+336
+00:22:54,520 --> 00:22:55,840
+<c.bg_transparent><c.white>Damn it!</c.white></c.bg_transparent>
+
+337
+00:23:30,160 --> 00:23:31,720
+<c.bg_transparent><c.white>It's sticky rice, boss!</c.white></c.bg_transparent>
+
+338
+00:23:34,480 --> 00:23:35,720
+<c.bg_transparent><c.white>Chan!</c.white></c.bg_transparent>
+
+339
+00:23:42,800 --> 00:23:44,080
+<c.bg_transparent><c.white>-Luang Pho!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-A car is coming!</c.white></c.bg_transparent>
+
+340
+00:23:45,800 --> 00:23:48,360
+<c.bg_transparent><c.white>-Help!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Help!</c.white></c.bg_transparent>
+
+341
+00:23:48,440 --> 00:23:49,880
+<c.bg_transparent><c.white>Help!</c.white></c.bg_transparent>
+
+342
+00:23:53,520 --> 00:23:54,600
+<c.bg_transparent><c.white>Please pull over!</c.white></c.bg_transparent>
+
+343
+00:23:59,520 --> 00:24:00,640
+<c.bg_transparent><c.white>Police!</c.white></c.bg_transparent>
+
+344
+00:24:01,560 --> 00:24:02,640
+<c.bg_transparent><c.white>How can I help you?</c.white></c.bg_transparent>
+
+345
+00:24:02,720 --> 00:24:04,440
+<c.bg_transparent><c.white>We're escaping from criminals.</c.white></c.bg_transparent>
+
+346
+00:24:04,520 --> 00:24:07,440
+<c.bg_transparent><c.white>They tried to rob us,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and we were heading to the police station.</c.white></c.bg_transparent>
+
+347
+00:24:08,160 --> 00:24:10,080
+<c.bg_transparent><c.white>Then get in. I'll take you there.</c.white></c.bg_transparent>
+
+348
+00:24:15,600 --> 00:24:17,040
+<c.bg_transparent><c.white>-Let's go.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Wait.</c.white></c.bg_transparent>
+
+349
+00:24:17,120 --> 00:24:18,240
+<c.bg_transparent><c.white>What is it, Luang Pho?</c.white></c.bg_transparent>
+
+350
+00:24:19,040 --> 00:24:22,240
+<c.bg_transparent><c.white>I believe the officer…</c.white></c.bg_transparent>
+
+351
+00:24:22,320 --> 00:24:23,960
+<c.bg_transparent><c.white>has urgent matters to attend to.</c.white></c.bg_transparent>
+
+352
+00:24:24,040 --> 00:24:25,720
+<c.bg_transparent><c.white>We should go by ourselves.</c.white></c.bg_transparent>
+
+353
+00:24:26,920 --> 00:24:29,800
+<c.bg_transparent><c.white>It's fine.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Don't worry about troubling him. Let's go.</c.white></c.bg_transparent>
+
+354
+00:24:30,320 --> 00:24:31,560
+<c.bg_transparent><c.white>Don't worry.</c.white></c.bg_transparent>
+
+355
+00:24:31,640 --> 00:24:33,520
+<c.bg_transparent><c.white>I'm going to the station anyway.</c.white></c.bg_transparent>
+
+356
+00:24:33,600 --> 00:24:35,040
+<c.bg_transparent><c.white>Please get in.</c.white></c.bg_transparent>
+
+357
+00:24:35,120 --> 00:24:36,840
+<c.bg_transparent><c.white>Let's go, Luang Pho.</c.white></c.bg_transparent>
+
+358
+00:24:42,720 --> 00:24:45,760
+<c.bg_transparent><c.white>Oh, this young man.</c.white></c.bg_transparent>
+
+359
+00:24:45,840 --> 00:24:48,520
+<c.bg_transparent><c.white>-I remember him.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Where did you meet him?</c.white></c.bg_transparent>
+
+360
+00:24:48,600 --> 00:24:50,680
+<c.bg_transparent><c.white>They stayed here last night.</c.white></c.bg_transparent>
+
+361
+00:24:51,200 --> 00:24:53,200
+<c.bg_transparent><c.white>They just left this morning.</c.white></c.bg_transparent>
+
+362
+00:24:53,280 --> 00:24:54,640
+<c.bg_transparent><c.white>They?</c.white></c.bg_transparent>
+
+363
+00:24:54,720 --> 00:24:56,960
+<c.bg_transparent><c.white>What do you mean? Who else was with him?</c.white></c.bg_transparent>
+
+364
+00:24:57,040 --> 00:25:00,120
+<c.bg_transparent><c.white>There was this young man,</c.white></c.bg_transparent>
+
+365
+00:25:00,200 --> 00:25:03,440
+<c.bg_transparent><c.white>his wife, and Luang Pho.</c.white></c.bg_transparent>
+
+366
+00:25:03,520 --> 00:25:04,480
+<c.bg_transparent><c.white>Luang Pho?</c.white></c.bg_transparent>
+
+367
+00:25:05,000 --> 00:25:06,040
+<c.bg_transparent><c.white>A monk?</c.white></c.bg_transparent>
+
+368
+00:25:06,560 --> 00:25:07,680
+<c.bg_transparent><c.white>What's his name?</c.white></c.bg_transparent>
+
+369
+00:25:08,760 --> 00:25:10,360
+<c.bg_transparent><c.white>His name…</c.white></c.bg_transparent>
+
+370
+00:25:10,440 --> 00:25:12,200
+<c.bg_transparent><c.white>I still regret…</c.white></c.bg_transparent>
+
+371
+00:25:13,240 --> 00:25:15,360
+<c.bg_transparent><c.white>that I can't remember it.</c.white></c.bg_transparent>
+
+372
+00:25:15,440 --> 00:25:17,520
+<c.bg_transparent><c.white>But he was truly worthy of respect.</c.white></c.bg_transparent>
+
+373
+00:25:17,600 --> 00:25:18,920
+<c.bg_transparent><c.white>That's right.</c.white></c.bg_transparent>
+
+374
+00:25:25,120 --> 00:25:30,080
+<c.bg_transparent><c.white>So now, a monk and the woman</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>are involved with Chansuek.</c.white></c.bg_transparent>
+
+375
+00:25:30,840 --> 00:25:33,240
+<c.bg_transparent><c.white>The Village Head said the three of them</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>were on their way to town.</c.white></c.bg_transparent>
+
+376
+00:25:34,800 --> 00:25:37,080
+<c.bg_transparent><c.white>We need to find Chansuek</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>before Kamnan Sawaeng.</c.white></c.bg_transparent>
+
+377
+00:25:37,160 --> 00:25:38,720
+<c.bg_transparent><c.white>He's the witness.</c.white></c.bg_transparent>
+
+378
+00:25:40,960 --> 00:25:42,120
+<c.bg_transparent><c.white>Got it.</c.white></c.bg_transparent>
+
+379
+00:25:46,600 --> 00:25:50,600
+<c.bg_transparent><c.white>BAN DAO DAP POLICE STATION</c.white></c.bg_transparent>
+
+380
+00:26:05,520 --> 00:26:06,560
+<c.bg_transparent><c.white>We're here.</c.white></c.bg_transparent>
+
+381
+00:26:07,560 --> 00:26:09,360
+<c.bg_transparent><c.white>Now I'll finally find out who I am.</c.white></c.bg_transparent>
+
+382
+00:26:10,720 --> 00:26:12,640
+<c.bg_transparent><c.white>Please come inside, Luang Pho.</c.white></c.bg_transparent>
+
+383
+00:26:29,880 --> 00:26:31,640
+<c.bg_transparent><c.white>Well…</c.white></c.bg_transparent>
+
+384
+00:26:31,720 --> 00:26:34,040
+<c.bg_transparent><c.white>Luang Pho and I found him in the forest.</c.white></c.bg_transparent>
+
+385
+00:26:34,120 --> 00:26:37,920
+<c.bg_transparent><c.white>He doesn't know who he is,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>or where his family is,</c.white></c.bg_transparent>
+
+386
+00:26:38,000 --> 00:26:39,360
+<c.bg_transparent><c.white>and he doesn't remember anything at all.</c.white></c.bg_transparent>
+
+387
+00:26:39,440 --> 00:26:40,920
+<c.bg_transparent><c.white>So we brought him here.</c.white></c.bg_transparent>
+
+388
+00:26:41,000 --> 00:26:42,440
+<c.bg_transparent><c.white>I'll handle it.</c.white></c.bg_transparent>
+
+389
+00:26:42,960 --> 00:26:44,040
+<c.bg_transparent><c.white>Please wait here for now.</c.white></c.bg_transparent>
+
+390
+00:26:44,640 --> 00:26:47,480
+<c.bg_transparent><c.white>May I borrow your phone</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to make a long-distance call?</c.white></c.bg_transparent>
+
+391
+00:26:47,560 --> 00:26:49,640
+<c.bg_transparent><c.white>You can, but the phone is over there.</c.white></c.bg_transparent>
+
+392
+00:26:54,280 --> 00:26:55,760
+<c.bg_transparent><c.white>You, come with me.</c.white></c.bg_transparent>
+
+393
+00:27:02,360 --> 00:27:05,480
+<c.bg_transparent><c.white>Then I'll go make the call first.</c.white></c.bg_transparent>
+
+394
+00:27:06,320 --> 00:27:07,280
+<c.bg_transparent><c.white>Go ahead.</c.white></c.bg_transparent>
+
+395
+00:27:12,640 --> 00:27:13,680
+<c.bg_transparent><c.white>Luang Pho,</c.white></c.bg_transparent>
+
+396
+00:27:14,240 --> 00:27:15,760
+<c.bg_transparent><c.white>please have a seat here.</c.white></c.bg_transparent>
+
+397
+00:27:27,600 --> 00:27:31,600
+<c.bg_transparent><c.white>OATH OF ALLEGIANCE</c.white></c.bg_transparent>
+
+398
+00:27:36,000 --> 00:27:37,280
+<c.bg_transparent><c.white>Wait here for a bit.</c.white></c.bg_transparent>
+
+399
+00:27:48,480 --> 00:27:50,040
+<c.bg_transparent><c.white>Please come this way, Luang Pho.</c.white></c.bg_transparent>
+
+400
+00:28:24,800 --> 00:28:26,080
+<c.bg_transparent><c.white>Wayu.</c.white></c.bg_transparent>
+
+401
+00:28:36,400 --> 00:28:37,440
+<c.bg_transparent><c.white>A monk?</c.white></c.bg_transparent>
+
+402
+00:28:38,480 --> 00:28:39,800
+<c.bg_transparent><c.white>Yes, Dad.</c.white></c.bg_transparent>
+
+403
+00:28:39,880 --> 00:28:41,720
+<c.bg_transparent><c.white>That monk must be their leader.</c.white></c.bg_transparent>
+
+404
+00:28:41,800 --> 00:28:43,880
+<c.bg_transparent><c.white>They're gathering their forces</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>in the village.</c.white></c.bg_transparent>
+
+405
+00:28:44,640 --> 00:28:48,280
+<c.bg_transparent><c.white>And Dad, I almost had Chan,</c.white></c.bg_transparent>
+
+406
+00:28:48,360 --> 00:28:50,640
+<c.bg_transparent><c.white>but that damn monk</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>sent his men to get in my way.</c.white></c.bg_transparent>
+
+407
+00:28:50,720 --> 00:28:52,080
+<c.bg_transparent><c.white>Gosh.</c.white></c.bg_transparent>
+
+408
+00:28:52,160 --> 00:28:54,760
+<c.bg_transparent><c.white>So Chan probably has the diamond now.</c.white></c.bg_transparent>
+
+409
+00:28:55,400 --> 00:28:56,520
+<c.bg_transparent><c.white>Right.</c.white></c.bg_transparent>
+
+410
+00:28:56,600 --> 00:29:00,800
+<c.bg_transparent><c.white>They're probably in town now,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>so I sent my men after them.</c.white></c.bg_transparent>
+
+411
+00:29:12,840 --> 00:29:13,680
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+412
+00:29:18,040 --> 00:29:19,640
+<c.bg_transparent><c.white>I swear I didn't take it, boss.</c.white></c.bg_transparent>
+
+413
+00:29:19,720 --> 00:29:21,400
+<c.bg_transparent><c.white>If you don't believe me,</c.white></c.bg_transparent>
+
+414
+00:29:21,480 --> 00:29:22,800
+<c.bg_transparent><c.white>go ahead and kill me.</c.white></c.bg_transparent>
+
+415
+00:29:25,760 --> 00:29:29,080
+<c.bg_transparent><c.white>Chan ran off with our diamond by himself.</c.white></c.bg_transparent>
+
+416
+00:29:31,120 --> 00:29:34,880
+<c.bg_transparent><c.white>How do I know</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>you weren't in on it with him?</c.white></c.bg_transparent>
+
+417
+00:29:34,960 --> 00:29:36,920
+<c.bg_transparent><c.white>Chan is a police informant, boss.</c.white></c.bg_transparent>
+
+418
+00:29:39,960 --> 00:29:41,160
+<c.bg_transparent><c.white>What did you say?</c.white></c.bg_transparent>
+
+419
+00:29:41,840 --> 00:29:43,120
+<c.bg_transparent><c.white>That day,</c.white></c.bg_transparent>
+
+420
+00:29:43,200 --> 00:29:46,120
+<c.bg_transparent><c.white>he called the police</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to raid Kamnan Sawaeng's house.</c.white></c.bg_transparent>
+
+421
+00:29:46,720 --> 00:29:48,520
+<c.bg_transparent><c.white>I was in the forest</c.white></c.bg_transparent>
+
+422
+00:29:48,600 --> 00:29:50,880
+<c.bg_transparent><c.white>because I had been hunting him, boss.</c.white></c.bg_transparent>
+
+423
+00:29:50,960 --> 00:29:52,600
+<c.bg_transparent><c.white>Now, Kamnan Sawaeng's men know too.</c.white></c.bg_transparent>
+
+424
+00:29:53,280 --> 00:29:54,960
+<c.bg_transparent><c.white>They're hunting him as well.</c.white></c.bg_transparent>
+
+425
+00:29:55,600 --> 00:29:58,520
+<c.bg_transparent><c.white>I think we should hurry</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and find him, boss.</c.white></c.bg_transparent>
+
+426
+00:30:12,760 --> 00:30:15,680
+<c.bg_transparent><c.white>OATH OF ALLEGIANCE</c.white></c.bg_transparent>
+
+427
+00:30:54,160 --> 00:30:57,400
+<c.bg_transparent><c.white>CHATCHAWAN PRIVATE DETECTIVE AGENCY</c.white></c.bg_transparent>
+
+428
+00:31:03,160 --> 00:31:04,040
+<c.bg_transparent><c.white>Hello?</c.white></c.bg_transparent>
+
+429
+00:31:04,680 --> 00:31:07,480
+<c.bg_transparent><c.white>Dad? Dad, hello? Can you hear me?</c.white></c.bg_transparent>
+
+430
+00:31:08,200 --> 00:31:09,440
+<c.white><c.bg_transparent><i>What is it, Noona?</i></c.bg_transparent></c.white>
+
+431
+00:31:09,520 --> 00:31:12,240
+<c.bg_transparent><c.white>You disappeared.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>I was about to call the police.</c.white></c.bg_transparent>
+
+432
+00:31:12,840 --> 00:31:14,880
+<c.bg_transparent><c.white>It's like this, Dad. My phone broke.</c.white></c.bg_transparent>
+
+433
+00:31:15,720 --> 00:31:17,040
+<c.bg_transparent><c.white>Don't ask too many questions yet.</c.white></c.bg_transparent>
+
+434
+00:31:17,120 --> 00:31:21,040
+<c.bg_transparent><c.white>Look, I found a key suspect</c.white></c.bg_transparent>
+
+435
+00:31:21,120 --> 00:31:23,000
+<c.bg_transparent><c.white>who might be the diamond thief.</c.white></c.bg_transparent>
+
+436
+00:31:23,080 --> 00:31:25,200
+<c.bg_transparent><c.white>Hey, and what happened?</c.white></c.bg_transparent>
+
+437
+00:31:26,800 --> 00:31:28,200
+<c.bg_transparent><c.white>I found him in the forest.</c.white></c.bg_transparent>
+
+438
+00:31:28,760 --> 00:31:31,160
+<c.bg_transparent><c.white>The guy has amnesia.</c.white></c.bg_transparent>
+
+439
+00:31:31,240 --> 00:31:33,160
+<c.bg_transparent><c.white>He seems to know nothing,</c.white></c.bg_transparent>
+
+440
+00:31:33,240 --> 00:31:35,120
+<c.bg_transparent><c.white>even about the diamond.</c.white></c.bg_transparent>
+
+441
+00:31:35,200 --> 00:31:37,440
+<c.bg_transparent><c.white>He's definitely faking his amnesia.</c.white></c.bg_transparent>
+
+442
+00:31:37,520 --> 00:31:39,080
+<c.bg_transparent><c.white>I thought so too at first.</c.white></c.bg_transparent>
+
+443
+00:31:39,720 --> 00:31:42,520
+<c.bg_transparent><c.white>But now I am not so sure.</c.white></c.bg_transparent>
+
+444
+00:31:42,600 --> 00:31:46,720
+<c.bg_transparent><c.white>Right now, I've brought him here</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to turn him in to the police.</c.white></c.bg_transparent>
+
+445
+00:31:47,400 --> 00:31:48,680
+<c.bg_transparent><c.white>And he came willingly.</c.white></c.bg_transparent>
+
+446
+00:31:49,280 --> 00:31:50,480
+<c.bg_transparent><c.white>You can't trust him.</c.white></c.bg_transparent>
+
+447
+00:31:50,560 --> 00:31:52,480
+<c.white><c.bg_transparent><i>He might be pretending.</i></c.bg_transparent></c.white>
+
+448
+00:31:52,560 --> 00:31:54,000
+<c.bg_transparent><c.white>You have to find out</c.white></c.bg_transparent>
+
+449
+00:31:54,080 --> 00:31:57,200
+<c.bg_transparent><c.white>whether this thief</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>is connected to the socialite, Ms. Yok.</c.white></c.bg_transparent>
+
+450
+00:31:57,920 --> 00:31:59,920
+<c.bg_transparent><c.white>Dad. Hold on. I'm out of coins.</c.white></c.bg_transparent>
+
+451
+00:32:00,760 --> 00:32:02,040
+<c.bg_transparent><c.white>Gosh.</c.white></c.bg_transparent>
+
+452
+00:32:13,880 --> 00:32:14,720
+<c.white><c.bg_transparent><i>Hello?</i></c.bg_transparent></c.white>
+
+453
+00:32:14,800 --> 00:32:16,760
+<c.bg_transparent><c.white>Hello? Noona!</c.white></c.bg_transparent>
+
+454
+00:32:24,280 --> 00:32:26,680
+<c.bg_transparent><c.white>Where did everyone go, Luang Pho?</c.white></c.bg_transparent>
+
+455
+00:32:28,360 --> 00:32:30,280
+<c.bg_transparent><c.white>I don't know either.</c.white></c.bg_transparent>
+
+456
+00:32:31,440 --> 00:32:32,720
+<c.bg_transparent><c.white>Someone's coming.</c.white></c.bg_transparent>
+
+457
+00:32:35,200 --> 00:32:36,040
+<c.bg_transparent><c.white>Luang Pho.</c.white></c.bg_transparent>
+
+458
+00:32:37,280 --> 00:32:40,120
+<c.bg_transparent><c.white>Tonight, you'll have to wait here first.</c.white></c.bg_transparent>
+
+459
+00:32:40,200 --> 00:32:42,280
+<c.bg_transparent><c.white>We still need to question you further.</c.white></c.bg_transparent>
+
+460
+00:32:44,800 --> 00:32:45,920
+<c.bg_transparent><c.white>Officer…</c.white></c.bg_transparent>
+
+461
+00:32:46,560 --> 00:32:48,720
+<c.bg_transparent><c.white>How is Boonrod doing?</c.white></c.bg_transparent>
+
+462
+00:32:50,440 --> 00:32:52,760
+<c.bg_transparent><c.white>How is it going? Have you found anything?</c.white></c.bg_transparent>
+
+463
+00:32:52,840 --> 00:32:55,680
+<c.bg_transparent><c.white>Don't worry.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>The superintendent is questioning him.</c.white></c.bg_transparent>
+
+464
+00:32:56,360 --> 00:32:58,600
+<c.bg_transparent><c.white>The young woman still hasn't come?</c.white></c.bg_transparent>
+
+465
+00:32:59,720 --> 00:33:00,800
+<c.bg_transparent><c.white>Not yet.</c.white></c.bg_transparent>
+
+466
+00:33:01,720 --> 00:33:03,800
+<c.bg_transparent><c.white>In that case, please come with us first.</c.white></c.bg_transparent>
+
+467
+00:33:05,400 --> 00:33:06,440
+<c.bg_transparent><c.white>Where are we going?</c.white></c.bg_transparent>
+
+468
+00:33:06,520 --> 00:33:08,080
+<c.bg_transparent><c.white>Down to the car.</c.white></c.bg_transparent>
+
+469
+00:33:08,160 --> 00:33:09,160
+<c.bg_transparent><c.white>This way, Luang Pho.</c.white></c.bg_transparent>
+
+470
+00:33:11,960 --> 00:33:15,960
+<c.bg_transparent><c.white>BAN DAO DAP POLICE STATION</c.white></c.bg_transparent>
+
+471
+00:33:17,400 --> 00:33:18,800
+<c.bg_transparent><c.white>Luang Pho!</c.white></c.bg_transparent>
+
+472
+00:33:18,880 --> 00:33:21,240
+<c.bg_transparent><c.white>Oh, perfect timing. Get in the car.</c.white></c.bg_transparent>
+
+473
+00:33:21,320 --> 00:33:22,600
+<c.bg_transparent><c.white>Where are you taking him?</c.white></c.bg_transparent>
+
+474
+00:33:22,680 --> 00:33:24,640
+<c.bg_transparent><c.white>To another place for an investigation.</c.white></c.bg_transparent>
+
+475
+00:33:24,720 --> 00:33:26,480
+<c.bg_transparent><c.white>My boss is already waiting there.</c.white></c.bg_transparent>
+
+476
+00:33:27,080 --> 00:33:29,440
+<c.bg_transparent><c.white>What? Why not question him at the station?</c.white></c.bg_transparent>
+
+477
+00:33:29,520 --> 00:33:30,800
+<c.bg_transparent><c.white>This place isn't convenient.</c.white></c.bg_transparent>
+
+478
+00:33:30,880 --> 00:33:32,240
+<c.bg_transparent><c.white>And where's Boonrod?</c.white></c.bg_transparent>
+
+479
+00:33:32,320 --> 00:33:33,360
+<c.bg_transparent><c.white>An officer took him out.</c.white></c.bg_transparent>
+
+480
+00:33:35,240 --> 00:33:36,280
+<c.bg_transparent><c.white>Go on. Get in.</c.white></c.bg_transparent>
+
+481
+00:33:38,000 --> 00:33:39,400
+<c.bg_transparent><c.white>Luang Pho, run!</c.white></c.bg_transparent>
+
+482
+00:33:40,120 --> 00:33:42,440
+<c.bg_transparent><c.white>Luang Pho, run! Luang Pho!</c.white></c.bg_transparent>
+
+483
+00:33:44,480 --> 00:33:45,520
+<c.bg_transparent><c.white>Who told you?</c.white></c.bg_transparent>
+
+484
+00:33:45,600 --> 00:33:47,120
+<c.bg_transparent><c.white>My friend in rescue work.</c.white></c.bg_transparent>
+
+485
+00:33:47,760 --> 00:33:49,640
+<c.bg_transparent><c.white>He was giving a statement at the station.</c.white></c.bg_transparent>
+
+486
+00:33:49,720 --> 00:33:53,120
+<c.bg_transparent><c.white>Word is someone had turned himself in.</c.white></c.bg_transparent>
+
+487
+00:33:53,200 --> 00:33:55,920
+<c.bg_transparent><c.white>It was probably the guy</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Kamnan Sawaeng has been after.</c.white></c.bg_transparent>
+
+488
+00:33:56,520 --> 00:33:58,200
+<c.bg_transparent><c.white>It might be Captain Chansuek.</c.white></c.bg_transparent>
+
+489
+00:34:16,239 --> 00:34:17,679
+<c.bg_transparent><c.white>Luang Pho, are you okay?</c.white></c.bg_transparent>
+
+490
+00:34:18,280 --> 00:34:20,239
+<c.bg_transparent><c.white>I was so scared.</c.white></c.bg_transparent>
+
+491
+00:34:22,560 --> 00:34:23,960
+<c.bg_transparent><c.white>What did you just say?</c.white></c.bg_transparent>
+
+492
+00:34:24,040 --> 00:34:26,560
+<c.bg_transparent><c.white>Well, I saw Boonrod</c.white></c.bg_transparent>
+
+493
+00:34:26,639 --> 00:34:28,440
+<c.bg_transparent><c.white>in a car with Kamnan Sawaeng's men.</c.white></c.bg_transparent>
+
+494
+00:34:28,520 --> 00:34:30,520
+<c.bg_transparent><c.white>That cop is one of them.</c.white></c.bg_transparent>
+
+495
+00:34:30,600 --> 00:34:33,080
+<c.bg_transparent><c.white>They must've taken him</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to talk about the diamonds.</c.white></c.bg_transparent>
+
+496
+00:34:33,159 --> 00:34:34,679
+<c.bg_transparent><c.white>What do we do, Luang Pho?</c.white></c.bg_transparent>
+
+497
+00:34:35,320 --> 00:34:38,960
+<c.bg_transparent><c.white>We must hurry and save him</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>before they beat him to death.</c.white></c.bg_transparent>
+
+498
+00:34:39,040 --> 00:34:41,840
+<c.bg_transparent><c.white>No one around here will help us.</c.white></c.bg_transparent>
+
+499
+00:34:41,920 --> 00:34:43,320
+<c.bg_transparent><c.white>They're all Kamnan Sawaeng's men.</c.white></c.bg_transparent>
+
+500
+00:34:44,000 --> 00:34:46,320
+<c.bg_transparent><c.white>Do you have a plan to get in and save him?</c.white></c.bg_transparent>
+
+501
+00:34:47,159 --> 00:34:48,960
+<c.bg_transparent><c.white>We'll probably have to snatch him away.</c.white></c.bg_transparent>
+
+502
+00:34:50,840 --> 00:34:52,000
+<c.bg_transparent><c.white>We can't do that.</c.white></c.bg_transparent>
+
+503
+00:34:52,080 --> 00:34:54,480
+<c.bg_transparent><c.white>Kamnan Sawaeng is influential.</c.white></c.bg_transparent>
+
+504
+00:34:54,560 --> 00:34:57,280
+<c.bg_transparent><c.white>He keeps a lot of thugs</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and gunmen around him.</c.white></c.bg_transparent>
+
+505
+00:34:57,360 --> 00:34:58,800
+<c.bg_transparent><c.white>This won't be easy.</c.white></c.bg_transparent>
+
+506
+00:34:59,400 --> 00:35:00,360
+<c.bg_transparent><c.white>That's true.</c.white></c.bg_transparent>
+
+507
+00:35:01,720 --> 00:35:03,200
+<c.bg_transparent><c.white>We lack manpower,</c.white></c.bg_transparent>
+
+508
+00:35:03,280 --> 00:35:06,800
+<c.bg_transparent><c.white>so we must plan this carefully.</c.white></c.bg_transparent>
+
+509
+00:35:17,040 --> 00:35:18,560
+<c.bg_transparent><c.white>Think you're tough, huh?</c.white></c.bg_transparent>
+
+510
+00:35:19,360 --> 00:35:20,560
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+511
+00:35:24,040 --> 00:35:25,800
+<c.bg_transparent><c.white>Why bring me here, officer?</c.white></c.bg_transparent>
+
+512
+00:35:27,280 --> 00:35:28,600
+<c.bg_transparent><c.white>Where are the diamonds?</c.white></c.bg_transparent>
+
+513
+00:35:33,680 --> 00:35:36,320
+<c.bg_transparent><c.white>Diamond again? What diamond?</c.white></c.bg_transparent>
+
+514
+00:35:36,400 --> 00:35:38,680
+<c.bg_transparent><c.white>My diamond you stole</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>before fleeing the police.</c.white></c.bg_transparent>
+
+515
+00:35:38,760 --> 00:35:41,200
+<c.bg_transparent><c.white>Fleeing? I know nothing!</c.white></c.bg_transparent>
+
+516
+00:35:41,280 --> 00:35:42,440
+<c.bg_transparent><c.white>Are you crazy?</c.white></c.bg_transparent>
+
+517
+00:35:42,520 --> 00:35:44,680
+<c.bg_transparent><c.white>You don't know?</c.white></c.bg_transparent>
+
+518
+00:36:06,520 --> 00:36:07,720
+<c.bg_transparent><c.white>There are guards.</c.white></c.bg_transparent>
+
+519
+00:36:11,040 --> 00:36:12,120
+<c.bg_transparent><c.white>Luang Pho.</c.white></c.bg_transparent>
+
+520
+00:36:12,680 --> 00:36:13,840
+<c.bg_transparent><c.white>Is that Boonrod's voice?</c.white></c.bg_transparent>
+
+521
+00:36:18,480 --> 00:36:19,600
+<c.bg_transparent><c.white>Then…</c.white></c.bg_transparent>
+
+522
+00:36:19,680 --> 00:36:21,800
+<c.bg_transparent><c.white>How are we going to get inside?</c.white></c.bg_transparent>
+
+523
+00:36:29,640 --> 00:36:32,600
+<c.bg_transparent><c.white>I've never ever seen the diamond</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>you're talking about!</c.white></c.bg_transparent>
+
+524
+00:36:33,560 --> 00:36:35,280
+<c.bg_transparent><c.white>-Still refusing to talk?</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+
+525
+00:36:35,360 --> 00:36:37,480
+<c.bg_transparent><c.white>-Wait!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Stop!</c.white></c.bg_transparent>
+
+526
+00:36:39,080 --> 00:36:40,840
+<c.bg_transparent><c.white>If you kill him,</c.white></c.bg_transparent>
+
+527
+00:36:40,920 --> 00:36:42,600
+<c.bg_transparent><c.white>who'll be left for us to question?</c.white></c.bg_transparent>
+
+528
+00:36:44,240 --> 00:36:45,120
+<c.bg_transparent><c.white>Who do you work for?</c.white></c.bg_transparent>
+
+529
+00:36:45,200 --> 00:36:46,040
+<c.bg_transparent><c.white>What?</c.white></c.bg_transparent>
+
+530
+00:36:46,560 --> 00:36:48,920
+<c.bg_transparent><c.white>Who else? My parents.</c.white></c.bg_transparent>
+
+531
+00:36:49,000 --> 00:36:50,960
+<c.bg_transparent><c.white>Your parents, huh?</c.white></c.bg_transparent>
+
+532
+00:36:51,040 --> 00:36:52,800
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+533
+00:36:52,880 --> 00:36:55,480
+<c.bg_transparent><c.white>-Ouch!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Dad, you were just stopping me.</c.white></c.bg_transparent>
+
+534
+00:36:58,760 --> 00:37:01,000
+<c.bg_transparent><c.white>Who sent you to steal the diamond?</c.white></c.bg_transparent>
+
+535
+00:37:01,680 --> 00:37:02,640
+<c.bg_transparent><c.white>Was it that monk?</c.white></c.bg_transparent>
+
+536
+00:37:03,280 --> 00:37:04,240
+<c.bg_transparent><c.white>Who?</c.white></c.bg_transparent>
+
+537
+00:37:04,920 --> 00:37:07,200
+<c.bg_transparent><c.white>Oh, you mean Luang Pho Suea?</c.white></c.bg_transparent>
+
+538
+00:37:07,840 --> 00:37:10,920
+<c.bg_transparent><c.white>Hey, now you're all going crazy.</c.white></c.bg_transparent>
+
+539
+00:37:11,000 --> 00:37:12,920
+<c.bg_transparent><c.white>He's a forest monk.</c.white></c.bg_transparent>
+
+540
+00:37:13,000 --> 00:37:15,600
+<c.bg_transparent><c.white>He saved my life.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>He'd never do something like that.</c.white></c.bg_transparent>
+
+541
+00:37:15,680 --> 00:37:17,120
+<c.bg_transparent><c.white>Are you crazy?</c.white></c.bg_transparent>
+
+542
+00:37:17,200 --> 00:37:18,160
+<c.bg_transparent><c.white>That's not true.</c.white></c.bg_transparent>
+
+543
+00:37:18,240 --> 00:37:20,840
+<c.bg_transparent><c.white>That monk led the villagers to attack us.</c.white></c.bg_transparent>
+
+544
+00:37:27,160 --> 00:37:28,560
+<c.bg_transparent><c.white>Well, Superintendent?</c.white></c.bg_transparent>
+
+545
+00:37:31,400 --> 00:37:32,960
+<c.bg_transparent><c.white>Just make sure you find them.</c.white></c.bg_transparent>
+
+546
+00:37:36,240 --> 00:37:37,760
+<c.bg_transparent><c.white>That Superintendent Cheewin</c.white></c.bg_transparent>
+
+547
+00:37:37,840 --> 00:37:40,280
+<c.bg_transparent><c.white>let the monk and that woman get away.</c.white></c.bg_transparent>
+
+548
+00:37:41,000 --> 00:37:42,480
+<c.bg_transparent><c.white>What the hell?</c.white></c.bg_transparent>
+
+549
+00:37:43,920 --> 00:37:46,680
+<c.bg_transparent><c.white>Please let me go. I'm begging you.</c.white></c.bg_transparent>
+
+550
+00:37:46,760 --> 00:37:49,720
+<c.bg_transparent><c.white>The three of us don't know anything.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>We're not involved.</c.white></c.bg_transparent>
+
+551
+00:37:50,360 --> 00:37:52,040
+<c.bg_transparent><c.white>Who the hell is calling now?</c.white></c.bg_transparent>
+
+552
+00:37:52,120 --> 00:37:54,080
+<c.bg_transparent><c.white>-Gosh…</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Why are they calling?</c.white></c.bg_transparent>
+
+553
+00:37:54,720 --> 00:37:55,600
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+554
+00:37:57,160 --> 00:37:58,120
+<c.bg_transparent><c.white>Yes.</c.white></c.bg_transparent>
+
+555
+00:37:58,840 --> 00:37:59,840
+<c.bg_transparent><c.white>Yes, sir.</c.white></c.bg_transparent>
+
+556
+00:38:01,000 --> 00:38:02,000
+<c.bg_transparent><c.white>Yes, sir.</c.white></c.bg_transparent>
+
+557
+00:38:02,880 --> 00:38:04,840
+<c.bg_transparent><c.white>I'll go now. Yes.</c.white></c.bg_transparent>
+
+558
+00:38:06,840 --> 00:38:08,000
+<c.bg_transparent><c.white>Come on, son.</c.white></c.bg_transparent>
+
+559
+00:38:08,800 --> 00:38:09,760
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+560
+00:38:10,640 --> 00:38:13,800
+<c.bg_transparent><c.white>If I come back and you still won't talk,</c.white></c.bg_transparent>
+
+561
+00:38:14,400 --> 00:38:17,200
+<c.bg_transparent><c.white>I'll cut out your tongue</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>so you'll never speak again.</c.white></c.bg_transparent>
+
+562
+00:38:17,960 --> 00:38:22,400
+<c.bg_transparent><c.white>We'll see which you care about more,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>the diamond or your tongue.</c.white></c.bg_transparent>
+
+563
+00:38:22,480 --> 00:38:23,800
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+564
+00:38:27,960 --> 00:38:29,040
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+565
+00:38:35,640 --> 00:38:37,880
+<c.bg_transparent><c.white>Damn it! What the hell is this?</c.white></c.bg_transparent>
+
+566
+00:38:41,600 --> 00:38:43,560
+<c.bg_transparent><c.white>Keep a close eye on him.</c.white></c.bg_transparent>
+
+567
+00:38:43,640 --> 00:38:44,720
+<c.bg_transparent><c.white>Sure.</c.white></c.bg_transparent>
+
+568
+00:38:54,240 --> 00:38:57,120
+<c.bg_transparent><c.white>That's Kamnan Sawaeng.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>He's leaving, Luang Pho.</c.white></c.bg_transparent>
+
+569
+00:39:00,360 --> 00:39:02,680
+<c.bg_transparent><c.white>Boonrod is definitely inside.</c.white></c.bg_transparent>
+
+570
+00:39:04,560 --> 00:39:06,640
+<c.bg_transparent><c.white>Then you wait here.</c.white></c.bg_transparent>
+
+571
+00:39:08,400 --> 00:39:09,600
+<c.bg_transparent><c.white>Noona.</c.white></c.bg_transparent>
+
+572
+00:39:11,440 --> 00:39:15,080
+<c.bg_transparent><c.white>Don't forget. Do as I told you,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>and be careful.</c.white></c.bg_transparent>
+
+573
+00:39:16,800 --> 00:39:18,000
+<c.bg_transparent><c.white>Yes, Luang Pho.</c.white></c.bg_transparent>
+
+574
+00:39:29,960 --> 00:39:32,160
+<c.bg_transparent><c.white>If you still want to keep your tongue,</c.white></c.bg_transparent>
+
+575
+00:39:32,800 --> 00:39:34,200
+<c.bg_transparent><c.white>hurry up and tell him.</c.white></c.bg_transparent>
+
+576
+00:39:35,080 --> 00:39:38,000
+<c.bg_transparent><c.white>Tell him what? I don't know anything.</c.white></c.bg_transparent>
+
+577
+00:39:38,520 --> 00:39:41,360
+<c.bg_transparent><c.white>What do you want me to say?</c.white></c.bg_transparent>
+
+578
+00:39:49,840 --> 00:39:51,760
+<c.bg_transparent><c.white>Ouch!</c.white></c.bg_transparent>
+
+579
+00:40:00,840 --> 00:40:02,680
+<c.bg_transparent><c.white>It hurts!</c.white></c.bg_transparent>
+
+580
+00:40:09,800 --> 00:40:11,800
+<c.bg_transparent><c.white>He still won't talk, huh?</c.white></c.bg_transparent>
+
+581
+00:40:12,680 --> 00:40:16,040
+<c.bg_transparent><c.white>When Kamnan gets back,</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>he's getting his tongue cut out for sure.</c.white></c.bg_transparent>
+
+582
+00:40:21,960 --> 00:40:22,960
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+583
+00:40:23,600 --> 00:40:24,720
+<c.bg_transparent><c.white>What's that smoke?</c.white></c.bg_transparent>
+
+584
+00:40:24,800 --> 00:40:27,880
+<c.bg_transparent><c.white>Fire! There's a fire! Hurry, put it out!</c.white></c.bg_transparent>
+
+585
+00:40:27,960 --> 00:40:29,400
+<c.bg_transparent><c.white>-Go check it out.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Yeah.</c.white></c.bg_transparent>
+
+586
+00:40:52,640 --> 00:40:53,920
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-You!</c.white></c.bg_transparent>
+
+587
+00:41:07,400 --> 00:41:08,240
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+588
+00:41:17,880 --> 00:41:19,040
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+589
+00:41:19,960 --> 00:41:20,800
+<c.bg_transparent><c.white>Aun!</c.white></c.bg_transparent>
+
+590
+00:41:26,080 --> 00:41:27,040
+<c.bg_transparent><c.white>Gosh!</c.white></c.bg_transparent>
+
+591
+00:41:27,800 --> 00:41:29,680
+<c.bg_transparent><c.white>-Let's go! Thanks.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Let's go.</c.white></c.bg_transparent>
+
+592
+00:41:30,480 --> 00:41:31,560
+<c.bg_transparent><c.white>Stop right there!</c.white></c.bg_transparent>
+
+593
+00:41:35,640 --> 00:41:36,600
+<c.bg_transparent><c.white>Let's go!</c.white></c.bg_transparent>
+
+594
+00:41:44,240 --> 00:41:45,480
+<c.bg_transparent><c.white>Here they come.</c.white></c.bg_transparent>
+
+595
+00:41:46,080 --> 00:41:49,320
+<c.bg_transparent><c.white>Luang Pho! Oh, Luang Pho!</c.white></c.bg_transparent>
+
+596
+00:41:49,400 --> 00:41:52,000
+<c.bg_transparent><c.white>-Okay.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-They're going to kill me!</c.white></c.bg_transparent>
+
+597
+00:41:52,080 --> 00:41:53,520
+<c.bg_transparent><c.white>I know. That's enough.</c.white></c.bg_transparent>
+
+598
+00:41:53,600 --> 00:41:56,160
+<c.bg_transparent><c.white>You won't die.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>Your name means "Lucky Survivor."</c.white></c.bg_transparent>
+
+599
+00:41:56,240 --> 00:41:57,680
+<c.bg_transparent><c.white>Now, we should run.</c.white></c.bg_transparent>
+
+600
+00:41:57,760 --> 00:42:00,760
+<c.bg_transparent><c.white>-Hurry. Run first. Quick!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Hurry!</c.white></c.bg_transparent>
+
+601
+00:42:17,720 --> 00:42:20,160
+<c.bg_transparent><c.white>Kamnan, Chan escaped!</c.white></c.bg_transparent>
+
+602
+00:42:21,320 --> 00:42:22,400
+<c.bg_transparent><c.white>Yes, sir.</c.white></c.bg_transparent>
+
+603
+00:42:23,240 --> 00:42:24,320
+<c.bg_transparent><c.white>Hey, wake up!</c.white></c.bg_transparent>
+
+604
+00:42:24,400 --> 00:42:25,240
+<c.bg_transparent><c.white>Get up!</c.white></c.bg_transparent>
+
+605
+00:42:26,280 --> 00:42:27,480
+<c.bg_transparent><c.white>Chan escaped!</c.white></c.bg_transparent>
+
+606
+00:42:29,240 --> 00:42:31,080
+<c.bg_transparent><c.white>Let's move!</c.white></c.bg_transparent>
+
+607
+00:42:31,160 --> 00:42:33,240
+<c.bg_transparent><c.white>BAN DAO DAP POLICE STATION</c.white></c.bg_transparent>
+
+608
+00:42:33,320 --> 00:42:35,120
+<c.bg_transparent><c.white>Set up every checkpoint.</c.white></c.bg_transparent>
+
+609
+00:42:35,200 --> 00:42:36,840
+<c.bg_transparent><c.white>Bring the monk and the woman back.</c.white></c.bg_transparent>
+
+610
+00:42:37,520 --> 00:42:38,800
+<c.bg_transparent><c.white>-Yes, sir.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Yes, sir.</c.white></c.bg_transparent>
+
+611
+00:42:49,640 --> 00:42:51,800
+<c.bg_transparent><c.white>I was told the suspect turned himself in.</c.white></c.bg_transparent>
+
+612
+00:42:52,720 --> 00:42:54,320
+<c.bg_transparent><c.white>Nonsense. Who told you that?</c.white></c.bg_transparent>
+
+613
+00:42:56,560 --> 00:42:58,400
+<c.bg_transparent><c.white>By now, he's long gone.</c.white></c.bg_transparent>
+
+614
+00:42:59,000 --> 00:43:01,560
+<c.bg_transparent><c.white>Who'd give up and lose</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>the 300-million diamond?</c.white></c.bg_transparent>
+
+615
+00:43:02,440 --> 00:43:04,080
+<c.bg_transparent><c.white>I didn't say</c.white></c.bg_transparent>
+
+616
+00:43:04,160 --> 00:43:05,680
+<c.bg_transparent><c.white>what case I was talking about.</c.white></c.bg_transparent>
+
+617
+00:43:10,840 --> 00:43:12,880
+<c.bg_transparent><c.white>Aren't you here for this case?</c.white></c.bg_transparent>
+
+618
+00:43:12,960 --> 00:43:13,800
+<c.bg_transparent><c.white>Yes.</c.white></c.bg_transparent>
+
+619
+00:43:14,480 --> 00:43:15,560
+<c.bg_transparent><c.white>So is it true?</c.white></c.bg_transparent>
+
+620
+00:43:15,640 --> 00:43:16,720
+<c.bg_transparent><c.white>No.</c.white></c.bg_transparent>
+
+621
+00:43:16,800 --> 00:43:18,360
+<c.bg_transparent><c.white>No one turned themselves in.</c.white></c.bg_transparent>
+
+622
+00:43:19,040 --> 00:43:21,320
+<c.bg_transparent><c.white>And Kamnan Sawaeng made it very clear</c.white></c.bg_transparent>
+
+623
+00:43:21,400 --> 00:43:23,040
+<c.bg_transparent><c.white>he knows nothing about the robbery.</c.white></c.bg_transparent>
+
+624
+00:43:23,880 --> 00:43:25,800
+<c.bg_transparent><c.white>You guys are still here</c.white></c.bg_transparent>
+
+625
+00:43:25,880 --> 00:43:26,760
+<c.bg_transparent><c.white>wasting your time.</c.white></c.bg_transparent>
+
+626
+00:43:27,360 --> 00:43:30,240
+<c.bg_transparent><c.white>The real thief has probably</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>fled the country by now.</c.white></c.bg_transparent>
+
+627
+00:43:32,720 --> 00:43:33,760
+<c.bg_transparent><c.white>Superintendent Cheewin.</c.white></c.bg_transparent>
+
+628
+00:43:34,960 --> 00:43:36,440
+<c.bg_transparent><c.white>When you became a police officer,</c.white></c.bg_transparent>
+
+629
+00:43:37,400 --> 00:43:38,720
+<c.bg_transparent><c.white>did you take an oath?</c.white></c.bg_transparent>
+
+630
+00:43:40,160 --> 00:43:41,640
+<c.bg_transparent><c.white>The third oath states,</c.white></c.bg_transparent>
+
+631
+00:43:42,360 --> 00:43:45,720
+<c.bg_transparent><c.white>"I will perform my duties</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>with honesty and integrity,</c.white></c.bg_transparent>
+
+632
+00:43:45,800 --> 00:43:47,920
+<c.bg_transparent><c.white>and uphold morality</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>as my guiding principle."</c.white></c.bg_transparent>
+
+633
+00:43:48,000 --> 00:43:49,120
+<c.bg_transparent><c.white>Do you remember that?</c.white></c.bg_transparent>
+
+634
+00:43:54,040 --> 00:43:55,400
+<c.bg_transparent><c.white>And do you remember?</c.white></c.bg_transparent>
+
+635
+00:43:56,480 --> 00:43:58,080
+<c.bg_transparent><c.white>The fifth oath states,</c.white></c.bg_transparent>
+
+636
+00:43:58,720 --> 00:44:01,240
+<c.bg_transparent><c.white>"I will obey the orders of my superior."</c.white></c.bg_transparent>
+
+637
+00:44:01,880 --> 00:44:02,760
+<c.bg_transparent><c.white>Remember that?</c.white></c.bg_transparent>
+
+638
+00:44:05,640 --> 00:44:07,640
+<c.bg_transparent><c.white>I remember every word I said.</c.white></c.bg_transparent>
+
+639
+00:44:09,760 --> 00:44:11,680
+<c.bg_transparent><c.white>Even though you hold</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>a higher rank than I do,</c.white></c.bg_transparent>
+
+640
+00:44:12,680 --> 00:44:13,880
+<c.bg_transparent><c.white>it just so happens</c.white></c.bg_transparent>
+
+641
+00:44:14,920 --> 00:44:16,880
+<c.bg_transparent><c.white>that you're not my superior.</c.white></c.bg_transparent>
+
+642
+00:44:22,440 --> 00:44:24,280
+<c.bg_transparent><c.white>INVESTIGATION ROOM</c.white></c.bg_transparent>
+
+643
+00:44:41,120 --> 00:44:42,440
+<c.bg_transparent><c.white>I'm not sure, sir.</c.white></c.bg_transparent>
+
+644
+00:44:43,040 --> 00:44:46,640
+<c.bg_transparent><c.white>But someone saw a man</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>turn himself in with a monk and a woman.</c.white></c.bg_transparent>
+
+645
+00:44:47,400 --> 00:44:48,840
+<c.bg_transparent><c.white>A monk?</c.white></c.bg_transparent>
+
+646
+00:44:48,920 --> 00:44:50,720
+<c.bg_transparent><c.white>What do they have to do with this?</c.white></c.bg_transparent>
+
+647
+00:44:50,800 --> 00:44:52,320
+<c.bg_transparent><c.white>I'm not sure either, sir.</c.white></c.bg_transparent>
+
+648
+00:44:52,400 --> 00:44:54,440
+<c.bg_transparent><c.white>If Chansuek really turned himself in,</c.white></c.bg_transparent>
+
+649
+00:44:54,520 --> 00:44:58,240
+<c.bg_transparent><c.white>I'll tell Superintendent Cheewin</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>to send him to Bangkok.</c.white></c.bg_transparent>
+
+650
+00:44:58,320 --> 00:44:59,640
+<c.bg_transparent><c.white>Well…</c.white></c.bg_transparent>
+
+651
+00:44:59,720 --> 00:45:01,280
+<c.bg_transparent><c.white>They're not there anymore, sir.</c.white></c.bg_transparent>
+
+652
+00:45:01,360 --> 00:45:02,640
+<c.bg_transparent><c.white>By the time I got there,</c.white></c.bg_transparent>
+
+653
+00:45:02,720 --> 00:45:05,560
+<c.bg_transparent><c.white>Superintendent said no one</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>had turned themselves in.</c.white></c.bg_transparent>
+
+654
+00:45:05,640 --> 00:45:07,640
+<c.bg_transparent><c.white>He's covering something up.</c.white></c.bg_transparent>
+
+655
+00:45:07,720 --> 00:45:10,680
+<c.bg_transparent><c.white>I think he's working with Kamnan Sawaeng.</c.white></c.bg_transparent>
+
+656
+00:45:10,760 --> 00:45:12,360
+<c.bg_transparent><c.white>Superintendent Cheewin</c.white></c.bg_transparent>
+
+657
+00:45:12,440 --> 00:45:13,920
+<c.bg_transparent><c.white>is Kamnan Sawaeng's man.</c.white></c.bg_transparent>
+
+658
+00:45:14,480 --> 00:45:16,240
+<c.bg_transparent><c.white>I'll crush him when it's time.</c.white></c.bg_transparent>
+
+659
+00:45:16,320 --> 00:45:17,520
+<c.bg_transparent><c.white>Let's do this.</c.white></c.bg_transparent>
+
+660
+00:45:17,600 --> 00:45:20,000
+<c.bg_transparent><c.white>Follow them to Kamnan Sawaeng's house.</c.white></c.bg_transparent>
+
+661
+00:45:20,760 --> 00:45:22,920
+<c.bg_transparent><c.white>If Chansuek really turned himself in,</c.white></c.bg_transparent>
+
+662
+00:45:23,000 --> 00:45:26,360
+<c.bg_transparent><c.white>Superintendent Cheewin must</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>hand him over to Kamnan Sawaeng.</c.white></c.bg_transparent>
+
+663
+00:45:26,920 --> 00:45:28,400
+<c.bg_transparent><c.white>Understood, sir.</c.white></c.bg_transparent>
+
+664
+00:45:39,840 --> 00:45:42,000
+<c.bg_transparent><c.white>How the hell did you let him escape?</c.white></c.bg_transparent>
+
+665
+00:45:42,080 --> 00:45:43,720
+<c.bg_transparent><c.white>They set fire to the storage room.</c.white></c.bg_transparent>
+
+666
+00:45:43,800 --> 00:45:45,760
+<c.bg_transparent><c.white>Someone came to help him.</c.white></c.bg_transparent>
+
+667
+00:45:46,440 --> 00:45:47,520
+<c.bg_transparent><c.white>Who helped him?</c.white></c.bg_transparent>
+
+668
+00:45:47,600 --> 00:45:48,600
+<c.bg_transparent><c.white>A woman, sir.</c.white></c.bg_transparent>
+
+669
+00:45:48,680 --> 00:45:51,000
+<c.bg_transparent><c.white>A woman? Huh?</c.white></c.bg_transparent>
+
+670
+00:45:51,080 --> 00:45:53,040
+<c.bg_transparent><c.white>A woman?</c.white></c.bg_transparent>
+
+671
+00:45:54,560 --> 00:45:57,200
+<c.bg_transparent><c.white>You let the girl help Chan?</c.white></c.bg_transparent>
+
+672
+00:45:57,280 --> 00:45:58,920
+<c.bg_transparent><c.white>I could kill you all.</c.white></c.bg_transparent>
+
+673
+00:46:00,200 --> 00:46:03,280
+<c.bg_transparent><c.white>Go hunt down Chan and bring them back. Go!</c.white></c.bg_transparent>
+
+674
+00:46:05,960 --> 00:46:08,120
+<c.bg_transparent><c.white>Captain Chansuek really came here.</c.white></c.bg_transparent>
+
+675
+00:46:09,200 --> 00:46:10,360
+<c.bg_transparent><c.white>Who the hell are you?</c.white></c.bg_transparent>
+
+676
+00:46:11,560 --> 00:46:12,760
+<c.bg_transparent><c.white>We're police officers.</c.white></c.bg_transparent>
+
+677
+00:46:15,920 --> 00:46:17,000
+<c.bg_transparent><c.white>I'm Captain Kan.</c.white></c.bg_transparent>
+
+678
+00:46:18,360 --> 00:46:19,760
+<c.bg_transparent><c.white>Who are you hunting down now?</c.white></c.bg_transparent>
+
+679
+00:46:19,840 --> 00:46:20,800
+<c.bg_transparent><c.white>Which Chan?</c.white></c.bg_transparent>
+
+680
+00:46:40,560 --> 00:46:42,840
+<c.bg_transparent><c.white>What's wrong with your face?</c.white></c.bg_transparent>
+
+681
+00:46:45,560 --> 00:46:46,480
+<c.bg_transparent><c.white>Well…</c.white></c.bg_transparent>
+
+682
+00:46:46,560 --> 00:46:48,600
+<c.bg_transparent><c.white>I caught him cheating,</c.white></c.bg_transparent>
+
+683
+00:46:48,680 --> 00:46:51,200
+<c.bg_transparent><c.white>so I taught him a lesson.</c.white></c.bg_transparent>
+
+684
+00:46:51,280 --> 00:46:52,680
+<c.bg_transparent><c.white>I see.</c.white></c.bg_transparent>
+
+685
+00:46:57,320 --> 00:46:58,360
+<c.bg_transparent><c.white>Niew.</c.white></c.bg_transparent>
+
+686
+00:46:58,960 --> 00:47:01,880
+<c.bg_transparent><c.white>Take them to rest</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>in the abandoned hut by the cemetery.</c.white></c.bg_transparent>
+
+687
+00:47:01,960 --> 00:47:03,000
+<c.bg_transparent><c.white>Yes.</c.white></c.bg_transparent>
+
+688
+00:47:04,400 --> 00:47:06,000
+<c.bg_transparent><c.white>This way, Luang Pho.</c.white></c.bg_transparent>
+
+689
+00:47:45,720 --> 00:47:46,680
+<c.bg_transparent><c.white>This is the place.</c.white></c.bg_transparent>
+
+690
+00:47:52,120 --> 00:47:53,880
+<c.bg_transparent><c.white>Thank you very much.</c.white></c.bg_transparent>
+
+691
+00:47:53,960 --> 00:47:55,960
+<c.bg_transparent><c.white>Yes. I'll take my leave now.</c.white></c.bg_transparent>
+
+692
+00:48:02,520 --> 00:48:05,960
+<c.bg_transparent><c.white>Luang Pho, did I hear "a haew forest?"</c.white></c.bg_transparent>
+
+693
+00:48:06,040 --> 00:48:09,000
+<c.bg_transparent><c.white>Where are they? I like eating </c.white></c.bg_transparent><c.white><c.bg_transparent><i>haew</i></c.bg_transparent></c.white><c.bg_transparent><c.white>.</c.white></c.bg_transparent>
+
+694
+00:48:10,000 --> 00:48:10,840
+<c.bg_transparent><c.white>Well…</c.white></c.bg_transparent>
+
+695
+00:48:11,520 --> 00:48:14,840
+<c.bg_transparent><c.white>You might have misunderstood.</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>It's a different "haew."</c.white></c.bg_transparent>
+
+696
+00:48:15,440 --> 00:48:17,680
+<c.bg_transparent><c.white>It's actually "heuw,"</c.white></c.bg_transparent>
+
+697
+00:48:17,760 --> 00:48:20,400
+<c.bg_transparent><c.white>a northern dialect meaning cemetery.</c.white></c.bg_transparent>
+
+698
+00:48:22,200 --> 00:48:24,240
+<c.bg_transparent><c.white>"Heuw" as in a cemetery?</c.white></c.bg_transparent>
+
+699
+00:48:25,440 --> 00:48:26,760
+<c.bg_transparent><c.white>A cemetery again?</c.white></c.bg_transparent>
+
+700
+00:48:38,680 --> 00:48:41,600
+<c.bg_transparent><c.white>Oh, they're all in there. Let's do it.</c.white></c.bg_transparent>
+
+701
+00:49:02,560 --> 00:49:04,000
+<c.bg_transparent><c.white>I happen</c.white></c.bg_transparent>
+
+702
+00:49:04,520 --> 00:49:07,200
+<c.bg_transparent><c.white>to know a good, honest police officer.</c.white></c.bg_transparent>
+
+703
+00:49:07,280 --> 00:49:08,160
+<c.bg_transparent><c.white>But…</c.white></c.bg_transparent>
+
+704
+00:49:08,240 --> 00:49:11,000
+<c.bg_transparent><c.white>We must take you to Bangkok.</c.white></c.bg_transparent>
+
+705
+00:49:11,080 --> 00:49:13,040
+<c.bg_transparent><c.white>WANTED</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>CONTACT KAMNAN SAWAENG IF SEEN</c.white></c.bg_transparent>
+
+706
+00:49:13,840 --> 00:49:15,120
+<c.bg_transparent><c.white>This is…</c.white></c.bg_transparent>
+
+707
+00:49:15,200 --> 00:49:16,800
+<c.bg_transparent><c.white>NEXT EPISODE</c.white></c.bg_transparent>
+
+708
+00:49:20,000 --> 00:49:20,920
+<c.bg_transparent><c.white>Look over there.</c.white></c.bg_transparent>
+
+709
+00:49:21,560 --> 00:49:22,920
+<c.bg_transparent><c.white>The border is just ahead.</c.white></c.bg_transparent>
+
+710
+00:49:23,000 --> 00:49:25,080
+<c.bg_transparent><c.white>Hey, stop! It's a woman!</c.white></c.bg_transparent>
+
+711
+00:49:25,160 --> 00:49:27,200
+<c.bg_transparent><c.white>-Hey! Let me go!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Don't move!</c.white></c.bg_transparent>
+
+712
+00:49:27,280 --> 00:49:29,320
+<c.bg_transparent><c.white>-Hey!</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>-Oh my!</c.white></c.bg_transparent>
+
+713
+00:49:29,400 --> 00:49:31,040
+<c.bg_transparent><c.white>That sounds like Noona.</c.white></c.bg_transparent>
+
+714
+00:49:31,120 --> 00:49:32,880
+<c.bg_transparent><c.white>You want this news, do you not?</c.white></c.bg_transparent>
+
+715
+00:49:32,960 --> 00:49:35,960
+<c.bg_transparent><c.white>Weren't you the one</c.white></c.bg_transparent>
+<c.bg_transparent><c.white>who told me to stay out of this case?</c.white></c.bg_transparent>
+
+716
+00:49:36,040 --> 00:49:38,360
+<c.bg_transparent><c.white>If we cooperate, I will protect you.</c.white></c.bg_transparent>
+
+717
+00:49:38,440 --> 00:49:40,000
+<c.bg_transparent><c.white>You? Protect me?</c.white></c.bg_transparent>
+
+718
+00:49:42,760 --> 00:49:43,800
+<c.bg_transparent><c.white>Hey!</c.white></c.bg_transparent>
+
+719
+00:52:07,600 --> 00:52:12,600
+<c.bg_transparent><c.white>Subtitle translation by: Jarut K.</c.white></c.bg_transparent>
