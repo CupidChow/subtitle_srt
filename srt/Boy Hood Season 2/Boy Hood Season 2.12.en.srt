@@ -1,0 +1,1659 @@
+1
+00:01:46,439 --> 00:01:47,400
+Mom, I'm back.
+
+2
+00:01:47,400 --> 00:01:48,120
+Yang,
+
+3
+00:01:48,359 --> 00:01:49,840
+you are still doing homework so late.
+
+4
+00:01:49,840 --> 00:01:51,519
+The Olympiad mathematics contest is next month.
+
+5
+00:01:52,079 --> 00:01:53,120
+I need to do more exercises.
+
+6
+00:01:57,200 --> 00:01:59,439
+Yang, I'm sorry.
+
+7
+00:01:59,799 --> 00:02:01,280
+I worked late today.
+
+8
+00:02:01,280 --> 00:02:02,439
+I didn't cook for you.
+
+9
+00:02:02,959 --> 00:02:03,719
+It's okay.
+
+10
+00:02:04,640 --> 00:02:05,799
+Are you full?
+
+11
+00:02:05,799 --> 00:02:06,560
+Yes.
+
+12
+00:02:06,719 --> 00:02:07,719
+If you get hungry later,
+
+13
+00:02:07,719 --> 00:02:08,520
+I'll make you something.
+
+14
+00:02:09,919 --> 00:02:12,039
+Then let me work overtime with you.
+
+15
+00:02:13,639 --> 00:02:14,719
+Come on, Yang.
+
+16
+00:02:15,039 --> 00:02:17,240
+Let's work together.
+
+17
+00:02:17,520 --> 00:02:18,400
+Good luck, Mom.
+
+18
+00:02:18,400 --> 00:02:19,080
+Good luck.
+
+19
+00:02:31,080 --> 00:02:31,800
+Yang,
+
+20
+00:02:32,520 --> 00:02:33,120
+is your study
+
+21
+00:02:33,120 --> 00:02:34,719
+a bit tough lately?
+
+22
+00:02:34,719 --> 00:02:35,919
+I think you've lost
+
+23
+00:02:35,919 --> 00:02:37,000
+some weight.
+
+24
+00:02:37,280 --> 00:02:38,960
+I've been training in the basketball club.
+
+25
+00:02:39,879 --> 00:02:40,479
+I've got stronger.
+
+26
+00:02:40,800 --> 00:02:41,879
+Let me feel it.
+
+27
+00:02:44,120 --> 00:02:45,120
+You are indeed stronger.
+
+28
+00:02:47,439 --> 00:02:48,120
+It's late at night.
+
+29
+00:02:48,120 --> 00:02:49,639
+Don't drink too much coffee.
+
+30
+00:02:49,639 --> 00:02:51,159
+Okay, no more coffee.
+
+31
+00:02:51,479 --> 00:02:51,919
+Here you are.
+
+32
+00:02:52,120 --> 00:02:53,000
+Thank you.
+
+33
+00:03:04,199 --> 00:03:04,879
+Yang,
+
+34
+00:03:04,879 --> 00:03:05,960
+remember,
+
+35
+00:03:05,960 --> 00:03:08,120
+you have to go to bed
+
+36
+00:03:08,120 --> 00:03:09,319
+by 12:00.
+
+37
+00:03:09,319 --> 00:03:10,080
+Do you hear me?
+
+38
+00:03:11,719 --> 00:03:12,400
+Yes, ma'am.
+
+39
+00:03:12,599 --> 00:03:13,759
+Okay, get to it.
+
+40
+00:03:21,080 --> 00:03:21,960
+A sequence of numbers
+
+41
+00:03:21,960 --> 00:03:23,360
+arranged in a certain order
+
+42
+00:03:23,360 --> 00:03:24,599
+like this
+
+43
+00:03:24,599 --> 00:03:25,759
+is called a sequence,
+
+44
+00:03:26,000 --> 00:03:27,840
+Each number in the sequence
+
+45
+00:03:27,840 --> 00:03:29,599
+is called an item.
+
+46
+00:03:30,240 --> 00:03:32,400
+If we categorize by the number of items,
+
+47
+00:03:32,680 --> 00:03:34,520
+there are finite sequences
+
+48
+00:03:34,520 --> 00:03:35,680
+and infinite sequences.
+
+49
+00:03:36,000 --> 00:03:38,560
+In memory of Zhou Yu in his heyday,
+
+50
+00:03:38,560 --> 00:03:40,280
+when he just married Xiao Qiao,
+
+51
+00:03:40,719 --> 00:03:42,120
+he was vigorous and valiant,
+
+52
+00:03:42,879 --> 00:03:44,280
+with feather fan and silk scarf,
+
+53
+00:03:44,719 --> 00:03:46,080
+he destroyed the enemy
+
+54
+00:03:46,080 --> 00:03:48,319
+with ease and laughter.
+
+55
+00:03:48,319 --> 00:03:49,680
+In my dreams, I return to my homeland...
+
+56
+00:03:49,680 --> 00:03:50,319
+What's wrong?
+
+57
+00:03:51,240 --> 00:03:52,319
+I'm so sleepy.
+
+58
+00:03:52,319 --> 00:03:53,439
+Poke me.
+
+59
+00:03:57,120 --> 00:03:58,240
+Lin Qingyuan,
+
+60
+00:03:59,159 --> 00:04:00,159
+go stand at the back.
+
+61
+00:04:05,159 --> 00:04:05,759
+Class,
+
+62
+00:04:05,960 --> 00:04:06,879
+today we're going to learn
+
+63
+00:04:06,879 --> 00:04:08,000
+the complex uses
+
+64
+00:04:08,000 --> 00:04:09,039
+of modal verbs.
+
+65
+00:04:09,039 --> 00:04:11,360
+Must indicates certainty.
+
+66
+00:04:11,639 --> 00:04:12,879
+When we're negating,
+
+67
+00:04:12,879 --> 00:04:13,879
+we use can't.
+
+68
+00:04:14,159 --> 00:04:15,039
+For uncertainty,
+
+69
+00:04:15,039 --> 00:04:16,000
+we use may,
+
+70
+00:04:16,000 --> 00:04:17,199
+should,
+
+71
+00:04:17,199 --> 00:04:17,680
+would,
+
+72
+00:04:17,680 --> 00:04:18,720
+and might.
+
+73
+00:04:19,360 --> 00:04:20,079
+So when using
+
+74
+00:04:20,079 --> 00:04:21,439
+modal verbs...
+
+75
+00:04:21,959 --> 00:04:22,759
+Ms. Wang,
+
+76
+00:04:23,240 --> 00:04:25,160
+this is the proposal for Reading Week.
+
+77
+00:04:25,399 --> 00:04:26,160
+Please take a look.
+
+78
+00:04:26,399 --> 00:04:26,959
+Okay.
+
+79
+00:04:29,600 --> 00:04:30,519
+Wait for me to finish reading it.
+
+80
+00:04:30,959 --> 00:04:31,839
+Zhou Yang,
+
+81
+00:04:32,079 --> 00:04:33,600
+are you feeling a bit tired lately?
+
+82
+00:04:33,879 --> 00:04:35,199
+Remember to balance work and rest.
+
+83
+00:04:35,839 --> 00:04:36,879
+I understand, ma'am.
+
+84
+00:04:36,879 --> 00:04:38,079
+I'll head back to the classroom now.
+
+85
+00:04:38,079 --> 00:04:38,680
+Go ahead.
+
+86
+00:04:50,920 --> 00:04:51,920
+Are you okay, Zhou Yang?
+
+87
+00:04:52,680 --> 00:04:53,519
+I'm fine.
+
+88
+00:04:54,040 --> 00:04:54,680
+Let's continue.
+
+89
+00:04:59,680 --> 00:05:00,399
+That's all
+
+90
+00:05:00,399 --> 00:05:01,600
+for today's class.
+
+91
+00:05:01,600 --> 00:05:04,079
+Goodbye, teacher.
+
+92
+00:05:17,439 --> 00:05:18,439
+Why don't you write down
+
+93
+00:05:18,439 --> 00:05:20,360
+your mistakes in your notebook?
+
+94
+00:05:20,920 --> 00:05:22,720
+Do you understand what this means?
+
+95
+00:05:22,959 --> 00:05:24,720
+Sorry, I don't know.
+
+96
+00:05:25,199 --> 00:05:25,920
+I've asked you
+
+97
+00:05:25,920 --> 00:05:26,879
+ten questions.
+
+98
+00:05:26,879 --> 00:05:27,959
+Don't you know any of them?
+
+99
+00:05:27,959 --> 00:05:28,839
+Yes.
+
+100
+00:05:31,279 --> 00:05:32,720
+Mr. Zhou, please.
+
+101
+00:05:37,199 --> 00:05:38,439
+Why don't you write our mistakes
+
+102
+00:05:38,439 --> 00:05:40,120
+on the blackboard?
+
+103
+00:05:40,120 --> 00:05:41,560
+Okay, I will.
+
+104
+00:05:43,040 --> 00:05:44,240
+Are you kidding me?
+
+105
+00:05:44,879 --> 00:05:45,759
+Yes.
+
+106
+00:05:48,680 --> 00:05:50,720
+Mr. Zhou, go on.
+
+107
+00:05:50,720 --> 00:05:51,399
+Okay.
+
+108
+00:05:51,879 --> 00:05:53,000
+Why don't we write down our mistakes
+
+109
+00:05:53,000 --> 00:05:54,480
+in the notebook?
+
+110
+00:05:54,800 --> 00:05:56,240
+This sentence means
+
+111
+00:05:56,319 --> 00:05:57,439
+we should write down our mistakes
+
+112
+00:05:57,439 --> 00:05:58,879
+in our mistake notebook.
+
+113
+00:06:39,600 --> 00:06:40,480
+Take a break first.
+
+114
+00:06:40,720 --> 00:06:41,759
+Your steps are unsteady.
+
+115
+00:06:52,560 --> 00:06:53,519
+Challenge.
+
+116
+00:06:56,519 --> 00:06:57,480
+Action.
+
+117
+00:06:59,079 --> 00:07:00,680
+Focus.
+
+118
+00:07:02,040 --> 00:07:03,319
+Suitable.
+
+119
+00:07:07,000 --> 00:07:08,199
+Can you not disturb me?
+
+120
+00:07:09,399 --> 00:07:10,480
+Okay.
+
+121
+00:07:10,480 --> 00:07:11,839
+Juice?
+
+122
+00:07:12,600 --> 00:07:13,639
+Sorry, please leave.
+
+123
+00:07:14,079 --> 00:07:15,279
+Good night.
+
+124
+00:07:17,959 --> 00:07:18,639
+Target.
+
+125
+00:07:24,480 --> 00:07:25,399
+Forward.
+
+126
+00:07:43,000 --> 00:07:45,120
+Replicated during interphase
+
+127
+00:07:45,120 --> 00:07:45,920
+during the interphase.
+
+128
+00:07:45,920 --> 00:07:48,800
+It consists of prophase, metaphase,
+
+129
+00:07:50,240 --> 00:07:51,680
+anaphase, and telophase.
+
+130
+00:08:03,000 --> 00:08:05,079
+Interphase...
+
+131
+00:08:56,200 --> 00:08:57,519
+Impressive.
+
+132
+00:09:08,240 --> 00:09:09,039
+What's up with Zhou Yang?
+
+133
+00:09:09,320 --> 00:09:09,960
+I don't know.
+
+134
+00:09:09,960 --> 00:09:11,519
+Something feels off.
+
+135
+00:09:12,080 --> 00:09:12,840
+Zhou Yang,
+
+136
+00:09:13,960 --> 00:09:15,120
+what's going on?
+
+137
+00:09:15,120 --> 00:09:16,559
+You don't look well.
+
+138
+00:09:18,039 --> 00:09:18,799
+It's nothing.
+
+139
+00:09:20,480 --> 00:09:21,759
+It won't affect my exam tomorrow.
+
+140
+00:09:29,159 --> 00:09:30,919
+Midterms are tomorrow.
+
+141
+00:09:32,279 --> 00:09:33,360
+Yibei Basketball Club.
+
+142
+00:09:38,440 --> 00:09:41,960
+Good luck on the exam.
+
+143
+00:10:01,240 --> 00:10:02,360
+Lin Qingyuan,
+
+144
+00:10:02,840 --> 00:10:04,000
+are you ready?
+
+145
+00:10:04,320 --> 00:10:05,399
+Yes.
+
+146
+00:10:05,399 --> 00:10:06,360
+Li Haoyu,
+
+147
+00:10:06,360 --> 00:10:07,080
+what about you?
+
+148
+00:10:12,559 --> 00:10:13,200
+Go.
+
+149
+00:10:15,879 --> 00:10:16,639
+Chinese.
+
+150
+00:10:19,399 --> 00:10:20,120
+Passed.
+
+151
+00:10:21,440 --> 00:10:22,279
+Math.
+
+152
+00:10:24,600 --> 00:10:25,399
+Passed.
+
+153
+00:10:26,519 --> 00:10:27,320
+English.
+
+154
+00:10:27,799 --> 00:10:29,399
+Great, also passed.
+
+155
+00:10:29,399 --> 00:10:29,720
+And you?
+
+156
+00:10:29,720 --> 00:10:30,559
+Let's see yours.
+
+157
+00:10:31,039 --> 00:10:31,879
+I...
+
+158
+00:10:44,440 --> 00:10:45,399
+Chinese passed.
+
+159
+00:10:49,120 --> 00:10:50,039
+Math.
+
+160
+00:10:50,879 --> 00:10:51,600
+Passed.
+
+161
+00:10:52,879 --> 00:10:54,159
+History also passed.
+
+162
+00:10:57,440 --> 00:10:59,519
+Next is the final round.
+
+163
+00:11:02,840 --> 00:11:03,519
+Physics.
+
+164
+00:11:04,639 --> 00:11:05,440
+Physics.
+
+165
+00:11:08,480 --> 00:11:09,600
+63.
+
+166
+00:11:09,600 --> 00:11:10,600
+Passed.
+
+167
+00:11:10,600 --> 00:11:12,519
+I've all passed. That's great.
+
+168
+00:11:14,840 --> 00:11:16,399
+Wait a moment, wait a moment, wait a moment.
+
+169
+00:11:18,919 --> 00:11:20,240
+You check my geography score for me.
+
+170
+00:11:20,240 --> 00:11:20,919
+Okay.
+
+171
+00:11:20,919 --> 00:11:22,279
+I really can't take it anymore.
+
+172
+00:11:23,799 --> 00:11:24,960
+The last digit.
+
+173
+00:11:26,759 --> 00:11:27,840
+It's six.
+
+174
+00:11:27,840 --> 00:11:28,919
+Tens place, tens place.
+
+175
+00:11:29,440 --> 00:11:31,919
+The tens digit, the tens digit is...
+
+176
+00:11:32,120 --> 00:11:32,879
+Six.
+
+177
+00:11:33,200 --> 00:11:33,879
+Lin Qingyuan,
+
+178
+00:11:33,879 --> 00:11:35,399
+your geography score is 66.
+
+179
+00:11:37,039 --> 00:11:38,080
+You passed.
+
+180
+00:11:42,279 --> 00:11:43,519
+It's really 66 points.
+
+181
+00:11:43,919 --> 00:11:45,200
+I passed all the subjects too.
+
+182
+00:11:45,200 --> 00:11:46,559
+Our rankings are safe.
+
+183
+00:11:46,840 --> 00:11:48,399
+We can continue to compete.
+
+184
+00:11:48,960 --> 00:11:50,080
+That's great.
+
+185
+00:11:50,559 --> 00:11:52,200
+Li Haoyu, catch the ball.
+
+186
+00:12:00,559 --> 00:12:01,799
+It's not easy.
+
+187
+00:12:02,159 --> 00:12:02,679
+Let's go.
+
+188
+00:12:03,240 --> 00:12:04,279
+Let's tell everyone
+
+189
+00:12:04,279 --> 00:12:04,960
+this good news.
+
+190
+00:12:04,960 --> 00:12:05,519
+Okay.
+
+191
+00:12:12,960 --> 00:12:14,080
+How did you two do?
+
+192
+00:12:21,559 --> 00:12:22,080
+Don't be like this.
+
+193
+00:12:22,080 --> 00:12:23,360
+Say something.
+
+194
+00:12:32,759 --> 00:12:33,759
+Gu Chenyang.
+
+195
+00:12:33,759 --> 00:12:35,320
+Are they going to cry?
+
+196
+00:12:42,240 --> 00:12:43,360
+Anyway,
+
+197
+00:12:43,679 --> 00:12:45,639
+you've tried your best.
+
+198
+00:12:46,120 --> 00:12:47,480
+So, actually...
+
+199
+00:12:51,320 --> 00:12:53,120
+You really believe we didn't pass?
+
+200
+00:12:53,120 --> 00:12:53,960
+Don't you know
+
+201
+00:12:53,960 --> 00:12:55,039
+who I am.
+
+202
+00:12:55,399 --> 00:12:56,879
+We all passed.
+
+203
+00:12:57,120 --> 00:12:58,799
+And our grades are all good.
+
+204
+00:12:58,799 --> 00:12:59,559
+Come on.
+
+205
+00:12:59,559 --> 00:13:00,960
+You scared me.
+
+206
+00:13:05,799 --> 00:13:07,200
+You two did well.
+
+207
+00:13:08,000 --> 00:13:09,519
+Your grades have improved a lot.
+
+208
+00:13:09,960 --> 00:13:10,559
+We can finally
+
+209
+00:13:10,559 --> 00:13:11,720
+prepare for the competition.
+
+210
+00:13:11,720 --> 00:13:12,080
+Yes.
+
+211
+00:13:13,879 --> 00:13:14,759
+Mr. Gu,
+
+212
+00:13:15,159 --> 00:13:16,759
+you deserve half the credit.
+
+213
+00:13:17,200 --> 00:13:17,879
+Yes.
+
+214
+00:13:20,279 --> 00:13:21,320
+Where's Mr. Zhou?
+
+215
+00:13:21,320 --> 00:13:22,600
+Why isn't he here
+
+216
+00:13:22,600 --> 00:13:23,720
+for such an important moment?
+
+217
+00:13:23,720 --> 00:13:24,559
+Right.
+
+218
+00:13:31,799 --> 00:13:32,960
+Zhou Yang
+
+219
+00:13:34,399 --> 00:13:36,000
+didn't do well this time.
+
+220
+00:14:33,159 --> 00:14:34,200
+Congrats.
+
+221
+00:14:34,879 --> 00:14:36,399
+You're the top student in the grade.
+
+222
+00:14:49,080 --> 00:14:50,080
+I...
+
+223
+00:14:52,279 --> 00:14:52,879
+I thought
+
+224
+00:14:52,879 --> 00:14:54,639
+I could do everything well.
+
+225
+00:14:56,440 --> 00:14:57,679
+I'm sorry to make a fool of myself.
+
+226
+00:15:02,480 --> 00:15:03,600
+It's not funny.
+
+227
+00:15:07,879 --> 00:15:08,960
+Don't you feel tired?
+
+228
+00:15:11,639 --> 00:15:12,840
+Let me be frank.
+
+229
+00:15:13,799 --> 00:15:15,000
+Is it worth it
+
+230
+00:15:15,840 --> 00:15:16,639
+for the basketball club?
+
+231
+00:15:19,600 --> 00:15:20,879
+Zhou Yang used to
+
+232
+00:15:21,440 --> 00:15:23,279
+never have such a big drop
+
+233
+00:15:24,240 --> 00:15:25,639
+in his academic performance.
+
+234
+00:15:30,200 --> 00:15:32,320
+If everyone can do better,
+
+235
+00:15:32,960 --> 00:15:34,639
+I think it's worth it.
+
+236
+00:15:35,960 --> 00:15:36,919
+After all, the Basketball Club
+
+237
+00:15:36,919 --> 00:15:38,120
+is not just about one person.
+
+238
+00:15:44,559 --> 00:15:45,679
+I just think
+
+239
+00:15:47,480 --> 00:15:48,639
+when will you
+
+240
+00:15:49,399 --> 00:15:50,840
+think more about yourself?
+
+241
+00:16:10,879 --> 00:16:12,320
+It's all because we are not competitive enough,
+
+242
+00:16:12,639 --> 00:16:13,759
+which has held Zhou Yang back.
+
+243
+00:16:14,200 --> 00:16:15,639
+Fortunately, I didn't fail this time.
+
+244
+00:16:16,399 --> 00:16:17,960
+or I'd be ashamed to see him.
+
+245
+00:16:18,759 --> 00:16:20,039
+Why aren't they talking?
+
+246
+00:16:21,159 --> 00:16:21,960
+I wonder if Fu Binyan
+
+247
+00:16:21,960 --> 00:16:23,039
+will scold him.
+
+248
+00:16:23,720 --> 00:16:26,320
+Should we go check?
+
+249
+00:16:27,039 --> 00:16:27,679
+No need.
+
+250
+00:16:29,559 --> 00:16:30,919
+Let's go back to training.
+
+251
+00:16:31,759 --> 00:16:33,159
+Aren't you worried about Zhou Yang?
+
+252
+00:16:34,440 --> 00:16:35,200
+Of course,
+
+253
+00:16:35,759 --> 00:16:36,440
+but right now,
+
+254
+00:16:36,440 --> 00:16:37,639
+the only thing we can do
+
+255
+00:16:37,639 --> 00:16:39,320
+is to prepare for the next game,
+
+256
+00:16:39,960 --> 00:16:41,519
+and not let his hard work go to waste.
+
+257
+00:16:47,200 --> 00:16:48,360
+We must win this game.
+
+258
+00:16:48,720 --> 00:16:49,399
+Let's go.
+
+259
+00:17:27,759 --> 00:17:28,960
+I'll get in the car right away.
+
+260
+00:18:22,319 --> 00:18:23,640
+Haven't you answered the phone yet?
+
+261
+00:18:27,559 --> 00:18:28,480
+What's going on?
+
+262
+00:18:28,480 --> 00:18:29,319
+The game will start
+
+263
+00:18:29,319 --> 00:18:30,160
+in ten minutes.
+
+264
+00:18:32,519 --> 00:18:34,119
+He's not someone who would be late.
+
+265
+00:18:34,519 --> 00:18:35,920
+Could something have happened to him?
+
+266
+00:18:42,440 --> 00:18:42,839
+Coach Su
+
+267
+00:18:43,000 --> 00:18:44,319
+Please designate the starting members
+
+268
+00:18:44,319 --> 00:18:45,000
+and sign.
+
+269
+00:18:48,920 --> 00:18:50,079
+Let the substitutes start.
+
+270
+00:18:55,079 --> 00:18:56,559
+Don't just stand there. Get warmed up.
+
+271
+00:18:57,039 --> 00:18:58,079
+Okay, coach.
+
+272
+00:18:58,799 --> 00:18:59,480
+Xu Anbo
+
+273
+00:18:59,480 --> 00:19:00,559
+Let Chi Jia continue to contact.
+
+274
+00:19:00,759 --> 00:19:02,160
+Notify me if anything happens.
+
+275
+00:19:41,519 --> 00:19:42,279
+You're awake.
+
+276
+00:19:45,799 --> 00:19:47,079
+Why are you here?
+
+277
+00:19:47,839 --> 00:19:49,000
+I took the bus
+
+278
+00:19:49,000 --> 00:19:50,559
+to the basketball hall this morning
+
+279
+00:19:51,640 --> 00:19:53,000
+and saw you faint.
+
+280
+00:19:53,799 --> 00:19:56,039
+The basketball hall, right.
+
+281
+00:20:00,480 --> 00:20:01,359
+Lie down.
+
+282
+00:20:03,279 --> 00:20:04,920
+What time is it now?
+
+283
+00:20:05,119 --> 00:20:06,000
+The game
+
+284
+00:20:07,200 --> 00:20:08,400
+is over.
+
+285
+00:20:13,000 --> 00:20:13,839
+What's the result?
+
+286
+00:20:15,759 --> 00:20:17,160
+54 to 72.
+
+287
+00:20:18,240 --> 00:20:19,119
+Yibei lost.
+
+288
+00:20:26,599 --> 00:20:28,440
+Because I didn't show up.
+
+289
+00:20:32,039 --> 00:20:32,599
+You fainted
+
+290
+00:20:32,599 --> 00:20:33,880
+from low blood sugar,
+
+291
+00:20:35,119 --> 00:20:37,119
+plus lack of sleep
+
+292
+00:20:37,480 --> 00:20:38,599
+and overexertion.
+
+293
+00:20:39,200 --> 00:20:40,240
+You'd
+
+294
+00:20:40,720 --> 00:20:41,759
+just hold us back
+
+295
+00:20:42,119 --> 00:20:43,319
+if you'd played.
+
+296
+00:20:44,720 --> 00:20:45,720
+I told you,
+
+297
+00:20:47,039 --> 00:20:48,319
+don't be so self-reliant.
+
+298
+00:20:51,960 --> 00:20:52,880
+Yeah,
+
+299
+00:20:56,599 --> 00:20:58,200
+I'm not strong enough.
+
+300
+00:21:02,000 --> 00:21:03,160
+I mean,
+
+301
+00:21:04,119 --> 00:21:05,039
+no one can carry everything
+
+302
+00:21:05,039 --> 00:21:06,160
+by themselves.
+
+303
+00:21:07,640 --> 00:21:09,079
+Not even superheroes.
+
+304
+00:21:12,519 --> 00:21:13,839
+Back in the basketball club,
+
+305
+00:21:14,400 --> 00:21:15,319
+the seniors
+
+306
+00:21:15,720 --> 00:21:17,079
+pushed everything onto you,
+
+307
+00:21:17,839 --> 00:21:18,680
+and you took it all.
+
+308
+00:21:19,640 --> 00:21:21,079
+You suddenly missed a game
+
+309
+00:21:22,079 --> 00:21:23,279
+was because of Auntie Xiao's
+
+310
+00:21:23,279 --> 00:21:24,359
+sudden appendicitis.
+
+311
+00:21:25,839 --> 00:21:27,160
+You had to rush to the hospital.
+
+312
+00:21:28,480 --> 00:21:29,440
+Later,
+
+313
+00:21:29,440 --> 00:21:30,599
+you had to take care of her
+
+314
+00:21:31,119 --> 00:21:32,240
+while preparing for the final exam.
+
+315
+00:21:33,440 --> 00:21:34,279
+But you,
+
+316
+00:21:35,240 --> 00:21:36,519
+didn't explain anything.
+
+317
+00:21:37,400 --> 00:21:38,519
+Even now,
+
+318
+00:21:39,519 --> 00:21:41,039
+they still hold a grudge against you.
+
+319
+00:21:42,200 --> 00:21:43,119
+I...
+
+320
+00:21:43,640 --> 00:21:44,400
+I just don't want to
+
+321
+00:21:44,400 --> 00:21:45,720
+cause any trouble for them.
+
+322
+00:21:50,079 --> 00:21:51,119
+What about your mom?
+
+323
+00:21:52,079 --> 00:21:53,240
+With all that's happened,
+
+324
+00:21:54,119 --> 00:21:55,400
+doesn't she know anything?
+
+325
+00:21:56,799 --> 00:21:58,200
+She's been busy with work.
+
+326
+00:21:58,920 --> 00:21:59,880
+I don't want to
+
+327
+00:21:59,880 --> 00:22:01,119
+add any more burden to her.
+
+328
+00:22:01,319 --> 00:22:02,119
+So,
+
+329
+00:22:02,119 --> 00:22:04,319
+your emergency contact is your dad?
+
+330
+00:22:09,240 --> 00:22:10,160
+Zhou Yang,
+
+331
+00:22:11,440 --> 00:22:12,759
+do you think this is being sensible?
+
+332
+00:22:14,480 --> 00:22:16,400
+This is being foolish, you know?
+
+333
+00:22:32,000 --> 00:22:32,839
+Zhou Yang,
+
+334
+00:22:33,920 --> 00:22:35,039
+sometimes,
+
+335
+00:22:35,559 --> 00:22:37,039
+you have to be willing to bother others.
+
+336
+00:22:41,920 --> 00:22:42,599
+Otherwise,
+
+337
+00:22:43,640 --> 00:22:45,240
+you'll make those who truly care about you
+
+338
+00:22:45,720 --> 00:22:46,519
+feel heartbroken.
+
+339
+00:22:50,720 --> 00:22:51,519
+After finishing the IV drip,
+
+340
+00:22:52,480 --> 00:22:53,759
+remember to eat something sweet.
+
+341
+00:23:27,119 --> 00:23:27,839
+Zhou Yang
+
+342
+00:23:30,960 --> 00:23:32,039
+Why are you here?
+
+343
+00:23:32,240 --> 00:23:33,319
+Zhou Yang
+
+344
+00:23:33,319 --> 00:23:34,519
+Why didn't you tell us?
+
+345
+00:23:35,000 --> 00:23:35,720
+Yeah.
+
+346
+00:23:35,720 --> 00:23:36,799
+You scared us.
+
+347
+00:23:36,960 --> 00:23:37,839
+Are you feeling better?
+
+348
+00:23:39,039 --> 00:23:39,880
+Yes.
+
+349
+00:23:40,559 --> 00:23:41,960
+I just finished the infusion.
+
+350
+00:23:43,680 --> 00:23:44,559
+I'm sorry.
+
+351
+00:23:44,920 --> 00:23:46,519
+I couldn't make it to the competition.
+
+352
+00:23:49,920 --> 00:23:51,440
+Fu Binyan has told us.
+
+353
+00:23:51,880 --> 00:23:52,839
+You should have a good rest.
+
+354
+00:23:52,839 --> 00:23:54,359
+Don't think about anything else.
+
+355
+00:23:54,640 --> 00:23:55,480
+That's right.
+
+356
+00:23:56,359 --> 00:23:57,759
+You are more important than the match.
+
+357
+00:23:58,480 --> 00:23:59,160
+But next...
+
+358
+00:23:59,160 --> 00:24:00,359
+There is no but.
+
+359
+00:24:00,759 --> 00:24:02,160
+If anyone should say sorry,
+
+360
+00:24:02,160 --> 00:24:03,200
+it should be us.
+
+361
+00:24:04,279 --> 00:24:05,559
+We didn't do well,
+
+362
+00:24:06,039 --> 00:24:07,240
+but you are tired like this.
+
+363
+00:24:08,960 --> 00:24:10,240
+We should be the ones apologizing.
+
+364
+00:24:11,359 --> 00:24:12,400
+And we lost a race
+
+365
+00:24:12,400 --> 00:24:13,039
+we should've won.
+
+366
+00:24:16,079 --> 00:24:16,960
+It's my fault
+
+367
+00:24:16,960 --> 00:24:18,240
+for not keeping an eye
+
+368
+00:24:18,720 --> 00:24:20,359
+on your condition.
+
+369
+00:24:23,000 --> 00:24:24,160
+Alright,
+
+370
+00:24:24,400 --> 00:24:25,519
+stop it.
+
+371
+00:24:25,680 --> 00:24:26,920
+Are you holding
+
+372
+00:24:27,359 --> 00:24:28,720
+a review meeting here?
+
+373
+00:24:30,079 --> 00:24:31,119
+Lin Qingyuan's right.
+
+374
+00:24:31,119 --> 00:24:32,720
+The most important thing now
+
+375
+00:24:32,720 --> 00:24:33,759
+is to get well.
+
+376
+00:24:35,359 --> 00:24:36,599
+Haven't you eaten yet?
+
+377
+00:24:36,599 --> 00:24:38,240
+Name your order.
+
+378
+00:24:38,759 --> 00:24:39,559
+It's on me.
+
+379
+00:24:40,279 --> 00:24:40,920
+Stop it.
+
+380
+00:24:41,640 --> 00:24:43,599
+He's sick. He can't eat.
+
+381
+00:24:43,599 --> 00:24:44,559
+He can only eat porridge.
+
+382
+00:24:46,079 --> 00:24:47,039
+But
+
+383
+00:24:47,039 --> 00:24:48,319
+I really want a hamburger.
+
+384
+00:24:48,839 --> 00:24:50,079
+You're really taking advantage.
+
+385
+00:24:50,079 --> 00:24:51,319
+Give me my phone back.
+
+386
+00:24:51,319 --> 00:24:52,920
+I just need the payment password.
+
+387
+00:24:52,920 --> 00:24:53,640
+Payment for what? Seriously.
+
+388
+00:24:53,640 --> 00:24:54,799
+Stop arguing.
+
+389
+00:24:55,200 --> 00:24:56,599
+Don't you see where you are?
+
+390
+00:24:59,640 --> 00:25:00,720
+What did the doctor say?
+
+391
+00:25:00,960 --> 00:25:02,400
+When can he be discharged?
+
+392
+00:25:02,799 --> 00:25:03,720
+He should be able to leave tomorrow.
+
+393
+00:25:04,759 --> 00:25:05,920
+Don't worry.
+
+394
+00:25:07,400 --> 00:25:09,160
+I'll stay with you tonight.
+
+395
+00:25:09,759 --> 00:25:11,480
+No, I'll stay here.
+
+396
+00:25:11,960 --> 00:25:13,240
+My family doesn't care about me anyway.
+
+397
+00:25:13,839 --> 00:25:15,079
+You don't have to stay.
+
+398
+00:25:15,720 --> 00:25:16,920
+My mom will be here soon.
+
+399
+00:25:17,279 --> 00:25:18,880
+You've had a long day.
+
+400
+00:25:18,880 --> 00:25:19,839
+Go home early.
+
+401
+00:25:22,599 --> 00:25:23,400
+Well,
+
+402
+00:25:23,960 --> 00:25:25,359
+will your mom really come?
+
+403
+00:25:26,480 --> 00:25:27,559
+Why do you ask?
+
+404
+00:25:29,599 --> 00:25:30,519
+I'm afraid you
+
+405
+00:25:30,799 --> 00:25:32,359
+just don't want to bother us
+
+406
+00:25:32,359 --> 00:25:34,160
+and didn't tell your family the truth.
+
+407
+00:25:39,480 --> 00:25:40,559
+This time it's real.
+
+408
+00:25:42,200 --> 00:25:43,000
+That's good.
+
+409
+00:25:47,440 --> 00:25:48,279
+Take a good rest.
+
+410
+00:25:48,599 --> 00:25:49,480
+Take a good rest.
+
+411
+00:25:52,400 --> 00:25:53,359
+Thank you.
+
+412
+00:25:55,839 --> 00:25:56,559
+Bye.
+
+413
+00:25:56,640 --> 00:25:57,519
+We're leaving. Bye.
+
+414
+00:26:07,640 --> 00:26:09,400
+Don't look at me. Go back.
+
+415
+00:26:11,480 --> 00:26:12,920
+You must take a good rest.
