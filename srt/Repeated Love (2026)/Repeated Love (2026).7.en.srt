@@ -1,0 +1,555 @@
+1
+00:01:31,720 --> 00:01:32,280
+Look.
+
+2
+00:01:34,039 --> 00:01:34,600
+Over there.
+
+3
+00:01:34,600 --> 00:01:35,160
+Okay.
+
+4
+00:01:43,759 --> 00:01:44,360
+Shiya.
+
+5
+00:01:45,360 --> 00:01:46,280
+To be honest,
+
+6
+00:01:47,039 --> 00:01:50,080
+do you think the big data social intelligent algorithm I made
+
+7
+00:01:50,080 --> 00:01:51,880
+really has any meaning to exist?
+
+8
+00:01:53,120 --> 00:01:55,250
+Why are you asking this all of a sudden?
+
+9
+00:01:59,120 --> 00:02:00,650
+I always thought in the past
+
+10
+00:02:01,320 --> 00:02:03,050
+that life could not be changed,
+
+11
+00:02:04,560 --> 00:02:05,620
+and a person's life
+
+12
+00:02:06,040 --> 00:02:07,960
+was like a string of precise data.
+
+13
+00:02:08,800 --> 00:02:09,729
+All I needed to do
+
+14
+00:02:09,919 --> 00:02:11,760
+was extract this data
+
+15
+00:02:12,120 --> 00:02:13,840
+and hand it over to the intelligent algorithm
+
+16
+00:02:13,840 --> 00:02:14,760
+to help people
+
+17
+00:02:15,080 --> 00:02:18,340
+increase the probability of meeting their destined ones.
+
+18
+00:02:18,400 --> 00:02:19,760
+But now I regret it.
+
+19
+00:02:21,000 --> 00:02:22,160
+I actually feel
+
+20
+00:02:22,360 --> 00:02:23,690
+that I'd rather believe
+
+21
+00:02:23,920 --> 00:02:26,079
+the clock of fate has never stopped.
+
+22
+00:02:34,720 --> 00:02:35,560
+However,
+
+23
+00:02:36,400 --> 00:02:37,720
+your algorithm has a bug.
+
+24
+00:02:37,720 --> 00:02:39,380
+I've been wanting to tell you.
+
+25
+00:02:40,840 --> 00:02:42,000
+What are you 'ah'-ing about?
+
+26
+00:02:42,000 --> 00:02:43,120
+Don't question my professionalism
+
+27
+00:02:43,120 --> 00:02:44,600
+as a data maintenance engineer.
+
+28
+00:02:44,600 --> 00:02:45,320
+Your system...
+
+29
+00:02:45,320 --> 00:02:46,160
+How is that possible?
+
+30
+00:02:46,160 --> 00:02:48,760
+There's no way the system I built has a problem.
+
+31
+00:02:48,800 --> 00:02:50,240
+Why couldn't the system you built have a problem?
+
+32
+00:02:50,240 --> 00:02:51,079
+Listen to me.
+
+33
+00:02:51,200 --> 00:02:53,730
+The system I built has been tested many times.
+
+34
+00:02:53,760 --> 00:02:54,560
+It doesn't...
+
+35
+00:02:55,520 --> 00:02:56,320
+It's burnt.
+
+36
+00:02:56,520 --> 00:02:57,250
+Look at this.
+
+37
+00:02:58,600 --> 00:03:00,260
+No, don't change the subject.
+
+38
+00:03:00,640 --> 00:03:02,770
+How could the system I built have a bug?
+
+39
+00:03:22,160 --> 00:03:23,040
+I always feel
+
+40
+00:03:23,200 --> 00:03:24,930
+that everyone in this universe
+
+41
+00:03:25,200 --> 00:03:26,160
+is a line of code,
+
+42
+00:03:26,800 --> 00:03:28,360
+and even time itself is.
+
+43
+00:03:29,360 --> 00:03:30,220
+Do you think so?
+
+44
+00:03:56,960 --> 00:03:58,020
+Don't get me wrong.
+
+45
+00:03:58,160 --> 00:03:59,000
+I just thought
+
+46
+00:03:59,160 --> 00:04:01,560
+it might be more comfortable leaning on me.
+
+47
+00:04:29,080 --> 00:04:31,800
+Shiya.
+
+48
+00:04:32,480 --> 00:04:33,440
+Pei Song.
+
+49
+00:04:33,440 --> 00:04:35,200
+Shiya.
+
+50
+00:04:35,440 --> 00:04:37,080
+Shiya.
+
+51
+00:04:37,080 --> 00:04:37,960
+Where are you?
+
+52
+00:04:38,000 --> 00:04:39,520
+Pei Song.
+
+53
+00:04:40,240 --> 00:04:40,840
+Over there.
+
+54
+00:04:40,840 --> 00:04:41,760
+Shiya.
+
+55
+00:04:42,760 --> 00:04:43,440
+Shiya.
+
+56
+00:04:44,520 --> 00:04:44,840
+Shiya.
+
+57
+00:04:44,840 --> 00:04:45,360
+Brother.
+
+58
+00:04:45,360 --> 00:04:45,840
+Shiya.
+
+59
+00:04:49,600 --> 00:04:50,400
+Shiya.
+
+60
+00:04:52,240 --> 00:04:53,040
+Shiya.
+
+61
+00:04:53,840 --> 00:04:55,240
+I finally found you.
+
+62
+00:05:01,920 --> 00:05:03,120
+Thank you for your hard work.
+
+63
+00:05:03,120 --> 00:05:03,720
+It's nothing.
+
+64
+00:05:03,720 --> 00:05:04,560
+Let's go back first.
+
+65
+00:05:04,560 --> 00:05:05,890
+As long as we found them.
+
+66
+00:05:08,760 --> 00:05:09,480
+Slow down.
+
+67
+00:05:09,880 --> 00:05:10,880
+We're going back.
+
+68
+00:05:14,440 --> 00:05:16,920
+Check the dashcam of that SUV.
+
+69
+00:05:17,280 --> 00:05:19,280
+I suspect someone tampered with it.
+
+70
+00:05:19,880 --> 00:05:20,480
+Okay.
+
+71
+00:05:23,120 --> 00:05:24,240
+This time,
+
+72
+00:05:24,680 --> 00:05:27,140
+I will definitely investigate thoroughly.
+
+73
+00:05:28,880 --> 00:05:30,680
+I won't let Shiya die again.
+
+74
+00:05:33,159 --> 00:05:34,400
+The dashcam is gone.
+
+75
+00:05:34,880 --> 00:05:35,610
+Yes, Mr. Pei.
+
+76
+00:05:35,920 --> 00:05:37,640
+I got to the parking lot as soon as possible,
+
+77
+00:05:37,640 --> 00:05:39,320
+and the dashcam was already gone.
+
+78
+00:05:39,320 --> 00:05:39,960
+Mr. Pei.
+
+79
+00:05:39,960 --> 00:05:42,240
+Could it have been thrown out during the crash
+
+80
+00:05:42,240 --> 00:05:43,600
+and fell into the mountains?
+
+81
+00:05:43,600 --> 00:05:44,360
+Impossible.
+
+82
+00:05:44,640 --> 00:05:46,400
+My dashcam was reinforced.
+
+83
+00:05:46,680 --> 00:05:48,810
+Unless someone took it down manually.
+
+84
+00:05:49,120 --> 00:05:50,580
+At first I only suspected,
+
+85
+00:05:50,800 --> 00:05:52,360
+but now I'm almost certain.
+
+86
+00:05:52,960 --> 00:05:54,620
+Someone tampered with my car.
+
+87
+00:05:55,480 --> 00:05:57,140
+Good thing I had a backup plan.
+
+88
+00:05:57,880 --> 00:05:59,440
+I installed tracking software
+
+89
+00:05:59,440 --> 00:06:00,600
+on the dashcam.
+
+90
+00:06:01,880 --> 00:06:02,440
+Mr. Pei.
+
+91
+00:06:02,720 --> 00:06:05,320
+You installed tracking software on the dashcam?
+
+92
+00:06:05,320 --> 00:06:07,250
+Do you want me to notify the police?
+
+93
+00:06:07,920 --> 00:06:08,560
+Mr. Pei.
+
+94
+00:06:10,200 --> 00:06:10,840
+Mr. Pei.
+
+95
+00:06:12,560 --> 00:06:13,960
+I'll handle this myself.
+
+96
+00:06:14,000 --> 00:06:15,260
+You can go back to work.
+
+97
+00:06:50,800 --> 00:06:52,460
+Did you need me for something?
+
+98
+00:06:52,760 --> 00:06:53,520
+Why?
+
+99
+00:06:53,520 --> 00:06:54,480
+Why what?
+
+100
+00:06:54,800 --> 00:06:56,600
+Why did you take the dashcam?
+
+101
+00:06:57,720 --> 00:06:59,180
+I don't know what you mean.
+
+102
+00:06:59,680 --> 00:07:00,760
+I'll go cook for you.
+
+103
+00:07:00,760 --> 00:07:02,020
+What do you want to eat?
+
+104
+00:07:13,880 --> 00:07:15,440
+Give me the dashcam.
+
+105
+00:07:16,040 --> 00:07:17,720
+Are you hiding something from me?
+
+106
+00:07:17,720 --> 00:07:19,640
+Or do you know who the killer is?
+
+107
+00:07:19,640 --> 00:07:21,370
+What does he have to do with you?
+
+108
+00:07:23,520 --> 00:07:25,980
+There are some things you don't need to know.
+
+109
+00:07:26,320 --> 00:07:27,650
+Why don't I need to know?
+
+110
+00:07:28,640 --> 00:07:29,680
+On this trip,
+
+111
+00:07:30,040 --> 00:07:31,240
+first there was a problem with the rope,
+
+112
+00:07:31,240 --> 00:07:32,480
+and then the car.
+
+113
+00:07:32,480 --> 00:07:34,040
+I don't want to just watch you
+
+114
+00:07:34,040 --> 00:07:35,240
+die in front of me.
+
+115
+00:07:40,080 --> 00:07:41,240
+You are my wife.
+
+116
+00:07:41,440 --> 00:07:42,480
+I am your husband.
+
+117
+00:07:43,000 --> 00:07:45,400
+It is my duty and obligation to protect you.
+
+118
+00:07:46,280 --> 00:07:47,680
+Not for long.
+
+119
+00:07:52,080 --> 00:07:53,140
+What are you doing?
+
+120
+00:08:00,840 --> 00:08:01,640
+Let me go.
+
+121
+00:08:27,840 --> 00:08:28,720
+Last time,
+
+122
+00:08:29,160 --> 00:08:32,020
+the person who killed you also came on a motorcycle.
+
+123
+00:08:42,840 --> 00:08:43,919
+Last time?
+
+124
+00:08:46,080 --> 00:08:47,240
+You were reborn.
+
+125
+00:08:50,720 --> 00:08:51,720
+How do you know?
+
+126
+00:09:05,080 --> 00:09:06,120
+What exactly happened last time?
+
+127
+00:09:06,120 --> 00:09:07,180
+Don't talk for now.
+
+128
+00:09:12,920 --> 00:09:14,850
+Every time you die in front of me...
+
+129
+00:09:14,960 --> 00:09:16,040
+I am always reborn.
+
+130
+00:09:17,560 --> 00:09:20,290
+I don't know how many more times this will happen.
+
+131
+00:09:21,400 --> 00:09:22,480
+But this time,
+
+132
+00:09:23,560 --> 00:09:25,760
+I won't let anyone hurt you again.
+
+133
+00:09:27,000 --> 00:09:27,840
+Actually,
+
+134
+00:09:28,360 --> 00:09:29,760
+I know you're reborn.
+
+135
+00:09:33,960 --> 00:09:34,890
+What did you say?
+
+136
+00:09:36,160 --> 00:09:38,290
+You said it before when you were drunk.
+
+137
+00:09:39,800 --> 00:09:41,330
+Right after we got married.
+
+138
+00:09:42,240 --> 00:09:43,770
+Right after we got married?
+
+139
+00:09:49,080 --> 00:09:50,480
+Are you willing to believe me?
