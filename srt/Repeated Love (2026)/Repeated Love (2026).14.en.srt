@@ -1,0 +1,811 @@
+1
+00:01:26,320 --> 00:01:27,520
+Hello, Pei Ning.
+
+2
+00:01:28,480 --> 00:01:30,810
+We've been waiting for you for a long time.
+
+3
+00:01:37,880 --> 00:01:38,520
+Grandpa.
+
+4
+00:01:41,080 --> 00:01:42,560
+My two big grandsons.
+
+5
+00:01:42,560 --> 00:01:43,090
+Grandpa,
+
+6
+00:01:44,400 --> 00:01:46,460
+how come you have time to visit today?
+
+7
+00:01:46,640 --> 00:01:47,170
+Grandpa,
+
+8
+00:01:47,200 --> 00:01:48,130
+happy birthday.
+
+9
+00:01:49,759 --> 00:01:51,000
+Today is my birthday?
+
+10
+00:01:51,600 --> 00:01:52,720
+Look at me, I'm getting senile.
+
+11
+00:01:52,720 --> 00:01:54,380
+I even forgot my own birthday.
+
+12
+00:01:54,640 --> 00:01:55,280
+Yes, I
+
+13
+00:01:55,640 --> 00:01:57,160
+specially saved money for a long time
+
+14
+00:01:57,160 --> 00:01:58,420
+to buy you this liquor.
+
+15
+00:01:58,440 --> 00:01:59,100
+Take a look.
+
+16
+00:02:00,880 --> 00:02:02,810
+My Ningning is really thoughtful.
+
+17
+00:02:02,920 --> 00:02:03,360
+Good.
+
+18
+00:02:03,800 --> 00:02:04,330
+Let me see
+
+19
+00:02:04,960 --> 00:02:06,420
+what my older brother got.
+
+20
+00:02:06,760 --> 00:02:07,290
+Grandpa,
+
+21
+00:02:07,400 --> 00:02:08,400
+happy birthday.
+
+22
+00:02:10,280 --> 00:02:10,840
+Pei Song,
+
+23
+00:02:11,360 --> 00:02:13,040
+how could you buy such an expensive gift?
+
+24
+00:02:13,040 --> 00:02:15,040
+It's not expensive, I made it by hand.
+
+25
+00:02:15,040 --> 00:02:15,960
+You made it?
+
+26
+00:02:17,520 --> 00:02:18,600
+How is it? Do you like it?
+
+27
+00:02:18,600 --> 00:02:19,930
+My grandson is amazing.
+
+28
+00:02:20,320 --> 00:02:21,450
+This craftsmanship
+
+29
+00:02:21,600 --> 00:02:22,800
+is so exquisite.
+
+30
+00:02:23,000 --> 00:02:24,240
+Of course I like it.
+
+31
+00:02:26,040 --> 00:02:27,720
+It's a gift from my eldest grandson,
+
+32
+00:02:27,720 --> 00:02:28,980
+how could I not like it?
+
+33
+00:02:29,360 --> 00:02:30,560
+All right, I'll accept it.
+
+34
+00:02:30,560 --> 00:02:30,880
+Thank you.
+
+35
+00:02:30,880 --> 00:02:32,079
+Why do you have these?
+
+36
+00:02:35,240 --> 00:02:37,600
+So our current research direction is
+
+37
+00:02:37,600 --> 00:02:39,840
+to feed massive user data to AI
+
+38
+00:02:39,840 --> 00:02:41,120
+and train more models,
+
+39
+00:02:41,360 --> 00:02:42,440
+then build a
+
+40
+00:02:42,440 --> 00:02:44,400
+marriage and relationship matching platform.
+
+41
+00:02:44,400 --> 00:02:45,880
+But I'd like to ask,
+
+42
+00:02:45,880 --> 00:02:47,880
+how do you view the future trend of AI?
+
+43
+00:02:47,880 --> 00:02:48,880
+What about its development trend?
+
+44
+00:02:48,880 --> 00:02:51,560
+It will definitely be the future direction and trend.
+
+45
+00:02:51,560 --> 00:02:53,440
+But with strong capabilities now,
+
+46
+00:02:53,440 --> 00:02:55,920
+how big can its future scale actually get?
+
+47
+00:02:56,440 --> 00:02:57,760
+A trillion-dollar market, I suppose.
+
+48
+00:02:57,760 --> 00:02:58,920
+Actually, it can't get that big.
+
+49
+00:02:58,920 --> 00:02:59,600
+You see,
+
+50
+00:02:59,600 --> 00:03:00,860
+there are a few trends.
+
+51
+00:03:02,440 --> 00:03:03,440
+Marriage e-commerce,
+
+52
+00:03:03,440 --> 00:03:04,880
+everything you can think of and use.
+
+53
+00:03:04,880 --> 00:03:05,800
+I think it's all doable.
+
+54
+00:03:05,800 --> 00:03:07,000
+I didn't quite get it.
+
+55
+00:03:07,000 --> 00:03:08,720
+Can you explain it to me again?
+
+56
+00:03:08,720 --> 00:03:09,760
+You can actually listen to me.
+
+57
+00:03:09,760 --> 00:03:11,160
+I've already summarized it all here.
+
+58
+00:03:11,160 --> 00:03:12,440
+He explained it very clearly.
+
+59
+00:03:12,440 --> 00:03:14,100
+We don't need you at all, okay?
+
+60
+00:03:14,600 --> 00:03:15,720
+Let me reiterate.
+
+61
+00:03:15,720 --> 00:03:17,650
+Our current research direction is
+
+62
+00:03:17,760 --> 00:03:20,090
+to feed massive user emotional data to AI,
+
+63
+00:03:20,360 --> 00:03:22,120
+train various models,
+
+64
+00:03:22,120 --> 00:03:23,200
+put them into the market,
+
+65
+00:03:23,200 --> 00:03:25,320
+and establish a marriage matching system.
+
+66
+00:03:25,320 --> 00:03:27,480
+Fellow students, when we go outdoor exploring,
+
+67
+00:03:27,480 --> 00:03:29,120
+the most important gear includes
+
+68
+00:03:29,120 --> 00:03:30,050
+trekking poles.
+
+69
+00:03:30,440 --> 00:03:31,720
+Trekking poles are very important.
+
+70
+00:03:31,720 --> 00:03:33,850
+They can ensure that during our climb,
+
+71
+00:03:34,040 --> 00:03:35,240
+we save our strength.
+
+72
+00:03:36,200 --> 00:03:37,000
+And our
+
+73
+00:03:37,400 --> 00:03:38,260
+climbing rope.
+
+74
+00:03:38,600 --> 00:03:40,329
+How do we use the climbing rope?
+
+75
+00:03:40,360 --> 00:03:42,480
+Wrap one end around our waist,
+
+76
+00:03:43,760 --> 00:03:45,960
+and tie the other end to the carabiner.
+
+77
+00:03:46,720 --> 00:03:47,720
+It is very sturdy.
+
+78
+00:03:48,320 --> 00:03:50,480
+So when we encounter danger,
+
+79
+00:03:50,480 --> 00:03:52,880
+we must act according to our capabilities.
+
+80
+00:03:53,440 --> 00:03:55,920
+There is another essential piece of equipment,
+
+81
+00:03:55,920 --> 00:03:56,640
+which is our
+
+82
+00:03:57,320 --> 00:03:58,120
+first aid kit.
+
+83
+00:03:59,560 --> 00:04:00,960
+During mountain climbing,
+
+84
+00:04:00,960 --> 00:04:02,890
+bumps and bruises are inevitable.
+
+85
+00:04:03,240 --> 00:04:05,400
+So we can pack some alcohol,
+
+86
+00:04:05,720 --> 00:04:07,450
+iodine, and band-aids inside.
+
+87
+00:04:08,240 --> 00:04:08,800
+Next up
+
+88
+00:04:09,120 --> 00:04:10,450
+is our hiking backpack.
+
+89
+00:04:10,720 --> 00:04:11,400
+Inside it,
+
+90
+00:04:11,640 --> 00:04:12,520
+you can pack some items.
+
+91
+00:04:12,520 --> 00:04:13,450
+Stop playing it.
+
+92
+00:04:13,800 --> 00:04:14,730
+Stop playing it.
+
+93
+00:04:15,080 --> 00:04:15,600
+Stop playing it.
+
+94
+00:04:15,600 --> 00:04:16,730
+Dating e-commerce.
+
+95
+00:04:16,760 --> 00:04:18,120
+Everything that girls think of
+
+96
+00:04:18,120 --> 00:04:19,000
+and use.
+
+97
+00:04:19,480 --> 00:04:19,760
+Stop.
+
+98
+00:04:19,760 --> 00:04:21,089
+Actually, you could say
+
+99
+00:04:21,240 --> 00:04:22,160
+I think dating isn't
+
+100
+00:04:22,160 --> 00:04:23,090
+Stop playing it.
+
+101
+00:04:23,360 --> 00:04:24,120
+It's not about you.
+
+102
+00:04:24,120 --> 00:04:24,880
+Stop talking.
+
+103
+00:04:24,880 --> 00:04:25,400
+He made it very clear,
+
+104
+00:04:25,400 --> 00:04:27,000
+and I understood it long ago.
+
+105
+00:04:27,200 --> 00:04:27,730
+Pei Ning,
+
+106
+00:04:27,760 --> 00:04:28,690
+you are so lucky.
+
+107
+00:04:28,840 --> 00:04:30,640
+You have such a capable brother.
+
+108
+00:04:30,640 --> 00:04:32,680
+You're practically Pei Song's mini-me.
+
+109
+00:04:32,680 --> 00:04:33,480
+Stop.
+
+110
+00:04:33,920 --> 00:04:35,960
+But the brother is still a bit more capable.
+
+111
+00:04:35,960 --> 00:04:37,640
+Pei Song is really good to you.
+
+112
+00:04:37,640 --> 00:04:38,760
+He gives in to you on everything.
+
+113
+00:04:38,760 --> 00:04:40,800
+In the future, the company's affairs will be left to your brother.
+
+114
+00:04:40,800 --> 00:04:41,730
+Stop playing it.
+
+115
+00:04:41,760 --> 00:04:43,220
+Just do whatever you want.
+
+116
+00:04:43,560 --> 00:04:44,490
+Stop playing it.
+
+117
+00:04:44,640 --> 00:04:46,280
+Stop.
+
+118
+00:04:46,280 --> 00:04:47,480
+Don't feel burdened.
+
+119
+00:04:48,920 --> 00:04:49,960
+It's okay, little brother.
+
+120
+00:04:49,960 --> 00:04:51,040
+Your brother is here.
+
+121
+00:04:51,040 --> 00:04:52,700
+You don't need to do anything.
+
+122
+00:04:55,000 --> 00:04:56,330
+I will protect you well.
+
+123
+00:04:57,920 --> 00:04:59,380
+Why hasn't it stopped yet?
+
+124
+00:05:01,000 --> 00:05:01,880
+Stop talking.
+
+125
+00:05:02,360 --> 00:05:02,960
+Stop.
+
+126
+00:05:03,640 --> 00:05:04,440
+Stop talking.
+
+127
+00:05:05,240 --> 00:05:05,920
+Stop.
+
+128
+00:05:06,840 --> 00:05:07,480
+Stop talking.
+
+129
+00:05:07,480 --> 00:05:08,680
+Don't feel burdened.
+
+130
+00:05:09,080 --> 00:05:11,160
+I will protect you well.
+
+131
+00:05:13,120 --> 00:05:13,800
+Stop.
+
+132
+00:05:14,320 --> 00:05:14,840
+Enough.
+
+133
+00:05:16,080 --> 00:05:16,600
+Enough.
+
+134
+00:05:16,880 --> 00:05:17,400
+Enough.
+
+135
+00:05:17,720 --> 00:05:19,800
+Make him stop.
+
+136
+00:05:20,080 --> 00:05:20,880
+Enough.
+
+137
+00:05:21,800 --> 00:05:23,260
+Why should you protect me?
+
+138
+00:05:23,520 --> 00:05:25,250
+I'm clearly stronger than you.
+
+139
+00:05:27,120 --> 00:05:28,520
+I'm stronger than you.
+
+140
+00:05:30,280 --> 00:05:31,880
+I'm stronger than you.
+
+141
+00:05:32,920 --> 00:05:34,320
+I'm stronger than you.
+
+142
+00:05:34,840 --> 00:05:36,100
+I'm stronger than you.
+
+143
+00:05:36,159 --> 00:05:37,560
+I'm stronger than you.
+
+144
+00:05:38,840 --> 00:05:40,100
+I'm stronger than you.
+
+145
+00:05:41,400 --> 00:05:42,720
+Pull yourself together.
+
+146
+00:05:42,720 --> 00:05:44,840
+We'll help you surpass Pei Song.
+
+147
+00:06:01,760 --> 00:06:02,480
+Shiya.
+
+148
+00:06:03,560 --> 00:06:04,800
+This AI system
+
+149
+00:06:05,000 --> 00:06:06,600
+is finally almost complete.
+
+150
+00:06:11,520 --> 00:06:12,760
+Then why,
+
+151
+00:06:13,240 --> 00:06:15,040
+why are you marrying my brother?
+
+152
+00:06:17,520 --> 00:06:19,000
+Do you also think
+
+153
+00:06:20,160 --> 00:06:21,760
+my brother is better than me?
+
+154
+00:06:22,520 --> 00:06:23,480
+Do you know how hard
+
+155
+00:06:23,480 --> 00:06:25,280
+I worked to develop this system?
+
+156
+00:06:26,360 --> 00:06:27,480
+You bastard.
+
+157
+00:06:27,880 --> 00:06:29,360
+This is an outrage.
+
+158
+00:06:29,720 --> 00:06:30,720
+You disgrace
+
+159
+00:06:31,080 --> 00:06:32,360
+our family.
+
+160
+00:06:32,600 --> 00:06:33,330
+No, Grandpa.
+
+161
+00:06:33,400 --> 00:06:34,130
+Listen to me.
+
+162
+00:06:34,320 --> 00:06:35,280
+It's not what you think.
+
+163
+00:06:35,280 --> 00:06:36,340
+I should never have
+
+164
+00:06:36,680 --> 00:06:38,120
+brought you home.
+
+165
+00:06:38,120 --> 00:06:39,080
+Grandpa, listen to me.
+
+166
+00:06:39,080 --> 00:06:40,640
+Get out of here.
+
+167
+00:06:41,320 --> 00:06:42,000
+Get out.
+
+168
+00:06:42,400 --> 00:06:43,159
+Grandpa, listen to me.
+
+169
+00:06:43,159 --> 00:06:43,620
+Get out!
+
+170
+00:06:43,960 --> 00:06:44,760
+Get out!
+
+171
+00:06:45,840 --> 00:06:46,680
+Get out!
+
+172
+00:06:47,560 --> 00:06:48,400
+Can you just listen to me?
+
+173
+00:06:48,400 --> 00:06:49,460
+You're killing me.
+
+174
+00:06:49,600 --> 00:06:51,000
+Can you just listen to me?
+
+175
+00:06:53,880 --> 00:06:55,810
+I'd rather die than be saved by you.
+
+176
+00:06:59,120 --> 00:07:00,200
+Since I was little,
+
+177
+00:07:01,400 --> 00:07:03,730
+my brother has gotten all the good things.
+
+178
+00:07:05,280 --> 00:07:07,120
+Wasn't he also adopted by you?
+
+179
+00:07:08,320 --> 00:07:10,440
+No matter how well I do, it's useless.
+
+180
+00:07:11,800 --> 00:07:12,880
+I just don't understand,
+
+181
+00:07:12,880 --> 00:07:14,520
+why you are so biased.
+
+182
+00:07:25,400 --> 00:07:25,920
+Shiya.
+
+183
+00:07:26,120 --> 00:07:26,920
+What's wrong?
+
+184
+00:07:28,640 --> 00:07:29,500
+Open it and see.
+
+185
+00:07:34,760 --> 00:07:35,920
+Your birthday is coming up.
+
+186
+00:07:35,920 --> 00:07:37,480
+I didn't know what you'd like,
+
+187
+00:07:37,480 --> 00:07:39,140
+so I picked out a watch for you.
+
+188
+00:08:28,400 --> 00:08:29,120
+Shiya,
+
+189
+00:08:29,720 --> 00:08:30,720
+I miss you so much.
+
+190
+00:08:32,679 --> 00:08:34,539
+Don't we see each other every day?
+
+191
+00:08:41,640 --> 00:08:42,320
+There are some things
+
+192
+00:08:42,320 --> 00:08:44,179
+I don't know how to explain to you.
+
+193
+00:08:44,280 --> 00:08:45,880
+But once I handle all of this,
+
+194
+00:08:46,400 --> 00:08:47,930
+I will tell you everything.
+
+195
+00:08:48,320 --> 00:08:49,320
+Until then,
+
+196
+00:08:50,080 --> 00:08:51,720
+you must be careful of Pei Ning.
+
+197
+00:08:51,720 --> 00:08:53,080
+Don't be alone with him.
+
+198
+00:08:54,400 --> 00:08:55,200
+Pei Ning.
+
+199
+00:09:06,680 --> 00:09:07,680
+Hello, Xiaoning.
+
+200
+00:09:07,680 --> 00:09:08,480
+What's wrong?
+
+201
+00:09:08,600 --> 00:09:09,360
+Hey, brother.
+
+202
+00:09:09,360 --> 00:09:09,890
+Bad news.
+
+203
+00:09:10,080 --> 00:09:10,960
+Grandpa fainted.
