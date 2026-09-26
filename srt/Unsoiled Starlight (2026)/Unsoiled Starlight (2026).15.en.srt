@@ -1,0 +1,804 @@
+1
+00:00:44,680 --> 00:00:45,630
+[Unsoiled Starlight]
+
+2
+00:00:45,660 --> 00:00:46,850
+[Episode 15]
+
+3
+00:00:46,880 --> 00:00:47,380
+[Adapted from Migu's novel
+“Unsoiled Starlight” ]
+
+4
+00:00:47,400 --> 00:00:47,960
+[Original Writer: Shan Gu Jun]
+
+5
+00:00:55,450 --> 00:00:56,400
+Tinglan.
+
+6
+00:01:03,320 --> 00:01:04,120
+Tinglan.
+
+7
+00:01:05,840 --> 00:01:06,570
+Lawyer Xiao.
+
+8
+00:01:06,800 --> 00:01:07,600
+I'm sorry.
+
+9
+00:01:07,760 --> 00:01:09,220
+I didn't hear you just now.
+
+10
+00:01:09,600 --> 00:01:11,400
+Why are you so absent-minded lately?
+
+11
+00:01:11,400 --> 00:01:12,930
+Is something wrong at home?
+
+12
+00:01:13,800 --> 00:01:15,160
+Maybe I just haven't been
+
+13
+00:01:15,160 --> 00:01:16,420
+sleeping well lately.
+
+14
+00:01:17,200 --> 00:01:18,860
+You've worked hard recently.
+
+15
+00:01:19,120 --> 00:01:20,200
+When the project is over,
+
+16
+00:01:20,200 --> 00:01:21,720
+I'll give you a few extra days off.
+
+17
+00:01:21,720 --> 00:01:22,710
+Thank you, Lawyer Xiao.
+
+18
+00:01:22,710 --> 00:01:23,200
+This...
+
+19
+00:01:24,320 --> 00:01:25,050
+Lawyer Xiao,
+
+20
+00:01:26,000 --> 00:01:27,240
+does your family use
+
+21
+00:01:27,240 --> 00:01:29,240
+Zhuoyuan Technology's products?
+
+22
+00:01:29,460 --> 00:01:30,360
+How do you feel?
+
+23
+00:01:32,000 --> 00:01:33,539
+I felt really good.
+
+24
+00:01:36,200 --> 00:01:38,120
+Ms. Wen said
+if there are any problems during use,
+
+25
+00:01:38,120 --> 00:01:39,640
+we can report them
+to the technical department,
+
+26
+00:01:39,640 --> 00:01:41,240
+and they will debug it again.
+
+27
+00:03:07,080 --> 00:03:08,000
+Zhao,
+
+28
+00:03:08,160 --> 00:03:10,120
+pull up last month's user error reports.
+
+29
+00:03:10,120 --> 00:03:10,650
+Let me take a look.
+
+30
+00:03:10,650 --> 00:03:11,480
+Okay, Ms. Wen.
+
+31
+00:03:13,290 --> 00:03:15,030
+[Check if the users have existed.]
+
+32
+00:03:15,050 --> 00:03:15,900
+[Check the password format]
+
+33
+00:03:16,400 --> 00:03:17,200
+Look, Ms. Wen.
+
+34
+00:03:18,079 --> 00:03:19,480
+What about this week's data?
+
+35
+00:03:19,480 --> 00:03:20,200
+Filter it separately.
+
+36
+00:03:20,200 --> 00:03:20,760
+Okay.
+
+37
+00:03:21,300 --> 00:03:22,040
+[Electronic Lock System is completed.]
+
+38
+00:03:22,040 --> 00:03:22,579
+[Verification user password is correct]
+
+39
+00:03:23,220 --> 00:03:24,079
+[function statement]
+
+40
+00:03:24,680 --> 00:03:25,560
+Ms. Wen.
+
+41
+00:03:34,320 --> 00:03:35,200
+Make a separate copy
+
+42
+00:03:35,200 --> 00:03:36,640
+of this week's data for me.
+
+43
+00:03:36,640 --> 00:03:37,320
+Well...
+
+44
+00:03:38,200 --> 00:03:40,000
+I need to take it with me to check.
+
+45
+00:03:40,400 --> 00:03:41,040
+Okay.
+
+46
+00:03:53,720 --> 00:03:54,560
+Done, Ms. Wen.
+
+47
+00:03:56,280 --> 00:03:56,880
+Thank you.
+
+48
+00:03:57,040 --> 00:03:57,970
+You're welcome.
+
+49
+00:05:02,490 --> 00:05:03,620
+[Let everyone
+enjoy the fun of technology.]
+
+50
+00:05:28,230 --> 00:05:29,070
+[Call] [Nannan]
+
+51
+00:05:29,100 --> 00:05:30,130
+[Nannan]
+
+52
+00:05:43,150 --> 00:05:45,750
+[Contact] [Zhuo Yu'an]
+
+53
+00:05:45,770 --> 00:05:48,230
+[Zhuo Yu'an]
+
+54
+00:05:51,210 --> 00:05:52,500
+[Tinglan]
+
+55
+00:05:59,720 --> 00:06:00,650
+Hello, Tinglan.
+
+56
+00:06:02,240 --> 00:06:03,770
+Why are you still up so late?
+
+57
+00:06:05,150 --> 00:06:05,910
+Hello.
+
+58
+00:06:06,160 --> 00:06:07,040
+Hello.
+
+59
+00:06:09,160 --> 00:06:10,420
+Did something happen?
+
+60
+00:06:11,450 --> 00:06:12,160
+Zhuo Yu'an.
+
+61
+00:06:12,480 --> 00:06:13,520
+Are you busy?
+
+62
+00:06:14,160 --> 00:06:15,960
+I'm on a business trip overseas.
+
+63
+00:06:17,960 --> 00:06:19,040
+Never mind then.
+
+64
+00:06:19,580 --> 00:06:20,560
+Get back to work.
+
+65
+00:06:20,790 --> 00:06:21,680
+Wait.
+
+66
+00:06:22,840 --> 00:06:23,840
+Did something happen
+
+67
+00:06:23,840 --> 00:06:25,040
+on your end?
+
+68
+00:06:34,800 --> 00:06:35,960
+Can you hear
+
+69
+00:06:36,140 --> 00:06:38,000
+my doorbell ringing constantly?
+
+70
+00:06:39,400 --> 00:06:40,659
+Not just the doorbell,
+
+71
+00:06:41,540 --> 00:06:43,000
+the TV is making noise too.
+
+72
+00:06:45,030 --> 00:06:46,000
+No.
+
+73
+00:06:46,280 --> 00:06:47,210
+Not in the house.
+
+74
+00:06:47,860 --> 00:06:49,120
+It's in my head.
+
+75
+00:06:54,710 --> 00:06:55,400
+Tinglan.
+
+76
+00:06:55,790 --> 00:06:57,120
+Calm down first.
+
+77
+00:07:02,960 --> 00:07:04,240
+Then I won't hang up.
+
+78
+00:07:05,150 --> 00:07:06,350
+Try to get some sleep.
+
+79
+00:07:06,910 --> 00:07:08,560
+I can't close my eyes.
+
+80
+00:07:09,200 --> 00:07:10,530
+Someone is watching me.
+
+81
+00:07:11,930 --> 00:07:12,600
+It's okay.
+
+82
+00:07:13,040 --> 00:07:14,570
+You don't have to sleep yet.
+
+83
+00:07:15,270 --> 00:07:17,070
+I'll stay here and chat with you.
+
+84
+00:07:17,480 --> 00:07:18,280
+Okay.
+
+85
+00:07:21,680 --> 00:07:23,160
+[Zhuo Yu'an]
+
+86
+00:07:22,330 --> 00:07:23,260
+Tinglan.
+
+87
+00:07:24,210 --> 00:07:25,950
+On my way to work today,
+
+88
+00:07:25,970 --> 00:07:27,240
+I saw a kind of bird.
+
+89
+00:07:27,720 --> 00:07:29,120
+It was a gray bird.
+
+90
+00:07:30,410 --> 00:07:32,080
+It flew past the car window
+
+91
+00:07:32,370 --> 00:07:34,120
+and quickly flew away.
+
+92
+00:07:36,020 --> 00:07:38,280
+It's not a bird we usually see in Senzhou,
+
+93
+00:07:39,420 --> 00:07:41,240
+but in Qining.
+
+94
+00:07:43,970 --> 00:07:45,570
+It always flies to our window
+
+95
+00:07:47,200 --> 00:07:48,680
+in the summer.
+
+96
+00:08:11,330 --> 00:08:13,340
+[Outpatient]
+
+97
+00:08:12,410 --> 00:08:13,870
+For the past month or so,
+
+98
+00:08:13,890 --> 00:08:16,460
+Have you been experiencing insomnia
+and auditory hallucinations?
+
+99
+00:08:16,460 --> 00:08:17,480
+Yes.
+
+100
+00:08:18,240 --> 00:08:19,970
+I have trouble falling asleep.
+
+101
+00:08:20,400 --> 00:08:21,560
+In the corners of my house,
+
+102
+00:08:21,560 --> 00:08:23,620
+I always feel like someone is hiding.
+
+103
+00:08:23,720 --> 00:08:25,050
+Sometimes when I go out,
+
+104
+00:08:25,480 --> 00:08:27,100
+I feel like they're following me.
+
+105
+00:08:27,100 --> 00:08:29,900
+Are there any major changes
+in your life recently?
+
+106
+00:08:33,080 --> 00:08:33,880
+Doctor,
+
+107
+00:08:35,640 --> 00:08:37,440
+my mom has this condition too.
+
+108
+00:08:37,830 --> 00:08:39,240
+Could it be hereditary?
+
+109
+00:08:40,240 --> 00:08:41,450
+Your mother's illness was caused by
+
+110
+00:08:41,450 --> 00:08:43,240
+external stimuli,
+
+111
+00:08:43,240 --> 00:08:44,570
+so it's not hereditary.
+
+112
+00:08:45,240 --> 00:08:46,800
+I can prescribe you some
+
+113
+00:08:46,960 --> 00:08:48,320
+tranquilizers.
+
+114
+00:08:48,570 --> 00:08:49,360
+When you have time,
+
+115
+00:08:49,360 --> 00:08:51,080
+go to the park to get some sun
+
+116
+00:08:51,080 --> 00:08:52,160
+and relax.
+
+117
+00:08:52,450 --> 00:08:54,430
+If the symptoms don't improve,
+
+118
+00:08:54,460 --> 00:08:55,920
+come back for a follow-up.
+
+119
+00:08:56,940 --> 00:08:57,640
+Yeah.
+
+120
+00:09:12,760 --> 00:09:14,280
+You've made a lot of progress lately.
+
+121
+00:09:14,280 --> 00:09:15,990
+Yeah, you skate pretty well too.
+
+122
+00:09:15,990 --> 00:09:17,790
+We can learn together next time.
+
+123
+00:09:33,830 --> 00:09:37,480
+♪ I'll wait for you in the crowd ♪
+
+124
+00:09:38,550 --> 00:09:44,260
+♪ Hearts in sync—how incredible ♪
+
+125
+00:09:41,270 --> 00:09:42,340
+Yi Muyang, what are you looking at?
+
+126
+00:09:42,340 --> 00:09:43,030
+Yi Muyang.
+
+127
+00:09:43,090 --> 00:09:43,840
+Yi Muyang!
+
+128
+00:09:45,490 --> 00:09:50,040
+♪ It's the cloak of a close embrace ♪
+
+129
+00:09:49,630 --> 00:09:50,520
+Hi
+
+130
+00:09:50,550 --> 00:09:56,020
+♪ It's the steadfast days and
+nights we share ♪
+
+131
+00:09:54,400 --> 00:09:55,460
+Do you remember me?
+
+132
+00:09:57,150 --> 00:10:02,310
+♪ When we weather the storm together,
+don't forget ♪
+
+133
+00:10:02,990 --> 00:10:07,530
+♪ Breathing in the long river of time ♪
+
+134
+00:10:03,690 --> 00:10:06,220
+You're the kind person
+in the street that day.
+
+135
+00:10:07,340 --> 00:10:08,680
+That's a unique nickname.
+
+136
+00:10:08,180 --> 00:10:13,660
+♪ My only promise is to you ♪
+
+137
+00:10:10,220 --> 00:10:11,350
+My name is Yi Muyang.
+
+138
+00:10:11,480 --> 00:10:13,080
+"Yang" means the rising sun.
+
+139
+00:10:15,890 --> 00:10:18,550
+♪ Between us ♪
+
+140
+00:10:18,790 --> 00:10:21,700
+♪ Suspicion feels so far away ♪
+
+141
+00:10:22,140 --> 00:10:27,560
+♪ When our eyes meet,
+I feel your burning gaze ♪
+
+142
+00:10:28,080 --> 00:10:31,060
+♪ The wind by the shore has stilled ♪
+
+143
+00:10:31,220 --> 00:10:32,200
+Thank you.
+
+144
+00:10:31,370 --> 00:10:33,880
+♪ And you're smiling too ♪
+
+145
+00:10:33,710 --> 00:10:34,800
+Are you okay?
+
+146
+00:10:34,360 --> 00:10:36,670
+♪ Make a wish to the wind ♪
+
+147
+00:10:37,040 --> 00:10:37,720
+You
+
+148
+00:10:37,070 --> 00:10:42,200
+♪ It's Cupid's arrow,
+set loose from the string ♪
+
+149
+00:10:38,030 --> 00:10:39,470
+don't live around here, do you?
+
+150
+00:10:39,470 --> 00:10:41,170
+I haven't seen you here before.
+
+151
+00:10:41,170 --> 00:10:41,760
+Right.
+
+152
+00:10:42,200 --> 00:10:43,760
+I came here on business today,
+
+153
+00:10:43,760 --> 00:10:44,960
+just to clear my mind.
+
+154
+00:10:45,220 --> 00:10:46,640
+You really should clear your mind.
+
+155
+00:10:46,640 --> 00:10:47,770
+Every time I see you,
+
+156
+00:10:48,620 --> 00:10:50,120
+you don't look very happy.
+
+157
+00:10:52,910 --> 00:10:56,610
+♪ I'll wait for you in the crowd ♪
+
+158
+00:10:54,000 --> 00:10:55,120
+Yi Muyang.
+
+159
+00:10:57,000 --> 00:10:58,120
+Want to try?
+
+160
+00:10:57,630 --> 00:11:02,850
+♪ Hearts in sync—how incredible ♪
+
+161
+00:10:58,120 --> 00:10:58,790
+Let me teach you
+
+162
+00:10:58,790 --> 00:10:59,570
+I...
+
+163
+00:11:02,300 --> 00:11:03,840
+You guys go ahead and play.
+
+164
+00:11:03,860 --> 00:11:05,520
+I'm really not good at sports.
+
+165
+00:11:04,570 --> 00:11:09,360
+♪ It's the familiar breath we share ♪
+
+166
+00:11:05,800 --> 00:11:07,290
+Are you sure you don't want to try?
+
+167
+00:11:07,290 --> 00:11:08,280
+It's a lot of fun.
+
+168
+00:11:09,600 --> 00:11:10,160
+Alright.
+
+169
+00:11:09,610 --> 00:11:14,900
+♪ It's being each other's exception ♪
+
+170
+00:11:10,400 --> 00:11:12,080
+Then watch me skate.
+
+171
+00:11:13,730 --> 00:11:14,720
+By the way,
+
+172
+00:11:15,400 --> 00:11:16,230
+what's your name?
+
+173
+00:11:16,230 --> 00:11:21,440
+♪ When tides ebb and flow, I look to you ♪
+
+174
+00:11:17,240 --> 00:11:18,600
+My name is Shu Tinglan.
+
+175
+00:11:19,050 --> 00:11:20,200
+Shu Tinglan.
+
+176
+00:11:22,070 --> 00:11:26,800
+♪ Drowning in the long river of time ♪
+
+177
+00:11:23,620 --> 00:11:25,520
+When I'm in a bad mood, I eat candy.
+
+178
+00:11:25,690 --> 00:11:27,270
+I feel much better after eating it.
+
+179
+00:11:27,270 --> 00:11:33,570
+♪ You're the only air I breathe ♪
+
+180
+00:11:28,600 --> 00:11:29,400
+Thank you.
+
+181
+00:11:34,980 --> 00:11:37,280
+♪ Between us ♪
+
+182
+00:11:37,830 --> 00:11:40,600
+♪ The image of us holding each other ♪
+
+183
+00:11:41,230 --> 00:11:46,670
+♪ I see the dream encounter of that day ♪
+
+184
+00:11:46,900 --> 00:11:49,930
+The rain outside the window stopped
+
+185
+00:11:50,200 --> 00:11:52,190
+We're still here
+
+186
+00:12:26,210 --> 00:12:27,100
+Tinglan
+
+187
+00:12:27,120 --> 00:12:28,190
+Tinglan!
+
+188
+00:12:28,210 --> 00:12:29,640
+Tinglan!
+
+189
+00:12:37,000 --> 00:12:37,840
+Be careful!
+
+190
+00:12:40,110 --> 00:12:43,960
+♪ Then I met you, in this moment ♪
+
+191
+00:12:44,050 --> 00:12:47,100
+♪ Like drifting into a dream ♪
+
+192
+00:12:47,740 --> 00:12:53,030
+♪ In the dream, stars carry a boat
+toward the shore ♪
+
+193
+00:12:53,530 --> 00:12:56,360
+♪ Your faint light lingers ♪
+
+194
+00:12:56,740 --> 00:13:00,750
+♪ Spreading a warm current
+through my heart ♪
+
+195
+00:13:00,960 --> 00:13:03,260
+♪ Our eyes meet ♪
+
+196
+00:13:03,940 --> 00:13:07,290
+♪ Bit by bit, healing the wounds ♪
+
+197
+00:13:09,020 --> 00:13:11,660
+♪ I fear when the dream ends ♪
+
+198
+00:13:12,530 --> 00:13:15,390
+♪ I'll have to let go of that tenderness ♪
