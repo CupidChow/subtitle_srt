@@ -1,0 +1,4374 @@
+1
+00:00:06,580 --> 00:00:07,980
+<font face="Noto Sans S Chinese Regular"><font size="22">[Respect Copyright; Everyone's Responsibility]</font></font>
+
+2
+00:00:08,360 --> 00:00:09,800
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Data is screaming♪</font></font>
+
+3
+00:00:09,800 --> 00:00:11,330
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Proposals are burning♪</font></font>
+
+4
+00:00:11,330 --> 00:00:13,200
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I deconstruct the world's algorithms♪</font></font>
+
+5
+00:00:13,200 --> 00:00:14,900
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Only never counting the heartbeat♪</font></font>
+
+6
+00:00:14,900 --> 00:00:17,160
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Whose perfect smile is reflected in the glass?♪</font></font>
+
+7
+00:00:17,160 --> 00:00:18,760
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Treading on shadows as I run ahead♪</font></font>
+
+8
+00:00:18,760 --> 00:00:20,300
+<font face="Noto Sans S Chinese Regular"><font size="22">♪There's no time to fall♪</font></font>
+
+9
+00:00:20,330 --> 00:00:23,000
+<font face="Noto Sans S Chinese Regular"><font size="22">♪They say gears should be obedient♪</font></font>
+
+10
+00:00:23,100 --> 00:00:25,660
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Yet I insist on being the offbeat stopwatch♪</font></font>
+
+11
+00:00:25,800 --> 00:00:29,040
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Planting my own pride in the cracks of the rules♪</font></font>
+
+12
+00:00:29,200 --> 00:00:31,800
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Waiting for the night to grow its dawn♪</font></font>
+
+13
+00:00:33,200 --> 00:00:35,930
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I am my own irreplaceable coordinate♪</font></font>
+
+14
+00:00:35,930 --> 00:00:37,280
+<font face="Noto Sans S Chinese Regular"><font size="22">♪No claimed ground, no comparison♪</font></font>
+
+15
+00:00:37,280 --> 00:00:38,660
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I won't be anyone's footnote♪</font></font>
+
+16
+00:00:38,660 --> 00:00:40,040
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Though there are thousand of templates♪</font></font>
+
+17
+00:00:40,040 --> 00:00:41,730
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I choose only the sharpest second♪</font></font>
+
+18
+00:00:41,730 --> 00:00:44,100
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Answering life as my own thinking question♪</font></font>
+
+19
+00:00:44,100 --> 00:00:46,860
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I am my own never-landing beacon♪</font></font>
+
+20
+00:00:46,860 --> 00:00:48,320
+<font face="Noto Sans S Chinese Regular"><font size="22">♪No borrowed light, no offered prayer♪</font></font>
+
+21
+00:00:48,320 --> 00:00:49,530
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I won't believe in anyone's castle♪</font></font>
+
+22
+00:00:49,530 --> 00:00:50,960
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Even if the world is an exam hall♪</font></font>
+
+23
+00:00:50,960 --> 00:00:52,800
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I'll hand in early and run away♪</font></font>
+
+24
+00:00:52,800 --> 00:00:54,100
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Writing in one single line for the answer♪</font></font>
+
+25
+00:00:54,460 --> 00:00:55,820
+<font face="Noto Sans S Chinese Regular"><font size="22">♪"I dare to claim it!"♪</font></font>
+
+26
+00:01:05,440 --> 00:01:07,860
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I am my own irreplaceable coordinate♪</font></font>
+
+27
+00:01:07,860 --> 00:01:09,400
+<font face="Noto Sans S Chinese Regular"><font size="22">♪No substitute, no imitation♪</font></font>
+
+28
+00:01:09,400 --> 00:01:10,560
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I won't trade for anyone's glory♪</font></font>
+
+29
+00:01:10,560 --> 00:01:12,040
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Though there are thousands of echoes♪</font></font>
+
+30
+00:01:12,040 --> 00:01:13,700
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I listen only to the loneliest second♪</font></font>
+
+31
+00:01:13,700 --> 00:01:16,000
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Walking life into my own exclamation mark♪</font></font>
+
+32
+00:01:16,000 --> 00:01:18,760
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I am my own never-extinguishing lamp♪</font></font>
+
+33
+00:01:18,760 --> 00:01:20,360
+<font face="Noto Sans S Chinese Regular"><font size="22">♪No wind‑borne drift, no shore‑bound rest♪</font></font>
+
+34
+00:01:20,360 --> 00:01:21,700
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I won't linger in anyone's course♪</font></font>
+
+35
+00:01:21,700 --> 00:01:23,160
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Even if there are millions of scripts♪</font></font>
+
+36
+00:01:23,160 --> 00:01:24,960
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I'll tear them up and rewrite today♪</font></font>
+
+37
+00:01:24,960 --> 00:01:26,060
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Signing the signature at the end with only♪</font></font>
+
+38
+00:01:26,380 --> 00:01:27,740
+<font face="Noto Sans S Chinese Regular"><font size="22">♪"I create it!"♪</font></font>
+
+39
+00:01:33,400 --> 00:01:37,980
+<font face="Noto Sans S Chinese Regular"><font size="22">[Irreplaceable]</font></font>
+
+40
+00:01:37,980 --> 00:01:40,980
+<font face="Noto Sans S Chinese Regular"><font size="22">[Episode 19]</font></font>
+
+41
+00:01:47,980 --> 00:01:49,860
+<font face="Noto Sans S Chinese Regular"><font size="22">[Organizational Efficiency Push. Process Efficiency Diagram]</font></font>
+
+42
+00:01:55,790 --> 00:01:56,210
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Bu,</font></font>
+
+43
+00:01:56,790 --> 00:01:58,020
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna's strategic analysis skills</font></font>
+
+44
+00:01:58,070 --> 00:01:58,980
+<font face="Noto Sans S Chinese Regular"><font size="22">are outstanding.</font></font>
+
+45
+00:02:00,070 --> 00:02:01,570
+<font face="Noto Sans S Chinese Regular"><font size="22">If she hadn't left Maxmise,</font></font>
+
+46
+00:02:02,790 --> 00:02:04,460
+<font face="Noto Sans S Chinese Regular"><font size="22">she'd have been the first among us</font></font>
+
+47
+00:02:04,510 --> 00:02:05,770
+<font face="Noto Sans S Chinese Regular"><font size="22">to make partner.</font></font>
+
+48
+00:02:08,190 --> 00:02:09,540
+<font face="Noto Sans S Chinese Regular"><font size="22">With any other entrepreneur,</font></font>
+
+49
+00:02:09,590 --> 00:02:11,100
+<font face="Noto Sans S Chinese Regular"><font size="22">having a successor this good</font></font>
+
+50
+00:02:12,030 --> 00:02:13,340
+<font face="Noto Sans S Chinese Regular"><font size="22">would make them ecstatic.</font></font>
+
+51
+00:02:15,680 --> 00:02:16,610
+<font face="Noto Sans S Chinese Regular"><font size="22">So why haven't you ever</font></font>
+
+52
+00:02:18,870 --> 00:02:19,660
+<font face="Noto Sans S Chinese Regular"><font size="22">put her</font></font>
+
+53
+00:02:19,710 --> 00:02:20,850
+<font face="Noto Sans S Chinese Regular"><font size="22">in a key position?</font></font>
+
+54
+00:02:22,910 --> 00:02:23,410
+<font face="Noto Sans S Chinese Regular"><font size="22">Go on.</font></font>
+
+55
+00:02:26,400 --> 00:02:27,130
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna blames it all</font></font>
+
+56
+00:02:27,150 --> 00:02:28,410
+<font face="Noto Sans S Chinese Regular"><font size="22">on you favoring boys over girls.</font></font>
+
+57
+00:02:29,400 --> 00:02:30,450
+<font face="Noto Sans S Chinese Regular"><font size="22">I actually think</font></font>
+
+58
+00:02:32,000 --> 00:02:32,820
+<font face="Noto Sans S Chinese Regular"><font size="22">you're afraid.</font></font>
+
+59
+00:02:35,030 --> 00:02:36,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Buffett worked until 90</font></font>
+
+60
+00:02:36,960 --> 00:02:37,660
+<font face="Noto Sans S Chinese Regular"><font size="22">and never handed over power.</font></font>
+
+61
+00:02:39,000 --> 00:02:40,010
+<font face="Noto Sans S Chinese Regular"><font size="22">You're not even 60.</font></font>
+
+62
+00:02:41,630 --> 00:02:42,690
+<font face="Noto Sans S Chinese Regular"><font size="22">I think there's only one reason.</font></font>
+
+63
+00:02:43,430 --> 00:02:45,780
+<font face="Noto Sans S Chinese Regular"><font size="22">You don't want to name a successor too early.</font></font>
+
+64
+00:02:50,590 --> 00:02:51,450
+<font face="Noto Sans S Chinese Regular"><font size="22">The more outstanding</font></font>
+
+65
+00:02:52,080 --> 00:02:52,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna becomes,</font></font>
+
+66
+00:02:53,520 --> 00:02:55,100
+<font face="Noto Sans S Chinese Regular"><font size="22">and the more determined she is to do well at Siwei,</font></font>
+
+67
+00:02:55,310 --> 00:02:56,060
+<font face="Noto Sans S Chinese Regular"><font size="22">the more worried you get.</font></font>
+
+68
+00:02:56,800 --> 00:02:58,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Because she's basically</font></font>
+
+69
+00:02:59,710 --> 00:03:00,610
+<font face="Noto Sans S Chinese Regular"><font size="22">telling you</font></font>
+
+70
+00:03:01,400 --> 00:03:02,130
+<font face="Noto Sans S Chinese Regular"><font size="22">you're getting older.</font></font>
+
+71
+00:03:03,030 --> 00:03:04,170
+<font face="Noto Sans S Chinese Regular"><font size="22">And in a few years,</font></font>
+
+72
+00:03:06,030 --> 00:03:08,010
+<font face="Noto Sans S Chinese Regular"><font size="22">the next generation might replace you.</font></font>
+
+73
+00:03:08,680 --> 00:03:09,410
+<font face="Noto Sans S Chinese Regular"><font size="22">That's why</font></font>
+
+74
+00:03:10,280 --> 00:03:12,130
+<font face="Noto Sans S Chinese Regular"><font size="22">you've always spoiled Tianjie on purpose.</font></font>
+
+75
+00:03:12,590 --> 00:03:14,570
+<font face="Noto Sans S Chinese Regular"><font size="22">You quietly hint to the higher-ups</font></font>
+
+76
+00:03:14,630 --> 00:03:16,730
+<font face="Noto Sans S Chinese Regular"><font size="22">that Tianjie is your successor.</font></font>
+
+77
+00:03:18,000 --> 00:03:19,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Because you know perfectly well</font></font>
+
+78
+00:03:20,800 --> 00:03:22,410
+<font face="Noto Sans S Chinese Regular"><font size="22">that for the next 20 years, until Tianjie is</font></font>
+
+79
+00:03:22,470 --> 00:03:23,690
+<font face="Noto Sans S Chinese Regular"><font size="22">the same age Tianna is now,</font></font>
+
+80
+00:03:24,840 --> 00:03:26,100
+<font face="Noto Sans S Chinese Regular"><font size="22">you need to keep</font></font>
+
+81
+00:03:27,590 --> 00:03:29,850
+<font face="Noto Sans S Chinese Regular"><font size="22">Siwei's power firmly in your own hands.</font></font>
+
+82
+00:03:36,080 --> 00:03:36,500
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Bu,</font></font>
+
+83
+00:03:37,680 --> 00:03:38,780
+<font face="Noto Sans S Chinese Regular"><font size="22">if you want the business to last,</font></font>
+
+84
+00:03:39,960 --> 00:03:42,010
+<font face="Noto Sans S Chinese Regular"><font size="22">you have to focus on building a management pipeline.</font></font>
+
+85
+00:03:43,000 --> 00:03:43,690
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna has</font></font>
+
+86
+00:03:43,750 --> 00:03:44,730
+<font face="Noto Sans S Chinese Regular"><font size="22">zero sense of security.</font></font>
+
+87
+00:03:45,960 --> 00:03:48,820
+<font face="Noto Sans S Chinese Regular"><font size="22">All her arrogance and anger</font></font>
+
+88
+00:03:50,470 --> 00:03:51,570
+<font face="Noto Sans S Chinese Regular"><font size="22">really come down to one thing.</font></font>
+
+89
+00:03:54,310 --> 00:03:55,060
+<font face="Noto Sans S Chinese Regular"><font size="22">She's scared</font></font>
+
+90
+00:03:56,750 --> 00:03:58,290
+<font face="Noto Sans S Chinese Regular"><font size="22">that one day you'll stop loving her.</font></font>
+
+91
+00:03:59,400 --> 00:04:00,130
+<font face="Noto Sans S Chinese Regular"><font size="22">Or</font></font>
+
+92
+00:04:01,840 --> 00:04:03,380
+<font face="Noto Sans S Chinese Regular"><font size="22">she's scared of being replaced</font></font>
+
+93
+00:04:03,870 --> 00:04:04,540
+<font face="Noto Sans S Chinese Regular"><font size="22">by her brother.</font></font>
+
+94
+00:04:08,630 --> 00:04:09,380
+<font face="Noto Sans S Chinese Regular"><font size="22">You love Tianna</font></font>
+
+95
+00:04:10,280 --> 00:04:11,890
+<font face="Noto Sans S Chinese Regular"><font size="22">more than I ever could.</font></font>
+
+96
+00:04:12,630 --> 00:04:13,410
+<font face="Noto Sans S Chinese Regular"><font size="22">But no matter what,</font></font>
+
+97
+00:04:13,470 --> 00:04:14,660
+<font face="Noto Sans S Chinese Regular"><font size="22">I still need to remind you,</font></font>
+
+98
+00:04:15,800 --> 00:04:17,020
+<font face="Noto Sans S Chinese Regular"><font size="22">the heart is flesh,</font></font>
+
+99
+00:04:17,480 --> 00:04:17,930
+<font face="Noto Sans S Chinese Regular"><font size="22">not steel.</font></font>
+
+100
+00:04:18,750 --> 00:04:19,780
+<font face="Noto Sans S Chinese Regular"><font size="22">You can forge and temper steel,</font></font>
+
+101
+00:04:21,360 --> 00:04:22,930
+<font face="Noto Sans S Chinese Regular"><font size="22">but once a heart breaks,</font></font>
+
+102
+00:04:24,800 --> 00:04:25,810
+<font face="Noto Sans S Chinese Regular"><font size="22">it never heals.</font></font>
+
+103
+00:04:32,000 --> 00:04:32,730
+<font face="Noto Sans S Chinese Regular"><font size="22">That hurts.</font></font>
+
+104
+00:04:32,870 --> 00:04:33,580
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you okay,</font></font>
+
+105
+00:04:33,920 --> 00:04:34,340
+<font face="Noto Sans S Chinese Regular"><font size="22">Jie?</font></font>
+
+106
+00:04:34,920 --> 00:04:36,340
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm fine.</font></font>
+
+107
+00:04:36,510 --> 00:04:38,460
+<font face="Noto Sans S Chinese Regular"><font size="22">If he doesn't like it, don't force him.</font></font>
+
+108
+00:04:38,630 --> 00:04:39,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Who's forcing him?</font></font>
+
+109
+00:04:40,480 --> 00:04:41,660
+<font face="Noto Sans S Chinese Regular"><font size="22">He insists on practicing.</font></font>
+
+110
+00:04:42,040 --> 00:04:43,580
+<font face="Noto Sans S Chinese Regular"><font size="22">The more it hurts, the more he goes at it.</font></font>
+
+111
+00:04:45,510 --> 00:04:46,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Jie,</font></font>
+
+112
+00:04:46,830 --> 00:04:47,810
+<font face="Noto Sans S Chinese Regular"><font size="22">do you really like it that much?</font></font>
+
+113
+00:04:48,870 --> 00:04:49,900
+<font face="Noto Sans S Chinese Regular"><font size="22">When I grow up,</font></font>
+
+114
+00:04:50,240 --> 00:04:51,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I wanna compete,</font></font>
+
+115
+00:04:51,480 --> 00:04:53,370
+<font face="Noto Sans S Chinese Regular"><font size="22">make the Olympics, and win glory for the country.</font></font>
+
+116
+00:04:54,480 --> 00:04:54,930
+<font face="Noto Sans S Chinese Regular"><font size="22">Jie,</font></font>
+
+117
+00:04:55,390 --> 00:04:55,980
+<font face="Noto Sans S Chinese Regular"><font size="22">don't talk nonsense.</font></font>
+
+118
+00:04:56,310 --> 00:04:57,490
+<font face="Noto Sans S Chinese Regular"><font size="22">You need to study hard.</font></font>
+
+119
+00:04:57,920 --> 00:04:59,660
+<font face="Noto Sans S Chinese Regular"><font size="22">That way, when you're older, you can be Dad's right-hand man.</font></font>
+
+120
+00:05:00,240 --> 00:05:01,730
+<font face="Noto Sans S Chinese Regular"><font size="22">I don't wanna be busy</font></font>
+
+121
+00:05:01,800 --> 00:05:02,730
+<font face="Noto Sans S Chinese Regular"><font size="22">like Tianna.</font></font>
+
+122
+00:05:02,870 --> 00:05:04,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Studying's exhausting.</font></font>
+
+123
+00:05:04,360 --> 00:05:05,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I just wanna play.</font></font>
+
+124
+00:05:06,630 --> 00:05:07,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Watch out!</font></font>
+
+125
+00:05:07,430 --> 00:05:08,100
+<font face="Noto Sans S Chinese Regular"><font size="22">Move, you two.</font></font>
+
+126
+00:05:14,000 --> 00:05:15,020
+<font face="Noto Sans S Chinese Regular"><font size="22">Didn't you say their school</font></font>
+
+127
+00:05:15,070 --> 00:05:16,810
+<font face="Noto Sans S Chinese Regular"><font size="22">did a potential model test on him?</font></font>
+
+128
+00:05:17,190 --> 00:05:17,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Let me see.</font></font>
+
+129
+00:05:18,870 --> 00:05:19,930
+<font face="Noto Sans S Chinese Regular"><font size="22">He's still little.</font></font>
+
+130
+00:05:19,950 --> 00:05:20,780
+<font face="Noto Sans S Chinese Regular"><font size="22">It doesn't count.</font></font>
+
+131
+00:05:21,360 --> 00:05:22,540
+<font face="Noto Sans S Chinese Regular"><font size="22">Just let me see.</font></font>
+
+132
+00:05:26,160 --> 00:05:26,540
+<font face="Noto Sans S Chinese Regular"><font size="22">This...</font></font>
+
+133
+00:05:26,800 --> 00:05:27,170
+<font face="Noto Sans S Chinese Regular"><font size="22">Not really...</font></font>
+
+134
+00:05:30,680 --> 00:05:31,490
+<font face="Noto Sans S Chinese Regular"><font size="22">What's this?</font></font>
+
+135
+00:05:31,950 --> 00:05:33,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Linguistic aptitude, logical aptitude,</font></font>
+
+136
+00:05:33,310 --> 00:05:34,460
+<font face="Noto Sans S Chinese Regular"><font size="22">and management skills are all average.</font></font>
+
+137
+00:05:35,240 --> 00:05:35,700
+<font face="Noto Sans S Chinese Regular"><font size="22">But</font></font>
+
+138
+00:05:36,120 --> 00:05:38,140
+<font face="Noto Sans S Chinese Regular"><font size="22">spatial ability and athletic ability are outstanding.</font></font>
+
+139
+00:05:45,190 --> 00:05:46,170
+<font face="Noto Sans S Chinese Regular"><font size="22">Do you really think</font></font>
+
+140
+00:05:46,600 --> 00:05:47,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianjie is more suited</font></font>
+
+141
+00:05:48,000 --> 00:05:49,730
+<font face="Noto Sans S Chinese Regular"><font size="22">to take over Siwei Group than Tianna?</font></font>
+
+142
+00:05:50,160 --> 00:05:51,810
+<font face="Noto Sans S Chinese Regular"><font size="22">If those two ever turn on each other,</font></font>
+
+143
+00:05:53,040 --> 00:05:53,850
+<font face="Noto Sans S Chinese Regular"><font size="22">can you really</font></font>
+
+144
+00:05:57,630 --> 00:05:58,930
+<font face="Noto Sans S Chinese Regular"><font size="22">live out your later years happily?</font></font>
+
+145
+00:06:14,270 --> 00:06:15,410
+<font face="Noto Sans S Chinese Regular"><font size="22">There's a full team meeting tomorrow morning.</font></font>
+
+146
+00:06:15,720 --> 00:06:16,700
+<font face="Noto Sans S Chinese Regular"><font size="22">We'll go over the project proposal.</font></font>
+
+147
+00:06:16,800 --> 00:06:17,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Is 10:30 okay for you?</font></font>
+
+148
+00:06:18,750 --> 00:06:19,170
+<font face="Noto Sans S Chinese Regular"><font size="22">Chi?</font></font>
+
+149
+00:06:21,600 --> 00:06:22,140
+<font face="Noto Sans S Chinese Regular"><font size="22">Chi?</font></font>
+
+150
+00:06:25,270 --> 00:06:26,780
+<font face="Noto Sans S Chinese Regular"><font size="22">I zoned out. What were you saying?</font></font>
+
+151
+00:06:30,720 --> 00:06:31,290
+<font face="Noto Sans S Chinese Regular"><font size="22">What's wrong?</font></font>
+
+152
+00:06:32,510 --> 00:06:33,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you just too tired?</font></font>
+
+153
+00:06:34,190 --> 00:06:34,930
+<font face="Noto Sans S Chinese Regular"><font size="22">No.</font></font>
+
+154
+00:06:36,750 --> 00:06:38,410
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna and Zhao Heng are going through a breakup.</font></font>
+
+155
+00:06:38,870 --> 00:06:40,610
+<font face="Noto Sans S Chinese Regular"><font size="22">Zhao Heng's about to go on a long business trip to South America.</font></font>
+
+156
+00:06:40,680 --> 00:06:41,610
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm a little worried about them.</font></font>
+
+157
+00:06:44,600 --> 00:06:45,610
+<font face="Noto Sans S Chinese Regular"><font size="22">From my experience,</font></font>
+
+158
+00:06:46,000 --> 00:06:47,100
+<font face="Noto Sans S Chinese Regular"><font size="22">even with your best friends,</font></font>
+
+159
+00:06:47,510 --> 00:06:48,610
+<font face="Noto Sans S Chinese Regular"><font size="22">when it comes to stuff like this,</font></font>
+
+160
+00:06:48,830 --> 00:06:50,100
+<font face="Noto Sans S Chinese Regular"><font size="22">it's best to just listen.</font></font>
+
+161
+00:06:51,630 --> 00:06:53,140
+<font face="Noto Sans S Chinese Regular"><font size="22">Whatever you do, don't give a strong opinion.</font></font>
+
+162
+00:06:53,600 --> 00:06:54,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Otherwise, whether they</font></font>
+
+163
+00:06:54,630 --> 00:06:55,220
+<font face="Noto Sans S Chinese Regular"><font size="22">get back together</font></font>
+
+164
+00:06:55,270 --> 00:06:56,140
+<font face="Noto Sans S Chinese Regular"><font size="22">or break up later,</font></font>
+
+165
+00:06:56,950 --> 00:06:57,900
+<font face="Noto Sans S Chinese Regular"><font size="22">you'll be stuck in the middle</font></font>
+
+166
+00:06:58,000 --> 00:06:58,700
+<font face="Noto Sans S Chinese Regular"><font size="22">and get on both their bad sides.</font></font>
+
+167
+00:06:59,120 --> 00:07:00,540
+<font face="Noto Sans S Chinese Regular"><font size="22">But I don't wanna do that.</font></font>
+
+168
+00:07:01,270 --> 00:07:02,850
+<font face="Noto Sans S Chinese Regular"><font size="22">That safe, cautious approach</font></font>
+
+169
+00:07:02,920 --> 00:07:04,020
+<font face="Noto Sans S Chinese Regular"><font size="22">feels outdated to me.</font></font>
+
+170
+00:07:04,310 --> 00:07:04,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Look,</font></font>
+
+171
+00:07:05,000 --> 00:07:06,490
+<font face="Noto Sans S Chinese Regular"><font size="22">clients pick a consulting firm</font></font>
+
+172
+00:07:06,560 --> 00:07:07,730
+<font face="Noto Sans S Chinese Regular"><font size="22">because they want a clear stance</font></font>
+
+173
+00:07:07,800 --> 00:07:08,700
+<font face="Noto Sans S Chinese Regular"><font size="22">and a definitive opinion.</font></font>
+
+174
+00:07:09,160 --> 00:07:09,930
+<font face="Noto Sans S Chinese Regular"><font size="22">So as a friend,</font></font>
+
+175
+00:07:10,000 --> 00:07:11,660
+<font face="Noto Sans S Chinese Regular"><font size="22">if I'm all wishy-washy right now,</font></font>
+
+176
+00:07:12,600 --> 00:07:14,050
+<font face="Noto Sans S Chinese Regular"><font size="22">I feel like a bad friend.</font></font>
+
+177
+00:07:16,270 --> 00:07:18,170
+<font face="Noto Sans S Chinese Regular"><font size="22">Even if I get on both their bad sides,</font></font>
+
+178
+00:07:18,430 --> 00:07:19,490
+<font face="Noto Sans S Chinese Regular"><font size="22">that's a problem for later, right?</font></font>
+
+179
+00:07:20,600 --> 00:07:21,730
+<font face="Noto Sans S Chinese Regular"><font size="22">But now it's killing me to just sit here</font></font>
+
+180
+00:07:21,830 --> 00:07:22,460
+<font face="Noto Sans S Chinese Regular"><font size="22">and do nothing.</font></font>
+
+181
+00:07:27,310 --> 00:07:28,020
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm gonna go make a call.</font></font>
+
+182
+00:07:28,070 --> 00:07:29,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Give me ten minutes, and I'll be back to work.</font></font>
+
+183
+00:07:46,120 --> 00:07:47,560
+<font face="Noto Sans S Chinese Regular"><font size="22">[Xu Chi]</font></font>
+
+184
+00:07:55,950 --> 00:07:56,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Hello?</font></font>
+
+185
+00:07:56,600 --> 00:07:57,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you at the airport?</font></font>
+
+186
+00:07:57,920 --> 00:07:58,900
+<font face="Noto Sans S Chinese Regular"><font size="22">You know that too?</font></font>
+
+187
+00:07:59,920 --> 00:08:00,610
+<font face="Noto Sans S Chinese Regular"><font size="22">You want me to bring you back</font></font>
+
+188
+00:08:00,680 --> 00:08:01,540
+<font face="Noto Sans S Chinese Regular"><font size="22">souvenirs from South America?</font></font>
+
+189
+00:08:02,000 --> 00:08:02,780
+<font face="Noto Sans S Chinese Regular"><font size="22">Be honest with me,</font></font>
+
+190
+00:08:03,240 --> 00:08:04,170
+<font face="Noto Sans S Chinese Regular"><font size="22">when you picked up my call,</font></font>
+
+191
+00:08:04,190 --> 00:08:05,170
+<font face="Noto Sans S Chinese Regular"><font size="22">were you really disappointed?</font></font>
+
+192
+00:08:05,630 --> 00:08:06,730
+<font face="Noto Sans S Chinese Regular"><font size="22">You were hoping</font></font>
+
+193
+00:08:06,750 --> 00:08:07,850
+<font face="Noto Sans S Chinese Regular"><font size="22">it was Tianna calling, right?</font></font>
+
+194
+00:08:10,510 --> 00:08:12,170
+<font face="Noto Sans S Chinese Regular"><font size="22">She won't. With that temper of hers...</font></font>
+
+195
+00:08:12,240 --> 00:08:13,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Zhao Heng, listen to me.</font></font>
+
+196
+00:08:13,680 --> 00:08:14,850
+<font face="Noto Sans S Chinese Regular"><font size="22">We all want equality</font></font>
+
+197
+00:08:14,920 --> 00:08:15,730
+<font face="Noto Sans S Chinese Regular"><font size="22">in love.</font></font>
+
+198
+00:08:15,800 --> 00:08:17,170
+<font face="Noto Sans S Chinese Regular"><font size="22">We all want to be evenly matched.</font></font>
+
+199
+00:08:18,160 --> 00:08:18,900
+<font face="Noto Sans S Chinese Regular"><font size="22">But let me ask you,</font></font>
+
+200
+00:08:19,950 --> 00:08:21,540
+<font face="Noto Sans S Chinese Regular"><font size="22">are you actually on equal footing with Tianna?</font></font>
+
+201
+00:08:22,240 --> 00:08:23,410
+<font face="Noto Sans S Chinese Regular"><font size="22">You know her weak spot</font></font>
+
+202
+00:08:23,480 --> 00:08:24,490
+<font face="Noto Sans S Chinese Regular"><font size="22">is that she never felt secure</font></font>
+
+203
+00:08:24,600 --> 00:08:25,370
+<font face="Noto Sans S Chinese Regular"><font size="22">in her own family.</font></font>
+
+204
+00:08:25,680 --> 00:08:26,100
+<font face="Noto Sans S Chinese Regular"><font size="22">And yet</font></font>
+
+205
+00:08:26,750 --> 00:08:27,580
+<font face="Noto Sans S Chinese Regular"><font size="22">you went and did</font></font>
+
+206
+00:08:27,600 --> 00:08:28,700
+<font face="Noto Sans S Chinese Regular"><font size="22">the one thing she hates most,</font></font>
+
+207
+00:08:28,750 --> 00:08:30,370
+<font face="Noto Sans S Chinese Regular"><font size="22">and then expected her to treat you rationally.</font></font>
+
+208
+00:08:30,950 --> 00:08:32,100
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna was with me</font></font>
+
+209
+00:08:32,150 --> 00:08:32,980
+<font face="Noto Sans S Chinese Regular"><font size="22">before she came to find you.</font></font>
+
+210
+00:08:33,550 --> 00:08:34,530
+<font face="Noto Sans S Chinese Regular"><font size="22">She thought</font></font>
+
+211
+00:08:34,600 --> 00:08:35,460
+<font face="Noto Sans S Chinese Regular"><font size="22">her dad was riding you hard again,</font></font>
+
+212
+00:08:35,510 --> 00:08:36,100
+<font face="Noto Sans S Chinese Regular"><font size="22">and she panicked.</font></font>
+
+213
+00:08:36,480 --> 00:08:37,370
+<font face="Noto Sans S Chinese Regular"><font size="22">She almost twisted her ankle</font></font>
+
+214
+00:08:37,440 --> 00:08:38,340
+<font face="Noto Sans S Chinese Regular"><font size="22">running to the parking lot.</font></font>
+
+215
+00:08:38,390 --> 00:08:39,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Did you know that?</font></font>
+
+216
+00:08:40,240 --> 00:08:41,370
+<font face="Noto Sans S Chinese Regular"><font size="22">You said you lost the bet.</font></font>
+
+217
+00:08:42,360 --> 00:08:43,770
+<font face="Noto Sans S Chinese Regular"><font size="22">Zhao Heng, is it really all or nothing for you</font></font>
+
+218
+00:08:43,840 --> 00:08:44,820
+<font face="Noto Sans S Chinese Regular"><font size="22">when it comes to love?</font></font>
+
+219
+00:08:45,270 --> 00:08:46,130
+<font face="Noto Sans S Chinese Regular"><font size="22">I know</font></font>
+
+220
+00:08:46,600 --> 00:08:48,250
+<font face="Noto Sans S Chinese Regular"><font size="22">it's totally biased of me</font></font>
+
+221
+00:08:48,670 --> 00:08:49,180
+<font face="Noto Sans S Chinese Regular"><font size="22">to come at you</font></font>
+
+222
+00:08:49,270 --> 00:08:50,650
+<font face="Noto Sans S Chinese Regular"><font size="22">for taking Tianna's side right now.</font></font>
+
+223
+00:08:52,600 --> 00:08:53,530
+<font face="Noto Sans S Chinese Regular"><font size="22">But as a friend,</font></font>
+
+224
+00:08:53,600 --> 00:08:54,850
+<font face="Noto Sans S Chinese Regular"><font size="22">I really don't want you to regret this.</font></font>
+
+225
+00:08:56,910 --> 00:08:57,850
+<font face="Noto Sans S Chinese Regular"><font size="22">In two months,</font></font>
+
+226
+00:08:59,390 --> 00:09:00,610
+<font face="Noto Sans S Chinese Regular"><font size="22">love can snap</font></font>
+
+227
+00:09:00,670 --> 00:09:01,220
+<font face="Noto Sans S Chinese Regular"><font size="22">like a thread.</font></font>
+
+228
+00:09:01,750 --> 00:09:03,060
+<font face="Noto Sans S Chinese Regular"><font size="22">Even if you want to tie it back together,</font></font>
+
+229
+00:09:04,270 --> 00:09:05,340
+<font face="Noto Sans S Chinese Regular"><font size="22">at ten thousand kilometers apart,</font></font>
+
+230
+00:09:07,480 --> 00:09:08,300
+<font face="Noto Sans S Chinese Regular"><font size="22">can you even reach it?</font></font>
+
+231
+00:09:20,180 --> 00:09:21,300
+<font face="Noto Sans S Chinese Regular"><font size="22">Oh, man.</font></font>
+
+232
+00:09:21,960 --> 00:09:23,180
+<font face="Noto Sans S Chinese Regular"><font size="22">I pushed too hard on the toilet.</font></font>
+
+233
+00:09:23,510 --> 00:09:24,100
+<font face="Noto Sans S Chinese Regular"><font size="22">Feeling a little dizzy.</font></font>
+
+234
+00:09:25,750 --> 00:09:26,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Doesn't your watch check</font></font>
+
+235
+00:09:26,550 --> 00:09:27,180
+<font face="Noto Sans S Chinese Regular"><font size="22">blood pressure?</font></font>
+
+236
+00:09:27,270 --> 00:09:27,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Let me borrow it.</font></font>
+
+237
+00:09:32,750 --> 00:09:33,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Where's your watch?</font></font>
+
+238
+00:09:33,870 --> 00:09:34,300
+<font face="Noto Sans S Chinese Regular"><font size="22">You lost it?</font></font>
+
+239
+00:09:35,270 --> 00:09:35,580
+<font face="Noto Sans S Chinese Regular"><font size="22">Hold on.</font></font>
+
+240
+00:09:35,630 --> 00:09:36,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Let me track it on my phone.</font></font>
+
+241
+00:09:37,960 --> 00:09:38,440
+<font face="Noto Sans S Chinese Regular"><font size="22">[Zhao Heng's Smartwatch]</font></font>
+
+242
+00:09:38,510 --> 00:09:40,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Parking lot P1?</font></font>
+
+243
+00:09:42,390 --> 00:09:42,850
+<font face="Noto Sans S Chinese Regular"><font size="22">That's not right.</font></font>
+
+244
+00:09:44,000 --> 00:09:45,300
+<font face="Noto Sans S Chinese Regular"><font size="22">We took a ride</font></font>
+
+245
+00:09:45,390 --> 00:09:46,490
+<font face="Noto Sans S Chinese Regular"><font size="22">straight to the departures level.</font></font>
+
+246
+00:09:47,120 --> 00:09:48,530
+<font face="Noto Sans S Chinese Regular"><font size="22">How's your watch in here?</font></font>
+
+247
+00:09:50,720 --> 00:09:51,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Maybe you left the watch in the car,</font></font>
+
+248
+00:09:51,960 --> 00:09:53,980
+<font face="Noto Sans S Chinese Regular"><font size="22">and the driver went to P1 to wait for passengers?</font></font>
+
+249
+00:09:55,360 --> 00:09:56,250
+<font face="Noto Sans S Chinese Regular"><font size="22">You're dead set</font></font>
+
+250
+00:09:56,270 --> 00:09:57,250
+<font face="Noto Sans S Chinese Regular"><font size="22">on mooching off me.</font></font>
+
+251
+00:09:57,790 --> 00:09:58,730
+<font face="Noto Sans S Chinese Regular"><font size="22">You're in no position to talk about equality.</font></font>
+
+252
+00:09:58,790 --> 00:09:59,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Bu Tianna!</font></font>
+
+253
+00:10:05,320 --> 00:10:05,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Where are you going?</font></font>
+
+254
+00:10:05,980 --> 00:10:06,490
+<font face="Noto Sans S Chinese Regular"><font size="22">We're about to board!</font></font>
+
+255
+00:10:59,740 --> 00:11:00,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Tianna.</font></font>
+
+256
+00:11:35,380 --> 00:11:36,490
+<font face="Noto Sans S Chinese Regular"><font size="22">When I said I wanted to break up,</font></font>
+
+257
+00:11:38,030 --> 00:11:39,180
+<font face="Noto Sans S Chinese Regular"><font size="22">I was just acting out.</font></font>
+
+258
+00:11:39,870 --> 00:11:40,850
+<font face="Noto Sans S Chinese Regular"><font size="22">I was gaslighting you.</font></font>
+
+259
+00:11:42,020 --> 00:11:43,180
+<font face="Noto Sans S Chinese Regular"><font size="22">I wanted to make sure you couldn't leave me.</font></font>
+
+260
+00:11:50,030 --> 00:11:50,980
+<font face="Noto Sans S Chinese Regular"><font size="22">But deep down, I know</font></font>
+
+261
+00:11:54,030 --> 00:11:55,700
+<font face="Noto Sans S Chinese Regular"><font size="22">no one could ever replace you in my heart.</font></font>
+
+262
+00:11:58,910 --> 00:11:59,580
+<font face="Noto Sans S Chinese Regular"><font size="22">So,</font></font>
+
+263
+00:12:01,600 --> 00:12:02,460
+<font face="Noto Sans S Chinese Regular"><font size="22">will you forgive me?</font></font>
+
+264
+00:12:08,240 --> 00:12:09,370
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm not here for you.</font></font>
+
+265
+00:12:10,030 --> 00:12:10,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Right.</font></font>
+
+266
+00:12:11,510 --> 00:12:12,370
+<font face="Noto Sans S Chinese Regular"><font size="22">You're just passing by.</font></font>
+
+267
+00:12:13,360 --> 00:12:14,340
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm the one who came for you.</font></font>
+
+268
+00:12:17,600 --> 00:12:18,530
+<font face="Noto Sans S Chinese Regular"><font size="22">You scumbag.</font></font>
+
+269
+00:12:19,360 --> 00:12:21,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Why do you always tell me what sounds good?</font></font>
+
+270
+00:12:22,910 --> 00:12:23,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Yeah.</font></font>
+
+271
+00:12:23,910 --> 00:12:24,490
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm a scumbag.</font></font>
+
+272
+00:12:25,440 --> 00:12:25,890
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm awful.</font></font>
+
+273
+00:12:26,510 --> 00:12:27,010
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm trash.</font></font>
+
+274
+00:12:27,870 --> 00:12:29,100
+<font face="Noto Sans S Chinese Regular"><font size="22">I had an ulterior motive this whole time.</font></font>
+
+275
+00:12:30,080 --> 00:12:30,580
+<font face="Noto Sans S Chinese Regular"><font size="22">So,</font></font>
+
+276
+00:12:34,030 --> 00:12:34,770
+<font face="Noto Sans S Chinese Regular"><font size="22">do you still love me?</font></font>
+
+277
+00:13:17,510 --> 00:13:18,180
+<font face="Noto Sans S Chinese Regular"><font size="22">And then?</font></font>
+
+278
+00:13:18,480 --> 00:13:19,220
+<font face="Noto Sans S Chinese Regular"><font size="22">What happened next?</font></font>
+
+279
+00:13:20,120 --> 00:13:20,650
+<font face="Noto Sans S Chinese Regular"><font size="22">And then</font></font>
+
+280
+00:13:21,150 --> 00:13:22,130
+<font face="Noto Sans S Chinese Regular"><font size="22">his colleague called</font></font>
+
+281
+00:13:22,240 --> 00:13:23,180
+<font face="Noto Sans S Chinese Regular"><font size="22">and told Zhao Heng to board.</font></font>
+
+282
+00:13:23,360 --> 00:13:24,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Then he and Tianna agreed to</font></font>
+
+283
+00:13:24,510 --> 00:13:25,650
+<font face="Noto Sans S Chinese Regular"><font size="22">video chat</font></font>
+
+284
+00:13:25,720 --> 00:13:26,650
+<font face="Noto Sans S Chinese Regular"><font size="22">for at least half an hour every day.</font></font>
+
+285
+00:13:26,720 --> 00:13:27,730
+<font face="Noto Sans S Chinese Regular"><font size="22">After that, Zhao Heng flew off.</font></font>
+
+286
+00:13:29,440 --> 00:13:30,100
+<font face="Noto Sans S Chinese Regular"><font size="22">That's it?</font></font>
+
+287
+00:13:31,440 --> 00:13:33,220
+<font face="Noto Sans S Chinese Regular"><font size="22">That's so not romantic.</font></font>
+
+288
+00:13:33,600 --> 00:13:34,580
+<font face="Noto Sans S Chinese Regular"><font size="22">I figured Zhao Heng</font></font>
+
+289
+00:13:34,630 --> 00:13:35,580
+<font face="Noto Sans S Chinese Regular"><font size="22">would've at least changed his ticket</font></font>
+
+290
+00:13:35,630 --> 00:13:36,530
+<font face="Noto Sans S Chinese Regular"><font size="22">and stayed one more night.</font></font>
+
+291
+00:13:37,120 --> 00:13:38,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Or Bu Tianna</font></font>
+
+292
+00:13:38,080 --> 00:13:38,650
+<font face="Noto Sans S Chinese Regular"><font size="22">would've bought a ticket</font></font>
+
+293
+00:13:38,790 --> 00:13:40,060
+<font face="Noto Sans S Chinese Regular"><font size="22">and gone to Venezuela with him.</font></font>
+
+294
+00:13:41,200 --> 00:13:41,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Shen,</font></font>
+
+295
+00:13:41,840 --> 00:13:43,530
+<font face="Noto Sans S Chinese Regular"><font size="22">you think this is some idol drama?</font></font>
+
+296
+00:13:44,360 --> 00:13:45,300
+<font face="Noto Sans S Chinese Regular"><font size="22">Feelings matter, of course.</font></font>
+
+297
+00:13:45,360 --> 00:13:46,460
+<font face="Noto Sans S Chinese Regular"><font size="22">But that's just between two people.</font></font>
+
+298
+00:13:46,510 --> 00:13:47,130
+<font face="Noto Sans S Chinese Regular"><font size="22">Work</font></font>
+
+299
+00:13:47,150 --> 00:13:48,220
+<font face="Noto Sans S Chinese Regular"><font size="22">involves the whole team.</font></font>
+
+300
+00:13:48,270 --> 00:13:49,300
+<font face="Noto Sans S Chinese Regular"><font size="22">You've gotta make trade-offs.</font></font>
+
+301
+00:13:50,910 --> 00:13:51,730
+<font face="Noto Sans S Chinese Regular"><font size="22">So,</font></font>
+
+302
+00:13:51,790 --> 00:13:53,580
+<font face="Noto Sans S Chinese Regular"><font size="22">to you, consulting people,</font></font>
+
+303
+00:13:54,030 --> 00:13:55,850
+<font face="Noto Sans S Chinese Regular"><font size="22">work always comes before love, huh?</font></font>
+
+304
+00:13:57,240 --> 00:13:57,850
+<font face="Noto Sans S Chinese Regular"><font size="22">First,</font></font>
+
+305
+00:13:57,910 --> 00:13:59,650
+<font face="Noto Sans S Chinese Regular"><font size="22">I partly agree with you.</font></font>
+
+306
+00:13:59,750 --> 00:14:00,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Second,</font></font>
+
+307
+00:14:00,960 --> 00:14:02,220
+<font face="Noto Sans S Chinese Regular"><font size="22">I think I hear</font></font>
+
+308
+00:14:02,270 --> 00:14:03,340
+<font face="Noto Sans S Chinese Regular"><font size="22">a little bitterness in there.</font></font>
+
+309
+00:14:04,270 --> 00:14:05,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Third,</font></font>
+
+310
+00:14:05,320 --> 00:14:06,700
+<font face="Noto Sans S Chinese Regular"><font size="22">my boss</font></font>
+
+311
+00:14:06,960 --> 00:14:07,890
+<font face="Noto Sans S Chinese Regular"><font size="22">is blowing up my phone.</font></font>
+
+312
+00:14:08,000 --> 00:14:08,730
+<font face="Noto Sans S Chinese Regular"><font size="22">So I'm gonna head out.</font></font>
+
+313
+00:14:08,840 --> 00:14:09,650
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll leave you two to your date.</font></font>
+
+314
+00:14:15,790 --> 00:14:17,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Something's off.</font></font>
+
+315
+00:14:19,440 --> 00:14:21,010
+<font face="Noto Sans S Chinese Regular"><font size="22">That girl's definitely got something going on.</font></font>
+
+316
+00:14:21,960 --> 00:14:23,130
+<font face="Noto Sans S Chinese Regular"><font size="22">But she really is thoughtful.</font></font>
+
+317
+00:14:24,440 --> 00:14:24,770
+<font face="Noto Sans S Chinese Regular"><font size="22">Oh,</font></font>
+
+318
+00:14:25,030 --> 00:14:25,530
+<font face="Noto Sans S Chinese Regular"><font size="22">try this.</font></font>
+
+319
+00:14:26,120 --> 00:14:26,610
+<font face="Noto Sans S Chinese Regular"><font size="22">Foie gras.</font></font>
+
+320
+00:14:28,120 --> 00:14:28,980
+<font face="Noto Sans S Chinese Regular"><font size="22">It's a bit rich,</font></font>
+
+321
+00:14:29,480 --> 00:14:30,820
+<font face="Noto Sans S Chinese Regular"><font size="22">but it's loaded with iron.</font></font>
+
+322
+00:14:31,240 --> 00:14:31,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Good for your blood.</font></font>
+
+323
+00:14:32,080 --> 00:14:32,580
+<font face="Noto Sans S Chinese Regular"><font size="22">Try it.</font></font>
+
+324
+00:14:34,240 --> 00:14:34,770
+<font face="Noto Sans S Chinese Regular"><font size="22">Good?</font></font>
+
+325
+00:14:35,750 --> 00:14:36,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Have some more.</font></font>
+
+326
+00:14:38,670 --> 00:14:39,580
+<font face="Noto Sans S Chinese Regular"><font size="22">I wish you could take</font></font>
+
+327
+00:14:39,600 --> 00:14:40,850
+<font face="Noto Sans S Chinese Regular"><font size="22">a vacation sometime.</font></font>
+
+328
+00:14:41,080 --> 00:14:42,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Then we'll go somewhere for a couple of days.</font></font>
+
+329
+00:14:42,840 --> 00:14:43,700
+<font face="Noto Sans S Chinese Regular"><font size="22">We can find a nice</font></font>
+
+330
+00:14:43,720 --> 00:14:44,610
+<font face="Noto Sans S Chinese Regular"><font size="22">lake or ocean</font></font>
+
+331
+00:14:44,720 --> 00:14:45,700
+<font face="Noto Sans S Chinese Regular"><font size="22">and just relax.</font></font>
+
+332
+00:14:46,510 --> 00:14:47,890
+<font face="Noto Sans S Chinese Regular"><font size="22">Lately, I've even dreamed</font></font>
+
+333
+00:14:47,960 --> 00:14:48,770
+<font face="Noto Sans S Chinese Regular"><font size="22">about you kayaking with me.</font></font>
+
+334
+00:14:48,840 --> 00:14:49,770
+<font face="Noto Sans S Chinese Regular"><font size="22">I was so happy.</font></font>
+
+335
+00:14:50,200 --> 00:14:50,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Then let's do this Saturday.</font></font>
+
+336
+00:14:51,840 --> 00:14:52,180
+<font face="Noto Sans S Chinese Regular"><font size="22">No,</font></font>
+
+337
+00:14:52,390 --> 00:14:52,890
+<font face="Noto Sans S Chinese Regular"><font size="22">if you don't...</font></font>
+
+338
+00:14:55,750 --> 00:14:56,530
+<font face="Noto Sans S Chinese Regular"><font size="22">What, you don't want to?</font></font>
+
+339
+00:14:58,790 --> 00:15:00,010
+<font face="Noto Sans S Chinese Regular"><font size="22">I'd love to.</font></font>
+
+340
+00:15:00,750 --> 00:15:01,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Really?</font></font>
+
+341
+00:15:02,790 --> 00:15:03,100
+<font face="Noto Sans S Chinese Regular"><font size="22">Alright.</font></font>
+
+342
+00:15:03,870 --> 00:15:04,580
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll go find</font></font>
+
+343
+00:15:04,600 --> 00:15:05,130
+<font face="Noto Sans S Chinese Regular"><font size="22">a romantic hotel</font></font>
+
+344
+00:15:05,630 --> 00:15:06,580
+<font face="Noto Sans S Chinese Regular"><font size="22">tonight.</font></font>
+
+345
+00:15:06,910 --> 00:15:08,060
+<font face="Noto Sans S Chinese Regular"><font size="22">Let's have ourselves a nice romantic time.</font></font>
+
+346
+00:15:10,440 --> 00:15:11,180
+<font face="Noto Sans S Chinese Regular"><font size="22">Have some meat.</font></font>
+
+347
+00:15:11,270 --> 00:15:11,980
+<font face="Noto Sans S Chinese Regular"><font size="22">I haven't finished this piece yet.</font></font>
+
+348
+00:15:12,030 --> 00:15:12,370
+<font face="Noto Sans S Chinese Regular"><font size="22">You go ahead.</font></font>
+
+349
+00:15:21,150 --> 00:15:21,700
+<font face="Noto Sans S Chinese Regular"><font size="22">What's wrong?</font></font>
+
+350
+00:15:21,750 --> 00:15:22,890
+<font face="Noto Sans S Chinese Regular"><font size="22">Didn't sleep well last night?</font></font>
+
+351
+00:15:23,870 --> 00:15:24,250
+<font face="Noto Sans S Chinese Regular"><font size="22">It was okay.</font></font>
+
+352
+00:15:25,030 --> 00:15:25,340
+<font face="Noto Sans S Chinese Regular"><font size="22">By the way,</font></font>
+
+353
+00:15:25,390 --> 00:15:26,340
+<font face="Noto Sans S Chinese Regular"><font size="22">tomorrow morning's meeting...</font></font>
+
+354
+00:15:26,910 --> 00:15:28,180
+<font face="Noto Sans S Chinese Regular"><font size="22">I already coordinated with everyone else.</font></font>
+
+355
+00:15:28,270 --> 00:15:29,700
+<font face="Noto Sans S Chinese Regular"><font size="22">10:30, meeting room A2.</font></font>
+
+356
+00:15:31,030 --> 00:15:32,220
+<font face="Noto Sans S Chinese Regular"><font size="22">So how's the All Buy timeline</font></font>
+
+357
+00:15:32,270 --> 00:15:32,940
+<font face="Noto Sans S Chinese Regular"><font size="22">coming along?</font></font>
+
+358
+00:15:33,630 --> 00:15:34,610
+<font face="Noto Sans S Chinese Regular"><font size="22">I coordinated with Lele</font></font>
+
+359
+00:15:34,670 --> 00:15:35,820
+<font face="Noto Sans S Chinese Regular"><font size="22">and got All Buy's side set up.</font></font>
+
+360
+00:15:36,200 --> 00:15:37,700
+<font face="Noto Sans S Chinese Regular"><font size="22">Starting next Monday,</font></font>
+
+361
+00:15:37,790 --> 00:15:39,010
+<font face="Noto Sans S Chinese Regular"><font size="22">it'll be Warehousing first,</font></font>
+
+362
+00:15:39,080 --> 00:15:40,130
+<font face="Noto Sans S Chinese Regular"><font size="22">followed by Quality Assurance,</font></font>
+
+363
+00:15:40,270 --> 00:15:41,940
+<font face="Noto Sans S Chinese Regular"><font size="22">and then R&D and Procurement middle office.</font></font>
+
+364
+00:15:42,080 --> 00:15:42,770
+<font face="Noto Sans S Chinese Regular"><font size="22">The whole process</font></font>
+
+365
+00:15:42,790 --> 00:15:43,940
+<font face="Noto Sans S Chinese Regular"><font size="22">should take about half a month.</font></font>
+
+366
+00:15:44,480 --> 00:15:45,890
+<font face="Noto Sans S Chinese Regular"><font size="22">Then we can start</font></font>
+
+367
+00:15:46,120 --> 00:15:47,370
+<font face="Noto Sans S Chinese Regular"><font size="22">updating and iterating the model.</font></font>
+
+368
+00:15:47,840 --> 00:15:48,580
+<font face="Noto Sans S Chinese Regular"><font size="22">Nice.</font></font>
+
+369
+00:15:48,790 --> 00:15:50,060
+<font face="Noto Sans S Chinese Regular"><font size="22">That's fast progress.</font></font>
+
+370
+00:15:50,790 --> 00:15:51,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Looks like</font></font>
+
+371
+00:15:51,750 --> 00:15:52,940
+<font face="Noto Sans S Chinese Regular"><font size="22">things are fine on Bu Tianna's end?</font></font>
+
+372
+00:15:54,720 --> 00:15:55,580
+<font face="Noto Sans S Chinese Regular"><font size="22">You guessed right.</font></font>
+
+373
+00:15:56,240 --> 00:15:57,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Good thing I didn't listen to you that day.</font></font>
+
+374
+00:16:00,630 --> 00:16:01,300
+<font face="Noto Sans S Chinese Regular"><font size="22">Sorry.</font></font>
+
+375
+00:16:02,600 --> 00:16:03,580
+<font face="Noto Sans S Chinese Regular"><font size="22">I guess</font></font>
+
+376
+00:16:03,960 --> 00:16:05,100
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm a bit old-school.</font></font>
+
+377
+00:16:06,080 --> 00:16:06,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Wait,</font></font>
+
+378
+00:16:06,440 --> 00:16:07,650
+<font face="Noto Sans S Chinese Regular"><font size="22">why're you apologizing?</font></font>
+
+379
+00:16:08,000 --> 00:16:09,100
+<font face="Noto Sans S Chinese Regular"><font size="22">I didn't mean it that way.</font></font>
+
+380
+00:16:10,270 --> 00:16:11,340
+<font face="Noto Sans S Chinese Regular"><font size="22">I know you were just</font></font>
+
+381
+00:16:11,440 --> 00:16:12,460
+<font face="Noto Sans S Chinese Regular"><font size="22">giving me</font></font>
+
+382
+00:16:12,550 --> 00:16:13,180
+<font face="Noto Sans S Chinese Regular"><font size="22">a mature suggestion</font></font>
+
+383
+00:16:13,390 --> 00:16:14,580
+<font face="Noto Sans S Chinese Regular"><font size="22">from where you stand.</font></font>
+
+384
+00:16:15,150 --> 00:16:15,650
+<font face="Noto Sans S Chinese Regular"><font size="22">You mean it?</font></font>
+
+385
+00:16:16,910 --> 00:16:17,580
+<font face="Noto Sans S Chinese Regular"><font size="22">Yes.</font></font>
+
+386
+00:16:21,480 --> 00:16:22,250
+<font face="Noto Sans S Chinese Regular"><font size="22">What... what's wrong?</font></font>
+
+387
+00:16:30,240 --> 00:16:31,460
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm handing you my whole heart.</font></font>
+
+388
+00:16:31,510 --> 00:16:32,060
+<font face="Noto Sans S Chinese Regular"><font size="22">Hear that?</font></font>
+
+389
+00:16:34,550 --> 00:16:35,100
+<font face="Noto Sans S Chinese Regular"><font size="22">Is it real?</font></font>
+
+390
+00:16:36,600 --> 00:16:37,340
+<font face="Noto Sans S Chinese Regular"><font size="22">So real.</font></font>
+
+391
+00:16:38,720 --> 00:16:39,370
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm so moved.</font></font>
+
+392
+00:16:41,120 --> 00:16:42,180
+<font face="Noto Sans S Chinese Regular"><font size="22">You're putting it on.</font></font>
+
+393
+00:16:42,180 --> 00:16:46,460
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Orange sky at dusk; the evening breeze is waiting♪</font></font>
+
+394
+00:16:46,580 --> 00:16:51,620
+<font face="Noto Sans S Chinese Regular"><font size="22">♪The crowd at the crossing suddenly scatters♪</font></font>
+
+395
+00:16:51,700 --> 00:17:00,140
+<font face="Noto Sans S Chinese Regular"><font size="22">♪This world moves too fast, yet you walk slowly toward me♪</font></font>
+
+396
+00:17:02,020 --> 00:17:06,820
+<font face="Noto Sans S Chinese Regular"><font size="22">♪We're like the evening breeze tangling with the clouds♪</font></font>
+
+397
+00:17:07,780 --> 00:17:11,060
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Strolling among the clouds, waiting for the sky to clear♪</font></font>
+
+398
+00:17:11,070 --> 00:17:11,920
+<font face="Noto Sans S Chinese Regular"><font size="22">[Testing]</font></font>
+
+399
+00:17:12,340 --> 00:17:16,660
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Last time you had something left unsaid, right?♪</font></font>
+
+400
+00:17:16,790 --> 00:17:17,180
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Liu,</font></font>
+
+401
+00:17:17,440 --> 00:17:17,860
+<font face="Noto Sans S Chinese Regular"><font size="22">thank you.</font></font>
+
+402
+00:17:18,200 --> 00:17:18,770
+<font face="Noto Sans S Chinese Regular"><font size="22">No worries.</font></font>
+
+403
+00:17:19,510 --> 00:17:20,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Ye,</font></font>
+
+404
+00:17:20,550 --> 00:17:22,460
+<font face="Noto Sans S Chinese Regular"><font size="22">after you guys optimize this process,</font></font>
+
+405
+00:17:22,680 --> 00:17:23,660
+<font face="Noto Sans S Chinese Regular"><font size="22">will there be any side effects?</font></font>
+
+406
+00:17:24,350 --> 00:17:25,090
+<font face="Noto Sans S Chinese Regular"><font size="22">Don't worry.</font></font>
+
+407
+00:17:25,400 --> 00:17:26,330
+<font face="Noto Sans S Chinese Regular"><font size="22">It'll only boost efficiency.</font></font>
+
+408
+00:17:26,590 --> 00:17:27,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Won't cause any trouble.</font></font>
+
+409
+00:17:28,550 --> 00:17:28,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Alright.</font></font>
+
+410
+00:17:28,940 --> 00:17:32,540
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Through the muddy fields, rushing toward the sea♪</font></font>
+
+411
+00:17:32,660 --> 00:17:37,620
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I know you'll be waiting there♪</font></font>
+
+412
+00:17:37,740 --> 00:17:38,860
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Together with me♪</font></font>
+
+413
+00:17:38,880 --> 00:17:39,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Based on the AI model</font></font>
+
+414
+00:17:39,880 --> 00:17:40,860
+<font face="Noto Sans S Chinese Regular"><font size="22">we developed at Hezong,</font></font>
+
+415
+00:17:41,000 --> 00:17:42,140
+<font face="Noto Sans S Chinese Regular"><font size="22">[All Buy]
+when All Buy goes overseas,</font></font>
+
+416
+00:17:42,200 --> 00:17:42,860
+<font face="Noto Sans S Chinese Regular"><font size="22">they should focus</font></font>
+
+417
+00:17:42,960 --> 00:17:44,660
+<font face="Noto Sans S Chinese Regular"><font size="22">on packaged foods,</font></font>
+
+418
+00:17:44,750 --> 00:17:45,460
+<font face="Noto Sans S Chinese Regular"><font size="22">mainly snack foods</font></font>
+
+419
+00:17:45,480 --> 00:17:46,810
+<font face="Noto Sans S Chinese Regular"><font size="22">and instant grains and oils.</font></font>
+
+420
+00:17:47,110 --> 00:17:47,940
+<font face="Noto Sans S Chinese Regular"><font size="22">For where to land,</font></font>
+
+421
+00:17:48,000 --> 00:17:49,620
+<font face="Noto Sans S Chinese Regular"><font size="22">I'd suggest major cities with dense Chinese</font></font>
+
+422
+00:17:49,680 --> 00:17:50,730
+<font face="Noto Sans S Chinese Regular"><font size="22">and international student populations,</font></font>
+
+423
+00:17:51,110 --> 00:17:52,050
+<font face="Noto Sans S Chinese Regular"><font size="22">because these products</font></font>
+
+424
+00:17:52,110 --> 00:17:53,570
+<font face="Noto Sans S Chinese Regular"><font size="22">keep well and are easy to ship.</font></font>
+
+425
+00:17:53,680 --> 00:17:54,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Plus, we can use AI for both quality inspection</font></font>
+
+426
+00:17:55,110 --> 00:17:56,090
+<font face="Noto Sans S Chinese Regular"><font size="22">and quality assurance.</font></font>
+
+427
+00:17:56,200 --> 00:17:57,140
+<font face="Noto Sans S Chinese Regular"><font size="22">That can massively boost efficiency</font></font>
+
+428
+00:17:57,440 --> 00:17:58,290
+<font face="Noto Sans S Chinese Regular"><font size="22">and cut the labor costs</font></font>
+
+429
+00:17:58,350 --> 00:17:59,180
+<font face="Noto Sans S Chinese Regular"><font size="22">of setting up overseas</font></font>
+
+430
+00:17:59,240 --> 00:17:59,900
+<font face="Noto Sans S Chinese Regular"><font size="22">quality control centers.</font></font>
+
+431
+00:18:01,790 --> 00:18:02,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Put together</font></font>
+
+432
+00:18:02,440 --> 00:18:03,860
+<font face="Noto Sans S Chinese Regular"><font size="22">[09:28]
+the overseas e-commerce proposal</font></font>
+
+433
+00:18:03,880 --> 00:18:04,420
+<font face="Noto Sans S Chinese Regular"><font size="22">for All Buy.</font></font>
+
+434
+00:18:04,640 --> 00:18:05,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Okay, got it.</font></font>
+
+435
+00:18:06,110 --> 00:18:06,660
+<font face="Noto Sans S Chinese Regular"><font size="22">And take a look at this.</font></font>
+
+436
+00:18:08,350 --> 00:18:09,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Let's go over this.</font></font>
+
+437
+00:18:10,830 --> 00:18:11,660
+<font face="Noto Sans S Chinese Regular"><font size="22">I was gonna bring it up too.</font></font>
+
+438
+00:18:11,720 --> 00:18:12,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Just help me</font></font>
+
+439
+00:18:12,550 --> 00:18:13,220
+<font face="Noto Sans S Chinese Regular"><font size="22">adjust all of these.</font></font>
+
+440
+00:18:13,510 --> 00:18:13,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Okay?</font></font>
+
+441
+00:18:14,110 --> 00:18:14,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Everyone's tired, right?</font></font>
+
+442
+00:18:15,070 --> 00:18:16,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I bought coffee and milk tea</font></font>
+
+443
+00:18:16,160 --> 00:18:16,810
+<font face="Noto Sans S Chinese Regular"><font size="22">for everyone.</font></font>
+
+444
+00:18:16,960 --> 00:18:17,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Take a break.</font></font>
+
+445
+00:18:18,240 --> 00:18:19,770
+<font face="Noto Sans S Chinese Regular"><font size="22">- Thanks, Mr. Kai. - Thanks, Mr. Kai.</font></font>
+
+446
+00:18:23,160 --> 00:18:24,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Made this especially for you.</font></font>
+
+447
+00:18:24,510 --> 00:18:26,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Your favorite.</font></font>
+
+448
+00:18:27,240 --> 00:18:28,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Triple espresso with whiskey.</font></font>
+
+449
+00:18:28,590 --> 00:18:29,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Hand-poured Irish. Did I remember right?</font></font>
+
+450
+00:18:30,830 --> 00:18:31,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Thanks.</font></font>
+
+451
+00:18:31,790 --> 00:18:32,090
+<font face="Noto Sans S Chinese Regular"><font size="22">Sit.</font></font>
+
+452
+00:18:33,680 --> 00:18:34,900
+<font face="Noto Sans S Chinese Regular"><font size="22">So, how much longer</font></font>
+
+453
+00:18:35,310 --> 00:18:36,810
+<font face="Noto Sans S Chinese Regular"><font size="22">till we see the light at the end of the tunnel?</font></font>
+
+454
+00:18:37,310 --> 00:18:37,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Soon.</font></font>
+
+455
+00:18:38,590 --> 00:18:39,290
+<font face="Noto Sans S Chinese Regular"><font size="22">All Buy's feedback</font></font>
+
+456
+00:18:39,350 --> 00:18:40,090
+<font face="Noto Sans S Chinese Regular"><font size="22">has been pretty good.</font></font>
+
+457
+00:18:40,270 --> 00:18:41,290
+<font face="Noto Sans S Chinese Regular"><font size="22">They got inspired by us</font></font>
+
+458
+00:18:41,640 --> 00:18:42,700
+<font face="Noto Sans S Chinese Regular"><font size="22">and plan to use the AI vendor</font></font>
+
+459
+00:18:42,720 --> 00:18:43,490
+<font face="Noto Sans S Chinese Regular"><font size="22">we recommended</font></font>
+
+460
+00:18:43,640 --> 00:18:44,980
+<font face="Noto Sans S Chinese Regular"><font size="22">to overhaul their</font></font>
+
+461
+00:18:45,030 --> 00:18:46,140
+<font face="Noto Sans S Chinese Regular"><font size="22">domestic backend,</font></font>
+
+462
+00:18:46,200 --> 00:18:47,460
+<font face="Noto Sans S Chinese Regular"><font size="22">both warehousing and outlets.</font></font>
+
+463
+00:18:47,790 --> 00:18:49,490
+<font face="Noto Sans S Chinese Regular"><font size="22">I figure two weeks at most,</font></font>
+
+464
+00:18:50,310 --> 00:18:51,330
+<font face="Noto Sans S Chinese Regular"><font size="22">and we can do the official delivery.</font></font>
+
+465
+00:18:52,720 --> 00:18:54,770
+<font face="Noto Sans S Chinese Regular"><font size="22">We do their overseas consulting,</font></font>
+
+466
+00:18:54,830 --> 00:18:56,660
+<font face="Noto Sans S Chinese Regular"><font size="22">and they just port it over domestically.</font></font>
+
+467
+00:18:57,270 --> 00:18:58,770
+<font face="Noto Sans S Chinese Regular"><font size="22">They're getting a steal.</font></font>
+
+468
+00:18:58,920 --> 00:18:59,940
+<font face="Noto Sans S Chinese Regular"><font size="22">One consulting fee; double the usage.</font></font>
+
+469
+00:19:00,160 --> 00:19:00,980
+<font face="Noto Sans S Chinese Regular"><font size="22">No choice.</font></font>
+
+470
+00:19:01,550 --> 00:19:03,330
+<font face="Noto Sans S Chinese Regular"><font size="22">Just treat it as free advertising.</font></font>
+
+471
+00:19:03,550 --> 00:19:05,700
+<font face="Noto Sans S Chinese Regular"><font size="22">All Buy is practically a stepping stone</font></font>
+
+472
+00:19:05,790 --> 00:19:07,660
+<font face="Noto Sans S Chinese Regular"><font size="22">for Hezong to break into the tech giant ecosystem.</font></font>
+
+473
+00:19:08,110 --> 00:19:08,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Anyway,</font></font>
+
+474
+00:19:08,590 --> 00:19:09,660
+<font face="Noto Sans S Chinese Regular"><font size="22">as long as this delivery succeeds,</font></font>
+
+475
+00:19:10,000 --> 00:19:10,980
+<font face="Noto Sans S Chinese Regular"><font size="22">we won't have to worry about future deals.</font></font>
+
+476
+00:19:11,070 --> 00:19:12,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Okay, I'm waiting for your victory news.</font></font>
+
+477
+00:19:14,510 --> 00:19:14,980
+<font face="Noto Sans S Chinese Regular"><font size="22">By the way, Mr. Kai...</font></font>
+
+478
+00:19:16,880 --> 00:19:18,220
+<font face="Noto Sans S Chinese Regular"><font size="22">After this project wraps,</font></font>
+
+479
+00:19:19,440 --> 00:19:20,770
+<font face="Noto Sans S Chinese Regular"><font size="22">I want to take a month-long vacation.</font></font>
+
+480
+00:19:32,440 --> 00:19:33,010
+<font face="Noto Sans S Chinese Regular"><font size="22">No problem.</font></font>
+
+481
+00:19:42,000 --> 00:19:43,770
+<font face="Noto Sans S Chinese Regular"><font size="22">A month? Seriously?</font></font>
+
+482
+00:19:44,160 --> 00:19:44,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Yeah.</font></font>
+
+483
+00:19:44,880 --> 00:19:46,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I already gave Mr. Kai a heads-up.</font></font>
+
+484
+00:19:47,030 --> 00:19:47,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Just so HR can easily</font></font>
+
+485
+00:19:47,590 --> 00:19:48,530
+<font face="Noto Sans S Chinese Regular"><font size="22">sign off on your time off.</font></font>
+
+486
+00:19:49,030 --> 00:19:50,090
+<font face="Noto Sans S Chinese Regular"><font size="22">That's great!</font></font>
+
+487
+00:19:50,830 --> 00:19:51,770
+<font face="Noto Sans S Chinese Regular"><font size="22">When I said</font></font>
+
+488
+00:19:51,790 --> 00:19:52,860
+<font face="Noto Sans S Chinese Regular"><font size="22">I had no time to hang out,</font></font>
+
+489
+00:19:53,000 --> 00:19:54,180
+<font face="Noto Sans S Chinese Regular"><font size="22">you looked so down,</font></font>
+
+490
+00:19:54,240 --> 00:19:55,220
+<font face="Noto Sans S Chinese Regular"><font size="22">like a sad golden retriever.</font></font>
+
+491
+00:19:55,510 --> 00:19:56,700
+<font face="Noto Sans S Chinese Regular"><font size="22">It actually made me feel kinda bad.</font></font>
+
+492
+00:19:57,480 --> 00:19:57,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Great.</font></font>
+
+493
+00:19:58,000 --> 00:19:58,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Finally, we get some time</font></font>
+
+494
+00:19:58,830 --> 00:19:59,620
+<font face="Noto Sans S Chinese Regular"><font size="22">just for us.</font></font>
+
+495
+00:20:00,400 --> 00:20:00,700
+<font face="Noto Sans S Chinese Regular"><font size="22">By the way,</font></font>
+
+496
+00:20:02,110 --> 00:20:02,730
+<font face="Noto Sans S Chinese Regular"><font size="22">where do you wanna go?</font></font>
+
+497
+00:20:04,110 --> 00:20:04,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Let me think.</font></font>
+
+498
+00:20:08,680 --> 00:20:10,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Southeast Asia's too close.</font></font>
+
+499
+00:20:11,920 --> 00:20:13,090
+<font face="Noto Sans S Chinese Regular"><font size="22">South America's far.</font></font>
+
+500
+00:20:13,200 --> 00:20:14,250
+<font face="Noto Sans S Chinese Regular"><font size="22">But Tianna and Zhao Heng said</font></font>
+
+501
+00:20:14,270 --> 00:20:15,530
+<font face="Noto Sans S Chinese Regular"><font size="22">they couldn't get used to the food there.</font></font>
+
+502
+00:20:18,240 --> 00:20:19,380
+<font face="Noto Sans S Chinese Regular"><font size="22">How about Saudi Arabia?</font></font>
+
+503
+00:20:20,240 --> 00:20:21,010
+<font face="Noto Sans S Chinese Regular"><font size="22">When I was little,</font></font>
+
+504
+00:20:21,070 --> 00:20:22,010
+<font face="Noto Sans S Chinese Regular"><font size="22">I loved this comic</font></font>
+
+505
+00:20:22,070 --> 00:20:23,090
+<font face="Noto Sans S Chinese Regular"><font size="22">my mom left me.</font></font>
+
+506
+00:20:23,510 --> 00:20:24,900
+<font face="Noto Sans S Chinese Regular"><font size="22">There was a tower that reached for the heavens.</font></font>
+
+507
+00:20:25,510 --> 00:20:26,420
+<font face="Noto Sans S Chinese Regular"><font size="22">My mom said</font></font>
+
+508
+00:20:26,480 --> 00:20:28,420
+<font face="Noto Sans S Chinese Regular"><font size="22">date palms grew in a row at the bottom.</font></font>
+
+509
+00:20:28,880 --> 00:20:30,180
+<font face="Noto Sans S Chinese Regular"><font size="22">The dates were sweet as honey.</font></font>
+
+510
+00:20:30,350 --> 00:20:31,250
+<font face="Noto Sans S Chinese Regular"><font size="22">She loved eating them.</font></font>
+
+511
+00:20:34,640 --> 00:20:36,730
+<font face="Noto Sans S Chinese Regular"><font size="22">The yellow spiral tower?</font></font>
+
+512
+00:20:36,790 --> 00:20:37,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Yes, that one.</font></font>
+
+513
+00:20:39,030 --> 00:20:39,860
+<font face="Noto Sans S Chinese Regular"><font size="22">That's in Iraq,</font></font>
+
+514
+00:20:39,960 --> 00:20:40,620
+<font face="Noto Sans S Chinese Regular"><font size="22">not Saudi.</font></font>
+
+515
+00:20:45,990 --> 00:20:47,300
+<font face="Noto Sans S Chinese Regular"><font size="22">We'd have to take so many days off, though.</font></font>
+
+516
+00:20:47,560 --> 00:20:48,770
+<font face="Noto Sans S Chinese Regular"><font size="22">Chi, if you wanna go,</font></font>
+
+517
+00:20:49,150 --> 00:20:50,330
+<font face="Noto Sans S Chinese Regular"><font size="22">we can take as many days off as we need.</font></font>
+
+518
+00:20:54,590 --> 00:20:55,410
+<font face="Noto Sans S Chinese Regular"><font size="22">Forget it, forget it.</font></font>
+
+519
+00:20:56,200 --> 00:20:57,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Even if we can get the time off,</font></font>
+
+520
+00:20:58,040 --> 00:20:59,500
+<font face="Noto Sans S Chinese Regular"><font size="22">getting there would be a hassle.</font></font>
+
+521
+00:21:01,400 --> 00:21:02,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Where do you wanna go?</font></font>
+
+522
+00:21:02,880 --> 00:21:03,620
+<font face="Noto Sans S Chinese Regular"><font size="22">I love the ocean.</font></font>
+
+523
+00:21:04,310 --> 00:21:06,810
+<font face="Noto Sans S Chinese Regular"><font size="22">I wanna go to the Blue Hole in Dahab.</font></font>
+
+524
+00:21:07,550 --> 00:21:09,010
+<font face="Noto Sans S Chinese Regular"><font size="22">They also call it the Eye of the Ocean.</font></font>
+
+525
+00:21:09,680 --> 00:21:11,140
+<font face="Noto Sans S Chinese Regular"><font size="22">It's the easiest deep blue sea cave</font></font>
+
+526
+00:21:11,590 --> 00:21:12,940
+<font face="Noto Sans S Chinese Regular"><font size="22">for tourists to get to.</font></font>
+
+527
+00:21:13,310 --> 00:21:14,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Then let's go there.</font></font>
+
+528
+00:21:15,590 --> 00:21:16,900
+<font face="Noto Sans S Chinese Regular"><font size="22">We've got a whole month.</font></font>
+
+529
+00:21:17,350 --> 00:21:18,570
+<font face="Noto Sans S Chinese Regular"><font size="22">We can hit the Tower of Babel first,</font></font>
+
+530
+00:21:18,720 --> 00:21:19,660
+<font face="Noto Sans S Chinese Regular"><font size="22">then the Blue Hole.</font></font>
+
+531
+00:21:20,160 --> 00:21:20,860
+<font face="Noto Sans S Chinese Regular"><font size="22">They say</font></font>
+
+532
+00:21:20,920 --> 00:21:22,420
+<font face="Noto Sans S Chinese Regular"><font size="22">that the Tower of Babel is where humans</font></font>
+
+533
+00:21:22,550 --> 00:21:23,660
+<font face="Noto Sans S Chinese Regular"><font size="22">get closest to the heavens.</font></font>
+
+534
+00:21:24,070 --> 00:21:24,810
+<font face="Noto Sans S Chinese Regular"><font size="22">We could go from</font></font>
+
+535
+00:21:25,000 --> 00:21:26,940
+<font face="Noto Sans S Chinese Regular"><font size="22">the highest point on Earth</font></font>
+
+536
+00:21:27,480 --> 00:21:28,770
+<font face="Noto Sans S Chinese Regular"><font size="22">straight to the deepest.</font></font>
+
+537
+00:21:31,270 --> 00:21:32,290
+<font face="Noto Sans S Chinese Regular"><font size="22">How do you</font></font>
+
+538
+00:21:32,310 --> 00:21:33,860
+<font face="Noto Sans S Chinese Regular"><font size="22">make everything</font></font>
+
+539
+00:21:34,160 --> 00:21:35,810
+<font face="Noto Sans S Chinese Regular"><font size="22">sound so poetic?</font></font>
+
+540
+00:21:40,960 --> 00:21:42,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Must be that mature man charm</font></font>
+
+541
+00:21:43,200 --> 00:21:44,180
+<font face="Noto Sans S Chinese Regular"><font size="22">you talked about.</font></font>
+
+542
+00:21:48,240 --> 00:21:49,380
+<font face="Noto Sans S Chinese Regular"><font size="22">You're so petty,</font></font>
+
+543
+00:21:50,000 --> 00:21:51,380
+<font face="Noto Sans S Chinese Regular"><font size="22">and you hold grudges.</font></font>
+
+544
+00:21:52,030 --> 00:21:52,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Yeah.</font></font>
+
+545
+00:21:53,240 --> 00:21:53,860
+<font face="Noto Sans S Chinese Regular"><font size="22">I hold grudges.</font></font>
+
+546
+00:21:54,830 --> 00:21:55,700
+<font face="Noto Sans S Chinese Regular"><font size="22">And right now,</font></font>
+
+547
+00:21:56,000 --> 00:21:56,900
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm getting revenge.</font></font>
+
+548
+00:21:57,270 --> 00:21:57,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Here I come!</font></font>
+
+549
+00:21:59,480 --> 00:22:01,330
+<font face="Noto Sans S Chinese Regular"><font size="22">What are you doing? We have to get up early tomorrow.</font></font>
+
+550
+00:22:27,830 --> 00:22:31,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Go from the highest point on Earth...</font></font>
+
+551
+00:22:43,350 --> 00:22:45,330
+<font face="Noto Sans S Chinese Regular"><font size="22">We could go from</font></font>
+
+552
+00:22:48,030 --> 00:22:50,900
+<font face="Noto Sans S Chinese Regular"><font size="22">the highest point on Earth...</font></font>
+
+553
+00:22:56,750 --> 00:22:57,860
+<font face="Noto Sans S Chinese Regular"><font size="22">[I'm in Beijing]
+It's that supervisor surnamed Liu</font></font>
+
+554
+00:22:57,920 --> 00:22:58,810
+<font face="Noto Sans S Chinese Regular"><font size="22">from All Buy's quality inspection department.</font></font>
+
+555
+00:22:59,400 --> 00:23:00,180
+<font face="Noto Sans S Chinese Regular"><font size="22">Before it happened,</font></font>
+
+556
+00:23:00,200 --> 00:23:01,090
+<font face="Noto Sans S Chinese Regular"><font size="22">he posted a farewell video</font></font>
+
+557
+00:23:01,110 --> 00:23:02,050
+<font face="Noto Sans S Chinese Regular"><font size="22">on a video app.</font></font>
+
+558
+00:23:02,510 --> 00:23:03,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Said All Buy and Hezong teamed up</font></font>
+
+559
+00:23:03,880 --> 00:23:04,660
+<font face="Noto Sans S Chinese Regular"><font size="22">to force him out.</font></font>
+
+560
+00:23:05,680 --> 00:23:07,220
+<font face="Noto Sans S Chinese Regular"><font size="22">That consultant Ye</font></font>
+
+561
+00:23:08,200 --> 00:23:10,090
+<font face="Noto Sans S Chinese Regular"><font size="22">swore up and down</font></font>
+
+562
+00:23:10,440 --> 00:23:11,460
+<font face="Noto Sans S Chinese Regular"><font size="22">that after optimizing the process,</font></font>
+
+563
+00:23:11,830 --> 00:23:13,940
+<font face="Noto Sans S Chinese Regular"><font size="22">[Statement]
+it wouldn't cause us any trouble.</font></font>
+
+564
+00:23:14,680 --> 00:23:16,250
+<font face="Noto Sans S Chinese Regular"><font size="22">What a liar.</font></font>
+
+565
+00:23:18,750 --> 00:23:20,770
+<font face="Noto Sans S Chinese Regular"><font size="22">We're exactly the trouble</font></font>
+
+566
+00:23:20,830 --> 00:23:23,660
+<font face="Noto Sans S Chinese Regular"><font size="22">All Buy wants to cut loose!</font></font>
+
+567
+00:23:28,880 --> 00:23:30,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Word is, Mr. Liu</font></font>
+
+568
+00:23:30,070 --> 00:23:31,530
+<font face="Noto Sans S Chinese Regular"><font size="22">has over three million in mortgage debt.</font></font>
+
+569
+00:23:31,640 --> 00:23:32,660
+<font face="Noto Sans S Chinese Regular"><font size="22">His kid's still in the hospital.</font></font>
+
+570
+00:23:32,920 --> 00:23:34,380
+<font face="Noto Sans S Chinese Regular"><font size="22">That AI quality inspection system</font></font>
+
+571
+00:23:34,480 --> 00:23:35,900
+<font face="Noto Sans S Chinese Regular"><font size="22">All Buy brought in</font></font>
+
+572
+00:23:36,160 --> 00:23:37,460
+<font face="Noto Sans S Chinese Regular"><font size="22">uses robotic electronic eyes</font></font>
+
+573
+00:23:37,550 --> 00:23:38,380
+<font face="Noto Sans S Chinese Regular"><font size="22">and probes</font></font>
+
+574
+00:23:38,440 --> 00:23:39,420
+<font face="Noto Sans S Chinese Regular"><font size="22">to replace human inspectors.</font></font>
+
+575
+00:23:39,790 --> 00:23:41,180
+<font face="Noto Sans S Chinese Regular"><font size="22">One machine can replace</font></font>
+
+576
+00:23:41,270 --> 00:23:42,330
+<font face="Noto Sans S Chinese Regular"><font size="22">fifty quality inspectors.</font></font>
+
+577
+00:23:42,590 --> 00:23:43,380
+<font face="Noto Sans S Chinese Regular"><font size="22">[Hotspot Intel]
+So listen up, folks,</font></font>
+
+578
+00:23:43,680 --> 00:23:44,140
+<font face="Noto Sans S Chinese Regular"><font size="22">AI</font></font>
+
+579
+00:23:44,160 --> 00:23:45,250
+<font face="Noto Sans S Chinese Regular"><font size="22">doesn't just revolutionize industries.</font></font>
+
+580
+00:23:45,510 --> 00:23:46,620
+<font face="Noto Sans S Chinese Regular"><font size="22">It can cost lives.</font></font>
+
+581
+00:23:46,790 --> 00:23:48,290
+<font face="Noto Sans S Chinese Regular"><font size="22">- Mr. Su. - Mr. Su!</font></font>
+
+582
+00:23:48,310 --> 00:23:49,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Is what Mr. Liu said</font></font>
+
+583
+00:23:49,310 --> 00:23:50,250
+<font face="Noto Sans S Chinese Regular"><font size="22">in his video true?</font></font>
+
+584
+00:23:50,680 --> 00:23:51,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Did your company spend a fortune</font></font>
+
+585
+00:23:51,920 --> 00:23:52,770
+<font face="Noto Sans S Chinese Regular"><font size="22">hiring consultants to lay people off,</font></font>
+
+586
+00:23:52,790 --> 00:23:53,570
+<font face="Noto Sans S Chinese Regular"><font size="22">instead of giving old employees</font></font>
+
+587
+00:23:53,590 --> 00:23:54,180
+<font face="Noto Sans S Chinese Regular"><font size="22">fair compensation?</font></font>
+
+588
+00:23:54,480 --> 00:23:55,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Please answer directly.</font></font>
+
+589
+00:23:55,070 --> 00:23:55,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Su.</font></font>
+
+590
+00:23:55,720 --> 00:23:56,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Please answer directly.</font></font>
+
+591
+00:23:56,680 --> 00:23:56,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Su.</font></font>
+
+592
+00:23:57,200 --> 00:23:58,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Su. Did someone die at your company?</font></font>
+
+593
+00:23:58,680 --> 00:23:59,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Did someone jump?</font></font>
+
+594
+00:24:09,440 --> 00:24:10,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you sure HR</font></font>
+
+595
+00:24:10,240 --> 00:24:11,140
+<font face="Noto Sans S Chinese Regular"><font size="22">never pressured him to resign?</font></font>
+
+596
+00:24:11,480 --> 00:24:11,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Yes.</font></font>
+
+597
+00:24:12,240 --> 00:24:13,810
+<font face="Noto Sans S Chinese Regular"><font size="22">That's not what you told us back then.</font></font>
+
+598
+00:24:13,920 --> 00:24:14,700
+<font face="Noto Sans S Chinese Regular"><font size="22">This all happened so suddenly.</font></font>
+
+599
+00:24:14,750 --> 00:24:15,700
+<font face="Noto Sans S Chinese Regular"><font size="22">Fine. I'll talk to Mr. Ye.</font></font>
+
+600
+00:24:16,750 --> 00:24:17,460
+<font face="Noto Sans S Chinese Regular"><font size="22">I understand.</font></font>
+
+601
+00:24:20,000 --> 00:24:20,620
+<font face="Noto Sans S Chinese Regular"><font size="22">There you are.</font></font>
+
+602
+00:24:21,960 --> 00:24:22,700
+<font face="Noto Sans S Chinese Regular"><font size="22">The hospital said</font></font>
+
+603
+00:24:22,830 --> 00:24:23,330
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Liu</font></font>
+
+604
+00:24:23,350 --> 00:24:24,090
+<font face="Noto Sans S Chinese Regular"><font size="22">is out of the ICU.</font></font>
+
+605
+00:24:24,480 --> 00:24:26,140
+<font face="Noto Sans S Chinese Regular"><font size="22">He hit a light sign on the 29th floor,</font></font>
+
+606
+00:24:26,200 --> 00:24:27,290
+<font face="Noto Sans S Chinese Regular"><font size="22">then landed on a platform on the 7th.</font></font>
+
+607
+00:24:27,350 --> 00:24:28,250
+<font face="Noto Sans S Chinese Regular"><font size="22">He's not in any danger.</font></font>
+
+608
+00:24:29,440 --> 00:24:29,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Thank god.</font></font>
+
+609
+00:24:30,680 --> 00:24:31,490
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm going to see him right now.</font></font>
+
+610
+00:24:32,310 --> 00:24:32,900
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll come with you.</font></font>
+
+611
+00:24:35,030 --> 00:24:35,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi!</font></font>
+
+612
+00:24:36,350 --> 00:24:37,530
+<font face="Noto Sans S Chinese Regular"><font size="22">All Buy's on the line for you.</font></font>
+
+613
+00:24:39,590 --> 00:24:40,860
+<font face="Noto Sans S Chinese Regular"><font size="22">You go ahead. I'll catch up.</font></font>
+
+614
+00:24:43,110 --> 00:24:43,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Richard!</font></font>
+
+615
+00:24:46,750 --> 00:24:47,620
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you going to the hospital?</font></font>
+
+616
+00:24:50,480 --> 00:24:51,810
+<font face="Noto Sans S Chinese Regular"><font size="22">The crisis PR team is already there.</font></font>
+
+617
+00:24:51,880 --> 00:24:52,660
+<font face="Noto Sans S Chinese Regular"><font size="22">You don't need to go.</font></font>
+
+618
+00:24:54,680 --> 00:24:55,330
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai,</font></font>
+
+619
+00:24:57,030 --> 00:24:57,860
+<font face="Noto Sans S Chinese Regular"><font size="22">I want to apologize</font></font>
+
+620
+00:24:58,830 --> 00:24:59,620
+<font face="Noto Sans S Chinese Regular"><font size="22">to Mr. Liu in person.</font></font>
+
+621
+00:25:00,960 --> 00:25:02,730
+<font face="Noto Sans S Chinese Regular"><font size="22">We've always handled overseas projects.</font></font>
+
+622
+00:25:02,790 --> 00:25:04,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Domestic projects have always been yours.</font></font>
+
+623
+00:25:04,830 --> 00:25:06,050
+<font face="Noto Sans S Chinese Regular"><font size="22">We can't take this one.</font></font>
+
+624
+00:25:10,200 --> 00:25:11,460
+<font face="Noto Sans S Chinese Regular"><font size="22">You're back already?</font></font>
+
+625
+00:25:14,920 --> 00:25:15,660
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai said</font></font>
+
+626
+00:25:16,310 --> 00:25:17,250
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm not ready to go yet.</font></font>
+
+627
+00:25:18,240 --> 00:25:19,380
+<font face="Noto Sans S Chinese Regular"><font size="22">I get how that video</font></font>
+
+628
+00:25:19,440 --> 00:25:20,250
+<font face="Noto Sans S Chinese Regular"><font size="22">affected you.</font></font>
+
+629
+00:25:20,830 --> 00:25:21,530
+<font face="Noto Sans S Chinese Regular"><font size="22">But</font></font>
+
+630
+00:25:21,640 --> 00:25:22,980
+<font face="Noto Sans S Chinese Regular"><font size="22">you need to control your guilt.</font></font>
+
+631
+00:25:23,510 --> 00:25:25,220
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Liu didn't mention your name.</font></font>
+
+632
+00:25:25,510 --> 00:25:26,530
+<font face="Noto Sans S Chinese Regular"><font size="22">If you go apologize now,</font></font>
+
+633
+00:25:26,590 --> 00:25:28,220
+<font face="Noto Sans S Chinese Regular"><font size="22">you're taking all the blame</font></font>
+
+634
+00:25:28,270 --> 00:25:29,460
+<font face="Noto Sans S Chinese Regular"><font size="22">on yourself.</font></font>
+
+635
+00:25:29,750 --> 00:25:30,940
+<font face="Noto Sans S Chinese Regular"><font size="22">He just got stuck</font></font>
+
+636
+00:25:31,240 --> 00:25:32,490
+<font face="Noto Sans S Chinese Regular"><font size="22">in his own head for a moment.</font></font>
+
+637
+00:25:32,590 --> 00:25:34,050
+<font face="Noto Sans S Chinese Regular"><font size="22">He's fine now.</font></font>
+
+638
+00:25:36,350 --> 00:25:36,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai,</font></font>
+
+639
+00:25:38,350 --> 00:25:39,330
+<font face="Noto Sans S Chinese Regular"><font size="22">that's a human life.</font></font>
+
+640
+00:25:39,640 --> 00:25:40,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Okay.</font></font>
+
+641
+00:25:41,160 --> 00:25:42,490
+<font face="Noto Sans S Chinese Regular"><font size="22">I get how you feel.</font></font>
+
+642
+00:25:43,240 --> 00:25:44,050
+<font face="Noto Sans S Chinese Regular"><font size="22">It's like, I didn't kill him,</font></font>
+
+643
+00:25:44,070 --> 00:25:45,090
+<font face="Noto Sans S Chinese Regular"><font size="22">but he died because of me.</font></font>
+
+644
+00:25:45,350 --> 00:25:47,180
+<font face="Noto Sans S Chinese Regular"><font size="22">But how we handle this case now</font></font>
+
+645
+00:25:48,270 --> 00:25:49,700
+<font face="Noto Sans S Chinese Regular"><font size="22">isn't just about Mr. Liu.</font></font>
+
+646
+00:25:49,830 --> 00:25:51,250
+<font face="Noto Sans S Chinese Regular"><font size="22">It's about billions in business,</font></font>
+
+647
+00:25:51,480 --> 00:25:54,010
+<font face="Noto Sans S Chinese Regular"><font size="22">and new jobs for hundreds of employees.</font></font>
+
+648
+00:25:55,110 --> 00:25:56,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Don't lose sight of the big picture.</font></font>
+
+649
+00:25:58,480 --> 00:25:58,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai.</font></font>
+
+650
+00:26:00,480 --> 00:26:01,460
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm a partner.</font></font>
+
+651
+00:26:02,350 --> 00:26:03,140
+<font face="Noto Sans S Chinese Regular"><font size="22">This is my project.</font></font>
+
+652
+00:26:04,310 --> 00:26:05,620
+<font face="Noto Sans S Chinese Regular"><font size="22">I get first say over this!</font></font>
+
+653
+00:26:09,160 --> 00:26:10,570
+<font face="Noto Sans S Chinese Regular"><font size="22">There are a lot of reporters outside the hospital.</font></font>
+
+654
+00:26:10,750 --> 00:26:11,900
+<font face="Noto Sans S Chinese Regular"><font size="22">If you go now, you could cause</font></font>
+
+655
+00:26:11,920 --> 00:26:12,770
+<font face="Noto Sans S Chinese Regular"><font size="22">irreversible second-hand harm</font></font>
+
+656
+00:26:12,830 --> 00:26:13,980
+<font face="Noto Sans S Chinese Regular"><font size="22">to Mr. Liu and his family.</font></font>
+
+657
+00:26:14,070 --> 00:26:15,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Have you thought about that?</font></font>
+
+658
+00:26:16,720 --> 00:26:17,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Setting aside that I'm your boss,</font></font>
+
+659
+00:26:18,240 --> 00:26:19,220
+<font face="Noto Sans S Chinese Regular"><font size="22">as a friend,</font></font>
+
+660
+00:26:19,270 --> 00:26:21,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm suggesting you go home and rest.</font></font>
+
+661
+00:26:21,440 --> 00:26:23,140
+<font face="Noto Sans S Chinese Regular"><font size="22">Wait till you're in a better place</font></font>
+
+662
+00:26:23,240 --> 00:26:24,980
+<font face="Noto Sans S Chinese Regular"><font size="22">and PR has things under control.</font></font>
+
+663
+00:26:25,070 --> 00:26:26,250
+<font face="Noto Sans S Chinese Regular"><font size="22">It won't be too late then.</font></font>
+
+664
+00:26:26,550 --> 00:26:27,220
+<font face="Noto Sans S Chinese Regular"><font size="22">But Mr. Kai...</font></font>
+
+665
+00:26:27,270 --> 00:26:27,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Enough!</font></font>
+
+666
+00:26:28,400 --> 00:26:29,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Richard, I've got a lot of fires</font></font>
+
+667
+00:26:29,310 --> 00:26:30,090
+<font face="Noto Sans S Chinese Regular"><font size="22">to put out right now.</font></font>
+
+668
+00:26:30,310 --> 00:26:31,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Can you just give it a rest?</font></font>
+
+669
+00:26:33,240 --> 00:26:33,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Chi,</font></font>
+
+670
+00:26:34,750 --> 00:26:36,570
+<font face="Noto Sans S Chinese Regular"><font size="22">actually, back when we were on the Yuanzhou project,</font></font>
+
+671
+00:26:37,400 --> 00:26:38,570
+<font face="Noto Sans S Chinese Regular"><font size="22">I started thinking about something.</font></font>
+
+672
+00:26:40,160 --> 00:26:41,330
+<font face="Noto Sans S Chinese Regular"><font size="22">We in consulting</font></font>
+
+673
+00:26:42,640 --> 00:26:44,460
+<font face="Noto Sans S Chinese Regular"><font size="22">shouldn't just be responsible to the companies we serve.</font></font>
+
+674
+00:26:45,550 --> 00:26:47,330
+<font face="Noto Sans S Chinese Regular"><font size="22">We should be responsible to the actual people.</font></font>
+
+675
+00:26:49,720 --> 00:26:50,420
+<font face="Noto Sans S Chinese Regular"><font size="22">So</font></font>
+
+676
+00:26:51,880 --> 00:26:53,090
+<font face="Noto Sans S Chinese Regular"><font size="22">I have to go apologize to Mr. Liu.</font></font>
+
+677
+00:26:54,400 --> 00:26:55,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Whether Mr. Kai agrees or not,</font></font>
+
+678
+00:26:56,070 --> 00:26:56,700
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm going.</font></font>
+
+679
+00:27:03,750 --> 00:27:04,770
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll go with you then.</font></font>
+
+680
+00:27:08,830 --> 00:27:09,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you okay?</font></font>
+
+681
+00:27:13,030 --> 00:27:14,220
+<font face="Noto Sans S Chinese Regular"><font size="22">You seem</font></font>
+
+682
+00:27:14,240 --> 00:27:14,860
+<font face="Noto Sans S Chinese Regular"><font size="22">a little off today.</font></font>
+
+683
+00:27:16,880 --> 00:27:18,090
+<font face="Noto Sans S Chinese Regular"><font size="22">You just mentioned Yuanzhou.</font></font>
+
+684
+00:27:18,920 --> 00:27:20,180
+<font face="Noto Sans S Chinese Regular"><font size="22">Were you thinking about Wen Ruosen?</font></font>
+
+685
+00:27:22,400 --> 00:27:23,660
+<font face="Noto Sans S Chinese Regular"><font size="22">My kid's only eight.</font></font>
+
+686
+00:27:24,960 --> 00:27:26,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I really don't want to jump off a building.</font></font>
+
+687
+00:27:26,880 --> 00:27:27,940
+<font face="Noto Sans S Chinese Regular"><font size="22">But if you don't save me,</font></font>
+
+688
+00:27:28,720 --> 00:27:30,090
+<font face="Noto Sans S Chinese Regular"><font size="22">I really will jump.</font></font>
+
+689
+00:27:32,550 --> 00:27:33,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Before, you didn't want to be</font></font>
+
+690
+00:27:34,030 --> 00:27:34,620
+<font face="Noto Sans S Chinese Regular"><font size="22">too hard on him</font></font>
+
+691
+00:27:35,270 --> 00:27:36,530
+<font face="Noto Sans S Chinese Regular"><font size="22">after hearing that he wanted to jump.</font></font>
+
+692
+00:27:37,200 --> 00:27:37,810
+<font face="Noto Sans S Chinese Regular"><font size="22">You...</font></font>
+
+693
+00:27:43,920 --> 00:27:44,810
+<font face="Noto Sans S Chinese Regular"><font size="22">It's on me.</font></font>
+
+694
+00:27:47,590 --> 00:27:48,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Alright then.</font></font>
+
+695
+00:27:50,550 --> 00:27:51,620
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll explain it all to you sometime.</font></font>
+
+696
+00:28:02,590 --> 00:28:04,010
+<font face="Noto Sans S Chinese Regular"><font size="22">PR says someone from Xinrui Finance</font></font>
+
+697
+00:28:04,030 --> 00:28:04,900
+<font face="Noto Sans S Chinese Regular"><font size="22">is coming to interview soon.</font></font>
+
+698
+00:28:05,110 --> 00:28:05,810
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you up for it?</font></font>
+
+699
+00:28:09,400 --> 00:28:10,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Why don't you go home and rest?</font></font>
+
+700
+00:28:10,590 --> 00:28:11,380
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll handle things here.</font></font>
+
+701
+00:28:14,590 --> 00:28:15,180
+<font face="Noto Sans S Chinese Regular"><font size="22">Thanks.</font></font>
+
+702
+00:28:17,350 --> 00:28:18,250
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong's bid</font></font>
+
+703
+00:28:18,310 --> 00:28:20,220
+<font face="Noto Sans S Chinese Regular"><font size="22">was only for All Buy's overseas projects.</font></font>
+
+704
+00:28:20,680 --> 00:28:21,420
+<font face="Noto Sans S Chinese Regular"><font size="22">As for personnel changes</font></font>
+
+705
+00:28:21,480 --> 00:28:22,330
+<font face="Noto Sans S Chinese Regular"><font size="22">in the client's domestic</font></font>
+
+706
+00:28:22,350 --> 00:28:23,420
+<font face="Noto Sans S Chinese Regular"><font size="22">business department,</font></font>
+
+707
+00:28:23,480 --> 00:28:25,220
+<font face="Noto Sans S Chinese Regular"><font size="22">we don't have more detailed information.</font></font>
+
+708
+00:28:25,680 --> 00:28:27,420
+<font face="Noto Sans S Chinese Regular"><font size="22">So, does Hezong bear any responsibility</font></font>
+
+709
+00:28:27,510 --> 00:28:28,700
+<font face="Noto Sans S Chinese Regular"><font size="22">for All Buy's jumping incident?</font></font>
+
+710
+00:28:30,720 --> 00:28:32,180
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm not at liberty to answer that.</font></font>
+
+711
+00:28:32,240 --> 00:28:33,660
+<font face="Noto Sans S Chinese Regular"><font size="22">This is an internal matter</font></font>
+
+712
+00:28:33,720 --> 00:28:34,980
+<font face="Noto Sans S Chinese Regular"><font size="22">for All Buy.</font></font>
+
+713
+00:28:35,680 --> 00:28:37,330
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong only offered suggestions</font></font>
+
+714
+00:28:37,400 --> 00:28:38,490
+<font face="Noto Sans S Chinese Regular"><font size="22">for their overseas projects.</font></font>
+
+715
+00:28:52,140 --> 00:28:54,900
+<font face="Noto Sans S Chinese Regular"><font size="22">[Young Ye Xinzhi]</font></font>
+
+716
+00:29:15,920 --> 00:29:16,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai,</font></font>
+
+717
+00:29:16,720 --> 00:29:17,730
+<font face="Noto Sans S Chinese Regular"><font size="22">that's a human life.</font></font>
+
+718
+00:29:18,590 --> 00:29:20,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong is a top consulting firm.</font></font>
+
+719
+00:29:21,200 --> 00:29:22,620
+<font face="Noto Sans S Chinese Regular"><font size="22">And I'm the project lead.</font></font>
+
+720
+00:29:23,070 --> 00:29:24,050
+<font face="Noto Sans S Chinese Regular"><font size="22">I think we have an obligation</font></font>
+
+721
+00:29:24,440 --> 00:29:25,330
+<font face="Noto Sans S Chinese Regular"><font size="22">to apologize to the victim</font></font>
+
+722
+00:29:25,790 --> 00:29:27,140
+<font face="Noto Sans S Chinese Regular"><font size="22">and admit our mistakes to the public.</font></font>
+
+723
+00:29:27,200 --> 00:29:28,050
+<font face="Noto Sans S Chinese Regular"><font size="22">This is what we have to do!</font></font>
+
+724
+00:29:28,070 --> 00:29:29,420
+<font face="Noto Sans S Chinese Regular"><font size="22">No, no!</font></font>
+
+725
+00:29:30,790 --> 00:29:31,660
+<font face="Noto Sans S Chinese Regular"><font size="22">We didn't make a mistake.</font></font>
+
+726
+00:29:32,110 --> 00:29:33,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Consulting firms</font></font>
+
+727
+00:29:33,070 --> 00:29:33,860
+<font face="Noto Sans S Chinese Regular"><font size="22">are only advisors,</font></font>
+
+728
+00:29:33,920 --> 00:29:34,620
+<font face="Noto Sans S Chinese Regular"><font size="22">never the party involved.</font></font>
+
+729
+00:29:35,350 --> 00:29:36,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Your team provided a business</font></font>
+
+730
+00:29:37,030 --> 00:29:38,330
+<font face="Noto Sans S Chinese Regular"><font size="22">process integration plan for overseas expansion</font></font>
+
+731
+00:29:38,400 --> 00:29:39,980
+<font face="Noto Sans S Chinese Regular"><font size="22">that hasn't even been implemented yet.</font></font>
+
+732
+00:29:40,160 --> 00:29:40,980
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Liu's issue</font></font>
+
+733
+00:29:41,160 --> 00:29:42,330
+<font face="Noto Sans S Chinese Regular"><font size="22">happened because All Buy</font></font>
+
+734
+00:29:42,350 --> 00:29:42,860
+<font face="Noto Sans S Chinese Regular"><font size="22">messed things up</font></font>
+
+735
+00:29:42,880 --> 00:29:43,940
+<font face="Noto Sans S Chinese Regular"><font size="22">while using AI to overhaul</font></font>
+
+736
+00:29:44,000 --> 00:29:44,490
+<font face="Noto Sans S Chinese Regular"><font size="22">their workflow.</font></font>
+
+737
+00:29:44,550 --> 00:29:46,050
+<font face="Noto Sans S Chinese Regular"><font size="22">It has nothing to do with Hezong.</font></font>
+
+738
+00:30:01,300 --> 00:30:04,160
+<font face="Noto Sans S Chinese Regular"><font size="22">[Hezong Consulting]</font></font>
+
+739
+00:30:04,590 --> 00:30:05,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi.</font></font>
+
+740
+00:30:06,070 --> 00:30:06,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi?</font></font>
+
+741
+00:30:07,440 --> 00:30:08,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Got a minute?</font></font>
+
+742
+00:30:08,200 --> 00:30:08,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Let's talk.</font></font>
+
+743
+00:30:11,680 --> 00:30:12,570
+<font face="Noto Sans S Chinese Regular"><font size="22">I want to know</font></font>
+
+744
+00:30:13,000 --> 00:30:14,010
+<font face="Noto Sans S Chinese Regular"><font size="22">how you assess</font></font>
+
+745
+00:30:14,310 --> 00:30:15,290
+<font face="Noto Sans S Chinese Regular"><font size="22">the impact of this All Buy incident</font></font>
+
+746
+00:30:15,510 --> 00:30:16,420
+<font face="Noto Sans S Chinese Regular"><font size="22">on the company.</font></font>
+
+747
+00:30:16,960 --> 00:30:18,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Richard and I both think...</font></font>
+
+748
+00:30:18,070 --> 00:30:18,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Sorry.</font></font>
+
+749
+00:30:18,750 --> 00:30:20,010
+<font face="Noto Sans S Chinese Regular"><font size="22">I just want to hear your personal opinion.</font></font>
+
+750
+00:30:20,070 --> 00:30:21,860
+<font face="Noto Sans S Chinese Regular"><font size="22">Objective, calm, concise,</font></font>
+
+751
+00:30:21,920 --> 00:30:22,620
+<font face="Noto Sans S Chinese Regular"><font size="22">and neutral.</font></font>
+
+752
+00:30:26,310 --> 00:30:29,140
+<font face="Noto Sans S Chinese Regular"><font size="22">My personal stance...</font></font>
+
+753
+00:30:31,270 --> 00:30:32,700
+<font face="Noto Sans S Chinese Regular"><font size="22">It's hard for me to be completely neutral.</font></font>
+
+754
+00:30:33,310 --> 00:30:34,290
+<font face="Noto Sans S Chinese Regular"><font size="22">Because this whole thing</font></font>
+
+755
+00:30:34,480 --> 00:30:35,490
+<font face="Noto Sans S Chinese Regular"><font size="22">has affected me a lot too.</font></font>
+
+756
+00:30:36,480 --> 00:30:38,730
+<font face="Noto Sans S Chinese Regular"><font size="22">I can only try my best to calmly</font></font>
+
+757
+00:30:39,070 --> 00:30:40,380
+<font face="Noto Sans S Chinese Regular"><font size="22">share some of my observations with you.</font></font>
+
+758
+00:30:43,920 --> 00:30:45,090
+<font face="Noto Sans S Chinese Regular"><font size="22">Public opinion</font></font>
+
+759
+00:30:45,160 --> 00:30:46,330
+<font face="Noto Sans S Chinese Regular"><font size="22">isn't a big deal right now.</font></font>
+
+760
+00:30:46,440 --> 00:30:47,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Because to</font></font>
+
+761
+00:30:47,070 --> 00:30:48,330
+<font face="Noto Sans S Chinese Regular"><font size="22">everyday people,</font></font>
+
+762
+00:30:48,720 --> 00:30:50,140
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong and industry consultants</font></font>
+
+763
+00:30:50,200 --> 00:30:51,530
+<font face="Noto Sans S Chinese Regular"><font size="22">are still pretty unfamiliar concepts.</font></font>
+
+764
+00:30:51,920 --> 00:30:53,490
+<font face="Noto Sans S Chinese Regular"><font size="22">But long term,</font></font>
+
+765
+00:30:53,880 --> 00:30:54,770
+<font face="Noto Sans S Chinese Regular"><font size="22">the industry will have</font></font>
+
+766
+00:30:54,830 --> 00:30:56,220
+<font face="Noto Sans S Chinese Regular"><font size="22">negative views of Hezong</font></font>
+
+767
+00:30:56,310 --> 00:30:57,660
+<font face="Noto Sans S Chinese Regular"><font size="22">for at least half a year, maybe more.</font></font>
+
+768
+00:30:59,920 --> 00:31:00,900
+<font face="Noto Sans S Chinese Regular"><font size="22">That's a very precise analysis.</font></font>
+
+769
+00:31:02,160 --> 00:31:03,140
+<font face="Noto Sans S Chinese Regular"><font size="22">But still too conservative.</font></font>
+
+770
+00:31:04,000 --> 00:31:06,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong ranked number one</font></font>
+
+771
+00:31:06,550 --> 00:31:07,660
+<font face="Noto Sans S Chinese Regular"><font size="22">in sales among domestic</font></font>
+
+772
+00:31:07,720 --> 00:31:08,530
+<font face="Noto Sans S Chinese Regular"><font size="22">consulting firms last year,</font></font>
+
+773
+00:31:09,240 --> 00:31:09,770
+<font face="Noto Sans S Chinese Regular"><font size="22">but with the European</font></font>
+
+774
+00:31:09,830 --> 00:31:10,940
+<font face="Noto Sans S Chinese Regular"><font size="22">and American markets shrinking,</font></font>
+
+775
+00:31:11,440 --> 00:31:12,620
+<font face="Noto Sans S Chinese Regular"><font size="22">our business volume has dropped sharply.</font></font>
+
+776
+00:31:17,510 --> 00:31:18,490
+<font face="Noto Sans S Chinese Regular"><font size="22">You can scroll down.</font></font>
+
+777
+00:31:21,440 --> 00:31:22,420
+<font face="Noto Sans S Chinese Regular"><font size="22">To say the least,</font></font>
+
+778
+00:31:22,640 --> 00:31:24,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong is facing its winter right now.</font></font>
+
+779
+00:31:25,160 --> 00:31:27,090
+<font face="Noto Sans S Chinese Regular"><font size="22">The only ones with consulting budgets now</font></font>
+
+780
+00:31:27,160 --> 00:31:28,090
+<font face="Noto Sans S Chinese Regular"><font size="22">[Hezong Consulting]
+are the big internet firms.</font></font>
+
+781
+00:31:28,270 --> 00:31:29,330
+<font face="Noto Sans S Chinese Regular"><font size="22">[Global Revenue Analysis by Region]
+So I'm really counting</font></font>
+
+782
+00:31:29,590 --> 00:31:30,620
+<font face="Noto Sans S Chinese Regular"><font size="22">on Richard's</font></font>
+
+783
+00:31:30,790 --> 00:31:32,050
+<font face="Noto Sans S Chinese Regular"><font size="22">All Buy project to deliver smoothly,</font></font>
+
+784
+00:31:32,350 --> 00:31:33,010
+<font face="Noto Sans S Chinese Regular"><font size="22">become the company's</font></font>
+
+785
+00:31:33,030 --> 00:31:34,010
+<font face="Noto Sans S Chinese Regular"><font size="22">new breakthrough,</font></font>
+
+786
+00:31:34,790 --> 00:31:35,860
+<font face="Noto Sans S Chinese Regular"><font size="22">and lead other business</font></font>
+
+787
+00:31:35,960 --> 00:31:36,660
+<font face="Noto Sans S Chinese Regular"><font size="22">lines upward.</font></font>
+
+788
+00:31:39,830 --> 00:31:40,700
+<font face="Noto Sans S Chinese Regular"><font size="22">If Richard apologizes</font></font>
+
+789
+00:31:41,070 --> 00:31:41,980
+<font face="Noto Sans S Chinese Regular"><font size="22">and takes responsibility</font></font>
+
+790
+00:31:42,350 --> 00:31:43,770
+<font face="Noto Sans S Chinese Regular"><font size="22">out of personal impulse,</font></font>
+
+791
+00:31:44,550 --> 00:31:45,700
+<font face="Noto Sans S Chinese Regular"><font size="22">it could very well affect</font></font>
+
+792
+00:31:45,790 --> 00:31:47,090
+<font face="Noto Sans S Chinese Regular"><font size="22">the whole project moving forward.</font></font>
+
+793
+00:31:47,790 --> 00:31:48,980
+<font face="Noto Sans S Chinese Regular"><font size="22">If All Buy</font></font>
+
+794
+00:31:49,400 --> 00:31:50,570
+<font face="Noto Sans S Chinese Regular"><font size="22">ends our cooperation</font></font>
+
+795
+00:31:50,640 --> 00:31:51,700
+<font face="Noto Sans S Chinese Regular"><font size="22">because of this,</font></font>
+
+796
+00:31:51,750 --> 00:31:52,980
+<font face="Noto Sans S Chinese Regular"><font size="22">our internet projects</font></font>
+
+797
+00:31:53,270 --> 00:31:54,460
+<font face="Noto Sans S Chinese Regular"><font size="22">will take a major hit.</font></font>
+
+798
+00:31:54,920 --> 00:31:55,770
+<font face="Noto Sans S Chinese Regular"><font size="22">What we lose then</font></font>
+
+799
+00:31:56,310 --> 00:31:57,900
+<font face="Noto Sans S Chinese Regular"><font size="22">isn't just your team's effort</font></font>
+
+800
+00:31:58,960 --> 00:31:59,380
+<font face="Noto Sans S Chinese Regular"><font size="22">and money,</font></font>
+
+801
+00:32:00,350 --> 00:32:01,290
+<font face="Noto Sans S Chinese Regular"><font size="22">but Hezong's future.</font></font>
+
+802
+00:32:06,070 --> 00:32:06,660
+<font face="Noto Sans S Chinese Regular"><font size="22">I understand.</font></font>
+
+803
+00:32:09,310 --> 00:32:10,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Give me a little time.</font></font>
+
+804
+00:32:10,640 --> 00:32:11,570
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll talk to him.</font></font>
+
+805
+00:32:12,070 --> 00:32:13,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Make sure he keeps his emotions in check.</font></font>
+
+806
+00:32:13,590 --> 00:32:13,860
+<font face="Noto Sans S Chinese Regular"><font size="22">No.</font></font>
+
+807
+00:32:14,400 --> 00:32:16,730
+<font face="Noto Sans S Chinese Regular"><font size="22">What I need is for you to fully take over</font></font>
+
+808
+00:32:16,790 --> 00:32:17,620
+<font face="Noto Sans S Chinese Regular"><font size="22">the All Buy project,</font></font>
+
+809
+00:32:17,680 --> 00:32:19,220
+<font face="Noto Sans S Chinese Regular"><font size="22">completely shut down this incident,</font></font>
+
+810
+00:32:19,640 --> 00:32:21,010
+<font face="Noto Sans S Chinese Regular"><font size="22">and keep fulfilling the consulting contract.</font></font>
+
+811
+00:32:21,070 --> 00:32:22,770
+<font face="Noto Sans S Chinese Regular"><font size="22">And Richard absolutely cannot know.</font></font>
+
+812
+00:32:25,110 --> 00:32:26,250
+<font face="Noto Sans S Chinese Regular"><font size="22">I can't do that. Absolutely not.</font></font>
+
+813
+00:32:28,750 --> 00:32:30,140
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi, you know him better than I do.</font></font>
+
+814
+00:32:30,880 --> 00:32:32,180
+<font face="Noto Sans S Chinese Regular"><font size="22">But I've known him for over ten years.</font></font>
+
+815
+00:32:32,350 --> 00:32:33,290
+<font face="Noto Sans S Chinese Regular"><font size="22">I've never seen him</font></font>
+
+816
+00:32:33,350 --> 00:32:34,420
+<font face="Noto Sans S Chinese Regular"><font size="22">lose it like this</font></font>
+
+817
+00:32:34,440 --> 00:32:35,180
+<font face="Noto Sans S Chinese Regular"><font size="22">on any project.</font></font>
+
+818
+00:32:36,160 --> 00:32:38,330
+<font face="Noto Sans S Chinese Regular"><font size="22">I guess Mr. Liu's jump</font></font>
+
+819
+00:32:38,590 --> 00:32:39,660
+<font face="Noto Sans S Chinese Regular"><font size="22">triggered severe</font></font>
+
+820
+00:32:39,720 --> 00:32:40,530
+<font face="Noto Sans S Chinese Regular"><font size="22">PTSD in him.</font></font>
+
+821
+00:32:40,830 --> 00:32:41,730
+<font face="Noto Sans S Chinese Regular"><font size="22">Just now, I asked him</font></font>
+
+822
+00:32:41,830 --> 00:32:42,770
+<font face="Noto Sans S Chinese Regular"><font size="22">to follow PR's arrangements.</font></font>
+
+823
+00:32:42,790 --> 00:32:43,730
+<font face="Noto Sans S Chinese Regular"><font size="22">His reaction was intense.</font></font>
+
+824
+00:32:43,790 --> 00:32:44,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Public opinion is on fire.</font></font>
+
+825
+00:32:44,640 --> 00:32:45,250
+<font face="Noto Sans S Chinese Regular"><font size="22">For the company's sake,</font></font>
+
+826
+00:32:45,270 --> 00:32:46,330
+<font face="Noto Sans S Chinese Regular"><font size="22">I have to sideline him for now.</font></font>
+
+827
+00:32:47,480 --> 00:32:48,770
+<font face="Noto Sans S Chinese Regular"><font size="22">You're the number two on the team.</font></font>
+
+828
+00:32:49,240 --> 00:32:50,530
+<font face="Noto Sans S Chinese Regular"><font size="22">I want you to step up in this crisis,</font></font>
+
+829
+00:32:50,590 --> 00:32:51,330
+<font face="Noto Sans S Chinese Regular"><font size="22">handle the client,</font></font>
+
+830
+00:32:51,400 --> 00:32:52,530
+<font face="Noto Sans S Chinese Regular"><font size="22">manage the fallout,</font></font>
+
+831
+00:32:52,680 --> 00:32:53,810
+<font face="Noto Sans S Chinese Regular"><font size="22">and deliver the final results.</font></font>
+
+832
+00:32:55,590 --> 00:32:57,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai, I really can't.</font></font>
+
+833
+00:32:58,000 --> 00:32:58,530
+<font face="Noto Sans S Chinese Regular"><font size="22">This project...</font></font>
+
+834
+00:32:58,550 --> 00:32:59,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi, I hope you understand this.</font></font>
+
+835
+00:33:00,510 --> 00:33:01,460
+<font face="Noto Sans S Chinese Regular"><font size="22">If you don't take over,</font></font>
+
+836
+00:33:01,720 --> 00:33:02,770
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll assign</font></font>
+
+837
+00:33:02,830 --> 00:33:03,620
+<font face="Noto Sans S Chinese Regular"><font size="22">someone else.</font></font>
+
+838
+00:33:03,790 --> 00:33:04,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Another lead</font></font>
+
+839
+00:33:05,160 --> 00:33:06,250
+<font face="Noto Sans S Chinese Regular"><font size="22">won't care what happens to him</font></font>
+
+840
+00:33:06,310 --> 00:33:07,380
+<font face="Noto Sans S Chinese Regular"><font size="22">or look out for him.</font></font>
+
+841
+00:33:08,030 --> 00:33:09,140
+<font face="Noto Sans S Chinese Regular"><font size="22">If they need him to take the fall,</font></font>
+
+842
+00:33:09,160 --> 00:33:10,490
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll just nod along.</font></font>
+
+843
+00:33:12,680 --> 00:33:13,900
+<font face="Noto Sans S Chinese Regular"><font size="22">And he'll face the biggest failure</font></font>
+
+844
+00:33:13,960 --> 00:33:14,900
+<font face="Noto Sans S Chinese Regular"><font size="22">of his career.</font></font>
+
+845
+00:33:15,400 --> 00:33:16,530
+<font face="Noto Sans S Chinese Regular"><font size="22">You're the closest person to him.</font></font>
+
+846
+00:33:16,880 --> 00:33:18,620
+<font face="Noto Sans S Chinese Regular"><font size="22">Are you just gonna stand by and watch him</font></font>
+
+847
+00:33:18,920 --> 00:33:19,940
+<font face="Noto Sans S Chinese Regular"><font size="22">get replaced,</font></font>
+
+848
+00:33:20,160 --> 00:33:20,940
+<font face="Noto Sans S Chinese Regular"><font size="22">only for him to wake up</font></font>
+
+849
+00:33:20,960 --> 00:33:21,900
+<font face="Noto Sans S Chinese Regular"><font size="22">and regret it for the rest of his life?</font></font>
+
+850
+00:33:29,110 --> 00:33:30,140
+<font face="Noto Sans S Chinese Regular"><font size="22">Business is war.</font></font>
+
+851
+00:33:30,550 --> 00:33:31,620
+<font face="Noto Sans S Chinese Regular"><font size="22">When the general is out of form,</font></font>
+
+852
+00:33:31,830 --> 00:33:33,980
+<font face="Noto Sans S Chinese Regular"><font size="22">the second-in-command should take over.</font></font>
+
+853
+00:33:34,110 --> 00:33:34,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Because he knows</font></font>
+
+854
+00:33:35,310 --> 00:33:37,050
+<font face="Noto Sans S Chinese Regular"><font size="22">all the general wants is victory.</font></font>
+
+855
+00:33:38,110 --> 00:33:39,180
+<font face="Noto Sans S Chinese Regular"><font size="22">We in consulting</font></font>
+
+856
+00:33:39,510 --> 00:33:39,860
+<font face="Noto Sans S Chinese Regular"><font size="22">shouldn't just</font></font>
+
+857
+00:33:39,920 --> 00:33:41,250
+<font face="Noto Sans S Chinese Regular"><font size="22">be responsible to the companies we serve.</font></font>
+
+858
+00:33:41,640 --> 00:33:43,220
+<font face="Noto Sans S Chinese Regular"><font size="22">We should be responsible to the actual people.</font></font>
+
+859
+00:33:47,640 --> 00:33:48,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I have to</font></font>
+
+860
+00:33:48,160 --> 00:33:48,900
+<font face="Noto Sans S Chinese Regular"><font size="22">go apologize to Mr. Liu.</font></font>
+
+861
+00:33:49,590 --> 00:33:50,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Whether Mr. Kai agrees or not,</font></font>
+
+862
+00:33:51,480 --> 00:33:52,050
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm going.</font></font>
+
+863
+00:33:54,510 --> 00:33:56,140
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm not caving because of your threat.</font></font>
+
+864
+00:33:57,160 --> 00:33:58,250
+<font face="Noto Sans S Chinese Regular"><font size="22">I want to make</font></font>
+
+865
+00:33:58,510 --> 00:33:59,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Ye Xinzhi's vision a reality.</font></font>
+
+866
+00:34:00,030 --> 00:34:01,050
+<font face="Noto Sans S Chinese Regular"><font size="22">If I step up now,</font></font>
+
+867
+00:34:03,200 --> 00:34:04,330
+<font face="Noto Sans S Chinese Regular"><font size="22">what support will the company give me?</font></font>
+
+868
+00:34:04,830 --> 00:34:05,700
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll give you two promises.</font></font>
+
+869
+00:34:05,750 --> 00:34:06,140
+<font face="Noto Sans S Chinese Regular"><font size="22">First,</font></font>
+
+870
+00:34:06,350 --> 00:34:07,570
+<font face="Noto Sans S Chinese Regular"><font size="22">you can mobilize</font></font>
+
+871
+00:34:07,680 --> 00:34:08,610
+<font face="Noto Sans S Chinese Regular"><font size="22">all of Hezong's resources.</font></font>
+
+872
+00:34:08,670 --> 00:34:09,610
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll personally coordinate for you.</font></font>
+
+873
+00:34:09,670 --> 00:34:10,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Second,</font></font>
+
+874
+00:34:10,670 --> 00:34:11,610
+<font face="Noto Sans S Chinese Regular"><font size="22">if the project delivers smoothly,</font></font>
+
+875
+00:34:12,800 --> 00:34:13,860
+<font face="Noto Sans S Chinese Regular"><font size="22">you'll be promoted to project manager.</font></font>
+
+876
+00:35:01,960 --> 00:35:02,690
+<font face="Noto Sans S Chinese Regular"><font size="22">Xinzhi.</font></font>
+
+877
+00:35:05,320 --> 00:35:06,210
+<font face="Noto Sans S Chinese Regular"><font size="22">How come you're back so early?</font></font>
+
+878
+00:35:06,590 --> 00:35:07,420
+<font face="Noto Sans S Chinese Regular"><font size="22">I was worried about you.</font></font>
+
+879
+00:35:09,360 --> 00:35:11,090
+<font face="Noto Sans S Chinese Regular"><font size="22">So I came back to check on you.</font></font>
+
+880
+00:35:13,590 --> 00:35:14,940
+<font face="Noto Sans S Chinese Regular"><font size="22">I have to head back to the office soon.</font></font>
+
+881
+00:35:16,550 --> 00:35:17,420
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll go with you.</font></font>
+
+882
+00:35:19,960 --> 00:35:20,820
+<font face="Noto Sans S Chinese Regular"><font size="22">You should rest.</font></font>
+
+883
+00:35:21,190 --> 00:35:21,780
+<font face="Noto Sans S Chinese Regular"><font size="22">I've got this.</font></font>
+
+884
+00:35:22,630 --> 00:35:23,460
+<font face="Noto Sans S Chinese Regular"><font size="22">I got you some chicken soup.</font></font>
+
+885
+00:35:23,510 --> 00:35:24,130
+<font face="Noto Sans S Chinese Regular"><font size="22">You want some?</font></font>
+
+886
+00:35:25,360 --> 00:35:25,780
+<font face="Noto Sans S Chinese Regular"><font size="22">Thanks.</font></font>
+
+887
+00:35:33,630 --> 00:35:34,090
+<font face="Noto Sans S Chinese Regular"><font size="22">It's good.</font></font>
+
+888
+00:35:36,670 --> 00:35:37,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Have more, then.</font></font>
+
+889
+00:35:41,320 --> 00:35:41,820
+<font face="Noto Sans S Chinese Regular"><font size="22">Chi.</font></font>
+
+890
+00:35:43,670 --> 00:35:45,130
+<font face="Noto Sans S Chinese Regular"><font size="22">Once I've apologized</font></font>
+
+891
+00:35:45,360 --> 00:35:46,210
+<font face="Noto Sans S Chinese Regular"><font size="22">to Mr. Liu,</font></font>
+
+892
+00:35:46,960 --> 00:35:48,380
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm giving up my cut of the profits</font></font>
+
+893
+00:35:48,480 --> 00:35:48,980
+<font face="Noto Sans S Chinese Regular"><font size="22">from this project.</font></font>
+
+894
+00:35:49,960 --> 00:35:51,090
+<font face="Noto Sans S Chinese Regular"><font size="22">We can use it to compensate Mr. Liu</font></font>
+
+895
+00:35:51,480 --> 00:35:52,380
+<font face="Noto Sans S Chinese Regular"><font size="22">or set up</font></font>
+
+896
+00:35:52,440 --> 00:35:54,820
+<font face="Noto Sans S Chinese Regular"><font size="22">a charity fund for All Buy.</font></font>
+
+897
+00:35:55,710 --> 00:35:56,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Either way,</font></font>
+
+898
+00:35:56,880 --> 00:35:57,780
+<font face="Noto Sans S Chinese Regular"><font size="22">I want to minimize</font></font>
+
+899
+00:35:57,880 --> 00:35:59,690
+<font face="Noto Sans S Chinese Regular"><font size="22">the fallout of this shake-up</font></font>
+
+900
+00:35:59,880 --> 00:36:00,570
+<font face="Noto Sans S Chinese Regular"><font size="22">for the ground-level staff.</font></font>
+
+901
+00:36:03,760 --> 00:36:04,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Do you think that works?</font></font>
+
+902
+00:36:06,670 --> 00:36:07,210
+<font face="Noto Sans S Chinese Regular"><font size="22">Of course.</font></font>
+
+903
+00:36:08,960 --> 00:36:09,690
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll donate mine too.</font></font>
+
+904
+00:36:10,070 --> 00:36:11,210
+<font face="Noto Sans S Chinese Regular"><font size="22">I don't need to buy that apartment anyway.</font></font>
+
+905
+00:36:16,840 --> 00:36:17,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Xinzhi,</font></font>
+
+906
+00:36:18,590 --> 00:36:20,010
+<font face="Noto Sans S Chinese Regular"><font size="22">let me take over everything</font></font>
+
+907
+00:36:21,070 --> 00:36:22,420
+<font face="Noto Sans S Chinese Regular"><font size="22">on this project going forward, okay?</font></font>
+
+908
+00:36:23,510 --> 00:36:24,170
+<font face="Noto Sans S Chinese Regular"><font size="22">We'll go see Mr. Liu</font></font>
+
+909
+00:36:24,190 --> 00:36:25,010
+<font face="Noto Sans S Chinese Regular"><font size="22">in a day or two.</font></font>
+
+910
+00:36:31,070 --> 00:36:32,260
+<font face="Noto Sans S Chinese Regular"><font size="22">Don't go online</font></font>
+
+911
+00:36:33,070 --> 00:36:33,900
+<font face="Noto Sans S Chinese Regular"><font size="22">today.</font></font>
+
+912
+00:36:35,000 --> 00:36:37,090
+<font face="Noto Sans S Chinese Regular"><font size="22">And stay off the work group chats.</font></font>
+
+913
+00:36:37,920 --> 00:36:38,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Wait for me to come back.</font></font>
+
+914
+00:36:39,920 --> 00:36:40,380
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll wait for you.</font></font>
+
+915
+00:36:42,960 --> 00:36:43,940
+<font face="Noto Sans S Chinese Regular"><font size="22">Xinzhi, trust me.</font></font>
+
+916
+00:36:44,110 --> 00:36:44,940
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll do everything I can</font></font>
+
+917
+00:36:45,000 --> 00:36:46,210
+<font face="Noto Sans S Chinese Regular"><font size="22">to help you,</font></font>
+
+918
+00:36:46,630 --> 00:36:47,260
+<font face="Noto Sans S Chinese Regular"><font size="22">to help us.</font></font>
+
+919
+00:36:48,110 --> 00:36:48,650
+<font face="Noto Sans S Chinese Regular"><font size="22">I don't even know</font></font>
+
+920
+00:36:48,670 --> 00:36:49,780
+<font face="Noto Sans S Chinese Regular"><font size="22">if I can pull this off.</font></font>
+
+921
+00:36:50,840 --> 00:36:53,340
+<font face="Noto Sans S Chinese Regular"><font size="22">If I do something you don't like,</font></font>
+
+922
+00:36:54,710 --> 00:36:55,610
+<font face="Noto Sans S Chinese Regular"><font size="22">don't be mad at me.</font></font>
+
+923
+00:36:56,630 --> 00:36:57,170
+<font face="Noto Sans S Chinese Regular"><font size="22">Everything I do</font></font>
+
+924
+00:36:57,190 --> 00:36:58,380
+<font face="Noto Sans S Chinese Regular"><font size="22">is for our future.</font></font>
+
+925
+00:37:01,280 --> 00:37:02,300
+<font face="Noto Sans S Chinese Regular"><font size="22">Of course I trust you.</font></font>
+
+926
+00:37:11,030 --> 00:37:12,380
+<font face="Noto Sans S Chinese Regular"><font size="22">When my ears were messed up,</font></font>
+
+927
+00:37:13,630 --> 00:37:14,530
+<font face="Noto Sans S Chinese Regular"><font size="22">you healed me.</font></font>
+
+928
+00:37:16,320 --> 00:37:16,980
+<font face="Noto Sans S Chinese Regular"><font size="22">This time,</font></font>
+
+929
+00:37:18,230 --> 00:37:19,170
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll be your support.</font></font>
+
+930
+00:37:31,920 --> 00:37:32,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Thanks.</font></font>
+
+931
+00:38:08,520 --> 00:38:09,200
+<font face="Noto Sans S Chinese Regular"><font size="22">[All Buy Project Work Group Chat]</font></font>
+
+932
+00:38:11,230 --> 00:38:12,840
+<font face="Noto Sans S Chinese Regular"><font size="22">[Ye Xinzhi]</font></font>
+
+933
+00:38:15,600 --> 00:38:16,900
+<font face="Noto Sans S Chinese Regular"><font size="22">[Remove group member Ye Xinzhi? Only the removed member will be notified.]</font></font>
+
+934
+00:38:16,900 --> 00:38:17,260
+<font face="Noto Sans S Chinese Regular"><font size="22">[Remove]</font></font>
+
+935
+00:38:26,200 --> 00:38:29,240
+<font face="Noto Sans S Chinese Regular"><font size="22">[All Buy]</font></font>
+
+936
+00:38:31,480 --> 00:38:33,010
+<font face="Noto Sans S Chinese Regular"><font size="22">This approach is too risky.</font></font>
+
+937
+00:38:33,960 --> 00:38:35,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Admitting to the media</font></font>
+
+938
+00:38:35,400 --> 00:38:36,340
+<font face="Noto Sans S Chinese Regular"><font size="22">that we're responsible</font></font>
+
+939
+00:38:36,360 --> 00:38:36,980
+<font face="Noto Sans S Chinese Regular"><font size="22">for an employee's suicide?</font></font>
+
+940
+00:38:37,480 --> 00:38:38,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Isn't that basically</font></font>
+
+941
+00:38:38,590 --> 00:38:39,490
+<font face="Noto Sans S Chinese Regular"><font size="22">brand suicide</font></font>
+
+942
+00:38:39,590 --> 00:38:40,300
+<font face="Noto Sans S Chinese Regular"><font size="22">for All Buy?</font></font>
+
+943
+00:38:41,800 --> 00:38:43,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong's many cases</font></font>
+
+944
+00:38:43,070 --> 00:38:43,650
+<font face="Noto Sans S Chinese Regular"><font size="22">prove</font></font>
+
+945
+00:38:43,760 --> 00:38:45,690
+<font face="Noto Sans S Chinese Regular"><font size="22">that honesty is the best way</font></font>
+
+946
+00:38:45,760 --> 00:38:46,860
+<font face="Noto Sans S Chinese Regular"><font size="22">to handle public scrutiny.</font></font>
+
+947
+00:38:47,880 --> 00:38:48,740
+<font face="Noto Sans S Chinese Regular"><font size="22">And morally and logically,</font></font>
+
+948
+00:38:48,760 --> 00:38:49,460
+<font face="Noto Sans S Chinese Regular"><font size="22">don't we owe the public</font></font>
+
+949
+00:38:49,510 --> 00:38:50,170
+<font face="Noto Sans S Chinese Regular"><font size="22">an explanation?</font></font>
+
+950
+00:38:50,360 --> 00:38:51,780
+<font face="Noto Sans S Chinese Regular"><font size="22">That was then, and this is now!</font></font>
+
+951
+00:38:52,230 --> 00:38:53,300
+<font face="Noto Sans S Chinese Regular"><font size="22">Your plan is nothing but a gamble!</font></font>
+
+952
+00:38:53,760 --> 00:38:54,610
+<font face="Noto Sans S Chinese Regular"><font size="22">Can you honestly prove</font></font>
+
+953
+00:38:54,840 --> 00:38:55,460
+<font face="Noto Sans S Chinese Regular"><font size="22">there's no risk</font></font>
+
+954
+00:38:55,550 --> 00:38:56,130
+<font face="Noto Sans S Chinese Regular"><font size="22">if we go your way?</font></font>
+
+955
+00:38:56,510 --> 00:38:57,340
+<font face="Noto Sans S Chinese Regular"><font size="22">And Mr. Kai</font></font>
+
+956
+00:38:57,480 --> 00:38:58,260
+<font face="Noto Sans S Chinese Regular"><font size="22">would never stand</font></font>
+
+957
+00:38:58,360 --> 00:38:59,530
+<font face="Noto Sans S Chinese Regular"><font size="22">for both sides taking the blame!</font></font>
+
+958
+00:38:59,670 --> 00:39:00,300
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai gave me</font></font>
+
+959
+00:39:00,360 --> 00:39:01,210
+<font face="Noto Sans S Chinese Regular"><font size="22">full authority</font></font>
+
+960
+00:39:01,280 --> 00:39:01,980
+<font face="Noto Sans S Chinese Regular"><font size="22">to handle this.</font></font>
+
+961
+00:39:02,030 --> 00:39:03,050
+<font face="Noto Sans S Chinese Regular"><font size="22">My decision</font></font>
+
+962
+00:39:03,440 --> 00:39:04,570
+<font face="Noto Sans S Chinese Regular"><font size="22">is his decision.</font></font>
+
+963
+00:39:04,880 --> 00:39:06,300
+<font face="Noto Sans S Chinese Regular"><font size="22">And I can't guarantee a thing.</font></font>
+
+964
+00:39:06,360 --> 00:39:07,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Because in business,</font></font>
+
+965
+00:39:07,440 --> 00:39:08,340
+<font face="Noto Sans S Chinese Regular"><font size="22">every second</font></font>
+
+966
+00:39:08,440 --> 00:39:09,380
+<font face="Noto Sans S Chinese Regular"><font size="22">carries risk.</font></font>
+
+967
+00:39:10,360 --> 00:39:11,380
+<font face="Noto Sans S Chinese Regular"><font size="22">But have you thought</font></font>
+
+968
+00:39:11,800 --> 00:39:13,490
+<font face="Noto Sans S Chinese Regular"><font size="22">about what would happen if Hezong didn't stick</font></font>
+
+969
+00:39:13,760 --> 00:39:14,780
+<font face="Noto Sans S Chinese Regular"><font size="22">to the principle of consultants</font></font>
+
+970
+00:39:14,800 --> 00:39:16,090
+<font face="Noto Sans S Chinese Regular"><font size="22">standing with their clients?</font></font>
+
+971
+00:39:16,230 --> 00:39:16,900
+<font face="Noto Sans S Chinese Regular"><font size="22">Why are we sitting here</font></font>
+
+972
+00:39:16,920 --> 00:39:17,460
+<font face="Noto Sans S Chinese Regular"><font size="22">right now?</font></font>
+
+973
+00:39:18,070 --> 00:39:19,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Because Richard and I both believe</font></font>
+
+974
+00:39:19,760 --> 00:39:20,940
+<font face="Noto Sans S Chinese Regular"><font size="22">we should take on the responsibility</font></font>
+
+975
+00:39:21,230 --> 00:39:22,090
+<font face="Noto Sans S Chinese Regular"><font size="22">we ought to.</font></font>
+
+976
+00:39:24,150 --> 00:39:24,650
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Su,</font></font>
+
+977
+00:39:25,630 --> 00:39:26,690
+<font face="Noto Sans S Chinese Regular"><font size="22">we are no longer just</font></font>
+
+978
+00:39:26,710 --> 00:39:27,860
+<font face="Noto Sans S Chinese Regular"><font size="22">a service provider.</font></font>
+
+979
+00:39:28,710 --> 00:39:29,860
+<font face="Noto Sans S Chinese Regular"><font size="22">We are a partner standing</font></font>
+
+980
+00:39:29,920 --> 00:39:31,650
+<font face="Noto Sans S Chinese Regular"><font size="22">shoulder to shoulder with you.</font></font>
+
+981
+00:39:32,760 --> 00:39:33,940
+<font face="Noto Sans S Chinese Regular"><font size="22">If All Buy is taking a gamble,</font></font>
+
+982
+00:39:34,400 --> 00:39:35,690
+<font face="Noto Sans S Chinese Regular"><font size="22">then by standing</font></font>
+
+983
+00:39:35,760 --> 00:39:36,530
+<font face="Noto Sans S Chinese Regular"><font size="22">with you tomorrow,</font></font>
+
+984
+00:39:37,150 --> 00:39:38,050
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong is putting its reputation</font></font>
+
+985
+00:39:38,110 --> 00:39:39,300
+<font face="Noto Sans S Chinese Regular"><font size="22">in the industry on the line as well.</font></font>
+
+986
+00:40:04,800 --> 00:40:05,780
+<font face="Noto Sans S Chinese Regular"><font size="22">It's almost midnight.</font></font>
+
+987
+00:40:06,110 --> 00:40:07,130
+<font face="Noto Sans S Chinese Regular"><font size="22">I think we're all tired.</font></font>
+
+988
+00:40:07,480 --> 00:40:09,650
+<font face="Noto Sans S Chinese Regular"><font size="22">I don't see any point</font></font>
+
+989
+00:40:09,710 --> 00:40:11,460
+<font face="Noto Sans S Chinese Regular"><font size="22">in dragging out this pointless argument.</font></font>
+
+990
+00:40:12,030 --> 00:40:12,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Alright then.</font></font>
+
+991
+00:40:14,110 --> 00:40:15,130
+<font face="Noto Sans S Chinese Regular"><font size="22">We need your official response</font></font>
+
+992
+00:40:15,230 --> 00:40:16,170
+<font face="Noto Sans S Chinese Regular"><font size="22">by 2 AM.</font></font>
+
+993
+00:40:18,510 --> 00:40:19,820
+<font face="Noto Sans S Chinese Regular"><font size="22">Sorry. We need to head out.</font></font>
+
+994
+00:40:30,880 --> 00:40:31,460
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Su.</font></font>
+
+995
+00:40:32,800 --> 00:40:33,820
+<font face="Noto Sans S Chinese Regular"><font size="22">In the business world,</font></font>
+
+996
+00:40:33,920 --> 00:40:34,940
+<font face="Noto Sans S Chinese Regular"><font size="22">no company</font></font>
+
+997
+00:40:35,320 --> 00:40:36,170
+<font face="Noto Sans S Chinese Regular"><font size="22">is irreplaceable.</font></font>
+
+998
+00:40:36,630 --> 00:40:37,130
+<font face="Noto Sans S Chinese Regular"><font size="22">If All Buy</font></font>
+
+999
+00:40:37,150 --> 00:40:38,420
+<font face="Noto Sans S Chinese Regular"><font size="22">can get through this,</font></font>
+
+1000
+00:40:38,960 --> 00:40:40,210
+<font face="Noto Sans S Chinese Regular"><font size="22">the sky's the limit.</font></font>
+
+1001
+00:40:40,360 --> 00:40:41,010
+<font face="Noto Sans S Chinese Regular"><font size="22">But if it can't,</font></font>
+
+1002
+00:40:42,440 --> 00:40:43,490
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm sure All Buy's</font></font>
+
+1003
+00:40:43,550 --> 00:40:44,300
+<font face="Noto Sans S Chinese Regular"><font size="22">competitors</font></font>
+
+1004
+00:40:44,360 --> 00:40:45,610
+<font face="Noto Sans S Chinese Regular"><font size="22">will gladly step up.</font></font>
+
+1005
+00:40:46,230 --> 00:40:46,980
+<font face="Noto Sans S Chinese Regular"><font size="22">And when that happens,</font></font>
+
+1006
+00:40:48,630 --> 00:40:49,260
+<font face="Noto Sans S Chinese Regular"><font size="22">Hezong will</font></font>
+
+1007
+00:40:49,320 --> 00:40:50,170
+<font face="Noto Sans S Chinese Regular"><font size="22">serve them</font></font>
+
+1008
+00:40:50,510 --> 00:40:51,420
+<font face="Noto Sans S Chinese Regular"><font size="22">with the same professionalism.</font></font>
+
+1009
+00:41:03,760 --> 00:41:04,820
+<font face="Noto Sans S Chinese Regular"><font size="22">Are we really just leaving like this?</font></font>
+
+1010
+00:41:07,800 --> 00:41:08,340
+<font face="Noto Sans S Chinese Regular"><font size="22">Miss Xu.</font></font>
+
+1011
+00:41:10,510 --> 00:41:11,130
+<font face="Noto Sans S Chinese Regular"><font size="22">Wait a second.</font></font>
+
+1012
+00:41:16,190 --> 00:41:17,650
+<font face="Noto Sans S Chinese Regular"><font size="22">Please get us a printer.</font></font>
+
+1013
+00:41:17,760 --> 00:41:18,900
+<font face="Noto Sans S Chinese Regular"><font size="22">By 10 AM tomorrow,</font></font>
+
+1014
+00:41:18,960 --> 00:41:19,740
+<font face="Noto Sans S Chinese Regular"><font size="22">we'll have</font></font>
+
+1015
+00:41:19,880 --> 00:41:20,860
+<font face="Noto Sans S Chinese Regular"><font size="22">a game plan</font></font>
+
+1016
+00:41:20,920 --> 00:41:21,460
+<font face="Noto Sans S Chinese Regular"><font size="22">ready to go.</font></font>
+
+1017
+00:41:22,280 --> 00:41:23,820
+<font face="Noto Sans S Chinese Regular"><font size="22">The GM's Office, PR, and I</font></font>
+
+1018
+00:41:24,280 --> 00:41:25,090
+<font face="Noto Sans S Chinese Regular"><font size="22">are pulling an all-nighter</font></font>
+
+1019
+00:41:25,110 --> 00:41:25,980
+<font face="Noto Sans S Chinese Regular"><font size="22">to back you up.</font></font>
+
+1020
+00:41:28,000 --> 00:41:28,490
+<font face="Noto Sans S Chinese Regular"><font size="22">Everyone,</font></font>
+
+1021
+00:41:29,400 --> 00:41:30,380
+<font face="Noto Sans S Chinese Regular"><font size="22">time to grind.</font></font>
+
+1022
+00:41:31,280 --> 00:41:31,650
+<font face="Noto Sans S Chinese Regular"><font size="22">Let's go!</font></font>
+
+1023
+00:41:32,190 --> 00:41:32,740
+<font face="Noto Sans S Chinese Regular"><font size="22">- Let's do this! - Let's do this!</font></font>
+
+1024
+00:41:41,590 --> 00:41:42,010
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi.</font></font>
+
+1025
+00:41:46,920 --> 00:41:47,340
+<font face="Noto Sans S Chinese Regular"><font size="22">Mr. Kai.</font></font>
+
+1026
+00:41:47,760 --> 00:41:48,460
+<font face="Noto Sans S Chinese Regular"><font size="22">You're something else.</font></font>
+
+1027
+00:41:49,110 --> 00:41:50,210
+<font face="Noto Sans S Chinese Regular"><font size="22">I only agreed</font></font>
+
+1028
+00:41:50,400 --> 00:41:51,380
+<font face="Noto Sans S Chinese Regular"><font size="22">to sideline Richard.</font></font>
+
+1029
+00:41:51,480 --> 00:41:52,130
+<font face="Noto Sans S Chinese Regular"><font size="22">I didn't agree</font></font>
+
+1030
+00:41:52,190 --> 00:41:53,820
+<font face="Noto Sans S Chinese Regular"><font size="22">to let Hezong and All Buy share the blame!</font></font>
+
+1031
+00:41:54,800 --> 00:41:55,900
+<font face="Noto Sans S Chinese Regular"><font size="22">A public apology?</font></font>
+
+1032
+00:41:56,400 --> 00:41:57,610
+<font face="Noto Sans S Chinese Regular"><font size="22">I'd rather have him</font></font>
+
+1033
+00:41:57,880 --> 00:41:59,420
+<font face="Noto Sans S Chinese Regular"><font size="22">apologize to Mr. Liu in private!</font></font>
+
+1034
+00:42:02,800 --> 00:42:03,460
+<font face="Noto Sans S Chinese Regular"><font size="22">A general in the field</font></font>
+
+1035
+00:42:03,670 --> 00:42:04,900
+<font face="Noto Sans S Chinese Regular"><font size="22">can ignore the king's orders.</font></font>
+
+1036
+00:42:05,670 --> 00:42:06,130
+<font face="Noto Sans S Chinese Regular"><font size="22">The plan</font></font>
+
+1037
+00:42:06,190 --> 00:42:07,170
+<font face="Noto Sans S Chinese Regular"><font size="22">is already in motion.</font></font>
+
+1038
+00:42:07,230 --> 00:42:08,010
+<font face="Noto Sans S Chinese Regular"><font size="22">There's no turning back.</font></font>
+
+1039
+00:42:08,920 --> 00:42:09,340
+<font face="Noto Sans S Chinese Regular"><font size="22">Why?</font></font>
+
+1040
+00:42:09,920 --> 00:42:10,380
+<font face="Noto Sans S Chinese Regular"><font size="22">Why not...?</font></font>
+
+1041
+00:42:10,400 --> 00:42:11,570
+<font face="Noto Sans S Chinese Regular"><font size="22">Please take a closer look</font></font>
+
+1042
+00:42:11,590 --> 00:42:12,260
+<font face="Noto Sans S Chinese Regular"><font size="22">at my plan.</font></font>
+
+1043
+00:42:12,320 --> 00:42:13,300
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm not apologizing.</font></font>
+
+1044
+00:42:13,880 --> 00:42:14,740
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm taking responsibility.</font></font>
+
+1045
+00:42:16,440 --> 00:42:17,380
+<font face="Noto Sans S Chinese Regular"><font size="22">I firmly believe this plan</font></font>
+
+1046
+00:42:17,400 --> 00:42:18,050
+<font face="Noto Sans S Chinese Regular"><font size="22">is the best way</font></font>
+
+1047
+00:42:18,110 --> 00:42:19,260
+<font face="Noto Sans S Chinese Regular"><font size="22">to resolve this crisis.</font></font>
+
+1048
+00:42:19,550 --> 00:42:20,570
+<font face="Noto Sans S Chinese Regular"><font size="22">It keeps Hezong</font></font>
+
+1049
+00:42:20,630 --> 00:42:21,820
+<font face="Noto Sans S Chinese Regular"><font size="22">and All Buy working together,</font></font>
+
+1050
+00:42:22,510 --> 00:42:23,380
+<font face="Noto Sans S Chinese Regular"><font size="22">and it actually helps</font></font>
+
+1051
+00:42:23,440 --> 00:42:24,380
+<font face="Noto Sans S Chinese Regular"><font size="22">people like Mr. Liu</font></font>
+
+1052
+00:42:24,710 --> 00:42:25,530
+<font face="Noto Sans S Chinese Regular"><font size="22">who got hurt</font></font>
+
+1053
+00:42:25,590 --> 00:42:26,570
+<font face="Noto Sans S Chinese Regular"><font size="22">in this whole thing.</font></font>
+
+1054
+00:42:27,070 --> 00:42:28,170
+<font face="Noto Sans S Chinese Regular"><font size="22">What if something goes wrong?</font></font>
+
+1055
+00:42:32,800 --> 00:42:33,340
+<font face="Noto Sans S Chinese Regular"><font size="22">I'll resign.</font></font>
+
+1056
+00:42:45,110 --> 00:42:45,780
+<font face="Noto Sans S Chinese Regular"><font size="22">My college classmate</font></font>
+
+1057
+00:42:45,840 --> 00:42:47,260
+<font face="Noto Sans S Chinese Regular"><font size="22">does new media promotion and outreach.</font></font>
+
+1058
+00:42:47,590 --> 00:42:48,860
+<font face="Noto Sans S Chinese Regular"><font size="22">He just called to tell me</font></font>
+
+1059
+00:42:49,110 --> 00:42:50,130
+<font face="Noto Sans S Chinese Regular"><font size="22">two of All Buy's biggest competitors,</font></font>
+
+1060
+00:42:50,190 --> 00:42:51,690
+<font face="Noto Sans S Chinese Regular"><font size="22">Goushijie and TTBUY,</font></font>
+
+1061
+00:42:51,880 --> 00:42:52,780
+<font face="Noto Sans S Chinese Regular"><font size="22">are pushing negative publicity</font></font>
+
+1062
+00:42:52,840 --> 00:42:53,900
+<font face="Noto Sans S Chinese Regular"><font size="22">around 4 PM tomorrow.</font></font>
+
+1063
+00:42:55,000 --> 00:42:55,570
+<font face="Noto Sans S Chinese Regular"><font size="22">I got it.</font></font>
+
+1064
+00:42:57,030 --> 00:42:58,170
+<font face="Noto Sans S Chinese Regular"><font size="22">I already have a plan in place.</font></font>
+
+1065
+00:42:58,230 --> 00:42:59,530
+<font face="Noto Sans S Chinese Regular"><font size="22">We'll push ours out</font></font>
+
+1066
+00:42:59,590 --> 00:43:00,260
+<font face="Noto Sans S Chinese Regular"><font size="22">before noon tomorrow.</font></font>
+
+1067
+00:43:02,110 --> 00:43:02,610
+<font face="Noto Sans S Chinese Regular"><font size="22">Good.</font></font>
+
+1068
+00:43:03,590 --> 00:43:04,130
+<font face="Noto Sans S Chinese Regular"><font size="22">Lin.</font></font>
+
+1069
+00:43:05,800 --> 00:43:06,530
+<font face="Noto Sans S Chinese Regular"><font size="22">Thank you, really.</font></font>
+
+1070
+00:43:07,190 --> 00:43:07,740
+<font face="Noto Sans S Chinese Regular"><font size="22">Go do your thing.</font></font>
+
+1071
+00:43:07,800 --> 00:43:08,300
+<font face="Noto Sans S Chinese Regular"><font size="22">I'm hanging up.</font></font>
+
+1072
+00:43:16,840 --> 00:43:17,420
+<font face="Noto Sans S Chinese Regular"><font size="22">Xu Chi,</font></font>
+
+1073
+00:43:18,030 --> 00:43:19,340
+<font face="Noto Sans S Chinese Regular"><font size="22">there's no room for hesitation anymore.</font></font>
+
+1074
+00:43:42,620 --> 00:43:47,500
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Orange sky at dusk; the evening breeze is waiting♪</font></font>
+
+1075
+00:43:47,780 --> 00:43:52,660
+<font face="Noto Sans S Chinese Regular"><font size="22">♪The crowd at the crossing suddenly scatters♪</font></font>
+
+1076
+00:43:52,900 --> 00:44:01,220
+<font face="Noto Sans S Chinese Regular"><font size="22">♪This world moves too fast, yet you walk slowly toward me♪</font></font>
+
+1077
+00:44:03,540 --> 00:44:08,460
+<font face="Noto Sans S Chinese Regular"><font size="22">♪We're like the evening breeze tangling with the clouds♪</font></font>
+
+1078
+00:44:08,620 --> 00:44:13,540
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Strolling among the clouds, waiting for the sky to clear♪</font></font>
+
+1079
+00:44:13,580 --> 00:44:18,140
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Last time you had something left unsaid, right?♪</font></font>
+
+1080
+00:44:18,380 --> 00:44:23,260
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Why did you stop again?♪</font></font>
+
+1081
+00:44:23,860 --> 00:44:28,500
+<font face="Noto Sans S Chinese Regular"><font size="22">♪We keep moving like the stream, never resting♪</font></font>
+
+1082
+00:44:29,220 --> 00:44:33,580
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Through the muddy fields, rushing toward the sea♪</font></font>
+
+1083
+00:44:33,620 --> 00:44:38,620
+<font face="Noto Sans S Chinese Regular"><font size="22">♪I know you'll be waiting there♪</font></font>
+
+1084
+00:44:38,940 --> 00:44:43,820
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Together with me♪</font></font>
+
+1085
+00:44:44,580 --> 00:44:49,460
+<font face="Noto Sans S Chinese Regular"><font size="22">♪We're like the evening breeze tangling with the clouds♪</font></font>
+
+1086
+00:44:49,980 --> 00:44:54,540
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Strolling among the clouds, waiting for the sky to clear♪</font></font>
+
+1087
+00:44:54,580 --> 00:44:59,140
+<font face="Noto Sans S Chinese Regular"><font size="22">♪You steal glances at me. You like me, right?♪</font></font>
+
+1088
+00:44:59,420 --> 00:45:04,300
+<font face="Noto Sans S Chinese Regular"><font size="22">♪Stop running away♪</font></font>
+
+1089
+00:45:25,420 --> 00:45:30,580
+<font face="Noto Sans S Chinese Regular"><font size="22">♪The sky slowly brightens, falling into our eyes♪</font></font>
+
+1090
+00:45:30,740 --> 00:45:35,580
+<font face="Noto Sans S Chinese Regular"><font size="22">♪The wind gradually stops, and finally it clears up♪</font></font>
+
+1091
+00:45:35,860 --> 00:45:40,900
+<font face="Noto Sans S Chinese Regular"><font size="22">♪The evening breeze brushes past your shoulder, and you turn your head♪</font></font>
+
+1092
+00:45:41,780 --> 00:45:46,900
+<font face="Noto Sans S Chinese Regular"><font size="22">♪You're irreplaceable♪</font></font>
