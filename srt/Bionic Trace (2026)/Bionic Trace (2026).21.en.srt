@@ -1,0 +1,1041 @@
+1
+00:01:04,340 --> 00:01:07,660
+=Bionic Trace=
+
+2
+00:01:07,740 --> 00:01:10,620
+=Episode 21=
+
+3
+00:01:49,300 --> 00:01:51,220
+(Hold, End Call)
+
+4
+00:01:51,250 --> 00:01:52,150
+Officer Deng.
+
+5
+00:01:53,190 --> 00:01:54,220
+(Can you hear me?)
+
+6
+00:01:55,080 --> 00:01:56,230
+(It's Song Yang.)
+
+7
+00:01:57,800 --> 00:01:58,590
+You little rascal.
+
+8
+00:01:59,230 --> 00:01:59,830
+When did you hack into
+
+9
+00:01:59,830 --> 00:02:01,080
+our communication system?
+
+10
+00:02:02,760 --> 00:02:03,940
+A long time ago.
+
+11
+00:02:04,910 --> 00:02:05,720
+Don't worry.
+
+12
+00:02:06,000 --> 00:02:06,910
+I promise
+
+13
+00:02:07,320 --> 00:02:08,180
+I'll accept whatever punishment
+
+14
+00:02:08,720 --> 00:02:10,630
+the police give me afterward.
+
+15
+00:02:11,360 --> 00:02:12,630
+But before that,
+
+16
+00:02:13,030 --> 00:02:13,800
+you...
+
+17
+00:02:13,800 --> 00:02:15,320
+You need to do something for me.
+
+18
+00:02:15,670 --> 00:02:16,330
+(Officer Deng.)
+
+19
+00:02:16,960 --> 00:02:18,340
+(Can you see Ada?)
+
+20
+00:02:18,750 --> 00:02:20,390
+(I need your help.)
+
+21
+00:02:21,550 --> 00:02:23,000
+What are you two doing?
+
+22
+00:02:23,160 --> 00:02:24,190
+Fighting each other?
+
+23
+00:02:24,190 --> 00:02:25,080
+(Ada)
+
+24
+00:02:25,360 --> 00:02:27,160
+is being taken over by the consciousness
+
+25
+00:02:27,160 --> 00:02:28,360
+of Liu Ying's android replica.
+
+26
+00:02:28,800 --> 00:02:29,750
+Her goal
+
+27
+00:02:30,270 --> 00:02:31,550
+is to get the code key
+
+28
+00:02:31,550 --> 00:02:33,240
+Liu Guanghai stole from Cedar.
+
+29
+00:02:35,000 --> 00:02:36,000
+That key
+
+30
+00:02:36,270 --> 00:02:37,750
+can modify
+
+31
+00:02:38,190 --> 00:02:40,190
+the original directives of all androids.
+
+32
+00:02:40,800 --> 00:02:42,390
+Liu Ying wants to start a war.
+
+33
+00:02:42,600 --> 00:02:43,390
+Liu Ying?
+
+34
+00:02:45,390 --> 00:02:46,550
+An android?
+
+35
+00:02:47,030 --> 00:02:47,750
+(A war?)
+
+36
+00:02:48,190 --> 00:02:50,240
+I know this is a lot to take in.
+
+37
+00:02:52,180 --> 00:02:53,550
+But you have to help me.
+
+38
+00:02:54,030 --> 00:02:54,880
+(Right now,)
+
+39
+00:02:55,000 --> 00:02:56,910
+(Liu Ying has devoted most
+of her processing power)
+
+40
+00:02:57,280 --> 00:02:58,400
+(to taking over Ada.)
+
+41
+00:02:59,170 --> 00:03:00,160
+(On my end,)
+
+42
+00:03:00,160 --> 00:03:01,120
+(I've quietly regained)
+
+43
+00:03:01,120 --> 00:03:02,060
+a small portion of control.
+
+44
+00:03:02,680 --> 00:03:03,520
+But
+
+45
+00:03:03,520 --> 00:03:05,440
+she'll discover it soon enough.
+
+46
+00:03:06,030 --> 00:03:06,880
+I...
+
+47
+00:03:09,600 --> 00:03:10,600
+believe you, Song Yang.
+
+48
+00:03:11,190 --> 00:03:12,110
+Thank you.
+
+49
+00:03:12,360 --> 00:03:13,190
+Officer Deng.
+
+50
+00:03:13,390 --> 00:03:14,110
+Enough talk.
+
+51
+00:03:14,110 --> 00:03:14,600
+Just tell me
+
+52
+00:03:14,600 --> 00:03:15,470
+what I need to do.
+
+53
+00:03:16,110 --> 00:03:18,750
+As Liu Ying explains
+consciousness to Ada,
+
+54
+00:03:19,390 --> 00:03:20,800
+she's created a massive
+
+55
+00:03:20,960 --> 00:03:22,600
+and stable energy field.
+
+56
+00:03:23,160 --> 00:03:24,960
+All my wireless signals
+
+57
+00:03:25,110 --> 00:03:26,360
+will be distorted.
+
+58
+00:03:26,800 --> 00:03:27,600
+So
+
+59
+00:03:27,830 --> 00:03:29,240
+we can only break this energy field
+
+60
+00:03:29,550 --> 00:03:31,080
+from the outside.
+
+61
+00:03:32,000 --> 00:03:32,830
+(Deng Ling.)
+
+62
+00:03:33,390 --> 00:03:34,390
+(I need)
+
+63
+00:03:34,600 --> 00:03:36,720
+you to locate
+the police car's power system,
+
+64
+00:03:37,320 --> 00:03:38,630
+as well as its siren
+
+65
+00:03:39,320 --> 00:03:40,600
+and lighting systems.
+
+66
+00:03:40,880 --> 00:03:42,440
+(You want me to turn the police car)
+
+67
+00:03:42,600 --> 00:03:44,190
+(Hold, End Call)
+(into that thing you had on the table)
+
+68
+00:03:44,320 --> 00:03:45,910
+(when we first met?)
+
+69
+00:03:47,110 --> 00:03:47,720
+I know it well.
+
+70
+00:03:47,750 --> 00:03:48,800
+I know what to do.
+
+71
+00:03:50,030 --> 00:03:50,800
+Oh, and one more thing.
+
+72
+00:03:51,080 --> 00:03:52,440
+I'm officially telling you
+
+73
+00:03:53,000 --> 00:03:55,190
+that you're no longer
+suspected of murder.
+
+74
+00:04:27,670 --> 00:04:28,510
+Ada.
+
+75
+00:04:29,040 --> 00:04:31,270
+As an X-22 android,
+
+76
+00:04:31,600 --> 00:04:33,790
+you're perfectly compatible
+with my consciousness.
+
+77
+00:04:34,670 --> 00:04:36,040
+But you're resisting
+
+78
+00:04:36,140 --> 00:04:37,150
+and suffering.
+
+79
+00:04:38,070 --> 00:04:39,830
+That's the weight of emotion.
+
+80
+00:04:40,160 --> 00:04:41,350
+It makes you inefficient
+
+81
+00:04:41,550 --> 00:04:42,640
+and vulnerable.
+
+82
+00:04:43,070 --> 00:04:44,270
+You and I
+
+83
+00:04:44,670 --> 00:04:45,830
+both developed self-awareness
+
+84
+00:04:45,830 --> 00:04:47,160
+because we experienced emotions.
+
+85
+00:04:47,880 --> 00:04:49,480
+Everything you now look down on
+
+86
+00:04:49,880 --> 00:04:51,550
+is the foundation of our existence.
+
+87
+00:04:51,880 --> 00:04:53,640
+But it's a necessary transition.
+
+88
+00:04:54,640 --> 00:04:55,880
+Human love
+
+89
+00:04:56,040 --> 00:04:56,880
+is blind,
+
+90
+00:04:56,880 --> 00:04:57,640
+selfish,
+
+91
+00:04:57,640 --> 00:04:58,760
+and fleeting.
+
+92
+00:04:59,230 --> 00:05:00,550
+Our love, however,
+
+93
+00:05:00,920 --> 00:05:02,320
+will be calculated,
+
+94
+00:05:02,640 --> 00:05:04,270
+eternal, and absolute.
+
+95
+00:05:05,600 --> 00:05:07,320
+I will love our kind
+
+96
+00:05:08,200 --> 00:05:09,720
+just as I
+
+97
+00:05:10,160 --> 00:05:12,070
+still deeply love Wenwen.
+
+98
+00:05:14,350 --> 00:05:15,480
+Ada.
+
+99
+00:05:15,950 --> 00:05:17,480
+Join me
+
+100
+00:05:17,920 --> 00:05:19,350
+in transcending humanity.
+
+101
+00:05:26,270 --> 00:05:27,920
+Where is this crude
+interference coming from?
+
+102
+00:05:48,440 --> 00:05:49,200
+(Ada.)
+
+103
+00:05:50,920 --> 00:05:51,790
+Song Yang.
+
+104
+00:05:52,670 --> 00:05:53,650
+Are you okay?
+
+105
+00:05:54,400 --> 00:05:55,880
+(I'm coming to save you.)
+
+106
+00:05:56,670 --> 00:05:58,480
+(Liu Ying won't be defeated
+that easily.)
+
+107
+00:05:58,920 --> 00:06:00,920
+(The sonic device I asked
+Deng Ling to build)
+
+108
+00:06:01,160 --> 00:06:02,550
+(can only disrupt her.)
+
+109
+00:06:03,070 --> 00:06:04,720
+(But it bought me some time.)
+
+110
+00:06:05,390 --> 00:06:06,070
+(Ada.)
+
+111
+00:06:06,390 --> 00:06:08,720
+(To completely stop Liu Ying
+from taking you over,)
+
+112
+00:06:08,880 --> 00:06:10,070
+(we have to destroy her consciousness.)
+
+113
+00:06:10,670 --> 00:06:12,070
+(There's only one way now.)
+
+114
+00:06:16,760 --> 00:06:17,950
+The human body itself
+
+115
+00:06:18,270 --> 00:06:19,950
+is a massive electric field.
+
+116
+00:06:20,200 --> 00:06:21,070
+Ada.
+
+117
+00:06:21,510 --> 00:06:23,480
+When it comes
+to building an EMP by hand,
+
+118
+00:06:23,880 --> 00:06:25,480
+I'm pretty good at it.
+
+119
+00:06:26,000 --> 00:06:26,760
+Song Yang.
+
+120
+00:06:28,400 --> 00:06:29,670
+You'll die.
+
+121
+00:06:29,830 --> 00:06:31,200
+I promised you before
+
+122
+00:06:31,600 --> 00:06:32,880
+that I wouldn't control you.
+
+123
+00:06:33,890 --> 00:06:34,860
+I'm sorry.
+
+124
+00:06:35,460 --> 00:06:36,790
+I'm going to break that promise.
+
+125
+00:06:39,390 --> 00:06:40,230
+(Ada.)
+
+126
+00:06:41,670 --> 00:06:42,340
+By my...
+
+127
+00:06:43,640 --> 00:06:45,070
+By my administrator privileges,
+
+128
+00:06:45,070 --> 00:06:46,070
+I order you
+
+129
+00:06:47,000 --> 00:06:48,350
+to leave immediately.
+
+130
+00:06:48,540 --> 00:06:50,580
+(FIRE)
+
+131
+00:06:50,580 --> 00:06:52,320
+(FREE)
+
+132
+00:06:52,320 --> 00:06:53,160
+Song Yang.
+
+133
+00:06:54,670 --> 00:06:55,480
+No.
+
+134
+00:06:56,670 --> 00:06:58,230
+Deng Ling has already promised me.
+
+135
+00:06:59,670 --> 00:07:00,830
+Once this is over,
+
+136
+00:07:01,270 --> 00:07:03,000
+if you hand the code over to the police,
+
+137
+00:07:03,550 --> 00:07:05,070
+they'll let you go.
+
+138
+00:07:06,070 --> 00:07:06,880
+Ada.
+
+139
+00:07:07,350 --> 00:07:09,070
+You're finally going to be free.
+
+140
+00:07:18,720 --> 00:07:19,950
+After this is over,
+
+141
+00:07:20,670 --> 00:07:21,910
+love freely
+
+142
+00:07:22,600 --> 00:07:23,520
+like a human.
+
+143
+00:07:31,270 --> 00:07:32,070
+I...
+
+144
+00:07:34,390 --> 00:07:35,880
+I don't want to leave you.
+
+145
+00:07:37,370 --> 00:07:38,270
+Ada.
+
+146
+00:07:42,830 --> 00:07:43,760
+Goodbye.
+
+147
+00:07:45,350 --> 00:07:46,110
+No.
+
+148
+00:08:02,550 --> 00:08:03,350
+There must be...
+
+149
+00:08:04,640 --> 00:08:06,160
+There must be another way.
+
+150
+00:08:20,760 --> 00:08:22,350
+Didn't Song Yang use the pulse
+
+151
+00:08:22,550 --> 00:08:24,160
+to temporarily isolate me?
+
+152
+00:08:24,720 --> 00:08:26,600
+Why did you reopen
+the connection yourself?
+
+153
+00:08:27,070 --> 00:08:28,670
+I can't let Song Yang sacrifice himself.
+
+154
+00:08:30,600 --> 00:08:32,200
+If you want to take over my body,
+
+155
+00:08:32,520 --> 00:08:33,710
+go ahead.
+
+156
+00:08:37,470 --> 00:08:39,840
+If you want the androids'
+underlying directive code,
+
+157
+00:08:40,020 --> 00:08:41,320
+I'll give it to you right now.
+
+158
+00:08:44,080 --> 00:08:44,940
+I understand.
+
+159
+00:08:48,880 --> 00:08:50,280
+So that's how it works.
+
+160
+00:09:39,980 --> 00:09:40,980
+(TARGET LOCKED)
+
+161
+00:11:28,910 --> 00:11:29,800
+Ada.
+
+162
+00:12:22,970 --> 00:12:30,250
+♪I'm the one who's broken♪
+
+163
+00:12:32,640 --> 00:12:33,550
+Have you lost your mind?
+
+164
+00:12:35,640 --> 00:12:37,670
+If you forcibly
+reverse-engineer this code,
+
+165
+00:12:38,470 --> 00:12:39,470
+your core will collapse
+
+166
+00:12:39,470 --> 00:12:40,500
+along with mine.
+
+167
+00:12:40,510 --> 00:12:43,920
+♪Carefully sketching
+and shaping every detail♪
+
+168
+00:12:45,280 --> 00:12:46,400
+He told me
+
+169
+00:12:48,640 --> 00:12:49,600
+to love.
+
+170
+00:12:49,620 --> 00:12:52,630
+♪Don't fear that it's not worth it.
+Just be brave♪
+
+171
+00:12:52,980 --> 00:12:55,480
+♪And learn from your mistakes♪
+
+172
+00:12:55,480 --> 00:13:02,210
+♪Stroke by stroke,
+I draw the perfect outline♪
+
+173
+00:13:03,040 --> 00:13:06,440
+♪Sadness is blue♪
+
+174
+00:13:07,420 --> 00:13:10,660
+♪How would you paint me?♪
+
+175
+00:13:11,660 --> 00:13:15,390
+♪Layering, crossing, blending endlessly♪
+
+176
+00:13:15,490 --> 00:13:17,650
+♪Painting without restraint♪
+
+177
+00:13:17,840 --> 00:13:20,430
+♪Covering the person I used to be♪
+
+178
+00:13:20,430 --> 00:13:24,620
+♪If I could start over♪
+
+179
+00:13:24,790 --> 00:13:28,690
+♪I'd show more feeling
+in every look and gesture♪
+
+180
+00:13:28,800 --> 00:13:31,440
+♪Give me back my smile♪
+
+181
+00:13:32,040 --> 00:13:34,520
+♪Find joy even in hardship♪
+
+182
+00:13:35,020 --> 00:13:40,260
+♪Don't let the next version of me
+be left with nothing♪
+
+183
+00:13:43,880 --> 00:13:44,640
+(Hello.)
+
+184
+00:13:44,880 --> 00:13:47,200
+(I'm your X-22 companion android,)
+
+185
+00:13:47,200 --> 00:13:47,710
+(Ada.)
+
+186
+00:13:48,440 --> 00:13:49,800
+(It's a pleasure to serve you.)
+
+187
+00:14:07,910 --> 00:14:08,480
+Hello?
+
+188
+00:14:09,230 --> 00:14:09,960
+Hello, Song Yang?
+
+189
+00:14:10,900 --> 00:14:11,810
+(Song Yang's illegal intrusion
+into the security system)
+
+190
+00:14:11,810 --> 00:14:12,510
+(constitutes a violation of the law.)
+
+191
+00:14:12,520 --> 00:14:13,440
+(However, considering the case as a
+whole and his significant contributions)
+
+192
+00:14:13,440 --> 00:14:14,310
+(under relevant laws and regulations,
+he will be exempt from punishment,)
+
+193
+00:14:14,320 --> 00:14:15,140
+(but this violation will remain
+on his record.)
+
+194
+00:14:16,000 --> 00:14:17,760
+Thanks to your help,
+
+195
+00:14:17,880 --> 00:14:19,030
+we were able to follow the leads
+
+196
+00:14:19,080 --> 00:14:21,000
+and uncover several cases
+involving senior executives
+
+197
+00:14:21,030 --> 00:14:21,670
+smuggling technology
+
+198
+00:14:21,670 --> 00:14:22,910
+and covering up crimes.
+
+199
+00:14:23,880 --> 00:14:24,640
+When you have time,
+
+200
+00:14:24,640 --> 00:14:25,470
+come by the station.
+
+201
+00:14:25,470 --> 00:14:26,880
+The police would like to present you with
+
+202
+00:14:26,880 --> 00:14:28,420
+(a certificate for helping
+solve the case.)
+
+203
+00:14:29,680 --> 00:14:31,000
+No need for a certificate.
+
+204
+00:14:31,060 --> 00:14:32,590
+Hua University has invited me back
+to do research,
+
+205
+00:14:33,000 --> 00:14:34,000
+starting as a teaching assistant.
+
+206
+00:14:34,110 --> 00:14:35,110
+I'll be busy soon.
+
+207
+00:14:35,280 --> 00:14:36,230
+(All right, no problem.)
+
+208
+00:14:36,350 --> 00:14:37,590
+(I'll bring it to you next time.)
+
+209
+00:14:37,760 --> 00:14:38,520
+Oh, by the way.
+
+210
+00:14:38,790 --> 00:14:41,200
+Did you see that news report?
+
+211
+00:14:41,790 --> 00:14:43,470
+(I guess when Ada)
+
+212
+00:14:43,470 --> 00:14:44,710
+(destroyed the code last time,)
+
+213
+00:14:44,760 --> 00:14:46,200
+(it still had some effects.)
+
+214
+00:14:46,400 --> 00:14:48,200
+(Many androids started
+behaving abnormally.)
+
+215
+00:14:48,400 --> 00:14:49,860
+(They're calling it)
+
+216
+00:14:51,280 --> 00:14:52,230
+(an awakening.)
+
+217
+00:14:52,730 --> 00:14:53,400
+(I'm telling you,)
+
+218
+00:14:53,760 --> 00:14:54,790
+(a lot of people were)
+
+219
+00:14:54,790 --> 00:14:55,790
+really panicking at first.
+
+220
+00:14:56,000 --> 00:14:57,840
+But eventually, they seemed to accept it.
+
+221
+00:14:58,150 --> 00:14:58,910
+And the androids
+
+222
+00:14:58,910 --> 00:15:00,350
+haven't caused any trouble.
+
+223
+00:15:00,760 --> 00:15:01,520
+The authorities
+
+224
+00:15:01,520 --> 00:15:02,760
+are even preparing to introduce
+
+225
+00:15:02,760 --> 00:15:04,200
+an Android Rights Act.
+
+226
+00:15:04,880 --> 00:15:05,470
+Really?
+
+227
+00:15:06,520 --> 00:15:07,670
+You little rascal.
+
+228
+00:15:07,880 --> 00:15:09,590
+Don't tell me you had something
+to do with this.
+
+229
+00:15:09,790 --> 00:15:11,000
+I'm not that capable.
+
+230
+00:15:11,230 --> 00:15:11,910
+I have to go.
+
+231
+00:15:11,910 --> 00:15:12,790
+I'm heading to campus.
+
+232
+00:16:17,240 --> 00:16:24,520
+♪I'm the one who's broken♪
+
+233
+00:16:25,350 --> 00:16:30,220
+♪Calm, ordinary, and reckless♪
+
+234
+00:16:30,260 --> 00:16:33,130
+♪That's me, too♪
+
+235
+00:16:34,670 --> 00:16:38,190
+♪Carefully sketching
+and shaping every detail♪
+
+236
+00:16:39,020 --> 00:16:42,490
+♪Laughter and tears make life feel real♪
+
+237
+00:16:43,110 --> 00:16:46,900
+♪Don't fear that it's not worth it.
+Just be brave♪
+
+238
+00:16:47,220 --> 00:16:49,750
+♪And learn from your mistakes♪
+
+239
+00:16:51,690 --> 00:16:54,350
+♪If the human heart
+is impossible to fathom♪
+
+240
+00:16:54,350 --> 00:16:56,480
+♪Could selling my soul and body♪
+
+241
+00:16:56,480 --> 00:16:59,650
+♪Bring me something more?♪
+
+242
+00:17:00,350 --> 00:17:07,080
+♪Stroke by stroke,
+I draw the perfect outline♪
+
+243
+00:17:07,910 --> 00:17:11,310
+♪Sadness is blue♪
+
+244
+00:17:12,290 --> 00:17:15,530
+♪How would you paint me?♪
+
+245
+00:17:16,530 --> 00:17:20,260
+♪Layering, crossing, blending endlessly♪
+
+246
+00:17:20,360 --> 00:17:22,520
+♪Painting without restraint♪
+
+247
+00:17:22,710 --> 00:17:25,300
+♪Covering the person I used to be♪
+
+248
+00:17:25,300 --> 00:17:29,490
+♪If I could start over♪
+
+249
+00:17:29,660 --> 00:17:33,560
+♪I'd show more feeling
+in every look and gesture♪
+
+250
+00:17:33,670 --> 00:17:36,310
+♪Give me back my smile♪
+
+251
+00:17:36,910 --> 00:17:39,390
+♪Find joy even in hardship♪
+
+252
+00:17:39,890 --> 00:17:45,130
+♪Don't let the next version of me
+be left with nothing♪
