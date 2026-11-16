@@ -1,0 +1,2600 @@
+1
+00:01:42,640 --> 00:01:44,520
+<i>Today is September 30.</i>
+
+2
+00:01:44,600 --> 00:01:47,000
+<i>This is the first email</i>
+<i>I've written to you.</i>
+
+3
+00:01:47,080 --> 00:01:49,240
+<i>I'm sending it later than I expected.</i>
+
+4
+00:01:50,600 --> 00:01:53,440
+<i>I've rented an apartment</i>
+<i>near the research institute.</i>
+
+5
+00:01:53,520 --> 00:01:55,320
+<i>Lately, I've discovered what it's like</i>
+
+6
+00:01:55,400 --> 00:01:58,400
+<i>to carry everything you own on your back.</i>
+
+7
+00:01:59,560 --> 00:02:01,600
+<i>It made me think of you.</i>
+
+8
+00:02:05,200 --> 00:02:07,200
+<i>I often walk to the institute.</i>
+
+9
+00:02:07,280 --> 00:02:09,160
+<i>- The streets are beautiful.</i>
+- Morning.
+
+10
+00:02:09,240 --> 00:02:11,680
+<i>I've noticed an interesting habit</i>
+<i>among Germans.</i>
+
+11
+00:02:11,760 --> 00:02:12,960
+<i>When you're</i>
+<i>walking outside,</i>
+
+12
+00:02:13,040 --> 00:02:14,480
+<i>if you make eye contact</i>
+<i>with someone,</i>
+
+13
+00:02:14,560 --> 00:02:17,120
+<i>they'll greet you with</i>
+<i>"Good morning."</i>
+
+14
+00:02:21,400 --> 00:02:23,280
+<i>I met up with a friend</i>
+<i>on the weekend.</i>
+
+15
+00:02:23,360 --> 00:02:24,880
+<i>His name is Qin Sizhi.</i>
+
+16
+00:02:25,440 --> 00:02:28,800
+<i>Before the accident,</i>
+<i>he was my best friend at school.</i>
+
+17
+00:02:30,120 --> 00:02:33,720
+<i>Afterward, as you know,</i>
+<i>I distanced myself from everyone,</i>
+
+18
+00:02:35,240 --> 00:02:36,880
+<i>even my former self.</i>
+
+19
+00:02:38,840 --> 00:02:40,840
+<i>Seeing him again</i>
+<i>made me realize</i>
+
+20
+00:02:40,920 --> 00:02:43,240
+<i>that reconnecting</i>
+<i>isn't that hard.</i>
+
+21
+00:02:46,680 --> 00:02:48,480
+<i>Even though my colleagues</i>
+<i>speak English at work,</i>
+
+22
+00:02:48,560 --> 00:02:51,400
+<i>I've started learning German anyway.</i>
+
+23
+00:02:51,480 --> 00:02:53,120
+<i>The pronunciation is difficult.</i>
+
+24
+00:02:53,200 --> 00:02:55,440
+<i>It feels like something's</i>
+<i>stuck in my throat.</i>
+
+25
+00:02:57,080 --> 00:02:59,360
+<i>An Italian at the institute told me</i>
+
+26
+00:02:59,440 --> 00:03:02,320
+<i>that learning a new language is like</i>
+<i>learning to speak all over again.</i>
+
+27
+00:03:03,000 --> 00:03:04,160
+<i>He was right.</i>
+
+28
+00:03:04,880 --> 00:03:06,520
+I MISS YOU
+
+29
+00:03:06,600 --> 00:03:10,640
+<i>Ich vermisse dich.</i>
+
+30
+00:03:14,360 --> 00:03:15,600
+<i>What about Qingyi?</i>
+
+31
+00:03:15,680 --> 00:03:16,880
+<i>Has it started getting colder?</i>
+
+32
+00:03:19,680 --> 00:03:21,120
+<i>It got colder for a bit,</i>
+
+33
+00:03:21,200 --> 00:03:24,160
+<i>but the temperature soon climbed</i>
+<i>back up into the twenties again.</i>
+
+34
+00:03:25,360 --> 00:03:28,120
+<i>My life isn't as eventful</i>
+<i>as the weather.</i>
+
+35
+00:03:28,200 --> 00:03:29,960
+<i>Each day,</i>
+<i>I just go back and forth</i>
+
+36
+00:03:30,040 --> 00:03:32,920
+<i>between my internship,</i>
+<i>the lab, and my dorm.</i>
+
+37
+00:03:33,920 --> 00:03:36,320
+<i>But I feel a sense of peace</i>
+<i>despite all the business.</i>
+
+38
+00:03:38,440 --> 00:03:39,960
+<i>On my way back</i>
+<i>to the university,</i>
+
+39
+00:03:40,040 --> 00:03:41,680
+<i>I got caught</i>
+<i>in a sun-shower.</i>
+
+40
+00:03:41,760 --> 00:03:44,120
+<i>My roommate said</i>
+<i>my bangs were dripping wet,</i>
+
+41
+00:03:44,200 --> 00:03:45,680
+<i>and I looked like a bedraggled cat.</i>
+
+42
+00:03:47,960 --> 00:03:49,840
+<i>But I like sun-showers</i>
+
+43
+00:03:49,920 --> 00:03:54,720
+<i>because I know they mean</i>
+<i>the rain will soon be over,</i>
+
+44
+00:03:54,800 --> 00:03:57,000
+<i>and there's a good chance</i>
+<i>a rainbow will appear.</i>
+
+45
+00:03:59,160 --> 00:04:02,160
+<i>Bi Dezheng's catchphrase</i>
+<i>these days is…</i>
+
+46
+00:04:03,680 --> 00:04:05,520
+If only Chen Yanzhou
+were here.
+
+47
+00:04:06,560 --> 00:04:09,080
+<i>He still resents you</i>
+<i>for going abroad.</i>
+
+48
+00:04:09,160 --> 00:04:11,200
+<i>But every time</i>
+<i>he says that,</i>
+
+49
+00:04:11,280 --> 00:04:13,320
+<i>he puts his head down</i>
+<i>and gets the work done.</i>
+
+50
+00:04:14,040 --> 00:04:15,800
+<i>I think he'll graduate just fine.</i>
+
+51
+00:04:17,800 --> 00:04:21,519
+<i>Oh, right.</i>
+<i>I have good news.</i>
+
+52
+00:04:21,600 --> 00:04:24,040
+<i>The potted plant you gave me</i>
+<i>has bloomed again.</i>
+
+53
+00:04:24,120 --> 00:04:27,520
+<i>This might be</i>
+<i>its last flowering season.</i>
+
+54
+00:04:28,520 --> 00:04:29,720
+<i>I'll take good care of it.</i>
+
+55
+00:04:31,520 --> 00:04:33,080
+<i>After reading your email,</i>
+
+56
+00:04:33,160 --> 00:04:35,640
+<i>I bought a potted plant too</i>
+<i>and put it in my apartment.</i>
+
+57
+00:04:36,560 --> 00:04:37,920
+<i>But winter is coming.</i>
+
+58
+00:04:38,000 --> 00:04:39,960
+<i>I don't know how long</i>
+<i>it'll survive,</i>
+
+59
+00:04:40,800 --> 00:04:42,880
+<i>especially with</i>
+<i>so little sunlight here.</i>
+
+60
+00:04:43,880 --> 00:04:46,480
+<i>The leaves in the nearby park</i>
+<i>have already turned yellow.</i>
+
+61
+00:04:47,000 --> 00:04:48,600
+<i>One day, as I was passing by,</i>
+
+62
+00:04:48,680 --> 00:04:51,120
+<i>a leaf fell onto my shoulder.</i>
+
+63
+00:04:51,200 --> 00:04:55,000
+<i>It reminded me of that time</i>
+<i>we did light trapping.</i>
+
+64
+00:04:55,080 --> 00:04:56,320
+<i>A butterfly</i>
+
+65
+00:04:56,400 --> 00:04:57,800
+<i>once landed</i>
+<i>on your shoulder.</i>
+
+66
+00:04:59,160 --> 00:05:02,600
+<i>A German colleague saw</i>
+<i>the leaf I kept in my book</i>
+
+67
+00:05:02,680 --> 00:05:04,200
+<i>and called me romantic.</i>
+
+68
+00:05:05,240 --> 00:05:08,640
+<i>But I really just wanted</i>
+<i>to share it with you.</i>
+
+69
+00:05:08,720 --> 00:05:10,640
+<i>That's why I kept it.</i>
+
+70
+00:05:11,400 --> 00:05:14,960
+<i>Maybe the act of sharing</i>
+<i>is romantic in itself.</i>
+
+71
+00:05:17,680 --> 00:05:20,160
+<i>I bought a cake from a bakery today.</i>
+
+72
+00:05:20,240 --> 00:05:22,720
+<i>The old lady running the shop</i>
+<i>asked me to write something on it.</i>
+
+73
+00:05:22,800 --> 00:05:25,200
+<i>I remembered what you said</i>
+<i>about sun-showers,</i>
+
+74
+00:05:25,280 --> 00:05:28,920
+<i>so I wrote,</i>
+<i>"The sun is shining, but it's raining."</i>
+
+75
+00:05:29,000 --> 00:05:30,640
+<i>Is my German getting better?</i>
+
+76
+00:05:33,280 --> 00:05:36,040
+<i>I've been spending more and more time</i>
+<i>at the institute lately.</i>
+
+77
+00:05:36,120 --> 00:05:38,280
+<i>The data came out wrong several times,</i>
+
+78
+00:05:38,360 --> 00:05:42,560
+<i>but my German lecturer told me</i>
+<i>that failure was data too.</i>
+
+79
+00:05:42,640 --> 00:05:46,000
+<i>I took those words to heart</i>
+<i>and went back to working overtime.</i>
+
+80
+00:05:46,080 --> 00:05:48,320
+<i>On my way home, I realized it was snowing.</i>
+
+81
+00:05:48,400 --> 00:05:50,280
+<i>After walking for ten minutes,</i>
+
+82
+00:05:50,360 --> 00:05:52,040
+<i>my ears were aching from the cold.</i>
+
+83
+00:05:53,040 --> 00:05:55,000
+<i>It must be cold in Qingyi by now too.</i>
+
+84
+00:05:55,080 --> 00:05:56,480
+<i>Remember to rug up.</i>
+
+85
+00:05:57,880 --> 00:05:59,400
+<i>During my lunch break,</i>
+
+86
+00:05:59,480 --> 00:06:02,320
+<i>I sneak off alone to eat lunch</i>
+<i>in a park near the company.</i>
+
+87
+00:06:03,840 --> 00:06:08,400
+<i>I used to think I only ate to stay alive,</i>
+
+88
+00:06:08,480 --> 00:06:10,600
+<i>so anything would do.</i>
+
+89
+00:06:10,680 --> 00:06:11,640
+<i>No need to waste money.</i>
+
+90
+00:06:15,160 --> 00:06:18,080
+<i>But now, it's like</i>
+<i>my taste buds have awakened.</i>
+
+91
+00:06:20,640 --> 00:06:22,320
+<i>Is there any good food in Germany?</i>
+
+92
+00:06:23,040 --> 00:06:24,920
+<i>It can't just be hot chocolate, right?</i>
+
+93
+00:06:26,600 --> 00:06:27,440
+<i>Oh, right.</i>
+
+94
+00:06:27,520 --> 00:06:30,280
+<i>I transferred some money to your account.</i>
+
+95
+00:06:30,360 --> 00:06:31,480
+<i>Make sure you check it.</i>
+
+96
+00:06:36,520 --> 00:06:39,400
+<i>This winter break, my roommates</i>
+<i>didn't go home right away.</i>
+
+97
+00:06:40,240 --> 00:06:41,880
+<i>Linlin is preparing for grad school exams,</i>
+
+98
+00:06:42,440 --> 00:06:44,040
+<i>and Zhuang Ning has started an internship.</i>
+
+99
+00:06:46,360 --> 00:06:47,840
+<i>As for Fangli,</i>
+
+100
+00:06:48,480 --> 00:06:49,760
+<i>she's in a relationship now.</i>
+
+101
+00:06:49,840 --> 00:06:51,520
+<i>Apparently, he's her childhood sweetheart.</i>
+
+102
+00:06:51,600 --> 00:06:52,960
+Song Mo!
+
+103
+00:07:04,120 --> 00:07:07,760
+<i>As for me, guess who I'm spending</i>
+<i>Lunar New Year with this year?</i>
+
+104
+00:07:07,840 --> 00:07:09,560
+You just set off all those fireworks.
+
+105
+00:07:09,640 --> 00:07:10,880
+I'm saving these for my sister.
+
+106
+00:07:10,960 --> 00:07:13,120
+Ms. Zheng said I could play with them all.
+
+107
+00:07:13,200 --> 00:07:14,880
+She was just being polite.
+
+108
+00:07:14,960 --> 00:07:15,920
+No, she wasn't!
+
+109
+00:07:16,000 --> 00:07:17,160
+You're so stingy!
+
+110
+00:07:17,240 --> 00:07:19,560
+If Yanzhou were here,
+you wouldn't dare treat me like this.
+
+111
+00:07:19,640 --> 00:07:20,920
+Why wouldn't I dare?
+
+112
+00:07:21,000 --> 00:07:23,640
+If he were here, you wouldn't get
+to play with any of these.
+
+113
+00:07:23,720 --> 00:07:24,880
+They'd all go to my sister.
+
+114
+00:07:25,600 --> 00:07:26,640
+You're lying.
+
+115
+00:07:27,800 --> 00:07:29,800
+- Give them to me!
+- No!
+
+116
+00:07:29,880 --> 00:07:31,960
+- Give them to me!
+- No!
+
+117
+00:07:32,040 --> 00:07:33,560
+- Give me some!
+- Give me some!
+
+118
+00:07:33,640 --> 00:07:34,720
+I'll light them for you.
+
+119
+00:07:38,520 --> 00:07:39,520
+Here.
+
+120
+00:07:42,480 --> 00:07:43,920
+<i>Chen Yanzhou.</i>
+
+121
+00:07:44,000 --> 00:07:45,520
+<i>Happy Lunar New Year.</i>
+
+122
+00:07:52,680 --> 00:07:55,080
+<i>Regarding the good food</i>
+<i>that you asked about last time,</i>
+
+123
+00:07:55,160 --> 00:07:57,400
+<i>I've found a new answer this spring.</i>
+
+124
+00:07:58,400 --> 00:08:00,560
+<i>I can finally eat eggs again.</i>
+
+125
+00:08:00,640 --> 00:08:03,040
+<i>Maybe this means</i>
+<i>I've fully recovered.</i>
+
+126
+00:08:04,800 --> 00:08:07,720
+<i>A professor at the institute</i>
+<i>found out I was learning German,</i>
+
+127
+00:08:07,800 --> 00:08:09,600
+<i>so he gave me a prompt.</i>
+
+128
+00:08:09,680 --> 00:08:12,720
+<i>I thought about it for a week</i>
+<i>and eventually wrote,</i>
+
+129
+00:08:12,800 --> 00:08:17,600
+<i>"I don't long for distant places,</i>
+<i>because I'm already far from home."</i>
+
+130
+00:08:18,640 --> 00:08:22,160
+<i>"But there's one person</i>
+<i>I feel homesick for."</i>
+
+131
+00:08:22,960 --> 00:08:24,120
+<i>Zheng Yu.</i>
+
+132
+00:08:24,200 --> 00:08:26,160
+<i>Summer is coming again.</i>
+
+133
+00:08:26,240 --> 00:08:27,920
+<i>You've worked</i>
+<i>so hard for so long.</i>
+
+134
+00:08:28,000 --> 00:08:29,960
+<i>Have you given yourself</i>
+<i>a break?</i>
+
+135
+00:08:30,560 --> 00:08:31,640
+<i>I haven't gone on vacation.</i>
+
+136
+00:08:31,720 --> 00:08:32,640
+PAYEE NAME: WU FA
+
+137
+00:08:32,720 --> 00:08:35,880
+<i>But I did something that</i>
+<i>made me even happier.</i>
+
+138
+00:08:35,960 --> 00:08:37,720
+<i>I paid off</i>
+<i>the last of my debt.</i>
+
+139
+00:08:41,840 --> 00:08:43,400
+<i>And there's more good news.</i>
+
+140
+00:08:44,159 --> 00:08:47,800
+Zheng Yu! Have you checked
+our paper's submission status?
+
+141
+00:08:48,440 --> 00:08:49,840
+Our paper got accepted!
+
+142
+00:08:50,760 --> 00:08:52,400
+- Really?
+- Yes!
+
+143
+00:08:54,120 --> 00:08:55,120
+See for yourself.
+
+144
+00:09:00,680 --> 00:09:04,880
+Should we tell Chen Yanzhou?
+
+145
+00:09:04,960 --> 00:09:06,760
+After all, he put
+a lot of work into this too.
+
+146
+00:09:06,840 --> 00:09:08,200
+Of course!
+
+147
+00:09:08,800 --> 00:09:11,800
+I'll leave it to you to let him know.
+
+148
+00:09:13,680 --> 00:09:14,600
+No problem.
+
+149
+00:09:16,200 --> 00:09:18,080
+There's a job fair
+at the cafeteria this afternoon.
+
+150
+00:09:18,160 --> 00:09:19,560
+Do you want to check it out together?
+
+151
+00:09:19,640 --> 00:09:21,280
+It's the last job fair before we graduate.
+
+152
+00:09:22,640 --> 00:09:24,200
+I think I'll pass.
+
+153
+00:09:26,520 --> 00:09:28,160
+You are
+
+154
+00:09:29,760 --> 00:09:31,600
+not studying for
+the grad school entrance exams,
+
+155
+00:09:31,680 --> 00:09:33,800
+and you're skipping campus recruitment.
+
+156
+00:09:35,080 --> 00:09:36,480
+Zheng Yu.
+
+157
+00:09:38,040 --> 00:09:40,480
+You're not
+
+158
+00:09:41,280 --> 00:09:43,280
+planning on giving up on
+everything, are you?
+
+159
+00:09:44,960 --> 00:09:46,200
+No.
+
+160
+00:09:46,280 --> 00:09:47,200
+Just wait a bit longer.
+
+161
+00:09:47,280 --> 00:09:49,680
+Once everything is settled, I'll tell you.
+
+162
+00:09:51,680 --> 00:09:52,600
+<i>As for Xiaomian…</i>
+
+163
+00:09:52,680 --> 00:09:53,600
+Okay.
+
+164
+00:09:53,680 --> 00:09:55,120
+<i>His College Entrance Exam is coming up.</i>
+
+165
+00:09:56,040 --> 00:09:58,240
+<i>He says he wants to attend</i>
+<i>Ji An University.</i>
+
+166
+00:09:58,320 --> 00:10:01,800
+<i>It's only a 40-minute</i>
+<i>high-speed train ride from Qingyi.</i>
+
+167
+00:10:01,880 --> 00:10:05,400
+<i>I guess he doesn't want to stay in Qingyi</i>
+<i>because of Jiang Haixing.</i>
+
+168
+00:10:05,480 --> 00:10:08,960
+<i>As for why he didn't choose</i>
+<i>somewhere farther away…</i>
+
+169
+00:10:09,040 --> 00:10:11,120
+<i>Well… that I don't know.</i>
+
+170
+00:10:11,200 --> 00:10:12,320
+Jiang Mian!
+
+171
+00:10:14,560 --> 00:10:16,800
+- Aren't you sophomores already on break?
+- That's right.
+
+172
+00:10:16,880 --> 00:10:18,600
+They need the classrooms for your exams.
+
+173
+00:10:19,200 --> 00:10:20,360
+Then why are you…?
+
+174
+00:10:21,680 --> 00:10:23,560
+I came to give you something.
+
+175
+00:10:27,680 --> 00:10:28,680
+What is this?
+
+176
+00:10:29,480 --> 00:10:30,440
+It's a lucky charm.
+
+177
+00:10:30,520 --> 00:10:33,200
+They're really popular now.
+You didn't know?
+
+178
+00:10:35,880 --> 00:10:39,680
+Well, I guess top students like you
+don't pay attention to these things.
+
+179
+00:10:40,520 --> 00:10:42,920
+Anyway, just think of it as
+a good-luck charm.
+
+180
+00:10:43,000 --> 00:10:44,120
+Keep it.
+
+181
+00:10:45,320 --> 00:10:47,960
+And listen, you'd better get a high score.
+
+182
+00:10:48,040 --> 00:10:50,880
+Otherwise, it'll be so embarrassing for me
+after all the tutoring you gave me.
+
+183
+00:10:53,120 --> 00:10:54,960
+Okay, I should get going.
+
+184
+00:10:55,040 --> 00:10:56,080
+Good luck!
+
+185
+00:11:05,360 --> 00:11:06,200
+Good luck!
+
+186
+00:11:15,840 --> 00:11:19,600
+<i>When I saw your email, I was in the lab.</i>
+
+187
+00:11:19,680 --> 00:11:22,280
+<i>I was so excited,</i>
+<i>I almost messed up a data point.</i>
+
+188
+00:11:22,360 --> 00:11:25,360
+<i>I know it's a bit late,</i>
+<i>but congratulations!</i>
+
+189
+00:11:25,440 --> 00:11:28,160
+<i>I can't believe Xiaomian is about to take</i>
+<i>the College Entrance Exam.</i>
+
+190
+00:11:28,240 --> 00:11:29,760
+<i>Time really flies.</i>
+
+191
+00:11:30,480 --> 00:11:31,920
+<i>You'll be graduating soon too.</i>
+
+192
+00:11:32,640 --> 00:11:35,520
+<i>Do you have any plans?</i>
+
+193
+00:11:35,600 --> 00:11:37,040
+<i>I do have a plan,</i>
+
+194
+00:11:37,680 --> 00:11:40,240
+<i>and I've been preparing for it</i>
+<i>for a while now.</i>
+
+195
+00:11:40,320 --> 00:11:41,160
+<i>But…</i>
+
+196
+00:11:41,240 --> 00:11:42,400
+Ms. Yang.
+
+197
+00:11:43,880 --> 00:11:47,200
+Every time you come to see me,
+you look so much thinner than before.
+
+198
+00:11:47,960 --> 00:11:51,640
+But regardless,
+the debt is fully paid off now,
+
+199
+00:11:51,720 --> 00:11:53,360
+which is a huge weight off your shoulders.
+
+200
+00:11:54,720 --> 00:11:56,440
+What about the other matter?
+
+201
+00:11:57,840 --> 00:12:00,240
+Look, every time I see you,
+
+202
+00:12:01,120 --> 00:12:02,160
+you're always…
+
+203
+00:12:02,240 --> 00:12:03,200
+Look at you.
+
+204
+00:12:03,280 --> 00:12:04,560
+You're practicing
+
+205
+00:12:05,480 --> 00:12:06,600
+basic German.
+
+206
+00:12:06,680 --> 00:12:09,840
+Last time, you told me
+the program was called
+
+207
+00:12:09,920 --> 00:12:13,760
+the Sino-German
+Joint Master's Program, right?
+
+208
+00:12:13,840 --> 00:12:17,320
+Have the results of
+the program's assessment come out yet?
+
+209
+00:12:17,400 --> 00:12:18,680
+Yes. I passed.
+
+210
+00:12:19,440 --> 00:12:22,400
+But the corporate sponsorship
+I applied for hasn't been approved yet,
+
+211
+00:12:22,480 --> 00:12:25,240
+so I haven't told anyone about it yet.
+
+212
+00:12:26,480 --> 00:12:27,800
+Corporate sponsorship…
+
+213
+00:12:27,880 --> 00:12:29,440
+Is that from NingSheng BioTech?
+
+214
+00:12:30,400 --> 00:12:33,120
+That female boss
+you told me about last time…
+
+215
+00:12:33,200 --> 00:12:34,920
+I looked her up online.
+
+216
+00:12:36,080 --> 00:12:37,920
+She's really impressive.
+
+217
+00:12:38,000 --> 00:12:41,280
+I saw that all the people she sponsors
+are young women.
+
+218
+00:12:42,320 --> 00:12:44,720
+Young women these days
+are really something.
+
+219
+00:12:44,800 --> 00:12:46,880
+Back in our day, to be honest,
+
+220
+00:12:46,960 --> 00:12:49,360
+we barely had the chance
+to get an education,
+
+221
+00:12:49,440 --> 00:12:52,840
+let alone help someone else get one.
+
+222
+00:12:52,920 --> 00:12:56,480
+Thank goodness my mom encouraged me
+to learn a few extra things.
+
+223
+00:12:56,560 --> 00:12:59,240
+Otherwise, I'd be illiterate today.
+
+224
+00:13:00,400 --> 00:13:02,480
+Seeing you get this opportunity,
+
+225
+00:13:02,560 --> 00:13:04,040
+I'm genuinely happy for you.
+
+226
+00:13:04,120 --> 00:13:06,160
+I'm thrilled!
+
+227
+00:13:06,240 --> 00:13:07,080
+Thank you.
+
+228
+00:13:08,880 --> 00:13:10,440
+I read online that
+
+229
+00:13:11,440 --> 00:13:14,640
+sponsorship for studying abroad
+requires signing a contract?
+
+230
+00:13:14,720 --> 00:13:15,880
+Yes.
+
+231
+00:13:15,960 --> 00:13:18,640
+I'd have to sign a training
+and service commitment agreement.
+
+232
+00:13:18,720 --> 00:13:21,520
+After graduating and returning to China,
+I'd have to work for their company.
+
+233
+00:13:21,600 --> 00:13:24,960
+If I didn't complete the required service
+period, I'd be in breach of contract.
+
+234
+00:13:25,640 --> 00:13:27,120
+That's complicated.
+
+235
+00:13:27,200 --> 00:13:30,640
+Doesn't that mean you're committing to
+your future career now?
+
+236
+00:13:31,320 --> 00:13:34,160
+- Aren't you worried you'll regret it?
+- No.
+
+237
+00:13:34,240 --> 00:13:35,800
+I've visited the company,
+
+238
+00:13:35,880 --> 00:13:38,720
+and I've seen how
+the employees work there.
+
+239
+00:13:38,800 --> 00:13:40,360
+For me,
+
+240
+00:13:40,440 --> 00:13:44,480
+the reason I'm working hard is to build
+exactly this kind of stable life.
+
+241
+00:13:45,280 --> 00:13:47,720
+Besides, this company
+has a great reputation in Qingyi.
+
+242
+00:13:48,320 --> 00:13:51,120
+All right. As long as you know
+what you're doing.
+
+243
+00:13:52,040 --> 00:13:54,080
+Have you told Xiaochen about this?
+
+244
+00:13:55,040 --> 00:13:55,880
+Not yet.
+
+245
+00:13:55,960 --> 00:13:59,720
+I plan to wait until the sponsorship gets
+officially approved before telling him.
+
+246
+00:14:00,840 --> 00:14:01,720
+Oh, you.
+
+247
+00:14:01,800 --> 00:14:05,320
+You always wait until everything is
+settled before saying anything.
+
+248
+00:14:07,480 --> 00:14:09,080
+And yet, you always see right through me.
+
+249
+00:14:11,920 --> 00:14:15,000
+Still, I think Xiaochen is a good person.
+
+250
+00:14:15,840 --> 00:14:17,760
+He's worth keeping in your heart.
+
+251
+00:14:19,040 --> 00:14:23,240
+I support you in going out
+to see the wider world.
+
+252
+00:14:24,240 --> 00:14:25,640
+But remember,
+
+253
+00:14:25,720 --> 00:14:28,880
+you must always be your own anchor.
+
+254
+00:14:32,640 --> 00:14:34,040
+Take this.
+
+255
+00:14:34,120 --> 00:14:37,520
+Consider it a gift from me.
+
+256
+00:14:38,160 --> 00:14:39,240
+You don't have to.
+
+257
+00:14:39,320 --> 00:14:41,880
+It's just a small token.
+Just take it.
+
+258
+00:14:43,080 --> 00:14:44,800
+As the old saying goes,
+
+259
+00:14:44,880 --> 00:14:46,280
+save at home, splurge on the road.
+
+260
+00:14:46,360 --> 00:14:49,800
+When you're away from home, it's hard
+to feel secure with empty pockets.
+
+261
+00:14:51,080 --> 00:14:52,040
+Take it.
+
+262
+00:14:55,080 --> 00:14:55,920
+Thank you.
+
+263
+00:14:56,000 --> 00:14:58,480
+What are you thanking me for?
+
+264
+00:14:59,720 --> 00:15:00,760
+That's wonderful.
+
+265
+00:15:08,280 --> 00:15:10,920
+- Is your defense over?
+- Yes, it's over.
+
+266
+00:15:11,520 --> 00:15:13,840
+Hopefully, there won't be
+a second defense, right?
+
+267
+00:15:14,680 --> 00:15:15,640
+Song Mo,
+
+268
+00:15:15,720 --> 00:15:18,400
+could you at least
+wish your girlfriend well?
+
+269
+00:15:18,480 --> 00:15:21,720
+No, what I mean is,
+it's fine even if you have to do it again.
+
+270
+00:15:21,800 --> 00:15:24,640
+If your graduation gets delayed, I can
+apply for grad school at Qing Yi.
+
+271
+00:15:25,360 --> 00:15:27,440
+Then you'll even have to
+call me your senior.
+
+272
+00:15:27,520 --> 00:15:29,200
+Either way, I come out ahead!
+
+273
+00:15:29,280 --> 00:15:33,520
+If Zheng Yu hadn't asked me to invite you
+to thank you for helping out recently,
+
+274
+00:15:33,600 --> 00:15:35,320
+you wouldn't even be
+sitting at this table.
+
+275
+00:15:35,400 --> 00:15:37,640
+- How dare you run your mouth like that?
+- No…
+
+276
+00:15:37,720 --> 00:15:40,200
+- You're full of it!
+- I…
+
+277
+00:15:40,280 --> 00:15:41,400
+I surrender!
+
+278
+00:15:41,480 --> 00:15:42,920
+Surrendering won't save you!
+
+279
+00:15:43,000 --> 00:15:45,800
+- Go easy on him, Fangli.
+- Give him a break!
+
+280
+00:15:45,880 --> 00:15:47,120
+Cheers!
+
+281
+00:15:47,200 --> 00:15:50,280
+- Happy graduation!
+- Happy graduation!
+
+282
+00:15:54,480 --> 00:15:56,800
+We're moving out of the dorms this week.
+
+283
+00:15:56,880 --> 00:15:59,160
+Now that I think about it,
+I'm a little sad to leave.
+
+284
+00:15:59,840 --> 00:16:01,800
+When are you all planning to move?
+I can come help.
+
+285
+00:16:02,440 --> 00:16:04,120
+Don't worry. We'll definitely need you.
+
+286
+00:16:04,880 --> 00:16:08,000
+Just to be clear, I don't need help.
+I'm just moving down the hall.
+
+287
+00:16:08,080 --> 00:16:11,400
+Come on! Your grad school dorm
+is still a bit far from our place.
+
+288
+00:16:13,000 --> 00:16:14,360
+Free labor!
+
+289
+00:16:14,880 --> 00:16:18,360
+What about you? Are you planning to stay
+at the company where you interned?
+
+290
+00:16:19,400 --> 00:16:23,200
+My colleagues are all pretty nice,
+and my boss is great too.
+
+291
+00:16:23,800 --> 00:16:26,720
+Once I get my degree,
+they'll convert me to full-time.
+
+292
+00:16:28,920 --> 00:16:31,360
+I'd like to work full-time for a while
+and see how it goes.
+
+293
+00:16:32,800 --> 00:16:34,520
+Then you need
+to find a place to rent, right?
+
+294
+00:16:35,120 --> 00:16:36,880
+I've already contacted a few agents.
+
+295
+00:16:36,960 --> 00:16:38,680
+I'll look into some places
+in the next few days.
+
+296
+00:16:39,400 --> 00:16:41,320
+Make sure to call us
+when you go house hunting.
+
+297
+00:16:41,400 --> 00:16:44,440
+I've seen so many posts about fresh grads
+getting scammed when renting.
+
+298
+00:16:45,520 --> 00:16:47,800
+If you run out of time,
+just leave your stuff in my room first.
+
+299
+00:16:47,880 --> 00:16:49,360
+I'll hold on to it for you.
+
+300
+00:16:50,000 --> 00:16:52,240
+Aw, thank you, Linlin.
+
+301
+00:16:52,320 --> 00:16:55,480
+THE NINGSHENG BIOTECH SPONSORSHIP
+HAS BEEN APPROVED.
+
+302
+00:16:59,360 --> 00:17:02,080
+Zheng Yu, how's everything going
+with your application to study abroad?
+
+303
+00:17:04,040 --> 00:17:05,359
+Zheng Yu.
+
+304
+00:17:05,440 --> 00:17:06,319
+Zheng Yu?
+
+305
+00:17:06,400 --> 00:17:07,319
+Zheng Yu.
+
+306
+00:17:08,000 --> 00:17:10,480
+I… I need to send an email.
+
+307
+00:17:10,560 --> 00:17:12,680
+Wait, no. I need to make a call.
+
+308
+00:17:12,760 --> 00:17:13,880
+Take it easy.
+
+309
+00:17:24,400 --> 00:17:25,599
+CHEN YANZHOU
+
+310
+00:17:29,320 --> 00:17:30,240
+<i>Hello?</i>
+
+311
+00:17:32,680 --> 00:17:33,560
+Hello.
+
+312
+00:17:34,840 --> 00:17:35,920
+Chen Yanzhou.
+
+313
+00:17:36,760 --> 00:17:40,160
+Remember how you asked me
+if I had any plans?
+
+314
+00:17:44,320 --> 00:17:45,720
+I…
+
+315
+00:17:47,760 --> 00:17:49,520
+I'm going to study in Germany.
+
+316
+00:18:11,520 --> 00:18:12,680
+BERLIN BRANDENBURG AIRPORT
+
+317
+00:18:12,760 --> 00:18:14,960
+FIVE MONTHS LATER
+
+318
+00:18:51,520 --> 00:18:52,480
+It's been a while.
+
+319
+00:18:53,920 --> 00:18:54,840
+It's been a while.
+
+320
+00:18:57,120 --> 00:18:58,000
+Let me take these.
+
+321
+00:18:59,240 --> 00:19:00,440
+Thank you.
+
+322
+00:19:01,840 --> 00:19:02,680
+And your bag?
+
+323
+00:19:03,600 --> 00:19:04,480
+It's fine.
+
+324
+00:19:04,560 --> 00:19:06,480
+It's really light. I can manage.
+
+325
+00:19:08,720 --> 00:19:09,880
+Let's go.
+
+326
+00:19:22,680 --> 00:19:25,080
+Your hair seems to have grown longer.
+
+327
+00:19:26,280 --> 00:19:27,280
+I haven't cut it.
+
+328
+00:19:28,240 --> 00:19:29,920
+It looks good on you.
+
+329
+00:19:32,680 --> 00:19:35,520
+You, on the other hand,
+haven't changed much.
+
+330
+00:19:37,400 --> 00:19:40,240
+I was afraid someone
+wouldn't recognize me,
+
+331
+00:19:40,320 --> 00:19:42,280
+so I tried to look the same.
+
+332
+00:19:43,080 --> 00:19:44,800
+Are you kidding?
+
+333
+00:19:44,880 --> 00:19:47,120
+The moment I came out,
+I spotted you right away.
+
+334
+00:20:09,920 --> 00:20:11,840
+So this is the apartment you applied for.
+
+335
+00:20:13,080 --> 00:20:14,720
+I applied a long time ago.
+
+336
+00:20:14,800 --> 00:20:15,920
+Luckily,
+
+337
+00:20:16,000 --> 00:20:18,080
+I got a spot
+in this triple room last week.
+
+338
+00:20:18,160 --> 00:20:21,360
+Even though the room is a bit small
+and we share a bathroom,
+
+339
+00:20:21,440 --> 00:20:23,920
+the rent is cheap,
+and the common area is quite spacious.
+
+340
+00:20:25,080 --> 00:20:25,960
+It's pretty nice here.
+
+341
+00:20:27,520 --> 00:20:29,000
+You can just put my stuff here.
+
+342
+00:20:30,200 --> 00:20:31,360
+Let me carry it into your room.
+
+343
+00:20:32,680 --> 00:20:33,600
+Over there.
+
+344
+00:20:41,120 --> 00:20:43,160
+I'll leave your things here for now.
+
+345
+00:20:43,240 --> 00:20:45,240
+Is there anything else you need me to do?
+
+346
+00:20:45,960 --> 00:20:47,000
+That's all.
+
+347
+00:20:47,080 --> 00:20:48,240
+You must be tired from driving.
+
+348
+00:20:48,320 --> 00:20:50,000
+Go back early and get some rest.
+
+349
+00:20:50,080 --> 00:20:50,920
+All right.
+
+350
+00:20:51,000 --> 00:20:53,000
+Get some rest too
+and adjust to the time difference.
+
+351
+00:20:55,320 --> 00:20:57,080
+What are your plans for tomorrow?
+
+352
+00:20:57,160 --> 00:20:59,400
+It's your first day in Berlin.
+Do you want to look around?
+
+353
+00:21:00,440 --> 00:21:01,800
+That's what I had in mind.
+
+354
+00:21:02,680 --> 00:21:04,520
+Let me know when you're doing that, then.
+
+355
+00:21:06,800 --> 00:21:07,640
+What?
+
+356
+00:21:07,720 --> 00:21:10,720
+Could it be that you've made plans
+with a tour guide who's not me?
+
+357
+00:21:11,800 --> 00:21:13,200
+No, of course not.
+
+358
+00:21:14,040 --> 00:21:15,760
+- Then…
+- Hi!
+
+359
+00:21:33,480 --> 00:21:35,400
+Your housemate is back.
+
+360
+00:21:36,080 --> 00:21:37,280
+I should get going.
+
+361
+00:21:39,560 --> 00:21:40,640
+See you tomorrow.
+
+362
+00:21:40,720 --> 00:21:41,760
+See you tomorrow.
+
+363
+00:22:48,360 --> 00:22:53,080
+PLAN FOR TOMORROW'S
+LEISURELY WANDERING
+
+364
+00:22:53,160 --> 00:22:54,680
+CHEN YANZHOU
+
+365
+00:22:54,760 --> 00:22:58,000
+<i>"Wandering" and "having a plan"</i>
+
+366
+00:22:58,080 --> 00:23:00,200
+<i>don't really go together, do they?</i>
+
+367
+00:23:00,280 --> 00:23:03,280
+CHEN YANZHOU
+
+368
+00:23:04,760 --> 00:23:05,600
+Hello.
+
+369
+00:23:05,680 --> 00:23:08,600
+<i>Actually, Berlin's streets are beautiful</i>
+<i>even if you just wander around.</i>
+
+370
+00:23:08,680 --> 00:23:10,280
+Then why make a plan?
+
+371
+00:23:10,360 --> 00:23:14,120
+<i>I just didn't know if there were any spots</i>
+<i>you'd be interested in,</i>
+
+372
+00:23:14,200 --> 00:23:16,320
+<i>so I wanted to be prepared.</i>
+
+373
+00:23:16,400 --> 00:23:17,720
+Did you just get home?
+
+374
+00:23:18,960 --> 00:23:20,480
+I just got home.
+
+375
+00:23:20,560 --> 00:23:22,120
+<i>Then take a little break.</i>
+
+376
+00:23:22,200 --> 00:23:23,880
+<i>You've been driving for so long.</i>
+
+377
+00:23:23,960 --> 00:23:25,880
+<i>Lie down on the couch for a bit.</i>
+
+378
+00:23:27,800 --> 00:23:30,280
+Listening to you talk
+is just as restful for me.
+
+379
+00:23:41,280 --> 00:23:42,240
+What's wrong?
+
+380
+00:23:43,040 --> 00:23:44,360
+<i>Cat got your tongue?</i>
+
+381
+00:23:47,200 --> 00:23:48,960
+I was just thinking,
+
+382
+00:23:49,040 --> 00:23:50,840
+you really go all out.
+
+383
+00:23:51,520 --> 00:23:54,440
+<i>You're so busy at the lab, yet you still</i>
+<i>try to be the perfect tour guide.</i>
+
+384
+00:23:55,640 --> 00:23:59,360
+It's not that bad. After all,
+you're the only guest I'm hosting.
+
+385
+00:24:00,800 --> 00:24:02,360
+After being my tour guide,
+
+386
+00:24:02,440 --> 00:24:06,280
+you might discover you have a real talent
+for the tourism industry.
+
+387
+00:24:06,360 --> 00:24:07,840
+You could even earn extra money.
+
+388
+00:24:09,000 --> 00:24:10,160
+That's not where my heart lies.
+
+389
+00:24:11,480 --> 00:24:12,680
+Then
+
+390
+00:24:12,760 --> 00:24:14,200
+where does it lie?
+
+391
+00:24:15,440 --> 00:24:16,800
+You already know.
+
+392
+00:24:19,680 --> 00:24:22,360
+All right, I'll let you get some rest.
+
+393
+00:24:25,720 --> 00:24:27,240
+Well…
+
+394
+00:24:27,320 --> 00:24:28,480
+See you tomorrow then.
+
+395
+00:24:29,360 --> 00:24:30,360
+See you tomorrow.
+
+396
+00:24:31,960 --> 00:24:33,200
+Good night.
+
+397
+00:24:34,880 --> 00:24:35,880
+Good night.
+
+398
+00:25:03,160 --> 00:25:05,840
+Actually, this is our first stop today.
+
+399
+00:25:05,920 --> 00:25:06,760
+Here?
+
+400
+00:25:06,840 --> 00:25:09,600
+You mean
+the subway station?
+
+401
+00:25:10,200 --> 00:25:11,680
+A lot of people
+visiting Berlin
+
+402
+00:25:11,760 --> 00:25:13,360
+come here
+to take photos.
+
+403
+00:25:13,440 --> 00:25:16,680
+ALEXANDERPLATZ STATION
+
+404
+00:26:10,720 --> 00:26:13,200
+SOFT-SERVE ICE CREAM
+
+405
+00:26:13,280 --> 00:26:14,160
+What's going on?
+
+406
+00:26:14,240 --> 00:26:15,840
+Why are you suddenly video calling me?
+
+407
+00:26:16,440 --> 00:26:18,480
+You went radio silent
+after landing in Germany.
+
+408
+00:26:18,560 --> 00:26:19,680
+I just wanted to check on you.
+
+409
+00:26:21,080 --> 00:26:24,840
+I bet Zhuang Ning and Linlin are too busy
+and you're bored all alone.
+
+410
+00:26:25,960 --> 00:26:27,040
+You caught me.
+
+411
+00:26:28,760 --> 00:26:30,160
+Are you outside right now?
+
+412
+00:26:32,480 --> 00:26:33,440
+<i>Just walking around.</i>
+
+413
+00:26:33,520 --> 00:26:34,840
+Pan the camera around.
+
+414
+00:26:34,920 --> 00:26:36,040
+Let me see this great Berlin.
+
+415
+00:26:46,200 --> 00:26:47,080
+<i>Wait a second.</i>
+
+416
+00:26:48,200 --> 00:26:49,200
+Turn back a little.
+
+417
+00:26:50,080 --> 00:26:51,000
+<i>A little more.</i>
+
+418
+00:26:52,480 --> 00:26:55,200
+I knew it! You went sightseeing,
+
+419
+00:26:55,280 --> 00:26:56,600
+<i>but you didn't post any photos.</i>
+
+420
+00:26:56,680 --> 00:26:59,240
+<i>Turns out you're with Chen Yanzhou,</i>
+<i>so you were too busy to post!</i>
+
+421
+00:27:00,080 --> 00:27:01,040
+Are you two together now?
+
+422
+00:27:02,800 --> 00:27:03,680
+No.
+
+423
+00:27:03,760 --> 00:27:06,360
+<i>You've been in Berlin for more than…</i>
+
+424
+00:27:06,440 --> 00:27:09,640
+More than 24 hours now,
+and you're still not together?
+
+425
+00:27:09,720 --> 00:27:10,960
+<i>This is killing me!</i>
+
+426
+00:27:11,040 --> 00:27:12,760
+<i>Have you asked him yet?</i>
+
+427
+00:27:14,160 --> 00:27:15,440
+I…
+
+428
+00:27:15,520 --> 00:27:16,760
+How would I ask?
+
+429
+00:27:17,280 --> 00:27:18,400
+<i>You can test the waters!</i>
+
+430
+00:27:18,480 --> 00:27:21,600
+Just spend time together
+as friends for now.
+
+431
+00:27:21,680 --> 00:27:24,880
+If he likes you, he definitely
+won't want to stay just friends.
+
+432
+00:27:45,040 --> 00:27:47,920
+Is this place somewhere you come often?
+
+433
+00:27:50,200 --> 00:27:52,600
+Sometimes, I come here to sit by myself.
+
+434
+00:27:52,680 --> 00:27:53,880
+Thinking about…
+
+435
+00:27:55,240 --> 00:27:56,480
+About what?
+
+436
+00:27:58,960 --> 00:28:00,320
+That
+
+437
+00:28:00,920 --> 00:28:03,840
+it's such a waste to enjoy
+such beautiful scenery alone.
+
+438
+00:28:05,160 --> 00:28:06,120
+A waste?
+
+439
+00:28:08,240 --> 00:28:10,360
+Watching such a beautiful sunset alone
+
+440
+00:28:10,440 --> 00:28:13,680
+is like going to a buffet
+and only getting a plate of salad.
+
+441
+00:28:15,560 --> 00:28:17,040
+But it'll be better from now on.
+
+442
+00:28:17,840 --> 00:28:19,200
+We can take our time and enjoy it.
+
+443
+00:28:22,560 --> 00:28:26,880
+Then from now on, if you ever feel lonely
+and want to go somewhere to relax,
+
+444
+00:28:26,960 --> 00:28:28,040
+just come find me.
+
+445
+00:28:28,120 --> 00:28:28,960
+I'll be here.
+
+446
+00:28:30,200 --> 00:28:31,520
+Really?
+
+447
+00:28:32,080 --> 00:28:34,320
+<i>Just spend time together</i>
+<i>as friends for now.</i>
+
+448
+00:28:34,400 --> 00:28:37,160
+<i>If he likes you, he definitely</i>
+<i>won't want to stay just friends.</i>
+
+449
+00:28:39,160 --> 00:28:42,640
+After all, I don't really
+know anyone else here.
+
+450
+00:28:52,760 --> 00:28:53,920
+No problem.
+
+451
+00:28:58,360 --> 00:29:02,000
+Thanks for taking me
+to so many great places today.
+
+452
+00:29:03,640 --> 00:29:05,200
+You're thanking me too soon.
+
+453
+00:29:05,280 --> 00:29:07,600
+There are still so many places
+we haven't been to yet.
+
+454
+00:29:50,320 --> 00:29:52,000
+<i>How's it going?</i>
+
+455
+00:29:52,080 --> 00:29:53,560
+XU FANGLI
+
+456
+00:29:53,640 --> 00:29:56,320
+<i>I tested the waters last time</i>
+<i>and there wasn't much reaction.</i>
+
+457
+00:29:56,400 --> 00:29:59,040
+<i>I've been busy these past few days,</i>
+<i>so we haven't seen each other much.</i>
+
+458
+00:30:01,160 --> 00:30:02,800
+<i>Keep probing and report back!</i>
+
+459
+00:30:06,320 --> 00:30:09,720
+NEW MESSAGE: CHEN YANZHOU
+
+460
+00:30:09,800 --> 00:30:11,280
+<i>Are you still in class?</i>
+
+461
+00:30:14,240 --> 00:30:15,840
+<i>Classes are over.</i>
+
+462
+00:30:19,120 --> 00:30:21,240
+<i>What are you doing later?</i>
+
+463
+00:30:24,560 --> 00:30:25,640
+<i>Studying.</i>
+
+464
+00:30:28,560 --> 00:30:29,560
+<i>What about you?</i>
+
+465
+00:31:21,440 --> 00:31:22,800
+<i>I'm planning to study too.</i>
+
+466
+00:31:28,760 --> 00:31:30,680
+ZHENG YU: STUDYING.
+WHAT ABOUT YOU?
+
+467
+00:31:30,760 --> 00:31:33,400
+You traveled an hour all the way over here
+
+468
+00:31:33,480 --> 00:31:35,200
+just to study at our campus?
+
+469
+00:31:35,720 --> 00:31:37,760
+And you insisted on dragging me along!
+
+470
+00:31:39,320 --> 00:31:41,040
+Aren't you going on
+a business trip tomorrow?
+
+471
+00:31:42,560 --> 00:31:44,080
+I'm just helping you graduate sooner.
+
+472
+00:31:45,800 --> 00:31:46,640
+Thanks a lot.
+
+473
+00:31:48,640 --> 00:31:51,520
+Besides, at your university,
+you're the only…
+
+474
+00:31:53,160 --> 00:31:55,080
+No, you're one of
+the only two people I know.
+
+475
+00:31:55,600 --> 00:31:57,240
+It's not like I had any other options.
+
+476
+00:31:58,000 --> 00:31:59,120
+Two?
+
+477
+00:32:00,400 --> 00:32:02,840
+Look at you! When did you meet
+someone new behind my back?
+
+478
+00:32:08,200 --> 00:32:10,800
+You're distracted.
+You're not really here to see me, are you?
+
+479
+00:32:13,520 --> 00:32:15,840
+I told you, I'm here to study with you.
+
+480
+00:32:16,960 --> 00:32:18,280
+Total nonsense.
+
+481
+00:32:18,360 --> 00:32:20,960
+Whatever your reason is, can we eat first?
+
+482
+00:32:23,320 --> 00:32:24,360
+Fine.
+
+483
+00:32:26,560 --> 00:32:28,160
+ZHENG YU
+
+484
+00:32:28,240 --> 00:32:29,840
+<i>Have you eaten yet?</i>
+
+485
+00:32:38,800 --> 00:32:40,200
+You still haven't answered me.
+
+486
+00:32:40,280 --> 00:32:42,800
+When did you meet this new person
+from our university?
+
+487
+00:32:43,800 --> 00:32:45,760
+It's not someone new. It's an old friend.
+
+488
+00:32:46,960 --> 00:32:47,840
+An old friend?
+
+489
+00:32:52,360 --> 00:32:54,200
+So you had an ulterior motive all along.
+
+490
+00:32:54,280 --> 00:32:57,920
+Since you're old friends,
+why use studying as an excuse?
+
+491
+00:32:58,000 --> 00:32:59,080
+Why not just go see her?
+
+492
+00:33:01,240 --> 00:33:03,400
+I came here
+without telling her beforehand.
+
+493
+00:33:04,000 --> 00:33:07,600
+If I suddenly tell her I'm nearby
+and ask to see her,
+
+494
+00:33:07,680 --> 00:33:10,040
+wouldn't that put
+a lot of pressure on her?
+
+495
+00:33:13,800 --> 00:33:14,720
+Oh, Chen Yanzhou.
+
+496
+00:33:14,800 --> 00:33:18,280
+I really never expected you'd be like this
+when falling in love.
+
+497
+00:33:18,360 --> 00:33:20,040
+- Like what?
+- One word.
+
+498
+00:33:21,240 --> 00:33:22,640
+Cowardly.
+
+499
+00:33:24,200 --> 00:33:25,320
+You wouldn't understand.
+
+500
+00:33:25,400 --> 00:33:28,000
+I don't get you.
+What's there to be afraid of?
+
+501
+00:33:28,080 --> 00:33:29,560
+Did she reject you before?
+
+502
+00:33:34,360 --> 00:33:36,360
+No way. She really did?
+
+503
+00:33:38,960 --> 00:33:40,560
+I confessed my feelings to her in China.
+
+504
+00:33:40,640 --> 00:33:43,280
+Basically, she felt pressured by it.
+
+505
+00:33:43,360 --> 00:33:44,960
+So I'm not really sure
+
+506
+00:33:45,800 --> 00:33:47,120
+where to draw the line anymore.
+
+507
+00:33:48,080 --> 00:33:52,440
+Then you need to communicate more
+to figure out where her boundaries are.
+
+508
+00:33:52,520 --> 00:33:54,360
+Listen to me. Ask her out now.
+
+509
+00:33:55,600 --> 00:33:57,400
+No. I already asked her.
+
+510
+00:33:57,480 --> 00:33:58,680
+She's studying tonight.
+
+511
+00:33:58,760 --> 00:34:02,280
+She's not like you, making travel plans
+halfway through studying,
+
+512
+00:34:02,360 --> 00:34:03,840
+playing video games during class,
+
+513
+00:34:03,920 --> 00:34:06,120
+and grabbing a drink
+before heading to the library.
+
+514
+00:34:06,200 --> 00:34:07,160
+She's different.
+
+515
+00:34:07,240 --> 00:34:08,080
+Hey, you…
+
+516
+00:34:26,360 --> 00:34:28,560
+Hi. I'm Lai Wendong.
+
+517
+00:34:28,639 --> 00:34:30,480
+You can call me Leon, like everyone else.
+
+518
+00:34:30,560 --> 00:34:33,000
+I'm in biology too, a year ahead of you.
+
+519
+00:34:33,080 --> 00:34:35,600
+Let's chat more and exchange ideas
+in the future.
+
+520
+00:34:36,600 --> 00:34:38,360
+- Cheers to you.
+- Cheers.
+
+521
+00:34:45,920 --> 00:34:48,320
+If she's studying,
+just ask her another time.
+
+522
+00:34:48,400 --> 00:34:49,800
+There's no need to drown your sorrows.
+
+523
+00:34:53,520 --> 00:34:54,840
+The same.
+
+524
+00:34:54,920 --> 00:34:55,800
+Make it two.
+
+525
+00:35:03,880 --> 00:35:04,960
+You…
+
+526
+00:35:08,560 --> 00:35:10,160
+That girl's Chinese, right?
+
+527
+00:35:12,880 --> 00:35:13,920
+And she's pretty cute.
+
+528
+00:35:14,840 --> 00:35:16,720
+But you don't need
+to keep staring at her like that.
+
+529
+00:35:29,360 --> 00:35:30,680
+She's the second person?
+
+530
+00:36:06,400 --> 00:36:08,480
+<i>Meet me at the entrance when you're done.</i>
+
+531
+00:36:08,560 --> 00:36:09,600
+<i>I need to talk to you.</i>
+
+532
+00:36:22,360 --> 00:36:23,560
+Chen Yanzhou.
+
+533
+00:36:31,320 --> 00:36:32,680
+Are you
+
+534
+00:36:33,280 --> 00:36:34,400
+drunk?
+
+535
+00:36:39,400 --> 00:36:40,760
+Liar.
+
+536
+00:36:40,840 --> 00:36:43,200
+You were texting me just a moment ago.
+
+537
+00:36:46,520 --> 00:36:48,200
+This drink has a strong delayed kick.
+
+538
+00:36:49,280 --> 00:36:50,320
+I had a lot just now.
+
+539
+00:36:51,680 --> 00:36:53,200
+Why did you drink so much?
+
+540
+00:36:57,680 --> 00:36:58,840
+Because you lied to me.
+
+541
+00:37:01,720 --> 00:37:03,400
+You were clearly at a gathering,
+
+542
+00:37:04,160 --> 00:37:06,840
+yet you lied and said you were studying.
+
+543
+00:37:09,600 --> 00:37:11,720
+I really was studying.
+
+544
+00:37:11,800 --> 00:37:13,600
+I was practicing my conversation skills.
+
+545
+00:37:13,680 --> 00:37:16,600
+What about you?
+Didn't you say you were studying?
+
+546
+00:37:17,400 --> 00:37:18,720
+I was afraid of disturbing you,
+
+547
+00:37:18,800 --> 00:37:20,000
+so I didn't even dare text you.
+
+548
+00:37:20,600 --> 00:37:21,600
+I…
+
+549
+00:37:24,560 --> 00:37:25,480
+I was studying.
+
+550
+00:37:26,640 --> 00:37:28,200
+I was learning from you.
+
+551
+00:37:28,840 --> 00:37:29,840
+You went to a gathering,
+
+552
+00:37:30,640 --> 00:37:31,680
+so I went to one too.
+
+553
+00:37:36,160 --> 00:37:37,520
+You
+
+554
+00:37:37,600 --> 00:37:38,480
+can't smile.
+
+555
+00:37:39,760 --> 00:37:41,040
+Why not?
+
+556
+00:37:42,520 --> 00:37:44,440
+Because whenever I see you smile,
+
+557
+00:37:45,920 --> 00:37:47,680
+I end up forgiving you for everything.
+
+558
+00:37:54,880 --> 00:37:55,720
+I…
+
+559
+00:37:56,320 --> 00:37:58,880
+Actually, I was going
+to the library today.
+
+560
+00:37:59,880 --> 00:38:01,720
+My housemate, Lena,
+
+561
+00:38:01,800 --> 00:38:03,280
+invited me to the gathering.
+
+562
+00:38:03,360 --> 00:38:06,600
+She's really nice, so I said yes.
+
+563
+00:38:10,040 --> 00:38:10,880
+Me too.
+
+564
+00:38:11,840 --> 00:38:12,960
+I…
+
+565
+00:38:13,680 --> 00:38:16,320
+was going to the library
+hoping to run into you.
+
+566
+00:38:17,000 --> 00:38:18,080
+But then
+
+567
+00:38:19,000 --> 00:38:20,640
+Qin Shizi dragged me out to eat.
+
+568
+00:38:23,920 --> 00:38:25,000
+Okay.
+
+569
+00:38:25,080 --> 00:38:27,760
+Now that the misunderstanding
+is cleared up,
+
+570
+00:38:27,840 --> 00:38:29,440
+let's go.
+
+571
+00:38:38,200 --> 00:38:39,040
+I…
+
+572
+00:38:40,520 --> 00:38:41,880
+can't walk anymore.
+
+573
+00:38:45,960 --> 00:38:46,960
+Chen Yanzhou.
+
+574
+00:38:47,600 --> 00:38:48,760
+Are you
+
+575
+00:38:49,320 --> 00:38:50,760
+trying to act cute?
+
+576
+00:38:52,000 --> 00:38:53,040
+Stop pretending.
+
+577
+00:38:53,120 --> 00:38:54,440
+I know you can walk.
+
+578
+00:38:59,040 --> 00:39:01,040
+I'm not the only one who gets drunk.
+
+579
+00:39:01,840 --> 00:39:04,200
+Why does someone else
+get to act completely spoiled,
+
+580
+00:39:04,280 --> 00:39:06,040
+while I get this kind of treatment?
+
+581
+00:39:07,160 --> 00:39:09,400
+You really hold a grudge, don't you?
+
+582
+00:39:11,080 --> 00:39:12,360
+Didn't I tell you?
+
+583
+00:39:13,200 --> 00:39:14,160
+You
+
+584
+00:39:15,120 --> 00:39:16,320
+can't smile.
+
+585
+00:39:18,000 --> 00:39:19,200
+I'm going to smile anyway.
+
+586
+00:39:19,920 --> 00:39:21,360
+What are you going to do about it?
+
+587
+00:39:33,840 --> 00:39:36,360
+How about I help you walk?
+
+588
+00:40:03,840 --> 00:40:04,760
+Chen Yanzhou.
+
+589
+00:40:05,600 --> 00:40:08,800
+Some things should wait
+until you're sober.
+
+590
+00:40:12,920 --> 00:40:15,240
+You've had too much to drink.
+Let me take you home.
+
+591
+00:40:28,680 --> 00:40:29,680
+The keys?
+
+592
+00:40:52,960 --> 00:40:54,000
+This way.
+
+593
+00:40:57,240 --> 00:40:58,200
+Be careful.
+
+594
+00:41:02,640 --> 00:41:03,840
+Come on, sit down.
+
+595
+00:41:41,200 --> 00:41:42,360
+Chen Yanzhou.
+
+596
+00:41:42,960 --> 00:41:44,320
+Actually,
+
+597
+00:41:45,000 --> 00:41:48,120
+there's something I've been wanting
+to ask you these past few days.
+
+598
+00:41:49,440 --> 00:41:50,680
+You…
+
+599
+00:44:33,160 --> 00:44:38,160
+Subtitle translation by: Cempaka Malinja
