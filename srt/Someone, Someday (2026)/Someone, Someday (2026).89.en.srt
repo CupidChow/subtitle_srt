@@ -1,0 +1,1380 @@
+1
+00:00:01,084 --> 00:00:02,127
+<i>Chief!</i>
+
+2
+00:00:02,210 --> 00:00:04,504
+<i>I'm so excited about this!</i>
+
+3
+00:00:04,587 --> 00:00:07,007
+<i>We're all excited here, Blaire.</i>
+
+4
+00:00:07,090 --> 00:00:08,466
+<i>So, I think we can start?</i>
+
+5
+00:00:09,300 --> 00:00:10,260
+<i>Okay.</i>
+
+6
+00:00:10,343 --> 00:00:12,721
+<i>So, Billy and I discussed it,</i>
+
+7
+00:00:12,804 --> 00:00:15,390
+<i>and after everything that's happened,</i>
+
+8
+00:00:15,473 --> 00:00:18,560
+<i>we agreed that we need a fresh start.</i>
+
+9
+00:00:18,643 --> 00:00:21,187
+<i>We reviewed where we are today</i>
+
+10
+00:00:21,271 --> 00:00:23,314
+<i>and where we wanted to be.</i>
+
+11
+00:00:23,398 --> 00:00:25,734
+<i>So, first things first,</i>
+
+12
+00:00:25,817 --> 00:00:28,820
+<i>we're not changing our name.</i>
+
+13
+00:00:28,903 --> 00:00:30,572
+<i>We're still LoveList.</i>
+
+14
+00:00:31,156 --> 00:00:32,449
+<i>Yay!</i>
+
+15
+00:00:33,116 --> 00:00:34,868
+<i>How's life treating you, Ma?</i>
+
+16
+00:00:34,951 --> 00:00:37,120
+<i>Are you eating well here?</i>
+
+17
+00:00:37,203 --> 00:00:39,497
+<i>Don't worry about me.</i>
+
+18
+00:00:39,581 --> 00:00:45,795
+<i>I just want to apologize again for what</i>
+<i>I did to your daughter and Precious.</i>
+
+19
+00:00:47,422 --> 00:00:48,548
+<i>Mariela.</i>
+
+20
+00:00:49,632 --> 00:00:52,343
+<i>Little by little,</i>
+<i>I'll make it up to you too.</i>
+
+21
+00:00:53,303 --> 00:00:57,098
+<i>It's enough for me</i>
+<i>that both of you are on good terms now.</i>
+
+22
+00:00:57,974 --> 00:01:00,435
+<i>Take care of each other, okay?</i>
+
+23
+00:01:01,102 --> 00:01:03,730
+<i>And you? Are you doing well?</i>
+
+24
+00:01:04,814 --> 00:01:06,399
+<i>I'm doing great, Ma.</i>
+
+25
+00:01:06,483 --> 00:01:09,194
+<i>Billy helped me out</i>
+<i>with some startup capital,</i>
+
+26
+00:01:09,277 --> 00:01:12,655
+<i>and now we're business partners</i>
+<i>in an internet cafe.</i>
+
+27
+00:01:12,739 --> 00:01:13,865
+[MARIELA]
+<i>Really?</i>
+
+28
+00:01:13,948 --> 00:01:15,075
+<i>Come on!</i>
+
+29
+00:01:15,658 --> 00:01:18,536
+<i>Yes, I understand, LoveLister Joanne.</i>
+
+30
+00:01:18,620 --> 00:01:20,580
+<i>Healing takes time.</i>
+
+31
+00:01:20,663 --> 00:01:23,500
+<i>Forgiveness isn't instant,</i>
+
+32
+00:01:23,583 --> 00:01:27,545
+<i>even if you've accepted the apology</i>
+<i>of the person who hurt you.</i>
+
+33
+00:01:35,470 --> 00:01:38,056
+<i>I bought these with my first paycheck,</i>
+
+34
+00:01:38,139 --> 00:01:41,184
+<i>from our very first earnings</i>
+<i>from the internet cafe.</i>
+
+35
+00:01:42,936 --> 00:01:44,604
+<i>If you're still hurt,</i>
+
+36
+00:01:45,230 --> 00:01:48,191
+<i>or if every now and then,</i>
+
+37
+00:01:48,274 --> 00:01:51,986
+<i>you're still affected</i>
+<i>by the history of betrayal,</i>
+
+38
+00:01:52,070 --> 00:01:53,571
+<i>that's normal.</i>
+
+39
+00:01:55,573 --> 00:01:58,284
+<i>But it doesn't make you</i>
+<i>a bad person, okay?</i>
+
+40
+00:01:59,577 --> 00:02:02,580
+<i>It just means that the healing</i>
+
+41
+00:02:03,748 --> 00:02:05,834
+<i>is still happening.</i>
+
+42
+00:02:05,917 --> 00:02:08,920
+<i>Healing should never be rushed.</i>
+
+43
+00:02:10,672 --> 00:02:12,841
+<i>- Dad, I packed you some food.</i>
+- [ENRICO] <i>Mm!</i>
+
+44
+00:02:12,924 --> 00:02:14,467
+<i>- How tasty.</i>
+<i>- Mm-hmm.</i>
+
+45
+00:02:14,551 --> 00:02:17,971
+- [BEA] <i>That'll be mine instead.</i>
+<i>- Right. That's your favorite.</i>
+
+46
+00:02:18,054 --> 00:02:19,597
+<i>- Oh, she'll eat it all.</i>
+- [BEA] <i>Okay.</i>
+
+47
+00:02:21,307 --> 00:02:23,393
+<i>- Bye-bye, Pa!</i>
+<i>- Bye-bye.</i>
+
+48
+00:02:23,476 --> 00:02:24,769
+<i>Extension?</i>
+
+49
+00:02:24,853 --> 00:02:26,688
+<i>Extension? You've made us</i>
+<i>extend a lot already.</i>
+
+50
+00:02:26,771 --> 00:02:27,772
+<i>I know, right?</i>
+
+51
+00:02:27,856 --> 00:02:28,940
+<i>- But, Bea…</i>
+<i>- Mm?</i>
+
+52
+00:02:29,023 --> 00:02:32,318
+<i>I hope you and Papa</i>
+<i>will visit us more often.</i>
+
+53
+00:02:32,402 --> 00:02:35,196
+<i>Of course! Won't I be the one</i>
+<i>to take you home from the…</i>
+
+54
+00:02:35,280 --> 00:02:37,198
+[OLIVER AND BEA]
+<i>Internet cafe!</i>
+
+55
+00:02:37,282 --> 00:02:39,325
+<i>- Bye-bye.</i>
+<i>- Mm!</i>
+
+56
+00:02:39,409 --> 00:02:40,910
+<i>Okay.</i>
+
+57
+00:02:49,043 --> 00:02:50,837
+AMIHAN HOME
+
+58
+00:02:55,550 --> 00:02:56,676
+Grandpa.
+
+59
+00:02:57,260 --> 00:03:01,598
+Would you like to hear Mom's song again?
+
+60
+00:03:05,018 --> 00:03:06,227
+Do you still remember it?
+
+61
+00:03:10,398 --> 00:03:11,524
+[JORDAN] It's about home.
+
+62
+00:03:13,735 --> 00:03:15,403
+Home is where the heart is.
+
+63
+00:03:25,413 --> 00:03:28,374
+<i>♪ My muse ♪</i>
+
+64
+00:03:29,417 --> 00:03:33,171
+<i>♪ Where's our destination? ♪</i>
+
+65
+00:03:35,548 --> 00:03:38,468
+<i>♪ You are the captain ♪</i>
+
+66
+00:03:39,719 --> 00:03:43,973
+<i>♪ I'll follow wherever you go ♪</i>
+
+67
+00:03:44,849 --> 00:03:46,726
+<i>♪ Oh baby ♪</i>
+
+68
+00:03:46,809 --> 00:03:51,439
+<i>♪ I'll ride your wave ♪</i>
+
+69
+00:03:52,065 --> 00:03:56,486
+<i>♪ Wherever it takes me ♪</i>
+
+70
+00:03:56,569 --> 00:03:59,822
+<i>♪ Do you know when I found you ♪</i>
+
+71
+00:03:59,906 --> 00:04:02,033
+<i>♪ Everything changed? ♪</i>
+
+72
+00:04:03,117 --> 00:04:04,827
+<i>♪ Stay right there, my love ♪</i>
+
+73
+00:04:04,911 --> 00:04:09,207
+<i>♪ Because I'm coming home ♪</i>
+
+74
+00:04:11,292 --> 00:04:13,378
+[JUDE BREATHES DEEPLY]
+
+75
+00:04:16,214 --> 00:04:19,676
+[JUDE BREATHING HEAVILY]
+
+76
+00:04:19,759 --> 00:04:21,761
+I want to go home too.
+
+77
+00:04:21,844 --> 00:04:24,722
+[MELLOW MUSIC PLAYING]
+
+78
+00:04:24,806 --> 00:04:25,890
+My grandson.
+
+79
+00:04:29,310 --> 00:04:34,691
+T-Take me home.
+
+80
+00:04:38,319 --> 00:04:39,404
+Okay, Grandpa. [SNIFFLES]
+
+81
+00:04:40,154 --> 00:04:45,576
+[MELLOW MUSIC CONTINUES]
+
+82
+00:05:00,967 --> 00:05:05,972
+[MELLOW MUSIC CONTINUES]
+
+83
+00:05:17,483 --> 00:05:24,157
+[THEME MUSIC PLAYING]
+
+84
+00:06:25,009 --> 00:06:30,598
+[EMOTIONAL MUSIC PLAYING]
+
+85
+00:06:30,681 --> 00:06:34,644
+[RAIN PATTERING]
+
+86
+00:06:51,911 --> 00:06:56,415
+- [EMOTIONAL MUSIC CONTINUES]
+- [RAIN CONTINUES PATTERING]
+
+87
+00:07:24,694 --> 00:07:26,362
+- [MUSIC FADES]
+- [TRAFFIC NOISE]
+
+88
+00:07:26,446 --> 00:07:29,365
+[GUITAR STRUMMING]
+
+89
+00:07:30,658 --> 00:07:31,576
+I'm sorry I'm late.
+
+90
+00:07:31,659 --> 00:07:33,161
+- I'm super late. I'm sorry.
+- It's okay.
+
+91
+00:07:33,244 --> 00:07:35,079
+- Take a seat. Want a beer?
+- Traffic was so heavy.
+
+92
+00:07:35,163 --> 00:07:36,497
+- Yes, please.
+- [BILLY] Okay.
+
+93
+00:07:36,581 --> 00:07:38,332
+- It's his first time.
+- How's the drinks?
+
+94
+00:07:38,416 --> 00:07:39,584
+Good.
+
+95
+00:07:39,667 --> 00:07:41,169
+- Boss.
+- Boss.
+
+96
+00:07:41,252 --> 00:07:42,753
+- [JORDAN] Two beers.
+- Two beers.
+
+97
+00:07:42,837 --> 00:07:44,630
+- I got you, boss.
+- Uh, here it is.
+
+98
+00:07:44,714 --> 00:07:46,716
+Look, guys. He's getting me drunk.
+
+99
+00:07:46,799 --> 00:07:48,092
+You're getting me drunk.
+
+100
+00:07:48,176 --> 00:07:49,802
+- Here, boss.
+- [BOTTLES CLINK]
+
+101
+00:07:49,886 --> 00:07:52,388
+- [JORDAN] Thank you, guys.
+- You're welcome, boss.
+
+102
+00:07:52,472 --> 00:07:53,598
+[VALERIE] Cheers.
+
+103
+00:07:57,268 --> 00:07:58,769
+- Hey!
+- Hey.
+
+104
+00:07:58,853 --> 00:08:00,813
+Didn't you just get promoted to manager?
+
+105
+00:08:00,897 --> 00:08:03,900
+Why not try catching feelings
+with someone else?
+
+106
+00:08:03,983 --> 00:08:06,652
+- With whom?
+- Robbie, my love!
+
+107
+00:08:08,321 --> 00:08:10,156
+Get me drunk.
+
+108
+00:08:10,239 --> 00:08:11,782
+Sure, come on.
+
+109
+00:08:11,866 --> 00:08:13,910
+- Here, here, here.
+- [BLAIRE] Robbie!
+
+110
+00:08:16,204 --> 00:08:18,289
+- [BONG CHUCKLES]
+- Go home once you finish that.
+
+111
+00:08:18,372 --> 00:08:19,582
+[BLAIRE] Aw!
+
+112
+00:08:21,083 --> 00:08:22,919
+- [WOMAN] Right, baby?
+- [VALERIE] Um…
+
+113
+00:08:23,002 --> 00:08:24,837
+[VALERIE] Especially, you know…
+
+114
+00:08:24,921 --> 00:08:27,256
+It's more expensive, so like…
+
+115
+00:08:31,552 --> 00:08:34,096
+Oh?
+
+116
+00:08:34,180 --> 00:08:37,099
+It's easy for you to say that
+because you're happy.
+
+117
+00:08:37,183 --> 00:08:39,185
+- Of course.
+- You're happy.
+
+118
+00:08:41,062 --> 00:08:43,064
+Hey, the baby kicked!
+
+119
+00:08:43,147 --> 00:08:45,566
+- Baby!
+- [GUSHING]
+
+120
+00:08:45,650 --> 00:08:47,151
+- I'm the favorite godmother.
+- Maybe!
+
+121
+00:08:47,235 --> 00:08:48,819
+Of course. Of course, babe.
+
+122
+00:08:48,903 --> 00:08:50,279
+- So cute!
+- [CHUCKLES]
+
+123
+00:08:54,742 --> 00:08:55,618
+More?
+
+124
+00:08:55,701 --> 00:08:59,872
+You know, I'm sure
+they're both proud of you.
+
+125
+00:09:01,707 --> 00:09:03,709
+Mm! That's what they told me.
+
+126
+00:09:05,086 --> 00:09:06,546
+Look.
+
+127
+00:09:08,839 --> 00:09:11,175
+You got everything you wanted.
+
+128
+00:09:11,259 --> 00:09:17,682
+[SOFT MUSIC PLAYING]
+
+129
+00:09:18,933 --> 00:09:20,101
+Not quite yet.
+
+130
+00:09:20,184 --> 00:09:24,647
+[SOFT MUSIC CONTINUES]
+
+131
+00:09:29,151 --> 00:09:30,695
+[JORDAN CHUCKLES SOFTLY]
+
+132
+00:09:34,907 --> 00:09:37,785
+Grandpa Jude, did you just hear him?
+
+133
+00:09:37,868 --> 00:09:39,495
+- He's being stubborn.
+- Sorry, Grandpa.
+
+134
+00:09:39,579 --> 00:09:41,080
+I can't help it. She's beautiful.
+
+135
+00:09:41,163 --> 00:09:43,708
+Grandpa, he really won't stop.
+
+136
+00:09:43,791 --> 00:09:44,709
+Stop it, please.
+
+137
+00:09:44,792 --> 00:09:48,629
+Cheers, guys! Let's go!
+
+138
+00:09:48,713 --> 00:09:52,091
+- Yay!
+- Come on!
+
+139
+00:09:52,174 --> 00:09:53,759
+Celebration!
+
+140
+00:09:53,843 --> 00:09:55,094
+Cheers!
+
+141
+00:09:55,177 --> 00:09:56,220
+Let's go, guys!
+
+142
+00:09:56,304 --> 00:09:57,847
+- Cheers!
+- [BOTTLES CLINK]
+
+143
+00:09:57,930 --> 00:10:01,058
+- Cheers!
+- Cheers!
+
+144
+00:10:01,142 --> 00:10:03,185
+- [BLAIRE] Cheers!
+- I can still smell it.
+
+145
+00:10:03,269 --> 00:10:04,729
+- [BLAIRE] Congrats!
+- [MAN] Yes!
+
+146
+00:10:04,812 --> 00:10:07,815
+- [WOMAN] Congratulations!
+- Thank you.
+
+147
+00:10:07,898 --> 00:10:10,192
+[ALL CHUCKLING]
+
+148
+00:10:10,276 --> 00:10:14,238
+[BRIGHT MUSIC PLAYING, THEN FADES]
+
+149
+00:10:16,782 --> 00:10:18,784
+As a painter,
+
+150
+00:10:18,868 --> 00:10:21,704
+I always look for the perfect colors,
+
+151
+00:10:22,705 --> 00:10:24,624
+perfect lighting,
+
+152
+00:10:24,707 --> 00:10:26,167
+and perfect composition.
+
+153
+00:10:27,043 --> 00:10:28,252
+And at some point,
+
+154
+00:10:28,336 --> 00:10:32,923
+I looked for the perfect relationship.
+
+155
+00:10:34,133 --> 00:10:36,469
+And what I learned from Toni
+
+156
+00:10:37,553 --> 00:10:43,267
+is that our relationship isn't
+and will never be perfect.
+
+157
+00:10:43,351 --> 00:10:44,810
+Our love story will never be perfect.
+
+158
+00:10:44,894 --> 00:10:47,980
+There'll be misunderstandings,
+
+159
+00:10:48,064 --> 00:10:50,691
+caused by me, of course,
+
+160
+00:10:50,775 --> 00:10:55,237
+and there'll be ups and downs.
+
+161
+00:10:55,321 --> 00:10:56,947
+But thank you, Toni.
+
+162
+00:10:57,031 --> 00:11:00,159
+Thank you for always forgiving me,
+
+163
+00:11:00,242 --> 00:11:03,204
+and for the endless
+second chances you give me
+
+164
+00:11:03,287 --> 00:11:04,914
+to be a better person.
+
+165
+00:11:05,998 --> 00:11:07,833
+[YANI INHALES DEEPLY]
+
+166
+00:11:07,917 --> 00:11:10,461
+There's another thing I learned.
+
+167
+00:11:10,544 --> 00:11:12,671
+When you love someone,
+
+168
+00:11:14,215 --> 00:11:15,299
+don't hide your feelings.
+
+169
+00:11:15,383 --> 00:11:17,134
+Don't wait another day to tell them.
+
+170
+00:11:19,929 --> 00:11:21,347
+Let the world know how you feel.
+
+171
+00:11:22,473 --> 00:11:24,809
+Love is like a canvas.
+
+172
+00:11:26,936 --> 00:11:30,022
+If you're scared to make
+your first brushstroke,
+
+173
+00:11:30,940 --> 00:11:32,608
+you won't be able to create anything.
+
+174
+00:11:34,360 --> 00:11:38,489
+When you're sure about that person,
+don't be afraid. [CHUCKLES]
+
+175
+00:11:38,572 --> 00:11:39,865
+Go for it.
+
+176
+00:11:41,992 --> 00:11:43,452
+Toni,
+
+177
+00:11:44,328 --> 00:11:45,663
+I love you so much.
+
+178
+00:11:46,664 --> 00:11:49,417
+And I'm going to tell
+the whole world about it.
+
+179
+00:11:49,500 --> 00:11:51,293
+[GUESTS CHUCKLE]
+
+180
+00:11:51,877 --> 00:11:53,462
+Now,
+
+181
+00:11:53,546 --> 00:11:55,381
+every day, and forever.
+
+182
+00:11:55,464 --> 00:11:58,759
+[APPLAUSE]
+
+183
+00:11:58,843 --> 00:12:00,469
+- Whoo!
+- Whoo!
+
+184
+00:12:00,553 --> 00:12:02,805
+Let's go! Yeah!
+
+185
+00:12:02,888 --> 00:12:03,848
+- [GUEST CHUCKLING]
+- Yes!
+
+186
+00:12:03,931 --> 00:12:05,850
+- Go, Toni!
+- Finally!
+
+187
+00:12:06,642 --> 00:12:09,270
+- [APPLAUSE, CHEERING]
+- Go, Yani!
+
+188
+00:12:09,353 --> 00:12:15,693
+[SOFT MUSIC PLAYING]
+
+189
+00:12:31,584 --> 00:12:37,923
+[SOFT MUSIC CONTINUES]
+
+190
+00:13:02,448 --> 00:13:05,117
+What's this drama?
+
+191
+00:13:05,201 --> 00:13:07,036
+You're so serious!
+
+192
+00:13:08,037 --> 00:13:10,247
+You should be happy! Look.
+
+193
+00:13:10,915 --> 00:13:14,627
+The comments are great,
+all because of your suggestion.
+
+194
+00:13:14,710 --> 00:13:16,170
+Very good!
+
+195
+00:13:16,837 --> 00:13:19,507
+It's great! It's so nice, dude.
+
+196
+00:13:19,590 --> 00:13:23,719
+LoveList, your best friend in love.
+
+197
+00:13:24,553 --> 00:13:26,388
+- Mm-hmm.
+- Mm-hmm!
+
+198
+00:13:31,060 --> 00:13:36,398
+[MELLOW MUSIC PLAYING]
+
+199
+00:13:36,482 --> 00:13:37,525
+[BILLY GRUNTS]
+
+200
+00:13:45,074 --> 00:13:46,408
+Do you remember?
+
+201
+00:13:46,492 --> 00:13:50,829
+Toni and Yani were the first couple
+to match on LoveList.
+
+202
+00:13:51,664 --> 00:13:52,665
+It's amazing.
+
+203
+00:13:52,748 --> 00:13:57,294
+Yani checked all of Toni's boxes.
+
+204
+00:13:58,003 --> 00:14:00,839
+But it's not really that simple, is it?
+
+205
+00:14:00,923 --> 00:14:03,842
+Because even though
+they were a perfect match,
+
+206
+00:14:03,926 --> 00:14:07,096
+even though they seemed
+destined for each other,
+
+207
+00:14:07,930 --> 00:14:10,057
+they still went through a lot.
+
+208
+00:14:11,058 --> 00:14:14,520
+You know how they are
+when they fight. My God!
+
+209
+00:14:15,563 --> 00:14:20,401
+It's like destiny said,
+"There, I brought you together."
+
+210
+00:14:22,236 --> 00:14:23,487
+"Now, it's your turn."
+
+211
+00:14:24,613 --> 00:14:28,200
+"It's your turn to write your love story."
+
+212
+00:14:31,203 --> 00:14:33,455
+So, dude, I thought…
+
+213
+00:14:34,456 --> 00:14:37,918
+What if we upgrade
+our features on LoveLine?
+
+214
+00:14:38,586 --> 00:14:41,755
+We could include counseling for couples.
+
+215
+00:14:41,839 --> 00:14:44,049
+Only if it's okay with you.
+What do you think?
+
+216
+00:14:45,926 --> 00:14:47,011
+Hello?
+
+217
+00:14:47,928 --> 00:14:48,929
+Hello?
+
+218
+00:14:49,722 --> 00:14:51,932
+Hello, Jordan? Are you here?
+
+219
+00:14:52,933 --> 00:14:55,185
+If you're here,
+make your presence known, please.
+
+220
+00:14:55,936 --> 00:14:57,730
+[BOTH CHUCKLING SOFTLY]
+
+221
+00:14:59,899 --> 00:15:01,609
+Be careful what you wish for.
+
+222
+00:15:02,651 --> 00:15:04,820
+If I make you feel my presence again,
+
+223
+00:15:04,904 --> 00:15:06,405
+I might not take it back anymore.
+
+224
+00:15:07,907 --> 00:15:10,409
+Hm? Are you sure?
+
+225
+00:15:12,494 --> 00:15:13,913
+I'm making my presence known.
+
+226
+00:15:13,996 --> 00:15:16,332
+No! [GIGGLES]
+
+227
+00:15:16,415 --> 00:15:17,499
+You're crazy.
+
+228
+00:15:18,125 --> 00:15:22,004
+I've been talking for a while,
+but you're just being quiet.
+
+229
+00:15:25,132 --> 00:15:26,175
+I'll miss this.
+
+230
+00:15:27,551 --> 00:15:29,136
+There's nothing like this in Australia.
+
+231
+00:15:30,554 --> 00:15:31,472
+Huh?
+
+232
+00:15:32,890 --> 00:15:39,855
+[SOMBER MUSIC PLAYING]
+
+233
+00:15:40,439 --> 00:15:41,565
+Dude.
+
+234
+00:15:42,066 --> 00:15:44,360
+- My friends in Australia…
+- Okay.
+
+235
+00:15:44,443 --> 00:15:48,030
+They want me to build
+a Jade & Jude's in Sydney.
+
+236
+00:15:48,113 --> 00:15:52,117
+They'll take care of the funding.
+I'll be the industrial partner.
+
+237
+00:15:52,201 --> 00:15:55,412
+But I have to stay there.
+
+238
+00:15:57,081 --> 00:15:59,541
+You know, to help manage the bar
+
+239
+00:16:00,250 --> 00:16:01,919
+and scout for performers.
+
+240
+00:16:02,544 --> 00:16:04,338
+They also want me to sing.
+
+241
+00:16:05,714 --> 00:16:06,840
+Wow.
+
+242
+00:16:08,592 --> 00:16:10,594
+That's good news, right?
+
+243
+00:16:11,178 --> 00:16:13,889
+That's okay, dude! Congratulations!
+
+244
+00:16:16,684 --> 00:16:19,436
+Why is your face like that? Jordan.
+
+245
+00:16:20,604 --> 00:16:22,272
+What's on your mind?
+
+246
+00:16:22,356 --> 00:16:25,776
+Robbie can handle the Jade & Jude's here.
+
+247
+00:16:25,859 --> 00:16:27,236
+- I know that.
+- Okay.
+
+248
+00:16:28,195 --> 00:16:30,614
+If it's LoveList, then fine.
+
+249
+00:16:30,698 --> 00:16:33,158
+File your leave, and I'll approve it.
+
+250
+00:16:33,242 --> 00:16:35,285
+[HESITATES] Billy.
+
+251
+00:16:36,787 --> 00:16:38,580
+This is long-term.
+
+252
+00:16:40,040 --> 00:16:41,583
+I could be gone for…
+
+253
+00:16:42,918 --> 00:16:45,212
+I don't know, a year? At least?
+
+254
+00:16:48,966 --> 00:16:51,135
+- A year?
+- At least.
+
+255
+00:16:54,763 --> 00:16:56,223
+But I haven't--
+
+256
+00:16:58,475 --> 00:17:00,144
+I haven't made a decision yet.
+
+257
+00:17:05,149 --> 00:17:06,316
+Oh.
+
+258
+00:17:08,277 --> 00:17:09,528
+So, it's like…
+
+259
+00:17:11,321 --> 00:17:14,575
+when you studied in Australia, right?
+
+260
+00:17:14,658 --> 00:17:17,619
+And then you'll come back, won't you?
+
+261
+00:17:17,703 --> 00:17:19,496
+You can take a vacation here.
+
+262
+00:17:20,330 --> 00:17:22,082
+I'm not sure when that will be.
+
+263
+00:17:24,501 --> 00:17:26,128
+I have to focus.
+
+264
+00:17:27,713 --> 00:17:30,007
+My friends will invest
+a lot of money in this.
+
+265
+00:17:31,759 --> 00:17:32,926
+I don't want it to go to waste.
+
+266
+00:17:33,010 --> 00:17:34,428
+[JORDAN INHALES DEEPLY]
+
+267
+00:17:34,511 --> 00:17:36,180
+I can't have distractions.
+
+268
+00:17:36,263 --> 00:17:37,556
+Okay.
+
+269
+00:17:38,932 --> 00:17:43,395
+But after a year,
+maybe you'll be done focusing.
+
+270
+00:17:44,438 --> 00:17:46,065
+Then you'll come back.
+
+271
+00:17:48,942 --> 00:17:50,235
+Two years?
+
+272
+00:17:54,156 --> 00:17:55,949
+I'm sure you'll be done focusing by then.
+
+273
+00:17:57,367 --> 00:17:58,994
+You can come back here.
+
+274
+00:17:59,078 --> 00:18:01,538
+It's not that easy to focus.
+
+275
+00:18:05,334 --> 00:18:06,335
+Look, I--
+
+276
+00:18:09,421 --> 00:18:11,131
+I think I just need to be away.
+
+277
+00:18:16,178 --> 00:18:17,888
+So, how long?
+
+278
+00:18:19,598 --> 00:18:20,849
+It might be for good.
+
+279
+00:18:20,933 --> 00:18:26,105
+[SOMBER MUSIC CONTINUES]
+
+280
+00:18:26,188 --> 00:18:27,606
+I just thought…
+
+281
+00:18:28,899 --> 00:18:30,776
+A lot of things happened.
+
+282
+00:18:32,778 --> 00:18:33,737
+So…
+
+283
+00:18:35,322 --> 00:18:37,157
+if I really want to move on…
+
+284
+00:18:41,578 --> 00:18:43,455
+I have to start over.
+
+285
+00:18:48,127 --> 00:18:49,920
+Hmm.
+
+286
+00:18:51,004 --> 00:18:52,172
+Okay.
+
+287
+00:18:55,467 --> 00:18:57,928
+So you might not come back.
+
+288
+00:19:07,062 --> 00:19:08,147
+It's okay.
+
+289
+00:19:09,356 --> 00:19:10,232
+Imagine!
+
+290
+00:19:10,315 --> 00:19:15,112
+You'll make Grandpa Jude's name
+and your mom's name known
+
+291
+00:19:15,195 --> 00:19:16,613
+to another country.
+
+292
+00:19:16,697 --> 00:19:18,907
+You even get to sing!
+
+293
+00:19:18,991 --> 00:19:21,160
+More women will definitely approach you.
+
+294
+00:19:21,243 --> 00:19:22,828
+They'll go crazy over you.
+
+295
+00:19:22,911 --> 00:19:26,248
+And then you can write
+all the songs you want!
+
+296
+00:19:26,331 --> 00:19:28,667
+You might forget about us.
+
+297
+00:19:28,750 --> 00:19:34,214
+[SOMBER MUSIC CONTINUES]
+
+298
+00:19:50,731 --> 00:19:56,111
+[SOMBER MUSIC CONTINUES]
+
+299
+00:20:10,542 --> 00:20:16,715
+[PENSIVE MUSIC PLAYING]
+
+300
+00:20:24,181 --> 00:20:26,058
+<i>I think I just need to be away.</i>
+
+301
+00:20:27,809 --> 00:20:29,686
+<i>So, how long?</i>
+
+302
+00:20:29,770 --> 00:20:31,480
+<i>It might be for good.</i>
+
+303
+00:20:41,865 --> 00:20:43,659
+<i>If I really want to move on…</i>
+
+304
+00:20:48,330 --> 00:20:49,998
+<i>I have to start over.</i>
+
+305
+00:20:50,082 --> 00:20:57,089
+[PENSIVE MUSIC CONTINUES]
+
+306
+00:21:22,072 --> 00:21:27,995
+[PENSIVE MUSIC CONTINUES]
+
+307
+00:21:39,923 --> 00:21:41,049
+<i>What do you think?</i>
+
+308
+00:21:41,842 --> 00:21:42,926
+<i>Mom.</i>
+
+309
+00:21:43,552 --> 00:21:44,803
+<i>Grandpa.</i>
+
+310
+00:21:44,886 --> 00:21:46,596
+<i>Should I push through with this?</i>
+
+311
+00:21:47,306 --> 00:21:48,682
+<i>I can leave.</i>
+
+312
+00:21:49,766 --> 00:21:51,768
+<i>I don't have any family left here,</i>
+
+313
+00:21:51,852 --> 00:21:53,312
+<i>except Billy.</i>
+
+314
+00:21:53,395 --> 00:21:54,938
+<i>But what if…</i>
+
+315
+00:21:55,647 --> 00:21:57,149
+<i>What if I told her</i>
+
+316
+00:21:58,900 --> 00:22:00,360
+<i>that I still love her?</i>
+
+317
+00:22:07,534 --> 00:22:12,164
+<i>- Banana split!</i>
+<i>- Banana split!</i>
+
+318
+00:22:12,247 --> 00:22:13,540
+<i>- Oh!</i>
+- [LAUGHING]
+
+319
+00:22:13,623 --> 00:22:14,958
+<i>Hey, don't laugh at me!</i>
+
+320
+00:22:15,042 --> 00:22:17,586
+<i>- Huh?</i> [GRUNTS]
+- [LAUGHING]
+
+321
+00:22:17,669 --> 00:22:19,212
+[GIGGLES]
+
+322
+00:22:19,296 --> 00:22:21,548
+- [GIRL] <i>You lose! You lose!</i>
+- [BOY] <i>Don't rub it in my face!</i>
+
+323
+00:22:21,631 --> 00:22:23,258
+- [GIRL] <i>Whoa!</i>
+- [BOY] <i>Okay.</i>
+
+324
+00:22:27,637 --> 00:22:31,433
+[STIRRING MUSIC PLAYING]
