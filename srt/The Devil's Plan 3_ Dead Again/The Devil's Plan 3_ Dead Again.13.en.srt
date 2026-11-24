@@ -1,0 +1,9523 @@
+1
+00:00:06,632 --> 00:00:10,761
+<i>We will introduce the survivor</i>
+<i>of the exile zone's final match.</i>
+
+2
+00:00:10,844 --> 00:00:12,346
+-Of course.
+-They must've played this morning.
+
+3
+00:00:12,429 --> 00:00:13,639
+The final one.
+
+4
+00:00:15,515 --> 00:00:16,850
+-Dong-jae?
+-XITSUH?
+
+5
+00:00:21,104 --> 00:00:23,440
+2 HOURS EARLIER
+
+6
+00:00:27,194 --> 00:00:28,153
+Do we get right into it?
+
+7
+00:00:29,154 --> 00:00:31,907
+<i>We will now begin the final match.</i>
+
+8
+00:00:31,990 --> 00:00:35,035
+<i>Please make your way</i>
+<i>to a spot of your choice.</i>
+
+9
+00:00:35,661 --> 00:00:36,787
+Let's go.
+
+10
+00:00:42,459 --> 00:00:45,337
+<i>The one and only winner of the final match</i>
+
+11
+00:00:45,420 --> 00:00:47,256
+<i>will return to the game area</i>
+
+12
+00:00:47,339 --> 00:00:50,008
+<i>and compete in </i>The Devil's Plan <i>once more.</i>
+
+13
+00:00:50,634 --> 00:00:52,761
+<i>The final match of the exile zone is</i>
+
+14
+00:00:53,387 --> 00:00:55,097
+<i>Point Gomoku.</i>
+
+15
+00:00:56,348 --> 00:00:58,642
+<i>Each round will consist of</i>
+
+16
+00:00:58,725 --> 00:01:03,689
+<i>selection, betting, and placement.</i>
+
+17
+00:01:04,564 --> 00:01:07,859
+<i>The player who has survived longer</i>
+<i>in the exile zone</i>
+
+18
+00:01:07,943 --> 00:01:10,237
+<i>will be the selection player for Round 1,</i>
+
+19
+00:01:11,363 --> 00:01:14,658
+<i>and from Round 2 onward,</i>
+<i>the selection player will alternate.</i>
+
+20
+00:01:15,909 --> 00:01:19,496
+<i>The selection player will have 90 seconds</i>
+
+21
+00:01:19,580 --> 00:01:23,292
+<i>to choose three consecutive spots</i>
+<i>and mark them on the monitor.</i>
+
+22
+00:01:23,375 --> 00:01:24,459
+Three spots?
+
+23
+00:01:25,460 --> 00:01:30,173
+<i>Each round, both players will be given</i>
+<i>ten points each.</i>
+
+24
+00:01:30,882 --> 00:01:33,510
+<i>Both players will have 90 seconds</i>
+
+25
+00:01:33,593 --> 00:01:37,681
+<i>to distribute their given points</i>
+<i>across the three selected spots.</i>
+
+26
+00:01:38,265 --> 00:01:42,185
+<i>A minimum of one point</i>
+<i>must be bet on each spot,</i>
+
+27
+00:01:42,269 --> 00:01:45,564
+<i>and points can only be used</i>
+<i>in whole numbers.</i>
+
+28
+00:01:46,106 --> 00:01:48,108
+<i>After betting,</i>
+<i>only half of the remaining points</i>
+
+29
+00:01:48,191 --> 00:01:50,402
+<i>will be carried over to the next round,</i>
+
+30
+00:01:50,986 --> 00:01:53,572
+<i>and any decimal will be dropped.</i>
+
+31
+00:01:53,655 --> 00:01:57,284
+<i>For example, in Round 1,</i>
+<i>a player may choose to bet</i>
+
+32
+00:01:57,367 --> 00:02:02,831
+<i>three points, one point, and one point</i>
+<i>on the three spots, respectively.</i>
+
+33
+00:02:02,914 --> 00:02:04,916
+<i>Their five remaining points</i>
+<i>will be halved,</i>
+
+34
+00:02:05,000 --> 00:02:07,377
+<i>and the decimal will be dropped,</i>
+
+35
+00:02:07,461 --> 00:02:10,964
+<i>leaving two points</i>
+<i>to be carried over to the next round.</i>
+
+36
+00:02:11,048 --> 00:02:14,343
+<i>In Round 2, 10 new points will be given,</i>
+
+37
+00:02:14,426 --> 00:02:17,638
+<i>bringing the total available to 12 points.</i>
+
+38
+00:02:18,555 --> 00:02:22,100
+<i>The stone of the player</i>
+<i>who bet more points on each spot</i>
+
+39
+00:02:22,184 --> 00:02:23,644
+<i>will automatically be placed there.</i>
+
+40
+00:02:24,227 --> 00:02:28,982
+<i>At this point, the points bet</i>
+<i>and remaining points will not be revealed.</i>
+
+41
+00:02:29,941 --> 00:02:34,321
+<i>However, if both players bet</i>
+<i>the same number of points on a spot,</i>
+
+42
+00:02:34,404 --> 00:02:37,908
+<i>the stone of the player</i>
+<i>who did not select spots that round</i>
+
+43
+00:02:37,991 --> 00:02:38,992
+<i>will be placed there.</i>
+
+44
+00:02:41,244 --> 00:02:46,375
+<i>If a five-in-a-row is formed</i>
+<i>after all three stones have been placed,</i>
+
+45
+00:02:46,458 --> 00:02:49,878
+<i>the player who formed it first wins.</i>
+
+46
+00:02:50,921 --> 00:02:54,174
+<i>If multiple five-in-a-row lines</i>
+<i>have been formed simultaneously,</i>
+
+47
+00:02:54,841 --> 00:02:58,303
+<i>the player with more lines wins.</i>
+
+48
+00:02:58,387 --> 00:03:02,391
+<i>We will now begin the final match.</i>
+
+49
+00:03:04,684 --> 00:03:06,603
+<i>You take turns</i>
+<i>to place three stones at a time,</i>
+
+50
+00:03:06,686 --> 00:03:09,147
+but they're not automatically yours.
+
+51
+00:03:09,231 --> 00:03:13,777
+You have to bet your points
+to claim each stone.
+
+52
+00:03:13,860 --> 00:03:15,070
+I realized this would involve
+
+53
+00:03:15,779 --> 00:03:17,280
+a lot of strategic play.
+
+54
+00:03:17,364 --> 00:03:20,367
+<i>It was pretty interesting.</i>
+<i>The spots are chosen in advance,</i>
+
+55
+00:03:20,450 --> 00:03:22,953
+but whoever bets higher
+gets to claim them.
+
+56
+00:03:24,329 --> 00:03:26,623
+<i>Jung Won-young will play as black,</i>
+
+57
+00:03:26,706 --> 00:03:28,834
+<i>and XITSUH will play as white.</i>
+
+58
+00:03:28,917 --> 00:03:32,546
+<i>Jung Won-young,</i>
+<i>who has survived longer in the exile zone,</i>
+
+59
+00:03:32,629 --> 00:03:34,756
+<i>will select first.</i>
+
+60
+00:03:35,340 --> 00:03:36,508
+<i>Jung Won-young,</i>
+
+61
+00:03:36,591 --> 00:03:37,968
+<i>please mark the spots</i>
+
+62
+00:03:38,051 --> 00:03:40,303
+<i>where you would like to</i>
+<i>place your stones on the monitor.</i>
+
+63
+00:03:41,638 --> 00:03:43,890
+<i>I couldn't place three stones</i>
+<i>just anywhere.</i>
+
+64
+00:03:43,974 --> 00:03:46,685
+<i>They had to be in a diagonal</i>
+<i>or straight line,</i>
+
+65
+00:03:47,352 --> 00:03:51,898
+<i>so my plan was to build up</i>
+<i>my attack routes one by one.</i>
+
+66
+00:03:58,905 --> 00:04:03,243
+<i>Please make your bids for each spot.</i>
+
+67
+00:04:08,039 --> 00:04:11,168
+<i>First, I had to distribute my points.</i>
+
+68
+00:04:12,669 --> 00:04:16,840
+<i>I figured taking that particular spot</i>
+<i>would open up more attack routes.</i>
+
+69
+00:04:17,758 --> 00:04:19,676
+<i>The stones have been placed.</i>
+
+70
+00:04:21,344 --> 00:04:23,597
+<i>The remaining points</i>
+<i>have been carried over,</i>
+
+71
+00:04:24,139 --> 00:04:26,725
+<i>and ten new points have been added.</i>
+
+72
+00:04:27,309 --> 00:04:30,270
+<i>XITSUH, please mark your spots.</i>
+
+73
+00:04:35,484 --> 00:04:37,194
+<i>Please make your bids.</i>
+
+74
+00:04:41,239 --> 00:04:44,743
+<i>I wanted to take control</i>
+<i>of whatever area I could early on,</i>
+
+75
+00:04:44,826 --> 00:04:47,954
+<i>so I bet points without reservation.</i>
+
+76
+00:04:53,251 --> 00:04:55,295
+<i>The stones have been placed.</i>
+
+77
+00:04:55,378 --> 00:04:57,756
+<i>Ten new points have been added.</i>
+
+78
+00:04:57,839 --> 00:05:00,967
+<i>Jung Won-young, please mark your spots.</i>
+
+79
+00:05:07,724 --> 00:05:09,726
+<i>Please make your bids.</i>
+
+80
+00:05:20,237 --> 00:05:22,155
+<i>The stones have been placed.</i>
+
+81
+00:05:22,781 --> 00:05:24,991
+<i>Ten new points have been added.</i>
+
+82
+00:05:25,075 --> 00:05:26,701
+<i>In most cases, no one won all three spots.</i>
+
+83
+00:05:26,785 --> 00:05:28,537
+So I had to decide on my main battleground
+
+84
+00:05:28,620 --> 00:05:30,831
+and bet high on that spot
+using the carried-over points
+
+85
+00:05:30,914 --> 00:05:32,165
+<i>so he couldn't outbid me.</i>
+
+86
+00:05:32,249 --> 00:05:34,125
+<i>That's how I kept count.</i>
+
+87
+00:05:34,626 --> 00:05:37,712
+<i>XITSUH, please mark your spots.</i>
+
+88
+00:05:38,630 --> 00:05:40,298
+<i>When I was the selection player,</i>
+
+89
+00:05:40,382 --> 00:05:41,633
+<i>I tried to pick spots</i>
+
+90
+00:05:41,716 --> 00:05:44,844
+<i>where I thought I'd still be safe</i>
+<i>even if I lost all three.</i>
+
+91
+00:05:47,264 --> 00:05:49,140
+<i>Please make your bids.</i>
+
+92
+00:05:50,892 --> 00:05:52,519
+Is he throwing away this turn?
+
+93
+00:06:04,364 --> 00:06:05,657
+I think he is.
+
+94
+00:06:07,659 --> 00:06:09,536
+<i>The stones have been placed.</i>
+
+95
+00:06:09,619 --> 00:06:11,997
+<i>Ten new points have been added.</i>
+
+96
+00:06:12,080 --> 00:06:15,208
+<i>Jung Won-young, please mark your spots.</i>
+
+97
+00:06:21,590 --> 00:06:23,466
+<i>Please make your bids.</i>
+
+98
+00:06:26,219 --> 00:06:28,096
+<i>One spot was really critical,</i>
+
+99
+00:06:28,179 --> 00:06:30,515
+<i>while I could afford to</i>
+<i>give up the others.</i>
+
+100
+00:06:39,190 --> 00:06:40,900
+<i>The stones have been placed.</i>
+
+101
+00:06:43,486 --> 00:06:47,240
+<i>After I failed to secure any spots</i>
+<i>with 1, 1, and 8 points,</i>
+
+102
+00:06:47,324 --> 00:06:52,954
+I realized XITSUH was also going all in
+when defending important spots.
+
+103
+00:06:53,038 --> 00:06:57,417
+It felt like we both established
+a baseline for effective attacks.
+
+104
+00:06:57,500 --> 00:06:59,294
+You had to bid nine or more for key spots.
+
+105
+00:06:59,961 --> 00:07:02,631
+<i>If both players</i>
+<i>bet the same number of points on a spot,</i>
+
+106
+00:07:02,714 --> 00:07:06,176
+<i>the non-selection player's stone</i>
+<i>is placed there.</i>
+
+107
+00:07:06,259 --> 00:07:09,554
+<i>In other words, even if you have found</i>
+<i>and selected a key spot,</i>
+
+108
+00:07:09,638 --> 00:07:12,682
+<i>you can only place your stone there</i>
+
+109
+00:07:12,766 --> 00:07:14,893
+<i>by outbidding your opponent.</i>
+
+110
+00:07:15,435 --> 00:07:19,939
+<i>The player who manages their points well</i>
+<i>and secures the decisive placements</i>
+
+111
+00:07:20,023 --> 00:07:21,858
+<i>will take the win in this game.</i>
+
+112
+00:07:23,068 --> 00:07:25,111
+I've lost out big time. Damn it.
+
+113
+00:07:26,613 --> 00:07:29,783
+<i>XITSUH, please mark your spots.</i>
+
+114
+00:07:32,077 --> 00:07:34,412
+<i>Please make your bids.</i>
+
+115
+00:07:38,416 --> 00:07:43,004
+<i>Five, four, three, two, one.</i>
+
+116
+00:07:45,340 --> 00:07:47,550
+<i>The stones have been placed.</i>
+
+117
+00:07:47,634 --> 00:07:49,844
+<i>Ten new points have been added.</i>
+
+118
+00:07:49,928 --> 00:07:51,179
+<i>It was so intense.</i>
+
+119
+00:07:51,262 --> 00:07:55,225
+<i>I had to calculate both my best move</i>
+<i>and my opponent's before making a move,</i>
+
+120
+00:07:55,308 --> 00:07:58,687
+<i>while also predicting</i>
+<i>our respective worst-case scenarios.</i>
+
+121
+00:07:58,770 --> 00:08:03,274
+<i>There were so many spots</i>
+<i>where it was a 50-50 gamble.</i>
+
+122
+00:08:03,358 --> 00:08:06,152
+<i>I suspect XITSUH</i>
+<i>was feeling the exact same way.</i>
+
+123
+00:08:06,736 --> 00:08:09,781
+<i>Jung Won-young, please mark your spots.</i>
+
+124
+00:08:17,330 --> 00:08:19,916
+<i>-Please make your bids.</i>
+<i>-</i>Would he have any left?
+
+125
+00:08:24,170 --> 00:08:26,006
+How many points is that? Four?
+
+126
+00:08:26,089 --> 00:08:27,048
+This is nine.
+
+127
+00:08:28,883 --> 00:08:31,011
+<i>The stones have been placed.</i>
+
+128
+00:08:31,094 --> 00:08:33,513
+<i>Ten new points have been added.</i>
+
+129
+00:08:33,596 --> 00:08:37,016
+<i>XITSUH, please mark your spots.</i>
+
+130
+00:08:38,852 --> 00:08:40,687
+<i>Please make your bids.</i>
+
+131
+00:08:41,271 --> 00:08:43,189
+He's aiming for that, huh?
+
+132
+00:08:52,157 --> 00:08:54,367
+<i>The stones have been placed.</i>
+
+133
+00:08:54,451 --> 00:08:56,786
+<i>Ten new points have been added.</i>
+
+134
+00:08:56,870 --> 00:09:00,331
+I kept wondering
+because the points weren't revealed.
+
+135
+00:09:00,415 --> 00:09:01,708
+<i>I wasn't sure</i>
+
+136
+00:09:01,791 --> 00:09:04,127
+<i>whether we were both bluffing</i>
+<i>or going all out in each round.</i>
+
+137
+00:09:04,210 --> 00:09:07,714
+<i>Jung Won-young, please mark your spots.</i>
+
+138
+00:09:13,219 --> 00:09:15,096
+<i>Please make your bids.</i>
+
+139
+00:09:18,725 --> 00:09:21,436
+All right, let's both use up everything.
+
+140
+00:09:27,067 --> 00:09:28,860
+<i>The stones have been placed.</i>
+
+141
+00:09:29,611 --> 00:09:30,487
+Well done.
+
+142
+00:09:33,406 --> 00:09:34,991
+That was a good move.
+
+143
+00:09:36,242 --> 00:09:39,913
+<i>If you select a spot that extends</i>
+<i>beyond your opponent's five-in-a-row</i>
+
+144
+00:09:39,996 --> 00:09:42,624
+<i>and bet the minimum of one point,</i>
+
+145
+00:09:42,707 --> 00:09:46,795
+<i>your opponent's stone will be placed there</i>
+<i>regardless of their bid.</i>
+
+146
+00:09:46,878 --> 00:09:50,089
+<i>This results in a six-in-a-row or more,</i>
+<i>like in the diagram,</i>
+
+147
+00:09:50,173 --> 00:09:53,218
+<i>disrupting your opponent's attack plan.</i>
+
+148
+00:09:54,844 --> 00:09:57,889
+<i>XITSUH, please mark your spots.</i>
+
+149
+00:09:58,515 --> 00:10:00,558
+<i>I selected three spots aggressively,</i>
+
+150
+00:10:00,642 --> 00:10:03,603
+<i>looking for possible attack routes</i>
+<i>near the six-in-a-row.</i>
+
+151
+00:10:04,229 --> 00:10:06,106
+<i>Please make your bids.</i>
+
+152
+00:10:08,108 --> 00:10:10,401
+If I use up nine points,
+I'm left with four.
+
+153
+00:10:14,531 --> 00:10:16,825
+<i>The stones have been placed.</i>
+
+154
+00:10:16,908 --> 00:10:19,410
+<i>Ten new points have been added.</i>
+
+155
+00:10:19,494 --> 00:10:21,788
+He's too smart for such mind games.
+
+156
+00:10:22,413 --> 00:10:25,375
+<i>Jung Won-young, please mark your spots.</i>
+
+157
+00:10:29,379 --> 00:10:31,297
+<i>Please make your bids.</i>
+
+158
+00:10:31,798 --> 00:10:32,966
+<i>There were many turns</i>
+
+159
+00:10:33,049 --> 00:10:37,804
+<i>where Won-young seemed to be forcing me</i>
+<i>to burn through all my points.</i>
+
+160
+00:10:37,887 --> 00:10:40,265
+Suppose I wanted to carry over 1 point
+and bid 6, 1, and 1.
+
+161
+00:10:40,849 --> 00:10:43,768
+But if Won-young bid 7, 2, and 2,
+
+162
+00:10:43,852 --> 00:10:44,853
+it's game over for me.
+
+163
+00:10:44,936 --> 00:10:47,397
+It was like he was saying, "Are you really
+gonna save that one point?"
+
+164
+00:10:47,897 --> 00:10:50,316
+That sort of mind game
+was very much in play.
+
+165
+00:10:50,400 --> 00:10:52,360
+<i>The stones have been placed.</i>
+
+166
+00:10:52,443 --> 00:10:54,487
+<i>The stones have been placed.</i>
+
+167
+00:10:54,571 --> 00:10:56,656
+<i>The stones have been placed.</i>
+
+168
+00:10:56,739 --> 00:10:58,992
+<i>The stones have been placed.</i>
+
+169
+00:10:59,701 --> 00:11:01,578
+The whole board
+will be filled at this rate.
+
+170
+00:11:01,661 --> 00:11:04,205
+<i>Ten new points have been added.</i>
+
+171
+00:11:04,289 --> 00:11:07,208
+<i>Jung Won-young, please mark your spots.</i>
+
+172
+00:11:09,711 --> 00:11:11,629
+<i>Please make your bids.</i>
+
+173
+00:11:12,255 --> 00:11:14,257
+He could block it with eight.
+
+174
+00:11:14,340 --> 00:11:16,176
+<i>Every time I was placing my bids,</i>
+
+175
+00:11:16,259 --> 00:11:19,470
+<i>I analyzed and verbally went over</i>
+<i>what I'd do if I were XITSUH.</i>
+
+176
+00:11:20,054 --> 00:11:21,139
+Maybe 9, 3, and 1.
+
+177
+00:11:25,018 --> 00:11:26,811
+Would I be able to win that with three?
+
+178
+00:11:36,863 --> 00:11:40,450
+<i>I even tried spreading it out a bit</i>
+<i>by betting 5, 5, and 1.</i>
+
+179
+00:11:40,533 --> 00:11:42,660
+<i>The stones have been placed.</i>
+
+180
+00:11:42,744 --> 00:11:45,580
+<i>Ten new points have been added.</i>
+
+181
+00:11:45,663 --> 00:11:48,541
+It evened out. Damn, that's too bad.
+
+182
+00:11:49,834 --> 00:11:53,254
+It's impossible to get a five-in-a-row
+by taking all three spots in a turn.
+
+183
+00:11:53,338 --> 00:11:54,797
+To complete a five-in-a-row,
+
+184
+00:11:54,881 --> 00:11:56,507
+you place three to an existing two,
+
+185
+00:11:56,591 --> 00:11:58,509
+two to an existing three,
+
+186
+00:11:58,593 --> 00:12:00,053
+or one to an existing four.
+
+187
+00:12:00,136 --> 00:12:02,847
+But placing three to an existing two
+doesn't make sense.
+
+188
+00:12:02,931 --> 00:12:05,350
+It's impossible to take all three at once.
+
+189
+00:12:05,433 --> 00:12:07,268
+Nobody's gonna just hand you all three.
+
+190
+00:12:07,352 --> 00:12:09,270
+So is placing three
+to an existing two possible?
+
+191
+00:12:09,354 --> 00:12:11,272
+That's still 50-50.
+
+192
+00:12:11,898 --> 00:12:13,399
+If I decide to block it,
+
+193
+00:12:13,483 --> 00:12:15,735
+I can just go all in
+on one of the two to do so.
+
+194
+00:12:15,818 --> 00:12:17,445
+So the smartest way
+
+195
+00:12:17,528 --> 00:12:19,697
+would be to secure one spot
+next to an existing four,
+
+196
+00:12:19,781 --> 00:12:23,618
+but since both of us would go all in
+to defend that one spot,
+
+197
+00:12:23,701 --> 00:12:26,704
+I figured the most effective move
+
+198
+00:12:26,788 --> 00:12:31,459
+was to have 14 or 15 points ready
+and bet 1, 1, and the rest of my points.
+
+199
+00:12:31,542 --> 00:12:33,044
+So I devised a strategy
+
+200
+00:12:33,127 --> 00:12:36,255
+of saving up points
+and landing one decisive blow.
+
+201
+00:12:36,339 --> 00:12:39,676
+<i>XITSUH, please mark your spots.</i>
+
+202
+00:12:40,593 --> 00:12:44,681
+Placing three stones in a straight line
+leads to a lot of dead space.
+
+203
+00:12:44,764 --> 00:12:47,809
+<i>If there are only two spaces</i>
+<i>between stones,</i>
+
+204
+00:12:47,892 --> 00:12:50,269
+<i>you can't place on those spots.</i>
+
+205
+00:12:50,353 --> 00:12:52,855
+<i>You'd have to use two turns to place</i>
+<i>in those two spots</i>
+
+206
+00:12:52,939 --> 00:12:54,190
+<i>or just give up entirely.</i>
+
+207
+00:12:54,273 --> 00:12:55,733
+If you don't wanna be disrupted,
+
+208
+00:12:55,817 --> 00:12:58,194
+the spots in the middle
+aren't your best bet.
+
+209
+00:12:58,820 --> 00:13:04,075
+The corners and edges are actually harder
+for your opponent to interfere with.
+
+210
+00:13:06,369 --> 00:13:08,705
+<i>Please make your bids.</i>
+
+211
+00:13:08,788 --> 00:13:10,456
+That's a great move.
+
+212
+00:13:11,457 --> 00:13:13,459
+He's going for that diagonal.
+
+213
+00:13:14,293 --> 00:13:15,336
+He gets to block this
+
+214
+00:13:16,421 --> 00:13:19,173
+and aim for double five-in-a-row.
+
+215
+00:13:19,757 --> 00:13:21,426
+If I block it with 1, 4, and 5,
+
+216
+00:13:22,385 --> 00:13:24,137
+I could secure at least one.
+
+217
+00:13:24,220 --> 00:13:25,555
+But if he's crazy enough to--
+
+218
+00:13:25,638 --> 00:13:27,557
+<i>Thirty seconds remaining.</i>
+
+219
+00:13:27,640 --> 00:13:30,184
+Would he assume I'd only use one here
+and score it with two?
+
+220
+00:13:31,436 --> 00:13:32,979
+Would he be that insane?
+
+221
+00:13:34,397 --> 00:13:36,441
+No, he's not that bad.
+
+222
+00:13:36,524 --> 00:13:38,568
+No, he has to be
+since he made it this far.
+
+223
+00:13:40,653 --> 00:13:41,529
+Four.
+
+224
+00:13:48,036 --> 00:13:49,912
+<i>The stones have been placed.</i>
+
+225
+00:13:49,996 --> 00:13:52,331
+<i>Ten new points have been added.</i>
+
+226
+00:13:55,376 --> 00:13:58,004
+<i>Jung Won-young, please mark your spots.</i>
+
+227
+00:14:01,549 --> 00:14:03,176
+<i>There's no need to build</i>
+<i>on the chain for defense.</i>
+
+228
+00:14:03,259 --> 00:14:07,430
+<i>You could just force your opponent</i>
+<i>to place their stone on the sixth spot.</i>
+
+229
+00:14:11,350 --> 00:14:13,352
+<i>Please make your bids.</i>
+
+230
+00:14:16,522 --> 00:14:20,943
+<i>He marked three spots</i>
+<i>all the way at the far right edge.</i>
+
+231
+00:14:21,027 --> 00:14:24,447
+That's when I realized
+he was utilizing the same strategy.
+
+232
+00:14:25,114 --> 00:14:27,825
+I didn't want any, but I knew
+he meant for me to get them all.
+
+233
+00:14:27,909 --> 00:14:29,786
+Dial 112 to call the police.
+
+234
+00:14:34,165 --> 00:14:36,209
+<i>The stones have been placed.</i>
+
+235
+00:14:36,292 --> 00:14:38,920
+<i>Ten new points have been added.</i>
+
+236
+00:14:39,879 --> 00:14:41,422
+This is tough.
+
+237
+00:14:41,506 --> 00:14:43,132
+He keeps blocking everything.
+
+238
+00:14:43,758 --> 00:14:46,886
+<i>XITSUH, please mark your spots.</i>
+
+239
+00:14:50,098 --> 00:14:52,225
+<i>Please make your bids.</i>
+
+240
+00:14:52,308 --> 00:14:53,643
+He's also saving his points, huh?
+
+241
+00:14:54,227 --> 00:14:57,105
+<i>I bid one point on all three spots</i>
+<i>to carry over as many points as possible.</i>
+
+242
+00:14:57,814 --> 00:14:59,649
+<i>The stones have been placed.</i>
+
+243
+00:14:59,732 --> 00:15:02,860
+<i>Jung Won-young, please mark your spots.</i>
+
+244
+00:15:04,946 --> 00:15:06,197
+He'll probably place there.
+
+245
+00:15:06,280 --> 00:15:07,281
+Let's go for it.
+
+246
+00:15:09,075 --> 00:15:11,160
+<i>Please make your bids.</i>
+
+247
+00:15:11,786 --> 00:15:14,622
+You get the priority.
+I'm not taking those.
+
+248
+00:15:15,540 --> 00:15:16,791
+Mind games, huh?
+
+249
+00:15:18,042 --> 00:15:20,461
+It's either seven and seven
+or six and eight.
+
+250
+00:15:22,713 --> 00:15:24,507
+It's definitely a mind game.
+
+251
+00:15:24,590 --> 00:15:26,175
+<i>When your opponent makes an attack,</i>
+
+252
+00:15:26,259 --> 00:15:29,011
+<i>you can't tell</i>
+<i>if it's a real one or a feint.</i>
+
+253
+00:15:29,095 --> 00:15:33,391
+They might just bet one for all three
+because they think you're gonna defend.
+
+254
+00:15:33,933 --> 00:15:35,560
+<i>Ten seconds remaining.</i>
+
+255
+00:15:37,645 --> 00:15:42,024
+<i>But still, I tried to invest my points</i>
+<i>into my defense when I could.</i>
+
+256
+00:15:42,108 --> 00:15:46,737
+<i>Five, four, three, two, one.</i>
+
+257
+00:15:48,614 --> 00:15:50,450
+<i>The stones have been placed.</i>
+
+258
+00:15:50,533 --> 00:15:53,077
+<i>Ten new points have been added.</i>
+
+259
+00:15:53,161 --> 00:15:56,706
+<i>XITSUH, please mark your spots.</i>
+
+260
+00:16:01,335 --> 00:16:03,087
+<i>Please make your bids.</i>
+
+261
+00:16:04,755 --> 00:16:06,299
+I could lose.
+
+262
+00:16:11,804 --> 00:16:13,598
+Maybe I shouldn't have gone all in.
+
+263
+00:16:16,392 --> 00:16:18,102
+I'll score this.
+
+264
+00:16:21,022 --> 00:16:22,940
+<i>The stones have been placed.</i>
+
+265
+00:16:23,024 --> 00:16:25,568
+<i>Ten new points have been added.</i>
+
+266
+00:16:25,651 --> 00:16:27,278
+<i>Ten seconds remaining.</i>
+
+267
+00:16:29,614 --> 00:16:31,324
+<i>The stones have been placed.</i>
+
+268
+00:16:31,949 --> 00:16:34,702
+I feel like we might have
+the same number of points left.
+
+269
+00:16:34,785 --> 00:16:37,830
+<i>XITSUH, please mark your spots.</i>
+
+270
+00:16:41,125 --> 00:16:42,502
+<i>The stones have been placed.</i>
+
+271
+00:16:43,002 --> 00:16:44,879
+<i>The stones have been placed.</i>
+
+272
+00:16:45,880 --> 00:16:48,674
+<i>XITSUH, please mark your spots.</i>
+
+273
+00:16:52,220 --> 00:16:56,557
+<i>Five, four, three, two, one.</i>
+
+274
+00:16:57,934 --> 00:16:59,644
+<i>The stones have been placed.</i>
+
+275
+00:17:00,228 --> 00:17:02,897
+<i>Jung Won-young, please mark your spots.</i>
+
+276
+00:17:02,980 --> 00:17:03,940
+Two here…
+
+277
+00:17:04,023 --> 00:17:06,442
+The bottom two spots are defense,
+and the top is the attack.
+
+278
+00:17:07,193 --> 00:17:08,986
+<i>Please make your bids.</i>
+
+279
+00:17:11,155 --> 00:17:15,451
+<i>Five, four, three, two, one.</i>
+
+280
+00:17:16,661 --> 00:17:18,371
+<i>The stones have been placed.</i>
+
+281
+00:17:18,454 --> 00:17:20,706
+<i>Ten new points have been added.</i>
+
+282
+00:17:20,790 --> 00:17:22,458
+This is so hard.
+
+283
+00:17:23,292 --> 00:17:26,837
+<i>XITSUH, please mark your spots.</i>
+
+284
+00:17:28,172 --> 00:17:30,174
+<i>Please make your bids.</i>
+
+285
+00:17:31,259 --> 00:17:32,885
+Is he trying to make me take them?
+
+286
+00:17:34,136 --> 00:17:35,888
+<i>There were a lot of black stones nearby,</i>
+
+287
+00:17:35,972 --> 00:17:37,848
+<i>so I decided to take at least one there.</i>
+
+288
+00:17:38,432 --> 00:17:40,017
+<i>The stones have been placed.</i>
+
+289
+00:17:41,102 --> 00:17:43,437
+<i>Ten new points have been added.</i>
+
+290
+00:17:43,521 --> 00:17:46,399
+Even after I bid 8, 1, and 1?
+
+291
+00:17:47,191 --> 00:17:50,403
+I bid eight points on the spot
+next to the four-in-a-row,
+
+292
+00:17:50,486 --> 00:17:52,530
+but all three spots got taken
+by the black stones.
+
+293
+00:17:54,156 --> 00:17:55,074
+That's weird.
+
+294
+00:17:56,075 --> 00:17:58,828
+<i>I kept running mind games</i>
+<i>one after another,</i>
+
+295
+00:17:58,911 --> 00:18:00,913
+but he somehow had enough points
+to take them all.
+
+296
+00:18:00,997 --> 00:18:02,873
+That made something clear for me.
+
+297
+00:18:02,957 --> 00:18:06,294
+He used up his carried-over points.
+
+298
+00:18:06,377 --> 00:18:08,713
+That reset my counting.
+
+299
+00:18:10,673 --> 00:18:11,841
+What do I do?
+
+300
+00:18:11,924 --> 00:18:13,718
+A black line had formed.
+
+301
+00:18:14,510 --> 00:18:18,014
+I thought I could create
+multiple attack routes
+
+302
+00:18:18,097 --> 00:18:20,516
+if I used this space
+strategically later on.
+
+303
+00:18:21,017 --> 00:18:24,270
+<i>Jung Won-young, please mark your spots.</i>
+
+304
+00:18:24,353 --> 00:18:27,023
+By this point, I was planning to
+save as many points as possible
+
+305
+00:18:27,106 --> 00:18:31,444
+so that I could land a decisive blow
+to end the game.
+
+306
+00:18:31,527 --> 00:18:36,032
+<i>Five, four, three, two, one.</i>
+
+307
+00:18:37,450 --> 00:18:39,285
+<i>Please make your bids.</i>
+
+308
+00:18:40,036 --> 00:18:42,663
+So you're taking a break
+to save some points? Okay.
+
+309
+00:18:42,747 --> 00:18:44,498
+<i>As the game went on</i>
+<i>and stones accumulated,</i>
+
+310
+00:18:44,582 --> 00:18:46,167
+I felt the moment was approaching
+
+311
+00:18:46,250 --> 00:18:49,754
+where whoever could bet
+just one more point on that one stone
+
+312
+00:18:49,837 --> 00:18:52,757
+next to a four-in-a-row
+or a gap would take it.
+
+313
+00:18:53,341 --> 00:18:54,300
+You can have them.
+
+314
+00:18:58,220 --> 00:18:59,972
+Let's be conservative for now.
+
+315
+00:19:01,724 --> 00:19:03,559
+<i>The stones have been placed.</i>
+
+316
+00:19:03,643 --> 00:19:06,479
+<i>Ten new points have been added.</i>
+
+317
+00:19:06,562 --> 00:19:09,273
+<i>XITSUH, please mark your spots.</i>
+
+318
+00:19:10,900 --> 00:19:12,652
+<i>Please make your bids.</i>
+
+319
+00:19:14,528 --> 00:19:15,988
+He's defending from the back, huh?
+
+320
+00:19:16,947 --> 00:19:19,075
+Damn it, that was a good move.
+
+321
+00:19:24,205 --> 00:19:25,247
+Have it your way.
+
+322
+00:19:26,540 --> 00:19:28,000
+My time will come.
+
+323
+00:19:29,460 --> 00:19:31,462
+<i>The stones have been placed.</i>
+
+324
+00:19:31,545 --> 00:19:34,173
+<i>Ten new points have been added.</i>
+
+325
+00:19:34,256 --> 00:19:36,008
+XITSUH saved a lot of points too.
+
+326
+00:19:37,259 --> 00:19:39,136
+The next turn is gonna be huge.
+
+327
+00:19:39,762 --> 00:19:42,723
+<i>Jung Won-young, please mark your spots.</i>
+
+328
+00:19:42,807 --> 00:19:44,058
+Fifteen is the max.
+
+329
+00:19:46,977 --> 00:19:48,604
+This isn't looking good.
+
+330
+00:19:49,605 --> 00:19:50,648
+Why not, right?
+
+331
+00:19:55,778 --> 00:19:57,613
+<i>Please make your bids.</i>
+
+332
+00:20:09,083 --> 00:20:10,459
+One on these two.
+
+333
+00:20:10,543 --> 00:20:12,837
+Do I go all in on the other one?
+
+334
+00:20:12,920 --> 00:20:15,506
+<i>I couldn't decide if I should use up</i>
+<i>everything and go for 13, 1, and 1,</i>
+
+335
+00:20:15,589 --> 00:20:18,926
+or save a little and go for 11, 1, and 1.
+
+336
+00:20:19,009 --> 00:20:20,469
+I was torn.
+
+337
+00:20:20,553 --> 00:20:22,930
+<i>But I didn't think</i>
+<i>Won-young would go all in just then</i>
+
+338
+00:20:23,013 --> 00:20:25,266
+<i>because there was</i>
+<i>a better spot for him to attack.</i>
+
+339
+00:20:25,349 --> 00:20:28,436
+He'd be better off attacking just below
+that seven-in-a-row on the middle left.
+
+340
+00:20:28,519 --> 00:20:30,312
+That's where you can
+really go on the offensive.
+
+341
+00:20:30,396 --> 00:20:32,857
+If he just placed stones there,
+he'd get two three-in-a-row formations
+
+342
+00:20:32,940 --> 00:20:34,358
+and a four-in-a-row.
+
+343
+00:20:34,442 --> 00:20:35,484
+So I knew
+
+344
+00:20:36,610 --> 00:20:41,323
+I had to defend if I didn't wanna lose,
+but it could also be a mind game.
+
+345
+00:20:48,497 --> 00:20:51,959
+<i>Letting it drag on</i>
+<i>when I could land a decisive blow</i>
+
+346
+00:20:52,042 --> 00:20:53,753
+<i>felt like an unnecessary risk.</i>
+
+347
+00:20:54,587 --> 00:20:59,091
+<i>Five, four, three, two, one.</i>
+
+348
+00:20:59,175 --> 00:21:00,176
+<i>So I went all in.</i>
+
+349
+00:21:01,844 --> 00:21:03,471
+<i>The stones have been placed.</i>
+
+350
+00:21:05,431 --> 00:21:06,390
+It's over.
+
+351
+00:21:07,141 --> 00:21:09,268
+<i>Jung Won-young has won.</i>
+
+352
+00:21:09,852 --> 00:21:12,104
+<i>That concludes the final match.</i>
+
+353
+00:21:12,188 --> 00:21:14,565
+<i>Farewell, XITSUH.</i>
+
+354
+00:21:15,858 --> 00:21:16,942
+I had a great time.
+
+355
+00:21:17,026 --> 00:21:18,027
+Good game.
+
+356
+00:21:21,989 --> 00:21:25,785
+<i>I was able to take part</i>
+<i>in the final match of the exile zone</i>
+
+357
+00:21:25,868 --> 00:21:28,329
+because I stayed focused and survived.
+
+358
+00:21:29,163 --> 00:21:31,624
+I didn't think I'd be the one
+to go out in it though.
+
+359
+00:21:41,634 --> 00:21:42,843
+I gave it my all.
+
+360
+00:21:42,927 --> 00:21:44,637
+I can say that with certainty.
+
+361
+00:21:44,720 --> 00:21:46,931
+<i>I've been almost ruthless toward myself.</i>
+
+362
+00:21:47,014 --> 00:21:48,891
+<i>Even when I felt exhausted,</i>
+
+363
+00:21:48,974 --> 00:21:52,436
+<i>I never stopped pushing myself,</i>
+<i>telling myself,</i>
+
+364
+00:21:52,520 --> 00:21:54,188
+<i>"Just one more game."</i>
+
+365
+00:21:54,271 --> 00:21:57,399
+<i>I took it one day at a time like that</i>
+<i>and made it all the way here.</i>
+
+366
+00:21:57,483 --> 00:22:00,152
+There were so many twists and turns,
+and honestly, it was so much fun.
+
+367
+00:22:00,236 --> 00:22:04,031
+The one thing I promised myself
+before coming onto <i>The Devil's Plan</i>
+
+368
+00:22:04,698 --> 00:22:05,950
+was to do things my way.
+
+369
+00:22:06,534 --> 00:22:08,869
+No backstabbing for a tiny advantage.
+
+370
+00:22:10,079 --> 00:22:11,914
+Rather than betraying trust
+for a little gain,
+
+371
+00:22:12,581 --> 00:22:14,792
+I chose to believe in my own abilities,
+accept risks,
+
+372
+00:22:15,459 --> 00:22:18,671
+and step up to lead when I can.
+
+373
+00:22:20,464 --> 00:22:22,383
+That was how I survived,
+
+374
+00:22:22,466 --> 00:22:25,094
+and I feel like
+I've proven something to myself.
+
+375
+00:22:29,557 --> 00:22:31,183
+<i>Before we begin the game,</i>
+
+376
+00:22:31,267 --> 00:22:33,978
+<i>-we will introduce the survivor</i>
+-I knew it.
+
+377
+00:22:34,061 --> 00:22:35,729
+-Of course.
+<i>-of the exile zone's final match.</i>
+
+378
+00:22:35,813 --> 00:22:37,189
+-They must've played this morning.
+-The final one.
+
+379
+00:22:40,109 --> 00:22:41,527
+-Dong-jae?
+-XITSUH?
+
+380
+00:22:46,115 --> 00:22:46,991
+What?
+
+381
+00:22:51,787 --> 00:22:52,788
+Man, that's impressive.
+
+382
+00:22:52,871 --> 00:22:53,831
+-Thank you.
+-Seriously.
+
+383
+00:22:57,835 --> 00:22:59,044
+-Well done.
+-Look at you.
+
+384
+00:22:59,128 --> 00:23:00,921
+-Welcome.
+-You made it to the living area.
+
+385
+00:23:01,005 --> 00:23:03,048
+-Welcome back.
+-What matches did you play?
+
+386
+00:23:03,132 --> 00:23:05,342
+I sent Dong-jae home in a memory game,
+
+387
+00:23:05,426 --> 00:23:07,136
+Yurisa in an arithmetic game,
+
+388
+00:23:07,219 --> 00:23:08,846
+and XITSUH in an abstract strategy game.
+
+389
+00:23:11,432 --> 00:23:13,559
+-Amazing.
+-His confidence is through the roof.
+
+390
+00:23:13,642 --> 00:23:15,978
+You should've come.
+I wanted to practice for the finals.
+
+391
+00:23:18,939 --> 00:23:23,777
+It's not easy to pick yourself back up
+after a breakdown.
+
+392
+00:23:23,861 --> 00:23:26,739
+<i>I'm amazed he's managed it and returned.</i>
+
+393
+00:23:26,822 --> 00:23:29,658
+<i>The exile zone is no walk in the park.</i>
+
+394
+00:23:29,742 --> 00:23:31,910
+<i>I can't believe</i>
+<i>he beat so many fierce competitors.</i>
+
+395
+00:23:31,994 --> 00:23:34,371
+He must be completely fired up today.
+
+396
+00:23:34,455 --> 00:23:36,832
+I felt he'd be the one
+to look out for today.
+
+397
+00:23:37,791 --> 00:23:41,879
+<i>Here is the current Piece count</i>
+<i>for each player.</i>
+
+398
+00:23:45,007 --> 00:23:48,510
+<i>Jung Won-young,</i>
+<i>please return to the game area.</i>
+
+399
+00:23:50,387 --> 00:23:52,765
+What? Am I getting ten Pieces?
+
+400
+00:23:52,848 --> 00:23:54,850
+I hope so. Let's see.
+
+401
+00:23:55,434 --> 00:23:56,560
+Five?
+
+402
+00:23:57,227 --> 00:24:01,523
+<i>Currently, Jang Dong-min</i>
+<i>holds the most Pieces.</i>
+
+403
+00:24:01,607 --> 00:24:02,900
+Did he get some from the others?
+
+404
+00:24:04,818 --> 00:24:07,529
+<i>Now, let me introduce</i>
+<i>the sixth main match.</i>
+
+405
+00:24:08,030 --> 00:24:09,573
+<i>Today's main match is</i>
+
+406
+00:24:09,657 --> 00:24:11,492
+<i>HIT, STAY.</i>
+
+407
+00:24:11,575 --> 00:24:15,162
+<i>In HIT, STAY, players must survive</i>
+
+408
+00:24:15,245 --> 00:24:18,499
+<i>by managing the sum of their number cards</i>
+<i>to win betting chips.</i>
+
+409
+00:24:18,582 --> 00:24:19,917
+Yes. Chips!
+
+410
+00:24:20,417 --> 00:24:22,836
+<i>Before the game begins,</i>
+<i>lottery balls will be drawn</i>
+
+411
+00:24:22,920 --> 00:24:24,838
+<i>to determine the first player.</i>
+
+412
+00:24:24,922 --> 00:24:27,508
+<i>The game will proceed clockwise,</i>
+
+413
+00:24:27,591 --> 00:24:28,926
+<i>and from the next round onward,</i>
+
+414
+00:24:29,009 --> 00:24:31,720
+<i>the player to the left</i>
+<i>of the previous first player</i>
+
+415
+00:24:31,804 --> 00:24:34,014
+<i>will become the new first player.</i>
+
+416
+00:24:34,515 --> 00:24:37,559
+<i>In HIT, STAY,</i>
+<i>the following cards will be used.</i>
+
+417
+00:24:37,643 --> 00:24:39,311
+<i>One seven card, two six cards,</i>
+
+418
+00:24:39,395 --> 00:24:41,021
+<i>three five cards,</i>
+
+419
+00:24:41,105 --> 00:24:42,564
+<i>four four cards,</i>
+
+420
+00:24:42,648 --> 00:24:43,982
+<i>five three cards,</i>
+
+421
+00:24:44,608 --> 00:24:45,984
+<i>six two cards,</i>
+
+422
+00:24:46,610 --> 00:24:48,153
+<i>seven one cards,</i>
+
+423
+00:24:48,237 --> 00:24:51,740
+<i>and seven minus-one cards.</i>
+
+424
+00:24:53,033 --> 00:24:57,329
+<i>Each player will be given 30 chips</i>
+<i>to start,</i>
+
+425
+00:24:57,413 --> 00:25:00,457
+<i>and all Pieces</i>
+<i>currently in players' possession</i>
+
+426
+00:25:00,541 --> 00:25:02,000
+<i>will be exchanged for chips.</i>
+
+427
+00:25:02,626 --> 00:25:05,754
+<i>Each Piece exchanges for one chip.</i>
+
+428
+00:25:06,547 --> 00:25:07,631
+<i>When the game begins,</i>
+
+429
+00:25:07,715 --> 00:25:10,426
+<i>players will submit one chip each</i>
+<i>as the base bet,</i>
+
+430
+00:25:10,509 --> 00:25:12,553
+<i>and the base bet will increase</i>
+
+431
+00:25:12,636 --> 00:25:15,556
+<i>by one chip every ten rounds.</i>
+
+432
+00:25:16,515 --> 00:25:20,519
+<i>After the base bet,</i>
+<i>the dealer will roll an eight-sided die</i>
+
+433
+00:25:20,602 --> 00:25:22,730
+<i>numbered 5 through 12.</i>
+
+434
+00:25:22,813 --> 00:25:27,067
+<i>The number that comes up</i>
+<i>will be the limit number for that round.</i>
+
+435
+00:25:27,151 --> 00:25:28,527
+-What?
+-"Limit number."
+
+436
+00:25:28,610 --> 00:25:29,862
+<i>-Players must then</i>
+-"Limit number"?
+
+437
+00:25:29,945 --> 00:25:34,450
+<i>manage their number cards so that the sum</i>
+<i>does not exceed the limit number.</i>
+
+438
+00:25:36,910 --> 00:25:38,954
+-That's fun.
+<i>-Once the limit number is set,</i>
+
+439
+00:25:39,037 --> 00:25:41,165
+<i>the dealer will shuffle the number cards</i>
+
+440
+00:25:41,248 --> 00:25:44,626
+<i>and deal three cards face down</i>
+<i>to each player.</i>
+
+441
+00:25:45,335 --> 00:25:48,464
+<i>Each player will then select one card,</i>
+
+442
+00:25:48,547 --> 00:25:50,674
+<i>which will be revealed to all players.</i>
+
+443
+00:25:50,758 --> 00:25:52,801
+<i>Once all cards have been revealed,</i>
+
+444
+00:25:52,885 --> 00:25:55,721
+<i>the first player will initiate</i>
+<i>the first round of betting.</i>
+
+445
+00:25:56,305 --> 00:25:57,931
+<i>Players may choose one of the following.</i>
+
+446
+00:25:58,015 --> 00:26:01,018
+<i>Call, raise, or fold.</i>
+
+447
+00:26:01,101 --> 00:26:04,062
+<i>The maximum number of chips</i>
+<i>that can be bet</i>
+
+448
+00:26:04,146 --> 00:26:08,609
+<i>cannot exceed the chip count</i>
+<i>of the player with the fewest chips.</i>
+
+449
+00:26:09,109 --> 00:26:12,404
+<i>Once all players have bet</i>
+<i>the same number of chips,</i>
+
+450
+00:26:12,488 --> 00:26:14,615
+<i>the first round of betting will end.</i>
+
+451
+00:26:15,491 --> 00:26:17,743
+<i>Players who bet in the first round</i>
+
+452
+00:26:17,826 --> 00:26:20,746
+<i>may each receive</i>
+<i>one additional card in turn,</i>
+
+453
+00:26:20,829 --> 00:26:22,664
+<i>starting from the first player.</i>
+
+454
+00:26:23,165 --> 00:26:25,334
+<i>To receive an additional card,</i>
+<i>players must choose "hit."</i>
+
+455
+00:26:25,417 --> 00:26:29,546
+<i>To receive no more cards,</i>
+<i>players must choose "stay."</i>
+
+456
+00:26:29,630 --> 00:26:33,050
+<i>Additional cards</i>
+<i>will be revealed to all players.</i>
+
+457
+00:26:33,133 --> 00:26:34,718
+Okay, so they're made public.
+
+458
+00:26:34,802 --> 00:26:37,095
+<i>This process will be repeated</i>
+
+459
+00:26:37,179 --> 00:26:40,098
+<i>until all additional cards are exhausted,</i>
+
+460
+00:26:40,182 --> 00:26:42,392
+<i>or all players choose "stay."</i>
+
+461
+00:26:42,476 --> 00:26:46,438
+<i>Once additional cards have been dealt,</i>
+<i>the second round of betting will begin.</i>
+
+462
+00:26:46,522 --> 00:26:48,315
+<i>Once the second round of betting ends,</i>
+
+463
+00:26:48,398 --> 00:26:53,445
+<i>all participating players</i>
+<i>will reveal their cards and compete.</i>
+
+464
+00:26:54,071 --> 00:26:57,616
+<i>Any player whose card total</i>
+<i>exceeds the limit number</i>
+
+465
+00:26:57,699 --> 00:26:59,701
+<i>will finish last in that round.</i>
+
+466
+00:27:01,787 --> 00:27:04,164
+<i>Among the players whose card total</i>
+<i>did not exceed the limit,</i>
+
+467
+00:27:04,248 --> 00:27:07,376
+<i>the player with the higher card total</i>
+<i>will win</i>
+
+468
+00:27:07,459 --> 00:27:09,878
+<i>and take all the chips in the pot.</i>
+
+469
+00:27:10,963 --> 00:27:13,131
+<i>If the card totals are equal,</i>
+
+470
+00:27:13,215 --> 00:27:16,426
+<i>the player with more cards will win.</i>
+
+471
+00:27:17,135 --> 00:27:20,013
+<i>If both the card totals</i>
+<i>and the number of cards held are the same,</i>
+
+472
+00:27:20,097 --> 00:27:23,433
+<i>or if all players' card totals</i>
+<i>have exceeded the limit number,</i>
+
+473
+00:27:23,517 --> 00:27:27,896
+<i>the round will be considered a tie,</i>
+<i>and the bet chips will be split equally.</i>
+
+474
+00:27:28,564 --> 00:27:30,691
+<i>Any remaining chips</i>
+<i>will be taken in order,</i>
+
+475
+00:27:30,774 --> 00:27:32,276
+<i>starting with the first player.</i>
+
+476
+00:27:32,776 --> 00:27:34,152
+Free chips.
+
+477
+00:27:34,236 --> 00:27:36,947
+<i>The first player to lose all their chips</i>
+
+478
+00:27:37,030 --> 00:27:41,076
+<i>will become the lowest-ranked player</i>
+<i>and be eliminated from</i> The Devil's Plan.
+
+479
+00:27:41,743 --> 00:27:43,287
+<i>As the game continues,</i>
+
+480
+00:27:43,370 --> 00:27:46,748
+<i>players will go to prison</i>
+<i>in the order they run out of chips.</i>
+
+481
+00:27:47,416 --> 00:27:49,960
+<i>The last remaining player</i>
+
+482
+00:27:50,043 --> 00:27:52,921
+<i>will advance to the finals.</i>
+
+483
+00:27:53,005 --> 00:27:54,882
+-That's how? Okay.
+-Last man standing?
+
+484
+00:27:54,965 --> 00:27:56,341
+-Until it's one-on-one.
+-The last one standing.
+
+485
+00:27:56,425 --> 00:27:57,843
+Until only one person remains.
+
+486
+00:27:57,926 --> 00:28:00,304
+I figure aggressive betting
+won't be an issue
+
+487
+00:28:00,387 --> 00:28:05,726
+because of the rule that the first person
+to run out of chips gets eliminated.
+
+488
+00:28:05,809 --> 00:28:09,104
+I felt like I was at a disadvantage
+because I had no Piece yesterday,
+
+489
+00:28:09,187 --> 00:28:11,815
+but I think I can expect
+better results today.
+
+490
+00:28:12,399 --> 00:28:15,777
+Ultimately, it comes down to matching
+the limit number as closely as possible.
+
+491
+00:28:16,361 --> 00:28:17,779
+You just have to
+send someone packing first.
+
+492
+00:28:17,863 --> 00:28:21,658
+For now, hitting that limit
+is the most important task at hand.
+
+493
+00:28:21,742 --> 00:28:26,246
+I think I need to play defensively
+early on to avoid elimination.
+
+494
+00:28:26,330 --> 00:28:28,248
+Wait, what if they form alliances again?
+
+495
+00:28:29,541 --> 00:28:32,461
+It's not easy playing
+with two skilled liars.
+
+496
+00:28:33,337 --> 00:28:34,504
+You're all gathered here.
+
+497
+00:28:34,588 --> 00:28:36,214
+-Yeah.
+-We're just doing our own thing.
+
+498
+00:28:36,298 --> 00:28:38,842
+I was hoping to get you eliminated,
+but I don't think there's a way.
+
+499
+00:28:38,926 --> 00:28:40,844
+-No wonder I felt this strange chill.
+-There's coffee.
+
+500
+00:28:41,845 --> 00:28:43,805
+-So they just gave you five Pieces?
+-Yeah, as a reward.
+
+501
+00:28:43,889 --> 00:28:45,641
+-Damn.
+-She got the reward for the hidden stage.
+
+502
+00:28:45,724 --> 00:28:47,768
+-If I hadn't won yesterday--
+-Her challenge was much harder.
+
+503
+00:28:48,352 --> 00:28:49,519
+So noisy.
+
+504
+00:28:50,229 --> 00:28:51,730
+I wish I could send Dong-min home.
+
+505
+00:28:52,439 --> 00:28:54,566
+With more than a 50% chance,
+
+506
+00:28:55,567 --> 00:28:57,361
+I can take up to two.
+
+507
+00:28:58,237 --> 00:29:01,323
+Out of the total 35 cards, 20 are good.
+
+508
+00:29:01,406 --> 00:29:05,243
+<i>In other words,</i>
+<i>more than half the cards are good.</i>
+
+509
+00:29:05,327 --> 00:29:08,330
+So there's no reason to be afraid
+
+510
+00:29:08,413 --> 00:29:11,083
+<i>of choosing "hit"</i>
+<i>and taking additional cards.</i>
+
+511
+00:29:11,166 --> 00:29:12,626
+<i>Your time is up.</i>
+
+512
+00:29:12,709 --> 00:29:15,087
+<i>Everyone, please gather in the hall.</i>
+
+513
+00:29:15,170 --> 00:29:16,213
+Let's go!
+
+514
+00:29:16,296 --> 00:29:18,548
+<i>We will now begin HIT, STAY.</i>
+
+515
+00:29:18,632 --> 00:29:22,886
+<i>We will first draw lottery balls</i>
+<i>to determine the order.</i>
+
+516
+00:29:23,512 --> 00:29:25,555
+The first player is seated
+to the dealer's left.
+
+517
+00:29:25,639 --> 00:29:27,557
+-One, two, three, four.
+-Thank you.
+
+518
+00:29:27,641 --> 00:29:29,393
+This could be the order of elimination.
+
+519
+00:29:30,477 --> 00:29:32,688
+-How nice. Should we stick to this?
+-Maybe.
+
+520
+00:29:32,771 --> 00:29:34,439
+Please sit in order.
+
+521
+00:29:35,274 --> 00:29:37,150
+<i>You are the top five,</i>
+
+522
+00:29:37,234 --> 00:29:40,362
+<i>about to play the final main match</i>
+<i>before the finals.</i>
+
+523
+00:29:41,488 --> 00:29:45,742
+<i>On the first day, in Either Or,</i>
+<i>you revealed a part of your personality</i>
+
+524
+00:29:45,826 --> 00:29:48,870
+<i>through a series of choices.</i>
+
+525
+00:29:48,954 --> 00:29:53,583
+<i>Four of you chose</i>
+<i>the performance bonus with confidence,</i>
+
+526
+00:29:53,667 --> 00:29:57,462
+<i>and one chose</i>
+<i>the insurance payout for stability.</i>
+
+527
+00:29:58,046 --> 00:30:00,173
+<i>JAE JAE, John Park,</i>
+
+528
+00:30:00,257 --> 00:30:02,134
+<i>and Jung Won-young</i>
+<i>chose to play as a team,</i>
+
+529
+00:30:02,217 --> 00:30:06,888
+<i>while Jang Dong-min and Hyun Kyung-lyul</i>
+<i>chose to play alone.</i>
+
+530
+00:30:07,431 --> 00:30:12,269
+<i>The most heated debate was over</i>
+<i>greater good versus personal gain,</i>
+
+531
+00:30:12,352 --> 00:30:16,231
+<i>with an even split</i>
+<i>of eight players on each side.</i>
+
+532
+00:30:16,315 --> 00:30:19,693
+<i>Those who chose greater good,</i>
+
+533
+00:30:19,776 --> 00:30:23,196
+<i>John Park, JAE JAE, and Jung Won-young,</i>
+<i>are currently players in prison,</i>
+
+534
+00:30:23,280 --> 00:30:25,157
+<i>while those who chose personal gain,</i>
+
+535
+00:30:25,240 --> 00:30:29,911
+<i>Jang Dong-min and Hyun Kyung-lyul,</i>
+<i>are currently players in the living area.</i>
+
+536
+00:30:29,995 --> 00:30:32,247
+<i>The fierce competitive spirit of then</i>
+<i>is mirrored today in this match.</i>
+
+537
+00:30:32,331 --> 00:30:35,042
+<i>You have used every opportunity available</i>
+
+538
+00:30:35,125 --> 00:30:36,668
+<i>to increase the prize money</i>
+<i>to 500 million won,</i>
+
+539
+00:30:36,752 --> 00:30:39,921
+<i>accumulating 200 million won so far.</i>
+
+540
+00:30:40,005 --> 00:30:42,841
+-Those selfish people.
+-That's abysmal.
+
+541
+00:30:42,924 --> 00:30:47,095
+<i>We will now give you</i>
+<i>one more choice to make.</i>
+
+542
+00:30:48,096 --> 00:30:49,723
+-What?
+<i>-There will be a bonus prize</i>
+
+543
+00:30:49,806 --> 00:30:51,099
+<i>of 100 million won on the line.</i>
+
+544
+00:30:52,559 --> 00:30:53,894
+GREATER GOOD / PERSONAL GAIN
+
+545
+00:30:53,977 --> 00:30:54,811
+What the?
+
+546
+00:30:54,895 --> 00:30:58,565
+<i>If three or more players</i>
+<i>choose greater good,</i>
+
+547
+00:30:58,648 --> 00:31:01,234
+<i>one hundred million won</i>
+<i>will be added to the prize money.</i>
+
+548
+00:31:01,318 --> 00:31:02,277
+That's amazing.
+
+549
+00:31:02,361 --> 00:31:05,614
+<i>On the other hand,</i>
+<i>if a player chooses personal gain,</i>
+
+550
+00:31:05,697 --> 00:31:09,493
+<i>they will receive ten chips.</i>
+
+551
+00:31:10,911 --> 00:31:13,830
+-We've been screwed over once.
+<i>-The devices will now be handed out.</i>
+
+552
+00:31:13,914 --> 00:31:15,957
+-Damn it.
+-Either Or again?
+
+553
+00:31:16,458 --> 00:31:19,419
+-All right.
+-Stop messing around already.
+
+554
+00:31:20,087 --> 00:31:21,630
+Who didn't vote for it last time?
+
+555
+00:31:21,713 --> 00:31:22,631
+These two.
+
+556
+00:31:22,714 --> 00:31:23,757
+You two, go first.
+
+557
+00:31:24,549 --> 00:31:28,220
+If you guys go first, the three of us…
+
+558
+00:31:28,303 --> 00:31:29,846
+-We'll follow suit.
+-We will.
+
+559
+00:31:29,930 --> 00:31:31,473
+-But you need to show us first.
+-Right.
+
+560
+00:31:31,556 --> 00:31:36,061
+The last time, we chose greater good first
+and got screwed over big time.
+
+561
+00:31:36,144 --> 00:31:39,356
+If even one of you doesn't show us
+your choice…
+
+562
+00:31:39,439 --> 00:31:40,357
+Both of you must show us.
+
+563
+00:31:40,440 --> 00:31:43,360
+Right, if you don't,
+we'll go for personal gain.
+
+564
+00:31:43,443 --> 00:31:44,528
+-That's right.
+-All right.
+
+565
+00:31:44,611 --> 00:31:47,447
+It makes sense to add to the prize money
+if you think you can win.
+
+566
+00:31:47,531 --> 00:31:51,243
+But after we vote,
+and one of the three screws us over…
+
+567
+00:31:51,326 --> 00:31:53,453
+-We'd never.
+-I mean, it's a possibility.
+
+568
+00:31:53,537 --> 00:31:55,205
+-We only need three votes.
+-Sure, it's possible.
+
+569
+00:31:55,288 --> 00:31:57,082
+-All it takes is three votes.
+-Possible?
+
+570
+00:31:57,165 --> 00:31:58,416
+If you make us lock in first
+
+571
+00:31:58,500 --> 00:32:00,585
+and one of you betrays us,
+that'd be a massive blow.
+
+572
+00:32:00,669 --> 00:32:03,588
+-Up to the third person who locks in…
+-We've been through this before.
+
+573
+00:32:03,672 --> 00:32:05,674
+-There's no need to walk us through it.
+-Right.
+
+574
+00:32:05,757 --> 00:32:07,008
+-We get it.
+-Of course.
+
+575
+00:32:07,092 --> 00:32:10,011
+I definitely wanna add to the prize money.
+
+576
+00:32:10,095 --> 00:32:12,013
+I can choose greater good,
+
+577
+00:32:12,097 --> 00:32:16,226
+but that becomes pointless
+if just one person chooses personal gain.
+
+578
+00:32:16,309 --> 00:32:17,394
+That's undeniable.
+
+579
+00:32:17,477 --> 00:32:19,146
+Then personal gain is the way to go,
+
+580
+00:32:19,229 --> 00:32:21,982
+-and that changes everything for the game.
+-Right.
+
+581
+00:32:22,065 --> 00:32:24,317
+Nobody seems to care
+about the prize money.
+
+582
+00:32:24,401 --> 00:32:25,360
+It's not that.
+
+583
+00:32:25,443 --> 00:32:27,988
+-We're torn because we <i>do</i> care.
+-Right.
+
+584
+00:32:28,071 --> 00:32:29,281
+So for the sake of survival?
+
+585
+00:32:29,364 --> 00:32:31,032
+You need to win to see that money.
+
+586
+00:32:31,116 --> 00:32:33,702
+-Either way, we all have a 20% chance
+-Right.
+
+587
+00:32:33,785 --> 00:32:35,287
+-of winning right now.
+-Correct.
+
+588
+00:32:35,370 --> 00:32:40,750
+So whether the prize is 200 million
+or 300 million is up to us to decide.
+
+589
+00:32:40,834 --> 00:32:42,544
+Let's just all go for personal gain.
+
+590
+00:32:43,503 --> 00:32:44,671
+Then everyone would be at ease.
+
+591
+00:32:44,754 --> 00:32:46,548
+But that doesn't change anything.
+
+592
+00:32:46,631 --> 00:32:49,259
+We'll just be starting
+with ten extra chips.
+
+593
+00:32:49,342 --> 00:32:50,260
+What good would that do?
+
+594
+00:32:50,343 --> 00:32:51,595
+It wouldn't be exactly the same.
+
+595
+00:32:51,678 --> 00:32:54,222
+It would be if all five of us
+started with ten extra.
+
+596
+00:32:54,306 --> 00:32:57,100
+-The game will just go on longer.
+-It'd narrow the gap.
+
+597
+00:32:57,184 --> 00:32:59,394
+-The baseline goes up from 30 to 40.
+-Right.
+
+598
+00:32:59,478 --> 00:33:00,729
+The ratio will change.
+
+599
+00:33:00,812 --> 00:33:02,481
+-So in terms of ratios,
+-Exactly. Ratio-wise…
+
+600
+00:33:02,564 --> 00:33:04,816
+there's a difference
+between 30 to 8 and 40 to 8.
+
+601
+00:33:04,900 --> 00:33:06,651
+-So--
+-If everyone chooses greater good,
+
+602
+00:33:06,735 --> 00:33:09,404
+I'm ever so slightly at a disadvantage.
+
+603
+00:33:09,488 --> 00:33:10,739
+But I won't decide based on that.
+
+604
+00:33:10,822 --> 00:33:15,118
+The most important player
+in all of this is you, Kyung-lyul.
+
+605
+00:33:15,202 --> 00:33:16,411
+-The choice is yours.
+-Okay.
+
+606
+00:33:16,495 --> 00:33:17,954
+Let's say you're set on personal gain
+
+607
+00:33:18,038 --> 00:33:20,415
+-regardless of the situation.
+-Right.
+
+608
+00:33:20,499 --> 00:33:22,000
+-Then…
+-We'll make the same choice.
+
+609
+00:33:22,083 --> 00:33:24,169
+-We'll all choose that too.
+-That's what I'm saying right now.
+
+610
+00:33:24,252 --> 00:33:26,588
+-Right, but--
+-I have no choice but to go for it.
+
+611
+00:33:26,671 --> 00:33:27,631
+-I'm being honest.
+-Okay.
+
+612
+00:33:27,714 --> 00:33:29,007
+So you're fine with the pot as is?
+
+613
+00:33:29,090 --> 00:33:30,217
+Yeah.
+
+614
+00:33:30,300 --> 00:33:31,968
+Okay, personal gain it is then.
+
+615
+00:33:33,053 --> 00:33:34,179
+Personal gain?
+
+616
+00:33:36,223 --> 00:33:37,057
+Sure.
+
+617
+00:33:38,016 --> 00:33:38,850
+Too bad.
+
+618
+00:33:39,351 --> 00:33:40,185
+Yeah.
+
+619
+00:33:40,685 --> 00:33:42,771
+-I don't wanna lie about my choice.
+-All done?
+
+620
+00:33:42,854 --> 00:33:43,897
+Did you press it?
+
+621
+00:33:43,980 --> 00:33:44,814
+Not yet.
+
+622
+00:33:45,398 --> 00:33:47,442
+-But…
+-It's a survival game. It can't be helped.
+
+623
+00:33:47,526 --> 00:33:50,862
+I hope you can understand
+that I don't have much of a choice.
+
+624
+00:33:50,946 --> 00:33:52,239
+Of course.
+
+625
+00:33:52,822 --> 00:33:56,785
+<i>Since three or more players</i>
+<i>did not choose greater good,</i>
+
+626
+00:33:56,868 --> 00:33:59,162
+<i>the prize token cannot be obtained.</i>
+
+627
+00:33:59,246 --> 00:34:00,080
+Damn it!
+
+628
+00:34:00,163 --> 00:34:04,876
+<i>Jang Dong-min, Hyun Kyung-lyul, John Park,</i>
+
+629
+00:34:04,960 --> 00:34:07,212
+<i>JAE JAE, and Jung Won-young</i>
+
+630
+00:34:07,796 --> 00:34:10,757
+<i>have chosen personal gain</i>
+<i>and will each receive ten chips.</i>
+
+631
+00:34:11,341 --> 00:34:13,843
+Your Pieces
+will now be exchanged for chips.
+
+632
+00:34:13,927 --> 00:34:16,096
+-Sure.
+-I should've spent less yesterday.
+
+633
+00:34:16,805 --> 00:34:18,098
+I really should've.
+
+634
+00:34:18,181 --> 00:34:19,432
+I had ten yesterday.
+
+635
+00:34:19,516 --> 00:34:20,600
+JOHN PARK: 44 CHIPS
+
+636
+00:34:20,684 --> 00:34:21,559
+Thank you.
+
+637
+00:34:22,227 --> 00:34:23,478
+I have four Pieces.
+
+638
+00:34:23,561 --> 00:34:24,854
+JAE JAE: 44 CHIPS
+
+639
+00:34:25,522 --> 00:34:26,940
+-Exchanging eight Pieces.
+-Lucky number.
+
+640
+00:34:27,023 --> 00:34:28,650
+JANG DONG-MIN: 48 CHIPS
+
+641
+00:34:28,733 --> 00:34:30,277
+Round 1 will now begin.
+
+642
+00:34:30,360 --> 00:34:32,404
+The first player for Round 1
+is Jung Won-young.
+
+643
+00:34:32,988 --> 00:34:34,406
+Please place your base bets.
+
+644
+00:34:37,409 --> 00:34:38,868
+I will now roll for the limit number.
+
+645
+00:34:41,663 --> 00:34:42,998
+-The limit number is eight.
+-Eight.
+
+646
+00:34:49,963 --> 00:34:51,381
+I will now deal the cards.
+
+647
+00:35:06,896 --> 00:35:09,274
+Please submit one card
+face down to be revealed.
+
+648
+00:35:12,193 --> 00:35:13,737
+Submissions are now complete.
+
+649
+00:35:13,820 --> 00:35:15,405
+Please reveal your cards.
+
+650
+00:35:20,827 --> 00:35:22,454
+We will now begin
+the first round of betting.
+
+651
+00:35:22,537 --> 00:35:25,373
+Jung Won-young, as the first player,
+please place your bet.
+
+652
+00:35:28,877 --> 00:35:29,878
+I'll bet three.
+
+653
+00:35:29,961 --> 00:35:31,212
+Jung Won-young has bet three chips.
+
+654
+00:35:31,838 --> 00:35:32,881
+Hyun Kyung-lyul.
+
+655
+00:35:32,964 --> 00:35:34,007
+I'll fold.
+
+656
+00:35:34,090 --> 00:35:35,133
+I'll fold.
+
+657
+00:35:35,216 --> 00:35:36,176
+Fold.
+
+658
+00:35:36,259 --> 00:35:37,385
+JAE JAE.
+
+659
+00:35:38,303 --> 00:35:39,346
+I'll call.
+
+660
+00:35:40,055 --> 00:35:41,806
+-JAE JAE has called three chips.
+-Yes.
+
+661
+00:35:41,890 --> 00:35:42,849
+Jang Dong-min.
+
+662
+00:35:58,281 --> 00:35:59,532
+I'll raise it by seven.
+
+663
+00:36:00,700 --> 00:36:02,786
+Jang Dong-min has raised by seven
+on top of three.
+
+664
+00:36:02,869 --> 00:36:03,912
+Jung Won-young.
+
+665
+00:36:08,041 --> 00:36:09,250
+How many chips do you have?
+
+666
+00:36:09,334 --> 00:36:10,585
+Three more than you.
+
+667
+00:36:17,592 --> 00:36:18,968
+I'll raise it by 37.
+
+668
+00:36:19,844 --> 00:36:21,137
+Raise.
+
+669
+00:36:24,140 --> 00:36:24,974
+What's wrong with him?
+
+670
+00:36:25,684 --> 00:36:27,143
+Are they both set to go?
+
+671
+00:36:27,227 --> 00:36:29,813
+Darn it, I should've folded earlier.
+I'll fold.
+
+672
+00:36:30,397 --> 00:36:31,314
+Jang Dong-min.
+
+673
+00:36:35,777 --> 00:36:37,445
+One will win, and the other will go home.
+
+674
+00:36:37,529 --> 00:36:39,155
+Can't win now with that chip gap.
+
+675
+00:36:46,996 --> 00:36:48,415
+I'll go all in.
+
+676
+00:36:48,498 --> 00:36:49,332
+All in.
+
+677
+00:37:04,723 --> 00:37:09,686
+THE DEVIL'S PLAN: DEAD AGAIN
+
+678
+00:37:10,979 --> 00:37:12,355
+I'll go all in.
+
+679
+00:37:12,439 --> 00:37:13,273
+All in.
+
+680
+00:37:13,940 --> 00:37:15,650
+Jung Won-young,
+you have four chips remaining,
+
+681
+00:37:15,734 --> 00:37:17,360
+so you may raise by up to four.
+
+682
+00:37:19,446 --> 00:37:20,321
+I'll call.
+
+683
+00:37:20,405 --> 00:37:21,322
+Jung Won-young goes all in.
+
+684
+00:37:21,406 --> 00:37:22,907
+The first round of betting is closed.
+
+685
+00:37:23,658 --> 00:37:25,201
+We will now proceed with hit or stay.
+
+686
+00:37:25,285 --> 00:37:26,870
+Jung Won-young, hit or stay?
+
+687
+00:37:31,833 --> 00:37:32,667
+Hit.
+
+688
+00:37:33,251 --> 00:37:34,085
+Hit.
+
+689
+00:37:34,169 --> 00:37:35,378
+I will deal you one card.
+
+690
+00:37:40,091 --> 00:37:41,801
+Jang Dong-min, hit or stay?
+
+691
+00:37:42,719 --> 00:37:44,554
+-Stay.
+-Stay.
+
+692
+00:37:44,637 --> 00:37:46,431
+Jung Won-young, hit or stay?
+
+693
+00:37:55,106 --> 00:37:56,649
+-Hit.
+-Hit.
+
+694
+00:38:02,530 --> 00:38:03,615
+Hit or stay?
+
+695
+00:38:04,240 --> 00:38:05,200
+-Hit.
+-Hit.
+
+696
+00:38:07,660 --> 00:38:09,412
+Jung Won-young, hit or stay?
+
+697
+00:38:10,413 --> 00:38:11,706
+-Hit.
+-Hit.
+
+698
+00:38:13,124 --> 00:38:14,250
+Hit or stay?
+
+699
+00:38:15,418 --> 00:38:16,836
+-Stay.
+-Stay.
+
+700
+00:38:17,378 --> 00:38:19,464
+Jung Won-young,
+as you were the last to bet,
+
+701
+00:38:20,048 --> 00:38:21,174
+please reveal your cards first.
+
+702
+00:38:25,720 --> 00:38:28,139
+Jang Dong-min, please reveal your cards.
+
+703
+00:38:35,146 --> 00:38:36,439
+Does he have a -1?
+
+704
+00:38:40,068 --> 00:38:41,152
+Unbelievable.
+
+705
+00:38:41,236 --> 00:38:44,030
+-Jang Dong-min wins the pot.
+-That's unreal.
+
+706
+00:38:44,113 --> 00:38:47,325
+Why would you pull stunts
+in the first round?
+
+707
+00:38:47,408 --> 00:38:50,662
+<i>Jung Won-young,</i>
+<i>you have lost all your chips.</i>
+
+708
+00:38:50,745 --> 00:38:52,413
+<i>As a result,</i>
+
+709
+00:38:52,497 --> 00:38:55,792
+<i>Jung Won-young is the 14th player</i>
+<i>to be eliminated from</i> The Devil's Plan.
+
+710
+00:38:55,875 --> 00:38:57,126
+You literally just got back.
+
+711
+00:38:57,210 --> 00:39:00,380
+<i>Jung Won-young, please leave.</i>
+
+712
+00:39:01,297 --> 00:39:03,007
+You're leaving as soon as you got back.
+
+713
+00:39:03,091 --> 00:39:04,801
+-You went for it in the very first round.
+-Yeah.
+
+714
+00:39:04,884 --> 00:39:06,219
+-You did well.
+-That's crazy.
+
+715
+00:39:06,803 --> 00:39:09,055
+-Seriously.
+-I felt like I'd lose in a long game.
+
+716
+00:39:09,556 --> 00:39:12,475
+Well played.
+That was the best move you could've made.
+
+717
+00:39:12,559 --> 00:39:13,726
+-I think so.
+-Yeah.
+
+718
+00:39:13,810 --> 00:39:16,604
+I stepped into the world
+
+719
+00:39:16,688 --> 00:39:19,023
+<i>I used to dream about and enjoy watching,</i>
+
+720
+00:39:19,107 --> 00:39:21,067
+<i>and I think that gave me</i>
+<i>a sense of purpose.</i>
+
+721
+00:39:21,150 --> 00:39:23,778
+I felt that I had to give
+something worthwhile
+
+722
+00:39:23,862 --> 00:39:26,322
+for those who share my dream.
+
+723
+00:39:26,406 --> 00:39:30,201
+<i>To be honest,</i>
+<i>I know I'm not the strongest player,</i>
+
+724
+00:39:30,285 --> 00:39:34,080
+<i>and I'm not sure if the viewers</i>
+<i>will even end up liking me at all.</i>
+
+725
+00:39:34,163 --> 00:39:36,916
+<i>I feel like they might see me</i>
+<i>as a perpetual liar.</i>
+
+726
+00:39:37,917 --> 00:39:41,588
+But still,
+I thoroughly enjoyed my time here.
+
+727
+00:39:42,088 --> 00:39:44,424
+-How'd you manage that in the first round?
+-Who'd have known?
+
+728
+00:39:44,507 --> 00:39:46,467
+I assumed it was gonna be a chop.
+
+729
+00:39:46,551 --> 00:39:48,177
+Please place your base bets.
+
+730
+00:39:49,387 --> 00:39:51,264
+I will now roll for the limit number.
+
+731
+00:39:51,347 --> 00:39:52,724
+-Wow.
+-The limit number is nine.
+
+732
+00:39:52,807 --> 00:39:54,225
+I will now deal the cards.
+
+733
+00:40:03,109 --> 00:40:05,612
+Please submit one card face down.
+
+734
+00:40:05,695 --> 00:40:07,447
+Please reveal your cards.
+
+735
+00:40:08,531 --> 00:40:10,074
+We will now begin
+the first round of betting.
+
+736
+00:40:10,158 --> 00:40:12,076
+Hyun Kyung-lyul, please place your bet.
+
+737
+00:40:12,160 --> 00:40:13,828
+-I'll bet two.
+-Hyun Kyung-lyul has bet two chips.
+
+738
+00:40:14,913 --> 00:40:15,747
+Call.
+
+739
+00:40:15,830 --> 00:40:16,998
+JAE JAE.
+
+740
+00:40:22,962 --> 00:40:24,339
+Should I just go all in and leave?
+
+741
+00:40:36,684 --> 00:40:37,685
+I'll raise it to 30.
+
+742
+00:40:42,857 --> 00:40:45,151
+JAE JAE has raised by 28 on top of 2.
+
+743
+00:40:45,735 --> 00:40:46,569
+I'll fold.
+
+744
+00:40:46,653 --> 00:40:48,488
+Jang Dong-min has folded.
+
+745
+00:40:48,571 --> 00:40:50,615
+Hyun Kyung-lyul, please place your bet.
+
+746
+00:40:51,282 --> 00:40:52,408
+How many was it?
+
+747
+00:40:52,492 --> 00:40:54,369
+It was raised by 28.
+
+748
+00:40:56,245 --> 00:40:57,497
+-That's a mighty pot.
+-Unbelievable.
+
+749
+00:40:57,580 --> 00:40:58,957
+-Quite a mighty pot.
+-Wait.
+
+750
+00:40:59,040 --> 00:41:01,668
+Are you gonna finish the main match
+in 15 minutes?
+
+751
+00:41:03,795 --> 00:41:04,629
+I'll fold.
+
+752
+00:41:04,712 --> 00:41:07,048
+Hyun Kyung-lyul has folded.
+Please turn your cards over.
+
+753
+00:41:07,131 --> 00:41:08,841
+-Next, John Park.
+-I'll fold.
+
+754
+00:41:08,925 --> 00:41:11,594
+-John Park has folded.
+-Jeez, everyone's playing it so safe.
+
+755
+00:41:11,678 --> 00:41:13,972
+-All players have folded.
+-Why didn't you jump in?
+
+756
+00:41:14,055 --> 00:41:15,848
+-JAE JAE wins the pot.
+-Well done, Kyung-lyul.
+
+757
+00:41:15,932 --> 00:41:18,059
+<i>I couldn't hide my excitement</i>
+<i>and just went all in.</i>
+
+758
+00:41:18,142 --> 00:41:19,852
+I should've raised by ten or something.
+
+759
+00:41:19,936 --> 00:41:21,562
+That's always my problem.
+
+760
+00:41:21,646 --> 00:41:23,189
+We will move on to the next round.
+
+761
+00:41:23,272 --> 00:41:24,899
+The first player is John Park.
+
+762
+00:41:24,983 --> 00:41:26,275
+Please place your base bets.
+
+763
+00:41:28,611 --> 00:41:30,697
+Come on, I need to make a hand for once.
+
+764
+00:41:31,239 --> 00:41:32,824
+I will now roll for the limit number.
+
+765
+00:41:34,200 --> 00:41:35,034
+Eleven.
+
+766
+00:41:35,118 --> 00:41:37,036
+Eleven? This is gonna be fun.
+
+767
+00:41:37,120 --> 00:41:38,454
+I will now deal the cards.
+
+768
+00:41:49,674 --> 00:41:51,426
+Please reveal your cards.
+
+769
+00:41:59,642 --> 00:42:01,769
+We will now begin
+the first round of betting. John Park.
+
+770
+00:42:03,062 --> 00:42:04,147
+John Park has bet one chip.
+
+771
+00:42:04,230 --> 00:42:05,106
+I'll fold.
+
+772
+00:42:05,189 --> 00:42:06,107
+JAE JAE has folded.
+
+773
+00:42:06,190 --> 00:42:07,066
+Jang Dong-min.
+
+774
+00:42:08,943 --> 00:42:09,777
+Call.
+
+775
+00:42:09,861 --> 00:42:11,070
+Hyun Kyung-lyul.
+
+776
+00:42:12,113 --> 00:42:13,698
+-Call.
+-Finally, a real round.
+
+777
+00:42:13,781 --> 00:42:15,950
+-Looks like nobody has a made hand.
+-Yeah, finally.
+
+778
+00:42:16,034 --> 00:42:18,202
+-We will now proceed with hit or stay.
+-So we needed a big number.
+
+779
+00:42:18,286 --> 00:42:19,537
+-John Park, hit or stay?
+-I'll hit.
+
+780
+00:42:19,620 --> 00:42:20,455
+Hit.
+
+781
+00:42:21,831 --> 00:42:22,957
+-Wow.
+-Wow.
+
+782
+00:42:23,041 --> 00:42:25,043
+-The single seven.
+-Jang Dong-min, hit or stay?
+
+783
+00:42:25,668 --> 00:42:26,919
+-Hit.
+-Hit.
+
+784
+00:42:31,883 --> 00:42:33,342
+-Hyun Kyung-lyul, hit or stay?
+-Hit.
+
+785
+00:42:33,426 --> 00:42:34,427
+-Hit.
+-Hit.
+
+786
+00:42:36,679 --> 00:42:37,513
+John Park.
+
+787
+00:42:37,597 --> 00:42:38,556
+-Stay, please.
+-Stay.
+
+788
+00:42:38,639 --> 00:42:39,807
+Jang Dong-min.
+
+789
+00:42:39,891 --> 00:42:41,225
+-Stay.
+-Stay.
+
+790
+00:42:41,309 --> 00:42:43,269
+-Hyun Kyung-lyul, hit or stay?
+-Hit.
+
+791
+00:42:45,146 --> 00:42:46,564
+Not too bad.
+
+792
+00:42:46,647 --> 00:42:47,982
+-Hit.
+-Hit.
+
+793
+00:42:49,567 --> 00:42:50,651
+-Hit.
+-Hit.
+
+794
+00:42:53,571 --> 00:42:55,698
+-Hyun Kyung-lyul, hit or stay?
+-Stay.
+
+795
+00:42:55,782 --> 00:42:57,450
+We will now begin
+the second round of betting.
+
+796
+00:42:57,533 --> 00:42:59,410
+John Park, please place your bet.
+
+797
+00:43:05,249 --> 00:43:06,751
+John Park has bet six chips.
+
+798
+00:43:06,834 --> 00:43:07,877
+Jang Dong-min.
+
+799
+00:43:12,548 --> 00:43:14,258
+-I'll call.
+-Call.
+
+800
+00:43:14,342 --> 00:43:15,218
+Wow.
+
+801
+00:43:15,802 --> 00:43:16,886
+Hyun Kyung-lyul.
+
+802
+00:43:16,969 --> 00:43:18,096
+I'll fold.
+
+803
+00:43:18,179 --> 00:43:20,139
+The second round of betting is closed.
+
+804
+00:43:20,223 --> 00:43:23,017
+Jang Dong-min, please reveal your cards.
+
+805
+00:43:27,939 --> 00:43:29,107
+Jang Dong-min, ten.
+
+806
+00:43:29,816 --> 00:43:30,650
+John Park.
+
+807
+00:43:33,569 --> 00:43:34,779
+John Park, 14.
+
+808
+00:43:35,279 --> 00:43:37,740
+Jang Dong-min wins the pot.
+
+809
+00:43:37,824 --> 00:43:39,909
+You will receive 19 chips.
+
+810
+00:43:39,992 --> 00:43:42,495
+Man, the rich
+just keep getting richer, huh?
+
+811
+00:43:42,578 --> 00:43:44,080
+Must feel good.
+
+812
+00:43:44,872 --> 00:43:46,082
+I still need more.
+
+813
+00:43:48,126 --> 00:43:49,502
+That's still not enough?
+
+814
+00:43:50,294 --> 00:43:51,963
+The first player is JAE JAE.
+
+815
+00:43:52,046 --> 00:43:53,256
+Please place your base bets.
+
+816
+00:43:54,257 --> 00:43:55,925
+I will now roll for the limit number.
+
+817
+00:43:56,008 --> 00:43:57,301
+Come on, 12.
+
+818
+00:43:57,385 --> 00:43:58,386
+-Nine.
+-Oh my.
+
+819
+00:43:58,469 --> 00:44:00,346
+Please reveal your cards.
+
+820
+00:44:01,347 --> 00:44:02,932
+We will now begin
+the first round of betting.
+
+821
+00:44:03,015 --> 00:44:03,850
+JAE JAE.
+
+822
+00:44:03,933 --> 00:44:05,268
+I'll fold.
+
+823
+00:44:05,893 --> 00:44:07,728
+-I got a terrible hand.
+-JAE JAE has folded.
+
+824
+00:44:07,812 --> 00:44:08,980
+Jang Dong-min.
+
+825
+00:44:12,108 --> 00:44:13,317
+Jang Dong-min has bet five chips.
+
+826
+00:44:13,401 --> 00:44:14,735
+Hyun Kyung-lyul.
+
+827
+00:44:14,819 --> 00:44:16,571
+-I'll fold.
+-Hyun Kyung-lyul has folded.
+
+828
+00:44:16,654 --> 00:44:17,738
+John Park.
+
+829
+00:44:17,822 --> 00:44:18,698
+I'll fold.
+
+830
+00:44:18,781 --> 00:44:20,158
+All players have folded.
+
+831
+00:44:20,241 --> 00:44:22,493
+Jang Dong-min wins the pot.
+
+832
+00:44:22,577 --> 00:44:24,287
+You will receive nine chips.
+
+833
+00:44:25,163 --> 00:44:28,416
+This isn't easy because it instantly
+puts someone in the chip lead.
+
+834
+00:44:28,499 --> 00:44:31,377
+I should've gone for greater good.
+Sorry, everyone.
+
+835
+00:44:32,670 --> 00:44:33,629
+What's the point now?
+
+836
+00:44:33,713 --> 00:44:36,465
+I totally would've,
+had I known Won-young would be eliminated.
+
+837
+00:44:36,966 --> 00:44:40,303
+We will move on to the next round.
+The first player is Jang Dong-min.
+
+838
+00:44:40,386 --> 00:44:41,721
+I will now roll for the limit number.
+
+839
+00:44:43,389 --> 00:44:44,223
+-Nine.
+-Nine.
+
+840
+00:44:44,307 --> 00:44:45,516
+I will now deal the cards.
+
+841
+00:44:48,060 --> 00:44:49,854
+Please submit one card face down.
+
+842
+00:44:51,230 --> 00:44:52,648
+Please reveal your cards.
+
+843
+00:44:54,775 --> 00:44:56,319
+We will now begin
+the first round of betting.
+
+844
+00:44:56,402 --> 00:44:57,236
+Jang Dong-min.
+
+845
+00:44:57,320 --> 00:44:58,446
+I'll bet one.
+
+846
+00:44:58,529 --> 00:45:00,031
+-I'll call.
+-Call.
+
+847
+00:45:00,615 --> 00:45:01,574
+Call.
+
+848
+00:45:01,657 --> 00:45:02,491
+Call.
+
+849
+00:45:02,575 --> 00:45:04,243
+We will now proceed with hit or stay.
+
+850
+00:45:04,327 --> 00:45:06,203
+Jang Dong-min, hit or stay?
+
+851
+00:45:06,287 --> 00:45:07,121
+I'll hit.
+
+852
+00:45:07,204 --> 00:45:08,080
+Hit.
+
+853
+00:45:10,416 --> 00:45:12,209
+Hyun Kyung-lyul, hit or stay?
+
+854
+00:45:12,293 --> 00:45:13,461
+-I'll hit.
+-Hit.
+
+855
+00:45:15,755 --> 00:45:17,006
+-I'll hit.
+-Hit.
+
+856
+00:45:19,842 --> 00:45:21,010
+-I'll hit.
+-Hit.
+
+857
+00:45:23,679 --> 00:45:24,972
+-I'll hit.
+-Hit.
+
+858
+00:45:26,057 --> 00:45:27,683
+Hyun Kyung-lyul, hit or stay?
+
+859
+00:45:27,767 --> 00:45:28,851
+-I'll hit.
+-Hit.
+
+860
+00:45:34,315 --> 00:45:35,983
+John Park, hit or stay?
+
+861
+00:45:37,443 --> 00:45:38,945
+-I'll stay.
+-Stay.
+
+862
+00:45:39,028 --> 00:45:40,905
+JAE JAE, hit or stay?
+
+863
+00:45:40,988 --> 00:45:42,490
+-I'll stay.
+-Stay.
+
+864
+00:45:42,573 --> 00:45:44,450
+Jang Dong-min, hit or stay?
+
+865
+00:45:44,533 --> 00:45:45,826
+-I'll hit.
+-Hit.
+
+866
+00:45:49,330 --> 00:45:51,290
+Hyun Kyung-lyul, hit or stay?
+
+867
+00:45:51,374 --> 00:45:52,667
+-I'll stay.
+-Stay.
+
+868
+00:45:52,750 --> 00:45:54,710
+Jang Dong-min, hit or stay?
+
+869
+00:45:56,212 --> 00:45:57,380
+Just a second.
+
+870
+00:46:02,510 --> 00:46:04,303
+John, you've chosen to stay too, right?
+
+871
+00:46:06,138 --> 00:46:07,139
+JAE JAE too.
+
+872
+00:46:07,223 --> 00:46:08,933
+-You're the only one left.
+-Right.
+
+873
+00:46:12,645 --> 00:46:14,188
+-I'll hit.
+-Hit.
+
+874
+00:46:17,775 --> 00:46:19,527
+Jang Dong-min, hit or stay?
+
+875
+00:46:19,610 --> 00:46:21,153
+-I'll stay.
+-Stay.
+
+876
+00:46:21,696 --> 00:46:23,322
+We will now begin
+the second round of betting.
+
+877
+00:46:23,406 --> 00:46:25,032
+Jang Dong-min, please place your bet.
+
+878
+00:46:25,116 --> 00:46:25,992
+I'll fold.
+
+879
+00:46:26,075 --> 00:46:27,076
+I'll fold.
+
+880
+00:46:27,159 --> 00:46:28,411
+John Park.
+
+881
+00:46:28,494 --> 00:46:29,495
+One chip.
+
+882
+00:46:29,578 --> 00:46:30,579
+JAE JAE.
+
+883
+00:46:32,957 --> 00:46:34,208
+I'll raise it to ten.
+
+884
+00:46:36,794 --> 00:46:39,755
+JAE JAE has raised by nine,
+making the total ten.
+
+885
+00:46:39,839 --> 00:46:41,048
+John Park.
+
+886
+00:46:41,132 --> 00:46:42,633
+-Ten total, right?
+-That is correct.
+
+887
+00:46:44,552 --> 00:46:45,720
+-Wow.
+-Call.
+
+888
+00:46:45,803 --> 00:46:46,846
+Finally.
+
+889
+00:46:46,929 --> 00:46:48,389
+The second round of betting is closed.
+
+890
+00:46:48,472 --> 00:46:50,725
+John Park, please reveal your cards.
+
+891
+00:46:52,601 --> 00:46:54,687
+-Wow.
+-Three ones?
+
+892
+00:46:57,523 --> 00:46:59,108
+-Nice.
+-John Park, eight.
+
+893
+00:46:59,191 --> 00:47:00,109
+JAE JAE.
+
+894
+00:47:06,490 --> 00:47:07,825
+-It's a tie.
+-JAE JAE, eight.
+
+895
+00:47:07,908 --> 00:47:08,993
+Chop.
+
+896
+00:47:09,076 --> 00:47:09,952
+It is a push.
+
+897
+00:47:11,370 --> 00:47:13,080
+-The pot will be split.
+-Darn it.
+
+898
+00:47:13,622 --> 00:47:15,833
+The first player is Hyun Kyung-lyul.
+
+899
+00:47:15,916 --> 00:47:17,168
+Please place your base bets.
+
+900
+00:47:18,878 --> 00:47:20,171
+This is fun.
+
+901
+00:47:20,254 --> 00:47:21,088
+It is.
+
+902
+00:47:21,172 --> 00:47:22,506
+I will now roll for the limit number.
+
+903
+00:47:24,341 --> 00:47:25,426
+-Eleven.
+-Eleven.
+
+904
+00:47:25,926 --> 00:47:28,179
+That should be fun.
+
+905
+00:47:28,262 --> 00:47:29,638
+I will now deal the cards.
+
+906
+00:47:29,722 --> 00:47:31,223
+Please submit one card face down.
+
+907
+00:47:34,643 --> 00:47:35,770
+Please reveal your cards.
+
+908
+00:47:39,065 --> 00:47:40,483
+We will now begin
+the first round of betting.
+
+909
+00:47:40,566 --> 00:47:41,484
+Hyun Kyung-lyul.
+
+910
+00:47:44,320 --> 00:47:45,654
+Hyun Kyung-lyul has bet five chips.
+
+911
+00:47:45,738 --> 00:47:46,906
+John Park.
+
+912
+00:47:46,989 --> 00:47:48,657
+John has folded. JAE JAE.
+
+913
+00:47:49,241 --> 00:47:51,368
+Kyung-lyul must have
+a good hand this time.
+
+914
+00:47:55,289 --> 00:47:57,458
+-Five?
+-That is correct.
+
+915
+00:47:57,541 --> 00:47:58,501
+-I'll call.
+-Call.
+
+916
+00:47:58,584 --> 00:48:00,086
+-Wow.
+-Jang Dong-min.
+
+917
+00:48:00,169 --> 00:48:01,003
+Really?
+
+918
+00:48:01,087 --> 00:48:02,505
+I'll fold.
+
+919
+00:48:02,588 --> 00:48:03,631
+Jang Dong-min has folded.
+
+920
+00:48:04,298 --> 00:48:05,800
+I've matched you.
+
+921
+00:48:06,884 --> 00:48:08,094
+We will now proceed with hit or stay.
+
+922
+00:48:08,177 --> 00:48:09,720
+Hyun Kyung-lyul, hit or stay?
+
+923
+00:48:09,804 --> 00:48:11,055
+-I'll stay.
+-Stay.
+
+924
+00:48:11,764 --> 00:48:12,973
+JAE JAE, hit or stay?
+
+925
+00:48:13,057 --> 00:48:14,642
+You've hit 11, huh?
+
+926
+00:48:16,393 --> 00:48:17,603
+-I'll hit.
+-Hit.
+
+927
+00:48:20,564 --> 00:48:22,525
+-JAE JAE, hit or stay?
+-Hit.
+
+928
+00:48:24,401 --> 00:48:25,986
+JAE JAE, hit or stay?
+
+929
+00:48:29,615 --> 00:48:31,075
+-I'll hit.
+-Hit.
+
+930
+00:48:33,285 --> 00:48:34,453
+JAE JAE, hit or stay?
+
+931
+00:48:34,537 --> 00:48:36,288
+-Stay.
+-Stay.
+
+932
+00:48:38,415 --> 00:48:39,834
+We will now begin
+the second round of betting.
+
+933
+00:48:46,882 --> 00:48:48,676
+Hold on. I've made a mistake.
+
+934
+00:48:48,759 --> 00:48:49,718
+<i>I jumped the gun again.</i>
+
+935
+00:48:49,802 --> 00:48:53,139
+I needed one more -1 card,
+
+936
+00:48:53,222 --> 00:48:55,182
+but I saw a -1 come out
+
+937
+00:48:55,266 --> 00:48:58,519
+<i>and thought I was already at 11</i>
+<i>and chose to stay.</i>
+
+938
+00:48:58,602 --> 00:48:59,770
+<i>Turns out, I was at 12.</i>
+
+939
+00:48:59,854 --> 00:49:01,272
+<i>I should've taken one more card.</i>
+
+940
+00:49:04,984 --> 00:49:05,901
+All in.
+
+941
+00:49:07,403 --> 00:49:08,988
+Hyun Kyung-lyul has bet 25 chips.
+
+942
+00:49:09,613 --> 00:49:10,823
+That was my mistake.
+
+943
+00:49:12,032 --> 00:49:13,826
+Eleven with just three cards?
+
+944
+00:49:20,040 --> 00:49:21,041
+I'll fold.
+
+945
+00:49:21,125 --> 00:49:22,126
+JAE JAE has folded.
+
+946
+00:49:22,209 --> 00:49:24,128
+Hyun Kyung-lyul wins the pot.
+
+947
+00:49:24,211 --> 00:49:25,421
+I miscalculated.
+
+948
+00:49:25,504 --> 00:49:27,423
+You will receive 39 chips.
+
+949
+00:49:28,424 --> 00:49:29,758
+Please place your base bets.
+
+950
+00:49:31,510 --> 00:49:33,262
+I will now roll for the limit number.
+
+951
+00:49:34,138 --> 00:49:34,972
+Twelve.
+
+952
+00:49:35,055 --> 00:49:36,807
+Please submit one card face down.
+
+953
+00:49:39,977 --> 00:49:41,228
+Please reveal your cards.
+
+954
+00:49:46,025 --> 00:49:48,027
+We will now begin
+the first round of betting. John Park.
+
+955
+00:49:48,110 --> 00:49:49,778
+-I'll fold.
+-John Park has folded.
+
+956
+00:49:49,862 --> 00:49:50,738
+JAE JAE.
+
+957
+00:49:51,363 --> 00:49:53,824
+<i>I was already over</i>
+<i>the limit number at the start,</i>
+
+958
+00:49:53,908 --> 00:49:58,120
+<i>but there was still some room to bluff</i>
+<i>with the card I chose to reveal.</i>
+
+959
+00:49:58,204 --> 00:49:59,997
+All I needed was a -1.
+
+960
+00:50:06,712 --> 00:50:07,922
+Five.
+
+961
+00:50:08,005 --> 00:50:09,173
+JAE JAE has bet five chips.
+
+962
+00:50:09,256 --> 00:50:11,717
+<i>I was signaling to them</i>
+<i>that I was sitting near that number</i>
+
+963
+00:50:11,800 --> 00:50:13,219
+<i>and not to jump in.</i>
+
+964
+00:50:13,802 --> 00:50:14,803
+Jang Dong-min.
+
+965
+00:50:20,309 --> 00:50:21,143
+Call.
+
+966
+00:50:21,227 --> 00:50:22,603
+-Hyun Kyung-lyul.
+-I'll fold.
+
+967
+00:50:22,686 --> 00:50:23,812
+Hyun Kyung-lyul has folded.
+
+968
+00:50:23,896 --> 00:50:26,273
+We will now proceed with hit or stay.
+JAE JAE.
+
+969
+00:50:26,357 --> 00:50:27,858
+-I'll hit.
+-Hit.
+
+970
+00:50:30,569 --> 00:50:32,112
+Jang Dong-min, hit or stay?
+
+971
+00:50:32,863 --> 00:50:35,491
+I guess the main match hall
+isn't the place for me.
+
+972
+00:50:36,158 --> 00:50:38,869
+<i>My thinking was that</i>
+<i>Dong-min revealed a five</i>
+
+973
+00:50:38,953 --> 00:50:41,789
+<i>because he had small numbers in his hand.</i>
+
+974
+00:50:42,498 --> 00:50:43,749
+-I'll hit.
+-Hit.
+
+975
+00:50:46,126 --> 00:50:47,878
+JAE JAE, hit or stay?
+
+976
+00:50:48,754 --> 00:50:50,673
+-I'll stay.
+-Stay.
+
+977
+00:50:50,756 --> 00:50:52,508
+Jang Dong-min, hit or stay?
+
+978
+00:50:59,807 --> 00:51:01,267
+-I'll hit.
+-Hit.
+
+979
+00:51:03,936 --> 00:51:05,521
+Jang Dong-min, hit or stay?
+
+980
+00:51:06,313 --> 00:51:07,481
+-Stay.
+-Stay.
+
+981
+00:51:07,564 --> 00:51:09,275
+We will now begin
+the second round of betting.
+
+982
+00:51:09,358 --> 00:51:10,276
+JAE JAE.
+
+983
+00:51:10,359 --> 00:51:14,321
+<i>I didn't get to win the pot</i>
+<i>as I had planned in the previous round,</i>
+
+984
+00:51:14,405 --> 00:51:17,533
+<i>and I felt this was the moment</i>
+<i>where I had to turn the tide my way</i>
+
+985
+00:51:17,616 --> 00:51:19,910
+or I never would.
+
+986
+00:51:19,994 --> 00:51:22,371
+<i>So even though my opponent was Dong-min,</i>
+
+987
+00:51:22,454 --> 00:51:24,331
+<i>I thought I should just go for it.</i>
+
+988
+00:51:27,501 --> 00:51:29,044
+I'll bet 15.
+
+989
+00:51:29,795 --> 00:51:31,463
+JAE JAE has bet 15 chips.
+
+990
+00:51:31,547 --> 00:51:32,506
+Jang Dong-min.
+
+991
+00:51:38,762 --> 00:51:39,888
+Is this how he takes me out?
+
+992
+00:51:52,484 --> 00:51:53,902
+You've worked so hard.
+
+993
+00:51:55,404 --> 00:51:56,322
+I'll let you live.
+
+994
+00:52:00,993 --> 00:52:02,286
+I'll match her bet.
+
+995
+00:52:03,287 --> 00:52:04,246
+Jang Dong-min has called.
+
+996
+00:52:04,330 --> 00:52:05,497
+Please reveal your cards.
+
+997
+00:52:10,586 --> 00:52:11,420
+Five.
+
+998
+00:52:15,549 --> 00:52:17,051
+Jang Dong-min, 11.
+
+999
+00:52:17,134 --> 00:52:18,927
+-JAE JAE, please reveal your cards.
+-I see.
+
+1000
+00:52:22,848 --> 00:52:24,183
+JAE JAE, 15.
+
+1001
+00:52:24,266 --> 00:52:25,726
+I was trying to pull off a bluff.
+
+1002
+00:52:25,809 --> 00:52:27,603
+-Jang Dong-min wins the pot.
+-Should've known better.
+
+1003
+00:52:27,686 --> 00:52:29,313
+You will receive 44 chips.
+
+1004
+00:52:32,399 --> 00:52:34,193
+I shouldn't be surprised
+he jumped right in.
+
+1005
+00:52:34,276 --> 00:52:35,944
+He saw right through my flimsy bluff.
+
+1006
+00:52:37,279 --> 00:52:38,906
+Round 8 will now begin.
+
+1007
+00:52:38,989 --> 00:52:40,366
+The first player is JAE JAE.
+
+1008
+00:52:41,950 --> 00:52:42,910
+Ten.
+
+1009
+00:52:42,993 --> 00:52:44,453
+Please reveal your cards.
+
+1010
+00:52:45,704 --> 00:52:47,498
+We will now begin
+the first round of betting.
+
+1011
+00:52:47,581 --> 00:52:49,124
+JAE JAE, please place your bet.
+
+1012
+00:52:50,501 --> 00:52:51,543
+-I'll bet one.
+-One chip.
+
+1013
+00:52:51,627 --> 00:52:52,628
+Jang Dong-min.
+
+1014
+00:52:54,505 --> 00:52:55,589
+Jang Dong-min has called.
+
+1015
+00:52:55,672 --> 00:52:57,424
+-Hyun Kyung-lyul.
+-I'll fold.
+
+1016
+00:52:57,508 --> 00:52:58,342
+Hyun Kyung-lyul has folded.
+
+1017
+00:52:58,425 --> 00:52:59,426
+John Park.
+
+1018
+00:53:13,190 --> 00:53:14,858
+You have bet six chips total.
+
+1019
+00:53:14,942 --> 00:53:15,776
+JAE JAE.
+
+1020
+00:53:15,859 --> 00:53:16,944
+Six?
+
+1021
+00:53:20,489 --> 00:53:22,324
+-I'll fold.
+-JAE JAE has folded.
+
+1022
+00:53:22,408 --> 00:53:23,617
+Jang Dong-min.
+
+1023
+00:53:31,458 --> 00:53:32,376
+Call.
+
+1024
+00:53:35,212 --> 00:53:37,047
+The first round of betting is closed.
+
+1025
+00:53:37,131 --> 00:53:39,091
+Jang Dong-min, hit or stay?
+
+1026
+00:53:39,800 --> 00:53:41,510
+-I'll hit.
+-Hit.
+
+1027
+00:53:43,887 --> 00:53:46,140
+John Park, hit or stay?
+
+1028
+00:53:46,223 --> 00:53:48,517
+<i>There's only one seven card.</i>
+
+1029
+00:53:48,600 --> 00:53:51,270
+Out of all the cards,
+why did I have to end up with that one?
+
+1030
+00:53:51,979 --> 00:53:53,147
+-I'll hit.
+-Hit.
+
+1031
+00:53:55,816 --> 00:53:57,818
+Jang Dong-min, hit or stay?
+
+1032
+00:53:57,901 --> 00:53:59,570
+-I'll hit.
+-Hit.
+
+1033
+00:54:02,489 --> 00:54:03,907
+John Park, hit or stay?
+
+1034
+00:54:03,991 --> 00:54:05,784
+-I'll stay.
+-Stay.
+
+1035
+00:54:05,868 --> 00:54:07,953
+Jang Dong-min, hit or stay?
+
+1036
+00:54:08,579 --> 00:54:09,538
+-I'll hit.
+-Hit.
+
+1037
+00:54:11,707 --> 00:54:13,375
+Jang Dong-min, hit or stay?
+
+1038
+00:54:13,459 --> 00:54:14,751
+-I'll hit.
+-Hit.
+
+1039
+00:54:18,964 --> 00:54:19,882
+Wow.
+
+1040
+00:54:19,965 --> 00:54:21,133
+That changes things.
+
+1041
+00:54:21,216 --> 00:54:22,551
+-Hit or stay?
+-Just one more.
+
+1042
+00:54:22,634 --> 00:54:24,303
+-I'll hit.
+-Hit.
+
+1043
+00:54:25,012 --> 00:54:27,347
+-No way, that's amazing.
+-Now we really don't know.
+
+1044
+00:54:27,931 --> 00:54:29,057
+-I'll hit.
+-Hit.
+
+1045
+00:54:32,102 --> 00:54:33,187
+-Hit.
+-Hit.
+
+1046
+00:54:35,105 --> 00:54:36,315
+-Hit.
+-Hit.
+
+1047
+00:54:38,275 --> 00:54:40,235
+How did I end up with the seven?
+
+1048
+00:54:40,819 --> 00:54:42,905
+-There's only one in the deck.
+-I know.
+
+1049
+00:54:43,405 --> 00:54:45,157
+-I'll stay.
+-Stay.
+
+1050
+00:54:45,240 --> 00:54:47,034
+We will now begin
+the second round of betting.
+
+1051
+00:54:47,117 --> 00:54:48,911
+-Jang Dong-min.
+-I'll fold.
+
+1052
+00:54:48,994 --> 00:54:50,287
+Jang Dong-min has folded.
+
+1053
+00:54:50,370 --> 00:54:51,705
+John Park wins the pot.
+
+1054
+00:54:51,788 --> 00:54:53,499
+You're rich again.
+
+1055
+00:54:54,124 --> 00:54:55,375
+Rich? I'm back to square one.
+
+1056
+00:54:55,459 --> 00:54:56,710
+I'm the only broke one left.
+
+1057
+00:54:56,793 --> 00:54:58,420
+-Square one.
+-We will move on to the next round.
+
+1058
+00:54:59,004 --> 00:55:00,923
+Please place your base bets.
+
+1059
+00:55:01,465 --> 00:55:02,966
+I will now roll for the limit number.
+
+1060
+00:55:03,050 --> 00:55:04,301
+Five.
+
+1061
+00:55:04,384 --> 00:55:05,385
+I will now deal the cards.
+
+1062
+00:55:05,969 --> 00:55:07,763
+Please submit one card face down.
+
+1063
+00:55:09,473 --> 00:55:10,891
+Please reveal your cards.
+
+1064
+00:55:16,271 --> 00:55:17,856
+We will now begin
+the first round of betting.
+
+1065
+00:55:17,940 --> 00:55:20,067
+Jang Dong-min, please place your bet.
+
+1066
+00:55:24,363 --> 00:55:25,280
+I'll bet four.
+
+1067
+00:55:25,364 --> 00:55:26,406
+Jang Dong-min has bet four chips.
+
+1068
+00:55:26,490 --> 00:55:27,866
+-Hyun Kyung-lyul.
+-I'll fold.
+
+1069
+00:55:27,950 --> 00:55:28,784
+Hyun Kyung-lyul has folded.
+
+1070
+00:55:28,867 --> 00:55:29,743
+John Park.
+
+1071
+00:55:45,050 --> 00:55:46,802
+John Park has bet 12 chips.
+
+1072
+00:55:46,885 --> 00:55:47,970
+JAE JAE.
+
+1073
+00:55:48,053 --> 00:55:49,221
+I'll fold.
+
+1074
+00:55:49,304 --> 00:55:50,305
+JAE JAE has folded.
+
+1075
+00:55:50,389 --> 00:55:51,431
+Jang Dong-min.
+
+1076
+00:55:56,353 --> 00:55:57,187
+Call.
+
+1077
+00:56:00,566 --> 00:56:02,568
+Jang Dong-min, hit or stay?
+
+1078
+00:56:11,660 --> 00:56:13,036
+-I'll hit.
+-Hit.
+
+1079
+00:56:18,000 --> 00:56:19,585
+John Park, hit or stay?
+
+1080
+00:56:23,338 --> 00:56:25,173
+-I'll stay.
+-Stay.
+
+1081
+00:56:25,257 --> 00:56:26,133
+Jang Dong-min.
+
+1082
+00:56:27,676 --> 00:56:28,885
+-I'll hit.
+-Hit.
+
+1083
+00:56:31,430 --> 00:56:32,556
+Hit or stay?
+
+1084
+00:56:33,473 --> 00:56:34,766
+-I'll hit.
+-Hit.
+
+1085
+00:56:37,853 --> 00:56:38,812
+Hit or stay?
+
+1086
+00:56:39,479 --> 00:56:40,606
+-I'll hit.
+-Hit.
+
+1087
+00:56:43,775 --> 00:56:44,776
+Hit or stay?
+
+1088
+00:56:49,239 --> 00:56:50,699
+-Stay.
+-Stay.
+
+1089
+00:56:51,283 --> 00:56:52,576
+We will now begin
+the second round of betting.
+
+1090
+00:56:52,659 --> 00:56:54,911
+Jang Dong-min, please place your bet.
+
+1091
+00:56:56,538 --> 00:56:57,372
+Five chips.
+
+1092
+00:56:58,707 --> 00:56:59,541
+John Park.
+
+1093
+00:57:04,546 --> 00:57:06,757
+<i>That's when I knew</i>
+
+1094
+00:57:06,840 --> 00:57:07,841
+<i>I'd won.</i>
+
+1095
+00:57:07,924 --> 00:57:10,177
+The cards in his hand
+
+1096
+00:57:10,886 --> 00:57:15,307
+simply couldn't add up to -1.
+
+1097
+00:57:15,390 --> 00:57:17,809
+<i>There's no zero card.</i>
+
+1098
+00:57:17,893 --> 00:57:21,188
+<i>Only -1 and 1 exist,</i>
+
+1099
+00:57:21,271 --> 00:57:24,483
+<i>so no combination of cards</i>
+<i>can add up to -1.</i>
+
+1100
+00:57:24,566 --> 00:57:27,611
+<i>It can only be -2 or 0.</i>
+
+1101
+00:57:27,694 --> 00:57:32,074
+Since the total showing then was six,
+Dong-min couldn't actually be at five.
+
+1102
+00:57:32,157 --> 00:57:35,035
+Why? Because his card total
+couldn't be -1.
+
+1103
+00:57:35,118 --> 00:57:38,914
+<i>So Dong-min's best hand</i>
+
+1104
+00:57:38,997 --> 00:57:40,123
+<i>had to be four.</i>
+
+1105
+00:57:41,667 --> 00:57:44,920
+I see 5 and raise 12.
+
+1106
+00:57:45,003 --> 00:57:46,922
+John Park has raised by 12.
+
+1107
+00:57:47,547 --> 00:57:48,590
+Jang Dong-min.
+
+1108
+00:57:50,384 --> 00:57:51,343
+I'll fold.
+
+1109
+00:57:51,843 --> 00:57:52,886
+Jang Dong-min has folded.
+
+1110
+00:57:52,969 --> 00:57:54,388
+John Park wins the pot.
+
+1111
+00:57:55,973 --> 00:57:58,266
+-You will receive 50 chips.
+-You're loaded now.
+
+1112
+00:57:58,350 --> 00:58:00,310
+I will now roll for the limit number.
+
+1113
+00:58:01,645 --> 00:58:02,646
+Twelve.
+
+1114
+00:58:03,230 --> 00:58:04,690
+Please submit one card face down.
+
+1115
+00:58:06,441 --> 00:58:07,651
+Please reveal your cards.
+
+1116
+00:58:12,155 --> 00:58:13,615
+We will now begin
+with the first round of betting.
+
+1117
+00:58:13,699 --> 00:58:15,784
+Hyun Kyung-lyul, please place your bet.
+
+1118
+00:58:15,867 --> 00:58:16,702
+One chip.
+
+1119
+00:58:16,785 --> 00:58:17,661
+John Park.
+
+1120
+00:58:19,871 --> 00:58:20,706
+Call.
+
+1121
+00:58:20,789 --> 00:58:21,707
+JAE JAE.
+
+1122
+00:58:22,332 --> 00:58:23,792
+The number's too low.
+
+1123
+00:58:23,875 --> 00:58:24,710
+JAE JAE has folded.
+
+1124
+00:58:25,293 --> 00:58:26,211
+Jang Dong-min.
+
+1125
+00:58:32,592 --> 00:58:34,636
+Jang Dong-min has raised by five
+on top of one.
+
+1126
+00:58:35,137 --> 00:58:36,263
+Hyun Kyung-lyul.
+
+1127
+00:58:46,648 --> 00:58:47,482
+Call.
+
+1128
+00:58:47,566 --> 00:58:48,400
+John Park.
+
+1129
+00:58:51,528 --> 00:58:52,362
+Call.
+
+1130
+00:58:53,071 --> 00:58:54,614
+The first round of betting is closed.
+
+1131
+00:58:59,661 --> 00:59:01,455
+Hyun Kyung-lyul, hit or stay?
+
+1132
+00:59:01,538 --> 00:59:02,706
+-Hit.
+-Hit.
+
+1133
+00:59:06,543 --> 00:59:08,086
+John Park, hit or stay?
+
+1134
+00:59:08,170 --> 00:59:09,463
+-I'll hit.
+-Hit.
+
+1135
+00:59:11,506 --> 00:59:13,300
+Jang Dong-min, hit or stay?
+
+1136
+00:59:15,010 --> 00:59:15,969
+-Hit.
+-Hit.
+
+1137
+00:59:17,596 --> 00:59:18,930
+Hyun Kyung-lyul, hit or stay?
+
+1138
+00:59:23,685 --> 00:59:24,936
+-I'll hit.
+-Hit.
+
+1139
+00:59:30,067 --> 00:59:32,110
+John Park, hit or stay?
+
+1140
+00:59:32,736 --> 00:59:34,404
+-I'll stay.
+-Stay.
+
+1141
+00:59:35,030 --> 00:59:36,656
+Jang Dong-min, hit or stay?
+
+1142
+00:59:37,741 --> 00:59:38,784
+-I'll hit.
+-Hit.
+
+1143
+00:59:41,286 --> 00:59:42,829
+Hyun Kyung-lyul, hit or stay?
+
+1144
+00:59:42,913 --> 00:59:44,372
+-Stay.
+-Stay.
+
+1145
+00:59:44,456 --> 00:59:46,416
+Jang Dong-min, hit or stay?
+
+1146
+00:59:51,129 --> 00:59:52,547
+-Hit.
+-Hit.
+
+1147
+00:59:55,133 --> 00:59:57,427
+Jang Dong-min, hit or stay?
+
+1148
+00:59:57,511 --> 01:00:01,014
+<i>I just had to avoid the seven card,</i>
+<i>but that's what I kept getting dealt.</i>
+
+1149
+01:00:01,098 --> 01:00:02,516
+-Hit.
+-Hit.
+
+1150
+01:00:06,269 --> 01:00:07,479
+-Hit.
+-Hit.
+
+1151
+01:00:11,691 --> 01:00:13,151
+-Stay.
+-Stay.
+
+1152
+01:00:13,235 --> 01:00:14,820
+We will now begin
+the second round of betting.
+
+1153
+01:00:15,487 --> 01:00:16,321
+-Hyun Kyung-lyul.
+-I'll go all in.
+
+1154
+01:00:17,239 --> 01:00:18,073
+-All in.
+-All in.
+
+1155
+01:00:24,663 --> 01:00:25,997
+Hyun Kyung-lyul has bet 29 chips.
+
+1156
+01:00:26,081 --> 01:00:27,082
+John Park.
+
+1157
+01:00:48,145 --> 01:00:49,688
+-Twenty-nine?
+-That is correct.
+
+1158
+01:00:58,405 --> 01:00:59,364
+I'll call.
+
+1159
+01:00:59,948 --> 01:01:01,408
+-Call.
+-You're calling?
+
+1160
+01:01:01,491 --> 01:01:02,325
+Wow.
+
+1161
+01:01:06,121 --> 01:01:07,247
+Jang Dong-min.
+
+1162
+01:01:08,290 --> 01:01:09,249
+Join us.
+
+1163
+01:01:09,958 --> 01:01:12,377
+-I think you made a mistake, John.
+-You got a seven again.
+
+1164
+01:01:12,460 --> 01:01:14,087
+Jang Dong-min has folded.
+
+1165
+01:01:14,170 --> 01:01:15,630
+The second round of betting is closed.
+
+1166
+01:01:16,506 --> 01:01:18,383
+John Park, please reveal your cards.
+
+1167
+01:01:25,849 --> 01:01:27,267
+John Park, 12.
+
+1168
+01:01:28,518 --> 01:01:30,353
+Hyun Kyung-lyul, please reveal your cards.
+
+1169
+01:01:37,527 --> 01:01:38,695
+Goodness.
+
+1170
+01:01:38,778 --> 01:01:40,572
+-Hyun Kyung-lyul, ten.
+-Seriously?
+
+1171
+01:01:40,655 --> 01:01:41,489
+Well done.
+
+1172
+01:01:41,573 --> 01:01:43,491
+-Kyung-lyul was bluffing?
+-John Park, 12.
+
+1173
+01:01:44,117 --> 01:01:45,285
+That was just a bluff?
+
+1174
+01:01:45,368 --> 01:01:46,453
+That was impressive.
+
+1175
+01:01:46,536 --> 01:01:48,371
+-Thank you.
+-You're evenly matched now.
+
+1176
+01:01:48,455 --> 01:01:50,749
+<i>Hyun Kyung-lyul will be going to prison.</i>
+
+1177
+01:01:51,374 --> 01:01:54,836
+<i>Hyun Kyung-lyul,</i>
+<i>please make your way to prison.</i>
+
+1178
+01:01:58,423 --> 01:02:00,258
+Round 11 will now begin.
+
+1179
+01:02:00,759 --> 01:02:02,928
+Starting this round,
+the base bet is two chips each.
+
+1180
+01:02:03,011 --> 01:02:04,679
+-Man, you're bleeding me dry.
+-Please place your base bets.
+
+1181
+01:02:04,763 --> 01:02:06,556
+I can't catch a break, can I?
+
+1182
+01:02:06,640 --> 01:02:07,974
+I will now roll for the limit number.
+
+1183
+01:02:09,476 --> 01:02:10,352
+Ten.
+
+1184
+01:02:10,435 --> 01:02:11,728
+I will now deal the cards.
+
+1185
+01:02:14,397 --> 01:02:16,107
+Please submit one card face down.
+
+1186
+01:02:18,109 --> 01:02:19,527
+Please reveal your cards.
+
+1187
+01:02:25,325 --> 01:02:26,952
+We will now begin
+the first round of betting.
+
+1188
+01:02:27,035 --> 01:02:28,036
+John Park.
+
+1189
+01:02:29,704 --> 01:02:30,997
+John Park has bet one chip.
+
+1190
+01:02:31,081 --> 01:02:32,374
+JAE JAE.
+
+1191
+01:02:32,457 --> 01:02:33,833
+-Call.
+-Call.
+
+1192
+01:02:33,917 --> 01:02:34,834
+Jang Dong-min.
+
+1193
+01:02:35,669 --> 01:02:36,962
+-I'll fold.
+-Jang Dong-min has folded.
+
+1194
+01:02:37,045 --> 01:02:38,505
+We will now proceed with hit or stay.
+
+1195
+01:02:38,588 --> 01:02:40,131
+John Park, hit or stay?
+
+1196
+01:02:40,215 --> 01:02:41,383
+-I'll hit.
+-Hit.
+
+1197
+01:02:43,843 --> 01:02:45,261
+JAE JAE, hit or stay?
+
+1198
+01:02:45,345 --> 01:02:46,304
+-I'll hit.
+-Hit.
+
+1199
+01:02:48,556 --> 01:02:49,641
+John Park.
+
+1200
+01:02:49,724 --> 01:02:50,850
+-Hit.
+-Hit.
+
+1201
+01:02:53,561 --> 01:02:54,604
+JAE JAE.
+
+1202
+01:02:54,688 --> 01:02:56,189
+-I'll hit.
+-Hit.
+
+1203
+01:02:58,692 --> 01:02:59,567
+John Park.
+
+1204
+01:02:59,651 --> 01:03:00,860
+-I'll hit.
+-Hit.
+
+1205
+01:03:02,821 --> 01:03:03,655
+JAE JAE.
+
+1206
+01:03:04,698 --> 01:03:06,116
+-I'll hit.
+-Hit.
+
+1207
+01:03:08,660 --> 01:03:09,494
+John Park.
+
+1208
+01:03:09,577 --> 01:03:10,620
+-I'll hit.
+-Hit.
+
+1209
+01:03:15,417 --> 01:03:17,127
+JAE JAE, hit or stay?
+
+1210
+01:03:24,676 --> 01:03:26,219
+-I'll stay.
+-Stay.
+
+1211
+01:03:26,303 --> 01:03:28,096
+-John Park.
+-Give me a second.
+
+1212
+01:03:34,269 --> 01:03:35,395
+-I'll hit.
+-Hit.
+
+1213
+01:03:38,064 --> 01:03:40,066
+-John Park, hit or stay?
+-I'll hit.
+
+1214
+01:03:40,150 --> 01:03:42,819
+<i>I was waiting for the -1 cards</i>
+<i>the whole time.</i>
+
+1215
+01:03:46,948 --> 01:03:48,033
+-I'll stay.
+-Stay.
+
+1216
+01:03:48,116 --> 01:03:49,951
+We will now begin
+the second round of betting.
+
+1217
+01:03:50,035 --> 01:03:51,786
+-John Park.
+-I'll fold.
+
+1218
+01:03:51,870 --> 01:03:52,871
+John Park has folded.
+
+1219
+01:03:53,496 --> 01:03:55,165
+JAE JAE wins the pot.
+
+1220
+01:03:55,248 --> 01:03:56,291
+Ten, right?
+
+1221
+01:03:56,374 --> 01:03:57,876
+You will receive eight chips.
+
+1222
+01:03:58,460 --> 01:04:00,003
+Just scraping by.
+
+1223
+01:04:00,587 --> 01:04:02,172
+I will now roll for the limit number.
+
+1224
+01:04:04,049 --> 01:04:05,008
+Eight.
+
+1225
+01:04:05,592 --> 01:04:07,302
+Please submit one card face down.
+
+1226
+01:04:09,929 --> 01:04:11,431
+Please reveal your cards.
+
+1227
+01:04:14,601 --> 01:04:16,311
+We will now begin
+the first round of betting.
+
+1228
+01:04:16,394 --> 01:04:17,228
+JAE JAE.
+
+1229
+01:04:18,021 --> 01:04:20,231
+-I'll fold.
+-JAE JAE has folded.
+
+1230
+01:04:20,315 --> 01:04:21,608
+Jang Dong-min.
+
+1231
+01:04:25,987 --> 01:04:27,906
+-I'll bet ten.
+-Jang Dong-min has bet ten chips.
+
+1232
+01:04:27,989 --> 01:04:29,032
+John Park.
+
+1233
+01:04:29,657 --> 01:04:31,868
+<i>I figured betting that big upfront</i>
+
+1234
+01:04:31,951 --> 01:04:34,162
+<i>meant he probably already had a made hand.</i>
+
+1235
+01:04:34,913 --> 01:04:36,956
+-I'll fold.
+-John Park has folded.
+
+1236
+01:04:37,040 --> 01:04:38,875
+Jang Dong-min wins the pot.
+
+1237
+01:04:39,959 --> 01:04:41,753
+You will receive 16 chips.
+
+1238
+01:04:42,253 --> 01:04:44,172
+I will now roll for the limit number.
+
+1239
+01:04:45,423 --> 01:04:46,299
+Five.
+
+1240
+01:04:46,966 --> 01:04:48,802
+We will now begin
+the first round of betting.
+
+1241
+01:04:48,885 --> 01:04:50,053
+Jang Dong-min.
+
+1242
+01:04:50,136 --> 01:04:50,970
+One chip.
+
+1243
+01:04:51,054 --> 01:04:52,472
+John Park.
+
+1244
+01:04:52,555 --> 01:04:54,557
+John Park has folded. JAE JAE.
+
+1245
+01:04:54,641 --> 01:04:56,643
+JAE JAE has folded.
+All players have folded.
+
+1246
+01:04:57,227 --> 01:04:58,686
+-Down on my luck.
+-Jang Dong-min wins the pot.
+
+1247
+01:04:59,187 --> 01:05:00,980
+I will now roll for the limit number.
+
+1248
+01:05:02,107 --> 01:05:02,941
+Twelve.
+
+1249
+01:05:03,024 --> 01:05:04,067
+John Park.
+
+1250
+01:05:04,859 --> 01:05:05,777
+John Park has folded.
+
+1251
+01:05:05,860 --> 01:05:06,903
+JAE JAE.
+
+1252
+01:05:08,071 --> 01:05:09,280
+-No luck at all.
+-JAE JAE has folded.
+
+1253
+01:05:09,364 --> 01:05:11,116
+Jang Dong-min wins the pot.
+
+1254
+01:05:11,741 --> 01:05:14,035
+-This won't do.
+-What'd you get?
+
+1255
+01:05:14,994 --> 01:05:16,788
+-The first player is JAE JAE.
+-Look at you raking it in.
+
+1256
+01:05:16,871 --> 01:05:18,123
+I appreciate it.
+
+1257
+01:05:18,748 --> 01:05:20,583
+Round 15 will now begin.
+
+1258
+01:05:21,334 --> 01:05:22,544
+Please place your base bets.
+
+1259
+01:05:24,129 --> 01:05:26,464
+These base bets are killing me.
+
+1260
+01:05:27,173 --> 01:05:30,510
+-I have to jump in next time.
+-I will now roll for the limit number.
+
+1261
+01:05:31,594 --> 01:05:32,637
+-Twelve.
+-Man, twelve.
+
+1262
+01:05:32,720 --> 01:05:34,055
+Please reveal your cards.
+
+1263
+01:05:36,683 --> 01:05:38,560
+We will now begin
+the first round of betting.
+
+1264
+01:05:38,643 --> 01:05:40,186
+JAE JAE, please place your bet.
+
+1265
+01:05:47,694 --> 01:05:49,070
+JAE JAE has bet five chips.
+
+1266
+01:05:49,154 --> 01:05:51,239
+Jang Dong-min, please place your bet.
+
+1267
+01:05:53,616 --> 01:05:54,576
+How many do you have left?
+
+1268
+01:05:54,659 --> 01:05:56,035
+Eight.
+
+1269
+01:05:58,371 --> 01:05:59,581
+I'll bet 13.
+
+1270
+01:06:04,127 --> 01:06:05,920
+Jang Dong-min has bet 13 chips total.
+
+1271
+01:06:06,004 --> 01:06:06,838
+John Park.
+
+1272
+01:06:09,924 --> 01:06:10,884
+John Park has folded.
+
+1273
+01:06:10,967 --> 01:06:11,843
+JAE JAE.
+
+1274
+01:06:12,427 --> 01:06:13,845
+I guess this is my last round.
+
+1275
+01:06:13,928 --> 01:06:15,597
+-All in.
+-Good luck!
+
+1276
+01:06:15,680 --> 01:06:16,723
+Let's do this.
+
+1277
+01:06:17,682 --> 01:06:19,309
+We will now proceed with hit or stay.
+
+1278
+01:06:20,435 --> 01:06:21,311
+JAE JAE.
+
+1279
+01:06:25,648 --> 01:06:27,025
+-I'll hit.
+-Hit.
+
+1280
+01:06:30,653 --> 01:06:32,530
+Jang Dong-min, hit or stay?
+
+1281
+01:06:45,877 --> 01:06:47,504
+-I'll stay.
+-Stay.
+
+1282
+01:06:47,587 --> 01:06:49,297
+JAE JAE, hit or stay?
+
+1283
+01:06:54,344 --> 01:06:55,803
+-I'll hit.
+-Hit.
+
+1284
+01:07:00,183 --> 01:07:01,809
+JAE JAE, hit or stay?
+
+1285
+01:07:02,769 --> 01:07:04,437
+-I'll hit.
+-Hit.
+
+1286
+01:07:08,233 --> 01:07:09,234
+Hit or stay?
+
+1287
+01:07:13,571 --> 01:07:15,365
+-I'll stay.
+-Stay.
+
+1288
+01:07:16,491 --> 01:07:18,326
+-JAE JAE, please reveal your cards.
+-Darn it.
+
+1289
+01:07:18,409 --> 01:07:20,161
+-It's over.
+-Dang.
+
+1290
+01:07:21,579 --> 01:07:22,914
+I should've chosen to stay.
+
+1291
+01:07:22,997 --> 01:07:24,249
+-You started high.
+-Yeah.
+
+1292
+01:07:24,332 --> 01:07:26,000
+I was hoping for a one card.
+
+1293
+01:07:30,463 --> 01:07:31,589
+Wow, exactly 12.
+
+1294
+01:07:31,673 --> 01:07:33,216
+Jang Dong-min, 12.
+
+1295
+01:07:33,299 --> 01:07:34,968
+I would've lost if I stayed at 11 anyway.
+
+1296
+01:07:35,051 --> 01:07:36,886
+-You did your best.
+-JAE JAE, 24.
+
+1297
+01:07:37,470 --> 01:07:38,805
+Jang Dong-min, 12.
+
+1298
+01:07:38,888 --> 01:07:40,265
+Thank you. I'll be off.
+
+1299
+01:07:40,348 --> 01:07:43,059
+Jang Dong-min wins the pot.
+You will receive 32 chips.
+
+1300
+01:07:43,142 --> 01:07:46,646
+<i>JAE JAE, please make your way to prison.</i>
+
+1301
+01:07:46,729 --> 01:07:48,189
+-See you later.
+-Okay.
+
+1302
+01:07:48,273 --> 01:07:49,232
+-Good job today.
+-Thank you.
+
+1303
+01:07:49,315 --> 01:07:50,191
+Good work.
+
+1304
+01:07:50,775 --> 01:07:52,485
+At least I got to the top three.
+
+1305
+01:07:56,489 --> 01:07:58,324
+It's just the two of us now.
+
+1306
+01:07:58,408 --> 01:07:59,576
+It's an honor.
+
+1307
+01:07:59,659 --> 01:08:00,910
+The honor's all mine.
+
+1308
+01:08:00,994 --> 01:08:03,246
+I'm facing the hero of prison.
+
+1309
+01:08:05,331 --> 01:08:07,750
+Look at me,
+facing the final boss of <i>The Devil's Plan.</i>
+
+1310
+01:08:07,834 --> 01:08:09,377
+-Let's have a good game.
+-Sure.
+
+1311
+01:08:09,460 --> 01:08:11,129
+-Let's have fun.
+-Okay.
+
+1312
+01:08:11,212 --> 01:08:13,881
+I've always enjoyed playing poker.
+
+1313
+01:08:14,382 --> 01:08:17,844
+<i>Now, it's one-on-one with Dong-min.</i>
+
+1314
+01:08:17,927 --> 01:08:20,388
+<i>That alone is very exciting for me.</i>
+
+1315
+01:08:20,471 --> 01:08:23,182
+<i>And as the representative of the prison</i>
+
+1316
+01:08:23,266 --> 01:08:25,727
+<i>going up against the boss</i>
+<i>of the living area,</i>
+
+1317
+01:08:25,810 --> 01:08:29,314
+I'll do my best to put on a good show.
+
+1318
+01:08:29,397 --> 01:08:31,316
+Round 16 will now begin.
+
+1319
+01:08:31,399 --> 01:08:33,443
+The first player is Jang Dong-min.
+
+1320
+01:08:33,526 --> 01:08:37,655
+<i>Going first is a big disadvantage</i>
+<i>when there are only two players left.</i>
+
+1321
+01:08:37,739 --> 01:08:40,241
+<i>I plan to be cautious</i>
+
+1322
+01:08:40,325 --> 01:08:42,785
+<i>when I'm the first player.</i>
+
+1323
+01:08:42,869 --> 01:08:45,079
+<i>And when I'm the second player,</i>
+
+1324
+01:08:45,163 --> 01:08:47,206
+if I feel like I have the upper hand,
+
+1325
+01:08:47,290 --> 01:08:52,962
+I need to bet just enough to lure John in
+so that he'll increase the pot.
+
+1326
+01:08:53,046 --> 01:08:54,672
+I will now roll for the limit number.
+
+1327
+01:08:56,257 --> 01:08:57,091
+Five.
+
+1328
+01:08:59,802 --> 01:09:00,928
+I will now deal the cards.
+
+1329
+01:09:06,267 --> 01:09:07,769
+Please submit one card face down.
+
+1330
+01:09:08,478 --> 01:09:09,729
+Please reveal your cards.
+
+1331
+01:09:11,689 --> 01:09:13,149
+We will now begin
+the first round of betting.
+
+1332
+01:09:13,232 --> 01:09:14,275
+Jang Dong-min.
+
+1333
+01:09:15,902 --> 01:09:16,778
+Two chips.
+
+1334
+01:09:16,861 --> 01:09:17,862
+John Park.
+
+1335
+01:09:28,706 --> 01:09:30,208
+-I'll fold.
+-John Park has folded.
+
+1336
+01:09:30,291 --> 01:09:31,667
+Jang Dong-min wins the pot.
+
+1337
+01:09:33,544 --> 01:09:35,380
+We will move on to the next round.
+
+1338
+01:09:35,880 --> 01:09:37,465
+I will now roll for the limit number.
+
+1339
+01:09:38,716 --> 01:09:39,550
+Ten.
+
+1340
+01:09:42,095 --> 01:09:43,596
+Please submit one card face down.
+
+1341
+01:09:45,014 --> 01:09:46,349
+Please reveal your cards.
+
+1342
+01:09:48,726 --> 01:09:50,228
+We will now begin
+the first round of betting.
+
+1343
+01:09:50,311 --> 01:09:52,063
+John Park, please place your bet.
+
+1344
+01:09:55,358 --> 01:09:56,234
+Four chips.
+
+1345
+01:09:56,317 --> 01:09:57,527
+Jang Dong-min.
+
+1346
+01:10:06,077 --> 01:10:06,911
+Call.
+
+1347
+01:10:08,079 --> 01:10:09,288
+We will now proceed with hit or stay.
+
+1348
+01:10:09,372 --> 01:10:11,207
+John Park, hit or stay?
+
+1349
+01:10:11,874 --> 01:10:13,501
+-I'll hit.
+-Hit.
+
+1350
+01:10:16,295 --> 01:10:18,965
+-Jang Dong-min, hit or stay?
+-I'll hit.
+
+1351
+01:10:21,968 --> 01:10:23,720
+-John Park.
+-I'll hit.
+
+1352
+01:10:26,848 --> 01:10:28,683
+Jang Dong-min, hit or stay?
+
+1353
+01:10:34,897 --> 01:10:36,315
+-I'll hit.
+-Hit.
+
+1354
+01:10:39,152 --> 01:10:40,903
+John Park, hit or stay?
+
+1355
+01:10:52,707 --> 01:10:54,876
+-I'll stay.
+-Stay.
+
+1356
+01:10:54,959 --> 01:10:55,918
+Jang Dong-min.
+
+1357
+01:10:59,589 --> 01:11:01,048
+-I'll hit.
+-Hit.
+
+1358
+01:11:03,176 --> 01:11:04,969
+-I'll hit.
+-Hit.
+
+1359
+01:11:07,805 --> 01:11:09,390
+Hit or stay?
+
+1360
+01:11:09,474 --> 01:11:11,225
+-I'll stay.
+-Stay.
+
+1361
+01:11:12,226 --> 01:11:13,936
+We will now begin
+the second round of betting.
+
+1362
+01:11:14,020 --> 01:11:15,480
+John Park, please place your bet.
+
+1363
+01:11:20,693 --> 01:11:21,694
+Six chips.
+
+1364
+01:11:21,778 --> 01:11:22,737
+Jang Dong-min.
+
+1365
+01:11:23,362 --> 01:11:24,781
+-I'll fold.
+-Jang Dong-min has folded.
+
+1366
+01:11:24,864 --> 01:11:26,491
+John Park wins the pot.
+
+1367
+01:11:28,951 --> 01:11:30,453
+I will now roll for the limit number.
+
+1368
+01:11:32,038 --> 01:11:33,331
+Nine.
+
+1369
+01:11:33,414 --> 01:11:35,249
+Please submit one card face down.
+
+1370
+01:11:38,628 --> 01:11:39,879
+Please reveal your cards.
+
+1371
+01:11:42,965 --> 01:11:44,509
+We will now begin
+the first round of betting.
+
+1372
+01:11:45,009 --> 01:11:46,719
+Jang Dong-min, please place your bet.
+
+1373
+01:11:54,685 --> 01:11:56,312
+Jang Dong-min has bet six chips.
+
+1374
+01:11:56,395 --> 01:11:57,605
+John Park.
+
+1375
+01:11:58,981 --> 01:12:00,024
+I'll fold.
+
+1376
+01:12:00,107 --> 01:12:02,151
+John Park has folded.
+Jang Dong-min wins the pot.
+
+1377
+01:12:05,321 --> 01:12:06,989
+I will now roll for the limit number.
+
+1378
+01:12:07,490 --> 01:12:08,324
+Eight.
+
+1379
+01:12:08,950 --> 01:12:10,159
+I will now deal the cards.
+
+1380
+01:12:18,501 --> 01:12:19,669
+Please reveal your cards.
+
+1381
+01:12:22,672 --> 01:12:24,173
+We will now begin
+the first round of betting.
+
+1382
+01:12:24,257 --> 01:12:25,091
+John Park.
+
+1383
+01:12:35,601 --> 01:12:36,727
+Five chips.
+
+1384
+01:12:36,811 --> 01:12:37,895
+Jang Dong-min.
+
+1385
+01:12:45,319 --> 01:12:46,153
+Call.
+
+1386
+01:12:46,863 --> 01:12:48,531
+We will now proceed with hit or stay.
+
+1387
+01:12:48,614 --> 01:12:50,241
+John Park, hit or stay?
+
+1388
+01:12:52,034 --> 01:12:53,411
+-I'll stay.
+-Stay.
+
+1389
+01:12:53,494 --> 01:12:55,454
+Jang Dong-min, hit or stay?
+
+1390
+01:13:05,715 --> 01:13:07,049
+-Hit.
+-Hit.
+
+1391
+01:13:09,802 --> 01:13:10,845
+Hit or stay?
+
+1392
+01:13:14,599 --> 01:13:16,100
+-Stay.
+-Stay.
+
+1393
+01:13:16,601 --> 01:13:18,227
+We will now begin
+the second round of betting.
+
+1394
+01:13:18,311 --> 01:13:19,687
+John Park, please place your bet.
+
+1395
+01:13:24,025 --> 01:13:25,192
+One chip.
+
+1396
+01:13:25,276 --> 01:13:26,444
+Jang Dong-min.
+
+1397
+01:13:31,782 --> 01:13:34,535
+Five chips.
+Jang Dong-min has raised by four.
+
+1398
+01:13:34,619 --> 01:13:35,620
+John Park.
+
+1399
+01:13:35,703 --> 01:13:38,623
+<i>If you choose to stay when dealt a two,</i>
+
+1400
+01:13:38,706 --> 01:13:41,125
+<i>it means your hand is very strong.</i>
+
+1401
+01:13:41,208 --> 01:13:44,170
+<i>If it's 9,</i>
+<i>you'd hit one more time to go for a -1.</i>
+
+1402
+01:13:44,253 --> 01:13:46,255
+So there's no way you'd choose to stay.
+
+1403
+01:13:46,339 --> 01:13:49,884
+But if you get a two and choose to stay,
+
+1404
+01:13:49,967 --> 01:13:54,430
+<i>you're saying you're at eight or seven.</i>
+
+1405
+01:13:54,513 --> 01:13:56,766
+<i>At that point, I was holding seven,</i>
+
+1406
+01:13:56,849 --> 01:13:59,268
+<i>and Dong-min had more cards than me.</i>
+
+1407
+01:14:01,354 --> 01:14:02,480
+I'll fold.
+
+1408
+01:14:02,563 --> 01:14:03,522
+John Park has folded.
+
+1409
+01:14:04,106 --> 01:14:05,983
+Jang Dong-min wins the pot.
+
+1410
+01:14:06,067 --> 01:14:07,276
+You will receive 20 chips.
+
+1411
+01:14:12,907 --> 01:14:14,659
+I will now roll for the limit number.
+
+1412
+01:14:16,077 --> 01:14:17,119
+Nine.
+
+1413
+01:14:17,203 --> 01:14:18,579
+Please submit one card face down.
+
+1414
+01:14:22,124 --> 01:14:23,584
+We will now begin
+the first round of betting.
+
+1415
+01:14:23,668 --> 01:14:25,670
+Jang Dong-min, please place your bet.
+
+1416
+01:14:27,129 --> 01:14:28,255
+Jang Dong-min has folded.
+
+1417
+01:14:28,339 --> 01:14:29,632
+John Park wins the pot.
+
+1418
+01:14:30,132 --> 01:14:31,801
+Round 21 will now begin.
+
+1419
+01:14:31,884 --> 01:14:33,844
+Please submit three chips each
+as the base bet.
+
+1420
+01:14:35,596 --> 01:14:36,639
+All right.
+
+1421
+01:14:36,722 --> 01:14:41,894
+With the base bet at three,
+I knew dragging it out wasn't in my favor.
+
+1422
+01:14:41,978 --> 01:14:45,064
+<i>But the situation</i>
+<i>could flip at any moment,</i>
+
+1423
+01:14:45,147 --> 01:14:47,983
+<i>since the base bet was growing.</i>
+
+1424
+01:14:48,067 --> 01:14:49,735
+I will now roll for the limit number.
+
+1425
+01:14:51,153 --> 01:14:52,113
+Twelve.
+
+1426
+01:14:52,947 --> 01:14:54,115
+I will now deal the cards.
+
+1427
+01:14:54,907 --> 01:14:56,951
+Please submit one card face down.
+
+1428
+01:14:57,034 --> 01:14:58,327
+Twelve…
+
+1429
+01:15:06,502 --> 01:15:07,670
+Please reveal your cards.
+
+1430
+01:15:10,715 --> 01:15:12,216
+We will now begin
+the first round of betting.
+
+1431
+01:15:12,800 --> 01:15:13,801
+Jang Dong-min.
+
+1432
+01:15:16,429 --> 01:15:18,097
+One chip. John Park.
+
+1433
+01:15:26,564 --> 01:15:28,315
+I'll raise it by nine.
+
+1434
+01:15:28,816 --> 01:15:31,277
+John Park has raised by nine
+on top of one.
+
+1435
+01:15:31,360 --> 01:15:32,194
+Jang Dong-min.
+
+1436
+01:15:50,046 --> 01:15:50,880
+Call.
+
+1437
+01:15:52,214 --> 01:15:53,591
+We will now proceed with hit or stay.
+
+1438
+01:15:53,674 --> 01:15:55,676
+Jang Dong-min, hit or stay?
+
+1439
+01:15:56,385 --> 01:15:57,720
+-I'll hit.
+-Hit.
+
+1440
+01:16:11,734 --> 01:16:13,027
+John Park, hit or stay?
+
+1441
+01:16:13,110 --> 01:16:14,028
+-I'll hit.
+-Hit.
+
+1442
+01:16:17,114 --> 01:16:18,741
+Jang Dong-min, hit or stay?
+
+1443
+01:16:24,497 --> 01:16:25,998
+-I'll hit.
+-Hit.
+
+1444
+01:16:29,168 --> 01:16:30,836
+John Park, hit or stay?
+
+1445
+01:16:30,920 --> 01:16:32,463
+-I'll hit.
+-Hit.
+
+1446
+01:16:34,507 --> 01:16:35,466
+Jang Dong-min.
+
+1447
+01:16:36,050 --> 01:16:37,426
+-I'll hit.
+-Hit.
+
+1448
+01:16:40,054 --> 01:16:41,680
+John Park, hit or stay?
+
+1449
+01:16:46,936 --> 01:16:48,312
+-I'll stay.
+-Stay.
+
+1450
+01:16:49,021 --> 01:16:50,856
+Jang Dong-min, hit or stay?
+
+1451
+01:16:52,733 --> 01:16:54,068
+-Hit.
+-Hit.
+
+1452
+01:16:58,656 --> 01:16:59,824
+Jang Dong-min, hit or stay?
+
+1453
+01:16:59,907 --> 01:17:01,117
+-Hit.
+-Hit.
+
+1454
+01:17:04,245 --> 01:17:05,412
+Hit or stay?
+
+1455
+01:17:11,544 --> 01:17:12,753
+-Hit.
+-Hit.
+
+1456
+01:17:15,297 --> 01:17:16,298
+Hit or stay?
+
+1457
+01:17:16,382 --> 01:17:17,800
+-Stay.
+-Stay.
+
+1458
+01:17:17,883 --> 01:17:19,885
+We will now begin
+the second round of betting.
+
+1459
+01:17:19,969 --> 01:17:21,762
+Jang Dong-min, please place your bet.
+
+1460
+01:17:25,182 --> 01:17:26,225
+Six chips.
+
+1461
+01:17:27,643 --> 01:17:30,271
+John Park, please place your bet.
+
+1462
+01:17:32,356 --> 01:17:35,776
+<i>The cards on the table reveal</i>
+<i>your opponent's mindset completely.</i>
+
+1463
+01:17:35,860 --> 01:17:38,696
+<i>You can tell exactly what numbers</i>
+<i>they're holding at that moment.</i>
+
+1464
+01:17:38,779 --> 01:17:39,905
+Dong-min…
+
+1465
+01:17:39,989 --> 01:17:41,574
+-I'll hit.
+-Hit.
+
+1466
+01:17:42,533 --> 01:17:44,535
+<i>It was a seven.</i>
+
+1467
+01:17:44,618 --> 01:17:46,871
+I saw the look on his face
+
+1468
+01:17:46,954 --> 01:17:49,498
+the moment he was dealt that seven.
+
+1469
+01:17:53,586 --> 01:17:57,089
+His expression changed,
+just ever so slightly.
+
+1470
+01:18:00,259 --> 01:18:01,260
+<i>It was a faint cringe.</i>
+
+1471
+01:18:04,138 --> 01:18:05,055
+Six?
+
+1472
+01:18:05,556 --> 01:18:08,684
+Well, I have to go for it.
+
+1473
+01:18:08,767 --> 01:18:09,810
+I'll call.
+
+1474
+01:18:09,894 --> 01:18:10,728
+Call.
+
+1475
+01:18:12,563 --> 01:18:14,648
+John Park, please reveal your cards.
+
+1476
+01:18:20,821 --> 01:18:21,989
+Eleven.
+
+1477
+01:18:22,489 --> 01:18:25,117
+Jang Dong-min, please reveal your cards.
+
+1478
+01:18:31,916 --> 01:18:34,001
+No way.
+
+1479
+01:18:39,006 --> 01:18:39,840
+Both at eleven.
+
+1480
+01:18:39,924 --> 01:18:42,301
+Jang Dong-min wins the pot
+with more cards.
+
+1481
+01:18:42,384 --> 01:18:44,220
+You will receive 38 chips.
+
+1482
+01:18:50,392 --> 01:18:52,978
+Here's the thing about Americans.
+
+1483
+01:18:53,062 --> 01:18:56,607
+<i>Even if you're avoiding eye contact</i>
+<i>before betting, they'll be watching you.</i>
+
+1484
+01:18:56,690 --> 01:19:00,110
+<i>They just keep staring,</i>
+<i>hoping to read your expression.</i>
+
+1485
+01:19:00,194 --> 01:19:03,113
+<i>And that's the perfect opportunity</i>
+
+1486
+01:19:03,197 --> 01:19:04,114
+to deceive them.
+
+1487
+01:19:04,615 --> 01:19:07,368
+You should stop looking at my face
+while you play.
+
+1488
+01:19:08,661 --> 01:19:09,787
+It just makes it more confusing.
+
+1489
+01:19:10,371 --> 01:19:11,664
+You're one scary man.
+
+1490
+01:19:11,747 --> 01:19:13,165
+You're so scary.
+
+1491
+01:19:13,249 --> 01:19:15,125
+I will now roll for the limit number.
+
+1492
+01:19:16,210 --> 01:19:17,044
+Seven.
+
+1493
+01:19:17,127 --> 01:19:19,296
+-Please submit one card face down.
+-Seven.
+
+1494
+01:19:23,133 --> 01:19:24,510
+Please reveal your cards.
+
+1495
+01:19:27,054 --> 01:19:28,722
+We will now begin
+the first round of betting.
+
+1496
+01:19:28,806 --> 01:19:29,640
+John Park.
+
+1497
+01:19:31,141 --> 01:19:32,643
+One chip. Jang Dong-min.
+
+1498
+01:19:33,519 --> 01:19:35,145
+-I'll fold.
+-Jang Dong-min has folded.
+
+1499
+01:19:35,229 --> 01:19:36,522
+John Park wins the pot.
+
+1500
+01:19:38,023 --> 01:19:39,775
+I will now roll for the limit number.
+
+1501
+01:19:41,568 --> 01:19:42,403
+Nine.
+
+1502
+01:19:42,987 --> 01:19:44,071
+I will now deal the cards.
+
+1503
+01:19:44,822 --> 01:19:46,407
+Please submit one card face down.
+
+1504
+01:19:51,161 --> 01:19:52,246
+Please reveal your cards.
+
+1505
+01:19:58,002 --> 01:19:59,753
+We will now begin
+the first round of betting.
+
+1506
+01:19:59,837 --> 01:20:00,671
+Jang Dong-min.
+
+1507
+01:20:03,215 --> 01:20:04,758
+One chip. John Park.
+
+1508
+01:20:11,307 --> 01:20:14,018
+John Park has raised by nine,
+making the total ten.
+
+1509
+01:20:14,101 --> 01:20:15,185
+Jang Dong-min.
+
+1510
+01:20:23,902 --> 01:20:24,778
+Call.
+
+1511
+01:20:26,238 --> 01:20:27,823
+Jang Dong-min, hit or stay?
+
+1512
+01:20:28,449 --> 01:20:29,825
+-Hit.
+-Hit.
+
+1513
+01:20:34,038 --> 01:20:35,664
+John Park, hit or stay?
+
+1514
+01:20:37,082 --> 01:20:38,334
+-I'll hit.
+-Hit.
+
+1515
+01:20:42,379 --> 01:20:43,964
+Jang Dong-min, hit or stay?
+
+1516
+01:20:45,466 --> 01:20:46,842
+-Stay.
+-Stay.
+
+1517
+01:20:47,343 --> 01:20:49,636
+John Park, hit or stay?
+
+1518
+01:20:55,726 --> 01:20:57,269
+-I'll stay.
+-Stay.
+
+1519
+01:20:57,770 --> 01:20:59,104
+We will now begin
+the second round of betting.
+
+1520
+01:20:59,188 --> 01:21:00,898
+Jang Dong-min, please place your bet.
+
+1521
+01:21:02,983 --> 01:21:04,109
+One chip.
+
+1522
+01:21:04,193 --> 01:21:05,027
+John Park.
+
+1523
+01:21:14,411 --> 01:21:17,581
+John Park has raised by 14,
+making the total 15.
+
+1524
+01:21:17,664 --> 01:21:18,582
+Jang Dong-min.
+
+1525
+01:21:38,602 --> 01:21:39,561
+I'll fold.
+
+1526
+01:21:40,354 --> 01:21:41,730
+Jang Dong-min has folded.
+
+1527
+01:21:42,314 --> 01:21:44,191
+John Park wins the pot.
+
+1528
+01:21:44,274 --> 01:21:45,651
+You will receive 42 chips.
+
+1529
+01:21:46,652 --> 01:21:47,986
+We will move on to the next round.
+
+1530
+01:21:48,070 --> 01:21:49,530
+Please submit three chips each
+as the base bet.
+
+1531
+01:21:51,281 --> 01:21:53,325
+I will now roll for the limit number.
+
+1532
+01:21:54,952 --> 01:21:55,786
+Nine.
+
+1533
+01:21:55,869 --> 01:21:56,995
+I will now deal the cards.
+
+1534
+01:21:58,247 --> 01:22:00,416
+Please submit one card face down.
+
+1535
+01:22:04,169 --> 01:22:06,046
+The limit number was nine,
+
+1536
+01:22:06,130 --> 01:22:07,756
+and I started at eight.
+
+1537
+01:22:07,840 --> 01:22:09,758
+<i>It wasn't a bad start.</i>
+
+1538
+01:22:15,681 --> 01:22:16,765
+Please reveal your cards.
+
+1539
+01:22:22,104 --> 01:22:23,564
+We will now begin
+the first round of betting.
+
+1540
+01:22:23,647 --> 01:22:24,481
+John Park.
+
+1541
+01:22:24,565 --> 01:22:26,859
+<i>I'd been waiting for good cards</i>
+<i>when I was the first player</i>
+
+1542
+01:22:26,942 --> 01:22:30,779
+<i>so I could try a check-raise bluff.</i>
+
+1543
+01:22:30,863 --> 01:22:32,322
+One chip. Jang Dong-min.
+
+1544
+01:22:42,416 --> 01:22:44,585
+Jang Dong-min has raised by eight
+on top of one.
+
+1545
+01:22:44,668 --> 01:22:45,752
+John Park.
+
+1546
+01:22:46,587 --> 01:22:49,298
+Dong-min made a pretty aggressive raise.
+
+1547
+01:22:49,381 --> 01:22:52,801
+<i>This eight-chip raise was large enough</i>
+
+1548
+01:22:52,885 --> 01:22:57,681
+<i>that I thought it could be a semi-bluff</i>
+<i>to make me fold.</i>
+
+1549
+01:23:02,478 --> 01:23:03,604
+I see eight…
+
+1550
+01:23:10,694 --> 01:23:12,362
+and raise 12.
+
+1551
+01:23:12,446 --> 01:23:13,405
+Raise.
+
+1552
+01:23:14,907 --> 01:23:16,825
+John Park has raised by 12.
+
+1553
+01:23:16,909 --> 01:23:17,951
+Jang Dong-min.
+
+1554
+01:23:26,168 --> 01:23:27,002
+Call.
+
+1555
+01:23:29,713 --> 01:23:31,340
+John Park, hit or stay?
+
+1556
+01:23:40,182 --> 01:23:41,975
+-I'll stay.
+-Stay.
+
+1557
+01:23:42,059 --> 01:23:44,102
+Jang Dong-min, hit or stay?
+
+1558
+01:23:52,402 --> 01:23:53,820
+-Stay.
+-Stay.
+
+1559
+01:23:54,613 --> 01:23:56,281
+We will now begin
+the second round of betting.
+
+1560
+01:23:56,365 --> 01:23:57,783
+John Park, please place your bet.
+
+1561
+01:23:57,866 --> 01:24:02,537
+<i>There was a pretty good chance</i>
+<i>Dong-min had nine.</i>
+
+1562
+01:24:02,621 --> 01:24:06,250
+Even so, if I had checked there,
+
+1563
+01:24:06,333 --> 01:24:07,960
+it would've told him I didn't have nine.
+
+1564
+01:24:08,043 --> 01:24:10,254
+<i>If I had checked,</i>
+
+1565
+01:24:10,337 --> 01:24:13,632
+<i>Dong-min would've thought</i>
+<i>I could only be at eight.</i>
+
+1566
+01:24:13,715 --> 01:24:15,467
+<i>Whether Dong-min had nine or eight,</i>
+
+1567
+01:24:15,550 --> 01:24:18,387
+if he had gone all in,
+I wouldn't have been able to call.
+
+1568
+01:24:18,971 --> 01:24:22,182
+<i>So I had to bet first</i>
+<i>as if I actually had nine.</i>
+
+1569
+01:24:24,601 --> 01:24:25,936
+John Park has bet five.
+
+1570
+01:24:26,019 --> 01:24:26,853
+Jang Dong-min.
+
+1571
+01:24:39,533 --> 01:24:40,367
+John Park.
+
+1572
+01:24:46,415 --> 01:24:49,793
+<i>At this point, it was really a question</i>
+<i>of whether I'd give up these chips</i>
+
+1573
+01:24:49,876 --> 01:24:55,674
+or gamble on the assumption
+that Dong-min was at eight.
+
+1574
+01:24:56,717 --> 01:25:00,345
+Did I set a trap for myself?
+
+1575
+01:25:03,223 --> 01:25:05,517
+<i>With so many chips already in the pot,</i>
+
+1576
+01:25:05,601 --> 01:25:10,856
+<i>I thought that if I lost this hand,</i>
+<i>it'd be hard to come back from it.</i>
+
+1577
+01:25:10,939 --> 01:25:11,940
+<i>That's why…</i>
+
+1578
+01:25:17,112 --> 01:25:18,280
+John Park has gone all in.
+
+1579
+01:25:22,492 --> 01:25:24,453
+John Park, please reveal your cards.
+
+1580
+01:25:28,415 --> 01:25:29,666
+John Park, eight.
+
+1581
+01:25:30,709 --> 01:25:32,753
+Jang Dong-min, please reveal your cards.
+
+1582
+01:25:45,515 --> 01:25:46,808
+Jang Dong-min, nine.
+
+1583
+01:25:48,310 --> 01:25:50,187
+John Park, eight. Jang Dong-min, nine.
+
+1584
+01:25:50,270 --> 01:25:52,439
+-Jang Dong-min wins the pot.
+-Good game.
+
+1585
+01:25:53,315 --> 01:25:55,400
+-Well played.
+-You will receive 176 chips.
+
+1586
+01:25:55,984 --> 01:25:57,277
+<i>That concludes the game.</i>
+
+1587
+01:25:57,903 --> 01:26:00,906
+<i>Jang Dong-min will advance to the finals.</i>
+
+1588
+01:26:00,989 --> 01:26:03,241
+<i>Jang Dong-min,</i>
+<i>please make your way to the living area.</i>
+
+1589
+01:26:03,325 --> 01:26:05,535
+<i>John Park, please make your way to prison.</i>
+
+1590
+01:26:05,619 --> 01:26:07,245
+No!
+
+1591
+01:26:07,329 --> 01:26:09,623
+-You did so well.
+-That was fun.
+
+1592
+01:26:09,706 --> 01:26:10,540
+You were awesome.
+
+1593
+01:26:10,624 --> 01:26:12,334
+Let's go to Las Vegas sometime.
+
+1594
+01:26:13,794 --> 01:26:14,628
+Sure.
+
+1595
+01:26:16,963 --> 01:26:18,048
+-Good luck.
+-See you tomorrow.
+
+1596
+01:26:22,219 --> 01:26:23,261
+Thank you.
+
+1597
+01:26:24,888 --> 01:26:26,431
+Here's to another good game tomorrow.
+
+1598
+01:26:41,321 --> 01:26:42,739
+I'm all alone today.
+
+1599
+01:26:46,702 --> 01:26:47,994
+Oh man.
+
+1600
+01:26:48,620 --> 01:26:50,872
+John ends up in the prison match again,
+
+1601
+01:26:50,956 --> 01:26:53,625
+right to the very last day.
+
+1602
+01:26:54,710 --> 01:26:57,254
+Man, that Jang Dong-min.
+
+1603
+01:26:57,337 --> 01:26:59,297
+He's quite a formidable opponent.
+
+1604
+01:26:59,381 --> 01:27:00,799
+He never came down once.
+
+1605
+01:27:00,882 --> 01:27:01,717
+I know, right?
+
+1606
+01:27:01,800 --> 01:27:03,927
+-He's taken first place six times.
+-Yeah.
+
+1607
+01:27:04,803 --> 01:27:06,263
+That's an amazing record in itself.
+
+1608
+01:27:06,847 --> 01:27:08,348
+It feels empty now.
+
+1609
+01:27:10,100 --> 01:27:13,645
+When we first arrived,
+there were seven of us.
+
+1610
+01:27:13,729 --> 01:27:16,440
+<i>It was so lively and noisy back then.</i>
+
+1611
+01:27:17,441 --> 01:27:19,735
+<i>There's a real sense of emptiness,</i>
+
+1612
+01:27:19,818 --> 01:27:21,987
+<i>and honestly,</i>
+<i>I'm feeling a mix of emotions.</i>
+
+1613
+01:27:22,487 --> 01:27:25,240
+We can finally see the light
+at the end of the tunnel now.
+
+1614
+01:27:25,866 --> 01:27:27,075
+I can't believe it.
+
+1615
+01:27:27,826 --> 01:27:28,952
+-JAE JAE.
+-Yes?
+
+1616
+01:27:29,035 --> 01:27:32,122
+-Did you think you'd make it this far?
+-No.
+
+1617
+01:27:32,205 --> 01:27:33,331
+-Not at all.
+-No?
+
+1618
+01:27:33,415 --> 01:27:38,170
+But you must've known
+you had this in you, right?
+
+1619
+01:27:38,253 --> 01:27:39,421
+You're too good.
+
+1620
+01:27:39,504 --> 01:27:41,131
+I had no idea.
+
+1621
+01:27:41,214 --> 01:27:42,966
+-Really? You found out here?
+-Yes.
+
+1622
+01:27:43,467 --> 01:27:44,926
+-A new discovery?
+-Yes.
+
+1623
+01:27:45,010 --> 01:27:45,844
+I see.
+
+1624
+01:27:45,927 --> 01:27:49,097
+I'd been selling myself short
+all this time.
+
+1625
+01:27:49,181 --> 01:27:52,392
+<i>I have what it takes,</i>
+
+1626
+01:27:52,476 --> 01:27:54,144
+<i>but I thought so little of myself.</i>
+
+1627
+01:27:54,227 --> 01:27:57,481
+<i>I mean, who'd fault me for being here</i>
+<i>when I put in the work?</i>
+
+1628
+01:27:57,564 --> 01:27:59,065
+I made it this far.
+
+1629
+01:27:59,149 --> 01:28:01,651
+There should be
+at least one exile zone rep.
+
+1630
+01:28:01,735 --> 01:28:03,945
+Did you know you were this good, John?
+
+1631
+01:28:04,029 --> 01:28:06,740
+Well, not so much that I'm good at it,
+
+1632
+01:28:06,823 --> 01:28:09,451
+but more so that I enjoy
+this sort of stuff.
+
+1633
+01:28:09,534 --> 01:28:12,537
+Kyung-lyul, you made it
+to the living area quite a few times.
+
+1634
+01:28:12,621 --> 01:28:13,830
+You must be pretty satisfied.
+
+1635
+01:28:13,914 --> 01:28:15,248
+I will be if I win.
+
+1636
+01:28:17,167 --> 01:28:19,127
+I can't be satisfied
+with just a top-four finish.
+
+1637
+01:28:19,211 --> 01:28:21,379
+<i>I was in the top rankings on day one.</i>
+
+1638
+01:28:21,463 --> 01:28:25,258
+<i>On day two, I was sitting right below</i>
+<i>Dong-min's alliance of four people.</i>
+
+1639
+01:28:25,342 --> 01:28:29,012
+<i>On days four and five, I came in second</i>
+<i>and made it to the living area.</i>
+
+1640
+01:28:29,095 --> 01:28:31,556
+Aside from Dong-min,
+who has won all main matches so far,
+
+1641
+01:28:31,640 --> 01:28:34,267
+I've consistently held
+the highest rankings.
+
+1642
+01:28:34,351 --> 01:28:35,560
+Everyone would agree on that.
+
+1643
+01:28:35,644 --> 01:28:39,856
+I wanna give it my all today
+and get my rematch with Dong-min.
+
+1644
+01:28:39,940 --> 01:28:42,609
+When it comes to prison matches, John is…
+
+1645
+01:28:42,692 --> 01:28:43,818
+The GOAT of prison.
+
+1646
+01:28:43,902 --> 01:28:45,737
+-I have a 100% win rate.
+-Flawless record.
+
+1647
+01:28:45,821 --> 01:28:47,030
+The ruler of the prison.
+
+1648
+01:28:48,782 --> 01:28:49,866
+Try breaking that record.
+
+1649
+01:28:50,951 --> 01:28:52,994
+I've never lost a prison match.
+
+1650
+01:28:53,078 --> 01:28:54,663
+<i>As the king of the prison,</i>
+
+1651
+01:28:54,746 --> 01:28:57,332
+<i>I need to pull off a clean sweep</i>
+<i>of prison matches.</i>
+
+1652
+01:28:57,415 --> 01:28:59,709
+<i>I'm feeling confident.</i>
+
+1653
+01:29:01,253 --> 01:29:02,462
+-Finally.
+-There we go.
+
+1654
+01:29:02,546 --> 01:29:03,672
+-Come on!
+-Let's go!
+
+1655
+01:29:04,506 --> 01:29:08,009
+<i>The prison match will begin in 30 minutes.</i>
+
+1656
+01:29:08,093 --> 01:29:09,302
+-Good.
+-The last one.
+
+1657
+01:29:09,386 --> 01:29:12,472
+-The final prison match.
+<i>-The winner today</i>
+
+1658
+01:29:12,556 --> 01:29:17,102
+<i>will advance to the finals</i>
+<i>and spend the night in the living area.</i>
+
+1659
+01:29:17,185 --> 01:29:18,019
+-Dang.
+-Wow.
+
+1660
+01:29:18,103 --> 01:29:22,065
+-Do I finally get to escape?
+<i>-The losers will leave </i>The Devil's Plan.
+
+1661
+01:29:22,816 --> 01:29:25,735
+<i>Now, let me introduce</i>
+<i>the sixth prison match,</i>
+
+1662
+01:29:25,819 --> 01:29:28,697
+<i>which will decide</i>
+<i>the last two eliminations.</i>
+
+1663
+01:29:28,780 --> 01:29:29,656
+Come on.
+
+1664
+01:29:29,739 --> 01:29:31,449
+<i>Today's prison match is</i>
+
+1665
+01:29:32,117 --> 01:29:33,118
+<i>Gradation.</i>
+
+1666
+01:29:33,201 --> 01:29:34,411
+-"Gradation"?
+-"Gradation"?
+
+1667
+01:29:34,494 --> 01:29:35,537
+<i>In Gradation,</i>
+
+1668
+01:29:35,620 --> 01:29:39,374
+<i>players must strategically distribute</i>
+<i>number cubes into their cube vessels</i>
+
+1669
+01:29:39,457 --> 01:29:42,168
+<i>to win each matchup.</i>
+
+1670
+01:29:42,252 --> 01:29:45,630
+<i>Each player will be given</i>
+<i>seven gradation cube vessels</i>
+
+1671
+01:29:45,714 --> 01:29:49,551
+<i>arranged so that the color lightens</i>
+<i>from both ends toward the middle,</i>
+
+1672
+01:29:49,634 --> 01:29:52,637
+<i>along with two of each number cube</i>
+<i>from zero to nine,</i>
+
+1673
+01:29:52,721 --> 01:29:55,223
+<i>making it twenty cubes in total.</i>
+
+1674
+01:29:56,891 --> 01:30:00,145
+<i>The game will proceed</i>
+<i>as a series of one-on-one matchups.</i>
+
+1675
+01:30:00,770 --> 01:30:05,066
+<i>Players will draw lottery balls,</i>
+<i>and those who draw numbers one and two</i>
+
+1676
+01:30:05,150 --> 01:30:07,068
+<i>will compete in the first matchup.</i>
+
+1677
+01:30:07,569 --> 01:30:08,737
+One-on-one, huh?
+
+1678
+01:30:09,362 --> 01:30:11,656
+<i>The player who draws number one</i>
+
+1679
+01:30:11,740 --> 01:30:14,576
+<i>will become the first player</i>
+<i>for the first round,</i>
+
+1680
+01:30:14,659 --> 01:30:16,119
+<i>and from subsequent rounds onward,</i>
+
+1681
+01:30:16,202 --> 01:30:19,164
+<i>the winner of the previous round</i>
+<i>will become the first player.</i>
+
+1682
+01:30:20,624 --> 01:30:25,003
+<i>Once the game begins,</i>
+<i>players will have five minutes</i>
+
+1683
+01:30:25,086 --> 01:30:29,716
+<i>to secretly distribute their number cubes</i>
+<i>across their seven cube vessels.</i>
+
+1684
+01:30:31,092 --> 01:30:34,679
+<i>Each cube vessel can hold only one cube.</i>
+
+1685
+01:30:35,347 --> 01:30:36,264
+Just one?
+
+1686
+01:30:37,265 --> 01:30:40,060
+<i>The total sum of all number cubes</i>
+<i>placed across the cube vessels</i>
+
+1687
+01:30:40,143 --> 01:30:41,978
+<i>cannot exceed 30.</i>
+
+1688
+01:30:42,729 --> 01:30:46,483
+<i>Additionally,</i>
+<i>going from left to right in order,</i>
+
+1689
+01:30:46,566 --> 01:30:49,402
+<i>the number cube in each vessel</i>
+
+1690
+01:30:49,486 --> 01:30:52,364
+<i>must be equal to or greater than the one</i>
+<i>in the vessel immediately before it.</i>
+
+1691
+01:30:52,989 --> 01:30:54,407
+Equal to or greater?
+
+1692
+01:30:54,491 --> 01:30:59,162
+<i>The first player will select</i>
+<i>one of their cube vessels</i>
+
+1693
+01:30:59,245 --> 01:31:01,081
+<i>and place it in front of the divider.</i>
+
+1694
+01:31:01,873 --> 01:31:04,292
+<i>The original position</i>
+<i>of the submitted vessel</i>
+
+1695
+01:31:04,376 --> 01:31:05,585
+<i>will not be revealed,</i>
+
+1696
+01:31:05,669 --> 01:31:09,756
+<i>and the opposing player</i>
+<i>can only see the vessel's color.</i>
+
+1697
+01:31:10,590 --> 01:31:16,137
+<i>The opposing player will then submit</i>
+<i>one of their own cube vessels in turn.</i>
+
+1698
+01:31:16,846 --> 01:31:18,682
+<i>Once both vessels have been submitted,</i>
+
+1699
+01:31:18,765 --> 01:31:21,810
+<i>the number cubes inside will be revealed.</i>
+
+1700
+01:31:22,435 --> 01:31:24,979
+<i>The player with the higher number cube</i>
+
+1701
+01:31:25,063 --> 01:31:29,526
+<i>will win that round and earn one point.</i>
+
+1702
+01:31:29,609 --> 01:31:31,444
+It's another point-based game.
+
+1703
+01:31:31,528 --> 01:31:35,490
+<i>In the event of a tie,</i>
+<i>neither player will earn a point.</i>
+
+1704
+01:31:36,908 --> 01:31:39,953
+<i>Players will use one vessel per round</i>
+
+1705
+01:31:40,036 --> 01:31:42,414
+<i>for a total of seven rounds.</i>
+
+1706
+01:31:43,873 --> 01:31:45,333
+<i>At the end of the seventh round,</i>
+
+1707
+01:31:45,417 --> 01:31:49,337
+<i>the player with the higher total score</i>
+<i>will be the winner of the matchup.</i>
+
+1708
+01:31:49,421 --> 01:31:53,883
+<i>They will then face the remaining player</i>
+<i>in another one-on-one matchup.</i>
+
+1709
+01:31:54,634 --> 01:31:57,095
+<i>The winner of the previous matchup</i>
+
+1710
+01:31:57,178 --> 01:32:00,890
+<i>will become the first player</i>
+<i>for the first round of the next matchup.</i>
+
+1711
+01:32:01,808 --> 01:32:05,228
+<i>If both players are tied on points,</i>
+
+1712
+01:32:05,311 --> 01:32:08,523
+<i>a rematch will be held</i>
+<i>until the winner is determined.</i>
+
+1713
+01:32:09,816 --> 01:32:12,444
+<i>Matchups will continue in the same manner,</i>
+
+1714
+01:32:12,527 --> 01:32:15,530
+<i>and the first player</i>
+<i>to achieve two consecutive wins</i>
+
+1715
+01:32:15,613 --> 01:32:18,324
+<i>will advance to the finals</i>
+<i>and go to the living area.</i>
+
+1716
+01:32:19,576 --> 01:32:23,163
+<i>The remaining two players</i>
+<i>will be eliminated from </i>The Devil's Plan.
+
+1717
+01:32:23,246 --> 01:32:24,164
+Two consecutive wins.
+
+1718
+01:32:24,247 --> 01:32:28,001
+<i>The game will begin in 30 minutes.</i>
+
+1719
+01:32:28,084 --> 01:32:29,627
+-It's a mind game.
+-Yeah.
+
+1720
+01:32:29,711 --> 01:32:30,837
+It's all about mind tricks.
+
+1721
+01:32:31,337 --> 01:32:33,006
+It'll be tough but fun.
+
+1722
+01:32:35,508 --> 01:32:37,510
+How am I gonna play this?
+
+1723
+01:32:38,344 --> 01:32:40,305
+-After the first seven rounds,
+-Yeah?
+
+1724
+01:32:40,388 --> 01:32:45,018
+we'll have some leftover cubes.
+
+1725
+01:32:45,101 --> 01:32:48,104
+-Are the cubes reset?
+-The leftovers are discarded.
+
+1726
+01:32:48,188 --> 01:32:49,606
+-They'll be reset.
+-Right?
+
+1727
+01:32:49,689 --> 01:32:51,733
+So you don't need to worry about them
+
+1728
+01:32:51,816 --> 01:32:53,109
+-in the next matchup?
+-No, you don't.
+
+1729
+01:32:53,193 --> 01:32:55,904
+I have no idea what a good setup
+would even look like.
+
+1730
+01:32:57,864 --> 01:33:02,786
+<i>You need to keep comparing arrangements</i>
+<i>for the most competitive one</i>
+
+1731
+01:33:02,869 --> 01:33:06,247
+<i>with the 30 cap in mind</i>
+<i>throughout the game.</i>
+
+1732
+01:33:06,331 --> 01:33:08,374
+You need to fake it a bit.
+
+1733
+01:33:08,458 --> 01:33:09,793
+Pretend to make a mistake
+
+1734
+01:33:10,293 --> 01:33:11,920
+and act like you're trying to keep calm.
+
+1735
+01:33:12,003 --> 01:33:13,671
+You know what I mean, right?
+
+1736
+01:33:13,755 --> 01:33:15,632
+Guys, I just gave you the answer.
+
+1737
+01:33:18,510 --> 01:33:21,012
+<i>-The prison match will begin shortly.</i>
+-Let's go.
+
+1738
+01:33:21,846 --> 01:33:23,681
+<i>All players in prison,</i>
+
+1739
+01:33:23,765 --> 01:33:26,059
+<i>-please make your way to the death room.</i>
+-We got this.
+
+1740
+01:33:26,142 --> 01:33:27,143
+Anybody can win.
+
+1741
+01:33:27,227 --> 01:33:28,311
+-Let's do our best.
+-Sure.
+
+1742
+01:33:28,394 --> 01:33:29,395
+This is so exciting.
+
+1743
+01:33:30,021 --> 01:33:31,898
+-This is gonna be fun.
+-Let's go!
+
+1744
+01:33:35,109 --> 01:33:36,361
+Hello, dealers.
+
+1745
+01:33:37,237 --> 01:33:38,696
+It's smaller than I expected.
+
+1746
+01:33:39,739 --> 01:33:41,491
+-I'll stand here.
+-It won't be easy to shuffle.
+
+1747
+01:33:42,742 --> 01:33:43,701
+Let's go.
+
+1748
+01:33:47,038 --> 01:33:51,334
+<i>We will now begin</i>
+<i>the sixth prison match, Gradation.</i>
+
+1749
+01:33:52,085 --> 01:33:54,712
+<i>We will first draw lottery balls</i>
+<i>to determine the order.</i>
+
+1750
+01:33:57,590 --> 01:33:58,716
+Hyun Kyung-lyul, you are number three.
+
+1751
+01:33:58,800 --> 01:33:59,926
+John Park, you are number one.
+
+1752
+01:34:00,009 --> 01:34:01,761
+JAE JAE, you are number two.
+
+1753
+01:34:01,845 --> 01:34:02,971
+I'm number two.
+
+1754
+01:34:03,054 --> 01:34:05,139
+It's over if I lose in my first game.
+
+1755
+01:34:06,182 --> 01:34:07,267
+Let's have a good final match.
+
+1756
+01:34:07,350 --> 01:34:10,436
+<i>John Park and JAE JAE, who drew</i>
+<i>numbers one and two, respectively,</i>
+
+1757
+01:34:10,520 --> 01:34:11,980
+<i>will compete in the first matchup.</i>
+
+1758
+01:34:12,063 --> 01:34:14,649
+<i>The first player is John Park.</i>
+
+1759
+01:34:14,732 --> 01:34:16,401
+<i>You have five minutes</i>
+
+1760
+01:34:16,484 --> 01:34:20,071
+<i>to distribute your number cubes</i>
+<i>across the seven cube vessels.</i>
+
+1761
+01:34:20,154 --> 01:34:20,989
+Okay.
+
+1762
+01:34:22,156 --> 01:34:26,202
+<i>Either you win four right off the bat</i>
+<i>with big numbers,</i>
+
+1763
+01:34:26,286 --> 01:34:28,830
+or go for the long game
+by winning by narrow margins.
+
+1764
+01:34:28,913 --> 01:34:32,458
+It's a true mind game where you have to
+keep predicting your opponent's hand
+
+1765
+01:34:32,542 --> 01:34:34,460
+and beat it by the narrowest margin.
+
+1766
+01:34:34,544 --> 01:34:36,504
+A one-point difference would be ideal.
+
+1767
+01:34:37,088 --> 01:34:40,592
+<i>The most important element in Gradation</i>
+<i>is the combination of number cubes.</i>
+
+1768
+01:34:41,426 --> 01:34:44,137
+<i>If your opponent submits a two,</i>
+
+1769
+01:34:44,220 --> 01:34:46,848
+<i>playing a three</i>
+<i>will earn you the same point</i>
+
+1770
+01:34:46,931 --> 01:34:49,350
+<i>as playing a nine would.</i>
+
+1771
+01:34:49,434 --> 01:34:51,978
+<i>However, if you use your nine,</i>
+
+1772
+01:34:52,061 --> 01:34:54,480
+<i>you will lose</i>
+<i>one of your most powerful tools</i>
+
+1773
+01:34:54,564 --> 01:34:56,900
+<i>for countering higher numbers later.</i>
+
+1774
+01:34:56,983 --> 01:35:00,778
+<i>In other words, responding with a number</i>
+<i>just barely higher than your opponent's</i>
+
+1775
+01:35:00,862 --> 01:35:04,157
+<i>is the surest winning formula.</i>
+
+1776
+01:35:04,824 --> 01:35:07,076
+We will now collect
+the remaining number cubes.
+
+1777
+01:35:07,160 --> 01:35:08,036
+Okay.
+
+1778
+01:35:08,119 --> 01:35:09,245
+This is fun.
+
+1779
+01:35:09,329 --> 01:35:10,288
+Let's do this.
+
+1780
+01:35:11,289 --> 01:35:12,665
+Round 1 will now begin.
+
+1781
+01:35:12,749 --> 01:35:16,044
+John Park, please select
+and submit one cube vessel.
+
+1782
+01:35:21,633 --> 01:35:23,801
+If there's a tie,
+does the first player stay the same?
+
+1783
+01:35:23,885 --> 01:35:24,719
+That is correct.
+
+1784
+01:35:27,347 --> 01:35:30,767
+<i>For starters, I thought it'd be best</i>
+<i>not to play too strong or too weak a hand</i>
+
+1785
+01:35:30,850 --> 01:35:32,936
+<i>right from the beginning.</i>
+
+1786
+01:35:33,019 --> 01:35:36,022
+<i>So I played something in the middle range</i>
+<i>that still carried some punch.</i>
+
+1787
+01:35:36,105 --> 01:35:39,067
+<i>In other words, I opted for something</i>
+<i>that could give me the first point</i>
+
+1788
+01:35:39,150 --> 01:35:40,652
+<i>with some luck.</i>
+
+1789
+01:35:42,570 --> 01:35:43,780
+Next, JAE JAE.
+
+1790
+01:35:43,863 --> 01:35:46,074
+Please select and submit one cube vessel.
+
+1791
+01:35:56,751 --> 01:35:59,170
+Here is John Park's cube.
+
+1792
+01:36:02,382 --> 01:36:03,216
+John Park, six.
+
+1793
+01:36:03,299 --> 01:36:05,510
+Here is JAE JAE's cube.
+
+1794
+01:36:07,261 --> 01:36:08,388
+JAE JAE, nine.
+
+1795
+01:36:08,930 --> 01:36:09,931
+What? Nine?
+
+1796
+01:36:10,556 --> 01:36:11,432
+No way.
+
+1797
+01:36:11,516 --> 01:36:13,393
+<i>You have to strike first.</i>
+
+1798
+01:36:13,476 --> 01:36:17,105
+<i>I decided to go big right from the start</i>
+<i>to set the right tone.</i>
+
+1799
+01:36:17,188 --> 01:36:19,148
+JAE JAE wins the round.
+
+1800
+01:36:19,232 --> 01:36:20,400
+You earn one point.
+
+1801
+01:36:20,483 --> 01:36:22,026
+Round 2 will now begin.
+
+1802
+01:36:22,110 --> 01:36:24,070
+The first player is JAE JAE.
+
+1803
+01:36:24,153 --> 01:36:27,198
+JAE JAE, please select
+and submit one cube vessel.
+
+1804
+01:36:32,161 --> 01:36:34,247
+John Park, please submit one cube vessel.
+
+1805
+01:36:45,633 --> 01:36:47,385
+Both cube vessels have been submitted.
+
+1806
+01:36:47,468 --> 01:36:49,470
+Here is JAE JAE's cube.
+
+1807
+01:36:51,222 --> 01:36:52,682
+JAE JAE, seven.
+
+1808
+01:36:53,474 --> 01:36:55,226
+Here is John Park's cube.
+
+1809
+01:36:56,352 --> 01:36:57,395
+John Park, seven.
+
+1810
+01:36:57,478 --> 01:36:58,479
+It is a tie.
+
+1811
+01:36:58,563 --> 01:37:00,732
+This is intense.
+
+1812
+01:37:00,815 --> 01:37:02,483
+No points will be awarded this round.
+
+1813
+01:37:02,567 --> 01:37:06,738
+<i>I'd be set if I could win several rounds</i>
+<i>in a row with high numbers as I planned,</i>
+
+1814
+01:37:06,821 --> 01:37:08,364
+<i>but my opponent isn't an idiot.</i>
+
+1815
+01:37:08,448 --> 01:37:09,741
+<i>Once he catches on</i>
+
+1816
+01:37:09,824 --> 01:37:11,993
+<i>and responds accordingly,</i>
+<i>it gets a lot harder.</i>
+
+1817
+01:37:12,076 --> 01:37:13,786
+<i>It was hard to predict for me too.</i>
+
+1818
+01:37:14,370 --> 01:37:15,872
+Round 3 will now begin.
+
+1819
+01:37:15,955 --> 01:37:18,291
+The first player for Round 3 is JAE JAE.
+
+1820
+01:37:18,374 --> 01:37:20,168
+What happens
+if it ends three-to-three in a tie?
+
+1821
+01:37:20,251 --> 01:37:21,711
+Yeah, is there a tiebreaker?
+
+1822
+01:37:21,794 --> 01:37:22,837
+There will be a rematch.
+
+1823
+01:37:23,880 --> 01:37:24,714
+-JAE JAE.
+-Yes?
+
+1824
+01:37:24,797 --> 01:37:26,966
+-Please submit one cube vessel.
+-Okay.
+
+1825
+01:37:30,803 --> 01:37:32,889
+John Park, please submit one cube vessel.
+
+1826
+01:37:39,228 --> 01:37:40,855
+Both cube vessels have been submitted.
+
+1827
+01:37:40,938 --> 01:37:43,066
+Here is JAE JAE's cube.
+
+1828
+01:37:46,027 --> 01:37:47,153
+JAE JAE, seven.
+
+1829
+01:37:48,946 --> 01:37:50,573
+Here is John Park's cube.
+
+1830
+01:37:50,656 --> 01:37:51,616
+John Park, eight.
+
+1831
+01:37:52,116 --> 01:37:53,951
+John Park, you earn one point.
+
+1832
+01:37:54,035 --> 01:37:59,040
+<i>I felt like giving up a point here</i>
+<i>would make the match difficult,</i>
+
+1833
+01:37:59,123 --> 01:38:01,209
+<i>so I played my strongest card, eight.</i>
+
+1834
+01:38:01,292 --> 01:38:03,419
+<i>And I knew I'd win that round.</i>
+
+1835
+01:38:03,503 --> 01:38:05,463
+This really comes down to a single point.
+
+1836
+01:38:06,047 --> 01:38:07,465
+Round 4 will now begin.
+
+1837
+01:38:07,965 --> 01:38:10,343
+The first player for Round 4 is John Park.
+
+1838
+01:38:10,426 --> 01:38:12,595
+John Park, please submit one cube vessel.
+
+1839
+01:38:13,805 --> 01:38:16,849
+<i>If I had played a black at this point,</i>
+
+1840
+01:38:16,933 --> 01:38:20,561
+<i>she would've known</i>
+<i>I played a zero or a one.</i>
+
+1841
+01:38:20,645 --> 01:38:25,066
+<i>Then she'd play a one or a two</i>
+<i>and easily score a point,</i>
+
+1842
+01:38:25,149 --> 01:38:27,068
+<i>so I bluffed instead.</i>
+
+1843
+01:38:27,151 --> 01:38:28,861
+<i>I was telling her,</i>
+<i>"I'm playing a gray vessel,</i>
+
+1844
+01:38:28,945 --> 01:38:34,992
+<i>which can be a one or a two,</i>
+<i>so play one of your higher cards."</i>
+
+1845
+01:38:44,085 --> 01:38:45,419
+Both vessels have been submitted.
+
+1846
+01:38:48,548 --> 01:38:50,466
+Here is John Park's cube.
+
+1847
+01:38:52,385 --> 01:38:53,719
+John Park, zero.
+
+1848
+01:38:53,803 --> 01:38:56,013
+Here is JAE JAE's cube.
+
+1849
+01:38:56,097 --> 01:38:57,390
+JAE JAE, zero.
+
+1850
+01:38:57,473 --> 01:38:58,349
+It is a tie.
+
+1851
+01:38:58,850 --> 01:39:00,810
+No points will be awarded this round.
+
+1852
+01:39:01,310 --> 01:39:02,645
+Round 5 will now begin.
+
+1853
+01:39:02,728 --> 01:39:04,772
+The first player for Round 5 is John Park.
+
+1854
+01:39:04,856 --> 01:39:07,191
+John Park, please submit one cube vessel.
+
+1855
+01:39:13,739 --> 01:39:16,409
+JAE JAE, please submit one cube vessel.
+
+1856
+01:39:21,622 --> 01:39:23,374
+Both cube vessels have been submitted.
+
+1857
+01:39:24,041 --> 01:39:26,043
+Here is John Park's cube.
+
+1858
+01:39:28,379 --> 01:39:29,380
+John Park, zero.
+
+1859
+01:39:29,463 --> 01:39:31,090
+Here is JAE JAE's cube.
+
+1860
+01:39:32,008 --> 01:39:33,217
+JAE JAE, one.
+
+1861
+01:39:33,301 --> 01:39:34,677
+What? It's a one?
+
+1862
+01:39:35,219 --> 01:39:36,971
+JAE JAE wins the round.
+
+1863
+01:39:37,054 --> 01:39:38,764
+You earn one point.
+
+1864
+01:39:39,265 --> 01:39:42,268
+<i>Predicting your opponent's hand</i>
+<i>is really important.</i>
+
+1865
+01:39:42,351 --> 01:39:46,606
+And the thing is, I was able to work out
+all of John's numbers by Round 4.
+
+1866
+01:39:46,689 --> 01:39:49,108
+<i>Up to that point,</i>
+<i>John's highest number was eight,</i>
+
+1867
+01:39:49,192 --> 01:39:51,235
+<i>then the next highest was seven,</i>
+
+1868
+01:39:51,319 --> 01:39:52,737
+<i>followed by six.</i>
+
+1869
+01:39:52,820 --> 01:39:57,575
+Sweet John played them
+in descending order.
+
+1870
+01:39:57,658 --> 01:40:00,244
+<i>The moment it was revealed</i>
+<i>that dark gray contained a zero,</i>
+
+1871
+01:40:00,328 --> 01:40:02,413
+<i>I knew the black in front of it</i>
+<i>had to have a zero.</i>
+
+1872
+01:40:02,496 --> 01:40:06,417
+<i>I had actually set aside</i>
+<i>a one specifically to beat his zeros.</i>
+
+1873
+01:40:06,500 --> 01:40:09,337
+<i>And the moment he played black,</i>
+<i>I used that one.</i>
+
+1874
+01:40:10,296 --> 01:40:11,714
+Round 6 will now begin.
+
+1875
+01:40:11,797 --> 01:40:13,257
+The first player is JAE JAE.
+
+1876
+01:40:13,341 --> 01:40:16,302
+JAE JAE, please select
+and submit one cube vessel.
+
+1877
+01:40:18,763 --> 01:40:20,681
+John Park, please submit one cube vessel.
+
+1878
+01:40:21,474 --> 01:40:22,516
+I see.
+
+1879
+01:40:27,521 --> 01:40:28,898
+Both cube vessels have been submitted.
+
+1880
+01:40:29,482 --> 01:40:31,525
+Here is JAE JAE's cube.
+
+1881
+01:40:33,277 --> 01:40:34,195
+JAE JAE, six.
+
+1882
+01:40:35,404 --> 01:40:36,489
+John Park, five.
+
+1883
+01:40:36,989 --> 01:40:38,407
+JAE JAE wins the round.
+
+1884
+01:40:38,491 --> 01:40:39,742
+You earn one point.
+
+1885
+01:40:39,825 --> 01:40:41,202
+She's incredible.
+
+1886
+01:40:42,495 --> 01:40:44,455
+Great strategy.
+
+1887
+01:40:45,790 --> 01:40:47,667
+<i>Turns out</i>
+<i>I've been underestimating myself.</i>
+
+1888
+01:40:47,750 --> 01:40:48,793
+Me heading to the finals?
+
+1889
+01:40:48,876 --> 01:40:50,044
+So cool.
+
+1890
+01:40:50,127 --> 01:40:51,545
+Just imagining it gives me chills.
+
+1891
+01:40:51,629 --> 01:40:53,422
+Me winning? That's amazing.
+
+1892
+01:40:53,506 --> 01:40:54,590
+I wanna win.
+
+1893
+01:40:54,674 --> 01:40:57,677
+<i>JAE JAE has won the matchup.</i>
+
+1894
+01:40:58,469 --> 01:41:01,973
+<i>JAE JAE will now face Hyun Kyung-lyul.</i>
+
+1895
+01:41:02,056 --> 01:41:03,266
+Is it over if I lose?
+
+1896
+01:41:03,349 --> 01:41:04,225
+No way.
+
+1897
+01:41:04,308 --> 01:41:06,519
+<i>The first player is JAE JAE.</i>
+
+1898
+01:41:06,602 --> 01:41:09,855
+<i>Please distribute your number cubes</i>
+<i>across the cube vessels.</i>
+
+1899
+01:41:13,818 --> 01:41:15,278
+<i>I racked my brains over strategy.</i>
+
+1900
+01:41:15,361 --> 01:41:17,989
+<i>Russian Roulette was the only game</i>
+<i>I've played with Kyung-lyul,</i>
+
+1901
+01:41:18,072 --> 01:41:19,282
+<i>so I wasn't sure about his style.</i>
+
+1902
+01:41:21,534 --> 01:41:22,493
+I'm done.
+
+1903
+01:41:22,576 --> 01:41:23,953
+I'm ready too.
+
+1904
+01:41:24,996 --> 01:41:27,123
+We will collect
+the remaining number cubes.
+
+1905
+01:41:27,206 --> 01:41:28,124
+Okay.
+
+1906
+01:41:32,670 --> 01:41:35,506
+Kyung-lyul must desperately wanna win.
+
+1907
+01:41:36,007 --> 01:41:37,633
+Round 1 will now begin.
+
+1908
+01:41:37,717 --> 01:41:38,592
+-JAE JAE.
+-Yes?
+
+1909
+01:41:38,676 --> 01:41:40,803
+Please select and submit one cube vessel.
+
+1910
+01:41:40,886 --> 01:41:42,763
+The first round is important.
+
+1911
+01:41:42,847 --> 01:41:44,515
+You can't play black.
+
+1912
+01:41:49,353 --> 01:41:51,814
+That's too obvious.
+
+1913
+01:41:52,815 --> 01:41:55,568
+<i>Having seen me play once,</i>
+<i>he'd think I play high numbers first.</i>
+
+1914
+01:41:55,651 --> 01:41:57,445
+<i>So this time,</i>
+<i>I decided to clear out the zero.</i>
+
+1915
+01:41:57,528 --> 01:41:59,947
+<i>I wasn't sure about how he plays anyway.</i>
+
+1916
+01:42:00,031 --> 01:42:02,825
+<i>If it turned out he played a high number,</i>
+<i>all the better for me for using zero.</i>
+
+1917
+01:42:02,908 --> 01:42:06,162
+<i>If not, then I'd know</i>
+<i>he's got something up his sleeve.</i>
+
+1918
+01:42:06,245 --> 01:42:07,455
+Next, Hyun Kyung-lyul.
+
+1919
+01:42:07,538 --> 01:42:09,332
+Please submit one cube vessel.
+
+1920
+01:42:14,503 --> 01:42:15,796
+Both cube vessels have been submitted.
+
+1921
+01:42:15,880 --> 01:42:17,965
+Here is JAE JAE's cube.
+
+1922
+01:42:19,258 --> 01:42:20,509
+JAE JAE, zero.
+
+1923
+01:42:21,552 --> 01:42:23,512
+Here is Hyun Kyung-lyul's cube.
+
+1924
+01:42:23,596 --> 01:42:24,930
+Hyun Kyung-lyul, one.
+
+1925
+01:42:25,681 --> 01:42:27,850
+Hyun Kyung-lyul wins the round.
+
+1926
+01:42:27,933 --> 01:42:29,935
+You earn one point.
+
+1927
+01:42:30,019 --> 01:42:31,562
+Round 2 will now begin.
+
+1928
+01:42:31,645 --> 01:42:33,731
+The first player for Round 2
+is Hyun Kyung-lyul.
+
+1929
+01:42:34,357 --> 01:42:35,733
+Please submit one cube vessel.
+
+1930
+01:42:46,243 --> 01:42:48,371
+JAE JAE, please submit one cube vessel.
+
+1931
+01:42:50,748 --> 01:42:54,210
+<i>I thought I had to come out swinging,</i>
+
+1932
+01:42:54,293 --> 01:42:56,087
+<i>so I played my highest number.</i>
+
+1933
+01:42:57,129 --> 01:42:58,381
+Both cube vessels have been submitted.
+
+1934
+01:42:58,464 --> 01:43:00,716
+Here is Hyun Kyung-lyul's cube.
+
+1935
+01:43:02,802 --> 01:43:04,011
+Hyun Kyung-lyul, two.
+
+1936
+01:43:05,429 --> 01:43:07,973
+<i>JAE JAE won</i>
+<i>in her first matchup against John,</i>
+
+1937
+01:43:08,057 --> 01:43:10,684
+<i>and I observed how she did that.</i>
+
+1938
+01:43:10,768 --> 01:43:13,521
+<i>I believe she had two zeros</i>
+<i>clustered on the left</i>
+
+1939
+01:43:13,604 --> 01:43:18,943
+<i>and the higher numbers</i>
+<i>packed toward the right.</i>
+
+1940
+01:43:19,026 --> 01:43:21,612
+I prepared a zero-one combo
+to counter her zero-zero setup.
+
+1941
+01:43:21,695 --> 01:43:25,074
+<i>And I felt really comfortable choosing two</i>
+
+1942
+01:43:25,157 --> 01:43:29,870
+<i>because I saw her stocking up</i>
+<i>on the lower numbers on the left</i>
+
+1943
+01:43:29,954 --> 01:43:30,913
+<i>in her previous matchup.</i>
+
+1944
+01:43:30,996 --> 01:43:34,125
+<i>So I figured even her dark gray vessels</i>
+
+1945
+01:43:34,208 --> 01:43:35,751
+<i>couldn't be three or higher.</i>
+
+1946
+01:43:35,835 --> 01:43:37,420
+If she had two there, we'd tie.
+
+1947
+01:43:38,045 --> 01:43:39,213
+If she had one, I'd score.
+
+1948
+01:43:39,922 --> 01:43:41,173
+If she had a high number,
+
+1949
+01:43:41,757 --> 01:43:42,716
+all the better.
+
+1950
+01:43:42,800 --> 01:43:44,635
+Here is JAE JAE's cube.
+
+1951
+01:43:44,718 --> 01:43:46,387
+JAE JAE, eight.
+
+1952
+01:43:46,470 --> 01:43:48,222
+JAE JAE wins the round.
+
+1953
+01:43:48,305 --> 01:43:49,682
+You earn one point.
+
+1954
+01:43:49,765 --> 01:43:51,475
+Round 3 will now begin.
+
+1955
+01:43:51,559 --> 01:43:53,352
+The first player is JAE JAE.
+
+1956
+01:43:53,436 --> 01:43:54,854
+Please submit one cube vessel.
+
+1957
+01:43:59,191 --> 01:44:00,192
+She's feeling the pressure.
+
+1958
+01:44:09,577 --> 01:44:12,121
+Hyun Kyung-lyul,
+please submit one cube vessel.
+
+1959
+01:44:18,461 --> 01:44:19,712
+Both cube vessels have been submitted.
+
+1960
+01:44:20,212 --> 01:44:22,214
+Here is JAE JAE's cube.
+
+1961
+01:44:24,216 --> 01:44:25,551
+JAE JAE, one.
+
+1962
+01:44:25,634 --> 01:44:27,761
+Here is Hyun Kyung-lyul's cube.
+
+1963
+01:44:29,972 --> 01:44:31,182
+Hyun Kyung-lyul, two.
+
+1964
+01:44:37,396 --> 01:44:38,731
+He's reading every move.
+
+1965
+01:44:39,315 --> 01:44:41,358
+Hyun Kyung-lyul wins the round.
+
+1966
+01:44:41,442 --> 01:44:42,860
+You earn one point.
+
+1967
+01:44:42,943 --> 01:44:45,196
+You placed really small numbers up front.
+
+1968
+01:44:45,988 --> 01:44:48,532
+<i>I was in serious trouble.</i>
+<i>I won by a big margin,</i>
+
+1969
+01:44:48,616 --> 01:44:52,912
+<i>and my high numbers were gone,</i>
+<i>while he still had a whole bunch.</i>
+
+1970
+01:44:52,995 --> 01:44:54,205
+Round 4 will now begin.
+
+1971
+01:44:54,288 --> 01:44:56,373
+The first player for Round 4
+is Hyun Kyung-lyul.
+
+1972
+01:44:56,999 --> 01:44:58,334
+Please submit one cube vessel.
+
+1973
+01:45:04,006 --> 01:45:05,299
+Next, JAE JAE.
+
+1974
+01:45:12,848 --> 01:45:14,391
+Both cube vessels have been submitted.
+
+1975
+01:45:15,017 --> 01:45:17,269
+Here is Hyun Kyung-lyul's cube.
+
+1976
+01:45:18,562 --> 01:45:20,022
+Hyun Kyung-lyul, nine.
+
+1977
+01:45:23,275 --> 01:45:24,902
+Here is JAE JAE's cube.
+
+1978
+01:45:26,237 --> 01:45:27,363
+JAE JAE, zero.
+
+1979
+01:45:27,863 --> 01:45:29,990
+No way.
+
+1980
+01:45:30,074 --> 01:45:31,784
+Hold on, she has a chance now.
+
+1981
+01:45:31,867 --> 01:45:33,994
+Hyun Kyung-lyul wins the round.
+
+1982
+01:45:34,078 --> 01:45:35,496
+You earn one point.
+
+1983
+01:45:36,789 --> 01:45:38,374
+Round 5 will now begin.
+
+1984
+01:45:38,457 --> 01:45:40,251
+The first player is Hyun Kyung-lyul.
+
+1985
+01:45:40,834 --> 01:45:42,253
+Please submit one cube vessel.
+
+1986
+01:45:45,673 --> 01:45:47,800
+JAE JAE, please submit one cube vessel.
+
+1987
+01:45:53,013 --> 01:45:54,431
+Both cube vessels have been submitted.
+
+1988
+01:45:55,015 --> 01:45:56,934
+Here is Hyun Kyung-lyul's cube.
+
+1989
+01:45:58,894 --> 01:46:00,145
+Hyun Kyung-lyul, zero.
+
+1990
+01:46:00,229 --> 01:46:02,231
+Here is JAE JAE's cube.
+
+1991
+01:46:03,691 --> 01:46:04,942
+JAE JAE, six.
+
+1992
+01:46:05,025 --> 01:46:06,485
+JAE JAE wins the round.
+
+1993
+01:46:06,569 --> 01:46:08,153
+You earn one point.
+
+1994
+01:46:13,617 --> 01:46:15,119
+Round 6 will now begin.
+
+1995
+01:46:15,202 --> 01:46:16,829
+The first player is JAE JAE.
+
+1996
+01:46:17,705 --> 01:46:19,081
+Please submit one cube vessel.
+
+1997
+01:46:20,666 --> 01:46:23,919
+I don't see how you can win here.
+
+1998
+01:46:30,759 --> 01:46:33,637
+I actually already knew
+in the middle of the match.
+
+1999
+01:46:33,721 --> 01:46:35,889
+<i>The relationship</i>
+<i>between the remaining numbers</i>
+
+2000
+01:46:35,973 --> 01:46:38,892
+<i>made it possible for me to predict</i>
+<i>what she had left.</i>
+
+2001
+01:46:38,976 --> 01:46:41,061
+<i>The whole time,</i>
+<i>I kept calculating possible cases</i>
+
+2002
+01:46:41,145 --> 01:46:43,480
+<i>with the total cap of 30 in mind.</i>
+
+2003
+01:46:43,564 --> 01:46:47,860
+And I kept fine-tuning my strategy
+while considering all my findings.
+
+2004
+01:46:49,570 --> 01:46:50,613
+JAE JAE, nine.
+
+2005
+01:46:50,696 --> 01:46:52,573
+Hyun Kyung-lyul, eight.
+
+2006
+01:46:52,656 --> 01:46:54,241
+JAE JAE wins the round.
+
+2007
+01:46:55,659 --> 01:46:58,078
+Round 7, the final round, will now begin.
+
+2008
+01:46:58,162 --> 01:47:00,164
+Here is JAE JAE's cube.
+
+2009
+01:47:00,831 --> 01:47:01,665
+I lost.
+
+2010
+01:47:02,291 --> 01:47:03,709
+JAE JAE, six.
+
+2011
+01:47:05,044 --> 01:47:06,670
+Hyun Kyung-lyul, eight.
+
+2012
+01:47:07,254 --> 01:47:08,797
+Hyun Kyung-lyul wins the round.
+
+2013
+01:47:08,881 --> 01:47:10,633
+-You earn one point.
+-As expected.
+
+2014
+01:47:10,716 --> 01:47:11,967
+Games here just won't end.
+
+2015
+01:47:13,260 --> 01:47:14,720
+This is no joke.
+
+2016
+01:47:14,803 --> 01:47:16,388
+<i>That concludes the matchup.</i>
+
+2017
+01:47:17,348 --> 01:47:20,768
+<i>Hyun Kyung-lyul has won the matchup.</i>
+
+2018
+01:47:20,851 --> 01:47:23,312
+John gets another chance.
+
+2019
+01:47:26,315 --> 01:47:30,027
+<i>Hyun Kyung-lyul will now face John Park.</i>
+
+2020
+01:47:30,110 --> 01:47:33,072
+<i>Please distribute your number cubes</i>
+<i>across the cube vessels.</i>
+
+2021
+01:47:34,573 --> 01:47:35,658
+This is hard.
+
+2022
+01:47:35,741 --> 01:47:37,493
+-Isn't it?
+-This is the hardest part.
+
+2023
+01:47:37,576 --> 01:47:39,870
+If you screw this up,
+you blow your chance of winning.
+
+2024
+01:47:39,953 --> 01:47:41,205
+-Right.
+-It really is the hardest part.
+
+2025
+01:47:41,288 --> 01:47:43,999
+This might end up sealing your fate.
+
+2026
+01:47:44,500 --> 01:47:46,835
+Winning the first round
+makes everything easier
+
+2027
+01:47:47,586 --> 01:47:49,296
+when there are multiple rounds.
+
+2028
+01:47:49,380 --> 01:47:51,090
+Round 1 will now begin.
+
+2029
+01:47:51,715 --> 01:47:54,551
+Hyun Kyung-lyul,
+please submit one cube vessel.
+
+2030
+01:48:06,188 --> 01:48:08,482
+John Park, please submit one cube vessel.
+
+2031
+01:48:19,618 --> 01:48:21,161
+Both cube vessels have been submitted.
+
+2032
+01:48:21,829 --> 01:48:23,580
+Here is Hyun Kyung-lyul's cube.
+
+2033
+01:48:26,542 --> 01:48:27,918
+Hyun Kyung-lyul, six.
+
+2034
+01:48:28,502 --> 01:48:30,421
+Here is John Park's cube.
+
+2035
+01:48:33,507 --> 01:48:34,633
+John Park, two.
+
+2036
+01:48:35,342 --> 01:48:37,261
+Hyun Kyung-lyul wins the round.
+
+2037
+01:48:37,344 --> 01:48:38,762
+You earn one point.
+
+2038
+01:48:41,849 --> 01:48:43,225
+Round 2 will now begin.
+
+2039
+01:48:43,892 --> 01:48:45,644
+The first player is Hyun Kyung-lyul.
+
+2040
+01:48:46,270 --> 01:48:47,604
+Please submit one cube vessel.
+
+2041
+01:48:50,357 --> 01:48:51,984
+He submitted a two, huh?
+
+2042
+01:48:57,364 --> 01:49:00,909
+<i>The way I see it, playing a black</i>
+<i>is basically suicide in this game,</i>
+
+2043
+01:49:00,993 --> 01:49:01,827
+<i>especially early on.</i>
+
+2044
+01:49:01,910 --> 01:49:05,497
+<i>I had no choice but to play a dark gray</i>
+<i>to confuse him.</i>
+
+2045
+01:49:06,081 --> 01:49:08,125
+John Park, please submit one cube vessel.
+
+2046
+01:49:29,062 --> 01:49:31,106
+Both cube vessels have been submitted.
+
+2047
+01:49:31,190 --> 01:49:33,650
+Here is Hyun Kyung-lyul's cube.
+
+2048
+01:49:35,736 --> 01:49:37,070
+Hyun Kyung-lyul, one.
+
+2049
+01:49:37,571 --> 01:49:39,323
+Here is John Park's cube.
+
+2050
+01:49:41,116 --> 01:49:42,159
+John Park, three.
+
+2051
+01:49:42,242 --> 01:49:43,994
+John Park wins the round.
+
+2052
+01:49:44,077 --> 01:49:46,747
+<i>By playing white at that point,</i>
+
+2053
+01:49:46,830 --> 01:49:51,627
+<i>I was suggesting</i>
+<i>I had a strong hand this time.</i>
+
+2054
+01:49:51,710 --> 01:49:54,129
+<i>I also didn't wanna reveal</i>
+<i>any of my other cubes.</i>
+
+2055
+01:49:57,633 --> 01:49:58,926
+Round 3 will now begin.
+
+2056
+01:49:59,009 --> 01:50:00,969
+The first player is John Park.
+
+2057
+01:50:01,553 --> 01:50:02,971
+Please submit one cube vessel.
+
+2058
+01:50:17,861 --> 01:50:22,115
+<i>The strategy was to draw out</i>
+<i>his high cards by playing low numbers.</i>
+
+2059
+01:50:22,616 --> 01:50:25,118
+Hyun Kyung-lyul,
+please submit one cube vessel.
+
+2060
+01:50:27,704 --> 01:50:30,082
+<i>John played a dark gray,</i>
+
+2061
+01:50:30,165 --> 01:50:32,000
+<i>and before that, he played two and three.</i>
+
+2062
+01:50:32,084 --> 01:50:33,752
+<i>White was three,</i>
+
+2063
+01:50:33,836 --> 01:50:36,380
+<i>and light gray was two.</i>
+
+2064
+01:50:36,463 --> 01:50:41,009
+<i>So I thought there was a good chance</i>
+<i>he played a fairly high number this time.</i>
+
+2065
+01:50:43,595 --> 01:50:45,681
+Both cube vessels have been submitted.
+
+2066
+01:50:45,764 --> 01:50:47,933
+Here is John Park's cube.
+
+2067
+01:50:50,769 --> 01:50:52,229
+John Park, two.
+
+2068
+01:50:52,312 --> 01:50:54,356
+Here is Hyun Kyung-lyul's cube.
+
+2069
+01:50:57,276 --> 01:50:58,443
+Hyun Kyung-lyul, three.
+
+2070
+01:50:58,944 --> 01:51:00,988
+Hyun Kyung-lyul wins the round.
+
+2071
+01:51:01,071 --> 01:51:02,406
+You earn one point.
+
+2072
+01:51:03,574 --> 01:51:08,036
+<i>Aside from zero,</i>
+<i>the lowest number I had left was three.</i>
+
+2073
+01:51:08,120 --> 01:51:10,080
+<i>So I thought, if my three exhausts</i>
+<i>his higher number, then great.</i>
+
+2074
+01:51:10,163 --> 01:51:12,666
+<i>If he plays a lower number, I'll score.</i>
+
+2075
+01:51:12,749 --> 01:51:14,626
+<i>That's how I ended up playing it.</i>
+
+2076
+01:51:14,710 --> 01:51:16,962
+Kyung-lyul's great
+at finding the winning number.
+
+2077
+01:51:17,045 --> 01:51:18,630
+Round 4 will now begin.
+
+2078
+01:51:18,714 --> 01:51:20,507
+The first player is Hyun Kyung-lyul.
+
+2079
+01:51:20,591 --> 01:51:22,259
+Please submit one cube vessel.
+
+2080
+01:51:22,968 --> 01:51:26,388
+<i>I was happy that I managed to beat</i>
+<i>his two with my three.</i>
+
+2081
+01:51:26,471 --> 01:51:27,723
+That's just a one-point difference.
+
+2082
+01:51:27,806 --> 01:51:30,851
+But looking at the remaining numbers,
+there were still scenarios
+
+2083
+01:51:30,934 --> 01:51:34,187
+<i>where I could lose,</i>
+<i>so I kept calculating as the game went on.</i>
+
+2084
+01:51:44,239 --> 01:51:46,658
+John Park, please submit one cube vessel.
+
+2085
+01:51:47,534 --> 01:51:51,204
+<i>I was sure his black vessels</i>
+<i>had a zero and a nine each.</i>
+
+2086
+01:51:51,288 --> 01:51:54,458
+<i>As for his remaining dark gray</i>
+<i>and white vessels,</i>
+
+2087
+01:51:54,541 --> 01:51:56,168
+<i>I suspected they had an eight and a three,</i>
+
+2088
+01:51:56,251 --> 01:52:00,255
+<i>or a seven and a three,</i>
+<i>with a one in the black vessel.</i>
+
+2089
+01:52:00,339 --> 01:52:04,509
+<i>The possibility of one</i>
+<i>being in the black vessel</i>
+
+2090
+01:52:04,593 --> 01:52:06,386
+<i>had me agonize over my choice.</i>
+
+2091
+01:52:16,897 --> 01:52:18,690
+Both cube vessels have been submitted.
+
+2092
+01:52:20,484 --> 01:52:22,569
+-Here is Hyun Kyung-lyul's cube.
+-The moment of truth.
+
+2093
+01:52:25,989 --> 01:52:27,699
+Hyun Kyung-lyul, nine.
+
+2094
+01:52:27,783 --> 01:52:29,826
+Here is John Park's cube.
+
+2095
+01:52:34,373 --> 01:52:35,624
+John Park, zero.
+
+2096
+01:52:36,625 --> 01:52:38,752
+Hyun Kyung-lyul wins the round.
+
+2097
+01:52:38,835 --> 01:52:39,920
+You earn one point.
+
+2098
+01:52:40,003 --> 01:52:41,380
+Winning with a big number is bad news.
+
+2099
+01:52:43,048 --> 01:52:44,967
+There's hope for John.
+
+2100
+01:52:45,550 --> 01:52:46,969
+Round 5 will now begin.
+
+2101
+01:52:47,636 --> 01:52:50,222
+The first player for Round 5
+is Hyun Kyung-lyul.
+
+2102
+01:52:50,305 --> 01:52:52,015
+Please submit one cube vessel.
+
+2103
+01:52:52,099 --> 01:52:54,351
+Kyung-lyul just needs one more win.
+
+2104
+01:53:01,400 --> 01:53:03,610
+John Park, please submit one cube vessel.
+
+2105
+01:53:09,282 --> 01:53:10,826
+Both cube vessels have been submitted.
+
+2106
+01:53:11,910 --> 01:53:13,620
+Here is Hyun Kyung-lyul's cube.
+
+2107
+01:53:15,872 --> 01:53:16,873
+Hyun Kyung-lyul, three.
+
+2108
+01:53:19,001 --> 01:53:20,794
+Here is John Park's cube.
+
+2109
+01:53:22,546 --> 01:53:23,630
+John Park, seven.
+
+2110
+01:53:23,714 --> 01:53:25,590
+John Park wins the round.
+
+2111
+01:53:25,674 --> 01:53:27,050
+You earn one point.
+
+2112
+01:53:30,387 --> 01:53:31,596
+Round 6 will now begin.
+
+2113
+01:53:31,680 --> 01:53:33,682
+The first player is John Park.
+
+2114
+01:53:33,765 --> 01:53:35,517
+Please submit one cube vessel.
+
+2115
+01:53:40,147 --> 01:53:42,190
+So this is how it plays out.
+
+2116
+01:53:43,692 --> 01:53:46,403
+<i>When I countered his nine with a zero,</i>
+
+2117
+01:53:46,486 --> 01:53:49,906
+<i>based on the remaining cubes alone,</i>
+<i>I was in a very favorable position.</i>
+
+2118
+01:53:49,990 --> 01:53:53,410
+<i>But what I hadn't accounted for</i>
+<i>was the first player mechanic.</i>
+
+2119
+01:53:53,493 --> 01:53:57,122
+<i>I had the upper hand</i>
+<i>in the cube combinations,</i>
+
+2120
+01:53:57,205 --> 01:54:00,250
+<i>but the first player mechanic</i>
+<i>made things complicated.</i>
+
+2121
+01:54:00,333 --> 01:54:03,211
+The first player mechanic plays
+an important role in this game.
+
+2122
+01:54:03,295 --> 01:54:05,422
+<i>You need to let it go at the right time.</i>
+
+2123
+01:54:05,505 --> 01:54:09,092
+<i>With a strategic defeat,</i>
+<i>you can force your opponent to go first.</i>
+
+2124
+01:54:09,176 --> 01:54:12,387
+<i>If you play your hand after they have,</i>
+<i>you could win.</i>
+
+2125
+01:54:20,395 --> 01:54:22,731
+Hyun Kyung-lyul,
+please submit one cube vessel.
+
+2126
+01:54:25,817 --> 01:54:27,319
+Both cube vessels have been submitted.
+
+2127
+01:54:27,402 --> 01:54:29,654
+Here is John Park's cube.
+
+2128
+01:54:30,655 --> 01:54:31,865
+John Park, seven.
+
+2129
+01:54:31,948 --> 01:54:33,825
+Here is Hyun Kyung-lyul's cube.
+
+2130
+01:54:35,368 --> 01:54:36,912
+Hyun Kyung-lyul, eight.
+
+2131
+01:54:36,995 --> 01:54:37,954
+Wow.
+
+2132
+01:54:38,038 --> 01:54:39,498
+Hyun Kyung-lyul wins the round.
+
+2133
+01:54:39,581 --> 01:54:40,415
+It's you.
+
+2134
+01:54:40,499 --> 01:54:41,875
+You earn one point.
+
+2135
+01:54:46,296 --> 01:54:49,424
+<i>Hyun Kyung-lyul has achieved</i>
+<i>two consecutive wins.</i>
+
+2136
+01:54:49,925 --> 01:54:51,718
+<i>John Park and JAE JAE</i>
+
+2137
+01:54:51,802 --> 01:54:54,888
+<i>are the last two players</i>
+<i>to be eliminated from </i>The Devil's Plan.
+
+2138
+01:54:55,389 --> 01:54:59,142
+<i>John Park and JAE JAE, please leave.</i>
+
+2139
+01:55:00,644 --> 01:55:03,397
+-You did so well. What an experience.
+-Good job.
+
+2140
+01:55:03,480 --> 01:55:05,023
+-Good job.
+-You too.
+
+2141
+01:55:05,107 --> 01:55:07,317
+-His wish came true.
+-Yeah, it did.
+
+2142
+01:55:07,401 --> 01:55:09,027
+See you in twelve hours.
+
+2143
+01:55:09,111 --> 01:55:10,362
+Cheer me on tomorrow.
+
+2144
+01:55:10,445 --> 01:55:11,655
+-You got this.
+-Good luck.
+
+2145
+01:55:11,738 --> 01:55:12,572
+-Good luck.
+-I'll do my best.
+
+2146
+01:55:13,615 --> 01:55:15,659
+I feel like I learned so much here.
+
+2147
+01:55:16,535 --> 01:55:17,369
+Seriously.
+
+2148
+01:55:18,328 --> 01:55:22,290
+<i>At the beginning,</i>
+<i>I was a bit down and intimidated.</i>
+
+2149
+01:55:22,374 --> 01:55:25,335
+<i>I was busy complaining about</i>
+<i>how I didn't stand a chance.</i>
+
+2150
+01:55:25,419 --> 01:55:27,170
+<i>But after going through all the stages</i>
+
+2151
+01:55:27,254 --> 01:55:28,797
+<i>and experiencing some hardships,</i>
+
+2152
+01:55:28,880 --> 01:55:31,091
+I did my very best
+to make myself believe in myself.
+
+2153
+01:55:31,174 --> 01:55:35,345
+I kept telling myself,
+"I can do it. There's no reason I can't."
+
+2154
+01:55:35,429 --> 01:55:39,474
+<i>Endless self-affirmations</i>
+<i>really made it happen.</i>
+
+2155
+01:55:39,558 --> 01:55:42,185
+<i>The sense of achievement</i>
+<i>and the experience itself</i>
+
+2156
+01:55:42,269 --> 01:55:44,312
+were things I hadn't felt in a long time.
+
+2157
+01:55:44,396 --> 01:55:46,398
+<i>Everything that happened in the exile zone</i>
+
+2158
+01:55:46,481 --> 01:55:48,692
+<i>will remain</i>
+<i>an unforgettable chapter of my life.</i>
+
+2159
+01:55:48,775 --> 01:55:49,943
+Nothing is impossible.
+
+2160
+01:55:50,026 --> 01:55:53,113
+The only thing keeping you back
+is the word "impossible."
+
+2161
+01:55:53,196 --> 01:55:54,531
+That's what I learned here.
+
+2162
+01:56:00,078 --> 01:56:02,038
+There are so many memorable moments.
+
+2163
+01:56:02,122 --> 01:56:06,460
+First, the beginning of our journey
+to take down Dong-min's allies one by one.
+
+2164
+01:56:06,543 --> 01:56:09,045
+<i>I felt a little guilty,</i>
+<i>but it was also exhilarating.</i>
+
+2165
+01:56:09,129 --> 01:56:11,339
+<i>JAE JAE, XITSUH, and I losing our minds,</i>
+
+2166
+01:56:11,423 --> 01:56:13,550
+<i>crunching numbers</i>
+<i>during Tower of Equations.</i>
+
+2167
+01:56:13,633 --> 01:56:17,387
+<i>And the time I spent today</i>
+<i>going one-on-one with Dong-min.</i>
+
+2168
+01:56:17,470 --> 01:56:19,222
+I enjoyed every moment of it.
+
+2169
+01:56:19,306 --> 01:56:22,559
+<i>Every single second of the games</i>
+<i>brought me so much joy,</i>
+
+2170
+01:56:22,642 --> 01:56:25,145
+<i>and the prison matches were even more fun.</i>
+
+2171
+01:56:25,228 --> 01:56:28,523
+I feel like I gave it my all each time.
+
+2172
+01:56:30,775 --> 01:56:31,902
+So I'm proud of myself.
+
+2173
+01:56:33,528 --> 01:56:34,779
+This was so much fun.
+
+2174
+01:56:36,990 --> 01:56:40,160
+<i>Hyun Kyung-lyul</i>
+<i>will advance to the finals.</i>
+
+2175
+01:56:41,286 --> 01:56:42,454
+<i>Hyun Kyung-lyul,</i>
+
+2176
+01:56:42,537 --> 01:56:44,623
+<i>please make your way to the living area.</i>
+
+2177
+01:57:12,359 --> 01:57:14,736
+<i>On day one,</i>
+
+2178
+01:57:14,819 --> 01:57:18,490
+<i>when I met all the players of Season 3,</i>
+
+2179
+01:57:18,573 --> 01:57:21,952
+<i>I was truly impressed</i>
+<i>and realized I could go home any day.</i>
+
+2180
+01:57:22,035 --> 01:57:24,746
+<i>I spent that whole day</i>
+<i>trembling in my boots.</i>
+
+2181
+01:57:25,330 --> 01:57:28,375
+<i>But I've somehow</i>
+<i>managed to beat all of them,</i>
+
+2182
+01:57:28,458 --> 01:57:30,335
+and now I'm about to
+go up against Dong-min,
+
+2183
+01:57:30,418 --> 01:57:33,171
+<i>the god of survival shows.</i>
+
+2184
+01:57:33,255 --> 01:57:38,260
+I think I earned this chance
+through a mix of skill and luck.
+
+2185
+01:57:38,343 --> 01:57:40,595
+<i>I'm gonna make</i>
+<i>the most of this opportunity</i>
+
+2186
+01:57:40,679 --> 01:57:42,764
+<i>and take on the god.</i>
+
+2187
+01:57:43,348 --> 01:57:44,766
+-Well done.
+-I'm here.
+
+2188
+01:57:45,767 --> 01:57:47,018
+You did great.
+
+2189
+01:59:25,325 --> 01:59:30,330
+Subtitle translation by: Justin S. Kim
